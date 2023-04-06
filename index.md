@@ -22,7 +22,18 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - resources:
-      title: Featured Articles
-      button: View More
+  - infopic:
+      title: Ethos Digital Edition Issue 10
+      subtitle: DIGITAL ISSUE 10, MAR 2023
+      description: This digital edition of ETHOS features a spread of articles
+        exploring different ways to help our people manage change and volatility
+      button: Button Text
+      image: /images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg
+      alt: Ethos Digital Edition Issue 10
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
