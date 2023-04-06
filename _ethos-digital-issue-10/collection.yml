@@ -1,4 +1,5 @@
 collections:
   ethos-digital-issue-10:
     output: true
-    order: []
+    order:
+      - Ethos Digital Issue 10.md
