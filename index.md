@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Ethos
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/Landing_Banner_Images/banner_ethos_q4.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
