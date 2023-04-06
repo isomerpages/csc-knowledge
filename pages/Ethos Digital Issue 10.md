@@ -4,9 +4,11 @@ permalink: /ethosdigitalissue10/
 description: Editorial
 image: ""
 ---
-<h6>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</h6>
+	
 
-<br>
+	
+	<article>
+<h6>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</h6>
 
 <img src="images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg">
 
@@ -21,3 +23,5 @@ image: ""
 <p>In the face of sobering constraints and formidable challenges, and despite our differences in capability and conviction, there are still ways in which we can ensure that we leave no one behind, and continue to support one another as we make our way in an uncertain and volatile future.</p>
 
 <p>I wish you an insightful read.</p>
+		
+</article>
