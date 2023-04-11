@@ -1,0 +1,4 @@
+collections:
+  all-issues:
+    output: true
+    order: []
