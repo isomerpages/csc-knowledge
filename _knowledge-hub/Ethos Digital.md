@@ -60,3 +60,39 @@ image: ""
 	<a href="#">Digital Special Edition (PDF)</a>
 </div>
 <br><br>
+<div class="ethosdigital">
+<h3> Digital Issue 06</h3>
+<img src="images/Ethos_Images/Ethos_Digital_Issue_06/Ethos_Digital_Jun2020_Coverv2-1.jpg"><br>
+	<a href="#">Digital Issue 06</a><br>
+	<a href="#">Digital Issue 06 (PDF)</a>
+</div>
+<br><br>
+<div class="ethosdigital">
+<h3> Digital Issue 05</h3>
+<img src="images/Ethos_Images/Ethos_Digital_Issue_05/EthosDigital_IssueNov19_Cov.jpg"><br>
+	<a href="#">Digital Issue 05</a><br>
+	<a href="#">Digital Issue 05 (PDF)</a>
+</div>
+<br><br>
+<div class="ethosdigital">
+<h3> Digital Issue 04</h3>
+<img src="images/Ethos_Images/Ethos_Digital_Issue_04/Ethos_Digital_Cover_WithoutQR.jpg"><br>
+	<a href="#">Digital Issue 04</a><br>
+	<a href="#">Digital Issue 04 (PDF)</a>
+</div>
+<br><br>
+<div class="ethosdigital">
+<h3> Digital Issue 03</h3>
+<img src="images/Ethos_Images/Ethos_Digital_Issue_03/Ethosdigital_Issuesep18Cover.jpg"><br>
+	<a href="#">Digital Issue 03</a><br>
+	<a href="#">Digital Issue 03 (PDF)</a>
+</div>
+<br><br>
+<div class="ethosdigital">
+<h3> Digital Issue 02</h3>
+<img src="images/Ethos_Images/Ethos_Digital_Issue_02/EthosDigitalIssue2.jpg"><br>
+	<a href="#">Digital Issue 02</a><br>
+	<a href="#">Digital Issue 02 (PDF)</a>
+</div>
+<br><br>
+
