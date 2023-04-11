@@ -1,5 +1,5 @@
 collections:
-  all-issues:
+  knowledge-hub:
     output: true
     order:
       - Ethos Issue 01.md
