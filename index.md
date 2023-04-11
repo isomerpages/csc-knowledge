@@ -27,4 +27,8 @@ sections:
         volatility.
       url: "#"
       image: /images/Ethos_Images/Ethos_Digital_Issue_03/Editorial_02.jpg
+  - resources:
+      title: Other Series of Ethos
+      subtitle: Ethos
+      button: Click More
 ---
