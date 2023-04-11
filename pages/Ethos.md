@@ -15,12 +15,17 @@ description: ""
 	color: white;
 	}
 	
+	.container
+	{
+	margin: 0 auto;
+	padding:0;
+	}
+	
 	
 </style>
 
 <div class="container">
-	
-<table class="grid-container">	
+<table>	
 <tbody>
 	<tr>
 	<td>
