@@ -12,7 +12,13 @@ description: ""
 
 	.whatsnew
 	{
-	background-color:grey;
+	padding:20px;
+	background-color:lightgrey;
+	}
+	
+	.whatsnew h3
+	{
+	color: white;
 	}
 	
 	
@@ -33,13 +39,11 @@ description: ""
 	</td>
 	</tr>
 	</tbody>
-	
 </table>
-	
 	<div class="whatsnew">
 		<h3>What's new in this issue</h3>
+		<p>Featured article 1</p>
+		<p>Featured article 2</p>
+		<p>Featured article 3</p>
 	</div>
-	
-	
-	
 	</div>
