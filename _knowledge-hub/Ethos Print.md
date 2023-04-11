@@ -112,17 +112,17 @@ description: ""
 </div><br><br>
 
 <div class="ethosprint">
-<h3> Ethos Issue 23</h3>
-<img src="images/Ethos_Images/Ethos_Issue_23/Ethos_Issue23_Cover.jpg"><br>
-	<a href="#">Ethos Issue 23</a><br>
-	<a href="#">Ethos Issue 23 (PDF)</a>
+<h3> Ethos Issue 10</h3>
+<img src="images/Ethos_Images/Ethos_Issue_10/Ethos10.jpg"><br>
+	<a href="#">Ethos Issue 10</a><br>
+	<a href="#">Ethos Issue 10 (PDF)</a>
 </div><br><br>
 
 <div class="ethosprint">
-<h3> Ethos Issue 23</h3>
-<img src="images/Ethos_Images/Ethos_Issue_23/Ethos_Issue23_Cover.jpg"><br>
-	<a href="#">Ethos Issue 23</a><br>
-	<a href="#">Ethos Issue 23 (PDF)</a>
+<h3> Ethos Issue 09</h3>
+<img src="images/Ethos_Images/Ethos_Issue_09/Ethos09.jpg"><br>
+	<a href="#">Ethos Issue 09</a><br>
+	<a href="#">Ethos Issue 09 (PDF)</a>
 </div><br><br>
 
 <div class="ethosprint">
