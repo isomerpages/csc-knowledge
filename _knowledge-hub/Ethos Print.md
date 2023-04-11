@@ -90,10 +90,10 @@ description: ""
 </div>
 <br><br>
 <div class="ethosprint">
-<h3> Ethos Issue 23</h3>
+<h3> Ethos Issue 13</h3>
 <img src="images/Ethos_Images/Ethos_Issue_23/Ethos_Issue23_Cover.jpg"><br>
-	<a href="#">Ethos Issue 23</a><br>
-	<a href="#">Ethos Issue 23 (PDF)</a>
+	<a href="#">Ethos Issue 13</a><br>
+	<a href="#">Ethos Issue 13 (PDF)</a>
 </div>
 <br><br>
 <div class="ethosprint">
