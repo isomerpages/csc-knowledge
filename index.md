@@ -37,7 +37,8 @@ sections:
         volatility.
       url: "#"
       image: /images/Ethos_Images/Ethos_Digital_Issue_04/Editorial_02.jpg
-      alt: Ethos 10
+      alt: Ethos Digital Edition Issue 10
+      button: See more
   - infopic:
       title: Research & Resources
       subtitle: Knowledge Hub
