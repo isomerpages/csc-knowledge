@@ -95,4 +95,10 @@ image: ""
 	<a href="#">Digital Issue 02 (PDF)</a>
 </div>
 <br><br>
-
+<div class="ethosdigital">
+<h3> Digital Issue 01</h3>
+<img src="images/Ethos_Images/Ethos_Digital_Issue_01/EthosDigital01.jpg"><br>
+	<a href="#">Digital Issue 01</a><br>
+	<a href="#">Digital Issue 01 (PDF)</a>
+</div>
+<br><br>
