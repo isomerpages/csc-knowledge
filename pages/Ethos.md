@@ -4,7 +4,6 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-	
 	.container
 	{
 	margin:0 auto;
@@ -43,5 +42,4 @@ table {
 	</tbody>
 	
 </table>
-	
 	</div>
