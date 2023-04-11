@@ -8,20 +8,13 @@ description: ""
 	{
 	margin:0 auto;
 	padding:0;
-	width: 100%;
 	}
 	
-table {
-	border: blue 1px solid;
-	padding: 100px;
-	align: center;
+table
+{
+
 	}
 	
-	img
-	{
-	margin: 0px;
-	padding: 0px;
-	}
 	
 </style>
 
