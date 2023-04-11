@@ -36,8 +36,8 @@ description: ""
 <div class="ethosprint">
 <h3> Ethos Issue 21</h3>
 <img src="images/Ethos_Images/Ethos_Issue_21/Cover_Ethos21.jpg"><br>
-	<a href="#">Ethos Issue 23</a><br>
-	<a href="#">Ethos Issue 23 (PDF)</a>
+	<a href="#">Ethos Issue 21</a><br>
+	<a href="#">Ethos Issue 21 (PDF)</a>
 </div>
 <br><br>
 <div class="ethosprint">
