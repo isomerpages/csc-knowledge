@@ -97,18 +97,18 @@ description: ""
 </div>
 <br><br>
 <div class="ethosprint">
-<h3> Ethos Issue 23</h3>
-<img src="images/Ethos_Images/Ethos_Issue_23/Ethos_Issue23_Cover.jpg"><br>
-	<a href="#">Ethos Issue 23</a><br>
-	<a href="#">Ethos Issue 23 (PDF)</a>
+<h3> Ethos Issue 12</h3>
+<img src="images/Ethos_Images/Outside_Images/Ethos_Issue12_Cover.jpg"><br>
+	<a href="#">Ethos Issue 12</a><br>
+	<a href="#">Ethos Issue 12 (PDF)</a>
 </div>
 <br><br>
 
 <div class="ethosprint">
-<h3> Ethos Issue 23</h3>
-<img src="images/Ethos_Images/Ethos_Issue_23/Ethos_Issue23_Cover.jpg"><br>
-	<a href="#">Ethos Issue 23</a><br>
-	<a href="#">Ethos Issue 23 (PDF)</a>
+<h3> Ethos Issue 11</h3>
+<img src="images/Ethos_Images/Ethos_Issue_11/Ethos_Issue_11_Cover.jpg"><br>
+	<a href="#">Ethos Issue 11</a><br>
+	<a href="#">Ethos Issue 11 (PDF)</a>
 </div><br><br>
 
 <div class="ethosprint">
