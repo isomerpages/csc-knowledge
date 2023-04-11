@@ -37,6 +37,7 @@ sections:
         volatility.
       url: "#"
       image: /images/Ethos_Images/Ethos_Digital_Issue_03/Editorial_02.jpg
+      alt: Img2
   - infopic:
       title: Research & Resources
       subtitle: Knowledge Hub
