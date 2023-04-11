@@ -1,7 +1,7 @@
 logo: /images/csc-desktop.svg
 links:
   - title: Ethos
-    url: /ethos/
+    url: /ethos
     sublinks:
       - title: Print
         url: /ethosprint/
