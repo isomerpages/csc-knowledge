@@ -10,6 +10,10 @@ description: ""
 	padding:0;
 	}
 
+	.whatsnew
+	{
+	background-color:grey;
+	}
 	
 	
 </style>
@@ -32,12 +36,9 @@ description: ""
 	
 </table>
 	
-	
-	
-	
-	
-	
-	
+	<div class="whatsnew">
+		<h3>What's new in this issue</h3>
+	</div>
 	
 	
 	
