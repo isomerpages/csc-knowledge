@@ -1,7 +1,12 @@
 logo: /images/csc-desktop.svg
 links:
   - title: Ethos
-    resource_room: true
+    url: /Ethos
+    sublinks:
+      - title: Print
+        url: /ethosprint/
+      - title: Digital
+        url: /ethosdigital/
   - title: Books
     url: /books/
   - title: Research & Resources
