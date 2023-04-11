@@ -1,15 +1,15 @@
 logo: /images/csc-desktop.svg
 links:
   - title: Ethos
-    url: /ethos
+    url: /ethos/
     sublinks:
       - title: Print
         url: /ethosprint/
       - title: Digital
         url: /ethosdigital/
   - title: Books
-    url: /books
+    url: /books/
   - title: Research & Resources
-    url: /researchresources
+    url: /research-resources/
   - title: Contact Us
-    url: /contact-us
+    url: /contact-us/
