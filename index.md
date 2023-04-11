@@ -36,8 +36,8 @@ sections:
         exploring different ways to help our people manage change and
         volatility.
       url: "#"
-      image: /images/Ethos_Images/Ethos_Digital_Issue_03/Editorial_02.jpg
-      alt: Img2
+      image: /images/Ethos_Images/Ethos_Digital_Issue_04/Editorial_02.jpg
+      alt: Ethos 10
   - infopic:
       title: Research & Resources
       subtitle: Knowledge Hub
