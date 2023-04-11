@@ -4,12 +4,6 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-	.container
-	{
-	margin:0 auto;
-	padding:0;
-	}
-
 	.whatsnew
 	{
 	padding:20px;
