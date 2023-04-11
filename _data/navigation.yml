@@ -3,10 +3,8 @@ links:
   - title: Ethos
     url: /ethos/
   - title: Books
-    url: /example-page/
+    url: /books/
   - title: Research & Resources
-    url: /permalink
-  - title: Menu Title
-    url: /permalink
+    url: /research_resources
   - title: Contact Us
     url: /permalink
