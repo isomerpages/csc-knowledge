@@ -1,4 +1,5 @@
 collections:
   all-issues:
     output: true
-    order: []
+    order:
+      - Ethos Issue 01.md
