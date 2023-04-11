@@ -1,8 +1,12 @@
 logo: /images/csc-desktop.svg
 links:
-  - title: Knowledge hub
+  - title: Ethos
     url: /contact-us/
   - title: Books
     url: /example-page/
   - title: Research & Resources
-    collection: example-folder
+    url: /permalink
+  - title: Menu Title
+    url: /permalink
+  - title: Contact Us
+    url: /permalink
