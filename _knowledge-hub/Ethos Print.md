@@ -3,8 +3,5 @@ title: Ethos Print
 permalink: /knowledge-hub/ethosprint/
 description: ""
 ---
-Issue 23 
-<br>
-Issue 22
-<br>
-Issue 21
+<img src="images/Ethos_Images/Ethos_Issue_01/ETHOS01.jpg)">
+
