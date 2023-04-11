@@ -9,11 +9,7 @@ description: ""
 	margin:0 auto;
 	padding:0;
 	}
-	
-table
-{
 
-	}
 	
 	
 </style>
@@ -35,4 +31,14 @@ table
 	</tbody>
 	
 </table>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	</div>
