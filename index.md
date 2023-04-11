@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Knowledge
+      title: Knowledge Hub
       subtitle: Explore diverse perspectives in public policy and governance.
       background: /images/Landing_Banner_Images/banner_ethos_q4.jpg
       key_highlights:
