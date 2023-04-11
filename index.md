@@ -10,6 +10,16 @@ sections:
       title: Knowledge
       subtitle: Explore diverse perspectives in public policy and governance.
       background: /images/Landing_Banner_Images/banner_ethos_q4.jpg
+      key_highlights:
+        - title: Ethos
+          description: ""
+          url: ""
+        - title: Books
+          description: ""
+          url: ""
+        - title: Research and Resources
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Ethos Digital Edition Issue 10
       subtitle: DIGITAL ISSUE 10, MAR 2023
