@@ -37,6 +37,13 @@ sections:
         volatility.
       url: "#"
       image: /images/Ethos_Images/Ethos_Digital_Issue_03/Editorial_02.jpg
+  - infopic:
+      title: Research & Resources
+      subtitle: Knowledge Hub
+      description: Infopic description
+      button: Button Text
+      image: /images/Ethos_Images/Ethos_Issue_16/Engaging_With_Stakeholders_For_Banner.png
+      alt: Image alt text
   - resources:
       title: Other Series of Ethos
       subtitle: Ethos
