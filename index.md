@@ -18,7 +18,7 @@ sections:
           description: ""
           url: ""
         - title: Research and Resources
-          description: Key Highlight description
+          description: ""
           url: ""
   - infopic:
       title: Ethos Digital Edition Issue 10
