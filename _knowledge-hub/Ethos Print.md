@@ -147,24 +147,24 @@ description: ""
 </div><br><br>
 
 <div class="ethosprint">
-<h3> Ethos Issue 23</h3>
-<img src="images/Ethos_Images/Ethos_Issue_23/Ethos_Issue23_Cover.jpg"><br>
-	<a href="#">Ethos Issue 23</a><br>
-	<a href="#">Ethos Issue 23 (PDF)</a>
+<h3> Ethos Issue 05</h3>
+<img src="images/Ethos_Images/Ethos_Issue_05/Ethos05.jpg"><br>
+	<a href="#">Ethos Issue 05</a><br>
+	<a href="#">Ethos Issue 05 (PDF)</a>
 </div><br><br>
 
 <div class="ethosprint">
-<h3> Ethos Issue 23</h3>
-<img src="images/Ethos_Images/Ethos_Issue_23/Ethos_Issue23_Cover.jpg"><br>
-	<a href="#">Ethos Issue 23</a><br>
-	<a href="#">Ethos Issue 23 (PDF)</a>
+<h3> Ethos Issue 04</h3>
+<img src="images/Ethos_Images/Ethos_Issue_04/Ethos04.jpg"><br>
+	<a href="#">Ethos Issue 04</a><br>
+	<a href="#">Ethos Issue 04 (PDF)</a>
 </div><br><br>
 
 <div class="ethosprint">
-<h3> Ethos Issue 23</h3>
-<img src="images/Ethos_Images/Ethos_Issue_23/Ethos_Issue23_Cover.jpg"><br>
-	<a href="#">Ethos Issue 23</a><br>
-	<a href="#">Ethos Issue 23 (PDF)</a>
+<h3> Ethos Issue 03</h3>
+<img src="images/Ethos_Images/Ethos_Issue_03/ETHOS03.jpg"><br>
+	<a href="#">Ethos Issue 03</a><br>
+	<a href="#">Ethos Issue 03 (PDF)</a>
 </div><br><br>
 
 <div class="ethosprint">
