@@ -14,17 +14,12 @@ description: ""
 	{
 	color: white;
 	}
-	
-	.container
-	{
-	margin: 0 auto;
-	padding:0;
-	}
+
 	
 	
 </style>
 
-<div class="container">
+
 <table>	
 <tbody>
 	<tr>
@@ -48,5 +43,4 @@ description: ""
 	</div><br><br>
 	<div class="pastissues">
 		<h3>What's new in this issue</h3>
-	</div>
 	</div>
