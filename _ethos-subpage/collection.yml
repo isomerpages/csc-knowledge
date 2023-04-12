@@ -1,5 +1,5 @@
 collections:
-  ethos:
+  ethos-subpage:
     output: true
     order:
       - Ethos Print.md
