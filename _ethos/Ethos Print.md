@@ -4,9 +4,14 @@ permalink: /ethosprint/
 description: ""
 ---
 <style>
+	.ethosprint a
+	{
+	color:black;
+	}
 	.ethosprint img
 	{
-	width:200px;
+	width:250px;
+	margin-top:30px;
 	}
 	
 	.ethosprint h3
@@ -15,9 +20,10 @@ description: ""
 	border-bottom: 2px solid gray; 
 	}
 	
-	.ethosprint a
+	.ethosprint 
 	{
-	color:black
+	color:black;
+	text-align:center;
 	}
 	
 
@@ -25,9 +31,10 @@ description: ""
 </style>
 	
 <div class="ethosprint">
+	
 <h3> Ethos Issue 24</h3><img src="/images/Ethos_Images/Ethos_Issue_24/Ethos_Aug2022_Cover.jpg"><br>
 	<a href="#">Ethos Issue 24</a><br>
-	<a href="#">Ethos Issue 24 (PDF)</a>
+	<a href="#">Ethos Issue 24 (PDF)</a><p></p>
 </div>
 <br><br>
 <div class="ethosprint">
@@ -213,4 +220,5 @@ description: ""
 <img src="/images/Ethos_Images/Ethos_Issue_01/ETHOS01.jpg"><br>
 	<a href="#">Ethos Issue 01</a><br>
 	<a href="#">Ethos Issue 01 (PDF)</a>
+	
 </div>
