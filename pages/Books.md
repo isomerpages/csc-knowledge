@@ -4,73 +4,72 @@ permalink: /books/
 description: ""
 ---
 <style>
-.booktitle
+.article1 p,h3
 	{
-	border-bottom: 2px solid blue;
+	width:60%;
 	}
-.booktitle p
-	{
-	width: 200px;
-	}
-	
-
 	
 </style>
 
-<div class="booktitle">
+
 <table>
 	<tbody>
-	<tr>
-	<td>
-<img style="" src="images/Ethos_Images/Ethos_World_Cities_SummitIssue/Ethos_WCS.jpg">
-	</td>
-		<td>
-		<h3>Book Title 1</h3>
-			<p> Lorem ipsum dolorsit amet, consecteturadipiscing elit. Crasefficitur lacus velfringillaplacerat.Curabitureleifendsagittistortor,arutrumliberopretiumid. Proinatdiam inenimviverra vestibulum.</p>
+		
+<tr>
+<td>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_07/2_Bookcovers_V3.jpg">
+		
+</td>
+	
+<td class="article1">
+<h3>Book Title 1</h3>
+<p> Lorem ipsum dolorsit amet, consecteturadipiscing elit. Crasefficitur lacus velfringillaplacerat.Curabitureleifendsagittistortor,arutrumliberopretiumid. Proinatdiam inenimviverra vestibulum.</p>
 <a href="#">Read more</a>
 		</td>
-	</tr>
-	</tbody>
-	</table>
-</div>
+		
+</tr>
+</tbody>
+</table>
+	
+
+
 <br><br>
 
-<div class="booktitle">
 <table>
 	<tbody>
 	<tr>
-	<td>
-<img style="" src="images/Ethos_Images/Ethos_World_Cities_SummitIssue/Ethos_WCS.jpg">
+<td>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_07/2_Bookcovers_V3.jpg">
 	</td>
-		<td>
+		<td class="article1">
 		<h3>Book Title 2</h3>
 			<p> Lorem ipsum dolorsit amet, consecteturadipiscing elit. Crasefficitur lacus velfringillaplacerat.Curabitureleifendsagittistortor,arutrumliberopretiumid. Proinatdiam inenimviverra vestibulum.</p>
 <a href="#">Read more</a>
 		</td>
-	</tr>
-	</tbody>
-	</table>
-</div>
+		
+</tr>
+</tbody>
+</table>
+
 <br><br>
 
-<div class="booktitle">
 <table>
-	<tbody>
-	<tr>
-	<td>
-<img style="" src="images/Ethos_Images/Ethos_World_Cities_SummitIssue/Ethos_WCS.jpg">
+<tbody>
+<tr>
+		
+<td>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_07/2_Bookcovers_V3.jpg">
 	</td>
-		<td>
+<td class="article1">
 		<h3>Book Title 3</h3>
-			<p> Lorem ipsum dolorsit amet, consecteturadipiscing elit. Crasefficitur lacus velfringillaplacerat.Curabitureleifendsagittistortor,arutrumliberopretiumid. Proinatdiam inenimviverra vestibulum.</p>
+<p> Lorem ipsum dolorsit amet, consecteturadipiscing elit. Crasefficitur lacus velfringillaplacerat.Curabitureleifendsagittistortor,arutrumliberopretiumid. Proinatdiam inenimviverra vestibulum.</p>
 <a href="#">Read more</a>
 		</td>
-	</tr>
-	</tbody>
-	</table>
-</div><br>
+		
+</tr>
+</tbody>
+</table>
+<br>
 
 <div id="formore">
-	<h3>For more</h3>
-	<p>rfrejgjonetogjirtojgrti</p>
 	</div>
