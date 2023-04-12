@@ -4,7 +4,7 @@ permalink: /ethosprint/
 description: ""
 ---
 <style>
-	.ethosprint
+	.ethosprint 
 	{
 	text-align:center;
 	}
