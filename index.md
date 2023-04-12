@@ -28,7 +28,7 @@ sections:
       button: Get The Issue
       image: /images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg
       alt: Ethos Digital Edition Issue 10
-      url: "#"
+      url: /ethos/
   - infopic:
       title: Editorial Digital Issue 10
       subtitle: Editorial
