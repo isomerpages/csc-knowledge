@@ -12,7 +12,7 @@ description: ""
 	
 #article
 	{
-	width:40%;
+	width:60%;
 	}
 	
 .whatsnew
