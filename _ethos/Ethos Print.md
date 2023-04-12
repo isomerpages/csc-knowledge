@@ -4,10 +4,15 @@ permalink: /ethosprint/
 description: ""
 ---
 <style>
+	.ethosprint
+	{
+	text-align:center;
+	}
 	.ethosprint a
 	{
 	color:black;
 	}
+	
 	.ethosprint img
 	{
 	width:250px;
@@ -20,15 +25,8 @@ description: ""
 	border-bottom: 2px solid gray; 
 	}
 	
-	.ethosprint 
-	{
-	color:black;
-	text-align:center;
-	}
-	
-
-	
 </style>
+	
 	
 <div class="ethosprint">
 	
