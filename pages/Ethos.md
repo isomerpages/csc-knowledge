@@ -34,7 +34,7 @@ description: ""
 <tbody>
 <tr>
 	
-<td id="img1">
+<td>
 
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg">
 
