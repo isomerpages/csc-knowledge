@@ -17,7 +17,8 @@ description: ""
 	
 .whatsnew
 	{
-	padding:30px;
+	margin-top:40px;
+	padding:20px;
 	background-color:lightgrey;
 	}
 	
