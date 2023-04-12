@@ -5,11 +5,8 @@ description: ""
 ---
 <style>
 	
-img
-	{
-	}
 	
-#article1 
+#article1
 {
 	width:40%;
 }
