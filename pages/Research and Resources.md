@@ -15,13 +15,14 @@ summary {
     font-weight: bold;
     margin: -.75em -.75em 0;
     padding: .75em;
-    background-color: #5f75a4;
+    background-color: #0096ff;
     color: #fff;
 }
 
 details[open] {
     padding: .75em;
 	border-bottom: 1px solid #d4d4d4;
+	background-color: #add8e6;
 }
 
 details[open] summary {
@@ -31,4 +32,14 @@ details[open] summary {
 	
 	</style>
 
-<details> <summary>Accordion One Body Content 1 </summary></details> <details> <summary>Accordion Two</summary> Body Content 2 </details>
+<details>
+	<ul>
+		<li> Research Paper 1 </li>
+		<li> Research Paper 2 </li>
+		<li> Research Paper 3 </li>
+	</ul>
+	<summary>RESEARCH PIECES </summary></details> 
+
+<details> <summary>TOOLKITS AND JOB AIDS</summary> Body Content 2 </details>
+
+<details> <summary>EVENT MATERIALS</summary> Body Content 2 </details>
