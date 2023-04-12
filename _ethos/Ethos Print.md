@@ -13,9 +13,7 @@ description: ""
 	</style>
 	
 <div class="ethosprint">
-<h3> Ethos Issue 24</h3>
-	
-<img src="images/Ethos_Images/Ethos_Issue_24/Ethos_Aug2022_Cover.jpg"><br>
+<h3> Ethos Issue 24</h3><img src="images/Ethos_Images/Ethos_Issue_24/Ethos_Aug2022_Cover.jpg"><br>
 	<a href="#">Ethos Issue 24</a><br>
 	<a href="#">Ethos Issue 24 (PDF)</a>
 </div>
