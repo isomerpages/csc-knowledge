@@ -4,11 +4,23 @@ permalink: /ethosprint/
 description: ""
 ---
 <style>
+	.ethosprint img
+	{
+	width:200px;
+	}
+	
 	.ethosprint h3
 	{
 	color: maroon;
 	border-bottom: 2px solid gray; 
 	}
+	
+	.ethosprint a
+	{
+	color:black
+	}
+	
+
 	
 </style>
 	
