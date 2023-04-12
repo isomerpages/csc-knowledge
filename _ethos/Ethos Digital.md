@@ -5,6 +5,11 @@ description: ""
 image: ""
 ---
 <style>
+	.ethosdigital
+	{
+	 color:black;
+	text-align:center;
+	}
 	.ethosdigital a
 	{
 	color:black;
@@ -12,7 +17,8 @@ image: ""
 	
 	.ethosdigital img
 	{
-	width:200px;
+	width:250px;
+	margin-top:30px;
 	}
 	
 	
