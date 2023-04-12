@@ -4,31 +4,32 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-	.whatsnew
+	
+td 
 	{
-	padding:20px;
+	width:50%;
+	}
+	
+.whatsnew
+	{
+	padding:30px;
 	background-color:lightgrey;
 	}
 	
-	.whatsnew h3
+.whatsnew h3
 	{
 	color:white;
-	}
 	
-td
-	{
-	column-width:700px;
-	}
-	</style>
+</style>
 
 <table>	
 <tbody>
 <tr>
 <td>
+<img src="images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg">
+</td>
 
-<img src="images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg"></td>
-<td>
-	
+<td>	
 <h4>Latest Issue Digital</h4>
 	<p>22 March 2023</p>
 	<p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
