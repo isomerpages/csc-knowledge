@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: Ethos
           description: ""
-          url: ""
+          url: /ethos/
         - title: Books
           description: ""
-          url: ""
+          url: /books/
         - title: Research and Resources
           description: ""
           url: ""
