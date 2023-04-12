@@ -52,6 +52,7 @@ description: ""
 </tbody>
 </table>
 
+
 <div class="whatsnew">
 		<h3>What's new in this issue</h3>
 		<p>Featured article 1</p>
