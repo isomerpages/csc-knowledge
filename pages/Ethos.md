@@ -38,6 +38,7 @@ description: ""
 
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg">
 
+	
 </td>
 
 <td id="article">	
