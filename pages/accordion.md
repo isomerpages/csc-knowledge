@@ -3,7 +3,7 @@ title: accordion
 permalink: /accordion-example/
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Simple</label>
@@ -26,7 +26,7 @@ description: ""
     <div>
       <p>
         This is all going
-        to become just one line\\n even though there are multiple lines
+        to become just one linen even though there are multiple lines
       </p>
     </div>
   </li>
