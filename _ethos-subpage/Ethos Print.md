@@ -22,7 +22,6 @@ description: ""
 	.ethosprint h3
 	{
 	color: maroon;
-	border-bottom: 2px solid gray; 
 	}
 	
 </style>
