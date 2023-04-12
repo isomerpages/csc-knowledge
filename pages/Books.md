@@ -13,6 +13,8 @@ description: ""
 	width: 200px;
 	}
 	
+
+	
 </style>
 
 <div class="booktitle">
@@ -66,5 +68,9 @@ description: ""
 	</tr>
 	</tbody>
 	</table>
-</div>		
-																																				
+</div><br>
+
+<div id="formore">
+	<h3>For more</h3>
+	<p>rfrejgjonetogjirtojgrti</p>
+	</div>
