@@ -18,7 +18,7 @@ description: ""
 
 #article3
 {
-
+   width:40%;
 }	
 	
 </style>
