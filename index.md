@@ -19,7 +19,7 @@ sections:
           url: /books/
         - title: Research and Resources
           description: ""
-          url: ""
+          url: /research-resources/
   - infopic:
       title: Ethos Digital Edition Issue 10
       subtitle: DIGITAL ISSUE 10, MAR 2023
