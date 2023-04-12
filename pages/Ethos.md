@@ -5,6 +5,11 @@ description: ""
 ---
 <style>
 	
+.pastissues
+	{
+	padding:20px;
+	}
+	
 #article
 	{
 	width:40%;
@@ -19,6 +24,8 @@ description: ""
 .whatsnew h3
 	{
 	color:white;
+	
+
 	
 </style>
 
@@ -47,7 +54,8 @@ description: ""
 		<p>Featured article 1</p>
 		<p>Featured article 2</p>
 		<p>Featured article 3</p>
-	</div><br><br>
-	<div class="pastissues">
-		<h3>What's new in this issue</h3>
 	</div>
+	
+<div class="pastissues">
+	<h3>What's new in this issue</h3>
+</div>
