@@ -4,9 +4,9 @@ links:
     url: /ethos/
     sublinks:
       - title: Print
-        url: /ethos/ethosprint/
+        url: /ethosprint/
       - title: Digital
-        url: /ethos/ethosdigital/
+        url: /ethosdigital/
   - title: Books
     url: /books/
   - title: Research & Resources
