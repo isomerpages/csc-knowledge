@@ -5,6 +5,17 @@ description: ""
 image: ""
 ---
 <style>
+	.ethosdigital a
+	{
+	color:black;
+	}
+	
+	.ethosdigital img
+	{
+	width:200px;
+	}
+	
+	
 	.ethosdigital h3
 	{
 	color: maroon;
@@ -48,9 +59,8 @@ image: ""
 <div class="ethosdigital">
 <h3>Digital Special Edition, Mar 2021 Update</h3>
 <img src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Ethos_Digital_Mar2021SpecialEd_Cover_compressed.jpg"><br>
-	
 	<a href="#">Digital Special Edition, Mar 2021</a><br>
-	<a href="#">Digital Special Edition, Mar 2021 (PDF)</a>
+<a href="#">Digital Special Edition, Mar 2021 (PDF)</a>
 </div>
 <br><br>
 
