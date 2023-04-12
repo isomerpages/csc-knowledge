@@ -36,7 +36,7 @@ description: ""
 	
 <td id="img1">
 
-<img src="images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg">
 
 </td>
 
