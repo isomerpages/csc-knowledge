@@ -13,7 +13,11 @@ description: ""
 	{
 	border-bottom:2px solid #7CB9E8;
 	}
-	
+
+.secondrow
+	{
+	border-bottom:2px solid #7CB9E8;
+	}
 
 	
 </style>
@@ -45,6 +49,8 @@ description: ""
 <a href="#">Read More</a>	
 </td>	
 </tr>
+	
+	
 <tr class="thirdrow">	
 <td class="books">	
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_01/The_New_Synthesis_Of_Public_Administration_Fieldbook.jpg">	
