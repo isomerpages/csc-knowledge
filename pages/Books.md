@@ -18,8 +18,7 @@ description: ""
 
 <table>
 <tbody>
-<tr>
-	
+<tr>	
 <td class="books">	
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_01/The_New_Synthesis_Of_Public_Administration_Fieldbook.jpg">	
 </td>
