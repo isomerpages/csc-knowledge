@@ -37,13 +37,13 @@ description: ""
 <div class="grid-container">
 	
  <div id="ethos23">
-<h3> Ethos Issue 23</h3><img src="/images/Ethos_Images/Ethos_Issue_24/Ethos_Aug2022_Cover.jpg"><br>
+<h4> Ethos Issue 23</h4><img src="/images/Ethos_Images/Ethos_Issue_23/Ethos_Issue23_Cover.jpg"><br>
 	<a href="#"><p>Ethos Issue 24</p></a>
 	<a href="#"><p>Ethos Issue 24 (PDF)</p></a>
 </div>
 
 <div id="ethos22">
-<h3> Ethos Issue 22</h3><img src="/images/Ethos_Images/Ethos_Issue_24/Ethos_Aug2022_Cover.jpg"><br>
+<h4> Ethos Issue 22</h4><img src="/images/Ethos_Images/Ethos_Issue_24/Ethos_Aug2022_Cover.jpg"><br>
 	<a href="#"><p>Ethos Issue 24</p></a>
 	<a href="#"><p>Ethos Issue 24</p> (PDF)</a>
 </div>	
