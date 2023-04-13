@@ -6,10 +6,10 @@ description: ""
 <style>
 #ethos24 img
 {
- width:120px;
+ width:300px;
 }
 	
-#ethos24 P
+#ethos24 p
 {
  margin-left:110px;
 }	
@@ -45,7 +45,8 @@ description: ""
 <h3>2021</h3>
 	
 <div id="ethos23">
-<h4> Ethos Issue 23</h4><img src="/images/Ethos_Images/Ethos_Issue_23/Ethos_Issue23_Cover.jpg"><br>
+<h4> Ethos Issue 23</h4>
+<img src="/images/Ethos_Images/Ethos_Issue_23/Ethos_Issue23_Cover.jpg"><br>
 	<a href="#"><p>Ethos Issue 23</p></a>
 	<a href="#"><p>Ethos Issue 23 (PDF)</p></a>
 </div>
