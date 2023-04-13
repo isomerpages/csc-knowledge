@@ -19,6 +19,15 @@ description: ""
 .secondrow
 	{
 	border-bottom:2px solid #7CB9E8;
+	margin-bottom: 50px;
+	padding-bottom:10px;
+	}
+
+.thirdrow
+	{
+	border-bottom:2px solid #7CB9E8;
+	margin-bottom: 50px;
+	padding-bottom:10px;
 	}
 
 	
