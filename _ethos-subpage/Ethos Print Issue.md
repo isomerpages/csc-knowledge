@@ -9,6 +9,11 @@ description: ""
  width:120px;
 }
 	
+#ethos24 P
+{
+ margin-left:110px;
+}	
+	
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
@@ -23,12 +28,13 @@ description: ""
 	
 </style>
 
+
 <div id="ethos24">
-<h3>2022</h3>
 <h4> Ethos Issue 24</h4><img src="/images/Ethos_Images/Ethos_Issue_24/Ethos_Aug2022_Cover.jpg"><br>
 	<a href="#"><p>Ethos Issue 24</p></a>
 	<a href="#"><p>Ethos Issue 24 (PDF)</p></a>
 </div>
+
 
 
 
