@@ -8,7 +8,6 @@ image: ""
 	.ethosdigital
 	{
 	 color:black;
-	text-align:center;
 	}
 	.ethosdigital a
 	{
@@ -18,13 +17,14 @@ image: ""
 	.ethosdigital img
 	{
 	width:250px;
-	margin-top:30px;
+
 	}
 	
 	
 	.ethosdigital h3
 	{
 	color: maroon;
+	border-bottom: 1px solid maroon;
 	}
 	
 	</style>
