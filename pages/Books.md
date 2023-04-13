@@ -6,7 +6,7 @@ description: ""
 <style>
 	.books
 	{
-	width:40%;
+	width:30%;
 	}
 	
 	.firstrow
