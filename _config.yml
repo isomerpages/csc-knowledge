@@ -2,8 +2,8 @@ title: Title
 url: https://www.open.gov.sg
 favicon: /images/csc-desktop.svg
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#f68b14"
+  secondary-color: "#9f2943"
   media-colors:
     - title: media-color-one
       color: "#49759a"
