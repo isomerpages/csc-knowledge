@@ -2,6 +2,6 @@ collections:
   ethos-subpage:
     output: true
     order:
-      - Ethos Print Issue.md
+      - Ethos New Issue.md
       - Ethos Print.md
       - Ethos Digital.md
