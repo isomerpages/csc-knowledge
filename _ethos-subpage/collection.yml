@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Old Issue.md
-      - Ethos New Issue.md
+      - New Issue.md
       - Ethos Print.md
       - Ethos Digital.md
