@@ -38,10 +38,9 @@ description: ""
 
 
 
+<br>
 
-
-<div class="grid-container">
-
+<div class="grid-container"> 
 <h3>2021</h3>
 	
 <div id="ethos23">
