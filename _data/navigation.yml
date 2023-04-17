@@ -3,8 +3,8 @@ links:
   - title: Ethos
     url: /ethos/
     sublinks:
-      - title: Print
-        url: /ethosprint
+      - title: New Issue
+        url: /ethos-subpage/newissue/
       - title: Digital
         url: /ethosdigital
   - title: Books
