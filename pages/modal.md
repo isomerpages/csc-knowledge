@@ -4,6 +4,12 @@ permalink: /permalink/
 description: ""
 ---
 <style>
+	
+	#modal-close a
+	{
+		font-size:20px;
+	}
+	
 .modal-window {
       position: fixed;
       background-color: rgba(200, 200, 200, 0.75);
@@ -67,7 +73,7 @@ description: ""
 <div class="modal-window" id="open-modal">
 
    <div>
-        <a class="modal-close" title="Close" href="#modal-close"></a>
+        <a class="modal-close" title="Close" href="#modal-close">×</a>
         <h1>CSS Modal</h1>
         <div>Ttfjyfjyghkjgb</div>
       </div>
