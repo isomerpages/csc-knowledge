@@ -76,7 +76,7 @@ description: ""
 
    <div>
         <a class="modal-close" title="Close" href="#modal-close"><span class="close">×</span></a>
-        <h1>CSS Modal</h1>
+        <h1>Modal</h1>
         <div>Ttfjyfjyghkjgb</div>
       </div>
     </div>
