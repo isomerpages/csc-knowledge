@@ -2,7 +2,7 @@ collections:
   ethos-subpage:
     output: true
     order:
-      - Old Issue/Ethos Issue 23.md
+      - Old Issue/Ethos Print Issue 23.md
       - Old Issue/Ethos Print Issue 24.md
       - Old Issue/.keep
       - New Issue.md
