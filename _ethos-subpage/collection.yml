@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Old Issue/2022.md
-      - Old Issue/Ethos Print Issue 24.md
+      - Old Issue/2021.md
       - Old Issue/.keep
       - New Issue.md
       - Ethos Print.md
