@@ -2,13 +2,13 @@ collections:
   ethos-subpage:
     output: true
     order:
-      - Old Issue/2017.md
       - Old Issue/.keep
       - Old Issue/2022.md
       - Old Issue/2021.md
       - Old Issue/2020.md
       - Old Issue/2019.md
       - Old Issue/2018.md
+      - Old Issue/2017.md
       - New Issue.md
       - Ethos Print.md
       - Ethos Digital.md
