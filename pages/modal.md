@@ -14,7 +14,6 @@ description: ""
       z-index: 999;
       opacity: 0;
       pointer-events: none;
-      
     }
     
 .modal-window:target {
@@ -23,10 +22,10 @@ description: ""
     }
     
 .modal-window > div {
-      width: 80%;
-			height: 60%;
+      width: 100%;
+			height: 100%;
       position: relative;
-      margin: 10% auto;
+      margin: auto auto;
       padding: 2rem;
       background: #fff;
       color: #444;
