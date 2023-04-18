@@ -9,6 +9,7 @@ description: ""
 	{
       font-size: 45px;
       font-weight: 600;
+	    margin-right:20px;
     }
 
 	
