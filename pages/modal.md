@@ -5,10 +5,7 @@ description: ""
 ---
 <style>
 	
-	#modal-close a
-	{
-		font-size:20px;
-	}
+
 	
 .modal-window {
       position: fixed;
@@ -73,8 +70,8 @@ description: ""
 <div class="modal-window" id="open-modal">
 
    <div>
-        <a class="modal-close" title="Close" href="#modal-close">×</a>
-        <h1>CSS Modal</h1>
+        <a class="modal-close" title="Close" href="#modal-close"><p>Close</p></a><p><a class="modal-close" title="Close" href="#modal-close"></a>
+        </p><h1>CSS Modal</h1>
         <div>Ttfjyfjyghkjgb</div>
       </div>
     </div>
