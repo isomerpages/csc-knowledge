@@ -4,77 +4,64 @@ permalink: /books/
 description: ""
 ---
 <style>
-.grid-container 
-	{  
-	display: grid;
-	grid-template-columns: auto auto auto;
-	border: 2px solid black;
-	}
-	
-.grid-item-1 img
-	{
-		width:50%;
-  }	
-	
-	.grid-item-2
-	{
-	 width:50%;
-	}
-	
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding:20px;
+}
 </style>
 
+
 <div class="grid-container">
-
-<div class="grid-item-1">
-	
+  <div class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_01/The_New_Synthesis_Of_Public_Administration_Fieldbook.jpg">	
+	</div>
 
-</div>
-
-<div class="grid-item-2">	
-	
+<div class="grid-item">
 <h3>Book Title 1</h3>	
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>	
+	
+</div>
 
 </div>
-	
-</div>	
 
-
-
-<span class="">
-	
-	
+<div class="grid-container">
+  <div class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_01/The_New_Synthesis_Of_Public_Administration_Fieldbook.jpg">	
+	</div>
 
-
-	
+<div class="grid-item">
 <h3>Book Title 2</h3>	
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-<a href="#">Read More</a>	
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>	
 	
+</div>
 
+</div>
 
-
-	
-<table>
-<tbody>	
-<tr>	
-<td class="books">	
+<div class="grid-container">
+  <div class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_01/The_New_Synthesis_Of_Public_Administration_Fieldbook.jpg">	
-</td>
+	</div>
 
-<td class="description">
-	<h3>Book Title 3</h3>	
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-<a href="#">Read More</a>	
-</td>	
-</tr>	
-</tbody>
-</table>
+<div class="grid-item">
+<h3>Book Title 3</h3>	
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>	
 	
+</div>
+
+</div>
+
+
 
 
 <div id="formore">
-	</div></span>
+	</div>
