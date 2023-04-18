@@ -8,7 +8,7 @@ description: ""
 .close 
 	{
       font-size: 45px;
-      font-weight: 200;
+      font-weight: 600;
     }
 
 	
