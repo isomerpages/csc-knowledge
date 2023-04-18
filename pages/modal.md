@@ -5,9 +5,10 @@ description: ""
 ---
 <style>
 
-.close {
+.close 
+	{
       font-size: 45px;
-      font-weight: 600;
+      font-weight: 200;
     }
 
 	
