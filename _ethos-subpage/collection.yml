@@ -2,6 +2,7 @@ collections:
   ethos-subpage:
     output: true
     order:
+      - Old Issue/2019.md
       - Old Issue/.keep
       - Old Issue/2022.md
       - Old Issue/2021.md
