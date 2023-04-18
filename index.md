@@ -11,31 +11,30 @@ sections:
       subtitle: Explore diverse perspectives in public policy and governance.
       background: /images/Landing_Banner_Images/banner_ethos_q4.jpg
   - infopic:
-      title: Ethos Digital Edition Issue 10
-      subtitle: DIGITAL ISSUE 10, MAR 2023
-      description: This digital edition of ETHOS features a spread of articles
-        exploring different ways to help our people manage change and volatility
-      button: Get The Issue
+      title: "Ethos "
+      description: ETHOS is a publication of the Civil Service College aiming to
+        provide leadership, insight and context on a public policy issues of
+        interest to Singapore
+      button: See More
       image: /images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg
       alt: Ethos Digital Edition Issue 10
       url: /ethos/
   - infopic:
-      title: Editorial Digital Issue 10
-      subtitle: Editorial
-      description: This digital edition of ETHOS features a spread of articles
-        exploring different ways to help our people manage change and
-        volatility.
-      url: "#"
+      title: Books
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+      url: /books/
       image: /images/Ethos_Images/Ethos_Digital_Issue_04/Editorial_02.jpg
       alt: Ethos Digital Edition Issue 10
       button: See more
   - infopic:
       title: Research & Resources
-      subtitle: Knowledge Hub
-      description: Infopic description
-      button: Button Text
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+      button: See more
       image: /images/Ethos_Images/Ethos_Issue_16/Engaging_With_Stakeholders_For_Banner.png
       alt: Image alt text
+      url: /research-resources/
   - resources:
       title: Other Series of Ethos
       subtitle: Ethos
