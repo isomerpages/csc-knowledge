@@ -67,9 +67,8 @@ description: ""
 <div class="modal-window" id="open-modal">
 
    <div>
-        <a class="modal-close" title="Close" href="#modal-close">close ×</a>
+        <a class="modal-close" title="Close" href="#modal-close">X</a>
         <h1>CSS Modal</h1>
         <div>Ttfjyfjyghkjgb</div>
       </div>
     </div>
-		
