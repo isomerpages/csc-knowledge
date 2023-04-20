@@ -22,7 +22,7 @@ description: ""
 }
 .grid-item p
 {
-	width:30%;
+	width:70%;
 }
 	
 .pastissues
@@ -30,10 +30,6 @@ description: ""
 	padding:20px;
 	}
 	
-#article
-	{
-	width:60%;
-	}
 	
 .whatsnew
 	{
@@ -49,6 +45,8 @@ description: ""
 
 	
 </style>
+
+<h2>Latest Issue</h2>
 
 <div class="grid-container">
 <div class="grid-item">
