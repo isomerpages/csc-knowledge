@@ -7,18 +7,22 @@ description: ""
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
-  padding: 10px;
+
 }
 
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
   border-bottom: 1px solid rgba(0, 0, 0, 0.8);
-  padding:20px;
+  padding:10px;
 }	
-	
+
+.grid-item img
+{
+	width: 70%;
+}
 .grid-item p
 {
-	width:90%;
+	width:30%;
 }
 	
 .pastissues
