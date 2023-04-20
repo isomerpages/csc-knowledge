@@ -48,9 +48,11 @@ description: ""
 
 <div class="grid-item">
 <h3>Latest Issue</h3>	
-Ethos Print
-	
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>	
+
+<dl>
+    <dt>Print Issue 25, March 2023</dt>
+    <dd>Ethos Print Edition Issue 25</dd>
+	</dl>
 	
 </div>
 
