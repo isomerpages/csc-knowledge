@@ -32,7 +32,7 @@ description: ""
 </div>
 
 <div id="description" class="grid-item">
-PRINT ISSUE 25, MAR 2023
+<dt>PRINT ISSUE 25, MAR 2023</dt>
 <h3>Ethos Print Issue 25</h3>	
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the
 
