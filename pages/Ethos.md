@@ -47,9 +47,10 @@ description: ""
 </div>
 
 <div class="grid-item">
-<h3>Latest Issue</h3>	
-	<b>Ethos Print Edition Issue 25</b>
-	Print Issue 25, March 2023
+PRINT ISSUE 25, MAR 2023
+<h3>Ethos Print Issue 25</h3>	
+<p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
+
 
 	
 </div>
