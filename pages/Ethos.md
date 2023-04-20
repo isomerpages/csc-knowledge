@@ -12,7 +12,6 @@ description: ""
 
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.8);
   padding:10px;
 }	
 
