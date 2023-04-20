@@ -16,13 +16,10 @@ description: ""
   padding:10px;
 }	
 
-.grid-item img
-{
-	width: 70%;
-}
+
 .grid-item p
 {
-	width:70%;
+	width:90%;
 }
 	
 .pastissues
