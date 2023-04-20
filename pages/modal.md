@@ -8,7 +8,7 @@ description: ""
 .close 
 	{
       font-size: 45px;
-      font-weight: 600;
+      font-weight: 600px;
 	    margin-right:20px;
     }
 
