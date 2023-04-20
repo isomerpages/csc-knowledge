@@ -9,11 +9,6 @@ description: ""
   grid-template-columns: auto auto auto;
 
 }
-	
-#description
-{
-	margin-top:50px;
-}
 
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
