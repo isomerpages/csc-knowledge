@@ -32,13 +32,11 @@ description: ""
 .whatsnew
 	{
 	margin-top:40px;
-	padding:20px;
-	background-color:lightgrey;
 	}
 	
 .whatsnew h3
 	{
-	color:white;
+	color:#9f2943;
 	
 
 	
