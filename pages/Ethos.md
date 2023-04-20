@@ -56,7 +56,9 @@ description: ""
 <div class="grid-item">
 PRINT ISSUE 25, MAR 2023
 <h3>Ethos Print Issue 25</h3>	
-<p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>	
+<p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the
+
+public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>	
 </div>
 
 </div>
