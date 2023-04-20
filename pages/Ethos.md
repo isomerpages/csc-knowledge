@@ -48,6 +48,3 @@ public sector can harness new technology, methods and approaches to address new 
 		<p>Featured article 2</p>
 		<p>Featured article 3</p>
 	</div>
-<div class="pastissues">
-	<h3>What's new in this issue</h3>
-</div>
