@@ -17,10 +17,7 @@ description: ""
 }	
 
 
-.grid-item p
-{
-	width:90%;
-}
+
 	
 .pastissues
 	{
