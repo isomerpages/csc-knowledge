@@ -16,6 +16,11 @@ description: ""
   padding:20px;
 }	
 	
+.grid-item p
+{
+	width:90%;
+}
+	
 .pastissues
 	{
 	padding:20px;
@@ -49,10 +54,7 @@ description: ""
 <div class="grid-item">
 PRINT ISSUE 25, MAR 2023
 <h3>Ethos Print Issue 25</h3>	
-<p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
-
-
-	
+<p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>	
 </div>
 
 </div>
