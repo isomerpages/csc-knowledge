@@ -15,10 +15,6 @@ description: ""
   padding:10px;
 }	
 
-
-
-
-	
 .whatsnew h3
 	{
 	color:#9f2943;
