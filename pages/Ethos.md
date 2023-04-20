@@ -43,7 +43,7 @@ description: ""
 
 <div class="grid-container">
 <div class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Digital_Issue_01/The_New_Synthesis_Of_Public_Administration_Fieldbook.jpg">	
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
 </div>
 
 <div class="grid-item">
