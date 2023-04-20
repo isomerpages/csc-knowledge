@@ -48,11 +48,9 @@ description: ""
 
 <div class="grid-item">
 <h3>Latest Issue</h3>	
+Print Issue 25, March 2023
+ Ethos Print Edition Issue 25
 
-<dl>
-    <dt>Print Issue 25, March 2023</dt>
-    <dd>Ethos Print Edition Issue 25</dd>
-	</dl>
 	
 </div>
 
