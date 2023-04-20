@@ -9,6 +9,11 @@ description: ""
   grid-template-columns: auto auto auto;
 
 }
+	
+#description
+{
+	margin-top:50px;
+}
 
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
@@ -46,7 +51,7 @@ description: ""
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
 </div>
 
-<div class="grid-item">
+<div id="description" class="grid-item">
 PRINT ISSUE 25, MAR 2023
 <h3>Ethos Print Issue 25</h3>	
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the
