@@ -16,7 +16,7 @@ sections:
         provide leadership, insight and context on a public policy issues of
         interest to Singapore
       button: See More
-      image: /images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg
+      image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg
       alt: Ethos Digital Edition Issue 10
       url: /ethos/
   - infopic:
