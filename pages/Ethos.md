@@ -17,21 +17,12 @@ description: ""
 
 
 
-	
-.pastissues
-	{
-	padding:20px;
-	}
-	
-	
-.whatsnew
-	{
-	margin-top:40px;
-	}
+
 	
 .whatsnew h3
 	{
 	color:#9f2943;
+	}
 	
 
 	
