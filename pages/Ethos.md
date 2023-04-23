@@ -80,6 +80,8 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 	
 </div>
 
+<br>
+
 <div id="prioritise" class="grid-container">
 	
 <div id="img2" class="grid-item">
