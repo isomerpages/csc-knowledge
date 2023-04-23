@@ -4,6 +4,11 @@ permalink: /ethos/
 description: ""
 ---
 <style>
+#editorial img
+{
+width: 30%;
+}
+	
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
@@ -48,7 +53,16 @@ public sector can harness new technology, methods and approaches to address new 
 	
 <div id="editorial">
 	<img src="/images/Ethos_Images/Ethos_Issue_22/Editorial_02.jpg">
-	</div>
+	
+<div id="text">
+<p>	
+
+</p></div>
+	
+</div>
+	
+	
 <p>Featured article 2</p>
 <p>Featured article 3</p>
-	</div>
+	
+</div>
