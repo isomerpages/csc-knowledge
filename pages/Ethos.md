@@ -9,10 +9,6 @@ description: ""
 margin-left:20px;	
 }
 
-#text4
-{
-margin-left:70px;	
-}	
 	
 #purpose,#scale,#econ
 {
