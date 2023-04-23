@@ -127,7 +127,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 <div class="button2"><a href="#">Read More</a></div><br>
 	
 </div>
-</div><br>
+</div>
 
 <div id="econ" class="grid-container">
 	
