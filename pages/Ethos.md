@@ -121,7 +121,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 <h3>   Prioritising the Big Small Things for S.C.A.L.E</h3>
 <b>by Gabriel Lim</b>
 <p>	
-The Chairperson of  the Public Sector Transformation—  People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
+Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>
 
 <div class="button2"><a href="#">Read More</a>
