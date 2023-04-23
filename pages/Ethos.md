@@ -69,9 +69,9 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 	
 </div>
 
-<div id="editorial" class="grid-container">
+<div class="grid-container">
 	
-<div class="grid-item">
+<div id="editorial" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
 </div>
 	
