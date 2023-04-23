@@ -10,7 +10,7 @@ description: ""
 }
 #img1 img
 {
-width:140px;
+width:130px;
 }
 	
 #editorial
