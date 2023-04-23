@@ -127,4 +127,22 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 <div class="button2"><a href="#">Read More</a></div><br>
 	
 </div>
+</div><br>
+
+<div id="econ" class="grid-container">
+	
+<div id="img4" class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg">
+</div>
+	
+<div id="text4" class="grid-item">
+<h3>ECONOMISING WITH IMAGINATION IN HARSH TIMES</h3>
+<b>by Geoﬀ Mulgan</b>
+<p>	
+Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
+</p>
+
+<div class="button2"><a href="#">Read More</a></div><br>
+	
+</div>
 </div>
