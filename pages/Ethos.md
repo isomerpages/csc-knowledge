@@ -9,7 +9,7 @@ description: ""
 margin-left:20px;	
 }
 	
-#purpose,#scale
+#purpose,#scale,#econ
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
