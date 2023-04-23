@@ -4,6 +4,10 @@ permalink: /ethos/
 description: ""
 ---
 <style>
+#prioritise
+{
+	margin-top:20px;
+}
 #img2 img
 {
 	width:150px;
@@ -79,8 +83,6 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 </div>
 	
 </div>
-
-<br>
 
 <div id="prioritise" class="grid-container">
 	
