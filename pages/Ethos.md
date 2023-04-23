@@ -18,9 +18,6 @@ description: ""
 	{
   display: grid;
   grid-template-columns: auto auto auto;
-	
-	border-bottom: 1px solid black;
-
 }
 
 .grid-item {
