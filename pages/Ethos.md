@@ -8,10 +8,7 @@ description: ""
 {
 	width:200px;
 }
-#img1 img
-{
-width:135px;
-}
+
 	
 #editorial
 {
