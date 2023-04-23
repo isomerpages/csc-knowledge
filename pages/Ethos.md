@@ -6,7 +6,7 @@ description: ""
 <style>
 #editorial img
 {
-width: 40%;
+width: 70%;
 }
 	
 .grid-container {
