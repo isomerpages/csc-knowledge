@@ -4,6 +4,11 @@ permalink: /ethos/
 description: ""
 ---
 <style>
+#text1,#text2,#text3
+{
+margin-left:30px;	
+}
+	
 #prioritise
 {
 	margin-top:20px;
