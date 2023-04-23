@@ -4,7 +4,7 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#text1,#text2,#text3
+#text,#text1,#text2,#text3
 {
 margin-left:20px;	
 }
@@ -119,7 +119,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 	
 <div id="text3" class="grid-item">
 <h3>   Prioritising the Big Small Things for S.C.A.L.E</h3>
-<b>by Gabriel Lim</b>
+<b>by Eileen Wong </b>
 <p>	
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>
