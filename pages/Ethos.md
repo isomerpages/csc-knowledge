@@ -5,6 +5,11 @@ description: ""
 ---
 <style>
 	
+#editorial
+{
+	border-bottom: 1px solid black;
+}
+	
 .button1 a
 {
 	border-radius:10px;
