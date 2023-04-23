@@ -4,7 +4,7 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#text,#text1,#text2,#text3,#text4,#text5
+#text,#text1,#text2,#text3,#text4,#text5, #text6
 {
 margin-left:20px;	
 }
@@ -13,7 +13,7 @@ margin-left:20px;
 
 
 	
-#purpose,#scale,#econ
+#purpose,#scale,#econ, #budget, #enhance
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
@@ -64,7 +64,7 @@ width: 550px
 </div>
 
 <div id="text" class="grid-item">
-PRINT ISSUE 25, MAR 2023
+	<figcaption>PRINT ISSUE 25, MAR 2023</figcaption>
 <h3>Ethos Print Issue 25</h3>	
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the
 
@@ -159,7 +159,7 @@ the way public services are resourced, structured and operated.
 </div>
 </div>
 
-<div id="scale" class="grid-container">
+<div id="budget" class="grid-container">
 	
 <div id="img5" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_1.jpg">
@@ -171,6 +171,23 @@ the way public services are resourced, structured and operated.
 <p>	
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>
+
+<div class="button2"><a href="#">Read More</a></div><br>
+	
+</div>
+</div>
+
+<div id="enhance" class="grid-container">
+	
+<div id="img6" class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg">
+</div>
+	
+<div id="text6" class="grid-item">
+<h3> Enhancing Public Service with Tech</h3>
+<b>by Jordan Tan </b>
+<p>	
+A public sector tech leader outlines how technology can complement new ways of thinking and working—making the most of scarce resources to achieve better public outcomes.</p>
 
 <div class="button2"><a href="#">Read More</a></div><br>
 	
