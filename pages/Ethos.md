@@ -4,6 +4,12 @@ permalink: /ethos/
 description: ""
 ---
 <style>
+a:link
+{
+	text-decoration: none;
+	color:#9f2943;
+}
+	
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
@@ -54,13 +60,11 @@ public sector can harness new technology, methods and approaches to address new 
 <p>	
 The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates.
 </p>
+<a href="#">Read More</a><br>	
 <b>by Dr Alvin Pang</b>
-	<figcaption>
-		<p>Editor-in-Chief Ethos</p>
+<figcaption>
+<p>Editor-in-Chief Ethos</p>
 </figcaption>
-</div>
-
-</div>
-
-
 	
+</div>
+</div>
