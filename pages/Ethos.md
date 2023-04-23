@@ -6,7 +6,7 @@ description: ""
 <style>
 #text1,#text2,#text3
 {
-margin-left:30px;	
+margin-left:20px;	
 }
 	
 #prioritise
