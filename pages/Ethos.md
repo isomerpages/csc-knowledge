@@ -4,7 +4,7 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#text,#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8, #text9
+#text,#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8, #text9,#text10
 {
 margin-left:20px;	
 }
@@ -13,6 +13,11 @@ margin-left:20px;
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
+}
+	
+#cultivate
+{
+		margin-top:20px;
 }
 
 #img1 img
@@ -193,11 +198,11 @@ A public sector tech leader outlines how technology can complement new ways of t
 
 <div id="driving" class="grid-container">
 	
-<div id="img6" class="grid-item">
+<div id="img7" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg">
 </div>
 	
-<div id="text6" class="grid-item">
+<div id="text7" class="grid-item">
 <h3>Driving Sustainability in the Public Sector</h3>
 	<b><i>by Lim Tuang Liang</i></b>
 <p>	
@@ -210,11 +215,11 @@ Recognising its role to achieve net zero, Singapore’s public sector has develo
 
 <div id="sector" class="grid-container">
 	
-<div id="img7" class="grid-item">
+<div id="img8" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg">
 </div>
 	
-<div id="text7" class="grid-item">
+<div id="text8" class="grid-item">
 <h3>Sectoral Collaboration as Public Resource: A Conversation with  Gus O’Donnell</h3>
 	<b><i>by Gus O’Donnell</i></b>
 <p>	
@@ -228,11 +233,11 @@ to addressing societal needs in the long term.</p>
 
 <div id="outcome" class="grid-container">
 	
-<div id="img8" class="grid-item">
+<div id="img9" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg">
 </div>
 	
-<div id="text8" class="grid-item">
+<div id="text9" class="grid-item">
 <h3> Making Outcome-Based Approaches Work:  Insights from the UK’s Government Outcomes Lab</h3>
 	<b><i>by Mara Airoldi</i></b>
 <p>	
@@ -246,14 +251,30 @@ and centre learning in exploring new ways to deliver public value. </p>
 
 <div id="outcome" class="grid-container">
 	
-<div id="img9" class="grid-item">
+<div id="img10" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury,%20Narain.jpg">
 </div>
 	
-<div id="text9" class="grid-item">
+<div id="text10" class="grid-item">
 <h3> The Wake-Up Call: Rethinking Growth and Government in a  Crisis-Constrained World </h3>
 	<b><i>by Samheng Bora, Mohibul Hasan Chowdhoury, and  Aruna Devi Narain</i></b>
 <p>	In this ETHOS Roundtable, three distinguished participants of the  14th Leaders in Governance Programme discuss how global challenges have reshaped thinking on national resourcing and the core work of the public sector.</p>
+
+<div class="button2"><a href="#">Read More</a></div><br>
+	
+</div>
+</div>
+
+<div id="cultivate" class="grid-container">
+	
+<div id="img9" class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_CatherineFieschi.jpg">
+</div>
+	
+<div id="text9" class="grid-item">
+<h3> Moving the Conversation: Cultivating Public Participation and Goodwill in a New Era of Challenges</h3>
+	<b><i>by Catherine Fieschi</i></b>
+<p>	The public sector should take steps to strengthen the muscles of civic discourse and decision-making, to face a future where our most pressing issues call for all in society to pull together.</p>
 
 <div class="button2"><a href="#">Read More</a></div><br>
 	
