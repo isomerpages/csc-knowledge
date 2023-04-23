@@ -17,7 +17,7 @@ margin-left:30px;
 
 #img1 img
 {
-	width:380px;
+	width:370px;
 }	
 
 	
