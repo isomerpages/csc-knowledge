@@ -81,7 +81,7 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 	
 </div>
 	
-</div><br>
+</div>
 
 <div id="prioritise" class="grid-container">
 	
