@@ -138,9 +138,9 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 <div id="text4" class="grid-item">
 <h3>ECONOMISING WITH IMAGINATION IN HARSH TIMES</h3>
 <b>by Geoﬀ Mulgan</b>
-<p>	
-Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
-</p>
+<p>	Crisis does not always have to lead to damaging reductions in the 
+public good: instead, they can prompt innovative improvements in 
+the way public services are resourced, structured and operated.</p>
 
 <div class="button2"><a href="#">Read More</a></div><br>
 	
