@@ -6,7 +6,7 @@ description: ""
 <style>
 #img2 img
 {
-	width:200px;
+	width:150px;
 }
 
 	
