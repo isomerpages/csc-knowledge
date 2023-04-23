@@ -6,8 +6,12 @@ description: ""
 <style>
 a:link
 {
+	border-radius:10px;
+	padding:10px;
+	background-color: #9f2943;
+	color: white;
 	text-decoration: none;
-	color:#9f2943;
+	font-weight: bold;
 }
 	
 .grid-container {
@@ -60,7 +64,7 @@ public sector can harness new technology, methods and approaches to address new 
 <p>	
 The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates.
 </p>
-<a href="#">Read More</a><br>	
+	<div class="button"><a href="#">Read More</a></div><br>	
 <b>by Dr Alvin Pang</b>
 <figcaption>
 <p>Editor-in-Chief Ethos</p>
