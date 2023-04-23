@@ -13,7 +13,7 @@ margin-left:20px;
 
 
 	
-#purpose,#scale,#econ, #budget, #enhance
+#purpose,#scale,#econ, #budget, #enhance, #driving
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
@@ -85,7 +85,7 @@ public sector can harness new technology, methods and approaches to address new 
 </div>
 <div id="text1" class="grid-item">
 <h3>Editorial </h3>
-<b>by Dr Alvin Pang</b>
+	<b><i>by Dr Alvin Pang</i></b>
 <figcaption>
 Editor-in-Chief Ethos
 </figcaption>
@@ -108,7 +108,7 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 <div id="text2" class="grid-item">
 <h3> Prioritising Purpose  
 in the Public Service</h3>
-<b>by Gabriel Lim</b>
+	<b><i>by Gabriel Lim</i></b>
 <p>	
 The Chairperson of  the Public Sector Transformation—  People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
 </p>
@@ -127,8 +127,8 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 </div>
 	
 <div id="text3" class="grid-item">
-<h3>   Prioritising the Big Small Things for S.C.A.L.E</h3>
-<b>by Eileen Wong </b>
+<h3>Prioritising the Big Small Things for S.C.A.L.E</h3>
+<b><i>by Eileen Wong</i></b>
 <p>	
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>
@@ -147,7 +147,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 	
 <div id="text4" class="grid-item">
 <h3> Economising with Imagination in Harsh Times</h3>
-<b>by Geoﬀ Mulgan </b>
+	<b><i>by Geoﬀ Mulgan</i></b>
 <p>	
 Crisis does not always have to lead to damaging reductions in the 
 public good: instead, they can prompt innovative improvements in 
@@ -167,7 +167,7 @@ the way public services are resourced, structured and operated.
 	
 <div id="text5" class="grid-item">
 <h3> Budget 4.0: Optimising for Better Outcomes</h3>
-<b>by Kwa Chin Lum and Kyle Goh </b>
+	<b><i>by Kwa Chin Lum and Kyle Goh</i></b>
 <p>	
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>
@@ -185,9 +185,27 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 	
 <div id="text6" class="grid-item">
 <h3> Enhancing Public Service with Tech</h3>
-<b>by Jordan Tan </b>
+	<b><i>by Jordan Tan</i></b>
 <p>	
 A public sector tech leader outlines how technology can complement new ways of thinking and working—making the most of scarce resources to achieve better public outcomes.</p>
+
+<div class="button2"><a href="#">Read More</a></div><br>
+	
+</div>
+</div>
+
+
+<div id="driving" class="grid-container">
+	
+<div id="img6" class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg">
+</div>
+	
+<div id="text6" class="grid-item">
+<h3>Driving Sustainability in the Public Sector</h3>
+	<b><i>by Lim Tuang Liang</i></b>
+<p>	
+Recognising its role to achieve net zero, Singapore’s public sector has developed decarbonisation measures, embedded environmental sustainability into its core businesses, and built up key competencies.</p>
 
 <div class="button2"><a href="#">Read More</a></div><br>
 	
