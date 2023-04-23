@@ -24,13 +24,7 @@ description: ""
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
   padding:10px;
-}	
-
-.whatsnew h3
-	{
-	color:#9f2943;
-	}
-	
+}		
 
 	
 </style>
@@ -79,7 +73,7 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 <div id="editorial" class="grid-container">
 	
 <div class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_23/Editorial_02.jpg">
 </div>
 	
 <div id="text" class="grid-item">
