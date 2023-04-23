@@ -7,6 +7,7 @@ description: ""
 #prioritise
 {
 	margin-top:20px;
+	border-bottom: 0.5px solid black;
 }
 
 #img1 img
@@ -84,12 +85,31 @@ Editor-in-Chief Ethos
 The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates.
 </p>
 
-<div class="button2"><a href="#">Read More</a></div><br>
+<div class="button2"><a href="#">Read More</a></div><br>	
+</div>
+	
+</div>
 
+<div id="prioritise" class="grid-container">
 	
+<div id="img2" class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
 </div>
 	
+<div id="text2" class="grid-item">
+<h3> Prioritising Purpose  
+in the Public Service</h3>
+<b>by Gabriel Lim</b>
+<p>	
+The Chairperson of  the Public Sector Transformation—  People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
+</p>
+
+<div class="button2"><a href="#">Read More</a></div><br>
+	
 </div>
+</div>
+
+
 
 <div id="prioritise" class="grid-container">
 	
@@ -109,5 +129,4 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 </div>
 	
 </div>
-	
 </div>
