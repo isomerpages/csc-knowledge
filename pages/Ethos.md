@@ -6,7 +6,7 @@ description: ""
 <style>
 #img1 img
 {
-width:100px;
+width:140px;
 }
 	
 #editorial
