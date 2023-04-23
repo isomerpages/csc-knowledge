@@ -4,7 +4,6 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#prioritise	
 	
 .button1 a
 {
