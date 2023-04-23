@@ -219,7 +219,7 @@ Recognising its role to achieve net zero, Singapore’s public sector has develo
 </div>
 	
 <div id="text6" class="grid-item">
-<h3>Sectoral Collaboration as Public Resource:  A Conversation with  Gus O’Donnell</h3>
+<h3>Sectoral Collaboration as Public Resource: A Conversation with  Gus O’Donnell</h3>
 	<b><i>by Gus O’Donnell</i></b>
 <p>	
 The veteran economist and former UK Cabinet Secretary argues that harnessing skillsets across sectors is vital  
