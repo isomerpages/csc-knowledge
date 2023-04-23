@@ -15,7 +15,7 @@ width:130px;
 	
 #editorial
 {
-	border-bottom: 1px solid black;
+	border-bottom: 0.5px solid black;
 }
 	
 .button1 a
