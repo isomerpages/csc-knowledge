@@ -64,7 +64,7 @@ width: 550px
 </div>
 
 <div id="text" class="grid-item">
-	<figcaption>PRINT ISSUE 25, MAR 2023</figcaption>
+PRINT ISSUE 25, MAR 2023
 <h3>Ethos Print Issue 25</h3>	
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the
 
