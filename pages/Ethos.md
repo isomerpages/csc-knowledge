@@ -9,7 +9,7 @@ description: ""
 margin-left:20px;	
 }
 	
-#prioritise
+#purpose,#scale
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
@@ -90,7 +90,7 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 	
 </div>
 
-<div id="prioritise" class="grid-container">
+<div id="purpose" class="grid-container">
 	
 <div id="img2" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
@@ -111,7 +111,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 
 
 
-<div id="prioritise" class="grid-container">
+<div id="scale" class="grid-container">
 	
 <div id="img3" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg">
@@ -124,8 +124,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>
 
-<div class="button2"><a href="#">Read More</a>
-</div>
+<div class="button2"><a href="#">Read More</a></div><br>
 	
 </div>
 </div>
