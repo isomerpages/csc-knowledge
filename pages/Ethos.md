@@ -4,7 +4,7 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#text,#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8
+#text,#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8, #text9
 {
 margin-left:20px;	
 }
@@ -13,7 +13,7 @@ margin-left:20px;
 
 
 	
-#purpose,#scale,#econ, #budget, #enhance, #driving,#sector
+#purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
@@ -230,7 +230,7 @@ to addressing societal needs in the long term.</p>
 </div>
 </div>
 
-<div id="sector" class="grid-container">
+<div id="outcome" class="grid-container">
 	
 <div id="img8" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg">
@@ -242,6 +242,22 @@ to addressing societal needs in the long term.</p>
 <p>	
 Effective social impact arrangements are purpose-driven, motivate relationship-building 
 and centre learning in exploring new ways to deliver public value. </p>
+
+<div class="button2"><a href="#">Read More</a></div><br>
+	
+</div>
+</div>
+
+<div id="outcome" class="grid-container">
+	
+<div id="img9" class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury,%20Narain.jpg">
+</div>
+	
+<div id="text9" class="grid-item">
+<h3> The Wake-Up Call: Rethinking Growth and Government in a  Crisis-Constrained World </h3>
+	<b><i>by Samheng Bora, Mohibul Hasan Chowdhoury, and  Aruna Devi Narain</i></b>
+<p>	In this ETHOS Roundtable, three distinguished participants of the  14th Leaders in Governance Programme discuss how global challenges have reshaped thinking on national resourcing and the core work of the public sector.</p>
 
 <div class="button2"><a href="#">Read More</a></div><br>
 	
