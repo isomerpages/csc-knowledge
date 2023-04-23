@@ -12,7 +12,7 @@ description: ""
 
 #img1 img
 {
-	width:300px;
+	width:380px;
 }	
 
 	
