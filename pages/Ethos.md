@@ -8,6 +8,12 @@ description: ""
 {
 	margin-top:20px;
 }
+
+#img1 img
+{
+	width:150px;
+}	
+	
 #img2 img
 {
 	width:150px;
