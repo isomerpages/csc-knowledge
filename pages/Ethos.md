@@ -12,13 +12,8 @@ description: ""
 
 #img1 img
 {
-	width:150px;
+	width:280px;
 }	
-	
-#img2 img
-{
-	width:150px;
-}
 
 	
 #editorial
@@ -113,13 +108,12 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 
 <div id="prioritise" class="grid-container">
 	
-<div id="img2" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
+<div id="img3" class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg">
 </div>
 	
-<div id="text2" class="grid-item">
-<h3> Prioritising Purpose  
-in the Public Service</h3>
+<div id="text3" class="grid-item">
+<h3>   Prioritising the Big Small Things for S.C.A.L.E</h3>
 <b>by Gabriel Lim</b>
 <p>	
 The Chairperson of  the Public Sector Transformation—  People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
