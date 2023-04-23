@@ -83,8 +83,8 @@ Editor-in-Chief Ethos
 <p>	
 The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates.
 </p>
-<br>	
-<div class="button1"><a href="#">Read More</a></div><br>	
+
+<div class="button1"><a href="#">Read More</a></div>
 
 	
 </div>
@@ -116,10 +116,9 @@ officers’ growth, wellbeing
 and agency, in the face  
 of a changing world.
 </p>
-
-<figcaption>
-</figcaption>
-<div class="button1"><a href="#">Read More</a></div>
+	
+<div class="button1"><a href="#">Read More</a>
+</div>
 	
 </div>
 	
