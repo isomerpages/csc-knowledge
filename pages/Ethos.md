@@ -9,10 +9,6 @@ description: ""
 margin-left:20px;	
 }
 
-
-
-
-	
 #purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome
 {
 	margin-top:20px;
