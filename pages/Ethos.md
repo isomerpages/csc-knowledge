@@ -100,11 +100,11 @@ officers’ growth, wellbeing
 and agency, in the face  
 of a changing world.
 </p>
-<a href="#">Read More</a><br>	
 <b>by Dr Alvin Pang</b>
 <figcaption>
 <p>Editor-in-Chief Ethos</p>
-</figcaption>
+</figcaption><br>	
+<div class="button1"><a href="#">Read More</a></div>
 	
 </div>
 	
