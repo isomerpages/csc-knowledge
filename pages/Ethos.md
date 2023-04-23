@@ -118,7 +118,7 @@ of a changing world.
 </p>
 
 <figcaption>
-</figcaption><br>	
+</figcaption>
 <div class="button1"><a href="#">Read More</a></div>
 	
 </div>
