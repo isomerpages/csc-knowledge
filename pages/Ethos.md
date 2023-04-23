@@ -94,9 +94,8 @@ officers’ growth, wellbeing
 and agency, in the face  
 of a changing world.
 </p>
-<b>by Dr Alvin Pang</b>
+<b>Gabriel Lim</b>
 <figcaption>
-<p>Editor-in-Chief Ethos</p>
 </figcaption><br>	
 <div class="button1"><a href="#">Read More</a></div>
 	
