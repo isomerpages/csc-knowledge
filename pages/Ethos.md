@@ -4,7 +4,7 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#text,#text1,#text2,#text3, 
+#text,#text1,#text2,#text3,#text4
 {
 margin-left:20px;	
 }
