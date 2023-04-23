@@ -4,6 +4,10 @@ permalink: /ethos/
 description: ""
 ---
 <style>
+#img1 img
+{
+width:100px;
+}
 	
 #editorial
 {
