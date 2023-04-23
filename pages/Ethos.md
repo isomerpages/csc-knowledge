@@ -4,7 +4,7 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#text,#text1,#text2,#text3,#text4,#text5, #text6
+#text,#text1,#text2,#text3,#text4,#text5, #text6, #text7
 {
 margin-left:20px;	
 }
@@ -13,7 +13,7 @@ margin-left:20px;
 
 
 	
-#purpose,#scale,#econ, #budget, #enhance, #driving
+#purpose,#scale,#econ, #budget, #enhance, #driving,#sector
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
@@ -26,7 +26,7 @@ margin-left:20px;
 
 #img4 img
 {
-width: 550px
+width: 550px;
 }
 
 	
@@ -212,13 +212,13 @@ Recognising its role to achieve net zero, Singapore’s public sector has develo
 </div>
 </div>
 
-<div id="driving" class="grid-container">
+<div id="sector" class="grid-container">
 	
-<div id="img6" class="grid-item">
+<div id="img7" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg">
 </div>
 	
-<div id="text6" class="grid-item">
+<div id="text7" class="grid-item">
 <h3>Sectoral Collaboration as Public Resource: A Conversation with  Gus O’Donnell</h3>
 	<b><i>by Gus O’Donnell</i></b>
 <p>	
