@@ -153,3 +153,21 @@ the way public services are resourced, structured and operated.</p>
 	
 </div>
 </div>
+
+<div id="scale" class="grid-container">
+	
+<div id="img3" class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_1.jpg">
+</div>
+	
+<div id="text3" class="grid-item">
+<h3> Budget 4.0: Optimising for Better Outcomes</h3>
+<b>by Eileen Wong </b>
+<p>	
+Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
+</p>
+
+<div class="button2"><a href="#">Read More</a></div><br>
+	
+</div>
+</div>
