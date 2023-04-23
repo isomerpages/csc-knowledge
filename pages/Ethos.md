@@ -4,11 +4,6 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#editorial img
-{
-width: 70%;
-}
-	
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
