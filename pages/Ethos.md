@@ -100,6 +100,7 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 <div id="text2" class="grid-item">
 <h3> Prioritising Purpose  
 in the Public Service</h3>
+<b>by Gabriel Lim</b>
 <p>	
 The Chairperson  
 of  the Public Sector 
@@ -115,7 +116,7 @@ officers’ growth, wellbeing
 and agency, in the face  
 of a changing world.
 </p>
-<b>by Gabriel Lim</b>
+
 <figcaption>
 </figcaption><br>	
 <div class="button1"><a href="#">Read More</a></div>
