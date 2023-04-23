@@ -4,7 +4,7 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-.button1 a:link
+.button1 a
 {
 	border-radius:10px;
 	padding:10px;
@@ -14,7 +14,8 @@ description: ""
 	font-weight: bold;
 }
 	
-.grid-container {
+.grid-container
+	{
   display: grid;
   grid-template-columns: auto auto auto;
 
