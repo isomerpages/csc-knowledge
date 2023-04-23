@@ -4,15 +4,12 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#text,#text1,#text2,#text3,#text5
+#text,#text1,#text2,#text3,#text4,#text5
 {
 margin-left:20px;	
 }
 
- #text4
-{
- margin-left:60px;
-}
+
 
 
 	
@@ -149,7 +146,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 </div>
 	
 <div id="text4" class="grid-item">
-<h3>   ECONOMISING WITH IMAGINATION IN HARSH TIMES</h3>
+<h3> Economising with Imagination in Harsh Times</h3>
 <b>by Geoﬀ Mulgan </b>
 <p>	
 Crisis does not always have to lead to damaging reductions in the 
