@@ -52,7 +52,7 @@ public sector can harness new technology, methods and approaches to address new 
 <div id="text" class="grid-item">
 <h3>Editorial </h3>
 <p>	
-The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates. On the other hand, a draining battle with COVID-19 has left societies reeling and exhausted—and yet they must continue to confront economic uncertainty from war, inﬂation, supply chain shifts, amid the looming threat of climate change, growing geopolitical contention, demographic ageing and other existential challenges. 
+The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates.
 </p>
 	
 </div>
