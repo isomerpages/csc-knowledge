@@ -136,6 +136,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 </div>
 </div>
 
+
 <div id="econ" class="grid-container">
 	
 <div id="img4" class="grid-item">
@@ -143,11 +144,13 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 </div>
 	
 <div id="text4" class="grid-item">
-<h3>ECONOMISING WITH IMAGINATION IN HARSH TIMES</h3>
-<b>by Geoﬀ Mulgan</b>
-<p>	Crisis does not always have to lead to damaging reductions in the 
+<h3>   ECONOMISING WITH IMAGINATION IN HARSH TIMES</h3>
+<b>by Geoﬀ Mulgan </b>
+<p>	
+Crisis does not always have to lead to damaging reductions in the 
 public good: instead, they can prompt innovative improvements in 
-the way public services are resourced, structured and operated.</p>
+the way public services are resourced, structured and operated. 
+</p>
 
 <div class="button2"><a href="#">Read More</a></div><br>
 	
