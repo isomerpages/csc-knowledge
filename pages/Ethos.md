@@ -67,4 +67,39 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 </figcaption>
 	
 </div>
+	
+</div>
+
+<div id="editorial" class="grid-container">
+	
+<div class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
+</div>
+	
+<div id="text" class="grid-item">
+<h3> Prioritising Purpose  
+in the Public Service</h3>
+<p>	
+The Chairperson  
+of  the Public Sector 
+Transformation— 
+People Committee shares 
+insights on a movement 
+to reignite passion and 
+pride in the Public Service 
+by trimming processes, 
+refocusing on meaningful 
+work and supporting public 
+officers’ growth, wellbeing 
+and agency, in the face  
+of a changing world.
+</p>
+<a href="#">Read More</a><br>	
+<b>by Dr Alvin Pang</b>
+<figcaption>
+<p>Editor-in-Chief Ethos</p>
+</figcaption>
+	
+</div>
+	
 </div>
