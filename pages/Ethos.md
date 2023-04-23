@@ -222,7 +222,8 @@ Recognising its role to achieve net zero, Singapore’s public sector has develo
 <h3>Sectoral Collaboration as Public Resource:  A Conversation with  Gus O’Donnell</h3>
 	<b><i>by Gus O’Donnell</i></b>
 <p>	
-Recognising its role to achieve net zero, Singapore’s public sector has developed decarbonisation measures, embedded environmental sustainability into its core businesses, and built up key competencies.</p>
+The veteran economist and former UK Cabinet Secretary argues that harnessing skillsets across sectors is vital  
+to addressing societal needs in the long term.</p>
 
 <div class="button2"><a href="#">Read More</a></div><br>
 	
