@@ -4,6 +4,11 @@ permalink: /ethos/
 description: ""
 ---
 <style>
+
+#editorial img
+{
+	width:226px;
+}
 .button1 a
 {
 	border-radius:10px;
@@ -54,9 +59,9 @@ public sector can harness new technology, methods and approaches to address new 
 
 <br>
 
-<div id="editorial" class="grid-container">
+<div class="grid-container">
 	
-<div class="grid-item">
+<div id="editorial" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_22/Editorial_02.jpg">
 </div>
 	
