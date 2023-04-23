@@ -4,7 +4,7 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#text,#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8, #text9,#text10
+#text,#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8, #text9,#text10,#text11 
 {
 margin-left:20px;	
 }
@@ -267,11 +267,11 @@ and centre learning in exploring new ways to deliver public value. </p>
 
 <div id="cultivate" class="grid-container">
 	
-<div id="img9" class="grid-item">
+<div id="img11" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_CatherineFieschi.jpg">
 </div>
 	
-<div id="text9" class="grid-item">
+<div id="text11" class="grid-item">
 <h3> Moving the Conversation: Cultivating Public Participation and Goodwill in a New Era of Challenges</h3>
 	<b><i>by Catherine Fieschi</i></b>
 <p>	The public sector should take steps to strengthen the muscles of civic discourse and decision-making, to face a future where our most pressing issues call for all in society to pull together.</p>
