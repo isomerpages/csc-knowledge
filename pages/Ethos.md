@@ -4,7 +4,7 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#text,#text1,#text2,#text3,#text4,#text5, #text6, #text7
+#text,#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8
 {
 margin-left:20px;	
 }
@@ -224,6 +224,24 @@ Recognising its role to achieve net zero, Singapore’s public sector has develo
 <p>	
 The veteran economist and former UK Cabinet Secretary argues that harnessing skillsets across sectors is vital  
 to addressing societal needs in the long term.</p>
+
+<div class="button2"><a href="#">Read More</a></div><br>
+	
+</div>
+</div>
+
+<div id="sector" class="grid-container">
+	
+<div id="img8" class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg">
+</div>
+	
+<div id="text8" class="grid-item">
+<h3> Making Outcome-Based Approaches Work:  Insights from the UK’s Government Outcomes Lab</h3>
+	<b><i>by Mara Airoldi</i></b>
+<p>	
+Effective social impact arrangements are purpose-driven, motivate relationship-building 
+and centre learning in exploring new ways to deliver public value. </p>
 
 <div class="button2"><a href="#">Read More</a></div><br>
 	
