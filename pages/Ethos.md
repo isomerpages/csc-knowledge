@@ -4,7 +4,7 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#text,#text1,#text2,#text3,
+#text,#text1,#text2,#text3,#text5
 {
 margin-left:20px;	
 }
@@ -164,11 +164,11 @@ the way public services are resourced, structured and operated.
 
 <div id="scale" class="grid-container">
 	
-<div id="img3" class="grid-item">
+<div id="img5" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_1.jpg">
 </div>
 	
-<div id="text3" class="grid-item">
+<div id="text5" class="grid-item">
 <h3> Budget 4.0: Optimising for Better Outcomes</h3>
 <b>by Eileen Wong </b>
 <p>	
