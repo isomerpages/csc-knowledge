@@ -32,7 +32,7 @@ description: ""
 </div>
 
 <div id="description" class="grid-item">
-<div id="desription">PRINT ISSUE 25, MAR 2023</div>
+PRINT ISSUE 25, MAR 2023
 <h3>Ethos Print Issue 25</h3>	
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the
 
@@ -41,10 +41,14 @@ public sector can harness new technology, methods and approaches to address new 
 
 </div>
 
+<br>
 
 <div class="whatsnew">
 		<h3>What's new in this issue</h3>
-		<p>Featured article 1</p>
-		<p>Featured article 2</p>
-		<p>Featured article 3</p>
+	
+<div id="editorial">
+	<img src="/images/Ethos_Images/Ethos_Issue_22/Editorial_02.jpg">
+	</div>
+<p>Featured article 2</p>
+<p>Featured article 3</p>
 	</div>
