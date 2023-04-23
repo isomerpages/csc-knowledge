@@ -25,15 +25,6 @@ description: ""
 	border-bottom: 0.5px solid black;
 }
 	
-.button1 a
-{
-	border-radius:10px;
-	padding:10px;
-	background-color: #9f2943;
-	color: white;
-	text-decoration: none;
-	font-weight: bold;
-}
 
 .button2 a
 {
@@ -93,7 +84,7 @@ Editor-in-Chief Ethos
 The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates.
 </p>
 
-<div class="button1"><a href="#">Read More</a></div><br>
+<div class="button2"><a href="#">Read More</a></div><br>
 
 	
 </div>
@@ -111,22 +102,10 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 in the Public Service</h3>
 <b>by Gabriel Lim</b>
 <p>	
-The Chairperson  
-of  the Public Sector 
-Transformation— 
-People Committee shares 
-insights on a movement 
-to reignite passion and 
-pride in the Public Service 
-by trimming processes, 
-refocusing on meaningful 
-work and supporting public 
-officers’ growth, wellbeing 
-and agency, in the face  
-of a changing world.
+The Chairperson of  the Public Sector Transformation—  People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
 </p>
 
-<div class="button1"><a href="#">Read More</a>
+<div class="button2"><a href="#">Read More</a>
 </div>
 	
 </div>
