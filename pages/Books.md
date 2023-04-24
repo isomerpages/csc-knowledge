@@ -4,6 +4,13 @@ permalink: /books/
 description: ""
 ---
 <style>
+.background-image
+	{
+	padding:20px;
+	margin:20px;
+	background-image: url("images/Ethos_Images/Ethos_Digital_Issue_09/CollaborativeLeadership_BannerTeaser.jpg");
+	}
+	
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
@@ -17,6 +24,7 @@ description: ""
 }
 </style>
 
+<div class="background-image"><h1>BOOKS</h1></div>
 
 <div class="grid-container">
   <div class="grid-item">
