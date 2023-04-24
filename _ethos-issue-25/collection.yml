@@ -2,6 +2,7 @@ collections:
   ethos-issue-25:
     output: true
     order:
+      - Budget 4 Optimising for Better Outcomes.md
       - Economising with Imagination in Harsh Times.md
       - Editorial.md
       - Prioritising Purpose in the Public Service.md
