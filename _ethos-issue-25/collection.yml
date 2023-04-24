@@ -2,5 +2,5 @@ collections:
   ethos-issue-25:
     output: true
     order:
-      - Editorial Issue 25.md
+      - Editorial.md
       - Prioritising Purpose in the Public Service.md
