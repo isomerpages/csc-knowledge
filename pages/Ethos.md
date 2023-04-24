@@ -4,15 +4,20 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8, #text9,#text10,#text11 
+	
+header h2
 {
-margin-left:40px;	
+		text-align:center;
+}	
+
+#text,#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8, #text9,#text10,#text11 
+{
+margin-left:20px;	
 }
 	
-#text
+#img
 {
-margin-right: 40px;
-margin-top: 20px;
+margin-top: 10px;
 }
 
 
@@ -64,9 +69,16 @@ width: 550px;
 	
 </style>
 
+<header>
 <h2>Latest Issue</h2>
-
+</header>
+	
 <div class="grid-container">
+
+<div id="img" class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
+</div>
+
 
 <div id="text" class="grid-item">
 PRINT ISSUE 25, MAR 2023
@@ -76,11 +88,6 @@ PRINT ISSUE 25, MAR 2023
 public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
 <br>
 <div class="button2"><a href="#">Read More</a></div>	
-	
-</div>
-
-<div id="img" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
 </div>
 	
 </div>
