@@ -9,6 +9,11 @@ header h2
 {
 		text-align:center;
 }	
+	
+#top
+{
+margin-top: 30px;	
+}
 
 #text,#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8, #text9,#text10,#text11 
 {
@@ -17,7 +22,7 @@ margin-left:20px;
 	
 #img
 {
-margin-top: 10px;
+margin-top: 30px;
 }
 
 
@@ -73,7 +78,7 @@ width: 550px;
 <h2>Latest Issue</h2>
 </header>
 	
-<div class="grid-container">
+<div id="top" class="grid-container">
 
 <div id="img" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
