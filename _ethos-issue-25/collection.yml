@@ -2,6 +2,6 @@ collections:
   ethos-issue-25:
     output: true
     order:
-      - Prioritising the Big Small Things for SCALE.md
       - Editorial.md
       - Prioritising Purpose in the Public Service.md
+      - Prioritising the Big Small Things for SCALE.md
