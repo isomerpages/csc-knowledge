@@ -21,16 +21,16 @@ sections:
       url: /ethos/
   - infopic:
       title: Books
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+      description: CSC publishes a range of books, from case studies and primers, to
+        toolkits and conference proceedings.
       url: /books/
       image: /images/Ethos_Images/Ethos_Digital_Issue_04/Editorial_02.jpg
       alt: Ethos Digital Edition Issue 10
       button: See more
   - infopic:
       title: Research & Resources
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+      description: "You can find a curated selection of CSC writings and event
+        materials in our Research and Resources section. "
       button: See more
       image: /images/Ethos_Images/Ethos_Issue_16/Engaging_With_Stakeholders_For_Banner.png
       alt: Image alt text
