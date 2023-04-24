@@ -54,7 +54,8 @@ The rapid conﬂuence of these disruptive megatrends have left governments  with
 
 <p>I wish you an inspiring read.</p>
 	
-	
+<br>
+<br>	
 <div class="back">
 <a href="/ethos#editorial/">Back to Ethos Page</a>	
 </div>
