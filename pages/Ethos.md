@@ -12,7 +12,7 @@ margin-left:40px;
 #text
 {
 margin-right: 40px;
-margin-top: 50px;
+margin-top: 20px;
 }
 
 
