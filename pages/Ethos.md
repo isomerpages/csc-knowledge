@@ -6,7 +6,7 @@ description: ""
 <style>
 #text,#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8, #text9,#text10,#text11 
 {
-margin-left:20px;	
+margin-right:40px;	
 }
 
 #purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome
@@ -60,9 +60,6 @@ width: 550px;
 <h2>Latest Issue</h2>
 
 <div class="grid-container">
-<div id="img" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
-</div>
 
 <div id="text" class="grid-item">
 PRINT ISSUE 25, MAR 2023
@@ -71,10 +68,14 @@ PRINT ISSUE 25, MAR 2023
 
 public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
 <br>
-<div class="button2"><a href="#">Read More</a>
-</div>	
+<div class="button2"><a href="#">Read More</a></div>	
+	
 </div>
 
+<div id="img" class="grid-item">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
+</div>
+	
 </div>
 
 <br>
@@ -84,6 +85,8 @@ public sector can harness new technology, methods and approaches to address new 
 <div id="img1" class="grid-item">
 <img src="/images/Ethos_Images/Ethos_Issue_23/Editorial_02.jpg">
 </div>
+	
+	
 <div id="text1" class="grid-item">
 <h3>Editorial </h3>
 	<b><i>by Dr Alvin Pang</i></b>
