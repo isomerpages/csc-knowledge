@@ -45,7 +45,8 @@ The rapid conﬂuence of these disruptive megatrends have left governments  with
 	
 <p>An area for reinvigorated attention will be working with stakeholders and partners beyond the public sector to achieve public outcomes. While this is not a new approach, what was perhaps regarded as a good-to-have a decade ago has become all the more vital, precisely because of our constraints and the formidable scope of the challenges we face. In this, we can draw on a rich and growing body of international experience in carrying out such collaborations effectively   (p. 70). We must sustain the public trust and strong relationships crucial for such inter-sectoral efforts to thrive  (p. 88). Singapore’s Public Service, which enjoys ver y high levels of trust as a national institution, is in a good place to start reimagining the networks, communities, processes and partnerships we will need to thrive together as nation in a more turbulent 21st century. This is a precious resource we should not squander.</p>
 
-<p>I wish you an inspiring read.</p>	
-	
+<p>I wish you an inspiring read.</p>
+
+<h4><a href="/ethos/">Back to Ethos Page</a></h4>	
 	
 </article>
