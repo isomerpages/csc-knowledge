@@ -20,10 +20,7 @@ margin-top: 30px;
 margin-left:20px;	
 }
 	
-#img
-{
-margin-top: 30px;
-}
+
 
 
 #purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome
