@@ -2,6 +2,8 @@ collections:
   ethos-issue-25:
     output: true
     order:
+      - "Sectoral Collaboration as Public Resource: A Conversation with Gus
+        O’Donnell.md"
       - Driving Sustainability in the Public Sector.md
       - Enhancing Public Service with Tech.md
       - Budget 4 Optimising for Better Outcomes.md
