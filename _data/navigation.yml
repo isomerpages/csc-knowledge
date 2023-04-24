@@ -7,6 +7,9 @@ links:
         url: /ethos-subpage/past-issue/2023/
   - title: Books
     url: /books/
+    sublinks:
+      - title: Full Catalogue
+        url: /catalogue
   - title: Research
     url: /research/
   - title: Contact Us
