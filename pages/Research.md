@@ -54,7 +54,6 @@ second, to capture institutional knowledge on the practice of public governance,
 	public administration. Find out more on the <a href="#">evolution of the CSC case study</a> in the last two decades.</p>
 
 <b><a href="#">The Case Writer’s Toolkit</a></b>
-
 <p>This book deconstructs the case study, describes the case writing process and explains how a good case
 study is composed. It is a reference book that serves as a guide for writers who develop case studies for
 	teaching, research and knowledge-capture.</p>
