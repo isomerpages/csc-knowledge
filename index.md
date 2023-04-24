@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Knowledge Hub
       subtitle: Explore diverse perspectives in public policy and governance.
-      background: /images/Landing_Banner_Images/banner_ethos_q4.jpg
+      background: /images/knowledge_landing_banner.jpg
   - infopic:
       title: "Ethos "
       description: ETHOS is a publication of the Civil Service College aiming to
