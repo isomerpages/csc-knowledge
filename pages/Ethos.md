@@ -94,7 +94,6 @@ PRINT ISSUE 25, MAR 2023
 
 public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
 <br>
-<div class="button2"><a href="#">Read More</a></div>	
 </div>
 	
 </div>
