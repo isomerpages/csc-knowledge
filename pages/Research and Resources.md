@@ -31,6 +31,10 @@ details[open] summary {
 }
 	
 	</style>
+	
+<div class="background-image">
+<img src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7d1.jpg">
+</div>
 
 <details>
 	<ul>
