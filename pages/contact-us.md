@@ -26,10 +26,10 @@ locations:
     title: INN x CSC
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: ""
+      - email: cscollege@cscollege.gov.sg
+      - other: ""
+    title: General Enquiries
   - content:
       - phone: ""
       - email: careers@abc.gov.sg
