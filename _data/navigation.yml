@@ -4,7 +4,7 @@ links:
     url: /ethos/
     sublinks:
       - title: All Issues
-        url: /ethos-subpage/past-issue/2023/
+        url: /allissues/
   - title: Books
     url: /books/
     sublinks:
