@@ -21,6 +21,11 @@ td
 	border-style : hidden!important;
 }
 	
+td img
+{
+	filter: drop-shadow(0px 0px 6px black);
+}	
+	
 td a:link
 {
 color:#9f2943;
