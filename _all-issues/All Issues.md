@@ -46,8 +46,8 @@ description: ""
 	
 <div id="item2023" class="grid-item1">
 <img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"><br>
-	<a href="#">Ethos Issue 24</a><br>
-	<a href="#">Ethos Issue 24 (PDF)</a>
+	<a href="#">Digital Edition Issue 10, Mar 2023</a><br>
+	<a href="#">Download PDF</a>
 </div>
 
 </div>
@@ -58,13 +58,13 @@ description: ""
 <h3>2022</h3>
 
 <div id="item2022" class="grid-item1">
-<img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"><br>
-<a href="#">Ethos Issue 24</a><br>
-<a href="#">Ethos Issue 24 (PDF)</a>
+<img src="/images/Ethos_Thumbnails_Cover/ethosdigital09.jpg"><br>
+<a href="#">Digital Edition Issue 9, Nov 2022</a><br>
+<a href="#">Download PDF</a>
 </div>
 	
 <div id="item20221" class="grid-item1">
-<img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"><br>
+<img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"><br>
 <a href="#">Ethos Issue 24</a><br>
 <a href="#">Ethos Issue 24 (PDF)</a>
 </div>
