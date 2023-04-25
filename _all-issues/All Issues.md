@@ -83,8 +83,8 @@ width:50%;
 </th>	
 	
 </tr><tr>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital09.jpg"></td>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue23.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital07.jpg"></td>
 </tr>
 	
 <tr>
@@ -99,8 +99,8 @@ width:50%;
 </tr>
 
 <tr>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital08.jpg"></td>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital08.jpg"></td>	
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue22.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigitalmarch2021specialedition.jpg"></td>	
 </tr>
 
 <tr>
