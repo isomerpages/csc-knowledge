@@ -15,14 +15,6 @@ description: ""
   grid-template-columns: auto auto; 
 }
 
-
-	
-#digital10 img
-{
- width:300px;
- height:360px;
-}
-
 	
 
 	
