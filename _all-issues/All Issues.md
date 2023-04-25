@@ -267,8 +267,8 @@ td
 </th>	
 	
 </tr><tr>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital01.jpg"></td>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue17.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue16.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue15.jpg"></td>
 </tr>
 	
 <tr>
@@ -283,27 +283,17 @@ td
 </tr>
 	
 <tr>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital01.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue14.jpg"></td>
 </tr>
 		
 <tr>
 	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
 </tr>
+	
+<tr>
+	<td><a href="#">Download PDF</a></td>
+</tr>	
 
 
 </tbody>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
