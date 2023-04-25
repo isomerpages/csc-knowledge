@@ -14,8 +14,11 @@ width:50%;
 {
 width: 100%;	
 }
-	
 
+td 
+	{
+     border-style : hidden!important;
+    }
 	
 	
 </style>
@@ -147,21 +150,3 @@ width: 100%;
 
 </tbody>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
