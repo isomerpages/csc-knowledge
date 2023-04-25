@@ -18,7 +18,10 @@ border-bottom: 1px solid black;
 	font-weight: bold;
 }
 
-	
+#banner img
+{
+	width:500px;
+}
 	
 	
 	
@@ -35,7 +38,7 @@ explores how the public sector needs to regroup and take stock: to
 reassess priorities and to consolidate hard-won lessons from a gruelling,
 as well as revealing, past few years.</p><br>
 </header>
-
+<br>
 <div id="banner">
 <img src="/images/Ethos_Images/Ethos_Issue_23/Editorial_02.jpg">
 </div>
