@@ -3,7 +3,7 @@ title: All Issues
 permalink: /allissues/
 description: ""
 ---
-<style>
+![Digital Issue 5](/images/Ethos_Thumbnails_Cover/ethosdigital05.jpg)<style>
 
 #container-2023
 {
@@ -159,8 +159,8 @@ td
 </th>	
 	
 </tr><tr>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue23.jpg"></td>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital07.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital05.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue21.jpg"></td>
 </tr>
 	
 <tr>
