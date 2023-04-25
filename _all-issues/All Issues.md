@@ -90,8 +90,36 @@ margin-top:60px;
 <a href="#">Download PDF</a>
 </div>
 
+<div id="container2021" class="grid-container">
+	
+<h3>2021</h3>
 
+<div id="item2022" class="grid-item1">
+<img src="/images/Ethos_Thumbnails_Cover/ethosdigital09.jpg"><br>
+<a href="#">Digital Edition Issue 9, Nov 2022</a><br>
+<a href="#">Download PDF</a>
+</div>
+	
+<div id="item20221" class="grid-item1">
+<img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"><br>
+<a href="#">Issue 24, Aug 2022, Urban Sustainability</a><br>
+<a href="#">Download PDF</a>
+</div>
+	
+<div id="item2022" class="grid-item1">
+<img src="/images/Ethos_Thumbnails_Cover/ethosdigital09.jpg"><br>
+<a href="#">Digital Edition Issue 9, Nov 2022</a><br>
+<a href="#">Download PDF</a>
+</div>
+	
+<div id="item20221" class="grid-item1">
+<img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"><br>
+<a href="#">Issue 24, Aug 2022, Urban Sustainability</a><br>
+<a href="#">Download PDF</a>
+</div>	
+	
+</div>
 
-
+<br>
 
 
