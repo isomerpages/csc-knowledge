@@ -15,11 +15,6 @@ description: ""
   grid-template-columns: auto auto auto;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto;
-}
-
 #container2022
 {
 	margin-top:30px;
@@ -65,8 +60,11 @@ description: ""
 	
 <div id="item20221" class="grid-item1">
 <img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"><br>
-<a href="#">Ethos Issue 24</a><br>
-<a href="#">Ethos Issue 24 (PDF)</a>
+<a href="#">Issue 24, Aug 2022, Urban Sustainability</a><br>
+<a href="#">Download PDF</a>
 </div>
 	
 </div>
+
+<br>
+
