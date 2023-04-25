@@ -186,5 +186,6 @@ td
 	<td><a href="#">Download PDF</a></td>
 	<td><a href="#">Download PDF</a></td>
 </tr>	
+	
 </tbody>
 </table>
