@@ -2,6 +2,7 @@ collections:
   ethos-subpage:
     output: true
     order:
+      - Past Issue/All Issues.md
       - Past Issue/2023.md
       - Past Issue/.keep
       - Past Issue/2022.md
