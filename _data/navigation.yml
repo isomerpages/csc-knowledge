@@ -1,5 +1,7 @@
 logo: /images/csc_logo.png
 links:
+  - title: Corporate Website
+    url: https://www.csc.gov.sg/
   - title: Ethos
     url: /ethos/
     sublinks:
