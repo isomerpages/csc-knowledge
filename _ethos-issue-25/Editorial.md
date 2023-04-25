@@ -40,7 +40,7 @@ as well as revealing, past few years.</p><br>
 </header>
 <br>
 <div id="banner">
-<img src="/images/Ethos_Images/Ethos_Issue_23/Editorial_02.jpg">
+<img src="/images/Landing_Banner_Images/editorial_landing.jpg">
 </div>
 <br>
 <article>
