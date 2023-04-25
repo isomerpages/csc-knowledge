@@ -9,11 +9,12 @@ description: ""
 {
 width:50%;	
 }
-	
-#container-2022
-{
-width: 100%;	
-}
+
+table
+{ 
+border-collapse: separate; 
+border-spacing: 50px 0px; 	
+}	
 
 td 
 {
@@ -230,11 +231,3 @@ td
 	
 </tbody>
 </table>
-
-
-
-
-
-
-
-
