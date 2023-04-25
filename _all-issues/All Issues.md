@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 
-#container-2023, #container-2014, #container-2013,#container-2012, #container-2009  
+#container-2023, #container-2014, #container-2013,#container-2012, #container-2009, #container-2006 
 {
 width:50%;	
 }
@@ -519,6 +519,30 @@ text-decoration: none;
 	<td><a href="#">Download PDF</a></td>
 </tr>
 
+
+</tbody>
+</table>
+
+<table id="container-2006">
+<tbody>
+
+<tr><th>	
+<h3>2006</h3>
+</th>	
+	
+</tr>
+<tr>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue01.jpg"></td>
+</tr>
+	
+<tr>
+<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+</tr>
+
+
+<tr>
+	<td><a href="#">Download PDF</a></td>
+</tr>
 
 </tbody>
 </table>
