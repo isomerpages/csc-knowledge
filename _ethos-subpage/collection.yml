@@ -2,12 +2,12 @@ collections:
   ethos-subpage:
     output: true
     order:
-      - Past Issue/All Issues.md
-      - Past Issue/2023.md
-      - Past Issue/.keep
-      - Past Issue/2022.md
-      - Past Issue/2021.md
-      - Past Issue/2020.md
-      - Past Issue/2019.md
-      - Past Issue/2018.md
-      - Past Issue/2017.md
+      - All Issues/All Issues.md
+      - All Issues/2023.md
+      - All Issues/.keep
+      - All Issues/2022.md
+      - All Issues/2021.md
+      - All Issues/2020.md
+      - All Issues/2019.md
+      - All Issues/2018.md
+      - All Issues/2017.md
