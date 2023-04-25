@@ -54,7 +54,13 @@ width: 550px;
 {
 	border-bottom: 0.5px solid black;
 }
-	
+
+.button1 a
+{
+	color: #9f2943;
+	font-style: italic;
+	font-weight:bold
+}
 
 .button2 a
 {
@@ -90,9 +96,10 @@ width: 550px;
 <div id="text" class="grid-item">
 PRINT ISSUE 25, MAR 2023
 <h3>Ethos Print Issue 25</h3>	
-<p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the
+<p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
 
-public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
+<div class="button1"><a href="/editorial-issue-25/">Download PDF</a></div>
+	<br>	
 <br>
 </div>
 	
