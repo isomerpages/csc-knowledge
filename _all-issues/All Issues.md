@@ -35,8 +35,17 @@ description: ""
 {
 width:340px;
 margin-top: 20px;
-margin-left:80px;
+margin-left:88px;
 }
+	
+#container2021
+{
+margin-top:60px;
+
+}
+	
+	
+
 	
 	
 
@@ -82,20 +91,7 @@ margin-left:80px;
 </div>
 
 
-<div id="container2022" class="grid-container">
-	
-<h3>2021</h3>
 
-<div id="item2022" class="grid-item1">
-<img src="/images/Ethos_Thumbnails_Cover/ethosdigital09.jpg"><br>
-<a href="#">Digital Edition Issue 9, Nov 2022</a><br>
-<a href="#">Download PDF</a>
-</div>
-	
-<div id="item20221" class="grid-item1">
-<img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"><br>
-<a href="#">Issue 24, Aug 2022, Urban Sustainability</a><br>
-<a href="#">Download PDF</a>
-</div>	
-	
-</div>
+
+
+
