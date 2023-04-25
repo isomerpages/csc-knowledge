@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 
-#container-2023, #container-2014, #container-2013,#container-2012 
+#container-2023, #container-2014, #container-2013,#container-2012, #container-2009  
 {
 width:50%;	
 }
@@ -389,6 +389,123 @@ text-decoration: none;
 </tr><tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue10.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue09.jpg"></td>
+</tr>
+	
+<tr>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+</tr>
+
+
+<tr>
+	<td><a href="#">Download PDF</a></td>
+	<td><a href="#">Download PDF</a></td>
+</tr>
+
+
+</tbody>
+</table>
+
+<table id="container-2010">
+<tbody>
+
+<tr><th>	
+<h3>2010</h3>
+</th>	
+	
+</tr><tr>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue08.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue07.jpg"></td>
+</tr>
+	
+<tr>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+</tr>
+
+
+<tr>
+	<td><a href="#">Download PDF</a></td>
+	<td><a href="#">Download PDF</a></td>
+</tr>
+
+
+</tbody>
+</table>
+
+<table id="container-2009">
+<tbody>
+
+<tr><th>	
+<h3>2009</h3>
+</th>	
+	
+</tr>
+<tr>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue06.jpg"></td>
+</tr>
+	
+<tr>
+<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+</tr>
+
+
+<tr>
+	<td><a href="#">Download PDF</a></td>
+</tr>
+
+</tbody>
+</table>
+
+<table id="container-2008">
+<tbody>
+
+<tr><th>	
+<h3>2008</h3>
+</th>	
+	
+</tr><tr>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue05.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosworldsummitissue.jpg"></td>
+</tr>
+	
+<tr>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+</tr>
+
+
+<tr>
+	<td><a href="#">Download PDF</a></td>
+	<td><a href="#">Download PDF</a></td>
+</tr>
+	
+<tr>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue04.jpg"></td>
+</tr>
+		
+<tr>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+</tr>
+	
+<tr>
+	<td><a href="#">Download PDF</a></td>
+</tr>	
+
+
+</tbody>
+</table>
+
+<table id="container-2007">
+<tbody>
+
+<tr><th>	
+<h3>2007</h3>
+</th>	
+	
+</tr><tr>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue03.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue02.jpg"></td>
 </tr>
 	
 <tr>
