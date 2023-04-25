@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - All Issues.md
-      - All Issues/2023.md
       - All Issues/.keep
       - All Issues/2022.md
       - All Issues/2021.md
