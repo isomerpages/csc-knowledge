@@ -21,6 +21,13 @@ td
 	border-style : hidden!important;
 }
 	
+td a:link
+{
+color:#9f2943;
+text-decoration: none;
+}	
+
+	
 </style>
 
 
