@@ -3,7 +3,7 @@ title: All Issues
 permalink: /allissues/
 description: ""
 ---
-![Digital Issue 5](/images/Ethos_Thumbnails_Cover/ethosdigital05.jpg)<style>
+<style>
 
 #container-2023
 {
@@ -16,10 +16,9 @@ width: 100%;
 }
 
 td 
-	{
-     border-style : hidden!important;
-    }
-	
+{
+	border-style : hidden!important;
+}
 	
 </style>
 
