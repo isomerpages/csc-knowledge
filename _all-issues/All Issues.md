@@ -118,3 +118,50 @@ width: 100%;
 </tr>	
 </tbody>
 </table>
+
+
+
+<table id="container-2020">
+<tbody>
+
+<tr><th>	
+<h3>2020</h3>
+</th>	
+	
+</tr><tr>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital2020specialedition.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital06.jpg"></td>
+</tr>
+	
+<tr>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+</tr>
+
+
+<tr>
+	<td><a href="#">Download PDF</a></td>
+	<td><a href="#">Download PDF</a></td>
+</tr>
+
+
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
