@@ -71,7 +71,7 @@ width: 550px;
 .grid-container
 	{
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto;
 }
 
 .grid-item {
