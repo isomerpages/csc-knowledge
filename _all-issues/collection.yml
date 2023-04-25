@@ -1,5 +1,5 @@
 collections:
-  ethos-subpage:
+  all-issues:
     output: true
     order:
       - All Issues/All Issues.md
