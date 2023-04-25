@@ -28,14 +28,14 @@ description: ""
 	
 #item20221
 {
-  margin-left:20px;
+  margin-left:30px;
 }
 	
 #item20222
 {
 width:340px;
 margin-top: 20px;
-margin-left:90px;
+margin-left:80px;
 }
 	
 	
