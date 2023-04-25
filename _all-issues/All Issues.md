@@ -33,7 +33,7 @@ description: ""
 	
 #item20222
 {
-width:350px;
+width:340px;
 margin-top: 20px;
 margin-left:90px;
 }
@@ -76,8 +76,7 @@ margin-left:90px;
 <br>
 
 <div id="item20222" class="grid-item1">
-<img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"><br>
+<img src="/images/Ethos_Thumbnails_Cover/ethosdigital08.jpg"><br>
 <a href="#">Issue 24, Aug 2022, Urban Sustainability</a><br>
 <a href="#">Download PDF</a>
 </div>
-	
