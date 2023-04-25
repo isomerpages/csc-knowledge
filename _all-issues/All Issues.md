@@ -21,7 +21,8 @@ width:50%;
 <tr><th>	
 <h3>2023</h3>
 </th>	
- </tr><tr>
+
+</tr><tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"></td>
 </tr>
 	
@@ -70,8 +71,5 @@ width:50%;
 <tr>
 	<td><a href="#">Download PDF</a></td>
 </tr>	
-	
-
 </tbody>
-	
 </table>
