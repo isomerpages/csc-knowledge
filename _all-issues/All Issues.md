@@ -77,6 +77,6 @@ margin-left:90px;
 
 <div id="item20222" class="grid-item1">
 <img src="/images/Ethos_Thumbnails_Cover/ethosdigital08.jpg"><br>
-<a href="#">Issue 24, Aug 2022, Urban Sustainability</a><br>
+<a href="#">Digital Edition Issue 8, Apr 2022</a><br>
 <a href="#">Download PDF</a>
 </div>
