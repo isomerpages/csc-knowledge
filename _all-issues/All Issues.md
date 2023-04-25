@@ -190,3 +190,51 @@ td
 	
 </tbody>
 </table>
+
+<table id="container-2018">
+<tbody>
+
+<tr><th>	
+<h3>2019</h3>
+</th>	
+	
+</tr><tr>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital03.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue19.jpg"></td>
+</tr>
+	
+<tr>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+</tr>
+
+
+<tr>
+	<td><a href="#">Download PDF</a></td>
+	<td><a href="#">Download PDF</a></td>
+</tr>
+
+<tr>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital02.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue18.jpg"></td>
+</tr>
+
+<tr>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+</tr>	
+<tr>
+	<td><a href="#">Download PDF</a></td>
+	<td><a href="#">Download PDF</a></td>
+</tr>	
+	
+</tbody>
+</table>
+
+
+
+
+
+
+
+
