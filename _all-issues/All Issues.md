@@ -31,6 +31,13 @@ description: ""
   margin-left:20px;
 }
 	
+#item20222
+{
+width:350px;
+margin-top: 20px;
+margin-left:90px;
+}
+	
 	
 
 
@@ -68,3 +75,9 @@ description: ""
 
 <br>
 
+<div id="item20222" class="grid-item1">
+<img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"><br>
+<a href="#">Issue 24, Aug 2022, Urban Sustainability</a><br>
+<a href="#">Download PDF</a>
+</div>
+	
