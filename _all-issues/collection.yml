@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - All Issues.md
-      - 2023.md
       - 2022.md
       - 2021.md
       - 2020.md
