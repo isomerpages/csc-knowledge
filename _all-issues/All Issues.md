@@ -175,8 +175,8 @@ td
 </tr>
 
 <tr>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue22.jpg"></td>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigitalmarch2021specialedition.jpg"></td>	
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital04.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue20.jpg"></td>
 </tr>
 
 <tr>
