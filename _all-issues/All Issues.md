@@ -315,7 +315,7 @@ text-decoration: none;
 	
 </tr>
 <tr>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue16.jpg"></td>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue13.jpg"></td>
 </tr>
 	
 <tr>
