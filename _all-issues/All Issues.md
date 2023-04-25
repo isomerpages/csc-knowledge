@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 
-#container-2023
+#container-2023, #container-2014
 {
 width:50%;	
 }
@@ -300,6 +300,33 @@ text-decoration: none;
 <tr>
 	<td><a href="#">Download PDF</a></td>
 </tr>	
+
+
+</tbody>
+</table>
+
+
+<table id="container-2014">
+<tbody>
+
+<tr><th>	
+<h3>2014</h3>
+</th>	
+	
+</tr>
+<tr>
+<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue16.jpg"></td>
+</tr>
+	
+<tr>
+	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+</tr>
+
+
+<tr>
+	<td><a href="#">Download PDF</a></td>
+</tr>
+	
 
 
 </tbody>
