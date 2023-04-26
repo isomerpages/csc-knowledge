@@ -141,6 +141,8 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 
 <div class="button1"><a href="/editorial-issue-25/">Read More</a></div> <br>
 </td>
+	
+	
 </tr>
 	
 </tbody>
