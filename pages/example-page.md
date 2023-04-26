@@ -3,57 +3,17 @@ title: Example Page
 permalink: /example-page/
 ---
 <style>
-* {
-  box-sizing: border-box;
-}
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+
+
 
 [class*="col-"] {
   float: left;
   padding: 15px;
 }
 
-html {
-  font-family: "Lucida Sans", sans-serif;
-}
 
-.header {
-  background-color: #9933cc;
-  color: #ffffff;
-  padding: 15px;
-}
 
-.menu ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.menu li {
-  padding: 8px;
-  margin-bottom: 7px;
-  background-color: #33b5e5;
-  color: #ffffff;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-}
-
-.menu li:hover {
-  background-color: #0099cc;
-}
-
-.aside {
-  background-color: #33b5e5;
-  padding: 15px;
-  color: #ffffff;
-  text-align: center;
-  font-size: 14px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-}
 
 .footer {
   background-color: #0099cc;
@@ -103,36 +63,24 @@ html {
 
 
 <div class="header">
-  <h1>Chania</h1>
+	
+<div class="col-6 col-s-12">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
+</div>
+<div class="col-6 col-s-12">
+PRINT ISSUE 25, MAR 2023
+<h3>Ethos Print Issue 25</h3>	
+<p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
+</div>
+	
 </div>
 
-<div class="row">
-  <div class="col-3 col-s-3 menu">
-    <ul>
-      <li>The Flight</li>
-      <li>The City</li>
-      <li>The Island</li>
-      <li>The Food</li>
-    </ul>
-  </div>
 
-  <div class="col-6 col-s-9">
-    <h1>The City</h1>
-    <p>Chania is the capital of the Chania region on the island of Crete. The city can be divided in two parts, the old town and the modern city.</p>
-  </div>
 
-  <div class="col-3 col-s-12">
-    <div class="aside">
-      <h2>What?</h2>
-      <p>Chania is a city on the island of Crete.</p>
-      <h2>Where?</h2>
-      <p>Crete is a Greek island in the Mediterranean Sea.</p>
-      <h2>How?</h2>
-      <p>You can reach Chania airport from all over Europe.</p>
-    </div>
-  </div>
+
+
+ <div class="col-3 col-s-12">
+
 </div>
+	
 
-<div class="footer">
-  <p>Resize the browser window to see how the content respond to the resizing.</p>
-</div>
