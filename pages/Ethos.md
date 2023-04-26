@@ -68,7 +68,7 @@ width:1200px;
 	
 #wake-up-call img
 {
-width:1900px;
+width:1800px;
 }	
 	
 #cultivate img
