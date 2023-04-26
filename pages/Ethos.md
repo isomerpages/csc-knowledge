@@ -57,7 +57,7 @@ width: 1700px;
 
 #sector img
 {
-width:1270px;	
+width:1200px;	
 }
 
 #outcome img
@@ -169,7 +169,7 @@ background-color: green;
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
 
 
-<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Download PDF</a></div>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></div>
 	
 </td>
 </tr>
@@ -223,7 +223,7 @@ in the Public Service</h3>
 The Chairperson of  the Public Sector Transformation—  People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
 </p>	
 
-<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -243,7 +243,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort. The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>	
 
-<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -266,7 +266,7 @@ public good: instead, they can prompt innovative improvements in
 the way public services are resourced, structured and operated. 
 </p>	
 
-<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -287,7 +287,7 @@ the way public services are resourced, structured and operated.
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>	
 
-<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -307,7 +307,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 A public sector tech leader outlines how technology can complement new ways of thinking and working—making the most of scarce resources to achieve better public outcomes.
 </p>	
 
-<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -328,21 +328,24 @@ A public sector tech leader outlines how technology can complement new ways of t
 Recognising its role to achieve net zero, Singapore’s public sector has developed decarbonisation measures, embedded environmental sustainability into its core businesses, and built up key competencies.
 </p>	
 
-<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
 </table>
 
 
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg">
-
 <table id="sector">
 <tbody>
 
 <tr>
+<td class="img">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg">
+</td>
+
 <td>	
-<h3>Sectoral Collaboration as Public Resource: A Conversation with  Gus O’Donnell </h3>
+<h3>Sectoral Collaboration as Public Resource: A Conversation with  Gus O’Donnell 
+</h3>
 <b><i>by Augustine O’Donnell</i></b>
 
 <p>	
@@ -350,8 +353,9 @@ The veteran economist and former UK Cabinet Secretary argues that harnessing ski
 to addressing societal needs in the long term.
 </p>	
 
-<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
+	
 </tr>
 </tbody>
 </table>
@@ -371,7 +375,7 @@ Effective social impact arrangements are purpose-driven, motivate relationship-b
 and centre learning in exploring new ways to deliver public value.
 </p>	
 
-<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -394,7 +398,7 @@ and centre learning in exploring new ways to deliver public value.
 In this ETHOS Roundtable, three distinguished participants of the  14th Leaders in Governance Programme discuss how global challenges have reshaped thinking on national resourcing and the core work of the public sector.
 </p>	
 
-<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -414,7 +418,7 @@ In this ETHOS Roundtable, three distinguished participants of the  14th Leaders 
 The public sector should take steps to strengthen the muscles of civic discourse and decision-making, to face a future where our most pressing issues call for all in society to pull together
 </p>	
 
-<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
