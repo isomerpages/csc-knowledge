@@ -7,9 +7,9 @@ description: ""
 
 #container-2023, #container-2014, #container-2013,#container-2012, #container-2009, #container-2006 
 {
-width:50%;	
+width:53%	
 }
-
+	
 table
 { 
 border-collapse: separate; 
@@ -36,12 +36,12 @@ text-decoration: none;
 </style>
 
 
-<table id="container-2023">	
+<h3>2023</h3><table id="container-2023">	
 <tbody>
 	
-<tr><th>	
-<h3>2023</h3>
-</th>	
+<tr>
+
+
 
 </tr><tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"></td>
@@ -59,12 +59,12 @@ text-decoration: none;
 
 <br>
 
-<table id="container-2022">
+<h3>2022</h3><table id="container-2022">
 <tbody>
 
-<tr><th>	
-<h3>2022</h3>
-</th>	
+<tr>
+
+	
 	
 </tr><tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital09.jpg"></td>
@@ -96,12 +96,12 @@ text-decoration: none;
 </table>
 
 
-<table id="container-2021">
+<h3>2021</h3><table id="container-2021">
 <tbody>
 
-<tr><th>	
-<h3>2021</h3>
-</th>	
+<tr>
+
+	
 	
 </tr><tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue23.jpg"></td>
@@ -137,12 +137,12 @@ text-decoration: none;
 
 
 
-<table id="container-2020">
+<h3>2020</h3><table id="container-2020">
 <tbody>
 
-<tr><th>	
-<h3>2020</h3>
-</th>	
+<tr>	
+
+	
 	
 </tr><tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital2020specialedition.jpg"></td>
@@ -164,12 +164,12 @@ text-decoration: none;
 </tbody>
 </table>
 
-<table id="container-2019">
+<h3>2019</h3><table id="container-2019">
 <tbody>
 
-<tr><th>	
-<h3>2019</h3>
-</th>	
+<tr>
+
+	
 	
 </tr><tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital05.jpg"></td>
@@ -204,12 +204,12 @@ text-decoration: none;
 </tbody>
 </table>
 
-<table id="container-2018">
+<h3>2018</h3><table id="container-2018">
 <tbody>
 
-<tr><th>	
-<h3>2018</h3>
-</th>	
+<tr>
+
+	
 	
 </tr><tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital03.jpg"></td>
