@@ -68,12 +68,12 @@ width:1300px;
 	
 #wake-up-call img
 {
-width:1600px;
+width:1500px;
 }	
 	
 #cultivate img
 {
-width:1500px;
+width:1400px;
 }		
 	
 
