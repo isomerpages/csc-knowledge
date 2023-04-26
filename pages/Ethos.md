@@ -7,7 +7,7 @@ description: ""
 table
 { 
 border-collapse: separate; 
-border-spacing: 30px 0px; 	
+border-spacing: 20px 0px; 	
 }	
 
 td 
@@ -27,32 +27,32 @@ width:1000px
 	
 #scale img
 {
-width: 870px;	
+width: 1200px;	
 }
 	
 #econ img
 {
-width: 720px;	
+width: 970px;	
 }	
 
 #budget img
 {
-width: 800px;	
+width: 1200px;	
 }
 	
 #enhance img
 {
-width: 500px;	
+width: 850px;	
 }
 	
 #driving img
 {
-width: 650px;
+width: 1100px;
 }
 
 #sector img
 {
-width:500px;	
+width:800px;	
 }
 
 #outcome img
