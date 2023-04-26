@@ -48,7 +48,7 @@ width: 1900px;
 	
 #enhance img
 {
-width: 1200px;	
+width: 1240px;	
 }
 	
 #driving img
