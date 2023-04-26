@@ -171,7 +171,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 </tbody>
 </table>
 
-<table id="scale">
+<table id="econ">
 <tbody>
 
 <tr>
@@ -179,7 +179,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 
 <td>	
 <h3>Economising with Imagination in Harsh Times</h3>
-<b><i>by Eileen Wong</i></b>
+<b><i>by Geoﬀ Mulgan</i></b>
 
 <p>	
 Crisis does not always have to lead to damaging reductions in the 
@@ -194,47 +194,31 @@ the way public services are resourced, structured and operated.
 </table>
 
 
+<table id="budget">
+<tbody>
 
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_1.jpg"></td>
 
+<td>	
+<h3>Budget 4.0: Optimising for Better Outcomes</h3>
+<b><i>by Kwa Chin Lum and Kyle Goh</i></b>
 
-
-<div id="econ" class="grid-container">
-	
-<div id="img4" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg">
-</div>
-	
-<div id="text4" class="grid-item">
-<h3>Economising with Imagination in Harsh Times</h3>
-	<b><i>by Geoﬀ Mulgan</i></b>
-<p>	
-Crisis does not always have to lead to damaging reductions in the 
-public good: instead, they can prompt innovative improvements in 
-the way public services are resourced, structured and operated. 
-</p>
-
-<div class="button2"><a href="#">Read More</a></div><br>
-	
-</div>
-</div>
-
-<div id="budget" class="grid-container">
-	
-<div id="img5" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_1.jpg">
-</div>
-	
-<div id="text5" class="grid-item">
-<h3> Budget 4.0: Optimising for Better Outcomes</h3>
-	<b><i>by Kwa Chin Lum and Kyle Goh</i></b>
 <p>	
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
-</p>
+</p>	
 
-<div class="button2"><a href="#">Read More</a></div><br>
-	
-</div>
-</div>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
 
 <div id="enhance" class="grid-container">
 	
@@ -338,5 +322,3 @@ and centre learning in exploring new ways to deliver public value. </p>
 	
 </div>
 </div>
-
-
