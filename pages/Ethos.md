@@ -85,60 +85,21 @@ width:1520px;
 .button1 a
 {
 	color: #9f2943;
-	font-weight:bold
+	font-weight:bold;
 }
 	
-
-	
-/* Extra small devices (phones, 600px and down) */  
-
-	@media only screen and (max-width: 600px) {
-	
-	.img
-	{
-	display:none;
-	}
-	
 body
 {
-background-color: red;	
+background-color: gray;
+} 
+	
+@media screen and (min-width: 480px) 
+{  
+	
+body 
+{
+background-color: blue;	
 }
-	
-	
-	} 
-  
-/* Small devices (portrait tablets and large phones, 600px and up) */  
-@media only screen and (min-width: 600px) {
-
-.img
-	{
-display:none;
-	}
-	
-body
-{
-background-color: green;	
-}	
-	
-	
-	
-}  
-  
-/* Medium devices (landscape tablets, 768px and up) */  
-@media only screen and (min-width: 768px) {
-
-	
-.img
-	{
-	display:none;
-	}
-
-body
-{
-background-color: green;	
-}	
-	
-}	
 
 	
 </style>
