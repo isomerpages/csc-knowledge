@@ -71,7 +71,7 @@ width:980px;
 }		
 	
 
-#purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome,#wake-up-call
+#editorial,#purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome,#wake-up-call
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
