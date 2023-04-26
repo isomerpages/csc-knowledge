@@ -18,7 +18,7 @@ td
 
 #column-1 img	
 {
-width:100%;	
+width:2100px;	
 }
 
 #purpose img
@@ -28,22 +28,22 @@ width:2400px;
 
 #editorial img
 {
-width:100%;
+width:2300px;
 }
 	
 #scale img
 {
-width: 100%;	
+width: 2000px;	
 }
 	
 #econ img
 {
-width: 100%;	
+width: 1600px;	
 }	
 
 #budget img
 {
-width:100%;	
+width:1900px;	
 }
 	
 #enhance img
