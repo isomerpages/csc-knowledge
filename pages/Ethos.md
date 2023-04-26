@@ -25,7 +25,7 @@ margin-top: 40px;
 margin-left:20px;	
 }
 
-#purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome
+#purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome,#wake-up-call
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
@@ -277,64 +277,70 @@ to addressing societal needs in the long term.
 </tbody>
 </table>
 
+<table id="outcome">
+<tbody>
 
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg"></td>
 
+<td>	
+<h3>Making Outcome-Based Approaches Work:  Insights from the UK’s Government Outcomes Lab</h3>
+<b><i>by Mara Airoldi</i></b>
 
-
-
-
-
-
-
-
-
-
-<div id="outcome" class="grid-container">
-	
-<div id="img9" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg">
-</div>
-	
-<div id="text9" class="grid-item">
-<h3> Making Outcome-Based Approaches Work:  Insights from the UK’s Government Outcomes Lab</h3>
-	<b><i>by Mara Airoldi</i></b>
 <p>	
 Effective social impact arrangements are purpose-driven, motivate relationship-building 
-and centre learning in exploring new ways to deliver public value. </p>
+and centre learning in exploring new ways to deliver public value.
+</p>	
 
-<div class="button2"><a href="#">Read More</a></div><br>
-	
-</div>
-</div>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
 
-<div id="outcome" class="grid-container">
-	
-<div id="img10" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury,%20Narain.jpg">
-</div>
-	
-<div id="text10" class="grid-item">
-<h3> The Wake-Up Call: Rethinking Growth and Government in a  Crisis-Constrained World </h3>
-	<b><i>by Samheng Bora, Mohibul Hasan Chowdhoury, and  Aruna Devi Narain</i></b>
-<p>	In this ETHOS Roundtable, three distinguished participants of the  14th Leaders in Governance Programme discuss how global challenges have reshaped thinking on national resourcing and the core work of the public sector.</p>
 
-<div class="button2"><a href="#">Read More</a></div><br>
-	
-</div>
-</div>
 
-<div id="cultivate" class="grid-container">
-	
-<div id="img11" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_CatherineFieschi.jpg">
-</div>
-	
-<div id="text11" class="grid-item">
-<h3> Moving the Conversation: Cultivating Public Participation and Goodwill in a New Era of Challenges</h3>
-	<b><i>by Catherine Fieschi</i></b>
-<p>	The public sector should take steps to strengthen the muscles of civic discourse and decision-making, to face a future where our most pressing issues call for all in society to pull together.</p>
 
-<div class="button2"><a href="#">Read More</a></div><br>
-	
-</div>
-</div>
+<table id="wake-up-call">
+<tbody>
+
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury,%20Narain.jpg"></td>
+
+<td>	
+<h3>The Wake-Up Call: Rethinking Growth and Government in a  Crisis-Constrained World </h3>
+<b><i>by Samheng Bora, Mohibul Hasan Chowdhoury, and  Aruna Devi Narain</i></b>
+
+<p>	
+In this ETHOS Roundtable, three distinguished participants of the  14th Leaders in Governance Programme discuss how global challenges have reshaped thinking on national resourcing and the core work of the public sector.
+</p>	
+
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table id="cultivate">
+<tbody>
+
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_CatherineFieschi.jpg"></td>
+
+<td>	
+<h3>Moving the Conversation: Cultivating Public Participation and Goodwill in a New Era of Challenges </h3>
+<b><i>by Catherine Fieschi</i></b>
+
+<p>	
+The public sector should take steps to strengthen the muscles of civic discourse and decision-making, to face a future where our most pressing issues call for all in society to pull together
+</p>	
+
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
