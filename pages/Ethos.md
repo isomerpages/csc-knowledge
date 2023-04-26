@@ -23,57 +23,57 @@ width:1700px;
 
 #purpose img
 {
-width:2200px;
+width:2400px;
 }
 
 #editorial img
 {
-width:2200px;
+width:2050px;
 }
 	
 #scale img
 {
-width: 1650px;	
+width: 2000px;	
 }
 	
 #econ img
 {
-width: 1240px;	
+width: 1700px;	
 }	
 
 #budget img
 {
-width:1500px;	
+width:1900px;	
 }
 	
 #enhance img
 {
-width: 970px;	
+width: 1300px;	
 }
 	
 #driving img
 {
-width: 1200px;
+width: 1900px;
 }
 
 #sector img
 {
-width:840px;	
+width:1450px;	
 }
 
 #outcome img
 {
-width:940px;
+width:1650px;
 }
 	
 #wake-up-call img
 {
-width:1020px;
+width:1900px;
 }	
 	
 #cultivate img
 {
-width:920px;
+width:1930px;
 }		
 	
 
