@@ -16,14 +16,14 @@ td
 	border-style : hidden!important;
 }
 
-#column-1 img	
+#book1 img	
 {
 width:1700px;	
 }
 
-#purpose img
+#book2 img
 {
-width:2400px;
+width:1300px;
 }
 
 #editorial img
@@ -77,7 +77,7 @@ width:1200px;
 }		
 	
 
-#editorial,#purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome,#wake-up-call
+#book1,#book2,#book3
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
@@ -97,11 +97,11 @@ width:1200px;
 
 
 
-<table id="purpose">
+<table id="book1">
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg"></td>
+<td><img src="/images/Books/book1image.jpg"></td>
 
 <td>	
 <h3>Prioritising Purpose  
@@ -118,11 +118,13 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 </tbody>
 </table>
 
-<table id="scale">
+<table id="book2">
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg"></td>
+<td>
+<img src="/images/Books/book2image.png">
+</td>
 
 <td>	
 <h3>Prioritising the Big Small Things for S.C.A.L.E</h3>
@@ -139,11 +141,11 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 </table>
 
 
-<table id="econ">
+<table id="book3">
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg"></td>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg">![book 3](/images/Books/book3image.jpg)</td>
 
 <td>	
 <h3>Economising with Imagination in Harsh Times</h3>
