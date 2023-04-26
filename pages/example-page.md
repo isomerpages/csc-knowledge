@@ -79,8 +79,4 @@ PRINT ISSUE 25, MAR 2023
 
 
 
- <div class="col-3 col-s-12">
-
-</div>
-	
 
