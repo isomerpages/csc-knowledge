@@ -88,10 +88,6 @@ width:1520px;
 	font-weight:bold
 }
 	
-body
-{
-background-color: blue;	
-}
 
 	
 /* Extra small devices (phones, 600px and down) */  
@@ -116,7 +112,7 @@ background-color: red;
 
 .img
 	{
-	display:none;
+display:none;
 	}
 	
 body
