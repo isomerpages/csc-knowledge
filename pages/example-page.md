@@ -15,7 +15,7 @@ permalink: /example-page/
 
 /* For mobile phones: */
 [class*="col-"] {
-  width: 100%;
+  width: 50%;
 }
 
 @media only screen and (min-width: 600px) {
