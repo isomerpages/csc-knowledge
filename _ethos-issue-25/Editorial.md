@@ -37,6 +37,7 @@ This edition of ETHOS on “Rethinking Resourcing in the Public Service”
 explores how the public sector needs to regroup and take stock: to
 reassess priorities and to consolidate hard-won lessons from a gruelling,
 as well as revealing, past few years.</p><br>
+	
 </header>
 <br>
 <div id="banner">
