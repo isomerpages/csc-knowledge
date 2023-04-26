@@ -235,6 +235,7 @@ A public sector tech leader outlines how technology can complement new ways of t
 </tbody>
 </table>
 
+
 <table id="driving">
 <tbody>
 
@@ -263,8 +264,8 @@ Recognising its role to achieve net zero, Singapore’s public sector has develo
 <td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg"></td>
 
 <td>	
-<h3>Driving Sustainability in the Public Sector</h3>
-<b><i>by Lim Tuang Liang</i></b>
+<h3>Sectoral Collaboration as Public Resource: A Conversation with  Gus O’Donnell </h3>
+<b><i>by Augustine O’Donnell</i></b>
 
 <p>	
 The veteran economist and former UK Cabinet Secretary argues that harnessing skillsets across sectors is vital  
@@ -340,7 +341,3 @@ The public sector should take steps to strengthen the muscles of civic discourse
 </tr>
 </tbody>
 </table>
-
-
-
-
