@@ -33,17 +33,17 @@ width:100%;
 	
 #scale img
 {
-width: 2000px;	
+width: 100%;	
 }
 	
 #econ img
 {
-width: 1600px;	
+width: 100%;	
 }	
 
 #budget img
 {
-width:1900px;	
+width:100%;	
 }
 	
 #enhance img
