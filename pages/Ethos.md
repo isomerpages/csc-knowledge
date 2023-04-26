@@ -7,7 +7,7 @@ description: ""
 table
 { 
 border-collapse: separate; 
-border-spacing: 10px 10px; 	
+border-spacing: 20px 10px; 	
 
 }	
 
@@ -63,17 +63,17 @@ width:840px;
 
 #outcome img
 {
-width:890px;
+width:940px;
 }
 	
 #wake-up-call img
 {
-width:980px;
+width:1020px;
 }	
 	
 #cultivate img
 {
-width:890px;
+width:920px;
 }		
 	
 
