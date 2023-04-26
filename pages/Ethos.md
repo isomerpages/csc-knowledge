@@ -7,7 +7,7 @@ description: ""
 table
 { 
 border-collapse: separate; 
-border-spacing: 20px 10px; 	
+border-spacing: 10px 10px; 	
 
 }	
 
@@ -23,57 +23,57 @@ width:1700px;
 
 #purpose img
 {
-width:2300px	
+width:2200px;
 }
 
 #editorial img
 {
-width:2000px
+width:2200px;
 }
 	
 #scale img
 {
-width: 1770px;	
+width: 1650px;	
 }
 	
 #econ img
 {
-width: 1500px;	
+width: 1240px;	
 }	
 
 #budget img
 {
-width: 1900px;	
+width:1500px;	
 }
 	
 #enhance img
 {
-width: 1240px;	
+width: 970px;	
 }
 	
 #driving img
 {
-width: 1600px;
+width: 1200px;
 }
 
 #sector img
 {
-width:1210px;	
+width:840px;	
 }
 
 #outcome img
 {
-width:1100px;
+width:900px;
 }
 	
 #wake-up-call img
 {
-width:1600px;
+width:980px;
 }	
 	
 #cultivate img
 {
-width:1410px;
+width:890px;
 }		
 	
 
