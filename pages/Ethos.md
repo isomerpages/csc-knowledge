@@ -4,16 +4,25 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-	
-header h2
-{
-		text-align:center;
+table
+{ 
+border-collapse: separate; 
+border-spacing: 50px 0px; 	
 }	
-	
-#top
+
+td 
 {
-margin-top: 40px;	
+	border-style : hidden!important;
 }
+	
+td img
+{
+	width:500px;
+}	
+		
+
+	
+
 
 #text
 {
@@ -30,51 +39,19 @@ margin-left:20px;
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
 }
-	
-#cultivate
-{
-		margin-top:20px;
-}
-
-#img1 img
-{
-	width:370px;
-}	
-
-#img4 img
-{
-width: 550px;
-}
 
 	
-#editorial
-{
-	border-bottom: 0.5px solid black;
-}
+
 
 .button1 a
 {
 	color: #9f2943;
-	font-style: italic;
+
 	font-weight:bold
 }
 
-.button2 a
-{
-	color: #9f2943;
-	font-weight: bold;
-}	
-	
-.grid-container
-	{
-  display: grid;
-  grid-template-columns: auto auto;
-}
 
-.grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  padding:10px;
-}		
+	
 
 	
 </style>
