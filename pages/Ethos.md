@@ -28,7 +28,7 @@ width:2400px;
 
 #editorial img
 {
-width:2150px;
+width:2350px;
 }
 	
 #scale img
