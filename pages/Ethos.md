@@ -23,7 +23,7 @@ width:2100px;
 
 #purpose img
 {
-width:100%;
+width:2400px;
 }
 
 #editorial img
