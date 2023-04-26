@@ -7,10 +7,10 @@ description: ""
 table
 { 
 border-collapse: separate; 
-border-spacing: 20px 0px; 	
+border-spacing: 20px 10px; 	
 }	
 
-td 
+td
 {
 	border-style : hidden!important;
 }
@@ -97,9 +97,7 @@ width:980px;
 <table id="column-1">
 <tbody>
 
-<tr><th>	
-
-</th>	
+<tr>
 	
 </tr><tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg"></td>
