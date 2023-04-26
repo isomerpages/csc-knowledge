@@ -68,7 +68,7 @@ width:1000px;
 	
 #wake-up-call img
 {
-width:1700px;
+width:1160px;
 }	
 	
 #cultivate img
@@ -105,7 +105,8 @@ width:1380px;
 <tr>
 	
 </tr><tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg"></td>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
+</td>
 
 <td>PRINT ISSUE 25, MAR 2023
 <h3>Ethos Print Issue 25</h3>	
