@@ -28,9 +28,7 @@ header
 	
 	</style>
 	
-<header>	
-<h1>Editorial</h1>	
-</header>
+
 
 <br>
 <div id="banner">
