@@ -24,9 +24,6 @@ margin-top: 40px;
 {
 margin-left:20px;	
 }
-	
-
-
 
 #purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome
 {
@@ -86,88 +83,119 @@ width: 550px;
 <h2>Latest Issue</h2>
 </header>
 	
-<div id="top" class="grid-container">
+<table id="column-1">
+<tbody>
 
-<div id="img" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
-</div>
+<tr><th>	
 
-
-<div id="text" class="grid-item">
-PRINT ISSUE 25, MAR 2023
+</th>	
+	
+</tr><tr>
+<td><img src="/images/Landing_Banner_Images/editorial_landing.jpg"></td>
+<td>PRINT ISSUE 25, MAR 2023
 <h3>Ethos Print Issue 25</h3>	
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></div>
-<br>	
-<br>
-</div>
-	
-</div>
 
-<br>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></div></td>
+</tr>
+	
+</tbody>
+</table>
 
-<div id="editorial" class="grid-container">
-	
-<div id="img1" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_23/Editorial_02.jpg">
-</div>
-	
-	
-<div id="text1" class="grid-item">
+
+
+<table id="editorial">
+<tbody>
+
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_23/Editorial_02.jpg"></td>
+
+<td>	
 <h3>Editorial </h3>
-	<b><i>by Dr Alvin Pang</i></b>
+<b><i>by Dr Alvin Pang</i></b>
 <figcaption>
 Editor-in-Chief Ethos
 </figcaption>
 	
 <p>	
 The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates.
-</p>
+</p>	
 
-<div class="button2"><a href="/editorial-issue-25/">Read More</a></div><br>	
-</div>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div> <br>
+</td>
+</tr>
 	
-</div>
+</tbody>
+</table>
 
-<div id="purpose" class="grid-container">
-	
-<div id="img2" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
-</div>
-	
-<div id="text2" class="grid-item">
-<h3> Prioritising Purpose  
+
+<table id="purpose">
+<tbody>
+
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg"></td>
+
+<td>	
+<h3>Prioritising Purpose  
 in the Public Service</h3>
-	<b><i>by Gabriel Lim</i></b>
+<b><i>by Gabriel Lim</i></b>
+
 <p>	
 The Chairperson of  the Public Sector Transformation—  People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
-</p>
+</p>	
 
-<div class="button2"><a href="#">Read More</a></div><br>
-	
-</div>
-</div>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
 
+<table id="scale">
+<tbody>
 
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg"></td>
 
-<div id="scale" class="grid-container">
-	
-<div id="img3" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg">
-</div>
-	
-<div id="text3" class="grid-item">
+<td>	
 <h3>Prioritising the Big Small Things for S.C.A.L.E</h3>
 <b><i>by Eileen Wong</i></b>
-<p>	
-Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
-</p>
 
-<div class="button2"><a href="#">Read More</a></div><br>
-	
-</div>
-</div>
+<p>	
+Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort. The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
+</p>	
+
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table id="scale">
+<tbody>
+
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg"></td>
+
+<td>	
+<h3>Economising with Imagination in Harsh Times</h3>
+<b><i>by Eileen Wong</i></b>
+
+<p>	
+Crisis does not always have to lead to damaging reductions in the 
+public good: instead, they can prompt innovative improvements in 
+the way public services are resourced, structured and operated. 
+</p>	
+
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
 
 
 <div id="econ" class="grid-container">
@@ -177,7 +205,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 </div>
 	
 <div id="text4" class="grid-item">
-<h3> Economising with Imagination in Harsh Times</h3>
+<h3>Economising with Imagination in Harsh Times</h3>
 	<b><i>by Geoﬀ Mulgan</i></b>
 <p>	
 Crisis does not always have to lead to damaging reductions in the 
@@ -310,3 +338,5 @@ and centre learning in exploring new ways to deliver public value. </p>
 	
 </div>
 </div>
+
+
