@@ -73,7 +73,7 @@ width:1600px;
 	
 #cultivate img
 {
-width:1490px;
+width:1450px;
 }		
 	
 
@@ -86,7 +86,6 @@ width:1490px;
 .button1 a
 {
 	color: #9f2943;
-
 	font-weight:bold
 }
 
@@ -337,7 +336,7 @@ In this ETHOS Roundtable, three distinguished participants of the  14th Leaders 
 </tr>
 </tbody>
 </table>
-<br>
+
 <table id="cultivate">
 <tbody>
 
