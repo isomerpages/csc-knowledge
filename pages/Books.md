@@ -33,7 +33,7 @@ width:1000px;
 
 
 
-#book1,#book2,#book3
+#book1,#book2
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
