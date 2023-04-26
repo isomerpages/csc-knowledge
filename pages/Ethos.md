@@ -18,7 +18,7 @@ td
 
 #column-1 img	
 {
-width:1700px;	
+width:2000px;	
 }
 
 #purpose img
@@ -102,9 +102,6 @@ width:1200px;
 	
 <table id="column-1">
 <tbody>
-
-
-	
 <tr>
 <td>
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
