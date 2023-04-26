@@ -19,29 +19,63 @@ td img
 {
 	width:500px;
 }	
-		
 
-	
-
-
-#text
+#editorial img
 {
-	margin-top: 10px;
+width:1000px
 }
 	
-#text,#text1,#text2,#text3,#text4,#text5, #text6, #text7,#text8, #text9,#text10,#text11 
+#scale img
 {
-margin-left:20px;	
+width: 870px;	
 }
+	
+#econ img
+{
+width: 720px;	
+}	
+
+#budget img
+{
+width: 800px;	
+}
+	
+#enhance img
+{
+width: 500px;	
+}
+	
+#driving img
+{
+width: 650px;
+}
+
+#sector img
+{
+width:500px;	
+}
+
+#outcome img
+{
+width:6-0px;
+}
+	
+#wake-up-call img
+{
+width:980px;
+}	
+	
+#cultivate img
+{
+width:980px;
+}		
+	
 
 #purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome,#wake-up-call
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
 }
-
-	
-
 
 .button1 a
 {
@@ -69,6 +103,7 @@ margin-left:20px;
 	
 </tr><tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg"></td>
+
 <td>PRINT ISSUE 25, MAR 2023
 <h3>Ethos Print Issue 25</h3>	
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
