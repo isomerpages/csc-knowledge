@@ -114,7 +114,7 @@ width:980px;
 	
 </tbody>
 </table>
-
+<br>
 
 
 <table id="editorial">
