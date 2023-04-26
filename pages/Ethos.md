@@ -28,7 +28,7 @@ width:2400px;
 
 #editorial img
 {
-width:2300px;
+width:2000px;
 }
 	
 #scale img
@@ -126,7 +126,7 @@ width:1520px;
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_23/Editorial_02.jpg"></td>
+<td><img src="/images/Landing_Banner_Images/editorial_landing.jpg"></td>
 
 <td>	
 <h3>Editorial </h3>
