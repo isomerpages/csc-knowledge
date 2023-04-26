@@ -8,6 +8,7 @@ table
 { 
 border-collapse: separate; 
 border-spacing: 20px 10px; 	
+
 }	
 
 td
