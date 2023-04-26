@@ -58,7 +58,7 @@ width: 1700px;
 
 #sector img
 {
-width:950px;	
+width:1000px;	
 }
 
 #outcome img
