@@ -26,9 +26,9 @@ width:1700px;
 width:1300px;
 }
 
-#editorial img
+#book3 img
 {
-width:2300px;
+width:1000px;
 }
 	
 #scale img
@@ -145,7 +145,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg">![book 3](/images/Books/book3image.jpg)</td>
+<td><img src="/images/Books/book3image.jpg"></td>
 
 <td>	
 <h3>Economising with Imagination in Harsh Times</h3>
