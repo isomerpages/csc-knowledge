@@ -8,7 +8,7 @@ image: /images/Ethos_Images/Ethos_Issue_23/Editorial_02.jpg
 
 header
 {
-border-bottom: 1px solid black;	
+
 	
 }
 	
@@ -29,16 +29,9 @@ border-bottom: 1px solid black;
 	</style>
 	
 <header>	
-<h1>Editorial</h1>
-
-<p>We are entering an age of constraint, where societal demands proliferate
-while the resources needed to meet them become less readily available.
-This edition of ETHOS on “Rethinking Resourcing in the Public Service”
-explores how the public sector needs to regroup and take stock: to
-reassess priorities and to consolidate hard-won lessons from a gruelling,
-as well as revealing, past few years.</p><br>
-	
+<h1>Editorial</h1>	
 </header>
+
 <br>
 <div id="banner">
 <img src="/images/Landing_Banner_Images/editorial_landing.jpg">
