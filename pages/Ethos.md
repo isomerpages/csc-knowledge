@@ -171,6 +171,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 </tbody>
 </table>
 
+
 <table id="econ">
 <tbody>
 
@@ -214,64 +215,79 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 </tbody>
 </table>
 
+<table id="enhance">
+<tbody>
 
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg"></td>
 
+<td>	
+<h3>Enhancing Public Service with Tech</h3>
+<b><i>by Jordan Tan</i></b>
 
-
-
-
-<div id="enhance" class="grid-container">
-	
-<div id="img6" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg">
-</div>
-	
-<div id="text6" class="grid-item">
-<h3> Enhancing Public Service with Tech</h3>
-	<b><i>by Jordan Tan</i></b>
 <p>	
-A public sector tech leader outlines how technology can complement new ways of thinking and working—making the most of scarce resources to achieve better public outcomes.</p>
+A public sector tech leader outlines how technology can complement new ways of thinking and working—making the most of scarce resources to achieve better public outcomes.
+</p>	
 
-<div class="button2"><a href="#">Read More</a></div><br>
-	
-</div>
-</div>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
 
+<table id="driving">
+<tbody>
 
-<div id="driving" class="grid-container">
-	
-<div id="img7" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg">
-</div>
-	
-<div id="text7" class="grid-item">
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg"></td>
+
+<td>	
 <h3>Driving Sustainability in the Public Sector</h3>
-	<b><i>by Lim Tuang Liang</i></b>
+<b><i>by Lim Tuang Liang</i></b>
+
 <p>	
-Recognising its role to achieve net zero, Singapore’s public sector has developed decarbonisation measures, embedded environmental sustainability into its core businesses, and built up key competencies.</p>
+Recognising its role to achieve net zero, Singapore’s public sector has developed decarbonisation measures, embedded environmental sustainability into its core businesses, and built up key competencies.
+</p>	
 
-<div class="button2"><a href="#">Read More</a></div><br>
-	
-</div>
-</div>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
 
-<div id="sector" class="grid-container">
-	
-<div id="img8" class="grid-item">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg">
-</div>
-	
-<div id="text8" class="grid-item">
-<h3>Sectoral Collaboration as Public Resource: A Conversation with  Gus O’Donnell</h3>
-	<b><i>by Gus O’Donnell</i></b>
+
+<table id="sector">
+<tbody>
+
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg"></td>
+
+<td>	
+<h3>Driving Sustainability in the Public Sector</h3>
+<b><i>by Lim Tuang Liang</i></b>
+
 <p>	
 The veteran economist and former UK Cabinet Secretary argues that harnessing skillsets across sectors is vital  
-to addressing societal needs in the long term.</p>
+to addressing societal needs in the long term.
+</p>	
 
-<div class="button2"><a href="#">Read More</a></div><br>
-	
-</div>
-</div>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div id="outcome" class="grid-container">
 	
