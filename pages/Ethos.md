@@ -63,7 +63,7 @@ width:1210px;
 
 #outcome img
 {
-width:1400px;
+width:1300px;
 }
 	
 #wake-up-call img
