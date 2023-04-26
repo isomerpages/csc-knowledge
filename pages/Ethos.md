@@ -73,7 +73,7 @@ width:1600px;
 	
 #cultivate img
 {
-width:1450px;
+width:1410px;
 }		
 	
 
