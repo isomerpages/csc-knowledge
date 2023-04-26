@@ -53,7 +53,7 @@ width: 1300px;
 	
 #driving img
 {
-width: 1900px;
+width: 1700px;
 }
 
 #sector img
