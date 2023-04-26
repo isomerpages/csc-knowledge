@@ -7,7 +7,7 @@ description: ""
 table
 { 
 border-collapse: separate; 
-border-spacing: 50px 0px; 	
+border-spacing: 30px 0px; 	
 }	
 
 td 
