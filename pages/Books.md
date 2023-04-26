@@ -30,52 +30,8 @@ width:1300px;
 {
 width:1000px;
 }
-	
-#scale img
-{
-width: 2000px;	
-}
-	
-#econ img
-{
-width: 1600px;	
-}	
 
-#budget img
-{
-width:1900px;	
-}
-	
-#enhance img
-{
-width: 1300px;	
-}
-	
-#driving img
-{
-width: 1700px;
-}
 
-#sector img
-{
-width:950px;	
-}
-
-#outcome img
-{
-width:1000px;
-}
-	
-#wake-up-call img
-{
-width:1900px;
-}	
-	
-#cultivate img
-{
-width:1200px;
-}		
-	
 
 #book1,#book2,#book3
 {
