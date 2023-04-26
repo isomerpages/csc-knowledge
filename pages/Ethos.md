@@ -87,9 +87,67 @@ width:1520px;
 	color: #9f2943;
 	font-weight:bold
 }
-
+	
+body
+{
+background-color: blue;	
+}
 
 	
+/* Extra small devices (phones, 600px and down) */  
+
+	@media only screen and (max-width: 600px) {
+	
+	.img
+	{
+	display:none;
+	}
+	
+body
+{
+background-color: red;	
+}
+	
+	
+	} 
+  
+/* Small devices (portrait tablets and large phones, 600px and up) */  
+@media only screen and (min-width: 600px) {
+
+.img
+	{
+	display:none;
+	}
+	
+body
+{
+background-color: green;	
+}	
+	
+	
+	
+	}  
+  
+/* Medium devices (landscape tablets, 768px and up) */  
+@media only screen and (min-width: 768px) {
+
+	
+.img
+	{
+	display:none;
+	}
+
+body
+{
+background-color: green;	
+}	
+	
+	
+	
+	
+	
+	
+	}	
 
 	
 </style>
@@ -111,7 +169,7 @@ width:1520px;
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
 
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></div>
+<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Download PDF</a></div>
 	
 </td>
 </tr>
@@ -125,7 +183,7 @@ width:1520px;
 <tbody>
 
 <tr>
-<td><img src="/images/Landing_Banner_Images/editorial_landing.jpg"></td>
+<td class="img"><img src="/images/Landing_Banner_Images/editorial_landing.jpg"></td>
 
 <td>	
 <h3>Editorial </h3>
@@ -153,7 +211,7 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 
 <tr>
 
-<td>
+<td class="img">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg"></td>
 
 <td>	
@@ -165,7 +223,7 @@ in the Public Service</h3>
 The Chairperson of  the Public Sector Transformation—  People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -175,7 +233,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg"></td>
+<td class="img"><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg"></td>
 
 <td>	
 <h3>Prioritising the Big Small Things for S.C.A.L.E</h3>
@@ -185,7 +243,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort. The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -196,7 +254,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg"></td>
+<td class="img"><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg"></td>
 
 <td>	
 <h3>Economising with Imagination in Harsh Times</h3>
@@ -208,7 +266,7 @@ public good: instead, they can prompt innovative improvements in
 the way public services are resourced, structured and operated. 
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -219,7 +277,7 @@ the way public services are resourced, structured and operated.
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_1.jpg"></td>
+<td class="img"><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_1.jpg"></td>
 
 <td>	
 <h3>Budget 4.0: Optimising for Better Outcomes</h3>
@@ -229,7 +287,7 @@ the way public services are resourced, structured and operated.
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -239,7 +297,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg"></td>
+<td class="img"><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg"></td>
 
 <td>	
 <h3>Enhancing Public Service with Tech</h3>
@@ -249,7 +307,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 A public sector tech leader outlines how technology can complement new ways of thinking and working—making the most of scarce resources to achieve better public outcomes.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -260,7 +318,7 @@ A public sector tech leader outlines how technology can complement new ways of t
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg"></td>
+<td class="img"><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg"></td>
 
 <td>	
 <h3>Driving Sustainability in the Public Sector</h3>
@@ -270,19 +328,19 @@ A public sector tech leader outlines how technology can complement new ways of t
 Recognising its role to achieve net zero, Singapore’s public sector has developed decarbonisation measures, embedded environmental sustainability into its core businesses, and built up key competencies.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
 </table>
 
 
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg">
+
 <table id="sector">
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg"></td>
-
 <td>	
 <h3>Sectoral Collaboration as Public Resource: A Conversation with  Gus O’Donnell </h3>
 <b><i>by Augustine O’Donnell</i></b>
@@ -292,7 +350,7 @@ The veteran economist and former UK Cabinet Secretary argues that harnessing ski
 to addressing societal needs in the long term.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -302,7 +360,7 @@ to addressing societal needs in the long term.
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg"></td>
+<td class="img"><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg"></td>
 
 <td>	
 <h3>Making Outcome-Based Approaches Work:  Insights from the UK’s Government Outcomes Lab</h3>
@@ -313,7 +371,7 @@ Effective social impact arrangements are purpose-driven, motivate relationship-b
 and centre learning in exploring new ways to deliver public value.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -326,7 +384,7 @@ and centre learning in exploring new ways to deliver public value.
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury,%20Narain.jpg"></td>
+<td class="img"><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury,%20Narain.jpg"></td>
 
 <td>	
 <h3>The Wake-Up Call: Rethinking Growth and Government in a  Crisis-Constrained World </h3>
@@ -336,7 +394,7 @@ and centre learning in exploring new ways to deliver public value.
 In this ETHOS Roundtable, three distinguished participants of the  14th Leaders in Governance Programme discuss how global challenges have reshaped thinking on national resourcing and the core work of the public sector.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -346,7 +404,7 @@ In this ETHOS Roundtable, three distinguished participants of the  14th Leaders 
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_CatherineFieschi.jpg"></td>
+<td class="img"><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_CatherineFieschi.jpg"></td>
 
 <td>	
 <h3>Moving the Conversation: Cultivating Public Participation and Goodwill in a New Era of Challenges </h3>
@@ -356,7 +414,7 @@ In this ETHOS Roundtable, three distinguished participants of the  14th Leaders 
 The public sector should take steps to strengthen the muscles of civic discourse and decision-making, to face a future where our most pressing issues call for all in society to pull together
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="https://go.gov.sg/ethos-issue-25" target="_blank">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
