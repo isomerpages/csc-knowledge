@@ -63,12 +63,12 @@ width:1150px;
 
 #outcome img
 {
-width:1000px;
+width:1200px;
 }
 	
 #wake-up-call img
 {
-width:1000px;
+width:1400px;
 }	
 	
 #cultivate img
