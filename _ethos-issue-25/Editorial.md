@@ -23,14 +23,8 @@ header
 	width:100%;
 }
 	
+</style>
 	
-	
-	
-	</style>
-	
-
-
-<br>
 <div id="banner">
 <img src="/images/Landing_Banner_Images/editorial_landing.jpg">
 </div>
