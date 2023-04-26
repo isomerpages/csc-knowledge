@@ -58,12 +58,12 @@ width: 1700px;
 
 #sector img
 {
-width:1500px;	
+width:1400px;	
 }
 
 #outcome img
 {
-width:1300px;
+width:1200px;
 }
 	
 #wake-up-call img
