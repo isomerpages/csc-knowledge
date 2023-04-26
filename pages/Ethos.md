@@ -99,13 +99,15 @@ width:1200px;
 <h2>Latest Issue</h2>
 </header>
 	
+	
 <table id="column-1">
 <tbody>
 
-<tr>
+
 	
-</tr><tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
+<tr>
+<td>
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
 </td>
 
 <td>PRINT ISSUE 25, MAR 2023
@@ -113,7 +115,9 @@ width:1200px;
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
 
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></div></td>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></div>
+	
+</td>
 </tr>
 	
 </tbody>
@@ -150,7 +154,9 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 <tbody>
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg"></td>
+
+<td>
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg"></td>
 
 <td>	
 <h3>Prioritising Purpose  
