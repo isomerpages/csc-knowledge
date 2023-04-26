@@ -23,12 +23,12 @@ width:1700px;
 
 #book2 img
 {
-width:1300px;
+width:900px;
 }
 
 #book3 img
 {
-width:1000px;
+width:740px;
 }
 
 
@@ -60,13 +60,17 @@ width:1000px;
 <td><img src="/images/Books/book1image.jpg"></td>
 
 <td>	
-<h3>Prioritising Purpose  
-in the Public Service</h3>
-<b><i>by Gabriel Lim</i></b>
+<h3>Case Studies: Designing Change</h3>
+<b><i>Edited by June Gwee</i></b>
 
-<p>	
-The Chairperson of  the Public Sector Transformation—  People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
-</p>	
+<p>This book is intended as a primer for public officers on complexity and its
+applications to public policy. It recounts the steps the Singapore
+Government has taken to use complexity to better inform policymaking,
+from making long-term strategic planning more robust, to planning public
+transport infrastructure more holistically, to enabling senior citizens to age
+in place through improved community healthcare. It also examines what
+can be done in the years ahead to infuse an understanding of complexity
+across the public service.</p>	
 
 <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
@@ -83,8 +87,8 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 </td>
 
 <td>	
-<h3>Prioritising the Big Small Things for S.C.A.L.E</h3>
-<b><i>by Eileen Wong</i></b>
+<h3>Navigating a Complex World: A Simple Guide for Public Officers</h3>
+<b><i>Edited by Peter Ho and Sheila Pakir</i></b>
 
 <p>	
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort. The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
@@ -104,13 +108,15 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 <td><img src="/images/Books/book3image.jpg"></td>
 
 <td>	
-<h3>Economising with Imagination in Harsh Times</h3>
-<b><i>by Geoﬀ Mulgan</i></b>
+<h3>Case Studies: Building Communities in Singapore</h3>
+<b><i>Edited by June Gwee</i></b>
 
 <p>	
-Crisis does not always have to lead to damaging reductions in the 
-public good: instead, they can prompt innovative improvements in 
-the way public services are resourced, structured and operated. 
+This book contains four case studies on how public agencies design
+solutions to improve the quality of life for individuals and society by
+listening, observing and being empathetic to the needs of people. They
+describe how public officers have been able to think differently, find new
+paths and build resilient communities.
 </p>	
 
 <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
