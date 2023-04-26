@@ -18,7 +18,7 @@ td
 
 #column-1 img	
 {
-width:2100px;	
+width:100%;	
 }
 
 #purpose img
