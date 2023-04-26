@@ -38,7 +38,7 @@ width: 2000px;
 	
 #econ img
 {
-width: 1700px;	
+width: 1600px;	
 }	
 
 #budget img
