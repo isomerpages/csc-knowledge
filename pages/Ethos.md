@@ -15,60 +15,65 @@ td
 {
 	border-style : hidden!important;
 }
-	
-td img
+
+#column-1 img	
 {
-	width:500px;
-}	
+width:1700px;	
+}
+
+#purpose img
+{
+width:2300px	
+}
 
 #editorial img
 {
-width:1000px
+width:2000px
 }
 	
 #scale img
 {
-width: 1200px;	
+width: 1770px;	
 }
 	
 #econ img
 {
-width: 970px;	
+width: 1500px;	
 }	
 
 #budget img
 {
-width: 1200px;	
+width: 1900px;	
 }
 	
 #enhance img
 {
-width: 850px;	
+width: 1200px;	
 }
 	
 #driving img
 {
-width: 1100px;
+width: 1600px;
 }
 
 #sector img
 {
-width:800px;	
+width:1210px;	
 }
 
 #outcome img
 {
-width:6-0px;
+width:1400px;
 }
 	
 #wake-up-call img
 {
-width:980px;
+width:1600px;
 }	
 	
 #cultivate img
 {
-width:980px;
+width:1500px;
 }		
 	
 
