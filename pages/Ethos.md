@@ -18,12 +18,12 @@ td
 
 #column-1 img	
 {
-width:2100px;	
+width:2300px;	
 }
 
 #purpose img
 {
-width:2400px;
+width:2600px;
 }
 
 #editorial img
