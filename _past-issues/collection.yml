@@ -1,4 +1,5 @@
 collections:
   past-issues:
     output: true
-    order: []
+    order:
+      - Past Issues.md
