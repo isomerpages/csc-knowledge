@@ -35,9 +35,9 @@ text-decoration: none;
 	
 </style>
 
-<h3>2023</h3><table>
-<tbody>
-</tbody></table><table id="container-2023">	
+<h3>2023</h3>
+
+<table id="container-2023">	
 
 	
 <tbody><tr>
@@ -60,10 +60,20 @@ text-decoration: none;
 
 <br>
 
-<h3>2022</h3><table>
-<tbody>
-</tbody></table><table id="container-2022">
 
+
+	
+	
+
+
+
+
+
+
+
+<table id="container-2022">
+
+	
 
 <tbody><tr>
 
@@ -99,9 +109,16 @@ text-decoration: none;
 </table>
 
 
-<h3>2021</h3><table>
-<tbody>
-</tbody></table><table id="container-2021">
+
+
+
+
+
+
+
+
+
+<h3>2021</h3><table id="container-2021">
 
 
 <tbody><tr>
@@ -142,12 +159,8 @@ text-decoration: none;
 </table>
 
 
-<h3>2020</h3><table>
-<tbody>
 
-
-	
-</tbody></table><table id="container-2020">
+<h3>2020</h3><table id="container-2020">
 
 
 <tbody><tr>	
@@ -176,17 +189,13 @@ text-decoration: none;
 
 
 
-<h3>2019</h3><table>
+
+<h3>2019</h3><table id="container-2019">
+
+
 <tbody>
 
-</tbody></table><table id="container-2019">
-
-
-<tbody><tr>
-
-	
-	
-</tr><tr>
+<tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital05.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue21.jpg"></td>
 </tr>
@@ -220,16 +229,17 @@ text-decoration: none;
 </table>
 
 
-<h3>2018</h3><table>
-<tbody>
+<h3>2018</h3>
+
 	
-</tbody></table><table id="container-2018">
+<table id="container-2018">
 	
 <tbody><tr>
 
 	
+</tr>
 	
-</tr><tr>
+<tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital03.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue19.jpg"></td>
 </tr>
