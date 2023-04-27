@@ -30,6 +30,7 @@ td a:link
 {
 color:#9f2943;
 text-decoration: none;
+font-size: 18px;
 }	
 
 	
@@ -424,8 +425,8 @@ and Policy Responses</a></td>
 </tr>
 	
 <tr>
-<td><a href="#">Issue 10, Oct 2011, <br>Preparing Government for
-the<br>Challenges of the 21 st Century</a></td>
+<td><a href="#">Issue 10, Oct 2011, <br>Preparing Government<br> for
+the Challenges<br> of the 21 st Century</a></td>
 	<td><a href="#">Issue 9, Jun 2011, National<br>Productivity and
 WOG Collaboration</a></td>
 </tr>
