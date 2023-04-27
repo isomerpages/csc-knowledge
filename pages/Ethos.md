@@ -88,20 +88,7 @@ width:1420px;
 	font-weight:bold;
 }
 	
-body
-{
-background-color:lightgrey;
-} 
-	
-@media only screen and (max-width: 600px)
-{  
-	
-body 
-{
-background-color: blue;	
-}
 
-}
 
 	
 </style>
