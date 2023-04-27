@@ -269,9 +269,6 @@ font-size: 16px;
 <tbody>
 
 	
-
-	
-	
 <tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital01.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue17.jpg"></td>
