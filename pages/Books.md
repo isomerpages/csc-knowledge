@@ -23,12 +23,12 @@ width:1700px;
 
 #book2 img
 {
-width:900px;
+width:800px;
 }
 
 #book3 img
 {
-width:740px;
+width:100%;
 }
 
 
@@ -57,8 +57,8 @@ width:740px;
 <tbody>
 
 <tr>
-<td><img src="/images/Books/book1image.jpg"></td>
-
+<td><img src="/images/Books/designing_change_cover.png"></td>
+	
 <td>	
 <h3>Case Studies: Designing Change</h3>
 <b><i>Edited by June Gwee</i></b>
@@ -83,7 +83,7 @@ across the public service.</p>
 
 <tr>
 <td>
-<img src="/images/Books/book2image.png">
+<img src="/images/Books/complexity_cover.jpg">
 </td>
 
 <td>	
@@ -105,7 +105,7 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 <tbody>
 
 <tr>
-<td><img src="/images/Books/book3image.jpg"></td>
+<td><img src="/images/Books/building%20communities%20cover.jpg"></td>
 
 <td>	
 <h3>Case Studies: Building Communities in Singapore</h3>
