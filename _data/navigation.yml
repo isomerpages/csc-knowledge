@@ -1,12 +1,5 @@
 logo: /images/csc_logo.png
 links:
-  - title: Ethos
-    url: /ethos/
-    sublinks:
-      - title: Past Issues
-        url: /past-issues/
-      - title: Submenu Title
-        url: /permalink
   - title: Books
     url: /books/
     sublinks:
@@ -16,6 +9,13 @@ links:
     url: /research/
   - title: Contact Us
     url: /contact-us/
+  - title: Ethos
+    url: /ethos/
+    sublinks:
+      - title: Latest Issue
+        url: /permalink
+      - title: Past Issues
+        url: /past-issues/
   - title: Corporate Website
     url: https://www.csc.gov.sg/
   - title: Test
