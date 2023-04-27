@@ -47,7 +47,7 @@ The rapid conﬂuence of these disruptive megatrends have left governments  with
 <br>
 <br>	
 <div class="back">
-<a href="/ethos/">Back to Ethos Page</a>	
+<a href="/latest/">Back to Ethos Page</a>	
 </div>
 	
 </article>
