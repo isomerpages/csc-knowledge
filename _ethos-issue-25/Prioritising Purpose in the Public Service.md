@@ -8,7 +8,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 
 .subhead::first-letter 
 { 
-	initial-letter: 2;    
+	initial-letter: 3;    
 	margin-right: .55em;
 	color: #243e76;
 	}	
@@ -16,6 +16,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 	
 	
 </style>
+
 
 
 <p class="subhead"><span>W</span>e are moving into quite a different future. The external environment has changed.</p>
