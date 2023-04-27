@@ -1,5 +1,4 @@
 collections:
   ethos:
     output: true
-    order:
-      - Past Issues.md
+    order: []
