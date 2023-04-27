@@ -35,11 +35,12 @@ text-decoration: none;
 	
 </style>
 
-
-<h3>2023</h3><table id="container-2023">	
+<h3>2023</h3><table>
 <tbody>
+</tbody></table><table id="container-2023">	
+
 	
-<tr>
+<tbody><tr>
 
 
 
@@ -59,10 +60,12 @@ text-decoration: none;
 
 <br>
 
-<h3>2022</h3><table id="container-2022">
+<h3>2022</h3><table>
 <tbody>
+</tbody></table><table id="container-2022">
 
-<tr>
+
+<tbody><tr>
 
 	
 	
@@ -72,8 +75,8 @@ text-decoration: none;
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 9, Nov 2022</a></td>
+	<td><a href="#">Issue 24, Aug 2022, Urban Sustainability</a></td>
 </tr>
 
 
@@ -87,7 +90,7 @@ text-decoration: none;
 </tr>
 
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 8, Apr 2022</a></td>
 </tr>	
 <tr>
 	<td><a href="#">Download PDF</a></td>
@@ -96,10 +99,12 @@ text-decoration: none;
 </table>
 
 
-<h3>2021</h3><table id="container-2021">
+<h3>2021</h3><table>
 <tbody>
+</tbody></table><table id="container-2021">
 
-<tr>
+
+<tbody><tr>
 
 	
 	
@@ -109,8 +114,8 @@ text-decoration: none;
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Issue 23, Oct 2021, Future of Learning</a></td>
+	<td><a href="#">Digital Edition Issue 7, Sep 2021</a></td>
 </tr>
 
 
@@ -125,22 +130,26 @@ text-decoration: none;
 </tr>
 
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Issue 22, Jun 2021, Governing in a Crisis</a></td>
+	<td><a href="#">Digital Special Edition, Mar 2021 Update</a></td>
 </tr>	
 <tr>
 	<td><a href="#">Download PDF</a></td>
 	<td><a href="#">Download PDF</a></td>
 </tr>	
+	
 </tbody>
 </table>
 
 
 
-<h3>2020</h3><table id="container-2020">
+<h3>2020</h3><table>
 <tbody>
+	
+</tbody></table><table id="container-2020">
 
-<tr>	
+
+<tbody><tr>	
 
 	
 	
@@ -150,8 +159,8 @@ text-decoration: none;
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Special Edition, Dec 2020</a></td>
+	<td><a href="#">Digital Edition Issue 6, Jun 2020</a></td>
 </tr>
 
 
@@ -164,10 +173,15 @@ text-decoration: none;
 </tbody>
 </table>
 
-<h3>2019</h3><table id="container-2019">
+
+
+<h3>2019</h3><table>
 <tbody>
 
-<tr>
+</tbody></table><table id="container-2019">
+
+
+<tbody><tr>
 
 	
 	
@@ -177,8 +191,8 @@ text-decoration: none;
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 5, Nov 2019</a></td>
+	<td><a href="#">Issue 21, Jul 2019, Digital Government</a></td>
 </tr>
 
 
@@ -193,8 +207,8 @@ text-decoration: none;
 </tr>
 
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 4, Apr 2019</a></td>
+	<td><a href="#">Issue 20, Jan 2019, The Future of Ageing</a></td>
 </tr>	
 <tr>
 	<td><a href="#">Download PDF</a></td>
@@ -204,10 +218,13 @@ text-decoration: none;
 </tbody>
 </table>
 
-<h3>2018</h3><table id="container-2018">
-<tbody>
 
-<tr>
+<h3>2018</h3><table>
+<tbody>
+	
+</tbody></table><table id="container-2018">
+	
+<tbody><tr>
 
 	
 	
@@ -217,8 +234,8 @@ text-decoration: none;
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 3, Sep 2018</a></td>
+	<td><a href="#">Issue 19, Jul 2018, Singapore Urban Story</a></td>
 </tr>
 
 
@@ -233,8 +250,8 @@ text-decoration: none;
 </tr>
 
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 2, Apr 2018</a></td>
+	<td><a href="#">Issue 18, Jan 2018, The Future of Work</a></td>
 </tr>	
 <tr>
 	<td><a href="#">Download PDF</a></td>
