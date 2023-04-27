@@ -5,6 +5,8 @@ links:
     sublinks:
       - title: Past Issues
         url: /past-issues/
+      - title: Submenu Title
+        url: /permalink
   - title: Books
     url: /books/
     sublinks:
@@ -18,3 +20,5 @@ links:
     url: https://www.csc.gov.sg/
   - title: Test
     url: /example-page/
+  - title: Ethos 2
+    collection: past-issues
