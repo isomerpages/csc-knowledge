@@ -17,6 +17,8 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 	
 </style>
 
+![Prioritising Purpose in the Public Service](/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg)
+
 
 
 <p class="subhead"><span>W</span>e are moving into quite a different future. The external environment has changed.</p>
