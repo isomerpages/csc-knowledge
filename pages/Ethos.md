@@ -90,7 +90,7 @@ width:1520px;
 	
 body
 {
-background-color: gray;
+background-color:lightgrey;
 } 
 	
 @media only screen and (max-width: 600px)
