@@ -1,4 +1,5 @@
 collections:
   ethos:
     output: true
-    order: []
+    order:
+      - Ethos.md
