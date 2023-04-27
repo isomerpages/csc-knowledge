@@ -2,5 +2,4 @@ collections:
   ethos:
     output: true
     order:
-      - Latest.md
       - Past Issues.md
