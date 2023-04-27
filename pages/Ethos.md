@@ -93,12 +93,14 @@ body
 background-color: gray;
 } 
 	
-@media screen and (min-width: 480px) 
+@media only screen and (max-width: 600px)
 {  
 	
 body 
 {
 background-color: blue;	
+}
+
 }
 
 	
