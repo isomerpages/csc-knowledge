@@ -48,7 +48,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="/digital-issue-10/">Digital Edition Issue 10, Mar 2023</a></td>
 </tr>
 <tr>
 	<td><a href="#">Download PDF</a></td>
