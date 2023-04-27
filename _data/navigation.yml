@@ -10,13 +10,11 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: Ethos
-    url: /ethos/
+    url: /ethos/issue-25/
     sublinks:
       - title: Latest Issue
-        url: /permalink
+        url: /ethos/issue-25/
       - title: Past Issues
         url: /past-issues/
   - title: Corporate Website
     url: https://www.csc.gov.sg/
-  - title: Test
-    url: /example-page/
