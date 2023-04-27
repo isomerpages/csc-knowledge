@@ -238,7 +238,7 @@ font-size: 16px;
 	
 <tr>
 <td><a href="#">Digital Edition Issue 3, Sep 2018</a></td>
-<td><a href="#">Issue 19, Jul 2018, <br>Singapore’s Urban Story: <br>What’s Next</a></td>
+<td><a href="#">Issue 19, Jul 2018, <br>Singapore's Urban: What’s Next</a></td>
 </tr>
 
 	
