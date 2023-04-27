@@ -2,4 +2,4 @@ collections:
   ethos:
     output: true
     order:
-      - Ethos.md
+      - Latest.md
