@@ -30,22 +30,20 @@ td a:link
 {
 color:#9f2943;
 text-decoration: none;
-font-size: 18px;
+font-size: 16px;
 }	
 
 	
 </style>
 
-<h3>2023</h3>
 
-<table id="container-2023">	
+
+<h3>2023</h3><table id="container-2023">	
 
 	
-<tbody><tr>
+<tbody>
 
-
-
-</tr><tr>
+<tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"></td>
 </tr>
 	
@@ -72,15 +70,15 @@ font-size: 18px;
 
 
 
-<table id="container-2022">
+<h3>2022</h3><table id="container-2022">
 
 	
 
-<tbody><tr>
+<tbody>
 
 	
 	
-</tr><tr>
+<tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital09.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"></td>
 </tr>
@@ -190,8 +188,6 @@ font-size: 18px;
 
 
 <h3>2019</h3><table id="container-2019">
-
-
 <tbody>
 
 <tr>
@@ -298,10 +294,8 @@ font-size: 18px;
 
 <h3>2016</h3><table id="container-2016">
 <tbody>
-
-
-
 	
+
 	
 <tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue16.jpg"></td>
@@ -342,7 +336,6 @@ Create Consensus</a></td>
 
 	
 
-
 <tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue13.jpg"></td>
 </tr>
@@ -363,10 +356,6 @@ Create Consensus</a></td>
 <h3>2013</h3><table id="container-2013">
 <tbody>
 
-
-
-	
-	
 
 <tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue12.jpg"></td>
@@ -416,8 +405,6 @@ and Policy Responses</a></td>
 <tbody>
 
 	
-
-
 	
 <tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue10.jpg"></td>
@@ -455,8 +442,8 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Issue 8, Aug 2010, The Impact of China</a></td>
+	<td><a href="#">Issue 7, Jan 2010, <br>Thinking About The Future</a></td>
 </tr>
 
 
@@ -472,15 +459,13 @@ WOG Collaboration</a></td>
 <h3>2009</h3><table id="container-2009">
 <tbody>
 
-
-
 	
 <tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue06.jpg"></td>
 </tr>
 	
 <tr>
-<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+<td><a href="#">Issue 6, Jul 2009, The Global Financial Crisis</a></td>
 </tr>
 
 
@@ -492,6 +477,7 @@ WOG Collaboration</a></td>
 </table>
 
 <h3>2008</h3><table id="container-2008">
+
 <tbody>
 
 
@@ -502,8 +488,8 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Issue 5, Nov 2008, <br>Human Capital Development</a></td>
+	<td><a href="#">World Cities Summit<br>Special Edition, Jun 2008</a></td>
 </tr>
 
 
@@ -517,7 +503,8 @@ WOG Collaboration</a></td>
 </tr>
 		
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Issue 4, Apr 2008, <br>Beyond Excellent Service
+Delivery</a></td>
 </tr>
 	
 <tr>
@@ -528,21 +515,22 @@ WOG Collaboration</a></td>
 </tbody>
 </table>
 
-<table id="container-2007">
+<h3>2007</h3><table id="container-2007">
 <tbody>
 
-<tr><th>	
-<h3>2007</h3>
-</th>	
+
 	
-</tr><tr>
+	
+<tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue03.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue02.jpg"></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Issue 3, Oct 2007, <br>Rethinking Social Mobility <br>and
+Social Security</a></td>
+	<td><a href="#">Issue 2, Apr 2007, <br>Urban Planning and
+Management</a></td>
 </tr>
 
 
@@ -568,7 +556,7 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+<td><a href="#">Issue 1, Oct 20006, Ageing and Public Policy</a></td>
 </tr>
 
 
