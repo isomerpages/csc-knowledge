@@ -16,7 +16,7 @@ border-collapse: separate;
 border-spacing: 50px 0px; 	
 }	
 
-td 
+th,td 
 {
 	border-style : hidden!important;
 }
@@ -121,11 +121,9 @@ text-decoration: none;
 <h3>2021</h3><table id="container-2021">
 
 
-<tbody><tr>
-
+<tbody>
 	
-	
-</tr><tr>
+<tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue23.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital07.jpg"></td>
 </tr>
@@ -217,7 +215,7 @@ text-decoration: none;
 </tr>
 
 <tr>
-	<td><a href="#">Digital Edition Issue 4, Apr 2019</a></td>
+	<td><a href="#">Digital Edition Issue 4,<br> Apr 2019</a></td>
 	<td><a href="#">Issue 20, Jan 2019, The Future of Ageing</a></td>
 </tr>	
 <tr>
@@ -229,15 +227,12 @@ text-decoration: none;
 </table>
 
 
-<h3>2018</h3>
+
 
 	
-<table id="container-2018">
+<h3>2018</h3><br><table id="container-2018">
 	
-<tbody><tr>
-
-	
-</tr>
+<tbody>
 	
 <tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital03.jpg"></td>
@@ -246,10 +241,11 @@ text-decoration: none;
 	
 <tr>
 	<td><a href="#">Digital Edition Issue 3, Sep 2018</a></td>
-	<td><a href="#">Issue 19, Jul 2018, Singapore Urban Story</a></td>
+
+<td><a href="#">Issue 19, Jul 2018, <br>Singapore’s Urban Story: <br>What’s Next</a></td>
 </tr>
 
-
+	
 <tr>
 	<td><a href="#">Download PDF</a></td>
 	<td><a href="#">Download PDF</a></td>
@@ -272,21 +268,21 @@ text-decoration: none;
 </tbody>
 </table>
 
-<table id="container-2017">
+<h3>2017</h3><table id="container-2017">
 <tbody>
 
-<tr><th>	
-<h3>2017</h3>
-</th>	
 	
-</tr><tr>
+
+	
+	
+<tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital01.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue17.jpg"></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Digital Edition Issue 1, Nov 2017</a></td>
+	<td><a href="#">Issue 17, Jun 2017, Behavioural Insights</a></td>
 </tr>
 
 
@@ -299,21 +295,22 @@ text-decoration: none;
 </tbody>
 </table>
 
-<table id="container-2016">
+<h3>2016</h3><table id="container-2016">
 <tbody>
 
-<tr><th>	
-<h3>2016</h3>
-</th>	
+
+
 	
-</tr><tr>
+	
+<tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue16.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue15.jpg"></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Issue 16, Dec 2016 <br>Connect, Collaborate and
+Create Consensus</a></td>
+	<td><a href="#">Issue 15, Jun 2016, Public Engagement</a></td>
 </tr>
 
 
@@ -327,7 +324,7 @@ text-decoration: none;
 </tr>
 		
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Issue 14, Feb 2016, <br>Meritocracy and Mobility</a></td>
 </tr>
 	
 <tr>
@@ -339,20 +336,18 @@ text-decoration: none;
 </table>
 
 
-<table id="container-2014">
+<h3>2014</h3><table id="container-2014">
 <tbody>
 
-<tr><th>	
-<h3>2014</h3>
-</th>	
 	
-</tr>
+
+
 <tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue13.jpg"></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Issue 13, May 2014, <br>Public Service Transformation</a></td>
 </tr>
 
 
@@ -364,20 +359,20 @@ text-decoration: none;
 </table>
 
 
-<table id="container-2013">
+<h3>2013</h3><table id="container-2013">
 <tbody>
 
-<tr><th>	
-<h3>2013</h3>
-</th>	
+
+
 	
-</tr>
+	
+
 <tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue12.jpg"></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Issue 12, Jun 2013, <br>Listen, Labour and Lead</a></td>
 </tr>
 
 
@@ -388,20 +383,22 @@ text-decoration: none;
 </tbody>
 </table>
 
-<table id="container-2012">
+
+
+<h3>2012</h3><table id="container-2012">
 <tbody>
 
-<tr><th>	
-<h3>2012</h3>
-</th>	
+
 	
-</tr>
+	
+
 <tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue11.jpg"></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+	<td><a href="#">Issue 11, Aug 2012, Globalisation: Challenges
+and Policy Responses</a></td>
 </tr>
 
 
@@ -412,21 +409,25 @@ text-decoration: none;
 </tbody>
 </table>
 
-<table id="container-2011">
+
+
+<h3>2011</h3><table id="container-2011">
 <tbody>
 
-<tr><th>	
-<h3>2011</h3>
-</th>	
 	
-</tr><tr>
+
+
+	
+<tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue10.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue09.jpg"></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
-	<td><a href="#">Digital Edition Issue 10, Mar 2023</a></td>
+<td><a href="#">Issue 10, Oct 2011, <br>Preparing Government for
+the<br>Challenges of the 21 st Century</a></td>
+	<td><a href="#">Issue 9, Jun 2011, National<br>Productivity and
+WOG Collaboration</a></td>
 </tr>
 
 
@@ -439,14 +440,15 @@ text-decoration: none;
 </tbody>
 </table>
 
-<table id="container-2010">
+
+<h3>2010</h3><table id="container-2010">
 <tbody>
 
-<tr><th>	
-<h3>2010</h3>
-</th>	
+
+
 	
-</tr><tr>
+	
+<tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue08.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue07.jpg"></td>
 </tr>
@@ -466,14 +468,12 @@ text-decoration: none;
 </tbody>
 </table>
 
-<table id="container-2009">
+<h3>2009</h3><table id="container-2009">
 <tbody>
 
-<tr><th>	
-<h3>2009</h3>
-</th>	
+
+
 	
-</tr>
 <tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue06.jpg"></td>
 </tr>
@@ -490,14 +490,12 @@ text-decoration: none;
 </tbody>
 </table>
 
-<table id="container-2008">
+<h3>2008</h3><table id="container-2008">
 <tbody>
 
-<tr><th>	
-<h3>2008</h3>
-</th>	
-	
-</tr><tr>
+
+
+<tr>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosissue05.jpg"></td>
 <td><img src="/images/Ethos_Thumbnails_Cover/ethosworldsummitissue.jpg"></td>
 </tr>
