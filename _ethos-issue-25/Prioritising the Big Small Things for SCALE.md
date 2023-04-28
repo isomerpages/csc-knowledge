@@ -46,6 +46,8 @@ color:#ED746F;
 background-color: #ED746F; 	
 padding:20px;
 color:white;
+border-radius: 20px;
+margin-top:20px;
 }
 	
 .strategy p
@@ -81,6 +83,7 @@ deciding what we will do and what we will not do."</p>
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_2.jpg">
 
 <h5 class="letter-s">Strategy</h5>
+<b>Clarity for Crafting and Translating into Results</b>
 
 <div class="strategy">
 	<p>The two questions you need to ask about your <b>Strategy</b>:</p>	
@@ -90,3 +93,6 @@ deciding what we will do and what we will not do."</p>
 		<li>How is our work reﬂecting what our organisation can uniquely do?</li>
 	</ul>
 </div>
+
+
+
