@@ -7,9 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: CSC Knowledge
-      subtitle: Explore diverse perspectives in public policy and governance.
       background: /images/Landing_Banner_Images/knowledge_landing_banner_01.jpg
+  - infobar:
+      title: CSC Knowledge
+      description: Empowering the growth and progress of our public officers with
+        curated research insights, thought leadership, innovative ideas and
+        carefully crafted guides
   - infopic:
       title: "Ethos "
       description: ETHOS is a publication of the Civil Service College aiming to
@@ -47,9 +50,4 @@ sections:
       description: Resources on Leadership and Organisation Development
       button: Go to ODex
       url: www.odex.csc.gov.sg
-  - infobar:
-      title: CSC Knowledge
-      description: Empowering the growth and progress of our public officers with
-        curated research insights, thought leadership, innovative ideas and
-        carefully crafted guides
 ---
