@@ -19,7 +19,7 @@ width:300px;
 	font-weight:bold;
 }
 
-#chapter1,#chapter2, #chapter3,#chapter4, #chapter5
+#chapter1,#chapter2, #chapter3,#chapter4, #chapter5,#foreword
 {
 margin-top:30px;	
 }
@@ -41,7 +41,10 @@ plans were abruptly changed by the COVID-19 pandemic. These stories offer insigh
 
 <p>Please <a href="/contact-us/">contact</a> the Publishing Team for purchase.</p>
 
-<h5>FOREWORD</h5>
+<div id="foreword">
+	<p><b>FOREWORD</b></p>
+Heather HUMPHRIES
+</div>
 
 <div id="chapter1">
 <p><b><a href="https://rise.articulate.com/share/7J8nYGRlITVnMmf-dhqJ2S7YzUJ8YSlO"> CHAPTER 1: SHAPING SMART HOTELS</a></b></p>
