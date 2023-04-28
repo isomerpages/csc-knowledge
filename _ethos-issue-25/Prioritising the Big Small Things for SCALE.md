@@ -36,10 +36,20 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 	font-size:25px;
 }
 	
-.letterS h5
+.letter-s h5
 {
 color:#ED746F;	
 }
+	
+.strategy
+{
+background-color: #ED746F; 	
+padding:20px;
+color:white;
+font-size: 22px;
+
+}
+
 	
 </style>
 
@@ -66,4 +76,13 @@ deciding what we will do and what we will not do."</p>
 
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_2.jpg">
 
-<h5 class="letterS">Strategy</h5>
+<h5 class="letter-s">Strategy</h5>
+
+<div class="strategy">
+	<p>The two questions you need to ask about your <b>Strategy</b>:</p>	
+<ul>
+		<li>How is our work achieving what is core to our organisation?
+</li>
+		<li>How is our work reﬂecting what our organisation can uniquely do?</li>
+	</ul>
+</div>
