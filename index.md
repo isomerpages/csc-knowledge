@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/Landing_Banner_Images/knowledge_landing_banner_01.jpg
-  - infobar:
       title: CSC Knowledge
+  - infobar:
       description: Empowering the growth and progress of our public officers with
         curated research insights, thought leadership, innovative ideas and
         carefully crafted guides
