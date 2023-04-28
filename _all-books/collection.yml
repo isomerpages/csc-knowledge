@@ -2,5 +2,6 @@ collections:
   all-books:
     output: true
     order:
+      - "Evidence based Policymaking in Singapore: A Policymaker’s Toolkit.md"
       - "Navigating a Complex World: A Simple Guide for Public Officers.md"
       - "Case Studies: Designing Change.md"
