@@ -52,28 +52,28 @@ understanding of complexity across the public service.</p>
 
 
 <div id="chapter1">
-<p><a href="https://rise.articulate.com/share/7J8nYGRlITVnMmf-dhqJ2S7YzUJ8YSlO>"> CHAPTER 1: SHAPING SMART HOTELS</a></p>
-Heather HUMPHRIES
+<p>CHAPTER 1: A COMPLEX WORLD</p>
+SONG Hsi Ching and Anuradha SHROFF
 </div>
 
 
 <div id="chapter2">
-<p><b>CHAPTER 2: FIREWORKS IN THE CITY</b></p>
-Keziah TOH
+<p><b>CHAPTER 2: SCENARIO PLANNING AND SCENARIO PLANNING PLUS</b></p>
+Mohammed JALEES
 </div>
 
 <div id="chapter3">
-<p><b>CHAPTER 3: FROM SKUNKWORKS TO SANDBOX</b></p>
-June GWEE
+<p><b>CHAPTER 3: DATA-DRIVEN AGENT-BASED MODELLING AND ITS APPLICATIONS</b></p>
+SONG Hsi Ching
 </div>
 
 <div id="chapter4">
-<p><b>CHAPTER 4: LEAP FOR TELEMEDICINE</b></p>
+<p><b>CHAPTER 4: COMPLEXITY IN SOCIAL POLICY</b></p>
 Bernard TING
 </div>
 
 
 <div id="chapter5">
-<p><b>CHAPTER 5: AGILE FOR WINS</b></p>
-SONG Hsi Ching
+<p><b>CHAPTER 5: FUTURE DIRECTIONS</b></p>
+Aaron MANIAM
 </div>
