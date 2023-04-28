@@ -11,13 +11,28 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 	initial-letter: 3;    
 	margin-right: .55em;
 	color: #243e76;
-	}	
-		
+}	
+
+
+
+.break
+{
+   border-top:    1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	font-size:30px;
+	margin-top:50px;
+}
 	
+.break1
+{
+	font-family: times new roman;	
+}
 	
 </style>
 
-![Prioritising Purpose in the Public Service](/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg)
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
 
 
 
@@ -32,3 +47,12 @@ us, because it means that Singaporeans trust us to deliver and they look to us f
 <p>Coming out of the pandemic, we see the cumulative strain that public officers have borne over the past few years: they feel overworked, and their engagement is dipping. This is in part because we have very committed public officers who want to do their best and go the extra mile, but as a result, they have given a lot of themselves and feel exhausted.</p>
 
 <p>It is important to recognise this burnout, and therefore ﬁnd ways to refocus our public service workload on what really matters, in the face of many competing demands. We want to emphasise the areas of work that bring joy to our officers and reinforce the satisfaction they feel when they improve lives. At the same time, we should reduce the pain points that public officers face, such as the internal bureaucracy that comes with any mature, complex organisation.</p>
+
+<p>If anything, COVID-19 has reaffirmed the value of good governance and the importance of the Public Service. This is why we need to continue to keep officers engaged in the Service and staying well.</p>
+
+<div class="break">
+<p class="break1">It is important  to refocus public service workload on what really matters.</p><p>
+</p></div>
+
+<h5>Creating More Purposeful Work</h5>
+
