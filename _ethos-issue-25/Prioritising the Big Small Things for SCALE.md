@@ -37,6 +37,13 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 }
 	
 	
+.letter-s
+{
+	color: #ED746F; 
+	font-weight: bold;
+	font-size:25px;
+}
+	
 .strategy 
 {
 background-color: #ED746F; 	
@@ -50,6 +57,13 @@ margin-top:20px;
 {
 font-size: 22px;
 font-family: "montserrat";
+}
+	
+.letter-c
+{
+	color: #f19637; 
+	font-weight: bold;
+	font-size:25px;
 }
 
 .culture 
@@ -93,7 +107,7 @@ deciding what we will do and what we will not do."</p>
 
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_2.jpg">
 
-<h5 class="letter-s">Strategy</h5>
+<p class="letter-s">Strategy</p>
 <b>Clarity for Crafting and Translating into Results</b>
 
 <div class="strategy">
@@ -116,7 +130,7 @@ deciding what we will do and what we will not do."</p>
 </div>
 
 
-<h5 class="letter-c">Culture</h5>
+<p class="letter-c">Culture</p>
 <b>Behaviours and Norms We Want More Of</b>
 
 <div class="culture">
