@@ -50,8 +50,16 @@ width:3000px;
 <p>This book contains five case studies that describe organisation- and industry-level transformations where leaders and individuals reimagine operations, reengineer business processes, redesign service delivery models, and revamp the way they use technology, especially when some of their best-laid
 plans were abruptly changed by the COVID-19 pandemic. These stories offer insights on the complexity and challenges of change, innovation and public governance.</p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
 </table>
+
+<p>Please contact the Publishing Team for purchase.</p>
+
+
+
+
+
+
+
