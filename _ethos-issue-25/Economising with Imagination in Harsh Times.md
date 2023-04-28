@@ -66,7 +66,7 @@ font-weight:bold;
 	
 ol li
 {
-font-size: 15px;	
+font-size: 16px;	
 }	
 	
 .numbers
