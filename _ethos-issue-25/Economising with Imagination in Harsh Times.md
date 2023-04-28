@@ -295,8 +295,21 @@ Finally, there are often options for joining up the work of government in creati
 
 
 
+<p>Public services notoriously suffer from what’s sometimes called ‘Baumol’s disease’. Because productivity is hard to increase in ﬁelds like classroom teaching or running a theatre, the relative costs of public services tend to increase over time. Methods such as this are at least a partial and healthier alternative to the assumption that hard times must always bring about damaging cuts.</p>
 
+<p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
+<h5>Notes</h5>
+
+<ol>
+	<li>Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisis: How Governments Used Intelligence for Decision Making During the COVID-19 Pandemic”, International Public Policy Observatory, December 2022, accessed February 15, 2023, theippo.co.uk/how-governments-used-intelligence-decision-making-covid19-pandemic</li>
+	
+<li>Geoff Mulgan, “Net Zero: Mobilising Knowledge for Easier, Effective Decision Making”,International Public Policy Observatory, January 9, 2023, accessed February 15, 2023, https://theippo.co.uk/net-zero-mobilising-knowledge-easier-effective-decision-making/.</li> 
+
+<li>Geoff Mulgan, Silva Mertsola, Mikael Sokero et al., “Anticipatory Public Budgeting: Adapting Public Finance for the Challenges 
+of the 21st Century”, UAE Global Innovation Council, 2021, accessed February 15, 2023, https://gic.mbrcgi.gov.ae/storage/post/f6bTTIppsLhLElDnEVTTTRm36I3t70HP4rY722t0.pdf.</li>
+	
+</ol>
 
 
 
