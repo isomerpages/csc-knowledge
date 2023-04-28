@@ -223,22 +223,7 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 
 <p>Sometimes it is best to start off by helping people to become familiar with the approach by taking a live example—such as rural bus services, libraries or nursery education—and showing the options under each heading. Then some shared grounding in current data (e.g., costs, unit costs, etc.) can be brought in to help sharpen the discussion, and lead to more speciﬁc proposals. </p>
 
-<div class="numbers">
-	    <ol>
-        <li>Pure economies</li>
-        <li>Economies of trimming</li>
-        <li>Economies of delay</li>
-        <li>Economies of scale</li>
-        <li>Economies of scope</li>
-        <li>Economies of ﬂow <br>and prevention</li>
-        <li>Economies of penetration</li>
-        <li>Economies of responsibility</li>
-        <li>Economies of commitment and<br> relational economies</li>
-        <li>Economies of visibility</li>
-				<li>Economies from data sharing</li>
-				<li>Economies of doubling up</li>
-    </ol>
-</div>	
+<img src="images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_4.jpg">
 
 <h5>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h5>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
