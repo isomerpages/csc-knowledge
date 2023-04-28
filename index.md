@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Knowledge Hub
+      title: CSC Knowledge
       subtitle: Explore diverse perspectives in public policy and governance.
       background: /images/Landing_Banner_Images/knowledge_landing_banner_01.jpg
   - infopic:
