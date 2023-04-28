@@ -11,7 +11,11 @@ image: /images/Books/eb toolkit_cover.png
 width:300px;	
 }
 
-
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}	
 
 .button1 a
 {
@@ -82,4 +86,10 @@ LEONG Wai Yan and LIM Yong Long
 <div id="chapter7">
 <p><b>CHAPTER 7: QUALITATIVE RESEARCH AND FEEDBACK</b></p>
 Eugene LIOW
+</div>
+
+<br><br>
+
+<div class="back">
+<a href="/books/">Back to Books Page</a>	
 </div>
