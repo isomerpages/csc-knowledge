@@ -74,7 +74,7 @@ font-family: "montserrat";
 .culture1 
 {
 background-color: #f19637; 	
-padding:13px;
+padding:50px;
 color:white;
 border-radius: 20px;
 margin-top:20px;
@@ -96,10 +96,9 @@ font-family: "montserrat";
 .culture1
 {
 background-color: #f19637; 	
-padding:13px;
+padding:20px;
 color:white;
 border-radius: 20px;
-margin-top:20px;
 }
 	
 .culture1 p
@@ -210,11 +209,13 @@ deciding what we will do and what we will not do."</p>
 
 
 <div id="culture">
+	
 <p class="letter-c">Culture</p>
 <b>Behaviours and Norms We Want More Of</b>
 
 <div class="culture1">
 	<p>The two questions you need to ask about your <b>Culture</b>:</p>	
+	
 <ul>
 		<li>How is our culture recognising and rewarding our work outcomes?
 </li>
