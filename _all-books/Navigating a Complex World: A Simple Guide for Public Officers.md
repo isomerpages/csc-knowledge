@@ -52,7 +52,7 @@ understanding of complexity across the public service.</p>
 
 
 <div id="chapter1">
-<p>CHAPTER 1: A COMPLEX WORLD</p>
+	<p><b>CHAPTER 1: A COMPLEX WORLD</b></p>
 SONG Hsi Ching and Anuradha SHROFF
 </div>
 
