@@ -35,14 +35,16 @@ sections:
       image: /images/Landing_Banner_Images/landingtile_research.jpg
       alt: Image alt text
       url: /research-resources/
-  - resources:
-      title: Other Series of Ethos
-      subtitle: Ethos
-      button: Click More
   - infobar:
       title: LEARN
       subtitle: Other CSC Resources
       description: CSC Digital Learning Platform
       button: Go to LEARN
       url: www.learn.gov.sg
+  - infobar:
+      title: ODex
+      subtitle: Other CSC Resources
+      description: Resources on Leadership and Organisation Development
+      button: Go to ODex
+      url: www.odex.csc.gov.sg
 ---
