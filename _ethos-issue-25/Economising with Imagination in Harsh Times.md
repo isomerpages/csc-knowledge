@@ -82,7 +82,8 @@ border: 3px solid darkblue;
 {
 	      display: flex;
         flex-flow: wrap column;
-        max-height: 330px;
+        max-height: 350px;
+			  margin-left:80px;
 }
 	
 
@@ -200,16 +201,16 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 	    <ol>
         <li>Pure economies</li>
         <li>Economies of trimming</li>
-        <li>Item</li>
-        <li>Item</li>
-        <li>Item</li>
-        <li>Item</li>
-        <li>Item</li>
-        <li>Item</li>
-        <li>Item</li>
-        <li>Item</li>
-				<li>Item</li>
-				<li>Item</li>
+        <li>Economies of delay</li>
+        <li>Economies of scale</li>
+        <li>Economies of scope</li>
+        <li>Economies of ﬂow <br>and prevention</li>
+        <li>Economies of penetration</li>
+        <li>Economies of responsibility</li>
+        <li>Economies of commitment and<br> relational economies</li>
+        <li>Economies of visibility</li>
+				<li>Economies from data sharing</li>
+				<li>Economies of doubling up</li>
     </ol>
 	
 </div>	
