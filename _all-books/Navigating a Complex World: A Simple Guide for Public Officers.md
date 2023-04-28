@@ -47,7 +47,7 @@ policymaking, from making long-term strategic planning more robust, to planning 
 infrastructure more holistically, to enabling senior citizens to age in place through improved
 community healthcare. It also examines what can be done in the years ahead to infuse an
 understanding of complexity across the public service.</p>	
-<br>
+<br><br>
 <p>Please <a href="/contact-us/">contact</a> the Publishing Team for purchase.</p>
 <br><br>
 
