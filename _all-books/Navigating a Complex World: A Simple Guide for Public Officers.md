@@ -43,9 +43,13 @@ infrastructure more holistically, to enabling senior citizens to age in place th
 community healthcare. It also examines what can be done in the years ahead to infuse an
 understanding of complexity across the public service.</p>	
 
-<p>Please <a href="/csc-ethos/contact-us">contact</a> the Publishing Team for purchase.</p>
+<p>Please <a href="/contact-us/">contact</a> the Publishing Team for purchase.</p>
 
-<h5>FOREWORD</h5>
+
+<div id="introduction">
+	<p><b><a href="csc_navigating a complex world_intro/files/csc_navigating%20a%20complex%20world_intro.pdf">INTRODUCTION</a></b></p>	
+</div>
+
 
 <div id="chapter1">
 <p><a href="https://rise.articulate.com/share/7J8nYGRlITVnMmf-dhqJ2S7YzUJ8YSlO>"> CHAPTER 1: SHAPING SMART HOTELS</a></p>
