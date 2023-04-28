@@ -103,6 +103,8 @@ font-size: 22px;
 font-family: "montserrat";
 }		
 	
+
+	
 .alignment p
 {
 font-size: 22px;
@@ -195,7 +197,7 @@ deciding what we will do and what we will not do."</p>
 </div>
 
 <div class="break">
-<p class="break2">" We have been conditioned for success through adding and not subtracting."</p>
+<p class="break1">" We have been conditioned for success through adding and not subtracting."</p>
 </div>
 
 <p>What gets rewarded gets done. An organisation’s culture is built and reinforced day by day through actual work behaviours and norms. Ask any newcomer to observe and share candidly what gets rewarded or frowned upon at the workplace. Their fresh perspectives—free from legacy experiences—offer an outside-in view of current work interactions.</p>
