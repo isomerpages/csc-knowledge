@@ -2,4 +2,4 @@ collections:
   past-issues:
     output: true
     order:
-      - Past Issues.md
+      - All Issues.md
