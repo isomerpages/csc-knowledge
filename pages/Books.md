@@ -148,7 +148,7 @@ describe how public officers have been able to think differently, find new
 paths and build resilient communities.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="/all-books/building-communities-in-singapore/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
