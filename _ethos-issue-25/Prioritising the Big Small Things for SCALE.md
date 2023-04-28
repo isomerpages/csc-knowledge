@@ -299,9 +299,7 @@ space to think and plan, while also taking time to get ground data to assess and
 <p>In a leadership team planning discussion to chart plans for the agency’s strategy, one division head revealed that he asked his staff to set aside time every week as ‘free time’ to pause and think. He related how he blocked off two hours every week to reflect on the past week. This helped him sharpen his priorities. He finished his sharing with an apologetic look at the agency head because he had self-declared the ‘free time’ for his staff without prior permission. To his credit, the agency head nodded his approval as the room of leaders cheered at the encouraging confession.</p>
 
 <p>Pausing to ‘go slow to go fast’ illustrates how a big small thing can enable leaders to prioritise better.</p>
-
-
-
+	
 </div>
 
 
