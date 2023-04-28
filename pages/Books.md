@@ -3,6 +3,7 @@ title: Books
 permalink: /books/
 description: ""
 ---
+![](/images/Landing_Banner_Images/knowledge_books_banner_01.jpg)
 <style>
 table
 { 
