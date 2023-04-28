@@ -290,12 +290,12 @@ These are economies that ﬂow from shifting tasks to more committed providers, 
 
 <p class="oranges">SMART TOOLS</p>
 <ol start="10">
-	<li><b>Economies of responsibility involve passing responsibility out to citizens</b><br>
-E.g. For COVID self-testing, separating out waste, or self-packing as supermarkets shifted the role of packing from paid staff to customers.
+	<li><b>Economies of visibility come from mobilising public eyes and the power of shame</b><br>
+E.g., Making parliamentarian’s expenses more public and reducing them; the same principle applies to public contracts of all kinds.
 </li>	
 	
-<li><b>Economies of commitment and relational economies</b><br>
-These are economies that ﬂow from shifting tasks to more committed providers, or ones with a sense of relationship. This can apply to professional social work and care, but also to making the most of the community, for example using volunteer bus drivers for marginal rural bus services or organising neighbours to watch out for people with dementia.</li>
+<li><b>Economies from data sharing</b><br>
+Open data enabling innovation, competition and new models (as has happened in ﬁnance, energy and transport, where much has been learned about the value of open data—for example, opening public transport data to enable new apps, or opening up banking data to third parties to prompt innovation).</li>
 
 </ol>
 
