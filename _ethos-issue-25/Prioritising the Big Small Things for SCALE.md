@@ -184,7 +184,7 @@ deciding what we will do and what we will not do."</p>
 
 
 <div id="strategy">
-<p class="letter-s">Strategy</p>
+<p class="letter-s">STRATEGY</p>
 <b>Clarity for Crafting and Translating into Results</b>
 
 <div class="strategy1">
@@ -210,7 +210,7 @@ deciding what we will do and what we will not do."</p>
 
 <div id="culture">
 	
-<p class="letter-c">Culture</p>
+<p class="letter-c">CULTURE</p>
 <b>Behaviours and Norms We Want More Of</b>
 
 <div class="culture1">
@@ -244,7 +244,7 @@ deciding what we will do and what we will not do."</p>
 <b>Jolt for Optimisation</b>
 
 <div class="alignment1">
-	<p>The two questions you need to ask about your <b>Alignment of processes:</b></p>	
+	<p>The two questions you need to ask about your <br><b>Alignment of processes:</b></p>	
 <ul>
 	<li>How have we optimised the layers of clearance and iterations needed for our work?</li>
 	<li>How have we optimised virtual and in-person ways of working?</li>
@@ -267,14 +267,14 @@ deciding what we will do and what we will not do."</p>
 </div>
 
 <div id="leadership">
-<p class="letter-l">Leadership</p>
+<p class="letter-l">LEADERSHIP</p>
 <b>Go Slow to Go Fast</b>
 
 <div class="leadership1">
-	<p>The two questions you need to ask about your <b>Alignment of processes:</b></p>	
+	<p>The two questions you need to ask about your <b>Leadership:</b></p>	
 <ul>
-	<li>How have we optimised the layers of clearance and iterations needed for our work?</li>
-	<li>How have we optimised virtual and in-person ways of working?</li>
+	<li>How are our leaders able to take time to prioritise and communicate directions?</li>
+	<li>How effective are our leaders in sensing ground needs?</li>
 	</ul>
 </div>
 
