@@ -13,6 +13,11 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 	color: #1F5E61;
 }	
 
+#strategy, #culture, #alignment, #leadership
+{
+margin-top:50px;	
+	
+}	
 	
 .back a
 {
@@ -44,7 +49,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 	font-size:25px;
 }
 	
-.strategy 
+.strategy1
 {
 background-color: #ED746F; 	
 padding:20px;
@@ -53,7 +58,7 @@ border-radius: 20px;
 margin-top:20px;
 }
 	
-.strategy p
+.strategy1 p
 {
 font-size: 22px;
 font-family: "montserrat";
@@ -66,7 +71,7 @@ font-family: "montserrat";
 	font-size:25px;
 }
 
-.culture 
+.culture1 
 {
 background-color: #f19637; 	
 padding:13px;
@@ -75,7 +80,7 @@ border-radius: 20px;
 margin-top:20px;
 }
 	
-.culture p
+.culture1 p
 {
 font-size: 22px;
 font-family: "montserrat";
@@ -88,7 +93,7 @@ font-family: "montserrat";
 	font-size:25px;
 }
 
-.culture 
+.culture1
 {
 background-color: #f19637; 	
 padding:13px;
@@ -97,19 +102,12 @@ border-radius: 20px;
 margin-top:20px;
 }
 	
-.culture p
+.culture1 p
 {
 font-size: 22px;
 font-family: "montserrat";
 }		
 	
-
-	
-.alignment p
-{
-font-size: 22px;
-font-family: "montserrat";
-}	
 
 .letter-a
 {
@@ -118,7 +116,7 @@ font-family: "montserrat";
 	font-size:25px;
 }
 
-.alignment 
+.alignment1 
 {
 background-color: #24788e; 	
 padding:13px;
@@ -127,11 +125,35 @@ border-radius: 20px;
 margin-top:20px;
 }
 	
-.alignment p
+.alignment1 p
 {
 font-size: 22px;
 font-family: "montserrat";
 }			
+	
+
+.letter-l
+{
+	color: #22b5a2; 
+	font-weight: bold;
+	font-size:25px;
+}
+
+.leadership1 
+{
+background-color: #22b5a2; 	
+padding:13px;
+color:white;
+border-radius: 20px;
+margin-top:20px;
+}
+	
+.leadership1 p
+{
+font-size: 22px;
+font-family: "montserrat";
+}			
+		
 	
 	
 	
@@ -161,10 +183,12 @@ deciding what we will do and what we will not do."</p>
 
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_2.jpg">
 
+
+<div id="strategy">
 <p class="letter-s">Strategy</p>
 <b>Clarity for Crafting and Translating into Results</b>
 
-<div class="strategy">
+<div class="strategy1">
 	<p>The two questions you need to ask about your <b>Strategy</b>:</p>	
 <ul>
 		<li>How is our work achieving what is core to our organisation?
@@ -182,12 +206,14 @@ deciding what we will do and what we will not do."</p>
 <div class="break">
 <p class="break1">" When leaders take time to help others understand the work and value created by their organisation, officers will have more clarity in prioritising time and work."</p>
 </div>
+</div>
 
 
+<div id="culture">
 <p class="letter-c">Culture</p>
 <b>Behaviours and Norms We Want More Of</b>
 
-<div class="culture">
+<div class="culture1">
 	<p>The two questions you need to ask about your <b>Culture</b>:</p>	
 <ul>
 		<li>How is our culture recognising and rewarding our work outcomes?
@@ -209,11 +235,14 @@ deciding what we will do and what we will not do."</p>
 <p>In ILOD’s interactions with agencies, we have seen some leaders ﬁnd ways to combat such learned behaviours to do more. One leader articulated clear expectations of what was needed for a work deliverable and told officers what ‘done’ work would look like, to reduce unnecessary rework. Another leader clariﬁed with subordinates what good staffing looked like, to prevent overzealous preparations. One leader made the effort to email the entire division, openly lauding an officer who had put up a request to drop work that was no longer relevant. </p>
 
 <p>A few words or a short email can make implicit expectations explicit. These big small things not only have a big impact on officers’ workload and priorities, but can also clarify and encourage the work behaviours and norms we want more of.</p>
-
+	
+</div>	
+	
+<div id="alignment" class="">
 <p class="letter-a">ALIGNMENT OF PROCESSES</p>
 <b>Jolt for Optimisation</b>
 
-<div class="alignment">
+<div class="alignment1">
 	<p>The two questions you need to ask about your <b>Alignment of processes:</b></p>	
 <ul>
 	<li>How have we optimised the layers of clearance and iterations needed for our work?</li>
@@ -233,6 +262,39 @@ deciding what we will do and what we will not do."</p>
 <div class="break">
 <p class="break1">"One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value."</p>
 </div>
+
+</div>
+
+<div id="leadership">
+<p class="letter-l">Leadership</p>
+<b>Go Slow to Go Fast</b>
+
+<div class="leadership1">
+	<p>The two questions you need to ask about your <b>Alignment of processes:</b></p>	
+<ul>
+	<li>How have we optimised the layers of clearance and iterations needed for our work?</li>
+	<li>How have we optimised virtual and in-person ways of working?</li>
+	</ul>
+</div>
+
+
+<p>Work processes can accumulate over time and be hard to get rid of. With the hybrid/ﬂexible work arrangements of the pandemic years, processes may even have multiplied. At the same time, the constraints imposed by the pandemic have also taught us that we can in fact do quite well with less. For example, we learnt that virtual meetings can save on commuting time while not compromising work outcomes.</p>
+
+<p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
+
+<p>One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value. During a leadership team conversation to address high workload, an agency head related his shock of discovering that over 20 iterations had been made to a set of meeting notes that the meeting chairperson did not even see. It could not be clearly determined if each layer added value. The high number of iterations prompted the leaders to discuss how they might have unknowingly contributed to similar inefficiencies. They decided to update the clearance process from a sequential ﬂow to using a shared platform for concurrent clearance by the required parties.</p>
+
+<p>Such a change was a relatively small step for them. But it was a big small thing that led to a shift in mindsets and expectations, prompting a broader relook and optimisation of how they had been working. </p>
+
+<div class="break">
+<p class="break1">"One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value."</p>
+</div>
+
+</div>
+
+
+
+
 
 
 
