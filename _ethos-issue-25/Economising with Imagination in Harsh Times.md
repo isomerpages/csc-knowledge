@@ -232,20 +232,24 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 <h5>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h5>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
 
+<div id="tradition">
 <p class="orange">TRADITIONAL TOOLS</p>
 <ol>
 	<li><b>Pure economies</b><br>
-Stopping doing things (e.g., fewer bin collections, closing rail lines and bus services, closing libraries)</li>
-	<li>
-	</li><li>
-	</li><li>
-	</li><li>
-</li></ol>
+Stopping doing things (e.g., fewer bin collections, closing rail lines and bus services, closing libraries)</li>	
+	<li><b>Economies of trimming</b><br>
+Freezes, efficiency savings (e.g., 5% cuts to pay or opening times), shorter school days
+</li>
+	<li><b>Economies of delay</b><br>
+To capital, pay rises, procurement, maintenance, improvements</li>
 
+
+</ol>
+<div>
 
 
 <br>
 <br>	
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
-</div>
+</div></div></div>
