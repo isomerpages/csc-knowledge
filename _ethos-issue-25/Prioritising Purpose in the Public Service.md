@@ -45,7 +45,6 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
 
 
-
 <p class="subhead"><span>W</span>e are moving into quite a different future. The external environment has changed.</p>
 
 <p>Domestically, we have a mature population with new needs but also more questions about how things are done. At the same time, we know we need to use resources more sustainably. Public Service manpower growth cannot outpace that of the broader labour force when our population is not growing and the labour force is stagnating. This is the reality we must grapple with. 
@@ -148,6 +147,8 @@ more focused and effective, but also one in which officers have a deeper sense o
 <p>In the end, we should aim to have a Public Service that is leaner, sharper, more focused and effective, but also one in which officers have a deeper sense of engagement and pride.</p>
 
 <p>These are not easy outcomes to achieve, but if we can move in these directions, we will be doing well. If we are able to corral together efforts from across the Service, as part of a broader movement with everyone feeling a sense of empowerment, we can make a decisive difference.</p>
+
+
 
 <br>
 <div class="back">
