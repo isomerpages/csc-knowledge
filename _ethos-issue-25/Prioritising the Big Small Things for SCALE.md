@@ -19,6 +19,12 @@ margin-top:50px;
 	
 }	
 	
+.word
+{
+font-weight: bold;
+font-style: italic;
+}
+	
 .back a
 {
 	color: #9f2943;
@@ -185,10 +191,10 @@ deciding what we will do and what we will not do."</p>
 
 <div id="strategy">
 <p class="letter-s">STRATEGY</p>
-<b>Clarity for Crafting and Translating into Results</b>
+	<b>Clarity for Crafting and Translating into Results</b>
 
 <div class="strategy1">
-	<p>The two questions you need to ask about your <b>Strategy</b>:</p>	
+	<p>The two questions you need to ask about your <span class="word">Strategy:</span></p>	
 <ul>
 		<li>How is our work achieving what is core to our organisation?
 </li>
@@ -214,7 +220,7 @@ deciding what we will do and what we will not do."</p>
 <b>Behaviours and Norms We Want More Of</b>
 
 <div class="culture1">
-	<p>The two questions you need to ask about your <b>Culture</b>:</p>	
+	<p>The two questions you need to ask about your <span class="word">Culture:</span></p>	
 	
 <ul>
 		<li>How is our culture recognising and rewarding our work outcomes?
@@ -244,7 +250,7 @@ deciding what we will do and what we will not do."</p>
 <b>Jolt for Optimisation</b>
 
 <div class="alignment1">
-	<p>The two questions you need to ask about your <br><b>Alignment of processes:</b></p>	
+	<p>The two questions you need to ask about your <span class="word">Alignment of processes:</span></p>	
 <ul>
 	<li>How have we optimised the layers of clearance and iterations needed for our work?</li>
 	<li>How have we optimised virtual and in-person ways of working?</li>
@@ -271,7 +277,7 @@ deciding what we will do and what we will not do."</p>
 <b>Go Slow to Go Fast</b>
 
 <div class="leadership1">
-	<p>The two questions you need to ask about your <b>Leadership:</b></p>	
+	<p>The two questions you need to ask about your <span class="word">Leadership:</span></p>	
 <ul>
 	<li>How are our leaders able to take time to prioritise and communicate directions?</li>
 	<li>How effective are our leaders in sensing ground needs?</li>
@@ -279,17 +285,22 @@ deciding what we will do and what we will not do."</p>
 </div>
 
 
-<p>Work processes can accumulate over time and be hard to get rid of. With the hybrid/ﬂexible work arrangements of the pandemic years, processes may even have multiplied. At the same time, the constraints imposed by the pandemic have also taught us that we can in fact do quite well with less. For example, we learnt that virtual meetings can save on commuting time while not compromising work outcomes.</p>
+<p>Leaders these days have little time to think. In a poll with over 300 responses at ILOD’s sharing session on prioritisation, a top-ranked challenge was the scarcity of time and not being able to step back to think. Having to juggle ‘business-as-usual’ activities and new initiatives driven by various stakeholders was another key challenge.</p>
 
-<p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
-
-<p>One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value. During a leadership team conversation to address high workload, an agency head related his shock of discovering that over 20 iterations had been made to a set of meeting notes that the meeting chairperson did not even see. It could not be clearly determined if each layer added value. The high number of iterations prompted the leaders to discuss how they might have unknowingly contributed to similar inefficiencies. They decided to update the clearance process from a sequential ﬂow to using a shared platform for concurrent clearance by the required parties.</p>
-
-<p>Such a change was a relatively small step for them. But it was a big small thing that led to a shift in mindsets and expectations, prompting a broader relook and optimisation of how they had been working. </p>
-
+<p>Among the leaders we interacted with were a number of ‘positive deviants’—those who seemed to be able to cope and even thrive in this context. Their trade secret was common knowledge but not common practice: the importance of having white space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working.</p>
+	
 <div class="break">
-<p class="break1">"One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value."</p>
-</div>
+<p class="break1">"Common knowledge 
+but not common 
+practice: having white 
+space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working."</p>
+</div>	
+
+<p>In a leadership team planning discussion to chart plans for the agency’s strategy, one division head revealed that he asked his staff to set aside time every week as ‘free time’ to pause and think. He related how he blocked off two hours every week to reflect on the past week. This helped him sharpen his priorities. He finished his sharing with an apologetic look at the agency head because he had self-declared the ‘free time’ for his staff without prior permission. To his credit, the agency head nodded his approval as the room of leaders cheered at the encouraging confession.</p>
+
+<p>Pausing to ‘go slow to go fast’ illustrates how a big small thing can enable leaders to prioritise better.</p>
+
+
 
 </div>
 
