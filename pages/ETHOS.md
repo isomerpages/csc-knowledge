@@ -225,7 +225,7 @@ the way public services are resourced, structured and operated.
 <b><i>by Kwa Chin Lum and Kyle Goh</i></b>
 
 <p>	
-Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort.  The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
+Singapore’s Ministry of Finance is spearheading budgetary reforms to enhance cooperation, sharpen priorities and promote innovation, to meet national challenges in an increasingly resource-constrained environment.
 </p>	
 
 <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
