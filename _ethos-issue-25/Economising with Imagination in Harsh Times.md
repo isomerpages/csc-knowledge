@@ -76,9 +76,9 @@ font-size: 15px;
 	
 <p>I propose three areas in which new methods are needed:</p>
 <ol>
-<li>We need to mobilise intelligence more systematically, i.e., data, evidence and knowledge of all kinds, to ensure that action is focused, targeted and smart. Experiences from the pandemic can be applied to other fields but will require different structures and processes to be effective.</li>
-<li>Some overdue reforms to public finance are needed to better fit the demands of the 21st century, including using investment methods f o r h uma n s e r v i c e s s u c h a s education, health and innovation, and better use of data to connect inputs of money to outputs and outcomes.</li>
-<li>We need a framework for thinking creatively about how to achieve economies within public services: going beyond the standard tools of cuts, trimming and delay to more creative options for restructuring services and changing the contract with citizens.</li>
+	<li>We need to mobilise <b>intelligence</b> more systematically, i.e., data, evidence and knowledge of all kinds, to ensure that action is focused, targeted and smart. Experiences from the pandemic can be applied to other fields but will require different structures and processes to be effective.</li>
+	<li>Some overdue <b>reforms</b> to public finance are needed to better fit the demands of the 21st century, including using investment methods for human services such as education, health and innovation, and better use of data to connect inputs of money to outputs and outcomes.</li>
+	<li>We need a framework for thinking creatively about how to achieve <b>economies</b> within public services: going beyond the standard tools of cuts, trimming and delay to more creative options for restructuring services and changing the contract with citizens.</li>
 </ol>	
 
 	
