@@ -39,10 +39,13 @@ margin-top:30px;
 <i>ISBN: 978-981-09-5818-3 (pbk) | 2015</i><br>
 <b><i>Edited by June Gwee</i></b>
 
-<p>This book contains four case studies on how public agencies design solutions to improve the quality of life for individuals and society by listening, observing and being empathetic to the needs of people. They describe how public officers have been able to think differently, find new paths and build resilient communities.</p>	
+<p>This book contains four case studies on how public agencies design solutions to improve the quality of life for individuals and society by listening, observing and being empathetic to the needs of people. They describe how public officers have been able to think differently, find new paths and build resilient communities.</p>
+
+<br>
 
 <p>Please <a href="/contact-us/">contact</a> the Publishing Team for purchase.</p>
 
+<br>
 
 <div id="foreword">
 <p><b>FOREWORD</b></p>
