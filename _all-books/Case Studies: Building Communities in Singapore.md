@@ -42,7 +42,7 @@ margin-top:30px;
 
 
 <div id="foreword">
-<p><b><a href="https://rise.articulate.com/share/7J8nYGRlITVnMmf-dhqJ2S7YzUJ8YSlO"> FOREWORD</a></b></p>
+<p><b>FOREWORD</b></p>
 Jocelyne BOURGON
 </div>
 
