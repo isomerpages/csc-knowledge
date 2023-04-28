@@ -55,6 +55,22 @@ margin-top:20px;
 font-size: 22px;
 font-family: "montserrat";
 }
+
+.culture 
+{
+background-color: #f19637; 	
+padding:13px;
+color:white;
+border-radius: 20px;
+margin-top:20px;
+}
+	
+.culture p
+{
+font-size: 22px;
+font-family: "montserrat";
+}	
+	
 	
 </style>
 
@@ -102,3 +118,27 @@ deciding what we will do and what we will not do."</p>
 <div class="break">
 <p class="break1">" When leaders take time to help others understand the work and value created by their organisation, officers will have more clarity in prioritising time and work."</p>
 </div>
+
+
+<h5 class="letter-c">Culture</h5>
+<b>Behaviours and Norms We Want More Of</b>
+
+<div class="culture">
+	<p>The two questions you need to ask about your <b>Culture</b>:</p>	
+<ul>
+		<li>How is our culture recognising and rewarding our work outcomes?
+</li>
+		<li>How is our culture recognising and rewarding the collaboration needed for our work?</li>
+	</ul>
+</div>
+
+<div class="break">
+<p class="break1">" We have been conditioned for success through adding and not subtracting."</p>
+</div>
+
+<p>The most important step in prioritisation is to clarify the organisation’s strategy and to activate it in the work done, from the top all the way to the ground. In our consultancy work, we have heard varying degrees of clarity across different levels when officers are asked about their organisation’s focus. We often see organisations spending extensive effort in crafting strategic plans, but less effort in communicating and translating strategies into day-to-day work. </p>
+
+<p>In an engagement session designed  for 76 senior and middle management leaders of an agency, participants discussed how their teams contributed to the strategic pillars of their agency’s transformation. The senior management team had earlier developed the agency’s transformation vision and corresponding strategies. They wanted to take time to share with middle managers, so as to sharpen and translate the strategies for the work on the ground. Energy levels rose as different participants articulated a shared desired impact for their stakeholders and end users. Gathering the leaders for half a day was a big small thing—a small investment of effort that led to signiﬁcant value in alignment. At the end of the session, participants echoed that the time was well spent, particularly with the middle managers articulating greater resonance with organisational strategies in planning and prioritising their work.</p>
+
+<p>When leaders take time to help others understand the core work and unique value created by their organisation, teams and officers will have more clarity in prioritising time and energy for work that matters.</p>
+
