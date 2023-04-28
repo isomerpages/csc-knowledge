@@ -67,7 +67,7 @@ plans were abruptly changed by the COVID-19 pandemic. These stories offer insigh
 
 
 <p><b>CHAPTER 2: FIREWORKS IN THE CITY</b></p>
-Kezia TOH
+<i>Kezia TOH</i>
 
 
 
