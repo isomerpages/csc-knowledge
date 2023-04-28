@@ -96,7 +96,7 @@ font-family: "montserrat";
 .culture1
 {
 background-color: #f19637; 	
-padding:20px;
+padding:15px;
 color:white;
 border-radius: 20px;
 }
