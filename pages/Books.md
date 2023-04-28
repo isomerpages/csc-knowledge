@@ -3,12 +3,12 @@ title: Books
 permalink: /books/
 description: ""
 ---
-![](/images/Landing_Banner_Images/knowledge_books_banner_01.jpg)
+
 <style>
 table
 { 
 border-collapse: separate; 
-border-spacing: 20px 10px; 	
+border-spacing: 40px 10px; 	
 
 }	
 
@@ -29,14 +29,14 @@ width:800px;
 
 #book3 img
 {
-width:100%;
+width:1200px;
 }
 
 
 
-#book1,#book2
+#book1,#book2,#book3
 {
-	margin-top:20px;
+	margin-top:30px;
 	border-bottom: 0.5px solid black;
 }
 
@@ -52,7 +52,9 @@ width:100%;
 	
 </style>
 
-
+<div class="background-image">
+<img src="/images/Landing_Banner_Images/knowledge_books_banner_01.jpg">
+</div>	
 
 <table id="book1">
 <tbody>
@@ -103,6 +105,33 @@ Meaningful change can be initiated by small, purposeful ﬁrst steps, rather tha
 
 
 <table id="book3">
+<tbody>
+
+<tr>
+<td><img src="/images/Books/eb%20toolkit_cover.png"></td>
+
+<td>	
+<h3>Evidence-based Policymaking in Singapore: A Policymaker’s Toolkit</h3>
+<b><i>Multiple authors</i></b>
+
+<p>	This book covers a collection of tools commonly used in evidence-based
+policymaking and how they can strengthen policy design and decision-
+making. These range from broad, cross-cutting policy measures to
+seemingly operational interventions which contribute to larger policy
+objectives. Examples from Singapore and other countries are used to
+illustrate key learning points.</p>	
+
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+<table id="book4">
 <tbody>
 
 <tr>
