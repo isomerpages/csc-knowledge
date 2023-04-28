@@ -27,7 +27,7 @@ width:3000px;
 .button1 a
 {
 	color: #9f2943;
-	font-weight:bold
+	font-weight:bold;
 }
 
 
@@ -35,6 +35,7 @@ width:3000px;
 
 	
 </style>
+
 
 <table id="book1">
 <tbody>
@@ -55,11 +56,4 @@ plans were abruptly changed by the COVID-19 pandemic. These stories offer insigh
 </tbody>
 </table>
 
-<p>Please contact the Publishing Team for purchase.</p>
-
-
-
-
-
-
-
+<p>Please <a href="">contact</a> the Publishing Team for purchase.</p>
