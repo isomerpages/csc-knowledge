@@ -24,7 +24,7 @@ width:300px;
 	font-weight:bold;
 }
 
-#chapter1,#chapter2, #chapter3,#chapter4, #chapter5,#foreword
+#chapter1,#chapter2, #chapter3,#chapter4, #chapter5,#foreword,#introduction
 {
 margin-top:30px;	
 }
@@ -49,7 +49,10 @@ plans were abruptly changed by the COVID-19 pandemic. These stories offer insigh
 <br>
 <div id="foreword">
 	<p><b>FOREWORD</b></p>
-Heather HUMPHRIES
+</div>
+
+<div id="introduction">
+	<p><b>INTRODUCTION</b></p>
 </div>
 
 <div id="chapter1">
