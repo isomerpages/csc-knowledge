@@ -39,4 +39,10 @@ sections:
       title: Other Series of Ethos
       subtitle: Ethos
       button: Click More
+  - infobar:
+      title: LEARN
+      subtitle: Other CSC Resources
+      description: CSC Digital Learning Platform
+      button: Go to LEARN
+      url: www.learn.gov.sg
 ---
