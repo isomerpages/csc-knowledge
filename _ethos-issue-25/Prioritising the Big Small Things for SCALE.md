@@ -32,7 +32,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 	
 .break1
 {
-	font-family: times new roman;	
+	font-family: "times new roman";	
 	font-size:25px;
 }
 	
@@ -41,15 +41,19 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 color:#ED746F;	
 }
 	
-.strategy
+.strategy 
 {
 background-color: #ED746F; 	
 padding:20px;
 color:white;
-font-size: 22px;
+}
+	
+.strategy p
+{
+font-size: 23px;
+font-family: "times new roman";
 
 }
-
 	
 </style>
 
