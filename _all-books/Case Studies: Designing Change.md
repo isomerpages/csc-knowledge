@@ -39,7 +39,7 @@ margin-top:30px;
 <p>This book contains five case studies that describe organisation- and industry-level transformations where leaders and individuals reimagine operations, reengineer business processes, redesign service delivery models, and revamp the way they use technology, especially when some of their best-laid
 plans were abruptly changed by the COVID-19 pandemic. These stories offer insights on the complexity and challenges of change, innovation and public governance.</p>	
 
-<p>Please <a href="/csc-ethos/contact-us">contact</a> the Publishing Team for purchase.</p>
+<p>Please <a href="/contact-us/">contact</a> the Publishing Team for purchase.</p>
 
 <h5>FOREWORD</h5>
 
@@ -69,9 +69,3 @@ Bernard TING
 <p><b>CHAPTER 5: AGILE FOR WINS</b></p>
 SONG Hsi Ching
 </div>
-
-
-
-
-
-
