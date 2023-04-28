@@ -232,7 +232,7 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 <h5>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h5>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
 
-<div id="tradition">
+
 <p class="orange">TRADITIONAL TOOLS</p>
 <ol>
 	<li><b>Pure economies</b><br>
@@ -241,15 +241,30 @@ Stopping doing things (e.g., fewer bin collections, closing rail lines and bus s
 Freezes, efficiency savings (e.g., 5% cuts to pay or opening times), shorter school days
 </li>
 	<li><b>Economies of delay</b><br>
-To capital, pay rises, procurement, maintenance, improvements</li>
-
+		To capital, pay rises, procurement, maintenance, improvements</li>
 
 </ol>
-<div>
 
+<p class="orange">ECONOMIC RESTRUCTURING</p>
+<ol start="4">
+	<li><b>Economies of scale</b><br>
+E.g., Aggregating call centres or back-office functions. These have been exaggerated in the past (small governments and municipalities are often just as efficient as big ones) but they can sometimes deliver big savings.
+</li>	
+	<li><b>Economies of scope</b><br>
+E.g., Combining multiple functions in one-stop shops, multipurpose personal advisers, neighbourhood media, extending roles, standardised identiﬁcation or payments. Much recent digital innovation has essentially helped with this—such as Estonia’s X-road platform or India’s Aadhaar.</li>
+	<li><b>Economies of ﬂow and prevention</b><br>
+	E.g., Hospitals specialising in a few operations and so improving efficiency, cutting bottlenecks or easing transitions, for example out of prison or from school into work. A related concept is reducing failure demand (such as recidivism or hospitals with repeated re-admissions), helped by tools like outcome-based funding or investing in preventive health. Many of the greatest costs in public systems accumulate around blocked ﬂows of this kind.
+</li>
+<li><b>Economies of penetration</b><br>
+	These are economies that result from concentrating a service or cluster of services in a locality. In energy, this can be done by Combined Heat and Power schemes, and in housing, often through roles such as street concierges.
+</li>
+	
+	
+	
+</ol>
 
 <br>
 <br>	
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
-</div></div></div>
+</div>
