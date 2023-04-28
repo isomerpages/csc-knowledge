@@ -80,6 +80,29 @@ margin-top:20px;
 font-size: 22px;
 font-family: "montserrat";
 }	
+
+.letter-c
+{
+	color: #f19637; 
+	font-weight: bold;
+	font-size:25px;
+}
+
+.culture 
+{
+background-color: #f19637; 	
+padding:13px;
+color:white;
+border-radius: 20px;
+margin-top:20px;
+}
+	
+.culture p
+{
+font-size: 22px;
+font-family: "montserrat";
+}		
+	
 	
 	
 </style>
@@ -155,3 +178,44 @@ deciding what we will do and what we will not do."</p>
 <p>In ILOD’s interactions with agencies, we have seen some leaders ﬁnd ways to combat such learned behaviours to do more. One leader articulated clear expectations of what was needed for a work deliverable and told officers what ‘done’ work would look like, to reduce unnecessary rework. Another leader clariﬁed with subordinates what good staffing looked like, to prevent overzealous preparations. One leader made the effort to email the entire division, openly lauding an officer who had put up a request to drop work that was no longer relevant. </p>
 
 <p>A few words or a short email can make implicit expectations explicit. These big small things not only have a big impact on officers’ workload and priorities, but can also clarify and encourage the work behaviours and norms we want more of.</p>
+
+<p class="letter-a">ALIGNMENT OF PROCESSES</p>
+<b>Behaviours and Norms We Want More Of</b>
+
+<div class="alignment">
+	<p>The two questions you need to ask about your <b>Culture</b>:</p>	
+<ul>
+		<li>How is our culture recognising and rewarding our work outcomes?
+</li>
+		<li>How is our culture recognising and rewarding the collaboration needed for our work?</li>
+	</ul>
+</div>
+
+<div class="break">
+<p class="break1">" We have been conditioned for success through adding and not subtracting."</p>
+</div>
+
+<p>What gets rewarded gets done. An organisation’s culture is built and reinforced day by day through actual work behaviours and norms. Ask any newcomer to observe and share candidly what gets rewarded or frowned upon at the workplace. Their fresh perspectives—free from legacy experiences—offer an outside-in view of current work interactions.</p>
+
+<p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
+
+<p>This runs contrary to the call for prioritisation and reducing workload because we have been conditioned for success through adding and not subtracting. </p>
+
+<p>In ILOD’s interactions with agencies, we have seen some leaders ﬁnd ways to combat such learned behaviours to do more. One leader articulated clear expectations of what was needed for a work deliverable and told officers what ‘done’ work would look like, to reduce unnecessary rework. Another leader clariﬁed with subordinates what good staffing looked like, to prevent overzealous preparations. One leader made the effort to email the entire division, openly lauding an officer who had put up a request to drop work that was no longer relevant. </p>
+
+<p>A few words or a short email can make implicit expectations explicit. These big small things not only have a big impact on officers’ workload and priorities, but can also clarify and encourage the work behaviours and norms we want more of.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="back">
+<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+</div>
