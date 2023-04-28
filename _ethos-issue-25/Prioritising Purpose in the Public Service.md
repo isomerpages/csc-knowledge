@@ -147,5 +147,5 @@ more focused and effective, but also one in which officers have a deeper sense o
 
 <br>
 <div class="back">
-<a href="/ethos/issue-25/">Back to Ethos Page</a>	
+<a href="/ethos/">Back to Ethos Page</a>	
 </div>
