@@ -13,10 +13,9 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 	color: #1F5E61;
 }	
 
-#strategy, #culture, #alignment, #leadership
+#strategy, #culture, #alignment, #leadership, #empowerment
 {
 margin-top:50px;	
-	
 }	
 	
 .word
@@ -157,8 +156,32 @@ margin-top:20px;
 {
 font-size: 22px;
 font-family: "montserrat";
-}			
+}	
 		
+
+.letter-e
+{
+	color: #9780b9; 
+	font-weight: bold;
+	font-size:25px;
+}
+
+.empowerment1 
+{
+background-color: #9780b9; 	
+padding:13px;
+color:white;
+border-radius: 20px;
+margin-top:20px;
+}
+	
+empowerment1 p
+{
+font-size: 22px;
+font-family: "montserrat";
+}		
+	
+	
 	
 	
 	
@@ -303,6 +326,34 @@ space to think and plan, while also taking time to get ground data to assess and
 </div>
 
 
+<div id="empowerment">
+<p class="letter-e">EMPOWERMENT</p>
+<b>Going beyond Shared Commitment to Shared Understanding</b>
+
+<div class="empowerment1">
+	<p>The two questions you need to ask about your <span class="word">Empowerment:</span></p>	
+<ul>
+	<li>How are the right decisions made by the right people at the right level?</li>
+	<li>How are we facilitating the co-creation of ideas and solutions?</li>
+	</ul>
+</div>
+
+<p>Leaders these days have little time to think. In a poll with over 300 responses at ILOD’s sharing session on prioritisation, a top-ranked challenge was the scarcity of time and not being able to step back to think. Having to juggle ‘business-as-usual’ activities and new initiatives driven by various stakeholders was another key challenge.</p>
+
+<p>Among the leaders we interacted with were a number of ‘positive deviants’—those who seemed to be able to cope and even thrive in this context. Their trade secret was common knowledge but not common practice: the importance of having white space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working.</p>
+	
+<div class="break">
+<p class="break1">"Common knowledge 
+but not common 
+practice: having white 
+space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working."</p>
+</div>	
+
+<p>In a leadership team planning discussion to chart plans for the agency’s strategy, one division head revealed that he asked his staff to set aside time every week as ‘free time’ to pause and think. He related how he blocked off two hours every week to reflect on the past week. This helped him sharpen his priorities. He finished his sharing with an apologetic look at the agency head because he had self-declared the ‘free time’ for his staff without prior permission. To his credit, the agency head nodded his approval as the room of leaders cheered at the encouraging confession.</p>
+
+<p>Pausing to ‘go slow to go fast’ illustrates how a big small thing can enable leaders to prioritise better.</p>
+	
+</div>
 
 
 
