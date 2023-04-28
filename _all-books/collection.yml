@@ -2,4 +2,5 @@ collections:
   all-books:
     output: true
     order:
+      - "Navigating a Complex World: A Simple Guide for Public Officers.md"
       - "Case Studies: Designing Change.md"
