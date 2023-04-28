@@ -188,6 +188,9 @@ font-family: "montserrat";
 	
 </style>
 
+
+<br>
+
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg">
 
 <p class="subhead"><span>A</span>ll organisations and teams face    challenges in prioritisation. This is because workload gain, like weight gain, is insidious. It creeps up on us and is hard to get rid of. We rarely seek to add on more of it, but often ﬁnd ourselves inundated nevertheless.</p>
@@ -353,8 +356,19 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 	
 </div>
 
+<h3>Scaling Made Versatile and Adaptable</h3>
 
+<p>The S.C.A.L.E. Framework is versatile. It can be used as a full framework to cover all ﬁve dimensions. Each dimension can also be used separately in deep dive discussions to surface issues and big small things for improvement.</p>
 
+<p>The S.C.A.L.E. Framework is also  adaptable. We have used the S.C.A.L.E. Framework and assessment tool in a bespoke workshop designed for a Ministry's senior leadership team. In their discussions, they applied the framework to assess the state of prioritisation at the whole organisation level—for diverse functions as well as at the cluster or divisional level for intact teams.</p>
+
+<h3>Scaling Made Versatile and Adaptable</h3>
+
+<p>Many of the examples from our consultancy experiences are small actions that build up into signiﬁcant impact and results.</p>
+
+<p>By improving day and day, instead of relying on willpower or wiping the slate clean, they are akin to making the 1% progress every day that recent studies on habits highlight as vital to long term behavioural change.</p>
+
+<p>Small actions can compound to keep off the ‘pounds’ in our work and organisations. They sustain our efforts to achieve organisation-wide impact, ensuring that our prioritisation can S.C.A.L.E. </p>
 
 
 
