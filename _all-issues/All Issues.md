@@ -84,8 +84,8 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 9, Nov 2022</a></td>
-	<td><a href="#">Issue 24, Aug 2022, Urban Susstainability</a></td>
+	<td><a href="#">Digital Edition Issue 9, <br>Nov 2022</a></td>
+	<td><a href="#">Issue 24, Aug 2022, <br>Urban Sustainability</a></td>
 </tr>
 
 
