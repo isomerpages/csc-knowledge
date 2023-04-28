@@ -78,7 +78,7 @@ margin:0px 20px;
 border: 3px solid darkblue;
 }
 	
-.numbers ol
+.numbers ol 
 {
 	      display: flex;
         flex-flow: wrap column;
@@ -86,7 +86,11 @@ border: 3px solid darkblue;
 			  margin-left:80px;
 }
 	
-
+.numbers li
+{
+	    
+				font-size: 16px;
+}
 	
 </style>
 	
@@ -212,8 +216,14 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 				<li>Economies from data sharing</li>
 				<li>Economies of doubling up</li>
     </ol>
-	
 </div>	
+
+<h5>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h5>
+
+
+
+
+
 
 <br>
 <br>	
