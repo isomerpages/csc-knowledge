@@ -81,6 +81,23 @@ font-size: 15px;
 	<li>We need a framework for thinking creatively about how to achieve <b>economies</b> within public services: going beyond the standard tools of cuts, trimming and delay to more creative options for restructuring services and changing the contract with citizens.</li>
 </ol>	
 
+<h5>INTELLIGENCE AS A CORE TASK OF GOVERNMENT</h5>
+<p>Governments have always relied on intelligence to do their work. But whereas in the past this was thought about primarily in relation to enemies and threats, espionage and war, they now need to think systematically about intelligence in relation to everyday tasks, from transport to healthcare, welfare to education</p>
+
+<p>This became very apparent during the pandemic. As I showed in a recent study of how governments—and the societies around them—mobilised intelligence to handle the COVID-19 pandemic and its effects, the last few years brought an explosion of innovation in new ways to organise intelligence.  The pandemic was an unprecedented event in its global impacts and in the scale of government responses and required a myriad of policy decisions: about testing, lockdowns, masks, school closures, visiting rules at care homes and vaccinations. All of these depended on inputs of intelligence including data, evidence, models, tacit knowledge, foresight, and creativity and innovation.</p>
+
+<p>But governments varied greatly in their ability to organise these well. Governments needed health as well as non-health data to help understand how the virus was spreading in real time and its impacts.</p> 
+
+
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_2.jpg">
+<b>Figure 1.</b> Types of intelligence are mediated and shaped by processes and contextual factors before feeding into decisions.
+Source: Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisis: How Governments Used Intelligence for Decision Making During the COVID-19 Pandemic”, International Public Policy Observatory, December 2022, p. 6.
+
+<div class="break">
+<p class="break1">"FUNCTIONAL DIVISIONS MAKE IT HARD FOR GOVERNMENTS TO THINK AND ACT HOLISTICALLY, OR TO LOOK IN A ROUNDED WAY AT THE COSTS AND BENEFITS OF ALTERNATIVE ACTIONS."</p>
+</div>
+
+<p>They needed models—for example, to judge if their hospitals were at risk of being overrun. They needed evidence—for example, on whether enforcing mask-wearing would be effective. And they needed to tap into the knowledge of citizens and frontline staff quickly to spot potential problems and frictions.</p>
 	
 <br>
 <br>	
