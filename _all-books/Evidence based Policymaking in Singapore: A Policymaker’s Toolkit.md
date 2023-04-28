@@ -44,10 +44,11 @@ margin-top:30px;
 covers a collection of tools commonly used in evidence-based policymaking and explains how they
 can strengthen policy design and decision-making, from broad, cross-cutting policy measures to
 operational interventions which contribute to larger policy objectives. Examples from Singapore and
-other countries are featured to illustrate key learning points.</p>	
+other countries are featured to illustrate key learning points.</p>
 
-Download the book <a href="https://go.gov.sg/ebtoolkit">here.</a> 
-
+<br>
+Download the book <a href="https://go.gov.sg/ebtoolkit">here.</a>
+<br>
 
 
 
