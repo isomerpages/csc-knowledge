@@ -144,6 +144,7 @@ more focused and effective, but also one in which officers have a deeper sense o
 
 <p>These are not easy outcomes to achieve, but if we can move in these directions, we will be doing well. If we are able to corral together efforts from across the Service, as part of a broader movement with everyone feeling a sense of empowerment, we can make a decisive difference.</p>
 
+<br>
 <div class="back">
 <a href="/ethos/issue-25/">Back to Ethos Page</a>	
 </div>
