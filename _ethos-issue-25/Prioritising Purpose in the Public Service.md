@@ -22,7 +22,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 
 .break
 {
-   border-top:    1px solid  black;
+   border-top: 1px solid  black;
    border-bottom: 1px solid black;
 	 padding:20px;
 	text-align:center;
@@ -33,6 +33,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 .break1
 {
 	font-family: times new roman;	
+	font-size:25px;
 }
 	
 </style>
