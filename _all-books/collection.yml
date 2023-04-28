@@ -1,0 +1,4 @@
+collections:
+  all-books:
+    output: true
+    order: []
