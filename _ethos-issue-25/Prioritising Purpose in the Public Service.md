@@ -32,7 +32,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 	
 .break1
 {
-	font-family: times new roman;	
+	font-family: montserrat;
 	font-size:25px;
 }
 	
