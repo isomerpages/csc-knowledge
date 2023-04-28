@@ -46,7 +46,7 @@ can strengthen policy design and decision-making, from broad, cross-cutting poli
 operational interventions which contribute to larger policy objectives. Examples from Singapore and
 other countries are featured to illustrate key learning points.</p>	
 
-Download the book here: https://go.gov.sg/ebtoolkit
+Download the book <a href="https://go.gov.sg/ebtoolkit">here:</a> 
 
 
 
