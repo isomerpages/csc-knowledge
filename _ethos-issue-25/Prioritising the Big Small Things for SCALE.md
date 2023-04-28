@@ -374,8 +374,17 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 <p>Small actions can compound to keep off the ‘pounds’ in our work and organisations. They sustain our efforts to achieve organisation-wide impact, ensuring that our prioritisation can S.C.A.L.E. </p>
 
 
+<div id="ilod">
+<p>ILOD’s Transformation Team  can help your agency  realise its strategy, sustain  performance, and build a healthier organisation. It offers consultancy support for:</p>
 
-
+<ul>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+	
+</div>	
 
 
 
