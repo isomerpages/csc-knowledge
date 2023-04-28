@@ -1,5 +1,5 @@
 collections:
-  past-issues:
+  all-issues:
     output: true
     order:
       - All Issues.md
