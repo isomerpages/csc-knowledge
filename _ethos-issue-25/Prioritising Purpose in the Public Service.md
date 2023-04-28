@@ -51,8 +51,26 @@ us, because it means that Singaporeans trust us to deliver and they look to us f
 <p>If anything, COVID-19 has reaffirmed the value of good governance and the importance of the Public Service. This is why we need to continue to keep officers engaged in the Service and staying well.</p>
 
 <div class="break">
-<p class="break1">It is important  to refocus public service workload on what really matters.</p><p>
-</p></div>
+<p class="break1">It is important  to refocus public service workload on what really matters.</p>
+</div>
 
 <h5>Creating More Purposeful Work</h5>
+<p>In 2022, we launched a movement to manage work. We initially calledit the “Reduction Movement” but are deciding on a different phrase because it is not just about reducing unnecessary work, but also about uplifting the joys of work, emphasising purpose, and making a much bigger commitment through words and deeds to the development, progression and learning of all our officers. 
+</p>
 
+<p>It is vital that the Public Service delivers on the promises of this movement, in tangible and intangible ways. We must demonstrate our commitment to our officers’ wellbeing: that we do not take them for granted, even as we affirm our sense of shared mission as a Public Service.</p>
+
+<p>We must ensure that we are changing the way we work, reducing internal red tape and so on. It must happen on the ground in a way officers can experience.</p>
+
+<p>As Permanent Secretary, my duty to my colleagues is to make sure that our Ministry reviews all our processes and we understand the user journeys, to know what our officers are going through, so that we can make the right decisions on how to streamline and what to get rid of.</p>
+
+
+<p>But any officer should also feel it is within their power to figure out the best way to do this. They know where the pain points are, be it travel claims or procurement processes, or clearance and reporting lines in their agencies.</p>
+
+<p>I’d like to encourage all officers to embrace this sense of agency in raising these issues to supervisors, suggesting alternatives to achieve the intended outcomes, and then working together to make them happen. If we can get officers to work alongside supervisors to streamline work, with leaders prepared to make executive decisions to change processes, we will go a long way.</p>
+
+<div class="break">
+<p class="break1">Innovation first  
+and foremost starts from a culture of wanting to do  
+things better.</p>
+</div>
