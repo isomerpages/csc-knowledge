@@ -36,10 +36,6 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 	font-size:25px;
 }
 	
-.letter-s h5
-{
-color:#ED746F;	
-}
 	
 .strategy 
 {
@@ -136,9 +132,12 @@ deciding what we will do and what we will not do."</p>
 <p class="break1">" We have been conditioned for success through adding and not subtracting."</p>
 </div>
 
-<p>The most important step in prioritisation is to clarify the organisation’s strategy and to activate it in the work done, from the top all the way to the ground. In our consultancy work, we have heard varying degrees of clarity across different levels when officers are asked about their organisation’s focus. We often see organisations spending extensive effort in crafting strategic plans, but less effort in communicating and translating strategies into day-to-day work. </p>
+<p>What gets rewarded gets done. An organisation’s culture is built and reinforced day by day through actual work behaviours and norms. Ask any newcomer to observe and share candidly what gets rewarded or frowned upon at the workplace. Their fresh perspectives—free from legacy experiences—offer an outside-in view of current work interactions.</p>
 
-<p>In an engagement session designed  for 76 senior and middle management leaders of an agency, participants discussed how their teams contributed to the strategic pillars of their agency’s transformation. The senior management team had earlier developed the agency’s transformation vision and corresponding strategies. They wanted to take time to share with middle managers, so as to sharpen and translate the strategies for the work on the ground. Energy levels rose as different participants articulated a shared desired impact for their stakeholders and end users. Gathering the leaders for half a day was a big small thing—a small investment of effort that led to signiﬁcant value in alignment. At the end of the session, participants echoed that the time was well spent, particularly with the middle managers articulating greater resonance with organisational strategies in planning and prioritising their work.</p>
+<p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
 
-<p>When leaders take time to help others understand the core work and unique value created by their organisation, teams and officers will have more clarity in prioritising time and energy for work that matters.</p>
+<p>This runs contrary to the call for prioritisation and reducing workload because we have been conditioned for success through adding and not subtracting. </p>
 
+<p>In ILOD’s interactions with agencies, we have seen some leaders ﬁnd ways to combat such learned behaviours to do more. One leader articulated clear expectations of what was needed for a work deliverable and told officers what ‘done’ work would look like, to reduce unnecessary rework. Another leader clariﬁed with subordinates what good staffing looked like, to prevent overzealous preparations. One leader made the effort to email the entire division, openly lauding an officer who had put up a request to drop work that was no longer relevant. </p>
+
+<p>A few words or a short email can make implicit expectations explicit. These big small things not only have a big impact on officers’ workload and priorities, but can also clarify and encourage the work behaviours and norms we want more of.</p>
