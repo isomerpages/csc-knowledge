@@ -284,8 +284,14 @@ Open data enabling innovation, competition and new models (as has happened in Ô¨
 
 </ol>
 
+<p class="oranges">SMART TOOLS</p>
+<ol start="12">
+	<li><b>Economies of doubling up</b><br>
+Finally, there are often options for joining up the work of government in creative ways, promoting actions that address two problems or needs simultaneously (such as training up the young unemployed to work on home retroÔ¨Åt programmes).</li>	
+	
+</ol>
 
-
+<p>It should be apparent that these prompts can help us rethink public services not as static things that have to always take the same forms, but rather as building blocks that can often be organised in different ways.</p>
 
 
 
