@@ -181,8 +181,19 @@ font-size: 22px;
 font-family: "montserrat";
 }		
 	
+#ilod
+{
+	background-color:#fae1d5;
+	padding:30px;
+	font-size:16px;
+}
 	
-	
+#ilod a:link
+{
+color:black;
+font-weight:bold;
+text-decoration: none;
+}
 	
 	
 	
@@ -378,11 +389,15 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 <p>ILOD’s Transformation Team  can help your agency  realise its strategy, sustain  performance, and build a healthier organisation. It offers consultancy support for:</p>
 
 <ul>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li>Organisation transformation and change management</li>
+	<li>Organisation development and employee engagement</li>
+	<li>Leadership team alignment and development</li>
+	<li>Hybrid work design</li>
 </ul>
+	
+<p>To ﬁnd out more, connect with Eileen at:  
+	<a href="eileen_wong@cscollege.gov.sg">eileen_wong@cscollege.gov.sg</a></p>
+	
 	
 </div>	
 
