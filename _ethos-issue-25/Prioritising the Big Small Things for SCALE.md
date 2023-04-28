@@ -338,20 +338,19 @@ space to think and plan, while also taking time to get ground data to assess and
 	</ul>
 </div>
 
-<p>Leaders these days have little time to think. In a poll with over 300 responses at ILOD’s sharing session on prioritisation, a top-ranked challenge was the scarcity of time and not being able to step back to think. Having to juggle ‘business-as-usual’ activities and new initiatives driven by various stakeholders was another key challenge.</p>
+<p>Involvement leads to commitment. This is a principle we often emphasise in our change consultancy work. Recall the ‘Ikea effect’, where you will likely assign a higher value to something you have assembled, even if the nails do not line up straight or the ﬁnal product looks imperfect. When people are involved in making decisions or have a say in the eventual plans, they are more motivated to see things through to achieve the agreed outcomes.</p>
 
-<p>Among the leaders we interacted with were a number of ‘positive deviants’—those who seemed to be able to cope and even thrive in this context. Their trade secret was common knowledge but not common practice: the importance of having white space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working.</p>
+<p>This also means that leaders have the latitude to delegate formal authority, change informal norms and decision-making, and energise those in the levels below. This can be liberating for top leaders—freeing up time to keep track of what’s going on and prioritising well especially as the operating environment becomes increasingly complex. In other words, they can go slow to go fast.</p>
+	
+<p>In our consultancy work, we found that this empowerment can also go further to creating shared understanding.</p>
+
+<p>We have brought people together to share ‘what your world is like’ in various engagement sessions. In one cross-level discussion between senior leaders and middle managers, we created the space for them to share their respective conditions and challenges. At the start, the atmosphere in the room was tentative. Gradually, it became more uplifting as everyone took a small figurative step into one another’s worlds. By the end, there was a shared understanding of the different worlds of experiences in the group. All it took was a big small thing to come together to create shared understanding.</p>
 	
 <div class="break">
-<p class="break1">"Common knowledge 
-but not common 
-practice: having white 
-space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working."</p>
-</div>	
-
-<p>In a leadership team planning discussion to chart plans for the agency’s strategy, one division head revealed that he asked his staff to set aside time every week as ‘free time’ to pause and think. He related how he blocked off two hours every week to reflect on the past week. This helped him sharpen his priorities. He finished his sharing with an apologetic look at the agency head because he had self-declared the ‘free time’ for his staff without prior permission. To his credit, the agency head nodded his approval as the room of leaders cheered at the encouraging confession.</p>
-
-<p>Pausing to ‘go slow to go fast’ illustrates how a big small thing can enable leaders to prioritise better.</p>
+<p class="break1">"When people are involved in making decisions or have 
+a say in the eventual plans, they are more motivated to see things through."</p>
+</div>		
+	
 	
 </div>
 
