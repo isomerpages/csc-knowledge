@@ -28,7 +28,7 @@ sections:
       alt: Ethos Digital Edition Issue 10
       button: See more
   - infopic:
-      title: Research & Resources
+      title: Research
       description: "You can find a curated selection of CSC writings and event
         materials in our Research and Resources section. "
       button: See more
