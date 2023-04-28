@@ -17,6 +17,20 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg
 	width:100%;
 }
 	
+#improvising
+{
+background-color:	#1cb0a1;
+padding: 20px;
+color: white;
+}	
+	
+.improve 
+{
+color:#483f97;
+font-size:20px;
+font-weight:bold;
+}
+	
 
 .subhead::first-letter 
 { 
@@ -44,14 +58,18 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg
 	
 .break1
 {
-	font-family: times new roman;	
+	font-family: montserrat;
+	font-weight:bold;
 	font-size:25px;
+	color: #1cb0a1;
 }	
 	
 ol li
 {
 font-size: 15px;	
 }	
+	
+
 	
 </style>
 	
@@ -86,6 +104,16 @@ font-size: 15px;
 
 <p>This became very apparent during the pandemic. As I showed in a recent study of how governments—and the societies around them—mobilised intelligence to handle the COVID-19 pandemic and its effects, the last few years brought an explosion of innovation in new ways to organise intelligence.  The pandemic was an unprecedented event in its global impacts and in the scale of government responses and required a myriad of policy decisions: about testing, lockdowns, masks, school closures, visiting rules at care homes and vaccinations. All of these depended on inputs of intelligence including data, evidence, models, tacit knowledge, foresight, and creativity and innovation.</p>
 
+<div id="improvising">
+	<p class="improve">IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</p>
+
+<p>During the pandemic, Taiwan’s ‘Digital Fencing System’ monitored locations based on triangulating a phone’s position relative to nearby telephone masts. </p>
+
+<p>Monitoring was conducted by telecoms companies using phone numbers of quarantining individuals provided by the government, and with protections on privacy including a constitutional limit of 14 days on tracking any individual. </p>	
+	
+</div>
+
+
 <p>But governments varied greatly in their ability to organise these well. Governments needed health as well as non-health data to help understand how the virus was spreading in real time and its impacts.</p> 
 
 
@@ -98,7 +126,56 @@ Source: Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisi
 </div>
 
 <p>They needed models—for example, to judge if their hospitals were at risk of being overrun. They needed evidence—for example, on whether enforcing mask-wearing would be effective. And they needed to tap into the knowledge of citizens and frontline staff quickly to spot potential problems and frictions.</p>
+
+<p>Most governments had to improvise new methods of organising that intelligence, particularly as they grappled not just with the pandemic’s immediate health challenges, but also with the knock-on challenges to economies, communities, mental health, school systems and sectors such as hospitality. The innovations included mass serological testing (which showed, for example in India, that most schoolchildren had already had the virus even as schools were being shut down). They included analysis of sewage, now being done in several thousand locations, as well as mobilising mobile phone and credit card data to target lockdowns or using citizen generated data on symptoms to track new variants. There was an equally impressive explosion of research and evidence; and innovative approaches to problem solving and creativity, from vaccine development to Personal Protective Equipment (PPE).</p>
 	
+<p>But the stress of the crisis also showed up many deficiencies which often contributed to misplaced actions. The most basic was that almost every government divided the intelligence task both by function, with separate teams responsible for data, statistics, science advice, economics, and by departmental silos of health, ﬁnance, education and so on. This may have been necessary in the 20th century but given the availability of new technological tools, this approach was no longer ﬁt for purpose. On the contrary, these functional divisions made it hard for governments to think and act holistically—to weigh up physical health risks against mental health ones, or to look in a rounded way at the costs and beneﬁts of alternative actions. They made it even harder for governments to think synthetically. This lack of effective methods for intelligence led to many inefficiencies.</p>	
+
+<p>In our study, we suggested that future governments should organise  intelligence in much more systematic and integrated ways, with teams charged with looking at intelligence in the round, focused on the outcomes they are trying to achieve, and then drawing on a range of sources to provide this. Such methods will be relevant to everything from Net Zero to tackling difficult issues such as rises in economic inactivity or population mental health. Net Zero is a particularly live example, with a huge upsurge of initiatives to gather research, evidence and data, but still major challenges in making that knowledge used and useful.</p>
+
+<p>Only with transformed structures, processes and cultures will it be possible to see more clearly what is working and what isn’t, to generate solutions faster and to direct resources to where they are needed most urgently.</p>
+
+<h5>MONEY: REFORMING PUBLIC FINANCE</h5>
+<p>There are also implications for how money is organised. Governments are meant to be there for the long term: able to defend their people, guarantee their pensions or cope with big challenges like climate change. Yet they are often trapped by the tyranny of immediate pressures. This is particularly true in relation to finance, which has seen surprisingly few innovations in recent years to better align how government works with what it needs to do.</p>
+
+<div class="break">
+<p class="break1">"IT IS VITAL TO KNOW NOT JUST WHICH AREAS OF SPENDING WILL ACHIEVE THE MOST, BUT ALSO WHICH CUTS COULD BACKFIRE."</p>
+</div>
+
+<p>Money is the fuel for much of the daily life of governments, which are often engaged in endless battles over budget allocations and priorities. But the ways in which ﬁnance is organised are at odds with what’s needed in three vitally important ways.</p>
+
+<p>First, there is a common failure of time horizons and investment. Spending on physical assets and investments in infrastructures are appraised using rigorous investment methods: i.e., by analysing the link between present day costs and long-term returns from buildings, roads, airports, etc. By contrast, most spending on people—which includes most public spending on health, education and social security—is organised on an annual basis, and without any attempts to look at long-term impacts or returns.</p>
+
+<p>Yet people now often last longer than infrastructures. For example, for children born in 2020, the average life expectancy in OECD countries is over 80. There have been many attempts to gather more systematic evidence on the returns to preventive spending, or the multiplier effects of investment in early years or for that matter research and development. But none of these are integrated into budget setting procedures.</p>
+
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_3.jpg">
+<b>Figure 2.</b><br><br>
+The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero, et al., “Anticipatory Public Budgeting: Adapting Public Finance for the Challenges of the 21st Century”, UAE Global Innovation Council, 2021, p. 22. 
+
+<p>The related problem is the lack of effective ways to link inputs and outputs and outcomes, so that governments can be clear how different spending choices will achieve results over time. Again, there have been many attempts to evaluate the impacts of different programmes and interventions. But no government uses data systematically to tag the intended objectives of spending, of the beneficiary geography or population groups, in ways that would then make it possible to learn systematically, or to train machine learning tools in future.</p>
+
+<p>There have been many promising experiments over the years to address these problems, though all remain marginal. They include the shift to accrual-based accounting in many governments and introducing ‘phenomenon-based’ budgeting for complex and cross-sectoral phenomena (e.g., gender, SDGs or children) which don’t ﬁt neatly into existing government structures. They also include the analysis of multipliers: looking at how some kinds of spending achieve cross-cutting impacts or save money (such as the UK’s ‘Public Pound Multiplier’ which draws, for example, on evidence that preventative action on smoking can deliver a £1.7-billion savings in return for a £300-million investment). This is a crucial concept for the future of public ﬁnance, particularly in times of shortage. It is vital to know not just which areas of spending will achieve the most, but also which cuts could backﬁre. Boomerang cuts are familiar to anyone who has worked in public services: the equivalent of cutting maintenance for roofs which then leads to much higher costs later when the roof falls in.</p>
+
+<div class="break">
+<p class="break1">"IT IS MUCH HARDER TO WORK OUT HOW TO SAVE MONEY WITHOUT DOING HARM."</p>
+</div>
+
+<p>There are also useful lessons to be learned from the world of impact investment which has become more rigorous in measuring social and ﬁnancial returns, at least for individual projects and programmes. Part of the value of ideas like social impact bonds, which I helped develop in the 2000s, is to clarify the link between inputs of money and outcomes achieved.</p>
+
+<p>Many countries have sophisticated machineries for public ﬁnance. In the USA, various bodies—including the Office of Budget Management, the Congressional Budget Office and the General Accounting Office—prepare long-term budget projections (75 years out in the case of the Social Security Administration) to aid decision making. The UK’s Office for Budget Responsibility comments publicly on the long-term effects of budget decisions—though only taking account of ﬁrst order effects (i.e., the overall ﬁscal position rather than the value created by spending in ﬁelds like health and education). The OECD has at various times in the past looked at long-term budget planning issues. These all attempt to look at stocks and balance sheets as well as ﬂows.</p>
+
+<p>But all these focus primarily on fiscal balance sheets. Few analyse rates of return on the assets they hold (or organise national registers of assets). Even less use is made of intangible measures in the public sector, though these are now routinely measured in the private sector, or balance sheets taking account of human or natural capital.</p>
+
+<p>As a result, these fall far short of what’s needed, which is a 20-year programme to realign public ﬁnance with the priorities of the period. That will involve mapping all spending in terms of likely impacts over time and tagging spending data with data on purposes. It will rarely be possible to turn these into a return on investment (ROI) ﬁgure, but greater clarity on what is intended to be achieved, for example, for R&amp;D or education, and then learning from results, is vital for governments to be effective in the decades ahead.</p>
+
+<p>This will be even more vital as hard choices have to be made about what to protect, what to cut and what to expand. Without some sense of likely impacts over time, governments will make even more arbitrary decisions and will be even more at risk of boomerang effects of the kind that the UK has suffered, with strong evidence now that cuts in the early 2010s have had disastrous effects later in the decade on everything, from life expectancy to productivity.</p>
+
+
+
+
+
+
+
 <br>
 <br>	
 <div class="back">
