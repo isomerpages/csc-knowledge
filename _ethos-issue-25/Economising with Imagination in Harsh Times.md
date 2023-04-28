@@ -170,11 +170,32 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 
 <p>This will be even more vital as hard choices have to be made about what to protect, what to cut and what to expand. Without some sense of likely impacts over time, governments will make even more arbitrary decisions and will be even more at risk of boomerang effects of the kind that the UK has suffered, with strong evidence now that cuts in the early 2010s have had disastrous effects later in the decade on everything, from life expectancy to productivity.</p>
 
+<h5>ECONOMIES AND ECONOMISING</h5>
 
+<p>It is not hard to come up with good suggestions for spending more money. It is much harder to work out how to save money without doing harm. Much of the world is always looking for ways to be frugal, and even the rich countries are now going through another period of stringency. Such periods of retrenchment can be bad for innovation and creativity. But there are ways to combine imagination and reductions in spending.</p>
 
+<p>Here, I share methods developed to help public officials having to make signiﬁcant cuts during the period of austerity. In some respects, they are very simple. They list a series of ways in which services can save money, providing a prompt for creative thinking about how to cope with cuts. But the aim is also to prompt deeper questions, about how to organise public services, and about the relationship between the state and citizens.</p>
 
+<p>Most economists are familiar with economies of scale and scope, but much less familiar with notions of relational economies, or economies of ﬂow, or economies of penetration, which should be part of their armoury. The framework also points to more lateral ways of saving money—for example, asking where new kinds of public commitment can be mobilised, or where transparency can reduce costs.</p>
 
+<p>Sometimes it is best to start off by helping people to become familiar with the approach by taking a live example—such as rural bus services, libraries or nursery education—and showing the options under each heading. Then some shared grounding in current data (e.g., costs, unit costs, etc.) can be brought in to help sharpen the discussion, and lead to more speciﬁc proposals. </p>
 
+<div class="">
+	    <ul>
+        <li>Item</li>
+        <li>Item</li>
+        <li>Item</li>
+        <li>Item</li>
+        <li>Item</li>
+        <li>Item</li>
+        <li>Item</li>
+        <li>Item</li>
+        <li>Item</li>
+        <li>Item</li>
+    </ul>
+	
+	
+</div>	
 
 <br>
 <br>	
