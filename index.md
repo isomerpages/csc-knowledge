@@ -47,4 +47,9 @@ sections:
       description: Resources on Leadership and Organisation Development
       button: Go to ODex
       url: www.odex.csc.gov.sg
+  - infobar:
+      title: CSC Knowledge
+      description: Empowering the growth and progress of our public officers with
+        curated research insights, thought leadership, innovative ideas and
+        carefully crafted guides
 ---
