@@ -5,21 +5,10 @@ description: ""
 image: /images/Books/designing_change_cover.png
 ---
 <style>
-table
-{ 
-border-collapse: separate; 
-border-spacing: 0px 0px; 	
-
-}	
-
-td
-{
-	border-style : hidden!important;
-}
 
 #book1 img	
 {
-width:3000px;	
+width:300px;	
 }
 
 
@@ -30,20 +19,19 @@ width:3000px;
 	font-weight:bold;
 }
 
-
+#chapter1,#chapter2, #chapter3,#chapter4, #chapter5
+{
+margin-top:30px;	
+}
 	
 
 	
 </style>
 
+<div id="book1">
+<img src="/images/Books/designing_change_cover.png">
+</div>	
 
-<table id="book1">
-<tbody>
-
-<tr>
-<td><img src="/images/Books/designing_change_cover.png"></td>
-	
-<td>	
 <h3>Case Studies: Designing Change</h3>
 <i>ISBN: 978-981-18-2606-1 (pbk) | 2021</i><br>
 <b><i>Edited by June Gwee</i></b>
@@ -51,30 +39,39 @@ width:3000px;
 <p>This book contains five case studies that describe organisation- and industry-level transformations where leaders and individuals reimagine operations, reengineer business processes, redesign service delivery models, and revamp the way they use technology, especially when some of their best-laid
 plans were abruptly changed by the COVID-19 pandemic. These stories offer insights on the complexity and challenges of change, innovation and public governance.</p>	
 
-</td>
-</tr>
-</tbody>
-</table>
-
-
 <p>Please <a href="/csc-ethos/contact-us">contact</a> the Publishing Team for purchase.</p>
 
-<h4>FOREWORD</h4>
+<h5>FOREWORD</h5>
 
+<div id="chapter1">
 <p><a href="https://rise.articulate.com/share/7J8nYGRlITVnMmf-dhqJ2S7YzUJ8YSlO>"> CHAPTER 1: SHAPING SMART HOTELS</a></p>
-<i>Heather HUMPHRIES</i>
+Heather HUMPHRIES
+</div>
 
 
-
+<div id="chapter2">
 <p><b>CHAPTER 2: FIREWORKS IN THE CITY</b></p>
-<i>Kezia TOH</i>
+Keziah TOH
+</div>
 
-
-
-
-CHAPTER 3: FROM SKUNKWORKS TO SANDBOX
+<div id="chapter3">
+<p><b>CHAPTER 3: FROM SKUNKWORKS TO SANDBOX</b></p>
 June GWEE
-CHAPTER 4: LEAP FOR TELEMEDICINE
+</div>
+
+<div id="chapter4">
+<p><b>CHAPTER 4: LEAP FOR TELEMEDICINE</b></p>
 Bernard TING
-CHAPTER 5: AGILE FOR WINS
+</div>
+
+
+<div id="chapter5">
+<p><b>CHAPTER 5: AGILE FOR WINS</b></p>
 SONG Hsi Ching
+</div>
+
+
+
+
+
+
