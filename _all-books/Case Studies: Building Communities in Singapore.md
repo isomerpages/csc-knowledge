@@ -22,6 +22,11 @@ width:300px;
 margin-top:30px;	
 }
 	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}	
 
 	
 </style>
@@ -69,4 +74,10 @@ Jeanne Louise CONCEICAO
 <div id="chapter4">
 <p><b>CHAPTER 4: A LIBRARY BY THE PEOPLE, FOR THE PEOPLE</b></p>
 June GWEE
+</div>
+
+<br><br>
+
+<div class="back">
+<a href="/books/">Back to Books Page</a>	
 </div>
