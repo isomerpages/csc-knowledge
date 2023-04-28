@@ -207,7 +207,7 @@ public good: instead, they can prompt innovative improvements in
 the way public services are resourced, structured and operated. 
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-25/economising/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
