@@ -2,7 +2,7 @@ collections:
   all-books:
     output: true
     order:
-      - "Case Studies: Building Communities in Singapore.md"
-      - "Evidence based Policymaking in Singapore: A Policymaker’s Toolkit.md"
-      - "Navigating a Complex World: A Simple Guide for Public Officers.md"
       - "Case Studies: Designing Change.md"
+      - "Navigating a Complex World: A Simple Guide for Public Officers.md"
+      - "Evidence based Policymaking in Singapore: A Policymaker’s Toolkit.md"
+      - "Case Studies: Building Communities in Singapore.md"
