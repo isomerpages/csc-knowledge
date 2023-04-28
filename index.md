@@ -43,7 +43,7 @@ sections:
       url: www.learn.gov.sg
   - infobar:
       title: ODex
-      subtitle: Other CSC Resources
+      subtitle: Community of Practice
       description: Resources on Leadership and Organisation Development
       button: Go to ODex
       url: www.odex.csc.gov.sg
