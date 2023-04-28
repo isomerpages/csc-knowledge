@@ -69,6 +69,22 @@ ol li
 font-size: 15px;	
 }	
 	
+.numbers
+{
+color:	#1cb0a1;
+font-weight:bold;
+padding:20px;
+margin:0px 20px;
+border: 3px solid darkblue;
+}
+	
+.numbers ol
+{
+	      display: flex;
+        flex-flow: wrap column;
+        max-height: 330px;
+}
+	
 
 	
 </style>
@@ -180,8 +196,10 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 
 <p>Sometimes it is best to start off by helping people to become familiar with the approach by taking a live example—such as rural bus services, libraries or nursery education—and showing the options under each heading. Then some shared grounding in current data (e.g., costs, unit costs, etc.) can be brought in to help sharpen the discussion, and lead to more speciﬁc proposals. </p>
 
-<div class="">
-	    <ul>
+<div class="numbers">
+	    <ol>
+        <li>Pure economies</li>
+        <li>Economies of trimming</li>
         <li>Item</li>
         <li>Item</li>
         <li>Item</li>
@@ -190,10 +208,9 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
         <li>Item</li>
         <li>Item</li>
         <li>Item</li>
-        <li>Item</li>
-        <li>Item</li>
-    </ul>
-	
+				<li>Item</li>
+				<li>Item</li>
+    </ol>
 	
 </div>	
 
