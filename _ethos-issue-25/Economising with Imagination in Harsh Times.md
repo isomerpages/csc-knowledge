@@ -92,6 +92,17 @@ border: 3px solid darkblue;
 				font-size: 16px;
 }
 	
+.orange
+{
+background-color:#d66a29;
+	color:white;
+	font-weight: bold;
+	font-size: 20px;
+	padding:20px;
+	width: 250px;
+	border-radius: 15px;
+}
+	
 </style>
 	
 <div class="author"><p><b>Sir Geoff Mulgan CBE</b> is Professor at University College London, in the Science, Technology, Engineering and Public Policy team. He has had many previous roles including Head of Policy in the Prime Minister’s office and CEO of Nesta. He is the author of many books, including most recently Another World Is Possible: How to Reignite Political and Social Imagination (Hurst/Oxford University Press, 2022). His new book on art and social change—Prophets at a Tangent—is published in early 2023, with others in the pipeline: on science and politics, and the future of social science.. </p>
@@ -219,9 +230,17 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 </div>	
 
 <h5>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h5>
+<p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
 
-
-
+<p class="orange">TRADITIONAL TOOLS</p>
+<ol>
+	<li><b>Pure economies</b><br>
+Stopping doing things (e.g., fewer bin collections, closing rail lines and bus services, closing libraries)</li>
+	<li>
+	</li><li>
+	</li><li>
+	</li><li>
+</li></ol>
 
 
 
