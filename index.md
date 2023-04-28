@@ -37,7 +37,7 @@ sections:
       url: /research-resources/
   - infobar:
       title: LEARN
-      subtitle: Other CSC Resources
+      subtitle: CSC Digital Learning Platform
       description: CSC Digital Learning Platform
       button: Go to LEARN
       url: www.learn.gov.sg
