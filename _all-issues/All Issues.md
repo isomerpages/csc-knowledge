@@ -85,7 +85,7 @@ font-size: 16px;
 	
 <tr>
 	<td><a href="#">Digital Edition Issue 9, Nov 2022</a></td>
-	<td><a href="#">Issue 24, Aug 2022, Urban Sustainability</a></td>
+	<td><a href="#">Issue 24, Aug 2022, Urban Susstainability</a></td>
 </tr>
 
 
@@ -148,7 +148,7 @@ font-size: 16px;
 	<td><a href="#">Digital Special Edition, Mar 2021 Update</a></td>
 </tr>	
 <tr>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-22">Download PDF</a></td>
 	<td><a href="#">Download PDF</a></td>
 </tr>	
 	
