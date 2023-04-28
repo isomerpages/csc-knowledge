@@ -32,8 +32,8 @@ sections:
       button: See more
   - infopic:
       title: Research
-      description: "You can find a curated selection of CSC writings and event
-        materials in our Research and Resources section. "
+      description: "You can find a curated selection of CSC writings in our Research
+        section. "
       button: See more
       image: /images/Landing_Banner_Images/landingtile_research.jpg
       alt: Image alt text
