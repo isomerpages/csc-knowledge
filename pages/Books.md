@@ -74,7 +74,7 @@ in place through improved community healthcare. It also examines what
 can be done in the years ahead to infuse an understanding of complexity
 across the public service.</p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="/all-books/case-studies-designing-change/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -96,7 +96,7 @@ across the public service.</p>
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort. The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="/all-books/navigating-a-complex-world/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -120,7 +120,7 @@ seemingly operational interventions which contribute to larger policy
 objectives. Examples from Singapore and other countries are used to
 illustrate key learning points.</p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="/all-books/evidence-based-policymaking-in-singapore/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
