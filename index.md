@@ -32,7 +32,7 @@ sections:
       description: "You can find a curated selection of CSC writings and event
         materials in our Research and Resources section. "
       button: See more
-      image: /images/Ethos_Images/Ethos_Issue_16/Engaging_With_Stakeholders_For_Banner.png
+      image: /images/Landing_Banner_Images/landingtile_research.jpg
       alt: Image alt text
       url: /research-resources/
   - resources:
