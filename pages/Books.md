@@ -3,7 +3,6 @@ title: Books
 permalink: /books/
 description: ""
 ---
-
 <style>
 table
 { 
@@ -29,7 +28,7 @@ width:800px;
 
 #book3 img
 {
-width:1200px;
+width:1500px;
 }
 
 
