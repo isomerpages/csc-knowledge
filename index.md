@@ -14,7 +14,7 @@ sections:
         curated research insights, thought leadership, innovative ideas and
         carefully crafted guides
   - infopic:
-      title: "Ethos "
+      title: ETHOS
       description: ETHOS is a publication of the Civil Service College aiming to
         provide leadership, insight and context on a public policy issues of
         interest to Singapore
