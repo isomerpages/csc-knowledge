@@ -36,6 +36,11 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 	font-size:25px;
 }
 	
+.letterS h5
+{
+color:#ED746F;	
+}
+	
 </style>
 
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg">
@@ -46,4 +51,19 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 
 <p>Paradoxically, what we need instead is to spend time and energy deciding what we will do and what we will not do. </p>
 
+<h5>What Prioritisation Is: Focusing on the  Big Small Things </h5>
 
+<p>Prioritisation happens daily, but this is not always tangible to us. The results of how well we prioritise show up as a lagging indicator. Every day, we make choices and incur trade-offs in how we spend our time, energy, and talents, which then also affects others in turn. What can help is to spend our limited time, energy, and talents on the big small things, i.e., the small actions that scale up to a big impact and results.</p>
+
+<p>For example, a senior leader at a management meeting might make it a point to clarify how a new staff idea could contribute tangibly to the agency’s longer-term plans. What might begin as one simple question could prompt other leaders and officers to think more intentionally about the investment of resources for an idea to achieve the agency’s goals. This is what we mean by a “big small thing” that can make a difference in shifting the way teams or organisations think about their work.</p>
+
+<div class="break">
+<p class="break1">" What we need is to spend time and energy 
+deciding what we will do and what we will not do."</p>
+</div>
+
+<p>Based on insights from the ILOD Transformation Team’s consultancy work with close to 40 public agencies, we have  developed a <b>S.C.A.L.E. Framework</b> as a practical tool to help leaders and organisations prioritise more effectively by focusing on some big small things, along ﬁve key dimensions: Strategy, Culture, Alignment of processes , Leadership, and Empowerment.</p>
+
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_2.jpg">
+
+<h5 class="letterS">Strategy</h5>
