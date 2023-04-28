@@ -56,4 +56,25 @@ plans were abruptly changed by the COVID-19 pandemic. These stories offer insigh
 </tbody>
 </table>
 
-<p>Please <a href="">contact</a> the Publishing Team for purchase.</p>
+
+<p>Please <a href="/csc-ethos/contact-us">contact</a> the Publishing Team for purchase.</p>
+
+<h4>FOREWORD</h4>
+
+<p><a href="https://rise.articulate.com/share/7J8nYGRlITVnMmf-dhqJ2S7YzUJ8YSlO>"> CHAPTER 1: SHAPING SMART HOTELS</a></p>
+<i>Heather HUMPHRIES</i>
+
+
+
+<p><b>CHAPTER 2: FIREWORKS IN THE CITY</b></p>
+Kezia TOH
+
+
+
+
+CHAPTER 3: FROM SKUNKWORKS TO SANDBOX
+June GWEE
+CHAPTER 4: LEAP FOR TELEMEDICINE
+Bernard TING
+CHAPTER 5: AGILE FOR WINS
+SONG Hsi Ching
