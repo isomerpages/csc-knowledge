@@ -29,7 +29,7 @@ header
 <img src="/images/Landing_Banner_Images/editorial_landing.jpg">
 </div>
 <br>
-<article>
+
 <p>
 The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates. On the other hand, a draining battle with COVID-19 has left societies reeling and exhausted—and yet they must continue to confront economic uncertainty from war, inﬂation, supply chain shifts, amid the looming threat of climate change, growing geopolitical contention, demographic ageing and other existential challenges. 	
 </p>
@@ -50,4 +50,3 @@ The rapid conﬂuence of these disruptive megatrends have left governments  with
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
 </div>
 	
-</article>
