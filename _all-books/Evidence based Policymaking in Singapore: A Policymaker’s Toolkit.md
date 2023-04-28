@@ -19,7 +19,7 @@ width:300px;
 	font-weight:bold;
 }
 
-#chapter1,#chapter2, #chapter3,#chapter4, #chapter5
+#chapter1,#chapter2, #chapter3,#chapter4, #chapter5,#chapter6,#chapter7
 {
 margin-top:30px;	
 }
@@ -44,34 +44,42 @@ other countries are featured to illustrate key learning points.</p>
 
 Download the book here: https://go.gov.sg/ebtoolkit
 
-<div id="introduction">
-	<p><b><a href="csc_navigating a complex world_intro/files/csc_navigating%20a%20complex%20world_intro.pdf">INTRODUCTION</a></b></p>	
-</div>
+
 
 
 <div id="chapter1">
-<p>CHAPTER 1: A COMPLEX WORLD</p>
-SONG Hsi Ching and Anuradha SHROFF
+	<p><b>CHAPTER 1: A COMPLEX WORLD: HOW DO WE KNOW WHAT WORKS?</b></p>
+Anuradha SHROFF
 </div>
 
 
 <div id="chapter2">
-<p><b>CHAPTER 2: SCENARIO PLANNING AND SCENARIO PLANNING PLUS</b></p>
-Mohammed JALEES
+<p><b>CHAPTER 2: CLEAR, IMPACTFUL, ANSWERABLE: THE C.I.A. OF GOOD POLICY RESEARCH</b></p>
+THIA Jang Ping
 </div>
 
 <div id="chapter3">
-<p><b>CHAPTER 3: DATA-DRIVEN AGENT-BASED MODELLING AND ITS APPLICATIONS</b></p>
-SONG Hsi Ching
+<p><b>CHAPTER 3: DATA ANALYTICS</b></p>
+Elaine TAN
 </div>
 
 <div id="chapter4">
-<p><b>CHAPTER 4: COMPLEXITY IN SOCIAL POLICY</b></p>
-Bernard TING
+<p><b>CHAPTER 4: BEHAVIOURAL INSIGHTS</b></p>
+DO Hoang Van Khanh and Sharon THAM
 </div>
 
 
 <div id="chapter5">
-<p><b>CHAPTER 5: FUTURE DIRECTIONS</b></p>
-Aaron MANIAM
+<p><b>CHAPTER 5: RANDOMISED CONTROLLED TRIALS AND QUASI-EXPERIMENTS</b></p>
+DO Hoang Van Khanh and Sharon THAM
+</div>
+
+<div id="chapter6">
+<p><b>CHAPTER 6: COST BENEFIT ANALYSIS</b></p>
+LEONG Wai Yan and LIM Yong Long
+</div>
+
+<div id="chapter7">
+<p><b>CHAPTER 7: QUALITATIVE RESEARCH AND FEEDBACK</b></p>
+Eugene LIOW
 </div>
