@@ -137,7 +137,7 @@ Editor-in-Chief Ethos
 The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates.
 </p>	
 
-<div class="button1"><a href="/editorial-issue-25/">Read More</a></div> <br>
+<div class="button1"><a href="/editorial-issue-25/editorial/">Read More</a></div> <br>
 </td>
 	
 	
@@ -164,7 +164,7 @@ in the Public Service</h3>
 The Chairperson of  the Public Sector Transformation—  People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="/ethos-issue-25/prioritising/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
