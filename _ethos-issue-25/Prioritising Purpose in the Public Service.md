@@ -13,7 +13,12 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 	color: #243e76;
 }	
 
-
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
 
 .break
 {
@@ -139,7 +144,6 @@ more focused and effective, but also one in which officers have a deeper sense o
 
 <p>These are not easy outcomes to achieve, but if we can move in these directions, we will be doing well. If we are able to corral together efforts from across the Service, as part of a broader movement with everyone feeling a sense of empowerment, we can make a decisive difference.</p>
 
-
-
-
-
+<div class="back">
+<a href="/ethos/issue-25/">Back to Ethos Page</a>	
+</div>
