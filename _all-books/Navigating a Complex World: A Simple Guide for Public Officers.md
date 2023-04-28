@@ -11,6 +11,11 @@ image: /images/Books/complexity_cover.jpg
 width:300px;	
 }
 
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}	
 
 
 .button1 a
@@ -76,4 +81,11 @@ Bernard TING
 <div id="chapter5">
 <p><b>CHAPTER 5: FUTURE DIRECTIONS</b></p>
 Aaron MANIAM
+</div>
+
+
+<br><br>
+
+<div class="back">
+<a href="/books/">Back to Books Page</a>	
 </div>
