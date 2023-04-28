@@ -184,7 +184,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort. The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights. 
 </p>	
 
-<div class="button1"><a href="/ethos-issue-25/prioritising-the-big-small-things-for-scale/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-25/scale/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
