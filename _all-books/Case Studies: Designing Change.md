@@ -11,6 +11,11 @@ image: /images/Books/designing_change_cover.png
 width:300px;	
 }
 
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}	
 
 
 .button1 a
@@ -71,4 +76,10 @@ Bernard TING
 <div id="chapter5">
 <p><b>CHAPTER 5: AGILE FOR WINS</b></p>
 SONG Hsi Ching
+</div>
+
+<br><br>
+
+<div class="back">
+<a href="/books/">Back to Books Page</a>	
 </div>
