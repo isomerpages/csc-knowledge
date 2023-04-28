@@ -46,7 +46,7 @@ plans were abruptly changed by the COVID-19 pandemic. These stories offer insigh
 <br>
 <p>Please <a href="/contact-us/">contact</a> the Publishing Team for purchase.</p>
 
-<br><br>
+<br>
 <div id="foreword">
 	<p><b>FOREWORD</b></p>
 Heather HUMPHRIES
