@@ -11,8 +11,6 @@ image: /images/Books/building communities cover.jpg
 width:300px;	
 }
 
-
-
 .button1 a
 {
 	color: #9f2943;
@@ -47,7 +45,7 @@ Jocelyne BOURGON
 </div>
 
 <div id="chapter1">
-<p><b>CHAPTER 1: SHAPING SMART HOTELS</b></p>
+	<p><b><a href="/files/csc_case%20studies_building%20communities%20in%20singapore_intro.pdf">INTRODUCTION</a></b></p>
 Heather HUMPHRIES
 </div>
 
