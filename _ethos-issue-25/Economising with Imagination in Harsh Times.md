@@ -97,10 +97,10 @@ border: 3px solid darkblue;
 background-color:#d66a29;
 	color:white;
 	font-weight: bold;
-	font-size: 20px;
-	padding:20px;
-	width: 250px;
-	border-radius: 15px;
+	font-size: 15px;
+	padding:10px;
+	width: 230px;
+	border-radius: 12px;
 }
 	
 </style>
