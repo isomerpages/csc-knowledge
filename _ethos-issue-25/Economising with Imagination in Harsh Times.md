@@ -82,7 +82,7 @@ border: 3px solid darkblue;
 {
 	      display: flex;
         flex-flow: wrap column;
-        max-height: 350px;
+        max-height: 400px;
 			  margin-left:80px;
 }
 	
@@ -99,7 +99,18 @@ background-color:#d66a29;
 	font-weight: bold;
 	font-size: 15px;
 	padding:10px;
-	width: 230px;
+	width: 240px;
+	border-radius: 12px;
+}
+
+.oranges
+{
+background-color:#d66a29;
+	color:white;
+	font-weight: bold;
+	font-size: 15px;
+	padding:10px;
+	width: 150px;
 	border-radius: 12px;
 }
 	
@@ -245,6 +256,8 @@ Freezes, efficiency savings (e.g., 5% cuts to pay or opening times), shorter sch
 
 </ol>
 
+<p>We then move onto less familiar ground, using a more creative economic lens to think about how a service could be reorganised. Much of the digital economy has grown by applying similar ideas to everything from shopping to dating.</p>
+
 <p class="orange">ECONOMIC RESTRUCTURING</p>
 <ol start="4">
 	<li><b>Economies of scale</b><br>
@@ -260,22 +273,36 @@ E.g., Combining multiple functions in one-stop shops, multipurpose personal advi
 </li>
 </ol>
 
+<p>Next come options that involve a renegotiation of the implicit contracts between states and citizens.</p>
 
-
-<p class="orange">ECONOMIC RESTRUCTURING</p>
+<p class="orange">REVISED SOCIAL CONTRACTS</p>
 <ol start="8">
-	<li><b>Economies of scale</b><br>
-E.g., Aggregating call centres or back-office functions. These have been exaggerated in the past (small governments and municipalities are often just as efficient as big ones) but they can sometimes deliver big savings.
+	<li><b>Economies of responsibility involve passing responsibility out to citizens</b><br>
+E.g. For COVID self-testing, separating out waste, or self-packing as supermarkets shifted the role of packing from paid staff to customers.
 </li>	
-	<li><b>Economies of scope</b><br>
-E.g., Combining multiple functions in one-stop shops, multipurpose personal advisers, neighbourhood media, extending roles, standardised identiﬁcation or payments. Much recent digital innovation has essentially helped with this—such as Estonia’s X-road platform or India’s Aadhaar.</li>
-	<li><b>Economies of ﬂow and prevention</b><br>
-	E.g., Hospitals specialising in a few operations and so improving efficiency, cutting bottlenecks or easing transitions, for example out of prison or from school into work. A related concept is reducing failure demand (such as recidivism or hospitals with repeated re-admissions), helped by tools like outcome-based funding or investing in preventive health. Many of the greatest costs in public systems accumulate around blocked ﬂows of this kind.
-</li>
-<li><b>Economies of penetration</b><br>
-	These are economies that result from concentrating a service or cluster of services in a locality. In energy, this can be done by Combined Heat and Power schemes, and in housing, often through roles such as street concierges.
-</li>
+	
+<li><b>Economies of commitment and relational economies</b><br>
+These are economies that ﬂow from shifting tasks to more committed providers, or ones with a sense of relationship. This can apply to professional social work and care, but also to making the most of the community, for example using volunteer bus drivers for marginal rural bus services or organising neighbours to watch out for people with dementia.</li>
+
 </ol>
+
+<p>Next come some ways of using digital to cut unnecessary costs.</p>
+
+<p class="oranges">SMART TOOLS</p>
+<ol start="10">
+	<li><b>Economies of responsibility involve passing responsibility out to citizens</b><br>
+E.g. For COVID self-testing, separating out waste, or self-packing as supermarkets shifted the role of packing from paid staff to customers.
+</li>	
+	
+<li><b>Economies of commitment and relational economies</b><br>
+These are economies that ﬂow from shifting tasks to more committed providers, or ones with a sense of relationship. This can apply to professional social work and care, but also to making the most of the community, for example using volunteer bus drivers for marginal rural bus services or organising neighbours to watch out for people with dementia.</li>
+
+</ol>
+
+
+
+
+
 
 
 
