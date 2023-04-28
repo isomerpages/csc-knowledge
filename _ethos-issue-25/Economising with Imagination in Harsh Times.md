@@ -78,14 +78,7 @@ margin:0px 20px;
 border: 3px solid darkblue;
 }
 	
-.numbers ol 
-{
-	      display: flex;
-        flex-flow: wrap column;
-        max-height: 400px;
-			  margin-left:80px;
-}
-	
+
 .numbers li
 {
 	    
