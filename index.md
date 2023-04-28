@@ -24,7 +24,7 @@ sections:
       description: CSC publishes a range of books, from case studies and primers, to
         toolkits and conference proceedings.
       url: /books/
-      image: /images/Ethos_Images/Ethos_Digital_Issue_04/Editorial_02.jpg
+      image: /images/Landing_Banner_Images/landingtile_books.jpg
       alt: Ethos Digital Edition Issue 10
       button: See more
   - infopic:
