@@ -196,13 +196,13 @@ deciding what we will do and what we will not do."</p>
 	</ul>
 </div>
 
-<div class="break">
-<p class="break1">" We have been conditioned for success through adding and not subtracting."</p>
-</div>
-
 <p>What gets rewarded gets done. An organisation’s culture is built and reinforced day by day through actual work behaviours and norms. Ask any newcomer to observe and share candidly what gets rewarded or frowned upon at the workplace. Their fresh perspectives—free from legacy experiences—offer an outside-in view of current work interactions.</p>
 
 <p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
+
+<div class="break">
+<p class="break1">" We have been conditioned for success through adding and not subtracting."</p>
+</div>
 
 <p>This runs contrary to the call for prioritisation and reducing workload because we have been conditioned for success through adding and not subtracting. </p>
 
