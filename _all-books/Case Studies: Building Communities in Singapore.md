@@ -17,7 +17,7 @@ width:300px;
 	font-weight:bold;
 }
 
-#chapter1,#chapter2, #chapter3,#chapter4, #chapter5
+#chapter1,#chapter2, #chapter3,#chapter4, #foreword,#introduction
 {
 margin-top:30px;	
 }
@@ -44,29 +44,29 @@ margin-top:30px;
 Jocelyne BOURGON
 </div>
 
-<div id="chapter1">
+<div id="introduction">
 	<p><b><a href="/files/csc_case%20studies_building%20communities%20in%20singapore_intro.pdf">INTRODUCTION</a></b></p>
-Heather HUMPHRIES
-</div>
-
-
-<div id="chapter2">
-<p><b>CHAPTER 2: FIREWORKS IN THE CITY</b></p>
-Keziah TOH
-</div>
-
-<div id="chapter3">
-<p><b>CHAPTER 3: FROM SKUNKWORKS TO SANDBOX</b></p>
 June GWEE
 </div>
 
-<div id="chapter4">
-<p><b>CHAPTER 4: LEAP FOR TELEMEDICINE</b></p>
+
+<div id="chapter1">
+<p><b>CHAPTER 1: TOWARDS A SOCIETY WITHOUT RE-OFFENDING</b></p>
+Lena LEONG
+</div>
+
+<div id="chapter2">
+<p><b>CHAPTER 2: AGEING-IN-PLACE: A COMMUNITY-CENTRIC HEALTH-SOCIAL PROGRAMME</b></p>
 Bernard TING
 </div>
 
+<div id="chapter3">
+<p><b>CHAPTER 3: COMMUNITY IN BLOOM: CREATING SPACE FOR COMMUNITY OWNERSHIP</b></p>
+Jeanne Louise CONCEICAO
+</div>
 
-<div id="chapter5">
-<p><b>CHAPTER 5: AGILE FOR WINS</b></p>
-SONG Hsi Ching
+
+<div id="chapter4">
+<p><b>CHAPTER 4: A LIBRARY BY THE PEOPLE, FOR THE PEOPLE</b></p>
+June GWEE
 </div>
