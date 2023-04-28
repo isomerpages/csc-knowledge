@@ -42,8 +42,9 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 
 <br>
 
+<div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
-
+</div>
 
 <p class="subhead"><span>W</span>e are moving into quite a different future. The external environment has changed.</p>
 
