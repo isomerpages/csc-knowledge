@@ -15,14 +15,15 @@ summary {
     font-weight: bold;
     margin: -.75em -.75em 0;
     padding: .75em;
-    background-color: #0096ff;
+    background-color:#9f2943;
     color: #fff;
 }
 
 details[open] {
   padding: .75em;
 	border-bottom: 1px solid #d4d4d4;
-	background-color: #add8e6;
+	background-color: #ffa9a9;
+
 }
 
 details[open] summary {
