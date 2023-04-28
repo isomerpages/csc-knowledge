@@ -17,33 +17,73 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg
 	width:100%;
 }
 	
+
+.subhead::first-letter 
+{ 
+	initial-letter: 3;    
+	margin-right: .55em;
+	color: #243e76;
+}	
+
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	font-size:30px;
+	margin-top:50px;
+}
+	
+.break1
+{
+	font-family: times new roman;	
+	font-size:25px;
+}	
+	
+ol li
+{
+font-size: 15px;	
+}	
+	
 </style>
 	
-<div class="author"><p><b>Gabriel Lim</b> is Permanent Secretary of the Ministry of Trade and Industry and also chairs the Public Sector Transformation (PST) movement’s People Committee. The Committee oversees initiatives to strengthen innovation, champion growth and development, deepen the culture of care, and galvanise the workforce to participate in PST. </p>
+<div class="author"><p><b>Sir Geoff Mulgan CBE</b> is Professor at University College London, in the Science, Technology, Engineering and Public Policy team. He has had many previous roles including Head of Policy in the Prime Minister’s office and CEO of Nesta. He is the author of many books, including most recently Another World Is Possible: How to Reignite Political and Social Imagination (Hurst/Oxford University Press, 2022). His new book on art and social change—Prophets at a Tangent—is published in early 2023, with others in the pipeline: on science and politics, and the future of social science.. </p>
 </div>
+
+
 <br>
 <div id="banner">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg">
 </div>
+
+
 <br>
 
-<p>
-The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates. On the other hand, a draining battle with COVID-19 has left societies reeling and exhausted—and yet they must continue to confront economic uncertainty from war, inﬂation, supply chain shifts, amid the looming threat of climate change, growing geopolitical contention, demographic ageing and other existential challenges. 	
-</p>
-<p>
-The rapid conﬂuence of these disruptive megatrends have left governments  with too much to do, with too little time to plan or prepare for a fundamentally different future. There is a sense in which an age of plenitude and complacent optimism is over, and we are entering an age of constraint: as societal demands proliferate while the resources needed to meet them become less readily available.</p>
+<p class="subhead"><span>T</span>here is much debate globally about how the accumulation of crises—economic, ecological, political and around energy—now amount to a polycrisis. Whether or not they are as connected as some believe, there is no doubting the pressure they are putting on public services across the world. Governments generally responded well to the COVID-19 pandemic, showing great agility. But one legacy of the pandemic is fiscal overstretch—and sharp constraints on resources which make it even harder to respond to the new crises. Meanwhile geopolitical pressures are pushing up spending on defence, which means even less resources available for other purposes.</p>
 
-<p>For the public sector, this is an important juncture at which to regroup and take stock: to reassess priorities and to consolidate hard-won lessons from a gruelling, as well as revealing, past few years. The necessities of the pandemic have shaken up many pieties—about the way we work, for instance—but it has also reaffirmed the purpose and  meaning of Public Service (p. 6). The urgency of current challenges can focus the mind and sharpen our sense of what really matters, allowing us to identify and trim our organisational and procedural fat (p. 14). This renewed sense of discipline can only stand us in good stead in our next phase of development and innovation.</p>	
-	
-<p>Even as we grapple with current demands, we must also continue to invest in the future. Indeed, reforms to instil greater prudence need not lead to damaging reductions in public value, but should pave the way for better means of generating and delivering it (p. 24). Such reforms will include changes to government ﬁnancing to reﬂect the reality that many  societal needs are interrelated, cut across agency lines, and are better addressed  jointly (p. 38). They will also look to harness new tools that multiply the effectiveness of the human and material resources we can deploy (p. 46), and to ensure that sustainability is core to our operations in the long term (p.54).</p>
-	
-<p>An area for reinvigorated attention will be working with stakeholders and partners beyond the public sector to achieve public outcomes. While this is not a new approach, what was perhaps regarded as a good-to-have a decade ago has become all the more vital, precisely because of our constraints and the formidable scope of the challenges we face. In this, we can draw on a rich and growing body of international experience in carrying out such collaborations effectively   (p. 70). We must sustain the public trust and strong relationships crucial for such inter-sectoral efforts to thrive  (p. 88). Singapore’s Public Service, which enjoys ver y high levels of trust as a national institution, is in a good place to start reimagining the networks, communities, processes and partnerships we will need to thrive together as nation in a more turbulent 21st century. This is a precious resource we should not squander.</p>
 
-<p>I wish you an inspiring read.</p>
+<p>So can governments adapt, and refashion their shape, processes and cultures to more turbulent times—the times that Xi Jinping often describes as “changes unseen in a century”? </p>
+
+<p>Governing in booms is very different from governing in times of retreat. In this different context, governments need to think and act to use resources carefully while also addressing deep-seated problems. Here, useful ideas can be drawn from ecology, which has introduced many to the idea that policies of reduction—whether reducing energy and materials use, waste or carbon emissions—can be as important as policies for growth.</p>	
+	
+<p>I propose three areas in which new methods are needed:</p>
+<ol>
+<li>We need to mobilise intelligence more systematically, i.e., data, evidence and knowledge of all kinds, to ensure that action is focused, targeted and smart. Experiences from the pandemic can be applied to other fields but will require different structures and processes to be effective.</li>
+<li>Some overdue reforms to public finance are needed to better fit the demands of the 21st century, including using investment methods f o r h uma n s e r v i c e s s u c h a s education, health and innovation, and better use of data to connect inputs of money to outputs and outcomes.</li>
+<li>We need a framework for thinking creatively about how to achieve economies within public services: going beyond the standard tools of cuts, trimming and delay to more creative options for restructuring services and changing the contract with citizens.</li>
+</ol>	
+
 	
 <br>
 <br>	
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
 </div>
-	
