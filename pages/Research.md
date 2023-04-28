@@ -32,7 +32,7 @@ details[open] summary {
 	</style>
 	
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7d1.jpg">
+<img src="/images/Landing_Banner_Images/knowledge_research_banner_01.jpg">
 </div>
 
 <br>
