@@ -1,4 +1,5 @@
 collections:
   all-books:
     output: true
-    order: []
+    order:
+      - "Case Studies: Designing Change.md"
