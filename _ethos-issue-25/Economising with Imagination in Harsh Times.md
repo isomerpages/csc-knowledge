@@ -81,8 +81,7 @@ border: 3px solid darkblue;
 
 .numbers li
 {
-	    
-				font-size: 16px;
+	font-size: 16px;
 }
 	
 .orange
