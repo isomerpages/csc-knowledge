@@ -130,14 +130,14 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 <p><b>Notes:</b></p>
 <ol>
 	<li>Examples of such policy responses to address the pandemic include: the Jobs Support Scheme, the Care and Support Package, the COVID-19 Recovery Grant, the Jobs Growth Incentive, SGUnited Jobs and Skills, Rental Relief and Cash Grant and so on. Together, they helped Singapore avoid long-term scarring from COVID-19. For more information, please see "Assessment of the Impact of Key COVID-19 Budget Measures", published by the Ministry of Finance (MOF) on 17 February 2022.
-</li></ol>	
+</li>
+</ol>	
 
 <p><b>Further Reading:</b></p>
 <ul>
-	<li>Ministry of Finance,  “Occasional Paper on Medium-Term Fiscal Projections”,  February 8, 2023,  accessed February 16, 2023 <a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf</a></li><a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">
-</a></ul><a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">
+	<li>Ministry of Finance,  “Occasional Paper on Medium-Term Fiscal Projections”,  February 8, 2023,  accessed February 16, 2023 <a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf</a>
 	
-</a></cite><a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">	</a>
+
 
 
 
@@ -146,4 +146,4 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 <br>	
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>
-</div>
+</div></li></ul></cite>
