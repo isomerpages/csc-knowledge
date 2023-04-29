@@ -149,8 +149,8 @@ to a greener economy."</p>
 <table>
 	<tbody>
 		<tr>
-		<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_3.jpg"></td>
-			<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_2.jpg"></td>
+		<td><img src="/images/Ethos_Images/Ethos_Issue_25/image3.jpg"></td>
+			<td><img src="/images/Ethos_Images/Ethos_Issue_25/image2.jpg"></td>
 		</tr>
 	</tbody>
 	</table>
