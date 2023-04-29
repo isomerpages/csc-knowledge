@@ -127,7 +127,7 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 <p>Optimising the system at a macro-level will be of limited beneﬁt if individual officers are not ready or able to maximise spending effectiveness and outcomes. In the words of former Head of Civil Service and PS (Finance) Mr Lim Siong Guan, there is never enough money to fund all the things the public want from the Government. Therefore, it is important that we prioritise Singapore’s needs and create the conditions to resource these needs in a sustainable and principled manner. </p>
 
 <cite>
-<p><b>Notes:</b></p>
+<p><b>Note:</b></p>
 <ol>
 	<li>Examples of such policy responses to address the pandemic include: the Jobs Support Scheme, the Care and Support Package, the COVID-19 Recovery Grant, the Jobs Growth Incentive, SGUnited Jobs and Skills, Rental Relief and Cash Grant and so on. Together, they helped Singapore avoid long-term scarring from COVID-19. For more information, please see "Assessment of the Impact of Key COVID-19 Budget Measures", published by the Ministry of Finance (MOF) on 17 February 2022.
 </li>
