@@ -35,6 +35,36 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg
 	font-family: montserrat;
 	font-size:25px;
 }
+
+#public-sector
+{
+background-color:#12143b;
+padding: 20px;
+margin-top: 30px;
+}
+	
+#public-sector p
+{
+color: #ffffff;
+}	
+	
+#public-sector h5
+{
+color: #3DB984;	
+}
+	
+#text
+{
+background-color:#12143b;
+padding: 20px;
+margin-top: 30px;
+}
+	
+#text p
+{
+color: #ffffff;
+}		
+	
 	
 </style>
 
@@ -69,12 +99,43 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg
 <p class="break1">Having technology is one thing—people must also be willing to use the technology.</p>
 </div>
 
+<p>public-facing roles. These are individuals —not necessarily senior leaders—who are passionate about technology and driving digital transformation; they are inﬂuencers and ambassadors. At the same time, we also work with senior leaders to help set the direction for where agencies are going, sponsor changes, and empower efforts to do so, embracing both a top-down and bottom-up approach to adopt technology. Our role is to give these champions the right tools and knowledge to lead the change and get their colleagues excited about what technology can do for them.</p>
+
+<p>We also have an online community through which we share the latest products as well as innovative uses of technology. We run workshops based on where the end-user agencies and teams are. These workshops may not always be for IT departments or Chief Information Officers (CIOs), but are often the officers on the ground. We show them how various tech tools can be usefully and securely adopted within the Public Service. We also share how other agencies have leveraged technology. For instance, HDB mounted a camera on a drone and used SG-Teams to do building inspections through livestreamed aerial drone video feeds. If an incident were to occur, this could also be used for crisis coordination and better appraisal of the situation. Such cases demonstrate how we can use available tech to do our work better and faster. By sharing these examples, we inspire new applications and new public sector innovations.</p>
+
+<h5>Making Data Available as a Generative Resource</h5>
+<p>Apart from technology, data is also an increasingly important resource for public sector work. A lot of data has already been made open and available, through platforms like data.gov.sg. Now the issue is whether we can continue to grow this data, and whether people will make use of it to create public value.</p>
+
+<p>What may hold people back from continuing to contribute data? When it comes to sharing data, public agencies typically adopt a mindset of sensitivity and security, and public officers tend to err on the safe side—this has long been ingrained, and for good reasons.</p>
+
+<p>So, we need to work on democratising our data: not only sharing it with the public but also with each other within the Public Service. This is an important workstream for us at GovTech, but it is not so much about technology as it is about good knowledge management, both within and across public agencies.</p>
+
+<p>We need to encourage some mindset shifts. First, are we overclassifying our data? The right classiﬁcation is important. Some data used to be classiﬁed by default for selected senior management meetings. But after consulting the meeting secretariats,  we concluded that not everything needs to be classiﬁed by default. Some materials are meant to be published later and could be declassiﬁed. Do emails you forward to your staff need to be classiﬁed? Probably not. We want to inculcate the right leadership behaviours so that the right classiﬁcation cascades down the workﬂow and makes useful information more widely available. We want to put in place policies about data sharing: such as right classiﬁcation to reduce the tendency to overclassify data, and the democratisation of data by granting access according to an officer’s role, instead of by request or by name. This will promote a greater general willingness to share data, within, across and perhaps outside public agencies.</p>
+
+<div id="public-sector">
+<h5>What Technology Cannot Do for the Public Sector</h5>
+<p>In a technology space, you can throw a lot of money and tools at various problems, but when the rubber hits the road, things may not always work. But that’s where you start getting new insights.</p>	
+</div>
 
 
+<div class="break">
+<p class="break1">We need to work on  democratising our data: not  only sharing it with the public  but also with each other within the Public Service.</p>
+</div>
 
+<p>Finally, we need to encourage people to make use of the data, and that means having the right expertise to convert that data into useful insights and innovations. This relates to the work we are doing to upskill people around data analytics and promoting a data-driven culture. It is part of what we term Ops-Tech integration. As tech leaders, we need to work closely with the operations side of agencies so that our changes can reach our colleagues and beneﬁt their actual work.</p>
 
+<h5>Resourcing the Digital Workplace</h5>
+<p>At GovTech, we are building several pieces that will support our public sector's digital transformation.</p>
 
+<p>The first is developing platforms to scale: something we call Scaling 10x. By adopting a platform approach, we can enjoy economies of scale, and achieve ten times the outcome even with constrained resources. The idea is to optimise our resources in an output or outcome-driven way. Some early examples of this include the Singapore Government Tech Stack, which leverages the Government Cloud.2 For speciﬁc services, such as cyber security, if you were to ask 10 agencies to list their requirements, you will likely have at least ﬁve teams asking for the same thing. That means a lot of resources will be spent on duplicating solutions. Instead, once we build a common platform and basic infrastructure, individual agencies can just focus on their mission outcomes and devote more time and resources</p>
 
+<div id="text">
+<p>We know public agencies can be more risk-averse, in comparison to the private sector, because they are spending public monies. So, we need to develop a mindset of taking calculated risks to start small, start quick, and then through that process build fast, fail fast, and move on if it doesn’t work. We must adopt a culture in which failure is taken as a norm and a basis for learning which can and should be shared. This culture is not something technology can provide. Instead, we need leaders who model the right culture and empower people to experiment.
+</p>
+
+<p>Instead of being critical or quick to judge, leaders should begin with curiosity, and share their own concerns surrounding an issue, while inviting their teams to share the thinking behind a new approach.</p>
+	
+</div>
 
 
 
