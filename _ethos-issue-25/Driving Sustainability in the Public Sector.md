@@ -46,6 +46,16 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	margin-top: 50px;
 }
 
+#enable h4
+{
+	background-color: #329348;
+	padding:10px;
+	color: white;
+	width: 150px;
+	border-radius:10px;
+	margin-top: 50px;
+}
+	
 
 	
 ol li
@@ -82,8 +92,6 @@ font-size: 16px;
 <p class="break1">"We have identified measures that help our public agencies decarbonise their systems and processes."</p>
 </div>
 
-
-
 <h5>Towards Higher Standards of Sustainability in Government Buildings </h5>
 
 <p>Green Mark Platinum SLE requirements for government buildings will lead to marked improvements in energy management, indoor air quality, materials and waste management, greenery provisions and building maintenance. In addition, buildings will achieve at least 60% energy savings, compared to the 2005 building code. </p>
@@ -101,8 +109,32 @@ font-size: 16px;
 <p>Even as we try to reduce our emissions and replace fossil fuel with renewable sources, we may have some residual carbon emissions that are hard to abate. We may have to consider the use of carbon credits.</p>
 
 
+<div id="enable">
+<h4>Enable</h4>	
+</div>
+<h5>EMBEDDING ENVIRONMENTAL SUSTAINABILITY IN OUR CORE BUSINESS</h5>
+	
+<p>We have started to incorporate sustainability features into our public touchpoints. For example, some of our new public libraries have indoor greenery and sustainably sourced furniture. Existing public libraries also hold sustainability-themed workshops and events regularly. In addition, the public sector engages communities to raise awareness on environmental sustainability issues. </p>
 
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_2.jpg">
+<p>The public sector is also committed to enhancing its procurement policies</p>
+
+<h5>Inspiring a Sustainable Singapore</h5>
+
+<p>The Public Service is well-placed to both enable and excite all parts of our society to be sustainable, especially when we bring together our knowledge and tools as One Public Service.</p>
+
+<p>The Green Action for Communities (GAC) offers a good example of how we can do this. It was launched in April 2022 by the Ministry of Sustainability and the Environment, the Ministry of National Development and the Ministry of Culture, Community and Youth, with support from the People’s Association, Community Development Councils, along with the Green Plan Ministries and agencies.</p>
+	
+<p>The GAC aims to enable and empower citizens to take ground-up actions within their communities to achieve Singapore’s climate and sustainability goals. It also seeks to foster an active, green citizenry, and embed sustainability as a shared responsibility and way of life.</p>
+
+<p>Our public officers share ideas and support with the GAC groups within each constituency, comprising community leaders and sustainability champions in the community. Each GAC group will then create their own community action plan that reﬂects their community's features and their residents' wishes.</p>
+
+<p>Public sector agencies support the GAC groups through district-level capacity building workshops, customised deep dives, and roadshows. To date, 700 GAC group members have been engaged through workshops and deep dives, with more to come.</p>
+
+
+
+
+
+
 
 
 <div id="strategy">
