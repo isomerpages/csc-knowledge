@@ -292,6 +292,7 @@ Finally, there are often options for joining up the work of government in creati
 <p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
 <br><br>
+
 <cite>
 <p><b>Notes:</b></p>
 
