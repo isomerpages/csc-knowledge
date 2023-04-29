@@ -36,15 +36,17 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jp
 	
 </style>
 
-
-
-<p><b>Kwa Chin Lum</b> is Director (Fiscal Policy) at the Ministry of Finance. He previously served as Special Assistant to Senior Minister Tharman Shanmugaratnam, and in various other Ministries.</p>
-
-<p><b>Kyle Goh</b> is Associate in the Fiscal Policy directorate at the Ministry of Finance, and works on strategic planning and policy research at the Ministry and Whole-of-Government levels.</p>
-
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_1.jpg">
 </div>
+<br>
+<cite class="author">
+<p><b>Kwa Chin Lum</b> is Director (Fiscal Policy) at the Ministry of Finance. He previously served as Special Assistant to Senior Minister Tharman Shanmugaratnam, and in various other Ministries.</p>
+
+<p><b>Kyle Goh</b> is Associate in the Fiscal Policy directorate at the Ministry of Finance, and works on strategic planning and policy research at the Ministry and Whole-of-Government levels.</p>
+</cite>
+
+
 
 <p>The Singapore Government’s budgeting framework continually evolves to meet the needs of our people and the challenges of our national context. We have matured, from a traditional bottom-up system based on detailed line items (Budget 1.0) and programme budgets (Budget 2.0), to a system which emphasises robust aggregate limits on spending while providing line ministries with maximum discretion to make ﬁnal allocations among their various programmes (Budget 3.0). While Budget 3.0 is still relevant and important for our ﬁscal management, signiﬁcant changes in our operating environment have prompted further improvements to our budgeting framework.</p>
 
