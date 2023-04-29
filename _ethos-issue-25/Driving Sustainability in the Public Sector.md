@@ -84,19 +84,13 @@ font-size: 16px;
 
 
 
-<h5>What Prioritisation Is: Focusing on the Big Small Things </h5>
+<h5>Towards Higher Standards of Sustainability in Government Buildings </h5>
 
-<p>Prioritisation happens daily, but this is not always tangible to us. The results of how well we prioritise show up as a lagging indicator. Every day, we make choices and incur trade-offs in how we spend our time, energy, and talents, which then also affects others in turn. What can help is to spend our limited time, energy, and talents on the big small things, i.e., the small actions that scale up to a big impact and results.</p>
+<p>Green Mark Platinum SLE requirements for government buildings will lead to marked improvements in energy management, indoor air quality, materials and waste management, greenery provisions and building maintenance. In addition, buildings will achieve at least 60% energy savings, compared to the 2005 building code. </p>
 
-<p>and third, Excite public officers to contribute to sustainability in Singapore. 
-Under GreenGov.SG, the public sector has committed to several targets, including achieving net zero emissions around 2045, about ﬁve years ahead of the national target.1 Executing the net zero transition will not be easy for Singapore, given our physical constraints and lack of renewable </p>
+<p>One example of a government building that has met the Green Mark Platinum SLE rating is the BCA Braddell Campus, comprising the Academic Tower, Zero Energy Building (ZEB) Plus building and six other blocks.  </p>
 
-<div class="break">
-<p class="break1">" What we need is to spend time and energy 
-deciding what we will do and what we will not do."</p>
-</div>
-
-<p>Based on insights from the ILOD Transformation Team’s consultancy work with close to 40 public agencies, we have  developed a <b>S.C.A.L.E. Framework</b> as a practical tool to help leaders and organisations prioritise more effectively by focusing on some big small things, along ﬁve key dimensions: Strategy, Culture, Alignment of processes , Leadership, and Empowerment.</p>
+<p>The ZEB Plus building has adopted measures such as a hybrid cooling system and a smart user app to provide user control of ceiling fans and lighting intensity. Ceiling fans operating in combination with air-conditioning enable  ambient temperature settings to be raised from 24°C to 26°C whilst maintaining thermal comfort. </p>
 
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_2.jpg">
 
