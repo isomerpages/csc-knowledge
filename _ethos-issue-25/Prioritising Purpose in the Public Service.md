@@ -8,7 +8,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 
 .subhead::first-letter 
 { 
-	initial-letter: 3;    
+	initial-letter: 2;    
 	margin-right: .55em;
 	color: #243e76;
 }	
