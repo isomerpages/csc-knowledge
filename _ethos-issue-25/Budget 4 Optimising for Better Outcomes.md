@@ -125,7 +125,7 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 <p>While Budget 4.0 effects system-wide changes to our budgeting framework, freeing up ﬁscal space for emerging needs is the collective responsibility of every public officer. Innovation and transformation must be part of our DNA as public officers. Individual officers should constantly ask themselves whether they are doing enough to provide for the nation and for the future, which will entail making the most of available resources.</p>
 
 <p>Optimising the system at a macro-level will be of limited beneﬁt if individual officers are not ready or able to maximise spending effectiveness and outcomes. In the words of former Head of Civil Service and PS (Finance) Mr Lim Siong Guan, there is never enough money to fund all the things the public want from the Government. Therefore, it is important that we prioritise Singapore’s needs and create the conditions to resource these needs in a sustainable and principled manner. </p>
-
+	
 <cite>
 <p><b>Note:</b></p>
 <ol>
