@@ -206,7 +206,6 @@ font-size: 16px;
 
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg">
-<br>
 </div>
 <cite class="author"><p><b>Eileen Wong</b> is Principal Consultant at the Institute of Leadership and Organisation Development, Civil Service College. She leads the ILOD Transformation Team to provide consultancy services to help agencies and senior leaders build and transform their organisations to thrive. Her consultancy scope includes organisation transformation and change, organisation development, leadership team development, employee engagement and hybrid work design. </p></cite>
 
