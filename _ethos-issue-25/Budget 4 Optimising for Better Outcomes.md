@@ -39,7 +39,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jp
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_1.jpg">
 </div>
-<br>
+
 <cite class="author">
 <p><b>Kwa Chin Lum</b> is Director (Fiscal Policy) at the Ministry of Finance. He previously served as Special Assistant to Senior Minister Tharman Shanmugaratnam, and in various other Ministries.</p>
 
