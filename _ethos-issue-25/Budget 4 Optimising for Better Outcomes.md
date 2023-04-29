@@ -108,3 +108,9 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jp
 <figcaption>
 <b>Figure 4.</b> Budgetary Mechanisms for a Nimble Public Service
 </figcaption>
+
+<div class="break">
+<p class="break1">Optimising the system at a macro-level will be of limited benefit if individual officers are not ready or able to maximise spending effectiveness and outcomes. </p>
+</div>
+
+<p>An important role of leadership will be to pay attention to change management and help their organisations and people to reskill and pivot as demands change. Leaders and managers should think about how to bring out the best in their staff, which will involve not just drawing out greater productivity, but keeping them motivated, engaged, and well equipped for their mission</p>
