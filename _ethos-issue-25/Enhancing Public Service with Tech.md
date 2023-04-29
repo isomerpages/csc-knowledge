@@ -86,13 +86,10 @@ font-weight:bold;
 	
 </style>
 
-<div class="author"><p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p></div>
-
-<br>
-
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg">
 </div>
+<cite class="author"><p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p></cite>
 
 <h5>Transforming the Work of the Public Sector in an Age of Scarce Resources
 </h5>
