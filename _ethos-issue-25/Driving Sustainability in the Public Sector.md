@@ -55,11 +55,18 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	border-radius:10px;
 	margin-top: 50px;
 }
-	
-#capacity h6
+
+#excite h4
 {
-   color:#329348;
+	background-color: #329348;
+	padding:10px;
+	color: white;
+	width: 150px;
+	border-radius:10px;
+	margin-top: 50px;
 }	
+	
+
 	
 ol li
 {
@@ -83,7 +90,7 @@ font-size: 16px;
 <p>Under GreenGov.SG, the public sector has committed to several targets, including achieving net zero emissions around 2045, about five years ahead of the national target. Executing the net zero transition will not be easy for Singapore, given our physical constraints and lack of renewable energy resources. So how are we going to achieve these targets?</p>
 
 <div id="excel">
-<h4>Excel</h4>	
+<h4>EXCEL</h4>	
 </div>
 <h5>REALISING A NET ZERO PUBLIC SECTOR</h5>
 	
@@ -113,7 +120,7 @@ font-size: 16px;
 
 
 <div id="enable">
-<h4>Enable</h4>	
+<h4>ENABLE</h4>	
 </div>
 <h5>EMBEDDING ENVIRONMENTAL SUSTAINABILITY IN OUR CORE BUSINESS</h5>
 	
@@ -167,6 +174,16 @@ to a greener economy."</p>
 	</tbody>
 	</table>
 	</div>
+	
+	
+<div id="excite">
+<h4>EXCITE</h4>	
+</div>
+<h5>NURTURING A CULTURE OF SUSTAINABILITY IN THE PUBLIC SECTOR</h5>
+	
+<p>At the core of the public sector are our public officers. If we are serious about achieving net zero, we will need to educate and empower public officers, especially colleagues who are in charge of maintaining our buildings or procurement. We have therefore identiﬁed a list of training courses to upskill them. In addition, we organise regular Communities of Practice and invite subject matter experts to share best practices or their experience with public officers. </p>
+
+<p>Of course, culture building goes beyond capability building. It is also about creating a movement and getting people excited. To date, 286 officers have joined the Sustainability Ambassadors Network (SAN). The SAN was created to raise awareness on sustainability topics, bringing together like-minded individuals who are passionate about sustainability to promote collaboration.</p>
 
 	
 	
