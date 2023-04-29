@@ -65,7 +65,17 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	border-radius:10px;
 	margin-top: 50px;
 }	
+
+.involve h5
+{
+ color:#7c615e;	
+}
 	
+.involve
+{
+background-color:#f0ece6;
+padding:30px;
+}
 
 	
 ol li
@@ -184,15 +194,27 @@ to a greener economy."</p>
 <p>At the core of the public sector are our public officers. If we are serious about achieving net zero, we will need to educate and empower public officers, especially colleagues who are in charge of maintaining our buildings or procurement. We have therefore identiﬁed a list of training courses to upskill them. In addition, we organise regular Communities of Practice and invite subject matter experts to share best practices or their experience with public officers. </p>
 
 <p>Of course, culture building goes beyond capability building. It is also about creating a movement and getting people excited. To date, 286 officers have joined the Sustainability Ambassadors Network (SAN). The SAN was created to raise awareness on sustainability topics, bringing together like-minded individuals who are passionate about sustainability to promote collaboration.</p>
+	
+<div class="involve">
+<h5>Involving Public Officers in Sustainability Efforts</h5>
+<p>A total of 1,161 officers participated in the Public Sector Bring-Your-Own (P.S. BYO!) campaign in 2021. The campaign saw officers exploring ways to reduce 
+the use of disposables in their daily habits, such as bringing their tumbler, reusable cutlery and bags for food or grocery runs.</p>
+
+<p>MSE also organised a recycling campaign called “Sustainability Starts with M(s)E” in 2021. Over the course of three months, more than 500 MSE family officers took part in the campaign. A post-campaign survey found that 78% of respondents expressed conﬁdence in recycling, which was a 28% increase from before the campaign.</p>	
+	
+	
+</div>
+	
+	
 
 <p>Through SAN, we hope to encourage more officers to take action for sustainability. For instance, in 2021, we organised a public sector-wide Bring-Your-Own campaign. We wanted to encourage public officers to take small steps to reduce the usage of single-use disposables in their daily habits.</p>
 	
 <p>To provide officers with easy access to GreenGov. SG resources , t h e Public Sector Sustainability Office in MSE has also set up a Resource Portal.2 This one-stop repository consolidates all information and resources related to GreenGov.SG. </p>
 	
 <h5>Looking to the Future</h5>
-<p>Looking ahead, we will issue a report card on the public sector’s sustainability efforts and performance later this year. In addition, all statutory boards will publish annual environmental s u s t a i n a b i l i t y d i s c l o s u re s f rom FY2024. Through public disclosure of our sustainability efforts, progress, and plans, we will communicate to Singaporeans the seriousness of the public sector in meeting our goals and set an example for others to follow</p>
+<p>Looking ahead, we will issue a report card on the public sector’s sustainability efforts and performance later this year. In addition, all statutory boards will publish annual environmental sustainability disclosures from FY2024. Through public disclosure of our sustainability efforts, progress, and plans, we will communicate to Singaporeans the seriousness of the public sector in meeting our goals and set an example for others to follow.</p>
 	
-	
+<p>Climate change is an existential threat for all of us here in Singapore. As a public service, we can and should take the lead in environmental sustainability. Together with the support of businesses and communities, we can realise a green, liveable and climate-resilient home for all Singaporeans.</p>
 	
 
 
