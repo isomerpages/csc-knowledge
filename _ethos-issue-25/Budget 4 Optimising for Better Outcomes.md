@@ -43,9 +43,9 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jp
 
 <figure>
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_2.jpg">
-<b>Notes:</b>
+<p><b>Notes:</b>
 Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (published 8 February 2023) for details
-Inclusive of Special Transfers
+	Inclusive of Special Transfers</p>
 	
 </figure>
 <cite><b>Figure 1.</b> Government Spending as % of GDP</cite>
