@@ -213,8 +213,8 @@ together, you might come up with new and very different answers which have every
 <cite>
 <p><b>Notes:</b></p>
 <ol class="note">
-<li>1. 	See “Unleashing the Power of Civil Society”, January 2023, accessed March 1, 2023, https://civilsocietycommission.org/publication unleashing-the-power-of-civil-society/.</li>
-<li>GreenGov.SG Resource Portal (website), February 15, 2023, https://gccprod.sharepoint. com/sites/MSE-GreenGovSG-MST.</li>
+<li>See “Unleashing the Power of Civil Society”, January 2023, accessed March 1, 2023, https://civilsocietycommission.org/publication unleashing-the-power-of-civil-society/.</li>
+<li>Ibid</li>
 </ol>
 </cite>
 
