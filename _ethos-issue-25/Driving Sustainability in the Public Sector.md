@@ -41,7 +41,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	background-color: #329348;
 	padding:10px;
 	color: white;
-	width: 150px;
+	width: 120px;
 	border-radius:10px;
 	margin-top: 50px;
 }
@@ -51,7 +51,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	background-color: #329348;
 	padding:10px;
 	color: white;
-	width: 150px;
+	width: 140px;
 	border-radius:10px;
 	margin-top: 50px;
 }
@@ -61,7 +61,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	background-color: #329348;
 	padding:10px;
 	color: white;
-	width: 150px;
+	width: 120px;
 	border-radius:10px;
 	margin-top: 50px;
 }	
