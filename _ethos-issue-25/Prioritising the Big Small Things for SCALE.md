@@ -8,7 +8,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 
 .subhead::first-letter 
 { 
-	initial-letter: 3;    
+	initial-letter: 2;    
 	margin-right: .55em;
 	color: #1F5E61;
 }	
