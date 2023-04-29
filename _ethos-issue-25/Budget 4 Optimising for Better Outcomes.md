@@ -108,8 +108,3 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jp
 <figcaption>
 <b>Figure 4.</b> Budgetary Mechanisms for a Nimble Public Service
 </figcaption>
-
-
-
-
-
