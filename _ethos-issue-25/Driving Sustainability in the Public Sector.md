@@ -96,6 +96,17 @@ ol li
 font-size: 16px;	
 }	
 	
+#capacity,#deep-dives
+{
+margin:20px;
+}
+
+#capacity h6,#deep-dives	h6
+{
+	color: #06945d;
+}	
+
+	
 	
 </style>
 
@@ -178,31 +189,29 @@ to a greener economy."</p>
 <p>Our digitalisation efforts have also contributed towards our sustainability goals. As more public services go online and accept electronic payment, we reduce the need for members of the public to submit hard copies or for public officers to use printing paper.</p>
 
 <div class="involve2">
+	
 <div id="capacity">
 <h6>Capacity building workshops include GAC group discussions and booths set up by agencies and community partners</h6>
 	
 <table>
-	<tbody>
-		<tr>
+<tbody><tr>
 		<td><img src="/images/Ethos_Images/Ethos_Issue_25/image3.jpg"></td>
 			<td><img src="/images/Ethos_Images/Ethos_Issue_25/image4.jpg"></td>
 		</tr>
-	</tbody>
-	</table>
-	</div>
+	</tbody></table>
+	
+</div>
 	
 <div id="deep-dives">
 	<h6>Deep dives for GAC groups</h6>
 	<table>
-	<tbody>
-		<tr>
+		<tbody><tr>
 		<td><img src="/images/Ethos_Images/Ethos_Issue_25/image2.jpg"></td>
 			<td><img src="/images/Ethos_Images/Ethos_Issue_25/image1.jpg"></td>
 		</tr>
-	</tbody>
-	</table>
+	</tbody></table>
 	</div>
-
+</div>
 	
 <div id="excite">
 <h4>EXCITE</h4>	
@@ -249,4 +258,4 @@ the use of disposables in their daily habits, such as bringing their tumbler, re
 <br>
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
-</div></div>
+</div>
