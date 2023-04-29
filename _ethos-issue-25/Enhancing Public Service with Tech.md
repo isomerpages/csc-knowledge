@@ -69,6 +69,20 @@ margin-top: 30px;
 color: #ffffff;
 }		
 	
+#for-more-info
+{
+	background-color:#12143b;
+	color:white;
+
+	padding:30px;
+}
+	
+#for-more-info a:link
+{
+color: #3DB984;
+font-weight:bold;
+}	
+	
 	
 </style>
 
@@ -172,11 +186,16 @@ color: #ffffff;
 </cite>
 
 
+<div id="for-more-info">
+<p>For more information on Whole-of-Government productivity tools, visit the Singapore Government Developer Portal:
+<br><a href="go.gov.sg/devportalproductivitytools">go.gov.sg/devportalproductivitytools</a></p><a href="go.gov.sg/devportalproductivitytools">	
+</a></div><a href="go.gov.sg/devportalproductivitytools">
+
 
 
 
 
 <br>
-<div class="back">
-<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+</a><div class="back"><a href="go.gov.sg/devportalproductivitytools">
+</a><a href="/ethos-issue-25/">Back to Ethos Page</a>	
 </div>
