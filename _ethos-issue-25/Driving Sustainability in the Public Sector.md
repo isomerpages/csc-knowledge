@@ -78,6 +78,12 @@ font-size: 16px;
 
 <p>We have also identiﬁed measures that help our public agencies decarbonise their systems and processes. For instance, all new public sector buildings and those undergoing retroﬁtting will meet Green Mark Platinum Super Low Energy (SLE) standards. Agencies will also maintain an ambient indoor air temperature at 25°C or higher for their premises and deploy solar photovoltaics, where feasible. </p>
 
+<div class="break">
+<p class="break1">"We have identified measures that help our public agencies decarbonise their systems and processes."</p>
+</div>
+
+
+
 <h5>What Prioritisation Is: Focusing on the Big Small Things </h5>
 
 <p>Prioritisation happens daily, but this is not always tangible to us. The results of how well we prioritise show up as a lagging indicator. Every day, we make choices and incur trade-offs in how we spend our time, energy, and talents, which then also affects others in turn. What can help is to spend our limited time, energy, and talents on the big small things, i.e., the small actions that scale up to a big impact and results.</p>
