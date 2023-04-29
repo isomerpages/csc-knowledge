@@ -75,8 +75,19 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 {
 background-color:#f0ece6;
 padding:30px;
+margin-top:20px;
 }
+	
+.involve2 h6
+{
+ color:#7c615e;	
+}	
 
+.involve2
+{
+background-color:#f0ece6;
+padding:1px;
+}
 	
 ol li
 {
@@ -112,6 +123,7 @@ font-size: 16px;
 <p class="break1">"We have identified measures that help our public agencies decarbonise their systems and processes."</p>
 </div>
 
+<div class="involve">
 <h5>Towards Higher Standards of Sustainability in Government Buildings </h5>
 
 <p>Green Mark Platinum SLE requirements for government buildings will lead to marked improvements in energy management, indoor air quality, materials and waste management, greenery provisions and building maintenance. In addition, buildings will achieve at least 60% energy savings, compared to the 2005 building code. </p>
@@ -121,6 +133,7 @@ font-size: 16px;
 <p>The ZEB Plus building has adopted measures such as a hybrid cooling system and a smart user app to provide user control of ceiling fans and lighting intensity. Ceiling fans operating in combination with air-conditioning enable  ambient temperature settings to be raised from 24°C to 26°C whilst maintaining thermal comfort.</p>
 
 <p>The Academic Tower boasts multiple high energy savings measures, such as a brushless direct current fan coil unit which is low noise and provides up to 70% energy savings. The lush vertical greening and deep corridor shade reduce overall heat gain, further reducing cooling requirements. Task lighting has replaced ceiling lights as the mode of lighting in offices, with the usage of sun pipes for staircase and reception counter lighting in office, while solar PVs generate 23% of its total electricity needs.</p>
+</div>	
 
 <p>Starting from FY2023, all cars procured and registered by public agencies will  be clean energy vehicles with zero tailpipe emissions.</p>
 
@@ -138,6 +151,7 @@ font-size: 16px;
 
 <p>The public sector is also committed to enhancing its procurement policies</p>
 
+<div class="involve">
 <h5>Inspiring a Sustainable Singapore</h5>
 
 <p>The Public Service is well-placed to both enable and excite all parts of our society to be sustainable, especially when we bring together our knowledge and tools as One Public Service.</p>
@@ -149,6 +163,8 @@ font-size: 16px;
 <p>Our public officers share ideas and support with the GAC groups within each constituency, comprising community leaders and sustainability champions in the community. Each GAC group will then create their own community action plan that reﬂects their community's features and their residents' wishes.</p>
 
 <p>Public sector agencies support the GAC groups through district-level capacity building workshops, customised deep dives, and roadshows. To date, 700 GAC group members have been engaged through workshops and deep dives, with more to come</p>
+	
+</div>	
 
 <div class="break">
 <p class="break1">"The public sector is also committed  to enhancing its procurement policies to support Singapore’s transition  
@@ -159,7 +175,7 @@ to a greener economy."</p>
 
 <p>Our digitalisation efforts have also contributed towards our sustainability goals. As more public services go online and accept electronic payment, we reduce the need for members of the public to submit hard copies or for public officers to use printing paper.</p>
 
-
+<div class="involve2">
 <div id="capacity">
 <h6>Capacity building workshops include GAC group discussions and booths set up by agencies and community partners</h6>
 	
@@ -171,7 +187,7 @@ to a greener economy."</p>
 		</tr>
 	</tbody>
 	</table>
-
+	</div>
 	
 <div id="deep-dives">
 	<h6>Deep dives for GAC groups</h6>
@@ -184,7 +200,7 @@ to a greener economy."</p>
 	</tbody>
 	</table>
 	</div>
-	
+
 	
 <div id="excite">
 <h4>EXCITE</h4>	
@@ -216,184 +232,6 @@ the use of disposables in their daily habits, such as bringing their tumbler, re
 	
 <p>Climate change is an existential threat for all of us here in Singapore. As a public service, we can and should take the lead in environmental sustainability. Together with the support of businesses and communities, we can realise a green, liveable and climate-resilient home for all Singaporeans.</p>
 	
-
-
-
-
-
-
-<div id="strategy">
-<p class="letter-s">STRATEGY</p>
-	<b>Clarity for Crafting and Translating into Results</b>
-
-<div class="strategy1">
-	<p>The two questions you need to ask about your <span class="word">Strategy:</span></p>	
-<ul>
-		<li>How is our work achieving what is core to our organisation?
-</li>
-		<li>How is our work reﬂecting what our organisation can uniquely do?</li>
-	</ul>
-</div>
-
-<p>The most important step in prioritisation is to clarify the organisation’s strategy and to activate it in the work done, from the top all the way to the ground. In our consultancy work, we have heard varying degrees of clarity across different levels when officers are asked about their organisation’s focus. We often see organisations spending extensive effort in crafting strategic plans, but less effort in communicating and translating strategies into day-to-day work. </p>
-
-<p>In an engagement session designed  for 76 senior and middle management leaders of an agency, participants discussed how their teams contributed to the strategic pillars of their agency’s transformation. The senior management team had earlier developed the agency’s transformation vision and corresponding strategies. They wanted to take time to share with middle managers, so as to sharpen and translate the strategies for the work on the ground. Energy levels rose as different participants articulated a shared desired impact for their stakeholders and end users. Gathering the leaders for half a day was a big small thing—a small investment of effort that led to signiﬁcant value in alignment. At the end of the session, participants echoed that the time was well spent, particularly with the middle managers articulating greater resonance with organisational strategies in planning and prioritising their work.</p>
-
-<p>When leaders take time to help others understand the core work and unique value created by their organisation, teams and officers will have more clarity in prioritising time and energy for work that matters.</p>
-
-<div class="break">
-<p class="break1">" When leaders take time to help others understand the work and value created by their organisation, officers will have more clarity in prioritising time and work."</p>
-</div>
-</div>
-
-
-<div id="culture">
-	
-<p class="letter-c">CULTURE</p>
-<b>Behaviours and Norms We Want More Of</b>
-
-<div class="culture1">
-	<p>The two questions you need to ask about your <span class="word">Culture:</span></p>	
-	
-<ul>
-		<li>How is our culture recognising and rewarding our work outcomes?
-</li>
-		<li>How is our culture recognising and rewarding the collaboration needed for our work?</li>
-	</ul>
-</div>
-
-<p>What gets rewarded gets done. An organisation’s culture is built and reinforced day by day through actual work behaviours and norms. Ask any newcomer to observe and share candidly what gets rewarded or frowned upon at the workplace. Their fresh perspectives—free from legacy experiences—offer an outside-in view of current work interactions.</p>
-
-<p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
-
-<div class="break">
-<p class="break1">" We have been conditioned for success through adding and not subtracting."</p>
-</div>
-
-<p>This runs contrary to the call for prioritisation and reducing workload because we have been conditioned for success through adding and not subtracting. </p>
-
-<p>In ILOD’s interactions with agencies, we have seen some leaders ﬁnd ways to combat such learned behaviours to do more. One leader articulated clear expectations of what was needed for a work deliverable and told officers what ‘done’ work would look like, to reduce unnecessary rework. Another leader clariﬁed with subordinates what good staffing looked like, to prevent overzealous preparations. One leader made the effort to email the entire division, openly lauding an officer who had put up a request to drop work that was no longer relevant. </p>
-
-<p>A few words or a short email can make implicit expectations explicit. These big small things not only have a big impact on officers’ workload and priorities, but can also clarify and encourage the work behaviours and norms we want more of.</p>
-	
-</div>	
-	
-<div id="alignment" class="">
-<p class="letter-a">ALIGNMENT OF PROCESSES</p>
-<b>Jolt for Optimisation</b>
-
-<div class="alignment1">
-	<p>The two questions you need to ask about your <span class="word">Alignment of processes:</span></p>	
-<ul>
-	<li>How have we optimised the layers of clearance and iterations needed for our work?</li>
-	<li>How have we optimised virtual and in-person ways of working?</li>
-	</ul>
-</div>
-
-
-<p>Work processes can accumulate over time and be hard to get rid of. With the hybrid/ﬂexible work arrangements of the pandemic years, processes may even have multiplied. At the same time, the constraints imposed by the pandemic have also taught us that we can in fact do quite well with less. For example, we learnt that virtual meetings can save on commuting time while not compromising work outcomes.</p>
-
-<p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
-
-<p>One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value. During a leadership team conversation to address high workload, an agency head related his shock of discovering that over 20 iterations had been made to a set of meeting notes that the meeting chairperson did not even see. It could not be clearly determined if each layer added value. The high number of iterations prompted the leaders to discuss how they might have unknowingly contributed to similar inefficiencies. They decided to update the clearance process from a sequential ﬂow to using a shared platform for concurrent clearance by the required parties.</p>
-
-<p>Such a change was a relatively small step for them. But it was a big small thing that led to a shift in mindsets and expectations, prompting a broader relook and optimisation of how they had been working. </p>
-
-<div class="break">
-<p class="break1">"One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value."</p>
-</div>
-
-</div>
-
-<div id="leadership">
-<p class="letter-l">LEADERSHIP</p>
-<b>Go Slow to Go Fast</b>
-
-<div class="leadership1">
-	<p>The two questions you need to ask about your <span class="word">Leadership:</span></p>	
-<ul>
-	<li>How are our leaders able to take time to prioritise and communicate directions?</li>
-	<li>How effective are our leaders in sensing ground needs?</li>
-	</ul>
-</div>
-
-
-<p>Leaders these days have little time to think. In a poll with over 300 responses at ILOD’s sharing session on prioritisation, a top-ranked challenge was the scarcity of time and not being able to step back to think. Having to juggle ‘business-as-usual’ activities and new initiatives driven by various stakeholders was another key challenge.</p>
-
-<p>Among the leaders we interacted with were a number of ‘positive deviants’—those who seemed to be able to cope and even thrive in this context. Their trade secret was common knowledge but not common practice: the importance of having white space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working.</p>
-	
-<div class="break">
-<p class="break1">"Common knowledge 
-but not common 
-practice: having white 
-space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working."</p>
-</div>	
-
-<p>In a leadership team planning discussion to chart plans for the agency’s strategy, one division head revealed that he asked his staff to set aside time every week as ‘free time’ to pause and think. He related how he blocked off two hours every week to reflect on the past week. This helped him sharpen his priorities. He finished his sharing with an apologetic look at the agency head because he had self-declared the ‘free time’ for his staff without prior permission. To his credit, the agency head nodded his approval as the room of leaders cheered at the encouraging confession.</p>
-
-<p>Pausing to ‘go slow to go fast’ illustrates how a big small thing can enable leaders to prioritise better.</p>
-	
-</div>
-
-
-<div id="empowerment">
-<p class="letter-e">EMPOWERMENT</p>
-<b>Going beyond Shared Commitment to Shared Understanding</b>
-
-<div class="empowerment1">
-	<p>The two questions you need to ask about your <span class="word">Empowerment:</span></p>	
-<ul>
-	<li>How are the right decisions made by the right people at the right level?</li>
-	<li>How are we facilitating the co-creation of ideas and solutions?</li>
-	</ul>
-</div>
-
-<p>Involvement leads to commitment. This is a principle we often emphasise in our change consultancy work. Recall the ‘Ikea effect’, where you will likely assign a higher value to something you have assembled, even if the nails do not line up straight or the ﬁnal product looks imperfect. When people are involved in making decisions or have a say in the eventual plans, they are more motivated to see things through to achieve the agreed outcomes.</p>
-
-<p>This also means that leaders have the latitude to delegate formal authority, change informal norms and decision-making, and energise those in the levels below. This can be liberating for top leaders—freeing up time to keep track of what’s going on and prioritising well especially as the operating environment becomes increasingly complex. In other words, they can go slow to go fast.</p>
-	
-<p>In our consultancy work, we found that this empowerment can also go further to creating shared understanding.</p>
-
-<p>We have brought people together to share ‘what your world is like’ in various engagement sessions. In one cross-level discussion between senior leaders and middle managers, we created the space for them to share their respective conditions and challenges. At the start, the atmosphere in the room was tentative. Gradually, it became more uplifting as everyone took a small figurative step into one another’s worlds. By the end, there was a shared understanding of the different worlds of experiences in the group. All it took was a big small thing to come together to create shared understanding.</p>
-	
-<div class="break">
-<p class="break1">"When people are involved in making decisions or have 
-a say in the eventual plans, they are more motivated to see things through."</p>
-</div>		
-	
-</div>
-
-<h5>Scaling Made Versatile and Adaptable</h5>
-
-<p>The S.C.A.L.E. Framework is versatile. It can be used as a full framework to cover all ﬁve dimensions. Each dimension can also be used separately in deep dive discussions to surface issues and big small things for improvement.</p>
-
-<p>The S.C.A.L.E. Framework is also  adaptable. We have used the S.C.A.L.E. Framework and assessment tool in a bespoke workshop designed for a Ministry's senior leadership team. In their discussions, they applied the framework to assess the state of prioritisation at the whole organisation level—for diverse functions as well as at the cluster or divisional level for intact teams.</p>
-
-<h5>Scaling Made Versatile and Adaptable</h5>
-
-<p>Many of the examples from our consultancy experiences are small actions that build up into signiﬁcant impact and results.</p>
-
-<p>By improving day and day, instead of relying on willpower or wiping the slate clean, they are akin to making the 1% progress every day that recent studies on habits highlight as vital to long term behavioural change.</p>
-
-<p>Small actions can compound to keep off the ‘pounds’ in our work and organisations. They sustain our efforts to achieve organisation-wide impact, ensuring that our prioritisation can S.C.A.L.E. </p>
-
-
-<div id="ilod">
-<p>ILOD’s Transformation Team  can help your agency  realise its strategy, sustain  performance, and build a healthier organisation. It offers consultancy support for:</p>
-
-<ul>
-	<li>Organisation transformation and change management</li>
-	<li>Organisation development and employee engagement</li>
-	<li>Leadership team alignment and development</li>
-	<li>Hybrid work design</li>
-</ul>
-	
-<p>To ﬁnd out more, connect with Eileen at:  
-	<a href="eileen_wong@cscollege.gov.sg">eileen_wong@cscollege.gov.sg</a></p>
-	
-	
-</div>	
-
 <br>
 
 <cite>
