@@ -49,9 +49,6 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 	
 </figure>
 <cite><b>Figure 1.</b> Government Spending as % of GDP</cite>
-
-
-
 	
 <p>Expenditure on government policies has been increasing signiﬁcantly with time: from 15.0% of GDP in FY2006–2010 to 18.1% of GDP in FY2016–2020. This has been funded sustainably through increasing taxes and a Net Investment Returns spending framework that strikes a fair balance between the interests of today and tomorrow. However, we anticipate pressures for public expenditure to continue rising. Geopolitical uncertainty and lessons learnt from the COVID pandemic will increase the size of government and expenditure on resilience. Our ageing population and slowing resident labour force growth will limit the amount of revenues we collect, while requiring greater expenditure on healthcare and social security. In the longer term, economic growth is expected to plateau, further limiting revenue growth.</p>
 
@@ -116,3 +113,19 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 </div>
 
 <p>An important role of leadership will be to pay attention to change management and help their organisations and people to reskill and pivot as demands change. Leaders and managers should think about how to bring out the best in their staff, which will involve not just drawing out greater productivity, but keeping them motivated, engaged, and well equipped for their mission</p>
+
+<p>While Budget 4.0 effects system-wide changes to our budgeting framework, freeing up ﬁscal space for emerging needs is the collective responsibility of every public officer. Innovation and transformation must be part of our DNA as public officers. Individual officers should constantly ask themselves whether they are doing enough to provide for the nation and for the future, which will entail making the most of available resources.</p>
+
+<p>Optimising the system at a macro-level will be of limited beneﬁt if individual officers are not ready or able to maximise spending effectiveness and outcomes. In the words of former Head of Civil Service and PS (Finance) Mr Lim Siong Guan, there is never enough money to fund all the things the public want from the Government. Therefore, it is important that we prioritise Singapore’s needs and create the conditions to resource these needs in a sustainable and principled manner. </p>
+
+
+<p><b>Notes:</b></p>
+<ol>
+	<li>Examples of such policy responses to address the pandemic include: the Jobs Support Scheme, the Care and Support Package, the COVID-19 Recovery Grant, the Jobs Growth Incentive, SGUnited Jobs and Skills, Rental Relief and Cash Grant and so on. Together, they helped Singapore avoid long-term scarring from COVID-19. For more information, please see "Assessment of the Impact of Key COVID-19 Budget Measures", published by the Ministry of Finance (MOF) on 17 February 2022.
+</li></ol>	
+
+<p><b>Further Reading:</b></p>
+<ul>
+	<li>Ministry of Finance,  “Occasional Paper on Medium-Term Fiscal Projections”,  February 8, 2023,  accessed February 16, 2023,  https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.</li>
+</ul>	
+	
