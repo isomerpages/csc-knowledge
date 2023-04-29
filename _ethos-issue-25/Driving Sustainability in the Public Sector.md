@@ -36,7 +36,15 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	font-size:25px;
 }
 	
-	
+#excel h4
+{
+	background-color: #329348;
+	padding:10px;
+	color: white;
+	width: 150px;
+	border-radius:10px;
+	margin-top: 50px;
+}
 
 
 	
@@ -62,17 +70,15 @@ font-size: 16px;
 <p>Under GreenGov.SG, the public sector has committed to several targets, including achieving net zero emissions around 2045, about five years ahead of the national target. Executing the net zero transition will not be easy for Singapore, given our physical constraints and lack of renewable energy resources. So how are we going to achieve these targets?</p>
 
 <div id="excel">
-<h4>Excel</h4>
+<h4>Excel</h4>	
+</div>
 <h5>REALISING A NET ZERO PUBLIC SECTOR</h5>
 	
-	
-	
-	
-</div>
-	
-<p>Paradoxically, what we need instead is to spend time and energy deciding what we will do and what we will not do. </p>
+<p>We are strengthening the leadership focus on sustainability through the appointment of Ministry-level Chief Sustainability Officers (CSOs) to oversee sustainability matters across Ministry families. As the ﬁrst Government Chief Sustainability Officer (GCSO), I will also be working closely with the Ministry CSOs to develop and coordinate strategies to achieve the public sector’s net zero agenda.</p>
 
-<h5>What Prioritisation Is: Focusing on the  Big Small Things </h5>
+<p>We have also identiﬁed measures that help our public agencies decarbonise their systems and processes. For instance, all new public sector buildings and those undergoing retroﬁtting will meet Green Mark Platinum Super Low Energy (SLE) standards. Agencies will also maintain an ambient indoor air temperature at 25°C or higher for their premises and deploy solar photovoltaics, where feasible. </p>
+
+<h5>What Prioritisation Is: Focusing on the Big Small Things </h5>
 
 <p>Prioritisation happens daily, but this is not always tangible to us. The results of how well we prioritise show up as a lagging indicator. Every day, we make choices and incur trade-offs in how we spend our time, energy, and talents, which then also affects others in turn. What can help is to spend our limited time, energy, and talents on the big small things, i.e., the small actions that scale up to a big impact and results.</p>
 
