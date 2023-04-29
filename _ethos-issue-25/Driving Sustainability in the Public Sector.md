@@ -36,7 +36,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	font-size:25px;
 }
 	
-#excel h4
+#excel h5
 {
 	background-color: #329348;
 	padding:10px;
@@ -46,7 +46,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	margin-top: 50px;
 }
 
-#enable h4
+#enable h5
 {
 	background-color: #329348;
 	padding:10px;
@@ -56,7 +56,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	margin-top: 50px;
 }
 
-#excite h4
+#excite h5
 {
 	background-color: #329348;
 	padding:10px;
@@ -101,7 +101,7 @@ font-size: 16px;
 margin:20px;
 }
 
-#capacity h6,#deep-dives	h6
+#capacity h5,#deep-dives	h5
 {
 	color: #06945d;
 }	
@@ -124,7 +124,7 @@ margin:20px;
 <p>Under GreenGov.SG, the public sector has committed to several targets, including achieving net zero emissions around 2045, about five years ahead of the national target. Executing the net zero transition will not be easy for Singapore, given our physical constraints and lack of renewable energy resources. So how are we going to achieve these targets?</p>
 
 <div id="excel">
-<h4>EXCEL</h4>	
+<h5>EXCEL</h5>	
 </div>
 <h5>REALISING A NET ZERO PUBLIC SECTOR</h5>
 	
@@ -156,7 +156,7 @@ margin:20px;
 
 
 <div id="enable">
-<h4>ENABLE</h4>	
+<h5>ENABLE</h5>	
 </div>
 <h5>EMBEDDING ENVIRONMENTAL SUSTAINABILITY IN OUR CORE BUSINESS</h5>
 	
@@ -191,7 +191,7 @@ to a greener economy."</p>
 <div class="involve2">
 	
 <div id="capacity">
-<h6>Capacity building workshops include GAC group discussions and booths set up by agencies and community partners</h6>
+<h5>Capacity building workshops include GAC group discussions and booths set up by agencies and community partners</h5>
 	
 <table>
 <tbody><tr>
@@ -203,7 +203,7 @@ to a greener economy."</p>
 </div>
 	
 <div id="deep-dives">
-	<h6>Deep dives for GAC groups</h6>
+	<h5>Deep dives for GAC groups</h5>
 	<table>
 		<tbody><tr>
 		<td><img src="/images/Ethos_Images/Ethos_Issue_25/image2.jpg"></td>
@@ -214,7 +214,7 @@ to a greener economy."</p>
 </div>
 	
 <div id="excite">
-<h4>EXCITE</h4>	
+<h5>EXCITE</h5>	
 </div>
 <h5>NURTURING A CULTURE OF SUSTAINABILITY IN THE PUBLIC SECTOR</h5>
 	
