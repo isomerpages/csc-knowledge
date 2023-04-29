@@ -73,8 +73,8 @@ color: #ffffff;
 {
 	background-color:#12143b;
 	color:white;
-
-	padding:30px;
+	margin-top:45px;
+	padding:20px;
 }
 	
 #for-more-info a:link
@@ -195,7 +195,7 @@ font-weight:bold;
 
 
 
-<br>
+<br><br>
 </a><div class="back"><a href="go.gov.sg/devportalproductivitytools">
 </a><a href="/ethos-issue-25/">Back to Ethos Page</a>	
 </div>
