@@ -65,6 +65,8 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	border-radius:10px;
 	margin-top: 50px;
 }	
+	
+
 
 .involve h5
 {
