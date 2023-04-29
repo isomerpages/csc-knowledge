@@ -56,7 +56,10 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	margin-top: 50px;
 }
 	
-
+#capacity h6
+{
+   color:#329348;
+}	
 	
 ol li
 {
@@ -137,8 +140,21 @@ to a greener economy."</p>
 
 <p>to support Singapore’s transition to a greener economy. Apart from mandating minimum resource  efficiency or sustainability standards for selected goods and services, we will be introducing more environmental sustainability considerations into the Government’s tender evaluation process from FY2024. We will start with large construction and Information Communications Technology (ICT) tenders, setting aside up to 5% of the evaluation points for environmental sustainability.</p>
 
-<p>Our digitalisation efforts have also contributed towards our sustainability goals. As more public services go online and accept electronic payment, we reduce the need for members of the public to submit hard copies or for public officers to use printing paper. </p>
+<p>Our digitalisation efforts have also contributed towards our sustainability goals. As more public services go online and accept electronic payment, we reduce the need for members of the public to submit hard copies or for public officers to use printing paper.</p>
 
+
+<div id="capacity">
+<h6>Capacity building workshops include GAC group discussions and booths set up by agencies and community partners</h6><h6>
+	
+<table>
+	<tbody>
+		<tr>
+		<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_3.jpg"></td>
+			<td><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_2.jpg"></td>
+		</tr>
+	</tbody>
+	</table>
+</h6></div>
 
 
 
