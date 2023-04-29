@@ -10,6 +10,12 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jp
 	font-size: 16px;
 	}
 	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+	
 .break
 {
    border-top: 1px solid  black;
@@ -130,3 +136,12 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 </a></ul><a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">
 	
 </a></cite><a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">	</a>
+
+
+
+
+<br>
+<br>	
+<div class="back">
+<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+</div>
