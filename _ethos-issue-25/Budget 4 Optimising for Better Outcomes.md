@@ -15,6 +15,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jp
 	color: #9f2943;
 	font-weight: bold;
 }
+
 	
 .break
 {
@@ -143,5 +144,5 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 <br>
 <br>	
 <div class="back">
-<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+<a href="/ethos-issue-25/">Back to Ethos Page</a>
 </div>
