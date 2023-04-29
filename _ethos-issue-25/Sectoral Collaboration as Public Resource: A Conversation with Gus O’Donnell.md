@@ -194,10 +194,15 @@ something should be done by the government or the private sector, and we leave o
 together, you might come up with new and very different answers which have everybody contributing, as opposed to it just being a government problem."</p>
 </div>
 
-<p>Step two is realising that perhaps the government cannot solve this problem entirely on its own, and you need to have a meeting where you bring in the other sectors to help address the problem. And then you get the three sectors together to come up with an answer where there is mutual advantage. If you put all three sectors in a room to solve issues together, you might come up with new and very different answers which have everybody contributing, as opposed to it just being a government problem. </p>
+<p>Step two is realising that perhaps the government cannot solve this problem entirely on its own, and you need to have a meeting where you bring in the other sectors to help address the problem. And then you get the three sectors together to come up with an answer where there is mutual advantage. If you put all three sectors in a room to solve issues together, you might come up with new and very different answers which have everybody contributing, as opposed to it just being a government problem.</p>
 
+<p>One other advantage is that the other sectors get to understand why  government regulates in the way they regulate. They can then learn how best to work with policy as opposed to ﬁghting it—while at times pointing out that policy objectives aren’t quite right and trying to get them changed. Then we start to work together to get better societal outcomes as opposed to regarding it as a game of getting around the rules to maximise proﬁts.</p>
 
+<p>So, what we need to look for are people who can get collaboration across sectors. It could be someone who has diverse experience in actually working in one or more of these sectors, who will understand the cultures of these sectors and how to make them appreciate each other. </p>
 
+<p>You want collaborators, and you also want innovators—because we’re not going to solve these problems without some innovation. For really difficult problems, you need to experiment more, and try different things, and some of them might work along the way. </p>
+
+<p>In the social sector there is great nervousness about having something which seems to fail. We need to have the capacity to understand that it’s not a problem if a social sector organisation spends some money on trying some things which turn out not to work. So you could bring in some private sector people who understand about innovation, about risk-taking, about not being scared to fail. But this can be difficult in the social sector. In the beginning, time might be better spent just helping charities put in competent record management systems and spreadsheets, or other kinds of administrative infrastructure that we take for granted in the public and private sectors. </p>
 
 
 
