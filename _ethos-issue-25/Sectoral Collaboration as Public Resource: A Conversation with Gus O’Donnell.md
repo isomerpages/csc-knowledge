@@ -204,138 +204,16 @@ together, you might come up with new and very different answers which have every
 
 <p>In the social sector there is great nervousness about having something which seems to fail. We need to have the capacity to understand that it’s not a problem if a social sector organisation spends some money on trying some things which turn out not to work. So you could bring in some private sector people who understand about innovation, about risk-taking, about not being scared to fail. But this can be difficult in the social sector. In the beginning, time might be better spent just helping charities put in competent record management systems and spreadsheets, or other kinds of administrative infrastructure that we take for granted in the public and private sectors. </p>
 
+<p>One of the issues I am worried about is what I call stranded skills. A lot of people with a set of skills which they thought would keep them in good employment for a long time could end up being stranded by developments in artiﬁcial intelligence (AI). We will need to think carefully about how to get to the kind of world where we are all going to be living longer, and how we all need to retrain at different times. </p>
 
+<p>This could ﬁt in with my idea of spending some time in different sectors, doing different things, and coming back as someone who understands the interaction between sectors. Indeed, we are already starting to see innovation being the consequence of being multidisciplinary, from economics to psychology and so on, in ways which will be crucial to the public sector. The point is also about trying to see people’s activities as things that bring them increases in wellbeing, as opposed to just work. </p>
 
-
-
-
-
-<div id="excel">
-<h5>EXCEL</h5>	
-</div>
-<h5>REALISING A NET ZERO PUBLIC SECTOR</h5>
-	
-<p>We are strengthening the leadership focus on sustainability through the appointment of Ministry-level Chief Sustainability Officers (CSOs) to oversee sustainability matters across Ministry families. As the ﬁrst Government Chief Sustainability Officer (GCSO), I will also be working closely with the Ministry CSOs to develop and coordinate strategies to achieve the public sector’s net zero agenda.</p>
-
-<p>We have also identiﬁed measures that help our public agencies decarbonise their systems and processes. For instance, all new public sector buildings and those undergoing retroﬁtting will meet Green Mark Platinum Super Low Energy (SLE) standards. Agencies will also maintain an ambient indoor air temperature at 25°C or higher for their premises and deploy solar photovoltaics, where feasible. </p>
-
-<div class="break">
-<p class="break1">"We have identified measures that help our public agencies decarbonise their systems and processes."</p>
-</div>
-
-<div class="involve">
-<h5>Towards Higher Standards of Sustainability in Government Buildings </h5>
-
-<p>Green Mark Platinum SLE requirements for government buildings will lead to marked improvements in energy management, indoor air quality, materials and waste management, greenery provisions and building maintenance. In addition, buildings will achieve at least 60% energy savings, compared to the 2005 building code. </p>
-
-<p>One example of a government building that has met the Green Mark Platinum SLE rating is the BCA Braddell Campus, comprising the Academic Tower, Zero Energy Building (ZEB) Plus building and six other blocks.  </p>
-
-<p>The ZEB Plus building has adopted measures such as a hybrid cooling system and a smart user app to provide user control of ceiling fans and lighting intensity. Ceiling fans operating in combination with air-conditioning enable  ambient temperature settings to be raised from 24°C to 26°C whilst maintaining thermal comfort.</p>
-
-<p>The Academic Tower boasts multiple high energy savings measures, such as a brushless direct current fan coil unit which is low noise and provides up to 70% energy savings. The lush vertical greening and deep corridor shade reduce overall heat gain, further reducing cooling requirements. Task lighting has replaced ceiling lights as the mode of lighting in offices, with the usage of sun pipes for staircase and reception counter lighting in office, while solar PVs generate 23% of its total electricity needs.</p>
-</div>	
-
-<p>Starting from FY2023, all cars procured and registered by public agencies will  be clean energy vehicles with zero tailpipe emissions.</p>
-
-<p>We are concurrently studying and implementing options to import clean electricity and remove carbon emissions. Singapore has started importing 100 megawatts of renewable hydropower from Lao PDR, which is enough to power about 144,000 four-room HDB flats a year. The National Environment Agency has also signed a Memorandum Of Understanding with Keppel Seghers in 2022 to explore the viability of Carbon Capture at our waste-to-energy (WTE) plants.</p>
-
-<p>Even as we try to reduce our emissions and replace fossil fuel with renewable sources, we may have some residual carbon emissions that are hard to abate. We may have to consider the use of carbon credits.</p>
-
-
-<div id="enable">
-<h5>ENABLE</h5>	
-</div>
-<h5>EMBEDDING ENVIRONMENTAL SUSTAINABILITY IN OUR CORE BUSINESS</h5>
-	
-<p>We have started to incorporate sustainability features into our public touchpoints. For example, some of our new public libraries have indoor greenery and sustainably sourced furniture. Existing public libraries also hold sustainability-themed workshops and events regularly. In addition, the public sector engages communities to raise awareness on environmental sustainability issues. </p>
-
-<p>The public sector is also committed to enhancing its procurement policies</p>
-
-<div class="involve">
-<h5>Inspiring a Sustainable Singapore</h5>
-
-<p>The Public Service is well-placed to both enable and excite all parts of our society to be sustainable, especially when we bring together our knowledge and tools as One Public Service.</p>
-
-<p>The Green Action for Communities (GAC) offers a good example of how we can do this. It was launched in April 2022 by the Ministry of Sustainability and the Environment, the Ministry of National Development and the Ministry of Culture, Community and Youth, with support from the People’s Association, Community Development Councils, along with the Green Plan Ministries and agencies.</p>
-	
-<p>The GAC aims to enable and empower citizens to take ground-up actions within their communities to achieve Singapore’s climate and sustainability goals. It also seeks to foster an active, green citizenry, and embed sustainability as a shared responsibility and way of life.</p>
-
-<p>Our public officers share ideas and support with the GAC groups within each constituency, comprising community leaders and sustainability champions in the community. Each GAC group will then create their own community action plan that reﬂects their community's features and their residents' wishes.</p>
-
-<p>Public sector agencies support the GAC groups through district-level capacity building workshops, customised deep dives, and roadshows. To date, 700 GAC group members have been engaged through workshops and deep dives, with more to come</p>
-	
-</div>	
-
-<div class="break">
-<p class="break1">"The public sector is also committed  to enhancing its procurement policies to support Singapore’s transition  
-to a greener economy."</p>
-</div>
-
-<p>to support Singapore’s transition to a greener economy. Apart from mandating minimum resource  efficiency or sustainability standards for selected goods and services, we will be introducing more environmental sustainability considerations into the Government’s tender evaluation process from FY2024. We will start with large construction and Information Communications Technology (ICT) tenders, setting aside up to 5% of the evaluation points for environmental sustainability.</p>
-
-<p>Our digitalisation efforts have also contributed towards our sustainability goals. As more public services go online and accept electronic payment, we reduce the need for members of the public to submit hard copies or for public officers to use printing paper.</p>
-
-<div class="involve2">
-	
-<div id="capacity">
-<h5>Capacity building workshops include GAC group discussions and booths set up by agencies and community partners</h5>
-	
-<table>
-<tbody><tr>
-		<td><img src="/images/Ethos_Images/Ethos_Issue_25/image3.jpg"></td>
-			<td><img src="/images/Ethos_Images/Ethos_Issue_25/image4.jpg"></td>
-		</tr>
-	</tbody></table>
-	
-</div>
-	
-<div id="deep-dives">
-	<h5>Deep dives for GAC groups</h5>
-	<table>
-		<tbody><tr>
-		<td><img src="/images/Ethos_Images/Ethos_Issue_25/image2.jpg"></td>
-			<td><img src="/images/Ethos_Images/Ethos_Issue_25/image1.jpg"></td>
-		</tr>
-	</tbody></table>
-	</div>
-</div>
-	
-<div id="excite">
-<h5>EXCITE</h5>	
-</div>
-<h5>NURTURING A CULTURE OF SUSTAINABILITY IN THE PUBLIC SECTOR</h5>
-	
-<p>At the core of the public sector are our public officers. If we are serious about achieving net zero, we will need to educate and empower public officers, especially colleagues who are in charge of maintaining our buildings or procurement. We have therefore identiﬁed a list of training courses to upskill them. In addition, we organise regular Communities of Practice and invite subject matter experts to share best practices or their experience with public officers. </p>
-
-<p>Of course, culture building goes beyond capability building. It is also about creating a movement and getting people excited. To date, 286 officers have joined the Sustainability Ambassadors Network (SAN). The SAN was created to raise awareness on sustainability topics, bringing together like-minded individuals who are passionate about sustainability to promote collaboration.</p>
-	
-<div class="involve">
-<h5>Involving Public Officers in Sustainability Efforts</h5>
-<p>A total of 1,161 officers participated in the Public Sector Bring-Your-Own (P.S. BYO!) campaign in 2021. The campaign saw officers exploring ways to reduce 
-the use of disposables in their daily habits, such as bringing their tumbler, reusable cutlery and bags for food or grocery runs.</p>
-
-<p>MSE also organised a recycling campaign called “Sustainability Starts with M(s)E” in 2021. Over the course of three months, more than 500 MSE family officers took part in the campaign. A post-campaign survey found that 78% of respondents expressed conﬁdence in recycling, which was a 28% increase from before the campaign.</p>	
-	
-	
-</div>
-	
-	
-
-<p>Through SAN, we hope to encourage more officers to take action for sustainability. For instance, in 2021, we organised a public sector-wide Bring-Your-Own campaign. We wanted to encourage public officers to take small steps to reduce the usage of single-use disposables in their daily habits.</p>
-	
-<p>To provide officers with easy access to GreenGov. SG resources , t h e Public Sector Sustainability Office in MSE has also set up a Resource Portal.2 This one-stop repository consolidates all information and resources related to GreenGov.SG. </p>
-	
-<h5>Looking to the Future</h5>
-<p>Looking ahead, we will issue a report card on the public sector’s sustainability efforts and performance later this year. In addition, all statutory boards will publish annual environmental sustainability disclosures from FY2024. Through public disclosure of our sustainability efforts, progress, and plans, we will communicate to Singaporeans the seriousness of the public sector in meeting our goals and set an example for others to follow.</p>
-	
-<p>Climate change is an existential threat for all of us here in Singapore. As a public service, we can and should take the lead in environmental sustainability. Together with the support of businesses and communities, we can realise a green, liveable and climate-resilient home for all Singaporeans.</p>
-	
 <br>
 
 <cite>
 <p><b>Notes:</b></p>
 <ol class="note">
-<li>This will be contingent on the progress of technologies and international cooperation to enable mitigation measures.</li>
+<li>1. 	See “Unleashing the Power of Civil Society”, January 2023, accessed March 1, 2023, https://civilsocietycommission.org/publication unleashing-the-power-of-civil-society/.</li>
 <li>GreenGov.SG Resource Portal (website), February 15, 2023, https://gccprod.sharepoint. com/sites/MSE-GreenGovSG-MST.</li>
 </ol>
 </cite>
