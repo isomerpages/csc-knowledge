@@ -10,11 +10,12 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jp
 	font-size: 16px;
 	}
 	
-.back a
+.back a:link
 {
 	color: #9f2943;
 	font-weight: bold;
-}
+	}
+
 
 	
 .break
