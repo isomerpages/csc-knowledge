@@ -92,6 +92,16 @@ font-size: 16px;
 
 <p>The ZEB Plus building has adopted measures such as a hybrid cooling system and a smart user app to provide user control of ceiling fans and lighting intensity. Ceiling fans operating in combination with air-conditioning enable  ambient temperature settings to be raised from 24°C to 26°C whilst maintaining thermal comfort.</p>
 
+<p>The Academic Tower boasts multiple high energy savings measures, such as a brushless direct current fan coil unit which is low noise and provides up to 70% energy savings. The lush vertical greening and deep corridor shade reduce overall heat gain, further reducing cooling requirements. Task lighting has replaced ceiling lights as the mode of lighting in offices, with the usage of sun pipes for staircase and reception counter lighting in office, while solar PVs generate 23% of its total electricity needs.</p>
+
+<p>Starting from FY2023, all cars procured and registered by public agencies will  be clean energy vehicles with zero tailpipe emissions.</p>
+
+<p>We are concurrently studying and implementing options to import clean electricity and remove carbon emissions. Singapore has started importing 100 megawatts of renewable hydropower from Lao PDR, which is enough to power about 144,000 four-room HDB flats a year. The National Environment Agency has also signed a Memorandum Of Understanding with Keppel Seghers in 2022 to explore the viability of Carbon Capture at our waste-to-energy (WTE) plants.</p>
+
+<p>Even as we try to reduce our emissions and replace fossil fuel with renewable sources, we may have some residual carbon emissions that are hard to abate. We may have to consider the use of carbon credits.</p>
+
+
+
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_2.jpg">
 
 
