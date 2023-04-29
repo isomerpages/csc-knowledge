@@ -137,8 +137,9 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 <ul>
 <li>Ministry of Finance,  “Occasional Paper on Medium-Term Fiscal Projections”,  February 8, 2023,  accessed February 16, 2023<br><a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf
 </a></li>
+</ul>
 	
 <br><br>
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>
-</div></ul></cite>
+</div></cite>
