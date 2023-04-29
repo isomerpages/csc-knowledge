@@ -42,7 +42,6 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
 </div>
-<br>
 <cite class="author"><p><b>Gabriel Lim</b> is Permanent Secretary of the Ministry of Trade and Industry and also chairs the Public Sector Transformation (PST) movement’s People Committee. The Committee oversees initiatives to strengthen innovation, champion growth and development, deepen the culture of care, and galvanise the workforce to participate in PST. </p></cite>
 <br>
 <p class="subhead"><span>W</span>e are moving into quite a different future. The external environment has changed.</p>
