@@ -144,17 +144,32 @@ to a greener economy."</p>
 
 
 <div id="capacity">
-<h6>Capacity building workshops include GAC group discussions and booths set up by agencies and community partners</h6><h6>
+<h6>Capacity building workshops include GAC group discussions and booths set up by agencies and community partners</h6>
 	
 <table>
 	<tbody>
 		<tr>
 		<td><img src="/images/Ethos_Images/Ethos_Issue_25/image3.jpg"></td>
-			<td><img src="/images/Ethos_Images/Ethos_Issue_25/image2.jpg"></td>
+			<td><img src="/images/Ethos_Images/Ethos_Issue_25/image4.jpg"></td>
 		</tr>
 	</tbody>
 	</table>
-</h6></div>
+
+	
+<div id="deep-dives">
+	<h6>Deep dives for GAC groups</h6>
+	<table>
+	<tbody>
+		<tr>
+		<td><img src="/images/Ethos_Images/Ethos_Issue_25/image2.jpg"></td>
+			<td><img src="/images/Ethos_Images/Ethos_Issue_25/image1.jpg"></td>
+		</tr>
+	</tbody>
+	</table>
+	</div>
+
+	
+	
 
 
 
@@ -348,4 +363,4 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 <br>
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
-</div>
+</div></div>
