@@ -137,6 +137,20 @@ color: #ffffff;
 	
 </div>
 
+<h5>Next Steps in the Digital Journey</h5>
+<p>Moving forward, GovTech will focus on three key areas.</p>
+
+<p>The ﬁrst is digital inclusiveness. We have promoted tech aggressively, but we also  know that not everyone can just pick up new tech tools and run with them; people need to be supported in this transition. Furthermore, we do have diverse individuals—in the public sector as well as in Singapore more broadly—with different needs, including those with visual or physical challenges. How can we make sure our products consider these needs, such as in the way the user interface is designed?</p>
+
+<p>The second area is our use of data—how we should continue taking in more data, unlocking it, and enabling our public officers to get more value out of it.</p>
+
+<p>The third area is to look at learning on-the-go. How do we use digital means to help people ﬁnd the right mentors or career coaches for their needs? How do we push the right learning materials to officers in a timely, personalised way? In these areas, we are working closely with the Public Service Division to create a talent gateway. We are also collaborating with the Civil Service College on a digital academy to help generate some of the curriculum we will need, both to learn, and to learn on-the-go to serving citizens or doing their work better. They do not have to reinvent the wheel.
+</p>
+
+<p>Another example is Workpal, a mobile app that enables a number of HR-related functions, from applying for leave to checking one's salary. For some agencies with their own HR systems, we build connections from their systems to shared platforms such as our Digital Business Cards, so they can scale up these functions quickly. Workpal also has a function for booking co-working spaces—which is a Future Workplace initiative meant to support hybrid work. Public officers need not return to their office every day. Instead, they can use a co-working space near their home and use the Workpal mobile app to book these spaces. Agencies can come on board this platform whenever they are ready.
+</p>
+
+<p>Another approach we are taking has to do with Software as a Service (SaaS). Our Digital Government Blueprint recognises that there is a lot of technology out there that we can already buy as a service, so we do not have to develop it ourselves. Microsoft Teams is a good example of these. Going forward, we are also looking at other SaaS platforms such as Salesforce that could help with customer relationship management (CRM), since many agencies need to touch base with the public. Such systems are the best-in-class globally, so why try to build them ourselves, and at great expense? Instead, we could focus on aspects such as procurement, security, and integration to make these platforms work for the public sector.</p>
 
 
 
