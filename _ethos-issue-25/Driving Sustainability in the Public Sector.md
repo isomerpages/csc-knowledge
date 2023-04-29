@@ -128,8 +128,16 @@ font-size: 16px;
 
 <p>Our public officers share ideas and support with the GAC groups within each constituency, comprising community leaders and sustainability champions in the community. Each GAC group will then create their own community action plan that reﬂects their community's features and their residents' wishes.</p>
 
-<p>Public sector agencies support the GAC groups through district-level capacity building workshops, customised deep dives, and roadshows. To date, 700 GAC group members have been engaged through workshops and deep dives, with more to come.</p>
+<p>Public sector agencies support the GAC groups through district-level capacity building workshops, customised deep dives, and roadshows. To date, 700 GAC group members have been engaged through workshops and deep dives, with more to come</p>
 
+<div class="break">
+<p class="break1">"The public sector is also committed  to enhancing its procurement policies to support Singapore’s transition  
+to a greener economy."</p>
+</div>
+
+<p>to support Singapore’s transition to a greener economy. Apart from mandating minimum resource  efficiency or sustainability standards for selected goods and services, we will be introducing more environmental sustainability considerations into the Government’s tender evaluation process from FY2024. We will start with large construction and Information Communications Technology (ICT) tenders, setting aside up to 5% of the evaluation points for environmental sustainability.</p>
+
+<p>Our digitalisation efforts have also contributed towards our sustainability goals. As more public services go online and accept electronic payment, we reduce the need for members of the public to submit hard copies or for public officers to use printing paper. </p>
 
 
 
