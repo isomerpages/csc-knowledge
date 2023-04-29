@@ -34,7 +34,7 @@ font-weight:bold;
 
 .subhead::first-letter 
 { 
-	initial-letter: 3;    
+	initial-letter: 2;    
 	margin-right: .55em;
 	color: #243e76;
 }	
@@ -107,18 +107,15 @@ background-color:#d66a29;
 }
 	
 </style>
-	
-<div class="author"><p><b>Sir Geoff Mulgan CBE</b> is Professor at University College London, in the Science, Technology, Engineering and Public Policy team. He has had many previous roles including Head of Policy in the Prime Minister’s office and CEO of Nesta. He is the author of many books, including most recently Another World Is Possible: How to Reignite Political and Social Imagination (Hurst/Oxford University Press, 2022). His new book on art and social change—Prophets at a Tangent—is published in early 2023, with others in the pipeline: on science and politics, and the future of social science.. </p>
-</div>
 
-
-<br>
 <div id="banner">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg">
 </div>
-
-
 <br>
+<cite class="author"><p><b>Sir Geoff Mulgan CBE</b> is Professor at University College London, in the Science, Technology, Engineering and Public Policy team. He has had many previous roles including Head of Policy in the Prime Minister’s office and CEO of Nesta. He is the author of many books, including most recently Another World Is Possible: How to Reignite Political and Social Imagination (Hurst/Oxford University Press, 2022). His new book on art and social change—Prophets at a Tangent—is published in early 2023, with others in the pipeline: on science and politics, and the future of social science.</p></cite>
+
+
+
 
 <p class="subhead"><span>T</span>here is much debate globally about how the accumulation of crises—economic, ecological, political and around energy—now amount to a polycrisis. Whether or not they are as connected as some believe, there is no doubting the pressure they are putting on public services across the world. Governments generally responded well to the COVID-19 pandemic, showing great agility. But one legacy of the pandemic is fiscal overstretch—and sharp constraints on resources which make it even harder to respond to the new crises. Meanwhile geopolitical pressures are pushing up spending on defence, which means even less resources available for other purposes.</p>
 
