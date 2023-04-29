@@ -152,6 +152,13 @@ color: #ffffff;
 
 <p>Another approach we are taking has to do with Software as a Service (SaaS). Our Digital Government Blueprint recognises that there is a lot of technology out there that we can already buy as a service, so we do not have to develop it ourselves. Microsoft Teams is a good example of these. Going forward, we are also looking at other SaaS platforms such as Salesforce that could help with customer relationship management (CRM), since many agencies need to touch base with the public. Such systems are the best-in-class globally, so why try to build them ourselves, and at great expense? Instead, we could focus on aspects such as procurement, security, and integration to make these platforms work for the public sector.</p>
 
+<p>Recently we rolled out an App Library, which carries many common tools that have been reviewed to ensure they are compliant with our licensing, security, and other needs. Again, by democratising some of these apps, we are encouraging agencies to see what their counterparts are doing with tech, and to adopt some of these ideas and solutions to benefit their own workplaces.</p>
+
+<p>A third approach we are taking is co-developing new solutions with the industry. This also helps optimise our scarce public sector resources—we work with others to build things we may not be able to build ourselves. This stems from our experience in working with key industry players on our Government on Commercial Cloud, including firms like Amazon, Microsoft, and Google. Last year, we ran some industry workshops to publicise some of our key initiatives and invited various players to co-develop solutions with us, to benefit public officers as well as citizens and businesses.</p>
+
+<p>Most importantly, the future workplace is not just about using technologies. Its purpose is to help our officers become more productive and more engaged in their mission, instead of spending time jumping through hoops or dealing with red tape and other unnecessary processes. This is also about retaining people by keeping them engaged with the work they do and creating value for our country and fellow citizens.</p>
+
+
 
 
 
