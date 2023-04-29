@@ -248,7 +248,8 @@ the use of disposables in their daily habits, such as bringing their tumbler, re
 <cite>
 <p><b>Notes:</b></p>
 <ol class="note">
-<li>Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity.</li>
+<li>This will be contingent on the progress of technologies and international cooperation to enable mitigation measures.</li>
+<li>GreenGov.SG Resource Portal (website), February 15, 2023, https://gccprod.sharepoint. com/sites/MSE-GreenGovSG-MST.</li>
 </ol>
 </cite>
 
