@@ -185,6 +185,13 @@ to a greener economy."</p>
 
 <p>Of course, culture building goes beyond capability building. It is also about creating a movement and getting people excited. To date, 286 officers have joined the Sustainability Ambassadors Network (SAN). The SAN was created to raise awareness on sustainability topics, bringing together like-minded individuals who are passionate about sustainability to promote collaboration.</p>
 
+<p>Through SAN, we hope to encourage more officers to take action for sustainability. For instance, in 2021, we organised a public sector-wide Bring-Your-Own campaign. We wanted to encourage public officers to take small steps to reduce the usage of single-use disposables in their daily habits.</p>
+	
+<p>To provide officers with easy access to GreenGov. SG resources , t h e Public Sector Sustainability Office in MSE has also set up a Resource Portal.2 This one-stop repository consolidates all information and resources related to GreenGov.SG. </p>
+	
+<h5>Looking to the Future</h5>
+<p>Looking ahead, we will issue a report card on the public sector’s sustainability efforts and performance later this year. In addition, all statutory boards will publish annual environmental s u s t a i n a b i l i t y d i s c l o s u re s f rom FY2024. Through public disclosure of our sustainability efforts, progress, and plans, we will communicate to Singaporeans the seriousness of the public sector in meeting our goals and set an example for others to follow</p>
+	
 	
 	
 
