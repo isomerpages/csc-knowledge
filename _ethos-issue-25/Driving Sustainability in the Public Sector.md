@@ -90,7 +90,7 @@ font-size: 16px;
 
 <p>One example of a government building that has met the Green Mark Platinum SLE rating is the BCA Braddell Campus, comprising the Academic Tower, Zero Energy Building (ZEB) Plus building and six other blocks.  </p>
 
-<p>The ZEB Plus building has adopted measures such as a hybrid cooling system and a smart user app to provide user control of ceiling fans and lighting intensity. Ceiling fans operating in combination with air-conditioning enable  ambient temperature settings to be raised from 24°C to 26°C whilst maintaining thermal comfort. </p>
+<p>The ZEB Plus building has adopted measures such as a hybrid cooling system and a smart user app to provide user control of ceiling fans and lighting intensity. Ceiling fans operating in combination with air-conditioning enable  ambient temperature settings to be raised from 24°C to 26°C whilst maintaining thermal comfort.</p>
 
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_2.jpg">
 
