@@ -6,11 +6,7 @@ image: /images/Ethos_Images/Ethos_Issue_23/Editorial_02.jpg
 ---
 <style>
 
-header
-{
 
-	
-}
 	
 .back a
 {
@@ -49,4 +45,3 @@ The rapid conﬂuence of these disruptive megatrends have left governments  with
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
 </div>
-	
