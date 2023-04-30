@@ -201,13 +201,20 @@ ol li
 font-size: 16px;	
 }	
 	
+.author
+{
+font-style: italic;	
+font-size: 15px;
+}	
+	
 	
 </style>
 
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg">
 </div>
-<cite class="author"><p><b>Eileen Wong</b> is Principal Consultant at the Institute of Leadership and Organisation Development, Civil Service College. She leads the ILOD Transformation Team to provide consultancy services to help agencies and senior leaders build and transform their organisations to thrive. Her consultancy scope includes organisation transformation and change, organisation development, leadership team development, employee engagement and hybrid work design. </p></cite>
+
+<div class="author"><p><b>Eileen Wong</b> is Principal Consultant at the Institute of Leadership and Organisation Development, Civil Service College. She leads the ILOD Transformation Team to provide consultancy services to help agencies and senior leaders build and transform their organisations to thrive. Her consultancy scope includes organisation transformation and change, organisation development, leadership team development, employee engagement and hybrid work design. </p></div>
 
 <br>
 <p class="subhead"><span>A</span>ll organisations and teams face    challenges in prioritisation. This is because workload gain, like weight gain, is insidious. It creeps up on us and is hard to get rid of. We rarely seek to add on more of it, but often ﬁnd ourselves inundated nevertheless.</p>
@@ -407,12 +414,12 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 
 <br>
 
-<cite>
+<div class="notes">
 <p><b>Notes:</b></p>
 <ol class="note">
 <li>Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity.</li>
 </ol>
-</cite>
+</div>
 
 
 
