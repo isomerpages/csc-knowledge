@@ -60,15 +60,29 @@ margin-top:20px;
 color: #1C8A6F
 }	
 	
+.author
+{
+font-style: italic;	
+font-size: 15px;
+}	
+	
+.notestop
+{
+font-style: italic;	
+font-size: 15px;
+margin-top:20px;
+}
+	
 
 </style>
 
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_CatherineFieschi.jpg">
 </div>
-<cite>
+
+<div class="author">
 <p><b>Catherine Fieschi</b>is the Founder and Executive Director of Counterpoint Global, the London-based research and advisory group, and a Visiting Fellow at Singapore’s Civil Service College. Through her focus on contemporary forms of mobilisation, Catherine assesses new forms of risk and their effects on global markets and politics and advises business and political leaders around the world. As a political scientist, Catherine believes that rigorous social and cultural analyses can help leaders make better decisions, in both the public and private sectors.</p>
-</cite>
+</div>
 
 	
 
@@ -145,17 +159,12 @@ color: #1C8A6F
 <br>
 <br>
 
-<cite>
+<div class="notestop">
 <p><b>Note:</b></p>
 <ol class="note">
 <li>See: MASS LBP, https://www.masslbp.com/.</li>
 </ol>
-</cite>
-
-<br>
-<br>
-
-
+</div>
 
 
 <br>
