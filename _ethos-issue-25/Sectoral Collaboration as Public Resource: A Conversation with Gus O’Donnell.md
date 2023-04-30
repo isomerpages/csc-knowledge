@@ -100,8 +100,10 @@ margin:20px;
 }	
 </style>
 
-
+<div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg">
+</div>
+
 <cite class="author"><p><b>Lord Augustine O’Donnell</b> is Senior Visiting Fellow at the Civil Service College. He has been non-Executive Chairman of Frontier (Europe) since October 2013. After joining the Treasury in 1979, he held various positions at the British Embassy in Washington, the International Monetary Fund and the World Bank. From 2002 to 2005, he was Permanent Secretary at the Treasury and in 2005 became Cabinet Secretary and Head of Civil Service. He held this position until 2011, serving three Prime Ministers. Lord Gus studied economics at the University of Warwick and holds an MPhil in Economics from Nuffield College, Oxford. He lectured in Economics at the University of Glasgow.</p></cite>
 	
 	
