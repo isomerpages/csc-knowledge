@@ -38,31 +38,25 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	
 #excel h5
 {
-	background-color: #329348;
-	padding:10px;
-	color: white;
-	width: 120px;
-	border-radius:10px;
+	border-bottom: 2px solid #329348;
+	font-size: 25px;
+	color: #329348;
 	margin-top: 50px;
 }
 
 #enable h5
 {
-	background-color: #329348;
-	padding:10px;
-	color: white;
-	width: 140px;
-	border-radius:10px;
+ border-bottom: 2px solid #329348;
+	font-size: 25px;
+	color: #329348;
 	margin-top: 50px;
 }
 
 #excite h5
 {
-	background-color: #329348;
-	padding:10px;
-	color: white;
-	width: 120px;
-	border-radius:10px;
+	border-bottom: 2px solid #329348;
+	font-size: 25px;
+	color: #329348;
 	margin-top: 50px;
 }	
 	
