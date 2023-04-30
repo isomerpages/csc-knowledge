@@ -261,7 +261,7 @@ is a tough challenge. Traditionally, we understand economics in terms of consump
 
 <p><b><span class="author3">Aruna Devi Narain</span></b> is Judge, Supreme Court of the Republic of Mauritius, and former Vice Chairperson and Rapporteur of the  UN Committee on the Elimination of  Discrimination against Women (CEDAW Committee).</p>
 </div>
-
+<br>
 <br>
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
