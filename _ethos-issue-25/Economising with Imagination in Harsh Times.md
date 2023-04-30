@@ -293,9 +293,7 @@ Finally, there are often options for joining up the work of government in creati
 
 
 <div class="notestop">
-<h6>Notes:</h6>
-
-
+<h6>NOTES:</h6>
 <ol>
 	<li>Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisis: How Governments Used Intelligence for Decision Making During the COVID-19 Pandemic”, International Public Policy Observatory, December 2022, accessed February 15, 2023, theippo.co.uk/how-governments-used-intelligence-decision-making-covid19-pandemic</li>
 	
