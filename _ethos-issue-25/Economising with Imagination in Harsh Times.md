@@ -216,7 +216,7 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 
 <p>Sometimes it is best to start off by helping people to become familiar with the approach by taking a live example—such as rural bus services, libraries or nursery education—and showing the options under each heading. Then some shared grounding in current data (e.g., costs, unit costs, etc.) can be brought in to help sharpen the discussion, and lead to more speciﬁc proposals. </p>
 
-<img src="images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_4.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_4.jpg">
 
 <h3>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h3>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
