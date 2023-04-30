@@ -81,8 +81,11 @@ font-size: 15px;
 .author
 {
 font-style: italic;	
-font-size: 15px;
-}	
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+}
 	
 .notestop
 {
@@ -98,7 +101,7 @@ margin-top:20px;
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg">
 </div>
 
-<div class="author"><p><b> Mara Airoldi</b> is the inaugural Academic Director of the Government Outcomes Lab at the Blavatnik School of Government. She is an Economist and Decision Analyst by background and holds degrees from Bocconi University in Milan and the London School of Economics and Political Science. Her research is motivated by a desire to improve decision making in government, with a special interest and extensive expertise in the field of healthcare.</p> </div>
+
 	
 	
 <h3>Introduction</h3>
@@ -269,6 +272,11 @@ been satisfactory."</p>
 
 
 <br>
+
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>	
+<p><b> Mara Airoldi</b> is the inaugural Academic Director of the Government Outcomes Lab at the Blavatnik School of Government. She is an Economist and Decision Analyst by background and holds degrees from Bocconi University in Milan and the London School of Economics and Political Science. Her research is motivated by a desire to improve decision making in government, with a special interest and extensive expertise in the field of healthcare.</p> 
+</div>
 
 <div class="notestop">
 <p><b>Note:</b></p>
