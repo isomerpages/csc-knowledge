@@ -229,7 +229,7 @@ margin-top:20px;
 
 <p>Paradoxically, what we need instead is to spend time and energy deciding what we will do and what we will not do. </p>
 
-<h5>What Prioritisation Is: Focusing on the  Big Small Things </h5>
+<h3>What Prioritisation Is: Focusing on the  Big Small Things </h3>
 
 <p>Prioritisation happens daily, but this is not always tangible to us. The results of how well we prioritise show up as a lagging indicator. Every day, we make choices and incur trade-offs in how we spend our time, energy, and talents, which then also affects others in turn. What can help is to spend our limited time, energy, and talents on the big small things, i.e., the small actions that scale up to a big impact and results.</p>
 
@@ -387,13 +387,13 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 	
 </div>
 
-<h5>Scaling Made Versatile and Adaptable</h5>
+<h3>Scaling Made Versatile and Adaptable</h3>
 
 <p>The S.C.A.L.E. Framework is versatile. It can be used as a full framework to cover all ﬁve dimensions. Each dimension can also be used separately in deep dive discussions to surface issues and big small things for improvement.</p>
 
 <p>The S.C.A.L.E. Framework is also  adaptable. We have used the S.C.A.L.E. Framework and assessment tool in a bespoke workshop designed for a Ministry's senior leadership team. In their discussions, they applied the framework to assess the state of prioritisation at the whole organisation level—for diverse functions as well as at the cluster or divisional level for intact teams.</p>
 
-<h5>Scaling Made Versatile and Adaptable</h5>
+<h3>Scaling Made Versatile and Adaptable</h3>
 
 <p>Many of the examples from our consultancy experiences are small actions that build up into signiﬁcant impact and results.</p>
 
