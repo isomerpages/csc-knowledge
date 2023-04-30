@@ -5,17 +5,7 @@ description: ""
 image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jpg
 ---
 <style>
-	ol li
-	{
-	font-size: 16px;
-	}
-	
-	ul li
-	{
-	font-size: 16px;
-	}
-	
-	
+
 	
 .back a:link
 {
