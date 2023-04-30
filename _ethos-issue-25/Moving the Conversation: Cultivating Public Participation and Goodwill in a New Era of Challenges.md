@@ -141,11 +141,19 @@ color: #1C8A6F
 
 <p>This is why public deliberation and public stewardship are vital as we face our new world.</p> 
 
-
-
-
-
 <br>
+<br>
+<br>
+
+<cite>
+<p><b>Note:</b></p>
+<ol class="note">
+<li>See: MASS LBP, https://www.masslbp.com/.</li>
+</ol>
+</cite>
+
+
+
 
 
 <br>
