@@ -69,12 +69,30 @@ color: #F68A20;
 {
 color: #F05050;
 font-weight:bold;
-font-size:20px
+font-size:20px;
 }
 	
 .author3-3
 {
+font-weight:bold;
+font-size:20px;
 color: #645ea9;
+}	
+	
+.narain
+{
+	background-color: #645ea9;
+ padding:30px;
+	color:white;
+	text-align:center;
+	margin-top:25px;
+	font-weight:bold;
+}
+	
+.narain1
+{
+	font-family: "montserrat";	
+	font-size:25px;
 }	
 	
 	
@@ -103,9 +121,12 @@ color: #645ea9;
 
 <p>Politically, the challenge then is that when you are in power, you must respond to immediate demands, even if it may compromise sustainability in the long run.</p>
 
-<p><span class="author3-3">CHOWDHOURY:</span> The foremost challenge is public trust and reliance. In the face of so many constraints in terms of resources and new pressures, the people need to trust the public sector to deliver and be able to rely on the public sector to ensure that their rights and services are secure, that their daily needs will be met.</p>
+<p><span class="author3-3">NARAIN:</span> Indeed, the challenge for the 
+public sector is not only to deliver in the short term, but also in a sustainable manner. We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations. We cannot act only for the current political mandate; we have to be able to feed people not only today, but also for generations to come.</p>
 
-<p>Politically, the challenge then is that when you are in power, you must respond to immediate demands, even if it may compromise sustainability in the long run.</p>
+<div class="narain">
+<p class="narain1">"We cannot deliver public goods in a manner that would exhaust everything, leaving nothing for future generations"</p>
+</div>
 
 
 
