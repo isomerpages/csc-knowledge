@@ -36,7 +36,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	font-size:25px;
 }
 	
-#excel h5
+#excel h3
 {
 	border-bottom: 2px solid #329348;
 	font-size: 25px;
@@ -44,7 +44,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	margin-top: 50px;
 }
 
-#enable h5
+#enable h3
 {
  border-bottom: 2px solid #329348;
 	font-size: 25px;
@@ -52,7 +52,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	margin-top: 50px;
 }
 
-#excite h5
+#excite h3
 {
 	border-bottom: 2px solid #329348;
 	font-size: 25px;
@@ -133,9 +133,9 @@ margin-top:20px;
 <p>Under GreenGov.SG, the public sector has committed to several targets, including achieving net zero emissions around 2045, about five years ahead of the national target. Executing the net zero transition will not be easy for Singapore, given our physical constraints and lack of renewable energy resources. So how are we going to achieve these targets?</p>
 
 <div id="excel">
-<h5>EXCEL</h5>	
+<h3>EXCEL</h3>	
 </div>
-<h5>REALISING A NET ZERO PUBLIC SECTOR</h5>
+<h4>REALISING A NET ZERO PUBLIC SECTOR</h4>
 	
 <p>We are strengthening the leadership focus on sustainability through the appointment of Ministry-level Chief Sustainability Officers (CSOs) to oversee sustainability matters across Ministry families. As the ﬁrst Government Chief Sustainability Officer (GCSO), I will also be working closely with the Ministry CSOs to develop and coordinate strategies to achieve the public sector’s net zero agenda.</p>
 
@@ -165,9 +165,9 @@ margin-top:20px;
 
 
 <div id="enable">
-<h5>ENABLE</h5>	
+<h3>ENABLE</h3>	
 </div>
-<h5>EMBEDDING ENVIRONMENTAL SUSTAINABILITY IN OUR CORE BUSINESS</h5>
+<h4>EMBEDDING ENVIRONMENTAL SUSTAINABILITY IN OUR CORE BUSINESS</h4>
 	
 <p>We have started to incorporate sustainability features into our public touchpoints. For example, some of our new public libraries have indoor greenery and sustainably sourced furniture. Existing public libraries also hold sustainability-themed workshops and events regularly. In addition, the public sector engages communities to raise awareness on environmental sustainability issues. </p>
 
@@ -223,9 +223,9 @@ to a greener economy."</p>
 </div>
 	
 <div id="excite">
-<h5>EXCITE</h5>	
+<h3>EXCITE</h3>	
 </div>
-<h5>NURTURING A CULTURE OF SUSTAINABILITY IN THE PUBLIC SECTOR</h5>
+<h4>NURTURING A CULTURE OF SUSTAINABILITY IN THE PUBLIC SECTOR</h4>
 	
 <p>At the core of the public sector are our public officers. If we are serious about achieving net zero, we will need to educate and empower public officers, especially colleagues who are in charge of maintaining our buildings or procurement. We have therefore identiﬁed a list of training courses to upskill them. In addition, we organise regular Communities of Practice and invite subject matter experts to share best practices or their experience with public officers. </p>
 
@@ -247,7 +247,7 @@ the use of disposables in their daily habits, such as bringing their tumbler, re
 	
 <p>To provide officers with easy access to GreenGov. SG resources , t h e Public Sector Sustainability Office in MSE has also set up a Resource Portal.2 This one-stop repository consolidates all information and resources related to GreenGov.SG. </p>
 	
-<h5>Looking to the Future</h5>
+<h4>Looking to the Future</h4>
 <p>Looking ahead, we will issue a report card on the public sector’s sustainability efforts and performance later this year. In addition, all statutory boards will publish annual environmental sustainability disclosures from FY2024. Through public disclosure of our sustainability efforts, progress, and plans, we will communicate to Singaporeans the seriousness of the public sector in meeting our goals and set an example for others to follow.</p>
 	
 <p>Climate change is an existential threat for all of us here in Singapore. As a public service, we can and should take the lead in environmental sustainability. Together with the support of businesses and communities, we can realise a green, liveable and climate-resilient home for all Singaporeans.</p>
