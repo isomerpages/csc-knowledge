@@ -80,20 +80,11 @@ font-size: 15px;
 	
 .author
 {
-font-style: italic;	
 border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
 }
-	
-.notestop
-{
-font-style: italic;	
-font-size: 15px;
-margin-top:20px;
-}	
-	
 
 </style>
 
@@ -277,9 +268,9 @@ been satisfactory."</p>
 <h6>ABOUT THE AUTHOR</h6>	
 <p><b> Mara Airoldi</b> is the inaugural Academic Director of the Government Outcomes Lab at the Blavatnik School of Government. She is an Economist and Decision Analyst by background and holds degrees from Bocconi University in Milan and the London School of Economics and Political Science. Her research is motivated by a desire to improve decision making in government, with a special interest and extensive expertise in the field of healthcare.</p> 
 </div>
-
+<br>
 <div class="notestop">
-<p><b>Note:</b></p>
+<p><b>NOTES:</b></p>
 <ol class="note">
 <li>Government Outcomes Lab, accessed February 23, 2023, https://golab.bsg.ox.ac.uk/ </li>
 </ol>
