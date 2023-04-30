@@ -55,7 +55,7 @@ color: #645ea9;
 margin-top:20px;
 }
 
-.wake h5
+.wake h3
 {
 color: #1C8A6F
 }	
