@@ -77,20 +77,34 @@ ol li
 font-size: 15px;	
 }
 	
+.author1 
+{
+color: #F68A20;
+}
+
+.author2
+{
+color: #F05050;
+}
+	
+.author3 
+{
+color: #645ea9;
+}
 
 </style>
 
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury,%20Narain.jpg">
 </div>
-<cite class="author">
-<p><b>Samheng Bora</b> is Undersecretary of State, Ministry of Commerce, Cambodia.</p>
+<cite>
+<p><b><span class="author1">Samheng Bora</span></b> is Undersecretary of State, Ministry of Commerce, Cambodia.</p>
 </cite>
-<cite class="author">
-<p><b>Mohibul Hasan Chowdhoury</b> is Deputy Minister of Education, Ministry of Education, People’s Republic of Bangladesh. </p>
+<cite>
+<p><b><span class="author2">Mohibul Hasan Chowdhoury</span></b> is Deputy Minister of Education, Ministry of Education, People’s Republic of Bangladesh. </p>
 </cite>
-<cite class="author">
-<p><b>Aruna Devi Narain</b> is Judge, Supreme Court of the Republic of Mauritius, and former Vice Chairperson and Rapporteur of the  UN Committee on the Elimination of  Discrimination against Women (CEDAW Committee).</p>
+<cite>
+<p><b><span class="author3">Aruna Devi Narain</span></b> is Judge, Supreme Court of the Republic of Mauritius, and former Vice Chairperson and Rapporteur of the  UN Committee on the Elimination of  Discrimination against Women (CEDAW Committee).</p>
 </cite>
 
 	
