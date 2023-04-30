@@ -140,15 +140,12 @@ color: #645ea9;
 	font-size:25px;
 }	
 
-	
-
-	
-
 </style>
 
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury,%20Narain.jpg">
 </div>
+
 <div class="author">
 <p><b><span class="author1">Samheng Bora</span></b> is Undersecretary of State, Ministry of Commerce, Cambodia.</p>
 </div>
@@ -160,7 +157,7 @@ color: #645ea9;
 </div>
 	
 <div class="wake">
-<h5>In the wake of COVID-19, geopolitical conflict, economic volatility and climate concerns, what in your view are the most pressing challenges facing the public sector today?</h5>
+<h3>In the wake of COVID-19, geopolitical conflict, economic volatility and climate concerns, what in your view are the most pressing challenges facing the public sector today?</h3>
 </div>	
 
 <p><span class="author2-2">CHOWDHOURY:</span> The foremost challenge is public trust and reliance. In the face of so many constraints in terms of resources and new pressures, the people need to trust the public sector to deliver and be able to rely on the public sector to ensure that their rights and services are secure, that their daily needs will be met.</p>
@@ -183,8 +180,8 @@ public sector is not only to deliver in the short term, but also in a sustainabl
 <p>So as much as we should consider a certain degree of self-reliance, we also need to accept and carefully manage the risks of trade. When it comes to multilateral trade, we see that relationships can change, and then where do you go? You need to have several options open, rather than be reliant on only one source, say of your energy or food supply.</p>
 
 <div class="wake">
-<h5>What lessons have you drawn from the COVID-19 pandemic on supporting 
-innovation and growth while promoting the prudent use of limited resources?</h5>
+<h3>What lessons have you drawn from the COVID-19 pandemic on supporting 
+innovation and growth while promoting the prudent use of limited resources?</h3>
 </div>	
 
 <p><span class="author3-3">NARAIN:</span> The COVID pandemic opened our eyes, but sadly it seems we may have closed them again. During the pandemic, everyone was encouraged to plant vegetables at home, which was a good thing. But once things returned to normal, we stopped doing it and we went back to consuming imported food. The same applies to wo r k i n g f rom home, which reduced pollution and use of petrol. It would have been good to integrate these pra c tices into our development processes and daily habits, to help our people make better use of resources.</p>
@@ -232,9 +229,9 @@ innovation and growth while promoting the prudent use of limited resources?</h5>
 
 
 <div class="wake">
-<h5>From your time at the Leaders in Governance Programme (LGP), is there 
+<h3>From your time at the Leaders in Governance Programme (LGP), is there 
 anything else that you have observed to be useful or interesting? What would you 
-like your counterparts in the Singapore public sector to consider for the future?</h5>
+like your counterparts in the Singapore public sector to consider for the future?</h3>
 </div>	
 
 <p><span class="author1-1">BORA:</span>The leaders we met in our time in Singapore were all very personable—there seems to be a shift in leadership style and approach to policymaking away from the top-down mentality, and it bodes well for the future.</p>
