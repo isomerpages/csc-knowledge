@@ -66,7 +66,11 @@ color: #f1bd72;
 font-weight: bold;
 font-size: 20px;
 }
-
+	
+#indigo a:link
+{
+color: white;
+}
 	
 
 </style>
@@ -223,8 +227,7 @@ been satisfactory."</p>
 	
 <p>INDIGO seeks to digitise and make accessible all empirical evidence on outcome-based contracts, as well as papers, reports and evaluations that provide credible empirical insights on how the outcome-based approach works. The aim is to bring evidence to bear in public sector decision-making, as well as to capture and promote institutional learning about this approach globally.</p>	
 
-<p>For more information, see:
-<b>https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/</b></p>	
+<p>For more information, see: <a href="https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/"><b>https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/</b></a></p>	
 	
 </div>
 
