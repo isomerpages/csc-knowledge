@@ -154,6 +154,16 @@ innovation and growth while promoting the prudent use of limited resources?</h5>
 
 <p>In the past, we had the infrastructure to do this, but not the mindset to adopt these methods. Now we are developing a blended education policy to formalise some of these approaches. They will help us bridge the last mile in education—I cannot send specialised teachers to every village in the outskirts, but I can provide these audio-visual resources, with local teachers as a guide, and still improve learning outcomes for more students.</p>
 
+<p><span class="author1-1">BORA:</span> The pandemic was a wake- up call for Cambodia. Our thriving garment export industry, which we relied on economically, dried up when the global value chain was disrupted. At the same time, the agricultural sector blossomed. We realised not only did we need domestic produce to feed our people, but that we had the entire food chain and nutrient mix within our own country.</p>
+
+
+
+
+
+
+
+
+
 
 
 
