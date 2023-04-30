@@ -190,7 +190,7 @@ border-top: 1px solid black;
 
 
 <div class="notestop">
-<h6>NOTES</h6>
+<h6>NOTES:</h6>
 <ol>
 <li>See: “Digital Government Blueprint”, accessed January 6, 2023, https://www.tech.gov.sg/digital-government-blueprint/.</li>
 <li>For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, https://www. developer.tech.gov.sg/singapore-government-tech-stack/.</li>
