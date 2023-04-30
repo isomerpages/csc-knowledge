@@ -64,10 +64,6 @@ font-weight:bold;
 	color: #1cb0a1;
 }	
 	
-ol li
-{
-font-size: 16px;	
-}	
 	
 .numbers
 {
