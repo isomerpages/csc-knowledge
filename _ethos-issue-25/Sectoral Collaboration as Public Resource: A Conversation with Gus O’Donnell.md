@@ -97,12 +97,14 @@ margin:20px;
 	color: #06945d;
 }	
 	
-	
 .author
 {
 font-style: italic;	
-font-size: 15px;
-}	
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+}
 	
 .notestop
 {
@@ -115,8 +117,7 @@ margin-top:20px;
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg">
 </div>
-<div class="author"><p><b>Lord Augustine O’Donnell</b> is Senior Visiting Fellow at the Civil Service College. He has been non-Executive Chairman of Frontier (Europe) since October 2013. After joining the Treasury in 1979, he held various positions at the British Embassy in Washington, the International Monetary Fund and the World Bank. From 2002 to 2005, he was Permanent Secretary at the Treasury and in 2005 became Cabinet Secretary and Head of Civil Service. He held this position until 2011, serving three Prime Ministers. Lord Gus studied economics at the University of Warwick and holds an MPhil in Economics from Nuffield College, Oxford. He lectured in Economics at the University of Glasgow.</p></div>
-	
+
 	
 <h3>Why is public resourcing going to be an important concern for governments in future?</h3>
 
@@ -215,6 +216,10 @@ together, you might come up with new and very different answers which have every
 <p>This could ﬁt in with my idea of spending some time in different sectors, doing different things, and coming back as someone who understands the interaction between sectors. Indeed, we are already starting to see innovation being the consequence of being multidisciplinary, from economics to psychology and so on, in ways which will be crucial to the public sector. The point is also about trying to see people’s activities as things that bring them increases in wellbeing, as opposed to just work. </p>
 
 <br>
+
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>	
+<p><b>Lord Augustine O’Donnell</b> is Senior Visiting Fellow at the Civil Service College. He has been non-Executive Chairman of Frontier (Europe) since October 2013. After joining the Treasury in 1979, he held various positions at the British Embassy in Washington, the International Monetary Fund and the World Bank. From 2002 to 2005, he was Permanent Secretary at the Treasury and in 2005 became Cabinet Secretary and Head of Civil Service. He held this position until 2011, serving three Prime Ministers. Lord Gus studied economics at the University of Warwick and holds an MPhil in Economics from Nuffield College, Oxford. He lectured in Economics at the University of Glasgow.</p></div>
 
 <div class="notestop">
 <p><b>Notes:</b></p>
