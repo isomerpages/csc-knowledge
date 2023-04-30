@@ -52,7 +52,7 @@ margin-top: 30px;
 color: #ffffff;
 }	
 	
-#public-sector h5
+#public-sector h4
 {
 color: #3DB984;	
 }
