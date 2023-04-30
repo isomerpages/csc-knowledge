@@ -16,7 +16,9 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 .author
 {
 font-style: italic;	
-font-size: 12px;
+border-top: 1px solid black;
+padding-top:20px;
+margin-top:40px;
 }
 
 	
@@ -49,8 +51,6 @@ font-size: 12px;
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
 </div>
 
-<div class="author"><p><b>Gabriel Lim</b> is Permanent Secretary of the Ministry of Trade and Industry and also chairs the Public Sector Transformation (PST) movement’s People Committee. The Committee oversees initiatives to strengthen innovation, champion growth and development, deepen the culture of care, and galvanise the workforce to participate in PST.</p>
-</div>
 
 
 <p class="subhead"><span>W</span>e are moving into quite a different future. The external environment has changed. Domestically, we have a mature population with new needs but also more questions about how things are done. At the same time, we know we need to use resources more sustainably. </p>
@@ -157,7 +157,11 @@ more focused and effective, but also one in which officers have a deeper sense o
 <p>These are not easy outcomes to achieve, but if we can move in these directions, we will be doing well. If we are able to corral together efforts from across the Service, as part of a broader movement with everyone feeling a sense of empowerment, we can make a decisive difference.</p>
 
 
+<div class="author"><p><b>Gabriel Lim</b> is Permanent Secretary of the Ministry of Trade and Industry and also chairs the Public Sector Transformation (PST) movement’s People Committee. The Committee oversees initiatives to strengthen innovation, champion growth and development, deepen the culture of care, and galvanise the workforce to participate in PST.</p>
+</div>
 
+<br>
+<br>
 <br>
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
