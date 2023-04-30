@@ -113,16 +113,24 @@ margin:20px;
 <cite class="author"><p><b> Mara Airoldi</b> is the inaugural Academic Director of the Government Outcomes Lab at the Blavatnik School of Government. She is an Economist and Decision Analyst by background and holds degrees from Bocconi University in Milan and the London School of Economics and Political Science. Her research is motivated by a desire to improve decision making in government, with a special interest and extensive expertise in the field of healthcare.</p> </cite>
 	
 	
-<h5>Why is public resourcing going to be an important concern for governments in future?</h5>
+<h5>Introduction</h5>
 
-<p>The next decade will be dominated by three trends—what fellow economist Mark Carney and I have framed as the 3 Ds—Digitisation, Decarbonisation and Deglobalisation. These will require us to think differently about what we do, but it is clear this will be a future in which government will be required to do more.</p>
+<p>The Government Outcomes Lab is a research programme based at Oxford’s Blavatnik School of Government.1 It started in 2016 as a partnership between the UK Government and the University of Oxford, to look at ways to tackle complex social and environmental issues by working collaboratively across sectors. In today’s hybrid environment, public services are no longer just delivered by the public sector. Instead, we now see a multiplicity of actors, including the private sector, impact investors, non-profit organisations, voluntary groups and social enterprises. This is enriching, but also challenging: how do you bring them together to work effectively towards shared goals?</p>
 
 
-<p>For instance, in the coming decade, we are going to see countries spending a lot more on defence, as the world is becoming more insecure. Private sector delivery of goods and services has also become more data-based and efficient, raising people’s expectations of service delivery in general.</p>
+<p>When the GO Lab was set up, the UK Government was about to launch a very large programme called the Life  Chances Fund. This was aimed at exploring how a particular instrument—social impact bonds—could contribute to the portfolio of what government was doing. At the time, the evidence about the effectiveness of such instruments was still very weak. Since then, we have been working alongside government to investigate this, gathering evidence from all over the world on these instruments and how they work.</p>
 
 <p>This means the government’s share of GDP is expected to rise. In the private sector, you’re paying for these better services. But in the public sector, there’s a limit to how much you can meet these higher expectations purely through tax-based public funding. In countries like the UK, for instance, it’s taboo to even think about market pricing for healthcare services because of perceived inequalities in affordability.</p>
 
 <p>So, increasing demands on the public sector are not going to go away, but there is a limit to how much public funds we can raise through taxation. The question is how we are going to manage both the demand for and supply of government services. We will have to get much more efficient in what we do and ﬁnd better ways of doing the same things, because we cannot just keep throwing money at problems.</p>
+
+
+<p>In the beginning, the government wanted to know if social impact bonds "work".  Over time, we unpacked this question—a social impact bond may or may not work, in the same way a simple grant may or may not work. So the question is more about the circumstances under which instruments like social impact bonds are more likely to be effective. We have found that there is no one model: the term "social impact bond" or "social impact partnership" is in fact an umbrella term that includes very many practices and types of agreements between  the public sector and other sectors, including impact investors and those from the non-proﬁt world.</p>
+
+<p>The core idea is what we call an outcome-based approach: we come to an agreement for the provision of a particular activity or service, but we will pay only when a certain level of predeﬁned outcomes has been  achieved. A social impact bond is thus a kind of outcome-based ﬁnancing model based on the presence of an impact investor who is willing to provide the upfront capital to provide the service, which will only be paid ex-post, and only if outcomes have been delivered.</p>
+
+
+
 
 <div class="break">
 <p class="break1">"We will have to get much more 
