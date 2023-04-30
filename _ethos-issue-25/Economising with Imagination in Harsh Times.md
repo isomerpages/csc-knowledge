@@ -100,20 +100,12 @@ border: 3px solid darkblue;
 	
 .author
 {
-font-style: italic;	
 border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
 }
 	
-	
-.notestop
-{
-font-style: italic;	
-font-size: 15px;
-margin-top:20px;
-}	
 	
 </style>
 
