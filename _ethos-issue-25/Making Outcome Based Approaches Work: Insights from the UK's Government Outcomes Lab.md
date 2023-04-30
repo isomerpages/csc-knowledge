@@ -266,7 +266,7 @@ been satisfactory."</p>
 </div>
 
 <div class="notestop">
-<h6>NOTES:</h6>
+<h6>NOTE:</h6>
 <ol class="note">
 <li>Government Outcomes Lab, accessed February 23, 2023, https://golab.bsg.ox.ac.uk/ </li>
 </ol>
