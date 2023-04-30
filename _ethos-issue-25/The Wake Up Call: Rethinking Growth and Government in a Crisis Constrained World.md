@@ -245,6 +245,10 @@ is a tough challenge. Traditionally, we understand economics in terms of consump
 <p class="chow1">"What could Singapore do as a more enlightened society to contribute to humanism rather than to hyper-consumerism"</p>
 </div>
 
+<p>Could governments make an effort to sensitise their population on humanism, on charity, on volunteerism? For instance, every citizen in Singapore has wealth and skills that could be shared with the region and with the rest of the world. In this age of the shared economy, instead of having a mentality of always wanting to be the best or having the most, this could broaden the appeal of Singapore beyond being just a place of wealth. What could Singapore do as a more enlightened society to contribute to humanism rather than to hyper-consumerism?</p>
+
+<p>And what about doing something completely different to increase the welfare, mental health, happiness, or aesthetic values of individuals? These questions do not show up in policy discussions at all, or at least not until the pandemic. We should continue to think about these issues.</p>
+
 
 
 
