@@ -97,6 +97,23 @@ color: #645ea9;
 	font-size:25px;
 }	
 	
+.chow
+{
+	background-color: #ef5252;
+ padding:30px;
+	color:white;
+	text-align:center;
+	margin-top:25px;
+	font-weight:bold;
+}
+	
+.chow1
+{
+	font-family: "montserrat";	
+	font-size:25px;
+}	
+	
+	
 	
 
 </style>
@@ -160,9 +177,11 @@ innovation and growth while promoting the prudent use of limited resources?</h5>
 
 <p>Without a crisis like the pandemic, we would still be looking to manufacturing industries and attracting foreign investments to those sectors to create jobs. But now we are pushing our own private sector to play a larger role in creating jobs for their fellow  Cambodians. Of course, we are still going to have manufacturing, but now, apart from having international ﬁrms come to produce goods that are sold under their own brands, we also want to produce Cambodian products for the world.</p>
 
+<p><span class="author2-2">CHOWDHOURY:</span> Self-sufficiency is the agenda in many governments. The public sector can frame policy or set the goals, say to produce our own goods, but in our experience, that alone has not worked. In Bangladesh, we needed the dynamism of the private sector—the sectors that grew our economy were not on our public sector’s policy agenda.</p>
 
-
-
+<div class="chow">
+<p class="chow1">"Some pandemic-era practices can help us better manage our resources, our time and our health."</p>
+</div>
 
 
 
