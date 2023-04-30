@@ -6,7 +6,18 @@ description: ""
 image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury, Narain.jpg
 ---
 <style>
-
+.author
+{
+font-style: italic;	
+font-size: 15px;
+}	
+	
+.notestop
+{
+font-style: italic;	
+font-size: 15px;
+margin-top:20px;
+}	
 	
 .back a
 {
@@ -130,18 +141,7 @@ color: #645ea9;
 }	
 
 	
-.author
-{
-font-style: italic;	
-font-size: 15px;
-}	
-	
-.notestop
-{
-font-style: italic;	
-font-size: 15px;
-margin-top:20px;
-}	
+
 	
 
 </style>
