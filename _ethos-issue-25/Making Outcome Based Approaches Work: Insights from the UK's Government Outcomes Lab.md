@@ -270,7 +270,7 @@ been satisfactory."</p>
 </div>
 <br>
 <div class="notestop">
-<p><b>NOTES:</b></p>
+<p>NOTES:</p>
 <ol class="note">
 <li>Government Outcomes Lab, accessed February 23, 2023, https://golab.bsg.ox.ac.uk/ </li>
 </ol>
