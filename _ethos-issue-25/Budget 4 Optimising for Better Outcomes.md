@@ -44,9 +44,12 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jp
 .author
 {
 font-style: italic;	
-font-size: 15px;
-}	
-	
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+padding-top:30px;
+}
 .notestop
 {
 font-style: italic;	
@@ -58,13 +61,6 @@ margin-top:20px;
 
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_1.jpg">
-</div>
-
-<div class="author">
-<p><b>Kwa Chin Lum</b> is Director (Fiscal Policy) at the Ministry of Finance. He previously served as Special Assistant to Senior Minister Tharman Shanmugaratnam, and in various other Ministries.</p>
-</div>
-<div class="author">
-<p><b>Kyle Goh</b> is Associate in the Fiscal Policy directorate at the Ministry of Finance, and works on strategic planning and policy research at the Ministry and Whole-of-Government levels.</p>
 </div>
 
 <p>The Singapore Government’s budgeting framework continually evolves to meet the needs of our people and the challenges of our national context. We have matured, from a traditional bottom-up system based on detailed line items (Budget 1.0) and programme budgets (Budget 2.0), to a system which emphasises robust aggregate limits on spending while providing line ministries with maximum discretion to make ﬁnal allocations among their various programmes (Budget 3.0). While Budget 3.0 is still relevant and important for our ﬁscal management, signiﬁcant changes in our operating environment have prompted further improvements to our budgeting framework.</p>
@@ -146,6 +142,15 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 <p>While Budget 4.0 effects system-wide changes to our budgeting framework, freeing up ﬁscal space for emerging needs is the collective responsibility of every public officer. Innovation and transformation must be part of our DNA as public officers. Individual officers should constantly ask themselves whether they are doing enough to provide for the nation and for the future, which will entail making the most of available resources.</p>
 
 <p>Optimising the system at a macro-level will be of limited beneﬁt if individual officers are not ready or able to maximise spending effectiveness and outcomes. In the words of former Head of Civil Service and PS (Finance) Mr Lim Siong Guan, there is never enough money to fund all the things the public want from the Government. Therefore, it is important that we prioritise Singapore’s needs and create the conditions to resource these needs in a sustainable and principled manner. </p>
+
+
+<div class="author">
+<p><b>Kwa Chin Lum</b> is Director (Fiscal Policy) at the Ministry of Finance. He previously served as Special Assistant to Senior Minister Tharman Shanmugaratnam, and in various other Ministries.</p>
+
+
+<p><b>Kyle Goh</b> is Associate in the Fiscal Policy directorate at the Ministry of Finance, and works on strategic planning and policy research at the Ministry and Whole-of-Government levels.</p>
+</div>
+
 	
 <div class="notestop">
 <p><b>Note:</b></p>
