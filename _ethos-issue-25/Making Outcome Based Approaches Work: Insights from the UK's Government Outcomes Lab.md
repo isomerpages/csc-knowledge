@@ -30,16 +30,16 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg
 	font-size:25px;
 }
 	
-.title h5
+.title h4
 {
 color: #6FBE8A;	
 border-bottom: 2px solid #A9414D;
 padding-bottom:20px;
 }
 
-.title1 h5
+.title1 h4
 {
-color: #6FBE8A;	;
+color: #6FBE8A;	
 }
 
 .num
@@ -101,7 +101,7 @@ margin-top:20px;
 <div class="author"><p><b> Mara Airoldi</b> is the inaugural Academic Director of the Government Outcomes Lab at the Blavatnik School of Government. She is an Economist and Decision Analyst by background and holds degrees from Bocconi University in Milan and the London School of Economics and Political Science. Her research is motivated by a desire to improve decision making in government, with a special interest and extensive expertise in the field of healthcare.</p> </div>
 	
 	
-<h5>Introduction</h5>
+<h3>Introduction</h3>
 
 <p>The Government Outcomes Lab is a research programme based at Oxford’s Blavatnik School of Government.1 It started in 2016 as a partnership between the UK Government and the University of Oxford, to look at ways to tackle complex social and environmental issues by working collaboratively across sectors. In today’s hybrid environment, public services are no longer just delivered by the public sector. Instead, we now see a multiplicity of actors, including the private sector, impact investors, non-profit organisations, voluntary groups and social enterprises. This is enriching, but also challenging: how do you bring them together to work effectively towards shared goals?</p>
 
@@ -129,10 +129,10 @@ been satisfactory."</p>
 <p>Nevertheless, in our research, we have found that outcome-based contracts tend to be most effective when designed and used intentionally to improve collaboration, prevention or innovation.</p>
 
 
-<h5>Three Logics of  Outcome-Based Contracting</h5>
+<h3>Three Logics of  Outcome-Based Contracting</h3>
 <br>
 <div class="title">
-<h5><span class="num">1</span>&nbsp;&nbsp;&nbsp;Logic of Collaboration</h5>
+<h4><span class="num">1</span>&nbsp;&nbsp;&nbsp;Logic of Collaboration</h4>
 </div>
 	
 <p>With complex social issues, there is often fragmentation: a person who is homeless, for instance, requires support from several different services. They may have a problem with ﬁnding a job, with the housing they have, alongside problems of substance abuse and mental health or family issues. </p>
@@ -145,7 +145,7 @@ been satisfactory."</p>
 
 <br>
 <div class="title">
-<h5><span class="num">2</span>&nbsp;&nbsp;&nbsp;&nbsp;Logic of Prevention</h5>
+<h4><span class="num">2</span>&nbsp;&nbsp;&nbsp;&nbsp;Logic of Prevention</h4>
 </div>
 
 <p>The public sector is often ﬁreﬁghting and having to intervene in one crisis after another. With greater demand for public services and increasingly constrained resources, the pressure is to cut provision in some areas. The investments that bring beneﬁts only in the longer term, such as preventative services, are often the ones that get dropped ﬁrst.</p>
@@ -157,7 +157,7 @@ been satisfactory."</p>
 
 <br>
 <div class="title">
-<h5><span class="num">3</span>&nbsp;&nbsp;&nbsp;&nbsp;Logic of Innovation</h5>
+<h4><span class="num">3</span>&nbsp;&nbsp;&nbsp;&nbsp;Logic of Innovation</h4>
 </div>
 
 <p>The public sector is often considered conservative, risk averse, and not particularly innovative. We tend to see interventions being delivered over and over, without checking if they actually work. Doing the same thing avoids blame, compared to trying something courageous and new where something might go wrong.</p>
@@ -171,11 +171,11 @@ been satisfactory."</p>
 </div>
 
 
-<h5>Giving Outcome-Based Approaches the Best Chance to Work</h5>
+<h3>Giving Outcome-Based Approaches the Best Chance to Work</h3>
 <br>
 <div class="title1">
-<h5>Clarify Intentions and End Goals
-</h5>
+<h4>Clarify Intentions and End Goals
+</h4>
 </div>
 
 <p>It is important to clarify what one is trying to achieve through the outcome-based intervention, so that it can be carried out more intentionally, and evaluated appropriately. An important priority is thinking about the exit strategy: what happens at the end of the project. We have found this to be a revealing and provocative question in practice. </p>
@@ -186,8 +186,8 @@ been satisfactory."</p>
 
 <br>
 <div class="title1">
-<h5>Active Performance Management
-</h5>
+<h4>Active Performance Management
+</h4>
 </div>
 
 <p>Much goes on during the delivery of a service that can make a difference to whether an intervention works. In typical public sector procurement, most attention is paid to a contract before it is issued, but afterwards little is paid to the job until the contract is due to be renewed. However, when an impact investor is involved in an outcome-based contract, they have a stake in making sure the project succeeds: otherwise, they lose their capital. 
@@ -197,7 +197,7 @@ been satisfactory."</p>
 
 <br>
 <div class="title1">
-<h5>Evaluate Outcomes Thoughtfully</h5>
+<h4>Evaluate Outcomes Thoughtfully</h4>
 </div>
 
 <p>How impact is measured in outcome-based contracts is crucial. Metrics and performance indicators are meant to be proxies for what the outcomes are, but they exist on a continuum and not all of them will be directly indicative of the outcome. While it is rare for payment in outcome-based contracts to be 100% based on purely outcome-driven indicators, how these proxy measures are used seems to make a difference to the success of a project. They shape the motivation and focus of the contracted organisation.</p>
@@ -213,7 +213,7 @@ been satisfactory."</p>
 
 <br>
 <div class="title1">
-<h5>Relationships of Trust</h5>
+<h4>Relationships of Trust</h4>
 </div>
 
 <p>Organisations that are purpose-driven and that are willing to work in a relational fashion seem to make the best use of ﬂexible contractual arrangements. 
@@ -254,7 +254,7 @@ been satisfactory."</p>
 
 <br>
 <div class="title1">
-<h5>A Culture of Learning</h5>
+<h4>A Culture of Learning</h4>
 </div>
 
 <p>For the civil servant looking to implement good outcome-based approaches, we have found that it is important to have a mindset of wanting to learn and being open to being wrong. In public sector work, the narrative is often about success and failure. That is the wrong narrative. Whether or not a programme delivers what is expected, we should ask: why did it or why did it not do so? </p>
