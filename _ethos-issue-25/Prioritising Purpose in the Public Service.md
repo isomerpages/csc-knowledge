@@ -20,7 +20,6 @@ border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
-padding-top:30px;
 }
 	
 .back a
@@ -158,7 +157,9 @@ more focused and effective, but also one in which officers have a deeper sense o
 <p>These are not easy outcomes to achieve, but if we can move in these directions, we will be doing well. If we are able to corral together efforts from across the Service, as part of a broader movement with everyone feeling a sense of empowerment, we can make a decisive difference.</p>
 
 
-<div class="author"><p><b>Gabriel Lim</b> is Permanent Secretary of the Ministry of Trade and Industry and also chairs the Public Sector Transformation (PST) movement’s People Committee. The Committee oversees initiatives to strengthen innovation, champion growth and development, deepen the culture of care, and galvanise the workforce to participate in PST.</p>
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>	
+<p><b>Gabriel Lim</b> is Permanent Secretary of the Ministry of Trade and Industry and also chairs the Public Sector Transformation (PST) movement’s People Committee. The Committee oversees initiatives to strengthen innovation, champion growth and development, deepen the culture of care, and galvanise the workforce to participate in PST.</p>
 </div>
 
 <br>
