@@ -57,7 +57,7 @@ font-style: italic;
 .strategy1
 {
 background-color: #ED746F; 	
-padding:20px;
+padding:40px;
 color:white;
 border-radius: 20px;
 margin-top:20px;
@@ -101,7 +101,7 @@ font-family: "montserrat";
 .culture1
 {
 background-color: #f19637; 	
-padding:15px;
+padding:40px;
 color:white;
 border-radius: 20px;
 }
@@ -123,7 +123,7 @@ font-family: "montserrat";
 .alignment1 
 {
 background-color: #24788e; 	
-padding:13px;
+padding:40px;
 color:white;
 border-radius: 20px;
 margin-top:20px;
@@ -146,7 +146,7 @@ font-family: "montserrat";
 .leadership1 
 {
 background-color: #22b5a2; 	
-padding:13px;
+padding:40px;
 color:white;
 border-radius: 20px;
 margin-top:20px;
@@ -169,13 +169,13 @@ font-family: "montserrat";
 .empowerment1 
 {
 background-color: #9780b9; 	
-padding:13px;
+padding:40px;
 color:white;
 border-radius: 20px;
 margin-top:20px;
 }
 	
-empowerment1 p
+.empowerment1 p
 {
 font-size: 22px;
 font-family: "montserrat";
@@ -351,7 +351,8 @@ space to think and plan, while also taking time to get ground data to assess and
 <b>Going beyond Shared Commitment to Shared Understanding</b>
 
 <div class="empowerment1">
-	<p>The two questions you need to ask about your <span class="word">Empowerment:</span></p>	
+	<p>The two questions you need to ask about your 
+	<span class="word">Empowerment:</span></p>	
 <ul>
 	<li>How are the right decisions made by the right people at the right level?</li>
 	<li>How are we facilitating the co-creation of ideas and solutions?</li>
@@ -410,8 +411,7 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 <p><b>Notes:</b></p>
 <ol class="note">
 <li>Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity.</li>
-</ol>
-</cite>
+</ol></cite>
 
 
 
