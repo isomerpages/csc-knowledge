@@ -248,11 +248,11 @@ is a tough challenge. Traditionally, we understand economics in terms of consump
 	
 <h6>ABOUT THE AUTHORS</h6>	
 
-<p><b><span class="author1">Samheng Bora</span></b> is Undersecretary of State, Ministry of Commerce, Cambodia.</p>
+<p><b>Samheng Bora</b> is Undersecretary of State, Ministry of Commerce, Cambodia.</p>
 
-<p><b><span class="author2">Mohibul Hasan Chowdhoury</span></b> is Deputy Minister of Education, Ministry of Education, People’s Republic of Bangladesh. </p>
+<p><b>Mohibul Hasan Chowdhoury</b> is Deputy Minister of Education, Ministry of Education, People’s Republic of Bangladesh. </p>
 
-<p><b><span class="author3">Aruna Devi Narain</span></b> is Judge, Supreme Court of the Republic of Mauritius, and former Vice Chairperson and Rapporteur of the  UN Committee on the Elimination of  Discrimination against Women (CEDAW Committee).</p>
+<p><b>Aruna Devi Narain</b> is Judge, Supreme Court of the Republic of Mauritius, and former Vice Chairperson and Rapporteur of the  UN Committee on the Elimination of  Discrimination against Women (CEDAW Committee).</p>
 </div>
 <br>
 <br>
