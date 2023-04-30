@@ -150,7 +150,9 @@ innovation and growth while promoting the prudent use of limited resources?</h5>
 <p class="narain1">"Some pandemic-era practices can help us better manage our resources, our time and our health."</p>
 </div>
 
+<p><span class="author2-2">CHOWDHOURY:</span> There are lessons from COVID that can be integrated in the post-COVID world. In resource-poor Bangladesh, even running schools is a major challenge: even under normal circumstances, we don’t have enough Science and Math teachers to attend to our millions of students. What COVID has taught us are new ways of educating students, using technologies such as free-to-air broadcasting, or online teaching and learning.</p>
 
+<p>In the past, we had the infrastructure to do this, but not the mindset to adopt these methods. Now we are developing a blended education policy to formalise some of these approaches. They will help us bridge the last mile in education—I cannot send specialised teachers to every village in the outskirts, but I can provide these audio-visual resources, with local teachers as a guide, and still improve learning outcomes for more students.</p>
 
 
 
