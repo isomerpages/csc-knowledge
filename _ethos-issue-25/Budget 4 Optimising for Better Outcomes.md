@@ -41,18 +41,31 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jp
 	font-size:25px;
 }		
 	
+.author
+{
+font-style: italic;	
+font-size: 15px;
+}	
+	
+.notestop
+{
+font-style: italic;	
+font-size: 15px;
+margin-top:20px;
+}
+	
 </style>
 
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_1.jpg">
 </div>
 
-<cite class="author">
+<div class="author">
 <p><b>Kwa Chin Lum</b> is Director (Fiscal Policy) at the Ministry of Finance. He previously served as Special Assistant to Senior Minister Tharman Shanmugaratnam, and in various other Ministries.</p>
-</cite>
-<cite class="author">
+</div>
+<div class="author">
 <p><b>Kyle Goh</b> is Associate in the Fiscal Policy directorate at the Ministry of Finance, and works on strategic planning and policy research at the Ministry and Whole-of-Government levels.</p>
-</cite>
+</div>
 
 <p>The Singapore Government’s budgeting framework continually evolves to meet the needs of our people and the challenges of our national context. We have matured, from a traditional bottom-up system based on detailed line items (Budget 1.0) and programme budgets (Budget 2.0), to a system which emphasises robust aggregate limits on spending while providing line ministries with maximum discretion to make ﬁnal allocations among their various programmes (Budget 3.0). While Budget 3.0 is still relevant and important for our ﬁscal management, signiﬁcant changes in our operating environment have prompted further improvements to our budgeting framework.</p>
 
@@ -134,7 +147,7 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 
 <p>Optimising the system at a macro-level will be of limited beneﬁt if individual officers are not ready or able to maximise spending effectiveness and outcomes. In the words of former Head of Civil Service and PS (Finance) Mr Lim Siong Guan, there is never enough money to fund all the things the public want from the Government. Therefore, it is important that we prioritise Singapore’s needs and create the conditions to resource these needs in a sustainable and principled manner. </p>
 	
-<cite>
+<div class="notestop">
 <p><b>Note:</b></p>
 <ol>
 	<li>Examples of such policy responses to address the pandemic include: the Jobs Support Scheme, the Care and Support Package, the COVID-19 Recovery Grant, the Jobs Growth Incentive, SGUnited Jobs and Skills, Rental Relief and Cash Grant and so on. Together, they helped Singapore avoid long-term scarring from COVID-19. For more information, please see "Assessment of the Impact of Key COVID-19 Budget Measures", published by the Ministry of Finance (MOF) on 17 February 2022.
@@ -146,7 +159,7 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 <li>Ministry of Finance,  “Occasional Paper on Medium-Term Fiscal Projections”,  February 8, 2023,  accessed February 16, 2023<br><a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf
 </a></li>
 </ul>
-</cite>
+</div>
 	
 	
 <br><br>
