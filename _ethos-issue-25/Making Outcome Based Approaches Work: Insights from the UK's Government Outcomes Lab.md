@@ -111,10 +111,11 @@ been satisfactory."</p>
 <h5><span class="num">3</span>&nbsp;&nbsp;&nbsp;&nbsp;Logic of Innovation</h5>
 </div>
 
+<p>The public sector is often considered conservative, risk averse, and not particularly innovative. We tend to see interventions being delivered over and over, without checking if they actually work. Doing the same thing avoids blame, compared to trying something courageous and new where something might go wrong.</p>
 
+<p>An outcome-based approach with a view to trying things out could help break through this risk-averse culture, by allowing discretionary space for organisations to try something new that hasn’t been done before, particularly when the status quo is not working.</p>
 
-
-
+<p>Even if the logics are clear and in place, there are many different ways to carry out outcome-based contracts. Outcome-based approaches are complex instruments. Not all projects will succeed. Transaction costs can be high, and without clarity of intention and commitment, people can lose patience and then little benefit is gained afterwards. We see that these instruments have been most effective when they are used to adapt, change and build relationships in the field, in order to create a working ecosystem and a learning culture.</p>
 
 
 
