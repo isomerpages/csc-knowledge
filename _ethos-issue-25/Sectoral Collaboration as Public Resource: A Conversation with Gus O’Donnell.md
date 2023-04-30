@@ -6,13 +6,6 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg
 ---
 <style>
 
-.subhead::first-letter 
-{ 
-	initial-letter: 2;    
-	margin-right: .55em;
-	color: #1F5E61;
-}	
-
 	
 .back a
 {
