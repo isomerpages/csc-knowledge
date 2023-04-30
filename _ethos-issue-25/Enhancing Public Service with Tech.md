@@ -184,7 +184,7 @@ border-top: 1px solid black;
 <p>Most importantly, the future workplace is not just about using technologies. Its purpose is to help our officers become more productive and more engaged in their mission, instead of spending time jumping through hoops or dealing with red tape and other unnecessary processes. This is also about retaining people by keeping them engaged with the work they do and creating value for our country and fellow citizens.</p>
 
 <div class="author">
-	<h6>ABOUT THE AUTHOR</h6>	
+<h6>ABOUT THE AUTHOR</h6>	
 <p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
 </div>
 
