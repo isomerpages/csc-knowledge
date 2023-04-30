@@ -180,8 +180,21 @@ innovation and growth while promoting the prudent use of limited resources?</h5>
 <p><span class="author2-2">CHOWDHOURY:</span> Self-sufficiency is the agenda in many governments. The public sector can frame policy or set the goals, say to produce our own goods, but in our experience, that alone has not worked. In Bangladesh, we needed the dynamism of the private sector—the sectors that grew our economy were not on our public sector’s policy agenda.</p>
 
 <div class="chow">
-<p class="chow1">"Some pandemic-era practices can help us better manage our resources, our time and our health."</p>
+<p class="chow1">"The mindset change is to shift from ruling to serving-not to run everything from the centre."</p>
 </div>
+
+<p>Now, once the private sector takes up these growth sectors, the public sector can catch up with it, and resolve issues as they come along, such as reducing red tape. What we in the public sector need to understand is that innovation and enterprise are going to come from private initiatives, and we must try to assist them rather than try and do it by ourselves. Instead, we should focus on key areas of national importance, such as food security, and leave value-adding to private enterprise.</p>
+
+<p>Having come from the private sector into the public sector, I see an enormous disconnect. The public sector mentality is that we know, we will ﬁx, we will do. Whereas the private sector thinks: you don't know very much, you are only catching up.</p>
+
+<p>So, I see the public sector’s role as assisting, not taking on, the job of growth. The mindset change is to shift from ruling to serving—not to run everything from the centre up to the last mile, which was the mindset of the colonial government in South Asia.</p>
+
+<p><span class="author3-3">NARAIN:</span> I agree, but we also need State regulation—in a benevolent manner to ensure fair play, not for the sake of imposing obstacles.</p>
+
+<p>We need to ensure that regulation by the State is conducted in a dispassionate, objective manner, as it is in Singapore, according to set prescribed criteria. The public sector has to allow the private sector to provide services subject to appropriate regulation, and transparent and prescribed criteria.</p>
+
+
+
 
 
 
