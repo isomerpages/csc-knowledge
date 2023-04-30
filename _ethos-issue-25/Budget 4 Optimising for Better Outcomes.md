@@ -147,7 +147,7 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 
 <br>	
 <div class="notestop">
-<p><b>NOTES:</b></p>
+<h6><b>NOTES:</b></h6>
 <ol>
 	<li>Examples of such policy responses to address the pandemic include: the Jobs Support Scheme, the Care and Support Package, the COVID-19 Recovery Grant, the Jobs Growth Incentive, SGUnited Jobs and Skills, Rental Relief and Cash Grant and so on. Together, they helped Singapore avoid long-term scarring from COVID-19. For more information, please see "Assessment of the Impact of Key COVID-19 Budget Measures", published by the Ministry of Finance (MOF) on 17 February 2022.
 </li>
