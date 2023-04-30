@@ -62,7 +62,6 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 
 .author
 {
-font-style: italic;	
 border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
@@ -108,19 +107,7 @@ margin:20px;
 	color: #06945d;
 }	
 
-	
-.author
-{
-font-style: italic;	
-font-size: 15px;
-}	
-	
-.notestop
-{
-font-style: italic;	
-font-size: 15px;
-margin-top:20px;
-}	
+
 	
 	
 	
@@ -264,7 +251,7 @@ the use of disposables in their daily habits, such as bringing their tumbler, re
 </div>	
 
 <div class="notestop">
-<p><b>Notes:</b></p>
+<h6>NOTES:</h6>
 <ol class="note">
 <li>This will be contingent on the progress of technologies and international cooperation to enable mitigation measures.</li>
 <li>GreenGov.SG Resource Portal (website), February 15, 2023, https://gccprod.sharepoint. com/sites/MSE-GreenGovSG-MST.</li>
