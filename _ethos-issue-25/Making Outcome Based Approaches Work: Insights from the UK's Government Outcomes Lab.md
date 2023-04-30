@@ -133,8 +133,8 @@ margin:20px;
 
 
 <div class="break">
-<p class="break1">"We will have to get much more 
-efficient in what we do and find better ways of doing the same things, because we cannot just keep throwing money at problems. "</p>
+<p class="break1">"Outcome-based approaches are most successfully deployed as part of attempts to do things differently because the status quo has not  
+been satisfactory."</p>
 </div>
 
 <h5>How should governments think differently about their longer-term resource concerns?</h5>
