@@ -47,9 +47,9 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 </div>
 
 <br>
-<p class="subhead"><span>W</span>e are moving into quite a different future. The external environment has changed.</p>
+<p class="subhead"><span>W</span>e are moving into quite a different future. The external environment has changed. Domestically, we have a mature population with new needs but also more questions about how things are done. At the same time, we know we need to use resources more sustainably. </p>
 
-<p>Domestically, we have a mature population with new needs but also more questions about how things are done. At the same time, we know we need to use resources more sustainably. Public Service manpower growth cannot outpace that of the broader labour force when our population is not growing and the labour force is stagnating. This is the reality we must grapple with. 
+<p>Public Service manpower growth cannot outpace that of the broader labour force when our population is not growing and the labour force is stagnating. This is the reality we must grapple with. 
 </p>
 
 <p>In my view, it is a privilege to have these demands placed on 
