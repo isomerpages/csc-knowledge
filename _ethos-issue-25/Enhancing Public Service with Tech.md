@@ -86,8 +86,11 @@ font-weight:bold;
 .author
 {
 font-style: italic;	
-font-size: 15px;
-}	
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+}
 	
 .notestop
 {
@@ -102,8 +105,6 @@ margin-top:20px;
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg">
 </div>
 
-<div class="author"><p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
-</div>
 
 <h3>Transforming the Work of the Public Sector in an Age of Scarce Resources
 </h3>
@@ -186,6 +187,12 @@ margin-top:20px;
 <p>A third approach we are taking is co-developing new solutions with the industry. This also helps optimise our scarce public sector resources—we work with others to build things we may not be able to build ourselves. This stems from our experience in working with key industry players on our Government on Commercial Cloud, including firms like Amazon, Microsoft, and Google. Last year, we ran some industry workshops to publicise some of our key initiatives and invited various players to co-develop solutions with us, to benefit public officers as well as citizens and businesses.</p>
 
 <p>Most importantly, the future workplace is not just about using technologies. Its purpose is to help our officers become more productive and more engaged in their mission, instead of spending time jumping through hoops or dealing with red tape and other unnecessary processes. This is also about retaining people by keeping them engaged with the work they do and creating value for our country and fellow citizens.</p>
+
+<div class="author">
+	<h6>ABOUT THE AUTHOR</h6>	
+<p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
+</div>
+
 
 <div class="notestop">
 <p><b>Notes:</b></p>
