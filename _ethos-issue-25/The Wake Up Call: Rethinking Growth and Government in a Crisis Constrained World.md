@@ -8,19 +8,12 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury, Narain
 <style>
 .author
 {
-font-style: italic;	
 border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
 }
-.notestop
-{
-font-style: italic;	
-font-size: 15px;
-margin-top:20px;
-}	
-	
+
 .back a
 {
 	color: #9f2943;
