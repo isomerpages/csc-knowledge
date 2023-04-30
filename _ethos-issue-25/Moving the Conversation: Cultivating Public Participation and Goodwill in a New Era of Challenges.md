@@ -129,6 +129,18 @@ color: #1C8A6F
 
 <p>The alternative to pretending that all the right processes are already in place and success is absolutely guaranteed, is to start talking from the standpoint that our reality has become fundamentally different. And that while public servants are highly trained to operate in this ﬁeld, they are also grappling with the changes, and are going to need the help and the input of other people around them. And these are complex problems for which everyone is still learning. </p>
 
+<p>As difficult as this sounds for the public sector to admit, I see no real alternative to this positioning. To remain in a place where you present yourselves as having all the answers would be catastrophic. People will not feel involved, and when you get it wrong, they will feel betrayed—that will be the worst possible reaction politically. You cannot engender public goodwill by pretending that everything is under control. </p>
+
+<p>Instead, it is better to tell people things may not turn out well, but we are all trying to do this together. Someone who has warned you there may be disappointment is a person you can continue to trust. What has contributed to populism around the world is the promise of doing something that you know you can’t do on your own. This is the fork in the road for the technocratic elites in public sectors around the world right now. But it will require a signiﬁcant and difficult acknowledgement. It will be important to think about how this can be done, and by whom, in a way that is sobering but inspiring, and yet carry everyone with them.</p>
+
+<p>Kate Raworth argues, through her metaphor of donut economics, that every public narrative has been about growth, taking off, soaring and so on—but that at some point, when a plane takes off, we must remember it cannot just keep going but must land somewhere. At some point, we have to know what we want to achieve.</p>
+
+<p>In a sense, this is what the COVID-19 pandemic started to highlight. And in addressing the climate emergency and other challenges of our time, we know we will have to make difficult choices, which are either costly or less comfortable. Nevertheless, the point is we have to tell people where we want to land. We need to explain what we are asking them to make these efforts.</p>
+
+<p>Ultimately, we want to become societies that look different from where we are now: we have no real choice, because they have been dysfunctional or unsustainable for a while now. Every society will have its own constraints. But we should encourage people to think about where they want to land and what that looks like.</p>
+
+<p>This is why public deliberation and public stewardship are vital as we face our new world.</p> 
+
 
 
 
