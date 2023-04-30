@@ -85,19 +85,14 @@ font-weight:bold;
 	
 .author
 {
-font-style: italic;	
+
 border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
 }
 	
-.notestop
-{
-font-style: italic;	
-font-size: 15px;
-margin-top:20px;
-}	
+
 	
 </style>
 
@@ -195,7 +190,7 @@ margin-top:20px;
 
 
 <div class="notestop">
-<p><b>Notes:</b></p>
+<h6>NOTES</h6>
 <ol>
 <li>See: “Digital Government Blueprint”, accessed January 6, 2023, https://www.tech.gov.sg/digital-government-blueprint/.</li>
 <li>For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, https://www. developer.tech.gov.sg/singapore-government-tech-stack/.</li>
