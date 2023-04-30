@@ -411,7 +411,8 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 <p><b>Notes:</b></p>
 <ol class="note">
 <li>Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity.</li>
-</ol></cite>
+</ol>
+</cite>
 
 
 
