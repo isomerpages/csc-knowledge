@@ -224,9 +224,13 @@ anything else that you have observed to be useful or interesting? What would you
 like your counterparts in the Singapore public sector to consider for the future?</h5>
 </div>	
 
+<p><span class="author1-1">BORA:</span>The leaders we met in our time in Singapore were all very personable—there seems to be a shift in leadership style and approach to policymaking away from the top-down mentality, and it bodes well for the future.</p>
 
+<p>When I heard that Singapore is putting more efforts into scholarships and grooming as part of its succession planning and public sector development, it affected me, as a late bloomer myself. I grew up bullied in school, which made it difficult for me to perform. Luckily, I had a chance to get more opportunities to demonstrate my leadership skills and to shine later in life.</p>
 
+<p>I feel there could be initiatives to support those who may be struggling in school because they are shy or not as social, and so may take more time to bloom. People learn in different ways and respond to different kinds of teaching. They should not be overlooked or left behind.</p>
 
+<p>I believe this would also help the government better relate to young people.</p>
 
 
 
