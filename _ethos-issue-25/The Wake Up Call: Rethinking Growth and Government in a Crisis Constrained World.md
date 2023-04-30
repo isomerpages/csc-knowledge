@@ -134,6 +134,11 @@ public sector is not only to deliver in the short term, but also in a sustainabl
 
 <p>So, while there is still a push for multilateralism, there is also the challenge of making sure a country is self-reliant to some extent. While this may be more difficult for a country like Singapore, we also see it taking this approach, for instance in its water desalination efforts.</p>
 
+<p><span class="author2-2">CHOWDHOURY:</span> So as much as we should consider a certain degree of self-reliance, we also need to accept and carefully manage the risks of trade. When it comes to multilateral trade, we see that relationships can change, and then where do you go? You need to have several options open, rather than be reliant on only one source, say of your energy or food supply.</p>
+
+<p></p>
+
+
 
 
 
