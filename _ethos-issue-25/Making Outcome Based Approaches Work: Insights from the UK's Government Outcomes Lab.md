@@ -166,6 +166,30 @@ been satisfactory."</p>
 <p>on targets and demotivated. The same contract was deployed by one organisation to build a culture of learning and to focus on the long term, while the other used it transactionally. This experience teaches us that contractual clauses and technical features of these instruments are only half of the story.</p>
 
 
+<br>
+<div class="title1">
+<h5>Relationships of Trust</h5>
+</div>
+
+<p>Organisations that are purpose-driven and that are willing to work in a relational fashion seem to make the best use of ﬂexible contractual arrangements. 
+</p>
+
+<p>The basic theory of transaction cost economics suggests that if you can specify everything in a task, you can contract it out, but if it is too complex and you cannot, you need to do it in-house. But the world is not so black-and-white. What do you do with elements you cannot specify in a contract? If the counterpart is someone you can trust, the contract works better—but how then do you select a trustworthy partner? </p>
+
+<p>In places like Japan, there are traditional long-term relationships between organisations and between the public and private sectors that liberal economic ideology might traditionally have considered suboptimal. But new forms of relational contracting are now becoming more common, because ﬁnding a good supplier is very costly. Private sector ﬁrms are now attempting to nurture a meaningful, open long-term relationship with counterparts, and not only stop at a reductionist interpretation of contractual clauses.</p>
+
+<p>There is value in establishing an environment of trust, where you allow variation in contracts within a range without needing to issue contractual amendments each time. However, we also want to avoid being captured by a supplier who can dictate terms unduly and become complacent.</p>
+
+<p>One of the success factors in outcome-based contracts is ﬁnding an area where you can build trust between stakeholders and different sectors, without being naïve about it. Finding and codifying this balance, such as through legal mechanisms, allows trust to become an instrument for improvement.</p>
+
+<p>The key lesson here is that we cannot rely on a legal contract to do all the work, so civil servants will still need to continually educate themselves, stay abreast of what is happening, and exercise judgement.</p>
+
+
+<div class="break">
+<p class="break1">" We need to invest in creating a professional norm that emphasises learning and being open to sharing the insights from both what has worked well and what has not. "</p>
+</div>
+
+
 
 
 
