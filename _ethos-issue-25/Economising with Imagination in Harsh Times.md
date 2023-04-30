@@ -98,12 +98,25 @@ border: 3px solid darkblue;
 	font-size: 25px;
 }
 	
+.author
+{
+font-style: italic;	
+font-size: 12px;
+}	
+	
+.notestop
+{
+font-style: italic;	
+font-size: 15px;
+margin-top:20px;
+}	
+	
 </style>
 
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg">
 </div>
-<cite class="author"><p><b>Sir Geoff Mulgan CBE</b> is Professor at University College London, in the Science, Technology, Engineering and Public Policy team. He has had many previous roles including Head of Policy in the Prime Minister’s office and CEO of Nesta. He is the author of many books, including most recently Another World Is Possible: How to Reignite Political and Social Imagination (Hurst/Oxford University Press, 2022). His new book on art and social change—Prophets at a Tangent—is published in early 2023, with others in the pipeline: on science and politics, and the future of social science.</p></cite>
+<div class="author"><p><b>Sir Geoff Mulgan CBE</b> is Professor at University College London, in the Science, Technology, Engineering and Public Policy team. He has had many previous roles including Head of Policy in the Prime Minister’s office and CEO of Nesta. He is the author of many books, including most recently Another World Is Possible: How to Reignite Political and Social Imagination (Hurst/Oxford University Press, 2022). His new book on art and social change—Prophets at a Tangent—is published in early 2023, with others in the pipeline: on science and politics, and the future of social science.</p></div>
 
 
 
@@ -283,7 +296,7 @@ Finally, there are often options for joining up the work of government in creati
 
 
 
-<cite>
+<div class="notestop">
 <p><b>Notes:</b></p>
 
 
@@ -296,7 +309,7 @@ Finally, there are often options for joining up the work of government in creati
 of the 21st Century”, UAE Global Innovation Council, 2021, accessed February 15, 2023, https://gic.mbrcgi.gov.ae/storage/post/f6bTTIppsLhLElDnEVTTTRm36I3t70HP4rY722t0.pdf.</li>
 	
 </ol>
-</cite>
+</div>
 
 
 	
