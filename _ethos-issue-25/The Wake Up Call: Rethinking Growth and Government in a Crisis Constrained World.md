@@ -126,7 +126,7 @@ color: #645ea9;
 public sector is not only to deliver in the short term, but also in a sustainable manner. We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations. We cannot act only for the current political mandate; we have to be able to feed people not only today, but also for generations to come.</p>
 
 <div class="narain">
-<p class="narain1">"We cannot deliver public goods in a manner that would exhaust everything, leaving nothing for future generations"</p>
+<p class="narain1">"We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations"</p>
 </div>
 
 <p><span class="author1-1">BORA:</span> Be it geopolitical conflict, climate change, or the economic value chain, the global view has now changed. During the COVID crisis, I was in Cambodia trying to get food to our people. The experience made us realise how vulnerable it is to always rely on global resources for our own needs and wellbeing. Having headed the coordination of one of the major side events for the Asia–Europe Meeting (ASEM) Summit, I see that in a volatile global economy, many countries believe that there needs to be a greater push for regional onshoring of certain trades. You must make sure that you have access to the resources—either within or close to your borders, to produce enough for yourself, be it food or other needs—rather than depend on countries far away.</p>
@@ -142,7 +142,13 @@ public sector is not only to deliver in the short term, but also in a sustainabl
 innovation and growth while promoting the prudent use of limited resources?</h5>
 </div>	
 
-<p><span class="author3-3">NARAIN:</span> The COVID pandemic opened our eyes, but sadly it seems we may have closed them again. During the pandemic, everyone was encouraged to plant vegetables at home, which was a good thing. But once things returned to normal, we stopped doing it and we went back to consuming imported food. The same applies to wo r k i n g f rom home, which reduced pollution and use of petrol. It would h ave b e e n g o o d  to integrate these pra c tices into our development processes and daily habits, to help our people make better use of resources. Some of these pandemic-era practices can help us better manage our resources, our time, and our health—even when we are not living in pandemic mode.</p>
+<p><span class="author3-3">NARAIN:</span> The COVID pandemic opened our eyes, but sadly it seems we may have closed them again. During the pandemic, everyone was encouraged to plant vegetables at home, which was a good thing. But once things returned to normal, we stopped doing it and we went back to consuming imported food. The same applies to wo r k i n g f rom home, which reduced pollution and use of petrol. It would have been good to integrate these pra c tices into our development processes and daily habits, to help our people make better use of resources.</p>
+	
+<p>Some of these pandemic-era practices can help us better manage our resources, our time, and our health—even when we are not living in pandemic mode.</p>
+
+<div class="narain">
+<p class="narain1">"Some pandemic-era practices can help us better manage our resources, our time and our health."</p>
+</div>
 
 
 
