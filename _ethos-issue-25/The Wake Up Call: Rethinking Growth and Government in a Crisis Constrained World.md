@@ -246,7 +246,7 @@ is a tough challenge. Traditionally, we understand economics in terms of consump
 
 <div class="author">
 	
-<h6>ABOUT THE AUTHOR</h6>	
+<h6>ABOUT THE AUTHORS</h6>	
 
 <p><b><span class="author1">Samheng Bora</span></b> is Undersecretary of State, Ministry of Commerce, Cambodia.</p>
 
