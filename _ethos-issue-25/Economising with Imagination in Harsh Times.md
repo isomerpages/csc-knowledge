@@ -299,7 +299,7 @@ Finally, there are often options for joining up the work of government in creati
 
 
 <div class="notestop">
-<p><b>Notes:</b></p>
+<h6>Notes:</h6>
 
 
 <ol>
