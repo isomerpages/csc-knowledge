@@ -117,9 +117,9 @@ color: #1C8A6F
 
 <p>If we want public goodwill, then we have to have ways in which the public can actually develop itself as a public with goodwill. When it comes to collective decision-making, sometimes you win and sometimes you lose. All the research shows that people will tend to go along with decisions they may not agree with, but that they know have been arrived at in a fair way, especially if they have been part of the process, even if they disagree with the outcome. While some might be sore losers, most people accept that they may lose today but they might win tomorrow if they have another go. This is why it is so important that the government is involved in this and receptive to the method, because you have to make sure that people have lots of goes at it. And of course, that they are not always on the losing side.</p>
 
+<h5>From Exclusive Competence to Inclusive Learning</h5>
 
-
-
+<p>One of the hardest things for civil servants—particularly in places like Singapore where there has been a tradition of government competence— is being ready to admit that you don't have all the answers.  And it is made particularly difficult in contemporary societies in which through forensic  </p>
 
 
 
