@@ -101,7 +101,7 @@ border: 3px solid darkblue;
 .author
 {
 font-style: italic;	
-font-size: 12px;
+font-size: 15px;
 }	
 	
 .notestop
