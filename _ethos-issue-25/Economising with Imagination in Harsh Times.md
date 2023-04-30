@@ -101,8 +101,11 @@ border: 3px solid darkblue;
 .author
 {
 font-style: italic;	
-font-size: 15px;
-}	
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+}
+	
 	
 .notestop
 {
@@ -116,10 +119,6 @@ margin-top:20px;
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg">
 </div>
-<div class="author"><p><b>Sir Geoff Mulgan CBE</b> is Professor at University College London, in the Science, Technology, Engineering and Public Policy team. He has had many previous roles including Head of Policy in the Prime Minister’s office and CEO of Nesta. He is the author of many books, including most recently Another World Is Possible: How to Reignite Political and Social Imagination (Hurst/Oxford University Press, 2022). His new book on art and social change—Prophets at a Tangent—is published in early 2023, with others in the pipeline: on science and politics, and the future of social science.</p></div>
-
-
-
 
 <p class="subhead"><span>T</span>here is much debate globally about how the accumulation of crises—economic, ecological, political and around energy—now amount to a polycrisis. Whether or not they are as connected as some believe, there is no doubting the pressure they are putting on public services across the world. Governments generally responded well to the COVID-19 pandemic, showing great agility. But one legacy of the pandemic is fiscal overstretch—and sharp constraints on resources which make it even harder to respond to the new crises. Meanwhile geopolitical pressures are pushing up spending on defence, which means even less resources available for other purposes.</p>
 
@@ -292,8 +291,8 @@ Finally, there are often options for joining up the work of government in creati
 
 <p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
-<br><br>
 
+<div class="author"><p><b>Sir Geoff Mulgan CBE</b> is Professor at University College London, in the Science, Technology, Engineering and Public Policy team. He has had many previous roles including Head of Policy in the Prime Minister’s office and CEO of Nesta. He is the author of many books, including most recently Another World Is Possible: How to Reignite Political and Social Imagination (Hurst/Oxford University Press, 2022). His new book on art and social change—Prophets at a Tangent—is published in early 2023, with others in the pipeline: on science and politics, and the future of social science.</p></div>
 
 
 <div class="notestop">
@@ -310,14 +309,6 @@ of the 21st Century”, UAE Global Innovation Council, 2021, accessed February 1
 	
 </ol>
 </div>
-
-
-	
-
-
-
-
-
 
 <br>
 <br>	
