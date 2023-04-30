@@ -36,7 +36,11 @@ color: #6FBE8A;
 border-bottom: 2px solid #A9414D;
 padding-bottom:20px;
 }
-	
+
+.title1 h5
+{
+color: #6FBE8A;	;
+}
 
 .num
 {
@@ -122,9 +126,44 @@ been satisfactory."</p>
 </div>
 
 
+<h5>Giving Outcome-Based Approaches the Best Chance to Work</h5>
+<br>
+<div class="title1">
+<h5>Clarify Intentions and End Goals
+</h5>
+</div>
 
+<p>It is important to clarify what one is trying to achieve through the outcome-based intervention, so that it can be carried out more intentionally, and evaluated appropriately. An important priority is thinking about the exit strategy: what happens at the end of the project. We have found this to be a revealing and provocative question in practice. </p>
 
+<p>Do you want to trial an intervention to deploy elsewhere once if the project ends, even outside an outcome-based programme? Or do you want to explore ways to better collaborate with partners? Or your goal might be prevention, in which case you might want to keep issuing similar contracts if they work by continuing to access patient capital. Once you know what you are really after, you can work backwards to set up an appropriate way to design and also evaluate the programme.</p>
 
+<p>Asking people to look forward to the future also obliges them to think about why they are embarking on this project. It prompts them to be more mission- and purpose-driven, and helps bring out the motivation of why people started on this work in the ﬁrst place. </p>
+
+<br>
+<div class="title1">
+<h5>Active Performance Management
+</h5>
+</div>
+
+<p>Much goes on during the delivery of a service that can make a difference to whether an intervention works. In typical public sector procurement, most attention is paid to a contract before it is issued, but afterwards little is paid to the job until the contract is due to be renewed. However, when an impact investor is involved in an outcome-based contract, they have a stake in making sure the project succeeds: otherwise, they lose their capital. 
+</p>
+
+<p>A good investor, typically in close collaboration with the other stakeholders involved in the programme, will practise active performance management: they will come to the table to check that things are on track, and that the outcomes are being delivered as intended. While there are transaction costs to meetings and handholding, there could be benefits from this hands-on approach that outweigh the additional cost as delivery problems can be tackled promptly.</p>
+
+<br>
+<div class="title1">
+<h5>Evaluate Outcomes Thoughtfully</h5>
+</div>
+
+<p>How impact is measured in outcome-based contracts is crucial. Metrics and performance indicators are meant to be proxies for what the outcomes are, but they exist on a continuum and not all of them will be directly indicative of the outcome. While it is rare for payment in outcome-based contracts to be 100% based on purely outcome-driven indicators, how these proxy measures are used seems to make a difference to the success of a project. They shape the motivation and focus of the contracted organisation.</p>
+
+<p>In one example we have seen, two organisations were given the same contract to tackle homelessness in the UK. One used the outcome-based approach to motivate staff to do things differently, and to redefine what good looked like. The other organisation, which was smaller and more dependent on the contract’s paid value, put emphasis on meeting targets. The metrics were the same, but the way they were used to manage staff was different. In one organisation, the emphasis was on learning how to achieve outcomes. In the other, staff seemed more pressured to deliver </p>
+
+<div class="break">
+<p class="break1">"Organisations that are willing to work in a relational fashion seem to make the best use of flexible contractual arrangements. "</p>
+</div>
+
+<p>on targets and demotivated. The same contract was deployed by one organisation to build a culture of learning and to focus on the long term, while the other used it transactionally. This experience teaches us that contractual clauses and technical features of these instruments are only half of the story.</p>
 
 
 
