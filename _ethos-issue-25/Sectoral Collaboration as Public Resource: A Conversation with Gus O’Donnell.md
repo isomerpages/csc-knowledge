@@ -59,8 +59,6 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg
 	margin-top: 50px;
 }	
 	
-
-
 .involve h5
 {
  color:#7c615e;	
@@ -97,6 +95,20 @@ margin:20px;
 #capacity h5,#deep-dives	h5
 {
 	color: #06945d;
+}	
+	
+	
+.author
+{
+font-style: italic;	
+font-size: 15px;
+}	
+	
+.notestop
+{
+font-style: italic;	
+font-size: 15px;
+margin-top:20px;
 }	
 </style>
 
