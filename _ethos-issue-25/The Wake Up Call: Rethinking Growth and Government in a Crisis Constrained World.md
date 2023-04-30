@@ -30,48 +30,6 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury, Narain
 	font-size:25px;
 }
 	
-.title h5
-{
-color: #6FBE8A;	
-border-bottom: 2px solid #A9414D;
-padding-bottom:20px;
-}
-
-.title1 h5
-{
-color: #6FBE8A;	;
-}
-
-.num
-{
-font-size:40px;
-color: #A9414D;
-}	
-	
-#indigo
-{
-padding:20px;
-background-color: #aa3a4b;
-color: white;
-}
-	
-#indigo h5
-{
- color:#96ceb3;
-}
-
-.title2 p
-{
-color: #f1bd72;
-font-weight: bold;
-font-size: 20px;
-}
-	
-#indigo a:link
-{
-color: white;
-}
-	
 ol li
 {
 font-size: 15px;	
@@ -91,6 +49,35 @@ color: #F05050;
 {
 color: #645ea9;
 }
+	
+.wake
+{
+margin-top:20px;
+}
+
+.wake h5
+{
+color: #1C8A6F
+}	
+	
+.author1-1
+{
+color: #F68A20;
+}
+
+.author2-2
+{
+color: #F05050;
+font-weight:bold;
+font-size:20px
+}
+	
+.author3-3
+{
+color: #645ea9;
+}	
+	
+	
 
 </style>
 
@@ -106,12 +93,22 @@ color: #645ea9;
 <cite>
 <p><b><span class="author3">Aruna Devi Narain</span></b> is Judge, Supreme Court of the Republic of Mauritius, and former Vice Chairperson and Rapporteur of the  UN Committee on the Elimination of  Discrimination against Women (CEDAW Committee).</p>
 </cite>
-
 	
-	
-<h5>Introduction</h5>
+<div class="wake">
+<h5>In the wake of COVID-19, geopolitical conflict, economic volatility and climate concerns, what in your view are the most pressing challenges facing the public sector today?</h5>
+</div>	
 
-<p>The Government Outcomes Lab is a research programme based at Oxford’s Blavatnik School of Government.1 It started in 2016 as a partnership between the UK Government and the University of Oxford, to look at ways to tackle complex social and environmental issues by working collaboratively across sectors. In today’s hybrid environment, public services are no longer just delivered by the public sector. Instead, we now see a multiplicity of actors, including the private sector, impact investors, non-profit organisations, voluntary groups and social enterprises. This is enriching, but also challenging: how do you bring them together to work effectively towards shared goals?</p>
+
+<p><span class="author2-2">CHOWDHOURY:</span> The foremost challenge is public trust and reliance. In the face of so many constraints in terms of resources and new pressures, the people need to trust the public sector to deliver and be able to rely on the public sector to ensure that their rights and services are secure, that their daily needs will be met.</p>
+
+<p>Politically, the challenge then is that when you are in power, you must respond to immediate demands, even if it may compromise sustainability in the long run.</p>
+
+<p><span class="author3-3">CHOWDHOURY:</span> The foremost challenge is public trust and reliance. In the face of so many constraints in terms of resources and new pressures, the people need to trust the public sector to deliver and be able to rely on the public sector to ensure that their rights and services are secure, that their daily needs will be met.</p>
+
+<p>Politically, the challenge then is that when you are in power, you must respond to immediate demands, even if it may compromise sustainability in the long run.</p>
+
+
+
 
 
 <p>When the GO Lab was set up, the UK Government was about to launch a very large programme called the Life  Chances Fund. This was aimed at exploring how a particular instrument—social impact bonds—could contribute to the portfolio of what government was doing. At the time, the evidence about the effectiveness of such instruments was still very weak. Since then, we have been working alongside government to investigate this, gathering evidence from all over the world on these instruments and how they work.</p>
