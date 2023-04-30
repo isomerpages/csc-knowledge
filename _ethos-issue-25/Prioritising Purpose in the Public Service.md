@@ -16,7 +16,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 .author
 {
 font-style: italic;	
-font-size: 15px;
+font-size: 12px;
 }
 
 	
