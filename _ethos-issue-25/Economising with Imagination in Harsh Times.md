@@ -105,7 +105,6 @@ border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
-padding-top:30px;
 }
 	
 	
@@ -294,7 +293,9 @@ Finally, there are often options for joining up the work of government in creati
 <p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
 
-<div class="author"><p><b>Sir Geoff Mulgan CBE</b> is Professor at University College London, in the Science, Technology, Engineering and Public Policy team. He has had many previous roles including Head of Policy in the Prime Minister’s office and CEO of Nesta. He is the author of many books, including most recently Another World Is Possible: How to Reignite Political and Social Imagination (Hurst/Oxford University Press, 2022). His new book on art and social change—Prophets at a Tangent—is published in early 2023, with others in the pipeline: on science and politics, and the future of social science.</p></div>
+<div class="author">
+	<h6>ABOUT THE AUTHOR</h6>	
+<p><b>Sir Geoff Mulgan CBE</b> is Professor at University College London, in the Science, Technology, Engineering and Public Policy team. He has had many previous roles including Head of Policy in the Prime Minister’s office and CEO of Nesta. He is the author of many books, including most recently Another World Is Possible: How to Reignite Political and Social Imagination (Hurst/Oxford University Press, 2022). His new book on art and social change—Prophets at a Tangent—is published in early 2023, with others in the pipeline: on science and politics, and the future of social science.</p></div>
 
 
 <div class="notestop">
