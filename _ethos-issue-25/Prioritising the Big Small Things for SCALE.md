@@ -418,7 +418,8 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Eileen Wong</b> is Principal Consultant at the Institute of Leadership and Organisation Development, Civil Service College. She leads the ILOD Transformation Team to provide consultancy services to help agencies and senior leaders build and transform their organisations to thrive. Her consultancy scope includes organisation transformation and change, organisation development, leadership team development, employee engagement and hybrid work design. </p></div>
+<p><b>Eileen Wong</b> is Principal Consultant at the Institute of Leadership and Organisation Development, Civil Service College. She leads the ILOD Transformation Team to provide consultancy services to help agencies and senior leaders build and transform their organisations to thrive. Her consultancy scope includes organisation transformation and change, organisation development, leadership team development, employee engagement and hybrid work design. </p>
+</div>
 
 <div class="notestop">
 <h6>Notes:</h6>
