@@ -7,12 +7,6 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg
 ---
 <style>
 
-.subhead::first-letter 
-{ 
-	initial-letter: 2;    
-	margin-right: .55em;
-	color: #1F5E61;
-}	
 
 	
 .back a
@@ -36,76 +30,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg
 	font-family: "montserrat";	
 	font-size:25px;
 }
-	
-#excel h5
-{
-	background-color: #329348;
-	padding:10px;
-	color: white;
-	width: 120px;
-	border-radius:10px;
-	margin-top: 50px;
-}
 
-#enable h5
-{
-	background-color: #329348;
-	padding:10px;
-	color: white;
-	width: 140px;
-	border-radius:10px;
-	margin-top: 50px;
-}
-
-#excite h5
-{
-	background-color: #329348;
-	padding:10px;
-	color: white;
-	width: 120px;
-	border-radius:10px;
-	margin-top: 50px;
-}	
-	
-
-
-.involve h5
-{
- color:#7c615e;	
-}
-	
-.involve
-{
-background-color:#f0ece6;
-padding:30px;
-margin-top:20px;
-}
-	
-.involve2 h6
-{
- color:#7c615e;	
-}	
-
-.involve2
-{
-background-color:#f0ece6;
-padding:1px;
-}
-	
-ol li
-{
-font-size: 16px;	
-}	
-	
-#capacity,#deep-dives
-{
-margin:20px;
-}
-
-#capacity h5,#deep-dives	h5
-{
-	color: #06945d;
-}	
 </style>
 
 
@@ -142,10 +67,10 @@ been satisfactory."</p>
 
 
 
+<h5>Three Logics of  Outcome-Based Contracting</h5>
+<h6>Logic of Collaboration <span>1</span></h6>
 
-
-
-<p>But more and more, we see countries a round the world tr ying to f ind  better alternatives to GDP, with some referring to happiness indices. I don’t use happiness much: as a species, we are evolutionarily guided towards immediate, short-term happiness and away from worrying about the long term. Instead, we should be thinking about how people can do the right things to lead worthwhile, satisfying lives over the long run.</p>
+<p>With complex social issues, there is often fragmentation: a person who is homeless, for instance, requires support from several different services. They may have a problem with ﬁnding a job, with the housing they have, alongside problems of substance abuse and mental health or family issues. </p>
 
 <p>Doing this would also reduce demands on the public sector. For instance, if we improve people’s diets, get them exercising, stop them smoking and so on, we keep people healthy, give them a better quality of life, and also reduce pressure on healthcare resources. This would also feed back into people being more productive, which improves the tax base with more resources to meet other needs.</p>
 
