@@ -48,7 +48,6 @@ border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
-padding-top:30px;
 }
 .notestop
 {
@@ -145,6 +144,7 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 
 
 <div class="author">
+	<h6>ABOUT THE AUTHOR</h6>
 <p><b>Kwa Chin Lum</b> is Director (Fiscal Policy) at the Ministry of Finance. He previously served as Special Assistant to Senior Minister Tharman Shanmugaratnam, and in various other Ministries.</p>
 
 
