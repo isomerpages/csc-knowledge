@@ -63,6 +63,8 @@ color: #1C8A6F
 .author1-1
 {
 color: #F68A20;
+font-weight:bold;
+font-size:20px;
 }
 
 .author2-2
@@ -128,6 +130,9 @@ public sector is not only to deliver in the short term, but also in a sustainabl
 <p class="narain1">"We cannot deliver public goods in a manner that would exhaust everything, leaving nothing for future generations"</p>
 </div>
 
+<p><span class="author1-1">BORA:</span> Be it geopolitical conflict, climate change, or the economic value chain, the global view has now changed. During the COVID crisis, I was in Cambodia trying to get food to our people. The experience made us realise how vulnerable it is to always rely on global resources for our own needs and wellbeing. Having headed the coordination of one of the major side events for the Asia–Europe Meeting (ASEM) Summit, I see that in a volatile global economy, many countries believe that there needs to be a greater push for regional onshoring of certain trades. You must make sure that you have access to the resources—either within or close to your borders, to produce enough for yourself, be it food or other needs—rather than depend on countries far away.</p>
+
+<p>So, while there is still a push for multilateralism, there is also the challenge of making sure a country is self-reliant to some extent. While this may be more difficult for a country like Singapore, we also see it taking this approach, for instance in its water desalination efforts.</p>
 
 
 
