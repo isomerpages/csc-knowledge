@@ -232,8 +232,9 @@ like your counterparts in the Singapore public sector to consider for the future
 
 <p>I believe this would also help the government better relate to young people.</p>
 
+<p><span class="author3-3">NARAIN:</span>Constant monitoring, assessment and streamlining are all  very good for efficiency, but I wonder what effects this can have on, for example, mental health. In Singapore, we have always been meeting leaders who are high-performing—who went to Stanford and got First Class at Cambridge and so on. What about those who are mid-range, not even lowest of the class? Those who are striving to keep up with the pack? </p>
 
-
+<p>In my work with the CEDAW (UN Convention on the Elimination of D i s c r imi nat i on aga i n st Women )Committee, we have reviewed so-called developed countries which are often much vaunted internationally, and score highly on happiness indices and so on, but when we review the data, we ﬁnd that some of their policies can have an adverse impact on citizens’ mental health. Because everyone has to conform to this model of being good, healthy, and perfect, those who are not as good may have mental health issues, and this is an aspect which many of us do not see and to which I would respectfully draw the attention of my Singaporean counterparts.</p>
 
 
 
