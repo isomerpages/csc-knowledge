@@ -113,6 +113,21 @@ color: #645ea9;
 	font-size:25px;
 }	
 	
+.bora
+{
+	background-color: #f58a22;
+ padding:30px;
+	color:white;
+	text-align:center;
+	margin-top:25px;
+	font-weight:bold;
+}
+	
+.bora1
+{
+	font-family: "montserrat";	
+	font-size:25px;
+}	
 	
 	
 
@@ -192,6 +207,15 @@ innovation and growth while promoting the prudent use of limited resources?</h5>
 <p><span class="author3-3">NARAIN:</span> I agree, but we also need State regulation—in a benevolent manner to ensure fair play, not for the sake of imposing obstacles.</p>
 
 <p>We need to ensure that regulation by the State is conducted in a dispassionate, objective manner, as it is in Singapore, according to set prescribed criteria. The public sector has to allow the private sector to provide services subject to appropriate regulation, and transparent and prescribed criteria.</p>
+
+<p><span class="author1-1">BORA:</span> Whether to regulate or let things happen is an ongoing debate, and it is not a clear-cut issue. Some things are just going to come whether or not we chase after it, such as blockchain or e-commerce.</p>
+
+
+<div class="bora">
+<p class="bora1">"Public policy, can bring attention to a sector that warrants it. The private sector also needs a wake-up call because they can get too comfortable"</p>
+</div>
+
+<p>But in other cases, such as agriculture, public policy can bring attention to a sector that warrants it. The private sector may also need a wake-up call because they can get too comfortable with making money in a conventional way, and not innovate or diversify. Sometimes it is just to remind them that there are things going on outside of their routine. I do believe the public sector needs to have a certain amount of forward thinking or foresight in its policies and regulation to do this well.</p>
 
 
 
