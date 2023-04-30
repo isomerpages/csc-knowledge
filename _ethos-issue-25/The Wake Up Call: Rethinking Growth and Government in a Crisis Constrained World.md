@@ -218,7 +218,11 @@ innovation and growth while promoting the prudent use of limited resources?</h5>
 <p>But in other cases, such as agriculture, public policy can bring attention to a sector that warrants it. The private sector may also need a wake-up call because they can get too comfortable with making money in a conventional way, and not innovate or diversify. Sometimes it is just to remind them that there are things going on outside of their routine. I do believe the public sector needs to have a certain amount of forward thinking or foresight in its policies and regulation to do this well.</p>
 
 
-
+<div class="wake">
+<h5>From your time at the Leaders in Governance Programme (LGP), is there 
+anything else that you have observed to be useful or interesting? What would you 
+like your counterparts in the Singapore public sector to consider for the future?</h5>
+</div>	
 
 
 
