@@ -262,10 +262,6 @@ is a tough challenge. Traditionally, we understand economics in terms of consump
 
 
 <br>
-
-
-<br>
-<br>
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
 </div>
