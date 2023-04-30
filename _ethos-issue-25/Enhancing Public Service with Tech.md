@@ -83,13 +83,27 @@ color: #3DB984;
 font-weight:bold;
 }	
 	
+.author
+{
+font-style: italic;	
+font-size: 15px;
+}	
+	
+.notestop
+{
+font-style: italic;	
+font-size: 15px;
+margin-top:20px;
+}	
 	
 </style>
 
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg">
 </div>
-<cite class="author"><p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p></cite>
+
+<div class="author"><p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
+</div>
 
 <h5>Transforming the Work of the Public Sector in an Age of Scarce Resources
 </h5>
@@ -173,14 +187,14 @@ font-weight:bold;
 
 <p>Most importantly, the future workplace is not just about using technologies. Its purpose is to help our officers become more productive and more engaged in their mission, instead of spending time jumping through hoops or dealing with red tape and other unnecessary processes. This is also about retaining people by keeping them engaged with the work they do and creating value for our country and fellow citizens.</p>
 
-<cite>
+<div class="notestop">
 <p><b>Notes:</b></p>
 <ol>
 <li>See: “Digital Government Blueprint”, accessed January 6, 2023, https://www.tech.gov.sg/digital-government-blueprint/.</li>
 <li>For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, https://www. developer.tech.gov.sg/singapore-government-tech-stack/.</li>
 <li>Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science.</li>
 </ol>	
-</cite>
+</div>
 
 
 <div id="for-more-info">
