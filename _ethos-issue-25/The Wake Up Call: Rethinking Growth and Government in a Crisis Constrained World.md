@@ -239,7 +239,11 @@ like your counterparts in the Singapore public sector to consider for the future
 <p><span class="author2-2">CHOWDHOURY:</span> Quantification
 is a tough challenge. Traditionally, we understand economics in terms of consumption and p roduc tion and therefore there is a financial  quantiﬁcation of what is growth, what is wellbeing.But what about deﬁning, redeﬁning welfare, or happiness in non-ﬁnancial terms? For instance, might we learn to be happy without being a conformist individual chasing after material aspirations and being in an elite talent pool?</p>
 
+<p>I see that there is a tendency to celebrate consumerism, which is contributing to a lot of issues, from mental health to environmental degradation. It is not sustainable.</p>
 
+<div class="chow">
+<p class="chow1">"What could Singapore do as a more enlightened society to contribute to humanism rather than to hyper-consumerism"</p>
+</div>
 
 
 
