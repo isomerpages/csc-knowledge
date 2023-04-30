@@ -86,24 +86,16 @@ border: 3px solid darkblue;
 	
 .orange
 {
-background-color:#d66a29;
-	color:white;
+  color:#d66a29;
 	font-weight: bold;
-	font-size: 15px;
-	padding:10px;
-	width: 240px;
-	border-radius: 12px;
+	font-size: 25px;
 }
 
 .oranges
 {
-background-color:#d66a29;
-	color:white;
+  color:#d66a29;
 	font-weight: bold;
-	font-size: 15px;
-	padding:10px;
-	width: 150px;
-	border-radius: 12px;
+	font-size: 25px;
 }
 	
 </style>
@@ -272,7 +264,7 @@ Open data enabling innovation, competition and new models (as has happened in Ô¨
 
 </ol>
 
-<p class="oranges">SMART TOOLS</p>
+<p class="oranges">JOINED-UP THINKING</p>
 <ol start="12">
 	<li><b>Economies of doubling up</b><br>
 Finally, there are often options for joining up the work of government in creative ways, promoting actions that address two problems or needs simultaneously (such as training up the young unemployed to work on home retroÔ¨Åt programmes).</li>	
