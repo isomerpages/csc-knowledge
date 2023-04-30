@@ -105,8 +105,8 @@ margin-top:20px;
 <div class="author"><p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
 </div>
 
-<h5>Transforming the Work of the Public Sector in an Age of Scarce Resources
-</h5>
+<h3>Transforming the Work of the Public Sector in an Age of Scarce Resources
+</h3>
 
 <p>Due to various headwinds in the world today, resourcing has become an increasingly pertinent concern in the tech space, and the public sector has not been spared. GovTech, through the Digital Government Blueprint,1 is making a difference by helping to realise Singapore’s public sector transformation, particularly in three broad areas: the Future of Work, our Future Workforce, and our Future Workplace.</p>
 
@@ -117,7 +117,7 @@ margin-top:20px;
 <p>With the pandemic unlocking hybrid modes of working and flexible work arrangements, we must explore how to enable more productive, ﬂexible and joyful Future Workplaces. How can we leverage digital technology to improve these new modes of working, enhance collaboration, and at the same time, maintain engagement with our public officers, as well as monitor their health and mental wellbeing? How should team leaders manage their workplaces differently in this new context?</p>
 
 
-<h5>Realising Digital Transformation</h5>
+<h3>Realising Digital Transformation</h3>
 <p>The Smart Nation and Digital Government Group (SNDGG), which includes GovTech, typically looks at three sets of stakeholders: citizens, businesses, and the Public Service. As Director of GovTech’s Digital Workplace, my purview is the stakeholder group comprising public officers. Our Future Workplace is one of my key themes of focus, but I also look at the Future of Work and how our public officers can leverage more data, as well as upskilling and other aspects of building up the future public sector workforce that we need.</p>
 
 <p>The work we do goes beyond just  gadgets and technology—it also addresses the psychological and cultural aspects of work. For example, team cohesion is an important element of work. After putting in place the technology to let our people connect and work remotely, we need to think about how to enable more seamless interaction and engagement. For example, after providing connectivity tools such as Zoom and SG-Teams, we want to support communities of practice, so we have technologies like Workplace from Meta, to help colleagues come together and share ideas and best practices to help each other level up on areas they may not be strong in. But having technology is one thing—people must also be willing to use the technology. Officers may have webcams, but they may not turn them on during online sessions. Getting people to turn on their webcams is not a technology issue; it’s a cultural one. So, one of our key priorities is the non-tech side of work.</p>
@@ -132,7 +132,7 @@ margin-top:20px;
 
 <p>We also have an online community through which we share the latest products as well as innovative uses of technology. We run workshops based on where the end-user agencies and teams are. These workshops may not always be for IT departments or Chief Information Officers (CIOs), but are often the officers on the ground. We show them how various tech tools can be usefully and securely adopted within the Public Service. We also share how other agencies have leveraged technology. For instance, HDB mounted a camera on a drone and used SG-Teams to do building inspections through livestreamed aerial drone video feeds. If an incident were to occur, this could also be used for crisis coordination and better appraisal of the situation. Such cases demonstrate how we can use available tech to do our work better and faster. By sharing these examples, we inspire new applications and new public sector innovations.</p>
 
-<h5>Making Data Available as a Generative Resource</h5>
+<h3>Making Data Available as a Generative Resource</h3>
 <p>Apart from technology, data is also an increasingly important resource for public sector work. A lot of data has already been made open and available, through platforms like data.gov.sg. Now the issue is whether we can continue to grow this data, and whether people will make use of it to create public value.</p>
 
 <p>What may hold people back from continuing to contribute data? When it comes to sharing data, public agencies typically adopt a mindset of sensitivity and security, and public officers tend to err on the safe side—this has long been ingrained, and for good reasons.</p>
@@ -142,7 +142,7 @@ margin-top:20px;
 <p>We need to encourage some mindset shifts. First, are we overclassifying our data? The right classiﬁcation is important. Some data used to be classiﬁed by default for selected senior management meetings. But after consulting the meeting secretariats,  we concluded that not everything needs to be classiﬁed by default. Some materials are meant to be published later and could be declassiﬁed. Do emails you forward to your staff need to be classiﬁed? Probably not. We want to inculcate the right leadership behaviours so that the right classiﬁcation cascades down the workﬂow and makes useful information more widely available. We want to put in place policies about data sharing: such as right classiﬁcation to reduce the tendency to overclassify data, and the democratisation of data by granting access according to an officer’s role, instead of by request or by name. This will promote a greater general willingness to share data, within, across and perhaps outside public agencies.</p>
 
 <div id="public-sector">
-<h5>What Technology Cannot Do for the Public Sector</h5>
+<h4>What Technology Cannot Do for the Public Sector</h4>
 <p>In a technology space, you can throw a lot of money and tools at various problems, but when the rubber hits the road, things may not always work. But that’s where you start getting new insights.</p>	
 </div>
 
@@ -153,7 +153,7 @@ margin-top:20px;
 
 <p>Finally, we need to encourage people to make use of the data, and that means having the right expertise to convert that data into useful insights and innovations. This relates to the work we are doing to upskill people around data analytics and promoting a data-driven culture. It is part of what we term Ops-Tech integration. As tech leaders, we need to work closely with the operations side of agencies so that our changes can reach our colleagues and beneﬁt their actual work.</p>
 
-<h5>Resourcing the Digital Workplace</h5>
+<h3>Resourcing the Digital Workplace</h3>
 <p>At GovTech, we are building several pieces that will support our public sector's digital transformation.</p>
 
 <p>The first is developing platforms to scale: something we call Scaling 10x. By adopting a platform approach, we can enjoy economies of scale, and achieve ten times the outcome even with constrained resources. The idea is to optimise our resources in an output or outcome-driven way. Some early examples of this include the Singapore Government Tech Stack, which leverages the Government Cloud.2 For speciﬁc services, such as cyber security, if you were to ask 10 agencies to list their requirements, you will likely have at least ﬁve teams asking for the same thing. That means a lot of resources will be spent on duplicating solutions. Instead, once we build a common platform and basic infrastructure, individual agencies can just focus on their mission outcomes and devote more time and resources</p>
@@ -166,7 +166,7 @@ margin-top:20px;
 	
 </div>
 
-<h5>Next Steps in the Digital Journey</h5>
+<h3>Next Steps in the Digital Journey</h3>
 <p>Moving forward, GovTech will focus on three key areas.</p>
 
 <p>The ﬁrst is digital inclusiveness. We have promoted tech aggressively, but we also  know that not everyone can just pick up new tech tools and run with them; people need to be supported in this transition. Furthermore, we do have diverse individuals—in the public sector as well as in Singapore more broadly—with different needs, including those with visual or physical challenges. How can we make sure our products consider these needs, such as in the way the user interface is designed?</p>
