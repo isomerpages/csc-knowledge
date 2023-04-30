@@ -129,21 +129,21 @@ margin:20px;
 
 <p>The core idea is what we call an outcome-based approach: we come to an agreement for the provision of a particular activity or service, but we will pay only when a certain level of predeﬁned outcomes has been  achieved. A social impact bond is thus a kind of outcome-based ﬁnancing model based on the presence of an impact investor who is willing to provide the upfront capital to provide the service, which will only be paid ex-post, and only if outcomes have been delivered.</p>
 
-
-
-
 <div class="break">
 <p class="break1">"Outcome-based approaches are most successfully deployed as part of attempts to do things differently because the status quo has not  
 been satisfactory."</p>
 </div>
 
-<h5>How should governments think differently about their longer-term resource concerns?</h5>
+<p>The idea is that the impact investor will bear the risk in case the pre-agreed outcomes have not been achieved. Given the resource constraints of the public sector, outcome-based contracting is hence, potentially, a good way to make more efficient use of resources, because the government only has to pay when it works. If a programme is successful, and governments pay for the achieved outcomes, the originally invested capital could even be reinvested in the same  or other programmes.</p>
 
-<p>In the UK, as with many countries including Singapore, you have populations that are getting older on average, driving up the dependency ratios. In the UK, we also see the rise in what we call ‘inactivity’ in the 50+ age group. During COVID, many in this group worked from home and a number of them realised they preferred it to commuting to work—at the end of the lockdowns, they decided to exit the workforce rather than return to the office. This raises the question of whether their pensions are enough to keep them going. For now, they have decided that they are better off not working than working.</p>
+<p>In my view, having looked at these approaches for several years, outcome-based approaches are most successfully deployed as part of attempts to do things differently because the status quo has not been satisfactory. However, it can be tricky to distinguish between whether a programme has worked because of  a particular intervention, or the governance arrangement (i.e., the outcome-based approach) under which it was implemented. Sometimes, what works is the combination and interaction of the two.</p>
 
-<p>As a group, economists might narrow-mindedly say well, we just have to get them back to work. But is that really the right thing? What we ﬁnd is that this is an age group that are thinking that they have enough and are not particularly interested in earning money anymore. At my charity Pro Bono Economics, we have evidence that many more people are now thinking about volunteering instead. In fact, many of these people are active and very highly skilled. There are a lot of things we can do to engage with them and make them socially productive, increasing the supply side of important activities.</p>
+<p>Nevertheless, in our research, we have found that outcome-based contracts tend to be most effective when designed and used intentionally to improve collaboration, prevention or innovation.</p>
 
-<p>One issue we have to come to grips with is that volunteering generates no income and will not show up in GDP. This is one reason why we should not judge societal success by GDP growth rates. For instance, parents who decide to stay at home and look after their children are doing something valuable, yet it is going to hit GDP as opposed to them going into traditional employment. We need to bear in mind that if they do go to work and pay for childcare, there will be a lot more taxes generated compared to if they stay at home. So there are public finance implications to thinking this way, which will need to be factored in.</p>
+
+
+
+
 
 <p>But more and more, we see countries a round the world tr ying to f ind  better alternatives to GDP, with some referring to happiness indices. I don’t use happiness much: as a species, we are evolutionarily guided towards immediate, short-term happiness and away from worrying about the long term. Instead, we should be thinking about how people can do the right things to lead worthwhile, satisfying lives over the long run.</p>
 
