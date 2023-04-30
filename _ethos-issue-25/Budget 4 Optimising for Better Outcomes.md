@@ -91,14 +91,14 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 
 <p>To be better prepared for such challenges, the Ministry of Finance (MOF) is implementing three improvements to Budget 3.0. Collectively, these make up Budget 4.0.</p>
 
-<h5>STRENGTHENING REALLOCATION</h5>
+<h3>STRENGTHENING REALLOCATION</h3>
 
 <p>The first prong of Budget 4.0 involves strengthening reallocation mechanisms, to allow the shifting of funds from less relevant programmes to emerging and meritorious areas of need. If all our resources were allocated to individual Ministries as block budgets, there would be no room for any reallocation. To reallocate effectively, we need to increase the size of our reallocative resource pools and reduce the size of resource buffers decentralised within individual block budgets and statutory boards. For Ministries, this means a baseline that grows more slowly, resulting in pressures to better manage programme costs and to review the continued relevance of programmes. Statutory boards would retain smaller amounts of monies for</p> 
 
 <figure><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_3.jpg"></figure>
-<figcaption>
+<cite>
 <b>	Figure 2. </b> Budget 1.0 to 4.0
-</figcaption>
+</cite>
 
 <p>near-term operational needs, instead of accumulating large surpluses for asset replacement and acquisition of new assets over the longer term.</p>
 
@@ -106,12 +106,12 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 
 <p>As our resident labour force growth slows to near zero after the end of the decade, we have to be highly discerning about where we deploy our officers, or there will be fewer residents available for the workforce. We have no choice, unless the public were to accept more foreign workers within our shores, which would introduce new stresses to our social fabric.</p>
 
-<h5>FOSTERING ALIGNMENT</h5>
+<h3>FOSTERING ALIGNMENT</h3>
 <p>Creating joint budgets to foster greater cross-agency collaboration on speciﬁc issues is MOF’s way of intervening for greater Whole-of-Government (WOG) and multi-agency outcomes. Through the joint budgets, agencies are expected to rationalise efforts, achieve greater cost effectiveness and enhance accountability for shared outcomes. Operationally, MOF will partner parties interested in starting a joint budget to ensure appropriate governance structures, apportionment of resources and responsibilities, as well as proper tracking of KPIs and utilisation.</p>
 
 <p>There are broadly three models of joint budgeting arrangements (see Figure 3), each suited for different purposes.</p>
 
-<h5>ENHANCING NIMBLENESS</h5>
+<h3>ENHANCING NIMBLENESS</h3>
 <p>To better prepare for quicker responses to non-routine, uncertain and emergent problems, the pace of reallocation will be increased through faster evaluation and more efficient allocation of resources. Proposals will be prioritised based on the projects’ risk-scored strategic importance, urgency and innovative value. Efforts spent on evaluation will be commensurate with the resource requirements and risk level of each project. There will also be greater leeway for MOF to time-shift reallocative resource pools across ﬁnancial years to better resource agencies’ needs. This will help cater for unexpected and/or lumpy expenditure requested of our reallocative pools.</p>
 
 <p>For agencies seeking to validate pilot projects at the agency level, resources are available via the Public Service</p>
@@ -119,9 +119,9 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 <figure>
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_4.jpg">
 </figure>
-<figcaption>
+<cite>
 <b>Figure 3.</b> Three Models of Joint Budgeting Arrangements
-</figcaption>
+</cite>
 
 <p>Transformation and Initiation Budgets. The WOG Public Service Transformation budget is also available for cross-agency pilot projects. Such budgets are intended to foster a culture of experimentation and innovation for incipient projects in the Public Service, anticipating that successful pilots might be scaled up for greater beneﬁt over the medium to long term.</p>
 
@@ -133,9 +133,9 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 <figure>
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_5.jpg">
 </figure>
-<figcaption>
+<cite>
 <b>Figure 4.</b> Budgetary Mechanisms for a Nimble Public Service
-</figcaption>
+</cite>
 
 <div class="break">
 <p class="break1">Optimising the system at a macro-level will be of limited benefit if individual officers are not ready or able to maximise spending effectiveness and outcomes. </p>
