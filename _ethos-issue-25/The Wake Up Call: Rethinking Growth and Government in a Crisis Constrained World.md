@@ -134,9 +134,9 @@ public sector is not only to deliver in the short term, but also in a sustainabl
 
 <p>So, while there is still a push for multilateralism, there is also the challenge of making sure a country is self-reliant to some extent. While this may be more difficult for a country like Singapore, we also see it taking this approach, for instance in its water desalination efforts.</p>
 
-<p><span class="author2-2">CHOWDHOURY:</span> So as much as we should consider a certain degree of self-reliance, we also need to accept and carefully manage the risks of trade. When it comes to multilateral trade, we see that relationships can change, and then where do you go? You need to have several options open, rather than be reliant on only one source, say of your energy or food supply.</p>
+<p><span class="author2-2">CHOWDHOURY:</span> For Bangladesh, the constraint is that even if we can meet the basic food needs of our 170 million people domestically, we cannot make up for it in terms of nutritional value: we can produce all the rice we want, but we still need to ﬁnd sources of protein and other nutrients from elsewhere. As societies develop more complex consumer bases, they also begin to demand more complex ingredients, such as cooking oils which they can’t always produce themselves.</p>
 
-<p></p>
+<p>So as much as we should consider a certain degree of self-reliance, we also need to accept and carefully manage the risks of trade. When it comes to multilateral trade, we see that relationships can change, and then where do you go? You need to have several options open, rather than be reliant on only one source, say of your energy or food supply.</p>
 
 
 
