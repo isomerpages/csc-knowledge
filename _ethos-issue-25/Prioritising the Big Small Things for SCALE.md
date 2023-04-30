@@ -210,12 +210,6 @@ padding-bottom:30px;
 border-top: 1px solid black;	
 }
 	
-.notestop
-{
-font-style: italic;	
-font-size: 15px;
-margin-top:30px;
-}
 	
 	
 </style>
