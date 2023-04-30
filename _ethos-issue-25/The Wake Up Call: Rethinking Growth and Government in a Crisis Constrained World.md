@@ -253,14 +253,6 @@ is a tough challenge. Traditionally, we understand economics in terms of consump
 
 <br>
 
-<cite>
-<p><b>Note:</b></p>
-<ol class="note">
-<li>Government Outcomes Lab, accessed February 23, 2023, https://golab.bsg.ox.ac.uk/ </li>
-</ol>
-</cite>
-
-
 
 <br>
 <br>
