@@ -247,8 +247,8 @@ the use of disposables in their daily habits, such as bringing their tumbler, re
 <p><b>Lim Tuang Liang</b> is Government Chief Sustainability Officer (GCSO) and Deputy Secretary (Special Duties) in the Ministry of Sustainability and the Environment (MSE). In these roles, he works with public sector agencies to develop and coordinate strategies for the Singapore Green Plan 2030 and GreenGov.SG. He also spearheads the Government's partnership with stakeholders, including businesses, civil society partners and individuals, to advance our national sustainability agenda. He has served in the National Research Foundation, the Singapore Armed Forces, and on the boards of the Defence Science Technology Agency, Defence Science Organisation and IE Singapore. </p>
 	
 <p>The author wishes to thank the Public Sector Sustainability Office and Sustainability Partnerships Office for contributing to the drafting of this article.</p>
-	
 </div>	
+
 
 <div class="notestop">
 <h6>NOTES:</h6>
