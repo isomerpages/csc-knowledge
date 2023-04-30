@@ -92,10 +92,6 @@ background-color:#f0ece6;
 padding:1px;
 }
 	
-ol li
-{
-font-size: 16px;	
-}	
 	
 #capacity,#deep-dives
 {
