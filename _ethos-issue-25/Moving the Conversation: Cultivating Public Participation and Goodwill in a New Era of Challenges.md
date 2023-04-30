@@ -103,6 +103,25 @@ color: #1C8A6F
 <p>Deliberation is going to be crucial, because people need to understand how things work when they are asked to make and also accept decisions: even minor or local ones. This is how we help bridge the gap and ﬁght fake news: by not just sharing information, but also having discussions and involving people. Just like you don’t learn how to drive a car only by reading the manual but by getting behind the wheel, so citizens need experience in being involved in civic issues and making decisions.</p>
 
 
+<div class="break">
+<p class="break1">"Public participation is a muscle. People need to be asked to exercise it regularly, and this needs to be a fact of life"</p>
+</div>
+
+<p>You see this in participatory budgeting, where people realise that even in the best case, you only get to play around with about 4% of the total national budget: the rest of it has already been allocated to education, health, housing and so on. And that’s one of the first lessons: to realise how little leeway policymakers have to make these discretionary decisions. To learn how to take responsibility, citizens need to walk a little in decision-makers’  shoes, both to feel empowered, but also to realise what the real constraints are. For instance, as pension reform triggers protests around France, it is striking how little people understand about the constraints on public spending in the future.</p>
+
+<p>Beyond sharing information and more inclusive involvement, public deliberation also needs to be granted time to be effective and powerful. Peter Macleod, who runs a deliberation design studio called MASS LBP,1 based in Toronto, argues that people should see civic deliberation, public consultation and public decision-making like jury duty or national service—something that they will be called upon a few times in life to do to play their part in their community. Public participation is a muscle. People need to be asked to exercise it regularly, and this needs to be a fact of life.</p>
+
+<p>An important aspect of public participation is to move from what we have collectively thought of as a one-way street government engaging with citizens—to citizens engaging the other way as well. But just as crucial is to nurture and mediate citizen-to-citizen conversations. While it is important for institutions to open up and be more inclusive, what’s also important is for people to talk to each other. This is necessary for people to think about what they want, to realise others have different priorities, and to be able to disagree and so on. Those conversations with each other (not just with those in power) are the basis of civic life.</p>
+
+<p>This process also requires stewardship. The public sector needs to work with civil society, but you also need to make sure that you create the spaces in which these conversations can take place, and that you have, for instance, an educational curriculum that cultivates this in the classroom. Instead of just shoving information into young people’s heads, they also need to be able to use their time to talk to one another —and again, to learn to appreciate differences of opinion, of preferences, of perspectives.  It is one of Canada’s great achievements that it has managed to make diversity of views something that Canadians collectively value. This is the basic principle of an open society.</p>
+
+<p>If we want public goodwill, then we have to have ways in which the public can actually develop itself as a public with goodwill. When it comes to collective decision-making, sometimes you win and sometimes you lose. All the research shows that people will tend to go along with decisions they may not agree with, but that they know have been arrived at in a fair way, especially if they have been part of the process, even if they disagree with the outcome. While some might be sore losers, most people accept that they may lose today but they might win tomorrow if they have another go. This is why it is so important that the government is involved in this and receptive to the method, because you have to make sure that people have lots of goes at it. And of course, that they are not always on the losing side.</p>
+
+
+
+
+
+
 
 
 
