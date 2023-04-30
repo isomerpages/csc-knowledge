@@ -196,10 +196,7 @@ text-decoration: none;
 }
 
 	
-ol li
-{
-font-size: 16px;	
-}	
+
 	
 .author
 {
