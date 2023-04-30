@@ -207,6 +207,9 @@ font-style: italic;
 border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
+border-top: 1px solid black;	
+padding-top:30px;
+
 }
 	
 .notestop
