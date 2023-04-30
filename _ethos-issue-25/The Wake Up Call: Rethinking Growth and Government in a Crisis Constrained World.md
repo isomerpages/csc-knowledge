@@ -36,10 +36,6 @@ border-top: 1px solid black;
 	font-size:25px;
 }
 	
-ol li
-{
-font-size: 15px;	
-}
 	
 .author1 
 {
