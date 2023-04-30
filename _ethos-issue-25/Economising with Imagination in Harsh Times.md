@@ -108,7 +108,7 @@ background-color:#d66a29;
 	
 </style>
 
-<div id="banner">
+<div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg">
 </div>
 <cite class="author"><p><b>Sir Geoff Mulgan CBE</b> is Professor at University College London, in the Science, Technology, Engineering and Public Policy team. He has had many previous roles including Head of Policy in the Prime Minister’s office and CEO of Nesta. He is the author of many books, including most recently Another World Is Possible: How to Reignite Political and Social Imagination (Hurst/Oxford University Press, 2022). His new book on art and social change—Prophets at a Tangent—is published in early 2023, with others in the pipeline: on science and politics, and the future of social science.</p></cite>
