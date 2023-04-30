@@ -135,13 +135,13 @@ margin-top:20px;
 	<li>We need a framework for thinking creatively about how to achieve <b>economies</b> within public services: going beyond the standard tools of cuts, trimming and delay to more creative options for restructuring services and changing the contract with citizens.</li>
 </ol>	
 
-<h5>INTELLIGENCE AS A CORE TASK OF GOVERNMENT</h5>
+<h3>INTELLIGENCE AS A CORE TASK OF GOVERNMENT</h3>
 <p>Governments have always relied on intelligence to do their work. But whereas in the past this was thought about primarily in relation to enemies and threats, espionage and war, they now need to think systematically about intelligence in relation to everyday tasks, from transport to healthcare, welfare to education</p>
 
 <p>This became very apparent during the pandemic. As I showed in a recent study of how governments—and the societies around them—mobilised intelligence to handle the COVID-19 pandemic and its effects, the last few years brought an explosion of innovation in new ways to organise intelligence.  The pandemic was an unprecedented event in its global impacts and in the scale of government responses and required a myriad of policy decisions: about testing, lockdowns, masks, school closures, visiting rules at care homes and vaccinations. All of these depended on inputs of intelligence including data, evidence, models, tacit knowledge, foresight, and creativity and innovation.</p>
 
 <div id="improvising">
-	<p class="improve">IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</p>
+<p class="improve">IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</p>
 
 <p>During the pandemic, Taiwan’s ‘Digital Fencing System’ monitored locations based on triangulating a phone’s position relative to nearby telephone masts. </p>
 
@@ -171,7 +171,7 @@ Source: Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisi
 
 <p>Only with transformed structures, processes and cultures will it be possible to see more clearly what is working and what isn’t, to generate solutions faster and to direct resources to where they are needed most urgently.</p>
 
-<h5>MONEY: REFORMING PUBLIC FINANCE</h5>
+<h3>MONEY: REFORMING PUBLIC FINANCE</h3>
 <p>There are also implications for how money is organised. Governments are meant to be there for the long term: able to defend their people, guarantee their pensions or cope with big challenges like climate change. Yet they are often trapped by the tyranny of immediate pressures. This is particularly true in relation to finance, which has seen surprisingly few innovations in recent years to better align how government works with what it needs to do.</p>
 
 <div class="break">
@@ -206,7 +206,7 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 
 <p>This will be even more vital as hard choices have to be made about what to protect, what to cut and what to expand. Without some sense of likely impacts over time, governments will make even more arbitrary decisions and will be even more at risk of boomerang effects of the kind that the UK has suffered, with strong evidence now that cuts in the early 2010s have had disastrous effects later in the decade on everything, from life expectancy to productivity.</p>
 
-<h5>ECONOMIES AND ECONOMISING</h5>
+<h3>ECONOMIES AND ECONOMISING</h3>
 
 <p>It is not hard to come up with good suggestions for spending more money. It is much harder to work out how to save money without doing harm. Much of the world is always looking for ways to be frugal, and even the rich countries are now going through another period of stringency. Such periods of retrenchment can be bad for innovation and creativity. But there are ways to combine imagination and reductions in spending.</p>
 
@@ -218,7 +218,7 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 
 <img src="images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_4.jpg">
 
-<h5>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h5>
+<h3>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h3>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
 
 
