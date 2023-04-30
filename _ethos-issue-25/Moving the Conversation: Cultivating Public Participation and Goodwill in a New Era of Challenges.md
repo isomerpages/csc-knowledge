@@ -6,7 +6,14 @@ description: ""
 image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_CatherineFieschi.jpg
 ---
 <style>
-
+.author
+{
+font-style: italic;	
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+}
 	
 .back a
 {
@@ -79,13 +86,7 @@ margin-top:20px;
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_CatherineFieschi.jpg">
 </div>
-
-<div class="author">
-<p><b>Catherine Fieschi</b>is the Founder and Executive Director of Counterpoint Global, the London-based research and advisory group, and a Visiting Fellow at Singapore’s Civil Service College. Through her focus on contemporary forms of mobilisation, Catherine assesses new forms of risk and their effects on global markets and politics and advises business and political leaders around the world. As a political scientist, Catherine believes that rigorous social and cultural analyses can help leaders make better decisions, in both the public and private sectors.</p>
-</div>
-
 	
-
 <h3>A Shift in Public Discourse</h3>
 
 <p>Over the past few years, there has been a signiﬁcant shift in the global public conversation. In Europe, this was the outcome of several crises: there was the COVID-19 pandemic and its shock to supply chains, but there were also massive ﬂoods, and massive heatwaves that have even caused a collapse in the electric grid in some large cities. There was COP26, that raised dire warnings about potential damage and loss from climate impacts. And then there was the Russian invasion of Ukraine and all its implications (including its energy implications), and a growing unease with relying on China.</p>
@@ -156,8 +157,10 @@ margin-top:20px;
 <p>This is why public deliberation and public stewardship are vital as we face our new world.</p> 
 
 <br>
-<br>
-<br>
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>
+<p><b>Catherine Fieschi</b>is the Founder and Executive Director of Counterpoint Global, the London-based research and advisory group, and a Visiting Fellow at Singapore’s Civil Service College. Through her focus on contemporary forms of mobilisation, Catherine assesses new forms of risk and their effects on global markets and politics and advises business and political leaders around the world. As a political scientist, Catherine believes that rigorous social and cultural analyses can help leaders make better decisions, in both the public and private sectors.</p>
+</div>
 
 <div class="notestop">
 <p><b>Note:</b></p>
