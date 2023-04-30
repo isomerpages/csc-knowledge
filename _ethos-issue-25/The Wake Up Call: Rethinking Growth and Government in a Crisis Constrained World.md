@@ -9,9 +9,11 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury, Narain
 .author
 {
 font-style: italic;	
-font-size: 15px;
-}	
-	
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+}
 .notestop
 {
 font-style: italic;	
@@ -145,22 +147,12 @@ color: #645ea9;
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury,%20Narain.jpg">
 </div>
-
-<div class="author">
-<p><b><span class="author1">Samheng Bora</span></b> is Undersecretary of State, Ministry of Commerce, Cambodia.</p>
-</div>
-<div class="author">
-<p><b><span class="author2">Mohibul Hasan Chowdhoury</span></b> is Deputy Minister of Education, Ministry of Education, People’s Republic of Bangladesh. </p>
-</div>
-<div class="author">
-<p><b><span class="author3">Aruna Devi Narain</span></b> is Judge, Supreme Court of the Republic of Mauritius, and former Vice Chairperson and Rapporteur of the  UN Committee on the Elimination of  Discrimination against Women (CEDAW Committee).</p>
-</div>
 	
 <div class="wake">
 <h3>In the wake of COVID-19, geopolitical conflict, economic volatility and climate concerns, what in your view are the most pressing challenges facing the public sector today?</h3>
 </div>	
 
-<p><span class="author2-2">CHOWDHOURY:</span> The foremost challenge is public trust and reliance. In the face of so many constraints in terms of resources and new pressures, the people need to trust the public sector to deliver and be able to rely on the public sector to ensure that their rights and services are secure, that their daily needs will be met.</p>
+<p><span class="author2-2">CHOWDHOURY:</span> The foremost challenge is public trust and reliance. In the face of so many constraints in terms of resources and new ressures, the people need to trust the public sector to deliver and be able to rely on the public sector to ensure that their rights and services are secure, that their daily needs will be met.</p>
 
 <p>Politically, the challenge then is that when you are in power, you must respond to immediate demands, even if it may compromise sustainability in the long run.</p>
 
@@ -259,7 +251,16 @@ is a tough challenge. Traditionally, we understand economics in terms of consump
 
 <p>And what about doing something completely different to increase the welfare, mental health, happiness, or aesthetic values of individuals? These questions do not show up in policy discussions at all, or at least not until the pandemic. We should continue to think about these issues.</p>
 
+<div class="author">
+	
+<h6>ABOUT THE AUTHOR</h6>	
 
+<p><b><span class="author1">Samheng Bora</span></b> is Undersecretary of State, Ministry of Commerce, Cambodia.</p>
+
+<p><b><span class="author2">Mohibul Hasan Chowdhoury</span></b> is Deputy Minister of Education, Ministry of Education, People’s Republic of Bangladesh. </p>
+
+<p><b><span class="author3">Aruna Devi Narain</span></b> is Judge, Supreme Court of the Republic of Mauritius, and former Vice Chairperson and Rapporteur of the  UN Committee on the Elimination of  Discrimination against Women (CEDAW Committee).</p>
+</div>
 
 <br>
 <div class="back">
