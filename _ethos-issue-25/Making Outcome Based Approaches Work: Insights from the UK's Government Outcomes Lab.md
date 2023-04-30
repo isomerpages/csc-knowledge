@@ -7,7 +7,6 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg
 ---
 <style>
 
-
 	
 .back a
 {
@@ -30,6 +29,21 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg
 	font-family: "montserrat";	
 	font-size:25px;
 }
+	
+.title h5
+{
+color: #6FBE8A;	
+border-bottom: 2px solid #A9414D;
+padding-bottom:20px;
+}
+	
+
+.num
+{
+font-size:40px;
+color: #A9414D;
+}	
+	
 
 </style>
 
@@ -66,13 +80,54 @@ been satisfactory."</p>
 <p>Nevertheless, in our research, we have found that outcome-based contracts tend to be most effective when designed and used intentionally to improve collaboration, prevention or innovation.</p>
 
 
-
 <h5>Three Logics of  Outcome-Based Contracting</h5>
-<h6>Logic of Collaboration <span>1</span></h6>
-
+<br>
+<div class="title">
+<h5><span class="num">1</span>&nbsp;&nbsp;&nbsp;Logic of Collaboration</h5>
+</div>
+	
 <p>With complex social issues, there is often fragmentation: a person who is homeless, for instance, requires support from several different services. They may have a problem with ﬁnding a job, with the housing they have, alongside problems of substance abuse and mental health or family issues. </p>
 
-<p>Doing this would also reduce demands on the public sector. For instance, if we improve people’s diets, get them exercising, stop them smoking and so on, we keep people healthy, give them a better quality of life, and also reduce pressure on healthcare resources. This would also feed back into people being more productive, which improves the tax base with more resources to meet other needs.</p>
+<p>No single agency can offer support in all these dimensions. Typically, what happens is that there are separate contracts: one to support housing, a separate one to support employment, and yet another to support mental health. And the person who needs these has to report to separate agencies and retell their story; the respective service providers don’t collaborate.</p>
+
+<p>Here, an outcome-based approach seems to be promising because it is not premised on who delivers what service or how it is organised: what you want to see is the outcome, which is a person finding their way out of an unsustainable situation. Usually, an organisation emerges as the main contractual counterpart who works with a portfolio of other organisations offering different services. Often, a link worker, who knows the individual client’s situation and needs, then offers wraparound care, guiding them through the different services, making the connections and offering a holistic package that makes sense for the person needing help.</p>
+
+<p>An outcome-based contract makes this arrangement easier to operate, because you have one coordinating organisation responsible for the overall outcome, with the freedom to organise personalised packages of different services to make an overall difference.</p>
+
+<br>
+<div class="title">
+<h5><span class="num">2</span>&nbsp;&nbsp;&nbsp;&nbsp;Logic of Prevention</h5>
+</div>
+
+<p>The public sector is often ﬁreﬁghting and having to intervene in one crisis after another. With greater demand for public services and increasingly constrained resources, the pressure is to cut provision in some areas. The investments that bring beneﬁts only in the longer term, such as preventative services, are often the ones that get dropped ﬁrst.</p>
+
+<p>This is where an outcome-based approach with a logic of prevention has been promising. A programme might have access to funds to help reduce the number of ﬁres that need to be fought in future—and this pays back the investment that is made at the beginning, through cost savings. Outcomes to prevent long-term unemployment reduce demand for support services down the road.</p>
+
+<p>In such projects, you can have a case history and track record to see where trends are going, allowing you to make an informed guess on whether the intervention has made a difference in changing the trend and reducing the cost of the service. The cost savings can then be shared between the public sector and those who have made it happen.</p>
+
+
+<br>
+<div class="title">
+<h5><span class="num">3</span>&nbsp;&nbsp;&nbsp;&nbsp;Logic of Innovation</h5>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="break">
 <p class="break1">"We should be thinking about 
