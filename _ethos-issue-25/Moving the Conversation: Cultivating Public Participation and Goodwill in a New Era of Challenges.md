@@ -8,7 +8,6 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_CatherineFieschi.jpg
 <style>
 .author
 {
-font-style: italic;	
 border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
@@ -65,21 +64,7 @@ margin-top:20px;
 .wake h3
 {
 color: #1C8A6F
-}	
-	
-.author
-{
-font-style: italic;	
-font-size: 15px;
-}	
-	
-.notestop
-{
-font-style: italic;	
-font-size: 15px;
-margin-top:20px;
-}
-	
+}		
 
 </style>
 
@@ -163,7 +148,7 @@ margin-top:20px;
 </div>
 
 <div class="notestop">
-<p><b>Note:</b></p>
+<h6>NOTES:</h6>
 <ol class="note">
 <li>See: MASS LBP, https://www.masslbp.com/.</li>
 </ol>
