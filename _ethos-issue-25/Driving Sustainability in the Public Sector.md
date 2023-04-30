@@ -59,7 +59,15 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	color: #329348;
 	margin-top: 50px;
 }	
-	
+
+.author
+{
+font-style: italic;	
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+}	
 
 
 .involve h5
@@ -120,13 +128,6 @@ margin-top:20px;
 
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg"></div>
-
-<div class="author"><p><b>Lim Tuang Liang</b> is Government Chief Sustainability Officer (GCSO) and Deputy Secretary (Special Duties) in the Ministry of Sustainability and the Environment (MSE). In these roles, he works with public sector agencies to develop and coordinate strategies for the Singapore Green Plan 2030 and GreenGov.SG. He also spearheads the Government's partnership with stakeholders, including businesses, civil society partners and individuals, to advance our national sustainability agenda. He has served in the National Research Foundation, the Singapore Armed Forces, and on the boards of the Defence Science Technology Agency, Defence Science Organisation and IE Singapore. </p>
-	
-<p>The author wishes to thank the Public Sector Sustainability Office and Sustainability Partnerships Office for contributing to the drafting of this article.</p>
-	
-</div>	
-	
 	
 <p class="subhead"><span>S</span>ustainability is a whole-of-nation endeavour. In 2021, we launched the Singapore Green Plan 2030 (“Green Plan”) and GreenGov.SG to rally collective Saction to tackle climate change, as a nation and within the public sector. GreenGov.SG will raise the bar on sustainability within the public sector in three ways: First, <b>Excel</b> by setting new and more ambitious targets; second, <b>Enable</b> a green economy and citizenry by embedding sustainability in our core business and third, <b>Excite</b> public officers to contribute to sustainability in Singapore.</p>
 
@@ -253,6 +254,14 @@ the use of disposables in their daily habits, such as bringing their tumbler, re
 <p>Climate change is an existential threat for all of us here in Singapore. As a public service, we can and should take the lead in environmental sustainability. Together with the support of businesses and communities, we can realise a green, liveable and climate-resilient home for all Singaporeans.</p>
 	
 <br>
+
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>
+<p><b>Lim Tuang Liang</b> is Government Chief Sustainability Officer (GCSO) and Deputy Secretary (Special Duties) in the Ministry of Sustainability and the Environment (MSE). In these roles, he works with public sector agencies to develop and coordinate strategies for the Singapore Green Plan 2030 and GreenGov.SG. He also spearheads the Government's partnership with stakeholders, including businesses, civil society partners and individuals, to advance our national sustainability agenda. He has served in the National Research Foundation, the Singapore Armed Forces, and on the boards of the Defence Science Technology Agency, Defence Science Organisation and IE Singapore. </p>
+	
+<p>The author wishes to thank the Public Sector Sustainability Office and Sustainability Partnerships Office for contributing to the drafting of this article.</p>
+	
+</div>	
 
 <div class="notestop">
 <p><b>Notes:</b></p>
