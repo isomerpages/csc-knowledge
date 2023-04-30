@@ -71,11 +71,7 @@ font-size: 20px;
 {
 color: white;
 }
-	
-ol li
-{
-font-size: 15px;	
-}
+
 	
 	
 .author
