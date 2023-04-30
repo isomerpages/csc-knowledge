@@ -35,11 +35,7 @@ border-top: 1px solid black;
 	font-family: "montserrat";	
 	font-size:25px;
 }
-	
-ol li
-{
-font-size: 15px;	
-}
+
 	
 .author1 
 {
@@ -148,7 +144,7 @@ color: #1C8A6F
 </div>
 
 <div class="notestop">
-<h6>NOTES:</h6>
+<h6>NOTE:</h6>
 <ol class="note">
 <li>See: MASS LBP, https://www.masslbp.com/.</li>
 </ol>
