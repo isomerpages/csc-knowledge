@@ -49,12 +49,7 @@ margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
 }
-.notestop
-{
-font-style: italic;	
-font-size: 15px;
-margin-top:20px;
-}
+
 	
 </style>
 
@@ -151,7 +146,7 @@ Please refer to MOF’s Occasional Paper on Medium-Term Fiscal Projections (publ
 <p><b>Kyle Goh</b> is Associate in the Fiscal Policy directorate at the Ministry of Finance, and works on strategic planning and policy research at the Ministry and Whole-of-Government levels.</p>
 </div>
 
-	
+<br>	
 <div class="notestop">
 <p><b>Note:</b></p>
 <ol>
