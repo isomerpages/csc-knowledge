@@ -86,7 +86,7 @@ margin-top:20px;
 
 	
 
-<h5>A Shift in Public Discourse</h5>
+<h3>A Shift in Public Discourse</h3>
 
 <p>Over the past few years, there has been a signiﬁcant shift in the global public conversation. In Europe, this was the outcome of several crises: there was the COVID-19 pandemic and its shock to supply chains, but there were also massive ﬂoods, and massive heatwaves that have even caused a collapse in the electric grid in some large cities. There was COP26, that raised dire warnings about potential damage and loss from climate impacts. And then there was the Russian invasion of Ukraine and all its implications (including its energy implications), and a growing unease with relying on China.</p>
 
@@ -110,7 +110,7 @@ margin-top:20px;
 <p>This could also be aspirational: in Singapore, it could be about reframing the story so that Singaporeans are called to contribute their particular expertise not just to the country but also to a changing world, to help solve humanity’s challenges for the future.</p>
 
 
-<h5>Strengthening Public Participation</h5>
+<h3>Strengthening Public Participation</h3>
 
 <p>This is work that needs to be carried out across society. In this regard, the most important thing that governments can do is to share expertise—and in fact expertise can be co-created! Raising awareness is important, but it needs to be rooted in understanding, in facts, and so on. It is not enough for expertise to be held by governments or civil servants: and it is not enough for it to be shared out, so that public deliberation is well-informed. That’s a ﬁrst step.  But it needs to go further: the public needs to be involved in creating and elaborating that expertise. This is what will make its use legitimate and less questioned.</p>
 
@@ -131,7 +131,7 @@ margin-top:20px;
 
 <p>If we want public goodwill, then we have to have ways in which the public can actually develop itself as a public with goodwill. When it comes to collective decision-making, sometimes you win and sometimes you lose. All the research shows that people will tend to go along with decisions they may not agree with, but that they know have been arrived at in a fair way, especially if they have been part of the process, even if they disagree with the outcome. While some might be sore losers, most people accept that they may lose today but they might win tomorrow if they have another go. This is why it is so important that the government is involved in this and receptive to the method, because you have to make sure that people have lots of goes at it. And of course, that they are not always on the losing side.</p>
 
-<h5>From Exclusive Competence to Inclusive Learning</h5>
+<h3>From Exclusive Competence to Inclusive Learning</h3>
 
 <p>One of the hardest things for civil servants—particularly in places like Singapore where there has been a tradition of government competence— is being ready to admit that you don't have all the answers.  And it is made particularly difficult in contemporary societies in which through forensic</p>
 
