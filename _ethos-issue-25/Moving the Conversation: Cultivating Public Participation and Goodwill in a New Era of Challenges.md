@@ -144,7 +144,7 @@ color: #1C8A6F
 <br>
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<p><b>Catherine Fieschi</b>is the Founder and Executive Director of Counterpoint Global, the London-based research and advisory group, and a Visiting Fellow at Singapore’s Civil Service College. Through her focus on contemporary forms of mobilisation, Catherine assesses new forms of risk and their effects on global markets and politics and advises business and political leaders around the world. As a political scientist, Catherine believes that rigorous social and cultural analyses can help leaders make better decisions, in both the public and private sectors.</p>
+<p><b>Catherine Fieschi</b> is the Founder and Executive Director of Counterpoint Global, the London-based research and advisory group, and a Visiting Fellow at Singapore’s Civil Service College. Through her focus on contemporary forms of mobilisation, Catherine assesses new forms of risk and their effects on global markets and politics and advises business and political leaders around the world. As a political scientist, Catherine believes that rigorous social and cultural analyses can help leaders make better decisions, in both the public and private sectors.</p>
 </div>
 
 <div class="notestop">
