@@ -208,8 +208,6 @@ border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
-padding-top:30px;
-
 }
 	
 .notestop
@@ -425,7 +423,9 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 
 <br>
 
-<div class="author"><p><b>Eileen Wong</b> is Principal Consultant at the Institute of Leadership and Organisation Development, Civil Service College. She leads the ILOD Transformation Team to provide consultancy services to help agencies and senior leaders build and transform their organisations to thrive. Her consultancy scope includes organisation transformation and change, organisation development, leadership team development, employee engagement and hybrid work design. </p></div>
+<div class="author">
+	<h6>ABOUT THE AUTHOR</h6>	
+<p><b>Eileen Wong</b> is Principal Consultant at the Institute of Leadership and Organisation Development, Civil Service College. She leads the ILOD Transformation Team to provide consultancy services to help agencies and senior leaders build and transform their organisations to thrive. Her consultancy scope includes organisation transformation and change, organisation development, leadership team development, employee engagement and hybrid work design. </p></div>
 
 <div class="notestop">
 <p><b>Notes:</b></p>
