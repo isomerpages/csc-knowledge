@@ -68,10 +68,10 @@ us, because it means that Singaporeans trust us to deliver and they look to us f
 <p>If anything, COVID-19 has reaffirmed the value of good governance and the importance of the Public Service. This is why we need to continue to keep officers engaged in the Service and staying well.</p>
 
 <div class="break">
-<p class="break1">It is important  to refocus public service workload on what really matters.</p>
+<p class="break1">It is important to refocus public service workload on what really matters.</p>
 </div>
 
-<h5>Creating More Purposeful Work</h5>
+<h3>Creating More Purposeful Work</h3>
 <p>In 2022, we launched a movement to manage work. We initially calledit the “Reduction Movement” but are deciding on a different phrase because it is not just about reducing unnecessary work, but also about uplifting the joys of work, emphasising purpose, and making a much bigger commitment through words and deeds to the development, progression and learning of all our officers. 
 </p>
 
@@ -91,7 +91,7 @@ us, because it means that Singaporeans trust us to deliver and they look to us f
 and foremost starts from a culture of wanting to do things better.</p>
 </div>
 
-<h5>Balancing Care, Performance and Growth</h5>
+<h3>Balancing Care, Performance and Growth</h3>
 
 <p>We can draw an analogy with athletes at the very peak of their performance envelope, for example, LeBron James and Michael Jordan. To get to their highest performance levels, they have to train a lot. But what performance science tells us is they also have to recover, rest and recharge in order to continue to train and push their performance envelope. So, care, growth and innovation are mutually reinforcing. </p>
 
@@ -109,7 +109,7 @@ and foremost starts from a culture of wanting to do things better.</p>
 
 <p>It is important for us to deliver work professionally and with pride, but one’s identity cannot just be about work. It is just as critical to set aside time for other important priorities such as family and friends, or just private time, rest and reﬂection.</p>
 
-<h5>Challenges to Reprioritising Work</h5>
+<h3>Challenges to Reprioritising Work</h3>
 
 <p>Culturally, it is not easy for us to let go of work. This stems from a certain sense of pride in our work, which is why we push ourselves so hard and work long hours and on weekends. But our move towards reprioritising and reducing workload is not at all about compromising professional pride or outcomes.</p>
 
@@ -125,7 +125,7 @@ and foremost starts from a culture of wanting to do things better.</p>
 
 <p>We do not have to do it all alone. If anything, we have people and private sector organisations who are much more enabled and enthused about working with us to deliver these outcomes, and we should take full advantage of that. This is not just from a resourcing standpoint but has also to do with the way we operate nationally as a public sector. It is right that we take a more inclusive approach and involve multiple stakeholders. Let’s do that more, and better.</p>
 
-<h5>Leadership and Prioritisation</h5>
+<h3>Leadership and Prioritisation</h3>
 <p>Ultimately, the greatest resource  constraint, for anyone, is time. It’s highly perishable, not transferable, and not reversible. Prioritisation has always been part of the picture. Everyone has always had to work towards a resource envelope and make trade-offs. It is just that the envelope will be a bit tighter in future. Good leaders can never achieve good outcomes if they do not figure out
 what a team needs to deliver; how they need to resource that endeavour; and how they organise themselves for success.</p>
 
@@ -139,7 +139,7 @@ what a team needs to deliver; how they need to resource that endeavour; and how 
 
 <p>Fundamentally, we have to care for our officers and live up to our commitment and responsibility to them. We cannot take them for granted. This is a basic principle of people management that is true now when we are thinking about a more resource-constrained environment, but it was true even when we had more surplus, and the world was more benign.</p>
 
-<h5>Reframing Public Sector Transformation</h5>
+<h3>Reframing Public Sector Transformation</h3>
 
 <p>I would like to see more widespread acknowledgement and awareness of the importance of this movement, starting from the top. We want our officers to know we are serious and that this is intended for them: that it isn’t just about slogans, or something imposed by senior management.</p>
 
