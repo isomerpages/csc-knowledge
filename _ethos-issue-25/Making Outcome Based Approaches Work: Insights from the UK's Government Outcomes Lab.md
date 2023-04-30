@@ -48,6 +48,26 @@ font-size:40px;
 color: #A9414D;
 }	
 	
+#indigo
+{
+padding:20px;
+background-color: #aa3a4b;
+color: white;
+}
+	
+#indigo h5
+{
+ color:#96ceb3;
+}
+
+.title2 p
+{
+color: #f1bd72;
+font-weight: bold;
+font-size: 20px;
+}
+
+	
 
 </style>
 
@@ -189,6 +209,24 @@ been satisfactory."</p>
 <p class="break1">" We need to invest in creating a professional norm that emphasises learning and being open to sharing the insights from both what has worked well and what has not. "</p>
 </div>
 
+
+<div id="indigo">
+<h5>INDIGO</h5> 
+
+<div class="title2">
+<p>International Network on Data Impacting Government Outcomes</p>
+</div>
+	
+<p>INDIGO is a collaborative initiative of the Government Outcomes Lab. It gathers data—made available either publicly or through our stakeholders—related to impact bonds and outcome-based contracts from all over the world into an online database for like-minded individuals to learn from how these approaches have been used in the past.</p>
+	
+<p>For example, anyone who wants to launch a contract in education can go to INDIGO and ﬁnd similar contracts or data on related projects. They can look up or compare projects in a particular sector or region and reach out to people that were involved in past projects.</p>	
+	
+<p>INDIGO seeks to digitise and make accessible all empirical evidence on outcome-based contracts, as well as papers, reports and evaluations that provide credible empirical insights on how the outcome-based approach works. The aim is to bring evidence to bear in public sector decision-making, as well as to capture and promote institutional learning about this approach globally.</p>	
+
+<p>For more information, see:
+<b>https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/</b></p>	
+	
+</div>
 
 
 
