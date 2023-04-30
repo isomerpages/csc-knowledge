@@ -156,6 +156,10 @@ innovation and growth while promoting the prudent use of limited resources?</h5>
 
 <p><span class="author1-1">BORA:</span> The pandemic was a wake- up call for Cambodia. Our thriving garment export industry, which we relied on economically, dried up when the global value chain was disrupted. At the same time, the agricultural sector blossomed. We realised not only did we need domestic produce to feed our people, but that we had the entire food chain and nutrient mix within our own country.</p>
 
+<p>So there has been a renewed effort to push our agriculture industry forward. We already produce foods, such as rice, which are exported to other countries to be repackaged as their products. If we improve our own processing and packaging capabilities to meet international standards, we can make them our own products to export.</p>
+
+<p>Without a crisis like the pandemic, we would still be looking to manufacturing industries and attracting foreign investments to those sectors to create jobs. But now we are pushing our own private sector to play a larger role in creating jobs for their fellow  Cambodians. Of course, we are still going to have manufacturing, but now, apart from having international ﬁrms come to produce goods that are sold under their own brands, we also want to produce Cambodian products for the world.</p>
+
 
 
 
