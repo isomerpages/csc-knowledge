@@ -8,7 +8,7 @@ image: /images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.
 table
 { 
 border-collapse: separate; 
-border-spacing: 20px 10px;
+border-spacing: 30px 10px;
 }	
 
 td
