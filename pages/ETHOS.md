@@ -15,6 +15,11 @@ border-spacing: 30px 10px;
 	width: 50%;
 }
 	
+.cat
+{
+	font-size: 16px;
+}
+	
 td
 {
 	border-style : hidden!important;
@@ -51,8 +56,8 @@ td
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
 </td>
 
-<td class="text">PRINT ISSUE 25, MAR 2023
-<h3>ETHOS Print Issue 25</h3>	
+<td class="text">
+	<h3><span class="cat">PRINT ISSUE 25, MAR 2023</span> ETHOS Print Issue 25</h3>	
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
     
     
@@ -99,11 +104,11 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 <tr>
 
 <td class="img">
-<img src="/images/Ethos_Digital_10/layered.jpg"></td>
+<img src="/images/Cropped_images/Ethos_Issue_25/Print25_02.jpg"></td>
 
 <td class="text">	
-<h3>Prioritisation</h3>
-<b><i>by Aurora De Souza Watters</i></b>
+<h3>Prioritising Purpose in the Public Service</h3>
+<b><i>by Gabriel Lim</i></b>
 
 <p>	
 Five key challenges can hinder efforts to put previous time, effort and resources to their best uses. Here's how to identify and address them.
