@@ -49,7 +49,7 @@ td
 
 <h3>Latest Issue</h3>
 	
-<table>
+<table id="top">
 <tbody>
 <tr>
 <td class="img">
