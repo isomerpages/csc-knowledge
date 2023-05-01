@@ -95,7 +95,7 @@ This digital edition of ETHOS features a spread of articles exploring different 
 <tr>
 
 <td class="img">
-<img src="/images/Ethos_Digital_10/layered.jpg"></td>
+<img src="/images/Cropped_images/Ethos_Digital_10/layered.jpg"></td>
 
 <td class="text">	
 <h3>Prioritisation</h3>
@@ -115,7 +115,7 @@ Five key challenges can hinder efforts to put previous time, effort and resource
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Ethos_Digital_10/lettinggo_banner-teaser.jpg"></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Digital_10/lettinggo_banner-teaser.jpg"></td>
 
 <td class="text">	
 <h3>Prioritising Work and Letting Go: The Emotional Dimension</h3>
@@ -136,7 +136,7 @@ We should acknowledge our deep connection to our work and learn from what we hav
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Ethos_Digital_10/when_projects_change_or_end_bannerteaser.jpg"></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Digital_10/when_projects_change_or_end_bannerteaser.jpg"></td>
 
 <td class="text">	
 <h3>When Projects Change or End: Practical Steps to Manage Stakeholder Expectations</h3>
@@ -157,7 +157,7 @@ Effective stakeholder communication can help ease disruption and promote buy-in 
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Ethos_Digital_10/lifelonglearning_bannerteaser.jpg"></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Digital_10/lifelonglearning_bannerteaser.jpg"></td>
 
 <td class="text">	
 <h3>Lifelong Learning through a Global Lens</h3>
