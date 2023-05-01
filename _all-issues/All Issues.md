@@ -59,20 +59,7 @@ font-size: 16px;
 
 <br>
 
-
-
-	
-	
-
-
-
-
-
-
-
 <h3>2022</h3><table id="container-2022">
-
-	
 
 <tbody>
 
