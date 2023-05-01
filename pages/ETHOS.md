@@ -36,6 +36,8 @@ td
 
 
 	
+	
+	
 </style>
 
 
@@ -68,7 +70,7 @@ td
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Ethos_Digital_10/editorial_landing.jpg"></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_25/editorial_landing.jpg"></td>
 
 <td class="text">	
 <h3>Editorial </h3>
