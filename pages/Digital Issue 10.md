@@ -16,6 +16,11 @@ border-spacing: 30px 10px;
 	width: 50%;
 }
 	
+.cat
+{
+font-size: 15px;	
+}
+	
 td
 {
 	border-style : hidden!important;
@@ -47,14 +52,15 @@ td
 <img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg">
 </td>
 
-<td class="text">DIGITAL ISSUE 10, MAR 2023
-<h3>Ethos Print Issue 10</h3>	
+<td class="text"><h3><span class="cat">DIGITAL ISSUE 10, MAR 2023</span>
+Ethos Print Issue 10</h3>	
 <p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
 
 
 <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></div>
 	
 </td>
+	
 </tr>
 	
 </tbody>
