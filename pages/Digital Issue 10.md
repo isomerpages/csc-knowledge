@@ -8,21 +8,23 @@ image: /images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.
 table
 { 
 border-collapse: separate; 
-border-spacing: 30px 10px;
+border-spacing: 20px 10px;
 }	
-
+	
+	
+#top img
+{
+	width:2000px
+}
+	
+	
 td
 {
 	border-style : hidden!important;
 }
-
-#column-1 img	
-{
-width:2300px;	
-}
 	
 
-#editorial,#purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome,#wake-up-call
+#editorial,#section-1,#section-2,#section-3,#section-4
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
@@ -40,7 +42,7 @@ width:2300px;
 </style>
 	
 	
-<table id="column-1">
+<table id="top">
 <tbody>
 <tr>
 <td>
@@ -66,7 +68,7 @@ width:2300px;
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Landing_Banner_Images/editorial_landing.jpg"></td>
+<td class="img"><img src="/images/Digital%20Issue%2010%20assets/editorial_landing.jpg"></td>
 
 <td>	
 <h3>Editorial </h3>
