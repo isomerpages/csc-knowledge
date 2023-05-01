@@ -148,7 +148,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 <tbody>
 
 <tr>
-<td class="img"><img src="images/Cropped_images/Ethos_Issue_25/Print25_04.jpg"></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_25/Print25_04.jpg"></td>
 
 <td class="text">	
 <h3>Economising with Imagination in Harsh Times</h3>
