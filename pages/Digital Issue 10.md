@@ -20,12 +20,6 @@ td
 {
 width:2300px;	
 }
-
-#editorial img
-{
-width:2500px;
-}
-	
 	
 
 #editorial,#purpose,#scale,#econ, #budget, #enhance, #driving,#sector,#outcome,#wake-up-call
