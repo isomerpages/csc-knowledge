@@ -52,7 +52,7 @@ td
 
 
 
-<h3>Latest Issue</h3>
+<h2>Latest Issue</h2>
 	
 <table id="top">
 <tbody>
