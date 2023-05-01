@@ -28,11 +28,7 @@ contacts:
   - content:
       - phone: ""
       - email: cscollege@cscollege.gov.sg
-      - other: ""
+      - other: Alternatively, you may wish to visit www.csc.gov.sg to find out more
+          about CSC's offerings and services.
     title: General Enquiries
-  - content:
-      - phone: ""
-      - email: cscollege@cscollege.gov.sg
-      - other: ""
-    title: Online Feedback
 ---
