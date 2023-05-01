@@ -26,12 +26,17 @@ td
 }
 	
 
-#editorial,#section-1,#section-2,#section-3,#section-4
+#editorial,#section-1,#section-2,#section-3,#section-4,#section-5,#section-6,#section-7,#section-8,#section-9
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
 }
 
+#section-10
+{
+		margin-top:20px;
+}
+	
 .button1 a
 {
 	color: #9f2943;
@@ -294,7 +299,3 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 </tr>
 </tbody>
 </table>
-
-
-
-
