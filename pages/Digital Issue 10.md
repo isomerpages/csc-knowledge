@@ -53,7 +53,7 @@ td
 </td>
 
 <td class="text"><h3><span class="cat">DIGITAL ISSUE 10, MAR 2023</span>
-Ethos Print Issue 10</h3>	
+<br>Ethos Print Issue 10</h3>	
 <p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
 
 
