@@ -55,7 +55,11 @@ td
 
 	
 </style>
-	
+
+
+
+
+
 	
 <table id="top">
 <tbody>
@@ -78,6 +82,36 @@ td
 </tbody>
 </table>
 <br>
+
+<table id="foreword">
+<tbody>
+
+<tr>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print-23-foreword.jpg"></td>
+
+<td class="text">	
+<h3>Foreword </h3>
+<b><i>by Ong Toon Hui</i></b>
+<figcaption>
+Dean and CEO, Civil Service College
+</figcaption>
+	
+<p>	This year, the Civil Service College marks its 20th year since becoming a statutory board in 2001.</p>	
+
+<div class="button1"><a href="#">Read More</a></div> <br>
+</td>
+	
+	
+</tr>
+	
+</tbody>
+</table>
+
+
+
+
+
+
 
 
 <table id="editorial">
@@ -228,4 +262,3 @@ Nudges and other behaviourally compatible strategies could help address the chal
 </tr>
 </tbody>
 </table>
-
