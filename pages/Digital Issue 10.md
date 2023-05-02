@@ -16,6 +16,11 @@ border-spacing: 30px 10px;
 	width: 50%;
 }
 	
+.img img
+{
+margin-top:25px;	
+}	
+	
 .cat
 {
 font-size: 15px;	
