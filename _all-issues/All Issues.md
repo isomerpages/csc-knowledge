@@ -13,7 +13,7 @@ width:50%;
 table
 { 
 border-collapse: separate; 
-border-spacing: 10px 20px; 	
+border-spacing: 15px 20px; 	
 }	
 
 th,td 
