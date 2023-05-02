@@ -22,6 +22,12 @@ border-spacing: 30px 10px;
 margin-top:15px;	
 }	
 	
+#section-1 img
+{
+filter: drop-shadow(0px 0px 1px black);
+}	
+
+	
 .cat
 {
 font-size: 15px;	
