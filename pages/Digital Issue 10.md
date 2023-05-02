@@ -32,11 +32,16 @@ td
 }
 	
 
-#editorial,#section-1,#section-2,#section-3,#section-4
+#editorial,#section-1,#section-2,#section-3
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
 }
+#section-4
+{
+margin-top:20px;	
+}
+	
 
 .button1 a
 {
@@ -164,7 +169,7 @@ Effective stakeholder communication can help ease disruption and promote buy-in 
 </table>
 
 
-<table id="budget">
+<table id="section-4">
 <tbody>
 
 <tr>
