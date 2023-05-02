@@ -247,14 +247,14 @@ Nudges and other behaviourally compatible strategies could help address the chal
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-05.jpg"></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-miss1.jpg"></td>
 
 <td class="text">	
-<h3>Breaking Down Barriers in Blended Learning</h3>
-<b><i>by Charmaine Lim, Mervin Loi, and Do Hoang Van Khanh </i></b>
+<h3>LEAD BY LEARNING IN A DIGITAL WORLD</h3>
+<b><i>N. Venkat Venkatraman</i></b>
 
 <p>	
-Nudges and other behaviourally compatible strategies could help address the challenges of learning modes that blend face-to-face and online learning.
+There will be no one universal model of digital learning that suits all settings, but new tools and platforms will allow for richer multimedia engagement that can overcome the sensory stress that plagues today’s technologies.
 </p>	
 
 <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
