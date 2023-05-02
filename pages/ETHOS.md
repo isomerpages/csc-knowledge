@@ -17,7 +17,7 @@ border-spacing: 30px 10px;
 	
 .img img
 {
-margin-top:25px;	
+margin-top:15px;	
 }
 	
 .cat
