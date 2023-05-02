@@ -145,17 +145,16 @@ Being prepared for a volatile and uncertain world may involve not just learning 
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-03.jpg"></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-03.jpg"></td>
 
 <td class="text">	
-<h3>When Projects Change or End: Practical Steps to Manage Stakeholder Expectations</h3>
-<b><i>by Khoo Ee Wan</i></b>
+<h3>Metaphors &amp; Mental Models: Updating Our Language for Public Sector Learning</h3>
+<b><i>by Aaron Maniam</i></b>
 
 <p>	
-Effective stakeholder communication can help ease disruption and promote buy-in for new goals if projects have to be modified or deprioritised.
-</p>	
+We need to rethink what it means to learn and be learners, in a complex, dynamic and fluid world where many answers are not predetermined, but must be cultivated and co-evolved.</p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="#">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
