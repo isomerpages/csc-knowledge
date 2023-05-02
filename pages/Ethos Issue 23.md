@@ -115,7 +115,7 @@ In this issue, ETHOS commemorates two decades since CSC's formation as a statuto
 <p>	
 Four top public service leaders, including the current Head, Civil Service, reflect on the role of the Civil Service College in nurturing a robust, cogent and future-ready public sector in Singapore.</p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="#">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -125,17 +125,16 @@ Four top public service leaders, including the current Head, Civil Service, refl
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-02.jpg"></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-02.jpg"></td>
 
 <td class="text">	
-<h3>Prioritising Work and Letting Go: The Emotional Dimension</h3>
-<b><i>Aurora De Souza Watters</i></b>
+<h3>Learning for the Future</h3>
+<b><i>by Angel Chew </i></b>
 
 <p>	
-We should acknowledge our deep connection to our work and learn from what we have gained from each experience, as we refocus on new challenges.
-</p>	
+Being prepared for a volatile and uncertain world may involve not just learning about what faces us ahead, but also relearning—or unlearning—lessons of old.</p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a href="#">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
