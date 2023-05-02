@@ -300,3 +300,24 @@ There will be no one universal model of digital learning that suits all settings
 </tr>
 </tbody>
 </table>
+
+
+<table id="section-9">
+<tbody>
+
+<tr>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-07.jpg"></td>
+
+<td class="text">	
+<h3>ENGAGING HEARTS AND MINDS: A Conversation about 
+Learning Experience Design</h3>
+<b><i>by Khoo Ee Wan, Aurora de Souza Watters, and Suniartie Sudyono</i></b>
+
+<p>Four seasoned practitioners share their perspectives on crafting immersive, learner-centred approaches that may lead 
+to more enduring outcomes in and beyond the workplace.</p>	
+
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
