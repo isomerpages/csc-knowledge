@@ -39,7 +39,7 @@ td
 }
 	
 
-#editorial,#section-1,#section-2,#section-3,#section-4
+#editorial,#section-1,#section-2,#section-3,#section-4, #section-5
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
@@ -175,11 +175,32 @@ We need to rethink what it means to learn and be learners, in a complex, dynamic
 <td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-04.jpg"></td>
 
 <td class="text">	
-<h3>Lifelong Learning through a Global Lens</h3>
-<b><i>by Patrick Tay</i></b>
+<h3>Future of Learning and Development In The Singapore
+Public Service</h3>
+<b><i>by  Iva Aminuddin, Wan Chng, and Vera Lim </i></b>
 
 <p>	
-Around the world, countries have sought to enhance their workers’ prospects with closer partnerships between sectors, greater clarity about learning goals, more flexibility with educational modes, and ensuring access to training for those who need it most.
+By deepening their ability to identify relevant trends and anticipate emerging needs, learning and development practitioners can help shape the future of their organisations.</p>	
+
+<div class="button1"><a href="#">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<table id="section-5">
+<tbody>
+
+<tr>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-05.jpg"></td>
+
+<td class="text">	
+<h3>Breaking Down Barriers in Blended Learning</h3>
+<b><i>by Charmaine Lim, Mervin Loi, and Do Hoang Van Khanh </i></b>
+
+<p>	
+Nudges and other behaviourally compatible strategies could help address the challenges of learning modes that blend face-to-face and online learning.
 </p>	
 
 <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
@@ -187,3 +208,24 @@ Around the world, countries have sought to enhance their workers’ prospects wi
 </tr>
 </tbody>
 </table>
+
+<table id="section-6">
+<tbody>
+
+<tr>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-05.jpg"></td>
+
+<td class="text">	
+<h3>Breaking Down Barriers in Blended Learning</h3>
+<b><i>by Charmaine Lim, Mervin Loi, and Do Hoang Van Khanh </i></b>
+
+<p>	
+Nudges and other behaviourally compatible strategies could help address the challenges of learning modes that blend face-to-face and online learning.
+</p>	
+
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
