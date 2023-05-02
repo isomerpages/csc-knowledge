@@ -251,7 +251,7 @@ Nudges and other behaviourally compatible strategies could help address the chal
 
 <td class="text">	
 <h3>LEAD BY LEARNING IN A DIGITAL WORLD</h3>
-<b><i>N. Venkat Venkatraman</i></b>
+<b><i>by N. Venkat Venkatraman</i></b>
 
 <p>	
 There will be no one universal model of digital learning that suits all settings, but new tools and platforms will allow for richer multimedia engagement that can overcome the sensory stress that plagues today’s technologies.
@@ -271,7 +271,7 @@ There will be no one universal model of digital learning that suits all settings
 
 <td class="text">	
 <h3>LEAD BY LEARNING IN A DIGITAL WORLD</h3>
-<b><i>N. Venkat Venkatraman</i></b>
+<b><i>by Michael Chew, Hoe Wee Meng, and Kelvin Tan </i></b>
 
 <p>	Artificial intelligence could soon transform learning by augmenting human empathy and judgement with rich, context-sensitive information.
 </p>	
@@ -290,7 +290,7 @@ There will be no one universal model of digital learning that suits all settings
 
 <td class="text">	
 <h3>NURTURING: FUTURE LEADERS</h3>
-<b><i>N. Venkat Venkatraman</i></b>
+<b><i>by Khoo Ee Wan, Aurora de Souza Watters, and Suniartie Sudyono</i></b>
 
 <p>	Artificial intelligence could soon transform learning by augmenting human empathy and judgement with rich, context-sensitive information.
 </p>	
