@@ -11,6 +11,7 @@ border-collapse: separate;
 border-spacing: 30px 10px;
 }	
 
+
 .text
 {
 	width: 50%;
@@ -161,11 +162,11 @@ We need to rethink what it means to learn and be learners, in a complex, dynamic
 </table>
 
 
-<table id="budget">
+<table id="section-4">
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-04.jpg"></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-04.jpg"></td>
 
 <td class="text">	
 <h3>Lifelong Learning through a Global Lens</h3>
