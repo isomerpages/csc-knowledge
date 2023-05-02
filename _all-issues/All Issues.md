@@ -26,11 +26,11 @@ td img
 	filter: drop-shadow(0px 0px 2px black);
 }	
 	
-td a:link
+a:link
 {
 color:#9f2943;
 text-decoration: none;
-font-size: 16px;
+font-size: 20px;
 }	
 
 	
