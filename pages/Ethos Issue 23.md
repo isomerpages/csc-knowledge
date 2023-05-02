@@ -281,3 +281,22 @@ There will be no one universal model of digital learning that suits all settings
 </tr>
 </tbody>
 </table>
+
+<table id="section-8">
+<tbody>
+
+<tr>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-06.jpg"></td>
+
+<td class="text">	
+<h3>NURTURING: FUTURE LEADERS</h3>
+<b><i>N. Venkat Venkatraman</i></b>
+
+<p>	Artificial intelligence could soon transform learning by augmenting human empathy and judgement with rich, context-sensitive information.
+</p>	
+
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
