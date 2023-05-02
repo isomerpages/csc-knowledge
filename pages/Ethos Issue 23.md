@@ -87,10 +87,10 @@ Editor-in-Chief Ethos
 </figcaption>
 	
 <p>	
-This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.
+In this issue, ETHOS commemorates two decades since CSC's formation as a statutory board and our dedication to continuous learning and capability building in the Singapore Public Service. Gathering insights from a range of practitioners and thought leaders from both within and outside the Service, this issue explores what and how we should learn to be ready for the future.
 </p>	
 
-<div class="button1"><a href="/editorial-issue-25/">Read More</a></div> <br>
+<div class="button1"><a href="#">Read More</a></div> <br>
 </td>
 	
 	
@@ -106,15 +106,14 @@ This digital edition of ETHOS features a spread of articles exploring different 
 <tr>
 
 <td class="img">
-<img src="/images/Cropped_images/Ethos_Digital_10/Digital10-01.jpg"></td>
+<img src="/images/Cropped_images/Ethos_Issue_23/print23-01.jpg"></td>
 
 <td class="text">	
-<h3>Prioritisation</h3>
-<b><i>by Aurora De Souza Watters</i></b>
+<h3>Public Service For the Future</h3>
+<b><i>by Lim Siong Guan, Peter Ho, Peter Ong, and Leo Yip </i></b>
 
 <p>	
-Five key challenges can hinder efforts to put previous time, effort and resources to their best uses. Here's how to identify and address them.
-</p>	
+Four top public service leaders, including the current Head, Civil Service, reflect on the role of the Civil Service College in nurturing a robust, cogent and future-ready public sector in Singapore.</p>	
 
 <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
 </td>
