@@ -30,7 +30,7 @@ a:link
 {
 color:#9f2943;
 text-decoration: none;
-font-size: 20px;
+font-size: 16px;
 }	
 
 	
