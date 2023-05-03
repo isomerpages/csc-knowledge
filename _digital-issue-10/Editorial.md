@@ -19,6 +19,15 @@ image: /images/Cropped_images/Ethos_Digital_10/editorial_landing.jpg
 	width:100%;
 }
 	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}		
+	
 </style>
 	
 <div class="background-image">
@@ -42,9 +51,9 @@ The rapid conﬂuence of these disruptive megatrends have left governments  with
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<p><b>Lim Tuang Liang</b> is Government Chief Sustainability Officer (GCSO) and Deputy Secretary (Special Duties) in the Ministry of Sustainability and the Environment (MSE). In these roles, he works with public sector agencies to develop and coordinate strategies for the Singapore Green Plan 2030 and GreenGov.SG. He also spearheads the Government's partnership with stakeholders, including businesses, civil society partners and individuals, to advance our national sustainability agenda. He has served in the National Research Foundation, the Singapore Armed Forces, and on the boards of the Defence Science Technology Agency, Defence Science Organisation and IE Singapore. </p>
-	
-<p>The author wishes to thank the Public Sector Sustainability Office and Sustainability Partnerships Office for contributing to the drafting of this article.</p>
+
+by Dr Alvin Pang
+Editor-in-Chief, ETHOS
 </div>	
 	
 <br>
