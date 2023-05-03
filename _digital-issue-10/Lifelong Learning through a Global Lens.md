@@ -114,15 +114,30 @@ font-size: 16px;
 
 
 
-<h2>Managing Bosses, Project Sponsors, Project Champions
-</h2>
+<h2>Appropriate Balance Between Training and Work</h2>
 
-<ul>
-<li>Involve them early in discussions on prioritisation. Build alignment on the criteria for prioritisation and clarify their expectations.</li>
-<li>Avoid unhelpful behaviours such as second guessing the boss, trying to look good to supervisors, pandering to what the senior management team wants while disregarding ground reality. These behaviours may lead to suboptimal decisions.</li>
-<li>Seek their input on the possibilities for prioritisation by asking: What are we missing? What are you curious about? What do you want to ask us?</li>
-<li>Management experts Roger Martin and Jennifer Riel offer further tips on how to engage your stakeholders in this <a href="https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders">video</a></li>
-</ul>
+<p>With the half-life of skills shortening, training is essential to allow every worker to expand their knowledge base, stay current, and enhance their job abilities. This is how they can be more productive in the workplace, helping them to stay employable and their companies to thrive. Research has shown that for up to three years following training,<sup><a href="">6</a></sup>&nbsp;business revenue is on average 0.7% higher for every 10% of the local workforce that was supported for training. Furthermore, our enterprises’ labour productivity has increased by 2.2% on average annually for two years.<sup><a href="">7</a></sup></p>
+
+<p>In Singapore, our study on Continuing Education and Training<sup><a href="">8</a></sup>&nbsp;also shows that a majority of business leaders report observing positive changes in their workers post-training (<b>see Table 2</b>), such as higher working performance (84.2%), the ability to do additional or new job responsibilities (85.1%), and enhanced knowledge (87.6%).</p>
+
+
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table2.JPG">
+
+<p>However, only 50.9% of business leaders had sent their workers for training in the past six months. Out of those who did send workers for training, on average only 33.6% of their workforce in the company attended the training. This suggests that 66.4% of workers in the company were missing out on training. Employers must find the appropriate balance between training and work for their workers, tilting towards greater workforce readiness, relevance, and resilience.</p>
+
+<p>Notably, European governments have set a legal minimum requirement for training for all workers. For example, the Flexible and Workable Work Act in Belgium mandates that firms give every employee at least five days of training annually; Portugal’s legal requirement for paid training hours per year is 35 and the legal minimum is five days annually in Switzerland.<sup><a href="">9</a></sup></p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>Managing Staff
 </h2>
