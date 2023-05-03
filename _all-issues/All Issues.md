@@ -71,14 +71,14 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 9, <br>Nov 2022</a></td>
-	<td><a href="#">Issue 24, Aug 2022, <br>Urban Sustainability</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-09">Digital Edition Issue 9, <br>Nov 2022</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-24">Issue 24, Aug 2022, <br>Urban Sustainability</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-09">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-24">Download PDF</a></td>
 </tr>
 
 <tr>
