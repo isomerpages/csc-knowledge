@@ -57,6 +57,22 @@ margin-top:60px;
 	padding-bottom: 40px;
 }	
 	
+#case1, #case2
+{
+margin-top: 40px;	
+}	
+
+
+
+	
+#case1
+{
+	border-bottom:1px solid gray;
+}
+	
+	
+	
+	
 </style>
 	
 <div class="background-image">
@@ -119,7 +135,7 @@ margin-top:60px;
 
 <p>This stable and well-organised system ensured the efficient flow of project information among the stakeholders, such as when changes had to be made to the scope of work. Clear and timely communication promoted stakeholder understanding and trust, allowing effective decisions on project changes to be made by the project core teams even during conflict situations.</p>
 
-<p>The communication routines helped to maintain stakeholder engagement throughout the project life cycle, leading to positive outcomes for the project.</p>
+<p>The communication routines helped to maintain stakeholder engagement throughout the project life cycle, leading to positive outcomes for the project.</p><br>
 	
 </div>
 
