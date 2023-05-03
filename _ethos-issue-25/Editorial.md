@@ -39,6 +39,14 @@ The rapid conﬂuence of these disruptive megatrends have left governments  with
 <p>An area for reinvigorated attention will be working with stakeholders and partners beyond the public sector to achieve public outcomes. While this is not a new approach, what was perhaps regarded as a good-to-have a decade ago has become all the more vital, precisely because of our constraints and the formidable scope of the challenges we face. In this, we can draw on a rich and growing body of international experience in carrying out such collaborations effectively   (p. 70). We must sustain the public trust and strong relationships crucial for such inter-sectoral efforts to thrive  (p. 88). Singapore’s Public Service, which enjoys ver y high levels of trust as a national institution, is in a good place to start reimagining the networks, communities, processes and partnerships we will need to thrive together as nation in a more turbulent 21st century. This is a precious resource we should not squander.</p>
 
 <p>I wish you an inspiring read.</p>
+
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>
+<p><b>Lim Tuang Liang</b> is Government Chief Sustainability Officer (GCSO) and Deputy Secretary (Special Duties) in the Ministry of Sustainability and the Environment (MSE). In these roles, he works with public sector agencies to develop and coordinate strategies for the Singapore Green Plan 2030 and GreenGov.SG. He also spearheads the Government's partnership with stakeholders, including businesses, civil society partners and individuals, to advance our national sustainability agenda. He has served in the National Research Foundation, the Singapore Armed Forces, and on the boards of the Defence Science Technology Agency, Defence Science Organisation and IE Singapore. </p>
+	
+<p>The author wishes to thank the Public Sector Sustainability Office and Sustainability Partnerships Office for contributing to the drafting of this article.</p>
+</div>	
+
 	
 <br>
 <br>	
