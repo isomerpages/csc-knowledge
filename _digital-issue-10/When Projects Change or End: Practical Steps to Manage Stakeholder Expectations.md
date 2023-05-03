@@ -64,9 +64,9 @@ margin-top: 40px;
 
 .notes ol li
 {
-font-size: 15px;	
+font-size: 16px;	
 }	
-
+	
 
 	
 #case1
@@ -164,7 +164,7 @@ font-size: 15px;
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
 <p>by <b>Khoo Ee Wan</b> &nbsp;is Lead Researcher at the Institute of Leadership and Organisation Development, Civil Service College. She designs and conducts research studies and analytics that generate actionable insights to inform talent assessment, leadership development and organisation development	</p>
-
+</div>
 
 <div class="notes">
 <h6>NOTES</h6>
@@ -172,7 +172,6 @@ font-size: 15px;
 <li>Tip #1: Engaging Stakeholders_, Harvard Business Review, video file,&nbsp;[https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders](https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders).</li>
 <li>The Prosci ADKAR Model (website),&nbsp;[https://www.prosci.com/methodology/adkar](https://www.prosci.com/methodology/adkar).</li>
 <li>Adapted from: Aurangzeab Butt, Marja Naaranoja and Jussi Savolainen, “Project Change Stakeholder Communication”,&nbsp;_International Journal of Project Management_&nbsp;34 (2016): 1579–95, 10.1016/j.ijproman.2016.08.010, accessed March 1, 2023,&nbsp;[https://www.researchgate.net/publication/308352652\_Project\_change\_stakeholder\_communication](https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication).</li>
-	
 </ol>	
 </div>	
 	
@@ -180,4 +179,4 @@ font-size: 15px;
 <br>	
 <div class="back">
 <a href="/digital-issue-10/">Back to Ethos Page</a>	
-</div></div>
+</div>
