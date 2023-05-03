@@ -40,6 +40,11 @@ border-top: 1px solid black;
 
 }		
 	
+#case2
+{
+margin-top:60px;	
+}
+	
 </style>
 	
 <div class="background-image">
@@ -86,8 +91,44 @@ border-top: 1px solid black;
 <li>This <a href="https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication">research article</a> describes project change stakeholder communication practices in two different case contexts, and highlights how effective communication ensures stakeholder participation in the change management processes (see&nbsp;<b>Box story</b> for a summary).</li>
 </ul>
 
-<div class="break"><p>If negative feelings are ignored, disgruntled or disengaged stakeholders may resist or even undermine deprioritisation efforts.</p></div>
+<div class="break"><p>If negative feelings are ignored, disgruntled or disengaged stakeholders may resist or even undermine deprioritisation efforts.</p>
+</div>
 	
+	
+<div id="effectivecom">	
+
+<div id="case1">	
+<h2>Effective Communication Ensures Stakeholder Participation in the Change Management Process</h2>
+
+<h4>Case 1: Effective communication of project change in a large-scale energy infrastructure project with multiple international stakeholder</h4>
+
+<p>In the planning phase of the project, various project core teams consisting of participants from all key stakeholders groups were formed and maintained throughout the entire project life cycle. Communication routines and platforms between different project stakeholders were set up and made explicit.</p>
+
+<p>This stable and well-organised system ensured the efficient flow of project information among the stakeholders, such as when changes had to be made to the scope of work. Clear and timely communication promoted stakeholder understanding and trust, allowing effective decisions on project changes to be made by the project core teams even during conflict situations.</p>
+
+<p>The communication routines helped to maintain stakeholder engagement throughout the project life cycle, leading to positive outcomes for the project.</p>
+	
+</div>
+
+	
+<div id="case2">		
+<h4>Case 2: Ineffective communication of project change in a small-scale facility development project with relatively short timeframe and limited budget</h4>
+
+<p>In the planning phase of this construction project, different stakeholder groups came together to co-create project goals. However, during the technical planning and implementation phase, a more task-oriented approach was adopted, and work efficiency was preferred over required project functionality. Communications with the stakeholders was ad hoc.</p>
+
+<p>In addition, required changes during the construction phase were not adequately communicated to key stakeholders, and decisions were made solely by the construction team. This was likely because the lack of clear and established communication routines created the perception that seeking input from the various stakeholders would be onerous.</p>
+
+<p>As a result of these changes, the needs of some stakeholders who would be using the facility could not be met. This was only discovered during the final inspection of the premises, and the contractor then had to do additional work and installation.</p>
+
+<p>The lack of clear and timely communication with key stakeholders resulted in decreasing stakeholder involvement and unsatisfactory project outcomes.</p>
+	
+</div>	
+	
+	
+</div>
+
+
+
 
 
 <div class="author">
