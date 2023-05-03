@@ -84,7 +84,7 @@ margin-top:20px;
 <tr>
 <td class="img"><img src="/images/Cropped_images/Ethos_Digital_10/editorial_landing.jpg"></td>
 
-<td class="text">	
+<td class="text">
 <h3>Editorial </h3>
 <b><i>by Dr Alvin Pang</i></b>
 <figcaption>
