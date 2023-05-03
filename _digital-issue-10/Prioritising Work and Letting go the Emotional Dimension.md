@@ -220,5 +220,5 @@ border-top: 1px solid black;
 <br>
 <br>	
 <div class="back">
-<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+<a href="/digital-issue-10/">Back to Ethos Page</a>	
 </div>
