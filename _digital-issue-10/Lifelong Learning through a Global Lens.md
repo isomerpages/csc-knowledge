@@ -94,14 +94,25 @@ font-size: 16px;
 
 <p>Singapore’s latest labour market report indicates that there are more job vacancies than there are job seekers. The number of job vacancies has increased over the past two years, hitting a new high of 128,100 in March 2022<sup><a href="">1</a></sup>. This may have been an outcome of the ‘Great Resignation’: a global trend of people quitting their jobs since the start of the COVID-19 pandemic to seek better work-life balance after a prolonged period of working remotely without commuting<sup><a href="">2</a></sup>.&nbsp; Anecdotally, I have found, from LinkedIn, that many of my connections have been moving to new jobs recently.</p>
 
-<p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see&nbsp;Table 1).</p>	
+<p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see Table 1)<sup><a href="">.3</a></sup></p>	
 
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table1.JPG">
 
+<p>Adopting a mindset of lifelong learning is imperative to addressing the issue of skills mismatch. Singapore has made considerable strides towards the development of lifelong learning with our national movement, SkillsFuture Singapore, seeking to change how people view skills, jobs and learning. Singapore wants to develop a culture of lifelong learning, where people get satisfaction in life from learning at every stage regardless of where they start, satisfaction from mastering the skills, and satisfaction from being part of a community of learners. As the late Mr Lee Kuan Yew put it in his 1977 speech in Parliament, “an educated man is a man who never stops learning and wants to learn”.<sup><a href="">4</a></sup></p>
+
+<p>Many other countries are also on a journey to help their citizens master skills throughout their careers and develop a culture of lifelong learning. With Singapore still at an early stage of our SkillsFuture journey, we have a lot to learn from others.<sup><a href="">5</a></sup> We have therefore looked at key strategies adopted—both in Singapore and in different parts of the world—to promote lifelong learning.</p>
+
+<p>Based on our research, these can be encapsulated as the “5As”:</p>
+<ul>
+	<li><b>A</b>ppropriate Balance between Training and Work</li>
+	<li><b>A</b>ccess to Training for All Workers</li>
+	<li><b>A</b>geing Workforce Investment</li>
+	<li><b>A</b>pproaches to Foster Lifelong Learning</li>
+	<li><b>A</b>dapting Education</li>
+</ul>
 
 
 
-<p>If such negative feelings are ignored, disgruntled or disengaged stakeholders may resist or even undermine deprioritisation efforts. If you find yourself having to manage different internal and external stakeholders when a project is deprioritised, here are some suggestions on how to proceed:</p>
 
 <h2>Managing Bosses, Project Sponsors, Project Champions
 </h2>
