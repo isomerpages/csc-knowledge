@@ -85,15 +85,17 @@ font-size: 16px;
 </style>
 	
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/when_projects_change_or_end_bannerteaser.jpeg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_BannerTeaser.jpeg">
 </div>
 <br>
 
-<p>In our conversations about prioritisation in the workplace, the focus is often on which projects or pieces of work to prioritise, and which to deprioritise, based on organisational aims and requirements. An important but often overlooked aspect of this process is the human perspective: how to manage the expectations of internal and external stakeholders.</p>
+<h1>Challenges for a Future-facing Workforce</h1>
 
-<p>Internal stakeholders include staff who are working on the project; bosses; project sponsors and project champions; and teams or departments affected by project outcomes. Some projects may also have external stakeholders: people and organisations served by the project or who may be affected by its outcomes.</p>
+<p>In the past, a person’s career has been seen as a series of stepping stones, with time spent at each stone and stage. However, today’s careers are more like running on a moving treadmill. Regardless of age, you must continue to keep pace and learn lest you fall off when you stop.</p>
 
-<p>When a project is deprioritised or dropped, there will inevitably be an emotional impact on the stakeholders involved, to varying degrees. Some staff may be happy that part of their time is now freed up while others may experience a sense of loss; they may also question the value of the work they have done in the past, or even their own value as employees. They may also feel angry about the time and effort they perceive to have been wasted on the work thus far. They may also be concerned about how their own performance will be appraised if the project they have been working on is stopped. Bosses, project sponsors and champions may be disappointed and push back on decisions about deprioritisation, especially if these are at odds with their own priorities; they may feel that their credibility, power base and performance are now at stake. External stakeholders who currently benefit or would have benefited from project outcomes may be inconvenienced and feel unvalued.</p>	
+<p>Singapore’s latest labour market report indicates that there are more job vacancies than there are job seekers. The number of job vacancies has increased over the past two years, hitting a new high of 128,100 in March 2022.[1](https://www.csc.gov.sg/articles/lifelong-learning-through-a-global-lens#notes)&nbsp; This may have been an outcome of the ‘Great Resignation’: a global trend of people quitting their jobs since the start of the COVID-19 pandemic to seek better work-life balance after a prolonged period of working remotely without commuting.[2](https://www.csc.gov.sg/articles/lifelong-learning-through-a-global-lens#notes)&nbsp; Anecdotally, I have found, from LinkedIn, that many of my connections have been moving to new jobs recently.</p>
+
+<p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see&nbsp;**Table 1**).[3](https://www.csc.gov.sg/articles/lifelong-learning-through-a-global-lens#notes)</p>
 
 <p>If such negative feelings are ignored, disgruntled or disengaged stakeholders may resist or even undermine deprioritisation efforts. If you find yourself having to manage different internal and external stakeholders when a project is deprioritised, here are some suggestions on how to proceed:</p>
 
