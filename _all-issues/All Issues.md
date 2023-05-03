@@ -240,12 +240,12 @@ font-size: 16px;
 </tr>
 
 <tr>
-	<td><a href="#">Digital Edition Issue 2, Apr 2018</a></td>
-	<td><a href="#">Issue 18, Jan 2018, The Future of Work</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-02">Digital Edition Issue 2, Apr 2018</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-18">Issue 18, Jan 2018, The Future of Work</a></td>
 </tr>	
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-02">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-18">Download PDF</a></td>
 </tr>	
 	
 </tbody>
@@ -261,14 +261,14 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 1, Nov 2017</a></td>
-	<td><a href="#">Issue 17, Jun 2017, Behavioural Insights</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-01">Digital Edition Issue 1, Nov 2017</a></td>
+	<td><a href="https://go.gov.sg/ethosissue17">Issue 17, Jun 2017, Behavioural Insights</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-01">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethosissue17">Download PDF</a></td>
 </tr>
 
 
