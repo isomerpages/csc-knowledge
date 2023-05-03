@@ -55,5 +55,5 @@ by <b>Aurora de Souza Watters</b> is Senior Researcher at the Institute of Leade
 <br>
 <br>	
 <div class="back">
-<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+<a href="/digital-issue-10/">Back to Ethos Page</a>	
 </div>
