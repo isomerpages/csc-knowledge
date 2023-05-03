@@ -370,13 +370,13 @@ Create Consensus</a></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Issue 11, Aug 2012, Globalisation: Challenges
+	<td><a href="https://go.gov.sg/ethos-issue-11">Issue 11, Aug 2012, Globalisation: Challenges
 and Policy Responses</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-11">Download PDF</a></td>
 </tr>
 
 </tbody>
@@ -395,16 +395,16 @@ and Policy Responses</a></td>
 </tr>
 	
 <tr>
-<td><a href="#">Issue 10, Oct 2011, <br>Preparing Government<br> for
+<td><a href="https://go.gov.sg/ethos-issue-10">Issue 10, Oct 2011, <br>Preparing Government<br> for
 the Challenges<br> of the 21 st Century</a></td>
-	<td><a href="#">Issue 9, Jun 2011, National<br>Productivity and
+	<td><a href="https://go.gov.sg/ethos-issue-09">Issue 9, Jun 2011, National<br>Productivity and
 WOG Collaboration</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-10">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-09">Download PDF</a></td>
 </tr>
 
 
@@ -425,14 +425,14 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Issue 8, Aug 2010, The Impact of China</a></td>
-	<td><a href="#">Issue 7, Jan 2010, <br>Thinking About The Future</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-08">Issue 8, Aug 2010, The Impact of China</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-07">Issue 7, Jan 2010, <br>Thinking About The Future</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-08">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-07">Download PDF</a></td>
 </tr>
 
 
@@ -448,12 +448,12 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-<td><a href="#">Issue 6, Jul 2009, The Global Financial Crisis</a></td>
+<td><a href="https://go.gov.sg/ethos-issue-06">Issue 6, Jul 2009, The Global Financial Crisis</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-06">Download PDF</a></td>
 </tr>
 
 </tbody>
@@ -471,14 +471,14 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Issue 5, Nov 2008, <br>Human Capital Development</a></td>
-	<td><a href="#">World Cities Summit<br>Special Edition, Jun 2008</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-05">Issue 5, Nov 2008, <br>Human Capital Development</a></td>
+	<td><a href="https://go.gov.sg/ethos-world-cities-summit-issue">World Cities Summit<br>Special Edition, Jun 2008</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-05">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-world-cities-summit-issue">Download PDF</a></td>
 </tr>
 	
 <tr>
@@ -486,12 +486,12 @@ WOG Collaboration</a></td>
 </tr>
 		
 <tr>
-	<td><a href="#">Issue 4, Apr 2008, <br>Beyond Excellent Service
+	<td><a href="https://go.gov.sg/digital-issue-04">Issue 4, Apr 2008, <br>Beyond Excellent Service
 Delivery</a></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-04">Download PDF</a></td>
 </tr>	
 
 
