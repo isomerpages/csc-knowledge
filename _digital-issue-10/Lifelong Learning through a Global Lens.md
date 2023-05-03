@@ -170,8 +170,7 @@ font-size: 16px;
 <p>Today, young people are coming of age in a world plagued by uncertainties. In our study conducted with more than 1,000 young people aged 18 to 35 years old, issues such as career prospects and opportunities surfaced as their top concerns (see <b>Table 4</b>).<sup><a href="">19</a></sup></p>
 
 
-
-
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table4.JPG">
 
 
 
