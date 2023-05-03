@@ -32,12 +32,12 @@ td
 }
 	
 
-#editorial,#section-1,#section-2,#section-3
+#editorial,#section-1,#section-2,#section-3,#section-4
 {
 	margin-top:20px;
 	border-bottom: 0.5px solid black;
 }
-#section-4
+#section-5
 {
 margin-top:20px;	
 }
@@ -188,3 +188,24 @@ Around the world, countries have sought to enhance their workers’ prospects wi
 </tr>
 </tbody>
 </table>
+
+<table id="section-5">
+<tbody>
+
+<tr>
+<td class="img"><img src="/images/Cropped_images/Ethos_Digital_10/review.jpg"></td>
+
+<td class="text">	
+<h3>Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</h3>
+<b><i>by Vernie Oliveiro</i></b>
+
+<p>	
+Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich.</p>	
+
+<div class="button1"><a href="#">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+
