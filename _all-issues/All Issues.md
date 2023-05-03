@@ -86,10 +86,10 @@ font-size: 16px;
 </tr>
 
 <tr>
-	<td><a href="#">Digital Edition Issue 8, Apr 2022</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-08">Digital Edition Issue 8, Apr 2022</a></td>
 </tr>	
 <tr>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-08">Download PDF</a></td>
 </tr>	
 </tbody>
 </table>
@@ -115,14 +115,14 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a href="#">Issue 23, Oct 2021, Future of Learning</a></td>
-	<td><a href="#">Digital Edition Issue 7, Sep 2021</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-23">Issue 23, Oct 2021, Future of Learning</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-07">Digital Edition Issue 7, Sep 2021</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-23">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-07">Download PDF</a></td>
 </tr>
 
 <tr>
@@ -131,12 +131,12 @@ font-size: 16px;
 </tr>
 
 <tr>
-	<td><a href="#">Issue 22, Jun 2021, Governing in a Crisis</a></td>
-	<td><a href="#">Digital Special Edition, Mar 2021 Update</a></td>
+	<td><a href="https://go.gov.sg/ethosjune2021">Issue 22, Jun 2021, Governing in a Crisis</a></td>
+	<td><a href="https://go.gov.sg/ethos-digital-special-edition-mar21">Digital Special Edition, Mar 2021 Update</a></td>
 </tr>	
 <tr>
-	<td><a href="https://go.gov.sg/ethos-issue-22">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethosjune2021">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-digital-special-edition-mar21">Download PDF</a></td>
 </tr>	
 	
 </tbody>
@@ -157,14 +157,14 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Special Edition, Dec 2020</a></td>
-	<td><a href="#">Digital Edition Issue 6, Jun 2020</a></td>
+	<td><a href="https://go.gov.sg/ethos-digital-special-edition-dec20">Digital Special Edition, Dec 2020</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-06">Digital Edition Issue 6, Jun 2020</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-digital-special-edition-dec20">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-06">Download PDF</a></td>
 </tr>
 
 
