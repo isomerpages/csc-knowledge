@@ -286,15 +286,15 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a href="#">Issue 16, Dec 2016 <br>Connect, Collaborate and
+	<td><a href="https://go.gov.sg/ethos-issue-16">Issue 16, Dec 2016 <br>Connect, Collaborate and
 Create Consensus</a></td>
-	<td><a href="#">Issue 15, Jun 2016, Public Engagement</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-15">Issue 15, Jun 2016, Public Engagement</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-16">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-15">Download PDF</a></td>
 </tr>
 	
 <tr>
@@ -302,11 +302,11 @@ Create Consensus</a></td>
 </tr>
 		
 <tr>
-	<td><a href="#">Issue 14, Feb 2016, <br>Meritocracy and Mobility</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-14">Issue 14, Feb 2016, <br>Meritocracy and Mobility</a></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-14">Download PDF</a></td>
 </tr>	
 
 
