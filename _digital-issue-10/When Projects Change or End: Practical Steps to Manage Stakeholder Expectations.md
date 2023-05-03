@@ -75,6 +75,7 @@ border-top: 1px solid black;
 <li>This <a href="https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication">research article</a> describes project change stakeholder communication practices in two different case contexts, and highlights how effective communication ensures stakeholder participation in the change management processes (see&nbsp;<b>Box story</b> for a summary).</li>
 </ul>
 
+<div class="break"><p>If negative feelings are ignored, disgruntled or disengaged stakeholders may resist or even undermine deprioritisation efforts.</p></div>
 	
 
 
