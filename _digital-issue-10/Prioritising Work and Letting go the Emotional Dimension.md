@@ -36,6 +36,14 @@ border-top: 1px solid black;
 width:50%;	
 }
 	
+.point tr td
+{
+	border:1px solid black;
+  background-color: #f1f1f1f1;
+	padding:10px;
+}
+
+
 	
 	
 	
@@ -53,6 +61,9 @@ border-top: 1px solid black;
 	
 	
 </style>
+	
+	
+	
 	
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LettingGo_banner-teaser.jpeg">
@@ -146,10 +157,43 @@ border-top: 1px solid black;
 </tr> 	 
 	
 	
-</tbody></table>
+</tbody>
+</table>
 
 
-	
+<h3>Step back to the bigger picture</h3>
+<p>There are times where we are so preoccupied by the small details, we do not see the bigger picture. When we focus solely on our individual projects, we may not be able to step back and see how that project fits or does not fit into the bigger picture, or whether it furthers broader organisational aims or objectives.</p>
+
+<p>We may need to step back, revisit our team’s aims and objectives, and our organisation’s mission and vision. When we take these into account, we may be better able to see how past projects may no longer serve our needs, and understand how to create space for opportunities that are better aligned with the goals of the future.</p>
+
+<h3>Start with the end in mind</h3>
+<p>When we start projects and form teams, we often forget to conceptualise the end of the project. All projects are temporary: they need a clear beginning and a defined end. We usually pay attention to co-creating aims and objectives, but frequently fail to define what it means to be done with a project. What would the finished project look like? How do we measure that the project is done?</p>
+
+<p>Defining a project’s end and the milestones along the way can help us as a team progresses through the project. When we reach specific milestones, we can come together as a team, evaluate our progress, identify potential problems, and gain a sense of accomplishment for previous milestones reached.</p>
+
+<p>This can be useful if the project has to end prematurely or does not conclude as originally envisioned. Even if the end point has not been reached, we can still identify what else we have gained from the experience.</p>
+
+
+<div class="break"><p>When we start projects and form teams, we often forget to conceptualise the end of the project.</p>
+</div>
+
+<h3>Look for the learning</h3>
+<p>When we think about outcomes of a project, we typically think about deliverables: but we should also consider the learning we can extract from the project.</p>
+
+<p>We should plan for learning from the start of our projects, and put processes in place to support learning along the way. At the start we can set out individual and team learning objectives and priorities. We should review our performance against these objectives and create plans for their improvement, thus creating a continuous learning cycle.</p>
+
+<p>These learning points should be conducted during the project milestones to review what has happened so far. This is when we might ask the team questions like:</p>
+
+<ul>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -165,4 +209,4 @@ by <b>Aurora de Souza Watters</b> is Senior Researcher at the Institute of Leade
 <br>	
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
-</div>
+</div></ul>
