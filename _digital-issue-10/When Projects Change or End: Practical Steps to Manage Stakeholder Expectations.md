@@ -57,6 +57,11 @@ margin-top:60px;
 	padding-bottom: 40px;
 }	
 	
+#effectivecom p
+{
+font-size: 19px;	
+}
+	
 #case1, #case2
 {
 margin-top: 40px;	
@@ -159,6 +164,8 @@ font-size: 16px;
 	
 	
 </div>
+
+<p>In summary, any deprioritisation plan should include some consideration of how to manage the impact on various internal and external stakeholders. Deprioritisation is akin to a change process, and it is important to address not only the technical aspect of the situation but also people’s emotions and expectations. Otherwise, efforts at deprioritisation may be futile or even counterproductive.</p>
 
 
 <div class="author">
