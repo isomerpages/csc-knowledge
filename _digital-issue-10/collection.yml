@@ -2,6 +2,7 @@ collections:
   digital-issue-10:
     output: true
     order:
+      - Lifelong Learning through a Global Lens.md
       - "When Projects Change or End: Practical Steps to Manage Stakeholder
         Expectations.md"
       - Editorial.md
