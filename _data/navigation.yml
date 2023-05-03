@@ -12,10 +12,6 @@ links:
     sublinks:
       - title: Full Catalogue
         url: /catalogue/
-  - title: Contact Us
-    url: /contact-us/
-  - title: CSC Website
-    url: https://www.csc.gov.sg/
   - title: Research
     url: /case-studies/
     sublinks:
@@ -23,3 +19,7 @@ links:
         url: /case-studies
       - title: Selected Writings
         url: /selected-writings
+  - title: Contact Us
+    url: /contact-us/
+  - title: CSC Website
+    url: https://www.csc.gov.sg/
