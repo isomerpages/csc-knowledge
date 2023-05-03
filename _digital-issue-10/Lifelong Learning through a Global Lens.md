@@ -148,13 +148,45 @@ font-size: 16px;
 
 <p>In the same vein, it is projected that 1 in 4 Singaporeans will be aged 65 or older by the year 2030.<sup><a href="">16</a></sup>&nbsp; The NTUC-SNEF PME taskforce, which I co-chaired, has found that mature PMEs, aged 40 to 60, face challenges such as difficulties in searching for suitable employment and are concerned about job security.[<sup><a href="">17</a></sup>&nbsp;More than 8 in 10 respondents have expressed difficulties in finding another job that matches their skills or interests. Hence, further investment should be made to support our people’s journey of lifelong learning, especially mid-careerists amid an ageing workforce.</p>
 
+<h2>Approaches to Fostering Lifelong Learning</h2>
 
+<p>Needs for training and education vary, depending on workers’ profiles, life stages, and demographics. It would be impossible to accommodate every worker's needs with a one-size-fits-all strategy.</p>
 
+<p>Germany and Italy provide helpful definitions of the many types of lifelong learning and the various workers they cater to. For example, Germany categorises lifelong learning in four ways.<sup><a href="#"></a>18</sup>&nbsp;"Maintenance Training” and “Further Education” are targeted towards people who are already employed. “Retraining” primarily applies to workers who are at risk of losing their current position, and “Re-entry Qualification” is mostly relevant to individuals who are on long-term leave. Clearly defining the various forms of lifelong learning, and the different categories of workers they are meant for, can better provide more targeted support and broaden training opportunities for every worker.</p>
 
-<div class="break"><p>If negative feelings are ignored, disgruntled or disengaged stakeholders may resist or even undermine deprioritisation efforts.</p>
+<p>In Singapore, our workforce is made up of workers of varied profiles. We must adopt a more targeted lifelong learning strategy for different worker segments to ensure that everyone has access to a level playing field for jobs, while at the same time balancing companies' manpower needs in the immediate and longer term.</p>
+
+<br>
+
+<div class="break"><p>Clearly defining the various forms of lifelong learning, and the different categories of workers they are meant for, can better provide more targeted support and broaden training opportunities.</p>
 </div>
+
+<h2>Adapting Education</h2>
+
+<p>Needs for training and education vary, depending on workers’ profiles, life stages, and demographics. It would be impossible to accommodate every worker's needs with a one-size-fits-all strategy.</p>
+
+<p>When we speak of the future, we turn to our youth. The dual education system and apprenticeship programme in European countries such as Germany and Switzerland are renowned for equipping youth with the relevant skills, bridging the gap between industry and education.</p>
+
+<p>Today, young people are coming of age in a world plagued by uncertainties. In our study conducted with more than 1,000 young people aged 18 to 35 years old, issues such as career prospects and opportunities surfaced as their top concerns (see <b>Table 4</b>).<sup><a href="">19</a></sup></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	
+
 <div id="effectivecom">	
 
 <h2>Effective Communication Ensures Stakeholder Participation in the Change Management Process</h2>
