@@ -51,7 +51,7 @@ font-size: 16px;
 	<td><a href="/digital-issue-10/">Digital Edition Issue 10, <br>Mar 2023</a></td>
 </tr>
 <tr>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-10">Download PDF</a></td>
 </tr>
 
 </tbody>
