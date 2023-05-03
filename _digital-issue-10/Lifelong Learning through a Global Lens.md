@@ -94,7 +94,7 @@ font-size: 16px;
 
 <p>Singapore’s latest labour market report indicates that there are more job vacancies than there are job seekers. The number of job vacancies has increased over the past two years, hitting a new high of 128,100 in March 2022<sup><a href="">1</a></sup>. This may have been an outcome of the ‘Great Resignation’: a global trend of people quitting their jobs since the start of the COVID-19 pandemic to seek better work-life balance after a prolonged period of working remotely without commuting<sup><a href="">2</a></sup>.&nbsp; Anecdotally, I have found, from LinkedIn, that many of my connections have been moving to new jobs recently.</p>
 
-<p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see Table 1)<sup><a href="">.3</a></sup></p>	
+<p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see <b>Table 1</b>)<sup><a href="">.3</a></sup></p>	
 
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table1.JPG">
 
@@ -136,21 +136,13 @@ font-size: 16px;
 
 <p>According to a study by the OECD on training and employment performance, measures geared at advancing employees’ skills have a positive impact on employment performance.<sup><a href="">10</a></sup>&nbsp;However, only over 20% of adults with low skills participated in training, compared to over 40% of adults with medium or high skills.<sup><a href="">11</a></sup>&nbsp; Older adults, lower-wage workers, employees of SMEs, temporary workers and the unemployed are the ones that typically fall behind in training and learning opportunities. The least likely to train are those who most need it in order to get or keep a job.</p>
 
+<p>To address the issue of lack of training for workers who require it, Norway expanded their career counselling programme for workers.<sup><a href="">12</a></sup> Early career counselling in the educational process has the potential to minimise dropout rates and improve choices made in school. Seniors who receive career counselling are better able to adapt to the shifting skill demands in the labour market, leading to higher employment mobility and remaining longer in employment.</p>
 
+<p>The study by Yang et al.<sup><a href="">13</a></sup>&nbsp; highlights that workers with skills gaps are not the top priority for training according to business leaders (see <b>Table 3)</b>. This puts a strain on the very workers who would have benefited from training. Therefore, we must allow greater access to training for all workers, especially workers with skills gaps and mature workers, to enhance their employment and employability, because every worker matters.</p>
 
+<img src="images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table3.JPG">
 
-
-<ul>
-<li>Guide staff through the deprioritisation process. One model that is widely used for change management is <a href="https://www.prosci.com/methodology/adkar">AKDAR</a> Awareness&nbsp;of the need for change;&nbsp;Desire&nbsp;to participate in and support the change;&nbsp;Knowledge&nbsp;on how to change;&nbsp;Ability&nbsp;to implement skills and knowledge;&nbsp;Reinforcement&nbsp;to sustain the change.</li>
-<li>Help staff understand why priorities are being re-evaluated, the criteria used, and why their project is being deprioritised.</li>
-<li>Acknowledge that some staff may experience negative emotions and allay their concerns.</li>
-<li>Be clear about what will happen to the project and when. For instance, does deprioritisation mean dropping the project completely, finding alternative resourcing for it, or reducing its scope and level of involvement? Is the deprioritisation supposed to start at once or is it planned for three months down the road?</li>
-<li>Where feasible, involve staff in the discussion on how or when the project will be deprioritised as this could give them a greater sense of control over the whole situation as well as offer a sense of closure.</li>
-<li>Explore how staff will be affected and help them move forward from the situation, e.g., focusing on other projects, developing new skills to take on new projects.</li>
-<li>Recognise efforts to deprioritise and emphasise the positive outcomes they bring.</li>
-</ul>
-
-<h2>Managing Internal or External Stakeholders Affected by the Project Outcomes</h2>
+<h2>Ageing Workforce Investment</h2>
 
 <ul>
 <li>Engage them early in conversations about the deprioritisation. Help them understand why priorities are being re-evaluated, the criteria used, and why their project is being deprioritised.</li>
