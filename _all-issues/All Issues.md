@@ -324,12 +324,12 @@ Create Consensus</a></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Issue 13, May 2014, <br>Public Service Transformation</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-13">Issue 13, May 2014, <br>Public Service Transformation</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-13">Download PDF</a></td>
 </tr>
 
 </tbody>
@@ -345,12 +345,12 @@ Create Consensus</a></td>
 </tr>
 	
 <tr>
-	<td><a href="#">Issue 12, Jun 2013, <br>Listen, Labour and Lead</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-12">Issue 12, Jun 2013, <br>Listen, Labour and Lead</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-12">Download PDF</a></td>
 </tr>
 
 </tbody>
