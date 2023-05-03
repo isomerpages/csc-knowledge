@@ -66,6 +66,15 @@ border-top: 1px solid black;
 <li>Explore how staff will be affected and help them move forward from the situation, e.g., focusing on other projects, developing new skills to take on new projects.</li>
 <li>Recognise efforts to deprioritise and emphasise the positive outcomes they bring.</li>
 </ul>
+
+<h2>Managing Internal or External Stakeholders Affected by the Project Outcomes</h2>
+
+<ul>
+<li>Engage them early in conversations about the deprioritisation. Help them understand why priorities are being re-evaluated, the criteria used, and why their project is being deprioritised.</li>
+<li>Explore with them how they will be affected, and work with them to discuss a feasible process and timeline for implementing the deprioritisation. For instance, if a service that is currently being provided is to be discontinued in three months’ time, could we explore with them how they might be able to operate without the service? Alternatively, could we work with them to find other resourcing options or gradually decreasing our level of involvement while building up their internal capability to take over the piece of work?</li>
+<li>This <a href="https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication">research article</a> describes project change stakeholder communication practices in two different case contexts, and highlights how effective communication ensures stakeholder participation in the change management processes (see&nbsp;<b>Box story</b> for a summary).</li>
+</ul>
+
 	
 
 
