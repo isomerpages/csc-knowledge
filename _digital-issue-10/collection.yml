@@ -2,4 +2,5 @@ collections:
   digital-issue-10:
     output: true
     order:
+      - Prioritisation.md
       - Editorial.md
