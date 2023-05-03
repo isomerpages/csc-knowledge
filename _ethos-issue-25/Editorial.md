@@ -51,7 +51,7 @@ The rapid conﬂuence of these disruptive megatrends have left governments  with
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<b>by Dr Alvin Pang</b><br>
+by <b>Dr Alvin Pang</b><br>
 Editor-in-Chief, ETHOS
 </div>	
 
