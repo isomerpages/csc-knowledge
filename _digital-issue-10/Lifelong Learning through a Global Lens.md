@@ -127,20 +127,18 @@ font-size: 16px;
 
 <p>Notably, European governments have set a legal minimum requirement for training for all workers. For example, the Flexible and Workable Work Act in Belgium mandates that firms give every employee at least five days of training annually; Portugal’s legal requirement for paid training hours per year is 35 and the legal minimum is five days annually in Switzerland.<sup><a href="">9</a></sup></p>
 
+<br>
+
+<div class="break"><p>The least likely to train are those who most need it in order to get or keep a job.</p>
+</div>
+
+<h2>Access to Training for All Workers</h2>
+
+<p>According to a study by the OECD on training and employment performance, measures geared at advancing employees’ skills have a positive impact on employment performance.<sup><a href="">10</a></sup>&nbsp;However, only over 20% of adults with low skills participated in training, compared to over 40% of adults with medium or high skills.<sup><a href="">11</a></sup>&nbsp; Older adults, lower-wage workers, employees of SMEs, temporary workers and the unemployed are the ones that typically fall behind in training and learning opportunities. The least likely to train are those who most need it in order to get or keep a job.</p>
 
 
 
 
-
-
-
-
-
-
-
-
-<h2>Managing Staff
-</h2>
 
 <ul>
 <li>Guide staff through the deprioritisation process. One model that is widely used for change management is <a href="https://www.prosci.com/methodology/adkar">AKDAR</a> Awareness&nbsp;of the need for change;&nbsp;Desire&nbsp;to participate in and support the change;&nbsp;Knowledge&nbsp;on how to change;&nbsp;Ability&nbsp;to implement skills and knowledge;&nbsp;Reinforcement&nbsp;to sustain the change.</li>
