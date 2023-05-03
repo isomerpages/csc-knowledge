@@ -7,6 +7,17 @@ image: /images/Ethos_Images/Ethos_Digital_Issue_10/when_projects_change_or_end_b
 ---
 <style>
 
+.break
+{
+border-bottom: 1px solid black;
+font-weight:bold;
+font-style: italic;
+padding:20px;
+margin:10px;	
+font-size:20px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+}			
 
 	
 .back a
