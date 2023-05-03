@@ -144,11 +144,12 @@ font-size: 16px;
 
 <h2>Ageing Workforce Investment</h2>
 
-<ul>
-<li>Engage them early in conversations about the deprioritisation. Help them understand why priorities are being re-evaluated, the criteria used, and why their project is being deprioritised.</li>
-<li>Explore with them how they will be affected, and work with them to discuss a feasible process and timeline for implementing the deprioritisation. For instance, if a service that is currently being provided is to be discontinued in three months’ time, could we explore with them how they might be able to operate without the service? Alternatively, could we work with them to find other resourcing options or gradually decreasing our level of involvement while building up their internal capability to take over the piece of work?</li>
-<li>This <a href="https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication">research article</a> describes project change stakeholder communication practices in two different case contexts, and highlights how effective communication ensures stakeholder participation in the change management processes (see&nbsp;<b>Box story</b> for a summary).</li>
-</ul>
+<p>Many developed countries, such as Japan, are facing the issue of an ageing workforce. Japan has at least 30% of its population aged 60 and above. By the year 2050, 62 countries, including China, will reach that milestone.[14](https://www.csc.gov.sg/articles/lifelong-learning-through-a-global-lens#notes)&nbsp; To enhance the employability of mature workers, the United Kingdom introduced the National Institute of Adult Continuing Education (NIACE)/Union mid-life career review initiative.<sup><a href="">15</a></sup></p>
+
+<p>In the same vein, it is projected that 1 in 4 Singaporeans will be aged 65 or older by the year 2030.<sup><a href="">16</a></sup>&nbsp; The NTUC-SNEF PME taskforce, which I co-chaired, has found that mature PMEs, aged 40 to 60, face challenges such as difficulties in searching for suitable employment and are concerned about job security.[<sup><a href="">17</a></sup>&nbsp;More than 8 in 10 respondents have expressed difficulties in finding another job that matches their skills or interests. Hence, further investment should be made to support our people’s journey of lifelong learning, especially mid-careerists amid an ageing workforce.</p>
+
+
+
 
 <div class="break"><p>If negative feelings are ignored, disgruntled or disengaged stakeholders may resist or even undermine deprioritisation efforts.</p>
 </div>
