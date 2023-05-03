@@ -6,7 +6,7 @@ description: ""
 <style>
 @media only screen and (max-width: 600px) {
   body {
-    background-color: lightblue !important;
+    background-color: red !important;
   }
 }	
 	
