@@ -11,7 +11,7 @@ links:
     url: /books/
     sublinks:
       - title: Full Catalogue
-        url: /catalogue
+        url: /catalogue/
   - title: Research
     url: /research/
   - title: Contact Us
