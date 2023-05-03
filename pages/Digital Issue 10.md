@@ -207,5 +207,3 @@ Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinki
 </tr>
 </tbody>
 </table>
-
-
