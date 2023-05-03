@@ -204,6 +204,6 @@ border-top: 1px solid black;
 
 
 <br><br>
-</a><div class="back">
-<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+</a><div class="back"><a href="go.gov.sg/devportalproductivitytools">
+</a><a href="/ethos-issue-25/">Back to Ethos Page</a>	
 </div>
