@@ -2,5 +2,6 @@ collections:
   digital-issue-10:
     output: true
     order:
+      - Prioritising Work and Letting go the Emotional Dimension.md
       - Prioritisation.md
       - Editorial.md
