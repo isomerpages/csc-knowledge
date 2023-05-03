@@ -46,8 +46,7 @@ Prioritisation is an ever-present reality that we all face in the Public Service
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-by <b>Aurora de Souza Watters</b><br>
-is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.
+by <b>Aurora de Souza Watters</b> is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.
 	
 	
 	
