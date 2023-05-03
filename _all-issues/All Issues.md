@@ -183,14 +183,14 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a href="#">Digital Edition Issue 5, Nov 2019</a></td>
-	<td><a href="#">Issue 21, Jul 2019, Digital Government</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-05">Digital Edition Issue 5, Nov 2019</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-21">Issue 21, Jul 2019, Digital Government</a></td>
 </tr>
 
 
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-05">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-21">Download PDF</a></td>
 </tr>
 
 <tr>
@@ -199,12 +199,12 @@ font-size: 16px;
 </tr>
 
 <tr>
-	<td><a href="#">Digital Edition Issue 4,<br> Apr 2019</a></td>
-	<td><a href="#">Issue 20, Jan 2019, The Future of Ageing</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-04">Digital Edition Issue 4,<br> Apr 2019</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-20">Issue 20, Jan 2019, The Future of Ageing</a></td>
 </tr>	
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-04">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-20">Download PDF</a></td>
 </tr>	
 	
 </tbody>
@@ -224,14 +224,14 @@ font-size: 16px;
 </tr>
 	
 <tr>
-<td><a href="#">Digital Edition Issue 3, Sep 2018</a></td>
-<td><a href="#">Issue 19, Jul 2018, <br>Singapore's Urban: What’s Next</a></td>
+<td><a href="https://go.gov.sg/ethos-digital-issue-03">Digital Edition Issue 3, Sep 2018</a></td>
+<td><a href="https://go.gov.sg/ethos-issue-19">Issue 19, Jul 2018, <br>Singapore's Urban: What’s Next</a></td>
 </tr>
 
 	
 <tr>
-	<td><a href="#">Download PDF</a></td>
-	<td><a href="#">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-digital-issue-03">Download PDF</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-19">Download PDF</a></td>
 </tr>
 
 <tr>
