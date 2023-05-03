@@ -46,8 +46,11 @@ Prioritisation is an ever-present reality that we all face in the Public Service
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-by <b>Dr Alvin Pang</b><br>
-Editor-in-Chief, ETHOS
+by <b>Aurora de Souza Watters</b><br>
+is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.
+	
+	
+	
 </div>	
 	
 <br>
