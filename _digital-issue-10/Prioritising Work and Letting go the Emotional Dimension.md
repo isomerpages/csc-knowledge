@@ -185,23 +185,35 @@ border-top: 1px solid black;
 <p>These learning points should be conducted during the project milestones to review what has happened so far. This is when we might ask the team questions like:</p>
 
 <ul>
+	<li>What went right?</li>
+	<li>&nbsp;What challenges did we face?</li>
+	<li>What went wrong?</li>
+	<li>&nbsp;How could it have gone better?</li>
+	<li>What can we take from this project and apply to other work?</li>
+	<li>What are you taking away as a team member?</li>
+	<li>How has this project changed you?</li>
+</ul>
 
+<p>Acknowledging the value of learning from a project can help us avoid feeling like a dropped project was a waste of time and energy if it did not meet the prescribed end point. The insights we can extract from the experience are invaluable: they can be applied to other projects in future.</p>
 
+<p>This also means all projects are opportunities for growth and development—a chance to hone new skills or receive new insights—which can help reduce the anxiety we may face when approaching new initiatives or unknown circumstances.</p>
 
+<div class="break"><p>We should plan for learning from the start of our projects, and put processes in place to support learning along the way.</p>
+</div>
 
+<h3>Tie up loose ends and get closure</h3>
 
+<p>A common reason for finding it hard to let go and move on is because we miss the opportunity to experience closure: i.e., a sense of completion, in which equilibrium is restored and the tensions of the past are reduced or removed. When we have closure conversations, we can create ‘endings’ that allow us to acknowledge what has and has not been accomplished.</p>
 
+<p>We can get that sense of closure by tying up loose ends, looking at our learning, ensuring that we have conducted the relevant knowledge management, and consulting and informing all relevant parties. We need to ensure that we involve all the relevant individuals including team members and stakeholders. We can also ask: Are there any other things that need to be done? Can any aspects of the project, from resources, manpower, materials, to information, be redirected elsewhere?</p>
 
+<p>Finally, while it is important to highlight lessons learnt, we should also celebrate the end of the project. Celebrating with our team acknowledges the efforts we have made, the things we have accomplished, and the relationships and connections that have been developed. By tying up loose ends and celebrating what has been, we can address and acknowledge our emotional connections to the project, while being able to put the project to bed and moving on to something better.</p>
 
-
-
-
+<p>To cite a popular adage:<b><i> Don’t be sad that it’s over, be happy that it happened.</i></b></p>
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-by <b>Aurora de Souza Watters</b> is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.
-	
-	
+<p>by <b>Aurora de Souza Watters</b>&nbsp;is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.</p>
 	
 </div>	
 	
@@ -209,4 +221,4 @@ by <b>Aurora de Souza Watters</b> is Senior Researcher at the Institute of Leade
 <br>	
 <div class="back">
 <a href="/ethos-issue-25/">Back to Ethos Page</a>	
-</div></ul>
+</div>
