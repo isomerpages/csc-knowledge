@@ -18,3 +18,8 @@ links:
     url: /contact-us/
   - title: CSC Website
     url: https://www.csc.gov.sg/
+  - title: Research
+    url: /case-studies/
+    sublinks:
+      - title: Selected Writings
+        url: /selected-writings
