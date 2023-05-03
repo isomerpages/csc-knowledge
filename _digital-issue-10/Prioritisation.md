@@ -40,7 +40,7 @@ Prioritisation is an ever-present reality that we all face in the Public Service
 
 <p>Decisions about prioritisation take place at different levels. Strategic decisions shape the overall direction and focus of an organisation, which have implications for departmental-level objectives. Decisions must then be made at the team and individual levels about how to prioritise between potentially new streams of work that are important to organisational strategy vis-à-vis continuing efforts on current projects and maintaining high standards in ongoing operations.</p>
 
-<p>While we recognise the need to prioritise, it is not easy to do well in practice. Find out more about&nbsp;[the top 5 challenges that public service officers face with prioritisation](https://www.csc.gov.sg/docs/default-source/ethos/ethos-digital-issue-10/prioritisation-challenges.pdf).</p>	
+<p>While we recognise the need to prioritise, it is not easy to do well in practice. Find out more about <a href="/files/prioritisation-challenges.pdf">the top 5 challenges that public service officers face with prioritisation.</a></p>	
 	
 
 
