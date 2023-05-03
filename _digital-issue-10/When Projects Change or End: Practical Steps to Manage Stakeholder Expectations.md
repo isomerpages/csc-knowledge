@@ -43,7 +43,19 @@ border-top: 1px solid black;
 #case2
 {
 margin-top:60px;	
+
 }
+	
+#effectivecom
+{
+	margin-top: 60px;
+}
+
+#effectivecom h2
+{
+	border-bottom:1px solid gray;
+	padding-bottom: 40px;
+}	
 	
 </style>
 	
@@ -97,8 +109,9 @@ margin-top:60px;
 	
 <div id="effectivecom">	
 
-<div id="case1">	
 <h2>Effective Communication Ensures Stakeholder Participation in the Change Management Process</h2>
+	
+<div id="case1">	
 
 <h4>Case 1: Effective communication of project change in a large-scale energy infrastructure project with multiple international stakeholder</h4>
 
@@ -126,9 +139,6 @@ margin-top:60px;
 	
 	
 </div>
-
-
-
 
 
 <div class="author">
