@@ -72,6 +72,10 @@ font-size: 20px;
 color: white;
 }
 
+.notestop ol li
+{
+	font-size: 16px;
+}
 	
 	
 .author
