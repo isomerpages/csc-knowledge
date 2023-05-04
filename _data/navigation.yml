@@ -1,15 +1,18 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/csc_logo.png
 links:
+  - title: Ethos
+    url: /ethos-issue-25/
+    sublinks:
+      - title: Latest Issue
+        url: /ethos-issue-25/
+      - title: All Issues
+        url: /all-issues/
+  - title: Books
+    url: /books/
+    sublinks:
+      - title: Full Catalogue
+        url: /catalogue/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: CSC Website
+    url: https://www.csc.gov.sg/

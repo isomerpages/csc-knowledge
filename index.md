@@ -1,32 +1,46 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Knowledge Hub
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Landing_Banner_Images/knowledge_landing_banner_01.jpg
+      title: CSC Knowledge
+  - infobar:
+      description: Empowering the growth and progress of our public officers with
+        curated research insights, thought leadership, innovative ideas and
+        carefully crafted guides
+  - infopic:
+      title: ETHOS
+      description: ETHOS is a publication of the Civil Service College aiming to
+        provide leadership, insight and context on a public policy issues of
+        interest to Singapore
+      button: See More
+      image: /images/Landing_Banner_Images/landingtile_ethos.jpg
+      alt: Ethos Digital Edition Issue 25
+      url: /ethos/
+  - infopic:
+      title: Books
+      description: CSC publishes a range of books, from case studies and primers, to
+        toolkits and conference proceedings.
+      url: /books/
+      image: /images/Landing_Banner_Images/landingtile_books.jpg
+      alt: Ethos Digital Edition Issue 10
+      button: See more
+  - infobar:
+      title: LEARN
+      subtitle: CSC Digital Learning Platform
+      description: CSC’s digital programme and learning resources from renowned
+        third-party content providers.
+      button: Go to LEARN
+      url: www.learn.gov.sg
+  - infobar:
+      title: ODex
+      subtitle: Community of Practice
+      description: Resources on Leadership and Organisation Development
+      button: Go to ODex
+      url: www.odex.csc.gov.sg
 ---
-
