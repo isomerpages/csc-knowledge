@@ -15,7 +15,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 
 #strategy, #culture, #alignment, #leadership, #empowerment
 {
-margin-top:30px;	
+margin-top:50px;	
 }	
 	
 .word
@@ -141,7 +141,7 @@ background-color: #22b5a2;
 padding:40px;
 margin:30px;
 color:white;
-border-radius: 20px;
+border-radius: 10px;
 }
 	
 .leadership1 p
@@ -162,8 +162,9 @@ font-family: "montserrat";
 {
 background-color: #9780b9; 	
 padding:40px;
+margin:30px;
 color:white;
-border-radius: 20px;
+border-radius: 10px;
 }
 	
 .empowerment1 p
@@ -195,7 +196,11 @@ padding-bottom:30px;
 border-top: 1px solid black;
 }
 	
-	
+.notestop ol li
+{
+	font-size: 16px;
+}
+
 	
 </style>
 
