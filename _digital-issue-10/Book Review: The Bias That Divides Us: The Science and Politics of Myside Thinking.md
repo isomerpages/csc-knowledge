@@ -35,6 +35,16 @@ border-top: 1px solid black;
 <img src="/images/Cropped_images/Ethos_Digital_10/review.jpg">
 </div>
 <br>
+<h2>Why People See the Same Facts and Come to Different Conclusions</h2>
+
+<h4>Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</h4>
+
+
+
+
+
+
+
 
 <p>
 Prioritisation is an ever-present reality that we all face in the Public Service. To generate greater impact and the best public value, we must put our scarce resources to their best use. This often means we have to prioritise how we spend our money, time, and effort.</p>
