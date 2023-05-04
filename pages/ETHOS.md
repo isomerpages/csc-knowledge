@@ -15,10 +15,16 @@ border-spacing: 30px 10px;
 	width:50%;
 }
 
+.img1 img
+{
+margin-top:25px;	
+}	
+
 .img img
 {
-margin-top:23px;	
-}	
+margin-top:15px;	
+}		
+	
 	
 .cat
 {
@@ -33,34 +39,16 @@ td
 
 #editorial,#section-1,#section-2,#section-3,#section-4,#section-5,#section-6,#section-7,#section-8,#section-9
 {
-	margin-top:20px;
 	border-bottom: 0.5px solid black;
 }
 
-#section-10
-{
-		margin-top:20px;
-}
+
 	
 .button1 a
 {
 	color: #9f2943;
 	font-weight:bold;
 }
-	
-@media only screen and (max-width: 600px) {
-  .img img
-	{
-	display:block;
-	}
-	
-	
-	
-}	
-	
-
-	
-	
 	
 </style>
 
@@ -71,7 +59,7 @@ td
 <table id="top">
 <tbody>
 <tr>
-<td class="img">
+<td class="img1">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
 </td>
 
