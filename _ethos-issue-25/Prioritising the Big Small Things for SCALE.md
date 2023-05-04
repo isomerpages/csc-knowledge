@@ -15,13 +15,13 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 
 #strategy, #culture, #alignment, #leadership, #empowerment
 {
-margin-top:50px;	
+margin-top:30px;	
 }	
 	
 .word
 {
 font-weight: bold;
-font-style: italic;
+font-size:25px;
 }
 	
 .back a
@@ -57,10 +57,11 @@ font-style: italic;
 .strategy1
 {
 background-color: #ED746F; 	
-padding:40px;
+padding:30px;
+margin:20px;
 color:white;
-border-radius: 20px;
-margin-top:20px;
+border-radius: 10px;
+margin-top:10px;
 }
 	
 .strategy1 p
@@ -79,10 +80,11 @@ font-family: "montserrat";
 .culture1 
 {
 background-color: #f19637; 	
-padding:50px;
+padding:30px;
+margin:20px;
 color:white;
-border-radius: 20px;
-margin-top:20px;
+border-radius: 10px;
+margin-top:10px;
 }
 	
 .culture1 p
@@ -101,9 +103,11 @@ font-family: "montserrat";
 .culture1
 {
 background-color: #f19637; 	
-padding:40px;
+padding:30px;
+margin:20px;
 color:white;
-border-radius: 20px;
+border-radius: 10px;
+margin-top:10px;
 }
 	
 .culture1 p
@@ -123,10 +127,11 @@ font-family: "montserrat";
 .alignment1 
 {
 background-color: #24788e; 	
-padding:40px;
+padding:30px;
+margin:20px;
 color:white;
-border-radius: 20px;
-margin-top:20px;
+border-radius: 10px;
+margin-top:10px;
 }
 	
 .alignment1 p
@@ -243,12 +248,14 @@ deciding what we will do and what we will not do."</p>
 	<b>Clarity for Crafting and Translating into Results</b>
 
 <div class="strategy1">
-	<p>The two questions you need to ask about your <span class="word">Strategy:</span></p>	
+	
+<p>The two questions you need to ask about your <span class="word">Strategy:</span></p>	
 <ul>
 		<li>How is our work achieving what is core to our organisation?
 </li>
 		<li>How is our work reﬂecting what our organisation can uniquely do?</li>
 	</ul>
+	
 </div>
 
 <p>The most important step in prioritisation is to clarify the organisation’s strategy and to activate it in the work done, from the top all the way to the ground. In our consultancy work, we have heard varying degrees of clarity across different levels when officers are asked about their organisation’s focus. We often see organisations spending extensive effort in crafting strategic plans, but less effort in communicating and translating strategies into day-to-day work. </p>
