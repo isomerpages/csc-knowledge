@@ -50,7 +50,10 @@ td
 	
 @media only screen and (max-width: 600px) {
   body {
-    background-color: red !important;
+    .img
+	{
+	display:none;
+	}
   }
 	
 	
