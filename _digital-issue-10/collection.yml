@@ -2,6 +2,8 @@ collections:
   digital-issue-10:
     output: true
     order:
+      - "Book Review: The Bias That Divides Us: The Science and Politics of
+        Myside Thinking.md"
       - Editorial.md
       - Prioritisation.md
       - Prioritising Work and Letting go the Emotional Dimension.md
