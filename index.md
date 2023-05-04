@@ -39,7 +39,7 @@ sections:
   - infobar:
       title: ODex
       subtitle: Community of Practice
-      description: Resources on Leadership and Organisation Development
+      description: Resources for Organisation Development Practitioners
       button: Go to ODex
-      url: www.odex.csc.gov.sg
+      url: https://odex.csc.gov.sg/
 ---
