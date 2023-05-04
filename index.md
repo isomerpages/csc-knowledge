@@ -30,14 +30,6 @@ sections:
       image: /images/Landing_Banner_Images/landingtile_books.jpg
       alt: Ethos Digital Edition Issue 10
       button: See more
-  - infopic:
-      title: Research
-      description: "You can find a curated selection of CSC writings in our Research
-        section. "
-      button: See more
-      image: /images/Landing_Banner_Images/landingtile_research.jpg
-      alt: Image alt text
-      url: /research-resources/
   - infobar:
       title: LEARN
       subtitle: CSC Digital Learning Platform
