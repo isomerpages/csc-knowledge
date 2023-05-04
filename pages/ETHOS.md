@@ -61,7 +61,7 @@ td
 @media only screen and (max-width: 600px) {
   .img img
 	{
-	display:none;
+	display:block;
 	}
 	
 	body
