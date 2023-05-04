@@ -222,20 +222,26 @@ font-size: 16px;
 <li id="num4">Chew Hui Min, “10 Quotes from Mr Lee Kuan Yew's 'awesome' 1977 speech in Parliament”,&nbsp;_The Straits Times_, March 26, 2015,&nbsp;<a href="https://www.straitstimes.com/singapore/10-quotes-from-mr-lee-kuan-yews-awesome-1977-speech-in-parliament">https://www.straitstimes.com/singapore/10-quotes-from-mr-lee-kuan-yews-awesome-1977-speech-in-parliament.</a></li>
 <li id="num5">A. Lim, “Singapore Can Be World Leader in Cultivating Lifelong Learning, Says Tharman Shanmugaratnam”,&nbsp;_The Straits Times_, April 25, 2019,&nbsp;<a href="https://www.straitstimes.com/politics/singapore-can-be-world-leader-in-cultivating-life-long-learning-says-tharman-shanmugaratnam">https://www.straitstimes.com/politics/singapore-can-be-world-leader-in-cultivating-life-long-learning-says-tharman-shanmugaratnam.</a></li>
 <li id="num6">S. Tan, “Firms that Send Workers for Training See Revenue Rise, Higher Productivity: SkillsFuture-MTI Study”,&nbsp;_The Straits Times_, July 8, 2021,&nbsp;<a href="https://www.straitstimes.com/singapore/jobs/firms-that-send-workers-for-training-see-revenue-rise-higher-productivity">https://www.straitstimes.com/singapore/jobs/firms-that-send-workers-for-training-see-revenue-rise-higher-productivity.</a></li>
-<li>Ibid.</li>
-<li>See Note 3.</li>
-<li>M. Simons, L. V. Loenen, and J. W. V. Gelder, “Trade Union Activities on Life-Long Learning: Shaping the Future of Work in a Digitalised Services Industry”, UNI Europa, July 11, 2020,&nbsp;<a href="https://unieuropaconference.org/wp-content/uploads/sites/2/Lifelong-learning-EN-light.pdf">https://unieuropaconference.org/wp-content/uploads/sites/2/Lifelong-learning-EN-light.pdf".</a></li>
-<li>OECD, “Enhancing Employability Report Prepared for the G20 Employment Working Group”, 2016,&nbsp;[https://www.oecd.org/els/emp/Enhancing-Employability-G20-Report-2016.pdf](https://www.oecd.org/els/emp/Enhancing-Employability-G20-Report-2016.pdf).</li>
-<li>OECD, “Getting Skills Right: Future-Ready Adult Learning Systems”2019,&nbsp;<a href="https://www.oecd.org/els/emp/skills-and-work/adult-learning/Policy-Brief-Future-ready-adult-learning-2019-EN.pdf"> https://www.oecd.org/els/emp/skills-and-work/adult-learning/Policy-Brief-Future-ready-adult-learning-2019-EN.pdf.</a></li>
-<li>Cedefop, “Inventory of Lifelong Guidance Systems and Practices—Norway”, CareersNet national records, 2020,&nbsp;<a href="https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway">https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway.</a></li>
-<li>.  See Note 3.</li>
-<li>J. A. Jenkins, “An Ageing Workforce Isn’t a Burden. It’s an Opportunity”, World Economic Forum, January 3, 2019,&nbsp;<a href="https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/">https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/</a></li>
-<li>World Economic Forum, “Accelerating Workforce Reskilling for the Fourth Industrial Revolution: An Agenda for Leaders to Shape the Future of Education, Gender and Work, 2017,&nbsp;<a href="https://www3.weforum.org/docs/WEF\_EGW\_White\_Paper\_Reskilling.pdf">https://www3.weforum.org/docs/WEF_EGW_White_Paper_Reskilling.pdf.</a></li>
-<li>S. Boh, “1 in 4 Singaporeans Aged above 65 Developed Chronic Disease in Past Year: Study”,&nbsp;_The Straits Times_, November 11, 2016,&nbsp;<a>https://www.straitstimes.com/singapore/one-in-four-singaporeans-aged-above-65-developed-chronic-disease-in-past-year-study.</a></li>
-<li>P. Tay, “Can We Do More to Help PMEs Overcome Disruption and Discrimination in the Next Normal?”&nbsp;_Singapore Labour Journal_&nbsp;1 (2022), 83–89.</li>
-<li>Refer to Note 12.</li>
-<li>NTUC &amp; SUTD,&nbsp;_Power to Participate: Building Young Voices, Choices and Experiences_&nbsp;(National Trades Union Congress: 2022).</li>
-<li>H. M. Ang, “Pace of Acquiring Skills and Knowledge must Intensify, Continual Learning Will Help People remain Relevant: Chan Chun Sing”,&nbsp;_Channel News Asia_, February 10, 2022,&nbsp;<a href="https://www.channelnewsasia.com/singapore/acquiring-skills-knowledge-intensify-continual-learning-chan-chun-sing-2489816">https://www.channelnewsasia.com/singapore/acquiring-skills-knowledge-intensify-continual-learning-chan-chun-sing-2489816.</a></li>
+<li id="num7">Ibid.</li>
+<li id="num8">See Note 3.</li>
+<li id="num9">M. Simons, L. V. Loenen, and J. W. V. Gelder, “Trade Union Activities on Life-Long Learning: Shaping the Future of Work in a Digitalised Services Industry”, UNI Europa, July 11, 2020,&nbsp;<a href="https://unieuropaconference.org/wp-content/uploads/sites/2/Lifelong-learning-EN-light.pdf">https://unieuropaconference.org/wp-content/uploads/sites/2/Lifelong-learning-EN-light.pdf".</a></li>
+	
+<li id="num10">OECD, “Enhancing Employability Report Prepared for the G20 Employment Working Group”, 2016,&nbsp;<a href="https://www.oecd.org/els/emp/Enhancing-Employability-G20-Report-2016.pdf">https://www.oecd.org/els/emp/Enhancing-Employability-G20-Report-2016.pdf.</a></li>
+	
+<li id="num11">OECD, “Getting Skills Right: Future-Ready Adult Learning Systems” 2019, <a href="https://www.oecd.org/els/emp/skills-and-work/adult-learning/Policy-Brief-Future-ready-adult-learning-2019-EN.pdf"> https://www.oecd.org/els/emp/skills-and-work/adult-learning/Policy-Brief-Future-ready-adult-learning-2019-EN.pdf."</a></li>
+	
+<li id="num12">Cedefop, “Inventory of Lifelong Guidance Systems and Practices—Norway”, CareersNet national records, 2020,&nbsp;<a href="https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway">https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway.</a></li>
+	
+	
+<li id="num13">.  See Note 3.</li>
+	
+<li id="num14">J. A. Jenkins, “An Ageing Workforce Isn’t a Burden. It’s an Opportunity”, World Economic Forum, January 3, 2019,&nbsp;<a href="https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/">https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/</a></li>
+<li id="num15">World Economic Forum, “Accelerating Workforce Reskilling for the Fourth Industrial Revolution: An Agenda for Leaders to Shape the Future of Education, Gender and Work, 2017,&nbsp;<a href="https://www3.weforum.org/docs/WEF\_EGW\_White\_Paper\_Reskilling.pdf">https://www3.weforum.org/docs/WEF_EGW_White_Paper_Reskilling.pdf.</a></li>
+<li id="num16">S. Boh, “1 in 4 Singaporeans Aged above 65 Developed Chronic Disease in Past Year: Study”,&nbsp;_The Straits Times_, November 11, 2016,&nbsp;<a>https://www.straitstimes.com/singapore/one-in-four-singaporeans-aged-above-65-developed-chronic-disease-in-past-year-study.</a></li>
+<li id="num17">P. Tay, “Can We Do More to Help PMEs Overcome Disruption and Discrimination in the Next Normal?”&nbsp;_Singapore Labour Journal_&nbsp;1 (2022), 83–89.</li>
+<li id="num18">Refer to Note 12.</li>
+<li id="num19">NTUC &amp; SUTD,&nbsp;_Power to Participate: Building Young Voices, Choices and Experiences_&nbsp;(National Trades Union Congress: 2022).</li>
+<li id="num20">H. M. Ang, “Pace of Acquiring Skills and Knowledge must Intensify, Continual Learning Will Help People remain Relevant: Chan Chun Sing”,&nbsp;_Channel News Asia_, February 10, 2022,&nbsp;<a href="https://www.channelnewsasia.com/singapore/acquiring-skills-knowledge-intensify-continual-learning-chan-chun-sing-2489816">https://www.channelnewsasia.com/singapore/acquiring-skills-knowledge-intensify-continual-learning-chan-chun-sing-2489816.</a></li>
 	
 	
 	
