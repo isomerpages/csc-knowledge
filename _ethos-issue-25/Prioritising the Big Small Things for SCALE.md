@@ -61,7 +61,6 @@ padding:40px;
 margin:30px;
 color:white;
 border-radius: 10px;
-margin-top:10px;
 }
 	
 .strategy1 p
@@ -165,7 +164,6 @@ background-color: #9780b9;
 padding:40px;
 color:white;
 border-radius: 20px;
-margin-top:20px;
 }
 	
 .empowerment1 p
