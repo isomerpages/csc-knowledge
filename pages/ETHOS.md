@@ -64,11 +64,6 @@ td
 	display:block;
 	}
 	
-	body
-	{
-	background-color: red;
-	}
-	
 	
 	
 }	
