@@ -6,8 +6,16 @@ description: ""
 image: /images/Cropped_images/Ethos_Digital_10/review.jpg
 ---
 <style>
+#bias img
+{
+	width: 300px;
+	align:left;
+}
 
-
+#text
+{
+padding-top: 60px;	
+}	
 	
 .back a
 {
@@ -40,17 +48,16 @@ border-top: 1px solid black;
 <h4>Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</h4>
 
 <table>
-	<tbody>
+<tbody>
 <tr>
-<td><b>DETAILS</b></td>
+<th><b>DETAILS</b></th>
 </tr>	
 <tr>			
-<td><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/BookCover.jpg"></td>
-</tr>
-		
-		
-		
-		
+<td id="bias"><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/BookCover.jpg"></td>
+<td id="text"><b>The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</b><br>By Keith Stanovich The MIT Press (2021); 241 pp</td>	
+
+</tr>	
+				
 </tbody>
 </table>
 
