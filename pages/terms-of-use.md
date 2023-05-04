@@ -12,11 +12,15 @@ permalink: /terms-of-use/
 
 
 <h4>Benefits</h4>
-<p>1. As a registered member of the CSC Website (“Website”), you will be entitled to use the following services as may be available from time to time:<br>
-a)    &nbsp; &nbsp; &nbsp; check the application status of courses and events you applied for on your member profile page<br>
-b) &nbsp; &nbsp;    &nbsp; register for courses and events online, quickly and conveniently <br>
-c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that interest you <br>
-	d) &nbsp;    &nbsp;    &nbsp; gain access to exclusive resources and materials online</p>
+<ol>
+<li>As a registered member of the CSC Website (“Website”), you will be entitled to use the following services as may be available from time to time:
+	</li><ol style="list-style-type: lower-roman;">
+	<li>check the application status of courses and events you applied for on your member profile page</li>
+		<li>register for courses and events online, quickly and conveniently</li>
+		<li>sign up for alerts on topics and articles that interest you</li>
+		<li>gain access to exclusive resources and materials online</li>
+	</ol>
+</ol>
 
 <h4>Application Process</h4>
 <p>2. When you apply for membership, you will be requested to provide a valid Singapore Government email address assigned to you. <br>
