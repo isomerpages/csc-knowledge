@@ -67,7 +67,7 @@ margin-top:20px;
 <p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
 
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></div>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a></div>
 	
 </td>
 	
@@ -95,7 +95,7 @@ Editor-in-Chief Ethos
 This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.
 </p>	
 
-<div class="button1"><a href="#">Read More</a></div> <br>
+<div class="button1"><a href="/digital-issue-10/editorial/">Read More</a></div> <br>
 </td>
 	
 	
@@ -121,7 +121,7 @@ This digital edition of ETHOS features a spread of articles exploring different 
 Five key challenges can hinder efforts to put previous time, effort and resources to their best uses. Here's how to identify and address them.
 </p>	
 
-<div class="button1"><a href="#">Read More</a></div><br>
+<div class="button1"><a href="/digital-issue-10/prioritisation/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -141,7 +141,7 @@ Five key challenges can hinder efforts to put previous time, effort and resource
 We should acknowledge our deep connection to our work and learn from what we have gained from each experience, as we refocus on new challenges.
 </p>	
 
-<div class="button1"><a href="#">Read More</a></div><br>
+<div class="button1"><a href="/digital-issue-10/prioritising-work-and-letting-go-the-emotional-dimensio/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -162,7 +162,7 @@ We should acknowledge our deep connection to our work and learn from what we hav
 Effective stakeholder communication can help ease disruption and promote buy-in for new goals if projects have to be modified or deprioritised.
 </p>	
 
-<div class="button1"><a href="#">Read More</a></div><br>
+<div class="button1"><a href="/digital-issue-10/when-projects-change-or-end-practical-steps-to-manage-stakeholder-expectations/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -183,7 +183,7 @@ Effective stakeholder communication can help ease disruption and promote buy-in 
 Around the world, countries have sought to enhance their workers’ prospects with closer partnerships between sectors, greater clarity about learning goals, more flexibility with educational modes, and ensuring access to training for those who need it most.
 </p>	
 
-<div class="button1"><a href="#">Read More</a></div><br>
+<div class="button1"><a href="/digital-issue-10/lifelong-learning-through-a-global-lens/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -202,7 +202,7 @@ Around the world, countries have sought to enhance their workers’ prospects wi
 <p>	
 Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich.</p>	
 
-<div class="button1"><a href="#">Read More</a></div><br>
+<div class="button1"><a href="/digital-issue-10/why-people-see-the-same-facts-and-come-to-different-conclusions/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
