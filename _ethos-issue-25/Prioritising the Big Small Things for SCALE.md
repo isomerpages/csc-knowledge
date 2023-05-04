@@ -57,8 +57,8 @@ font-size:25px;
 .strategy1
 {
 background-color: #ED746F; 	
-padding:30px;
-margin:20px;
+padding:40px;
+margin:30px;
 color:white;
 border-radius: 10px;
 margin-top:10px;
@@ -75,16 +75,6 @@ font-family: "montserrat";
 	color: #f19637; 
 	font-weight: bold;
 	font-size:25px;
-}
-
-.culture1 
-{
-background-color: #f19637; 	
-padding:30px;
-margin:20px;
-color:white;
-border-radius: 10px;
-margin-top:10px;
 }
 	
 .culture1 p
@@ -103,11 +93,10 @@ font-family: "montserrat";
 .culture1
 {
 background-color: #f19637; 	
-padding:30px;
-margin:20px;
+padding:40px;
+margin:30px;
 color:white;
 border-radius: 10px;
-margin-top:10px;
 }
 	
 .culture1 p
@@ -127,11 +116,10 @@ font-family: "montserrat";
 .alignment1 
 {
 background-color: #24788e; 	
-padding:30px;
-margin:20px;
+padding:40px;
+margin:30px;
 color:white;
-border-radius: 10px;
-margin-top:10px;
+border-radius:10px;
 }
 	
 .alignment1 p
@@ -148,13 +136,13 @@ font-family: "montserrat";
 	font-size:25px;
 }
 
-.leadership1 
+.leadership1
 {
 background-color: #22b5a2; 	
 padding:40px;
+margin:30px;
 color:white;
 border-radius: 20px;
-margin-top:20px;
 }
 	
 .leadership1 p
@@ -199,8 +187,6 @@ color:black;
 font-weight:bold;
 text-decoration: none;
 }
-
-	
 
 	
 .author
