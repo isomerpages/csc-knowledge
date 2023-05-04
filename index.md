@@ -41,7 +41,8 @@ sections:
   - infobar:
       title: LEARN
       subtitle: CSC Digital Learning Platform
-      description: CSC Digital Learning Platform
+      description: CSC’s digital programme and learning resources from renowned
+        third-party content providers.
       button: Go to LEARN
       url: www.learn.gov.sg
   - infobar:
