@@ -14,18 +14,9 @@ border-spacing: 30px 10px;
 {
 	width:50%;
 }
-	
-.text1
-{
-	width:50%;
-}	
+
 	
 .img img
-{
-margin-top:15px;	
-}
-	
-.img1 img
 {
 margin-top:25px;	
 }	
@@ -81,11 +72,11 @@ td
 <table id="top">
 <tbody>
 <tr>
-<td class="img1">
+<td class="img">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">
 </td>
 
-<td class="text1">
+<td class="text">
 <h3><span class="cat">ISSUE 25, MAR 2023</span>
 <br>ETHOS Issue 25</h3>	
 <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
