@@ -15,16 +15,16 @@ border-spacing: 30px 10px;
 {
 	width: 50%;
 }
+
+.text
+{
+	width: 50%;
+}	
 	
 .img1 img
 {
 margin-top:25px;	
 }	
-	
-.text
-{
-	width: 50%;
-}
 	
 .img img
 {
