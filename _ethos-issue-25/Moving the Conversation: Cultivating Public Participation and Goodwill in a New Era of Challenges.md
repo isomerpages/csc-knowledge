@@ -61,6 +61,11 @@ margin-top:20px;
 {
 color: #1C8A6F
 }		
+	
+.notestop ol li
+{
+	font-size: 16px;
+}	
 
 </style>
 
