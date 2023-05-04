@@ -12,12 +12,12 @@ border-spacing: 30px 10px;
 
 .text
 {
-	width:60%;
+	width:50%;
 }
 	
 .text1
 {
-	width:60%;
+	width:50%;
 }	
 	
 .img img
