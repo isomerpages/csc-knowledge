@@ -12,13 +12,6 @@ links:
     sublinks:
       - title: Full Catalogue
         url: /catalogue/
-  - title: Research
-    url: /case-studies/
-    sublinks:
-      - title: Case Studies
-        url: /case-studies
-      - title: Selected Writings
-        url: /selected-writings
   - title: Contact Us
     url: /contact-us/
   - title: CSC Website
