@@ -87,10 +87,8 @@ td
 
 <td class="text">	
 <h3>Editorial </h3>
-<b><i>by Dr Alvin Pang</i></b>
-<figcaption>
-Editor-in-Chief Ethos
-</figcaption>
+<b><i>by Alvin Pang</i></b>
+
 	
 <p>	
 The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates.
