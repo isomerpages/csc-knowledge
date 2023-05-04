@@ -59,7 +59,7 @@ td
 }
 	
 @media only screen and (max-width: 600px) {
-  .img
+  .img img
 	{
 	display:none;
 	}
