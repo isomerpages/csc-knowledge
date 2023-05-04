@@ -10,7 +10,7 @@ sections:
       background: /images/Landing_Banner_Images/knowledge_landing_banner_01.jpg
       title: CSC Knowledge
   - infobar:
-      description: Empowering our public officers with the skills, insights,
+      description: Empowering our public officers with the skills, insights and
         inspiration to make a meaningful impact in their roles
   - infopic:
       title: ETHOS
