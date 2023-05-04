@@ -4,12 +4,6 @@ permalink: /ethos-issue-25/
 description: ""
 ---
 <style>
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: red !important;
-  }
-}	
-	
 table
 { 
 border-collapse: separate; 
@@ -54,7 +48,12 @@ td
 	font-weight:bold;
 }
 	
-
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: red !important;
+  }
+}	
+	
 
 	
 	
