@@ -230,12 +230,12 @@ font-size: 16px;
 <li>Cedefop, “Inventory of Lifelong Guidance Systems and Practices—Norway”, CareersNet national records, 2020,&nbsp;<a href="https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway">https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway.</a></li>
 <li>.  See Note 3.</li>
 <li>J. A. Jenkins, “An Ageing Workforce Isn’t a Burden. It’s an Opportunity”, World Economic Forum, January 3, 2019,&nbsp;<a href="https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/">https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/</a></li>
-<li>World Economic Forum, “Accelerating Workforce Reskilling for the Fourth Industrial Revolution: An Agenda for Leaders to Shape the Future of Education, Gender and Work, 2017,&nbsp;<a href="https://www3.weforum.org/docs/WEF\_EGW\_White\_Paper\_Reskilling.pdf">https://www3.weforum.org/docs/WEF_EGW_White_Paper_Reskilling.pdf.</a>
-16.  S. Boh, “1 in 4 Singaporeans Aged above 65 Developed Chronic Disease in Past Year: Study”,&nbsp;_The Straits Times_, November 11, 2016,&nbsp;[https://www.straitstimes.com/singapore/one-in-four-singaporeans-aged-above-65-developed-chronic-disease-in-past-year-study](https://www.straitstimes.com/singapore/one-in-four-singaporeans-aged-above-65-developed-chronic-disease-in-past-year-study).
-17.  P. Tay, “Can We Do More to Help PMEs Overcome Disruption and Discrimination in the Next Normal?”&nbsp;_Singapore Labour Journal_&nbsp;1 (2022), 83–89.
-18.  Refer to Note 12.
-19.  NTUC &amp; SUTD,&nbsp;_Power to Participate: Building Young Voices, Choices and Experiences_&nbsp;(National Trades Union Congress: 2022).
-20.  H. M. Ang, “Pace of Acquiring Skills and Knowledge must Intensify, Continual Learning Will Help People remain Relevant: Chan Chun Sing”,&nbsp;_Channel News Asia_, February 10, 2022,&nbsp;[https://www.channelnewsasia.com/singapore/acquiring-skills-knowledge-intensify-continual-learning-chan-chun-sing-2489816](https://www.channelnewsasia.com/singapore/acquiring-skills-knowledge-intensify-continual-learning-chan-chun-sing-2489816).
+<li>World Economic Forum, “Accelerating Workforce Reskilling for the Fourth Industrial Revolution: An Agenda for Leaders to Shape the Future of Education, Gender and Work, 2017,&nbsp;<a href="https://www3.weforum.org/docs/WEF\_EGW\_White\_Paper\_Reskilling.pdf">https://www3.weforum.org/docs/WEF_EGW_White_Paper_Reskilling.pdf.</a></li>
+<li>S. Boh, “1 in 4 Singaporeans Aged above 65 Developed Chronic Disease in Past Year: Study”,&nbsp;_The Straits Times_, November 11, 2016,&nbsp;<a>https://www.straitstimes.com/singapore/one-in-four-singaporeans-aged-above-65-developed-chronic-disease-in-past-year-study.</a></li>
+<li>P. Tay, “Can We Do More to Help PMEs Overcome Disruption and Discrimination in the Next Normal?”&nbsp;_Singapore Labour Journal_&nbsp;1 (2022), 83–89.</li>
+<li>Refer to Note 12.</li>
+<li>NTUC &amp; SUTD,&nbsp;_Power to Participate: Building Young Voices, Choices and Experiences_&nbsp;(National Trades Union Congress: 2022).</li>
+<li>H. M. Ang, “Pace of Acquiring Skills and Knowledge must Intensify, Continual Learning Will Help People remain Relevant: Chan Chun Sing”,&nbsp;_Channel News Asia_, February 10, 2022,&nbsp;<a href="https://www.channelnewsasia.com/singapore/acquiring-skills-knowledge-intensify-continual-learning-chan-chun-sing-2489816">https://www.channelnewsasia.com/singapore/acquiring-skills-knowledge-intensify-continual-learning-chan-chun-sing-2489816.</a></li>
 	
 	
 	
@@ -254,7 +254,7 @@ font-size: 16px;
 	
 	
 	
-</li></ol>	
+</ol>	
 </div>	
 	
 <br>
