@@ -48,7 +48,7 @@ infrastructure more holistically, to enabling senior citizens to age in place th
 community healthcare. It also examines what can be done in the years ahead to infuse an
 understanding of complexity across the public service.</p>	
 <br>
-<p>Please <a href="/contact-us/">contact</a> the Publishing Team for purchase.</p>
+<p>Please <a href="https://go.gov.sg/csc-knowledge-enquiry">contact</a> the Publishing Team for purchase.</p>
 <br>
 
 <div id="introduction">
