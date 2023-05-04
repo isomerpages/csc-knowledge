@@ -172,67 +172,88 @@ font-size: 16px;
 
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table4.JPG">
 
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-<div id="effectivecom">	
-
-<h2>Effective Communication Ensures Stakeholder Participation in the Change Management Process</h2>
-	
-<div id="case1">	
-
-<h4>Case 1: Effective communication of project change in a large-scale energy infrastructure project with multiple international stakeholder</h4>
-
-<p>In the planning phase of the project, various project core teams consisting of participants from all key stakeholders groups were formed and maintained throughout the entire project life cycle. Communication routines and platforms between different project stakeholders were set up and made explicit.</p>
-
-<p>This stable and well-organised system ensured the efficient flow of project information among the stakeholders, such as when changes had to be made to the scope of work. Clear and timely communication promoted stakeholder understanding and trust, allowing effective decisions on project changes to be made by the project core teams even during conflict situations.</p>
-
-<p>The communication routines helped to maintain stakeholder engagement throughout the project life cycle, leading to positive outcomes for the project.</p><br>
-	
+<p>In Singapore, providing tailored education for our young people has taken on increased importance. Our Institutes of Higher Learning (IHLs) are set to evolve over the next few years (and may well become Institutes of Continuous Learning). We can expect to see more flexible courses that span across multiple disciplines and enable our students to adapt and respond to changing industries and demand.<sup><a href="#">20</a></sup>&nbsp; In short, we need to adapt our education system to match continually changing industry demand and needed skills, in tandem with the transformation of work and workplaces.</p>
+<br>
+<div class="break"><p>We can expect to see more flexible courses that span across multiple disciplines and enable our students to adapt and respond to changing industries.</p>
 </div>
 
-	
-<div id="case2">		
-<h4>Case 2: Ineffective communication of project change in a small-scale facility development project with relatively short timeframe and limited budget</h4>
 
-<p>In the planning phase of this construction project, different stakeholder groups came together to co-create project goals. However, during the technical planning and implementation phase, a more task-oriented approach was adopted, and work efficiency was preferred over required project functionality. Communications with the stakeholders was ad hoc.</p>
+<h2>Role of the Public Sector in Supporting Lifelong Learning</h2>
 
-<p>In addition, required changes during the construction phase were not adequately communicated to key stakeholders, and decisions were made solely by the construction team. This was likely because the lack of clear and established communication routines created the perception that seeking input from the various stakeholders would be onerous.</p>
+<p>A skilled workforce is essential for the economic development of Singapore. The public sector in Singapore can play an integral role in in supporting lifelong learning and helping workers acquire the skills and knowledge they need to thrive in the workforce. Here are three potential strategies for doing so:</p>
 
-<p>As a result of these changes, the needs of some stakeholders who would be using the facility could not be met. This was only discovered during the final inspection of the premises, and the contractor then had to do additional work and installation.</p>
 
-<p>The lack of clear and timely communication with key stakeholders resulted in decreasing stakeholder involvement and unsatisfactory project outcomes.</p>
-	
-</div>	
-	
-	
-</div>
+<h3>1. Creating and deepening partnerships</h3>
 
-<p>In summary, any deprioritisation plan should include some consideration of how to manage the impact on various internal and external stakeholders. Deprioritisation is akin to a change process, and it is important to address not only the technical aspect of the situation but also people’s emotions and expectations. Otherwise, efforts at deprioritisation may be futile or even counterproductive.</p>
+<p>Public agencies can partner with private companies and trade unions to provide on-the-job training and apprenticeships, which can help workers acquire skills and experience while they work. This will benefit workers’ careers and help them adapt to changing demands.</p>
+
+<p>For example, Germany’s dual education and vocational training has been a trailblazer, championing on-the job training and apprenticeships. Over 50% of Germans enter the dual vocational and educational training programmes (VET) as a route to employment, embarking on apprenticeships with a company, of which they spend about 50% on learning “on the job “and 50% at a vocational training school. This mix of practical and theory-based learning have allowed trainees to acquire skills that tend to be well matched to the needs of employers, while also leading to low youth unemployment and higher skill levels. The German dual system requires deep, complex coordination between employers, the government, the schools, trade unions and chambers of trade and industry.</p>
+
+<h3>2. Endorsing micro-credentials</h3>
+
+<p>Public agencies can also support lifelong learning by working with the IHLs to design and offer micro-credentials, such as digital badges or certificates, which can offer recognition for skills and knowledge.This makes it easier for workers to showcase their achievements to current and future employers.</p>
+
+<p>For example, the Council of the European Union has adopted a recommendation on micro-credentials for lifelong learning and employability. Ireland will be the first European country to establish a coherent National Framework for quality assured and accredited micro-credentials.</p>
+
+<h3>3. Providing resource support</h3>
+
+<p>The public sector can allocate funding and resources to support workers to pursue new learning opportunities, especially our mid-careerists and at-risk workers. Protected time off for training and recognition of non-degree learning/training will encourage more to undergo training and help strengthen their career progression.</p>
+
+<p>Singapore’s Budget 2023 features a top-up of S$4 billion to the National Productivity Fund meant to enable firms to upskill workers; it has also introduced a new pilot entity known as Job-Skills Integrators to address the challenge of workers not knowing what training programmes to go for, or what competencies and skills they need to secure better jobs. Workers will be equipped as labour market intermediaries, dubbed Jobs-Skills Integrators (JITs), who will work closely with industry, training and employment facilitation partners to bridge industry manpower and skill gaps, and optimise training and job placement for workers. This project will be piloted with higher concentrations of mature workers and SMEs. It aims to ensure that training translates into better employment and earning prospects, strengthening workers’ career prospects and progression.</p>
+
+<h2>Labour Movement Will Walk alongside Workers in their Lifelong Journey</h2>
+
+<p>Companies looking to transform their workforce and help their workers pursue lifelong learning can turn to NTUC for support. We have recently established the NTUC’s Training and Placement ecosystem—comprising NTUC’s e2i (Employment and Employability Institute), NTUC LearningHub (LHUB), NTUC Industry Training and Transformation (IT&amp;T) and the Ong Teng Cheong Labour Leadership Institute (OTCi). This ecosystem is a one-stop intermediary to operationalise business and workforce transformation, as well as to better serve workers’ training and jobs matching needs.</p>
+
+<p>With workers’ interests at our core, the Labour Movement remains committed to walk alongside workers in their lifelong learning, helping them acquire better skills, secure better jobs and pursue better careers.</p>
 
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<p>by <b>Khoo Ee Wan</b> &nbsp;is Lead Researcher at the Institute of Leadership and Organisation Development, Civil Service College. She designs and conducts research studies and analytics that generate actionable insights to inform talent assessment, leadership development and organisation development	</p>
+<p>by <b> Patrick Tay</b> is Assistant Secretary-General of National Trades Union Congress (NTUC) and Director of NTUC’s Legal and Strategy. He is an elected Member of Parliament (Pioneer SMC) and chairs the Government Parliamentary Committee for Education. He is currently serving as Executive Secretary of the United Workers of Electronics &amp; Electrical Industries (UWEEI) and the Singapore Manual &amp; Mercantile Workers’ Union (SMMWU).	</p>
 </div>
 
 <div class="notes">
 <h6>NOTES</h6>
 <ol>
-<li>Tip #1: Engaging Stakeholders_, Harvard Business Review, video file,&nbsp;[https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders](https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders).</li>
-<li>The Prosci ADKAR Model (website),&nbsp;[https://www.prosci.com/methodology/adkar](https://www.prosci.com/methodology/adkar).</li>
-<li>Adapted from: Aurangzeab Butt, Marja Naaranoja and Jussi Savolainen, “Project Change Stakeholder Communication”,&nbsp;_International Journal of Project Management_&nbsp;34 (2016): 1579–95, 10.1016/j.ijproman.2016.08.010, accessed March 1, 2023,&nbsp;[https://www.researchgate.net/publication/308352652\_Project\_change\_stakeholder\_communication](https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication).</li>
+	<li id="num1">Ministry of Manpower, “Labour Market Report First Quarter 2022”, June 17, 2022,&nbsp;<a href="https://www.mom.gov.sg/newsroom/press-releases/2022/0617-labour-market-report-1q-2022](https://www.mom.gov.sg/newsroom/press-releases/2022/0617-labour-market-report-1q-2022">https://www.mom.gov.sg/newsroom/press-releases/2022/0617-labour-market-report-1q-2022](https://www.mom.gov.sg/newsroom/press-releases/2022/0617-labour-market-report-1q-2022).</a></li>
+<li>S. Ellerbeck, “The Great Resignation Is not Over: A Fifth of Workers Plan to Quit in 2022”, World Economic Forum, June 24, 2022,&nbsp;[https://www.weforum.org/agenda/2022/06/the-great-resignation-is-not-over/](https://www.weforum.org/agenda/2022/06/the-great-resignation-is-not-over/).</li>
+<li>["Continuing Education and Training: Now and What Could be Next",](https://ntuc.org.sg/Research-CET)&nbsp;Singapore: National Trades Union Congress, 2022.</li>
+<li>Chew Hui Min, “10 Quotes from Mr Lee Kuan Yew's 'awesome' 1977 speech in Parliament”,&nbsp;_The Straits Times_, March 26, 2015,&nbsp;[https://www.straitstimes.com/singapore/10-quotes-from-mr-lee-kuan-yews-awesome-1977-speech-in-parliament](https://www.straitstimes.com/singapore/10-quotes-from-mr-lee-kuan-yews-awesome-1977-speech-in-parliament).</li>
+<li>A. Lim, “Singapore Can Be World Leader in Cultivating Lifelong Learning, Says Tharman Shanmugaratnam”,&nbsp;_The Straits Times_, April 25, 2019,&nbsp;[https://www.straitstimes.com/politics/singapore-can-be-world-leader-in-cultivating-life-long-learning-says-tharman-shanmugaratnam](https://www.straitstimes.com/politics/singapore-can-be-world-leader-in-cultivating-life-long-learning-says-tharman-shanmugaratnam).</li>
+<li>S. Tan, “Firms that Send Workers for Training See Revenue Rise, Higher Productivity: SkillsFuture-MTI Study”,&nbsp;_The Straits Times_, July 8, 2021,&nbsp;[https://www.straitstimes.com/singapore/jobs/firms-that-send-workers-for-training-see-revenue-rise-higher-productivity](https://www.straitstimes.com/singapore/jobs/firms-that-send-workers-for-training-see-revenue-rise-higher-productivity).</li>
+<li>Ibid.</li>
+<li>See Note 3.</li>
+<li>M. Simons, L. V. Loenen, and J. W. V. Gelder, “Trade Union Activities on Life-Long Learning: Shaping the Future of Work in a Digitalised Services Industry”, UNI Europa, July 11, 2020,&nbsp;<a href="https://unieuropaconference.org/wp-content/uploads/sites/2/Lifelong-learning-EN-light.pdf">https://unieuropaconference.org/wp-content/uploads/sites/2/Lifelong-learning-EN-light.pdf".</a></li>
+<li>OECD, “Enhancing Employability Report Prepared for the G20 Employment Working Group”, 2016,&nbsp;[https://www.oecd.org/els/emp/Enhancing-Employability-G20-Report-2016.pdf](https://www.oecd.org/els/emp/Enhancing-Employability-G20-Report-2016.pdf).</li>
+<li>OECD, “Getting Skills Right: Future-Ready Adult Learning Systems”2019,&nbsp;<a href="https://www.oecd.org/els/emp/skills-and-work/adult-learning/Policy-Brief-Future-ready-adult-learning-2019-EN.pdf"> https://www.oecd.org/els/emp/skills-and-work/adult-learning/Policy-Brief-Future-ready-adult-learning-2019-EN.pdf.</a></li>
+12.  Cedefop, “Inventory of Lifelong Guidance Systems and Practices—Norway”, CareersNet national records, 2020,&nbsp;[https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway](https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway).
+13.  See Note 3.
+14.  J. A. Jenkins, “An Ageing Workforce Isn’t a Burden. It’s an Opportunity”, World Economic Forum, January 3, 2019,&nbsp;[https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/](https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/).
+15.  World Economic Forum, “Accelerating Workforce Reskilling for the Fourth Industrial Revolution: An Agenda for Leaders to Shape the Future of Education, Gender and Work, 2017,&nbsp;[https://www3.weforum.org/docs/WEF\_EGW\_White\_Paper\_Reskilling.pdf](https://www3.weforum.org/docs/WEF_EGW_White_Paper_Reskilling.pdf).
+16.  S. Boh, “1 in 4 Singaporeans Aged above 65 Developed Chronic Disease in Past Year: Study”,&nbsp;_The Straits Times_, November 11, 2016,&nbsp;[https://www.straitstimes.com/singapore/one-in-four-singaporeans-aged-above-65-developed-chronic-disease-in-past-year-study](https://www.straitstimes.com/singapore/one-in-four-singaporeans-aged-above-65-developed-chronic-disease-in-past-year-study).
+17.  P. Tay, “Can We Do More to Help PMEs Overcome Disruption and Discrimination in the Next Normal?”&nbsp;_Singapore Labour Journal_&nbsp;1 (2022), 83–89.
+18.  Refer to Note 12.
+19.  NTUC &amp; SUTD,&nbsp;_Power to Participate: Building Young Voices, Choices and Experiences_&nbsp;(National Trades Union Congress: 2022).
+20.  H. M. Ang, “Pace of Acquiring Skills and Knowledge must Intensify, Continual Learning Will Help People remain Relevant: Chan Chun Sing”,&nbsp;_Channel News Asia_, February 10, 2022,&nbsp;[https://www.channelnewsasia.com/singapore/acquiring-skills-knowledge-intensify-continual-learning-chan-chun-sing-2489816](https://www.channelnewsasia.com/singapore/acquiring-skills-knowledge-intensify-continual-learning-chan-chun-sing-2489816).
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </ol>	
 </div>	
 	
