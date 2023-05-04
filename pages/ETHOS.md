@@ -27,7 +27,7 @@ margin-top:15px;
 	
 .img1 img
 {
-margin-top:15px;	
+margin-top:25px;	
 }	
 	
 .cat
