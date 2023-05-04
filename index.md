@@ -35,7 +35,7 @@ sections:
       description: CSC’s digital programme and learning resources from renowned
         third-party content providers.
       button: Go to LEARN
-      url: www.learn.gov.sg
+      url: https://www.learn.gov.sg
   - infobar:
       title: ODex
       subtitle: Community of Practice
