@@ -227,10 +227,10 @@ font-size: 16px;
 <li>M. Simons, L. V. Loenen, and J. W. V. Gelder, “Trade Union Activities on Life-Long Learning: Shaping the Future of Work in a Digitalised Services Industry”, UNI Europa, July 11, 2020,&nbsp;<a href="https://unieuropaconference.org/wp-content/uploads/sites/2/Lifelong-learning-EN-light.pdf">https://unieuropaconference.org/wp-content/uploads/sites/2/Lifelong-learning-EN-light.pdf".</a></li>
 <li>OECD, “Enhancing Employability Report Prepared for the G20 Employment Working Group”, 2016,&nbsp;[https://www.oecd.org/els/emp/Enhancing-Employability-G20-Report-2016.pdf](https://www.oecd.org/els/emp/Enhancing-Employability-G20-Report-2016.pdf).</li>
 <li>OECD, “Getting Skills Right: Future-Ready Adult Learning Systems”2019,&nbsp;<a href="https://www.oecd.org/els/emp/skills-and-work/adult-learning/Policy-Brief-Future-ready-adult-learning-2019-EN.pdf"> https://www.oecd.org/els/emp/skills-and-work/adult-learning/Policy-Brief-Future-ready-adult-learning-2019-EN.pdf.</a></li>
-12.  Cedefop, “Inventory of Lifelong Guidance Systems and Practices—Norway”, CareersNet national records, 2020,&nbsp;[https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway](https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway).
-13.  See Note 3.
-14.  J. A. Jenkins, “An Ageing Workforce Isn’t a Burden. It’s an Opportunity”, World Economic Forum, January 3, 2019,&nbsp;[https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/](https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/).
-15.  World Economic Forum, “Accelerating Workforce Reskilling for the Fourth Industrial Revolution: An Agenda for Leaders to Shape the Future of Education, Gender and Work, 2017,&nbsp;[https://www3.weforum.org/docs/WEF\_EGW\_White\_Paper\_Reskilling.pdf](https://www3.weforum.org/docs/WEF_EGW_White_Paper_Reskilling.pdf).
+<li>Cedefop, “Inventory of Lifelong Guidance Systems and Practices—Norway”, CareersNet national records, 2020,&nbsp;<a href="https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway">https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway.</a></li>
+<li>.  See Note 3.</li>
+<li>J. A. Jenkins, “An Ageing Workforce Isn’t a Burden. It’s an Opportunity”, World Economic Forum, January 3, 2019,&nbsp;<a href="https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/">https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/</a></li>
+<li>World Economic Forum, “Accelerating Workforce Reskilling for the Fourth Industrial Revolution: An Agenda for Leaders to Shape the Future of Education, Gender and Work, 2017,&nbsp;<a href="https://www3.weforum.org/docs/WEF\_EGW\_White\_Paper\_Reskilling.pdf">https://www3.weforum.org/docs/WEF_EGW_White_Paper_Reskilling.pdf.</a>
 16.  S. Boh, “1 in 4 Singaporeans Aged above 65 Developed Chronic Disease in Past Year: Study”,&nbsp;_The Straits Times_, November 11, 2016,&nbsp;[https://www.straitstimes.com/singapore/one-in-four-singaporeans-aged-above-65-developed-chronic-disease-in-past-year-study](https://www.straitstimes.com/singapore/one-in-four-singaporeans-aged-above-65-developed-chronic-disease-in-past-year-study).
 17.  P. Tay, “Can We Do More to Help PMEs Overcome Disruption and Discrimination in the Next Normal?”&nbsp;_Singapore Labour Journal_&nbsp;1 (2022), 83–89.
 18.  Refer to Note 12.
@@ -254,7 +254,7 @@ font-size: 16px;
 	
 	
 	
-</ol>	
+</li></ol>	
 </div>	
 	
 <br>
