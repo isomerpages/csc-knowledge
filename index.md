@@ -10,9 +10,8 @@ sections:
       background: /images/Landing_Banner_Images/knowledge_landing_banner_01.jpg
       title: CSC Knowledge
   - infobar:
-      description: Empowering the growth and progress of our public officers with
-        curated research insights, thought leadership, innovative ideas and
-        carefully crafted guides
+      description: Empowering our public officers with the skills, insights,
+        inspiration to make a meaningful impact in their roles
   - infopic:
       title: ETHOS
       description: ETHOS is a publication of the Civil Service College aiming to
