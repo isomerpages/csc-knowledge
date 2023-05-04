@@ -39,7 +39,20 @@ border-top: 1px solid black;
 
 <h4>Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</h4>
 
-
+<table>
+	<tbody>
+<tr>
+<td><b>DETAILS</b></td>
+</tr>	
+<tr>			
+<td><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/BookCover.jpg"></td>
+</tr>
+		
+		
+		
+		
+</tbody>
+</table>
 
 
 
