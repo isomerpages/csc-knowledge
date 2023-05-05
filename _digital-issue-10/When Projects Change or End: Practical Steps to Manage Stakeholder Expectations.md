@@ -196,7 +196,7 @@ margin:20px;
 <div class="notes">
 <h6>NOTES</h6>
 <ol>
-<li>Tip #1: Engaging Stakeholders_, Harvard Business Review, video file,&nbsp;[https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders](https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders).</li>
+<li>Tip #1: Engaging Stakeholders, Harvard Business Review, video file,&nbsp;[https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders](https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders).</li>
 <li>The Prosci ADKAR Model (website),&nbsp;[https://www.prosci.com/methodology/adkar](https://www.prosci.com/methodology/adkar).</li>
 <li>Adapted from: Aurangzeab Butt, Marja Naaranoja and Jussi Savolainen, “Project Change Stakeholder Communication”,&nbsp;_International Journal of Project Management_&nbsp;34 (2016): 1579–95, 10.1016/j.ijproman.2016.08.010, accessed March 1, 2023,&nbsp;[https://www.researchgate.net/publication/308352652\_Project\_change\_stakeholder\_communication](https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication).</li>
 </ol>	
