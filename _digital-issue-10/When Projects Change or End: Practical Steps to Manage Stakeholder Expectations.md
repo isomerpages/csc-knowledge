@@ -190,7 +190,7 @@ margin:20px;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<p><b>Khoo Ee Wan</b> &nbsp;is Lead Researcher at the Institute of Leadership and Organisation Development, Civil Service College. She designs and conducts research studies and analytics that generate actionable insights to inform talent assessment, leadership development and organisation development	</p>
+<p><b>Khoo Ee Wan</b> is Lead Researcher at the Institute of Leadership and Organisation Development, Civil Service College. She designs and conducts research studies and analytics that generate actionable insights to inform talent assessment, leadership development and organisation development	</p>
 </div>
 
 <div class="notes">
