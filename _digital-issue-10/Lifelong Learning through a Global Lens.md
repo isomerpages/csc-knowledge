@@ -66,7 +66,10 @@ font-size: 19px;
 margin-top: 40px;	
 }	
 
-
+.table1
+{
+width:75%;	
+}
 	
 
 	
@@ -111,7 +114,9 @@ line-height:22px;
 
 <p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see <b>Table 1.</b>)<sup><a href="#num3">3</a></sup></p>	
 
+<div class="table1">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table1.JPG">
+</div>
 
 <p>Adopting a mindset of lifelong learning is imperative to addressing the issue of skills mismatch. Singapore has made considerable strides towards the development of lifelong learning with our national movement, SkillsFuture Singapore, seeking to change how people view skills, jobs and learning. Singapore wants to develop a culture of lifelong learning, where people get satisfaction in life from learning at every stage regardless of where they start, satisfaction from mastering the skills, and satisfaction from being part of a community of learners. As the late Mr Lee Kuan Yew put it in his 1977 speech in Parliament, “an educated man is a man who never stops learning and wants to learn”.<sup><a href="#num4">4</a></sup></p>
 
@@ -135,8 +140,9 @@ line-height:22px;
 
 <p>In Singapore, our study on Continuing Education and Training<sup><a href="#num8">8</a></sup>&nbsp;also shows that a majority of business leaders report observing positive changes in their workers post-training (<b>see Table 2</b>), such as higher working performance (84.2%), the ability to do additional or new job responsibilities (85.1%), and enhanced knowledge (87.6%).</p>
 
-
+<div class="table1">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table2.JPG">
+</div>
 
 <p>However, only 50.9% of business leaders had sent their workers for training in the past six months. Out of those who did send workers for training, on average only 33.6% of their workforce in the company attended the training. This suggests that 66.4% of workers in the company were missing out on training. Employers must find the appropriate balance between training and work for their workers, tilting towards greater workforce readiness, relevance, and resilience.</p>
 
@@ -155,7 +161,9 @@ line-height:22px;
 
 <p>The study by Yang et al.<sup><a href="#num13">13</a></sup>&nbsp; highlights that workers with skills gaps are not the top priority for training according to business leaders (see <b>Table 3</b>). This puts a strain on the very workers who would have benefited from training. Therefore, we must allow greater access to training for all workers, especially workers with skills gaps and mature workers, to enhance their employment and employability, because every worker matters.</p>
 
-<img src="images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table3.JPG">
+<div class="table1">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table3.JPG">
+</div>
 
 <h2>Ageing Workforce Investment</h2>
 
@@ -167,7 +175,7 @@ line-height:22px;
 
 <p>Needs for training and education vary, depending on workers’ profiles, life stages, and demographics. It would be impossible to accommodate every worker's needs with a one-size-fits-all strategy.</p>
 
-<p>Germany and Italy provide helpful definitions of the many types of lifelong learning and the various workers they cater to. For example, Germany categorises lifelong learning in four ways.<sup><a href="#num18"></a>18</sup>&nbsp;"Maintenance Training” and “Further Education” are targeted towards people who are already employed. “Retraining” primarily applies to workers who are at risk of losing their current position, and “Re-entry Qualification” is mostly relevant to individuals who are on long-term leave. Clearly defining the various forms of lifelong learning, and the different categories of workers they are meant for, can better provide more targeted support and broaden training opportunities for every worker.</p>
+<p>Germany and Italy provide helpful definitions of the many types of lifelong learning and the various workers they cater to. For example, Germany categorises lifelong learning in four ways.<sup><a href="#num18">18</a></sup>&nbsp;"Maintenance Training” and “Further Education” are targeted towards people who are already employed. “Retraining” primarily applies to workers who are at risk of losing their current position, and “Re-entry Qualification” is mostly relevant to individuals who are on long-term leave. Clearly defining the various forms of lifelong learning, and the different categories of workers they are meant for, can better provide more targeted support and broaden training opportunities for every worker.</p>
 
 <p>In Singapore, our workforce is made up of workers of varied profiles. We must adopt a more targeted lifelong learning strategy for different worker segments to ensure that everyone has access to a level playing field for jobs, while at the same time balancing companies' manpower needs in the immediate and longer term.</p>
 
@@ -184,9 +192,10 @@ line-height:22px;
 
 <p>Today, young people are coming of age in a world plagued by uncertainties. In our study conducted with more than 1,000 young people aged 18 to 35 years old, issues such as career prospects and opportunities surfaced as their top concerns (see <b>Table 4</b>).<sup><a href="#num19">19</a></sup></p>
 
-
+<div class="table1">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table4.JPG">
-
+</div>
+	
 <p>In Singapore, providing tailored education for our young people has taken on increased importance. Our Institutes of Higher Learning (IHLs) are set to evolve over the next few years (and may well become Institutes of Continuous Learning). We can expect to see more flexible courses that span across multiple disciplines and enable our students to adapt and respond to changing industries and demand.<sup><a href="#num20">20</a></sup>&nbsp; In short, we need to adapt our education system to match continually changing industry demand and needed skills, in tandem with the transformation of work and workplaces.</p>
 <br>
 <div class="break"><p>We can expect to see more flexible courses that span across multiple disciplines and enable our students to adapt and respond to changing industries.</p>
