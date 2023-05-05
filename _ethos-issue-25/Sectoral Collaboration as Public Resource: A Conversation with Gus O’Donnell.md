@@ -101,6 +101,17 @@ padding-bottom:30px;
 border-top: 1px solid black;	
 }
 
+.author p
+{
+font-size:15px;
+line-height: 22px;
+}
+
+.notestop ol li
+{
+	font-size: 15px;
+	line-height: 22px;
+}
 
 </style>
 
