@@ -151,7 +151,7 @@ border-top: 1px solid black;
 public sector is not only to deliver in the short term, but also in a sustainable manner. We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations. We cannot act only for the current political mandate; we have to be able to feed people not only today, but also for generations to come.</p>
 
 <div class="narain">
-<p class="narain1">"We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations"</p>
+<p class="narain1">We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations</p>
 </div>
 
 <p><span class="author1-1">BORA:</span> Be it geopolitical conflict, climate change, or the economic value chain, the global view has now changed. During the COVID crisis, I was in Cambodia trying to get food to our people. The experience made us realise how vulnerable it is to always rely on global resources for our own needs and wellbeing. Having headed the coordination of one of the major side events for the Asia–Europe Meeting (ASEM) Summit, I see that in a volatile global economy, many countries believe that there needs to be a greater push for regional onshoring of certain trades. You must make sure that you have access to the resources—either within or close to your borders, to produce enough for yourself, be it food or other needs—rather than depend on countries far away.</p>
@@ -172,7 +172,7 @@ innovation and growth while promoting the prudent use of limited resources?</h3>
 <p>Some of these pandemic-era practices can help us better manage our resources, our time, and our health—even when we are not living in pandemic mode.</p>
 
 <div class="narain">
-<p class="narain1">"Some pandemic-era practices can help us better manage our resources, our time and our health."</p>
+<p class="narain1">Some pandemic-era practices can help us better manage our resources, our time and our health.</p>
 </div>
 
 <p><span class="author2-2">CHOWDHOURY:</span> There are lessons from COVID that can be integrated in the post-COVID world. In resource-poor Bangladesh, even running schools is a major challenge: even under normal circumstances, we don’t have enough Science and Math teachers to attend to our millions of students. What COVID has taught us are new ways of educating students, using technologies such as free-to-air broadcasting, or online teaching and learning.</p>
@@ -188,7 +188,7 @@ innovation and growth while promoting the prudent use of limited resources?</h3>
 <p><span class="author2-2">CHOWDHOURY:</span> Self-sufficiency is the agenda in many governments. The public sector can frame policy or set the goals, say to produce our own goods, but in our experience, that alone has not worked. In Bangladesh, we needed the dynamism of the private sector—the sectors that grew our economy were not on our public sector’s policy agenda.</p>
 
 <div class="chow">
-<p class="chow1">"The mindset change is to shift from ruling to serving-not to run everything from the centre."</p>
+<p class="chow1">The mindset change is to shift from ruling to serving-not to run everything from the centre.</p>
 </div>
 
 <p>Now, once the private sector takes up these growth sectors, the public sector can catch up with it, and resolve issues as they come along, such as reducing red tape. What we in the public sector need to understand is that innovation and enterprise are going to come from private initiatives, and we must try to assist them rather than try and do it by ourselves. Instead, we should focus on key areas of national importance, such as food security, and leave value-adding to private enterprise.</p>
@@ -205,7 +205,7 @@ innovation and growth while promoting the prudent use of limited resources?</h3>
 
 
 <div class="bora">
-<p class="bora1">"Public policy, can bring attention to a sector that warrants it. The private sector also needs a wake-up call because they can get too comfortable"</p>
+<p class="bora1">Public policy, can bring attention to a sector that warrants it. The private sector also needs a wake-up call because they can get too comfortable</p>
 </div>
 
 <p>But in other cases, such as agriculture, public policy can bring attention to a sector that warrants it. The private sector may also need a wake-up call because they can get too comfortable with making money in a conventional way, and not innovate or diversify. Sometimes it is just to remind them that there are things going on outside of their routine. I do believe the public sector needs to have a certain amount of forward thinking or foresight in its policies and regulation to do this well.</p>
@@ -235,7 +235,7 @@ is a tough challenge. Traditionally, we understand economics in terms of consump
 <p>I see that there is a tendency to celebrate consumerism, which is contributing to a lot of issues, from mental health to environmental degradation. It is not sustainable.</p>
 
 <div class="chow">
-<p class="chow1">"What could Singapore do as a more enlightened society to contribute to humanism rather than to hyper-consumerism"</p>
+<p class="chow1">What could Singapore do as a more enlightened society to contribute to humanism rather than to hyper-consumerism</p>
 </div>
 
 <p>Could governments make an effort to sensitise their population on humanism, on charity, on volunteerism? For instance, every citizen in Singapore has wealth and skills that could be shared with the region and with the rest of the world. In this age of the shared economy, instead of having a mentality of always wanting to be the best or having the most, this could broaden the appeal of Singapore beyond being just a place of wealth. What could Singapore do as a more enlightened society to contribute to humanism rather than to hyper-consumerism?</p>
