@@ -149,6 +149,12 @@ line-height:22px;
 <div id="public-sector">
 <h4>What Technology Cannot Do for the Public Sector</h4>
 <p>In a technology space, you can throw a lot of money and tools at various problems, but when the rubber hits the road, things may not always work. But that’s where you start getting new insights.</p>	
+
+<p>We know public agencies can be more risk-averse, in comparison to the private sector, because they are spending public monies. So, we need to develop a mindset of taking calculated risks to start small, start quick, and then through that process build fast, fail fast, and move on if it doesn’t work. We must adopt a culture in which failure is taken as a norm and a basis for learning which can and should be shared. This culture is not something technology can provide. Instead, we need leaders who model the right culture and empower people to experiment.
+</p>
+
+<p>Instead of being critical or quick to judge, leaders should begin with curiosity, and share their own concerns surrounding an issue, while inviting their teams to share the thinking behind a new approach.</p>
+	
 </div>
 
 
@@ -161,25 +167,7 @@ line-height:22px;
 <h3>Resourcing the Digital Workplace</h3>
 <p>At GovTech, we are building several pieces that will support our public sector's digital transformation.</p>
 
-<p>The first is developing platforms to scale: something we call Scaling 10x. By adopting a platform approach, we can enjoy economies of scale, and achieve ten times the outcome even with constrained resources. The idea is to optimise our resources in an output or outcome-driven way. Some early examples of this include the Singapore Government Tech Stack, which leverages the Government Cloud.<sup>2</sup> For speciﬁc services, such as cyber security, if you were to ask 10 agencies to list their requirements, you will likely have at least ﬁve teams asking for the same thing. That means a lot of resources will be spent on duplicating solutions. Instead, once we build a common platform and basic infrastructure, individual agencies can just focus on their mission outcomes and devote more time and resources</p>
-
-<div id="text">
-<p>We know public agencies can be more risk-averse, in comparison to the private sector, because they are spending public monies. So, we need to develop a mindset of taking calculated risks to start small, start quick, and then through that process build fast, fail fast, and move on if it doesn’t work. We must adopt a culture in which failure is taken as a norm and a basis for learning which can and should be shared. This culture is not something technology can provide. Instead, we need leaders who model the right culture and empower people to experiment.
-</p>
-
-<p>Instead of being critical or quick to judge, leaders should begin with curiosity, and share their own concerns surrounding an issue, while inviting their teams to share the thinking behind a new approach.</p>
-	
-</div>
-
-<h3>Next Steps in the Digital Journey</h3>
-<p>Moving forward, GovTech will focus on three key areas.</p>
-
-<p>The ﬁrst is digital inclusiveness. We have promoted tech aggressively, but we also  know that not everyone can just pick up new tech tools and run with them; people need to be supported in this transition. Furthermore, we do have diverse individuals—in the public sector as well as in Singapore more broadly—with different needs, including those with visual or physical challenges. How can we make sure our products consider these needs, such as in the way the user interface is designed?</p>
-
-<p>The second area is our use of data—how we should continue taking in more data, unlocking it, and enabling our public officers to get more value out of it.</p>
-
-<p>The third area is to look at learning on-the-go. How do we use digital means to help people ﬁnd the right mentors or career coaches for their needs? How do we push the right learning materials to officers in a timely, personalised way? In these areas, we are working closely with the Public Service Division to create a talent gateway. We are also collaborating with the Civil Service College on a digital academy to help generate some of the curriculum we will need, both to learn, and to learn on-the-go to serving citizens or doing their work better. They do not have to reinvent the wheel.
-</p>
+<p>The first is developing platforms to scale: something we call Scaling 10x. By adopting a platform approach, we can enjoy economies of scale, and achieve ten times the outcome even with constrained resources. The idea is to optimise our resources in an output or outcome-driven way. Some early examples of this include the Singapore Government Tech Stack, which leverages the Government Cloud.<sup>2</sup> For speciﬁc services, such as cyber security, if you were to ask 10 agencies to list their requirements, you will likely have at least ﬁve teams asking for the same thing. That means a lot of resources will be spent on duplicating solutions. Instead, once we build a common platform and basic infrastructure, individual agencies can just focus on their mission outcomes and devote more time and resources to serving citizens or doing their work better. They do not have to reinvent the wheel.</p>
 
 <p>Another example is Workpal, a mobile app that enables a number of HR-related functions, from applying for leave to checking one's salary. For some agencies with their own HR systems, we build connections from their systems to shared platforms such as our Digital Business Cards, so they can scale up these functions quickly. Workpal also has a function for booking co-working spaces—which is a Future Workplace initiative meant to support hybrid work. Public officers need not return to their office every day. Instead, they can use a co-working space near their home and use the Workpal mobile app to book these spaces. Agencies can come on board this platform whenever they are ready.
 </p>
@@ -191,6 +179,17 @@ line-height:22px;
 <p>A third approach we are taking is co-developing new solutions with the industry. This also helps optimise our scarce public sector resources—we work with others to build things we may not be able to build ourselves. This stems from our experience in working with key industry players on our Government on Commercial Cloud, including firms like Amazon, Microsoft, and Google. Last year, we ran some industry workshops to publicise some of our key initiatives and invited various players to co-develop solutions with us, to benefit public officers as well as citizens and businesses.</p>
 
 <p>Most importantly, the future workplace is not just about using technologies. Its purpose is to help our officers become more productive and more engaged in their mission, instead of spending time jumping through hoops or dealing with red tape and other unnecessary processes. This is also about retaining people by keeping them engaged with the work they do and creating value for our country and fellow citizens.</p>
+
+
+<h3>Next Steps in the Digital Journey</h3>
+<p>Moving forward, GovTech will focus on three key areas.</p>
+
+<p>The ﬁrst is digital inclusiveness. We have promoted tech aggressively, but we also  know that not everyone can just pick up new tech tools and run with them; people need to be supported in this transition. Furthermore, we do have diverse individuals—in the public sector as well as in Singapore more broadly—with different needs, including those with visual or physical challenges. How can we make sure our products consider these needs, such as in the way the user interface is designed?</p>
+
+<p>The second area is our use of data—how we should continue taking in more data, unlocking it, and enabling our public officers to get more value out of it.</p>
+
+<p>The third area is to look at learning on-the-go. How do we use digital means to help people ﬁnd the right mentors or career coaches for their needs? How do we push the right learning materials to officers in a timely, personalised way? In these areas, we are working closely with the Public Service Division to create a talent gateway. We are also collaborating with the Civil Service College on a digital academy to help generate some of the curriculum we will need, both to learn, and to learn on-the-go.</p>
+
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
