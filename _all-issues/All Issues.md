@@ -26,7 +26,7 @@ td img
 	filter: drop-shadow(0px 0px 2px black);
 }	
 	
-.container2 a:link
+.container2 a
 {
 color:#9f2943;
 text-decoration: none;
