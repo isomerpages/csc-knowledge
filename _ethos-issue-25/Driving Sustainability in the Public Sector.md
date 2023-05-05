@@ -169,10 +169,7 @@ margin:20px;
 	
 <p>We have started to incorporate sustainability features into our public touchpoints. For example, some of our new public libraries have indoor greenery and sustainably sourced furniture. Existing public libraries also hold sustainability-themed workshops and events regularly. In addition, the public sector engages communities to raise awareness on environmental sustainability issues. </p>
 
-<p>The public sector is also committed to enhancing its procurement policies</p>
-
-
-<p>to support Singapore’s transition to a greener economy. Apart from mandating minimum resource  efficiency or sustainability standards for selected goods and services, we will be introducing more environmental sustainability considerations into the Government’s tender evaluation process from FY2024. We will start with large construction and Information Communications Technology (ICT) tenders, setting aside up to 5% of the evaluation points for environmental sustainability.</p>
+<p>The public sector is also committed to enhancing its procurement policies to support Singapore’s transition to a greener economy. Apart from mandating minimum resource  efficiency or sustainability standards for selected goods and services, we will be introducing more environmental sustainability considerations into the Government’s tender evaluation process from FY2024. We will start with large construction and Information Communications Technology (ICT) tenders, setting aside up to 5% of the evaluation points for environmental sustainability.</p>
 
 <p>Our digitalisation efforts have also contributed towards our sustainability goals. As more public services go online and accept electronic payment, we reduce the need for members of the public to submit hard copies or for public officers to use printing paper.</p>
 
@@ -227,6 +224,13 @@ margin:20px;
 
 <p>Of course, culture building goes beyond capability building. It is also about creating a movement and getting people excited. To date, 286 officers have joined the Sustainability Ambassadors Network (SAN). The SAN was created to raise awareness on sustainability topics, bringing together like-minded individuals who are passionate about sustainability to promote collaboration.</p>
 	
+
+
+<p>Through SAN, we hope to encourage more officers to take action for sustainability. For instance, in 2021, we organised a public sector-wide Bring-Your-Own campaign. We wanted to encourage public officers to take small steps to reduce the usage of single-use disposables in their daily habits.</p>
+	
+<p>To provide officers with easy access to GreenGov. SG resources , t h e Public Sector Sustainability Office in MSE has also set up a Resource Portal.2 This one-stop repository consolidates all information and resources related to GreenGov.SG. </p>
+
+
 <div class="involve">
 <h5>Involving Public Officers in Sustainability Efforts</h5>
 <p>A total of 1,161 officers participated in the Public Sector Bring-Your-Own (P.S. BYO!) campaign in 2021. The campaign saw officers exploring ways to reduce 
@@ -236,12 +240,7 @@ the use of disposables in their daily habits, such as bringing their tumbler, re
 	
 	
 </div>
-	
-	
 
-<p>Through SAN, we hope to encourage more officers to take action for sustainability. For instance, in 2021, we organised a public sector-wide Bring-Your-Own campaign. We wanted to encourage public officers to take small steps to reduce the usage of single-use disposables in their daily habits.</p>
-	
-<p>To provide officers with easy access to GreenGov. SG resources , t h e Public Sector Sustainability Office in MSE has also set up a Resource Portal.2 This one-stop repository consolidates all information and resources related to GreenGov.SG. </p>
 	
 <h4>Looking to the Future</h4>
 <p>Looking ahead, we will issue a report card on the public sector’s sustainability efforts and performance later this year. In addition, all statutory boards will publish annual environmental sustainability disclosures from FY2024. Through public disclosure of our sustainability efforts, progress, and plans, we will communicate to Singaporeans the seriousness of the public sector in meeting our goals and set an example for others to follow.</p>
