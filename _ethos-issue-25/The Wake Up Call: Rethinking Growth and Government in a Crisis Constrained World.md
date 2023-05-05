@@ -167,7 +167,7 @@ public sector is not only to deliver in the short term, but also in a sustainabl
 innovation and growth while promoting the prudent use of limited resources?</h4>
 </div>	
 
-<p><span class="author3-3">NARAIN:</span> The COVID pandemic opened our eyes, but sadly it seems we may have closed them again. During the pandemic, everyone was encouraged to plant vegetables at home, which was a good thing. But once things returned to normal, we stopped doing it and we went back to consuming imported food. The same applies to wo r k i n g f rom home, which reduced pollution and use of petrol. It would have been good to integrate these pra c tices into our development processes and daily habits, to help our people make better use of resources.</p>
+<p><span class="author3-3">NARAIN:</span> The COVID pandemic opened our eyes, but sadly it seems we may have closed them again. During the pandemic, everyone was encouraged to plant vegetables at home, which was a good thing. But once things returned to normal, we stopped doing it and we went back to consuming imported food. The same applies to working from home, which reduced pollution and use of petrol. It would have been good to integrate these pra c tices into our development processes and daily habits, to help our people make better use of resources.</p>
 	
 <p>Some of these pandemic-era practices can help us better manage our resources, our time, and our health—even when we are not living in pandemic mode.</p>
 
@@ -205,7 +205,7 @@ innovation and growth while promoting the prudent use of limited resources?</h4>
 
 
 <div class="bora">
-<p class="bora1">Public policy, can bring attention to a sector that warrants it. The private sector also needs a wake-up call because they can get too comfortable</p>
+<p class="bora1"> Public policy, can bring attention to a sector that warrants it. The private sector also needs a wake-up call because they can get too comfortable</p>
 </div>
 
 <p>But in other cases, such as agriculture, public policy can bring attention to a sector that warrants it. The private sector may also need a wake-up call because they can get too comfortable with making money in a conventional way, and not innovate or diversify. Sometimes it is just to remind them that there are things going on outside of their routine. I do believe the public sector needs to have a certain amount of forward thinking or foresight in its policies and regulation to do this well.</p>
@@ -217,7 +217,7 @@ anything else that you have observed to be useful or interesting? What would you
 like your counterparts in the Singapore public sector to consider for the future?</h4>
 </div>	
 
-<p><span class="author1-1">BORA:</span>The leaders we met in our time in Singapore were all very personable—there seems to be a shift in leadership style and approach to policymaking away from the top-down mentality, and it bodes well for the future.</p>
+<p><span class="author1-1">BORA:</span> The leaders we met in our time in Singapore were all very personable—there seems to be a shift in leadership style and approach to policymaking away from the top-down mentality, and it bodes well for the future.</p>
 
 <p>When I heard that Singapore is putting more efforts into scholarships and grooming as part of its succession planning and public sector development, it affected me, as a late bloomer myself. I grew up bullied in school, which made it difficult for me to perform. Luckily, I had a chance to get more opportunities to demonstrate my leadership skills and to shine later in life.</p>
 
@@ -225,7 +225,7 @@ like your counterparts in the Singapore public sector to consider for the future
 
 <p>I believe this would also help the government better relate to young people.</p>
 
-<p><span class="author3-3">NARAIN:</span>Constant monitoring, assessment and streamlining are all  very good for efficiency, but I wonder what effects this can have on, for example, mental health. In Singapore, we have always been meeting leaders who are high-performing—who went to Stanford and got First Class at Cambridge and so on. What about those who are mid-range, not even lowest of the class? Those who are striving to keep up with the pack? </p>
+<p><span class="author3-3">NARAIN:</span> Constant monitoring, assessment and streamlining are all  very good for efficiency, but I wonder what effects this can have on, for example, mental health. In Singapore, we have always been meeting leaders who are high-performing—who went to Stanford and got First Class at Cambridge and so on. What about those who are mid-range, not even lowest of the class? Those who are striving to keep up with the pack? </p>
 
 <p>In my work with the CEDAW (UN Convention on the Elimination of D i s c r imi nat i on aga i n st Women )Committee, we have reviewed so-called developed countries which are often much vaunted internationally, and score highly on happiness indices and so on, but when we review the data, we ﬁnd that some of their policies can have an adverse impact on citizens’ mental health. Because everyone has to conform to this model of being good, healthy, and perfect, those who are not as good may have mental health issues, and this is an aspect which many of us do not see and to which I would respectfully draw the attention of my Singaporean counterparts.</p>
 
