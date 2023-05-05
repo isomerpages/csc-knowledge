@@ -42,6 +42,8 @@ border-top: 1px solid black;
 {
 	font-family: Georgia;
 	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 	
 </style>
