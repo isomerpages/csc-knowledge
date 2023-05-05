@@ -66,10 +66,7 @@ font-size: 19px;
 margin-top: 40px;	
 }	
 
-.notes ol li
-{
-font-size: 16px;	
-}	
+
 	
 
 	
