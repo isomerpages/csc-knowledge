@@ -13,7 +13,7 @@ width:50%;
 table
 { 
 border-collapse: separate; 
-border-spacing: 20px 10px; 	
+border-spacing: 50px 10px; 	
 }	
 
 th,td 
@@ -57,7 +57,7 @@ font-size: 16px;
 </tbody>
 </table>
 
-<br>
+
 
 <h3>2022</h3><table id="container-2022">
 
@@ -93,14 +93,6 @@ font-size: 16px;
 </tr>	
 </tbody>
 </table>
-
-
-
-
-
-
-
-
 
 
 
