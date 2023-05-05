@@ -100,10 +100,10 @@ and foremost starts from a culture of wanting to do things better.</p>
 <p>Wellbeing is a holistic concept that not only involves physical wellbeing, but also mental wellness, and physical wellness—making sure people are exercising, eating right and recharging. Our public officers tend to work very hard. Again, this comes from wanting to do well. But we should not overdo it. We must ﬁnd a balance so that we don’t feel so emotionally drained or mentally exhausted by what we are doing, which then eats away at us and affects our mental wellbeing, sometimes invisibly. It is important for officers to point out some of the areas which they ﬁnd emotionally taxing and not as meaningful, and then it is the responsibility of leadership to sort these out.</p>
 
 <div class="break">
-<p class="break1">"Our move towards reprioritising and reducing workload  is not at all about compromising professional pride  or outcomes."</p>
+<p class="break1">Our move towards reprioritising and reducing workload is not at all about compromising professional pride or outcomes.</p>
 </div>
 
-<p>Growth comes from learning and development. This in turn comes from a mindset that there is a brighter future,  and we can progress towards that. Innovation first and foremost starts rom a culture of wanting to do things better. It does not really matter what the innovation is, whether in terms of technology or process. It’s about attitude: we may be good now, but we want to be great.</p>
+<p>Growth comes from learning and development. This in turn comes from a mindset that there is a brighter future, and we can progress towards that. Innovation first and foremost starts from a culture of wanting to do things better. It does not really matter what the innovation is, whether in terms of technology or process. It’s about attitude: we may be good now, but we want to be great.</p>
 
 <p>New ideas can come when you step away from day-to-day work and get fresh perspectives elsewhere, such as through training programmes, or even when pursuing other interests. But it is not necessarily true that one cannot innovate by working hard; sometimes necessity can be the mother of invention, such as during a crisis. It is about balance.</p>
 
@@ -126,11 +126,10 @@ and foremost starts from a culture of wanting to do things better.</p>
 <p>We do not have to do it all alone. If anything, we have people and private sector organisations who are much more enabled and enthused about working with us to deliver these outcomes, and we should take full advantage of that. This is not just from a resourcing standpoint but has also to do with the way we operate nationally as a public sector. It is right that we take a more inclusive approach and involve multiple stakeholders. Let’s do that more, and better.</p>
 
 <h3>Leadership and Prioritisation</h3>
-<p>Ultimately, the greatest resource  constraint, for anyone, is time. It’s highly perishable, not transferable, and not reversible. Prioritisation has always been part of the picture. Everyone has always had to work towards a resource envelope and make trade-offs. It is just that the envelope will be a bit tighter in future. Good leaders can never achieve good outcomes if they do not figure out
-what a team needs to deliver; how they need to resource that endeavour; and how they organise themselves for success.</p>
+<p>Ultimately, the greatest resource constraint, for anyone, is time. It’s highly perishable, not transferable, and not reversible. Prioritisation has always been part of the picture. Everyone has always had to work towards a resource envelope and make trade-offs. It is just that the envelope will be a bit tighter in future. Good leaders can never achieve good outcomes if they do not figure out what a team needs to deliver; how they need to resource that endeavour; and how they organise themselves for success.</p>
 
 <div class="break">
-<p class="break1">"The greatest resource constraint, for anyone, is time. It's highly perishable, not transferable, and not reversible. Prioritisation has always been part  of the picture."</p>
+<p class="break1">The greatest resource constraint, for anyone, is time. It's highly perishable, not transferable, and not reversible. Prioritisation has always been part of the picture."</p>
 </div>
 
 <p>The key is how we engage our teams so that they have a bigger part to play in the prioritisation process. How do we work with them through the prioritising? How do we help those who may not have the resources they need to ﬁnd ways to deliver outcomes or better participate in the broader organisational mission? If we are sincerely committed to bringing everyone on board, I believe we can mitigate some of the downsides and trade-offs.</p>
