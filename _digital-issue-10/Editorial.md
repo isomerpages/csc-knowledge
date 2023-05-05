@@ -6,6 +6,18 @@ image: /images/Cropped_images/Ethos_Digital_10/editorial_landing.jpg
 ---
 <style>
 	
+.author p
+{
+	font-size: 15px;
+	line-height:24px;
+}
+	
+.notestop ol li
+{
+font-size: 15px;
+line-height:22px;
+}	
+	
 .back a
 {
 	color: #9f2943;
