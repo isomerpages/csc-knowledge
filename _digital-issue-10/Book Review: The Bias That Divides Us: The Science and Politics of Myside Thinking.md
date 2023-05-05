@@ -65,13 +65,11 @@ border-top: 1px solid black;
 <div class="background-image">
 <img src="/images/Cropped_images/Ethos_Digital_10/review.jpg">
 </div>
-<br>
+
 <h2>Why People See the Same Facts and Come to Different Conclusions</h2>
-<br>
 <div id="book-review">
 <h4>Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</h4>
 </div>
-	
 <br>
 
 <table>
