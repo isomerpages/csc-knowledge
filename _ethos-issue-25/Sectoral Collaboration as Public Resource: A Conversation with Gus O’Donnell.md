@@ -180,11 +180,11 @@ something should be done by the government or the private sector, and we leave o
 
 <p>So, you’ll need to calibrate differently in different places. To my mind, a fundamental principle is: who does it best?</p>
 
-<p>Part of the problem is that there’s not enough measurement of the impact of the social sector. I chair a commission called the Law Family Commission on Civil Society, which has to do with the social sector. Together with Andy Haldane, Chief Economist of the Bank of England and one of our trustees, we have been working on ways to measure the output of the social sector, and it turns out that their contribution is being underestimated possibly by a factor of up to ten.</p>
+<p>Part of the problem is that there’s not enough measurement of the impact of the social sector. I chair a commission called the Law Family Commission on Civil Society, which has to do with the social sector. Together with Andy Haldane, Chief Economist of the Bank of England and one of our trustees, we have been working on ways to measure the output of the social sector, and it turns out that their contribution is being underestimated possibly by a factor of up to ten.<sup>1</sup></p>
 
 <p>The social sector can be relatively inefficient, partly because they are not held to account in quite the same way as the private or public sectors. People go into charities because they are passionate about, say, curing a disease; they are not passionate about spreadsheets and surveys. It’s good for them to say, well we’re helping all these people. They are doing this out of the goodness of their heart. The fact that they could do it much more efficiently is neither here nor there to them.</p>
 
-<p>We also ﬁnd charities spending huge amounts of their money on just applying for grants, in a way that’s very inefficient. This is why at Pro Bono Economics, we have been trying to think about general ways of prompting the social sector to become more productive; to unleash their potential.</p>
+<p>We also ﬁnd charities spending huge amounts of their money on just applying for grants, in a way that’s very inefficient. This is why at Pro Bono Economics, we have been trying to think about general ways of prompting the social sector to become more productive; to unleash their potential.<sup>2</sup></p>
 
 <p>We provide charities with ways to measure their impact, doing simple things such as cost-beneﬁt analyses.</p>
 
