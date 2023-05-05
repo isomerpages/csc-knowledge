@@ -72,7 +72,26 @@ margin-top: 40px;
 {
 	border-bottom:1px solid gray;
 }
+
+.author p
+{
+	font-size: 15px;
+	line-height:24px;
+}
 	
+.notes ol li
+{
+font-size: 15px;
+line-height:22px;
+}	
+	
+.break1
+{
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}		
 	
 	
 	
