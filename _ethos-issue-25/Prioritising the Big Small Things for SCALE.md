@@ -332,10 +332,8 @@ border-top: 1px solid black;
 <p>Among the leaders we interacted with were a number of ‘positive deviants’—those who seemed to be able to cope and even thrive in this context. Their trade secret was common knowledge but not common practice: the importance of having white space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working.</p>
 	
 <div class="break">
-<p class="break1">"Common knowledge 
-but not common 
-practice: having white 
-space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working."</p>
+<p class="break1">Common knowledge but not common practice: having white 
+space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working.</p>
 </div>	
 
 <p>In a leadership team planning discussion to chart plans for the agency’s strategy, one division head revealed that he asked his staff to set aside time every week as ‘free time’ to pause and think. He related how he blocked off two hours every week to reflect on the past week. This helped him sharpen his priorities. He finished his sharing with an apologetic look at the agency head because he had self-declared the ‘free time’ for his staff without prior permission. To his credit, the agency head nodded his approval as the room of leaders cheered at the encouraging confession.</p>
