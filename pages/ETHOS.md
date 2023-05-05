@@ -117,7 +117,7 @@ The world is at a crossroads: perhaps its most signiﬁcant in decades. On the o
 <b><i>Gabriel Lim</i></b>
 
 <p>	
-The Chairperson of  the Public Sector Transformation—  People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
+The Chairperson of  the Public Sector Transformation—People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
 </p>	
 
 <div class="button1"><a href="/ethos-issue-25/prioritising-purpose-in-the-public-service/">Read More</a></div><br>
