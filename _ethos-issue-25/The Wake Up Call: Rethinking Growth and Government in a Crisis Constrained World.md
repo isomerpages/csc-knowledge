@@ -6,13 +6,7 @@ description: ""
 image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury, Narain.jpg
 ---
 <style>
-.author
-{
-border-bottom: 1px solid black;
-margin-top:40px;
-padding-bottom:30px;
-border-top: 1px solid black;	
-}
+
 
 .back a
 {
@@ -22,18 +16,10 @@ border-top: 1px solid black;
 
 .break
 {
-   border-top: 1px solid  black;
-   border-bottom: 1px solid black;
-	 padding:20px;
+  
 	text-align:center;
 	font-size:30px;
 	margin-top:50px;
-}
-	
-.break1
-{
-	font-family: "montserrat";	
-	font-size:25px;
 }
 	
 	
@@ -85,57 +71,67 @@ color: #645ea9;
 	
 .narain
 {
-	background-color: #645ea9;
- padding:30px;
-	color:white;
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+	padding:30px;
+	color:#645ea9;
 	text-align:center;
 	margin-top:25px;
 	font-weight:bold;
+	border-top: 1px solid  black;
+  border-bottom: 1px solid black;
+	padding:20px;
 }
 	
-.narain1
-{
-	font-family: "montserrat";	
-	font-size:25px;
-}	
 	
 .chow
 {
-	background-color: #ef5252;
- padding:30px;
-	color:white;
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+	padding:30px;
+	color:#ef5252;
 	text-align:center;
 	margin-top:25px;
 	font-weight:bold;
+	border-top: 1px solid  black;
+  border-bottom: 1px solid black;
+	padding:20px;
 }
 	
-.chow1
-{
-	font-family: "montserrat";	
-	font-size:25px;
-}	
-	
+
 .bora
 {
-	background-color: #f58a22;
- padding:30px;
-	color:white;
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+	padding:30px;
+	color:#f58a22;
 	text-align:center;
 	margin-top:25px;
 	font-weight:bold;
+	border-top: 1px solid  black;
+  border-bottom: 1px solid black;
+	padding:20px;
 }
-	
-.bora1
-{
-	font-family: "montserrat";	
-	font-size:25px;
-}	
 	
 .author p
 {
 	font-size:15px;
 	line-height:22px;
 }
+	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:50px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+}	
 
 </style>
 
