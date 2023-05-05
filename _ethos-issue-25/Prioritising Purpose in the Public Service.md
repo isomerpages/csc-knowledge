@@ -52,7 +52,6 @@ border-top: 1px solid black;
 </div>
 
 
-
 <p class="subhead"><span>W</span>e are moving into quite a different future. The external environment has changed. Domestically, we have a mature population with new needs but also more questions about how things are done. At the same time, we know we need to use resources more sustainably. </p>
 
 <p>Public Service manpower growth cannot outpace that of the broader labour force when our population is not growing and the labour force is stagnating. This is the reality we must grapple with. 
