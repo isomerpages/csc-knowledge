@@ -43,25 +43,9 @@ border-bottom: 1px solid black;
 margin-top:20px;
 padding-bottom:30px;
 border-top: 1px solid black;
-}
-
-.author p
-{
-	font-size: 15px;
-	line-height:24px;
+font-size: 12px;	
 }
 	
-.notestop ol li
-{
-font-size: 15px;
-line-height:22px;
-}	
-	
-.notestop ul li
-{
-font-size: 15px;
-line-height:22px;
-}		
 
 	
 </style>
@@ -92,16 +76,13 @@ line-height:22px;
 
 <p>To be better prepared for such challenges, the Ministry of Finance (MOF) is implementing three improvements to Budget 3.0. Collectively, these make up Budget 4.0.</p>
 
+<figure><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_3.jpg"><figcaption>
+	<b>Figure 2.</b> Budget 1.0 to 4.0</figcaption>
+</figure>
+
 <h3>STRENGTHENING REALLOCATION</h3>
 
-<p>The first prong of Budget 4.0 involves strengthening reallocation mechanisms, to allow the shifting of funds from less relevant programmes to emerging and meritorious areas of need. If all our resources were allocated to individual Ministries as block budgets, there would be no room for any reallocation. To reallocate effectively, we need to increase the size of our reallocative resource pools and reduce the size of resource buffers decentralised within individual block budgets and statutory boards. For Ministries, this means a baseline that grows more slowly, resulting in pressures to better manage programme costs and to review the continued relevance of programmes. Statutory boards would retain smaller amounts of monies for</p> 
-
-<figure><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_3.jpg"></figure>
-<cite>
-<b>	Figure 2. </b> Budget 1.0 to 4.0
-</cite>
-
-<p>near-term operational needs, instead of accumulating large surpluses for asset replacement and acquisition of new assets over the longer term.</p>
+<p>The first prong of Budget 4.0 involves strengthening reallocation mechanisms, to allow the shifting of funds from less relevant programmes to emerging and meritorious areas of need. If all our resources were allocated to individual Ministries as block budgets, there would be no room for any reallocation. To reallocate effectively, we need to increase the size of our reallocative resource pools and reduce the size of resource buffers decentralised within individual block budgets and statutory boards. For Ministries, this means a baseline that grows more slowly, resulting in pressures to better manage programme costs and to review the continued relevance of programmes. Statutory boards would retain smaller amounts of monies for near-term operational needs, instead of accumulating large surpluses for asset replacement and acquisition of new assets over the longer term.</p>
 
 <p>On the manpower front, the Public Service is making broad moves to right-size Ministries’ permanent headcount baselines, to reallocate scarce public sector manpower resources towards new and emerging needs.</p>
 
@@ -111,18 +92,16 @@ line-height:22px;
 <p>Creating joint budgets to foster greater cross-agency collaboration on speciﬁc issues is MOF’s way of intervening for greater Whole-of-Government (WOG) and multi-agency outcomes. Through the joint budgets, agencies are expected to rationalise efforts, achieve greater cost effectiveness and enhance accountability for shared outcomes. Operationally, MOF will partner parties interested in starting a joint budget to ensure appropriate governance structures, apportionment of resources and responsibilities, as well as proper tracking of KPIs and utilisation.</p>
 
 <p>There are broadly three models of joint budgeting arrangements (see Figure 3), each suited for different purposes.</p>
+<figure>
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_4.jpg">
+<figcaption>
+	<b>Figure 3.</b> Three Models of Joint Budgeting Arrangements</figcaption>
+</figure>
 
 <h3>ENHANCING NIMBLENESS</h3>
 <p>To better prepare for quicker responses to non-routine, uncertain and emergent problems, the pace of reallocation will be increased through faster evaluation and more efficient allocation of resources. Proposals will be prioritised based on the projects’ risk-scored strategic importance, urgency and innovative value. Efforts spent on evaluation will be commensurate with the resource requirements and risk level of each project. There will also be greater leeway for MOF to time-shift reallocative resource pools across ﬁnancial years to better resource agencies’ needs. This will help cater for unexpected and/or lumpy expenditure requested of our reallocative pools.</p>
 
 <p>For agencies seeking to validate pilot projects at the agency level, resources are available via the Public Service</p>
-
-<figure>
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_4.jpg">
-</figure>
-<cite>
-<b>Figure 3.</b> Three Models of Joint Budgeting Arrangements
-</cite>
 
 <p>Transformation and Initiation Budgets. The WOG Public Service Transformation budget is also available for cross-agency pilot projects. Such budgets are intended to foster a culture of experimentation and innovation for incipient projects in the Public Service, anticipating that successful pilots might be scaled up for greater beneﬁt over the medium to long term.</p>
 
@@ -166,7 +145,6 @@ line-height:22px;
 </ol>	
 
 <h6>FURTHER READING:</h6>
-
 <ul>
 <li>Ministry of Finance,  “Occasional Paper on Medium-Term Fiscal Projections”,  February 8, 2023,  accessed February 16, 2023<br><a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf
 </a></li>
