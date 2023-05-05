@@ -232,6 +232,6 @@ color: white;
 
 
 <br><br>
-<div class="back"><a href="go.gov.sg/devportalproductivitytools">
-</a><a href="/ethos-issue-25/">Back to Ethos Page</a>	
+<div class="back">
+<a href="/ethos-issue-25/">Back to Ethos Page</a>	
 </div>
