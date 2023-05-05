@@ -176,10 +176,10 @@ Source: Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisi
 <p>First, there is a common failure of time horizons and investment. Spending on physical assets and investments in infrastructures are appraised using rigorous investment methods: i.e., by analysing the link between present day costs and long-term returns from buildings, roads, airports, etc. By contrast, most spending on people—which includes most public spending on health, education and social security—is organised on an annual basis, and without any attempts to look at long-term impacts or returns.</p>
 
 <p>Yet people now often last longer than infrastructures. For example, for children born in 2020, the average life expectancy in OECD countries is over 80. There have been many attempts to gather more systematic evidence on the returns to preventive spending, or the multiplier effects of investment in early years or for that matter research and development. But none of these are integrated into budget setting procedures.</p>
-
+<figure>
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_3.jpg">
-<b>Figure 2.</b><br><br>
-The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero, et al., “Anticipatory Public Budgeting: Adapting Public Finance for the Challenges of the 21st Century”, UAE Global Innovation Council, 2021, p. 22. 
+<figcaption><b>Figure 2.</b>
+The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero, et al., “Anticipatory Public Budgeting: Adapting Public Finance for the Challenges of the 21st Century”, UAE Global Innovation Council, 2021, p. 22. </figcaption></figure>
 
 <p>The related problem is the lack of effective ways to link inputs and outputs and outcomes, so that governments can be clear how different spending choices will achieve results over time. Again, there have been many attempts to evaluate the impacts of different programmes and interventions. But no government uses data systematically to tag the intended objectives of spending, of the beneficiary geography or population groups, in ways that would then make it possible to learn systematically, or to train machine learning tools in future.</p>
 
@@ -204,12 +204,15 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 <p>It is not hard to come up with good suggestions for spending more money. It is much harder to work out how to save money without doing harm. Much of the world is always looking for ways to be frugal, and even the rich countries are now going through another period of stringency. Such periods of retrenchment can be bad for innovation and creativity. But there are ways to combine imagination and reductions in spending.</p>
 
 <p>Here, I share methods developed to help public officials having to make signiﬁcant cuts during the period of austerity. In some respects, they are very simple. They list a series of ways in which services can save money, providing a prompt for creative thinking about how to cope with cuts. But the aim is also to prompt deeper questions, about how to organise public services, and about the relationship between the state and citizens.</p>
+<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_4.jpg">
 
 <p>Most economists are familiar with economies of scale and scope, but much less familiar with notions of relational economies, or economies of ﬂow, or economies of penetration, which should be part of their armoury. The framework also points to more lateral ways of saving money—for example, asking where new kinds of public commitment can be mobilised, or where transparency can reduce costs.</p>
 
 <p>Sometimes it is best to start off by helping people to become familiar with the approach by taking a live example—such as rural bus services, libraries or nursery education—and showing the options under each heading. Then some shared grounding in current data (e.g., costs, unit costs, etc.) can be brought in to help sharpen the discussion, and lead to more speciﬁc proposals. </p>
 
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_4.jpg">
+<p>Public services notoriously suffer from what’s sometimes called ‘Baumol’s disease’. Because productivity is hard to increase in ﬁelds like classroom teaching or running a theatre, the relative costs of public services tend to increase over time. Methods such as this are at least a partial and healthier alternative to the assumption that hard times must always bring about damaging cuts.</p>
+
+<p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
 <h3>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h3>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
@@ -281,9 +284,7 @@ Finally, there are often options for joining up the work of government in creati
 
 
 
-<p>Public services notoriously suffer from what’s sometimes called ‘Baumol’s disease’. Because productivity is hard to increase in ﬁelds like classroom teaching or running a theatre, the relative costs of public services tend to increase over time. Methods such as this are at least a partial and healthier alternative to the assumption that hard times must always bring about damaging cuts.</p>
 
-<p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
 
 <div class="author">
