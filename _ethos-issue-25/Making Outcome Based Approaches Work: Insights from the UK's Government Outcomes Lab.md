@@ -91,9 +91,6 @@ border-top: 1px solid black;
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg">
 </div>
-
-
-	
 	
 <h3>Introduction</h3>
 
