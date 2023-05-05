@@ -27,8 +27,10 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&KyleGoh_1.jp
 	
 .break1
 {
-	font-family: montserrat;
-	font-size:25px;
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }		
 	
 .author
