@@ -68,7 +68,6 @@ border-radius: 10px;
 .strategy1 p
 {
 font-size: 22px;
-font-family: "montserrat";
 }
 	
 .letter-c
@@ -81,7 +80,6 @@ font-family: "montserrat";
 .culture1 p
 {
 font-size: 22px;
-font-family: "montserrat";
 }	
 
 .letter-c
@@ -103,7 +101,7 @@ border-radius: 10px;
 .culture1 p
 {
 font-size: 22px;
-font-family: "montserrat";
+
 }		
 	
 
@@ -126,7 +124,7 @@ border-radius:10px;
 .alignment1 p
 {
 font-size: 22px;
-font-family: "montserrat";
+
 }			
 	
 
