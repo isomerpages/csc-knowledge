@@ -247,11 +247,6 @@ been satisfactory.</p>
 	
 </div>
 
-<div class="break">
-<p class="break1">We need to invest in creating a professional norm that emphasises learning and being open to sharing the insights from both what has worked well and what has not.</p>
-</div>
-
-
 <br>
 <div class="title1">
 <h4>A Culture of Learning</h4>
