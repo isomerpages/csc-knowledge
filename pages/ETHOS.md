@@ -60,7 +60,7 @@ td
 <tbody>
 <tr>
 <td class="img1">
-<img src="/images/landing_banner_images/tile_editorial.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethosissue25.jpg">
 </td>
 
 <td class="text">
