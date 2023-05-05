@@ -93,6 +93,12 @@ line-height:22px;
 	font-weight: bold;
 }		
 	
+#box2
+{
+background-color: #e5e5e5;	
+padding: 20px;
+}
+	
 	
 	
 </style>
@@ -141,10 +147,10 @@ line-height:22px;
 <li>This <a href="https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication">research article</a> describes project change stakeholder communication practices in two different case contexts, and highlights how effective communication ensures stakeholder participation in the change management processes (see&nbsp;<b>Box story</b> for a summary).</li>
 </ul>
 
-<div class="break"><p>If negative feelings are ignored, disgruntled or disengaged stakeholders may resist or even undermine deprioritisation efforts.</p>
-</div>
+<p>In summary, any deprioritisation plan should include some consideration of how to manage the impact on various internal and external stakeholders. Deprioritisation is akin to a change process, and it is important to address not only the technical aspect of the situation but also people’s emotions and expectations. Otherwise, efforts at deprioritisation may be futile or even counterproductive.</p>
+
 	
-	
+<div id="box2">	
 <div id="effectivecom">	
 
 <h2>Effective Communication Ensures Stakeholder Participation in the Change Management Process</h2>
@@ -177,8 +183,8 @@ line-height:22px;
 	
 	
 </div>
+</div>
 
-<p>In summary, any deprioritisation plan should include some consideration of how to manage the impact on various internal and external stakeholders. Deprioritisation is akin to a change process, and it is important to address not only the technical aspect of the situation but also people’s emotions and expectations. Otherwise, efforts at deprioritisation may be futile or even counterproductive.</p>
 
 
 <div class="author">
