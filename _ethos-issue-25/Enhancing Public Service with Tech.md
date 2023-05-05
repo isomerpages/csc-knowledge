@@ -76,7 +76,7 @@ color: #ffffff;
 	padding:20px;
 }
 	
-#for-more-info a:link
+#for-more-info a
 {
 color: #3DB984;
 font-weight:bold;
