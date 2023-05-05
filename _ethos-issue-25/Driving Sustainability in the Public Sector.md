@@ -138,9 +138,15 @@ margin:20px;
 
 <p>We have also identiﬁed measures that help our public agencies decarbonise their systems and processes. For instance, all new public sector buildings and those undergoing retroﬁtting will meet Green Mark Platinum Super Low Energy (SLE) standards. Agencies will also maintain an ambient indoor air temperature at 25°C or higher for their premises and deploy solar photovoltaics, where feasible. </p>
 
-<div class="break">
-<p class="break1">We have identified measures that help our public agencies decarbonise their systems and processes.</p>
-</div>
+
+
+
+
+<p>Starting from FY2023, all cars procured and registered by public agencies will  be clean energy vehicles with zero tailpipe emissions.</p>
+
+<p>We are concurrently studying and implementing options to import clean electricity and remove carbon emissions. Singapore has started importing 100 megawatts of renewable hydropower from Lao PDR, which is enough to power about 144,000 four-room HDB flats a year. The National Environment Agency has also signed a Memorandum Of Understanding with Keppel Seghers in 2022 to explore the viability of Carbon Capture at our waste-to-energy (WTE) plants.</p>
+
+<p>Even as we try to reduce our emissions and replace fossil fuel with renewable sources, we may have some residual carbon emissions that are hard to abate. We may have to consider the use of carbon credits.</p>
 
 <div class="involve">
 <h5>Towards Higher Standards of Sustainability in Government Buildings </h5>
@@ -154,11 +160,6 @@ margin:20px;
 <p>The Academic Tower boasts multiple high energy savings measures, such as a brushless direct current fan coil unit which is low noise and provides up to 70% energy savings. The lush vertical greening and deep corridor shade reduce overall heat gain, further reducing cooling requirements. Task lighting has replaced ceiling lights as the mode of lighting in offices, with the usage of sun pipes for staircase and reception counter lighting in office, while solar PVs generate 23% of its total electricity needs.</p>
 </div>	
 
-<p>Starting from FY2023, all cars procured and registered by public agencies will  be clean energy vehicles with zero tailpipe emissions.</p>
-
-<p>We are concurrently studying and implementing options to import clean electricity and remove carbon emissions. Singapore has started importing 100 megawatts of renewable hydropower from Lao PDR, which is enough to power about 144,000 four-room HDB flats a year. The National Environment Agency has also signed a Memorandum Of Understanding with Keppel Seghers in 2022 to explore the viability of Carbon Capture at our waste-to-energy (WTE) plants.</p>
-
-<p>Even as we try to reduce our emissions and replace fossil fuel with renewable sources, we may have some residual carbon emissions that are hard to abate. We may have to consider the use of carbon credits.</p>
 
 
 <div id="enable">
