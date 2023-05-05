@@ -58,10 +58,10 @@ font-weight:bold;
 	
 .break1
 {
-	font-family: montserrat;
-	font-weight:bold;
-	font-size:25px;
-	color: #1cb0a1;
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }	
 	
 	
@@ -94,6 +94,7 @@ border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;
+	font-size: 12px;
 }
 
 	
