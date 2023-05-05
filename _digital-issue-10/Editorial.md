@@ -31,11 +31,8 @@ line-height:22px;
 	
 .author
 {
-border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
-border-top: 1px solid black;	
-
 }		
 	
 </style>
@@ -49,8 +46,6 @@ This issue of ETHOS Digital Edition features a spread of articles exploring diff
 
 <p>
 Two researchers from CSC’s Institute of Leadership and Organsiation Development (ILOD) discuss issues organisations can face when our work environment, programmes and processes have to be&nbsp;adjusted to match new realities and priorities. Aurora de Souza Watters reflects on the deeply felt connections we can feel towards our projects, which speak to our passion and engagement at work, but which can also hold us back from refocusing on new opportunities. Khoo Ee Wan offers practical approaches to help both internal and external stakeholders make the transition when the programmes they are involved in are reviewed or retired—both to promote buy-in and maintain trust, and to ensure that important needs continue to be met.</p>
-
-<p>For the public sector, this is an important juncture at which to regroup and take stock: to reassess priorities and to consolidate hard-won lessons from a gruelling, as well as revealing, past few years. The necessities of the pandemic have shaken up many pieties—about the way we work, for instance—but it has also reaffirmed the purpose and  meaning of Public Service. The urgency of current challenges can focus the mind and sharpen our sense of what really matters, allowing us to identify and trim our organisational and procedural fat. This renewed sense of discipline can only stand us in good stead in our next phase of development and innovation.</p>	
 	
 <p>In times of rapid change, where old mindsets and familiar pathways may no longer meet our emerging needs, the ability to learn and adapt becomes all the more vital. Patrick Tay, Assistant Secretary-General of the NTUC, surveys strategies that Singapore and other developed countries have adopted to nurture a culture and structures of lifelong learning in their societies. Increasingly such ideas are becoming a matter not only of economic competitiveness, but also of societal cohesion.</p>
 	
@@ -62,7 +57,7 @@ Two researchers from CSC’s Institute of Leadership and Organsiation Developmen
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-by <b>Dr Alvin Pang</b><br>
+<b>Dr Alvin Pang</b><br>
 Editor-in-Chief, ETHOS
 </div>	
 	
