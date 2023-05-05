@@ -219,7 +219,7 @@ line-height:22px;
 
 <p class="subhead"><span>A</span>ll organisations and teams face challenges in prioritisation. This is because workload gain, like weight gain, is insidious. It creeps up on us and is hard to get rid of. We rarely seek to add on more of it, but often ﬁnd ourselves inundated nevertheless.</p>
 
-<p>Our instinct when prioritising is to remove activities that take up time. But prioritising work is not about harnessing the willpower to say no to new things. Nor can we expect to start from a blank slate, like how Shopify cancelled meetings (some 322,000 hours’ worth) to free up time for staff members to get things done.</p>
+<p>Our instinct when prioritising is to remove activities that take up time. But prioritising work is not about harnessing the willpower to say no to new things. Nor can we expect to start from a blank slate, like how Shopify cancelled meetings (some 322,000 hours’ worth) to free up time for staff members to get things done.<sup>1</sup></p>
 
 <p>Paradoxically, what we need instead is to spend time and energy deciding what we will do and what we will not do. </p>
 
