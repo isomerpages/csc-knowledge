@@ -101,7 +101,6 @@ border-top: 1px solid black;
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg">
 </div>
 
-
 <h3>Transforming the Work of the Public Sector in an Age of Scarce Resources
 </h3>
 
