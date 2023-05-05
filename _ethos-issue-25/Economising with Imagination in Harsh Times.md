@@ -27,7 +27,7 @@ color: white;
 .improve 
 {
 color:#483f97;
-font-size:20px;
+font-size:25px;
 font-weight:bold;
 }
 	
@@ -83,7 +83,7 @@ border: 3px solid darkblue;
 
 .oranges
 {
-  color:#d66a29;
+  color:#483f97;
 	font-weight: bold;
 	font-size: 20px;
 }
