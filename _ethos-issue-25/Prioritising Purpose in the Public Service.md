@@ -129,7 +129,7 @@ and foremost starts from a culture of wanting to do things better.</p>
 <p>Ultimately, the greatest resource constraint, for anyone, is time. It’s highly perishable, not transferable, and not reversible. Prioritisation has always been part of the picture. Everyone has always had to work towards a resource envelope and make trade-offs. It is just that the envelope will be a bit tighter in future. Good leaders can never achieve good outcomes if they do not figure out what a team needs to deliver; how they need to resource that endeavour; and how they organise themselves for success.</p>
 
 <div class="break">
-<p class="break1">The greatest resource constraint, for anyone, is time. It's highly perishable, not transferable, and not reversible. Prioritisation has always been part of the picture."</p>
+<p class="break1">The greatest resource constraint, for anyone, is time. It's highly perishable, not transferable, and not reversible. Prioritisation has always been part of the picture.</p>
 </div>
 
 <p>The key is how we engage our teams so that they have a bigger part to play in the prioritisation process. How do we work with them through the prioritising? How do we help those who may not have the resources they need to ﬁnd ways to deliver outcomes or better participate in the broader organisational mission? If we are sincerely committed to bringing everyone on board, I believe we can mitigate some of the downsides and trade-offs.</p>
@@ -145,7 +145,7 @@ and foremost starts from a culture of wanting to do things better.</p>
 <p>I would also like to see more activity, with every ministry, agency, team and individual making conscious efforts to uplift the joy of working in the Public Service, streamlining the workload, but also having a commitment to development and growth.</p>
 
 <div class="break">
-<p class="break1">"We should aim to have a Public Service that is leaner, sharper, more focused and effective, but also one in which officers have a deeper sense of engagement and pride."</p>
+<p class="break1">We should aim to have a Public Service that is leaner, sharper, more focused and effective, but also one in which officers have a deeper sense of engagement and pride.</p>
 </div>
 
 <p>This must be an inclusive effort. While there is an onus on leaders to play their role, I would like everyone down the line to feel that they are both a beneﬁciary and an active contributor, empowered to make a positive difference and to experience the beneﬁts of it.</p>
