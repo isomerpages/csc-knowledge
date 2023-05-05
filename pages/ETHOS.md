@@ -138,7 +138,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 
 <p>Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort. The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights.</p>	
 
-<div class="button1"><a target="_blank" href="/ethos-issue-25/scale/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-25/prioritising-the-big-small-things-for-scale/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -158,7 +158,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 <p> Crisis does not always have to lead to damaging reductions in the public good: instead, they can prompt innovative improvements in the way public services are resourced, structured and operated. 
 </p>	
 
-<div class="button1"><a href="/ethos-issue-25/economising/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-25/economising-with-imagination-in-harsh-times/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -180,7 +180,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 <p>Singapore’s Ministry of Finance is spearheading budgetary reforms to enhance cooperation, sharpen priorities and promote innovation, to meet national challenges in an increasingly resource-constrained environment.
 </p>	
 
-<div class="button1"><a href="/ethos-issue-25/budget/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-25/budget4point0-optimising-for-better-outcomes/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -198,7 +198,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 
 <p>A public sector tech leader outlines how technology can complement new ways of thinking and working—making the most of scarce resources to achieve better public outcomes.</p>
 
-<div class="button1"><a href="/ethos-issue-25/enhance/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-25/enhancing-public-service-with-tech/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -218,7 +218,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 <p>Recognising its role to achieve net zero, Singapore’s public sector has developed decarbonisation measures, embedded environmental sustainability into its core businesses, and built up key competencies.
 </p>	
 
-<div class="button1"><a href="/ethos-issue-25/driving/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-25/driving-sustainability-in-the-public-sector/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -236,7 +236,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 
 <p>The veteran economist and former UK Cabinet Secretary argues that harnessing skillsets across sectors is vital to addressing societal needs in the long term.</p>	
 
-<div class="button1"><a href="/ethos-issue-25/sectoral/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-25/sectoral-collaboration-as-public-resource/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -255,7 +255,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 <p>Effective social impact arrangements are purpose-driven, motivate relationship-building and centre learning in exploring new ways to deliver public value.
 </p>	
 
-<div class="button1"><a target="_blank" href="/ethos-issue-25/outcome/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-25/making-outcome-based-approaches-work/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -273,7 +273,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 
 <p>In this ETHOS Roundtable, three distinguished participants of the  14th Leaders in Governance Programme discuss how global challenges have reshaped thinking on national resourcing and the core work of the public sector.</p>	
 
-<div class="button1"><a href="/ethos-issue-25/wake/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-25/rethinking-growth-and-government-in-a-crisis-constrained-world/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -292,7 +292,7 @@ The Chairperson of  the Public Sector Transformation—  People Committee shares
 <p>The public sector should take steps to strengthen the muscles of civic discourse and decision-making, to face a future where our most pressing issues call for all in society to pull together.
 </p>	
 
-<div class="button1"><a href="/ethos-issue-25/moving/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-25/cultivating-public-participation-and-goodwill/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
