@@ -424,6 +424,6 @@ space to think and plan, while also taking time to get ground data to assess and
 
 <br>
 <br>
-</a><div class="back"><a href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">
+</a><div class="back"><a target="_blank" href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">
 </a><a href="/ethos-issue-25/">Back to Ethos Page</a>	
 </div>
