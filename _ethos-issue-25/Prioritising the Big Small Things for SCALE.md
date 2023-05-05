@@ -381,7 +381,7 @@ space to think and plan, while also taking time to get ground data to assess and
 
 <p>The S.C.A.L.E. Framework is also adaptable. We have used the S.C.A.L.E. Framework and assessment tool in a bespoke workshop designed for a Ministry's senior leadership team. In their discussions, they applied the framework to assess the state of prioritisation at the whole organisation level—for diverse functions as well as at the cluster or divisional level for intact teams.</p>
 
-<h3>Scaling Made Versatile and Adaptable</h3>
+<h3>The Big Small Things Compounded to Keep Off the ‘Pounds’</h3>
 
 <p>Many of the examples from our consultancy experiences are small actions that build up into signiﬁcant impact and results.</p>
 
