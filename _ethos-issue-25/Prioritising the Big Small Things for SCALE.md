@@ -374,7 +374,7 @@ space to think and plan, while also taking time to get ground data to assess and
 
 <p>The S.C.A.L.E. Framework is versatile. It can be used as a full framework to cover all ﬁve dimensions. Each dimension can also be used separately in deep dive discussions to surface issues and big small things for improvement.</p>
 
-<p>The S.C.A.L.E. Framework is also  adaptable. We have used the S.C.A.L.E. Framework and assessment tool in a bespoke workshop designed for a Ministry's senior leadership team. In their discussions, they applied the framework to assess the state of prioritisation at the whole organisation level—for diverse functions as well as at the cluster or divisional level for intact teams.</p>
+<p>The S.C.A.L.E. Framework is also adaptable. We have used the S.C.A.L.E. Framework and assessment tool in a bespoke workshop designed for a Ministry's senior leadership team. In their discussions, they applied the framework to assess the state of prioritisation at the whole organisation level—for diverse functions as well as at the cluster or divisional level for intact teams.</p>
 
 <h3>Scaling Made Versatile and Adaptable</h3>
 
@@ -396,7 +396,7 @@ space to think and plan, while also taking time to get ground data to assess and
 </ul>
 	
 <p>To ﬁnd out more, connect with Eileen at:  
-	<a href="eileen_wong@cscollege.gov.sg">eileen_wong@cscollege.gov.sg</a></p>
+	<a href="mailto:eileen_wong@cscollege.gov.sg">eileen_wong@cscollege.gov.sg</a></p>
 	
 	
 </div>	
