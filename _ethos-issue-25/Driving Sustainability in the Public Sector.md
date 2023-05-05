@@ -101,10 +101,7 @@ margin:20px;
 	color: #06945d;
 }	
 
-.notestop ol li
-{
-	font-size: 16px;
-}	
+
 
 	
 	
