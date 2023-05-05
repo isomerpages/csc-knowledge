@@ -214,7 +214,8 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 
 <p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
-<h3>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h3>
+<div id="improvising">
+	<p class="improve">PROMPTS FOR ECONOMISING PUBLIC SERVICES</p>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
 
 
@@ -282,7 +283,7 @@ Finally, there are often options for joining up the work of government in creati
 
 <p>It should be apparent that these prompts can help us rethink public services not as static things that have to always take the same forms, but rather as building blocks that can often be organised in different ways.</p>
 
-
+</div>
 
 
 
