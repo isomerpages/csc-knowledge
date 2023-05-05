@@ -68,7 +68,7 @@ font-size: 12px;
 <p>If anything, COVID-19 has reaffirmed the value of good governance and the importance of the Public Service. This is why we need to continue to keep officers engaged in the Service and staying well.</p>
 
 <div class="break">
-<p class="break1">"It is important to refocus public service workload on what really matters."</p>
+<p class="break1">It is important to refocus public service workload on what really matters.</p>
 </div>
 
 <h3>Creating More Purposeful Work</h3>
