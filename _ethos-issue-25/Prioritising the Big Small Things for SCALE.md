@@ -282,7 +282,7 @@ line-height:22px;
 
 <p>What gets rewarded gets done. An organisation’s culture is built and reinforced day by day through actual work behaviours and norms. Ask any newcomer to observe and share candidly what gets rewarded or frowned upon at the workplace. Their fresh perspectives—free from legacy experiences—offer an outside-in view of current work interactions.</p>
 
-<p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
+
 
 <p>This runs contrary to the call for prioritisation and reducing workload because we have been conditioned for success through adding and not subtracting. </p>	
 	
@@ -310,8 +310,6 @@ line-height:22px;
 
 
 <p>Work processes can accumulate over time and be hard to get rid of. With the hybrid/ﬂexible work arrangements of the pandemic years, processes may even have multiplied. At the same time, the constraints imposed by the pandemic have also taught us that we can in fact do quite well with less. For example, we learnt that virtual meetings can save on commuting time while not compromising work outcomes.</p>
-
-<p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
 
 <p>One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value. During a leadership team conversation to address high workload, an agency head related his shock of discovering that over 20 iterations had been made to a set of meeting notes that the meeting chairperson did not even see. It could not be clearly determined if each layer added value. The high number of iterations prompted the leaders to discuss how they might have unknowingly contributed to similar inefficiencies. They decided to update the clearance process from a sequential ﬂow to using a shared platform for concurrent clearance by the required parties.</p>
 
