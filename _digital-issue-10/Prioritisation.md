@@ -34,6 +34,26 @@ border-top: 1px solid black;
 
 }		
 	
+.author p
+{
+	font-size: 15px;
+	line-height:24px;
+}
+	
+.notestop ol li
+{
+font-size: 15px;
+line-height:22px;
+}	
+	
+.break1
+{
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 </style>
 	
 <div class="background-image">
@@ -51,7 +71,7 @@ Prioritisation is an ever-present reality that we all face in the Public Service
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-by <b>Aurora de Souza Watters</b> is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.
+<p>by <b>Aurora de Souza Watters</b> is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.</p>
 	
 	
 	
