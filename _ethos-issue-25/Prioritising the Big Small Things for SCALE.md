@@ -42,8 +42,10 @@ font-size:25px;
 	
 .break1
 {
-	font-family: "montserrat";	
-	font-size:25px;
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 	
 	
