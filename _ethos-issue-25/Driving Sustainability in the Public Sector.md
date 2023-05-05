@@ -39,25 +39,23 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 #excel h3
 {
 	border-bottom: 2px solid #329348;
-	font-size: 25px;
 	color: #329348;
-	margin-top: 50px;
+	margin-top: 30px;
 }
 
 #enable h3
 {
  border-bottom: 2px solid #329348;
-	font-size: 25px;
 	color: #329348;
-	margin-top: 50px;
+	margin-top: 30px;
+	font-weight: bold;
 }
 
 #excite h3
 {
 	border-bottom: 2px solid #329348;
-	font-size: 25px;
 	color: #329348;
-	margin-top: 50px;
+	margin-top: 30px;
 }	
 
 .author
