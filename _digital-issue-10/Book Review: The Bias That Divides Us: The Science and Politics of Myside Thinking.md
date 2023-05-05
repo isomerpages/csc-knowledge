@@ -12,11 +12,7 @@ image: /images/Cropped_images/Ethos_Digital_10/review.jpg
 	align:left;
 }
 
-.notes ol li
-{
-font-size: 16px;	
-}		
-	
+
 .back a
 {
 	color: #9f2943;
