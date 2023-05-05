@@ -179,7 +179,7 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 <p>There have been many promising experiments over the years to address these problems, though all remain marginal. They include the shift to accrual-based accounting in many governments and introducing ‘phenomenon-based’ budgeting for complex and cross-sectoral phenomena (e.g., gender, SDGs or children) which don’t ﬁt neatly into existing government structures. They also include the analysis of multipliers: looking at how some kinds of spending achieve cross-cutting impacts or save money (such as the UK’s ‘Public Pound Multiplier’ which draws, for example, on evidence that preventative action on smoking can deliver a £1.7-billion savings in return for a £300-million investment). This is a crucial concept for the future of public ﬁnance, particularly in times of shortage. It is vital to know not just which areas of spending will achieve the most, but also which cuts could backﬁre. Boomerang cuts are familiar to anyone who has worked in public services: the equivalent of cutting maintenance for roofs which then leads to much higher costs later when the roof falls in.</p>
 
 <div class="break">
-<p class="break1">"IT IS MUCH HARDER TO WORK OUT HOW TO SAVE MONEY WITHOUT DOING HARM."</p>
+<p class="break1">It is much harder to work out how to save money without doing harm.</p>
 </div>
 
 <p>There are also useful lessons to be learned from the world of impact investment which has become more rigorous in measuring social and ﬁnancial returns, at least for individual projects and programmes. Part of the value of ideas like social impact bonds, which I helped develop in the 2000s, is to clarify the link between inputs of money and outcomes achieved.</p>
