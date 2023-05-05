@@ -96,7 +96,8 @@ line-height:22px;
 #box2
 {
 background-color: #e5e5e5;	
-padding: 20px;
+padding: 40px;
+margin:20px;
 }
 	
 	
