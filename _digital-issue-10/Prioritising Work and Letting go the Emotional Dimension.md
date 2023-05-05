@@ -5,8 +5,6 @@ description: ""
 image: /images/Ethos_Images/Ethos_Digital_Issue_10/LettingGo_banner-teaser.jpeg
 ---
 <style>
-
-
 	
 .back a
 {
@@ -43,10 +41,6 @@ width:50%;
 	padding:10px;
 }
 
-
-	
-	
-	
 .author
 {
 border-bottom: 1px solid black;
