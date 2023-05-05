@@ -225,7 +225,7 @@ line-height:22px;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<p>by <b> Patrick Tay</b> is Assistant Secretary-General of National Trades Union Congress (NTUC) and Director of NTUC’s Legal and Strategy. He is an elected Member of Parliament (Pioneer SMC) and chairs the Government Parliamentary Committee for Education. He is currently serving as Executive Secretary of the United Workers of Electronics &amp; Electrical Industries (UWEEI) and the Singapore Manual &amp; Mercantile Workers’ Union (SMMWU).	</p>
+<p><b> Patrick Tay</b> is Assistant Secretary-General of National Trades Union Congress (NTUC) and Director of NTUC’s Legal and Strategy. He is an elected Member of Parliament (Pioneer SMC) and chairs the Government Parliamentary Committee for Education. He is currently serving as Executive Secretary of the United Workers of Electronics &amp; Electrical Industries (UWEEI) and the Singapore Manual &amp; Mercantile Workers’ Union (SMMWU).	</p>
 </div>
 
 <div class="notes">
