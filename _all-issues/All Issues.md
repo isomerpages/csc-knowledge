@@ -150,7 +150,7 @@ font-size: 16px;
 	
 <tr>
 	<td><a href="https://go.gov.sg/ethos-digital-special-edition-dec20">Digital Special Edition, Dec 2020</a></td>
-	<td><a href="https://go.gov.sg/digital-issue-06">Digital Edition Issue 6, Jun 2020</a></td>
+	<td><a href="https://go.gov.sg/digital-issue-06">Digital Edition Issue 6, <br>Jun 2020</a></td>
 </tr>
 
 
@@ -278,9 +278,8 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a href="https://go.gov.sg/ethos-issue-16">Issue 16, Dec 2016 <br>Connect, Collaborate and
-Create Consensus</a></td>
-	<td><a href="https://go.gov.sg/ethos-issue-15">Issue 15, Jun 2016, Public Engagement</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-16">Issue 16, Dec 2016, <br>Connect, Collaborate and Create Consensus</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-15">Issue 15, June 2016, Public Engagement</a></td>
 </tr>
 
 
