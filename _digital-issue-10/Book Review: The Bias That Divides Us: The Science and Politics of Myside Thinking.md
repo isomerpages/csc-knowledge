@@ -131,21 +131,14 @@ You might think that when it comes to arguments and facts, the marketplace of id
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-by <b>Vernie Oliveiro</b> is Principal Researcher at the Institute of Governance and Policy, Civil Service College. Her research interests include the centre of government and digital governance.
+<b>Vernie Oliveiro</b> is Principal Researcher at the Institute of Governance and Policy, Civil Service College. Her research interests include the centre of government and digital governance.
 	
 </div>	
 
 <div class="notes">
 <h6>NOTES</h6>
 <ol>
-<li id="num1">A.H. Hastorf, A. H., and H. Cantril, “They Saw a Game: A Case Study”,&nbsp;_he Journal of Abnormal and Social Psychology_&nbsp;49, no. 1 (1954): 129–134.</li>
-
-
-
-
-
-
-
+<li id="num1">A.H. Hastorf, A. H., and H. Cantril, “They Saw a Game: A Case Study”, <em>the Journal of Abnormal and Social Psychology</em>, no. 1 (1954): 129–134.</li>
 
 
 
