@@ -39,10 +39,6 @@ padding-bottom:30px;
 border-top: 1px solid black;	
 }
 	
-.notestop ol li
-{
-	font-size: 16px;
-}	
 
 	
 </style>
