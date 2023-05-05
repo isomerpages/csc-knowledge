@@ -40,7 +40,7 @@ border-top: 1px solid black;
 	
 .break1
 {
-	font-family: Verdana;
+	font-family: Georgia;
 	font-size:20px;
 }
 	
