@@ -40,8 +40,8 @@ border-top: 1px solid black;
 	
 .break1
 {
-	font-family: montserrat;
-	font-size:25px;
+	font-family: Verdana;
+	font-size:20px;
 }
 	
 </style>
@@ -57,8 +57,7 @@ border-top: 1px solid black;
 <p>Public Service manpower growth cannot outpace that of the broader labour force when our population is not growing and the labour force is stagnating. This is the reality we must grapple with. 
 </p>
 
-<p>In my view, it is a privilege to have these demands placed on 
-us, because it means that Singaporeans trust us to deliver and they look to us for solutions. This is a better position to be in than one in which the public does not trust government and has given up on it being able to solve problems, which is happening in some countries. But it does mean that we have to prioritise and approach our work differently.</p>
+<p>In my view, it is a privilege to have these demands placed on us, because it means that Singaporeans trust us to deliver and they look to us for solutions. This is a better position to be in than one in which the public does not trust government and has given up on it being able to solve problems, which is happening in some countries. But it does mean that we have to prioritise and approach our work differently.</p>
 
 <p>Coming out of the pandemic, we see the cumulative strain that public officers have borne over the past few years: they feel overworked, and their engagement is dipping. This is in part because we have very committed public officers who want to do their best and go the extra mile, but as a result, they have given a lot of themselves and feel exhausted.</p>
 
