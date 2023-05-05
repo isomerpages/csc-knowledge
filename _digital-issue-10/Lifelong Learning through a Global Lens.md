@@ -241,7 +241,7 @@ line-height:22px;
 <h6>NOTES</h6>
 <ol>
 	<li id="num1">Ministry of Manpower, “Labour Market Report First Quarter 2022”, June 17, 2022,&nbsp;<a href="https://www.mom.gov.sg/newsroom/press-releases/2022/0617-labour-market-report-1q-2022"> https://www.mom.gov.sg/newsroom/press-releases/2022/0617-labour-market-report-1q-2022.</a></li>
-<li id="num2">S. Ellerbeck, “The Great Resignation Is not Over: A Fifth of Workers Plan to Quit in 2022”, World Economic Forum, June 24, 2022,&nbsp;[https://www.weforum.org/agenda/2022/06/the-great-resignation-is-not-over/](https://www.weforum.org/agenda/2022/06/the-great-resignation-is-not-over/).</li>
+<li id="num2">S. Ellerbeck, “The Great Resignation Is not Over: A Fifth of Workers Plan to Quit in 2022”, World Economic Forum, June 24, 2022,&lt; a href="https://www.weforum.org/agenda/2022/06/the-great-resignation-is-not-over"&gt;https://www.weforum.org/agenda/2022/06/the-great-resignation-is-not-over/.</li>
 <li id="num3"><a href="https://ntuc.org.sg/Research-CET">"Continuing Education and Training: Now and What Could be Next",</a>&nbsp;Singapore: National Trades Union Congress, 2022.</li>
 <li id="num4">Chew Hui Min, “10 Quotes from Mr Lee Kuan Yew's 'awesome' 1977 speech in Parliament”,&nbsp;_The Straits Times_, March 26, 2015,&nbsp;<a href="https://www.straitstimes.com/singapore/10-quotes-from-mr-lee-kuan-yews-awesome-1977-speech-in-parliament">https://www.straitstimes.com/singapore/10-quotes-from-mr-lee-kuan-yews-awesome-1977-speech-in-parliament.</a></li>
 <li id="num5">A. Lim, “Singapore Can Be World Leader in Cultivating Lifelong Learning, Says Tharman Shanmugaratnam”,&nbsp;_The Straits Times_, April 25, 2019,&nbsp;<a href="https://www.straitstimes.com/politics/singapore-can-be-world-leader-in-cultivating-life-long-learning-says-tharman-shanmugaratnam">https://www.straitstimes.com/politics/singapore-can-be-world-leader-in-cultivating-life-long-learning-says-tharman-shanmugaratnam.</a></li>
@@ -262,7 +262,7 @@ line-height:22px;
 <li id="num14">J. A. Jenkins, “An Ageing Workforce Isn’t a Burden. It’s an Opportunity”, World Economic Forum, January 3, 2019,&nbsp;<a href="https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/">https://www.weforum.org/agenda/2019/01/an-aging-workforce-isnt-a-burden-its-an-opportunity/</a></li>
 	
 	
-<li id="num15">World Economic Forum, “Accelerating Workforce Reskilling for the Fourth Industrial Revolution: An Agenda for Leaders to Shape the Future of Education, Gender and Work, 2017,&nbsp;<a href="https://www3.weforum.org/docs/WEF\_EGW\_White\_Paper\_Reskilling.pdf">https://www3.weforum.org/docs/WEF_EGW_White_Paper_Reskilling.pdf.</a></li>
+<li id="num15">World Economic Forum, “Accelerating Workforce Reskilling for the Fourth Industrial Revolution: An Agenda for Leaders to Shape the Future of Education, Gender and Work, 2017, <a href="https://www3.weforum.org/docs/WEF\_EGW\_White\_Paper\_Reskilling.pdf"> https://www3.weforum.org/docs/WEF_EGW_White_Paper_Reskilling.pdf.</a></li>
 <li id="num16">S. Boh, “1 in 4 Singaporeans Aged above 65 Developed Chronic Disease in Past Year: Study”,&nbsp;_The Straits Times_, November 11, 2016,&nbsp;<a>https://www.straitstimes.com/singapore/one-in-four-singaporeans-aged-above-65-developed-chronic-disease-in-past-year-study.</a></li>
 <li id="num17">P. Tay, “Can We Do More to Help PMEs Overcome Disruption and Discrimination in the Next Normal?”&nbsp;_Singapore Labour Journal_&nbsp;1 (2022), 83–89.</li>
 <li id="num18">Refer to Note 12.</li>
