@@ -251,7 +251,7 @@ border-top: 1px solid black;
 <p>When leaders take time to help others understand the core work and unique value created by their organisation, teams and officers will have more clarity in prioritising time and energy for work that matters.</p>
 
 <div class="break">
-<p class="break1">" When leaders take time to help others understand the work and value created by their organisation, officers will have more clarity in prioritising time and work."</p>
+<p class="break1">When leaders take time to help others understand the work and value created by their organisation, officers will have more clarity in prioritising time and work.</p>
 </div>
 </div>
 
