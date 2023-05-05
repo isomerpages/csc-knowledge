@@ -97,8 +97,10 @@ border-top: 1px solid black;
 	font-size: 12px;
 }
 
-	
-	
+.note
+	{
+	font-size: 15px;
+	}
 </style>
 
 <div class="background-image">
