@@ -24,14 +24,9 @@ border-top: 1px solid black;
 .author p
 {
 	font-size: 15px;
-	line-height:22px;
+	line-height:24px;
 }
-	
-.notestop ol li
-{
-font-size: 15px;
-line-height:22px;
-}	
+
 	
 .back a
 {
