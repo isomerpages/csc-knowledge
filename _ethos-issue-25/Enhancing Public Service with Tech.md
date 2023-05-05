@@ -139,13 +139,11 @@ color: white;
 
 <p>The work we do goes beyond just  gadgets and technology—it also addresses the psychological and cultural aspects of work. For example, team cohesion is an important element of work. After putting in place the technology to let our people connect and work remotely, we need to think about how to enable more seamless interaction and engagement. For example, after providing connectivity tools such as Zoom and SG-Teams, we want to support communities of practice, so we have technologies like Workplace from Meta, to help colleagues come together and share ideas and best practices to help each other level up on areas they may not be strong in. But having technology is one thing—people must also be willing to use the technology. Officers may have webcams, but they may not turn them on during online sessions. Getting people to turn on their webcams is not a technology issue; it’s a cultural one. So, one of our key priorities is the non-tech side of work.</p>
 
-<p>Through various surveys, we know that many public officers have been saying that being provided with and given tech training is one thing, but it is quite another to see it used in the workplace. For instance, do supervisors and leaders model tech adoption? One of the initiatives we have set up to address this is a Government to Employee (G2E) Change Network. We have gathered around 1,400 Change Champions across different roles in the public sector, including some who are in</p>
+<p>Through various surveys, we know that many public officers have been saying that being provided with and given tech training is one thing, but it is quite another to see it used in the workplace. For instance, do supervisors and leaders model tech adoption? One of the initiatives we have set up to address this is a Government to Employee (G2E) Change Network. We have gathered around 1,400 Change Champions across different roles in the public sector, including some who are in public-facing roles. These are individuals —not necessarily senior leaders—who are passionate about technology and driving digital transformation; they are inﬂuencers and ambassadors. At the same time, we also work with senior leaders to help set the direction for where agencies are going, sponsor changes, and empower efforts to do so, embracing both a top-down and bottom-up approach to adopt technology. Our role is to give these champions the right tools and knowledge to lead the change and get their colleagues excited about what technology can do for them.</p>
 
 <div class="break">
 <p class="break1">Having technology is one thing—people must also be willing to use the technology.</p>
 </div>
-
-<p>public-facing roles. These are individuals —not necessarily senior leaders—who are passionate about technology and driving digital transformation; they are inﬂuencers and ambassadors. At the same time, we also work with senior leaders to help set the direction for where agencies are going, sponsor changes, and empower efforts to do so, embracing both a top-down and bottom-up approach to adopt technology. Our role is to give these champions the right tools and knowledge to lead the change and get their colleagues excited about what technology can do for them.</p>
 
 <p>We also have an online community through which we share the latest products as well as innovative uses of technology. We run workshops based on where the end-user agencies and teams are. These workshops may not always be for IT departments or Chief Information Officers (CIOs), but are often the officers on the ground. We show them how various tech tools can be usefully and securely adopted within the Public Service. We also share how other agencies have leveraged technology. For instance, HDB mounted a camera on a drone and used SG-Teams to do building inspections through livestreamed aerial drone video feeds. If an incident were to occur, this could also be used for crisis coordination and better appraisal of the situation. Such cases demonstrate how we can use available tech to do our work better and faster. By sharing these examples, we inspire new applications and new public sector innovations.</p>
 
@@ -225,8 +223,7 @@ color: white;
 
 
 <div id="for-more-info">
-<p>For more information on Whole-of-Government productivity tools, visit the Singapore Government Developer Portal:
-<br><a href="go.gov.sg/devportalproductivitytools">go.gov.sg/devportalproductivitytools</a></p>
+<p>For more information on Whole-of-Government productivity tools, visit the Singapore Government Developer Portal:<br><a href="https://go.gov.sg/devportalproductivitytools">go.gov.sg/devportalproductivitytools</a></p>
 </div>
 
 
