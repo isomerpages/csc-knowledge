@@ -67,7 +67,7 @@ us, because it means that Singaporeans trust us to deliver and they look to us f
 <p>If anything, COVID-19 has reaffirmed the value of good governance and the importance of the Public Service. This is why we need to continue to keep officers engaged in the Service and staying well.</p>
 
 <div class="break">
-<p class="break1">It is important to refocus public service workload on what really matters.</p>
+<p class="break1">"It is important to refocus public service workload on what really matters."</p>
 </div>
 
 <h3>Creating More Purposeful Work</h3>
@@ -86,8 +86,8 @@ us, because it means that Singaporeans trust us to deliver and they look to us f
 <p>I’d like to encourage all officers to embrace this sense of agency in raising these issues to supervisors, suggesting alternatives to achieve the intended outcomes, and then working together to make them happen. If we can get officers to work alongside supervisors to streamline work, with leaders prepared to make executive decisions to change processes, we will go a long way.</p>
 
 <div class="break">
-<p class="break1">Innovation first  
-and foremost starts from a culture of wanting to do things better.</p>
+<p class="break1">"Innovation first  
+and foremost starts from a culture of wanting to do things better."</p>
 </div>
 
 <h3>Balancing Care, Performance and Growth</h3>
@@ -99,7 +99,7 @@ and foremost starts from a culture of wanting to do things better.</p>
 <p>Wellbeing is a holistic concept that not only involves physical wellbeing, but also mental wellness, and physical wellness—making sure people are exercising, eating right and recharging. Our public officers tend to work very hard. Again, this comes from wanting to do well. But we should not overdo it. We must ﬁnd a balance so that we don’t feel so emotionally drained or mentally exhausted by what we are doing, which then eats away at us and affects our mental wellbeing, sometimes invisibly. It is important for officers to point out some of the areas which they ﬁnd emotionally taxing and not as meaningful, and then it is the responsibility of leadership to sort these out.</p>
 
 <div class="break">
-<p class="break1">Our move towards reprioritising and reducing workload  is not at all about compromising professional pride  or outcomes.</p>
+<p class="break1">"Our move towards reprioritising and reducing workload  is not at all about compromising professional pride  or outcomes."</p>
 </div>
 
 <p>Growth comes from learning and development. This in turn comes from a mindset that there is a brighter future,  and we can progress towards that. Innovation first and foremost starts rom a culture of wanting to do things better. It does not really matter what the innovation is, whether in terms of technology or process. It’s about attitude: we may be good now, but we want to be great.</p>
@@ -129,7 +129,7 @@ and foremost starts from a culture of wanting to do things better.</p>
 what a team needs to deliver; how they need to resource that endeavour; and how they organise themselves for success.</p>
 
 <div class="break">
-<p class="break1">The greatest resource constraint, for anyone, is time. It's highly perishable,  not transferable, and not reversible. Prioritisation has  always been part  of the picture.</p>
+<p class="break1">"The greatest resource constraint, for anyone, is time. It's highly perishable, not transferable, and not reversible. Prioritisation has always been part  of the picture."</p>
 </div>
 
 <p>The key is how we engage our teams so that they have a bigger part to play in the prioritisation process. How do we work with them through the prioritising? How do we help those who may not have the resources they need to ﬁnd ways to deliver outcomes or better participate in the broader organisational mission? If we are sincerely committed to bringing everyone on board, I believe we can mitigate some of the downsides and trade-offs.</p>
@@ -145,8 +145,7 @@ what a team needs to deliver; how they need to resource that endeavour; and how 
 <p>I would also like to see more activity, with every ministry, agency, team and individual making conscious efforts to uplift the joy of working in the Public Service, streamlining the workload, but also having a commitment to development and growth.</p>
 
 <div class="break">
-<p class="break1">We should aim to have a Public Service that is leaner, sharper, 
-more focused and effective, but also one in which officers have a deeper sense of engagement and pride.</p>
+<p class="break1">"We should aim to have a Public Service that is leaner, sharper, more focused and effective, but also one in which officers have a deeper sense of engagement and pride."</p>
 </div>
 
 <p>This must be an inclusive effort. While there is an onus on leaders to play their role, I would like everyone down the line to feel that they are both a beneﬁciary and an active contributor, empowered to make a positive difference and to experience the beneﬁts of it.</p>
