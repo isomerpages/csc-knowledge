@@ -87,8 +87,8 @@ font-size: 12px;
 <p>I’d like to encourage all officers to embrace this sense of agency in raising these issues to supervisors, suggesting alternatives to achieve the intended outcomes, and then working together to make them happen. If we can get officers to work alongside supervisors to streamline work, with leaders prepared to make executive decisions to change processes, we will go a long way.</p>
 
 <div class="break">
-<p class="break1">"Innovation first  
-and foremost starts from a culture of wanting to do things better."</p>
+<p class="break1">Innovation first  
+and foremost starts from a culture of wanting to do things better.</p>
 </div>
 
 <h3>Balancing Care, Performance and Growth</h3>
