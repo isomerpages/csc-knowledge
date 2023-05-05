@@ -97,7 +97,7 @@ border-top: 1px solid black;
 	font-size: 12px;
 }
 
-.note
+.notestop
 	{
 	font-size: 15px;
 	}
