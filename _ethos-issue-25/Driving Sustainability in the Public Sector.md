@@ -32,8 +32,10 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 	
 .break1
 {
-	font-family: "montserrat";	
-	font-size:25px;
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 	
 #excel h3
@@ -137,7 +139,7 @@ margin:20px;
 <p>We have also identiﬁed measures that help our public agencies decarbonise their systems and processes. For instance, all new public sector buildings and those undergoing retroﬁtting will meet Green Mark Platinum Super Low Energy (SLE) standards. Agencies will also maintain an ambient indoor air temperature at 25°C or higher for their premises and deploy solar photovoltaics, where feasible. </p>
 
 <div class="break">
-<p class="break1">"We have identified measures that help our public agencies decarbonise their systems and processes."</p>
+<p class="break1">We have identified measures that help our public agencies decarbonise their systems and processes.</p>
 </div>
 
 <div class="involve">
@@ -184,8 +186,8 @@ margin:20px;
 </div>	
 
 <div class="break">
-<p class="break1">"The public sector is also committed  to enhancing its procurement policies to support Singapore’s transition  
-to a greener economy."</p>
+<p class="break1">The public sector is also committed  to enhancing its procurement policies to support Singapore’s transition  
+to a greener economy.</p>
 </div>
 
 <p>to support Singapore’s transition to a greener economy. Apart from mandating minimum resource  efficiency or sustainability standards for selected goods and services, we will be introducing more environmental sustainability considerations into the Government’s tender evaluation process from FY2024. We will start with large construction and Information Communications Technology (ICT) tenders, setting aside up to 5% of the evaluation points for environmental sustainability.</p>
