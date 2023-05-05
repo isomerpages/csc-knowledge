@@ -284,11 +284,11 @@ line-height:22px;
 
 <p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
 
+<p>This runs contrary to the call for prioritisation and reducing workload because we have been conditioned for success through adding and not subtracting. </p>	
+	
 <div class="break">
 <p class="break1">We have been conditioned for success through adding and not subtracting.</p>
 </div>
-
-<p>This runs contrary to the call for prioritisation and reducing workload because we have been conditioned for success through adding and not subtracting. </p>
 
 <p>In ILOD’s interactions with agencies, we have seen some leaders ﬁnd ways to combat such learned behaviours to do more. One leader articulated clear expectations of what was needed for a work deliverable and told officers what ‘done’ work would look like, to reduce unnecessary rework. Another leader clariﬁed with subordinates what good staffing looked like, to prevent overzealous preparations. One leader made the effort to email the entire division, openly lauding an officer who had put up a request to drop work that was no longer relevant. </p>
 
