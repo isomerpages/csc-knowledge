@@ -12,6 +12,11 @@ image: /images/Cropped_images/Ethos_Digital_10/review.jpg
 	align:left;
 }
 
+.notes ol li
+{
+	font-size:15px;
+	line-height:22px;
+}	
 
 .back a
 {
