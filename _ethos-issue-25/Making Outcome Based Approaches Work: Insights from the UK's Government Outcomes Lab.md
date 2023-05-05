@@ -130,7 +130,7 @@ been satisfactory.</p>
 
 
 <h3>Three Logics of  Outcome-Based Contracting</h3>
-<br>
+
 <div class="title">
 <h4><span class="num">1</span>&nbsp;&nbsp;&nbsp;Logic of Collaboration</h4>
 </div>
