@@ -416,14 +416,14 @@ space to think and plan, while also taking time to get ground data to assess and
 <div class="notestop">
 <h6>NOTE</h6>
 <ol class="note">
-<li>Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity.</li>
-</ol>
-</div>
+<li>Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, <a href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity.</a></li><a href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">
+</a></ol><a href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">
+</a></div><a href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">
 
 
 
 <br>
 <br>
-<div class="back">
-<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+</a><div class="back"><a href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">
+</a><a href="/ethos-issue-25/">Back to Ethos Page</a>	
 </div>
