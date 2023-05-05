@@ -62,6 +62,18 @@ margin-top:20px;
 color: #1C8A6F
 }		
 
+.author p
+{
+	font-size:15px;
+	line-height:22px;
+}
+
+.notestop ol li
+{
+font-size: 15px;	
+}	
+	
+	
 </style>
 
 <div class="background-image">
