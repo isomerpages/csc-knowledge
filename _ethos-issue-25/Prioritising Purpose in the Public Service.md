@@ -19,8 +19,19 @@ border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
-font-size: 12px;
 }
+	
+.author p
+{
+	font-size: 15px;
+	line-height:22px;
+}
+	
+.notestop ol li
+{
+font-size: 15px;
+line-height:22px;
+}	
 	
 .back a
 {
