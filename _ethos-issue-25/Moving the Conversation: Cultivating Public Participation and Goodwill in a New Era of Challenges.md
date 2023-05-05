@@ -26,14 +26,15 @@ border-top: 1px solid black;
    border-bottom: 1px solid black;
 	 padding:20px;
 	text-align:center;
-	font-size:30px;
 	margin-top:50px;
 }
 	
 .break1
 {
-	font-family: "montserrat";	
-	font-size:25px;
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 
 	
@@ -91,11 +92,11 @@ font-size: 15px;
 <p>This suggests that we will also need a different kind of language and vocabulary for public discourse. I was part of the UK think tank that came up with the concept of co-creation and co-production in the past, but that was from an old era of affluence and choice. We were inviting people to co-produce their own health outcomes or take ownership of their own diets and so on. There was</p>
 
 <div class="break">
-<p class="break1">"Increasingly, a whole-of-society approach is needed to address the challenges that confront us."</p>
+<p class="break1">Increasingly, a whole-of-society approach is needed to address the challenges that confront us.</p>
 </div>
 
 <div class="break">
-<p class="break1">"Now we are in a situation where we need to appeal explicitly to people’s sense of responsibility, in an era that is more characterised by necessity and emergency."</p>
+<p class="break1">Now we are in a situation where we need to appeal explicitly to people’s sense of responsibility, in an era that is more characterised by necessity and emergency.</p>
 </div>
 
 <p>something empowering about this approach. But we are no longer in the same world. Now we are in a situation where we need to appeal explicitly to people’s sense of responsibility, in an era that is more characterised by necessity and emergency. You wouldn’t talk about 'co-creating' a war effort, for instance. This is about sacrifice in some ways. But I think people can rise to this challenge if they are asked  to play a part for something bigger than themselves. </p>
@@ -112,7 +113,7 @@ font-size: 15px;
 
 
 <div class="break">
-<p class="break1">"Public participation is a muscle. People need to be asked to exercise it regularly, and this needs to be a fact of life"</p>
+<p class="break1">Public participation is a muscle. People need to be asked to exercise it regularly, and this needs to be a fact of life</p>
 </div>
 
 <p>You see this in participatory budgeting, where people realise that even in the best case, you only get to play around with about 4% of the total national budget: the rest of it has already been allocated to education, health, housing and so on. And that’s one of the first lessons: to realise how little leeway policymakers have to make these discretionary decisions. To learn how to take responsibility, citizens need to walk a little in decision-makers’  shoes, both to feel empowered, but also to realise what the real constraints are. For instance, as pension reform triggers protests around France, it is striking how little people understand about the constraints on public spending in the future.</p>
@@ -127,13 +128,12 @@ font-size: 15px;
 
 <h3>From Exclusive Competence to Inclusive Learning</h3>
 
-<p>One of the hardest things for civil servants—particularly in places like Singapore where there has been a tradition of government competence— is being ready to admit that you don't have all the answers.  And it is made particularly difficult in contemporary societies in which through forensic</p>
+<p>One of the hardest things for civil servants—particularly in places like Singapore where there has been a tradition of government competence— is being ready to admit that you don't have all the answers.  And it is made particularly difficult in contemporary societies in which through forensic social media, one is easily judged as incompetent, thereby leading  people  to question your legitimacy. But this is also why it is important to involve people in decision-making, so that they learn that nobody, no matter who or where they are,  has all the answers. Pretending that you do have all the answers is a much more dangerous game to play than admitting you don’t—because you are going to be found out. There is no getting away from this, because of the complex problems we face and because of a 24-hour, sensationalist media that thrives on prurient headlines and clickbait.</p>
 
 <div class="break">
-<p class="break1">"While it is important for institutions to open up and be more inclusive, what’s also important is for people to talk to each other."</p>
+<p class="break1">While it is important for institutions to open up and be more inclusive, what’s also important is for people to talk to each other.</p>
 </div>
 
-<p>social media, one is easily judged as incompetent, thereby leading  people  to question your legitimacy. But this is also why it is important to involve people in decision-making, so that they learn that nobody, no matter who or where they are,  has all the answers. Pretending that you do have all the answers is a much more dangerous game to play than admitting you don’t—because you are going to be found out. There is no getting away from this, because of the complex problems we face and because of a 24-hour, sensationalist media that thrives on prurient headlines and clickbait.</p>
 
 <p>The alternative to pretending that all the right processes are already in place and success is absolutely guaranteed, is to start talking from the standpoint that our reality has become fundamentally different. And that while public servants are highly trained to operate in this ﬁeld, they are also grappling with the changes, and are going to need the help and the input of other people around them. And these are complex problems for which everyone is still learning. </p>
 
