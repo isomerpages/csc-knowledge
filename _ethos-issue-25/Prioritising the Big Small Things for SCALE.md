@@ -276,7 +276,7 @@ border-top: 1px solid black;
 <p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
 
 <div class="break">
-<p class="break1">" We have been conditioned for success through adding and not subtracting."</p>
+<p class="break1">We have been conditioned for success through adding and not subtracting.</p>
 </div>
 
 <p>This runs contrary to the call for prioritisation and reducing workload because we have been conditioned for success through adding and not subtracting. </p>
@@ -309,7 +309,7 @@ border-top: 1px solid black;
 <p>Such a change was a relatively small step for them. But it was a big small thing that led to a shift in mindsets and expectations, prompting a broader relook and optimisation of how they had been working. </p>
 
 <div class="break">
-<p class="break1">"One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value."</p>
+<p class="break1">One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value.</p>
 </div>
 
 </div>
