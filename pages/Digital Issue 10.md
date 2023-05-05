@@ -10,6 +10,13 @@ table
 border-collapse: separate; 
 border-spacing: 30px 10px;
 }	
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+	}
+	
 
 
 .text
@@ -209,3 +216,7 @@ Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinki
 </tr>
 </tbody>
 </table>
+
+<div class="back">
+<a href="/all-issues/">Back to All Issues</a>
+</div>
