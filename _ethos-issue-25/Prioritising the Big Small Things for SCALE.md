@@ -211,9 +211,6 @@ font-size: 15px;
 line-height:22px;
 }
 	
-
-
-	
 </style>
 
 <div class="background-image">
