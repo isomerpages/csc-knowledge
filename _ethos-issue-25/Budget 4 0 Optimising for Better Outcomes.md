@@ -122,7 +122,7 @@ line-height: 22px;
 
 <p>Since providing speedier funding invariably means giving up some degree of accuracy, additional guardrails have been introduced to ensure greater accountability and effectiveness in the use of such funds. For instance, projects receiving additional funding will be periodically evaluated for viability and outcomes, particularly for large, novel or complex ones. Their resource utilisation will also be tracked in existing and future data platforms, which will allow for data analytics to aid better decision-making, such as for the sizing of future reallocation pools. To facilitate better comparability between projects, inputs for cost-beneﬁt analyses will be standardised to enable better prioritisation of competing needs.</p>
 
-<h5>CONCLUSION</h5>
+<h3>CONCLUSION</h3>
 <p>Every agency and public officer has a role to make Budget 4.0 effective, because our fiscal and manpower constraints are national, real, and binding. While we have traditionally thought of manpower shortages as the most binding constraint, recent experiences have reminded us that raising new taxes can be challenging too. New policies and programmes must be designed with these resource constraints in mind, so the trade-offs in outcomes between options of different resourcing needs can be fully considered. Agencies must keep an active and keen eye out for where functions are no longer relevant and can be deprioritised, and seek out productivity enhancements where possible.</p>
 
 <figure>
@@ -155,7 +155,7 @@ line-height: 22px;
 <div class="notestop">
 <h6>NOTE:</h6>
 <ol>
-	<li>Examples of such policy responses to address the pandemic include: the Jobs Support Scheme, the Care and Support Package, the COVID-19 Recovery Grant, the Jobs Growth Incentive, SGUnited Jobs and Skills, Rental Relief and Cash Grant and so on. Together, they helped Singapore avoid long-term scarring from COVID-19. For more information, please see "Assessment of the Impact of Key COVID-19 Budget Measures", published by the Ministry of Finance (MOF) on 17 February 2022.
+<li>Examples of such policy responses to address the pandemic include: the Jobs Support Scheme, the Care and Support Package, the COVID-19 Recovery Grant, the Jobs Growth Incentive, SGUnited Jobs and Skills, Rental Relief and Cash Grant and so on. Together, they helped Singapore avoid long-term scarring from COVID-19. For more information, please see "Assessment of the Impact of Key COVID-19 Budget Measures", published by the Ministry of Finance (MOF) on 17 February 2022.
 </li>
 </ol>	
 
