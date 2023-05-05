@@ -101,7 +101,6 @@ border-radius: 10px;
 .culture1 p
 {
 font-size: 22px;
-
 }		
 	
 
