@@ -140,7 +140,7 @@ border-top: 1px solid black;
 </div>
 	
 <div class="wake">
-<h3>In the wake of COVID-19, geopolitical conflict, economic volatility and climate concerns, what in your view are the most pressing challenges facing the public sector today?</h3>
+<h4>In the wake of COVID-19, geopolitical conflict, economic volatility and climate concerns, what in your view are the most pressing challenges facing the public sector today?</h4>
 </div>	
 
 <p><span class="author2-2">CHOWDHOURY:</span> The foremost challenge is public trust and reliance. In the face of so many constraints in terms of resources and new ressures, the people need to trust the public sector to deliver and be able to rely on the public sector to ensure that their rights and services are secure, that their daily needs will be met.</p>
@@ -163,8 +163,8 @@ public sector is not only to deliver in the short term, but also in a sustainabl
 <p>So as much as we should consider a certain degree of self-reliance, we also need to accept and carefully manage the risks of trade. When it comes to multilateral trade, we see that relationships can change, and then where do you go? You need to have several options open, rather than be reliant on only one source, say of your energy or food supply.</p>
 
 <div class="wake">
-<h3>What lessons have you drawn from the COVID-19 pandemic on supporting 
-innovation and growth while promoting the prudent use of limited resources?</h3>
+<h4>What lessons have you drawn from the COVID-19 pandemic on supporting 
+innovation and growth while promoting the prudent use of limited resources?</h4>
 </div>	
 
 <p><span class="author3-3">NARAIN:</span> The COVID pandemic opened our eyes, but sadly it seems we may have closed them again. During the pandemic, everyone was encouraged to plant vegetables at home, which was a good thing. But once things returned to normal, we stopped doing it and we went back to consuming imported food. The same applies to wo r k i n g f rom home, which reduced pollution and use of petrol. It would have been good to integrate these pra c tices into our development processes and daily habits, to help our people make better use of resources.</p>
@@ -212,9 +212,9 @@ innovation and growth while promoting the prudent use of limited resources?</h3>
 
 
 <div class="wake">
-<h3>From your time at the Leaders in Governance Programme (LGP), is there 
+<h4>From your time at the Leaders in Governance Programme (LGP), is there 
 anything else that you have observed to be useful or interesting? What would you 
-like your counterparts in the Singapore public sector to consider for the future?</h3>
+like your counterparts in the Singapore public sector to consider for the future?</h4>
 </div>	
 
 <p><span class="author1-1">BORA:</span>The leaders we met in our time in Singapore were all very personable—there seems to be a shift in leadership style and approach to policymaking away from the top-down mentality, and it bodes well for the future.</p>
@@ -244,13 +244,13 @@ is a tough challenge. Traditionally, we understand economics in terms of consump
 
 <div class="author">
 	
-<h6>ABOUT THE AUTHORS</h6>	
+<h6>ABOUT THE PARTICIPANTS</h6>	
 
-<p><b>Samheng Bora</b> is Undersecretary of State, Ministry of Commerce, Cambodia.</p>
+<p><b class="author1">Samheng Bora</b> is Undersecretary of State, Ministry of Commerce, Cambodia.</p>
 
-<p><b>Mohibul Hasan Chowdhoury</b> is Deputy Minister of Education, Ministry of Education, People’s Republic of Bangladesh. </p>
+<p><b class="author2">Mohibul Hasan Chowdhoury</b> is Deputy Minister of Education, Ministry of Education, People’s Republic of Bangladesh. </p>
 
-<p><b>Aruna Devi Narain</b> is Judge, Supreme Court of the Republic of Mauritius, and former Vice Chairperson and Rapporteur of the  UN Committee on the Elimination of  Discrimination against Women (CEDAW Committee).</p>
+<p><b class="author3">Aruna Devi Narain</b> is Judge, Supreme Court of the Republic of Mauritius, and former Vice Chairperson and Rapporteur of the  UN Committee on the Elimination of  Discrimination against Women (CEDAW Committee).</p>
 </div>
 <br>
 <br>
