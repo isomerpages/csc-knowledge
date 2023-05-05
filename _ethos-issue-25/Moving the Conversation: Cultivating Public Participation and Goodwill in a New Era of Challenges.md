@@ -108,7 +108,7 @@ font-size: 15px;
 
 
 <div class="break">
-<p class="break1">Public participation is a muscle. People need to be asked to exercise it regularly, and this needs to be a fact of life</p>
+<p class="break1">Public participation is a muscle. People need to be asked to exercise it regularly, and this needs to be a fact of life.</p>
 </div>
 
 <p>You see this in participatory budgeting, where people realise that even in the best case, you only get to play around with about 4% of the total national budget: the rest of it has already been allocated to education, health, housing and so on. And that’s one of the first lessons: to realise how little leeway policymakers have to make these discretionary decisions. To learn how to take responsibility, citizens need to walk a little in decision-makers’  shoes, both to feel empowered, but also to realise what the real constraints are. For instance, as pension reform triggers protests around France, it is striking how little people understand about the constraints on public spending in the future.</p>
