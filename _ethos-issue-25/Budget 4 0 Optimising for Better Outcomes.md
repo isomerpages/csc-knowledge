@@ -11,7 +11,7 @@ span.small
   font-size: 12px;
 }	
 	
-.back a:link
+.back a
 {
 	color: #9f2943;
 	font-weight: bold;
