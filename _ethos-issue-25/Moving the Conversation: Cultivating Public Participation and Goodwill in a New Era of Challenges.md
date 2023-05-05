@@ -89,17 +89,12 @@ font-size: 15px;
 
 <p>It is not just that there is new awareness about the drivers of change, but also that the rate of change is accelerating. It turns out that climate change is speeding up, just like media and technology is, and along with it related challenges such as chronic disease, an ageing population and so on. In this new light, it is no longer enough to tweak policy and tinker at the edges to address issues. Increasingly, a whole-of-society approach is needed to address the challenges that confront us. It is not just good to have everyone on board now: it’s a necessity.</p>
 
-<p>This suggests that we will also need a different kind of language and vocabulary for public discourse. I was part of the UK think tank that came up with the concept of co-creation and co-production in the past, but that was from an old era of affluence and choice. We were inviting people to co-produce their own health outcomes or take ownership of their own diets and so on. There was</p>
+<p>This suggests that we will also need a different kind of language and vocabulary for public discourse. I was part of the UK think tank that came up with the concept of co-creation and co-production in the past, but that was from an old era of affluence and choice. We were inviting people to co-produce their own health outcomes or take ownership of their own diets and so on. There was something empowering about this approach. But we are no longer in the same world. Now we are in a situation where we need to appeal explicitly to people’s sense of responsibility, in an era that is more characterised by necessity and emergency. You wouldn’t talk about 'co-creating' a war effort, for instance. This is about sacrifice in some ways. But I think people can rise to this challenge if they are asked  to play a part for something bigger than themselves.</p>
 
-<div class="break">
-<p class="break1">Increasingly, a whole-of-society approach is needed to address the challenges that confront us.</p>
-</div>
 
 <div class="break">
 <p class="break1">Now we are in a situation where we need to appeal explicitly to people’s sense of responsibility, in an era that is more characterised by necessity and emergency.</p>
 </div>
-
-<p>something empowering about this approach. But we are no longer in the same world. Now we are in a situation where we need to appeal explicitly to people’s sense of responsibility, in an era that is more characterised by necessity and emergency. You wouldn’t talk about 'co-creating' a war effort, for instance. This is about sacrifice in some ways. But I think people can rise to this challenge if they are asked  to play a part for something bigger than themselves. </p>
 
 
 <p>This could also be aspirational: in Singapore, it could be about reframing the story so that Singaporeans are called to contribute their particular expertise not just to the country but also to a changing world, to help solve humanity’s challenges for the future.</p>
