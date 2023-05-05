@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: CSC Knowledge
-description: An Isomer site of the Singapore Government
+description: Empowering our public officers with the skills, insights and
+  inspiration to make a meaningful impact in their roles.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
