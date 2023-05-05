@@ -56,7 +56,7 @@ border-top: 1px solid black;
 
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_gabriellim%2002.jpg">
 </div>
 
 
