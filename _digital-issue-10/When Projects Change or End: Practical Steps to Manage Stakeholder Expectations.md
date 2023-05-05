@@ -87,7 +87,7 @@ font-size: 16px;
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/when_projects_change_or_end_bannerteaser.jpeg">
 </div>
-<br>
+
 
 <p>In our conversations about prioritisation in the workplace, the focus is often on which projects or pieces of work to prioritise, and which to deprioritise, based on organisational aims and requirements. An important but often overlooked aspect of this process is the human perspective: how to manage the expectations of internal and external stakeholders.</p>
 
