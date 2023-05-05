@@ -221,8 +221,7 @@ border-top: 1px solid black;
 <p>For example, a senior leader at a management meeting might make it a point to clarify how a new staff idea could contribute tangibly to the agency’s longer-term plans. What might begin as one simple question could prompt other leaders and officers to think more intentionally about the investment of resources for an idea to achieve the agency’s goals. This is what we mean by a “big small thing” that can make a difference in shifting the way teams or organisations think about their work.</p>
 
 <div class="break">
-<p class="break1">" What we need is to spend time and energy 
-deciding what we will do and what we will not do."</p>
+<p class="break1">What we need is to spend time and energy deciding what we will do and what we will not do.</p>
 </div>
 
 <p>Based on insights from the ILOD Transformation Team’s consultancy work with close to 40 public agencies, we have  developed a <b>S.C.A.L.E. Framework</b> as a practical tool to help leaders and organisations prioritise more effectively by focusing on some big small things, along ﬁve key dimensions: Strategy, Culture, Alignment of processes , Leadership, and Empowerment.</p>
