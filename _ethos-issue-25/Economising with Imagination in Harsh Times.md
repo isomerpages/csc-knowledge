@@ -74,12 +74,6 @@ margin:0px 20px;
 border: 3px solid darkblue;
 }
 	
-
-.numbers li
-{
-	font-size: 16px;
-}
-	
 .orange
 {
   color:#d66a29;
@@ -101,11 +95,7 @@ margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;
 }
-	
-.notestop ol li
-{
-	font-size: 16px;
-}	
+
 	
 	
 </style>
