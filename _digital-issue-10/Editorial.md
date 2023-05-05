@@ -56,7 +56,6 @@ Two researchers from CSC’s Institute of Leadership and Organsiation Developmen
 <p>I wish you an insightful read.</p>
 
 <div class="author">
-<h6>ABOUT THE AUTHOR</h6>
 <b>Dr Alvin Pang</b><br>
 Editor-in-Chief, ETHOS
 </div>	
