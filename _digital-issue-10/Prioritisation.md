@@ -33,7 +33,6 @@ border-top: 1px solid black;
 <div class="background-image">
 <img src="/images/Cropped_images/Ethos_Digital_10/Digital10-01.jpg">
 </div>
-<br>
 
 <p>
 Prioritisation is an ever-present reality that we all face in the Public Service. To generate greater impact and the best public value, we must put our scarce resources to their best use. This often means we have to prioritise how we spend our money, time, and effort.</p>
