@@ -226,12 +226,12 @@ color: white;
 
 <div id="for-more-info">
 <p>For more information on Whole-of-Government productivity tools, visit the Singapore Government Developer Portal:
-<br><a href="go.gov.sg/devportalproductivitytools">go.gov.sg/devportalproductivitytools</a></p><a href="go.gov.sg/devportalproductivitytools">	
-</a></div><a href="go.gov.sg/devportalproductivitytools">
+<br><a href="go.gov.sg/devportalproductivitytools">go.gov.sg/devportalproductivitytools</a></p>
+</div>
 
 
 
 <br><br>
-</a><div class="back"><a href="go.gov.sg/devportalproductivitytools">
+<div class="back"><a href="go.gov.sg/devportalproductivitytools">
 </a><a href="/ethos-issue-25/">Back to Ethos Page</a>	
 </div>
