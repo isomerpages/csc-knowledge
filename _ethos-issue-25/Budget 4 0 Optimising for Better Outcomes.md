@@ -101,9 +101,7 @@ font-size: 12px;
 <h3>ENHANCING NIMBLENESS</h3>
 <p>To better prepare for quicker responses to non-routine, uncertain and emergent problems, the pace of reallocation will be increased through faster evaluation and more efficient allocation of resources. Proposals will be prioritised based on the projects’ risk-scored strategic importance, urgency and innovative value. Efforts spent on evaluation will be commensurate with the resource requirements and risk level of each project. There will also be greater leeway for MOF to time-shift reallocative resource pools across ﬁnancial years to better resource agencies’ needs. This will help cater for unexpected and/or lumpy expenditure requested of our reallocative pools.</p>
 
-<p>For agencies seeking to validate pilot projects at the agency level, resources are available via the Public Service</p>
-
-<p>Transformation and Initiation Budgets. The WOG Public Service Transformation budget is also available for cross-agency pilot projects. Such budgets are intended to foster a culture of experimentation and innovation for incipient projects in the Public Service, anticipating that successful pilots might be scaled up for greater beneﬁt over the medium to long term.</p>
+<p>For agencies seeking to validate pilot projects at the agency level, resources are available via the Public Service Transformation and Initiation Budgets. The WOG Public Service Transformation budget is also available for cross-agency pilot projects. Such budgets are intended to foster a culture of experimentation and innovation for incipient projects in the Public Service, anticipating that successful pilots might be scaled up for greater beneﬁt over the medium to long term.</p>
 
 <p>Since providing speedier funding invariably means giving up some degree of accuracy, additional guardrails have been introduced to ensure greater accountability and effectiveness in the use of such funds. For instance, projects receiving additional funding will be periodically evaluated for viability and outcomes, particularly for large, novel or complex ones. Their resource utilisation will also be tracked in existing and future data platforms, which will allow for data analytics to aid better decision-making, such as for the sizing of future reallocation pools. To facilitate better comparability between projects, inputs for cost-beneﬁt analyses will be standardised to enable better prioritisation of competing needs.</p>
 
@@ -112,10 +110,10 @@ font-size: 12px;
 
 <figure>
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_5.jpg">
-</figure>
-<cite>
-<b>Figure 4.</b> Budgetary Mechanisms for a Nimble Public Service
-</cite>
+
+<figcaption>
+	<b>Figure 4.</b> Budgetary Mechanisms for a Nimble Public Service</figcaption></figure>
+
 
 <div class="break">
 <p class="break1">Optimising the system at a macro-level will be of limited benefit if individual officers are not ready or able to maximise spending effectiveness and outcomes. </p>
