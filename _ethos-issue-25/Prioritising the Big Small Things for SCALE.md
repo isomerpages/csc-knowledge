@@ -367,9 +367,7 @@ space to think and plan, while also taking time to get ground data to assess and
 
 <p>This also means that leaders have the latitude to delegate formal authority, change informal norms and decision-making, and energise those in the levels below. This can be liberating for top leaders—freeing up time to keep track of what’s going on and prioritising well especially as the operating environment becomes increasingly complex. In other words, they can go slow to go fast.</p>
 	
-<p>In our consultancy work, we found that this empowerment can also go further to creating shared understanding.</p>
-
-<p>We have brought people together to share ‘what your world is like’ in various engagement sessions. In one cross-level discussion between senior leaders and middle managers, we created the space for them to share their respective conditions and challenges. At the start, the atmosphere in the room was tentative. Gradually, it became more uplifting as everyone took a small figurative step into one another’s worlds. By the end, there was a shared understanding of the different worlds of experiences in the group. All it took was a big small thing to come together to create shared understanding.</p>
+<p>In our consultancy work, we found that this empowerment can also go further to creating shared understanding. We have brought people together to share ‘what your world is like’ in various engagement sessions. In one cross-level discussion between senior leaders and middle managers, we created the space for them to share their respective conditions and challenges. At the start, the atmosphere in the room was tentative. Gradually, it became more uplifting as everyone took a small figurative step into one another’s worlds. By the end, there was a shared understanding of the different worlds of experiences in the group. All it took was a big small thing to come together to create shared understanding.</p>
 	
 <div class="break">
 <p class="break1">When people are involved in making decisions or have a say in the eventual plans, they are more motivated to see things through.</p>
