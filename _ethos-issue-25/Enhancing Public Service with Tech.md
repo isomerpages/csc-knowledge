@@ -101,6 +101,18 @@ font-size: 15px;
 line-height:22px;
 }		
 	
+.next-steps
+{
+background-color:#12143b;
+padding: 20px;
+color: white;
+}
+	
+.next-steps h3
+{
+	color:#3DB984;
+}
+	
 
 
 	
@@ -176,11 +188,9 @@ line-height:22px;
 
 <p>Recently we rolled out an App Library, which carries many common tools that have been reviewed to ensure they are compliant with our licensing, security, and other needs. Again, by democratising some of these apps, we are encouraging agencies to see what their counterparts are doing with tech, and to adopt some of these ideas and solutions to benefit their own workplaces.</p>
 
-<p>A third approach we are taking is co-developing new solutions with the industry. This also helps optimise our scarce public sector resources—we work with others to build things we may not be able to build ourselves. This stems from our experience in working with key industry players on our Government on Commercial Cloud, including firms like Amazon, Microsoft, and Google. Last year, we ran some industry workshops to publicise some of our key initiatives and invited various players to co-develop solutions with us, to benefit public officers as well as citizens and businesses.</p>
+<p>A third approach we are taking is co-developing new solutions with the industry. This also helps optimise our scarce public sector resources—we work with others to build things we may not be able to build ourselves. This stems from our experience in working with key industry players on our Government on Commercial Cloud, including firms like Amazon, Microsoft, and Google. Last year, we ran some industry workshops to publicise some of our key initiatives and invited various players to co-develop solutions with us, to benefit public officers as well as citizens and businesses.<sup>3</sup></p>
 
-<p>Most importantly, the future workplace is not just about using technologies. Its purpose is to help our officers become more productive and more engaged in their mission, instead of spending time jumping through hoops or dealing with red tape and other unnecessary processes. This is also about retaining people by keeping them engaged with the work they do and creating value for our country and fellow citizens.</p>
-
-
+<div class="next-steps">
 <h3>Next Steps in the Digital Journey</h3>
 <p>Moving forward, GovTech will focus on three key areas.</p>
 
@@ -189,6 +199,13 @@ line-height:22px;
 <p>The second area is our use of data—how we should continue taking in more data, unlocking it, and enabling our public officers to get more value out of it.</p>
 
 <p>The third area is to look at learning on-the-go. How do we use digital means to help people ﬁnd the right mentors or career coaches for their needs? How do we push the right learning materials to officers in a timely, personalised way? In these areas, we are working closely with the Public Service Division to create a talent gateway. We are also collaborating with the Civil Service College on a digital academy to help generate some of the curriculum we will need, both to learn, and to learn on-the-go.</p>
+</div>	
+	
+
+
+<p>Most importantly, the future workplace is not just about using technologies. Its purpose is to help our officers become more productive and more engaged in their mission, instead of spending time jumping through hoops or dealing with red tape and other unnecessary processes. This is also about retaining people by keeping them engaged with the work they do and creating value for our country and fellow citizens.</p>
+
+
 
 
 <div class="author">
