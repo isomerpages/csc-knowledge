@@ -86,8 +86,6 @@ font-size: 16px;
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_BannerTeaser.jpeg">
 </div>
-<br>
-
 <h2>Challenges for a Future-facing Workforce</h2>
 
 <p>In the past, a person’s career has been seen as a series of stepping stones, with time spent at each stone and stage. However, today’s careers are more like running on a moving treadmill. Regardless of age, you must continue to keep pace and learn lest you fall off when you stop.</p>
