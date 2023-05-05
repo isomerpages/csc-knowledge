@@ -130,6 +130,12 @@ color: #645ea9;
 	font-family: "montserrat";	
 	font-size:25px;
 }	
+	
+.author p
+{
+	font-size:15px;
+	line-height:22px;
+}
 
 </style>
 
