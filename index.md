@@ -20,7 +20,7 @@ sections:
       button: See More
       image: /images/Landing_Banner_Images/landingtile_ethos.jpg
       alt: Ethos Digital Edition Issue 25
-      url: /ethos/
+      url: /ethos-issue-25/
   - infopic:
       title: Books
       description: CSC publishes a range of books, from case studies and primers, to
