@@ -33,7 +33,6 @@ border-top: 1px solid black;
 <div class="background-image">
 <img src="/images/Landing_Banner_Images/editorial_landing.jpg">
 </div>
-<br>
 
 <p>
 This issue of ETHOS Digital Edition features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily.</p>
