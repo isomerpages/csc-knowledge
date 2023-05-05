@@ -32,7 +32,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg
 	
 .title h4
 {
-color: #6FBE8A;	
+
 border-bottom: 2px solid #A9414D;
 padding-bottom:20px;
 }
