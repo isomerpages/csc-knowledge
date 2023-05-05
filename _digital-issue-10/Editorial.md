@@ -29,7 +29,7 @@ border-top: 1px solid black;
 </style>
 	
 <div class="background-image">
-<img src="/images/Landing_Banner_Images/editorial_landing.jpg">
+<img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 </div>
 
 <p>
