@@ -144,7 +144,7 @@ border-top: 1px solid black;
 Source: Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisis: How Governments Used Intelligence for Decision Making During the COVID-19 Pandemic”, International Public Policy Observatory, December 2022, p. 6.
 
 <div class="break">
-<p class="break1">"FUNCTIONAL DIVISIONS MAKE IT HARD FOR GOVERNMENTS TO THINK AND ACT HOLISTICALLY, OR TO LOOK IN A ROUNDED WAY AT THE COSTS AND BENEFITS OF ALTERNATIVE ACTIONS."</p>
+<p class="break1">Functional divisions make it hard for governments to think and act holistically, or to look in a rounded way at the costs and benefits of alternative actions.</p>
 </div>
 
 <p>They needed models—for example, to judge if their hospitals were at risk of being overrun. They needed evidence—for example, on whether enforcing mask-wearing would be effective. And they needed to tap into the knowledge of citizens and frontline staff quickly to spot potential problems and frictions.</p>
@@ -161,7 +161,7 @@ Source: Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisi
 <p>There are also implications for how money is organised. Governments are meant to be there for the long term: able to defend their people, guarantee their pensions or cope with big challenges like climate change. Yet they are often trapped by the tyranny of immediate pressures. This is particularly true in relation to finance, which has seen surprisingly few innovations in recent years to better align how government works with what it needs to do.</p>
 
 <div class="break">
-<p class="break1">"IT IS VITAL TO KNOW NOT JUST WHICH AREAS OF SPENDING WILL ACHIEVE THE MOST, BUT ALSO WHICH CUTS COULD BACKFIRE."</p>
+<p class="break1">It is vital to know not just which areas of spending will achieve the most, but also which cuts could backfire.</p>
 </div>
 
 <p>Money is the fuel for much of the daily life of governments, which are often engaged in endless battles over budget allocations and priorities. But the ways in which ﬁnance is organised are at odds with what’s needed in three vitally important ways.</p>
@@ -286,7 +286,7 @@ Finally, there are often options for joining up the work of government in creati
 
 
 <div class="notestop">
-<h6>NOTES:</h6>
+<h6>NOTES</h6>
 <ol>
 	<li>Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisis: How Governments Used Intelligence for Decision Making During the COVID-19 Pandemic”, International Public Policy Observatory, December 2022, accessed February 15, 2023, theippo.co.uk/how-governments-used-intelligence-decision-making-covid19-pandemic</li>
 	
