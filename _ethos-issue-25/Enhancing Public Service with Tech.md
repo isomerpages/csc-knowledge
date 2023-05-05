@@ -85,8 +85,19 @@ font-weight:bold;
 border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
-border-top: 1px solid black;	
+border-top: 1px solid black;
 }
+	
+.author p
+{
+font-size: 15px;	
+}
+	
+.notestop ol li
+{
+font-size: 15px;
+line-height:22px;
+}		
 	
 
 
