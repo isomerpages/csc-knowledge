@@ -127,7 +127,7 @@ margin:20px;
 	
 <p class="subhead"><span>S</span>ustainability is a whole-of-nation endeavour. In 2021, we launched the Singapore Green Plan 2030 (“Green Plan”) and GreenGov.SG to rally collective Saction to tackle climate change, as a nation and within the public sector. GreenGov.SG will raise the bar on sustainability within the public sector in three ways: First, <b>Excel</b> by setting new and more ambitious targets; second, <b>Enable</b> a green economy and citizenry by embedding sustainability in our core business and third, <b>Excite</b> public officers to contribute to sustainability in Singapore.</p>
 
-<p>Under GreenGov.SG, the public sector has committed to several targets, including achieving net zero emissions around 2045, about five years ahead of the national target. Executing the net zero transition will not be easy for Singapore, given our physical constraints and lack of renewable energy resources. So how are we going to achieve these targets?</p>
+<p>Under GreenGov.SG, the public sector has committed to several targets, including achieving net zero emissions around 2045, about five years ahead of the national target.<sup>1</sup> Executing the net zero transition will not be easy for Singapore, given our physical constraints and lack of renewable energy resources. So how are we going to achieve these targets?</p>
 
 <div id="excel">
 <h3>EXCEL</h3>	
@@ -228,7 +228,7 @@ margin:20px;
 
 <p>Through SAN, we hope to encourage more officers to take action for sustainability. For instance, in 2021, we organised a public sector-wide Bring-Your-Own campaign. We wanted to encourage public officers to take small steps to reduce the usage of single-use disposables in their daily habits.</p>
 	
-<p>To provide officers with easy access to GreenGov. SG resources , t h e Public Sector Sustainability Office in MSE has also set up a Resource Portal.2 This one-stop repository consolidates all information and resources related to GreenGov.SG. </p>
+<p>To provide officers with easy access to GreenGov. SG resources , the Public Sector Sustainability Office in MSE has also set up a Resource Portal.<sup>2</sup> This one-stop repository consolidates all information and resources related to GreenGov.SG. </p>
 
 
 <div class="involve">
