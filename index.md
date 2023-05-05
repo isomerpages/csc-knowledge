@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: CSC Knowledge
+title: Civil Service College, Singapore
 description: Empowering our public officers with the skills, insights and
   inspiration to make a meaningful impact in their roles.
 image: /images/isomer-logo.svg
