@@ -43,9 +43,25 @@ border-bottom: 1px solid black;
 margin-top:20px;
 padding-bottom:30px;
 border-top: 1px solid black;
-font-size: 12px;	
+}
+
+.author p
+{
+	font-size: 15px;
+	line-height:24px;
 }
 	
+.notestop ol li
+{
+font-size: 15px;
+line-height:22px;
+}	
+	
+.notestop ul li
+{
+font-size: 15px;
+line-height:22px;
+}		
 
 	
 </style>
@@ -76,13 +92,16 @@ font-size: 12px;
 
 <p>To be better prepared for such challenges, the Ministry of Finance (MOF) is implementing three improvements to Budget 3.0. Collectively, these make up Budget 4.0.</p>
 
-<figure><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_3.jpg"><figcaption>
-	<b>Figure 2.</b> Budget 1.0 to 4.0</figcaption>
-</figure>
-
 <h3>STRENGTHENING REALLOCATION</h3>
 
-<p>The first prong of Budget 4.0 involves strengthening reallocation mechanisms, to allow the shifting of funds from less relevant programmes to emerging and meritorious areas of need. If all our resources were allocated to individual Ministries as block budgets, there would be no room for any reallocation. To reallocate effectively, we need to increase the size of our reallocative resource pools and reduce the size of resource buffers decentralised within individual block budgets and statutory boards. For Ministries, this means a baseline that grows more slowly, resulting in pressures to better manage programme costs and to review the continued relevance of programmes. Statutory boards would retain smaller amounts of monies for near-term operational needs, instead of accumulating large surpluses for asset replacement and acquisition of new assets over the longer term.</p>
+<p>The first prong of Budget 4.0 involves strengthening reallocation mechanisms, to allow the shifting of funds from less relevant programmes to emerging and meritorious areas of need. If all our resources were allocated to individual Ministries as block budgets, there would be no room for any reallocation. To reallocate effectively, we need to increase the size of our reallocative resource pools and reduce the size of resource buffers decentralised within individual block budgets and statutory boards. For Ministries, this means a baseline that grows more slowly, resulting in pressures to better manage programme costs and to review the continued relevance of programmes. Statutory boards would retain smaller amounts of monies for</p> 
+
+<figure><img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_KwaChinLum&amp;KyleGoh_3.jpg"></figure>
+<cite>
+<b>	Figure 2. </b> Budget 1.0 to 4.0
+</cite>
+
+<p>near-term operational needs, instead of accumulating large surpluses for asset replacement and acquisition of new assets over the longer term.</p>
 
 <p>On the manpower front, the Public Service is making broad moves to right-size Ministries’ permanent headcount baselines, to reallocate scarce public sector manpower resources towards new and emerging needs.</p>
 
@@ -147,6 +166,7 @@ font-size: 12px;
 </ol>	
 
 <h6>FURTHER READING:</h6>
+
 <ul>
 <li>Ministry of Finance,  “Occasional Paper on Medium-Term Fiscal Projections”,  February 8, 2023,  accessed February 16, 2023<br><a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf
 </a></li>
