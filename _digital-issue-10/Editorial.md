@@ -5,8 +5,6 @@ description: ""
 image: /images/Cropped_images/Ethos_Digital_10/editorial_landing.jpg
 ---
 <style>
-
-
 	
 .back a
 {
