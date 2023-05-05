@@ -6,7 +6,13 @@ image: /images/Cropped_images/Ethos_Digital_10/Digital10-01.jpg
 ---
 <style>
 
-
+.break1
+{
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
 	
 .back a
 {
