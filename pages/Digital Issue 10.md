@@ -84,7 +84,7 @@ td
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Cropped_images/Ethos_Digital_10/editorial_landing.jpg"></td>
+<td class="img"><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></td>
 
 <td class="text">
 <h3>Editorial </h3>
