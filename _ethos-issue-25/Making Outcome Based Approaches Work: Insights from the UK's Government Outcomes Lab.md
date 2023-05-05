@@ -26,8 +26,10 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg
 	
 .break1
 {
-	font-family: "montserrat";	
-	font-size:25px;
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 	
 .title h4
@@ -116,8 +118,8 @@ font-size: 15px;
 <p>The core idea is what we call an outcome-based approach: we come to an agreement for the provision of a particular activity or service, but we will pay only when a certain level of predeﬁned outcomes has been  achieved. A social impact bond is thus a kind of outcome-based ﬁnancing model based on the presence of an impact investor who is willing to provide the upfront capital to provide the service, which will only be paid ex-post, and only if outcomes have been delivered.</p>
 
 <div class="break">
-<p class="break1">"Outcome-based approaches are most successfully deployed as part of attempts to do things differently because the status quo has not  
-been satisfactory."</p>
+<p class="break1">Outcome-based approaches are most successfully deployed as part of attempts to do things differently because the status quo has not  
+been satisfactory.</p>
 </div>
 
 <p>The idea is that the impact investor will bear the risk in case the pre-agreed outcomes have not been achieved. Given the resource constraints of the public sector, outcome-based contracting is hence, potentially, a good way to make more efficient use of resources, because the government only has to pay when it works. If a programme is successful, and governments pay for the achieved outcomes, the originally invested capital could even be reinvested in the same  or other programmes.</p>
@@ -165,7 +167,7 @@ been satisfactory."</p>
 <p>Even if the logics are clear and in place, there are many different ways to carry out outcome-based contracts. Outcome-based approaches are complex instruments. Not all projects will succeed. Transaction costs can be high, and without clarity of intention and commitment, people can lose patience and then little benefit is gained afterwards. We see that these instruments have been most effective when they are used to adapt, change and build relationships in the field, in order to create a working ecosystem and a learning culture.</p>
 
 <div class="break">
-<p class="break1">"Outcome-based approaches are complex instruments. Not all projects will succeed."</p>
+<p class="break1">Outcome-based approaches are complex instruments. Not all projects will succeed.</p>
 </div>
 
 
@@ -203,7 +205,7 @@ been satisfactory."</p>
 <p>In one example we have seen, two organisations were given the same contract to tackle homelessness in the UK. One used the outcome-based approach to motivate staff to do things differently, and to redefine what good looked like. The other organisation, which was smaller and more dependent on the contract’s paid value, put emphasis on meeting targets. The metrics were the same, but the way they were used to manage staff was different. In one organisation, the emphasis was on learning how to achieve outcomes. In the other, staff seemed more pressured to deliver </p>
 
 <div class="break">
-<p class="break1">"Organisations that are willing to work in a relational fashion seem to make the best use of flexible contractual arrangements. "</p>
+<p class="break1">Organisations that are willing to work in a relational fashion seem to make the best use of flexible contractual arrangements.</p>
 </div>
 
 <p>on targets and demotivated. The same contract was deployed by one organisation to build a culture of learning and to focus on the long term, while the other used it transactionally. This experience teaches us that contractual clauses and technical features of these instruments are only half of the story.</p>
@@ -246,7 +248,7 @@ been satisfactory."</p>
 </div>
 
 <div class="break">
-<p class="break1">" We need to invest in creating a professional norm that emphasises learning and being open to sharing the insights from both what has worked well and what has not. "</p>
+<p class="break1">We need to invest in creating a professional norm that emphasises learning and being open to sharing the insights from both what has worked well and what has not.</p>
 </div>
 
 
