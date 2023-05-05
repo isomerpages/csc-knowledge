@@ -124,14 +124,14 @@ margin:20px;
 <li>Involve them early in discussions on prioritisation. Build alignment on the criteria for prioritisation and clarify their expectations.</li>
 <li>Avoid unhelpful behaviours such as second guessing the boss, trying to look good to supervisors, pandering to what the senior management team wants while disregarding ground reality. These behaviours may lead to suboptimal decisions.</li>
 <li>Seek their input on the possibilities for prioritisation by asking: What are we missing? What are you curious about? What do you want to ask us?</li>
-<li>Management experts Roger Martin and Jennifer Riel offer further tips on how to engage your stakeholders in this <a href="https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders">video</a></li>
+<li>Management experts Roger Martin and Jennifer Riel offer further tips on how to engage your stakeholders in this <a href="https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders">video.<sup>1</sup></a></li>
 </ul>
 
 <h2>Managing Staff
 </h2>
 
 <ul>
-<li>Guide staff through the deprioritisation process. One model that is widely used for change management is <a href="https://www.prosci.com/methodology/adkar">AKDAR</a> Awareness&nbsp;of the need for change;&nbsp;Desire&nbsp;to participate in and support the change;&nbsp;Knowledge&nbsp;on how to change;&nbsp;Ability&nbsp;to implement skills and knowledge;&nbsp;Reinforcement&nbsp;to sustain the change.</li>
+<li>Guide staff through the deprioritisation process. One model that is widely used for change management is <a href="https://www.prosci.com/methodology/adkar">AKDAR</a><sup>2</sup> Awareness&nbsp;of the need for change;&nbsp;Desire&nbsp;to participate in and support the change;&nbsp;Knowledge&nbsp;on how to change;&nbsp;Ability&nbsp;to implement skills and knowledge;&nbsp;Reinforcement&nbsp;to sustain the change.</li>
 <li>Help staff understand why priorities are being re-evaluated, the criteria used, and why their project is being deprioritised.</li>
 <li>Acknowledge that some staff may experience negative emotions and allay their concerns.</li>
 <li>Be clear about what will happen to the project and when. For instance, does deprioritisation mean dropping the project completely, finding alternative resourcing for it, or reducing its scope and level of involvement? Is the deprioritisation supposed to start at once or is it planned for three months down the road?</li>
@@ -145,7 +145,7 @@ margin:20px;
 <ul>
 <li>Engage them early in conversations about the deprioritisation. Help them understand why priorities are being re-evaluated, the criteria used, and why their project is being deprioritised.</li>
 <li>Explore with them how they will be affected, and work with them to discuss a feasible process and timeline for implementing the deprioritisation. For instance, if a service that is currently being provided is to be discontinued in three months’ time, could we explore with them how they might be able to operate without the service? Alternatively, could we work with them to find other resourcing options or gradually decreasing our level of involvement while building up their internal capability to take over the piece of work?</li>
-<li>This <a href="https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication">research article</a> describes project change stakeholder communication practices in two different case contexts, and highlights how effective communication ensures stakeholder participation in the change management processes (see&nbsp;<b>Box story</b> for a summary).</li>
+<li>This <a href="https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication">research article</a><sup>3</sup> describes project change stakeholder communication practices in two different case contexts, and highlights how effective communication ensures stakeholder participation in the change management processes (see&nbsp;<b>Box story</b> for a summary).</li>
 </ul>
 
 <p>In summary, any deprioritisation plan should include some consideration of how to manage the impact on various internal and external stakeholders. Deprioritisation is akin to a change process, and it is important to address not only the technical aspect of the situation but also people’s emotions and expectations. Otherwise, efforts at deprioritisation may be futile or even counterproductive.</p>
