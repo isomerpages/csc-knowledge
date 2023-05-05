@@ -136,7 +136,7 @@ You might think that when it comes to arguments and facts, the marketplace of id
 </div>	
 
 <div class="notes">
-<h6>NOTES</h6>
+<h6>NOTE</h6>
 <ol>
 <li id="num1">A.H. Hastorf, A. H., and H. Cantril, “They Saw a Game: A Case Study”, <em>the Journal of Abnormal and Social Psychology</em>, no. 1 (1954): 129–134.</li>
 
