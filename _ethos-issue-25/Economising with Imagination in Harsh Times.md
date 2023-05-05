@@ -76,16 +76,16 @@ border: 3px solid darkblue;
 	
 .orange
 {
-  color:#d66a29;
+  color:#483f97;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 20px;
 }
 
 .oranges
 {
   color:#d66a29;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 20px;
 }
 	
 .author
@@ -215,7 +215,7 @@ The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero,
 <p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
 <div id="improvising">
-	<p class="improve">PROMPTS FOR ECONOMISING PUBLIC SERVICES</p>
+<p class="improve">PROMPTS FOR ECONOMISING PUBLIC SERVICES</p>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
 
 
