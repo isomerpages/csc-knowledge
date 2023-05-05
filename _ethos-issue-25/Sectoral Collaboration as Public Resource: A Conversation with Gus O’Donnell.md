@@ -227,7 +227,7 @@ together, you might come up with new and very different answers which have every
 <div class="notestop">
 <h6>NOTES:</h6>
 <ol class="note">
-<li>See “Unleashing the Power of Civil Society”, January 2023, accessed March 1, 2023, https://civilsocietycommission.org/publication-unleashing-the-power-of-civil-society/.</li>
+<li>See “Unleashing the Power of Civil Society”, January 2023, accessed March 1, 2023, https://civilsocietycommission.org/publication/unleashing-the-power-of-civil-society/.</li>
 <li>Ibid</li>
 </ol>
 </div>
