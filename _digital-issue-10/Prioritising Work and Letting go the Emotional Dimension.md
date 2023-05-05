@@ -227,7 +227,7 @@ line-height:22px;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<p>by <b>Aurora de Souza Watters</b>&nbsp;is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.</p>
+<p><b>Aurora de Souza Watters</b>&nbsp;is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.</p>
 	
 </div>	
 	
