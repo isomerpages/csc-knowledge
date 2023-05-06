@@ -148,7 +148,7 @@ line-height:22px;
 <figure>
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_2.jpg">
 <figcaption><b>Figure 1.</b> Types of intelligence are mediated and shaped by processes and contextual factors before feeding into decisions.
-Source: Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisis: How Governments Used Intelligence for Decision Making During the COVID-19 Pandemic”, International Public Policy Observatory, December 2022, p. 6.</figcaption></figure>
+<br><small>Source: Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisis: How Governments Used Intelligence for Decision Making During the COVID-19 Pandemic”, International Public Policy Observatory, December 2022, p. 6.</small></figcaption></figure>
 
 <div class="break">
 <p class="break1">Functional divisions make it hard for governments to think and act holistically, or to look in a rounded way at the costs and benefits of alternative actions.</p>
