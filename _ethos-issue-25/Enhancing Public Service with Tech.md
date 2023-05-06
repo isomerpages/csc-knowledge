@@ -223,7 +223,7 @@ color: white;
 
 
 <div id="for-more-info">
-<p>For more information on Whole-of-Government productivity tools, visit the Singapore Government Developer Portal:<br><a href="https://go.gov.sg/devportalproductivitytools">go.gov.sg/devportalproductivitytools</a></p>
+<p>For more information on Whole-of-Government productivity tools, visit the Singapore Government Developer Portal:<br><a target="_blank" href="https://go.gov.sg/devportalproductivitytools">go.gov.sg/devportalproductivitytools</a></p>
 </div>
 
 
