@@ -158,7 +158,7 @@ line-height: 22px;
 <h6>FURTHER READING:</h6>
 <ul>
 <li>Ministry of Finance, “Occasional Paper on Medium-Term Fiscal Projections”,  February 8, 2023,  accessed February 16, 2023, <a target="_blank" href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf">https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf
-</a></li>
+</a>.</li>
 </ul>
 </div>
 	
