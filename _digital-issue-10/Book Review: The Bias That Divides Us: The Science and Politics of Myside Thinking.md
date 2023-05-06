@@ -51,15 +51,20 @@ border-top: 2px solid lightgray;
 	
 .break
 {
-border-bottom: 1px solid black;
-font-weight:bold;
-font-style: italic;
-padding:20px;
-margin:10px;	
-font-size:20px;
-padding-bottom:30px;
-border-top: 1px solid black;	
-}				
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	padding:20px;
+	text-align:center;
+	font-size:30px;
+	margin-top:50px;
+}
+.break1
+{
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}			
 	
 </style>
 	
@@ -68,16 +73,11 @@ border-top: 1px solid black;
 </div>
 
 <h2>Why People See the Same Facts and Come to Different Conclusions</h2>
-<div id="book-review">
-<h4>Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</h4>
-</div>
+
 <br>
 
 <table>
 <tbody>
-<tr>
-<th><b>DETAILS</b></th>
-</tr>	
 <tr>			
 <td id="bias"><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/BookCover.jpg"></td>
 <td id="text"><b>The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</b><br>By Keith Stanovich The MIT Press (2021); 241 pp</td>	
@@ -87,17 +87,16 @@ border-top: 1px solid black;
 </tbody>
 </table>
 
+<br>
+<p>You might think that when it comes to arguments and facts, the marketplace of ideas will separate the wheat from the chaff. You might also be persuaded that presenting people with the facts can help them reason past misinformation and forge consensus on reality.</p>
 
-<p id="you-might">
-You might think that when it comes to arguments and facts, the marketplace of ideas will separate the wheat from the chaff. You might also be persuaded that presenting people with the facts can help them reason past misinformation and forge consensus on reality.</p>
-
-<p>If so, consider a 1954 experiment conducted by psychologists Albert Hastorf and Hadley Cantril,&nbsp;in which they showed a video of a football game between Dartmouth College and Princeton University to students from those schools<sup><a href="#num1">1</a></sup>. The game had been rough—one player left the field with a broken nose and a concussion, another with a broken leg. Rule infractions abounded.</p>
+<p>If so, consider a 1954 experiment conducted by psychologists Albert Hastorf and Hadley Cantril,&nbsp;in which they showed a video of a football game between Dartmouth College and Princeton University to students from those schools.<sup><a href="#num1">1</a></sup> The game had been rough—one player left the field with a broken nose and a concussion, another with a broken leg. Rule infractions abounded.</p>
 
 <p>Hastorf and Cantril asked the students who had started the rough play: Just over a third (36%) of Dartmouth students—compared with the vast majority (86%) of Princetonians—said Dartmouth had started it. In contrast, 2% of Dartmouth students, and none of the Princetonians, said Princeton had started the rough play. Furthermore, 13% of the Dartmouth students and 0% of Princeton students said the game had been “clean and fair”. In contrast, 42% of Dartmouth students and 93% of Princetonians said the game had been “rough and dirty”. The numbers show that seeing the same video did not lead students from the two schools to a consensus. Instead, they reported wildly different takes on the game they saw.</p>
 
 <p>In his 2021 book <em>The Bias that Divides Us: The Science and Politics of Myside Thinking</em>, psychologist Keith Stanovich mentions numerous other examples of people seeing the same evidence and coming to very different conclusions. Sometimes, seeing the same evidence made people less cohesive—people on different sides of an issue became more convinced of their prior opinions! Policymakers who want to know more about how people actually think about information, and wanting to understand why we are so divided on matters that appear to be settled on the facts, need to read this book.</p>
 
-<p>Unlike confirmation bias, in which we look for evidence that suits existing beliefs,<em>myside bias</em> leads us to generate and evaluate evidence “in a manner biased toward our own prior beliefs, opinions, and attitudes”. Myside bias is especially problematic when these prior beliefs are convictions. Stanovich explains that evaluating new information in light of prior beliefs is not necessarily irrational. Scientists do this when they assess the plausibility of a new claim considering what they already know. However, convictions are beliefs based on worldviews (e.g., “the government spends too much on X”) rather than on empirically-verifiable data (e.g., “the government spends $1 billion on X”). We tend to invest our emotions and egos in our convictions, and be especially resistant to making trade-offs against them.</p>
+<p>Unlike confirmation bias, in which we look for evidence that suits existing beliefs, <em>myside bias</em> leads us to generate and evaluate evidence “in a manner biased toward our own prior beliefs, opinions, and attitudes”. Myside bias is especially problematic when these prior beliefs are convictions. Stanovich explains that evaluating new information in light of prior beliefs is not necessarily irrational. Scientists do this when they assess the plausibility of a new claim considering what they already know. However, convictions are beliefs based on worldviews (e.g., “the government spends too much on X”) rather than on empirically-verifiable data (e.g., “the government spends $1 billion on X”). We tend to invest our emotions and egos in our convictions, and be especially resistant to making trade-offs against them.</p>
 
 <br>
 
