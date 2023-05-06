@@ -231,7 +231,7 @@ innovation and growth while promoting the prudent use of limited resources?</h4>
 <p>I see that there is a tendency to celebrate consumerism, which is contributing to a lot of issues, from mental health to environmental degradation. It is not sustainable.</p>
 
 <div class="chow">
-<p class="chow1">What could Singapore do as a more enlightened society to contribute to humanism rather than to hyper-consumerism</p>
+<p class="chow1">What could Singapore do as a more enlightened society to contribute to humanism rather than to hyper-consumerism?</p>
 </div>
 
 <p>Could governments make an effort to sensitise their population on humanism, on charity, on volunteerism? For instance, every citizen in Singapore has wealth and skills that could be shared with the region and with the rest of the world. In this age of the shared economy, instead of having a mentality of always wanting to be the best or having the most, this could broaden the appeal of Singapore beyond being just a place of wealth. What could Singapore do as a more enlightened society to contribute to humanism rather than to hyper-consumerism?</p>
@@ -247,6 +247,7 @@ innovation and growth while promoting the prudent use of limited resources?</h4>
 <p><b class="author2">Mohibul Hasan Chowdhoury</b> is Deputy Minister of Education, Ministry of Education, People’s Republic of Bangladesh. </p>
 
 <p><b class="author3">Aruna Devi Narain</b> is Judge, Supreme Court of the Republic of Mauritius, and former Vice Chairperson and Rapporteur of the  UN Committee on the Elimination of  Discrimination against Women (CEDAW Committee).</p>
+	<p><em>The ETHOS Roundtable was conducted in November 2022 with a group of participants in the 14th Leaders in Governance Programme (LGP). Organised annually by the Civil Service College, the LGP draws from Singapore’s development experience to offer practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the seven-day programme, participants interact with thought leaders, and visit key government agencies to understand their operating philosophies and values.</em></p>
 </div>
 <br>
 <br>
