@@ -35,8 +35,13 @@ border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
-
-}		
+}
+	
+.author p
+{
+	font-size: 15px;
+	line-height:24px;
+}
 	
 #book-review
 {
@@ -132,9 +137,9 @@ border-top: 2px solid lightgray;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<b>Vernie Oliveiro</b> is Principal Researcher at the Institute of Governance and Policy, Civil Service College. Her research interests include the centre of government and digital governance.
+<p class="author.p"><b>Vernie Oliveiro</b> is Principal Researcher at the Institute of Governance and Policy, Civil Service College. Her research interests include the centre of government and digital governance.
 	
-</div>	
+</p></div>	
 
 <div class="notes">
 <h6>NOTE</h6>
