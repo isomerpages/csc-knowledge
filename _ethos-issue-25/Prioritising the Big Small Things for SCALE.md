@@ -216,7 +216,7 @@ line-height:22px;
 
 <p class="subhead"><span>A</span>ll organisations and teams face challenges in prioritisation. This is because workload gain, like weight gain, is insidious. It creeps up on us and is hard to get rid of. We rarely seek to add on more of it, but often ﬁnd ourselves inundated nevertheless.</p>
 
-<p>Our instinct when prioritising is to remove activities that take up time. But prioritising work is not about harnessing the willpower to say no to new things. Nor can we expect to start from a blank slate, like how Shopify cancelled meetings (some 322,000 hours’ worth) to free up time for staff members to get things done.<sup>1</sup></p>
+<p>Our instinct when prioritising is to remove activities that take up time. But prioritising work is not about harnessing the willpower to say no to new things. Nor can we expect to start from a blank slate, like how Shopify cancelled meetings (some 322,000 hours’ worth) to free up time for staff members to get things done.<sup><a href="#num1">1</a></sup></p>
 
 <p>Paradoxically, what we need instead is to spend time and energy deciding what we will do and what we will not do. </p>
 
@@ -413,7 +413,7 @@ space to think and plan, while also taking time to get ground data to assess and
 <div class="notestop">
 <h6>NOTE</h6>
 <ol class="note">
-<li>Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, <a target="_blank" href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity</a>.</li>
+<li id="num1">Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, <a target="_blank" href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity</a>.</li>
 	</ol></div>
 
 <br><br>
