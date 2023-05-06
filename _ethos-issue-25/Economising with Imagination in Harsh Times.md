@@ -106,10 +106,7 @@ font-weight: bold;
 font-weight: normal;	
 }	
 
-#green-box-all ol li
-{
-font-size:16px;	
-}	
+
 	
 .methods ol li
 {
