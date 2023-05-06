@@ -230,7 +230,7 @@ line-height:22px;
 <p class="break1">What we need is to spend time and energy deciding what we will do and what we will not do.</p>
 </div>
 
-<p>Based on insights from the ILOD Transformation Team’s consultancy work with close to 40 public agencies, we have  developed a <b>S.C.A.L.E. Framework</b> as a practical tool to help leaders and organisations prioritise more effectively by focusing on some big small things, along ﬁve key dimensions: Strategy, Culture, Alignment of processes , Leadership, and Empowerment.</p>
+<p>Based on insights from the ILOD Transformation Team’s consultancy work with close to 40 public agencies, we have  developed a <b>S.C.A.L.E. Framework</b> as a practical tool to help leaders and organisations prioritise more effectively by focusing on some big small things, along ﬁve key dimensions: Strategy, Culture, Alignment of processes, Leadership, and Empowerment.</p>
 
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_2.jpg">
 
