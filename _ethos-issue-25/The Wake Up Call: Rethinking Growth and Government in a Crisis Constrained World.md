@@ -160,13 +160,13 @@ border-top: 1px solid black;
 <p><span class="author2-2">CHOWDHOURY:</span> For Bangladesh, the constraint is that even if we can meet the basic food needs of our 170 million people domestically, we cannot make up for it in terms of nutritional value: we can produce all the rice we want, but we still need to ﬁnd sources of protein and other nutrients from elsewhere. As societies develop more complex consumer bases, they also begin to demand more complex ingredients, such as cooking oils which they can’t always produce themselves.</p>
 
 <p>So as much as we should consider a certain degree of self-reliance, we also need to accept and carefully manage the risks of trade. When it comes to multilateral trade, we see that relationships can change, and then where do you go? You need to have several options open, rather than be reliant on only one source, say of your energy or food supply.</p>
-
+<br>
 <div class="wake">
 <h4>What lessons have you drawn from the COVID-19 pandemic on supporting 
 innovation and growth while promoting the prudent use of limited resources?</h4>
 </div>	
 
-<p><span class="author3-3">NARAIN:</span> The COVID pandemic opened our eyes, but sadly it seems we may have closed them again. During the pandemic, everyone was encouraged to plant vegetables at home, which was a good thing. But once things returned to normal, we stopped doing it and we went back to consuming imported food. The same applies to working from home, which reduced pollution and use of petrol. It would have been good to integrate these pra c tices into our development processes and daily habits, to help our people make better use of resources.</p>
+<p><span class="author3-3">NARAIN:</span> The COVID pandemic opened our eyes, but sadly it seems we may have closed them again. During the pandemic, everyone was encouraged to plant vegetables at home, which was a good thing. But once things returned to normal, we stopped doing it and we went back to consuming imported food. The same applies to working from home, which reduced pollution and use of petrol. It would have been good to integrate these practices into our development processes and daily habits, to help our people make better use of resources.</p>
 	
 <p>Some of these pandemic-era practices can help us better manage our resources, our time, and our health—even when we are not living in pandemic mode.</p>
 
