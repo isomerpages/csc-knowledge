@@ -239,7 +239,7 @@ Freezes, efficiency savings (e.g., 5% cuts to pay or opening times), shorter sch
 
 <p class="orange">ECONOMIC RESTRUCTURING</p>
 <ol start="4">
-	<b></b><li><b>Economies of scale</b><br>
+<li><b>Economies of scale</b><br>
 E.g., Aggregating call centres or back-office functions. These have been exaggerated in the past (small governments and municipalities are often just as efficient as big ones) but they can sometimes deliver big savings.
 </li>	
 <b></b><li><b>Economies of scope</b><br>
