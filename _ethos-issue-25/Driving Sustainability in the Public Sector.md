@@ -132,7 +132,7 @@ margin:20px;
 <div id="excel">
 <h3>EXCEL</h3>	
 </div>
-<h4>REALISING A NET ZERO PUBLIC SECTOR</h4>
+<h4>Realising a Net Zero Public Sector</h4>
 	
 <p>We are strengthening the leadership focus on sustainability through the appointment of Ministry-level Chief Sustainability Officers (CSOs) to oversee sustainability matters across Ministry families. As the ﬁrst Government Chief Sustainability Officer (GCSO), I will also be working closely with the Ministry CSOs to develop and coordinate strategies to achieve the public sector’s net zero agenda.</p>
 
@@ -149,7 +149,7 @@ margin:20px;
 
 <p>Green Mark Platinum SLE requirements for government buildings will lead to marked improvements in energy management, indoor air quality, materials and waste management, greenery provisions and building maintenance. In addition, buildings will achieve at least 60% energy savings, compared to the 2005 building code. </p>
 
-<p>One example of a government building that has met the Green Mark Platinum SLE rating is the BCA Braddell Campus, comprising the Academic Tower, Zero Energy Building (ZEB) Plus building and six other blocks.  </p>
+<p>One example of a government building that has met the Green Mark Platinum SLE rating is the BCA Braddell Campus, comprising the Academic Tower, Zero Energy Building (ZEB) Plus building and six other blocks.</p>
 
 <p>The ZEB Plus building has adopted measures such as a hybrid cooling system and a smart user app to provide user control of ceiling fans and lighting intensity. Ceiling fans operating in combination with air-conditioning enable  ambient temperature settings to be raised from 24°C to 26°C whilst maintaining thermal comfort.</p>
 
@@ -161,7 +161,7 @@ margin:20px;
 <div id="enable">
 <h3>ENABLE</h3>	
 </div>
-<h4>EMBEDDING ENVIRONMENTAL SUSTAINABILITY IN OUR CORE BUSINESS</h4>
+<h4>Embedding Environmental Sustainability in Our Core Business</h4>
 	
 <p>We have started to incorporate sustainability features into our public touchpoints. For example, some of our new public libraries have indoor greenery and sustainably sourced furniture. Existing public libraries also hold sustainability-themed workshops and events regularly. In addition, the public sector engages communities to raise awareness on environmental sustainability issues. </p>
 
@@ -214,23 +214,20 @@ margin:20px;
 <div id="excite">
 <h3>EXCITE</h3>	
 </div>
-<h4>NURTURING A CULTURE OF SUSTAINABILITY IN THE PUBLIC SECTOR</h4>
+<h4>Nurturing a Culture of Sustainability in the Public Sector</h4>
 	
 <p>At the core of the public sector are our public officers. If we are serious about achieving net zero, we will need to educate and empower public officers, especially colleagues who are in charge of maintaining our buildings or procurement. We have therefore identiﬁed a list of training courses to upskill them. In addition, we organise regular Communities of Practice and invite subject matter experts to share best practices or their experience with public officers. </p>
 
 <p>Of course, culture building goes beyond capability building. It is also about creating a movement and getting people excited. To date, 286 officers have joined the Sustainability Ambassadors Network (SAN). The SAN was created to raise awareness on sustainability topics, bringing together like-minded individuals who are passionate about sustainability to promote collaboration.</p>
 	
-
-
 <p>Through SAN, we hope to encourage more officers to take action for sustainability. For instance, in 2021, we organised a public sector-wide Bring-Your-Own campaign. We wanted to encourage public officers to take small steps to reduce the usage of single-use disposables in their daily habits.</p>
 	
-<p>To provide officers with easy access to GreenGov. SG resources , the Public Sector Sustainability Office in MSE has also set up a Resource Portal.<sup>2</sup> This one-stop repository consolidates all information and resources related to GreenGov.SG. </p>
+<p>To provide officers with easy access to GreenGov. SG resources, the Public Sector Sustainability Office in MSE has also set up a Resource Portal.<sup>2</sup> This one-stop repository consolidates all information and resources related to GreenGov.SG. </p>
 
-
+<br>
 <div class="involve">
 <h5>Involving Public Officers in Sustainability Efforts</h5>
-<p>A total of 1,161 officers participated in the Public Sector Bring-Your-Own (P.S. BYO!) campaign in 2021. The campaign saw officers exploring ways to reduce 
-the use of disposables in their daily habits, such as bringing their tumbler, reusable cutlery and bags for food or grocery runs.</p>
+<p>A total of 1,161 officers participated in the Public Sector Bring-Your-Own (P.S. BYO!) campaign in 2021. The campaign saw officers exploring ways to reduce the use of disposables in their daily habits, such as bringing their tumbler, reusable cutlery and bags for food or grocery runs.</p>
 
 <p>MSE also organised a recycling campaign called “Sustainability Starts with M(s)E” in 2021. Over the course of three months, more than 500 MSE family officers took part in the campaign. A post-campaign survey found that 78% of respondents expressed conﬁdence in recycling, which was a 28% increase from before the campaign.</p>	
 	
