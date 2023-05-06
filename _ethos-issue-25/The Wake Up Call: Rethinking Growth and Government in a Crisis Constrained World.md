@@ -136,9 +136,9 @@ border-top: 1px solid black;
 </style>
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Bora,Chowdhoury,%20Narain.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_bora_chowdhoury_narain%2002.jpg">
 </div>
-	
+
 <div class="wake">
 <h4>In the wake of COVID-19, geopolitical conflict, economic volatility and climate concerns, what in your view are the most pressing challenges facing the public sector today?</h4>
 </div>	
