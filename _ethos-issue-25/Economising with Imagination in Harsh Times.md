@@ -223,7 +223,10 @@ The Public Pound Multiplier
 
 <p>Most economists are familiar with economies of scale and scope, but much less familiar with notions of relational economies, or economies of ﬂow, or economies of penetration, which should be part of their armoury. The framework also points to more lateral ways of saving money—for example, asking where new kinds of public commitment can be mobilised, or where transparency can reduce costs.</p>
 
+<p>To make this practical, I like working with small groups of frontline staff or managers to generate options under each of the twelve headings (see Table below), and then to assess which ones were viable in the short, medium or long term. Most groups can quickly generate options for achieving 10%, 20% or 50% savings, including very radical ones.</p>
+
 <p>Sometimes it is best to start off by helping people to become familiar with the approach by taking a live example—such as rural bus services, libraries or nursery education—and showing the options under each heading. Then some shared grounding in current data (e.g., costs, unit costs, etc.) can be brought in to help sharpen the discussion, and lead to more speciﬁc proposals. </p>
+
 
 <p>Public services notoriously suffer from what’s sometimes called ‘Baumol’s disease’. Because productivity is hard to increase in ﬁelds like classroom teaching or running a theatre, the relative costs of public services tend to increase over time. Methods such as this are at least a partial and healthier alternative to the assumption that hard times must always bring about damaging cuts.</p>
 
