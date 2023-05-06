@@ -139,7 +139,7 @@ border-top: 2px solid lightgray;
 <div class="notes">
 <h6>NOTE</h6>
 <ol>
-<li id="num1">A.H. Hastorf, A. H., and H. Cantril, “They Saw a Game: A Case Study”, <em>the Journal of Abnormal and Social Psychology</em>, no. 1 (1954): 129–134.</li>
+<li id="num1">A.H. Hastorf, A. H., and H. Cantril, “They Saw a Game: A Case Study”, <em>The Journal of Abnormal and Social Psychology</em>, no. 1 (1954): 129–134.</li>
 
 
 
