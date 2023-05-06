@@ -237,7 +237,7 @@ font-size: 15px;
 	
 <p>INDIGO seeks to digitise and make accessible all empirical evidence on outcome-based contracts, as well as papers, reports and evaluations that provide credible empirical insights on how the outcome-based approach works. The aim is to bring evidence to bear in public sector decision-making, as well as to capture and promote institutional learning about this approach globally.</p>	
 
-<p>For more information, see: <a href="https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/"><b>https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/</b></a></p>	
+<p>For more information, see: <a target="_blank" href="https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/">https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/</a></p>	
 	
 </div>
 
@@ -246,11 +246,11 @@ font-size: 15px;
 <h4>A Culture of Learning</h4>
 </div>
 
-<p>For the civil servant looking to implement good outcome-based approaches, we have found that it is important to have a mindset of wanting to learn and being open to being wrong. In public sector work, the narrative is often about success and failure. That is the wrong narrative. Whether or not a programme delivers what is expected, we should ask: why did it or why did it not do so? </p>
+<p>For the civil servant looking to implement good outcome-based approaches, we have found that it is important to have a mindset of wanting to learn and being open to being wrong. In public sector work, the narrative is often about success and failure. That is the wrong narrative. Whether or not a programme delivers what is expected, we should ask: why did it or why did it not do so?</p>
 
 <p>This also implies that when government agencies contract out for a service, they should also always acquire the resultant data. This is where the real insights are, but all too often these stay with the organisations providing the service. When we buy a service, we should also buy the learning, and that learning should be shared.</p>
 
-<p>We need to bring back learning as a key objective, because the world is not static, and neither are societal problems. We need to have an incurably curious mind that continually asks: If this intervention works, I wonder how long it will work for? And if it doesn’t, why not? Centring learning also allows us to open up and  say: Something that has worked  elsewhere or worked in the past didn’t work in this situation—why is that?</p>
+<p>We need to bring back learning as a key objective, because the world is not static, and neither are societal problems. We need to have an incurably curious mind that continually asks: If this intervention works, I wonder how long it will work for? And if it doesn’t, why not? Centring learning also allows us to open up and say: Something that has worked  elsewhere or worked in the past didn’t work in this situation—why is that?</p>
 
 <p>So often in the public sector there is a culture of blame, and of ﬂying low. We need to invest in creating a professional norm that emphasises learning and being open to sharing the insights from both what has worked well and what has not. We could begin by anonymising the case examples, while emphasising the ethical need to share the learning. </p>
 
