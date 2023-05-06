@@ -27,4 +27,4 @@ permalink: /privacy/
 <ol type="a">
 <li>For any enquires or feedback on our data protection policies and procedures, &nbsp;</li>
 <li>If you require more information on or access to the data which you have earlier provided to us.</li>
-</ol>	
+</ol>
