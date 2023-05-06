@@ -226,8 +226,7 @@ innovation and growth while promoting the prudent use of limited resources?</h4>
 
 <p>In my work with the CEDAW (UN Convention on the Elimination of Discrimination against Women) Committee, we have reviewed so-called developed countries which are often much vaunted internationally, and score highly on happiness indices and so on, but when we review the data, we ﬁnd that some of their policies can have an adverse impact on citizens’ mental health. Because everyone has to conform to this model of being good, healthy, and perfect, those who are not as good may have mental health issues, and this is an aspect which many of us do not see and to which I would respectfully draw the attention of my Singaporean counterparts.</p>
 
-<p><span class="author2-2">CHOWDHOURY:</span>  Quantification
-is a tough challenge. Traditionally, we understand economics in terms of consumption and p roduc tion and therefore there is a financial  quantiﬁcation of what is growth, what is wellbeing.But what about deﬁning, redeﬁning welfare, or happiness in non-ﬁnancial terms? For instance, might we learn to be happy without being a conformist individual chasing after material aspirations and being in an elite talent pool?</p>
+<p><span class="author2-2">CHOWDHOURY:</span>  Quantification is a tough challenge. Traditionally, we understand economics in terms of consumption and production and therefore there is a financial quantiﬁcation of what is growth, what is wellbeing. But what about deﬁning, redeﬁning welfare, or happiness in non-ﬁnancial terms? For instance, might we learn to be happy without being a conformist individual chasing after material aspirations and being in an elite talent pool?</p>
 
 <p>I see that there is a tendency to celebrate consumerism, which is contributing to a lot of issues, from mental health to environmental degradation. It is not sustainable.</p>
 
