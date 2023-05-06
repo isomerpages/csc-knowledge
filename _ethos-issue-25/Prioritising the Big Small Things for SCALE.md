@@ -415,10 +415,6 @@ space to think and plan, while also taking time to get ground data to assess and
 <ol class="note">
 <li>Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, <a target="_blank" href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity</a>.
 
-
-
-<br>
-<br>
-<div class="back"><a target="_blank" href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">
-</a><a href="/ethos-issue-25/">Back to Ethos Page</a>	
-</div></li></ol></div>
+	<br>
+<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+</li></ol></div>
