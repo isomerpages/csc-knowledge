@@ -223,12 +223,12 @@ The Public Pound Multiplier
 
 <p class="orange">TRADITIONAL TOOLS</p>
 <ol>
-	<li><b>Pure economies</b><br>
+	<b></b><li><b>Pure economies</b><br>
 Stopping doing things (e.g., fewer bin collections, closing rail lines and bus services, closing libraries)</li>	
-	<li><b>Economies of trimming</b><br>
+	<b></b><li><b>Economies of trimming</b><br>
 Freezes, efficiency savings (e.g., 5% cuts to pay or opening times), shorter school days
 </li>
-	<li><b>Economies of delay</b><br>
+	<b></b><li><b>Economies of delay</b><br>
 		To capital, pay rises, procurement, maintenance, improvements</li>
 
 </ol>
@@ -237,16 +237,16 @@ Freezes, efficiency savings (e.g., 5% cuts to pay or opening times), shorter sch
 
 <p class="orange">ECONOMIC RESTRUCTURING</p>
 <ol start="4">
-	<li><b>Economies of scale</b><br>
+	<b></b><li><b>Economies of scale</b><br>
 E.g., Aggregating call centres or back-office functions. These have been exaggerated in the past (small governments and municipalities are often just as efficient as big ones) but they can sometimes deliver big savings.
 </li>	
-	<li><b>Economies of scope</b><br>
+<b></b><li><b>Economies of scope</b><br>
 E.g., Combining multiple functions in one-stop shops, multipurpose personal advisers, neighbourhood media, extending roles, standardised identiﬁcation or payments. Much recent digital innovation has essentially helped with this—such as Estonia’s X-road platform or India’s Aadhaar.</li>
-	<li><b>Economies of ﬂow and prevention</b><br>
-	E.g., Hospitals specialising in a few operations and so improving efficiency, cutting bottlenecks or easing transitions, for example out of prison or from school into work. A related concept is reducing failure demand (such as recidivism or hospitals with repeated re-admissions), helped by tools like outcome-based funding or investing in preventive health. Many of the greatest costs in public systems accumulate around blocked ﬂows of this kind.
+	<b></b><li><b>Economies of ﬂow and prevention</b><br>
+E.g., Hospitals specialising in a few operations and so improving efficiency, cutting bottlenecks or easing transitions, for example out of prison or from school into work. A related concept is reducing failure demand (such as recidivism or hospitals with repeated re-admissions), helped by tools like outcome-based funding or investing in preventive health. Many of the greatest costs in public systems accumulate around blocked ﬂows of this kind.
 </li>
-<li><b>Economies of penetration</b><br>
-	These are economies that result from concentrating a service or cluster of services in a locality. In energy, this can be done by Combined Heat and Power schemes, and in housing, often through roles such as street concierges.
+<b></b><li><b>Economies of penetration</b><br>
+These are economies that result from concentrating a service or cluster of services in a locality. In energy, this can be done by Combined Heat and Power schemes, and in housing, often through roles such as street concierges.
 </li>
 </ol>
 
@@ -254,11 +254,11 @@ E.g., Combining multiple functions in one-stop shops, multipurpose personal advi
 
 <p class="orange">REVISED SOCIAL CONTRACTS</p>
 <ol start="8">
-	<li><b>Economies of responsibility involve passing responsibility out to citizens</b><br>
+<b></b><li><b>Economies of responsibility involve passing responsibility out to citizens</b><br>
 E.g. For COVID self-testing, separating out waste, or self-packing as supermarkets shifted the role of packing from paid staff to customers.
 </li>	
 	
-<li><b>Economies of commitment and relational economies</b><br>
+<b></b><li><b>Economies of commitment and relational economies</b><br>
 These are economies that ﬂow from shifting tasks to more committed providers, or ones with a sense of relationship. This can apply to professional social work and care, but also to making the most of the community, for example using volunteer bus drivers for marginal rural bus services or organising neighbours to watch out for people with dementia.</li>
 
 </ol>
@@ -267,18 +267,18 @@ These are economies that ﬂow from shifting tasks to more committed providers, 
 
 <p class="oranges">SMART TOOLS</p>
 <ol start="10">
-	<li><b>Economies of visibility come from mobilising public eyes and the power of shame</b><br>
+<b></b><li><b>Economies of visibility come from mobilising public eyes and the power of shame</b><br>
 E.g., Making parliamentarian’s expenses more public and reducing them; the same principle applies to public contracts of all kinds.
 </li>	
 	
-<li><b>Economies from data sharing</b><br>
+<b></b><li><b>Economies from data sharing</b><br>
 Open data enabling innovation, competition and new models (as has happened in ﬁnance, energy and transport, where much has been learned about the value of open data—for example, opening public transport data to enable new apps, or opening up banking data to third parties to prompt innovation).</li>
 
 </ol>
 
 <p class="oranges">JOINED-UP THINKING</p>
 <ol start="12">
-	<li><b>Economies of doubling up</b><br>
+<b></b><li><b>Economies of doubling up</b><br>
 Finally, there are often options for joining up the work of government in creative ways, promoting actions that address two problems or needs simultaneously (such as training up the young unemployed to work on home retroﬁt programmes).</li>	
 	
 </ol>
@@ -299,7 +299,7 @@ Finally, there are often options for joining up the work of government in creati
 <div class="notestop">
 <h6>NOTES</h6>
 <ol>
-	<li>Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisis: How Governments Used Intelligence for Decision Making During the COVID-19 Pandemic”, International Public Policy Observatory, December 2022, accessed February 15, 2023, theippo.co.uk/how-governments-used-intelligence-decision-making-covid19-pandemic</li>
+	<li>Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisis: How Governments Used Intelligence for Decision Making During the COVID-19 Pandemic”, International Public Policy Observatory, December 2022, accessed February 15, 2023, <a target="_blank" href="theippo.co.uk/how-governments-used-intelligence-decision-making-covid19-pandemic">theippo.co.uk/how-governments-used-intelligence-decision-making-covid19-pandemic</a></li>
 	
 <li>Geoff Mulgan, “Net Zero: Mobilising Knowledge for Easier, Effective Decision Making”,International Public Policy Observatory, January 9, 2023, accessed February 15, 2023, https://theippo.co.uk/net-zero-mobilising-knowledge-easier-effective-decision-making/.</li> 
 
