@@ -20,7 +20,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg
 #improvising
 {
 background-color:	#1cb0a1;
-padding: 20px;
+padding: 30px;
 color: white;
 }	
 	
@@ -80,6 +80,14 @@ border: 3px solid darkblue;
 	font-weight: bold;
 	font-size: 20px;
 }
+	
+.orange ol li
+{
+  font-weight:bold;       
+}
+
+	
+	
 	
 .methods ol li
 {
@@ -183,7 +191,7 @@ line-height:22px;
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_3.jpg">
 <figcaption><b>Figure 2.</b>
 The Public Pound Multiplier
-	<br><small>Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero, et al., “Anticipatory Public Budgeting: Adapting Public Finance for the Challenges of the 21st Century”, UAE Global Innovation Council, 2021, p. 22.</small> </figcaption></figure>
+<br><small>Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero, et al., “Anticipatory Public Budgeting: Adapting Public Finance for the Challenges of the 21st Century”, UAE Global Innovation Council, 2021, p. 22.</small> </figcaption></figure>
 
 <p>The related problem is the lack of effective ways to link inputs and outputs and outcomes, so that governments can be clear how different spending choices will achieve results over time. Again, there have been many attempts to evaluate the impacts of different programmes and interventions. But no government uses data systematically to tag the intended objectives of spending, of the beneficiary geography or population groups, in ways that would then make it possible to learn systematically, or to train machine learning tools in future.</p>
 
