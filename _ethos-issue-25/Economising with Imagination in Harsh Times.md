@@ -23,8 +23,15 @@ background-color:	#1cb0a1;
 padding: 30px;
 color: white;
 }	
+
+#green-box-improvise
+{
+background-color:	#1cb0a1;
+padding: 30px;
+color: white;
+}		
 	
-.blue-head-text 
+.blue-head-text-improvise
 {
 color:#483f97;
 font-size:25px;
@@ -90,7 +97,11 @@ font-weight: bold;
 {
 font-weight: normal;	
 }	
-	
+
+#green-box ol li
+{
+font-size:16px;	
+}	
 	
 .methods ol li
 {
@@ -125,7 +136,7 @@ line-height:22px;
 <img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_geoffmulgan_1%2002.jpg">
 </div>
 
-<p class="subhead"><span>T</span>here is much debate globally about how the accumulation of crises—economic, ecological, political and around energy—now amount to a polycrisis. Whether or not they are as connected as some believe, there is no doubting the pressure they are putting on public services across the world. Governments generally responded well to the COVID-19 pandemic, showing great agility. But one legacy of the pandemic is fiscal overstretch—and sharp constraints on resources which make it even harder to respond to the new crises. Meanwhile geopolitical pressures are pushing up spending on defence, which means even less resources available for other purposes.</p>
+<p class="subhead"><span>T</span>here is much debate globally about how the accumulation of crises—economic, ecological, political and around energy—now amount to a <em>polycrisis.</em> Whether or not they are as connected as some believe, there is no doubting the pressure they are putting on public services across the world. Governments generally responded well to the COVID-19 pandemic, showing great agility. But one legacy of the pandemic is fiscal overstretch—and sharp constraints on resources which make it even harder to respond to the new crises. Meanwhile geopolitical pressures are pushing up spending on defence, which means even less resources available for other purposes.</p>
 
 
 <p>So can governments adapt, and refashion their shape, processes and cultures to more turbulent times—the times that Xi Jinping often describes as “changes unseen in a century”? </p>
@@ -142,12 +153,12 @@ line-height:22px;
 </div>
 
 <h3>INTELLIGENCE AS A CORE TASK OF GOVERNMENT</h3>
-<p>Governments have always relied on intelligence to do their work. But whereas in the past this was thought about primarily in relation to enemies and threats, espionage and war, they now need to think systematically about intelligence in relation to everyday tasks, from transport to healthcare, welfare to education</p>
+<p>Governments have always relied on intelligence to do their work. But whereas in the past this was thought about primarily in relation to enemies and threats, espionage and war, they now need to think systematically about intelligence<sup><a href="num1">1</a></sup> in relation to everyday tasks, from transport to healthcare, welfare to education</p>
 
 <p>This became very apparent during the pandemic. As I showed in a recent study of how governments—and the societies around them—mobilised intelligence to handle the COVID-19 pandemic and its effects, the last few years brought an explosion of innovation in new ways to organise intelligence.  The pandemic was an unprecedented event in its global impacts and in the scale of government responses and required a myriad of policy decisions: about testing, lockdowns, masks, school closures, visiting rules at care homes and vaccinations. All of these depended on inputs of intelligence including data, evidence, models, tacit knowledge, foresight, and creativity and innovation.</p>
 
-<div id="green-box">
-<p class="blue-head-text">IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</p>
+<div id="green-box-improvise">
+<p class="blue-head-text-improvise">IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</p>
 
 <p>During the pandemic, Taiwan’s ‘Digital Fencing System’ monitored locations based on triangulating a phone’s position relative to nearby telephone masts. </p>
 
