@@ -147,7 +147,7 @@ line-height:22px;
 <p>This became very apparent during the pandemic. As I showed in a recent study of how governments—and the societies around them—mobilised intelligence to handle the COVID-19 pandemic and its effects, the last few years brought an explosion of innovation in new ways to organise intelligence.  The pandemic was an unprecedented event in its global impacts and in the scale of government responses and required a myriad of policy decisions: about testing, lockdowns, masks, school closures, visiting rules at care homes and vaccinations. All of these depended on inputs of intelligence including data, evidence, models, tacit knowledge, foresight, and creativity and innovation.</p>
 
 <div id="improvising">
-<p class="improve">IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</p>
+<h3 class="improve">IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</h3>
 
 <p>During the pandemic, Taiwan’s ‘Digital Fencing System’ monitored locations based on triangulating a phone’s position relative to nearby telephone masts. </p>
 
