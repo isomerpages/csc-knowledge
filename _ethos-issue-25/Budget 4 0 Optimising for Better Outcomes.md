@@ -77,7 +77,7 @@ line-height: 22px;
 		<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_kwachinlum&amp;kylegoh_2%2002.png"><figcaption><b>Figure 1.</b> Government Spending as % of GDP</figcaption></figure>
 
 	
-<p></p><p>Expenditure on government policies has been increasing signiﬁcantly with time: from 15.0% of GDP in FY2006–2010 to 18.1% of GDP in FY2016–2020. This has been funded sustainably through increasing taxes and a Net Investment Returns spending framework that strikes a fair balance between the interests of today and tomorrow. However, we anticipate pressures for public expenditure to continue rising. Geopolitical uncertainty and lessons learnt from the COVID pandemic will increase the size of government and expenditure on resilience. Our ageing population and slowing resident labour force growth will limit the amount of revenues we collect, while requiring greater expenditure on healthcare and social security. In the longer term, economic growth is expected to plateau, further limiting revenue growth.</p>
+<p>Expenditure on government policies has been increasing signiﬁcantly with time: from 15.0% of GDP in FY2006–2010 to 18.1% of GDP in FY2016–2020. This has been funded sustainably through increasing taxes and a Net Investment Returns spending framework that strikes a fair balance between the interests of today and tomorrow. However, we anticipate pressures for public expenditure to continue rising. Geopolitical uncertainty and lessons learnt from the COVID pandemic will increase the size of government and expenditure on resilience. Our ageing population and slowing resident labour force growth will limit the amount of revenues we collect, while requiring greater expenditure on healthcare and social security. In the longer term, economic growth is expected to plateau, further limiting revenue growth.</p>
 
 <p>Meanwhile, problems faced by the Government have been growing in complexity and scope: these will require multi-agency collaboration, such as for digitalisation, social service delivery, and workforce and skills development. Without an agreed method for providing resources for managing cross-cutting issues amongst the various agencies working on them, policy development and implementation may be impeded. Thus, there is a need for greater upstream intervention to allow cross-agency budgeting for agencies to achieve their collective goals.</p>
 
@@ -149,7 +149,7 @@ line-height: 22px;
 
 <br>	
 <div class="notestop">
-<h6>NOTE:</h6>
+<h6>NOTE</h6>
 <ol>
 <li>Examples of such policy responses to address the pandemic include: the Jobs Support Scheme, the Care and Support Package, the COVID-19 Recovery Grant, the Jobs Growth Incentive, SGUnited Jobs and Skills, Rental Relief and Cash Grant and so on. Together, they helped Singapore avoid long-term scarring from COVID-19. For more information, please see "Assessment of the Impact of Key COVID-19 Budget Measures", published by the Ministry of Finance (MOF) on 17 February 2022.
 </li>
@@ -157,7 +157,7 @@ line-height: 22px;
 
 <h6>FURTHER READING:</h6>
 <ul>
-<li>Ministry of Finance,  “Occasional Paper on Medium-Term Fiscal Projections”,  February 8, 2023,  accessed February 16, 2023<br><a href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf.">https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf
+<li>Ministry of Finance, “Occasional Paper on Medium-Term Fiscal Projections”,  February 8, 2023,  accessed February 16, 2023, <a target="_blank" href="https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf">https://www.mof.gov.sg/docs/default-source/default-document-library/news-and-publications/featured-reports/occasional-paper-(ﬁnal).pdf
 </a></li>
 </ul>
 </div>
