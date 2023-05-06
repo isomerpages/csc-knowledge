@@ -19,15 +19,13 @@ image: /images/Ethos_Images/Ethos_Digital_Issue_10/LettingGo_banner-teaser.jpeg
 	
 .break
 {
-border-bottom: 1px solid black;
-font-weight:bold;
-font-style: italic;
-padding:20px;
-margin:10px;	
-font-size:20px;
-padding-bottom:30px;
-border-top: 1px solid black;	
-}			
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	padding:20px;
+	text-align:center;
+	font-size:30px;
+	margin-top:50px;
+}
 
 .point img
 {
