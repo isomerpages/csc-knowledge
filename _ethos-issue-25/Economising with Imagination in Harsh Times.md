@@ -161,7 +161,7 @@ line-height:22px;
 </div>
 
 <h3>INTELLIGENCE AS A CORE TASK OF GOVERNMENT</h3>
-<p>Governments have always relied on intelligence to do their work. But whereas in the past this was thought about primarily in relation to enemies and threats, espionage and war, they now need to think systematically about intelligence<sup><a href="num1">1</a></sup> in relation to everyday tasks, from transport to healthcare, welfare to education</p>
+<p>Governments have always relied on intelligence to do their work. But whereas in the past this was thought about primarily in relation to enemies and threats, espionage and war, they now need to think systematically about intelligence<sup><a href="#num1">1</a></sup> in relation to everyday tasks, from transport to healthcare, welfare to education</p>
 
 <p>This became very apparent during the pandemic. As I showed in a recent study of how governments—and the societies around them—mobilised intelligence to handle the COVID-19 pandemic and its effects, the last few years brought an explosion of innovation in new ways to organise intelligence.  The pandemic was an unprecedented event in its global impacts and in the scale of government responses and required a myriad of policy decisions: about testing, lockdowns, masks, school closures, visiting rules at care homes and vaccinations. All of these depended on inputs of intelligence including data, evidence, models, tacit knowledge, foresight, and creativity and innovation.</p>
 
@@ -229,7 +229,7 @@ The Public Pound Multiplier
 
 <p>But all these focus primarily on fiscal balance sheets. Few analyse rates of return on the assets they hold (or organise national registers of assets). Even less use is made of intangible measures in the public sector, though these are now routinely measured in the private sector, or balance sheets taking account of human or natural capital.</p>
 
-<p>As a result, these fall far short of what’s needed, which is a 20-year programme to realign public ﬁnance with the priorities of the period. That will involve mapping all spending in terms of likely impacts over time and tagging spending data with data on purposes. It will rarely be possible to turn these into a return on investment (ROI) ﬁgure, but greater clarity on what is intended to be achieved, for example, for R&amp;D or education, and then learning from results, is vital for governments to be effective in the decades ahead.<sup><a href="3">3</a></sup></p>
+<p>As a result, these fall far short of what’s needed, which is a 20-year programme to realign public ﬁnance with the priorities of the period. That will involve mapping all spending in terms of likely impacts over time and tagging spending data with data on purposes. It will rarely be possible to turn these into a return on investment (ROI) ﬁgure, but greater clarity on what is intended to be achieved, for example, for R&amp;D or education, and then learning from results, is vital for governments to be effective in the decades ahead.<sup><a href="#num3">3</a></sup></p>
 
 <p>This will be even more vital as hard choices have to be made about what to protect, what to cut and what to expand. Without some sense of likely impacts over time, governments will make even more arbitrary decisions and will be even more at risk of boomerang effects of the kind that the UK has suffered, with strong evidence now that cuts in the early 2010s have had disastrous effects later in the decade on everything, from life expectancy to productivity.</p>
 
