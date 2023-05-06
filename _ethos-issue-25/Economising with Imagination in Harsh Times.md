@@ -176,10 +176,12 @@ line-height:22px;
 <p>First, there is a common failure of time horizons and investment. Spending on physical assets and investments in infrastructures are appraised using rigorous investment methods: i.e., by analysing the link between present day costs and long-term returns from buildings, roads, airports, etc. By contrast, most spending on people—which includes most public spending on health, education and social security—is organised on an annual basis, and without any attempts to look at long-term impacts or returns.</p>
 
 <p>Yet people now often last longer than infrastructures. For example, for children born in 2020, the average life expectancy in OECD countries is over 80. There have been many attempts to gather more systematic evidence on the returns to preventive spending, or the multiplier effects of investment in early years or for that matter research and development. But none of these are integrated into budget setting procedures.</p>
+
 <figure>
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_3.jpg">
 <figcaption><b>Figure 2.</b>
-The Public Pound Multiplier Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero, et al., “Anticipatory Public Budgeting: Adapting Public Finance for the Challenges of the 21st Century”, UAE Global Innovation Council, 2021, p. 22. </figcaption></figure>
+The Public Pound Multiplier
+	<br><small>Source: Geoff Mulgan, Silva Mertsola, Mikael Sokero, et al., “Anticipatory Public Budgeting: Adapting Public Finance for the Challenges of the 21st Century”, UAE Global Innovation Council, 2021, p. 22.</small> </figcaption></figure>
 
 <p>The related problem is the lack of effective ways to link inputs and outputs and outcomes, so that governments can be clear how different spending choices will achieve results over time. Again, there have been many attempts to evaluate the impacts of different programmes and interventions. But no government uses data systematically to tag the intended objectives of spending, of the beneficiary geography or population groups, in ways that would then make it possible to learn systematically, or to train machine learning tools in future.</p>
 
