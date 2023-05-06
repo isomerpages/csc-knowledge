@@ -37,42 +37,34 @@ border-top: 1px solid black;
 	font-weight: bold;
 }
 
-	
-.author1 
+		
+.author
 {
-color: #F68A20;
-}
-
-.author2
-{
-color: #F05050;
-}
-	
-.author3 
-{
-color: #645ea9;
-}
-	
-.wake
-{
+border-bottom: 1px solid black;
 margin-top:20px;
+padding-bottom:30px;
+border-top: 1px solid black;
+font-size: 12px;	
 }
-
-.wake h3
-{
-color: #1C8A6F
-}		
 
 .author p
 {
-	font-size:15px;
-	line-height:22px;
+font-size:15px;
+line-height: 22px;
+}
+	
+.notestop ol li
+{
+	font-size: 15px;
+	line-height:22px
 }
 
-.notestop
+.notestop ul li
 {
-font-size: 15px;	
+	font-size: 15px;
+	line-height:22px
 }	
+
 	
 	
 </style>
