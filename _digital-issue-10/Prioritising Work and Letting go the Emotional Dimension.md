@@ -99,7 +99,8 @@ line-height:22px;
 </ul>	
 
 
-<div class="break"><p>Cutting out-of-date, less important, historic, or no longer useful projects can be easier said than done.</p></div>
+<div class="break">
+<p class="break1">Cutting out-of-date, less important, historic, or no longer useful projects can be easier said than done.</p></div>
 
 <h3>Emotional connection to the project</h3>
 <p>Some projects have been with us for so long that it becomes a part of who we are. To get rid of it would mean changing ourselves! As a researcher, I jokingly refer to my research projects as “my babies”. While I don't actually view them as my children, it represents the emotional connection I have with them. Each project is a labour of love—I have devoted time and effort to them, and I feel proud of what I have produced.</p>
@@ -116,7 +117,8 @@ line-height:22px;
 
 <p>Consciously or unconsciously, such changes can make us question our worth as staff. Instead, we should learn to delink our self-worth from specific projects, realise that we can continue to contribute, by learning how best to apply our expertise and efforts given the new priorities.</p>
 
-<div class="break"><p>Our self-worth can become tied to the projects we work on, to which we have given our best efforts.</p></div>
+<div class="break">
+<p class="break1">Our self-worth can become tied to the projects we work on, to which we have given our best efforts.</p></div>
 
 <h3>It feels like a waste of the time and energy already spent</h3>
 
@@ -128,7 +130,8 @@ line-height:22px;
 
 <p>By letting go of what no longer best serves us, we open ourselves up to new opportunities to succeed. We may have learnt better what to do or not do next time, or have a better idea who best to partner with, or how to design a more effective intervention.</p>
 
-<div class="break"><p>By letting go of what no longer best serves us, we open ourselves up to new opportunities to succeed.</p></div>
+<div class="break">
+	<p class="break1">By letting go of what no longer best serves us, we open ourselves up to new opportunities to succeed.</p></div>
 
 
 <h3>Fear of the unknown and of novel projects</h3>
@@ -140,7 +143,8 @@ line-height:22px;
 <p>In contrast, sitting with uncertainty or facing up to change is unpleasant and anxiety-inducing for many of us. We ask ourselves: Do I have what it takes to succeed with the new projects? Will I lose control of the work I do? Will I end up with more work? Will I still have a role at all? This fear of the unknown and uncertain is common but it holds us back from growth, nevertheless.</p>
 
 
-<div class="break"><p>Change often means leaving behind what is comfortable and what we are accustomed to, for a future that has neither roadmap nor guarantees</p></div>
+<div class="break">
+<p class="break1">Change often means leaving behind what is comfortable and what we are accustomed to, for a future that has neither roadmap nor guarantees.</p></div>
 
 <h2>Let It Go!</h2>
 
@@ -185,7 +189,8 @@ line-height:22px;
 <p>This can be useful if the project has to end prematurely or does not conclude as originally envisioned. Even if the end point has not been reached, we can still identify what else we have gained from the experience.</p>
 
 
-<div class="break"><p>When we start projects and form teams, we often forget to conceptualise the end of the project.</p>
+<div class="break">
+<p class="break1">When we start projects and form teams, we often forget to conceptualise the end of the project.</p>
 </div>
 
 <h3>Look for the learning</h3>
@@ -209,7 +214,8 @@ line-height:22px;
 
 <p>This also means all projects are opportunities for growth and development—a chance to hone new skills or receive new insights—which can help reduce the anxiety we may face when approaching new initiatives or unknown circumstances.</p>
 
-<div class="break"><p>We should plan for learning from the start of our projects, and put processes in place to support learning along the way.</p>
+<div class="break">
+<p class="break1">We should plan for learning from the start of our projects, and put processes in place to support learning along the way.</p>
 </div>
 
 <h3>Tie up loose ends and get closure</h3>
