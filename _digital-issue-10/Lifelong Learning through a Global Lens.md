@@ -6,7 +6,6 @@ image: /images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_BannerTeaser
 ---
 <style>
 
-
 .break
 {
    border-top: 1px solid  black;
@@ -116,13 +115,11 @@ line-height:22px;
 
 <p>In the past, a person’s career has been seen as a series of stepping stones, with time spent at each stone and stage. However, today’s careers are more like running on a moving treadmill. Regardless of age, you must continue to keep pace and learn lest you fall off when you stop.</p>
 
-<p>Singapore’s latest labour market report indicates that there are more job vacancies than there are job seekers. The number of job vacancies has increased over the past two years, hitting a new high of 128,100 in March 2022<sup><a href="#num1">1</a></sup>. This may have been an outcome of the ‘Great Resignation’: a global trend of people quitting their jobs since the start of the COVID-19 pandemic to seek better work-life balance after a prolonged period of working remotely without commuting<sup><a href="#num2">2</a></sup>.&nbsp; Anecdotally, I have found, from LinkedIn, that many of my connections have been moving to new jobs recently.</p>
+<p>Singapore’s latest labour market report indicates that there are more job vacancies than there are job seekers. The number of job vacancies has increased over the past two years, hitting a new high of 128,100 in March 2022.<sup><a href="#num1">1</a></sup> This may have been an outcome of the ‘Great Resignation’: a global trend of people quitting their jobs since the start of the COVID-19 pandemic to seek better work-life balance after a prolonged period of working remotely without commuting.<sup><a href="#num2">2</a></sup> Anecdotally, I have found, from LinkedIn, that many of my connections have been moving to new jobs recently.</p>
 
-<p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see <b>Table 1.</b>)<sup><a href="#num3">3</a></sup></p>	
+<p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see <b>Table 1</b>).<sup><a href="#num3">3</a></sup></p>	
 
-<div class="table1">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table1.JPG">
-</div>
 
 <p>Adopting a mindset of lifelong learning is imperative to addressing the issue of skills mismatch. Singapore has made considerable strides towards the development of lifelong learning with our national movement, SkillsFuture Singapore, seeking to change how people view skills, jobs and learning. Singapore wants to develop a culture of lifelong learning, where people get satisfaction in life from learning at every stage regardless of where they start, satisfaction from mastering the skills, and satisfaction from being part of a community of learners. As the late Mr Lee Kuan Yew put it in his 1977 speech in Parliament, “an educated man is a man who never stops learning and wants to learn”.<sup><a href="#num4">4</a></sup></p>
 
@@ -137,18 +134,13 @@ line-height:22px;
 	<li><b>A</b>dapting Education</li>
 </ul>
 
-
-
-
 <h2>Appropriate Balance Between Training and Work</h2>
 
 <p>With the half-life of skills shortening, training is essential to allow every worker to expand their knowledge base, stay current, and enhance their job abilities. This is how they can be more productive in the workplace, helping them to stay employable and their companies to thrive. Research has shown that for up to three years following training,<sup><a href="#num6">6</a></sup>&nbsp;business revenue is on average 0.7% higher for every 10% of the local workforce that was supported for training. Furthermore, our enterprises’ labour productivity has increased by 2.2% on average annually for two years.<sup><a href="#num7">7</a></sup></p>
 
 <p>In Singapore, our study on Continuing Education and Training<sup><a href="#num8">8</a></sup>&nbsp;also shows that a majority of business leaders report observing positive changes in their workers post-training (<b>see Table 2</b>), such as higher working performance (84.2%), the ability to do additional or new job responsibilities (85.1%), and enhanced knowledge (87.6%).</p>
 
-<div class="table1">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table2.JPG">
-</div>
 
 <p>However, only 50.9% of business leaders had sent their workers for training in the past six months. Out of those who did send workers for training, on average only 33.6% of their workforce in the company attended the training. This suggests that 66.4% of workers in the company were missing out on training. Employers must find the appropriate balance between training and work for their workers, tilting towards greater workforce readiness, relevance, and resilience.</p>
 
