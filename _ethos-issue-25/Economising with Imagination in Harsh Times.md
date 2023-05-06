@@ -80,13 +80,6 @@ border: 3px solid darkblue;
 	font-weight: bold;
 	font-size: 20px;
 }
-
-.oranges
-{
-  color:#483f97;
-	font-weight: bold;
-	font-size: 20px;
-}
 	
 .methods ol li
 {
@@ -232,7 +225,7 @@ The Public Pound Multiplier
 
 <p class="orange">TRADITIONAL TOOLS</p>
 <ol>
-	<b></b><li><b>Pure economies</b><br>
+<li><b>Pure economies</b><br>
 Stopping doing things (e.g., fewer bin collections, closing rail lines and bus services, closing libraries)</li>	
 	<b></b><li><b>Economies of trimming</b><br>
 Freezes, efficiency savings (e.g., 5% cuts to pay or opening times), shorter school days
@@ -274,7 +267,7 @@ These are economies that ﬂow from shifting tasks to more committed providers, 
 
 <p>Next come some ways of using digital to cut unnecessary costs.</p>
 
-<p class="oranges">SMART TOOLS</p>
+<p class="orange">SMART TOOLS</p>
 <ol start="10">
 <b></b><li><b>Economies of visibility come from mobilising public eyes and the power of shame</b><br>
 E.g., Making parliamentarian’s expenses more public and reducing them; the same principle applies to public contracts of all kinds.
@@ -285,7 +278,7 @@ Open data enabling innovation, competition and new models (as has happened in �
 
 </ol>
 
-<p class="oranges">JOINED-UP THINKING</p>
+<p class="orange">JOINED-UP THINKING</p>
 <ol start="12">
 <b></b><li><b>Economies of doubling up</b><br>
 Finally, there are often options for joining up the work of government in creative ways, promoting actions that address two problems or needs simultaneously (such as training up the young unemployed to work on home retroﬁt programmes).</li>	
