@@ -74,20 +74,16 @@ margin:0px 20px;
 border: 3px solid darkblue;
 }
 	
-.orange
+.title h4
 {
   color:#483f97;
 	font-weight: bold;
-	font-size: 20px;
 }
 	
 .orange ol li
 {
   font-weight:bold;       
 }
-
-	
-	
 	
 .methods ol li
 {
@@ -227,14 +223,14 @@ The Public Pound Multiplier
 <p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
 <div id="improvising">
-<p class="improve">PROMPTS FOR ECONOMISING PUBLIC SERVICES</p>
+<h3 class="improve">PROMPTS FOR ECONOMISING PUBLIC SERVICES</h3>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
 
 
-<p class="orange">TRADITIONAL TOOLS</p>
+<h4 class="title">TRADITIONAL TOOLS</h4>
 <ol>
-<li><b>Pure economies</b><br>
-Stopping doing things (e.g., fewer bin collections, closing rail lines and bus services, closing libraries)</li>	
+<li>Pure economies<br>
+<span>Stopping doing things (e.g., fewer bin collections, closing rail lines and bus services, closing libraries)</span></li>	
 	<b></b><li><b>Economies of trimming</b><br>
 Freezes, efficiency savings (e.g., 5% cuts to pay or opening times), shorter school days
 </li>
@@ -245,7 +241,7 @@ Freezes, efficiency savings (e.g., 5% cuts to pay or opening times), shorter sch
 
 <p>We then move onto less familiar ground, using a more creative economic lens to think about how a service could be reorganised. Much of the digital economy has grown by applying similar ideas to everything from shopping to dating.</p>
 
-<p class="orange">ECONOMIC RESTRUCTURING</p>
+<h4 class="title">ECONOMIC RESTRUCTURING</h4>
 <ol start="4">
 <li><b>Economies of scale</b><br>
 E.g., Aggregating call centres or back-office functions. These have been exaggerated in the past (small governments and municipalities are often just as efficient as big ones) but they can sometimes deliver big savings.
@@ -262,7 +258,7 @@ These are economies that result from concentrating a service or cluster of servi
 
 <p>Next come options that involve a renegotiation of the implicit contracts between states and citizens.</p>
 
-<p class="orange">REVISED SOCIAL CONTRACTS</p>
+<h4 class="title">REVISED SOCIAL CONTRACTS</h4>
 <ol start="8">
 <b></b><li><b>Economies of responsibility involve passing responsibility out to citizens</b><br>
 E.g. For COVID self-testing, separating out waste, or self-packing as supermarkets shifted the role of packing from paid staff to customers.
@@ -275,7 +271,7 @@ These are economies that ﬂow from shifting tasks to more committed providers, 
 
 <p>Next come some ways of using digital to cut unnecessary costs.</p>
 
-<p class="orange">SMART TOOLS</p>
+<h4 class="title">SMART TOOLS</h4>
 <ol start="10">
 <b></b><li><b>Economies of visibility come from mobilising public eyes and the power of shame</b><br>
 E.g., Making parliamentarian’s expenses more public and reducing them; the same principle applies to public contracts of all kinds.
@@ -286,7 +282,7 @@ Open data enabling innovation, competition and new models (as has happened in �
 
 </ol>
 
-<p class="orange">JOINED-UP THINKING</p>
+<h4 class="title">JOINED-UP THINKING</h4>
 <ol start="12">
 <b></b><li><b>Economies of doubling up</b><br>
 Finally, there are often options for joining up the work of government in creative ways, promoting actions that address two problems or needs simultaneously (such as training up the young unemployed to work on home retroﬁt programmes).</li>	
