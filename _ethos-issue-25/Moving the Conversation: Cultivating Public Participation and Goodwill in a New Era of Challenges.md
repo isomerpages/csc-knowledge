@@ -69,7 +69,7 @@ color: #1C8A6F
 	line-height:22px;
 }
 
-.notestop ol li
+.notestop
 {
 font-size: 15px;	
 }	
