@@ -74,16 +74,23 @@ margin:0px 20px;
 border: 3px solid darkblue;
 }
 	
-.title h4
+.title
 {
   color:#483f97;
 	font-weight: bold;
+	font-size: 20px;
 }
 	
-.orange ol li
+#improvising ol
 {
-  font-weight:bold;       
+font-weight: bold;	
 }
+
+#improvising li span
+{
+font-weight: normal;	
+}	
+	
 	
 .methods ol li
 {
@@ -223,69 +230,71 @@ The Public Pound Multiplier
 <p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
 <div id="improvising">
-<h3 class="improve">PROMPTS FOR ECONOMISING PUBLIC SERVICES</h3>
+<p class="improve">PROMPTS FOR ECONOMISING PUBLIC SERVICES</p>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
 
 
-<h4 class="title">TRADITIONAL TOOLS</h4>
+<p class="title">TRADITIONAL TOOLS</p>
+	
 <ol>
 <li>Pure economies<br>
 <span>Stopping doing things (e.g., fewer bin collections, closing rail lines and bus services, closing libraries)</span></li>	
-	<b></b><li><b>Economies of trimming</b><br>
-Freezes, efficiency savings (e.g., 5% cuts to pay or opening times), shorter school days
+<li>Economies of trimming<br>
+<span>Freezes, efficiency savings (e.g., 5% cuts to pay or opening times), shorter school days</span>
 </li>
-	<b></b><li><b>Economies of delay</b><br>
-		To capital, pay rises, procurement, maintenance, improvements</li>
+<li>Economies of delay<br>
+<span>To capital, pay rises, procurement, maintenance, improvements</span>
+			</li>
 
 </ol>
 
 <p>We then move onto less familiar ground, using a more creative economic lens to think about how a service could be reorganised. Much of the digital economy has grown by applying similar ideas to everything from shopping to dating.</p>
 
-<h4 class="title">ECONOMIC RESTRUCTURING</h4>
+<p class="title">ECONOMIC RESTRUCTURING</p>
 <ol start="4">
-<li><b>Economies of scale</b><br>
-E.g., Aggregating call centres or back-office functions. These have been exaggerated in the past (small governments and municipalities are often just as efficient as big ones) but they can sometimes deliver big savings.
+<li>Economies of scale<br>
+<span>E.g., Aggregating call centres or back-office functions. These have been exaggerated in the past (small governments and municipalities are often just as efficient as big ones) but they can sometimes deliver big savings.</span>
 </li>	
-<b></b><li><b>Economies of scope</b><br>
-E.g., Combining multiple functions in one-stop shops, multipurpose personal advisers, neighbourhood media, extending roles, standardised identiﬁcation or payments. Much recent digital innovation has essentially helped with this—such as Estonia’s X-road platform or India’s Aadhaar.</li>
-	<b></b><li><b>Economies of ﬂow and prevention</b><br>
-E.g., Hospitals specialising in a few operations and so improving efficiency, cutting bottlenecks or easing transitions, for example out of prison or from school into work. A related concept is reducing failure demand (such as recidivism or hospitals with repeated re-admissions), helped by tools like outcome-based funding or investing in preventive health. Many of the greatest costs in public systems accumulate around blocked ﬂows of this kind.
+<li>Economies of scope<br>
+<span>E.g., Combining multiple functions in one-stop shops, multipurpose personal advisers, neighbourhood media, extending roles, standardised identiﬁcation or payments. Much recent digital innovation has essentially helped with this—such as Estonia’s X-road platform or India’s Aadhaar.</span></li>
+<li>Economies of ﬂow and prevention<br><span>
+E.g., Hospitals specialising in a few operations and so improving efficiency, cutting bottlenecks or easing transitions, for example out of prison or from school into work. A related concept is reducing failure demand (such as recidivism or hospitals with repeated re-admissions), helped by tools like outcome-based funding or investing in preventive health. Many of the greatest costs in public systems accumulate around blocked ﬂows of this kind.</span>
 </li>
-<b></b><li><b>Economies of penetration</b><br>
-These are economies that result from concentrating a service or cluster of services in a locality. In energy, this can be done by Combined Heat and Power schemes, and in housing, often through roles such as street concierges.
+<li>Economies of penetration<br>
+<span>These are economies that result from concentrating a service or cluster of services in a locality. In energy, this can be done by Combined Heat and Power schemes, and in housing, often through roles such as street concierges.</span>
 </li>
 </ol>
 
 <p>Next come options that involve a renegotiation of the implicit contracts between states and citizens.</p>
 
-<h4 class="title">REVISED SOCIAL CONTRACTS</h4>
+<p class="title">REVISED SOCIAL CONTRACTS</p>
 <ol start="8">
-<b></b><li><b>Economies of responsibility involve passing responsibility out to citizens</b><br>
-E.g. For COVID self-testing, separating out waste, or self-packing as supermarkets shifted the role of packing from paid staff to customers.
+<li>Economies of responsibility involve passing responsibility out to citizens<br>
+<span>E.g. For COVID self-testing, separating out waste, or self-packing as supermarkets shifted the role of packing from paid staff to customers.</span>
 </li>	
 	
-<b></b><li><b>Economies of commitment and relational economies</b><br>
-These are economies that ﬂow from shifting tasks to more committed providers, or ones with a sense of relationship. This can apply to professional social work and care, but also to making the most of the community, for example using volunteer bus drivers for marginal rural bus services or organising neighbours to watch out for people with dementia.</li>
+<li>Economies of commitment and relational economies<br><span>
+These are economies that ﬂow from shifting tasks to more committed providers, or ones with a sense of relationship. This can apply to professional social work and care, but also to making the most of the community, for example using volunteer bus drivers for marginal rural bus services or organising neighbours to watch out for people with dementia.</span></li>
 
 </ol>
 
 <p>Next come some ways of using digital to cut unnecessary costs.</p>
 
-<h4 class="title">SMART TOOLS</h4>
+<p class="title">SMART TOOLS</p>
 <ol start="10">
-<b></b><li><b>Economies of visibility come from mobilising public eyes and the power of shame</b><br>
-E.g., Making parliamentarian’s expenses more public and reducing them; the same principle applies to public contracts of all kinds.
+<li>Economies of visibility come from mobilising public eyes and the power of shame<br><span>
+E.g., Making parliamentarian’s expenses more public and reducing them; the same principle applies to public contracts of all kinds.</span>
 </li>	
 	
-<b></b><li><b>Economies from data sharing</b><br>
-Open data enabling innovation, competition and new models (as has happened in ﬁnance, energy and transport, where much has been learned about the value of open data—for example, opening public transport data to enable new apps, or opening up banking data to third parties to prompt innovation).</li>
+<li>Economies from data sharing<br>
+<span>Open data enabling innovation, competition and new models (as has happened in ﬁnance, energy and transport, where much has been learned about the value of open data—for example, opening public transport data to enable new apps, or opening up banking data to third parties to prompt innovation).</span></li>
 
 </ol>
 
-<h4 class="title">JOINED-UP THINKING</h4>
+<p class="title">JOINED-UP THINKING</p>
 <ol start="12">
-<b></b><li><b>Economies of doubling up</b><br>
-Finally, there are often options for joining up the work of government in creative ways, promoting actions that address two problems or needs simultaneously (such as training up the young unemployed to work on home retroﬁt programmes).</li>	
+<li>Economies of doubling up<br>
+<span>Finally, there are often options for joining up the work of government in creative ways, promoting actions that address two problems or needs simultaneously (such as training up the young unemployed to work on home retroﬁt programmes).</span></li>	
 	
 </ol>
 
