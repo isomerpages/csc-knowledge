@@ -125,17 +125,16 @@ line-height: 22px;
 
 <p>The next decade will be dominated by three trends—what fellow economist Mark Carney and I have framed as the 3 Ds—Digitisation, Decarbonisation and Deglobalisation. These will require us to think differently about what we do, but it is clear this will be a future in which government will be required to do more.</p>
 
-
 <p>For instance, in the coming decade, we are going to see countries spending a lot more on defence, as the world is becoming more insecure. Private sector delivery of goods and services has also become more data-based and efficient, raising people’s expectations of service delivery in general.</p>
 
 <p>This means the government’s share of GDP is expected to rise. In the private sector, you’re paying for these better services. But in the public sector, there’s a limit to how much you can meet these higher expectations purely through tax-based public funding. In countries like the UK, for instance, it’s taboo to even think about market pricing for healthcare services because of perceived inequalities in affordability.</p>
-
-<p>So, increasing demands on the public sector are not going to go away, but there is a limit to how much public funds we can raise through taxation. The question is how we are going to manage both the demand for and supply of government services. We will have to get much more efficient in what we do and ﬁnd better ways of doing the same things, because we cannot just keep throwing money at problems.</p>
 
 <div class="break">
 <p class="break1">We will have to get much more 
 efficient in what we do and find better ways of doing the same things, because we cannot just keep throwing money at problems.</p>
 </div>
+
+<p>So, increasing demands on the public sector are not going to go away, but there is a limit to how much public funds we can raise through taxation. The question is how we are going to manage both the demand for and supply of government services. We will have to get much more efficient in what we do and ﬁnd better ways of doing the same things, because we cannot just keep throwing money at problems.</p>
 
 <h4>How should governments think differently about their longer-term resource concerns?</h4>
 
@@ -145,7 +144,7 @@ efficient in what we do and find better ways of doing the same things, because w
 
 <p>One issue we have to come to grips with is that volunteering generates no income and will not show up in GDP. This is one reason why we should not judge societal success by GDP growth rates. For instance, parents who decide to stay at home and look after their children are doing something valuable, yet it is going to hit GDP as opposed to them going into traditional employment. We need to bear in mind that if they do go to work and pay for childcare, there will be a lot more taxes generated compared to if they stay at home. So there are public finance implications to thinking this way, which will need to be factored in.</p>
 
-<p>But more and more, we see countries a round the world tr ying to f ind  better alternatives to GDP, with some referring to happiness indices. I don’t use happiness much: as a species, we are evolutionarily guided towards immediate, short-term happiness and away from worrying about the long term. Instead, we should be thinking about how people can do the right things to lead worthwhile, satisfying lives over the long run.</p>
+<p>But more and more, we see countries around the world trying to find better alternatives to GDP, with some referring to happiness indices. I don’t use happiness much: as a species, we are evolutionarily guided towards immediate, short-term happiness and away from worrying about the long term. Instead, we should be thinking about how people can do the right things to lead worthwhile, satisfying lives over the long run.</p>
 
 <p>Doing this would also reduce demands on the public sector. For instance, if we improve people’s diets, get them exercising, stop them smoking and so on, we keep people healthy, give them a better quality of life, and also reduce pressure on healthcare resources. This would also feed back into people being more productive, which improves the tax base with more resources to meet other needs.</p>
 
@@ -160,8 +159,7 @@ how people can do the right things to lead worthwhile, satisfying lives over the
 
 <p>The social sector has value that is distinct from public services. A government can generally only make standardised, broad provisions. But for many issues, you have to be very local—you have to think about a community’s or an individual’s unique needs. You need people who know the ground: who really needs help and who doesn’t. It’s not about legislation but local knowledge, and that’s a comparative advantage of the social sector.</p>
 
-<div class="break">
-<p class="break1">"A lot of the conversations we have are about whether 
+<div class="break"><p class="break1">"A lot of the conversations we have are about whether 
 something should be done by the government or the private sector, and we leave out the social sector completely."</p>
 </div>
 
