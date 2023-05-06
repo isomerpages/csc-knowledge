@@ -388,7 +388,7 @@ space to think and plan, while also taking time to get ground data to assess and
 
 
 <div id="ilod">
-<p>ILOD’s Transformation Team  can help your agency  realise its strategy, sustain  performance, and build a healthier organisation. It offers consultancy support for:</p>
+<p>ILOD’s Transformation Team can help your agency realise its strategy, sustain performance, and build a healthier organisation. It offers consultancy support for:</p>
 
 <ul>
 	<li>Organisation transformation and change management</li>
@@ -413,7 +413,7 @@ space to think and plan, while also taking time to get ground data to assess and
 <div class="notestop">
 <h6>NOTE</h6>
 <ol class="note">
-<li>Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity.
+<li>Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, <a target="_blank" href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity</a>.
 
 
 
