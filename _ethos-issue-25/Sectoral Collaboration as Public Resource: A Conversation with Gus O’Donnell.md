@@ -195,6 +195,7 @@ something should be done by the government or the private sector, and we leave o
 <p>Now, anyone who has worked in the public sector would tell you that working across departmental boundaries is the hardest thing. This is unlike the private sector where it’s unimaginable for the CEO to sit alone as the decision maker while some other committee does the work for him, to come along and just say yes or no. They would do it together.</p>
 
 <p>Governments should be thinking much more about cross-departmental teams that break down functional barriers, with all the key people at the table. For example, civil servants might analyse what is going on, give the best facts, saying what we can do to help and what our constraints are, so that the politicians can have a good evidence base. The political leadership can then talk about the kind of solutions they have in mind, and the officials could then respond in turn to what could or could not work. But that’s just step one.</p>
+
 <div class="break">
 <p class="break1">If you put all three sectors in a room to solve issues together, you might come up with new and very different answers which have everybody contributing, as opposed to it just being a government problem.</p></div>
 
