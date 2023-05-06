@@ -88,6 +88,14 @@ border: 3px solid darkblue;
 	font-size: 20px;
 }
 	
+.blue-head-text
+{
+color:#483f97;
+font-size:25px;
+font-weight:bold;
+}
+		
+	
 #green-box ol
 {
 font-weight: bold;	
