@@ -187,7 +187,7 @@ innovation and growth while promoting the prudent use of limited resources?</h4>
 <p><span class="author2-2">CHOWDHOURY:</span> Self-sufficiency is the agenda in many governments. The public sector can frame policy or set the goals, say to produce our own goods, but in our experience, that alone has not worked. In Bangladesh, we needed the dynamism of the private sector—the sectors that grew our economy were not on our public sector’s policy agenda.</p>
 
 <div class="chow">
-<p class="chow1">The mindset change is to shift from ruling to serving-not to run everything from the centre.</p>
+<p class="chow1">The mindset change is to shift from ruling to serving—not to run everything from the centre.</p>
 </div>
 
 <p>Now, once the private sector takes up these growth sectors, the public sector can catch up with it, and resolve issues as they come along, such as reducing red tape. What we in the public sector need to understand is that innovation and enterprise are going to come from private initiatives, and we must try to assist them rather than try and do it by ourselves. Instead, we should focus on key areas of national importance, such as food security, and leave value-adding to private enterprise.</p>
