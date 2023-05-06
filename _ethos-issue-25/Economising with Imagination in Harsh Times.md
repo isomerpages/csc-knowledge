@@ -17,7 +17,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg
 	width:100%;
 }
 	
-#green-box
+#green-box-all
 {
 background-color:	#1cb0a1;
 padding: 30px;
@@ -96,17 +96,17 @@ font-weight:bold;
 }
 		
 	
-#green-box ol
+#green-box-all ol
 {
 font-weight: bold;	
 }
 
-#green-box li span
+#green-box-all li span
 {
 font-weight: normal;	
 }	
 
-#green-box ol li
+#green-box-all ol li
 {
 font-size:16px;	
 }	
@@ -251,7 +251,7 @@ The Public Pound Multiplier
 
 <p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
-<div id="green-box">
+<div id="green-box-all">
 	
 <p class="blue-head-text">PROMPTS FOR ECONOMISING PUBLIC SERVICES</p>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
