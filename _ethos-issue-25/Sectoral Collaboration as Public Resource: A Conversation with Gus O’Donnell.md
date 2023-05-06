@@ -118,9 +118,8 @@ line-height: 22px;
 </style>
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_gusodonnell%2002.jpg">
 </div>
-
 	
 <h4>Why is public resourcing going to be an important concern for governments in future?</h4>
 
