@@ -98,9 +98,9 @@ font-size: 15px;
 </style>
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_maraairoldi%2002.jpg">
 </div>
-	
+
 <h3>Introduction</h3>
 
 <p>The Government Outcomes Lab is a research programme based at Oxford’s Blavatnik School of Government.<sup>1</sup> It started in 2016 as a partnership between the UK Government and the University of Oxford, to look at ways to tackle complex social and environmental issues by working collaboratively across sectors. In today’s hybrid environment, public services are no longer just delivered by the public sector. Instead, we now see a multiplicity of actors, including the private sector, impact investors, non-profit organisations, voluntary groups and social enterprises. This is enriching, but also challenging: how do you bring them together to work effectively towards shared goals?</p>
