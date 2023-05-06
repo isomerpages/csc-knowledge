@@ -251,11 +251,10 @@ margin:20px;
 
 
 <div class="notestop">
-<h6>NOTES:</h6>
+<h6>NOTE</h6>
 <ol class="note">
-<li>This will be contingent on the progress of technologies and international cooperation to enable mitigation measures.</li>
-<li>GreenGov.SG Resource Portal (website), February 15, 2023, https://gccprod.sharepoint.com/sites/MSE-GreenGovSG-MST. (This link can only be viewed on the Singapore goverment intranet.)</li>
-</ol>
+<li>GreenGov.SG Resource Portal, February 15, 2023, <a target="_blank" href="https://gccprod.sharepoint.com/sites/MSE-GreenGovSG-MST">https://gccprod.sharepoint.com/sites/MSE-GreenGovSG-MST</a>. (This link can only be viewed in the Singapore goverment intranet.)</li>
+	</ol>
 </div>
 
 
