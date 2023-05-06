@@ -211,7 +211,7 @@ line-height:22px;
 </style>
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_eileenwong_1%2002.jpg">
 </div>
 
 <p class="subhead"><span>A</span>ll organisations and teams face challenges in prioritisation. This is because workload gain, like weight gain, is insidious. It creeps up on us and is hard to get rid of. We rarely seek to add on more of it, but often ﬁnd ourselves inundated nevertheless.</p>
