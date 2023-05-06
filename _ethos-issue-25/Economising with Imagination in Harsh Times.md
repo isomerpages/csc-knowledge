@@ -17,7 +17,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg
 	width:100%;
 }
 	
-#improvising
+#green-box
 {
 background-color:	#1cb0a1;
 padding: 30px;
@@ -81,12 +81,12 @@ border: 3px solid darkblue;
 	font-size: 20px;
 }
 	
-#improvising ol
+#green-box ol
 {
 font-weight: bold;	
 }
 
-#improvising li span
+#green-box li span
 {
 font-weight: normal;	
 }	
@@ -146,8 +146,8 @@ line-height:22px;
 
 <p>This became very apparent during the pandemic. As I showed in a recent study of how governments—and the societies around them—mobilised intelligence to handle the COVID-19 pandemic and its effects, the last few years brought an explosion of innovation in new ways to organise intelligence.  The pandemic was an unprecedented event in its global impacts and in the scale of government responses and required a myriad of policy decisions: about testing, lockdowns, masks, school closures, visiting rules at care homes and vaccinations. All of these depended on inputs of intelligence including data, evidence, models, tacit knowledge, foresight, and creativity and innovation.</p>
 
-<div id="improvising">
-<p class="improve">IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</p>
+<div id="green-box">
+<p class="prompts">IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</p>
 
 <p>During the pandemic, Taiwan’s ‘Digital Fencing System’ monitored locations based on triangulating a phone’s position relative to nearby telephone masts. </p>
 
@@ -229,7 +229,7 @@ The Public Pound Multiplier
 
 <p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
-<div id="improvising">
+<div id="green-box">
 	
 <p class="prompts">PROMPTS FOR ECONOMISING PUBLIC SERVICES</p>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
