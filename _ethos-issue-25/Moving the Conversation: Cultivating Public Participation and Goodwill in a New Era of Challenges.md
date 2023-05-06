@@ -145,7 +145,7 @@ line-height: 22px;
 <div class="notestop">
 <h6>NOTE</h6>
 <ol class="note">
-<li>See: MASS LBP, <a target="_blank" href="https://www.masslbp.com/">https://www.masslbp.com/</a>.</li>
+<li>See: MASS LBP, <a target="_blank" href="https://www.masslbp.com/"> https://www.masslbp.com/</a>.</li>
 </ol>
 </div>
 
