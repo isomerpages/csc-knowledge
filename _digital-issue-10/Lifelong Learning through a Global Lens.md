@@ -6,17 +6,23 @@ image: /images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_BannerTeaser
 ---
 <style>
 
+
 .break
 {
-border-bottom: 1px solid black;
-font-weight:bold;
-font-style: italic;
-padding:20px;
-margin:10px;	
-font-size:20px;
-padding-bottom:30px;
-border-top: 1px solid black;	
-}			
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	padding:20px;
+	text-align:center;
+	font-size:30px;
+	margin-top:50px;
+}
+.break1
+{
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
 
 	
 .back a
@@ -150,7 +156,8 @@ line-height:22px;
 
 <br>
 
-<div class="break"><p>The least likely to train are those who most need it in order to get or keep a job.</p>
+<div class="break">
+<p class="break1">The least likely to train are those who most need it in order to get or keep a job.</p>
 </div>
 
 <h2>Access to Training for All Workers</h2>
@@ -181,7 +188,8 @@ line-height:22px;
 
 <br>
 
-<div class="break"><p>Clearly defining the various forms of lifelong learning, and the different categories of workers they are meant for, can better provide more targeted support and broaden training opportunities.</p>
+<div class="break">
+	<p class="break1">Clearly defining the various forms of lifelong learning, and the different categories of workers they are meant for, can better provide more targeted support and broaden training opportunities.</p>
 </div>
 
 <h2>Adapting Education</h2>
@@ -197,8 +205,9 @@ line-height:22px;
 </div>
 	
 <p>In Singapore, providing tailored education for our young people has taken on increased importance. Our Institutes of Higher Learning (IHLs) are set to evolve over the next few years (and may well become Institutes of Continuous Learning). We can expect to see more flexible courses that span across multiple disciplines and enable our students to adapt and respond to changing industries and demand.<sup><a href="#num20">20</a></sup>&nbsp; In short, we need to adapt our education system to match continually changing industry demand and needed skills, in tandem with the transformation of work and workplaces.</p>
-<br>
-<div class="break"><p>We can expect to see more flexible courses that span across multiple disciplines and enable our students to adapt and respond to changing industries.</p>
+
+<div class="break">
+<p class="break1">We can expect to see more flexible courses that span across multiple disciplines and enable our students to adapt and respond to changing industries.</p>
 </div>
 
 
