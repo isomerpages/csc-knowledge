@@ -88,6 +88,11 @@ border: 3px solid darkblue;
 	font-size: 20px;
 }
 	
+.methods ol li
+{
+font-size:16px;	
+}
+	
 .author
 {
 border-bottom: 1px solid black;
@@ -108,6 +113,8 @@ font-size: 15px;
 line-height:22px;
 }	
 	
+	
+	
 </style>
 
 <div class="background-image">
@@ -122,11 +129,13 @@ line-height:22px;
 <p>Governing in booms is very different from governing in times of retreat. In this different context, governments need to think and act to use resources carefully while also addressing deep-seated problems. Here, useful ideas can be drawn from ecology, which has introduced many to the idea that policies of reduction—whether reducing energy and materials use, waste or carbon emissions—can be as important as policies for growth.</p>	
 	
 <p>I propose three areas in which new methods are needed:</p>
+<div class="methods">
 <ol>
 	<li>We need to mobilise <b>intelligence</b> more systematically, i.e., data, evidence and knowledge of all kinds, to ensure that action is focused, targeted and smart. Experiences from the pandemic can be applied to other fields but will require different structures and processes to be effective.</li>
 	<li>Some overdue <b>reforms</b> to public finance are needed to better fit the demands of the 21st century, including using investment methods for human services such as education, health and innovation, and better use of data to connect inputs of money to outputs and outcomes.</li>
 	<li>We need a framework for thinking creatively about how to achieve <b>economies</b> within public services: going beyond the standard tools of cuts, trimming and delay to more creative options for restructuring services and changing the contract with citizens.</li>
 </ol>	
+</div>
 
 <h3>INTELLIGENCE AS A CORE TASK OF GOVERNMENT</h3>
 <p>Governments have always relied on intelligence to do their work. But whereas in the past this was thought about primarily in relation to enemies and threats, espionage and war, they now need to think systematically about intelligence in relation to everyday tasks, from transport to healthcare, welfare to education</p>
