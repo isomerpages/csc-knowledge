@@ -123,7 +123,7 @@ margin:20px;
 </style>
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg"></div>
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_limtuangliang_1%2002.jpg"></div>
 	
 <p class="subhead"><span>S</span>ustainability is a whole-of-nation endeavour. In 2021, we launched the Singapore Green Plan 2030 (“Green Plan”) and GreenGov.SG to rally collective Saction to tackle climate change, as a nation and within the public sector. GreenGov.SG will raise the bar on sustainability within the public sector in three ways: First, <b>Excel</b> by setting new and more ambitious targets; second, <b>Enable</b> a green economy and citizenry by embedding sustainability in our core business and third, <b>Excite</b> public officers to contribute to sustainability in Singapore.</p>
 
