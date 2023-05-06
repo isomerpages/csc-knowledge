@@ -138,16 +138,12 @@ margin:20px;
 
 <p>We have also identiﬁed measures that help our public agencies decarbonise their systems and processes. For instance, all new public sector buildings and those undergoing retroﬁtting will meet Green Mark Platinum Super Low Energy (SLE) standards. Agencies will also maintain an ambient indoor air temperature at 25°C or higher for their premises and deploy solar photovoltaics, where feasible. </p>
 
-
-
-
-
 <p>Starting from FY2023, all cars procured and registered by public agencies will  be clean energy vehicles with zero tailpipe emissions.</p>
 
 <p>We are concurrently studying and implementing options to import clean electricity and remove carbon emissions. Singapore has started importing 100 megawatts of renewable hydropower from Lao PDR, which is enough to power about 144,000 four-room HDB flats a year. The National Environment Agency has also signed a Memorandum Of Understanding with Keppel Seghers in 2022 to explore the viability of Carbon Capture at our waste-to-energy (WTE) plants.</p>
 
 <p>Even as we try to reduce our emissions and replace fossil fuel with renewable sources, we may have some residual carbon emissions that are hard to abate. We may have to consider the use of carbon credits.</p>
-
+<br>
 <div class="involve">
 <h5>Towards Higher Standards of Sustainability in Government Buildings </h5>
 
@@ -173,7 +169,7 @@ margin:20px;
 
 <p>Our digitalisation efforts have also contributed towards our sustainability goals. As more public services go online and accept electronic payment, we reduce the need for members of the public to submit hard copies or for public officers to use printing paper.</p>
 
-
+<br>
 
 <div class="involve2">
 	
