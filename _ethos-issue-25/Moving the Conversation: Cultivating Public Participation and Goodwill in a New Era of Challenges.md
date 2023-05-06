@@ -78,9 +78,9 @@ font-size: 15px;
 </style>
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_CatherineFieschi.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_catherinefieschi%2002.jpg">
 </div>
-	
+
 <h3>A Shift in Public Discourse</h3>
 
 <p>Over the past few years, there has been a signiﬁcant shift in the global public conversation. In Europe, this was the outcome of several crises: there was the COVID-19 pandemic and its shock to supply chains, but there were also massive ﬂoods, and massive heatwaves that have even caused a collapse in the electric grid in some large cities. There was COP26, that raised dire warnings about potential damage and loss from climate impacts. And then there was the Russian invasion of Ukraine and all its implications (including its energy implications), and a growing unease with relying on China.</p>
