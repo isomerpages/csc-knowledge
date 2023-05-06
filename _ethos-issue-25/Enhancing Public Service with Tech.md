@@ -119,7 +119,7 @@ color: white;
 </style>
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_jordantan%2002.jpg">
 </div>
 
 <h3>Transforming the Work of the Public Sector in an Age of Scarce Resources
