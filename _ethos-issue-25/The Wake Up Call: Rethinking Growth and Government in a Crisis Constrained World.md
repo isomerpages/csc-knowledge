@@ -138,7 +138,7 @@ border-top: 1px solid black;
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_bora_chowdhoury_narain%2002.jpg">
 </div>
-
+<br>
 <div class="wake">
 <h4>In the wake of COVID-19, geopolitical conflict, economic volatility and climate concerns, what in your view are the most pressing challenges facing the public sector today?</h4>
 </div>	
@@ -147,8 +147,7 @@ border-top: 1px solid black;
 
 <p>Politically, the challenge then is that when you are in power, you must respond to immediate demands, even if it may compromise sustainability in the long run.</p>
 
-<p><span class="author3-3">NARAIN:</span> Indeed, the challenge for the 
-public sector is not only to deliver in the short term, but also in a sustainable manner. We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations. We cannot act only for the current political mandate; we have to be able to feed people not only today, but also for generations to come.</p>
+<p><span class="author3-3">NARAIN:</span> Indeed, the challenge for the public sector is not only to deliver in the short term, but also in a sustainable manner. We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations. We cannot act only for the current political mandate; we have to be able to feed people not only today, but also for generations to come.</p>
 
 <div class="narain">
 <p class="narain1">We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations</p>
