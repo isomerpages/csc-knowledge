@@ -530,7 +530,7 @@ Management</a></td>
 </tr>
 	
 <tr>
-<td><a target="_blank" href="https://go.gov.sg/ethos-issue-01">Issue 1, Oct 20006, Ageing and Public Policy</a></td>
+<td><a target="_blank" href="https://go.gov.sg/ethos-issue-01">Issue 1, Oct 2006, Ageing and Public Policy</a></td>
 </tr>
 
 
