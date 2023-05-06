@@ -159,9 +159,9 @@ how people can do the right things to lead worthwhile, satisfying lives over the
 
 <p>The social sector has value that is distinct from public services. A government can generally only make standardised, broad provisions. But for many issues, you have to be very local—you have to think about a community’s or an individual’s unique needs. You need people who know the ground: who really needs help and who doesn’t. It’s not about legislation but local knowledge, and that’s a comparative advantage of the social sector.</p>
 
-<div class="break"><p class="break1">"A lot of the conversations we have are about whether 
-something should be done by the government or the private sector, and we leave out the social sector completely."</p>
-</div>
+<div class="break"><p class="break1">A lot of the conversations we have are about whether 
+something should be done by the government or the private sector, and we leave out the social sector completely.</p><p>
+</p></div>
 
 <p>The government should be asking: what are the areas the social sector does best? How can government and the private sector support the social sector so that everyone is working towards their comparative advantages?</p>
 
