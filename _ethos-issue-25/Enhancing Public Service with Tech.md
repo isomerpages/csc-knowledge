@@ -217,7 +217,7 @@ color: white;
 <ol>
 <li>See: “Digital Government Blueprint”, accessed January 6, 2023, https://www.tech.gov.sg/digital-government-blueprint/.</li>
 <li>For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, https://www. developer.tech.gov.sg/singapore-government-tech-stack/.</li>
-<li>Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science.</li>
+<li>Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, <a target="_blank" href="https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
 </ol>	
 </div>
 
