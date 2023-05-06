@@ -204,16 +204,14 @@ innovation and growth while promoting the prudent use of limited resources?</h4>
 
 
 <div class="bora">
-<p class="bora1"> Public policy, can bring attention to a sector that warrants it. The private sector also needs a wake-up call because they can get too comfortable</p>
+<p class="bora1">Public policy can bring attention to a sector that warrants it. The private sector also needs a wake-up call because they can get too comfortable.</p>
 </div>
 
 <p>But in other cases, such as agriculture, public policy can bring attention to a sector that warrants it. The private sector may also need a wake-up call because they can get too comfortable with making money in a conventional way, and not innovate or diversify. Sometimes it is just to remind them that there are things going on outside of their routine. I do believe the public sector needs to have a certain amount of forward thinking or foresight in its policies and regulation to do this well.</p>
 
-
+<br>
 <div class="wake">
-<h4>From your time at the Leaders in Governance Programme (LGP), is there 
-anything else that you have observed to be useful or interesting? What would you 
-like your counterparts in the Singapore public sector to consider for the future?</h4>
+<h4>From your time at the Leaders in Governance Programme (LGP), is there anything else that you have observed to be useful or interesting? What would you like your counterparts in the Singapore public sector to consider for the future?</h4>
 </div>	
 
 <p><span class="author1-1">BORA:</span> The leaders we met in our time in Singapore were all very personable—there seems to be a shift in leadership style and approach to policymaking away from the top-down mentality, and it bodes well for the future.</p>
@@ -224,11 +222,11 @@ like your counterparts in the Singapore public sector to consider for the future
 
 <p>I believe this would also help the government better relate to young people.</p>
 
-<p><span class="author3-3">NARAIN:</span> Constant monitoring, assessment and streamlining are all  very good for efficiency, but I wonder what effects this can have on, for example, mental health. In Singapore, we have always been meeting leaders who are high-performing—who went to Stanford and got First Class at Cambridge and so on. What about those who are mid-range, not even lowest of the class? Those who are striving to keep up with the pack? </p>
+<p><span class="author3-3">NARAIN:</span> Constant monitoring, assessment and streamlining are all very good for efficiency, but I wonder what effects this can have on, for example, mental health. In Singapore, we have always been meeting leaders who are high-performing—who went to Stanford and got First Class at Cambridge and so on. What about those who are mid-range, not even lowest of the class? Those who are striving to keep up with the pack? </p>
 
 <p>In my work with the CEDAW (UN Convention on the Elimination of Discrimination against Women) Committee, we have reviewed so-called developed countries which are often much vaunted internationally, and score highly on happiness indices and so on, but when we review the data, we ﬁnd that some of their policies can have an adverse impact on citizens’ mental health. Because everyone has to conform to this model of being good, healthy, and perfect, those who are not as good may have mental health issues, and this is an aspect which many of us do not see and to which I would respectfully draw the attention of my Singaporean counterparts.</p>
 
-<p><span class="author2-2">CHOWDHOURY:</span> Quantification
+<p><span class="author2-2">CHOWDHOURY:</span>  Quantification
 is a tough challenge. Traditionally, we understand economics in terms of consumption and p roduc tion and therefore there is a financial  quantiﬁcation of what is growth, what is wellbeing.But what about deﬁning, redeﬁning welfare, or happiness in non-ﬁnancial terms? For instance, might we learn to be happy without being a conformist individual chasing after material aspirations and being in an elite talent pool?</p>
 
 <p>I see that there is a tendency to celebrate consumerism, which is contributing to a lot of issues, from mental health to environmental degradation. It is not sustainable.</p>
