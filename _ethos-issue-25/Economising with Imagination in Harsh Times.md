@@ -111,7 +111,7 @@ line-height:22px;
 </style>
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_geoffmulgan_1%2002.jpg">
 </div>
 
 <p class="subhead"><span>T</span>here is much debate globally about how the accumulation of crises—economic, ecological, political and around energy—now amount to a polycrisis. Whether or not they are as connected as some believe, there is no doubting the pressure they are putting on public services across the world. Governments generally responded well to the COVID-19 pandemic, showing great agility. But one legacy of the pandemic is fiscal overstretch—and sharp constraints on resources which make it even harder to respond to the new crises. Meanwhile geopolitical pressures are pushing up spending on defence, which means even less resources available for other purposes.</p>
