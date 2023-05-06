@@ -106,20 +106,18 @@ font-size: 15px;
 <p>The Government Outcomes Lab is a research programme based at Oxford’s Blavatnik School of Government.<sup>1</sup> It started in 2016 as a partnership between the UK Government and the University of Oxford, to look at ways to tackle complex social and environmental issues by working collaboratively across sectors. In today’s hybrid environment, public services are no longer just delivered by the public sector. Instead, we now see a multiplicity of actors, including the private sector, impact investors, non-profit organisations, voluntary groups and social enterprises. This is enriching, but also challenging: how do you bring them together to work effectively towards shared goals?</p>
 
 
-<p>When the GO Lab was set up, the UK Government was about to launch a very large programme called the Life  Chances Fund. This was aimed at exploring how a particular instrument—social impact bonds—could contribute to the portfolio of what government was doing. At the time, the evidence about the effectiveness of such instruments was still very weak. Since then, we have been working alongside government to investigate this, gathering evidence from all over the world on these instruments and how they work.</p>
+<p>When the GO Lab was set up, the UK Government was about to launch a very large programme called the Life Chances Fund. This was aimed at exploring how a particular instrument—social impact bonds—could contribute to the portfolio of what government was doing. At the time, the evidence about the effectiveness of such instruments was still very weak. Since then, we have been working alongside government to investigate this, gathering evidence from all over the world on these instruments and how they work.</p>
 
 <p>This means the government’s share of GDP is expected to rise. In the private sector, you’re paying for these better services. But in the public sector, there’s a limit to how much you can meet these higher expectations purely through tax-based public funding. In countries like the UK, for instance, it’s taboo to even think about market pricing for healthcare services because of perceived inequalities in affordability.</p>
 
 <p>So, increasing demands on the public sector are not going to go away, but there is a limit to how much public funds we can raise through taxation. The question is how we are going to manage both the demand for and supply of government services. We will have to get much more efficient in what we do and ﬁnd better ways of doing the same things, because we cannot just keep throwing money at problems.</p>
-
 
 <p>In the beginning, the government wanted to know if social impact bonds "work".  Over time, we unpacked this question—a social impact bond may or may not work, in the same way a simple grant may or may not work. So the question is more about the circumstances under which instruments like social impact bonds are more likely to be effective. We have found that there is no one model: the term "social impact bond" or "social impact partnership" is in fact an umbrella term that includes very many practices and types of agreements between  the public sector and other sectors, including impact investors and those from the non-proﬁt world.</p>
 
 <p>The core idea is what we call an outcome-based approach: we come to an agreement for the provision of a particular activity or service, but we will pay only when a certain level of predeﬁned outcomes has been  achieved. A social impact bond is thus a kind of outcome-based ﬁnancing model based on the presence of an impact investor who is willing to provide the upfront capital to provide the service, which will only be paid ex-post, and only if outcomes have been delivered.</p>
 
 <div class="break">
-<p class="break1">Outcome-based approaches are most successfully deployed as part of attempts to do things differently because the status quo has not  
-been satisfactory.</p>
+<p class="break1">Outcome-based approaches are most successfully deployed as part of attempts to do things differently because the status quo has not been satisfactory.</p>
 </div>
 
 <p>The idea is that the impact investor will bear the risk in case the pre-agreed outcomes have not been achieved. Given the resource constraints of the public sector, outcome-based contracting is hence, potentially, a good way to make more efficient use of resources, because the government only has to pay when it works. If a programme is successful, and governments pay for the achieved outcomes, the originally invested capital could even be reinvested in the same  or other programmes.</p>
@@ -129,7 +127,7 @@ been satisfactory.</p>
 <p>Nevertheless, in our research, we have found that outcome-based contracts tend to be most effective when designed and used intentionally to improve collaboration, prevention or innovation.</p>
 
 
-<h3>Three Logics of  Outcome-Based Contracting</h3>
+<h3>Three Logics of Outcome-Based Contracting</h3>
 
 <div class="title">
 <h4><span class="num">1</span>&nbsp;&nbsp;&nbsp;Logic of Collaboration</h4>
@@ -145,7 +143,7 @@ been satisfactory.</p>
 
 <br>
 <div class="title">
-<h4><span class="num">2</span>&nbsp;&nbsp;&nbsp;&nbsp;Logic of Prevention</h4>
+<h4><span class="num">2</span>&nbsp;&nbsp;&nbsp;Logic of Prevention</h4>
 </div>
 
 <p>The public sector is often ﬁreﬁghting and having to intervene in one crisis after another. With greater demand for public services and increasingly constrained resources, the pressure is to cut provision in some areas. The investments that bring beneﬁts only in the longer term, such as preventative services, are often the ones that get dropped ﬁrst.</p>
@@ -157,7 +155,7 @@ been satisfactory.</p>
 
 <br>
 <div class="title">
-<h4><span class="num">3</span>&nbsp;&nbsp;&nbsp;&nbsp;Logic of Innovation</h4>
+<h4><span class="num">3</span>&nbsp;&nbsp;&nbsp;Logic of Innovation</h4>
 </div>
 
 <p>The public sector is often considered conservative, risk averse, and not particularly innovative. We tend to see interventions being delivered over and over, without checking if they actually work. Doing the same thing avoids blame, compared to trying something courageous and new where something might go wrong.</p>
@@ -190,8 +188,7 @@ been satisfactory.</p>
 </h4>
 </div>
 
-<p>Much goes on during the delivery of a service that can make a difference to whether an intervention works. In typical public sector procurement, most attention is paid to a contract before it is issued, but afterwards little is paid to the job until the contract is due to be renewed. However, when an impact investor is involved in an outcome-based contract, they have a stake in making sure the project succeeds: otherwise, they lose their capital. 
-</p>
+<p>Much goes on during the delivery of a service that can make a difference to whether an intervention works. In typical public sector procurement, most attention is paid to a contract before it is issued, but afterwards little is paid to the job until the contract is due to be renewed. However, when an impact investor is involved in an outcome-based contract, they have a stake in making sure the project succeeds: otherwise, they lose their capital. </p>
 
 <p>A good investor, typically in close collaboration with the other stakeholders involved in the programme, will practise active performance management: they will come to the table to check that things are on track, and that the outcomes are being delivered as intended. While there are transaction costs to meetings and handholding, there could be benefits from this hands-on approach that outweigh the additional cost as delivery problems can be tackled promptly.</p>
 
@@ -202,14 +199,11 @@ been satisfactory.</p>
 
 <p>How impact is measured in outcome-based contracts is crucial. Metrics and performance indicators are meant to be proxies for what the outcomes are, but they exist on a continuum and not all of them will be directly indicative of the outcome. While it is rare for payment in outcome-based contracts to be 100% based on purely outcome-driven indicators, how these proxy measures are used seems to make a difference to the success of a project. They shape the motivation and focus of the contracted organisation.</p>
 
-<p>In one example we have seen, two organisations were given the same contract to tackle homelessness in the UK. One used the outcome-based approach to motivate staff to do things differently, and to redefine what good looked like. The other organisation, which was smaller and more dependent on the contract’s paid value, put emphasis on meeting targets. The metrics were the same, but the way they were used to manage staff was different. In one organisation, the emphasis was on learning how to achieve outcomes. In the other, staff seemed more pressured to deliver </p>
-
 <div class="break">
 <p class="break1">Organisations that are willing to work in a relational fashion seem to make the best use of flexible contractual arrangements.</p>
 </div>
 
-<p>on targets and demotivated. The same contract was deployed by one organisation to build a culture of learning and to focus on the long term, while the other used it transactionally. This experience teaches us that contractual clauses and technical features of these instruments are only half of the story.</p>
-
+<p>In one example we have seen, two organisations were given the same contract to tackle homelessness in the UK. One used the outcome-based approach to motivate staff to do things differently, and to redefine what good looked like. The other organisation, which was smaller and more dependent on the contract’s paid value, put emphasis on meeting targets. The metrics were the same, but the way they were used to manage staff was different. In one organisation, the emphasis was on learning how to achieve outcomes. In the other, staff seemed more pressured to deliver on targets and demotivated. The same contract was deployed by one organisation to build a culture of learning and to focus on the long term, while the other used it transactionally. This experience teaches us that contractual clauses and technical features of these instruments are only half of te story.</p>
 
 <br>
 <div class="title1">
