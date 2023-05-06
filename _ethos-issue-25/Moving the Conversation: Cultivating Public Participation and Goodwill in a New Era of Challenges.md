@@ -102,7 +102,7 @@ font-size: 15px;
 
 <h3>Strengthening Public Participation</h3>
 
-<p>This is work that needs to be carried out across society. In this regard, the most important thing that governments can do is to share expertise—and in fact expertise can be co-created! Raising awareness is important, but it needs to be rooted in understanding, in facts, and so on. It is not enough for expertise to be held by governments or civil servants: and it is not enough for it to be shared out, so that public deliberation is well-informed. That’s a ﬁrst step.  But it needs to go further: the public needs to be involved in creating and elaborating that expertise. This is what will make its use legitimate and less questioned.</p>
+<p>This is work that needs to be carried out across society. In this regard, the most important thing that governments can do is to share expertise—and in fact expertise can be co-created! Raising awareness is important, but it needs to be rooted in understanding, in facts, and so on. It is not enough for expertise to be held by governments or civil servants: and it is not enough for it to be shared out, so that public deliberation is well-informed. That’s a ﬁrst step. But it needs to go further: the public needs to be involved in creating and elaborating that expertise. This is what will make its use legitimate and less questioned.</p>
 
 <p>Deliberation is going to be crucial, because people need to understand how things work when they are asked to make and also accept decisions: even minor or local ones. This is how we help bridge the gap and ﬁght fake news: by not just sharing information, but also having discussions and involving people. Just like you don’t learn how to drive a car only by reading the manual but by getting behind the wheel, so citizens need experience in being involved in civic issues and making decisions.</p>
 
@@ -123,7 +123,7 @@ font-size: 15px;
 
 <h3>From Exclusive Competence to Inclusive Learning</h3>
 
-<p>One of the hardest things for civil servants—particularly in places like Singapore where there has been a tradition of government competence— is being ready to admit that you don't have all the answers.  And it is made particularly difficult in contemporary societies in which through forensic social media, one is easily judged as incompetent, thereby leading  people  to question your legitimacy. But this is also why it is important to involve people in decision-making, so that they learn that nobody, no matter who or where they are,  has all the answers. Pretending that you do have all the answers is a much more dangerous game to play than admitting you don’t—because you are going to be found out. There is no getting away from this, because of the complex problems we face and because of a 24-hour, sensationalist media that thrives on prurient headlines and clickbait.</p>
+<p>One of the hardest things for civil servants—particularly in places like Singapore where there has been a tradition of government competence— is being ready to admit that you don't have all the answers. And it is made particularly difficult in contemporary societies in which through forensic social media, one is easily judged as incompetent, thereby leading people to question your legitimacy. But this is also why it is important to involve people in decision-making, so that they learn that nobody, no matter who or where they are, has all the answers. Pretending that you do have all the answers is a much more dangerous game to play than admitting you don’t—because you are going to be found out. There is no getting away from this, because of the complex problems we face and because of a 24-hour, sensationalist media that thrives on prurient headlines and clickbait.</p>
 
 <div class="break">
 <p class="break1">While it is important for institutions to open up and be more inclusive, what’s also important is for people to talk to each other.</p>
@@ -151,12 +151,11 @@ font-size: 15px;
 </div>
 
 <div class="notestop">
-<h6>NOTE:</h6>
+<h6>NOTE</h6>
 <ol class="note">
-<li>See: MASS LBP, https://www.masslbp.com/.</li>
+<li>See: MASS LBP, <a target="_blank" href="https://www.masslbp.com/">https://www.masslbp.com/</a>.</li>
 </ol>
 </div>
-
 
 <br>
 <br>
