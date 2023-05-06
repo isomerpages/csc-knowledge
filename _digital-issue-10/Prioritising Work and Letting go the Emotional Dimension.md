@@ -91,11 +91,8 @@ line-height:22px;
 
 <p>That said, cutting out-of-date, less important, historic, or no longer useful projects can be easier said than done. Sometimes, our reluctance to drop projects can get in the way of streamlining, prioritising, and new opportunities. We need to be honest about why we are struggling to let go of what is no longer relevant to our needs.</p>	
 
-<br>
-
-<ul>
 <p><b>We may struggle to let go of projects, when:</b></p>
-<li>We are emotionally connected to the project</li>
+<ul><li>We are emotionally connected to the project</li>
 <li>Letting go may mean one is less important, valuable or needed</li>
 <li>It feels like a waste of the time and energy already spent</li>
 <li>We are afraid of the new and unknown</li>
