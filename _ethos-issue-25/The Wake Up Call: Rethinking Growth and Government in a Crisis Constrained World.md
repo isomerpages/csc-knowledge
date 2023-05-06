@@ -69,7 +69,7 @@ font-size:20px;
 color: #645ea9;
 }	
 	
-.narain
+.narain1
 {
 	font-family: Georgia;
 	font-size:20px;
@@ -86,7 +86,7 @@ color: #645ea9;
 }
 	
 	
-.chow
+.chow1
 {
 	font-family: Georgia;
 	font-size:20px;
@@ -103,7 +103,7 @@ color: #645ea9;
 }
 	
 
-.bora
+.bora1
 {
 	font-family: Georgia;
 	font-size:20px;
@@ -150,7 +150,7 @@ border-top: 1px solid black;
 <p><span class="author3-3">NARAIN:</span> Indeed, the challenge for the public sector is not only to deliver in the short term, but also in a sustainable manner. We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations. We cannot act only for the current political mandate; we have to be able to feed people not only today, but also for generations to come.</p>
 
 <div class="narain">
-<p class="narain1">We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations</p>
+<p class="narain1">We cannot just deliver public goods in a manner that would exhaust everything, leaving nothing for future generations.</p>
 </div>
 
 <p><span class="author1-1">BORA:</span> Be it geopolitical conflict, climate change, or the economic value chain, the global view has now changed. During the COVID crisis, I was in Cambodia trying to get food to our people. The experience made us realise how vulnerable it is to always rely on global resources for our own needs and wellbeing. Having headed the coordination of one of the major side events for the Asia–Europe Meeting (ASEM) Summit, I see that in a volatile global economy, many countries believe that there needs to be a greater push for regional onshoring of certain trades. You must make sure that you have access to the resources—either within or close to your borders, to produce enough for yourself, be it food or other needs—rather than depend on countries far away.</p>
