@@ -81,7 +81,7 @@ line-height: 22px;
 
 <p>Meanwhile, problems faced by the Government have been growing in complexity and scope: these will require multi-agency collaboration, such as for digitalisation, social service delivery, and workforce and skills development. Without an agreed method for providing resources for managing cross-cutting issues amongst the various agencies working on them, policy development and implementation may be impeded. Thus, there is a need for greater upstream intervention to allow cross-agency budgeting for agencies to achieve their collective goals.</p>
 
-<p>There have also been greater demands on the public sector to respond more quickly to non-routine, uncertain and emergent problems that run counter to the regular cycle of traditional budgeting. We have had to mount prompt policy responses to abrupt and unforeseen challenges such as the COVID pandemic and heightened inﬂation due to supply chain disruptions induced by the Russian invasion of Ukraine. Many of these policy responses have been unprecedented and innovative, made possible only because of the Government’s ability to allocate resources nimbly and decisively.</p>
+<p>There have also been greater demands on the public sector to respond more quickly to non-routine, uncertain and emergent problems that run counter to the regular cycle of traditional budgeting. We have had to mount prompt policy responses to abrupt and unforeseen challenges such as the COVID pandemic and heightened inﬂation due to supply chain disruptions induced by the Russian invasion of Ukraine. Many of these policy responses have been unprecedented and innovative, made possible only because of the Government’s ability to allocate resources nimbly and decisively.<sup><a href="#num1">1</a></sup></p>
 
 <div class="break">
 <p class="break1">There have been greater demands on the public sector to respond more quickly to non-routine, uncertain and emergent problems. </p>
@@ -151,7 +151,7 @@ line-height: 22px;
 <div class="notestop">
 <h6>NOTE</h6>
 <ol>
-<li>Examples of such policy responses to address the pandemic include: the Jobs Support Scheme, the Care and Support Package, the COVID-19 Recovery Grant, the Jobs Growth Incentive, SGUnited Jobs and Skills, Rental Relief and Cash Grant and so on. Together, they helped Singapore avoid long-term scarring from COVID-19. For more information, please see "Assessment of the Impact of Key COVID-19 Budget Measures", published by the Ministry of Finance (MOF) on 17 February 2022.
+<li id="num1">Examples of such policy responses to address the pandemic include: the Jobs Support Scheme, the Care and Support Package, the COVID-19 Recovery Grant, the Jobs Growth Incentive, SGUnited Jobs and Skills, Rental Relief and Cash Grant and so on. Together, they helped Singapore avoid long-term scarring from COVID-19. For more information, please see "Assessment of the Impact of Key COVID-19 Budget Measures", published by the Ministry of Finance (MOF) on 17 February 2022.
 </li>
 </ol>	
 
