@@ -22,6 +22,7 @@ margin-top:50px;
 {
 font-weight: bold;
 font-size:25px;
+font-style: italic;
 }
 	
 .back a
@@ -36,7 +37,6 @@ font-size:25px;
    border-bottom: 1px solid black;
 	 padding:20px;
 	text-align:center;
-	font-size:30px;
 	margin-top:50px;
 }
 	
@@ -114,7 +114,6 @@ border-radius:10px;
 .alignment1 p
 {
 font-size: 22px;
-
 }			
 	
 
@@ -137,7 +136,6 @@ border-radius: 10px;
 .leadership1 p
 {
 font-size: 22px;
-font-family: "montserrat";
 }	
 		
 
@@ -159,7 +157,6 @@ border-radius: 10px;
 .empowerment1 p
 {
 font-size: 22px;
-font-family: "montserrat";
 }		
 	
 #ilod
