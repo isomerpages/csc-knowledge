@@ -125,7 +125,7 @@ color: white;
 <h3>Transforming the Work of the Public Sector in an Age of Scarce Resources
 </h3>
 
-<p>Due to various headwinds in the world today, resourcing has become an increasingly pertinent concern in the tech space, and the public sector has not been spared. GovTech, through the Digital Government Blueprint,<sup>1</sup> is making a difference by helping to realise Singapore’s public sector transformation, particularly in three broad areas: the Future of Work, our Future Workforce, and our Future Workplace.</p>
+<p>Due to various headwinds in the world today, resourcing has become an increasingly pertinent concern in the tech space, and the public sector has not been spared. GovTech, through the Digital Government Blueprint,<sup><a href="#num1">1</a></sup> is making a difference by helping to realise Singapore’s public sector transformation, particularly in three broad areas: the Future of Work, our Future Workforce, and our Future Workplace.</p>
 
 <p>Under Future of Work, we are leveraging data, and data analytics, to relook at how the public sector should be working in the future, including how public officers interact with, ﬁeld enquiries from, and work alongside citizens. The pandemic has changed how we work; it has made us realise that a lot of what we do can be digitalised and carried out online for an enhanced experience.</p>
 
