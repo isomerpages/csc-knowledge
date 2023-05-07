@@ -66,7 +66,7 @@ border-radius: 10px;
 	
 .strategy1 p
 {
-font-size: 22px;
+font-size: 22px
 }
 	
 #culture h4
@@ -80,12 +80,6 @@ font-size: 22px;
 font-size: 22px;
 }	
 
-.letter-c
-{
-	color: #f19637; 
-	font-weight: bold;
-	font-size:25px;
-}
 
 .culture1
 {
@@ -233,11 +227,12 @@ line-height:22px;
 
 <div id="strategy">
 <h4>STRATEGY</h4>
-	<b>Clarity for Crafting and Translating into Results</b>
+<b>Clarity for Crafting and Translating into Results</b>
 
 <div class="strategy1">
 	
 <p>The two questions you need to ask about your <span class="word">Strategy:</span></p>	
+	
 <ul>
 		<li>How is our work achieving what is core to our organisation?
 </li>
