@@ -105,7 +105,7 @@ line-height: 22px;
 
 <p>You see this in participatory budgeting, where people realise that even in the best case, you only get to play around with about 4% of the total national budget: the rest of it has already been allocated to education, health, housing and so on. And that’s one of the first lessons: to realise how little leeway policymakers have to make these discretionary decisions. To learn how to take responsibility, citizens need to walk a little in decision-makers’  shoes, both to feel empowered, but also to realise what the real constraints are. For instance, as pension reform triggers protests around France, it is striking how little people understand about the constraints on public spending in the future.</p>
 
-<p>Beyond sharing information and more inclusive involvement, public deliberation also needs to be granted time to be effective and powerful. Peter Macleod, who runs a deliberation design studio called MASS LBP,<sup>1</sup> based in Toronto, argues that people should see civic deliberation, public consultation and public decision-making like jury duty or national service—something that they will be called upon a few times in life to do to play their part in their community. Public participation is a muscle. People need to be asked to exercise it regularly, and this needs to be a fact of life.</p>
+<p>Beyond sharing information and more inclusive involvement, public deliberation also needs to be granted time to be effective and powerful. Peter Macleod, who runs a deliberation design studio called MASS LBP,<sup><a href="#num1">1</a></sup> based in Toronto, argues that people should see civic deliberation, public consultation and public decision-making like jury duty or national service—something that they will be called upon a few times in life to do to play their part in their community. Public participation is a muscle. People need to be asked to exercise it regularly, and this needs to be a fact of life.</p>
 
 <p>An important aspect of public participation is to move from what we have collectively thought of as a one-way street government engaging with citizens—to citizens engaging the other way as well. But just as crucial is to nurture and mediate citizen-to-citizen conversations. While it is important for institutions to open up and be more inclusive, what’s also important is for people to talk to each other. This is necessary for people to think about what they want, to realise others have different priorities, and to be able to disagree and so on. Those conversations with each other (not just with those in power) are the basis of civic life.</p>
 
@@ -145,7 +145,7 @@ line-height: 22px;
 <div class="notestop">
 <h6>NOTE</h6>
 <ol class="note">
-<li>See: MASS LBP, <a target="_blank" href="https://www.masslbp.com/"> https://www.masslbp.com/</a>.</li>
+<li id="num1">See: MASS LBP, <a target="_blank" href="https://www.masslbp.com/"> https://www.masslbp.com/</a>.</li>
 </ol>
 </div>
 
