@@ -127,7 +127,7 @@ margin:20px;
 	
 <p class="subhead"><span>S</span>ustainability is a whole-of-nation endeavour. In 2021, we launched the Singapore Green Plan 2030 (“Green Plan”) and GreenGov.SG to rally collective Saction to tackle climate change, as a nation and within the public sector. GreenGov.SG will raise the bar on sustainability within the public sector in three ways: First, <b>Excel</b> by setting new and more ambitious targets; second, <b>Enable</b> a green economy and citizenry by embedding sustainability in our core business and third, <b>Excite</b> public officers to contribute to sustainability in Singapore.</p>
 
-<p>Under GreenGov.SG, the public sector has committed to several targets, including achieving net zero emissions around 2045, about five years ahead of the national target.<sup>1</sup> Executing the net zero transition will not be easy for Singapore, given our physical constraints and lack of renewable energy resources. So how are we going to achieve these targets?</p>
+<p>Under GreenGov.SG, the public sector has committed to several targets, including achieving net zero emissions around 2045, about five years ahead of the national target.<sup><a href="#num1">1</a></sup> Executing the net zero transition will not be easy for Singapore, given our physical constraints and lack of renewable energy resources. So how are we going to achieve these targets?</p>
 
 <div id="excel">
 <h3>EXCEL</h3>	
@@ -253,7 +253,7 @@ margin:20px;
 <div class="notestop">
 <h6>NOTE</h6>
 <ol class="note">
-<li>GreenGov.SG Resource Portal, February 15, 2023, <a target="_blank" href="https://gccprod.sharepoint.com/sites/MSE-GreenGovSG-MST">https://gccprod.sharepoint.com/sites/MSE-GreenGovSG-MST</a>. (This link can only be viewed in the Singapore goverment intranet.)</li>
+<li id="num1">GreenGov.SG Resource Portal, February 15, 2023, <a target="_blank" href="https://gccprod.sharepoint.com/sites/MSE-GreenGovSG-MST">https://gccprod.sharepoint.com/sites/MSE-GreenGovSG-MST</a>. (This link can only be viewed in the Singapore goverment intranet.)</li>
 	</ol>
 </div>
 
