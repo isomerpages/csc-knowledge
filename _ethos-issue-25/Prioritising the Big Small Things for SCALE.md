@@ -49,11 +49,10 @@ font-family: Georgia;
 }
 	
 	
-.letter-s
+#strategy h4
 {
 	color: #ED746F; 
 	font-weight: bold;
-	font-size:25px;
 }
 	
 .strategy1
@@ -70,11 +69,10 @@ border-radius: 10px;
 font-size: 22px;
 }
 	
-.letter-c
+#culture h4
 {
 	color: #f19637; 
 	font-weight: bold;
-	font-size:25px;
 }
 	
 .culture1 p
@@ -104,11 +102,10 @@ font-size: 22px;
 }		
 	
 
-.letter-a
+#alignment h4
 {
 	color: #24788e; 
 	font-weight: bold;
-	font-size:25px;
 }
 
 .alignment1 
@@ -127,7 +124,7 @@ font-size: 22px;
 }			
 	
 
-.letter-l
+#leadership h4
 {
 	color: #22b5a2; 
 	font-weight: bold;
@@ -150,11 +147,10 @@ font-family: "montserrat";
 }	
 		
 
-.letter-e
+#empowerment h4
 {
 	color: #9780b9; 
 	font-weight: bold;
-	font-size:25px;
 }
 
 .empowerment1 
@@ -236,7 +232,7 @@ line-height:22px;
 
 
 <div id="strategy">
-<p class="letter-s">STRATEGY</p>
+<h4>STRATEGY</h4>
 	<b>Clarity for Crafting and Translating into Results</b>
 
 <div class="strategy1">
@@ -264,7 +260,7 @@ line-height:22px;
 
 <div id="culture">
 	
-<p class="letter-c">CULTURE</p>
+<h4>CULTURE</h4>
 <b>Behaviours and Norms We Want More Of</b>
 
 <div class="culture1">
@@ -294,7 +290,7 @@ line-height:22px;
 </div>	
 	
 <div id="alignment" class="">
-<p class="letter-a">ALIGNMENT OF PROCESSES</p>
+<h4>ALIGNMENT OF PROCESSES</h4>
 <b>Jolt for Optimisation</b>
 
 <div class="alignment1">
@@ -319,7 +315,7 @@ line-height:22px;
 </div>
 
 <div id="leadership">
-<p class="letter-l">LEADERSHIP</p>
+<h4>LEADERSHIP</h4>
 <b>Go Slow to Go Fast</b>
 
 <div class="leadership1">
@@ -348,7 +344,7 @@ space to think and plan, while also taking time to get ground data to assess and
 
 
 <div id="empowerment">
-<p class="letter-e">EMPOWERMENT</p>
+<h4>EMPOWERMENT</h4>
 <b>Going beyond Shared Commitment to Shared Understanding</b>
 
 <div class="empowerment1">
