@@ -103,7 +103,7 @@ font-size: 15px;
 
 <h3>Introduction</h3>
 
-<p>The Government Outcomes Lab is a research programme based at Oxford’s Blavatnik School of Government.<sup>1</sup> It started in 2016 as a partnership between the UK Government and the University of Oxford, to look at ways to tackle complex social and environmental issues by working collaboratively across sectors. In today’s hybrid environment, public services are no longer just delivered by the public sector. Instead, we now see a multiplicity of actors, including the private sector, impact investors, non-profit organisations, voluntary groups and social enterprises. This is enriching, but also challenging: how do you bring them together to work effectively towards shared goals?</p>
+<p>The Government Outcomes Lab is a research programme based at Oxford’s Blavatnik School of Government.<sup><a href="#num1">1</a></sup> It started in 2016 as a partnership between the UK Government and the University of Oxford, to look at ways to tackle complex social and environmental issues by working collaboratively across sectors. In today’s hybrid environment, public services are no longer just delivered by the public sector. Instead, we now see a multiplicity of actors, including the private sector, impact investors, non-profit organisations, voluntary groups and social enterprises. This is enriching, but also challenging: how do you bring them together to work effectively towards shared goals?</p>
 
 
 <p>When the GO Lab was set up, the UK Government was about to launch a very large programme called the Life Chances Fund. This was aimed at exploring how a particular instrument—social impact bonds—could contribute to the portfolio of what government was doing. At the time, the evidence about the effectiveness of such instruments was still very weak. Since then, we have been working alongside government to investigate this, gathering evidence from all over the world on these instruments and how they work.</p>
@@ -267,7 +267,7 @@ font-size: 15px;
 <div class="notestop">
 <h6>NOTE</h6>
 <ol class="note">
-<li>Government Outcomes Lab, accessed February 23, 2023, <a target="_blank" href="https://golab.bsg.ox.ac.uk/"> https://golab.bsg.ox.ac.uk/</a>.</li>
+<li id="num1">Government Outcomes Lab, accessed February 23, 2023, <a target="_blank" href="https://golab.bsg.ox.ac.uk/"> https://golab.bsg.ox.ac.uk/</a>.</li>
 </ol>
 </div>
 
