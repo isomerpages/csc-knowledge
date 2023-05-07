@@ -17,14 +17,14 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GeoffMulgan_1.jpg
 	width:100%;
 }
 	
-#green-box-all
+.green-box-all
 {
 background-color:	#1cb0a1;
 padding: 30px;
 color: white;
 }	
 
-#green-box-improvise
+.green-box-improvise
 {
 background-color:	#1cb0a1;
 padding: 30px;
@@ -81,27 +81,31 @@ margin:0px 20px;
 border: 3px solid darkblue;
 }
 	
-.title
+.green-box-all h4
 {
   color:#483f97;
 	font-weight: bold;
-	font-size: 20px;
 }
 	
-.blue-head-text
+.green-box-improvise h3
 {
 color:#483f97;
-font-size:25px;
 font-weight:bold;
 }
-		
 	
-#green-box-all ol
+.green-box-all h3
+{
+color:#483f97;
+font-weight:bold;
+}
+	
+	
+.green-box-all ol
 {
 font-weight: bold;	
 }
 
-#green-box-all li span
+.green-box-all li span
 {
 font-weight: normal;	
 }	
@@ -162,8 +166,8 @@ line-height:22px;
 
 <p>This became very apparent during the pandemic. As I showed in a recent study of how governments—and the societies around them—mobilised intelligence to handle the COVID-19 pandemic and its effects, the last few years brought an explosion of innovation in new ways to organise intelligence.  The pandemic was an unprecedented event in its global impacts and in the scale of government responses and required a myriad of policy decisions: about testing, lockdowns, masks, school closures, visiting rules at care homes and vaccinations. All of these depended on inputs of intelligence including data, evidence, models, tacit knowledge, foresight, and creativity and innovation.</p>
 
-<div id="green-box-improvise">
-<p class="blue-head-text-improvise">IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</p>
+<div class="green-box-improvise">
+<h3>IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</h3>
 
 <p>During the pandemic, Taiwan’s ‘Digital Fencing System’ monitored locations based on triangulating a phone’s position relative to nearby telephone masts. </p>
 
@@ -248,13 +252,12 @@ The Public Pound Multiplier
 
 <p>These various approaches all connect with each other—they are all about using intelligence, money and relationships in creative ways to rethink how government can work more effectively. Crises can be productive moments for achieving shifts—and one deﬁnition of good leadership is the ability to use the smallest crisis for the greatest impact. The alternative is retreat and stagnation.</p>
 
-<div id="green-box-all">
+<div class="green-box-all">
 	
-<p class="blue-head-text">PROMPTS FOR ECONOMISING PUBLIC SERVICES</p>
+<h3>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h3>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
 
-
-<p class="title">TRADITIONAL TOOLS</p>
+<h4>TRADITIONAL TOOLS</h4>
 	
 <ol>
 <li>Pure economies<br>
@@ -270,7 +273,7 @@ The Public Pound Multiplier
 
 <p>We then move onto less familiar ground, using a more creative economic lens to think about how a service could be reorganised. Much of the digital economy has grown by applying similar ideas to everything from shopping to dating.</p>
 
-<p class="title">ECONOMIC RESTRUCTURING</p>
+<h4>ECONOMIC RESTRUCTURING</h4>
 <ol start="4">
 <li>Economies of scale<br>
 <span>E.g., Aggregating call centres or back-office functions. These have been exaggerated in the past (small governments and municipalities are often just as efficient as big ones) but they can sometimes deliver big savings.</span>
@@ -287,7 +290,7 @@ E.g., Hospitals specialising in a few operations and so improving efficiency, cu
 
 <p>Next come options that involve a renegotiation of the implicit contracts between states and citizens.</p>
 
-<p class="title">REVISED SOCIAL CONTRACTS</p>
+<h4>REVISED SOCIAL CONTRACTS</h4>
 <ol start="8">
 <li>Economies of responsibility involve passing responsibility out to citizens<br>
 <span>E.g. For COVID self-testing, separating out waste, or self-packing as supermarkets shifted the role of packing from paid staff to customers.</span>
@@ -300,7 +303,7 @@ These are economies that ﬂow from shifting tasks to more committed providers, 
 
 <p>Next come some ways of using digital to cut unnecessary costs.</p>
 
-<p class="title">SMART TOOLS</p>
+<h4>SMART TOOLS</h4>
 <ol start="10">
 <li>Economies of visibility come from mobilising public eyes and the power of shame<br><span>
 E.g., Making parliamentarian’s expenses more public and reducing them; the same principle applies to public contracts of all kinds.</span>
@@ -311,7 +314,7 @@ E.g., Making parliamentarian’s expenses more public and reducing them; the sam
 
 </ol>
 
-<p class="title">JOINED-UP THINKING</p>
+<h4>JOINED-UP THINKING</h4>
 <ol start="12">
 <li>Economies of doubling up<br>
 <span>Finally, there are often options for joining up the work of government in creative ways, promoting actions that address two problems or needs simultaneously (such as training up the young unemployed to work on home retroﬁt programmes).</span></li>	
