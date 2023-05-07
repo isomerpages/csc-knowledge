@@ -31,13 +31,6 @@ padding: 30px;
 color: white;
 }		
 	
-.blue-head-text-improvise
-{
-color:#483f97;
-font-size:25px;
-font-weight:bold;
-}
-	
 
 .subhead::first-letter 
 { 
@@ -256,7 +249,7 @@ The Public Pound Multiplier
 	
 <h3>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h3>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
-
+	
 <h4>TRADITIONAL TOOLS</h4>
 	
 <ol>
