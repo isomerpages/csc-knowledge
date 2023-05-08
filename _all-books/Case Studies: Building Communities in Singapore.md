@@ -41,7 +41,7 @@ margin-top:30px;
 
 <p>This book contains four case studies on how public agencies design solutions to improve the quality of life for individuals and society by listening, observing and being empathetic to the needs of people. They describe how public officers have been able to think differently, find new paths and build resilient communities.</p>
 <br>
-<p>Please <a href="/contact-us/">contact</a> the Publishing Team for purchase.</p>
+<p>Please <a target="_blank" href="https://go.gov.sg/csc-knowledge-enquiry">contact</a> the Publishing Team for purchase.</p>
 <br>
 <div id="foreword">
 <p><b>FOREWORD</b></p>
@@ -49,7 +49,7 @@ Jocelyne BOURGON
 </div>
 
 <div id="introduction">
-	<p><b><a href="/files/csc_case%20studies_building%20communities%20in%20singapore_intro.pdf">INTRODUCTION</a></b></p>
+	<p><b><a target="_blank" href="/files/csc_case%20studies_building%20communities%20in%20singapore_intro.pdf">INTRODUCTION</a></b></p>
 June GWEE
 </div>
 

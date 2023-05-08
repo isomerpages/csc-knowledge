@@ -10,16 +10,30 @@ table
 border-collapse: separate; 
 border-spacing: 30px 10px;
 }	
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+	}
+	
+
 
 .text
 {
 	width: 50%;
-}
+}	
+	
+.img1 img
+{
+margin-top:25px;	
+}	
 	
 .img img
 {
 margin-top:15px;	
-}	
+}		
+	
 	
 .cat
 {
@@ -34,12 +48,7 @@ td
 
 #editorial,#section-1,#section-2,#section-3,#section-4
 {
-	margin-top:20px;
 	border-bottom: 0.5px solid black;
-}
-#section-5
-{
-margin-top:20px;	
 }
 	
 
@@ -58,12 +67,12 @@ margin-top:20px;
 <table id="top">
 <tbody>
 <tr>
-<td class="img">
+<td class="img1">
 <img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg">
 </td>
 
 <td class="text"><h3><span class="cat">DIGITAL ISSUE 10, MAR 2023</span>
-<br>Ethos Print Issue 10</h3>	
+<br>Ethos Digital Issue 10</h3>	
 <p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
 
 
@@ -82,7 +91,7 @@ margin-top:20px;
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Cropped_images/Ethos_Digital_10/editorial_landing.jpg"></td>
+<td class="img"><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></td>
 
 <td class="text">
 <h3>Editorial </h3>
@@ -207,3 +216,7 @@ Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinki
 </tr>
 </tbody>
 </table>
+
+<div class="back">
+<a href="/all-issues/">Back to All Issues</a>
+</div>

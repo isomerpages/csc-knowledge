@@ -23,9 +23,7 @@ permalink: /privacy/
     
 
 7.  Please contact [cscollege@cscollege.gov.sg](mailto:cscollege@cscollege.gov.sg) :&nbsp;
-    
-
-1.  For any enquires or feedback on our data protection policies and procedures, &nbsp;
-    
-
-2.  If you require more information on or access to the data which you have earlier provided to us.
+<ul>
+	<li>For any enquires or feedback on our data protection policies and procedures, &nbsp;</li>
+	<li>If you require more information on or access to the data which you have earlier provided to us.</li>
+</ul>

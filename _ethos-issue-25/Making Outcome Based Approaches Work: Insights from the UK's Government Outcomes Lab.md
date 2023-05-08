@@ -1,7 +1,7 @@
 ---
-title: "Making Outcome Based Approaches Work: Insights from the UK's Government
+title: "Making Outcome-Based Approaches Work: Insights from the UK's Government
   Outcomes Lab"
-permalink: /ethos-issue-25/outcome/
+permalink: /ethos-issue-25/making-outcome-based-approaches-work/
 description: ""
 image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg
 ---
@@ -26,13 +26,15 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg
 	
 .break1
 {
-	font-family: "montserrat";	
-	font-size:25px;
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 	
 .title h4
 {
-color: #6FBE8A;	
+
 border-bottom: 2px solid #A9414D;
 padding-bottom:20px;
 }
@@ -71,8 +73,6 @@ font-size: 20px;
 {
 color: white;
 }
-
-	
 	
 .author
 {
@@ -81,35 +81,43 @@ margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
 }
+	
+.author p
+{
+	font-size:15px;
+	line-height:22px;
+}
+
+.notestop ol li
+{
+font-size: 15px;	
+}
+	
+	
 
 </style>
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_MaraAiroldi.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_maraairoldi%2002.jpg">
 </div>
 
-
-	
-	
 <h3>Introduction</h3>
 
-<p>The Government Outcomes Lab is a research programme based at Oxford’s Blavatnik School of Government.1 It started in 2016 as a partnership between the UK Government and the University of Oxford, to look at ways to tackle complex social and environmental issues by working collaboratively across sectors. In today’s hybrid environment, public services are no longer just delivered by the public sector. Instead, we now see a multiplicity of actors, including the private sector, impact investors, non-profit organisations, voluntary groups and social enterprises. This is enriching, but also challenging: how do you bring them together to work effectively towards shared goals?</p>
+<p>The Government Outcomes Lab is a research programme based at Oxford’s Blavatnik School of Government.<sup><a href="#num1">1</a></sup> It started in 2016 as a partnership between the UK Government and the University of Oxford, to look at ways to tackle complex social and environmental issues by working collaboratively across sectors. In today’s hybrid environment, public services are no longer just delivered by the public sector. Instead, we now see a multiplicity of actors, including the private sector, impact investors, non-profit organisations, voluntary groups and social enterprises. This is enriching, but also challenging: how do you bring them together to work effectively towards shared goals?</p>
 
 
-<p>When the GO Lab was set up, the UK Government was about to launch a very large programme called the Life  Chances Fund. This was aimed at exploring how a particular instrument—social impact bonds—could contribute to the portfolio of what government was doing. At the time, the evidence about the effectiveness of such instruments was still very weak. Since then, we have been working alongside government to investigate this, gathering evidence from all over the world on these instruments and how they work.</p>
+<p>When the GO Lab was set up, the UK Government was about to launch a very large programme called the Life Chances Fund. This was aimed at exploring how a particular instrument—social impact bonds—could contribute to the portfolio of what government was doing. At the time, the evidence about the effectiveness of such instruments was still very weak. Since then, we have been working alongside government to investigate this, gathering evidence from all over the world on these instruments and how they work.</p>
 
 <p>This means the government’s share of GDP is expected to rise. In the private sector, you’re paying for these better services. But in the public sector, there’s a limit to how much you can meet these higher expectations purely through tax-based public funding. In countries like the UK, for instance, it’s taboo to even think about market pricing for healthcare services because of perceived inequalities in affordability.</p>
 
 <p>So, increasing demands on the public sector are not going to go away, but there is a limit to how much public funds we can raise through taxation. The question is how we are going to manage both the demand for and supply of government services. We will have to get much more efficient in what we do and ﬁnd better ways of doing the same things, because we cannot just keep throwing money at problems.</p>
-
 
 <p>In the beginning, the government wanted to know if social impact bonds "work".  Over time, we unpacked this question—a social impact bond may or may not work, in the same way a simple grant may or may not work. So the question is more about the circumstances under which instruments like social impact bonds are more likely to be effective. We have found that there is no one model: the term "social impact bond" or "social impact partnership" is in fact an umbrella term that includes very many practices and types of agreements between  the public sector and other sectors, including impact investors and those from the non-proﬁt world.</p>
 
 <p>The core idea is what we call an outcome-based approach: we come to an agreement for the provision of a particular activity or service, but we will pay only when a certain level of predeﬁned outcomes has been  achieved. A social impact bond is thus a kind of outcome-based ﬁnancing model based on the presence of an impact investor who is willing to provide the upfront capital to provide the service, which will only be paid ex-post, and only if outcomes have been delivered.</p>
 
 <div class="break">
-<p class="break1">"Outcome-based approaches are most successfully deployed as part of attempts to do things differently because the status quo has not  
-been satisfactory."</p>
+<p class="break1">Outcome-based approaches are most successfully deployed as part of attempts to do things differently because the status quo has not been satisfactory.</p>
 </div>
 
 <p>The idea is that the impact investor will bear the risk in case the pre-agreed outcomes have not been achieved. Given the resource constraints of the public sector, outcome-based contracting is hence, potentially, a good way to make more efficient use of resources, because the government only has to pay when it works. If a programme is successful, and governments pay for the achieved outcomes, the originally invested capital could even be reinvested in the same  or other programmes.</p>
@@ -119,8 +127,8 @@ been satisfactory."</p>
 <p>Nevertheless, in our research, we have found that outcome-based contracts tend to be most effective when designed and used intentionally to improve collaboration, prevention or innovation.</p>
 
 
-<h3>Three Logics of  Outcome-Based Contracting</h3>
-<br>
+<h3>Three Logics of Outcome-Based Contracting</h3>
+
 <div class="title">
 <h4><span class="num">1</span>&nbsp;&nbsp;&nbsp;Logic of Collaboration</h4>
 </div>
@@ -135,7 +143,7 @@ been satisfactory."</p>
 
 <br>
 <div class="title">
-<h4><span class="num">2</span>&nbsp;&nbsp;&nbsp;&nbsp;Logic of Prevention</h4>
+<h4><span class="num">2</span>&nbsp;&nbsp;&nbsp;Logic of Prevention</h4>
 </div>
 
 <p>The public sector is often ﬁreﬁghting and having to intervene in one crisis after another. With greater demand for public services and increasingly constrained resources, the pressure is to cut provision in some areas. The investments that bring beneﬁts only in the longer term, such as preventative services, are often the ones that get dropped ﬁrst.</p>
@@ -147,7 +155,7 @@ been satisfactory."</p>
 
 <br>
 <div class="title">
-<h4><span class="num">3</span>&nbsp;&nbsp;&nbsp;&nbsp;Logic of Innovation</h4>
+<h4><span class="num">3</span>&nbsp;&nbsp;&nbsp;Logic of Innovation</h4>
 </div>
 
 <p>The public sector is often considered conservative, risk averse, and not particularly innovative. We tend to see interventions being delivered over and over, without checking if they actually work. Doing the same thing avoids blame, compared to trying something courageous and new where something might go wrong.</p>
@@ -157,7 +165,7 @@ been satisfactory."</p>
 <p>Even if the logics are clear and in place, there are many different ways to carry out outcome-based contracts. Outcome-based approaches are complex instruments. Not all projects will succeed. Transaction costs can be high, and without clarity of intention and commitment, people can lose patience and then little benefit is gained afterwards. We see that these instruments have been most effective when they are used to adapt, change and build relationships in the field, in order to create a working ecosystem and a learning culture.</p>
 
 <div class="break">
-<p class="break1">"Outcome-based approaches are complex instruments. Not all projects will succeed."</p>
+<p class="break1">Outcome-based approaches are complex instruments. Not all projects will succeed.</p>
 </div>
 
 
@@ -180,8 +188,7 @@ been satisfactory."</p>
 </h4>
 </div>
 
-<p>Much goes on during the delivery of a service that can make a difference to whether an intervention works. In typical public sector procurement, most attention is paid to a contract before it is issued, but afterwards little is paid to the job until the contract is due to be renewed. However, when an impact investor is involved in an outcome-based contract, they have a stake in making sure the project succeeds: otherwise, they lose their capital. 
-</p>
+<p>Much goes on during the delivery of a service that can make a difference to whether an intervention works. In typical public sector procurement, most attention is paid to a contract before it is issued, but afterwards little is paid to the job until the contract is due to be renewed. However, when an impact investor is involved in an outcome-based contract, they have a stake in making sure the project succeeds: otherwise, they lose their capital. </p>
 
 <p>A good investor, typically in close collaboration with the other stakeholders involved in the programme, will practise active performance management: they will come to the table to check that things are on track, and that the outcomes are being delivered as intended. While there are transaction costs to meetings and handholding, there could be benefits from this hands-on approach that outweigh the additional cost as delivery problems can be tackled promptly.</p>
 
@@ -192,14 +199,11 @@ been satisfactory."</p>
 
 <p>How impact is measured in outcome-based contracts is crucial. Metrics and performance indicators are meant to be proxies for what the outcomes are, but they exist on a continuum and not all of them will be directly indicative of the outcome. While it is rare for payment in outcome-based contracts to be 100% based on purely outcome-driven indicators, how these proxy measures are used seems to make a difference to the success of a project. They shape the motivation and focus of the contracted organisation.</p>
 
-<p>In one example we have seen, two organisations were given the same contract to tackle homelessness in the UK. One used the outcome-based approach to motivate staff to do things differently, and to redefine what good looked like. The other organisation, which was smaller and more dependent on the contract’s paid value, put emphasis on meeting targets. The metrics were the same, but the way they were used to manage staff was different. In one organisation, the emphasis was on learning how to achieve outcomes. In the other, staff seemed more pressured to deliver </p>
-
 <div class="break">
-<p class="break1">"Organisations that are willing to work in a relational fashion seem to make the best use of flexible contractual arrangements. "</p>
+<p class="break1">Organisations that are willing to work in a relational fashion seem to make the best use of flexible contractual arrangements.</p>
 </div>
 
-<p>on targets and demotivated. The same contract was deployed by one organisation to build a culture of learning and to focus on the long term, while the other used it transactionally. This experience teaches us that contractual clauses and technical features of these instruments are only half of the story.</p>
-
+<p>In one example we have seen, two organisations were given the same contract to tackle homelessness in the UK. One used the outcome-based approach to motivate staff to do things differently, and to redefine what good looked like. The other organisation, which was smaller and more dependent on the contract’s paid value, put emphasis on meeting targets. The metrics were the same, but the way they were used to manage staff was different. In one organisation, the emphasis was on learning how to achieve outcomes. In the other, staff seemed more pressured to deliver on targets and demotivated. The same contract was deployed by one organisation to build a culture of learning and to focus on the long term, while the other used it transactionally. This experience teaches us that contractual clauses and technical features of these instruments are only half of te story.</p>
 
 <br>
 <div class="title1">
@@ -233,25 +237,20 @@ been satisfactory."</p>
 	
 <p>INDIGO seeks to digitise and make accessible all empirical evidence on outcome-based contracts, as well as papers, reports and evaluations that provide credible empirical insights on how the outcome-based approach works. The aim is to bring evidence to bear in public sector decision-making, as well as to capture and promote institutional learning about this approach globally.</p>	
 
-<p>For more information, see: <a href="https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/"><b>https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/</b></a></p>	
+<p>For more information, see: <a target="_blank" href="https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/">https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/</a></p>	
 	
 </div>
-
-<div class="break">
-<p class="break1">" We need to invest in creating a professional norm that emphasises learning and being open to sharing the insights from both what has worked well and what has not. "</p>
-</div>
-
 
 <br>
 <div class="title1">
 <h4>A Culture of Learning</h4>
 </div>
 
-<p>For the civil servant looking to implement good outcome-based approaches, we have found that it is important to have a mindset of wanting to learn and being open to being wrong. In public sector work, the narrative is often about success and failure. That is the wrong narrative. Whether or not a programme delivers what is expected, we should ask: why did it or why did it not do so? </p>
+<p>For the civil servant looking to implement good outcome-based approaches, we have found that it is important to have a mindset of wanting to learn and being open to being wrong. In public sector work, the narrative is often about success and failure. That is the wrong narrative. Whether or not a programme delivers what is expected, we should ask: why did it or why did it not do so?</p>
 
 <p>This also implies that when government agencies contract out for a service, they should also always acquire the resultant data. This is where the real insights are, but all too often these stay with the organisations providing the service. When we buy a service, we should also buy the learning, and that learning should be shared.</p>
 
-<p>We need to bring back learning as a key objective, because the world is not static, and neither are societal problems. We need to have an incurably curious mind that continually asks: If this intervention works, I wonder how long it will work for? And if it doesn’t, why not? Centring learning also allows us to open up and  say: Something that has worked  elsewhere or worked in the past didn’t work in this situation—why is that?</p>
+<p>We need to bring back learning as a key objective, because the world is not static, and neither are societal problems. We need to have an incurably curious mind that continually asks: If this intervention works, I wonder how long it will work for? And if it doesn’t, why not? Centring learning also allows us to open up and say: Something that has worked  elsewhere or worked in the past didn’t work in this situation—why is that?</p>
 
 <p>So often in the public sector there is a culture of blame, and of ﬂying low. We need to invest in creating a professional norm that emphasises learning and being open to sharing the insights from both what has worked well and what has not. We could begin by anonymising the case examples, while emphasising the ethical need to share the learning. </p>
 
@@ -266,9 +265,9 @@ been satisfactory."</p>
 </div>
 
 <div class="notestop">
-<h6>NOTE:</h6>
+<h6>NOTE</h6>
 <ol class="note">
-<li>Government Outcomes Lab, accessed February 23, 2023, https://golab.bsg.ox.ac.uk/ </li>
+<li id="num1">Government Outcomes Lab, accessed February 23, 2023, <a target="_blank" href="https://golab.bsg.ox.ac.uk/"> https://golab.bsg.ox.ac.uk/</a>.</li>
 </ol>
 </div>
 

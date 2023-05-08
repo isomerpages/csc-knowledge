@@ -1,6 +1,6 @@
 ---
 title: "Sectoral Collaboration as Public Resource: A Conversation with Gus O’Donnell"
-permalink: /ethos-issue-25/sectoral/
+permalink: /ethos-issue-25/sectoral-collaboration-as-public-resource/
 description: ""
 image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg
 ---
@@ -25,8 +25,10 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg
 	
 .break1
 {
-	font-family: "montserrat";	
-	font-size:25px;
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 	
 #excel h5
@@ -101,30 +103,40 @@ padding-bottom:30px;
 border-top: 1px solid black;	
 }
 
+.author p
+{
+font-size:15px;
+line-height: 22px;
+}
+
+.notestop ol li
+{
+	font-size: 15px;
+	line-height: 22px;
+}
+
 </style>
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GusODonnell.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_gusodonnell%2002.jpg">
 </div>
-
 	
-<h3>Why is public resourcing going to be an important concern for governments in future?</h3>
+<h4>Why is public resourcing going to be an important concern for governments in future?</h4>
 
 <p>The next decade will be dominated by three trends—what fellow economist Mark Carney and I have framed as the 3 Ds—Digitisation, Decarbonisation and Deglobalisation. These will require us to think differently about what we do, but it is clear this will be a future in which government will be required to do more.</p>
-
 
 <p>For instance, in the coming decade, we are going to see countries spending a lot more on defence, as the world is becoming more insecure. Private sector delivery of goods and services has also become more data-based and efficient, raising people’s expectations of service delivery in general.</p>
 
 <p>This means the government’s share of GDP is expected to rise. In the private sector, you’re paying for these better services. But in the public sector, there’s a limit to how much you can meet these higher expectations purely through tax-based public funding. In countries like the UK, for instance, it’s taboo to even think about market pricing for healthcare services because of perceived inequalities in affordability.</p>
 
-<p>So, increasing demands on the public sector are not going to go away, but there is a limit to how much public funds we can raise through taxation. The question is how we are going to manage both the demand for and supply of government services. We will have to get much more efficient in what we do and ﬁnd better ways of doing the same things, because we cannot just keep throwing money at problems.</p>
-
 <div class="break">
-<p class="break1">"We will have to get much more 
-efficient in what we do and find better ways of doing the same things, because we cannot just keep throwing money at problems. "</p>
+<p class="break1">We will have to get much more 
+efficient in what we do and find better ways of doing the same things, because we cannot just keep throwing money at problems.</p>
 </div>
 
-<h3>How should governments think differently about their longer-term resource concerns?</h3>
+<p>So, increasing demands on the public sector are not going to go away, but there is a limit to how much public funds we can raise through taxation. The question is how we are going to manage both the demand for and supply of government services. We will have to get much more efficient in what we do and ﬁnd better ways of doing the same things, because we cannot just keep throwing money at problems.</p>
+
+<h4>How should governments think differently about their longer-term resource concerns?</h4>
 
 <p>In the UK, as with many countries including Singapore, you have populations that are getting older on average, driving up the dependency ratios. In the UK, we also see the rise in what we call ‘inactivity’ in the 50+ age group. During COVID, many in this group worked from home and a number of them realised they preferred it to commuting to work—at the end of the lockdowns, they decided to exit the workforce rather than return to the office. This raises the question of whether their pensions are enough to keep them going. For now, they have decided that they are better off not working than working.</p>
 
@@ -132,25 +144,22 @@ efficient in what we do and find better ways of doing the same things, because w
 
 <p>One issue we have to come to grips with is that volunteering generates no income and will not show up in GDP. This is one reason why we should not judge societal success by GDP growth rates. For instance, parents who decide to stay at home and look after their children are doing something valuable, yet it is going to hit GDP as opposed to them going into traditional employment. We need to bear in mind that if they do go to work and pay for childcare, there will be a lot more taxes generated compared to if they stay at home. So there are public finance implications to thinking this way, which will need to be factored in.</p>
 
-<p>But more and more, we see countries a round the world tr ying to f ind  better alternatives to GDP, with some referring to happiness indices. I don’t use happiness much: as a species, we are evolutionarily guided towards immediate, short-term happiness and away from worrying about the long term. Instead, we should be thinking about how people can do the right things to lead worthwhile, satisfying lives over the long run.</p>
+<p>But more and more, we see countries around the world trying to find better alternatives to GDP, with some referring to happiness indices. I don’t use happiness much: as a species, we are evolutionarily guided towards immediate, short-term happiness and away from worrying about the long term. Instead, we should be thinking about how people can do the right things to lead worthwhile, satisfying lives over the long run.</p>
 
 <p>Doing this would also reduce demands on the public sector. For instance, if we improve people’s diets, get them exercising, stop them smoking and so on, we keep people healthy, give them a better quality of life, and also reduce pressure on healthcare resources. This would also feed back into people being more productive, which improves the tax base with more resources to meet other needs.</p>
 
 <div class="break">
-<p class="break1">"We should be thinking about 
-how people can do the right things to lead worthwhile, satisfying lives over the long run."</p>
+<p class="break1">We should be thinking about 
+how people can do the right things to lead worthwhile, satisfying lives over the long run.</p>
 </div>
 
-<h3>How can governments better appreciate and harness the public value generated by other sectors?</h3>
+<h4>How can governments better appreciate and harness the public value generated by other sectors?</h4>
 
 <p>A lot of the conversations we have are about whether something should be done by the government or the private sector, and we leave out the social sector completely. I think it would be much better if we think about these three sectors, and consider: what are their comparative advantages?</p>
 
 <p>The social sector has value that is distinct from public services. A government can generally only make standardised, broad provisions. But for many issues, you have to be very local—you have to think about a community’s or an individual’s unique needs. You need people who know the ground: who really needs help and who doesn’t. It’s not about legislation but local knowledge, and that’s a comparative advantage of the social sector.</p>
 
-<div class="break">
-<p class="break1">"A lot of the conversations we have are about whether 
-something should be done by the government or the private sector, and we leave out the social sector completely."</p>
-</div>
+<div class="break"><p class="break1">A lot of the conversations we have are about whether something should be done by the government or the private sector, and we leave out the social sector completely.</p></div>
 
 <p>The government should be asking: what are the areas the social sector does best? How can government and the private sector support the social sector so that everyone is working towards their comparative advantages?</p>
 
@@ -161,21 +170,21 @@ something should be done by the government or the private sector, and we leave o
 <p>It will also depend on the local culture and people’s preferences: whether, for instance, there is a stigma associated with services provided by the social sector, or by government, or whether there is a culture of philanthropy with very high net worth individuals finding ways to do things the state cannot do.</p>
 
 <div class="break">
-<p class="break1">"  What is the right balance to strike between the sectors? A fundamental principle is: who  does it best?"</p>
+<p class="break1">What is the right balance to strike between the sectors? A fundamental principle is: who  does it best?</p>
 </div>
 
 <p>So, you’ll need to calibrate differently in different places. To my mind, a fundamental principle is: who does it best?</p>
 
-<p>Part of the problem is that there’s not enough measurement of the impact of the social sector. I chair a commission called the Law Family Commission on Civil Society, which has to do with the social sector. Together with Andy Haldane, Chief Economist of the Bank of England and one of our trustees, we have been working on ways to measure the output of the social sector, and it turns out that their contribution is being underestimated possibly by a factor of up to ten.</p>
+<p>Part of the problem is that there’s not enough measurement of the impact of the social sector. I chair a commission called the Law Family Commission on Civil Society, which has to do with the social sector. Together with Andy Haldane, Chief Economist of the Bank of England and one of our trustees, we have been working on ways to measure the output of the social sector, and it turns out that their contribution is being underestimated possibly by a factor of up to ten.<sup><a href="#num1">1</a></sup></p>
 
 <p>The social sector can be relatively inefficient, partly because they are not held to account in quite the same way as the private or public sectors. People go into charities because they are passionate about, say, curing a disease; they are not passionate about spreadsheets and surveys. It’s good for them to say, well we’re helping all these people. They are doing this out of the goodness of their heart. The fact that they could do it much more efficiently is neither here nor there to them.</p>
 
-<p>We also ﬁnd charities spending huge amounts of their money on just applying for grants, in a way that’s very inefficient. This is why at Pro Bono Economics, we have been trying to think about general ways of prompting the social sector to become more productive; to unleash their potential.</p>
+<p>We also ﬁnd charities spending huge amounts of their money on just applying for grants, in a way that’s very inefficient. This is why at Pro Bono Economics, we have been trying to think about general ways of prompting the social sector to become more productive; to unleash their potential.<sup><a href="#num2">2</a></sup></p>
 
 <p>We provide charities with ways to measure their impact, doing simple things such as cost-beneﬁt analyses.</p>
 
 
-<h3>What is needed to nurture a more productive relationship between the sectors?</h3>
+<h4>What is needed to nurture a more productive relationship between the sectors?</h4>
 
 <p>For government, there is ﬁrst a real need to understand the different sectors. Singapore is very good at getting civil servants to understand the private sector and getting the private and public sectors to work together. The UK is not as good: we have massive pay gaps, and a culture where we keep the private sector at arm’s length because of potential conﬂicts of interest.</p>
 
@@ -186,9 +195,7 @@ something should be done by the government or the private sector, and we leave o
 <p>Governments should be thinking much more about cross-departmental teams that break down functional barriers, with all the key people at the table. For example, civil servants might analyse what is going on, give the best facts, saying what we can do to help and what our constraints are, so that the politicians can have a good evidence base. The political leadership can then talk about the kind of solutions they have in mind, and the officials could then respond in turn to what could or could not work. But that’s just step one.</p>
 
 <div class="break">
-<p class="break1">"If you put all three sectors in a room to solve issues 
-together, you might come up with new and very different answers which have everybody contributing, as opposed to it just being a government problem."</p>
-</div>
+<p class="break1">If you put all three sectors in a room to solve issues together, you might come up with new and very different answers which have everybody contributing, as opposed to it just being a government problem.</p></div>
 
 <p>Step two is realising that perhaps the government cannot solve this problem entirely on its own, and you need to have a meeting where you bring in the other sectors to help address the problem. And then you get the three sectors together to come up with an answer where there is mutual advantage. If you put all three sectors in a room to solve issues together, you might come up with new and very different answers which have everybody contributing, as opposed to it just being a government problem.</p>
 
@@ -211,10 +218,10 @@ together, you might come up with new and very different answers which have every
 <p><b>Lord Augustine O’Donnell</b> is Senior Visiting Fellow at the Civil Service College. He has been non-Executive Chairman of Frontier (Europe) since October 2013. After joining the Treasury in 1979, he held various positions at the British Embassy in Washington, the International Monetary Fund and the World Bank. From 2002 to 2005, he was Permanent Secretary at the Treasury and in 2005 became Cabinet Secretary and Head of Civil Service. He held this position until 2011, serving three Prime Ministers. Lord Gus studied economics at the University of Warwick and holds an MPhil in Economics from Nuffield College, Oxford. He lectured in Economics at the University of Glasgow.</p></div>
 
 <div class="notestop">
-<h6>NOTES:</h6>
+<h6>NOTES</h6>
 <ol class="note">
-<li>See “Unleashing the Power of Civil Society”, January 2023, accessed March 1, 2023, https://civilsocietycommission.org/publication unleashing-the-power-of-civil-society/.</li>
-<li>Ibid</li>
+<li id="num1">See “Unleashing the Power of Civil Society”, January 2023, accessed March 1, 2023, <a target="_blank" href="https://civilsocietycommission.org/publication/unleashing-the-power-of-civil-society/">https://civilsocietycommission.org/publication/unleashing-the-power-of-civil-society/</a>.</li>
+<li id="num2">Ibid</li>
 </ol>
 </div>
 

@@ -5,8 +5,6 @@ description: ""
 image: /images/Ethos_Images/Ethos_Digital_Issue_10/LettingGo_banner-teaser.jpeg
 ---
 <style>
-
-
 	
 .back a
 {
@@ -21,15 +19,13 @@ image: /images/Ethos_Images/Ethos_Digital_Issue_10/LettingGo_banner-teaser.jpeg
 	
 .break
 {
-border-bottom: 1px solid black;
-font-weight:bold;
-font-style: italic;
-padding:20px;
-margin:10px;	
-font-size:20px;
-padding-bottom:30px;
-border-top: 1px solid black;	
-}			
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	padding:20px;
+	text-align:center;
+	font-size:30px;
+	margin-top:50px;
+}
 
 .point img
 {
@@ -43,10 +39,6 @@ width:50%;
 	padding:10px;
 }
 
-
-	
-	
-	
 .author
 {
 border-bottom: 1px solid black;
@@ -54,6 +46,26 @@ margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
 
+}		
+	
+.author p
+{
+	font-size: 15px;
+	line-height:24px;
+}
+	
+.notestop ol li
+{
+font-size: 15px;
+line-height:22px;
+}	
+	
+.break1
+{
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }		
 	
 	
@@ -66,7 +78,7 @@ border-top: 1px solid black;
 	
 	
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LettingGo_banner-teaser.jpeg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/banner_lettinggo.jpg">
 </div>
 
 <h2>What’s Holding Us Back?</h2>
@@ -77,18 +89,16 @@ border-top: 1px solid black;
 
 <p>That said, cutting out-of-date, less important, historic, or no longer useful projects can be easier said than done. Sometimes, our reluctance to drop projects can get in the way of streamlining, prioritising, and new opportunities. We need to be honest about why we are struggling to let go of what is no longer relevant to our needs.</p>	
 
-<br>
-
-<ul>
 <p><b>We may struggle to let go of projects, when:</b></p>
-<li>We are emotionally connected to the project</li>
+<ul><li>We are emotionally connected to the project</li>
 <li>Letting go may mean one is less important, valuable or needed</li>
 <li>It feels like a waste of the time and energy already spent</li>
 <li>We are afraid of the new and unknown</li>
 </ul>	
 
 
-<div class="break"><p>Cutting out-of-date, less important, historic, or no longer useful projects can be easier said than done.</p></div>
+<div class="break">
+<p class="break1">Cutting out-of-date, less important, historic, or no longer useful projects can be easier said than done.</p></div>
 
 <h3>Emotional connection to the project</h3>
 <p>Some projects have been with us for so long that it becomes a part of who we are. To get rid of it would mean changing ourselves! As a researcher, I jokingly refer to my research projects as “my babies”. While I don't actually view them as my children, it represents the emotional connection I have with them. Each project is a labour of love—I have devoted time and effort to them, and I feel proud of what I have produced.</p>
@@ -105,7 +115,8 @@ border-top: 1px solid black;
 
 <p>Consciously or unconsciously, such changes can make us question our worth as staff. Instead, we should learn to delink our self-worth from specific projects, realise that we can continue to contribute, by learning how best to apply our expertise and efforts given the new priorities.</p>
 
-<div class="break"><p>Our self-worth can become tied to the projects we work on, to which we have given our best efforts.</p></div>
+<div class="break">
+<p class="break1">Our self-worth can become tied to the projects we work on, to which we have given our best efforts.</p></div>
 
 <h3>It feels like a waste of the time and energy already spent</h3>
 
@@ -117,7 +128,8 @@ border-top: 1px solid black;
 
 <p>By letting go of what no longer best serves us, we open ourselves up to new opportunities to succeed. We may have learnt better what to do or not do next time, or have a better idea who best to partner with, or how to design a more effective intervention.</p>
 
-<div class="break"><p>By letting go of what no longer best serves us, we open ourselves up to new opportunities to succeed.</p></div>
+<div class="break">
+	<p class="break1">By letting go of what no longer best serves us, we open ourselves up to new opportunities to succeed.</p></div>
 
 
 <h3>Fear of the unknown and of novel projects</h3>
@@ -129,7 +141,8 @@ border-top: 1px solid black;
 <p>In contrast, sitting with uncertainty or facing up to change is unpleasant and anxiety-inducing for many of us. We ask ourselves: Do I have what it takes to succeed with the new projects? Will I lose control of the work I do? Will I end up with more work? Will I still have a role at all? This fear of the unknown and uncertain is common but it holds us back from growth, nevertheless.</p>
 
 
-<div class="break"><p>Change often means leaving behind what is comfortable and what we are accustomed to, for a future that has neither roadmap nor guarantees</p></div>
+<div class="break">
+<p class="break1">Change often means leaving behind what is comfortable and what we are accustomed to, for a future that has neither roadmap nor guarantees.</p></div>
 
 <h2>Let It Go!</h2>
 
@@ -137,28 +150,10 @@ border-top: 1px solid black;
 
 <p>Here are some tips:</p>
 
-<table class="point">
- <tbody>
-<tr>	
-<td><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/Point_1.png"></td>
-<td>Step back to the bigger picture.</td>
-</tr>
-	<tr>
-	<td><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/Point_2.png"></td>
-	<td>Start with the end in mind.</td>
-</tr>
-<tr>
-	<td><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/Point_3.png"></td>
-	<td>Look for the learning.</td>
-</tr>
-<tr>
-	<td><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/Point_4.png"></td>
-	<td>Tie up loose ends and get closure.</td>
-</tr> 	 
-	
-	
-</tbody>
-</table>
+
+<figure class="point">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/ethos_apr2023_letitgo_4points.jpg">
+</figure>
 
 
 <h3>Step back to the bigger picture</h3>
@@ -174,7 +169,8 @@ border-top: 1px solid black;
 <p>This can be useful if the project has to end prematurely or does not conclude as originally envisioned. Even if the end point has not been reached, we can still identify what else we have gained from the experience.</p>
 
 
-<div class="break"><p>When we start projects and form teams, we often forget to conceptualise the end of the project.</p>
+<div class="break">
+<p class="break1">When we start projects and form teams, we often forget to conceptualise the end of the project.</p>
 </div>
 
 <h3>Look for the learning</h3>
@@ -198,7 +194,8 @@ border-top: 1px solid black;
 
 <p>This also means all projects are opportunities for growth and development—a chance to hone new skills or receive new insights—which can help reduce the anxiety we may face when approaching new initiatives or unknown circumstances.</p>
 
-<div class="break"><p>We should plan for learning from the start of our projects, and put processes in place to support learning along the way.</p>
+<div class="break">
+<p class="break1">We should plan for learning from the start of our projects, and put processes in place to support learning along the way.</p>
 </div>
 
 <h3>Tie up loose ends and get closure</h3>
@@ -213,7 +210,7 @@ border-top: 1px solid black;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<p>by <b>Aurora de Souza Watters</b>&nbsp;is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.</p>
+<p><b>Aurora de Souza Watters</b>&nbsp;is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.</p>
 	
 </div>	
 	

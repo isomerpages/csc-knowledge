@@ -1,5 +1,5 @@
-title: Knowledge Hub
-url: https://www.open.gov.sg
+title: CSC Knowledge
+url: https://knowledge.csc.gov.sg
 favicon: /images/csc_logo.png
 colors:
   primary-color: "#f68b1f"
@@ -15,7 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Empowering our public officers with the skills, insights and
+  inspiration to make a meaningful impact in their roles.
 permalink: none
 baseurl: ""
 exclude:
@@ -53,7 +54,7 @@ staging: https://staging.d3c55qq5mgvix5.amplifyapp.com
 prod: https://master.d3c55qq5mgvix5.amplifyapp.com
 resources_name: archive
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""

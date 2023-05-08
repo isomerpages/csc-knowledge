@@ -6,7 +6,13 @@ image: /images/Cropped_images/Ethos_Digital_10/Digital10-01.jpg
 ---
 <style>
 
-
+.break1
+{
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
 	
 .back a
 {
@@ -28,12 +34,31 @@ border-top: 1px solid black;
 
 }		
 	
+.author p
+{
+	font-size: 15px;
+	line-height:24px;
+}
+	
+.notestop ol li
+{
+font-size: 15px;
+line-height:22px;
+}	
+	
+.break1
+{
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 </style>
 	
 <div class="background-image">
-<img src="/images/Cropped_images/Ethos_Digital_10/Digital10-01.jpg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/banner_prioritisation.jpg">
 </div>
-<br>
 
 <p>
 Prioritisation is an ever-present reality that we all face in the Public Service. To generate greater impact and the best public value, we must put our scarce resources to their best use. This often means we have to prioritise how we spend our money, time, and effort.</p>
@@ -46,7 +71,7 @@ Prioritisation is an ever-present reality that we all face in the Public Service
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-by <b>Aurora de Souza Watters</b> is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.
+<p><b>Aurora de Souza Watters</b> is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College.</p>
 	
 	
 	

@@ -47,7 +47,7 @@ operational interventions which contribute to larger policy objectives. Examples
 other countries are featured to illustrate key learning points.</p>
 
 <br>
-Download the book <a href="https://go.gov.sg/ebtoolkit">here.</a>
+Download the book <a target="_blank" href="https://go.gov.sg/ebtoolkit">here.</a>
 <br>
 
 

@@ -1,6 +1,6 @@
 ---
-title: Prioritising the Big Small Things for S.C.A.L.E
-permalink: /ethos-issue-25/scale/
+title: Prioritising the Big Small Things for S.C.A.L.E.
+permalink: /ethos-issue-25/prioritising-the-big-small-things-for-scale/
 description: ""
 image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
 ---
@@ -21,6 +21,7 @@ margin-top:50px;
 .word
 {
 font-weight: bold;
+font-size:25px;
 font-style: italic;
 }
 	
@@ -36,149 +37,126 @@ font-style: italic;
    border-bottom: 1px solid black;
 	 padding:20px;
 	text-align:center;
-	font-size:30px;
 	margin-top:50px;
 }
 	
 .break1
 {
-	font-family: "montserrat";	
-	font-size:25px;
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 	
 	
-.letter-s
+#strategy h4
 {
 	color: #ED746F; 
 	font-weight: bold;
-	font-size:25px;
 }
 	
 .strategy1
 {
 background-color: #ED746F; 	
 padding:40px;
+margin:30px;
 color:white;
-border-radius: 20px;
-margin-top:20px;
+border-radius: 10px;
 }
 	
 .strategy1 p
 {
-font-size: 22px;
-font-family: "montserrat";
+font-size: 22px
 }
 	
-.letter-c
+#culture h4
 {
 	color: #f19637; 
 	font-weight: bold;
-	font-size:25px;
-}
-
-.culture1 
-{
-background-color: #f19637; 	
-padding:50px;
-color:white;
-border-radius: 20px;
-margin-top:20px;
 }
 	
 .culture1 p
 {
 font-size: 22px;
-font-family: "montserrat";
 }	
 
-.letter-c
-{
-	color: #f19637; 
-	font-weight: bold;
-	font-size:25px;
-}
 
 .culture1
 {
 background-color: #f19637; 	
 padding:40px;
+margin:30px;
 color:white;
-border-radius: 20px;
+border-radius: 10px;
 }
 	
 .culture1 p
 {
 font-size: 22px;
-font-family: "montserrat";
 }		
 	
 
-.letter-a
+#alignment h4
 {
 	color: #24788e; 
 	font-weight: bold;
-	font-size:25px;
 }
 
 .alignment1 
 {
 background-color: #24788e; 	
 padding:40px;
+margin:30px;
 color:white;
-border-radius: 20px;
-margin-top:20px;
+border-radius:10px;
 }
 	
 .alignment1 p
 {
 font-size: 22px;
-font-family: "montserrat";
 }			
 	
 
-.letter-l
+#leadership h4
 {
 	color: #22b5a2; 
 	font-weight: bold;
 	font-size:25px;
 }
 
-.leadership1 
+.leadership1
 {
 background-color: #22b5a2; 	
 padding:40px;
+margin:30px;
 color:white;
-border-radius: 20px;
-margin-top:20px;
+border-radius: 10px;
 }
 	
 .leadership1 p
 {
 font-size: 22px;
-font-family: "montserrat";
 }	
 		
 
-.letter-e
+#empowerment h4
 {
 	color: #9780b9; 
 	font-weight: bold;
-	font-size:25px;
 }
 
 .empowerment1 
 {
 background-color: #9780b9; 	
 padding:40px;
+margin:30px;
 color:white;
-border-radius: 20px;
-margin-top:20px;
+border-radius: 10px;
 }
 	
 .empowerment1 p
 {
 font-size: 22px;
-font-family: "montserrat";
 }		
 	
 #ilod
@@ -196,8 +174,6 @@ text-decoration: none;
 }
 
 	
-
-	
 .author
 {
 border-bottom: 1px solid black;
@@ -207,18 +183,27 @@ border-top: 1px solid black;
 }
 	
 	
+.author p
+{
+	font-size: 15px;
+	line-height:24px;
+}
+	
+.notestop ol li
+{
+font-size: 15px;
+line-height:22px;
+}
 	
 </style>
 
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_eileenwong_1%2002.jpg">
 </div>
 
+<p class="subhead"><span>A</span>ll organisations and teams face challenges in prioritisation. This is because workload gain, like weight gain, is insidious. It creeps up on us and is hard to get rid of. We rarely seek to add on more of it, but often ﬁnd ourselves inundated nevertheless.</p>
 
-
-<p class="subhead"><span>A</span>ll organisations and teams face    challenges in prioritisation. This is because workload gain, like weight gain, is insidious. It creeps up on us and is hard to get rid of. We rarely seek to add on more of it, but often ﬁnd ourselves inundated nevertheless.</p>
-
-<p>Our instinct when prioritising is to remove activities that take up time. But prioritising work is not about harnessing the willpower to say no to new things. Nor can we expect to start from a blank slate, like how Shopify cancelled meetings (some 322,000 hours’ worth) to free up time for staff members to get things done.</p>
+<p>Our instinct when prioritising is to remove activities that take up time. But prioritising work is not about harnessing the willpower to say no to new things. Nor can we expect to start from a blank slate, like how Shopify cancelled meetings (some 322,000 hours’ worth) to free up time for staff members to get things done.<sup><a href="#num1">1</a></sup></p>
 
 <p>Paradoxically, what we need instead is to spend time and energy deciding what we will do and what we will not do. </p>
 
@@ -229,26 +214,28 @@ border-top: 1px solid black;
 <p>For example, a senior leader at a management meeting might make it a point to clarify how a new staff idea could contribute tangibly to the agency’s longer-term plans. What might begin as one simple question could prompt other leaders and officers to think more intentionally about the investment of resources for an idea to achieve the agency’s goals. This is what we mean by a “big small thing” that can make a difference in shifting the way teams or organisations think about their work.</p>
 
 <div class="break">
-<p class="break1">" What we need is to spend time and energy 
-deciding what we will do and what we will not do."</p>
+<p class="break1">What we need is to spend time and energy deciding what we will do and what we will not do.</p>
 </div>
 
-<p>Based on insights from the ILOD Transformation Team’s consultancy work with close to 40 public agencies, we have  developed a <b>S.C.A.L.E. Framework</b> as a practical tool to help leaders and organisations prioritise more effectively by focusing on some big small things, along ﬁve key dimensions: Strategy, Culture, Alignment of processes , Leadership, and Empowerment.</p>
+<p>Based on insights from the ILOD Transformation Team’s consultancy work with close to 40 public agencies, we have  developed a <b>S.C.A.L.E. Framework</b> as a practical tool to help leaders and organisations prioritise more effectively by focusing on some big small things, along ﬁve key dimensions: Strategy, Culture, Alignment of processes, Leadership, and Empowerment.</p>
 
 <img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_2.jpg">
 
 
 <div id="strategy">
-<p class="letter-s">STRATEGY</p>
-	<b>Clarity for Crafting and Translating into Results</b>
+<h4>STRATEGY</h4>
+<b>Clarity for Crafting and Translating into Results</b>
 
 <div class="strategy1">
-	<p>The two questions you need to ask about your <span class="word">Strategy:</span></p>	
+	
+<p>The two questions you need to ask about your <span class="word">Strategy:</span></p>	
+	
 <ul>
 		<li>How is our work achieving what is core to our organisation?
 </li>
 		<li>How is our work reﬂecting what our organisation can uniquely do?</li>
 	</ul>
+	
 </div>
 
 <p>The most important step in prioritisation is to clarify the organisation’s strategy and to activate it in the work done, from the top all the way to the ground. In our consultancy work, we have heard varying degrees of clarity across different levels when officers are asked about their organisation’s focus. We often see organisations spending extensive effort in crafting strategic plans, but less effort in communicating and translating strategies into day-to-day work. </p>
@@ -258,14 +245,14 @@ deciding what we will do and what we will not do."</p>
 <p>When leaders take time to help others understand the core work and unique value created by their organisation, teams and officers will have more clarity in prioritising time and energy for work that matters.</p>
 
 <div class="break">
-<p class="break1">" When leaders take time to help others understand the work and value created by their organisation, officers will have more clarity in prioritising time and work."</p>
+<p class="break1">When leaders take time to help others understand the work and value created by their organisation, officers will have more clarity in prioritising time and work.</p>
 </div>
 </div>
 
 
 <div id="culture">
 	
-<p class="letter-c">CULTURE</p>
+<h4>CULTURE</h4>
 <b>Behaviours and Norms We Want More Of</b>
 
 <div class="culture1">
@@ -280,13 +267,13 @@ deciding what we will do and what we will not do."</p>
 
 <p>What gets rewarded gets done. An organisation’s culture is built and reinforced day by day through actual work behaviours and norms. Ask any newcomer to observe and share candidly what gets rewarded or frowned upon at the workplace. Their fresh perspectives—free from legacy experiences—offer an outside-in view of current work interactions.</p>
 
-<p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
 
+
+<p>This runs contrary to the call for prioritisation and reducing workload because we have been conditioned for success through adding and not subtracting. </p>	
+	
 <div class="break">
-<p class="break1">" We have been conditioned for success through adding and not subtracting."</p>
+<p class="break1">We have been conditioned for success through adding and not subtracting.</p>
 </div>
-
-<p>This runs contrary to the call for prioritisation and reducing workload because we have been conditioned for success through adding and not subtracting. </p>
 
 <p>In ILOD’s interactions with agencies, we have seen some leaders ﬁnd ways to combat such learned behaviours to do more. One leader articulated clear expectations of what was needed for a work deliverable and told officers what ‘done’ work would look like, to reduce unnecessary rework. Another leader clariﬁed with subordinates what good staffing looked like, to prevent overzealous preparations. One leader made the effort to email the entire division, openly lauding an officer who had put up a request to drop work that was no longer relevant. </p>
 
@@ -295,7 +282,7 @@ deciding what we will do and what we will not do."</p>
 </div>	
 	
 <div id="alignment" class="">
-<p class="letter-a">ALIGNMENT OF PROCESSES</p>
+<h4>ALIGNMENT OF PROCESSES</h4>
 <b>Jolt for Optimisation</b>
 
 <div class="alignment1">
@@ -309,20 +296,18 @@ deciding what we will do and what we will not do."</p>
 
 <p>Work processes can accumulate over time and be hard to get rid of. With the hybrid/ﬂexible work arrangements of the pandemic years, processes may even have multiplied. At the same time, the constraints imposed by the pandemic have also taught us that we can in fact do quite well with less. For example, we learnt that virtual meetings can save on commuting time while not compromising work outcomes.</p>
 
-<p>In a conventional workplace, officers are given additional projects beyond their core work in exchange for progress and rewards. While officers can gain exposure and growth opportunities, there is an implied message that one must do more to progress and be rewarded. Taking on ever more work becomes a learned behaviour. Furthermore, we have an intrinsic need to feel competent, which is more easily shown and experienced by doing more.</p>
-
 <p>One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value. During a leadership team conversation to address high workload, an agency head related his shock of discovering that over 20 iterations had been made to a set of meeting notes that the meeting chairperson did not even see. It could not be clearly determined if each layer added value. The high number of iterations prompted the leaders to discuss how they might have unknowingly contributed to similar inefficiencies. They decided to update the clearance process from a sequential ﬂow to using a shared platform for concurrent clearance by the required parties.</p>
 
 <p>Such a change was a relatively small step for them. But it was a big small thing that led to a shift in mindsets and expectations, prompting a broader relook and optimisation of how they had been working. </p>
 
 <div class="break">
-<p class="break1">"One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value."</p>
+<p class="break1">One big small thing we can do is to give ourselves an intentional jolt to see if our work processes are indeed adding value.</p>
 </div>
 
 </div>
 
 <div id="leadership">
-<p class="letter-l">LEADERSHIP</p>
+<h4>LEADERSHIP</h4>
 <b>Go Slow to Go Fast</b>
 
 <div class="leadership1">
@@ -339,10 +324,8 @@ deciding what we will do and what we will not do."</p>
 <p>Among the leaders we interacted with were a number of ‘positive deviants’—those who seemed to be able to cope and even thrive in this context. Their trade secret was common knowledge but not common practice: the importance of having white space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working.</p>
 	
 <div class="break">
-<p class="break1">"Common knowledge 
-but not common 
-practice: having white 
-space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working."</p>
+<p class="break1">Common knowledge but not common practice: having white 
+space to think and plan, while also taking time to get ground data to assess and adjust how well plans are working.</p>
 </div>	
 
 <p>In a leadership team planning discussion to chart plans for the agency’s strategy, one division head revealed that he asked his staff to set aside time every week as ‘free time’ to pause and think. He related how he blocked off two hours every week to reflect on the past week. This helped him sharpen his priorities. He finished his sharing with an apologetic look at the agency head because he had self-declared the ‘free time’ for his staff without prior permission. To his credit, the agency head nodded his approval as the room of leaders cheered at the encouraging confession.</p>
@@ -353,7 +336,7 @@ space to think and plan, while also taking time to get ground data to assess and
 
 
 <div id="empowerment">
-<p class="letter-e">EMPOWERMENT</p>
+<h4>EMPOWERMENT</h4>
 <b>Going beyond Shared Commitment to Shared Understanding</b>
 
 <div class="empowerment1">
@@ -369,13 +352,10 @@ space to think and plan, while also taking time to get ground data to assess and
 
 <p>This also means that leaders have the latitude to delegate formal authority, change informal norms and decision-making, and energise those in the levels below. This can be liberating for top leaders—freeing up time to keep track of what’s going on and prioritising well especially as the operating environment becomes increasingly complex. In other words, they can go slow to go fast.</p>
 	
-<p>In our consultancy work, we found that this empowerment can also go further to creating shared understanding.</p>
-
-<p>We have brought people together to share ‘what your world is like’ in various engagement sessions. In one cross-level discussion between senior leaders and middle managers, we created the space for them to share their respective conditions and challenges. At the start, the atmosphere in the room was tentative. Gradually, it became more uplifting as everyone took a small figurative step into one another’s worlds. By the end, there was a shared understanding of the different worlds of experiences in the group. All it took was a big small thing to come together to create shared understanding.</p>
+<p>In our consultancy work, we found that this empowerment can also go further to creating shared understanding. We have brought people together to share ‘what your world is like’ in various engagement sessions. In one cross-level discussion between senior leaders and middle managers, we created the space for them to share their respective conditions and challenges. At the start, the atmosphere in the room was tentative. Gradually, it became more uplifting as everyone took a small figurative step into one another’s worlds. By the end, there was a shared understanding of the different worlds of experiences in the group. All it took was a big small thing to come together to create shared understanding.</p>
 	
 <div class="break">
-<p class="break1">"When people are involved in making decisions or have 
-a say in the eventual plans, they are more motivated to see things through."</p>
+<p class="break1">When people are involved in making decisions or have a say in the eventual plans, they are more motivated to see things through.</p>
 </div>		
 	
 </div>
@@ -384,9 +364,9 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 
 <p>The S.C.A.L.E. Framework is versatile. It can be used as a full framework to cover all ﬁve dimensions. Each dimension can also be used separately in deep dive discussions to surface issues and big small things for improvement.</p>
 
-<p>The S.C.A.L.E. Framework is also  adaptable. We have used the S.C.A.L.E. Framework and assessment tool in a bespoke workshop designed for a Ministry's senior leadership team. In their discussions, they applied the framework to assess the state of prioritisation at the whole organisation level—for diverse functions as well as at the cluster or divisional level for intact teams.</p>
+<p>The S.C.A.L.E. Framework is also adaptable. We have used the S.C.A.L.E. Framework and assessment tool in a bespoke workshop designed for a Ministry's senior leadership team. In their discussions, they applied the framework to assess the state of prioritisation at the whole organisation level—for diverse functions as well as at the cluster or divisional level for intact teams.</p>
 
-<h3>Scaling Made Versatile and Adaptable</h3>
+<h3>The Big Small Things Compounded to Keep Off the ‘Pounds’</h3>
 
 <p>Many of the examples from our consultancy experiences are small actions that build up into signiﬁcant impact and results.</p>
 
@@ -396,7 +376,7 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 
 
 <div id="ilod">
-<p>ILOD’s Transformation Team  can help your agency  realise its strategy, sustain  performance, and build a healthier organisation. It offers consultancy support for:</p>
+<p>ILOD’s Transformation Team can help your agency realise its strategy, sustain performance, and build a healthier organisation. It offers consultancy support for:</p>
 
 <ul>
 	<li>Organisation transformation and change management</li>
@@ -406,7 +386,7 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 </ul>
 	
 <p>To ﬁnd out more, connect with Eileen at:  
-	<a href="eileen_wong@cscollege.gov.sg">eileen_wong@cscollege.gov.sg</a></p>
+	<a href="mailto:eileen_wong@cscollege.gov.sg">eileen_wong@cscollege.gov.sg</a></p>
 	
 	
 </div>	
@@ -419,16 +399,11 @@ a say in the eventual plans, they are more motivated to see things through."</p>
 </div>
 
 <div class="notestop">
-<h6>NOTE:</h6>
+<h6>NOTE</h6>
 <ol class="note">
-<li>Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity.</li>
-</ol>
-</div>
+<li id="num1">Andrea Hsu and Stacey Vanek Smith, “Shopify Deleted 322,000 Hours of Meetings. Should the Rest of Us Be Jealous?”, February 15, 2023, accessed February 27, 2023, <a target="_blank" href="https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity">https://www.npr.org/2023/02/15/1156804295/shopify-delete-meetings-zoom-virtual-productivity</a>.</li>
+	</ol></div>
 
-
-
-<br>
-<br>
-<div class="back">
-<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+<br><br>
+<div class="back"><a href="/ethos-issue-25/">Back to Ethos Page</a>
 </div>
