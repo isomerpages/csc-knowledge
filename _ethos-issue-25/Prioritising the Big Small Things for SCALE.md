@@ -1,5 +1,5 @@
 ---
-title: Prioritising the Big Small Things for S.C.A.L.E
+title: Prioritising the Big Small Things for S.C.A.L.E.
 permalink: /ethos-issue-25/prioritising-the-big-small-things-for-scale/
 description: ""
 image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_EileenWong_1.jpg
