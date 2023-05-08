@@ -111,7 +111,7 @@ margin:20px;
 </style>
 	
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/when_projects_change_or_end_bannerteaser.jpeg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/banner_when_projects_change_or_end.jpg">
 </div>
 
 
