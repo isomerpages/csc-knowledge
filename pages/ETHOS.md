@@ -133,7 +133,7 @@ The Chairperson of  the Public Sector Transformation—People Committee shares i
 <td class="img"><img src="/images/Cropped_images/Ethos_Issue_25/Print25_03.jpg"></td>
 
 <td class="text">	
-<h3>Prioritising the Big Small Things for S.C.A.L.E</h3>
+<h3>Prioritising the Big Small Things for S.C.A.L.E.</h3>
 <b><i>Eileen Wong</i></b>
 
 <p>Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort. The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights.</p>	
