@@ -1,5 +1,5 @@
 ---
-title: "Making Outcome Based Approaches Work: Insights from the UK's Government
+title: "Making Outcome-Based Approaches Work: Insights from the UK's Government
   Outcomes Lab"
 permalink: /ethos-issue-25/making-outcome-based-approaches-work/
 description: ""
