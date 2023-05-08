@@ -109,7 +109,7 @@ line-height:22px;
 </style>
 	
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_BannerTeaser.jpeg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/banner_lifelonglearning.jpg">
 </div>
 <h2>Challenges for a Future-facing Workforce</h2>
 
