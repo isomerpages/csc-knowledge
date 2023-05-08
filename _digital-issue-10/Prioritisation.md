@@ -57,7 +57,7 @@ line-height:22px;
 </style>
 	
 <div class="background-image">
-<img src="/images/Cropped_images/Ethos_Digital_10/Digital10-01.jpg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/banner_prioritisation.jpg">
 </div>
 
 <p>
