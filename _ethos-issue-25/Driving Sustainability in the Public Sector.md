@@ -84,6 +84,7 @@ line-height:22px;
 .involve h5
 {
  color:#7c615e;	
+ font-weight: bold;
 }
 	
 .involve
