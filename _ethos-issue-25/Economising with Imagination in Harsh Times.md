@@ -332,7 +332,7 @@ E.g., Making parliamentarian’s expenses more public and reducing them; the sam
 <ol>
 	<li id="num1">Geoff Mulgan, Oliver Marsh, and Anina Henggeler, “Navigating the Crisis: How Governments Used Intelligence for Decision Making During the COVID-19 Pandemic”, International Public Policy Observatory, December 2022, accessed February 15, 2023, <a target="_blank" href="theippo.co.uk/how-governments-used-intelligence-decision-making-covid19-pandemic">theippo.co.uk/how-governments-used-intelligence-decision-making-covid19-pandemic</a></li>
 	
-<li id="num2">Geoff Mulgan, “Net Zero: Mobilising Knowledge for Easier, Effective Decision Making”, International Public Policy Observatory, January 9, 2023, accessed February 15, 2023, <a target="blank" href="https://theippo.co.uk/net-zero-mobilising-knowledge-easier-effective-decision-making/">https://theippo.co.uk/net-zero-mobilising-knowledge-easier-effective-decision-making/</a>.</li> 
+<li id="num2">Geoff Mulgan, “Net Zero: Mobilising Knowledge for Easier, Effective Decision Making”, International Public Policy Observatory, January 9, 2023, accessed February 15, 2023, <a target="_blank" href="https://theippo.co.uk/net-zero-mobilising-knowledge-easier-effective-decision-making/">https://theippo.co.uk/net-zero-mobilising-knowledge-easier-effective-decision-making/</a>.</li> 
 
 <li id="num3">Geoff Mulgan, Silva Mertsola, Mikael Sokero et al., “Anticipatory Public Budgeting: Adapting Public Finance for the Challenges 
 of the 21st Century”, UAE Global Innovation Council, 2021, accessed February 15, 2023, <a target="_blank" href="https://gic.mbrcgi.gov.ae/storage/post/f6bTTIppsLhLElDnEVTTTRm36I3t70HP4rY722t0.pdf">https://gic.mbrcgi.gov.ae/storage/post/f6bTTIppsLhLElDnEVTTTRm36I3t70HP4rY722t0.pdf</a>.</li>
