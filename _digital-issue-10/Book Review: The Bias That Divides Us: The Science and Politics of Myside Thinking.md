@@ -74,7 +74,7 @@ border-top: 2px solid lightgray;
 </style>
 	
 <div class="background-image">
-<img src="/images/Cropped_images/Ethos_Digital_10/review.jpg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/banner_digital_issue10.jpg">
 </div>
 
 <h2>Why People See the Same Facts and Come to Different Conclusions</h2>
