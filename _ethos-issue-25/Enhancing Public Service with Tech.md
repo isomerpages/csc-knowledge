@@ -213,7 +213,7 @@ color: white;
 
 
 <div class="notestop">
-<h6>NOTES:</h6>
+<h6>NOTES</h6>
 <ol>
 	
 <li id="num1">See: “Digital Government Blueprint”, accessed January 6, 2023, <a target="_blank" href="https://www.tech.gov.sg/digital-government-blueprint/">https://www.tech.gov.sg/digital-government-blueprint/.</a></li>
