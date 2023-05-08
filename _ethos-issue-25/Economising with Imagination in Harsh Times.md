@@ -154,13 +154,13 @@ line-height:22px;
 </ol>	
 </div>
 
-<h3>INTELLIGENCE AS A CORE TASK OF GOVERNMENT</h3>
+<h3>Intelligence as a Core Task of Government</h3>
 <p>Governments have always relied on intelligence to do their work. But whereas in the past this was thought about primarily in relation to enemies and threats, espionage and war, they now need to think systematically about intelligence<sup><a href="#num1">1</a></sup> in relation to everyday tasks, from transport to healthcare, welfare to education</p>
 
 <p>This became very apparent during the pandemic. As I showed in a recent study of how governments—and the societies around them—mobilised intelligence to handle the COVID-19 pandemic and its effects, the last few years brought an explosion of innovation in new ways to organise intelligence.  The pandemic was an unprecedented event in its global impacts and in the scale of government responses and required a myriad of policy decisions: about testing, lockdowns, masks, school closures, visiting rules at care homes and vaccinations. All of these depended on inputs of intelligence including data, evidence, models, tacit knowledge, foresight, and creativity and innovation.</p>
 
 <div class="green-box-improvise">
-<h3>IMPROVISING INTELLIGENCE TO TACKLE A HEALTHCARE CRISIS</h3>
+<h3>Improvising Intelligence to Tackle a Healthcare Crisis</h3>
 
 <p>During the pandemic, Taiwan’s ‘Digital Fencing System’ monitored locations based on triangulating a phone’s position relative to nearby telephone masts. </p>
 
