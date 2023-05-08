@@ -93,6 +93,7 @@ border-top: 1px solid black;
 .author p
 {
 font-size: 15px;	
+line-height: 22px;
 }
 	
 .notestop ol li
