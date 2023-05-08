@@ -78,7 +78,7 @@ line-height:22px;
 	
 	
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LettingGo_banner-teaser.jpeg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/banner_lettinggo.jpg">
 </div>
 
 <h2>What’s Holding Us Back?</h2>
@@ -150,28 +150,10 @@ line-height:22px;
 
 <p>Here are some tips:</p>
 
-<table class="point">
- <tbody>
-<tr>	
-<td><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/Point_1.png"></td>
-<td>Step back to the bigger picture.</td>
-</tr>
-	<tr>
-	<td><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/Point_2.png"></td>
-	<td>Start with the end in mind.</td>
-</tr>
-<tr>
-	<td><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/Point_3.png"></td>
-	<td>Look for the learning.</td>
-</tr>
-<tr>
-	<td><img src="/images/Ethos_Images/Ethos_Digital_Issue_10/Point_4.png"></td>
-	<td>Tie up loose ends and get closure.</td>
-</tr> 	 
-	
-	
-</tbody>
-</table>
+
+<figure class="point">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_10/ethos_apr2023_letitgo_4points.jpg">
+</figure>
 
 
 <h3>Step back to the bigger picture</h3>
