@@ -190,7 +190,7 @@ line-height:22px;
 
 <p>Only with transformed structures, processes and cultures will it be possible to see more clearly what is working and what isn’t, to generate solutions faster and to direct resources to where they are needed most urgently.</p>
 
-<h3>MONEY: REFORMING PUBLIC FINANCE</h3>
+<h3>Money: Reforming Public Finance</h3>
 <p>There are also implications for how money is organised. Governments are meant to be there for the long term: able to defend their people, guarantee their pensions or cope with big challenges like climate change. Yet they are often trapped by the tyranny of immediate pressures. This is particularly true in relation to finance, which has seen surprisingly few innovations in recent years to better align how government works with what it needs to do.</p>
 
 <div class="break">
@@ -227,7 +227,7 @@ The Public Pound Multiplier
 
 <p>This will be even more vital as hard choices have to be made about what to protect, what to cut and what to expand. Without some sense of likely impacts over time, governments will make even more arbitrary decisions and will be even more at risk of boomerang effects of the kind that the UK has suffered, with strong evidence now that cuts in the early 2010s have had disastrous effects later in the decade on everything, from life expectancy to productivity.</p>
 
-<h3>ECONOMIES AND ECONOMISING</h3>
+<h3>Economies and Economising</h3>
 
 <p>It is not hard to come up with good suggestions for spending more money. It is much harder to work out how to save money without doing harm. Much of the world is always looking for ways to be frugal, and even the rich countries are now going through another period of stringency. Such periods of retrenchment can be bad for innovation and creativity. But there are ways to combine imagination and reductions in spending.</p>
 
@@ -247,10 +247,10 @@ The Public Pound Multiplier
 
 <div class="green-box-all">
 	
-<h3>PROMPTS FOR ECONOMISING PUBLIC SERVICES</h3>
+<h3>Prompts for Economising Public Services</h3>
 <p>The approach starts off by looking at the traditional tools, which are the ﬁrst options considered when a department must save money.</p>
 	
-<h4>TRADITIONAL TOOLS</h4>
+<h4>Traditional Tools</h4>
 	
 <ol>
 <li>Pure economies<br>
@@ -266,7 +266,7 @@ The Public Pound Multiplier
 
 <p>We then move onto less familiar ground, using a more creative economic lens to think about how a service could be reorganised. Much of the digital economy has grown by applying similar ideas to everything from shopping to dating.</p>
 
-<h4>ECONOMIC RESTRUCTURING</h4>
+<h4>Economic Restructuring</h4>
 <ol start="4">
 <li>Economies of scale<br>
 <span>E.g., Aggregating call centres or back-office functions. These have been exaggerated in the past (small governments and municipalities are often just as efficient as big ones) but they can sometimes deliver big savings.</span>
@@ -283,7 +283,7 @@ E.g., Hospitals specialising in a few operations and so improving efficiency, cu
 
 <p>Next come options that involve a renegotiation of the implicit contracts between states and citizens.</p>
 
-<h4>REVISED SOCIAL CONTRACTS</h4>
+<h4>Revised Social Contracts</h4>
 <ol start="8">
 <li>Economies of responsibility involve passing responsibility out to citizens<br>
 <span>E.g. For COVID self-testing, separating out waste, or self-packing as supermarkets shifted the role of packing from paid staff to customers.</span>
@@ -296,7 +296,7 @@ These are economies that ﬂow from shifting tasks to more committed providers, 
 
 <p>Next come some ways of using digital to cut unnecessary costs.</p>
 
-<h4>SMART TOOLS</h4>
+<h4>Smart Tools</h4>
 <ol start="10">
 <li>Economies of visibility come from mobilising public eyes and the power of shame<br><span>
 E.g., Making parliamentarian’s expenses more public and reducing them; the same principle applies to public contracts of all kinds.</span>
@@ -307,7 +307,7 @@ E.g., Making parliamentarian’s expenses more public and reducing them; the sam
 
 </ol>
 
-<h4>JOINED-UP THINKING</h4>
+<h4>Joined-Up Thinking</h4>
 <ol start="12">
 <li>Economies of doubling up<br>
 <span>Finally, there are often options for joining up the work of government in creative ways, promoting actions that address two problems or needs simultaneously (such as training up the young unemployed to work on home retroﬁt programmes).</span></li>	
