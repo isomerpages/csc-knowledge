@@ -14,7 +14,8 @@ permalink: /terms-of-use/
 <h4>Benefits</h4>
 <ol>
 <li>As a registered member of the CSC Website (“Website”), you will be entitled to use the following services as may be available from time to time:
-	</li><ol style="list-style-type: lower-alpha;">
+	</li>
+<ol style="list-style-type: lower-alpha;">
 	<li>check the application status of courses and events you applied for on your member profile page</li>
 		<li>register for courses and events online, quickly and conveniently</li>
 		<li>sign up for alerts on topics and articles that interest you</li>
@@ -30,8 +31,13 @@ permalink: /terms-of-use/
 <p>4. If you leave the Public Service at any time, please inform CSC of your departure via email or in writing, and leave us with your contact address and particulars. CSC will cancel your membership account but you may continue to use this Website and still be legally bound by the Terms of Use.</p>
 <h4>Refusal and Revocation</h4>
 <p>5. CSC reserves the right to:  <br>
-(a) refuse entry or membership to any applicant or revoke a member’s membership if CSC determines in its sole discretion that such entry or membership would bring disrepute to CSC or if the member commits any breach of these Terms or for any other reason determined to be appropriate by CSC; and/or <br>
-(b) change these Terms at any time by notification or publication of the changes to these Terms at this website.</p>
+</p><ol style="list-style-type: lower-alpha;">
+<li> refuse entry or membership to any applicant or revoke a member’s membership if CSC determines in its sole discretion that such entry or membership would bring disrepute to CSC or if the member commits any breach of these Terms or for any other reason determined to be appropriate by CSC; and/or</li>
+	
+<br>
+<li>change these Terms at any time by notification or publication of the changes to these Terms at this website.</li>
+	
+
 <h4>Terms of Use</h4>
 <p>6. By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</p>
 <h4>Queries</h4>
@@ -40,9 +46,13 @@ permalink: /terms-of-use/
 </p>
 
 <h2>Terms and Conditions of Civil Service College (“CSC”) Website Online Registration</h2>
+	
+<h4>Online Registration of Courses</h4>	
 <p>1. The CSC Website (“Website”) is not linked to any training systems (e.g. HRP and Workday). Please seek your Supervisor’s and/or Training Coordinator’s approval before you register online for any courses offered at the CSC Website. For Organisations on HRP and Workday, you are strongly encouraged to use HRP and Workday instead. For complimentary courses, please inform your Training Coordinator of your attendance at the course so as to update your training records.  </p>
 <p>2. Online registration of courses at the CSC website are subject to the following conditions:</p>
-<ol>
+
+	
+<ol style="list-style-type: lower-alpha;">
 	<li>Paid Courses</li>
 	<ol style="list-style-type: lower-roman;">
 		<li>Withdrawal</li>
@@ -118,4 +128,4 @@ permalink: /terms-of-use/
 <p><b>Terms of Use</b></p>
 <p>3. By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</p>
 <p><b>Queries</b></p>
-<p>4. If you have any queries on these Registration Terms or the Events, please send your queries to cscollege@cscollege.gov.sg.</p>
+<p>4. If you have any queries on these Registration Terms or the Events, please send your queries to cscollege@cscollege.gov.sg.</p></ol>
