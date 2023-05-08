@@ -14,7 +14,7 @@ permalink: /terms-of-use/
 <h4>Benefits</h4>
 <ol>
 <li>As a registered member of the CSC Website (“Website”), you will be entitled to use the following services as may be available from time to time:
-	</li><ol style="list-style-type: lower-roman;">
+	</li><ol style="list-style-type: lower-alpha;">
 	<li>check the application status of courses and events you applied for on your member profile page</li>
 		<li>register for courses and events online, quickly and conveniently</li>
 		<li>sign up for alerts on topics and articles that interest you</li>
