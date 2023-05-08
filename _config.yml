@@ -54,7 +54,7 @@ staging: https://staging.d3c55qq5mgvix5.amplifyapp.com
 prod: https://master.d3c55qq5mgvix5.amplifyapp.com
 resources_name: archive
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
