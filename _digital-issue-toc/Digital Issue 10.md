@@ -58,33 +58,26 @@ td
 	font-weight:bold;
 }
 	
+@media only screen(max-width: 600px) {
+	
+}
 
-
+.grid-container {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-column-gap: 5%;
+	margin-bottom: 5%;
+	}	
 	
 </style>
-	
-	
-<table id="top">
-<tbody>
-<tr>
-<td class="img1">
-<img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg">
-</td>
-
-<td class="text"><h3><span class="cat">DIGITAL ISSUE 10, MAR 2023</span>
-<br>Ethos Digital Issue 10</h3>	
-<p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
-
-
-<div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a></div>
-	
-</td>
-	
-</tr>
-	
-</tbody>
-</table>
-<br>
+<div class="grid-container">
+        <div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"></div>
+        <div><h3><span class="cat">DIGITAL ISSUE 10, MAR 2023</span>
+            <br>Ethos Digital Issue 10</h3>
+            <p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
+         <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a></div>
+        </div>
+			</div>	
 
 
 <table id="editorial">
