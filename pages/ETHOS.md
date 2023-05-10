@@ -93,7 +93,7 @@ description: ""
         <p>	
         The Chairperson of  the Public Sector Transformation—People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
         </p>	        
-        <div class="button1"><a href="/ethos-issue-25/prioritising-purpose-in-the-public-service/">Read More</a>
+<div class="button1"><a href="/ethos-issue-25/prioritising-purpose-in-the-public-service/">Read More</a>
     </div></div>
 </div>
 <div class="grid-container">
@@ -101,27 +101,27 @@ description: ""
     <div><h3>Prioritising the Big Small Things for S.C.A.L.E.</h3>
         <b><i>Eileen Wong</i></b>        
         <p>Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort. The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights.</p>       
-        <div class="button1"><a href="/ethos-issue-25/prioritising-the-big-small-things-for-scale/">Read More</a><a></a></div><a>
-	</a></div><a>
-</a></div><a>
-</a><div class="grid-container"><a>
+        <div class="button1"><a href="/ethos-issue-25/prioritising-the-big-small-things-for-scale/">Read More</a></div>
+</div>
+ </div>
+   <div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_04.jpg"></div>
-    </a><div><a>
+    <div>
         <h3>Economising with Imagination in Harsh Times</h3>
         <b><i>Geoﬀ Mulgan</i></b>        
         <p> Crisis does not always have to lead to damaging reductions in the public good: instead, they can prompt innovative improvements in the way public services are resourced, structured and operated. 
         </p>       
-        </a><div class="button1"><a></a><a href="/ethos-issue-25/economising-with-imagination-in-harsh-times/">Read More</a><a></a></div><a>
+<div class="button1"><a href="/ethos-issue-25/economising-with-imagination-in-harsh-times/">Read More</a></div>
 		<br>
-    </a></div><a>
-</a></div><a>
-</a><div class="grid-container"><a>
+</div>
+ </div>
+<div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_05.jpg"></div>
-    </a><div><a><h3>Budget 4.0: Optimising for Better Outcomes</h3>
+    <div><h3>Budget 4.0: Optimising for Better Outcomes</h3>
         <b><i>Kwa Chin Lum and Kyle Goh</i></b>        
         <p>Singapore’s Ministry of Finance is spearheading budgetary reforms to enhance cooperation, sharpen priorities and promote innovation, to meet national challenges in an increasingly resource-constrained environment.
         </p>	        
-        </a><div class="button1"><a></a><a href="/ethos-issue-25/budget4point0-optimising-for-better-outcomes/">Read More</a>
+ <div class="button1"><a href="/ethos-issue-25/budget4point0-optimising-for-better-outcomes/">Read More</a>
         </div><br>
     </div>
 </div>
