@@ -66,7 +66,7 @@ td
 	margin-bottom: 5%;
 	}	
 	
-@media only screen(max-width: 600px) {
+@media only screen and (max-width: 600px) {
 	.grid-container {
 		display: block;
 	}
