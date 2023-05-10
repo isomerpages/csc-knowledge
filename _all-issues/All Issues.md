@@ -71,13 +71,13 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-09">Digital Edition Issue 9, <br>Nov 2022</a></td>
+	<td><a target="_blank" href="https://go.gov.sg/digital-issue-09">Digital Edition Issue 9, <br>Nov 2022</a></td>
 	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-24">Issue 24, Aug 2022, <br>Urban Sustainability</a></td>
 </tr>
 
 
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-09">Download PDF</a></td>
+	<td><a target="_blank" href="https://go.gov.sg/digital-issue-09">Download PDF</a></td>
 	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-24">Download PDF</a></td>
 </tr>
 
@@ -86,7 +86,7 @@ font-size: 16px;
 </tr>
 
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-08">Digital Edition Issue 8, Apr 2022</a></td>
+	<td><a target="_blank" href="https://go.gov.sg/digital-issue-08">Digital Edition Issue 8, Apr 2022</a></td>
 </tr>	
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-08">Download PDF</a></td>
