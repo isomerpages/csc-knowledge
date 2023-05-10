@@ -16,8 +16,8 @@ sections:
   - infopic:
       title: ETHOS
       description: ETHOS is a publication of the Civil Service College aiming to
-        provide leadership, insight and context on a public policy issues of
-        interest to Singapore
+        provide leadership, insight and context on public policy issues of
+        interest to Singapore.
       button: See More
       image: /images/Landing_Banner_Images/landingtile_ethos.jpg
       alt: Ethos Digital Edition Issue 25
