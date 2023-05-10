@@ -1,4 +1,5 @@
 collections:
   digital-issue-toc:
     output: true
-    order: []
+    order:
+      - Digital Issue 10.md
