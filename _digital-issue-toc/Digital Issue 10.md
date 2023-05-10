@@ -99,7 +99,7 @@ td
 <div class="button1"><a href="/digital-issue-10/editorial/">Read More</a></div> <br></div>
     </div>
 
-    
+ <br>   
 <div class="grid-container">
         <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-01.jpg"></div>
         <div><h3>Prioritisation</h3>
@@ -111,7 +111,7 @@ td
             
 <div class="button1"><a href="/digital-issue-10/prioritisation/">Read More</a></div><br></div>
     </div>
-
+<br>
 <div class="grid-container">
       <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-02.jpg"></div>
         <div><h3>Prioritising Work and Letting Go: The Emotional Dimension</h3>
@@ -123,7 +123,7 @@ td
 <div class="button1"><a href="/digital-issue-10/prioritising-work-and-letting-go-the-emotional-dimensio/">Read More</a></div><br></div>
     </div>
     
-    
+<br>    
 <div class="grid-container">
         <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-03.jpg"></div>
         <div><h3>When Projects Change or End: Practical Steps to Manage Stakeholder Expectations</h3>
@@ -136,7 +136,7 @@ td
 <div class="button1"><a href="/digital-issue-10/when-projects-change-or-end-practical-steps-to-manage-stakeholder-expectations/">Read More</a></div><br></div>
     </div>
     
-    
+<br>    
 <div class="grid-container">
         <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-04.jpg"></div>
         <div><h3>Lifelong Learning through a Global Lens</h3>
@@ -148,7 +148,7 @@ td
             
 <div class="button1"><a href="/digital-issue-10/lifelong-learning-through-a-global-lens/">Read More</a></div><br></div>
     </div>
-
+<br>
 <div class="grid-container">
         <div><img src="/images/Cropped_images/Ethos_Digital_10/review.jpg"></div>
         <div><h3>Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</h3>
