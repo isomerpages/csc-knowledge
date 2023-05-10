@@ -59,7 +59,9 @@ td
 }
 	
 @media only screen(max-width: 600px) {
-	
+	.grid-container {
+		display: block;
+	}
 }
 
 .grid-container {
