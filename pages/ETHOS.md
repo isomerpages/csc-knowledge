@@ -76,62 +76,73 @@ description: ""
 <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></div>
         </div>
     </div>
-    <div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
-	<div><h3>Editorial </h3>
+<div class="grid-container">
+  <div>
+<img src="/images/Landing_Banner_Images/tile_editorial.jpg">  </div>
+<div>
+	<h3>Editorial </h3>
 	<b><i>Alvin Pang</i></b>
 <p>The world is at a crossroads: perhaps its most signiﬁcant in decades. On the one hand, recent advances in technology herald tremendous, transformative leaps in the way we may soon live, work and play—as public excitement over recent AI-powered tools such as ChatGPT and Stable Diffusion indicates.
 </p>	
             
-<div class="button1"><a href="/ethos-issue-25/editorial/">Read More</a></div> </div>
+<div class="button1"><a href="/ethos-issue-25/editorial/">Read More</a>
+	</div> 
+	 </div>
     </div>
-    <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_02.jpg"></div>
-        <div><h3>Prioritising Purpose in the Public Service</h3>
+<div class="grid-container">
+        <div>
+<img src="/images/Cropped_images/Ethos_Issue_25/Print25_02.jpg">
+ </div>
+     <div>
+			 <h3>Prioritising Purpose in the Public Service</h3>
             <b><i>Gabriel Lim</i></b>
 <p>The Chairperson of  the Public Sector Transformation—People Committee shares insights on a movement to reignite passion and pride in the Public Service by trimming processes, refocusing on meaningful work and supporting public officers’ growth, wellbeing and agency, in the face of a changing world.
-            </p>	
+</p>	
 <div class="button1"><a href="/ethos-issue-25/prioritising-purpose-in-the-public-service/">Read More</a>
-        </div></div>
+ </div>
+	</div>
     </div>
-    <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_03.jpg"></div>
-        <div><h3>Prioritising the Big Small Things for S.C.A.L.E.</h3>
+  <div class="grid-container">
+    <div>
+<img src="/images/Cropped_images/Ethos_Issue_25/Print25_03.jpg"></div>
+ <div>
+	 <h3>Prioritising the Big Small Things for S.C.A.L.E.</h3>
             <b><i>Eileen Wong</i></b>
 <p>Meaningful change can be initiated by small, purposeful ﬁrst steps, rather than massive investments of time, resource and effort. The Institute of Leadership and Organisation Development (ILOD) at Civil Service College offers practice-based insights.</p>	
             
-<div class="button1"><a href="/ethos-issue-25/prioritising-the-big-small-things-for-scale/">Read More</a><a>
+<div class="button1"><a href="/ethos-issue-25/prioritising-the-big-small-things-for-scale/">Read More</a>
 
-</a></div><a>
-</a></div><a>
-    </a></div><a>
-    </a><div class="grid-container"><a>
-        <div>
-	<img src="/images/Cropped_images/Ethos_Issue_25/Print25_04.jpg">
+	</div>
 </div>
-      </a><div><a>
+    </div>
+ <div class="grid-container">
+     <div>
+			 <img src="/images/Cropped_images/Ethos_Issue_25/Print25_04.jpg">
+</div>
+      <div>
        <h3>Economising with Imagination in Harsh Times</h3>
             <b><i>Geoﬀ Mulgan</i></b>
 <p>Crisis does not always have to lead to damaging reductions in the public good: instead, they can prompt innovative improvements in the way public services are resourced, structured and operated. 
 </p>	
             
-</a><div class="button1"><a></a><a href="/ethos-issue-25/economising-with-imagination-in-harsh-times/">Read More</a><a>
-</a></div><a><br>
-        </a></div><a>
-    </a></div><a>
-    </a><div class="grid-container"><a>
-        <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_05.jpg"></div>
-        </a><div><a><h3>Budget 4.0: Optimising for Better Outcomes</h3>
-            <b><i>Kwa Chin Lum and Kyle Goh</i></b>
-<p>Singapore’s Ministry of Finance is spearheading budgetary reforms to enhance cooperation, sharpen priorities and promote innovation, to meet national challenges in an increasingly resource-constrained environment.
-            </p>	
-            
-</a><div class="button1"><a></a><a href="/ethos-issue-25/budget4point0-optimising-for-better-outcomes/">Read More</a>
-            </div><br>
-        </div>
+<div class="button1"><a href="/ethos-issue-25/economising-with-imagination-in-harsh-times/">Read More</a>
+</div><br>
+	</div>
     </div>
-    <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_06.jpg"></div>
+ <div class="grid-container">
+        <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_05.jpg"></div>
+    <div>
+			<h3>Budget 4.0: Optimising for Better Outcomes</h3>
+            <b><i>Kwa Chin Lum and Kyle Goh</i></b>
+<p>Singapore’s Ministry of Finance is spearheading budgetary reforms to enhance cooperation, sharpen priorities and promote innovation, to meet national challenges in an increasingly resource-constrained environment.</p>	
+            
+<div class="button1"><a href="/ethos-issue-25/budget4point0-optimising-for-better-outcomes/">Read More</a>
+    </div><br>
+     </div>
+			</div>
+ <div class="grid-container">
+  <div>
+<img src="/images/Cropped_images/Ethos_Issue_25/Print25_06.jpg"></div>
         <div><h3>Enhancing Public Service with Tech</h3>
             <b><i>Jordan Tan</i></b>
             
@@ -208,22 +219,3 @@ description: ""
 <div class="button1"><a href="/ethos-issue-25/cultivating-public-participation-and-goodwill/">Read More</a></div><br>
         </div>
     </div>
-   
-
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
