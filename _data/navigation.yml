@@ -1,10 +1,10 @@
 logo: /images/csc_logo.png
 links:
   - title: Ethos
-    url: /ethos-issue-25/
+    url: /ethos/
     sublinks:
       - title: Latest Issue
-        url: /ethos-issue-25/
+        url: /ethos/
       - title: All Issues
         url: /all-issues/
   - title: Books

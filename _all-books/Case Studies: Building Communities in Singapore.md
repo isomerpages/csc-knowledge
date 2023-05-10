@@ -71,7 +71,7 @@ Jeanne Louise CONCEICAO
 
 
 <div id="chapter4">
-<p><b>CHAPTER 4: A LIBRARY BY THE PEOPLE, FOR THE PEOPLE</b></p>
+<p><b><a target="_blank" href="https://vimeo.com/284686764">CHAPTER 4: A LIBRARY BY THE PEOPLE, FOR THE PEOPLE</a></b></p>
 June GWEE
 </div>
 

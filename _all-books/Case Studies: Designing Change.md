@@ -51,7 +51,7 @@ plans were abruptly changed by the COVID-19 pandemic. These stories offer insigh
 </div>
 
 <div id="introduction">
-	<p><b>INTRODUCTION</b></p>
+	<p><b><a target="_blank" href="/files/case studies_designing change_intro.pdf">INTRODUCTION</a></b></p>
 </div>
 
 <div id="chapter1">
