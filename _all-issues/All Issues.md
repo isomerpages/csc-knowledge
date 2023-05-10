@@ -89,7 +89,7 @@ font-size: 16px;
 	<td><a target="_blank" href="https://go.gov.sg/digital-issue-08">Digital Edition Issue 8, Apr 2022</a></td>
 </tr>	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-08">Download PDF</a></td>
+	<td><a target="_blank" href="https://go.gov.sg/digital-issue-08">Download PDF</a></td>
 </tr>	
 </tbody>
 </table>
