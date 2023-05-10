@@ -77,6 +77,7 @@ description: ""
          <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></div>
     </div>
 </div>
+<br>
 <div class="grid-container">
     <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
     <div><h3>Editorial </h3>
@@ -86,6 +87,7 @@ description: ""
         </p>	   
     <div class="button1"><a href="/ethos-issue-25/editorial/">Read More</a></div> </div>
 </div>
+<br>
 <div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_02.jpg"></div>
     <div><h3>Prioritising Purpose in the Public Service</h3>
@@ -96,6 +98,7 @@ description: ""
 <div class="button1"><a href="/ethos-issue-25/prioritising-purpose-in-the-public-service/">Read More</a>
     </div></div>
 </div>
+<br>
 <div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_03.jpg"></div>
     <div><h3>Prioritising the Big Small Things for S.C.A.L.E.</h3>
@@ -104,6 +107,7 @@ description: ""
         <div class="button1"><a href="/ethos-issue-25/prioritising-the-big-small-things-for-scale/">Read More</a></div>
 </div>
  </div>
+ <br>
    <div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_04.jpg"></div>
     <div>
@@ -115,6 +119,7 @@ description: ""
 		<br>
 </div>
  </div>
+ <br>
 <div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_05.jpg"></div>
     <div><h3>Budget 4.0: Optimising for Better Outcomes</h3>
@@ -125,6 +130,7 @@ description: ""
         </div><br>
     </div>
 </div>
+<br>
 <div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_06.jpg"></div>
     <div><h3>Enhancing Public Service with Tech</h3>
@@ -135,6 +141,7 @@ description: ""
         <br>
     </div>
 </div>
+<br>
 <div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_07.jpg"></div>
     <div>
@@ -146,10 +153,7 @@ description: ""
         </div><br>
     </div>
 </div>
-<div class="grid-container">
-    <div></div>
-    <div></div>
-</div>
+<br>
 <div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_08.jpg"></div>
     <div>
@@ -162,6 +166,7 @@ description: ""
         <br>
     </div>
 </div>
+<br>
 <div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_09.jpg"></div>
     <div>
@@ -173,6 +178,7 @@ description: ""
 <div class="button1"><a href="/ethos-issue-25/making-outcome-based-approaches-work/">Read More</a></div><br>
     </div>
 </div>
+<br>
 <div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_10.jpg"></div>
     <div>
@@ -184,6 +190,7 @@ description: ""
         </div><br>
     </div>
 </div>
+<br>
 <div class="grid-container">
     <div><img src="/images/Cropped_images/Ethos_Issue_25/Print25_11.jpg"></div>
     <div>
