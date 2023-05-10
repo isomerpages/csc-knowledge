@@ -58,11 +58,6 @@ td
 	font-weight:bold;
 }
 	
-@media only screen(max-width: 600px) {
-	.grid-container {
-		display: block;
-	}
-}
 
 .grid-container {
 	display: grid;
@@ -71,6 +66,11 @@ td
 	margin-bottom: 5%;
 	}	
 	
+@media only screen(max-width: 600px) {
+	.grid-container {
+		display: block;
+	}
+}	
 </style>
 <div class="grid-container">
         <div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"></div>
