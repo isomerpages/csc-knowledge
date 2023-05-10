@@ -2,6 +2,7 @@ collections:
   digital-issue-10:
     output: true
     order:
+      - Example Title.md
       - Editorial.md
       - Prioritisation.md
       - Prioritising Work and Letting go the Emotional Dimension.md
