@@ -52,7 +52,7 @@ margin-top:15px;
         <div><img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"></div>
         <div><h3><span class="cat">ISSUE 24, AUG 2023</span>
             <br>ETHOS Issue 24</h3>	
-            <p>In an era of climate impact and deepening energy and resource constraints, what can we do to make our cities more sustainable and livable places to be? In this special issue, we partner with the Ministry of National Development's Centre for Livable Cities to explore the theme of urban sustainability, with insights from city leaders, public sectors practitioners and urban experts from around the world.</p>
+            <p>In an era of climate impact and deepening energy and resource constraints, what can we do to make our cities more sustainable and liveable places to be? In this special issue, we partner with the Ministry of National Development’s Centre for Liveable Cities to explore the theme of urban sustainability, with insights from city leaders, public sector practitioners and urban experts from around the world</p>
             
             
    <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-24">Download PDF</a></div>
@@ -60,7 +60,20 @@ margin-top:15px;
    </div>
     
    <br>
-    
+ 
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Preface</h3>
+		<b><i>Hugh Lim</i></b>
+		<p>Governments around the world remain key players to steward and support this transition, as well as capture opportunities for its people. This issue of ETHOS seeks to feature the different aspects of this transition to limit global warming.</p>
+	
+<div class="button1"><a target="_blank" href="">Read more</a></div>
+</div>
+
+</div> 
+<br>
+	
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg">
 	</div>
