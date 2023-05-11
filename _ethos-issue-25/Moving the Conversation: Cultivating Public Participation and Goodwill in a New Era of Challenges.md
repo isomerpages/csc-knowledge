@@ -152,5 +152,5 @@ line-height: 22px;
 <br>
 <br>
 <div class="back">
-<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+<a href="/ethos/">Back to Ethos Page</a>	
 </div>
