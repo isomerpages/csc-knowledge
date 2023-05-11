@@ -343,5 +343,5 @@ of the 21st Century”, UAE Global Innovation Council, 2021, accessed February 1
 <br>
 <br>	
 <div class="back">
-<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+<a href="/ethos/">Back to Ethos Page</a>	
 </div>
