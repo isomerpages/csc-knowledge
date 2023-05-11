@@ -80,5 +80,5 @@ Prioritisation is an ever-present reality that we all face in the Public Service
 <br>
 <br>	
 <div class="back">
-<a href="/digital-issue-10/">Back to Ethos Page</a>	
+<a href="/ethos/">Back to Ethos Page</a>	
 </div>
