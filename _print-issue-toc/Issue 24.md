@@ -104,13 +104,11 @@ margin-top:15px;
 <br>
 <div class="grid-container">
       <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-02.jpg"></div>
-        <div><h3>Prioritising Work and Letting Go: The Emotional Dimension</h3>
-            <b><i>Elly Chiu and Yuichi Kikuzawa</i></b>
-<p>	
-            We should acknowledge our deep connection to our work and learn from what we have gained from each experience, as we refocus on new challenges.
-</p>	
+        <div><h3>Skilling up for a Green Future</h3>
+            <b><i>Gog Soon Joo</i></b>
+<p>In conversation with ETHOS, the Chief Skills Officer of SkillsFuture Singapore (SSG) outlines bold plans to green Singapore’s economy and workforce.</p>	
             
-<div class="button1"><a href="/digital-issue-10/prioritising-work-and-letting-go-the-emotional-dimensio/">Read More</a></div><br></div>
+<div class="button1"><a href="">Read More</a></div><br></div>
     </div>
     
 <br>    
