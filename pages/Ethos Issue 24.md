@@ -202,6 +202,17 @@ margin-top:15px;
 </div>
 
 
+<div class="grid-container">
+  <div>
+    <img src="/images/Ethos_Images/Ethos_Issue_24/Liveable_Density_BannerTeaser.jpg">
+  </div>
+  <div class="content">
+    <h3>Liveable Density: A Conversation with Heng Chye Kiang</h3>
+    <b><i>by Heng Chye Kiang</i></b>
+    <p>An NUS Professor of Architecture explains how thoughtful planning, good design, and inclusive choices can enable residents to thrive in dense urban environments.</p>
+    <div class="button1"><a href="">Read More</a></div>
+  </div>
+</div>
 
 
 
