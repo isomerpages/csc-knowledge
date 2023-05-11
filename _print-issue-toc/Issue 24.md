@@ -113,13 +113,14 @@ margin-top:15px;
     
 <br>    
 <div class="grid-container">
-        <div><img src=""></div>
-        <div><h3>Valuing Sustainability and the Environment</h3>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_24/Valuing_Sustainability_And_Env_Banner_Teaser.jpg"></div>
+
+<div><h3>Valuing Sustainability and the Environment</h3>
             <b><i>by Leong Chi Hoong and Angelyn Teo</i></b>
             
 <p>Non-market methods of valuing the costs and benefits of environment protection can better inform policymaking for sustainable development.</p>	
             
-<div class="button1"><a href="/digital-issue-10/when-projects-change-or-end-practical-steps-to-manage-stakeholder-expectations/">Read More</a></div><br></div>
+<div class="button1"><a href="">Read More</a></div><br></div>
     </div>
     
 <br>    
