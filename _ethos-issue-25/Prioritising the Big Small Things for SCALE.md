@@ -405,5 +405,5 @@ space to think and plan, while also taking time to get ground data to assess and
 	</ol></div>
 
 <br><br>
-<div class="back"><a href="/ethos-issue-25/">Back to Ethos Page</a>
+<div class="back"><a href="/ethos/">Back to Ethos Page</a>
 </div>

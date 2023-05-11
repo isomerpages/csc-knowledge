@@ -170,5 +170,5 @@ and foremost starts from a culture of wanting to do things better.</p>
 <br>
 <br>
 <div class="back">
-<a href="/ethos-issue-25/">Back to Ethos Page</a>	
+<a href="/ethos/">Back to Ethos Page</a>	
 </div>
