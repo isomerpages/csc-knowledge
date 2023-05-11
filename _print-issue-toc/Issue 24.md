@@ -87,14 +87,16 @@ margin-top:15px;
 <div class="button1"><a href="">Read More</a></div> <br></div>
     </div>
 
- <br>   
+
+
+
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-01.jpg"></div>
-        <div><h3>Prioritisation</h3>
-            <b><i>by Aurora De Souza Watters</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_24/Future_Of_Urban_Sustainability_Banner_Teaser.jpg"></div>
+  <div>
+	<h3>The Future of Urban Sustainability: Implications for Governance</h3>
+            <b><i>Elly Chiu and Yuichi Kikuzawa</i></b>
             
-<p>	
-            Five key challenges can hinder efforts to put previous time, effort and resources to their best uses. Here's how to identify and address them.
+<p>How might we continue to build sustainability and liveability for our people, in the face of local and global shifts, resource pressures, changing societal values and other discontinuities?
 </p>	
             
 <div class="button1"><a href="/digital-issue-10/prioritisation/">Read More</a></div><br></div>
@@ -103,7 +105,7 @@ margin-top:15px;
 <div class="grid-container">
       <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-02.jpg"></div>
         <div><h3>Prioritising Work and Letting Go: The Emotional Dimension</h3>
-            <b><i>Aurora De Souza Watters</i></b>
+            <b><i>Elly Chiu and Yuichi Kikuzawa</i></b>
 <p>	
             We should acknowledge our deep connection to our work and learn from what we have gained from each experience, as we refocus on new challenges.
 </p>	
