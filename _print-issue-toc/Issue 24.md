@@ -49,9 +49,9 @@ margin-top:15px;
 }	
 </style>
 <div class="grid-container">
-        <div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"></div>
-        <div><h3><span class="cat">DIGITAL ISSUE 10, MAR 2023</span>
-            <br>Ethos Digital Issue 10</h3>	
+        <div><img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"></div>
+        <div><h3><span class="cat">ISSUE 24, AUG 2023</span>
+            <br>ETHOS Issue 24</h3>	
             <p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
             
             
