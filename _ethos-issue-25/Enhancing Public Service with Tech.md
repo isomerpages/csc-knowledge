@@ -6,15 +6,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_JordanTan.jpg
 ---
 <style>
 
-	
-.subhead::first-letter 
-{ 
-	initial-letter: 5;    
-	margin-right: .55em;
-	color: #243e76;
-}	
-
-	
+		
 .back a
 {
 	color: #9f2943;
@@ -118,7 +110,7 @@ color: white;
 
 	
 </style>
-
+<em><small>ETHOS Issue 25, April 2023</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_jordantan%2002.jpg">
 </div>
