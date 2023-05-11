@@ -202,4 +202,4 @@ description: ""
 <div class="button1"><a href="/ethos-issue-25/cultivating-public-participation-and-goodwill/">Read More</a></div><br>
     </div>
 </div>
-<div class="button1"><a href="/all-issues/">Looking for Previous Issues?</a></div>
+<div class="button1"><a href="/all-issues/">All ETHOS Issues</a></div>
