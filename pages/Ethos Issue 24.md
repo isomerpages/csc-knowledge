@@ -59,7 +59,7 @@ margin-top:15px;
 	</div>
    </div>
     
-   <br>
+ <br>
  
 <div class="grid-container">
 	<div><img src=""></div>
@@ -72,7 +72,7 @@ margin-top:15px;
 </div>
 </div> 
 
-	
+ <br>	
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg">
 	</div>
@@ -87,7 +87,7 @@ margin-top:15px;
 <div class="button1"><a href="">Read More</a></div> <br></div>
     </div>
 
-
+ <br>	
 
 
 <div class="grid-container">
@@ -144,7 +144,7 @@ margin-top:15px;
             
 <div class="button1"><a href="">Read More</a></div><br></div>
 </div>
-
+ <br>	
 <div class="grid-container">
 	<div><img src="/images/Ethos_Images/Ethos_Issue_24/Espoo_Banner_Teaser.jpg"></div>
 	<div>
@@ -156,7 +156,7 @@ margin-top:15px;
 	</div>
 </div>
 </div>
-
+ <br>	
 <div class="grid-container">
     <div><img src="/images/Ethos_Images/Ethos_Issue_24/La_Banner_Teaser.jpg"></div>
 <div>
@@ -167,7 +167,7 @@ margin-top:15px;
 <div class="button1"><a href="">Read More</a></div>
 			</div>
 </div>
-
+ <br>	
 <div class="grid-container">
   <div><img src="/images/Ethos_Images/Ethos_Issue_24/City_Indices_Banner_Teaser.jpg"></div>
   <div class="content">
@@ -177,7 +177,7 @@ margin-top:15px;
     <div class="button1"><a href="">Read More</a></div>
   </div>
 </div>
-
+ <br>	
 <div class="grid-container">
   <div><img src="/images/Ethos_Images/Ethos_Issue_24/Data_Culture_Banner_Teaser.jpg"></div>
   <div class="content">
@@ -188,7 +188,7 @@ margin-top:15px;
   </div>
 </div>
 
-
+ <br>	
 <div class="grid-container">
   <div>
     <img src="/images/Ethos_Images/Ethos_Issue_24/Sustaining_Passion_Wellbeing_Banner_Teaser.jpg">
@@ -201,7 +201,7 @@ margin-top:15px;
   </div>
 </div>
 
-
+ <br>	
 <div class="grid-container">
   <div>
     <img src="/images/Ethos_Images/Ethos_Issue_24/Liveable_Density_BannerTeaser.jpg">
