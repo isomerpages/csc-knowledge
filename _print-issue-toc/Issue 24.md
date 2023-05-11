@@ -84,7 +84,7 @@ margin-top:15px;
                 
   <p>In this special edition of ETHOS, we partner with the Ministry of National Development's Centre for Liveable Cities to explore the theme of urban sustainability, with insights from city leaders, public sector practitioners and urban experts from around the world.</p>	
             
-<div class="button1"><a href="/digital-issue-10/editorial/">Read More</a></div> <br></div>
+<div class="button1"><a href="">Read More</a></div> <br></div>
     </div>
 
  <br>   
