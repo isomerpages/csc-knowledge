@@ -72,7 +72,7 @@ font-size: 16px;
 	
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/digital-issue-09">Digital Edition Issue 9, <br>Nov 2022</a></td>
-	<td><a target="_blank" href="ethos-issue-24">Issue 24, Aug 2022, <br>Urban Sustainability</a></td>
+	<td><a target="_blank" href="/ethos-issue-24/">Issue 24, Aug 2022, <br>Urban Sustainability</a></td>
 </tr>
 
 
