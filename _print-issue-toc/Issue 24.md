@@ -113,13 +113,11 @@ margin-top:15px;
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-03.jpg"></div>
-        <div><h3>When Projects Change or End: Practical Steps to Manage Stakeholder Expectations</h3>
-            <b><i>by Khoo Ee Wan</i></b>
+        <div><img src=""></div>
+        <div><h3>Valuing Sustainability and the Environment</h3>
+            <b><i>by Leong Chi Hoong and Angelyn Teo</i></b>
             
-<p>	
-            Effective stakeholder communication can help ease disruption and promote buy-in for new goals if projects have to be modified or deprioritised.
-</p>	
+<p>Non-market methods of valuing the costs and benefits of environment protection can better inform policymaking for sustainable development.</p>	
             
 <div class="button1"><a href="/digital-issue-10/when-projects-change-or-end-practical-steps-to-manage-stakeholder-expectations/">Read More</a></div><br></div>
     </div>
