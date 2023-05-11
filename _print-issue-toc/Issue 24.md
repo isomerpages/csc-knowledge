@@ -127,15 +127,12 @@ margin-top:15px;
 <div class="grid-container">
         <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-04.jpg"></div>
         <div><h3>Green Transport in Singapore: Public Attitudes, Intentions and Actions</h3>
-            <b><i>by Chong Wen Wei, Leong Wai Yan, Karenza Mosquera,
-Ng Kai Xuan and Ng Sheng Yang
+            <b><i>by Chong Wen Wei, Leong Wai Yan, Karenza Mosquera, Ng Kai Xuan and Ng Sheng Yang
 </i></b>
             
-<p>	
-            Around the world, countries have sought to enhance their workers’ prospects with closer partnerships between sectors, greater clarity about learning goals, more flexibility with educational modes, and ensuring access to training for those who need it most.
-            </p>	
+<p>With recent studies indicating strong support for green transport among Singaporeans, especially among youth, a greener, people-centric land transport system for Singapore is well within our reach.</p>	
             
-<div class="button1"><a href="/digital-issue-10/lifelong-learning-through-a-global-lens/">Read More</a></div><br></div>
+<div class="button1"><a href="">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
