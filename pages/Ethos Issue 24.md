@@ -166,9 +166,16 @@ margin-top:15px;
 
 <div class="button1"><a href="">Read More</a></div>
 			</div>
+</div>
 
-
-
+<div class="grid-container">
+  <div><img src="/images/Ethos_Images/Ethos_Issue_24/City_Indices_Banner_Teaser.jpg"></div>
+  <div class="content">
+    <h3>Clarifying Complexity, Coordinating Change: The Value of City Indices</h3>
+    <b><i>By Milton Friesen</i></b>
+    <p>Urban indices and frameworks help those seeking to improve the health of cities better navigate complex, interrelated systems—facilitating coherent conversation, action and change.</p>
+    <div class="button1"><a href="">Read More</a></div>
+  </div>
 </div>
 
 
