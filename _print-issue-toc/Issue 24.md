@@ -157,6 +157,35 @@ margin-top:15px;
 </div>
 </div>
 
+<div class="grid-container">
+    <div><img src="/images/Ethos_Images/Ethos_Issue_24/La_Banner_Teaser.jpg"></div>
+
+   <div>
+		<h3>Sustainability through Inclusive and Innovative Development: Los Angeles, United States</h3>
+		<b><i>by Victoria Simon</i></b>
+		<p>The city’s strategy focuses on the needs of its most vulnerable groups and the aspirations of its residents for a more liveable, equitable, and prosperous future.</p>
+
+<div class="button1"><a href="">Read More</a></div>
+			</div>
+
+
+
+</div>
+<div class="grid-container">
+    <div></div>
+    <div>
+        <h3></h3>
+        <b><i></i></b>
+        <p></p>
+<div class="button1"><a href="">Read More</a></div>
+    </div>
+
+
+
+</div>
+
+
+
 
 
 <div class="back">
