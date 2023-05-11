@@ -178,6 +178,28 @@ margin-top:15px;
   </div>
 </div>
 
+<div class="grid-container">
+  <div><img src="/images/Ethos_Images/Ethos_Issue_24/Data_Culture_Banner_Teaser.jpg"></div>
+  <div class="content">
+    <h3>The City of the Future Needs a Data Culture that Sees the Visible and Invisible</h3>
+    <b><i>by Poon King Wang</i></b>
+    <p>The Director of the Lee Kuan Yew Centre for Innovative Cities reflects on how city planners and policymakers can make more thoughtful use of data to improve decision-making and better people’s lives in meaningful ways.</p>
+    <div class="button1"><a href="">Read More</a></div>
+  </div>
+</div>
+
+
+<div class="grid-container">
+  <div>
+    <img src="/images/Ethos_Images/Ethos_Issue_24/Sustaining_Passion_Wellbeing_Banner_Teaser.jpg">
+  </div>
+  <div class="content">
+    <h3>Sustaining Passion and Wellbeing in the City of the Future</h3>
+    <b><i>by Rahul Mittal</i></b>
+    <p>Veteran urban designer and planner Rahul Mittal reflects on key trends in the evolution of urban life, and how planners can engage with community aspirations and energies.</p>
+    <div class="button1"><a href="">Read More</a></div>
+  </div>
+</div>
 
 
 
