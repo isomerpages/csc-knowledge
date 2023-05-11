@@ -70,9 +70,8 @@ margin-top:15px;
 	
 <div class="button1"><a target="_blank" href="">Read more</a></div>
 </div>
-
 </div> 
-<br>
+
 	
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg">
@@ -83,9 +82,7 @@ margin-top:15px;
             Editor-in-Chief Ethos
             </figcaption>
                 
-  <p>	
-            This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.
-            </p>	
+  <p>In this special edition of ETHOS, we partner with the Ministry of National Development's Centre for Liveable Cities to explore the theme of urban sustainability, with insights from city leaders, public sector practitioners and urban experts from around the world.</p>	
             
 <div class="button1"><a href="/digital-issue-10/editorial/">Read More</a></div> <br></div>
     </div>
