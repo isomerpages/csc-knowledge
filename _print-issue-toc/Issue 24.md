@@ -65,7 +65,7 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Preface</h3>
-		<b><i>Hugh Lim</i></b>
+		<b><i>by Hugh Lim</i></b>
 		<p>Governments around the world remain key players to steward and support this transition, as well as capture opportunities for its people. This issue of ETHOS seeks to feature the different aspects of this transition to limit global warming.</p>
 	
 <div class="button1"><a target="_blank" href="">Read more</a></div>
@@ -94,7 +94,7 @@ margin-top:15px;
         <div><img src="/images/Ethos_Images/Ethos_Issue_24/Future_Of_Urban_Sustainability_Banner_Teaser.jpg"></div>
   <div>
 	<h3>The Future of Urban Sustainability: Implications for Governance</h3>
-            <b><i>Elly Chiu and Yuichi Kikuzawa</i></b>
+            <b><i>by Elly Chiu and Yuichi Kikuzawa</i></b>
             
 <p>How might we continue to build sustainability and liveability for our people, in the face of local and global shifts, resource pressures, changing societal values and other discontinuities?
 </p>	
@@ -105,7 +105,7 @@ margin-top:15px;
 <div class="grid-container">
       <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-02.jpg"></div>
         <div><h3>Skilling up for a Green Future</h3>
-            <b><i>Gog Soon Joo</i></b>
+            <b><i>by Gog Soon Joo</i></b>
 <p>In conversation with ETHOS, the Chief Skills Officer of SkillsFuture Singapore (SSG) outlines bold plans to green Singapore’s economy and workforce.</p>	
             
 <div class="button1"><a href="">Read More</a></div><br></div>
@@ -126,8 +126,10 @@ margin-top:15px;
 <br>    
 <div class="grid-container">
         <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-04.jpg"></div>
-        <div><h3>Lifelong Learning through a Global Lens</h3>
-            <b><i>by Patrick Tay</i></b>
+        <div><h3>Green Transport in Singapore: Public Attitudes, Intentions and Actions</h3>
+            <b><i>by Chong Wen Wei, Leong Wai Yan, Karenza Mosquera,
+Ng Kai Xuan and Ng Sheng Yang
+</i></b>
             
 <p>	
             Around the world, countries have sought to enhance their workers’ prospects with closer partnerships between sectors, greater clarity about learning goals, more flexibility with educational modes, and ensuring access to training for those who need it most.
