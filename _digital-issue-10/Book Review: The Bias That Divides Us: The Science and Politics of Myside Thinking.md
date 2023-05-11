@@ -153,5 +153,5 @@ border-top: 2px solid lightgray;
 <br>
 <br>	
 <div class="back">
-<a href="/digital-issue-10/">Back to Ethos Page</a>	
+<a href="/ethos/">Back to Ethos Page</a>	
 </div></ol></div>

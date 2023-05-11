@@ -1,6 +1,6 @@
 ---
-title: Issue 24
-permalink: /issue-24/
+title: Ethos Issue 24
+permalink: /ethos-issue-24/
 description: ""
 ---
 <style>
