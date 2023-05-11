@@ -142,8 +142,22 @@ margin-top:15px;
             
 <p>Intentional habit formation can help to drive the adoption of more sustainable eco-friendly behaviours.</p>	
             
-<div class="button1"><a href="/digital-issue-10/why-people-see-the-same-facts-and-come-to-different-conclusions/">Read More</a></div><br></div>
-    </div>
+<div class="button1"><a href="">Read More</a></div><br></div>
+</div>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_24/Espoo_Banner_Teaser.jpg"></div>
+	<div>
+		<div>
+		<h3>Sustainable Urban Development: Espoo, Finland</h3>
+		<b><i>by Helena Kyrki</i></b>
+		<p>The small but dynamic Finnish city is a leader in promoting development that brings together residents, businesses and other stakeholders, for the long-term benefit of all.</p>
+			<div class="button1"><a href="">Read More</a></div>
+	</div>
+</div>
+</div>
+
+
 
 <div class="back">
 <a href="/all-issues/">Back to All Issues</a>
