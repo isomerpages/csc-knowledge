@@ -1,5 +1,4 @@
 collections:
   print-issue-toc:
     output: true
-    order:
-      - Issue 24.md
+    order: []
