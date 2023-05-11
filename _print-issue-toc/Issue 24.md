@@ -101,7 +101,7 @@ td
 
  <br>   
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-01.jpg"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_24/Skilling_Up_BannerTeaser.jpg"></div>
         <div><h3>Prioritisation</h3>
             <b><i>by Aurora De Souza Watters</i></b>
             
