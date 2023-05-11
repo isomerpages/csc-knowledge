@@ -84,7 +84,8 @@ td
    <br>
     
 <div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_24/Future_Of_Urban_Sustainability_Banner_Teaser.jpg">
+</div>
         <div><h3>Editorial </h3>
             <b><i>by Dr Alvin Pang</i></b>
             <figcaption>
