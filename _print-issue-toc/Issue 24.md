@@ -136,8 +136,8 @@ margin-top:15px;
     </div>
 <br>
 <div class="grid-container">
-        <div><img src=""></div>
-        <div><h3>Sustainability as Behavioural Change: Nudging the Good, Discouraging the Bad</h3>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_24/Sustainability_As_Behav_Change_BannerTeaser.jpg"></div>
+<div><h3>Sustainability as Behavioural Change: Nudging the Good, Discouraging the Bad</h3>
             <b><i>by Charmaine Lim</i></b>
             
 <p>Intentional habit formation can help to drive the adoption of more sustainable eco-friendly behaviours.</p>	
