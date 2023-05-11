@@ -52,7 +52,7 @@ margin-top:15px;
         <div><img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"></div>
         <div><h3><span class="cat">ISSUE 24, AUG 2023</span>
             <br>ETHOS Issue 24</h3>	
-            <p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
+            <p>In an era of climate impact and deepening energy and resource constraints, what can we do to make our cities more sustainable and livable places to be? In this special issue, we partner with the Ministry of National Development's Centre for Livable Cities to explore the theme of urban sustainability, with insights from city leaders, public sectors practitioners and urban experts from around the world.</p>
             
             
    <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a></div></div>
