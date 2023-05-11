@@ -55,8 +55,9 @@ margin-top:15px;
             <p>In an era of climate impact and deepening energy and resource constraints, what can we do to make our cities more sustainable and livable places to be? In this special issue, we partner with the Ministry of National Development's Centre for Livable Cities to explore the theme of urban sustainability, with insights from city leaders, public sectors practitioners and urban experts from around the world.</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a></div></div>
-    </div>
+   <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-24">Download PDF</a></div>
+	</div>
+   </div>
     
    <br>
     
