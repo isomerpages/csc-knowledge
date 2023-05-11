@@ -125,8 +125,8 @@ margin-top:15px;
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-04.jpg"></div>
-        <div><h3>Green Transport in Singapore: Public Attitudes, Intentions and Actions</h3>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_BannerTeaser.jpg"></div>
+<div><h3>Green Transport in Singapore: Public Attitudes, Intentions and Actions</h3>
             <b><i>by Chong Wen Wei, Leong Wai Yan, Karenza Mosquera, Ng Kai Xuan and Ng Sheng Yang
 </i></b>
             
@@ -136,12 +136,11 @@ margin-top:15px;
     </div>
 <br>
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/review.jpg"></div>
-        <div><h3>Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</h3>
-            <b><i>by Vernie Oliveiro</i></b>
+        <div><img src=""></div>
+        <div><h3>Sustainability as Behavioural Change: Nudging the Good, Discouraging the Bad</h3>
+            <b><i>by Charmaine Lim</i></b>
             
-<p>	
-            Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich.</p>	
+<p>Intentional habit formation can help to drive the adoption of more sustainable eco-friendly behaviours.</p>	
             
 <div class="button1"><a href="/digital-issue-10/why-people-see-the-same-facts-and-come-to-different-conclusions/">Read More</a></div><br></div>
     </div>
