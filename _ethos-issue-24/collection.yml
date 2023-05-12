@@ -2,6 +2,8 @@ collections:
   ethos-issue-24:
     output: true
     order:
+      - "Sustainability through Inclusive and Innovative Development: Los
+        Angeles, United States.md"
       - "Sustainable Urban Development: Espoo, Finland.md"
       - "Sustainability as Behavioural Change: Nudging the Good, Discouraging
         the Bad.md"
