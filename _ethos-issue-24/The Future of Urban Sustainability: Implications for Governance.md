@@ -33,9 +33,30 @@ border-top: 1px solid black;
 	padding: 5%;
 	color: white;
 	}	
+	
 #articlebox1 {
 	color: white;
 	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	font-size:30px;
+	margin-top:50px;
+}
+	
+.break1
+{
+	font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+		
+	
 	
 </style>
 
@@ -67,9 +88,10 @@ border-top: 1px solid black;
 <p>As the global urgency around climate action increases, industries in many cities have announced decarbonisation goals and roadmaps. The acceleration of decarbonisation efforts however, may themselves alter resource flows between countries. Certain countries dominate clean energy value chains or access to critical minerals such as rare earths, lithium, and cobalt. Within an overall environment of great power competition, smaller countries face geopolitical or supply hurdles in getting access to needed technologies and materials, hampering their speed of decarbonisation. </p>
 <p>As the world pivots away from fossil fuels, cleaner energy supplies may become a ‘new oil’ upon which geopolitics will be premised, with attendant political and business risks. Cities around the world have begun regional sourcing for clean energy. For example, Amsterdam, Copenhagen, and Tokyo are engaging neighbouring regions and partners for renewable power generation. Singapore plans to adopt similar regional sourcing of renewable energy, but this brings its own challenges, since every other country is also pushing for clean energy. Malaysia, for instance, banned renewable electricity sales in late 2021. Extreme weather events may also render renewable energy sources unreliable. For example, droughts in Taiwan in 2021 disrupted the generation of hydropower and led to a steep rise in energy costs. </p>
 
-<hr>
-<h5><em>The acceleration of decarbonisation efforts may alter resource flows between countries. </em></h5>
-<hr>
+<div class="break">
+<p class="break1">The acceleration of decarbonisation efforts may alter resource flows between countries. </p>
+</div>
+
 <p>One way to mitigate supply-side risk and manage demand could be the development of wider regional energy infrastructure. For instance, cross-boundary energy grids such as the Greater Mekong Sub-region grid or the Laos-Thailand- Malaysia-Singapore Power Integration Project are currently being pursued. For a city-state such as Singapore, however, uncertainties remain. How will we manage increased price and supply volatility amid rising local and regional demand for renewable energy? What are the land and infrastructure implications of continuing to source energy from multiple renewable and low-carbon sources (e.g., hydrogen facilities, carbon sequestration, PV panels)? </p>
 
 <h3>Innovations to Accelerate Carbon Abatement</h3>
