@@ -103,9 +103,13 @@ border-top: 1px solid black;
 <p>While regenerative approaches are not new, and Singapore itself has adopted nature-based solutions (one type of regenerative design), there is a newfound urgency in adopting more of such methods, in light of climate and resource pressures. </p>
 <p>Green technologies show promise for the decarbonisation effort, but they may also place unintended burdens on the environment if their end-of-life phase is not managed well. For instance, solar panels have a lifespan of about 30 years, and the problem of their proper disposal looms large. There is currently little incentive to recycle them, given the cost of recovering the materials and toxic chemicals inside the panels,<sup><a href="#notes">16</a></sup> but improper disposal of these solar panels becomes an environmental concern and a waste of increasingly in-demand resources. Disposing of spent lithium-ion batteries that power most electric vehicles (lifespan of 10 to 20 years) will pose similar challenges. </p>
 <p>Another way to meet resource requirements while supporting decarbonisation is to scale up ‘urban mining’: the recovery and reuse of a city’s materials from buildings, infrastructure, or products. With 99% of its construction waste recycled, and more recent efforts to push for the recycling of electronic waste, Singapore is no stranger to the potential of ‘urban mining’ as a regenerative city approach.<sup><a href="#notes">17</a></sup></p>
-<hr>
-<h5><em>Green technologies may also place unintended burdens on the environment if their end-of-life phase is not managed well. </em></h5>
-<hr>
+
+
+<div class="break">
+<p class="break1">Green technologies may also place unintended burdens on the environment if their end-of-life phase is not managed well. </p>
+</div>
+
+
 
 
 <p>Supporting regenerative approaches for urban sustainability, frameworks such as the Living Building Challenge recognise that buildings and infrastructure can be made ‘regenerative’ and ‘net positive’ in terms of water, energy, and materials through its lifecycle. Developers can choose to build with rapidly renewable materials, like fast-growing wood, hemp, bark, cork, straw, bamboo, materials from biochar;<sup><a href="#notes">18</a></sup> as well as new bio-materials such as self-repairing concrete, windows that ‘breathe’ without the need to open them, or the use of microalgae.<sup><a href="#notes">19</a></sup> For example, Hamburg’s BIQ Building is the first to supply part of its energy consumption through panels containing microalgae.<sup><a href="#notes">20</a></sup> Infrastructure could also be designed for ‘multiple generations’ with standardised, modularised designs that can be easily reused and adapted during retrofitting or rebuilding. </p>
