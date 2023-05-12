@@ -2,6 +2,7 @@ collections:
   ethos-issue-24:
     output: true
     order:
+      - Sustaining Passion and Wellbeing in the City of the Future.md
       - The City of the Future Needs a Data Culture that Sees the Visible and
         Invisible.md
       - "Clarifying Complexity, Coordinating Change: The Value of City
