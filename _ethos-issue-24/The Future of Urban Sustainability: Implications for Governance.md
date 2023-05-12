@@ -108,8 +108,8 @@ border-top: 1px solid black;
 <p>Urban governance should also consider the importance of human capital to support sustainability, especially as green skills become increasingly complex. In the years to come, the low-hanging fruit of ‘easy’, low-cost solutions will have been adopted, leaving increasingly difficult, expensive, and time-consuming issues to resolve.<sup><a href="#notes">26</a></sup> This means that more experienced green skillsets and expertise will be needed to design and implement ever more sophisticated solutions. Cities should consider how to develop relevant and sufficient green skills to support progressively challenging decarbonisation and sustainability efforts. </p>
 <p>Communities and self-organising groups also play a role. Citizens everywhere have been proactively responding to climate change and resource insecurity by increasing self-sufficiency, community resilience and action. An example of this is the Transition Network, a growing movement of community-led projects that emerged in the UK. </p>
 
-
-
+<p>Another initiative, the Local Futures movement, encourages local place-based networks of production and consumption of energy and food by scaling action steps for various stakeholders, from institutions to individuals.<sup><a href="#notes">27</a></sup> Other contextualised models include Seoul’s community planning groups and Pittsburgh’s public-private-civic coalition building. </p>
+<p>Urban sustainability cannot be achieved through the separate pursuit of economic development, social inclusion or environmental preservation. With sustainability culture on the rise as a popular movement, we may start to see more conflict between environmental protection, carbon abatement, and economic development priorities. True progress towards urban sustainability is only feasible when the government, industries and communities work in tandem to strike the right balance between economic, social and environmental needs.</p>
 
 
 
