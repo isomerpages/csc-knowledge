@@ -6,13 +6,6 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_GabrielLim.jpg
 ---
 <style>
 
-.subhead::first-letter 
-{ 
-	initial-letter: 2;    
-	margin-right: .55em;
-	color: #243e76;
-}	
-	
 .author
 {
 border-bottom: 1px solid black;
@@ -54,13 +47,13 @@ border-top: 1px solid black;
 	
 </style>
 
-
+<em><small>ETHOS Issue 25, April 2023</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_gabriellim%2002.jpg">
 </div>
 
 
-<p class="subhead"><span>W</span>e are moving into quite a different future. The external environment has changed. Domestically, we have a mature population with new needs but also more questions about how things are done. At the same time, we know we need to use resources more sustainably. </p>
+<p>We are moving into quite a different future. The external environment has changed. Domestically, we have a mature population with new needs but also more questions about how things are done. At the same time, we know we need to use resources more sustainably. </p>
 
 <p>Public Service manpower growth cannot outpace that of the broader labour force when our population is not growing and the labour force is stagnating. This is the reality we must grapple with. 
 </p>

@@ -36,7 +36,7 @@ padding-bottom:30px;
 }		
 	
 </style>
-	
+<em><small>ETHOS Digital Issue 10, Mar 2023</small></em>
 <div class="background-image">
 <img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 </div>

@@ -73,7 +73,7 @@ line-height:22px;
 	
 	
 </style>
-	
+<em><small>ETHOS Digital Issue 10, Mar 2023</small></em>	
 	
 	
 	

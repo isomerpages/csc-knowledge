@@ -29,7 +29,7 @@ border-top: 1px solid black;
 }	
 	
 </style>
-	
+<em><small>ETHOS Issue 25, April 2023</small></em>
 <div class="background-image">
 <img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 </div>

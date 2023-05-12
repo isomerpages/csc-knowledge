@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 
-#container-2023, #container-2014, #container-2013,#container-2012, #container-2009, #container-2006 
+#container-2014, #container-2013,#container-2012, #container-2009, #container-2006 
 {
 width:54%;	
 }
@@ -38,20 +38,28 @@ font-size: 16px;
 
 
 
-<h3>2023</h3><table class="container2" id="container-2023">	
-
-	
+<h3>2023</h3>
+<table class="container2" id="container-2023">	
 <tbody>
-
-<tr>
-<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"></td>
-</tr>
 	
 <tr>
-	<td><a href="/digital-issue-10/">Digital Edition Issue 10, <br>Mar 2023</a></td>
+	<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue25.jpg"></td>
+	<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"></td>
 </tr>
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-10">Download PDF</a></td>
+	<td>
+		<a href="/ethos/">Issue 25, <br>April 2023</a>
+	</td>
+	<td>
+		<a href="/digital-issue-10/">Digital Edition Issue 10, <br>Mar 2023</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a>
+	</td>
+	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-10">Download PDF</a>
+	</td>
 </tr>
 
 </tbody>
@@ -72,7 +80,7 @@ font-size: 16px;
 	
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/digital-issue-09">Digital Edition Issue 9, <br>Nov 2022</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-24">Issue 24, Aug 2022, <br>Urban Sustainability</a></td>
+	<td><a target="_blank" href="/ethos-issue-24/">Issue 24, Aug 2022, <br>Urban Sustainability</a></td>
 </tr>
 
 

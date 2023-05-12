@@ -72,7 +72,7 @@ border-top: 2px solid lightgray;
 }			
 	
 </style>
-	
+<em><small>ETHOS Digital Issue 10, Mar 2023</small></em>	
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/banner_digital_issue10.jpg">
 </div>

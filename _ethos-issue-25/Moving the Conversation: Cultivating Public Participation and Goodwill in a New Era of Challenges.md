@@ -68,7 +68,7 @@ line-height: 22px;
 	
 	
 </style>
-
+<em><small>ETHOS Issue 25, April 2023</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_catherinefieschi%2002.jpg">
 </div>

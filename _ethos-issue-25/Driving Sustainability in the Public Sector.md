@@ -6,14 +6,7 @@ image: /images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_LimTuangLiang_1.jpg
 ---
 <style>
 
-.subhead::first-letter 
-{ 
-	initial-letter: 2;    
-	margin-right: .55em;
-	color: #1F5E61;
-}	
 
-	
 .back a
 {
 	color: #9f2943;
@@ -122,11 +115,11 @@ margin:20px;
 	
 	
 </style>
-
+<em><small>ETHOS Issue 25, April 2023</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_25/ethos_apr2023_limtuangliang_1%2002.jpg"></div>
 	
-<p class="subhead"><span>S</span>ustainability is a whole-of-nation endeavour. In 2021, we launched the Singapore Green Plan 2030 (“Green Plan”) and GreenGov.SG to rally collective Saction to tackle climate change, as a nation and within the public sector. GreenGov.SG will raise the bar on sustainability within the public sector in three ways: First, <b>Excel</b> by setting new and more ambitious targets; second, <b>Enable</b> a green economy and citizenry by embedding sustainability in our core business and third, <b>Excite</b> public officers to contribute to sustainability in Singapore.</p>
+<p>Sustainability is a whole-of-nation endeavour. In 2021, we launched the Singapore Green Plan 2030 (“Green Plan”) and GreenGov.SG to rally collective Saction to tackle climate change, as a nation and within the public sector. GreenGov.SG will raise the bar on sustainability within the public sector in three ways: First, <b>Excel</b> by setting new and more ambitious targets; second, <b>Enable</b> a green economy and citizenry by embedding sustainability in our core business and third, <b>Excite</b> public officers to contribute to sustainability in Singapore.</p>
 
 <p>Under GreenGov.SG, the public sector has committed to several targets, including achieving net zero emissions around 2045, about five years ahead of the national target.<sup><a href="#num1">1</a></sup> Executing the net zero transition will not be easy for Singapore, given our physical constraints and lack of renewable energy resources. So how are we going to achieve these targets?</p>
 
