@@ -3,6 +3,8 @@ title: Preface
 permalink: /ethos-issue-24/preface/
 description: ""
 ---
+<em><small>ETHOS Issue 24, August 2022</small></em>
+
 <img src="/images/Ethos_Images/Ethos_Issue_24/foreword.jpg">
 <p>Climate change poses major risks and potential disruptions, but it also offers opportunities to coalesce efforts towards a more sustainable future. The New Climate Economy
 estimated in 2018 that bold action against climate change could yield a direct economic gain
