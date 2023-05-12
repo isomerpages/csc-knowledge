@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 
-#container-2023, #container-2014, #container-2013,#container-2012, #container-2009, #container-2006 
+#container-2014, #container-2013,#container-2012, #container-2009, #container-2006 
 {
 width:54%;	
 }
@@ -41,19 +41,25 @@ font-size: 16px;
 <h3>2023</h3>
 <table class="container2" id="container-2023">	
 <tbody>
+	
 <tr>
 	<td><img src="/images/Ethos_Thumbnails_Cover/ethosissue25.jpg"></td>
 	<td><img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg"></td>
-	
-</tr>
-	
-<tr>
-	<td><a href="/ethos/">Issue 25, <br>April 2023</a></td>
-	<td><a href="/digital-issue-10/">Digital Edition Issue 10, <br>Mar 2023</a></td>
 </tr>
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-10">Download PDF</a></td>
+	<td>
+		<a href="/ethos/">Issue 25, <br>April 2023</a>
+	</td>
+	<td>
+		<a href="/digital-issue-10/">Digital Edition Issue 10, <br>Mar 2023</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a>
+	</td>
+	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-10">Download PDF</a>
+	</td>
 </tr>
 
 </tbody>
