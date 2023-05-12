@@ -3,6 +3,30 @@ title: Preface
 permalink: /ethos-issue-24/preface/
 description: ""
 ---
+<style>
+
+
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
+	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}	
+</style>
 <em><small>ETHOS Issue 24, August 2022</small></em>
 
 <img src="/images/Ethos_Images/Ethos_Issue_24/foreword.jpg">
