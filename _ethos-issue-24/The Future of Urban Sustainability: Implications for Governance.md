@@ -156,10 +156,39 @@ border-top: 1px solid black;
 
 
 
+<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>
+<ol>
+<li class="small-text">Millennium Ecosystem Assessment, <a target="_blank" href="https://www.millenniumassessment.org/en/Condition.html">Current State &amp; Trends Assessment”</a>, accessed June 9, 2022. Also see ARUP, <a target="_blank" href="https://www.arup.com/perspectives/publications/research/section/planetary-boundaries">Designing for Planetary Boundary Cities”</a>, accessed June 9, 2022. </li>
+<li class="small-text">Hilary Osborne and Sarah Butler, <a target="_blank" href="https://www.theguardian.com/business/2022/jan/29/from-milk-to-crisps-why-the-price-of-basic-food-items-is-rising"> “From Milk to Crisps: Why the Price of Basic Food Items Is Rising”</a>, <em>The Guardian</em>, January 29, 2022, accessed June 9, 2022. </li>
+<li class="small-text">Sandra Díaz, Josef Settele, Eduardo Brondízio et al., <a target="_blank" href="https://ipbes.net/global-assessment">“Summary for Policymakers of the Global Assessment Report on Biodiversity and Ecosystem Services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services”</a>, May 6, 2019, accessed June 9, 2022. </li>
+<li class="small-text">The outbreak of zoonotic diseases (spreading between animals and humans) has also become increasingly common in the era of globalisation, due to rapid urban development and expanding invasive species ranges. Recent modelling indicates an almost 40% probability of a person observing a pandemic similar to COVID-19 in his or her lifetime. See: Marco Marani, Gabriel G. Katul, William K. Pan, and Anthony J. Parolari, <a target="_blank" href="https://www.pnas.org/content/118/35/e2105482118">“Intensity and Frequency of Extreme Novel Epidemics”</a>, <em>PNAS</em> 118, no. 35 (August 2021), accessed June 9, 2022. </li>
+<li class="small-text">Weizhen Tan, <a target="_blank" href="https://www.cnbc.com/2022/02/23/impact-of-russia-ukraine-on-supply-chains-food-metals-commodities.html">“How A Russian Invasion of Ukraine, the ‘Breadbasket of Europe’, Could Hit Supply Chains”</a>, <em>CNBC</em>, February 23, 2022, accessed June 9, 2022. </li>
+<li class="small-text">David Malpass, <a target="_blank" href="https://www.barrons.com/articles/global-food-crisis-world-bank-51649369287">“A New Global Food Crisis Is Building”</a>, <em>Barron’s</em>, April 9, 2022, accessed June 9, 2022.</li>
+<li class="small-text">Olivia Gagan, <a target="_blank" href="https://www.raconteur.net/energy/decentralised-energy-grid/">“Moving Towards a Decentralised Grid”</a>, <em>Raconteur</em>, February 12, 2019, accessed June 9, 2022.</li>
+<li class="small-text">Paul Ellis and Jo-Jo Hubbard, <a target="_blank" href="https://www.weforum.org/agenda/2017/06/the-democratisation-of-energy-four-key-technologies-for-follow-it-through/">“Four Key Technologies that Will Make Energy More Democratic”</a>, World Economic Forum, June 20, 2017, accessed June 9, 2022. </li>
+<li class="small-text">GovTech Singapore, <a target="_blank" href="https://www.tech.gov.sg/media/media-releases/2021-06-23-increased-ict-spending-in-fy2021-to-accelerate-government-digitalisation">“Increased ICT spending in FY2021 to Accelerate Government Digitalisation”</a>, June 23, 2021, accessed June 9, 2022. </li>
+<li class="small-text">Prisca Ang, <a target="_blank" href="https://www.straitstimes.com/business/economy/spore-e-commerce-sales-forecast-to-hit-134-billion-by-2026-report">“E-commerce Sales in Singapore Forecast to Hit $13.4 billion by 2026: Report”</a>, <em>The Straits Times</em>, August 31, 2021, accessed June 9, 2022. </li>
+<li class="small-text">Stuart Todd, <a target="_blank" href="https://www.lloydsloadinglist.com/freight-directory/news/E-commerce-growth-fuelling-urban-logistics-challenges/75876.htm#.Yint9ogRW00">“E-commerce Growth Fuelling Urban Logistics Challenges”</a>, Informa, January 27, 2020, accessed June 9, 2022. </li>
+<li class="small-text">James Chin Moody, <a target="_blank" href="https://www.greenbiz.com/article/it-sustainable-expect-same-day-delivery">“Is It Sustainable to Expect Same-Day Delivery?”</a> GreenBiz, August 2, 2021, accessed June 9, 2022. </li>
+<li class="small-text">Cheryl Lin, <a target="_blank" href="https://www.channelnewsasia.com/singapore/infocus-e-commerce-online-shopping-urban-planning-delivery-singapore-2109426">“In Focus: How the E-Commerce Boom Could Shape Singapore’s Urban Landscape”</a>, August 14, 2021, accessed June 9, 2022. </li>
+<li class="small-text">National Environment Agency, <a target="_blank" href="https://www.nea.gov.sg/our-services/waste-management/waste-statistics-and-overall-recycling">“Waste Statistics and Overall Recycling”</a>, accessed June 9, 2022. </li>
+<li class="small-text"> Ministry of Sustainability and the Environment, <a target="_blank" href="https://www.towardszerowaste.gov.sg/waste-streams/packaging-waste/">“Packaging Waste”</a>, accessed June 9, 2022. </li>
+<li class="small-text">International Renewable Energy Agency, <a target="_blank" href="https://www.irena.org/newsroom/pressreleases/2016/Jun/Solar-PV-Recycling-Offers-Significant-Untapped-Business-Opportunity-New-Report-Shows">“Solar PV Recycling Offers Significant Untapped Business Opportunity, New Report Shows”</a>, June 20, 2016, accessed June 9, 2022. </li>
+<li class="small-text">H. Girardet, <em>Creating Regenerative Cities</em> (Routledge, 2014). </li>
+<li class="small-text">Land Art Generator, <a target="_blank" href="https://landartgenerator.org/blagi/archives/77237"> “Regenerative Building Materials: Seven Questions to Ask while Designing”</a>, September 12, 2020, accessed June 9, 2022. </li>
+<li class="small-text">Martyn Dade-Robertson, <a target="_blank" href="https://theconversation.com/five-ways-buildings-of-the-future-will-use-biotech-to-become-living-things-120627">“Five Ways Buildings of the Future Will Use Biotech to Become Living Things”</a>, <em>The Conversation</em>, July 22, 2019, accessed June 9, 2022. </li>
+<li class="small-text">Akamsteeg, <a target="_blank" href="https://blogs.unimelb.edu.au/sciencecommunication/2013/10/06/a-living-building-worlds-first-algae-powered-building/">“A Living Building: World’s First Algae-Powered Building”</a>, (<em>Scientific Scribbles</em> blog), October 6, 2013, accessed June 9, 2022.</li>
+<li class="small-text">Degrowth, <a target="_blank" href="https://degrowth.info/degrowth">https://degrowth.info/degrowth</a>. </li>
+<li class="small-text">Degrowth, <a target="_blank" href="https://www.degrowth.info/blog/agrowth-should-we-better-be-agnostic-about-growth">“Agrowth—Should We Better Be Agnostic about Growth?”</a>, accessed June 9, 2022. </li>
+<li class="small-text">Daniel Boffey, <a target="_blank" href="https://www.theguardian.com/world/2020/apr/08/amsterdam-doughnut-model-mend-post-coronavirus-economy">“Amsterdam to Embrace 'Doughnut' Model to Mend Post-Coronavirus Economy”</a>, <em>The Guardian</em>, April 8, 2020, accessed June 9, 2022. </li>
+<li class="small-text">OCBC Bank, <a target="_blank" href="https://www.ocbc.com/group/sustainability/climate-index">“Creating a Sustainable World. It’s All in Our Hands”</a>, accessed June 9, 2022. </li>
+<li class="small-text">Robin Hicks, <a target="_blank" href="https://www.eco-business.com/news/singaporeans-push-government-to-set-tougher-emissions-targets-in-first-ever-climate-rally/?sw-signup=true">“Singaporeans Push Government to Set Tougher Emissions Targets in First Ever Climate Rally”</a>, <em>Eco-Business</em>, September 23, 2019, accessed June 9, 2022. </li>
+<li class="small-text"><em>The Economist</em>, <a target="_blank" href="https://www.economist.com/finance-and-economics/2021/02/22/what-is-the-cheapest-way-to-cut-carbon">“What Is the Cheapest Way to Cut Carbon?”</a> February 22, 2021, accessed June 9, 2022. </li>
+<li class="small-text">Local Futures, <a target="_blank" href="https://www.localfutures.org/learn-take-action/">“Action Resources”</a>, accessed June 9, 2022.</li>
+</ol>
 
 
-<b></b><br>
-Title
+
 
 <br>
 <br>	
