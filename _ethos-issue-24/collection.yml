@@ -2,6 +2,7 @@ collections:
   ethos-issue-24:
     output: true
     order:
+      - Valuing Sustainability and the Environment.md
       - Skilling Up for a Green Future.md
       - "The Future of Urban Sustainability: Implications for Governance.md"
       - Editorial.md
