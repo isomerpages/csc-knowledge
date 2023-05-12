@@ -2,6 +2,8 @@ collections:
   ethos-issue-24:
     output: true
     order:
+      - "Sustainability as Behavioural Change: Nudging the Good, Discouraging
+        the Bad.md"
       - "Green Transport in Singapore: Public Attitudes, Intentions and
         Actions.md"
       - Valuing Sustainability and the Environment.md
