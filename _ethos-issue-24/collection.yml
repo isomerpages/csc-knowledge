@@ -2,5 +2,6 @@ collections:
   ethos-issue-24:
     output: true
     order:
+      - "The Future of Urban Sustainability: Implications for Governance.md"
       - Editorial.md
       - Preface.md
