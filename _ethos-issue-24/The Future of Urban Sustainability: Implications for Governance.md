@@ -26,6 +26,12 @@ padding-bottom:30px;
 border-top: 1px solid black;	
 
 }	
+	
+.featured-overlay__text {
+	background-color: #50C878;
+	border-radius: 10px;
+	padding: 5%;
+	}	
 </style>
 
 <em><small>ETHOS Issue 25, April 2023</small></em>
@@ -34,6 +40,18 @@ border-top: 1px solid black;
 <h3>Threats to Urban Sustainability: Adopting a Futures Lens</h3>
 <p>Cities everywhere are grappling with an array of global, regional and local shifts, and risks that threaten the future of urban sustainability. The outcomes of these complex, accelerating changes are difficult to foresee. What shocks and discontinuities may impact resource flows in and out of our cities, for instance? What are the deep transitions that may change the way we live, work, play and move about the city? How might new technologies impinge on resources or the environment, or perhaps unlock new opportunities for better resource and environmental stewardship? How these issues play out will have an impact on our cities’ ability to improve their sustainability. Furthermore, many sustainability-related issues are ‘wicked problems’ which are highly complex, difficult to define, with multiple stakeholders and no immediate or obvious solutions. </p>
 <p>While we cannot fully predict the future, cities can better anticipate and prepare for alternative scenarios in advance, and therefore afford themselves more flexibility to respond and adapt to change in good time. The Centre for Liveable Cities (CLC)’s Foresight team has identified and developed a set of discontinuities and trends as a starting point for developing plausible scenarios for Singapore as a city in 2040. Below, we discuss several key discontinuities we believe will have a more direct impact on our ability to improve urban sustainability. </p>
+
+<div class="featured-overlay__text">
+<h3 class="title">What is Sustainability?</h3>
+<p class="text">Sustainability is broadly defined as “meeting the needs of the present without compromising the ability of the future generations to meet their needs”.<sup>1</sup> </p>
+<p>For this discussion, we consider sustainability at the city level, i.e., urban sustainability: the idea that a city is developed in a way that harmonises economic growth, social inclusion, and environmental protection.</p>
+<hr>
+<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">NOTE</p>
+<ol>
+    <li class="small-text">UN Brundtland Commission, 1987.</li>
+</ol>
+</div>
+
 
 <h3>Global Resource Shifts and Cliffs</h3>
 <p>Globally, climate change is one of the biggest threats to urban sustainability. It is predicted to profoundly impact cities directly through extreme weather patterns (e.g., more frequent and intense droughts and storms; heatwaves; blizzards), sea-level rise, ocean acidification, habitat and biodiversity loss. </p>
