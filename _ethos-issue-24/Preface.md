@@ -3,7 +3,6 @@ title: Preface
 permalink: /ethos-issue-24/preface/
 description: ""
 ---
-
 <img src="/images/Ethos_Images/Ethos_Issue_24/foreword.jpg">
 <p>Climate change poses major risks and potential disruptions, but it also offers opportunities to coalesce efforts towards a more sustainable future. The New Climate Economy
 estimated in 2018 that bold action against climate change could yield a direct economic gain
@@ -33,4 +32,7 @@ constraints. In so doing, we can pioneer business and developmental models that 
 more ambitious climate targets.</p>
 <p>A huge thank you to all contributors for sharing their ideas and knowledge in this issue of ETHOS. On the launch of the issue at the 8th edition of the World Cities Summit (WCS) that brings global leaders, businesses and experts to Singapore, I hope we can inspire each other in the journey towards preparing
 our cities for critical uncertainties in our climate future.</p>
-<h4>Hugh Lim</h4>
+
+
+<b>Hugh Lim</b><br>
+Executive Director
