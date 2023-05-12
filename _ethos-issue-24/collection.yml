@@ -2,6 +2,8 @@ collections:
   ethos-issue-24:
     output: true
     order:
+      - "Green Transport in Singapore: Public Attitudes, Intentions and
+        Actions.md"
       - Valuing Sustainability and the Environment.md
       - Skilling Up for a Green Future.md
       - "The Future of Urban Sustainability: Implications for Governance.md"
