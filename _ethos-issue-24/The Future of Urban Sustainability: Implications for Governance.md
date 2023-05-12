@@ -111,8 +111,20 @@ border-top: 1px solid black;
 <p>Another initiative, the Local Futures movement, encourages local place-based networks of production and consumption of energy and food by scaling action steps for various stakeholders, from institutions to individuals.<sup><a href="#notes">27</a></sup> Other contextualised models include Seoul’s community planning groups and Pittsburgh’s public-private-civic coalition building. </p>
 <p>Urban sustainability cannot be achieved through the separate pursuit of economic development, social inclusion or environmental preservation. With sustainability culture on the rise as a popular movement, we may start to see more conflict between environmental protection, carbon abatement, and economic development priorities. True progress towards urban sustainability is only feasible when the government, industries and communities work in tandem to strike the right balance between economic, social and environmental needs.</p>
 
-
-
+<hr>
+<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>
+<table style="border: none; background-color: transparent;">
+    <tbody>
+        <tr style="border: none;">
+            <td style="padding: 0; padding-right: 32px; border: none;">
+            <p class="small-text"><strong>Elly Chiu</strong> leads the Centre for Liveable Cities’ Foresight team, which identifies drivers of change and develops city scenarios to inspire thinking on how policy and strategy can respond or prepare. She is also part of a research team at the Centre which conducts forward-looking studies on planning for a Healthy City.</p>
+            <p><strong>Yuichi Kikuzawa</strong> works at the research team at the Centre for Liveable Cities, where he focuses on policies, strategies, and international collaborations for the future of city planning. His research is premised on deep understanding of urban systems and how to derive integrated solutions for cities.</p>
+            </td>
+            <td style="width: 120px; border: none;" class="desktop-only"></td>
+        </tr>
+    </tbody>
+</table>
+<hr>
 
 
 
