@@ -4,6 +4,7 @@ permalink: /ethos-issue-24/preface/
 description: ""
 ---
 
+<img src="/images/Ethos_Images/Ethos_Issue_24/foreword.jpg">
 <p>Climate change poses major risks and potential disruptions, but it also offers opportunities to coalesce efforts towards a more sustainable future. The New Climate Economy
 estimated in 2018 that bold action against climate change could yield a direct economic gain
 of US$26 trillion through to 2030, as compared with business-as-usual—and these were
