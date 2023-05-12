@@ -2,6 +2,8 @@ collections:
   ethos-issue-24:
     output: true
     order:
+      - "Clarifying Complexity, Coordinating Change: The Value of City
+        Indices.md"
       - "Sustainability through Inclusive and Innovative Development: Los
         Angeles, United States.md"
       - "Sustainable Urban Development: Espoo, Finland.md"
