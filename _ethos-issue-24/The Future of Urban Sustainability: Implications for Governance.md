@@ -31,7 +31,12 @@ border-top: 1px solid black;
 	background-color: #50C878;
 	border-radius: 10px;
 	padding: 5%;
+	color: white;
 	}	
+#articlebox1 {
+	color: white;
+	}	
+	
 </style>
 
 <em><small>ETHOS Issue 25, April 2023</small></em>
@@ -42,7 +47,7 @@ border-top: 1px solid black;
 <p>While we cannot fully predict the future, cities can better anticipate and prepare for alternative scenarios in advance, and therefore afford themselves more flexibility to respond and adapt to change in good time. The Centre for Liveable Cities (CLC)’s Foresight team has identified and developed a set of discontinuities and trends as a starting point for developing plausible scenarios for Singapore as a city in 2040. Below, we discuss several key discontinuities we believe will have a more direct impact on our ability to improve urban sustainability. </p>
 
 <div class="featured-overlay__text">
-<h3 class="title">What is Sustainability?</h3>
+<h3 id="articlebox1" class="title">What is Sustainability?</h3>
 <p class="text">Sustainability is broadly defined as “meeting the needs of the present without compromising the ability of the future generations to meet their needs”.<sup>1</sup> </p>
 <p>For this discussion, we consider sustainability at the city level, i.e., urban sustainability: the idea that a city is developed in a way that harmonises economic growth, social inclusion, and environmental protection.</p>
 <hr>
