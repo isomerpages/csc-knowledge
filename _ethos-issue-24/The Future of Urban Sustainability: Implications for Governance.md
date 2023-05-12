@@ -128,9 +128,11 @@ border-top: 1px solid black;
 
 <h3>Implications for Urban Governance</h3>
 <p>As environmental pressures grow and the urgency of sustainable development increases, urban governance will need to consider how it responds to society’s expectations, particularly if we see the rise of a more ‘hardline’ sustainability culture. Singaporeans have become increasingly aware of sustainability issues, scoring 83% in the OCBC Climate Index.<sup><a href="#notes">24</a></sup> Citizens are starting to speak up—for example, about 2,000 people attended Singapore’s first ever climate rally in 2019, to push for bolder climate actions.<sup><a href="#notes">25</a></sup> However, these demands tend to skew towards preserving the status quo; whereas urban governance will need to balance these demands for preservation, with the need for development and rejuvenation. </p>
-<hr>
-<h5><em>Cities should consider how to develop relevant and sufficient green skills to support progressively challenging decarbonisation and sustainability efforts. </em></h5>
-<hr>
+
+<div class="break">
+<p class="break1">Cities should consider how to develop relevant and sufficient green skills to support progressively challenging decarbonisation and sustainability efforts.  </p>
+</div>
+
 <p>Urban governance should also consider the importance of human capital to support sustainability, especially as green skills become increasingly complex. In the years to come, the low-hanging fruit of ‘easy’, low-cost solutions will have been adopted, leaving increasingly difficult, expensive, and time-consuming issues to resolve.<sup><a href="#notes">26</a></sup> This means that more experienced green skillsets and expertise will be needed to design and implement ever more sophisticated solutions. Cities should consider how to develop relevant and sufficient green skills to support progressively challenging decarbonisation and sustainability efforts. </p>
 <p>Communities and self-organising groups also play a role. Citizens everywhere have been proactively responding to climate change and resource insecurity by increasing self-sufficiency, community resilience and action. An example of this is the Transition Network, a growing movement of community-led projects that emerged in the UK. </p>
 
