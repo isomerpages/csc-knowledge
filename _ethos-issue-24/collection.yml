@@ -2,21 +2,21 @@ collections:
   ethos-issue-24:
     output: true
     order:
-      - "Liveable Density: A Conversation with Heng Chye Kiang.md"
-      - Sustaining Passion and Wellbeing in the City of the Future.md
-      - The City of the Future Needs a Data Culture that Sees the Visible and
-        Invisible.md
-      - "Clarifying Complexity, Coordinating Change: The Value of City
-        Indices.md"
-      - "Sustainability through Inclusive and Innovative Development: Los
-        Angeles, United States.md"
-      - "Sustainable Urban Development: Espoo, Finland.md"
-      - "Sustainability as Behavioural Change: Nudging the Good, Discouraging
-        the Bad.md"
+      - Preface.md
+      - Editorial.md
+      - "The Future of Urban Sustainability: Implications for Governance.md"
+      - Skilling Up for a Green Future.md
       - "Green Transport in Singapore: Public Attitudes, Intentions and
         Actions.md"
       - Valuing Sustainability and the Environment.md
-      - Skilling Up for a Green Future.md
-      - "The Future of Urban Sustainability: Implications for Governance.md"
-      - Editorial.md
-      - Preface.md
+      - "Sustainability as Behavioural Change: Nudging the Good, Discouraging
+        the Bad.md"
+      - "Sustainable Urban Development: Espoo, Finland.md"
+      - "Sustainability through Inclusive and Innovative Development: Los
+        Angeles, United States.md"
+      - "Clarifying Complexity, Coordinating Change: The Value of City
+        Indices.md"
+      - The City of the Future Needs a Data Culture that Sees the Visible and
+        Invisible.md
+      - Sustaining Passion and Wellbeing in the City of the Future.md
+      - "Liveable Density: A Conversation with Heng Chye Kiang.md"
