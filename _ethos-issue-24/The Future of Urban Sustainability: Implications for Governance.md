@@ -68,8 +68,8 @@ border-top: 1px solid black;
 	
 	}	
 	
-ol {
-	font-size: 0.9em !important;
+li {
+	font-size: 0.85em !important;
 	
 	}	
 	
