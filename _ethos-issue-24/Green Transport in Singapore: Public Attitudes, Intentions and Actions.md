@@ -52,10 +52,10 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #036a5c;
 	border-radius: 10px;
 	padding: 5%;
-	
+	color: white;
 	}	
 
 li {
@@ -69,7 +69,8 @@ li {
 <img src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_BannerTeaser.jpg">
 
 
-<h3>INTRODUCTION</h3><p>The scientific consensus is that global climate change resulting  
+<h3>INTRODUCTION</h3>
+<p>The scientific consensus is that global climate change resulting  
 from the emission of greenhouse gases in the modern industrial  
 era has had far-ranging environmental and health consequences  
 worldwide.<sup><a href="#notes">1</a></sup> Although Singapore is not a major greenhouse gas  
@@ -84,10 +85,10 @@ under the SG Green Plan 2030<sup><a href="#notes">3</a></sup> to (a) ‘green’
 active mobility modes, and (d) promote cleaner vehicles, culminating  
 in a recently announced pledge to cut 80% of peak land transport  
 emissions by or around middle of the century.<sup><a href="#notes">4</a></sup></p>Box Story<p class="small-text text">Travelling by an electric car (EV), electric bus or train cuts carbon emissions by 50%, 70%, and  
-90% respectively, compared to driving an internal combustion engine (ICE) car.</p><div class="container">  
-  
-  
-<h3 class="title">REDUCING SINGAPORE’S LAND TRANSPORT CARBON FOOTPRINT</h3>  
+90% respectively, compared to driving an internal combustion engine (ICE) car.</p>
+
+<div class="containerbox">  
+ <h3 class="boxheader">REDUCING SINGAPORE’S LAND TRANSPORT CARBON FOOTPRINT</h3>  
 <p class="text">&nbsp;</p>  
 <p>Travelling by an electric car (EV), electric bus or train cuts carbon emissions by 50%, 70%, and  
 90% respectively, compared to driving an internal combustion engine (ICE) car.<sup>1</sup> Additionally, the carbon  
@@ -119,12 +120,15 @@ to ensure the safety and reliability of EV charging.
 These initiatives complement existing policies that  
 regulate vehicle ownership and usage by further  
 lowering the baseline rate of road vehicle emissions.</p>  
+
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_box-story-photos.jpg?sfvrsn=d2dd7880\_2"><img title="Green Transport\_box story photos" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_box-story-photos.jpg?sfvrsn=d2dd7880\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_box story photos"></a><br>  
+<img title="Green Transport\_box story photos" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_BoxStory_Photos.jpg" alt="Green Transport\_box story photos">
+<br>  
+	
 <p style="text-align: left;" class="small-text">"Before" and "After" artist impressions of the road repurposing of Woodlands Ring Road conducted in August 2021<br>  
 Source: Land Transport Authority Singapore</p>  
 <hr>  
-<p><strong>Notes</strong></p>  
+<p style="font-weight: bold;">Notes</p>  
 <ol>  
 <li>Ministry of Transport, “Speech by Minister for Transport,  
     Mr S Iswaran at the Committee of Supply Joint Segment on  
