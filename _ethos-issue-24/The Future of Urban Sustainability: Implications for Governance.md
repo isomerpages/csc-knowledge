@@ -63,6 +63,11 @@ border-top: 1px solid black;
 	
 	}	
 	
+ol {
+	font-size: 0.9em !important;
+	
+	}	
+	
 	
 </style>
 
