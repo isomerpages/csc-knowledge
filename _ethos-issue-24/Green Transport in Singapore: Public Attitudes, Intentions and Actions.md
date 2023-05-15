@@ -226,25 +226,49 @@ transform grudging users into contented, voluntary users of public transport.
 </p>
 </div>
 
-<h3>2. GCY: ASPIRATIONS OF YOUNG NON-VEHICLE OWNERS</h3><p>Among the non-car owners of today, it is important to take the pulse of what youths think of car ownership and relatedly, their environmental attitudes, as some of them will desire cars in the future as  
-they form families and progress in their careers. A study such as the GCY will help address this question.</p><p><strong>Declining Car Ownership Aspirations and Rates among Youths</strong></p><p> From the GCY study, half of the respondents (47%) say that they plan to own a car before they turn 35 years old (see Figure 4). While cars have attractive instrumental benefits (e.g., privacy, ease of travelling), most agreed that alternatives such as ride sharing services are adequate substitutes for instances when PT does not meet their travel needs. These findings corroborate with SBPS findings that most non-car  
-owners are happily captive to PT.</p><p>It is further significant that youth opinion is mixed on the symbolic value of car ownership, since this cultural attitude contributes to the inelastic demand of cars in a way that is difficult for public policy to resolve.<br>  
+<h3>2. GCY: ASPIRATIONS OF YOUNG NON-VEHICLE OWNERS</h3>
+<p>Among the non-car owners of today, it is important to take the pulse of what youths think of car ownership and relatedly, their environmental attitudes, as some of them will desire cars in the future as  
+they form families and progress in their careers. A study such as the GCY will help address this question.</p>
+<p><strong>Declining Car Ownership Aspirations and Rates among Youths</strong></p>
+<p> From the GCY study, half of the respondents (47%) say that they plan to own a car before they turn 35 years old (see Figure 4). While cars have attractive instrumental benefits (e.g., privacy, ease of travelling), most agreed that alternatives such as ride sharing services are adequate substitutes for instances when PT does not meet their travel needs. These findings corroborate with SBPS findings that most non-car  
+owners are happily captive to PT.</p>
+<p>It is further significant that youth opinion is mixed on the symbolic value of car ownership, since this cultural attitude contributes to the inelastic demand of cars in a way that is difficult for public policy to resolve.
+	
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-4.jpg?sfvrsn=e2995831\_2"><img title="Green Transport\_Fig.4" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-4.jpg?sfvrsn=e2995831\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.4"></a></p><br><p style="text-align: left;" class="small-text"><strong>Figure 4.</strong> Car Ownership Aspirations among Youths from GCY Survey  
+<br>  
+<img title="Green Transport\_Fig.4" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig4.jpg" alt="Green Transport\_Fig.4">
+
+</p>
+<br>
+<p style="text-align: left;" class="small-text"><strong>Figure 4.</strong> Car Ownership Aspirations among Youths from GCY Survey  
 </p><br><p>This result corroborates with the survey conducted by <em>The Straits Times </em>which  
 also finds that around 50% of today’s youths aspire to own a car. Although  
 an analogous GCY study from previous years is not available, we may reference  
 another finding from <em>The Straits Times </em>survey that car ownership aspirations  
 among youths have been declining between 2016 and 2022. This insight syncs with an internal LTA study in 2020 which finds a falling trend in car ownership rates among young adults (see Figure 5), despite the car population remaining relatively stable in the same period.</p><p>What might explain this diminishing desire for car ownership? From the GCY study, we find that most youths see cars as a nice-to-have, but not a must-have (see Figure 6). Although the  
 instrumental benefits of cars (e.g., privacy, ease of travelling) are readily apparent, most also agree that alternatives such as ride-sharing services are adequate substitutes for instances when PT does  
-not meet their travel needs and that they would be able to live the life they want even without a car. These findings corroborate with SBPS findings that many non-car owners are contented PT users, suggesting that efforts to invest in and promote PT are bearing fruit.</p><p>We further find that youth opinion is mixed on the symbolic value of car ownership (see Figure 6). Likewise, <em>The Straits Times</em> study also picks up a decline in the status symbol of a car. This is significant since this cultural attitude contributes to the inelastic demand of cars in a way that is difficult for public  
-policy to influence.<br>  
+not meet their travel needs and that they would be able to live the life they want even without a car. These findings corroborate with SBPS findings that many non-car owners are contented PT users, suggesting that efforts to invest in and promote PT are bearing fruit.</p>
+<p>We further find that youth opinion is mixed on the symbolic value of car ownership (see Figure 6). Likewise, <em>The Straits Times</em> study also picks up a decline in the status symbol of a car. This is significant since this cultural attitude contributes to the inelastic demand of cars in a way that is difficult for public  
+policy to influence.
+	<br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-5.jpg?sfvrsn=d59c0949\_2"><img title="Green Transport\_Fig.5" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-5.jpg?sfvrsn=d59c0949\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.5"></a></p><br><p style="text-align: left;" class="small-text"><strong>Figure 5.</strong> Car Ownership Rates among Singapore Youths  
-</p><br><p>While we remain optimistic about current trends, we note that youths are not outright rejecting car ownership. Around half still plan to own a car and in response to another question in the GCY, some 70% indicate they would buy a car if they could afford one in the next 10 to 15 years. This serves to remind us  
-that we must always persist in efforts to ensure the availability of good carlite transport alternatives to the car, so that we continue to keep more of our PT users in the “contented” category.</p><hr><h5><em>  
+<img title="Green Transport\_Fig.5" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig5.jpg" alt="Green Transport\_Fig.5">
+
+</p>
+<br>
+<p style="text-align: left;" class="small-text"><strong>Figure 5.</strong> Car Ownership Rates among Singapore Youths  
+</p>
+<br>
+<p>While we remain optimistic about current trends, we note that youths are not outright rejecting car ownership. Around half still plan to own a car and in response to another question in the GCY, some 70% indicate they would buy a car if they could afford one in the next 10 to 15 years. This serves to remind us  
+that we must always persist in efforts to ensure the availability of good carlite transport alternatives to the car, so that we continue to keep more of our PT users in the “contented” category.</p>
+
+<div class="break1">
+<p class="break">  
 We must persist in efforts to ensure the availability of good car-lite transport alternatives to the car.  
-</em></h5><hr><p><strong>Environmental Attitudes towards Private and Public Transport</strong></p><p>What about environmental attitudes among youths? There is consensus about the environmental harms of driving, but interestingly, not everyone perceives the same degree of environmental impact from their personal travel mode choice (see Figure 7). While most youths believe that cars are one of the biggest contributors to carbon emissions, they also appear divided on whether transport decisions  
+</p>
+</div>
+<p><strong>Environmental Attitudes towards Private and Public Transport</strong></p>
+<p>What about environmental attitudes among youths? There is consensus about the environmental harms of driving, but interestingly, not everyone perceives the same degree of environmental impact from their personal travel mode choice (see Figure 7). While most youths believe that cars are one of the biggest contributors to carbon emissions, they also appear divided on whether transport decisions  
 (e.g., choosing to drive a car or taking PT) make a difference in protecting our climate, or whether it necessarily reflects one’s environmental values or their concern for the environment. On the question of whether they are the type of person who acts in environmentally friendly ways, 67% of car aspirants agree with the statement, compared to only 53% of non-aspirants, which seems like a paradox.</p><a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-6.jpg?sfvrsn=53d15823\_2"><img title="Green Transport\_Fig.6" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-6.jpg?sfvrsn=53d15823\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.6"></a><br><br><p style="text-align: left;" class="small-text"><strong>Figure 6.</strong> Summary of General Attitudes among Youths in GCY Survey</p><a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-7.jpg?sfvrsn=97fbbdb6\_2"><img title="Green Transport\_Fig.7" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-7.jpg?sfvrsn=97fbbdb6\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.7"></a><br><br><p style="text-align: left;" class="small-text"><strong>Figure 7.</strong> Summary of Environmental Attitudes among Youths from GCY Survey</p><br><hr><h5><em>  
 Beyond building up our collective understanding of the environmental harm of driving, it is timely to  
 begin imbuing a sense that every individual action matters.  
