@@ -137,7 +137,7 @@ ol {
 
 
 <div class="author">
-<p class="small-text" style="font-weight: bold; letter-spacing: 1px;">ABOUT THE AUTHORS</p><table style="border: none; background-color: transparent;">  
+<h6>ABOUT THE AUTHORS</h6><table style="border: none; background-color: transparent;">  
 <tbody>  
 <tr style="border: none;">  
 <td style="padding: 0; padding-right: 32px; border: none;">  
