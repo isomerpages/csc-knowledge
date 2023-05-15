@@ -48,14 +48,14 @@ font-family: Georgia;
 }
 
 .boxheader {
-	color: white !important;
+	color: #c33a4b !important;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #414042;
 	border-radius: 10px;
 	padding: 5%;
-	
+	color: white;
 	}	
 
 li {
@@ -116,14 +116,12 @@ and track record. How can Singapore
 build on these strengths to embed and  
 deepen a strong data culture?</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">  
+<p class="break1">  
 Very often, data can tell us that something is happening,  
 but it may not tell us why.  
-</em></h5>  
-  
-<hr>  
+</p>  
+</div>  
   
 <h3>What Makes for A Healthy Data Culture</h3>  
   
@@ -190,13 +188,13 @@ Besides, going the wrong way initially
 can sometimes lead you to discover  
 new places.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A healthy data culture is one which understands that data comes from all perspectives and directions.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Nurturing A Data Culture for Urban Sustainability</h3>  
   
@@ -233,13 +231,13 @@ need to leave room for experimentation,
 within the public sector as well as in the  
 private and people sectors.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The more the data tells us, the more we don’t know and need to find out.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>We also need to always ask ourselves,  
 that given all the data we collect and  
@@ -264,14 +262,14 @@ for charging points could be shortened,
 and the charging infrastructure could  
 be optimised.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A vital part of data culture is having an iterative, feedback loop.  
-</em></h5>  
+</p>  
   
-<hr>  
-Box Story  
+</div>  
+ 
   
   
 <p class="small-text text">Lee Kuan Yew Centre for Innovative Cities adjunct fellow Dr Andy Zheng  
@@ -281,34 +279,35 @@ a number of innovations to benefit taxi drivers in the city of Shenzhen, China.<
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
-<h3 class="title">Using Data to Improve Sustainability and Social Impact</h3>  
+<h3 class="boxheader">Using Data to Improve Sustainability and Social Impact</h3>  
 <p class="text">&nbsp;</p>  
 <p>Lee Kuan Yew Centre for Innovative Cities adjunct fellow Dr Andy Zheng<sup>1&nbsp;</sup> worked with a team of researchers along with PAIR CITY, a big data company, on a number of innovations to benefit taxi  
 drivers in the city of Shenzhen, China.</p>  
-<h3 class="title">Matching Taxi Supply with Demand</h3>  
+<h3 class="boxheader">Matching Taxi Supply with Demand</h3>  
 <p class="text">&nbsp;</p>  
 <p>Real-time supply-demand data (already collected by the city government) was provided to taxi drivers, improving their efficiency and earnings by 8% while also reducing passenger wait times in hotspots that often faced a taxi shortage.</p>  
-<h3 class="title"> EV Charging</h3>  
+<h3 class="boxheader"> EV Charging</h3>  
 <p class="text">&nbsp;</p>  
 <p>EV taxi drivers, carrying over petrol car routines, used to charge their EVs to 100% so they could change shift with a full tank. This led to long queues at charging stations near shift-changing locations. The researchers and PAIR CITY were able to show that most of the time, only 70% of the charge was needed for the night shift. EV taxi drivers therefore only needed to charge their taxis for less time, at any station wherever and whenever was convenient (e.g., during their lunch break). This greatly reduced  
 queues and saved the drivers time which could be used to increase earnings or to rest. It also improved the overall use of the charging network without requiring more infrastructure to be built.</p>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/box-story\_shenzhen-north-charging-station.jpg?sfvrsn=fbbc4e45\_2"><img title="Box story\_Shenzhen north charging station" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-24/box-story\_shenzhen-north-charging-station.jpg?sfvrsn=fbbc4e45\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Box story\_Shenzhen north charging station"></a><br>  
+<img title="Box story\_Shenzhen north charging station" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_24/Box_Story_Shenzhen_North_Charging_Station.jpg" alt="Box story\_Shenzhen north charging station">
+<br>  
 <br>  
 <p style="text-align: left;" class="small-text">Rows of faster chargers (total 637) inside China’s largest EV charging station as of 2019 (near Shenzhen North Railway station)<br>  
 Source: PAIR CITY</p>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/box-story\_charging-stations-data-mining.jpg?sfvrsn=920272f2\_2"><img title="Box story\_charging stations data mining" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-24/box-story\_charging-stations-data-mining.jpg?sfvrsn=920272f2\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Box story\_charging stations data mining"></a>  
+<img title="Box story\_charging stations data mining" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_24/Box_Story_Charging_Stations_DataMining.jpg" alt="Box story\_charging stations data mining"> 
 <br>  
 <p style="text-align: left;" class="small-text">Data mining showing where Shenzhen EV taxis go for charging<br>  
 Source: PAIR CITY</p>  
 <br>  
 <p>&nbsp;</p>  
 <hr>  
-<p><strong>Note</strong></p>  
+<p><b>Note</b></p>  
 <ol>  
 <li>See <a target="\_blank" href="https://lkycic.sutd.edu.sg/people/adjunct/andy-zheng/">https://lkycic.sutd.edu.sg/people/adjunct/andy-zheng/</a>.  
     </li>  
@@ -321,7 +320,7 @@ Source: PAIR CITY</p>
   
   
   
-end of box story  
+  
 <h3>Making a Material Difference with Data</h3>  
   
 <p>Another aspect of building a data culture  
@@ -348,13 +347,13 @@ from someone who has had to walk
 the facility, knock the pipes and smell  
 the place.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 We need to always link back to something that benefits people, so that they feel it is meaningful to them.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Data culture is not just about whether you  
 understand the statistics, but whether  
@@ -424,33 +423,27 @@ point is a human being. The task is to
 try and make that human being’s life a  
 little bit better all the time.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Our public sector can be a role model for the data culture that we want to see in the rest of Singapore.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
+
+<br>
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>  
   
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHOR</p>  
-  
-<table style="border:none;background-color:transparent;height:227px;">  
-<tbody>  
-<tr style="border:none;height:234px;">  
-<td style="padding:0;padding-right:32px;border:none;">  
 <p class="small-text"><strong>Poon King Wang</strong> is Director of the Lee Kuan Yew Centre for Innovative Cities at the Singapore University of Technology and Design (SUTD). He is concurrently SUTD's Senior Director of Strategic Planning. His teams’ research is recognised in Singapore’s National AI Strategy for contributing to a trusted and progressive AI environment. Collaborating with IMDA/PDPC, they launched Singapore's first human-centred industry-agnostic guide to <em>Job Redesign in the Age of AI</em>. He received the Public Administration Medal (Silver) in 2021.  
             </p>  
-</td>  
-<td style="width:120px;border:none;" class="desktop-only">&nbsp;</td>  
-</tr>  
-</tbody>  
-</table>  
+
   
-<hr>  
+</div>  
   
 <br>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
