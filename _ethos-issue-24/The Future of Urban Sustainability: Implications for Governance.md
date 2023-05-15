@@ -29,7 +29,7 @@ border-top: 1px solid black;
 
 .author p {
 	font-size: 0.9em;
-	
+	line-height:24px !important;
 	}	
 	
 .featured-overlay__text {
