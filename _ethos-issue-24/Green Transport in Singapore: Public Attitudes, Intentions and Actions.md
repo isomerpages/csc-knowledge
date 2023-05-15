@@ -122,7 +122,7 @@ regulate vehicle ownership and usage by further
 lowering the baseline rate of road vehicle emissions.</p>  
 
 <br>  
-<img title="Green Transport\_box story photos" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_BoxStory_Photos.jpg" alt="Green Transport\_box story photos">
+<img src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_BoxStory_Photos.jpg" alt="Green Transport\_box story photos">
 <br>  
 	
 <p style="text-align: left;" class="small-text">"Before" and "After" artist impressions of the road repurposing of Woodlands Ring Road conducted in August 2021<br>  
