@@ -456,7 +456,7 @@ and Information.</em>
             &amp; Planning Group of the Land Transport Authority. His current work areas include conducting research on travel behaviours and vehicle markets to support policy development.  
 </p>  
 </div>
-	<hr>
+<hr>
 	
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p><ol>  
 <li class="small-text">Singapore has not been, and will not be, spared. Average temperatures in our coastal city-state have risen by more than 1°C over the past 40 years. By the end of the century, the National Climate Change Secretariat projects a further increase of 4.6°C in temperature and a 1 m rise in sea levels.</li>  
