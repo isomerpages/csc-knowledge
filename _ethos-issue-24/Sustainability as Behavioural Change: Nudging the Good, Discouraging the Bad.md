@@ -287,7 +287,7 @@ li {
 <p style="text-align:center;"><img width="440" src="/images/Ethos_Images/Ethos_Issue_24/Box_Story_RecyclingReminder.jpg" height="440" alt="Recycling Corner"></p>  
 <p style="text-align: center;" class="small-text">Example of a Recycling Corner. Source: Ministry of Sustainability and the Environment</p>  
 <p>Another self-nudge that officers adopted was to create a reminder on what can be recycled. Using information from the campaign, these reminders were customised based on what they aimed to recycle, which not only reinforced their recycling knowledge but also enabled the interventions to be targeted to address behaviours specific to their lifestyles.</p>  
-<p style="text-align:center;"><img width="460" src="../../images/default-source/ethos-images/ethos-issue-24/box-story\_recycling-reminder.jpg" height="327" alt="Recycling Reminder"></p>  
+<p style="text-align:center;"><img width="460" src="/images/Ethos_Images/Ethos_Issue_24/Box_Story_RecyclingCorner.jpg" height="327" alt="Recycling Reminder"></p>  
 <p style="text-align: center;" class="small-text">Example of a Recycling Reminder. Source: Ministry of Sustainability and the Environment</p>  
 <p>These self-nudges helped many officers to recycle more, and to have greater confidence in sharing about recycling with their family and friends.</p>  
 <br>  
@@ -310,14 +310,14 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
-<h3 class="title">Nurturing Young Eco-Ambassadors to Help Others Adopt More Sustainable Behaviours (Eco Avengers Unite!)</h3>  
+<h3 class="boxheader">Nurturing Young Eco-Ambassadors to Help Others Adopt More Sustainable Behaviours (Eco Avengers Unite!)</h3>  
 <p class="text">  
 </p>  
 <p>In 2022, behavioural researchers from MSE and NEA will pilot “Eco Avengers UNITE!” with selected primary schools: a programme to nurture students to become effective eco-ambassadors. It will equip students to identify sustainability issues in their environment and to create solutions that encourage eco-friendly behaviours in those around them. Students will be taught behavioural insights and design thinking to identify behavioural barriers, and then to design and test interventions to nudge the behaviours of their target audience. As young “Eco Avengers”, students will learn to:</p>  
-<p style="text-align:center;"><img width="492" src="../../images/default-source/ethos-images/ethos-issue-24/sustainability-as-behav-change\_box-story-pic\_p-69.jpg" height="232" alt="UNITE Framework"></p>  
+<p style="text-align:center;"><img width="492" src="/images/Ethos_Images/Ethos_Issue_24/Sustainability_As_Behav_Change_BoxStory_Pic69.jpg" height="232" alt="UNITE Framework"></p>  
 <p style="text-align: center;" class="small-text"> Diagram of the UNITE framework. Source: Ministry of Sustainability and the Environment</p>  
 <ul>  
 <li>Investigate and solve environment challenges using the UNITE (Understand, Ideate, Test, Exhibit) framework tailored to primary school students;</li>  
@@ -326,7 +326,7 @@ li {
 </ul>  
 <p>In becoming Eco Avengers, students learn to take the initiative to address sustainability issues, without waiting for others to do so.</p>  
 <br>  
-<p class="small-text"><strong>Contributed by Vivian Lai, Environmental Behavioural Sciences and Economics Research Unit, Ministry of Sustainability and the Environment</strong></p>  
+<p class="small-text"><b>Contributed by Vivian Lai, Environmental Behavioural Sciences and Economics Research Unit, Ministry of Sustainability and the Environment</b></p>  
 <hr>  
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text">NOTE</p>  
 <ol>  
@@ -349,33 +349,23 @@ li {
   
 <p>Nevertheless, the gap between what we intend to do and how we act must be closed. This will depend on us forming appropriate habits to sustain a change in our day-to-day behaviours. In particular, the challenge is encouraging people to form good but difficult habits (e.g., cutting down on unnecessary car trips, walking or taking public transportation, recycling), and to reduce eco-unfriendly behaviours (e.g., incorrectly identifying materials for recycling). </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>A greater impact could be achieved by involving citizens in influencing others to adopt green habits.</em></h5>  
+<p class="break1">A greater impact could be achieved by involving citizens in influencing others to adopt green habits.</p>  
   
-<hr>  
+</div>  
   
 <p>Because the environment and context affect whether a good habit is formed and/or bad habit is disrupted, the responsibility of habit formation should not fall squarely on individuals. The public and private sectors have roles to play in making it easier for people to adopt eco-friendly habits and to see the value in doing so. Governments could also explore empowering individuals to design their own nudges to form green habits and influence others around them. If implemented properly, these have the potential to achieve more than first intended: individuals can apply the same knowledge to other eco-friendly habits with minimal assistance from governments and businesses. </p>  
   
 <p>While these approaches may not be straightforward to implement, they can help ingrain important eco-friendly behaviours for the long term, as part of how we address issues of climate action and environmental sustainability as a society.</p>  
   
-<hr>  
-  
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>  
-  
-<table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>  
+ 
 <p class="small-text"><strong>Charmaine Lim</strong> is Lead Researcher at the Institute of Governance and Policy, Civil Service College. Her research interests include evidence-based policymaking and behavioural economics.</p>  
-</td>  
-<td style="width: 120px; border: none;" class="desktop-only"></td>  
-</tr>  
-</tbody>  
-</table>  
-  
-<hr>  
-  
+
+</div>
+
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
   
 <ol>  
