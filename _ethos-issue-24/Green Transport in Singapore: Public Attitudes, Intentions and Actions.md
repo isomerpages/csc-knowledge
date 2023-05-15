@@ -170,14 +170,24 @@ moment</em>) to 7 (<em>always</em>).<br>
 <br>  
 <img src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig1.jpg" alt="Green Transport\_Fig.1"><br>
 <br>  
-</p><br><p style="text-align: left;" class="small-text"><strong>Figure 1.</strong> Adoption Levels against Perceived Priority of Environmental Actions</p><br><p>Among these surveyed behaviours, “Take PT, walk or cycle, rather than drive” (<em>Xdrive</em>) rank the highest overall in terms of perceived priority level for both groups. The carbon savings from not driving the  
-car add up very quickly compared to the other eight behaviours, and thus we may also infer that Singaporeans have correctly identified the top environmental behaviour to prioritise.</p><p>This heartening result suggests that both car and non-car owners recognise the vital importance of LTA’s car-lite vision in realising a more sustainable future for Singapore, and we can leverage this  
-unifying theme of mitigating climate change to rally more people to adopt car-lite lifestyles.</p><p><strong>Loyalty to Cars</strong></p><p>Unsurprisingly, car owners have a fairly low adoption level of Xdrive as shown in  
-Figure 1, but even so, there is significant heterogeneity in the intention of car owners to switch to non-car alternatives. Not every car owner is captive to their car.</p><p>We reach this conclusion by analysing how car owners classify themselves into five different stages of reducing car use (see Figure 2).<sup><a href="#notes">6</a></sup> The stages range from having no reason or intention to reduce  
-car use (<em>stage 1</em>) to having taken some action towards reducing car use (<em>stage 5</em>).</p><p>Encouragingly, 59% of car owners report being in <em>stages 3</em> to <em>5</em>: meaning that minimally, they had some intention to reduce car use and did not write it off as impossible. However, we find a  
+</p>
+<br>
+
+<p style="text-align: left;" class="small-text"><strong>Figure 1.</strong> Adoption Levels against Perceived Priority of Environmental Actions</p><br><p>Among these surveyed behaviours, “Take PT, walk or cycle, rather than drive” (<em>Xdrive</em>) rank the highest overall in terms of perceived priority level for both groups. The carbon savings from not driving the  
+car add up very quickly compared to the other eight behaviours, and thus we may also infer that Singaporeans have correctly identified the top environmental behaviour to prioritise.</p>
+<p>This heartening result suggests that both car and non-car owners recognise the vital importance of LTA’s car-lite vision in realising a more sustainable future for Singapore, and we can leverage this  
+unifying theme of mitigating climate change to rally more people to adopt car-lite lifestyles.</p>
+<p><strong>Loyalty to Cars</strong></p><p>Unsurprisingly, car owners have a fairly low adoption level of Xdrive as shown in  
+Figure 1, but even so, there is significant heterogeneity in the intention of car owners to switch to non-car alternatives. Not every car owner is captive to their car.</p>
+<p>We reach this conclusion by analysing how car owners classify themselves into five different stages of reducing car use (see Figure 2).<sup><a href="#notes">6</a></sup> The stages range from having no reason or intention to reduce  
+car use (<em>stage 1</em>) to having taken some action towards reducing car use (<em>stage 5</em>).</p>
+<p>Encouragingly, 59% of car owners report being in <em>stages 3</em> to <em>5</em>: meaning that minimally, they had some intention to reduce car use and did not write it off as impossible. However, we find a  
 sizeable proportion (40%) of car owners classifying themselves into <em>stages 3 </em>and <em>4</em>. These car owners are experiencing an intention-action gap whereby they want to reduce car use but have not yet acted on their intentions.<br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-2a.jpg?sfvrsn=edd9bb38\_2"><img title="Green Transport\_Fig.2a" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-2a.jpg?sfvrsn=edd9bb38\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.2a"></a><br>  
+	
+<img src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig2a.jpg">
+	
+<br>  
 <br>  
 <a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-2b.jpg?sfvrsn=f4ae4855\_2"><img title="Green Transport\_Fig.2b" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-2b.jpg?sfvrsn=f4ae4855\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.2b"></a></p><br><p style="text-align: left;" class="small-text"><strong>Figure 2.</strong> Stages of Adoption of Non-Car Modes among Car Owners  
 </p><br><p><strong>Loyalty to Public Transport</strong></p><p>On the other hand, how worried should we be about non-car owners switching towards car dependency? We extend the five-stage model originally designed for car owners to assess how non-car  
