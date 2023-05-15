@@ -128,7 +128,11 @@ border-top: 1px solid black;
   
   
   
-</div><p>Another initiative, the Local Futures movement, encourages local place-based networks of production and consumption of energy and food by scaling action steps for various stakeholders, from institutions to individuals.<sup><a href="#notes">27</a></sup> Other contextualised models include Seoul’s community planning groups and Pittsburgh’s public-private-civic coalition building. </p><p>Urban sustainability cannot be achieved through the separate pursuit of economic development, social inclusion or environmental preservation. With sustainability culture on the rise as a popular movement, we may start to see more conflict between environmental protection, carbon abatement, and economic development priorities. True progress towards urban sustainability is only feasible when the government, industries and communities work in tandem to strike the right balance between economic, social and environmental needs.</p><hr><p class="small-text" style="font-weight: bold; letter-spacing: 1px;">ABOUT THE AUTHORS</p><table style="border: none; background-color: transparent;">  
+</div><p>Another initiative, the Local Futures movement, encourages local place-based networks of production and consumption of energy and food by scaling action steps for various stakeholders, from institutions to individuals.<sup><a href="#notes">27</a></sup> Other contextualised models include Seoul’s community planning groups and Pittsburgh’s public-private-civic coalition building. </p><p>Urban sustainability cannot be achieved through the separate pursuit of economic development, social inclusion or environmental preservation. With sustainability culture on the rise as a popular movement, we may start to see more conflict between environmental protection, carbon abatement, and economic development priorities. True progress towards urban sustainability is only feasible when the government, industries and communities work in tandem to strike the right balance between economic, social and environmental needs.</p>
+
+
+<div class="author">
+<p class="small-text" style="font-weight: bold; letter-spacing: 1px;">ABOUT THE AUTHORS</p><table style="border: none; background-color: transparent;">  
 <tbody>  
 <tr style="border: none;">  
 <td style="padding: 0; padding-right: 32px; border: none;">  
@@ -138,7 +142,10 @@ border-top: 1px solid black;
 <td class="desktop-only" style="width: 120px; border: none;"></td>  
 </tr>  
 </tbody>  
-</table><hr><p class="small-text" style="font-weight: bold; letter-spacing: 1px;"> <a name="notes"></a>NOTES</p><ol>  
+</table>
+</div>
+	
+<p class="small-text" style="font-weight: bold; letter-spacing: 1px;"> <a name="notes"></a>NOTES</p><ol>  
 <li class="small-text">Millennium Ecosystem Assessment, <a href="https://www.millenniumassessment.org/en/Condition.html" target="\_blank">Current State &amp; Trends Assessment”</a>, accessed June 9, 2022. Also see ARUP, <a href="https://www.arup.com/perspectives/publications/research/section/planetary-boundaries" target="\_blank">Designing for Planetary Boundary Cities”</a>, accessed June 9, 2022. </li>  
 <li class="small-text">Hilary Osborne and Sarah Butler, <a href="https://www.theguardian.com/business/2022/jan/29/from-milk-to-crisps-why-the-price-of-basic-food-items-is-rising" target="\_blank"> “From Milk to Crisps: Why the Price of Basic Food Items Is Rising”</a>, <em>The Guardian</em>, January 29, 2022, accessed June 9, 2022. </li>  
 <li class="small-text">Sandra Díaz, Josef Settele, Eduardo Brondízio et al., <a href="https://ipbes.net/global-assessment" target="\_blank">“Summary for Policymakers of the Global Assessment Report on Biodiversity and Ecosystem Services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services”</a>, May 6, 2019, accessed June 9, 2022. </li>  
