@@ -422,40 +422,43 @@ who still plan to own a car.<br>
   
   
   
-</div>end of box story<h3>CONCLUSION</h3><p>Sustainability, in its many forms, has always been a central theme running through Singapore’s land transport story. While environmental sustainability has been more strongly emphasised in recent years,  
+</div><h3>CONCLUSION</h3>
+<p>Sustainability, in its many forms, has always been a central theme running through Singapore’s land transport story. While environmental sustainability has been more strongly emphasised in recent years,  
 we should be mindful that promoting car-lite living based on environmental reasons may have limits, as not all groups may feel the same urgency to tackle these concerns. For those who are contented car users, there are fundamental issues (e.g., cost and charging infra-availability) that must be addressed before they can be persuaded to switch to EVs. We need more innovative thinking informed by research, to break the car habit and move people from intention to action.</p><p>Nevertheless, we are optimistic that Singaporeans, and especially our next generation, are prepared to embrace green transport by making car-lite choices every day. With continued focus on green  
 plans in the coming decades, our goal to cut peak land transport emissions by 80% by 2050 is looking achievable. Through a collective effort, we look forward to an even greener land transport for  
-Singapore in the years to come.</p><hr><em>The authors wish to thank the following for their contribution to the findings of this  
+Singapore in the years to come.</p>
+<hr>
+
+<em>The authors wish to thank the following for their contribution to the findings of this  
 article: Professor Leonard Lee, National University of Singapore; Professor Ziv Carmon,  
 INSEAD; Assistant Professor Charlene Chen Yijun, Nanyang Technological University;  
 Yuen Wei Lun, PhD Student, National University of Singapore; Koh Puay Kee, Ministry  
 of Communications and Information; and Grace Ang, Ministry of Communications  
-and Information.</em><hr><p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHORS</p><table style="border:none;background-color:transparent;height:227px;">  
-<tbody>  
-<tr style="border:none;height:234px;">  
-<td style="padding:0;padding-right:32px;border:none;">  
+and Information.</em>
+<hr>
+<div class="author">
+<p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHORS</p>
 <p class="small-text"><strong>Chong Wen Wei</strong> is Behavioural Scientist in the Economics Unit, Policy &amp; Planning Group of the Land Transport Authority. He focuses on applying behavioural/psychological tactics and empirical methods to promote people-centric design and strategy.  
-            </p>  
-<br>  
+</p>  
+
 <p class="small-text"><strong>Leong Wai Yan</strong> is Chief Transport Economist in the Economics Unit, Policy &amp; Planning Group of the Land Transport Authority. He oversees the Economics Unit.  
-            </p>  
-<br>  
+</p>  
+
 <p class="small-text"><strong>Karenza Mosquera</strong> is Economist in the Economics Unit, Policy &amp; Planning Group of the Land Transport Authority. Her current work areas include conducting  
             research to understand public acceptance and attitudes towards transport policies and initiatives.  
-            </p>  
-<br>  
+</p>  
+
 <p class="small-text"><strong>Ng Kai Xuan</strong> is Economist in the Economics Unit, Policy &amp;  
             Planning Group of the Land Transport Authority. Her current work entails experimental design and empirical analysis in the behavioural research domain to facilitate policymaking.  
-            </p>  
-<br>  
+</p>  
+
 <p class="small-text"><strong>Ng Sheng Yang</strong> is Economist in the Economics Unit, Policy  
             &amp; Planning Group of the Land Transport Authority. His current work areas include conducting research on travel behaviours and vehicle markets to support policy development.  
-            </p>  
-</td>  
-<td style="width:120px;border:none;" class="desktop-only">&nbsp;</td>  
-</tr>  
-</tbody>  
-</table><hr><p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p><ol>  
+</p>  
+</div>
+	<hr>
+	
+<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p><ol>  
 <li class="small-text">Singapore has not been, and will not be, spared. Average temperatures in our coastal city-state have risen by more than 1°C over the past 40 years. By the end of the century, the National Climate Change Secretariat projects a further increase of 4.6°C in temperature and a 1 m rise in sea levels.</li>  
 <li class="small-text">National Climate Change Secretariat, “Singapore’s Emissions Profile”, accessed  
     May 2, 2022, <a target="\_blank" href="https://www.nccs.gov.sg/singapores-climate-action/singapores-climate-targets/singapore-emissions-profile/">https://www.nccs.gov.sg/singapores-climate-action/singapores-climate-targets/singapore-emissions-profile/</a>.</li>  
