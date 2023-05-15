@@ -253,16 +253,18 @@ owners are happily captive to PT.</p>
 </p>
 <br>
 <p style="text-align: left;" class="small-text"><strong>Figure 4.</strong> Car Ownership Aspirations among Youths from GCY Survey  
-</p><br><p>This result corroborates with the survey conducted by <em>The Straits Times </em>which  
+</p><br>
+<p>This result corroborates with the survey conducted by <em>The Straits Times </em>which  
 also finds that around 50% of today’s youths aspire to own a car. Although  
 an analogous GCY study from previous years is not available, we may reference  
 another finding from <em>The Straits Times </em>survey that car ownership aspirations  
-among youths have been declining between 2016 and 2022. This insight syncs with an internal LTA study in 2020 which finds a falling trend in car ownership rates among young adults (see Figure 5), despite the car population remaining relatively stable in the same period.</p><p>What might explain this diminishing desire for car ownership? From the GCY study, we find that most youths see cars as a nice-to-have, but not a must-have (see Figure 6). Although the  
+among youths have been declining between 2016 and 2022. This insight syncs with an internal LTA study in 2020 which finds a falling trend in car ownership rates among young adults (see Figure 5), despite the car population remaining relatively stable in the same period.</p>
+<p>What might explain this diminishing desire for car ownership? From the GCY study, we find that most youths see cars as a nice-to-have, but not a must-have (see Figure 6). Although the  
 instrumental benefits of cars (e.g., privacy, ease of travelling) are readily apparent, most also agree that alternatives such as ride-sharing services are adequate substitutes for instances when PT does  
 not meet their travel needs and that they would be able to live the life they want even without a car. These findings corroborate with SBPS findings that many non-car owners are contented PT users, suggesting that efforts to invest in and promote PT are bearing fruit.</p>
 <p>We further find that youth opinion is mixed on the symbolic value of car ownership (see Figure 6). Likewise, <em>The Straits Times</em> study also picks up a decline in the status symbol of a car. This is significant since this cultural attitude contributes to the inelastic demand of cars in a way that is difficult for public  
 policy to influence.
-	<br>  
+<br>  
 <br>  
 <img title="Green Transport\_Fig.5" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig5.jpg" alt="Green Transport\_Fig.5">
 
