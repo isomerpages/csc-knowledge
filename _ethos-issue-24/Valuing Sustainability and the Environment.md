@@ -3,9 +3,7 @@ title: Valuing Sustainability and the Environment
 permalink: /ethos-issue-24/valuing-sustainability-and-the-environment/
 description: ""
 ---
-Articles template:
 <style>
-
 .back a
 {
 	color: #9f2943;
@@ -53,10 +51,10 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #084977;
 	border-radius: 10px;
 	padding: 5%;
-	
+	margin-top: 5%;
 	}	
 
 li {
@@ -67,7 +65,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 24, August 2022</small></em>
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_24/Valuing_Sustainability_And_Env_Banner_Teaser.jpg">
 
   
 <h3>Introduction</h3>  
@@ -78,11 +76,10 @@ li {
   
 <p>Given the above limitations of market valuation of environmental goods, a range of non-market valuation techniques have been developed to estimate the benefits of protecting the environment, which in turn may better inform policymaking in the environmental domain. These techniques can be broadly categorised as <em><strong>revealed preference</strong></em> and <em><strong>stated preference</strong></em> methods. </p>  
   
-<hr>  
-  
-<h5><em>Unlike other economic goods and services, property rights for environmental goods are typically poorly defined as no stakeholder owns the environment and there are no markets to trade environmental goods. </em></h5>  
-  
-<hr>  
+<div class="break">
+<p class="break1">Unlike other economic goods and services, property rights for environmental goods are typically poorly defined as no stakeholder owns the environment and there are no markets to trade environmental goods.
+</p>
+</div>
   
 <h3>Revealed Preference Approach</h3>  
   
@@ -90,19 +87,18 @@ li {
   
 <p>Another approach in revealed preference studies is the travel cost method, which estimates the value of the environment by observing whether an individual is willing to invest time and effort to travel to a place with a good natural environment. This method hypothesises that if an individual decides to visit such a location, his valuation of the visit would be equivalent to or higher than the costs of travelling to it. Such costs could include both direct costs of travelling and indirect or implicit costs of time foregone due to the visit. However, in small, highly urbanised cities like Singapore, the travel cost method may undervalue the non-market value of Singapore’s environmentally attractive sites, due to the ease of mobility within a small geographical region. </p>  
   
-<hr>  
+<div class="break">
   
-<h5><em>Researchers found that vegetation accounted for around 3% of the average property value, for all public housing apartments sold between April 2013 and April 2014. </em></h5>  
-  
-<hr>  
-  
-  
+<p class="break1">Researchers found that vegetation accounted for around 3% of the average property value, for all public housing apartments sold between April 2013 and April 2014.
+</p>  
+</div>
   
   
   
   
-<div class="container">  
   
+  
+<div class="containerbox">  
   
 <h3 class="title">Revealed Preference in Practice</h3>  
 <p class="text">A range of environmental goods have been valued in revealed preference studies, such as:</p>  
