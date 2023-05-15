@@ -175,33 +175,33 @@ li {
   
 <p>The survey questionnaires used in stated preferences studies need to be carefully designed to ensure that accurate estimates of willingness-to-pay are obtained. To guide the development of such questionnaires in stated preferences studies, the US National Oceanic and Atmospheric Administration (NOAA) convened a panel of economists led by two Nobel laureates to evaluate the stated preference approach.<sup><a href="#notes">4</a></sup> The NOAA panel concluded that stated preference surveys should follow a set of best practices to obtain reliable willingness-to-pay estimates. These include: (i) defining the status quo and the changes to this status quo; (ii) choosing the elicitation method (how the respondents’ willingness-to-pay are obtained, e.g., open-ended or dichotomous choice question) and the payment vehicle (the modes of payment for the good or policy e.g., fees or increased taxes); (iii) implementing the survey on the target sample population; and (iv) estimating the willingness-to-pay based on responses to the survey. These best practices have been updated over the years through research and experience.<sup><a href="#notes">5</a></sup></p>  
   
-<hr>  
+<div class="break">
   
-<h5><em>The survey questionnaires used in stated preferences studies need to be carefully designed to ensure that accurate estimates of willingness-to-pay are obtained. </em></h5>  
+<p class="break1">The survey questionnaires used in stated preferences studies need to be carefully designed to ensure that accurate estimates of willingness-to-pay are obtained. </p>  
   
-<hr>  
-  
-  
+</div>
   
   
   
   
-<div class="container">  
   
   
-<h3 class="title">Stated Preference in Practice</h3>  
+<div class="containerbox">  
+  
+  
+<h3 class="boxheader">Stated Preference in Practice</h3>  
 <p class="text">Stated preference studies have been used in a wide range of contexts to estimate the value of environmental goods, including:</p>  
 <table style="border: none; background-color: transparent;">  
 <tbody>  
 <tr style="border: none;">  
 <td style="width: 33%; border: none;">  
-<p style="text-align:center;"><img width="103" src="../../images/default-source/ethos-images/ethos-issue-24/stated-preference\_pollution.jpg" height="126" alt="Damage Assessments from Pollution Events"></p>  
+<p style="text-align:center;"><img width="103" src="/images/Ethos_Images/Ethos_Issue_24/Stated_Preference_Pollution.jpg" height="126" alt="Damage Assessments from Pollution Events"></p>  
 </td>  
 <td style="width: 33%; border: none;">  
-<p style="text-align:center;"><img width="111" src="../../images/default-source/ethos-images/ethos-issue-24/stated-preference\_natural.jpg" height="128" alt="The Value of the Natural Environment"> </p>  
+<p style="text-align:center;"><img width="111" src="/images/Ethos_Images/Ethos_Issue_24/Stated_Preference_Natural.jpg" height="128" alt="The Value of the Natural Environment"> </p>  
 </td>  
 <td style="width: 33%; border: none;">  
-<p style="text-align:center;"><img width="120" src="../../images/default-source/ethos-images/ethos-issue-24/stated-preference\_weather.jpg" height="121" alt="Willingness to Pay"></p>  
+<p style="text-align:center;"><img width="120" src="/images/Ethos_Images/Ethos_Issue_24/Stated_Preference_Weather.jpg" height="121" alt="Willingness to Pay"></p>  
 </td>  
 </tr>  
 <tr style="border: none;">  
@@ -248,32 +248,22 @@ li {
   
 <p>The techniques described above can be applied to a wide range of environmental policies, including promoting resource conservation, encouraging circular economy, mitigating climate change, and maintaining public cleanliness and hygiene. Estimates from these studies provide a more accurate assessment of benefits associated with policies, thus enabling policymakers to more fully weigh the costs and benefits of environmental protection policies.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>Technology has enabled researchers to better describe proposed changes to the status quo. </em></h5>  
-  
-<hr>  
+<p class="break1">Technology has enabled researchers to better describe proposed changes to the status quo. </p>  
+</div> 
   
 <p>However, there are some limitations to non-market valuation techniques. For instance, the revealed preference approach can only be used when there is a suitable proxy market to reference and data is available for collection and analysis. In the case of stated preference surveys, there is a long process of first crafting the right survey questionnaire, then conducting the survey and eventually collecting respondents’ data for analysis. There is also a need to balance the trade-off between the sample size of survey respondents for more robust analysis and the overall costs to conduct the study. Hence, for stated preference studies, sufficient time must be set aside for the study, and they should only be undertaken if the fiscal outlay and/or environmental impact of the policy being considered is significant.</p>  
   
-<hr>  
+
+<div class="author">
+<h6>ABOUT THE AUTHORS</h6>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>  
-  
-<table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
+
 <p class="small-text"><strong>Dr Leong Chi Hoong</strong> currently leads the Environmental Behavioural Sciences and Economics Research Unit (EBERU) at the Ministry of Sustainability and the Environment (MSE).</p>  
-<p><strong>Angelyn Teo</strong> is an economist in EBERU, a multi-disciplinary research team that leverages economics, behavioural insights and data analytics to support the development, implementation and evaluation of environmental policies.</p>  
-</td>  
-<td style="width: 120px; border: none;" class="desktop-only"></td>  
-</tr>  
-</tbody>  
-</table>  
-  
-<hr>  
-  
+<p><strong>Angelyn Teo</strong> is an economist in EBERU, a multi-disciplinary research team that leverages economics, behavioural insights and data analytics to support the development, implementation and evaluation of environmental policies.</p> 
+</div>
+
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
   
 <ol>  
