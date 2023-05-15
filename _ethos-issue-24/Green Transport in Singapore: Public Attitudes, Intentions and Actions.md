@@ -140,12 +140,19 @@ Source: Land Transport Authority Singapore</p>
 
 <h3>We Need Singaporeans on Board</h3><p>Even as LTA introduces bold initiatives to reduce the carbon footprint of our land transport system, we cannot achieve our vision without public support and buy-in. Hence, as we push on with this  
 sustainable journey, we need to know what Singaporeans think about these efforts and whether they are supportive of the Government’s new policies.</p><p>Crucially, we also need to understand the different profiles of aspirations and needs in our population and how we might cater to them.</p><p>Three recent studies we have worked on offer glimpses into how our citizens think and feel about greener transport, highlighting the opportunities and pitfalls that policymakers should keep in mind  
-when planning for effective change.</p><h3>PUBLIC WILLINGNESS TO EMBRACE GREENER TRANSPORT OPTIONS</h3><p>The first study, the Sustainable Behaviours and Perceptions Survey (SBPS), was  
+when planning for effective change.</p>
+
+<h3>PUBLIC WILLINGNESS TO EMBRACE GREENER TRANSPORT OPTIONS</h3><p>The first study, the Sustainable Behaviours and Perceptions Survey (SBPS), was  
 carried out with some 600 car owners and non-owners, in collaboration with the National University of Singapore (NUS) in December 2021.<sup><a href="#notes">5</a></sup> SBPS aimed to compare car owners against non-car owners along several self-reported dimensions pertaining to the adoption and prioritisation of carbon-saving activities across various domains such as transport, food and energy.</p><p>Our second study, titled Green Commuting among Youths (GCY), was a nationally representative survey conducted by LTA in March 2022 using OPPi, an online AI-powered opinion crowdsourcing and engagement tool. Respondents were shown various opinion statements about environmental views  
 and car ownership aspirations where they could respond with either “Yes”, “No”, or “Undecided”. We sampled around 600 youths between the ages of 18 and 31.</p><p>Finally, the EV Adoption Study (EVAS) was a survey conducted in collaboration with the Ministry of Communications and Information in January 2022 to understand receptivity towards EVs, including EV purchase intentions. The survey received around 1,000 responses from vehicle owners and prospective  
-vehicle buyers in Singapore.</p><hr><h5><em>  
+vehicle buyers in Singapore.</p>
+
+<div class="break1">
+<p class="break">  
 Both car and non-car owners equally acknowledge that reducing car use should be a key priority.  
-</em></h5><hr><h3>1. SBPS: CAR OWNERS VERSUS NON-CAR OWNERS</h3><p><strong>Environmental Priority</strong></p><p>As we push towards a greener future  
+</p>
+</div>
+<h3>1. SBPS: CAR OWNERS VERSUS NON-CAR OWNERS</h3><p><strong>Environmental Priority</strong></p><p>As we push towards a greener future  
 for Singapore, the SBPS suggests that  
 both car and non-car owners equally  
 acknowledge that reducing car use  
@@ -161,7 +168,7 @@ each of these behaviours in their dayto-
 day life on a scale of 1 (<em>not at the  
 moment</em>) to 7 (<em>always</em>).<br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-1.jpg?sfvrsn=6063d89b\_2"><img title="Green Transport\_Fig.1" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-1.jpg?sfvrsn=6063d89b\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.1"></a><br>  
+<img src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig1.jpg" alt="Green Transport\_Fig.1"><br>
 <br>  
 </p><br><p style="text-align: left;" class="small-text"><strong>Figure 1.</strong> Adoption Levels against Perceived Priority of Environmental Actions</p><br><p>Among these surveyed behaviours, “Take PT, walk or cycle, rather than drive” (<em>Xdrive</em>) rank the highest overall in terms of perceived priority level for both groups. The carbon savings from not driving the  
 car add up very quickly compared to the other eight behaviours, and thus we may also infer that Singaporeans have correctly identified the top environmental behaviour to prioritise.</p><p>This heartening result suggests that both car and non-car owners recognise the vital importance of LTA’s car-lite vision in realising a more sustainable future for Singapore, and we can leverage this  
