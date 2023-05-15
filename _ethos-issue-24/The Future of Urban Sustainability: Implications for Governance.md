@@ -69,7 +69,7 @@ border-top: 1px solid black;
 	}	
 	
 li {
-	font-size: 0.85em !important;
+	font-size: 0.93em !important;
 	
 	}	
 	
