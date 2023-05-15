@@ -73,13 +73,23 @@ ensuring an adequate supply of upskilling opportunities in vertical sectors and 
 practices more sustainable. New knowledge in different aspects of the green economy will become part of work requirements in time to come, including in horizontal functions such as Branding &amp; Marketing, Finance, Procurement, and Human Resource.  
 New job roles such as Digital Sustainability Lead, Sustainability Engineer and Sustainability Manager will see increasing hiring demand.</p><p>Singapore has the right skills ecosystem— from R&amp;D at corporate laboratories in our universities to Centres of Innovation in the polytechnics—to support frontier R&amp;D innovation and translation of science and technology applications  
 in the economy. Hence, our polytechnics and universities are major players in supporting R&amp;D and its translation to the workplace and marketplace: a critical part of the value chain. The R&amp;D and Proof-of-Concept projects happening across various  
-industries are essential to inform us of potential job content changes and emerging skills demand.</p><p>On top of R&amp;D, the Continuing Education &amp; Training (CET) ecosystem under the charge of SSG will facilitate the acquisition of targeted skills for enterprises to adopt new business models and processes, to capitalise on the green agenda.</p><a href="../../images/default-source/ethos-images/ethos-issue-24/skilling-up-2\_cet.jpg?sfvrsn=b23a9224\_2"><img title="Skilling Up 2\_CET" src="../../images/default-source/ethos-images/ethos-issue-24/skilling-up-2\_cet.jpg?sfvrsn=b23a9224\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Skilling Up 2\_CET"></a><h3>How will shifting public attitudes, consumer behaviours and changing lifestyles impact support for  
+industries are essential to inform us of potential job content changes and emerging skills demand.</p><p>On top of R&amp;D, the Continuing Education &amp; Training (CET) ecosystem under the charge of SSG will facilitate the acquisition of targeted skills for enterprises to adopt new business models and processes, to capitalise on the green agenda.</p>
+	
+<img title="Skilling Up 2\_CET" src="/images/Ethos_Images/Ethos_Issue_24/Skilling_Up2_CET.jpg" alt="Skilling Up 2\_CET">
+
+
+<h3>How will shifting public attitudes, consumer behaviours and changing lifestyles impact support for  
 and adoption of green tech and measures?</h3><p>Greater public awareness of the carbon footprint and environmental impact of our lifestyles and consumption behaviour will shape the overall adoption of the green agenda. We are beginning to  
 see more businesses jumping in to shift consumption behaviour and provide more sustainable options, e.g., SPECO (environmental friendly cleaning), BarePack (sustainable food delivery), Decathlon (bring your own bag), FairPrice (support local produce), etc. Over time, we believe these will become habits of  
 choice.</p><p>At the same time, awareness programmes mounted by the Ministry of Sustainability and Environment  
-concerning rising sea levels, and the other public communications efforts (e.g., the CNA Green Plan) will help shape the public’s attitude towards responsible consumption.</p><hr><h5><em>  
+concerning rising sea levels, and the other public communications efforts (e.g., the CNA Green Plan) will help shape the public’s attitude towards responsible consumption.</p>
+
+<div class="break">
+<p class="break1">  
 The greatest potential for us is to export the innovative capability, know-how and skills developed in Singapore to the world.  
-</em></h5><hr><h3>Paint us a picture of Singapore's prospects as we pursue urban sustainability in the years ahead.</h3><p>I envisage a video showing a group of visitors entering a gallery (such as the URA City Gallery), standing in front of the big Singapore model. The gallery will showcase where the green innovations are  
+</p>
+</div>
+<h3>Paint us a picture of Singapore's prospects as we pursue urban sustainability in the years ahead.</h3><p>I envisage a video showing a group of visitors entering a gallery (such as the URA City Gallery), standing in front of the big Singapore model. The gallery will showcase where the green innovations are  
 being lived out by the citizens, participated in by the industries, and the exciting R&amp;D taking place. The counters of our Net Zero achievements and other indicators (e.g., carbon footprint per capita) are featured in the exhibition, alongside another part showcasing Singapore-based solutions supporting other economies across the globe.</p><p>At an individual level, I hope to one day use apps developed by a local enterprise to help me keep track of my carbon footprint, from the mode of transportation used to the consumption of energy, the sources of my food and the restaurants/hawkers preparing the food. If we can gamify the experience and make it intuitive, coupled with the right incentives, it will help us accelerate a nation-wide change.</p>
 <hr>
 <div class="break">
