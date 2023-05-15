@@ -189,19 +189,44 @@ sizeable proportion (40%) of car owners classifying themselves into <em>stages 3
 	
 <br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-2b.jpg?sfvrsn=f4ae4855\_2"><img title="Green Transport\_Fig.2b" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-2b.jpg?sfvrsn=f4ae4855\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.2b"></a></p><br><p style="text-align: left;" class="small-text"><strong>Figure 2.</strong> Stages of Adoption of Non-Car Modes among Car Owners  
-</p><br><p><strong>Loyalty to Public Transport</strong></p><p>On the other hand, how worried should we be about non-car owners switching towards car dependency? We extend the five-stage model originally designed for car owners to assess how non-car  
-owners classify themselves into different stages of private transport adoption (see Figure 3).</p><p>The encouraging news is that in contrast to car owners, non-car owners are more homogeneous in their intentions to stick with their current mode, with a majority (66%) who report being "contented  
-PT users" (<em>stage 1</em>), in contrast to just 21% of car owners who say they are “contented car users”.</p><p>One group that bears closer monitoring are the 18% of non-car owners who are "grudging captives" (<em>stage 2</em>). Like <em>stages 3</em> to <em>5</em>, they aspire to own cars but unlike them, they feel trapped by circumstances  
-to use PT. While there are a myriad of reasons why cars remain more desirable than PT, policymakers can find ways to cushion unmet expectations, shift preferences and transform grudging PT users into contented, voluntary users of public transport.<br>  
+
+<img src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig2b.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.2b">
+
+
+</p>
+<br>
+<p style="text-align: left;" class="small-text"><strong>Figure 2.</strong> Stages of Adoption of Non-Car Modes among Car Owners  
+</p>
+<br>
+<p><strong>Loyalty to Public Transport</strong></p><p>On the other hand, how worried should we be about non-car owners switching towards car dependency? We extend the five-stage model originally designed for car owners to assess how non-car  
+owners classify themselves into different stages of private transport adoption (see Figure 3).</p>
+<p>The encouraging news is that in contrast to car owners, non-car owners are more homogeneous in their intentions to stick with their current mode, with a majority (66%) who report being "contented  
+PT users" (<em>stage 1</em>), in contrast to just 21% of car owners who say they are “contented car users”.</p>
+<p>One group that bears closer monitoring are the 18% of non-car owners who are "grudging captives" (<em>stage 2</em>). Like <em>stages 3</em> to <em>5</em>, they aspire to own cars but unlike them, they feel trapped by circumstances  
+to use PT. While there are a myriad of reasons why cars remain more desirable than PT, policymakers can find ways to cushion unmet expectations, shift preferences and transform grudging PT users into contented, voluntary users of public transport.</p>
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-3a.jpg?sfvrsn=7fac9a5a\_4"><img title="Green Transport\_Fig.3a" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-3a.jpg?sfvrsn=7fac9a5a\_4" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.3a"></a><br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-3b.jpg?sfvrsn=a55b5d95\_2"><img title="Green Transport\_Fig.3b" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-3b.jpg?sfvrsn=a55b5d95\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.3b"></a></p><br><p style="text-align: left;" class="small-text"><strong>Figure 3.</strong> Stages of Adoption of Private Transport among Non-Car Owners  
-</p><br><hr><h5><em>  
+	
+<img title="Green Transport\_Fig.3a" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig3a.jpg" alt="Green Transport\_Fig.3a">
+
+<br>  
+<br>  
+	
+<img title="Green Transport\_Fig.3b" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig3b.jpg" alt="Green Transport\_Fig.3b">
+	
+
+<br>
+<p style="text-align: left;" class="small-text"><strong>Figure 3.</strong> Stages of Adoption of Private Transport among Non-Car Owners  
+</p>
+<br>
+<div class="break">
+<p class="break1">  
 Policymakers can find ways to cushion unmet expectations, shift preferences and  
 transform grudging users into contented, voluntary users of public transport.  
-</em></h5><hr><h3>2. GCY: ASPIRATIONS OF YOUNG NON-VEHICLE OWNERS</h3><p>Among the non-car owners of today, it is important to take the pulse of what youths think of car ownership and relatedly, their environmental attitudes, as some of them will desire cars in the future as  
+</p>
+</div>
+
+<h3>2. GCY: ASPIRATIONS OF YOUNG NON-VEHICLE OWNERS</h3><p>Among the non-car owners of today, it is important to take the pulse of what youths think of car ownership and relatedly, their environmental attitudes, as some of them will desire cars in the future as  
 they form families and progress in their careers. A study such as the GCY will help address this question.</p><p><strong>Declining Car Ownership Aspirations and Rates among Youths</strong></p><p> From the GCY study, half of the respondents (47%) say that they plan to own a car before they turn 35 years old (see Figure 4). While cars have attractive instrumental benefits (e.g., privacy, ease of travelling), most agreed that alternatives such as ride sharing services are adequate substitutes for instances when PT does not meet their travel needs. These findings corroborate with SBPS findings that most non-car  
 owners are happily captive to PT.</p><p>It is further significant that youth opinion is mixed on the symbolic value of car ownership, since this cultural attitude contributes to the inelastic demand of cars in a way that is difficult for public policy to resolve.<br>  
 <br>  
