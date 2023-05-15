@@ -58,6 +58,14 @@ font-family: Georgia;
 	color: white;
 	}	
 
+.containerbox2 {
+	background-color:#b4d0ed;
+	border-radius: 10px;
+	border: 5px solid #5b89a5;
+	padding: 5%;
+	color: white;
+	}	
+	
 li {
 	font-size: 0.93em !important;
 	
@@ -262,49 +270,102 @@ policy to influence.
 <p>While we remain optimistic about current trends, we note that youths are not outright rejecting car ownership. Around half still plan to own a car and in response to another question in the GCY, some 70% indicate they would buy a car if they could afford one in the next 10 to 15 years. This serves to remind us  
 that we must always persist in efforts to ensure the availability of good carlite transport alternatives to the car, so that we continue to keep more of our PT users in the “contented” category.</p>
 
-<div class="break1">
-<p class="break">  
+<div class="break">
+<p class="break1">  
 We must persist in efforts to ensure the availability of good car-lite transport alternatives to the car.  
 </p>
 </div>
 <p><strong>Environmental Attitudes towards Private and Public Transport</strong></p>
 <p>What about environmental attitudes among youths? There is consensus about the environmental harms of driving, but interestingly, not everyone perceives the same degree of environmental impact from their personal travel mode choice (see Figure 7). While most youths believe that cars are one of the biggest contributors to carbon emissions, they also appear divided on whether transport decisions  
-(e.g., choosing to drive a car or taking PT) make a difference in protecting our climate, or whether it necessarily reflects one’s environmental values or their concern for the environment. On the question of whether they are the type of person who acts in environmentally friendly ways, 67% of car aspirants agree with the statement, compared to only 53% of non-aspirants, which seems like a paradox.</p><a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-6.jpg?sfvrsn=53d15823\_2"><img title="Green Transport\_Fig.6" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-6.jpg?sfvrsn=53d15823\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.6"></a><br><br><p style="text-align: left;" class="small-text"><strong>Figure 6.</strong> Summary of General Attitudes among Youths in GCY Survey</p><a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-7.jpg?sfvrsn=97fbbdb6\_2"><img title="Green Transport\_Fig.7" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-7.jpg?sfvrsn=97fbbdb6\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.7"></a><br><br><p style="text-align: left;" class="small-text"><strong>Figure 7.</strong> Summary of Environmental Attitudes among Youths from GCY Survey</p><br><hr><h5><em>  
+(e.g., choosing to drive a car or taking PT) make a difference in protecting our climate, or whether it necessarily reflects one’s environmental values or their concern for the environment. On the question of whether they are the type of person who acts in environmentally friendly ways, 67% of car aspirants agree with the statement, compared to only 53% of non-aspirants, which seems like a paradox.</p>
+<img title="Green Transport\_Fig.6" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig6.jpg" alt="Green Transport\_Fig.6">
+<br>
+<br>
+<p style="text-align: left;" class="small-text"><strong>Figure 6.</strong> Summary of General Attitudes among Youths in GCY Survey</p>
+
+<img title="Green Transport\_Fig.7" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig7.jpg" alt="Green Transport\_Fig.7">
+
+<br>
+<br>
+<p style="text-align: left;" class="small-text"><strong>Figure 7.</strong> Summary of Environmental Attitudes among Youths from GCY Survey</p>
+<br>
+
+<div class="break">
+<p class="break1">  
 Beyond building up our collective understanding of the environmental harm of driving, it is timely to  
 begin imbuing a sense that every individual action matters.  
-</em></h5><hr><p>We speculate that this paradox could have arisen due to pre-existing environmental tendencies being overshadowed by an overwhelming functional need for car ownership. It may also be a case of cognitive dissonance—a discomfort that arises when one’s awareness of the negative environmental impact of driving clashes with one’s personal desire for a car. Hence, those with stronger car aspirations may attempt to justify their personal desire for a car by claiming to behave (or even behaving) in a more  
+</p>
+</div>
+
+<p>We speculate that this paradox could have arisen due to pre-existing environmental tendencies being overshadowed by an overwhelming functional need for car ownership. It may also be a case of cognitive dissonance—a discomfort that arises when one’s awareness of the negative environmental impact of driving clashes with one’s personal desire for a car. Hence, those with stronger car aspirations may attempt to justify their personal desire for a car by claiming to behave (or even behaving) in a more  
 environmentally friendly way in other domains, akin to a licensing effect.</p><p>Regardless, these findings suggest that beyond building up our collective understanding of the environmental harm of driving, it is timely to beginimbuing a sense that every individual  
-action matters. Among all our lifestyle actions, one of the best things we can do for the environment, that chalks up carbon savings very quickly, is to not drive. In this regard, virtue signalling, can in fact be a virtue.</p><h3>3. EVAS: ATTITUDES TOWARDS ELECTRIC VEHICLES</h3><p>Car-lite travel is the most environmentally friendly way to travel in terms of carbon  
-emissions. However, for those who still need to drive, EVs have emerged as a solution to cut down emissions due to driving. But how might we convince current and aspiring car owners to switch over to EVs?</p><p><strong>Demand for Cleaner Energy Vehicles</strong></p><p>From EVAS, we find that Singaporeans have generally positive sentiments towards EVs: 65% of respondents recognise that they provide environmental benefits, and close to 7 in 10 would support services that offer greener transport options (e.g., JustGrab Green). Furthermore, the transition to EVs appears to be gaining traction as 45% of respondents state that they would consider buying an EV  
-for their next vehicle purchase. This preference for EVs is stronger among existing vehicle owners (48% plan to buy an EV) than non-vehicle owners (41% plan to buy an EV).<br>  
+action matters. Among all our lifestyle actions, one of the best things we can do for the environment, that chalks up carbon savings very quickly, is to not drive. In this regard, virtue signalling, can in fact be a virtue.</p>
+
+
+<h3>3. EVAS: ATTITUDES TOWARDS ELECTRIC VEHICLES</h3>
+<p>Car-lite travel is the most environmentally friendly way to travel in terms of carbon  
+emissions. However, for those who still need to drive, EVs have emerged as a solution to cut down emissions due to driving. But how might we convince current and aspiring car owners to switch over to EVs?</p>
+<p><strong>Demand for Cleaner Energy Vehicles</strong></p>
+<p>From EVAS, we find that Singaporeans have generally positive sentiments towards EVs: 65% of respondents recognise that they provide environmental benefits, and close to 7 in 10 would support services that offer greener transport options (e.g., JustGrab Green). Furthermore, the transition to EVs appears to be gaining traction as 45% of respondents state that they would consider buying an EV  
+for their next vehicle purchase. This preference for EVs is stronger among existing vehicle owners (48% plan to buy an EV) than non-vehicle owners (41% plan to buy an EV).
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-8.jpg?sfvrsn=106710c\_2"><img title="Green Transport\_Fig.8" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-8.jpg?sfvrsn=106710c\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.8"></a></p><br><p style="text-align: left;" class="small-text"><strong>Figure 8.</strong> EV Purchase Intentions among Vehicle Owners and Non-Vehicle Owners  
-</p><br><p>While these findings suggest stronger demand for EVs, we also find a substantial proportion of individuals who are still hesitant to go for fully electrified vehicles. About 1 in 4 vehicle-owning  
+<br>  
+
+<img title="Green Transport\_Fig.8" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig8.jpg" alt="Green Transport\_Fig.8"></p>
+<br>
+<p style="text-align: left;" class="small-text"><strong>Figure 8.</strong> EV Purchase Intentions among Vehicle Owners and Non-Vehicle Owners  
+</p>
+<br>
+<p>While these findings suggest stronger demand for EVs, we also find a substantial proportion of individuals who are still hesitant to go for fully electrified vehicles. About 1 in 4 vehicle-owning  
 respondents say they hope to keep an ICE or hybrid vehicle for as long as possible. Among non-vehicle  
-owners, around 40% would consider a hybrid or ICE vehicle. These findings are robust even in a hypothetical scenario in which the driving time to the nearest petrol station is doubled from their current experience.</p><p>The strong current preference for hybrid vehicles is perhaps not surprising given that the EV charging infrastructure is in its nascent stage and the number of EV models available in Singapore is limited today. Once the EV charging network expands and more vehicle manufacturers ramp up EV production in the years ahead, we can expect EV adoption to pick up as well.</p><hr><h5><em>  
+owners, around 40% would consider a hybrid or ICE vehicle. These findings are robust even in a hypothetical scenario in which the driving time to the nearest petrol station is doubled from their current experience.</p><p>The strong current preference for hybrid vehicles is perhaps not surprising given that the EV charging infrastructure is in its nascent stage and the number of EV models available in Singapore is limited today. Once the EV charging network expands and more vehicle manufacturers ramp up EV production in the years ahead, we can expect EV adoption to pick up as well.</p>
+
+<div class="break">
+<p class="break1">  
 Promoting car-lite living based on environmental reasons may have limits, as not all may feel the same urgency to tackle these concerns.  
-</em></h5><hr><p><strong>Barriers to EV Adoption</strong></p><p>Not unexpectedly, we find the high purchase cost of EVs to be one of the top barriers of EV adoption, with 56% of respondents selecting it as a main deterrent (see Figure 9). Several measures to help improve price parity between EVs and conventional vehicles have been introduced, including the introduction of the EV Early Adoption Incentive, and revising the road tax framework for EVs. Over time, we expect the cost of an EV to fall a battery technology matures.</p><p>Other oft-indicated factors relate to the EV charging infrastructure, including insufficient charging points and uncertainty over the location of these facilities. Many disagree that fitting 1 in 10 parking lots with slow (overnight) chargers would be sufficient; in fact, 41% of respondents feel that more than half of the parking lots should have EV charging capabilities by 2030. This is much higher than LTA’s estimates of a 5 to 1 vehicle to charger ratio as being sufficient to meet EV charging needs by 2030, as estimated from typical usage patterns that result in the need for overnight charging only once every 5 to 7 days.  
-Nevertheless, even as we seek to calibrate public expectations regarding the EV charging infrastructure, we are also ramping up the number of EV charging points across the island to about 60,000 by 2030.<br>  
+</p>
+</div>
+<p><strong>Barriers to EV Adoption</strong></p>
+<p>Not unexpectedly, we find the high purchase cost of EVs to be one of the top barriers of EV adoption, with 56% of respondents selecting it as a main deterrent (see Figure 9). Several measures to help improve price parity between EVs and conventional vehicles have been introduced, including the introduction of the EV Early Adoption Incentive, and revising the road tax framework for EVs. Over time, we expect the cost of an EV to fall a battery technology matures.</p>
+<p>Other oft-indicated factors relate to the EV charging infrastructure, including insufficient charging points and uncertainty over the location of these facilities. Many disagree that fitting 1 in 10 parking lots with slow (overnight) chargers would be sufficient; in fact, 41% of respondents feel that more than half of the parking lots should have EV charging capabilities by 2030. This is much higher than LTA’s estimates of a 5 to 1 vehicle to charger ratio as being sufficient to meet EV charging needs by 2030, as estimated from typical usage patterns that result in the need for overnight charging only once every 5 to 7 days.  
+Nevertheless, even as we seek to calibrate public expectations regarding the EV charging infrastructure, we are also ramping up the number of EV charging points across the island to about 60,000 by 2030.
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-9.jpg?sfvrsn=29a59370\_2"><img title="Green Transport\_Fig.9" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-9.jpg?sfvrsn=29a59370\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.9"></a></p><br><p style="text-align: left;" class="small-text"><strong>Figure 9.</strong> Main Deterrents of EV Adoption (as identified by respondents to be among their top 3 deterrents)<br>  
 <br>  
-</p><br><p><strong>Striking a Balance between Encouraging EV Adoption and a Car-lite Lifestyle</strong></p><p>LTA has rolled out a public education campaign titled “Power Every Move” in March 2022 to raise awareness of EVs—both cars and buses—and their benefits to the environment such as cleaner air  
-and quieter roads. While widespread adoption of EVs is necessary to curb the harmful emissions from ICE vehicles, we also need to be mindful that our pro-EV initiatives and messaging do not inadvertently fuel car ownership desires. More or equal emphasis to encourage the use of public transport modes must be maintained in our overall messaging.</p><p>We observe in our GCY survey that 43% of youths with no initial car ownership aspirations agree that  
+	
+<img title="Green Transport\_Fig.9" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig9.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.9"></p>
+<br>
+<p style="text-align: left;" class="small-text"><strong>Figure 9.</strong> Main Deterrents of EV Adoption (as identified by respondents to be among their top 3 deterrents)
+
+<br>  
+<br>  
+</p>
+<br>
+<p><strong>Striking a Balance between Encouraging EV Adoption and a Car-lite Lifestyle</strong></p>
+<p>LTA has rolled out a public education campaign titled “Power Every Move” in March 2022 to raise awareness of EVs—both cars and buses—and their benefits to the environment such as cleaner air  
+and quieter roads. While widespread adoption of EVs is necessary to curb the harmful emissions from ICE vehicles, we also need to be mindful that our pro-EV initiatives and messaging do not inadvertently fuel car ownership desires. More or equal emphasis to encourage the use of public transport modes must be maintained in our overall messaging.</p>
+<p>We observe in our GCY survey that 43% of youths with no initial car ownership aspirations agree that  
 pro-EV initiatives would encourage them to own an EV (see Figure 10). In addition, 58% of those initially  
 undecided about car ownership feel the same way. Combined, this is a substantial group of people whom  
-we would risk swaying into desiring to own an EV even though they did not plan to own cars to begin with.<br>  
+we would risk swaying into desiring to own an EV even though they did not plan to own cars to begin with.
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-10.jpg?sfvrsn=b28fa92b\_2"><img title="Green Transport\_Fig.10" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport\_fig-10.jpg?sfvrsn=b28fa92b\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport\_Fig.10"></a></p><br><p style="text-align: left;" class="small-text"><strong>Figure 10.</strong> EV Adoption Due to Infrastructural Improvements—Breakdown by Car Ownership Aspirations</p><br>Box Story<p class="small-text text">How should policymakers respond to the insights gleaned from these studies  
-into public attitudes towards greener transport options?</p><div class="container">  
+<br>  
+<img title="Green Transport\_Fig.10" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_Fig10.jpg" alt="Green Transport\_Fig.10"></p>
+<br>
+
+<p style="text-align: left;" class="small-text"><strong>Figure 10.</strong> EV Adoption Due to Infrastructural Improvements—Breakdown by Car Ownership Aspirations</p>
+<br><p class="small-text text">How should policymakers respond to the insights gleaned from these studies  
+into public attitudes towards greener transport options?</p>
+
+<div class="containerbox2">  
   
   
-<h3 class="title">WHERE WE MIGHT GO FROM HERE</h3>  
+<h3 class="boxheader">WHERE WE MIGHT GO FROM HERE</h3>  
 <p class="text">&nbsp;</p>  
 <p>How should policymakers respond to the insights gleaned from these studies into public attitudes towards greener  
 transport options?</p>  
 <p>We propose three approaches to influencing transport behaviour, based on <em>behavioural science</em>—a field that  
 encompasses holistic interventions to educate, empower, excite, and entrench behaviour.</p>  
-<h3>1. Time policy interventions right.</h3>  
+<h3 class="boxheader">1. Time policy interventions right.</h3>  
 <p>This is vital when tackling ingrained habits. For instance, at significant temporal landmarks (e.g.,  
 at the start of a new year), people become more sensitive to new information and open to change:  
 what has been called the fresh start effect.<sup>1</sup> Travel behaviour, being habitual in nature, can become  
@@ -312,7 +373,7 @@ more malleable during certain ‘fresh starts’.</p>
 <p>The upcoming opening of several new rail lines in Singapore could serve as valuable ‘fresh starts’ to  
 harness, especially for residents staying near these new stations. As a general principle, the government  
 should use these timing opportunities to multiply the effects of car-lite interventions or policies.</p>  
-<h3>2. Help drivers commit to car-lite goals.</h3>  
+<h3 class="boxheader">2. Help drivers commit to car-lite goals.</h3>  
 <p>Our findings show that a substantial number of drivers want to reduce car use but face an intentionaction  
 gap. They could benefit from a range of self-control and commitment techniques drawn from behavioural science.</p>  
 <p>One highly promising technique is gamification. Countries such as Japan have used gamification to create exciting and novel  
@@ -321,7 +382,7 @@ school students in small-scale trials (e.g., the Kids Smart Travel Challenge),<s
 for adults, while commercial apps have turned habit formation into an enjoyable ‘quest’. Policymakers  
 could make use of these innovations to attract and habituate drivers to a car-lite lifestyle, while maintaining  
 the loyalty of existing PT users.</p>  
-<h3>3. Design for different people.</h3>  
+<h3 class="boxheader">3. Design for different people.</h3>  
 <p>Population segmentation is a valuable tool for behavioural scientists and policymakers  
 alike. By recognising the heterogeneity within a population, we gain a more precise view of  
 stakeholders and can then tailor interventions to better cater to different preferences and needs.  
