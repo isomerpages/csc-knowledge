@@ -24,6 +24,11 @@ padding-bottom:30px;
 border-top: 1px solid black;	
 
 }
+	
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}		
 
 .break
 {
@@ -42,7 +47,10 @@ font-family: Georgia;
 	font-weight: bold;
 }
 
-
+li {
+	font-size: 0.93em !important;
+	
+	}	
 
 
 </style>
@@ -81,10 +89,17 @@ make their business practices more sustainable.
 </p>
 </div>
 <h3>What should policymakers and the public sector bear in mind as we work towards our Green Plan goals?</h3><p>Heeding insights from historians of technology,<sup><a href="#notes">4</a></sup> we have to pay attention to cultural acceptance of a new way of life. How do we co-create a society that takes joint responsibility for sustainable developmental growth? How do we manage trade-offs and inconvenience as part of our green  
-transformation? How do we involve citizens in the transformation at home, at work, and within their community?</p><hr><h5><em>  
+transformation? How do we involve citizens in the transformation at home, at work, and within their community?</p>
+
+
+<div class="break">
+<p class="break1">  
 We are beginning to see more businesses jumping in to shift consumption behaviour and provide  
 more sustainable options.  
-</em></h5><hr><p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p><table style="border: none; background-color: transparent;">  
+</p>
+</div>
+
+<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p><table style="border: none; background-color: transparent;">  
 <tbody>  
 <tr style="border: none;">  
 <td style="padding: 0; padding-right: 32px; border: none;">  
