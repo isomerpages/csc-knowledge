@@ -277,9 +277,8 @@ li {
 <li class="small-text">W. Ng and T. Foo, “Estimating Singaporeans' Willingness-to-Pay for Active Mode Infrastructure” (internal study, Land Transport Authority, 2020).</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
+
 
 
 
