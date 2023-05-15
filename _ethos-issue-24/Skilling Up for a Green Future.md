@@ -98,11 +98,8 @@ We are beginning to see more businesses jumping in to shift consumption behaviou
 more sustainable options.  
 </p>
 </div>
-
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p><table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>
 <p class="small-text"><strong>Dr Gog Soon Joo</strong> is Chief Skills Officer at SkillsFuture  
             Singapore, a statutory board under the Ministry of  
             Education. She oversees the skills development system  
@@ -118,11 +115,9 @@ more sustainable options.
             Learning, and a member of the International Committee of  
             Experts for UNESCO Global Network of Learning Cities. </p>  
 <p>&nbsp;</p>  
-</td>  
-<td style="width: 120px; border: none;" class="desktop-only"></td>  
-</tr>  
-</tbody>  
-</table><hr><p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p><ol>  
+</div>
+
+<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p><ol>  
 <li class="small-text">SG Green Plan, “Let’s Build A City of Green  
     Possibilities Together”, accessed June 27, 2022, <a target="\_blank" href="https://www.greenplan.gov.sg/">https://www.greenplan.gov.sg/</a>.</li>  
 <li class="small-text">Singapore Food Agency, “30 by 30”, accessed June 27, 2022, <a target="\_blank" href="https://www.ourfoodfuture.gov.sg/30by30">https://www.ourfoodfuture.gov.sg/30by30</a>.</li>  
