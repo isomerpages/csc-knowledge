@@ -63,7 +63,11 @@ font-family: Georgia;
 	border-radius: 10px;
 	border: 5px solid #5b89a5;
 	padding: 5%;
-	color: white;
+	color: black;
+	}	
+	
+.containerbox2 > h3 {
+	color:black;
 	}	
 	
 li {
@@ -359,13 +363,13 @@ into public attitudes towards greener transport options?</p>
 <div class="containerbox2">  
   
   
-<h3 class="boxheader">WHERE WE MIGHT GO FROM HERE</h3>  
-<p class="text">&nbsp;</p>  
+<h3>WHERE WE MIGHT GO FROM HERE</h3>  
+
 <p>How should policymakers respond to the insights gleaned from these studies into public attitudes towards greener  
 transport options?</p>  
 <p>We propose three approaches to influencing transport behaviour, based on <em>behavioural science</em>—a field that  
 encompasses holistic interventions to educate, empower, excite, and entrench behaviour.</p>  
-<h3 class="boxheader">1. Time policy interventions right.</h3>  
+<h3>1. Time policy interventions right.</h3>  
 <p>This is vital when tackling ingrained habits. For instance, at significant temporal landmarks (e.g.,  
 at the start of a new year), people become more sensitive to new information and open to change:  
 what has been called the fresh start effect.<sup>1</sup> Travel behaviour, being habitual in nature, can become  
@@ -373,7 +377,7 @@ more malleable during certain ‘fresh starts’.</p>
 <p>The upcoming opening of several new rail lines in Singapore could serve as valuable ‘fresh starts’ to  
 harness, especially for residents staying near these new stations. As a general principle, the government  
 should use these timing opportunities to multiply the effects of car-lite interventions or policies.</p>  
-<h3 class="boxheader">2. Help drivers commit to car-lite goals.</h3>  
+<h3>2. Help drivers commit to car-lite goals.</h3>  
 <p>Our findings show that a substantial number of drivers want to reduce car use but face an intentionaction  
 gap. They could benefit from a range of self-control and commitment techniques drawn from behavioural science.</p>  
 <p>One highly promising technique is gamification. Countries such as Japan have used gamification to create exciting and novel  
@@ -382,7 +386,7 @@ school students in small-scale trials (e.g., the Kids Smart Travel Challenge),<s
 for adults, while commercial apps have turned habit formation into an enjoyable ‘quest’. Policymakers  
 could make use of these innovations to attract and habituate drivers to a car-lite lifestyle, while maintaining  
 the loyalty of existing PT users.</p>  
-<h3 class="boxheader">3. Design for different people.</h3>  
+<h3>3. Design for different people.</h3>  
 <p>Population segmentation is a valuable tool for behavioural scientists and policymakers  
 alike. By recognising the heterogeneity within a population, we gain a more precise view of  
 stakeholders and can then tailor interventions to better cater to different preferences and needs.  
@@ -394,13 +398,16 @@ may encourage ambivalent personas to go carlite, a different approach—potentia
 on other negative externalities (e.g., traffic congestion)—may be needed to reach the pro-environmentalists  
 who still plan to own a car.<br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport-box-story\_fig-1.jpg?sfvrsn=72d37b8c\_2"><img title="Green Transport box story\_Fig.1" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport-box-story\_fig-1.jpg?sfvrsn=72d37b8c\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport box story\_Fig.1"></a><br>  
+
+<img title="Green Transport box story\_Fig.1" src="images/Ethos_Images/Ethos_Issue_24/Green_Transport_BoxStory_Fig1.jpg" alt="Green Transport box story\_Fig.1">
+
+<br>  
 <br>  
 </p>  
 <p style="text-align: left;" class="small-text"><strong>Figure 1.</strong> Archetypes of Youth Non-Vehicle Owners and Car Ownership Aspirations</p>  
 <br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-24/green-transport-box-story\_fig-2.jpg?sfvrsn=b6ea384e\_2"><img title="Green Transport box story\_Fig.2" src="../../images/default-source/ethos-images/ethos-issue-24/green-transport-box-story\_fig-2.jpg?sfvrsn=b6ea384e\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Green Transport box story\_Fig.2"></a>  
+<img title="Green Transport box story\_Fig.2" src="images/Ethos_Images/Ethos_Issue_24/Green_Transport_BoxStory_Fig2.jpg" alt="Green Transport box story\_Fig.2">  
 <p>&nbsp;</p>  
 <br>  
 <p style="text-align: left;" class="small-text"><strong>Figure 2.</strong> Archetypes of Youth Non-Vehicle Owners and Characteristics</p>  
