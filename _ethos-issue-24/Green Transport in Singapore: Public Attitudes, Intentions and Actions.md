@@ -136,10 +136,9 @@ Source: Land Transport Authority Singapore</p>
 <li>Land Transport Authority, “Growing Singapore’s Land Transport Network”, accessed accessed May 3, 2022, <a target="\_blank" href="https://www.lta.gov.sg/content/ltagov/en/upcoming\_projects.html">https://www.lta.gov.sg/content/ltagov/en/upcoming\_projects.html</a>.  
     </li>  
 </ol>  
-  
-  
-  
-</div>end of box story<h3>We Need Singaporeans on Board</h3><p>Even as LTA introduces bold initiatives to reduce the carbon footprint of our land transport system, we cannot achieve our vision without public support and buy-in. Hence, as we push on with this  
+</div>
+
+<h3>We Need Singaporeans on Board</h3><p>Even as LTA introduces bold initiatives to reduce the carbon footprint of our land transport system, we cannot achieve our vision without public support and buy-in. Hence, as we push on with this  
 sustainable journey, we need to know what Singaporeans think about these efforts and whether they are supportive of the Government’s new policies.</p><p>Crucially, we also need to understand the different profiles of aspirations and needs in our population and how we might cater to them.</p><p>Three recent studies we have worked on offer glimpses into how our citizens think and feel about greener transport, highlighting the opportunities and pitfalls that policymakers should keep in mind  
 when planning for effective change.</p><h3>PUBLIC WILLINGNESS TO EMBRACE GREENER TRANSPORT OPTIONS</h3><p>The first study, the Sustainable Behaviours and Perceptions Survey (SBPS), was  
 carried out with some 600 car owners and non-owners, in collaboration with the National University of Singapore (NUS) in December 2021.<sup><a href="#notes">5</a></sup> SBPS aimed to compare car owners against non-car owners along several self-reported dimensions pertaining to the adoption and prioritisation of carbon-saving activities across various domains such as transport, food and energy.</p><p>Our second study, titled Green Commuting among Youths (GCY), was a nationally representative survey conducted by LTA in March 2022 using OPPi, an online AI-powered opinion crowdsourcing and engagement tool. Respondents were shown various opinion statements about environmental views  
