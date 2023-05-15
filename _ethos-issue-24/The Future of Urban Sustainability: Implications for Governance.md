@@ -26,6 +26,11 @@ padding-bottom:30px;
 border-top: 1px solid black;	
 
 }	
+
+.author p {
+	font-size: 0.9em;
+	
+	}	
 	
 .featured-overlay__text {
 	background-color: #50C878;
@@ -137,17 +142,9 @@ ol {
 
 
 <div class="author">
-<h6>ABOUT THE AUTHORS</h6><table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
+<h6>ABOUT THE AUTHORS</h6>
 <p class="small-text"><strong>Elly Chiu</strong> leads the Centre for Liveable Cities’ Foresight team, which identifies drivers of change and develops city scenarios to inspire thinking on how policy and strategy can respond or prepare. She is also part of a research team at the Centre which conducts forward-looking studies on planning for a Healthy City.</p>  
 <p><strong>Yuichi Kikuzawa</strong> works at the research team at the Centre for Liveable Cities, where he focuses on policies, strategies, and international collaborations for the future of city planning. His research is premised on deep understanding of urban systems and how to derive integrated solutions for cities.</p>  
-</td>  
-<td class="desktop-only" style="width: 120px; border: none;"></td>  
-</tr>  
-</tbody>  
-</table>
 </div>
 	
 <p class="small-text" style="font-weight: bold; letter-spacing: 1px;"> <a name="notes"></a>NOTES</p><ol>  
