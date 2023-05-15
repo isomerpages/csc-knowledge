@@ -467,7 +467,7 @@ and Information.</em>
 <li class="small-text">Land Transport Authority, “Reducing Peak Land Transport Emissions by 80%”, accessed May 2, 2022, <a target="\_blank" href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2022/3/news-releases/reducing-peak-land-transport-emissions-by-80-.html">https://www.lta.gov.sg/content/ltagov/en/newsroom/2022/3/news-releases/reducing-peak-land-transport-emissions-by-80-.html</a>.</li>  
 <li class="small-text">While this study is currently unpublished, the National University of Singapore (NUS) has granted us permission to reveal some of the highlights.</li>  
 <li class="small-text">Sebastian Bamberg, “Changing Environmentally Harmful Behaviors: A Stage Model of Self-Regulated Behavioral Change”, <em>Journal of Environmental Psychology</em> 34 (2013): 151–159.</li>  
-</ol><br><p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+</ol>
 
 
 
