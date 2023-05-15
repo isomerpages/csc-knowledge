@@ -359,7 +359,8 @@ we would risk swaying into desiring to own an EV even though they did not plan t
 <br>
 
 <p style="text-align: left;" class="small-text"><strong>Figure 10.</strong> EV Adoption Due to Infrastructural Improvements—Breakdown by Car Ownership Aspirations</p>
-<br><p class="small-text text">How should policymakers respond to the insights gleaned from these studies  
+<br>
+<p class="small-text text">How should policymakers respond to the insights gleaned from these studies  
 into public attitudes towards greener transport options?</p>
 
 <div class="containerbox2">  
@@ -398,7 +399,8 @@ archetypes: namely the pro-environmentalists, ambivalent personas, and car lover
 1 and 2 below). One insight we find is that while further environmental messaging  
 may encourage ambivalent personas to go carlite, a different approach—potentially focusing  
 on other negative externalities (e.g., traffic congestion)—may be needed to reach the pro-environmentalists  
-who still plan to own a car.<br>  
+who still plan to own a car.
+<br>  
 <br>  
 
 <img title="Green Transport box story\_Fig.1" src="images/Ethos_Images/Ethos_Issue_24/Green_Transport_BoxStory_Fig1.jpg" alt="Green Transport box story\_Fig.1">
@@ -409,8 +411,9 @@ who still plan to own a car.<br>
 <p style="text-align: left;" class="small-text"><strong>Figure 1.</strong> Archetypes of Youth Non-Vehicle Owners and Car Ownership Aspirations</p>  
 <br>  
 <br>  
+
 <img title="Green Transport box story\_Fig.2" src="images/Ethos_Images/Ethos_Issue_24/Green_Transport_BoxStory_Fig2.jpg" alt="Green Transport box story\_Fig.2">  
-<p>&nbsp;</p>  
+
 <br>  
 <p style="text-align: left;" class="small-text"><strong>Figure 2.</strong> Archetypes of Youth Non-Vehicle Owners and Characteristics</p>  
 <hr>  
