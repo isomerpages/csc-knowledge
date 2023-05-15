@@ -3,6 +3,72 @@ title: "Green Transport in Singapore: Public Attitudes, Intentions and Actions"
 permalink: /ethos-issue-24/green-transport-in-singapore-public-attitudes-intention-and-actions/
 description: ""
 ---
+<style>
+
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
+	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #B7C9E2;
+	border-radius: 10px;
+	padding: 5%;
+	
+	}	
+
+li {
+	font-size: 0.93em !important;
+	
+	}	
+
+</style>
+
+<em><small>ETHOS Issue 24, August 2022</small></em>
+<img src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_BannerTeaser.jpg">
+
+
 <h3>INTRODUCTION</h3><p>The scientific consensus is that global climate change resulting  
 from the emission of greenhouse gases in the modern industrial  
 era has had far-ranging environmental and health consequences  
@@ -262,3 +328,11 @@ and Information.</em><hr><p style="font-weight:bold;letter-spacing:1px;" class="
 <li class="small-text">While this study is currently unpublished, the National University of Singapore (NUS) has granted us permission to reveal some of the highlights.</li>  
 <li class="small-text">Sebastian Bamberg, “Changing Environmentally Harmful Behaviors: A Stage Model of Self-Regulated Behavioral Change”, <em>Journal of Environmental Psychology</em> 34 (2013): 151–159.</li>  
 </ol><br><p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
+
+
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
