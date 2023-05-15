@@ -51,10 +51,11 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #084977;
+	background-color: #0d4372;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
+	color: white;
 	}	
 
 li {
@@ -100,21 +101,23 @@ li {
   
 <div class="containerbox">  
   
-<h3 class="title">Revealed Preference in Practice</h3>  
+<h3 class="boxheader">Revealed Preference in Practice</h3>  
 <p class="text">A range of environmental goods have been valued in revealed preference studies, such as:</p>  
 <table style="border: none; background-color: transparent;">  
 <tbody>  
 <tr style="border: none;">  
 <td style="width: 33%; border: none;">  
-<p style="text-align:center;"><img width="138" src="../../images/default-source/ethos-images/ethos-issue-24/revealed-preference\_air.jpg" height="127" alt="Improved Air Quality">  
+<p style="text-align:center;"><img width="138" src="/images/Ethos_Images/Ethos_Issue_24/Revealed_Preference_Air.jpg" height="130" alt="Improved Air Quality">  
+
 </p>  
 </td>  
 <td style="width: 33%; border: none;">  
-<p style="text-align:center;"><img width="116" src="../../images/default-source/ethos-images/ethos-issue-24/revealed-preference\_water.jpg" height="130" alt="Water Quality">  
+<p style="text-align:center;"><img width="116" src="/images/Ethos_Images/Ethos_Issue_24/Revealed_Preference_Water.jpg" height="130" alt="Water Quality">  
+
 </p>  
 </td>  
 <td style="width: 33%; border: none;">  
-<p style="text-align:center;"><img width="126" src="../../images/default-source/ethos-images/ethos-issue-24/revealed-preference\_waste.jpg" height="127" alt="Hazard Waste Clean-up">  
+<p style="text-align:center;"><img width="126" src="/images/Ethos_Images/Ethos_Issue_24/Revealed_Preference_Waste.jpg" height="130" alt="Hazard Waste Clean-up">  
 </p>  
 </td>  
 </tr>  
