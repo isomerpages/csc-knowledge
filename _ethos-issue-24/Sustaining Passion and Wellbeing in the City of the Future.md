@@ -66,7 +66,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 24, August 2022</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_24/Sustaining_Passion_Wellbeing_Banner_Teaser.jpg">
+<img src="/images/Cropped_images/Ethos_Issue_24/24_Banner_Sustaining_Passion_Wellbeing.jpg">
 
   
 <h3>What are some of the most significant shifts happening in the way people in cities are  
