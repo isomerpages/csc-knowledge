@@ -2,6 +2,9 @@ collections:
   ethos-issue-23:
     output: true
     order:
+      - Foreword.md
+      - Editorial.md
+      - "Civil Service College: Preparing the Public Service for the Future.md"
       - Learning for the Future.md
       - "Metaphors & Mental Models: Updating Our Language for Public Sector
         Learning.md"
@@ -17,6 +20,3 @@ collections:
       - Employability, Growth and Resilience through workplace Learning.md
       - Thinking Differently about Workplace Learning.md
       - "Horsemen and SuperPowers: Learning to Design in Government.md"
-      - Foreword.md
-      - Editorial.md
-      - "Civil Service College: Preparing the Public Service for the Future.md"
