@@ -90,13 +90,15 @@ producer, contributing only 0.1% of global carbon emissions, we
 nevertheless are making significant domestic efforts towards net  
 zero emissions by or around the middle of the century, which align  
 with our international obligations, such as the Paris Agreement, to  
-help limit global warming to 1.5°C above pre-industrial levels.</p><p>With transport being Singapore’s third largest CO<sub>2</sub>-equivalent emitter,  
+help limit global warming to 1.5°C above pre-industrial levels.</p>
+<p>With transport being Singapore’s third largest CO<sub>2</sub>-equivalent emitter,  
 at about 16% of total emissions,<sup><a href="#notes">2</a></sup> aggressive efforts are being made  
 under the SG Green Plan 2030<sup><a href="#notes">3</a></sup> to (a) ‘green’ public transport fleets,  
 (b) increase public transport peak-period modal share, (c) encourage  
 active mobility modes, and (d) promote cleaner vehicles, culminating  
 in a recently announced pledge to cut 80% of peak land transport  
-emissions by or around middle of the century.<sup><a href="#notes">4</a></sup></p>Box Story<p class="small-text text">Travelling by an electric car (EV), electric bus or train cuts carbon emissions by 50%, 70%, and  
+emissions by or around middle of the century.<sup><a href="#notes">4</a></sup></p>
+<p class="small-text text">Travelling by an electric car (EV), electric bus or train cuts carbon emissions by 50%, 70%, and  
 90% respectively, compared to driving an internal combustion engine (ICE) car.</p>
 
 <div class="containerbox">  
