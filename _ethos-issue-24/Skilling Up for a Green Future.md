@@ -56,7 +56,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 24, August 2022</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_24/Skilling_Up_BannerTeaser.jpg">
+<img src="/images/Cropped_images/Ethos_Issue_24/24_Banner_Skilling%20Up%20for%20A%20Green%20Future.jpg">
 
 <h3>The world is gearing up to take action to address climate change as well as environmental and resource sustainability. What economic opportunities does this represent for Singapore?  
 </h3><p>The Singapore Green Plan details the nation’s ambition to leverage the global green agenda to achieve growth, transformation and sustainability objectives.<sup><a href="#notes">1</a></sup> This is a purposeful transformation to be sustainable and competitive. We expect to see the green wave touch every job (a.k.a., greening of current jobs). Different work functions from branding and marketing, to communications, finance, engineering, and operations will need to embrace new knowledge, understand market demand and design processes, and products to support green demand.</p><p>Given that a skilled workforce is a key enabler for Singapore’s Green Economy Strategy, there is a need to act quickly and early to capture opportunities, especially in new growth areas such as agritech, carbon services and trading, electric vehicles, green finance, clean energy, circular economy and resource optimisation, and sustainable tourism.</p><p>Other initiatives, while nascent, such as Climate Impact X (CIX)—a global carbon exchange and marketplace, and APAC’s first sustainable aviation fuel (SAF) plant being built in Tuas, will give Singapore a competitive advantage to maintain its hub and R&amp;D position.</p><h3>What is the state of Singapore's green sector today? Where do you see the greatest potential for development?  
