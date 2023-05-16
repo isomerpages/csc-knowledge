@@ -2,6 +2,7 @@ collections:
   ethos-issue-23:
     output: true
     order:
+      - Breaking Down Barriers in Blended Learning.md
       - Lead by Learning in a Digital World.md
       - Three Ways Advancements in Artificial Intelligence will Change Learning
         & Development.md
