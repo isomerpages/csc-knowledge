@@ -2,6 +2,6 @@ collections:
   ethos-issue-23:
     output: true
     order:
-      - "Civil Service College: Preparing the Public Service for the Future.md"
-      - Editorial.md
       - Foreword.md
+      - Editorial.md
+      - "Civil Service College: Preparing the Public Service for the Future.md"
