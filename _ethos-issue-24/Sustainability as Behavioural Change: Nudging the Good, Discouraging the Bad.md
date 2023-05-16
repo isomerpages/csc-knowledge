@@ -66,8 +66,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 24, August 2022</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_24/Sustainability_As_Behav_Change_BannerTeaser.jpg">
-
+<img src="/images/Cropped_images/Ethos_Issue_24/24_Banner_Sustainability_As_Behav_Change.jpg">
 
   
 <p>Singaporeans can do more to adopt eco-friendly habits, particularly in recycling and reducing waste. Perceptions that the governments and/ or businesses have a larger role to play help explain why some individuals do not do more. In a Kantar Public study, 83% of respondents from Singapore said they would accept stricter rules and environmental regulations.<sup><a href="#notes">1</a></sup> The assumption underlying this sentiment is that people expect governments and businesses to take the lead, compared to individuals. Short of regulation and legislation, there is a limit to what governments and businesses can do to change individual behaviours. </p>  
