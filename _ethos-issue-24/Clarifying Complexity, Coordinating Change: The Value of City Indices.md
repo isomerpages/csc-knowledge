@@ -66,7 +66,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 24, August 2022</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_24/City_Indices_Banner_Teaser.jpg">
+<img src="/images/Cropped_images/Ethos_Issue_24/24_Banner_City_Indices.jpg">
 
   
 <h3>Urban Indices Make Cities Visible</h3>  
