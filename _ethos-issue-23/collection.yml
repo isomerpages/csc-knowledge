@@ -1,4 +1,5 @@
 collections:
   ethos-issue-23:
     output: true
-    order: []
+    order:
+      - Foreword.md
