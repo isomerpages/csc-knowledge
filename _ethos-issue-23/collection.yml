@@ -2,4 +2,5 @@ collections:
   ethos-issue-23:
     output: true
     order:
+      - Editorial.md
       - Foreword.md
