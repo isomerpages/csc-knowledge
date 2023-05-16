@@ -77,7 +77,9 @@ li {
 </style>
 
 <em><small>ETHOS Issue 24, August 2023</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_24/Future_Of_Urban_Sustainability_Banner_Teaser.jpg">
+<img src="/images/Cropped_images/Ethos_Issue_24/24_Banner_Future%20of%20Urban%20Sust.jpg">
+
+
 
 <h3>Threats to Urban Sustainability: Adopting a Futures Lens</h3><p>Cities everywhere are grappling with an array of global, regional and local shifts, and risks that threaten the future of urban sustainability. The outcomes of these complex, accelerating changes are difficult to foresee. What shocks and discontinuities may impact resource flows in and out of our cities, for instance? What are the deep transitions that may change the way we live, work, play and move about the city? How might new technologies impinge on resources or the environment, or perhaps unlock new opportunities for better resource and environmental stewardship? How these issues play out will have an impact on our cities’ ability to improve their sustainability. Furthermore, many sustainability-related issues are ‘wicked problems’ which are highly complex, difficult to define, with multiple stakeholders and no immediate or obvious solutions. </p><p>While we cannot fully predict the future, cities can better anticipate and prepare for alternative scenarios in advance, and therefore afford themselves more flexibility to respond and adapt to change in good time. The Centre for Liveable Cities (CLC)’s Foresight team has identified and developed a set of discontinuities and trends as a starting point for developing plausible scenarios for Singapore as a city in 2040. Below, we discuss several key discontinuities we believe will have a more direct impact on our ability to improve urban sustainability. </p><div class="container">  
   
