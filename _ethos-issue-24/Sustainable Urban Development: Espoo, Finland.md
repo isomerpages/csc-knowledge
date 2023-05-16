@@ -66,7 +66,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 24, August 2022</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_24/Espoo_Banner_Teaser.jpg">
+<img src="/images/Cropped_images/Ethos_Issue_24/24_Banner_Espoo.jpg">
 
   
 <h3>ESPOO’S SUSTAINABLE DEVELOPMENT APPROACH</h3>  
