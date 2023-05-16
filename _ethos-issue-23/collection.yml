@@ -2,6 +2,7 @@ collections:
   ethos-issue-23:
     output: true
     order:
+      - Learning for the Future.md
       - "Metaphors & Mental Models: Updating Our Language for Public Sector
         Learning.md"
       - The Future of Learning and Development in the Singapore Public Service.md
