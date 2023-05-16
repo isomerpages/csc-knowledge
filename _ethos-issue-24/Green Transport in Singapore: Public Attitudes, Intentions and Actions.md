@@ -78,7 +78,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 24, August 2022</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_BannerTeaser.jpg">
+<img src="/images/Cropped_images/Ethos_Issue_24/24_Banner_Green_Transport.jpg">
 
 
 <h3>INTRODUCTION</h3>
