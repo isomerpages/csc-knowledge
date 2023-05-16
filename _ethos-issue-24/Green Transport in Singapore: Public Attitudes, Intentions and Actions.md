@@ -403,7 +403,7 @@ who still plan to own a car.
 <br>  
 <br>  
 
-<img title="Green Transport box story\_Fig.1" src="images/Ethos_Images/Ethos_Issue_24/Green_Transport_BoxStory_Fig1.jpg" alt="Green Transport box story\_Fig.1">
+<img title="Green Transport box story_Fig.1" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_BoxStory_Fig1.jpg" alt="Green Transport box story\_Fig.1">
 
 <br>  
 <br>  
@@ -412,7 +412,7 @@ who still plan to own a car.
 <br>  
 <br>  
 
-<img title="Green Transport box story\_Fig.2" src="images/Ethos_Images/Ethos_Issue_24/Green_Transport_BoxStory_Fig2.jpg" alt="Green Transport box story\_Fig.2">  
+<img title="Green Transport box story\_Fig.2" src="/images/Ethos_Images/Ethos_Issue_24/Green_Transport_BoxStory_Fig2.jpg" alt="Green Transport box story\_Fig.2">  
 
 <br>  
 <p style="text-align: left;" class="small-text"><strong>Figure 2.</strong> Archetypes of Youth Non-Vehicle Owners and Characteristics</p>  
