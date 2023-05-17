@@ -87,11 +87,11 @@ li {
   
 <p>Pausing to examine the things that have not changed (at least not in the last millennia) can reveal useful, enduring frameworks for understanding our world. For instance, evolutionary psychology— the study of human behaviour and internal psychological mechanisms from a modern evolutionary perspective—sheds some light on consistent ways in which human beings think and feel, and why we behave the way we do. Evolutionary psychologists argue that although the world has changed dramatically, the traits that helped modern Homo sapiens survive some 200,000 years ago continue to govern most human behaviour today. Hardwired into human beings are traits, such as putting emotions before reason or an aversion to loss, that have kept Homo sapiens alive when faced with harsh environments or wild beasts. Recognising that these traits are hardwired can help organisations understand why supervisors find giving feedback very difficult, or why encouraging a risk-taking culture is incredibly tough. Instead of going against the grain of our hardwiring, organisations could design better systems that work with these ingrained tendencies.<a href="#notes"><sup>2</sup></a> </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>Valuable lessons can also be learnt from the mundane and unchanging, not just from what is glittering and new.</em></h5>  
+<p class="break1">Valuable lessons can also be learnt from the mundane and unchanging, not just from what is glittering and new.</p>  
   
-<hr>  
+</div>  
   
 <p>In the face of climate change and emerging resource constraints, nature could also offer innovative solutions that have emerged from 3.8 billion years of evolution and adaptation to changes in the environment. In her book, <em>Biomimicry: Innovation Inspired by Nature</em>, biologist and author Janine Benyus explores how scientists, engineers, and designers are adapting nature’s best ideas to solve 21st century problems.<a href="#notes"><sup>3</sup></a> One of the best-known examples of biomimicry is the sharp-nosed design of the Japanese Shinkansen train, inspired by the beak of a kingfisher. This design not only reduces tunnel sonic booms, but also makes the bullet trains faster while consuming less electricity. What is not as well known is that the Shinkansen’s design was also inspired by the owl and the Adélie Penguin—to minimise vibrations and noise, and to lower wind resistance respectively.<a href="#notes"><sup>4</sup></a> Another example is the Eastgate Centre in Harare, Zimbabwe, which features a self-regulating ventilation system inspired by termite mounds in deserts. By incorporating numerous openings throughout the building to promote airflow, the US$35 million building saved 10% on costs upfront by not purchasing an air-conditioning system.<a href="#notes"><sup>5</sup></a> What these examples demonstrate is that valuable lessons can also be learnt from the mundane and unchanging, not just from what is glittering and new.</p>  
   
@@ -111,11 +111,11 @@ li {
   
 <p>When the US Navy pushed ahead with the concept of minimal manning—the replacement of specialised workers with problem-solving generalists—for its high-tech warships, it commissioned a series of studies on how to select a suitable crew. Zachary Hambrick, a psychology professor at Michigan State University, was brought in to identify characteristics of people who could multitask in a complex and fast-changing environment. One of the tests was designed to simulate a fluid-task environment where sailors had to perform four different tasks, all of which contributed equally to their total score. Midway through the test, the scoring rules changed so that one task now accounted for a greater percentage of the total score. Some sailors spotted the change and focused their attention on that one task; others noticed the change but continued to devote equal attention to all tasks. Hambrick noticed that conscientiousness, a trait typically correlated with positive job performance, was instead “correlate\[d\] with poor performance” in this context. A similar observation had been made by Jeffrey LePine, an Arizona State management professor, when he was doing Navy-funded research on decision-making close to a decade before Hambrick. LePine also observed that the ones who performed well on such tests were instead individuals who tended to score high on “openness to new experience”.<a href="#notes"><sup>10</sup></a> </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>Traits such as being open to new experiences, accepting failure, comfort with ambiguity and a willingness to return to square one could help us relearn how to flexibly respond to complex environments.</em></h5>  
+<p class="break1">Traits such as being open to new experiences, accepting failure, comfort with ambiguity and a willingness to return to square one could help us relearn how to flexibly respond to complex environments.</p>  
   
-<hr>  
+</div>  
   
 <p>If taking on multiple roles onboard a minimally manned warship is analogous to surviving an ever-changing future job landscape, a devotion to rules and sticking to the task may be crippling. Instead, traits such as being open to new experiences, accepting failure, comfort with ambiguity and a willingness to return to square one could help us relearn how to flexibly respond to complex environments.</p>  
   
@@ -145,11 +145,11 @@ li {
   
 <p>As these values and habits are inherited and in fact rewarded, it may be hard for the US military to unlearn and shed these rigidities.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em> We have to let go of skills and ideas that are no longer fit-for-purpose, and which may compete with newer ideas and values.</em></h5>  
+<p class="break1"> We have to let go of skills and ideas that are no longer fit-for-purpose, and which may compete with newer ideas and values.</p>  
   
-<hr>  
+</div>
   
 <p>Unlearning can also be observed in how governments have slowly moved from directing citizens to partnering them. All over the world, as citizens become more educated, and populations grow more politically mature and diverse, citizens increasingly want to be more directly involved in shaping the future of their country. Governments no longer have a monopoly on the best ideas or thinkers. At the same time, the world is facing problems that are increasingly complex in nature. This requires governments to tap on the wits and will of all its people, to explain complex issues and involve citizens in the development and implementation of solutions. What is needed is a shift from top-down approaches to empowering citizens and working together, from seeing citizens as consumers to seeing them as partners.</p>  
   
@@ -173,23 +173,14 @@ li {
   
 <br>  
   
-<hr>  
-  
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>  
-  
-<table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>  
+ 
 <p class="small-text"><strong>Angel Chew</strong> is Lead Foresight Analyst at the Centre for Strategic Futures.</p>  
 <p>&nbsp;</p>  
-</td>  
-<td style="width: 120px; border: none;" class="desktop-only"></td>  
-</tr>  
-</tbody>  
-</table>  
+
   
-<hr>  
+</div>
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
   
