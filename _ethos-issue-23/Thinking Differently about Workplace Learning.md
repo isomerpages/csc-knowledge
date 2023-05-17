@@ -656,22 +656,11 @@ WpL is not about teaching, nor is it about just one way of doing and thinking ab
 </p>  
   
 </div>  
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>  
-  
-<table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
 <p class="small-text"><strong>Dr Helen Bound</strong> is Deputy Director  
-            of the Research Division at the Institute for Adult Learning, Singapore University of Social Sciences. During her 12 years in Singapore, she has undertaken extensive research into workplace learning, pedagogy and learning in different learning spaces. </p>  
-</td>  
-<td style="width: 120px; border: none;" class="desktop-only"></td>  
-</tr>  
-</tbody>  
-</table>  
-  
-<hr>  
+            of the Research Division at the Institute for Adult Learning, Singapore University of Social Sciences. During her 12 years in Singapore, she has undertaken extensive research into workplace learning, pedagogy and learning in different learning spaces. </p> </div>  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
   
