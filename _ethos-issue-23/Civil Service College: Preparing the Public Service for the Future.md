@@ -74,11 +74,11 @@ li {
   
 <p><strong>LIM SIONG GUAN:</strong> I have always considered CSC a critical institution for the transformation and forward positioning of the Public Service. Its mission is to help the public sector “be in time for the future”. This requires thinking about what Singapore can be in the years to come, and figuring out what the public sector needs to be to help Singapore get there. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>It is not good enough to just respond to the needs and desires expressed by the clients, but to actively advocate to the clients what would be useful for them to “be the best they can be”.</em></h5>  
+<p class="break1">It is not good enough to just respond to the needs and desires expressed by the clients, but to actively advocate to the clients what would be useful for them to “be the best they can be”.</p>  
   
-<hr>  
+</div>
   
 <p>While CSC, being a service provider, needs always to be responsive to the needs and concerns of its clients, it is not good enough to just respond to the needs and desires expressed by the clients, but to actively advocate to the clients what would be useful for them to “be the best they can be”.</p>  
   
@@ -102,11 +102,11 @@ li {
   
 <p>This ability to convene leaders from diverse parts of the Service to come together to reflect on, and agonise over, cross-cutting intractable policy issues is a predominant reason for CSC coming into being. The strategic leadership needed to resolve many of these issues demands intense interactions across different parts of the Service: different roles of policy formulation versus policy implementation, external perspectives versus domestic concerns, different domains of economic, geopolitical, social, technological, and different orientations of generalists versus specialists. While other mechanisms like the PMO Strategy Group and numerous committees have since been formed to help deal with such needs, CSC is uniquely placed to gather such minds outside of their organisational setting and perhaps without the pressure of their home agency.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>This ability to convene leaders from diverse parts of the Service to come together to reflect on, and agonise over, cross˗cutting intractable policy issues is a predominant reason for CSC coming into being.</em></h5>  
+<p class="break1">This ability to convene leaders from diverse parts of the Service to come together to reflect on, and agonise over, cross˗cutting intractable policy issues is a predominant reason for CSC coming into being.</p>  
   
-<hr>  
+</div>  
   
 <p>This raison d’etre for CSC’s role—to develop strong esprit de corps within the Service—is enduring. This is because the policy issues confronting Singapore in the future will be more daunting and complex, not less. In addition, the forces that compel leaders to work together may be lessened, as single-issue imperatives and sectarian interests and voices grow more intense, given growing plurality in society and greater fragmentation mediated through technology.</p>  
   
@@ -136,11 +136,11 @@ li {
   
 <p><strong>PETER ONG:</strong> Much has been transformed in the world of learning. This revolution of learning and education has been fuelled by digitalisation, the gig economy, the shortening shelf life of knowledge, pervasive travel (pre-COVID) and modularisation. In turn, learners now adopt a more hybrid and modular approach: consuming insights and knowledge sharpened by practice, in bite-size, often accreditable modules both online and on-site, flowing seamlessly between work and learning time. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>Much has been transformed in the world of learning...The challenge will be for CSC to keep learning along the way and adapting with new innovation.</em></h5>  
+<p class="break1">Much has been transformed in the world of learning...The challenge will be for CSC to keep learning along the way and adapting with new innovation.</p>  
   
-<hr>  
+</div>  
   
 <p>Such micro-learning opportunities can be always on. In such a world, institutions like CSC will have to curate the journey not only for groups but also for individuals. It then pushes online content and learning experiences to the learner and schedules on-site course time to fit into the curated journey.</p>  
   
@@ -150,11 +150,11 @@ li {
   
 <p><strong>LEO YIP:</strong> There are two significant ways in which learning has evolved in the Public Service. First, we have come to place greater emphasis on the learner playing a much more active role in learning. When I attended leadership milestone programmes more than a decade and a half ago, there was a much stronger emphasis on one-way classroom downloads on subject content. That is contrasted with the much more diverse pedagogy and programme design of today that involves the learner more directly, such as through experiential learning, self-discovery exercises, and active group discussions. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>CSC must build its capability to discern the skills of the future and translate that in a timely manner into learning content and programmes.</em></h5>  
+<p class="break1">CSC must build its capability to discern the skills of the future and translate that in a timely manner into learning content and programmes.</p>  
   
-<hr>  
+</div>  
   
 <p>Second, the Public Service is encouraging individual public officers to play a more active role in managing their own growth and development. In this, CSC’s launch of the LEARN app in 2018 was a key milestone. It brought learning content in bite-size modules directly to public officers, who can now select the content that interests them or the skills they wish to hone, and to learn in a manner suited to their needs. This has greatly extended the reach and effectiveness of learning.</p>  
   
@@ -188,36 +188,28 @@ li {
   
 <p>Looking ahead, CSC, like the rest of the Public Service, must also maintain a duality of focus. It must both focus on generating programmes to meet today’s needs of the Public Service, but also determine the learning required to help the Public Service be even more effective into the future. This will require an understanding of the priorities of the Public Service in building the future. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>CSC must also ensure that the learning-business loop is closed in that learning has actually enhanced business effectiveness.</em></h5>  
+<p class="break1">CSC must also ensure that the learning-business loop is closed in that learning has actually enhanced business effectiveness.</p>  
   
-<hr>  
+</div>  
   
 <p>We have succeeded and continued to thrive as a nation partly because we have learnt well. We have learnt from others, from our own experiences, and also from making sense of what lies ahead and how we need to respond. We place high priority and investment on learning and skills upgrading. Our education and now skills-upgrading system reflect these hallmarks. The Public Service must continue to be an effective learning organisation, and at the heart of this must be a premier learning institution, which CSC must strive to continue to be.</p>  
   
 <br>  
   
-<hr>  
+ 
   
-<br>  
-  
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>  
-  
-<table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
+
+<div class="author">
+<h6>ABOUT THE AUTHORS</h6>  
+ 
 <p class="small-text"><strong>Lim Siong Guan</strong> is a Professor in the Lee Kuan Yew School of Public Policy, and Senior Fellow in the Civil Service College. He served as Head, Civil Service from 1999 to 2005.</p>  
 <p class="small-text"><strong>Peter Ho</strong> is Chairman of the Urban Redevelopment Authority, Singapore. He is Senior Advisor to the Centre for Strategic Futures, a Senior Fellow in the Civil Service College, and a Visiting Fellow at the Lee Kuan Yew School of Public Policy. He served as Head, Civil Service from 2005 to 2010.</p>  
 <p class="small-text"><strong>Peter Ong</strong> is Chairman of Enterprise Singapore. He served as Head, Civil Service from 2010 to 2017.</p>  
 <p class="small-text"><strong>Leo Yip</strong> is currently Head, Civil Service and Permanent Secretary (Prime Minister’s Office, PMO (Strategy Group), and National Security and Intelligence Coordination).</p>  
-</td>  
-<td style="width: 120px; border: none;" class="desktop-only"></td>  
-</tr>  
-</tbody>  
-</table>
 
+</div>
 
 
 <br>
