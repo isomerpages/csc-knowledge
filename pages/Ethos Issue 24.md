@@ -68,7 +68,7 @@ margin-top:15px;
 		<b><i>Hugh Lim</i></b>
 		<p>Governments around the world remain key players to steward and support this transition, as well as capture opportunities for its people. This issue of ETHOS seeks to feature the different aspects of this transition to limit global warming.</p>
 	
-<div class="button1"><a target="_blank" href="">Read more</a></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-24/preface/">Read more</a></div>
 </div>
 </div> 
 
@@ -84,7 +84,7 @@ margin-top:15px;
                 
   <p>In this special edition of ETHOS, we partner with the Ministry of National Development's Centre for Liveable Cities to explore the theme of urban sustainability, with insights from city leaders, public sector practitioners and urban experts from around the world.</p>	
             
-<div class="button1"><a href="">Read More</a></div> <br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-24/editorial/">Read More</a></div> <br></div>
     </div>
 
  <br>	
@@ -99,7 +99,7 @@ margin-top:15px;
 <p>How might we continue to build sustainability and liveability for our people, in the face of local and global shifts, resource pressures, changing societal values and other discontinuities?
 </p>	
             
-<div class="button1"><a href="/digital-issue-10/prioritisation/">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-24/the-future-of-urban-sustainability-implications-for-governance/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
@@ -108,7 +108,7 @@ margin-top:15px;
             <b><i>Gog Soon Joo</i></b>
 <p>In conversation with ETHOS, the Chief Skills Officer of SkillsFuture Singapore (SSG) outlines bold plans to green Singapore’s economy and workforce.</p>	
             
-<div class="button1"><a href="">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-24/skilling-up-for-a-green-future/">Read More</a></div><br></div>
     </div>
     
 <br>    
@@ -120,7 +120,7 @@ margin-top:15px;
             
 <p>Non-market methods of valuing the costs and benefits of environment protection can better inform policymaking for sustainable development.</p>	
             
-<div class="button1"><a href="">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-24/valuing-sustainability-and-the-environment/">Read More</a></div><br></div>
     </div>
     
 <br>    
@@ -132,7 +132,7 @@ margin-top:15px;
             
 <p>With recent studies indicating strong support for green transport among Singaporeans, especially among youth, a greener, people-centric land transport system for Singapore is well within our reach.</p>	
             
-<div class="button1"><a href="">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-24/green-transport-in-singapore-public-attitudes-intention-and-actions/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
@@ -142,7 +142,7 @@ margin-top:15px;
             
 <p>Intentional habit formation can help to drive the adoption of more sustainable eco-friendly behaviours.</p>	
             
-<div class="button1"><a href="">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-24/sustainability-as-behavioural-change-nudging-the-good-discouraging-the-bad/">Read More</a></div><br></div>
 </div>
  <br>	
 <div class="grid-container">
@@ -152,7 +152,7 @@ margin-top:15px;
 		<h3>Sustainable Urban Development: Espoo, Finland</h3>
 		<b><i>Helena Kyrki</i></b>
 		<p>The small but dynamic Finnish city is a leader in promoting development that brings together residents, businesses and other stakeholders, for the long-term benefit of all.</p>
-			<div class="button1"><a href="">Read More</a></div>
+			<div class="button1"><a target="_blank" href="/ethos-issue-24/sustainable-urban-development-espoo-finland/">Read More</a></div>
 	</div>
 </div>
 </div>
@@ -164,7 +164,7 @@ margin-top:15px;
 		<b><i>Victoria Simon</i></b>
 		<p>The city’s strategy focuses on the needs of its most vulnerable groups and the aspirations of its residents for a more liveable, equitable, and prosperous future.</p>
 
-<div class="button1"><a href="">Read More</a></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-24/sustainability-through-inclusive-and-innovative-development-la-us/">Read More</a></div>
 			</div>
 </div>
  <br>	
@@ -174,7 +174,7 @@ margin-top:15px;
     <h3>Clarifying Complexity, Coordinating Change: The Value of City Indices</h3>
     <b><i>Milton Friesen</i></b>
     <p>Urban indices and frameworks help those seeking to improve the health of cities better navigate complex, interrelated systems—facilitating coherent conversation, action and change.</p>
-    <div class="button1"><a href="">Read More</a></div>
+    <div class="button1"><a target="_blank" href="/ethos-issue-24/clarifying-complexity-coordinating-change-the-value-of-city-indices/">Read More</a></div>
   </div>
 </div>
  <br>	
@@ -184,7 +184,7 @@ margin-top:15px;
     <h3>The City of the Future Needs a Data Culture that Sees the Visible and Invisible</h3>
     <b><i>Poon King Wang</i></b>
     <p>The Director of the Lee Kuan Yew Centre for Innovative Cities reflects on how city planners and policymakers can make more thoughtful use of data to improve decision-making and better people’s lives in meaningful ways.</p>
-    <div class="button1"><a href="">Read More</a></div>
+    <div class="button1"><a target="_blank" href="/ethos-issue-24/the-city-of-the-future-needs-a-data-culture-that-sees-the-visible-and-invisible/">Read More</a></div>
   </div>
 </div>
 
@@ -197,7 +197,7 @@ margin-top:15px;
     <h3>Sustaining Passion and Wellbeing in the City of the Future</h3>
     <b><i>Rahul Mittal</i></b>
     <p>Veteran urban designer and planner Rahul Mittal reflects on key trends in the evolution of urban life, and how planners can engage with community aspirations and energies.</p>
-    <div class="button1"><a href="">Read More</a></div>
+    <div class="button1"><a target="_blank" href="/ethos-issue-24/sustaining-passion-and-wellbeing-in-the-city-of-the-future/">Read More</a></div>
   </div>
 </div>
 
@@ -210,7 +210,7 @@ margin-top:15px;
     <h3>Liveable Density: A Conversation with Heng Chye Kiang</h3>
     <b><i>Heng Chye Kiang</i></b>
     <p>An NUS Professor of Architecture explains how thoughtful planning, good design, and inclusive choices can enable residents to thrive in dense urban environments.</p>
-    <div class="button1"><a href="">Read More</a></div>
+    <div class="button1"><a target="_blank" href="/ethos-issue-24/liveable-density-a-conversation-with-heng-chye-kiang/">Read More</a></div>
   </div>
 </div>
 
