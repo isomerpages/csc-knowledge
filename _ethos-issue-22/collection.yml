@@ -2,6 +2,7 @@ collections:
   ethos-issue-22:
     output: true
     order:
+      - Taking Stock of an Unprecedented Pandemic.md
       - Learning from Crisis.md
       - Fiscal Responses to COVID 19 in Singapore and Hong Kong.md
       - Supporting Jobs and Livelihoods during the Pandemic.md
