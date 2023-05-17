@@ -399,7 +399,7 @@ visualise the WpL journey. At the end of the day, these tools are meant to help 
 distance between organisations and their employees.<br>  
 <br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-23/workplace-learning\_fig-1.jpg?sfvrsn=c62add40\_2"><img title="Workplace Learning\_Fig 1" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-23/workplace-learning\_fig-1.jpg?sfvrsn=c62add40\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Workplace Learning\_Fig 1"></a></p>  
+<img title="Workplace Learning\_Fig 1" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_23/Workplace_Learning_Fig1.jpg" alt="Workplace Learning\_Fig 1"></p>  
 <p style="text-align: center;" class="small-text"><strong>Figure 1.</strong> The National Workplace Learning Framework Retention of Talents, Growth of Company and Staff Competencies<br>  
 Source: Adapted from the New Quality of Work Initiative (INQA), Germany</p>  
 <hr>  
@@ -421,16 +421,16 @@ Source: Adapted from the New Quality of Work Initiative (INQA), Germany</p>
   
   
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Staff want organisations to invest in their development  
 and provide a safe and nurturing environment for  
 them to succeed and thrive—especially at a time of  
 uncertainty and rapid change.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>The Role of Leaders in the Next Mile</h3>  
   
@@ -505,7 +505,7 @@ through WpL.</p>
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Boosting Organisational Performance through WpL</h3>  
@@ -562,25 +562,23 @@ their futures.</p>
 <p>It is a mutually reinforcing virtuous cycle,  
 to which everyone contributes, for the  
 gain of all.</p>  
+<div class="break">  
   
-<hr>  
-  
-<h5><em>  
+<p class="break1">  
 One of the critical advantages of WpL  
 is that it captures tacit knowledge  
 within the organisation: valuable  
 knowledge, skills and attitudes that  
 might otherwise be lost.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>  
+	
+<div class="author">	
+<h6>ABOUT THE AUTHOR</h6>  
   
-<table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
+
 <p class="small-text"><strong>Dr Phua Chee Teck</strong> is Director of the National  
             Centre of Excellence for Workplace Learning (NACE). He and the NACE team drive the  
             Workplace Learning (WpL) ecosystem in Singapore. Their work includes developing  
@@ -591,13 +589,8 @@ might otherwise be lost.
             talent and grow competencies. </p>  
 <p class="small-text"> Phua is a believer and practitioner of lifelong learning, and regularly shares his insights with organisation leaders. He earned his PhD from the University of Paris-Est  
             through a work-study research programme.</p>  
-</td>  
-<td style="width: 120px; border: none;" class="desktop-only"></td>  
-</tr>  
-</tbody>  
-</table>  
-  
-<hr>  
+</div>
+
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
   
@@ -621,10 +614,8 @@ might otherwise be lost.
     </li>  
 <li class="small-text">“Employers Must Take Ownership of Skills Utilisation: Singapore Education Minister Lawrence Wong”, <em>LEARNTech Asia</em>, December 14, 2020, accessed July 10, 2021, <a href="https://learntechasia.com/employers-ownership-skills-singapore-education-wong/">https://learntechasia.com/employers-ownership-skills-singapore-education-wong/</a>.</li>  
 </ol>  
-  
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+    
+
 
 
 
