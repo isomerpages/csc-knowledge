@@ -603,26 +603,18 @@ development for L&amp;D practitioners,
 learners and other stakeholders, will  
 need to be worked through.</p>  
   
-<hr>  
+<div class="author">  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>  
+<h6>ABOUT THE AUTHORS</h6>  
   
-<table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
 <p class="small-text"><strong>Michael Chew</strong> is L&amp;D Specialist at the Learning Futures Group, Civil Service College, where he leads the effort to explore learning analytics methods and concepts. Previously, he worked on the education use case for the National Artificial Intelligence Strategy in the Ministry of Education.</p>  
 <p class="small-text"><strong>Hoe Wee Meng</strong>  is Assistant Chief Executive (Corporate) of the  
             Civil Service College. He is also Institute Director of the Institute of Public Sector Leadership. Wee Meng has served in various policy and leadership roles in the Public Service.</p>  
 <p class="small-text"><strong>Kelvin Tan&nbsp;</strong>is Director of Digital Learning Services, Civil Service  
             College, where he leads the team that develops and operates the LEARN ecosystem which serves the learning needs of public officers. Kelvin has helmed technology leadership roles in various public agencies.</p>  
-</td>  
-<td style="width: 120px; border: none;" class="desktop-only"></td>  
-</tr>  
-</tbody>  
-</table>  
+
   
-<hr>  
+</div>  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
   
@@ -658,11 +650,6 @@ need to be worked through.</p>
     </li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
-
 
 
 <br>
