@@ -2,6 +2,7 @@ collections:
   ethos-issue-22:
     output: true
     order:
+      - Editorial.md
       - "Singapore and COVID 19: In Perspective.md"
       - Taking Stock of an Unprecedented Pandemic.md
       - Learning from Crisis.md
@@ -17,4 +18,3 @@ collections:
       - COVID 19 and Singapore’s Health Diplomacy.md
       - The Global Pandemic, US China Relations, and Implications for Singapore
         and ASEAN.md
-      - Editorial.md
