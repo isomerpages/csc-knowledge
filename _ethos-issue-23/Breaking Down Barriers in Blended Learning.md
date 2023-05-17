@@ -57,7 +57,21 @@ font-family: Georgia;
 	padding: 5%;
 	color: white;
 	}	
-
+.containerbox2 {
+	background-color: #f8c7c2;
+	border-radius: 10px;
+	padding: 5%;
+	color: black;
+	}	
+	
+.containerbox2 h3{
+	color: black;
+	}	
+	
+.whitetext {
+	color: white !important;
+	}
+	
 .yellowstrong {
 	color: #fdd037 !important;
 	
@@ -215,13 +229,13 @@ Source: Figure adapted from S. Michie, M. M. van Stralen, and R. West<sup><a hre
 <h3 class="boxheader">What's Stopping Learners from Completing Their Pre-Course Learning?</h3>  
 <p class="text">&nbsp;</p>  
 <p><strong class="yellowstrong">CAPABILITY BARRIER</strong></p>  
-<p><strong>1. <em>Least Likely Group</em> faced difficulty in learning independently.</strong></p>  
+<p><strong class="whitetext">1. <em>Least Likely Group</em> faced difficulty in learning independently.</strong></p>  
 <p>Around half of the <em>Least Likely Group </em>agreed that they had difficulty in  
 learning independently, whereas majority of the <em>Most Likely Group</em> and  
 <em>Moderately Likely Group</em> disagreed with that statement. It is thus important to  
 identify learners who need greater support for pre-course learning.</p>  
 <p><strong class="yellowstrong">OPPORTUNITY BARRIERS</strong></p>  
-<p><strong>2. Busyness at work, and intention-action gap are key barriers for  
+<p><strong class="whitetext">2. Busyness at work, and intention-action gap are key barriers for  
 many learners.</strong></p>  
 <p>59% of all respondents, including most of the <em>Least Likely Group</em> and  
 <em>Moderately Likely Group</em>, agreed that they were too busy at work to complete  
@@ -233,19 +247,19 @@ suggests learners need help to narrow their intention-action gap.<br>
 <br>  
 <br>  
 <img title="Blended Learning\_Fig 1 in box story 1" src="" alt="Blended Learning\_Fig 1 in box story 1"></p>  
-<p><strong>3. <em>Least Likely Group</em> thought not completing pre-course learning was a norm.</strong></p>  
+<p><strong class="whitetext">3. <em>Least Likely Group</em> thought not completing pre-course learning was a norm.</strong></p>  
 <p>69% of the Least Likely Group agreed that there was no point in finishing  
 their pre-course learning because many participants would not finish it. This  
 perceived social norm could be damaging if trainers forgo discussion time to  
 go through the pre-course learning again during in-class sessions.</p>  
 <p><strong class="yellowstrong">MOTIVATION BARRIERS</strong></p>  
-<p><strong>4. <em>Least Likely Group</em> believed there were no consequences of not completing  
+<p><strong class="whitetext">4. <em>Least Likely Group</em> believed there were no consequences of not completing  
 their pre-course learning.</strong></p>  
 <p>71% of the <em>Least Likely Group </em>indicated that it did not matter if they complete  
 their pre-course learning because they believed the trainer would go through  
 the same content during the in-class session. This perpetuates the notion that  
 pre-course learning doesn’t matter.</p>  
-<p><strong>5. <em>Least Likely Group</em> and <em>Moderately Likely Group </em>perceived the benefits  
+<p><strong class="whitetext">5. <em>Least Likely Group</em> and <em>Moderately Likely Group </em>perceived the benefits  
 of pre-course learning to be low and the cost of completing pre-course  
 learning to be high.</strong></p>  
 <p>Only a minority of the <em>Least Likely Group </em>and <em>Moderately Likely Group</em> felt that  
@@ -260,18 +274,18 @@ private time, and learner’s expectations, in which such learning is regarded a
 a personal cost.<br>  
 <br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-23/blended-learning\_fig-2-in-box-story-1.png?sfvrsn=45c0278a\_2"><img title="Blended Learning\_Fig 2 in box story 1" src="../../images/default-source/ethos-images/ethos-issue-23/blended-learning\_fig-2-in-box-story-1.png?sfvrsn=45c0278a\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Blended Learning\_Fig 2 in box story 1"></a></p>  
-<p><a href="../../images/default-source/ethos-images/ethos-issue-23/blended-learning\_fig-3-in-box-story-1.png?sfvrsn=228a4226\_2"><img title="Blended Learning\_Fig 3 in box story 1" src="../../images/default-source/ethos-images/ethos-issue-23/blended-learning\_fig-3-in-box-story-1.png?sfvrsn=228a4226\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Blended Learning\_Fig 3 in box story 1"></a><br>  
+<img title="Blended Learning\_Fig 2 in box story 1" src="/images/Ethos_Images/Ethos_Issue_23/Blended_Learning_Fig2_Inbox_Story1.png" alt="Blended Learning\_Fig 2 in box story 1"></p>  
+<p><img title="Blended Learning\_Fig 3 in box story 1" src="/images/Ethos_Images/Ethos_Issue_23/Blended_Learning_Fig3_Inbox_Story1.png" alt="Blended Learning\_Fig 3 in box story 1"><br>  
 <br>  
 Overall, most learners faced some forms of barriers even for the <em>Most Likely Group</em> (see  
 Figure 1). Unsurprisingly, the <em>Least Likely Group </em>struggled with the most barriers and it  
 was the only group with the Capability barrier.<br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-23/blended-learning\_fig-4-in-box-story-1.jpg?sfvrsn=699baeaa\_2"><img title="Blended Learning\_Fig 4 in box story 1" src="../../images/default-source/ethos-images/ethos-issue-23/blended-learning\_fig-4-in-box-story-1.jpg?sfvrsn=699baeaa\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Blended Learning\_Fig 4 in box story 1"></a></p>  
-<p style="text-align: center;" class="small-text"><strong>Figure 1.&nbsp;</strong>Overview of Barriers to Completing Pre-Course Learning by Each Group <br>  
+<img title="Blended Learning\_Fig 4 in box story 1" src="/images/Ethos_Images/Ethos_Issue_23/Blended_Learning_Fig4_Inbox_Story1.jpg" alt="Blended Learning\_Fig 4 in box story 1"></p>  
+<p style="text-align: center;" class="small-text"><strong class="whitetext">Figure 1.&nbsp;</strong>Overview of Barriers to Completing Pre-Course Learning by Each Group <br>  
 Source: C. Lim, M. Loi, and C. Wan</p>  
 <hr>  
-<p><strong>Note</strong></p>  
+<p><strong class="whitetext">Note</strong></p>  
 <ol>  
 <li>T. C. Lim, M. Loi, and C. Wan, “Pre-Course Learning Study: Findings on Barriers and Enablers” (Institute of Governance  
     and Policy and Learning Futures Group, Civil Service College, 2021).  
@@ -333,7 +347,7 @@ nudges could lower participants’ barriers to completing their online pre-cours
   
   
   
-<div class="container">  
+<div class="containerbox2">  
   
   
 <h3 class="title">Nudge to Learn:<sup>1</sup> An Email Experiment to Improve Online Learning Completion Rate for Blended Workshops<sup>2</sup></h3>  
@@ -369,7 +383,7 @@ in the Treatment group than Control group participants completed the online
 learning before the workshop (88% versus 63%).<br>  
 <br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-23/blended-learning\_fig-1-in-box-story-2.jpg?sfvrsn=63322cc7\_2"><img title="Blended Learning\_Fig 1 in box story 2" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-23/blended-learning\_fig-1-in-box-story-2.jpg?sfvrsn=63322cc7\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Blended Learning\_Fig 1 in box story 2"></a></p>  
+<img title="Blended Learning\_Fig 1 in box story 2" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_23/Blended_Learning_Fig1_Inbox_Story2.jpg" alt="Blended Learning\_Fig 1 in box story 2"></p>  
 <p style="text-align: center;" class="small-text"><strong>Figure 1.&nbsp;</strong>Example of Email Sent Out to Treatment Group<sup>4</sup> <br>  
 Source: T. Cheng, S. Kim, and K. Koh</p>  
 <hr>  
