@@ -371,13 +371,12 @@ collection, management and analytics
 abilities, and perhaps even do so ahead  
 of the rest of their organisation.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 L&amp;D teams need to exercise a strategic ‘voice’ to influence organisational strategy…through the lens of current and potential capabilities.  
-</em></h5>  
-  
-<hr>  
+</p>  
+ </div>  
   
 <h3>STEP 2: Champion the Human: People and Talent</h3>  
   
@@ -394,13 +393,13 @@ of supporting the development of employees beyond the needs of their current voc
 be resilient in the face of change. It is recognising that employees have the potential to contribute their talents to benefit the wider community and economy, and organisations should develop their human resources with this in mind, regardless of their current or potential tenure with their current  
 organisation. Organisations that fail to see themselves as corporate citizens of the society they operate in and structure themselves in a way that allows for skilled workers to permeate in and out easily, run the risk of devaluing their brand and being seen as a less desirable employer.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Employees have the potential to contribute their talents to benefit the wider community and economy.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>STEP 3: Nurture a Healthy Organisational L&amp;D Culture</h3>  
   
@@ -437,13 +436,13 @@ inadvertently discourage favourable
 behaviours such as experimentation  
 and learning from failure.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 There should be a shift from simplistic, less pertinent metrics towards more strategically meaningful measures.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>STEP 4: Redefine What Learning Looks Like in Organisations</h3>  
   
@@ -520,14 +519,14 @@ just of training programmes but of
 collaborative projects, work exchanges,  
 and other formats.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">
 Expanding learning beyond the confines of the organisation is one of the few ways in which  
 an organisation can keep abreast of future-oriented and far-reaching trends.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Conclusion</h3>  
   
@@ -548,14 +547,10 @@ and growth of an organisation, a well-supported and strategic L&amp;D team will
 be instrumental in helping to shepherd  
 organisations through a complex and fast-changing future.</p>  
   
-<hr>  
+<div class="author">  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>  
-  
-<table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
+<h6>ABOUT THE AUTHORS</h6>  
+   
 <p class="small-text"><strong>Iva Aminuddin</strong>  heads the  
             Learning Futures Group at the Civil Service College. She has 15 years of experience in learning and organisational change, and helped to pioneer serious games for the Public Service.</p>  
 <p class="small-text"><strong> Wan Chng</strong> is Lead L&amp;D Specialist at the Learning  
@@ -563,13 +558,8 @@ organisations through a complex and fast-changing future.</p>
 <p class="small-text"><strong>Vera Lim</strong> is Senior L&amp;D Specialist  
             at the Institute of Leadership and Organisation Development, Civil Service College. Her research interests  
             include the Future of Learning, Team Learning/Coaching as well as data-driven organisational development strategies.</p>  
-</td>  
-<td style="width: 120px; border: none;" class="desktop-only"></td>  
-</tr>  
-</tbody>  
-</table>  
-  
-<hr>  
+
+</div>  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
   
