@@ -53,12 +53,17 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #127096;
 	border-radius: 10px;
 	padding: 5%;
-	
+	background-image: linear-gradient(to right,#1a4669,#127096);
+	color: white;
 	}	
 
+.containerbox h3 {
+	color: #5cc3e0 !important;
+	}
+	
 li {
 	font-size: 0.9em !important;
 	
@@ -105,13 +110,13 @@ to Curating</em> in the <strong>Domain</strong> model, from
 and from <em>Prescribing to Recommending</em>  
 in the <strong>Pedagogical </strong>model.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 While there is great potential in using AI to codify well-defined knowledge, it is best used for less complex skills.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>From Creating to Curating—AI and the Domain Model</h3>  
   
@@ -218,13 +223,13 @@ learning objects but also existing
 organisational knowledge to the  
 competency framework.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 AI techniques can help curriculum designers intimately understand the relationships between skills in a competency map, thereby helping them evaluate and review the curriculum better.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
   
   
@@ -234,7 +239,7 @@ agency.</p>
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Through the Looking-Glass: How A Public Officer Might Use the LEARN app in 2025</h3>  
