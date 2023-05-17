@@ -606,13 +606,13 @@ work settings, learning is richest when
 workers are identifying, framing, and  
 meeting challenges.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 In work settings, learning is richest when workers are identifying, framing, and meeting challenges.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>SOME FINAL THOUGHTS</h3>  
   
@@ -649,13 +649,13 @@ closely related to the learning
 opportunities provided for the  
 worker.<sup><a href="#notes">11</a></sup></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 WpL is not about teaching, nor is it about just one way of doing and thinking about a task.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>  
   
