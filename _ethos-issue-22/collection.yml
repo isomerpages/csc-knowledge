@@ -2,6 +2,7 @@ collections:
   ethos-issue-22:
     output: true
     order:
+      - Can We Nudge the Pandemic Away?.md
       - Contact Tracing Tech Across the Data Life Cycle.md
       - The Role of Public Communications and Engagement in a Pandemic.md
       - Leadership at a Time of (Another) Crisis.md
