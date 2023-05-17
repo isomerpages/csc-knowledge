@@ -327,7 +327,7 @@ which L&amp;D teams in the Public Service
 should respond, broadly focusing on  
 four key steps:<br>  
 <br>  
-<img title="Future of L&amp;amp;D\_diagram" style="vertical-align: middle;" src="" alt="Future of L&amp;amp;D\_diagram"></p>  
+<img title="Future of L&amp;amp;D\_diagram" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_23/Future_Of_ld_Diagram.jpg" alt="Future of L&amp;amp;D\_diagram"></p>  
   
 <h3>STEP 1: Establish a Strategic Voice in the Organisation</h3>  
   
