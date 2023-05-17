@@ -384,13 +384,13 @@ tools used by instructors, trainers, or
 learners could become highly certain  
 of a learner’s knowledge state.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 An AI-enabled system can intervene in a timely, contextual manner relevant to each learner.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>From Prescribing to Recommending—AI and the Pedagogical Model</h3>  
   
@@ -489,7 +489,7 @@ that can sense, reason, adapt and act.</p>
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">What We Mean by AI</h3>  
@@ -524,7 +524,7 @@ Ethics) should be addressed when planning and implementing AI, whatever the use 
     May 2021 conversation about a learning interaction between a child and a Google  
     dialogue model called LaMDA. Notice how human-like the programme is in the way it  
     handles open-ended dialogue content. <br>  
-    See https://youtu.be/aUSSfo5nCdM?t=40.<a href="../../images/default-source/ethos-images/ethos-issue-23/through-the-looking-glass\_qr-code.jpg?sfvrsn=9e34a914\_2"><img title="Through the Looking Glass\_QR code" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-23/through-the-looking-glass\_qr-code-2.jpg?Culture=en&amp;sfvrsn=9e34a914\_1" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="Through the Looking Glass\_QR code"></a></li>  
+    See https://youtu.be/aUSSfo5nCdM?t=40.<img title="Through the Looking Glass\_QR code" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_23/Through_The_Looking_Glass_QRCode.jpg" data-displaymode="Thumbnail" alt="Through the Looking Glass\_QR code"></li>  
 <li>W. Knight, “One of the Fathers of AI Is Worried about Its Future”, MIT Technology  
     Review, November 17, 2018, https://www.technologyreview.com/2018/11/17/66372/  
     one-of-the-fathers-of-ai-is-worried-about-its-future/. </li>  
