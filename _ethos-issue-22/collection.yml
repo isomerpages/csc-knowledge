@@ -2,4 +2,6 @@ collections:
   ethos-issue-22:
     output: true
     order:
+      - The Global Pandemic, US China Relations, and Implications for Singapore
+        and ASEAN.md
       - Editorial.md
