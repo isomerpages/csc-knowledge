@@ -65,7 +65,18 @@ font-family: Georgia;
 	}	
 	
 .containerbox2 h3{
+	color: #575757;
+	}	
+	
+.containerbox3 {
+	background-color: #fad5ab;
+	border-radius: 10px;
+	padding: 5%;
 	color: black;
+	}		
+	
+.containerbox3 h3 {
+	color: #575757;
 	}	
 	
 .whitetext {
@@ -447,7 +458,7 @@ pre-course learning in their own time.</p>
   
   
   
-<div class="container">  
+<div class="containerbox2">  
   
   
 <h3 class="title">Simple Email Reminders Work Best</h3>  
@@ -484,14 +495,14 @@ students with too much information demotivates them from taking action.<sup>1</s
   
   
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 People are more likely to complete a task with a deadline set in the same week as compared to a  
 deadline set next week, even if they have a shorter time to complete it.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>HELPING <em>LEAST LIKELY GROUP </em>COMPLETE THEIR PRE-COURSE LEARNING</h3>  
   
@@ -516,7 +527,7 @@ date.</p>
   
   
   
-<div class="container">  
+<div class="containerbox3">  
   
   
 <h3 class="title">Social Norms Are More Effective than Simple Call-To-Action Messages</h3>  
@@ -588,7 +599,7 @@ if loss aversion can be used to improve students’ performance.</p>
   
   
   
-<div class="container">  
+<div class="containerbox3">  
   
   
 <h3 class="title">Loss Aversion Increases the Performance of University Students</h3>  
@@ -639,7 +650,7 @@ a US university.</p>
   
   
   
-<div class="container">  
+<div class="containerbox3">  
   
   
 <h3 class="title">Self-Efficacy and Help-Seeking Strategies Affect Self-Regulation</h3>  
@@ -717,14 +728,10 @@ learners can fully benefit from the blended
 learning model. In this regard, behavioural  
 interventions could make a difference.</p>  
   
-<hr>  
+<div class="authors">
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>  
+<h6>ABOUT THE AUTHORS</h6>  
   
-<table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
 <p class="small-text"><strong>Charmaine Lim</strong> is Lead Researcher at the  
             Institute of Governance and Policy, Civil Service College. Her research interests include evidence-based policymaking and behavioural economics. </p>  
 <p class="small-text"><strong>Mervin Loi</strong>  is Researcher at the Institute of  
@@ -732,13 +739,9 @@ interventions could make a difference.</p>
             policymaking and behavioural economics.</p>  
 <p class="small-text"><strong>Do Hoang Van Khanh</strong> is Lead Researcher at the  
             Institute of Governance and Policy, Civil Service College. Her research interests include evidence-based policymaking and behavioural economics.</p>  
-</td>  
-<td style="width: 120px; border: none;" class="desktop-only"></td>  
-</tr>  
-</tbody>  
-</table>  
+
   
-<hr>  
+</div>  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
   
