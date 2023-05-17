@@ -66,7 +66,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 23, October 2021</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_23/23_Banner_Lead_By_Learning.jpg">
 
 
 
