@@ -48,7 +48,7 @@ font-family: Georgia;
 }
 
 li {
-	font-size: 0.93em !important;
+	font-size: 15px !important;
 	
 	}	
 
