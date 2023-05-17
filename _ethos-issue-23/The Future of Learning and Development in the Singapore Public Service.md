@@ -327,7 +327,7 @@ which L&amp;D teams in the Public Service
 should respond, broadly focusing on  
 four key steps:<br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-23/future-of-l-d\_diagram.jpg?sfvrsn=7ac91378\_2"><img title="Future of L&amp;amp;D\_diagram" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-23/future-of-l-d\_diagram.jpg?sfvrsn=7ac91378\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Future of L&amp;amp;D\_diagram"></a></p>  
+<img title="Future of L&amp;amp;D\_diagram" style="vertical-align: middle;" src="" alt="Future of L&amp;amp;D\_diagram"></p>  
   
 <h3>STEP 1: Establish a Strategic Voice in the Organisation</h3>  
   
