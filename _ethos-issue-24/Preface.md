@@ -28,7 +28,7 @@ border-top: 1px solid black;
 }	
 	
 li {
-	font-size: 0.93em;
+	font-size: 15px !important;
 	
 	}	
 
@@ -69,6 +69,8 @@ our cities for critical uncertainties in our climate future.</p>
 <b>Hugh Lim</b><br>
 Executive Director<br>
 Centre for Liveable Cities, Ministry of National Development Singapore.
+
+<hr>
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="note"></a>NOTE</p>
 <ol>
     <li class="small-text">New Climate Economy, <em>Unlocking the Inclusive Growth Story of the 21st Century:
