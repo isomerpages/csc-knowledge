@@ -52,12 +52,16 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #f9cc36;
 	border-radius: 10px;
 	padding: 5%;
 	
 	}	
 
+.containerbox h3 {
+	color: white;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -144,13 +148,13 @@ skills and knowledge are broken into
 small tasks and separated, but as holistic  
 performance within the relevant context.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Training is but one small aspect of WpL: there can be a great deal of WpL taking place with no trainer or training in sight.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Another way to understand WpL is to  
 break it down into the three key words:  
@@ -246,13 +250,13 @@ solution; for example, job redesign,
 hierarchical structures, reward systems  
 and so on may also need attention.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 WpL is about the relations between people, artefacts (e.g., tools used), the language used, the environment, being valued, or not, and much more.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
   
   
@@ -263,7 +267,7 @@ the neighbouring countries: India, mainland China and Malaysia.</p>
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">How David Reframed a WpL Issue</h3>  
@@ -445,7 +449,7 @@ was demoralised.</p>
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">How Su Chin Developed a Supportive WpL Culture</h3>  
@@ -547,13 +551,13 @@ opportunities to put ideas to work. All
 of which needs to be underpinned by  
 a belief in your people.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 It is necessary to provide opportunities for dialogue, to learn the language with which to improve thinking about the work, and opportunities to put ideas to work.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>REALISTIC AND MEANINGFUL  
 EVALUATION OF WPL</h3>  
@@ -578,10 +582,11 @@ Table 1 provides a simple, specific
 example of what this might look like,  
 using Su Chin’s example.<br>  
 <br>  
-<a href="../../images/default-source/ethos-images/ethos-issue-23/thinking-differently-wpl\_table-1a.jpg?sfvrsn=6deeee18\_2"><img title="Thinking Differently Wpl\_Table 1a" src="../../images/default-source/ethos-images/ethos-issue-23/thinking-differently-wpl\_table-1a.jpg?sfvrsn=6deeee18\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Thinking Differently Wpl\_Table 1a"></a>  
+<img title="Thinking Differently Wpl\_Table 1a" src="/images/Ethos_Images/Ethos_Issue_23/Thinking_Differently_WPL_Table1a.jpg" alt="Thinking Differently Wpl\_Table 1a">
 </p>  
   
-<p><a href="../../images/default-source/ethos-images/ethos-issue-23/thinking-differently-wpl\_table-1b.jpg?sfvrsn=f12f2219\_2"><img title="Thinking Differently Wpl\_Table 1b" src="../../images/default-source/ethos-images/ethos-issue-23/thinking-differently-wpl\_table-1b.jpg?sfvrsn=f12f2219\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Thinking Differently Wpl\_Table 1b"></a></p>  
+<img title="Thinking Differently Wpl\_Table 1b" src="/images/Ethos_Images/Ethos_Issue_23/Thinking_Differently_WPL_Table1b.jpg" alt="Thinking Differently Wpl\_Table 1b"><p></p>
+
   
 <p style="text-align: center;" class="small-text"><strong>Table 1.</strong> Structuring Evaluation of WpL <br>  
 <em>AIM</em>: <em>To address xx team’s low morale and improve quality of the work</em></p>  
