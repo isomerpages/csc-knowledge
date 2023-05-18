@@ -372,7 +372,7 @@ component. The other (Treatment) group received a modified notification email
 that included the following nudges aimed at increasing the likelihood of them  
 completing the task:</p>  
 <ul>  
-<li>A “\[For Your Action\]” call to action was inserted in the email subject line to  
+<li>A “[For Your Action]” call to action was inserted in the email subject line to  
     increase saliency that participants act after reading the email. This was especially  
     tailored to public officers who are familiar with calls to action in email subject lines.</li>  
 </ul>  
