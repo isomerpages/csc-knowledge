@@ -257,7 +257,7 @@ to start their pre-course learning despite intending to complete it. This findin
 suggests learners need help to narrow their intention-action gap.<br>  
 <br>  
 <br>  
-<img title="Blended Learning\_Fig 1 in box story 1" src="" alt="Blended Learning\_Fig 1 in box story 1"></p>  
+</p>  
 <p><strong class="whitetext">3. <em>Least Likely Group</em> thought not completing pre-course learning was a norm.</strong></p>  
 <p>69% of the Least Likely Group agreed that there was no point in finishing  
 their pre-course learning because many participants would not finish it. This  
