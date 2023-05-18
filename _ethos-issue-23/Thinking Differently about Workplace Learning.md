@@ -107,7 +107,7 @@ development, and outcomes for the
 organisation. Matthews, for example,  
 captures this in the following definition: </p>  
   
-<p>\[WpL\] involves the process  
+<p>[WpL] involves the process  
 of reasoned learning towards  
 desirable outcomes for the  
 individual and the organisation.  
@@ -225,7 +225,7 @@ is deeply influenced by the nature of the
 ‘place’ of the workplace, as discussed  
 above. We also need to keep in mind that  
 expertise is not stable: it is an “ongoing  
-collaborative and discursive \[dialogic\]  
+collaborative and discursive [dialogic]  
 construction of tasks, solutions, visions,  
 breakdowns and innovations”.<sup><a href="#notes">6</a></sup></p>  
   
@@ -292,7 +292,7 @@ I realised that the stereotypical perception that they were novices had
 to be challenged, as their behaviours were not due to their lack of skills,  
 but due to the culture and the work environment they had back home.  
 This subsequently led me to reframe my perspective and improve the  
-roadmap \[the learning intervention to establish a culture of safe practices\]  
+roadmap [the learning intervention to establish a culture of safe practices]  
 by looking at strategies that capitalise on the strengths of the learners  
 and supervisors who are their mentors.<sup>2</sup></p>  
 <p>Even though the operators might have years of experience in their home country,  
