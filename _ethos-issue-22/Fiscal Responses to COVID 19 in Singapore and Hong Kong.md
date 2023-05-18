@@ -191,7 +191,7 @@ expanding quarantine and isolation facilities, and providing for related needs s
   
 <br>  
   
-<a href="../../images/default-source/ethos-images/ethos-issue-22/fiscal-response-sg\_hk-budgets.jpg?sfvrsn=cd4c8c7e\_2"><img title="Fiscal Response SG\_HK budgets" src="../../images/default-source/ethos-images/ethos-issue-22/fiscal-response-sg\_hk-budgets.jpg?sfvrsn=cd4c8c7e\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Fiscal Response SG\_HK budgets"></a>  
+<img title="Fiscal Response SG\_HK budgets" src="/images/Ethos_Images/Ethos_Issue_22/Fiscal_Response_SG_HK_Budgets.jpg" alt="Fiscal Response SG\_HK budgets">
   
 <p>&nbsp;</p>  
   
