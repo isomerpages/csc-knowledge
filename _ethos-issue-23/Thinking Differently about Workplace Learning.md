@@ -441,8 +441,6 @@ to share and work together, and much more.</p>
   
   
   
-<p class="small-text text">Su Chin, a new team head within a service organisation, quickly realised her team  
-was demoralised.</p>  
   
   
   
