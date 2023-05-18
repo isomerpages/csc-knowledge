@@ -503,7 +503,7 @@ Source: Adapted from the New Quality of Work Initiative (INQA), Germany</p>
   
 </div>  
   
- 
+ <p>One of the critical advantages of WpL is that it captures tacit knowledge within the organisation: valuable knowledge, skills and attitudes that might otherwise be lost.</p>
   
 <div class="containerbox">  
   
