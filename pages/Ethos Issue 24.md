@@ -191,7 +191,7 @@ margin-top:15px;
  <br>	
 <div class="grid-container">
   <div>
-    <img src="/images/Ethos_Images/Ethos_Issue_24/Sustaining_Passion_Wellbeing_Banner_Teaser.jpg">
+    <img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_Sustaining_Passion_Wellbeing.jpg">
   </div>
   <div class="content">
     <h3>Sustaining Passion and Wellbeing in the City of the Future</h3>
@@ -204,7 +204,7 @@ margin-top:15px;
  <br>	
 <div class="grid-container">
   <div>
-    <img src="/images/Ethos_Images/Ethos_Issue_24/Liveable_Density_BannerTeaser.jpg">
+    <img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_Liveable_Density.jpg">
   </div>
   <div class="content">
     <h3>Liveable Density: A Conversation with Heng Chye Kiang</h3>
