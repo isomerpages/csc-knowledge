@@ -55,7 +55,7 @@ font-family: Georgia;
 	background-color: #f9cc36;
 	border-radius: 10px;
 	padding: 5%;
-	
+	margin-top: 5%;
 	}	
 
 .containerbox h3 {
@@ -260,9 +260,7 @@ WpL is about the relations between people, artefacts (e.g., tools used), the lan
   
   
   
-<p class="small-text text">In a workplace involving heavy machinery, there are workers from many nationalities  
-and cultures, where Singaporeans work closely with other migrant workers from  
-the neighbouring countries: India, mainland China and Malaysia.</p>  
+  
   
   
   
