@@ -116,12 +116,12 @@ providing $9,000 (disbursed over three payouts) to Singaporean SEPs with less me
   
 <p>The implementation of these support measures reflected a balance between fairness and fiscal prudence (by targeting support at affected firms) with expediency in support and administration. While such measures to ease the upkeep of foreign workers were meant to tide firms over the difficult pandemic period, the prevailing policy stance remained: that firms relying heavily on foreign workers should review their workforce strategy and grow their pipeline of local workers for sustainability and resilience in the medium to long term.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>The implementation of these support measures reflected a balance between fairness and  
-fiscal prudence (by targeting support at affected firms) with expediency in support and administration.</em></h5>  
+<p class="break1">The implementation of these support measures reflected a balance between fairness and  
+fiscal prudence (by targeting support at affected firms) with expediency in support and administration.</p>  
   
-<hr>  
+</div>  
   
 <h3>Supporting Households</h3>  
   
@@ -135,12 +135,12 @@ fiscal prudence (by targeting support at affected firms) with expediency in supp
   
 <p>Another suite of measures was needed to help individuals and households that had run into financial difficulty due to the pandemic. The existing ComCare schemes, which were subject to rigorous means testing, would not be able to handle the anticipated surge in need for a time such as this. The Temporary Relief Fund (TRF) was introduced in April 2020 as an interim assistance scheme for lower to middle-income locals who had lost their jobs or suffered substantial income loss.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>Cash handouts were based on the principle that everyone would receive something, but  
-the less well-off would receive more.</em></h5>  
+<p class="break1">Cash handouts were based on the principle that everyone would receive something, but  
+the less well-off would receive more.</p>  
   
-<hr>  
+</div>  
   
 <p>In May 2020, it was superseded by the COVID-19 Support Grant (CSG), which provided income support of up to three months for those who had lost their jobs, were on involuntary no-pay leave for at least three months, or suffered income loss of at least 30%. These measures were timely and impactful: the TRF attracted nearly 600,000 applications.<sup><a href="#notes">5</a></sup></p>  
   
@@ -162,12 +162,12 @@ the less well-off would receive more.</em></h5>
   
 <p>Indeed, these measures are likely to have helped mitigate the impact of COVID-19 on the labour market and economy. While the resident unemployment rate climbed to 4.8% in September 2020, it fell short of the peak during the GFC. By December 2020, resident unemployment had fallen to 4.4%. The number of retrenchments came to over 26,000 in 2020, but the incidence of retrenchment (12.8 per thousand employees) was below that of previous recessionary highs in 2003 and 2009. Resident employment, which had contracted in the first half of the year, turned around in the third and fourth quarters, and recovered to pre-pandemic levels by the end of 2020.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>“Suspended animation” has had to give way to helping businesses and  
-citizens take up new opportunities in areas with strong growth potential.</em></h5>  
+<p class="break1">“Suspended animation” has had to give way to helping businesses and  
+citizens take up new opportunities in areas with strong growth potential.</p>  
   
-<hr>  
+</div>  
   
 <h3>Looking to the Future: Pivoting to New Opportunities, Addressing Inequality &amp; Social Security</h3>  
   
@@ -183,11 +183,11 @@ citizens take up new opportunities in areas with strong growth potential.</em></
   
 <p>While income inequality as measured by the household income Gini coefficient after taxes and transfers fell to a historic low in 2020 due to sizeable government transfers,<sup><a href="#notes">14</a></sup> inequality, particularly wealth inequality, remains a concern going forward. There is still a need to uplift low-income households and vulnerable workers, and to shore up precautionary and retirement savings for self-employed workers, many of whom are susceptible to income and job disruptions and may not have built up sufficient CPF savings.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>The fallout of COVID-19 on jobs and incomes has been highly uneven, with the impact on workers mirroring the impact on companies.</em></h5>  
+<p class="break1">The fallout of COVID-19 on jobs and incomes has been highly uneven, with the impact on workers mirroring the impact on companies.</p>  
   
-<hr>  
+</div>  
   
 <h3>Strengthening Social Security</h3>  
   
