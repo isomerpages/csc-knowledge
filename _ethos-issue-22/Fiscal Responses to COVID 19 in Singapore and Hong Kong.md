@@ -241,17 +241,17 @@ each eligible new local hire under the Jobs Growth Incentive.</p>
 <p>Singapore's measures in the job market remain ahead of other regional cities in supporting local workers most affected by COVID-19. It continues to provide enhanced upskilling and employment facilitation support, with a focus on moving workers into economic  
 activities expected to grow after the pandemic.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Singapore's measures in the  
 job market focus on moving  
 workers into economic  
 activities expected to grow  
 after the pandemic.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Support for the Less Privileged</h3>  
   
@@ -266,9 +266,9 @@ addition, the Singapore Government provided Meal Subsidies for Children, costing
 after accounting for government taxes and transfers.<sup><a href="#notes">14</a></sup></p>  
   
 <p>During the pandemic, Hong Kong enhanced benefits allocated for the less privileged. For example, the government offered an Extra Allowance for Social Security Recipients—HK$4.225 billion (S$725 million), and a Public Rental Units one-month waiver  
-amounting to HK$1.829 billion (S$313.7 million). Furthermore, the Hong Kong SAR government extended a Special Scheme of Assistance to the Unemployed under the CSSA Scheme for six months, from 1 December 2020 to 31 May 2021 \[HK$724 million (S$124.2  
-million)\].<sup><a href="#notes">15</a></sup> Short-term Food Assistance Service Projects for poor people \[HK$127 million (S$21.8 million)\] were added. The Hong Kong SAR government also provided assistance to families with schooling children. With pandemic restrictions obliging school-age  
-children to stay at home for online learning for an extended period, the government provided an Additional Student Study Grant for the 2019/20 school year \[HK$876 million (S$150.3 million) during the 1st round\] to defray education expenses.</p>  
+amounting to HK$1.829 billion (S$313.7 million). Furthermore, the Hong Kong SAR government extended a Special Scheme of Assistance to the Unemployed under the CSSA Scheme for six months, from 1 December 2020 to 31 May 2021 [HK$724 million (S$124.2  
+million)].<sup><a href="#notes">15</a></sup> Short-term Food Assistance Service Projects for poor people [HK$127 million (S$21.8 million)] were added. The Hong Kong SAR government also provided assistance to families with schooling children. With pandemic restrictions obliging school-age  
+children to stay at home for online learning for an extended period, the government provided an Additional Student Study Grant for the 2019/20 school year [HK$876 million (S$150.3 million) during the 1st round] to defray education expenses.</p>  
   
 <p>Such measures represented substantive efforts from both the Singapore and Hong Kong SAR governments to provide vital public goods and distribute resources to those who needed them most, reducing social distress.</p>  
   
@@ -285,13 +285,13 @@ and determined focus on the medium- to long-term advancement of Singapore’s di
 of Education brought forward its plans to deliver digital devices for all secondary school students, from the original target date of 2028 to 2021.<sup><a href="#notes">16</a></sup> Singapore’s Fortitude Budget also included incentives to help residents, particularly the elderly,  
 learn digital skills and acquire digital devices.<sup><a href="#notes">17</a></sup> Such measures were timely, given that the pandemic and healthcare precautions had prompted a shift from physical to digital services and transactions across many industries.</p>  
   
-<p>The Hong Kong SAR government also provided support for digital efforts, albeit at a smaller scale than Singapore’s initiatives. Support included a Subsidy for Encouraging Early Deployment of 5G \[HK$55 million (S$9.43 million) in the 2nd round\],  
-a Distance Business Programme \[HK$1.5 billion (S$273.3 million) in the 2nd round\] to support businesses adopting information technologies, and a COVID-19 Online Dispute Resolution Scheme to support online resolution of disputes \[HK$70 million (S$12.0  
-million) in the 2nd round\].</p>  
+<p>The Hong Kong SAR government also provided support for digital efforts, albeit at a smaller scale than Singapore’s initiatives. Support included a Subsidy for Encouraging Early Deployment of 5G [HK$55 million (S$9.43 million) in the 2nd round],  
+a Distance Business Programme [HK$1.5 billion (S$273.3 million) in the 2nd round\] to support businesses adopting information technologies, and a COVID-19 Online Dispute Resolution Scheme to support online resolution of disputes [HK$70 million (S$12.0  
+million) in the 2nd round].</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Both Hong Kong and  
 Singapore have been able  
 to make investments  
@@ -299,9 +299,9 @@ beyond the urgent needs of
 the pandemic, to be ready  
 for the future that might  
 emerge after the crisis.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Singapore and Hong Kong — Differences in Approach</h3>  
   
@@ -322,9 +322,9 @@ from June to August 2020.</p>
 training funds were offered irrespective of industry in order to facilitate demand-led reallocation. On the whole, Singapore has been able to provide more support in skills training and for the self-employed during this pandemic. It has expanded the  
 range of training and employment opportunities for workers by creating traineeships, apprenticeships and jobs.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 In contrast to Hong Kong’s  
 approach of micro-targeting  
 of subsidies and support,  
@@ -332,9 +332,9 @@ Singapore categorised industry
 clusters by need, defining  
 different tiers according to the  
 level of intervention required.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Conclusion</h3>  
   
