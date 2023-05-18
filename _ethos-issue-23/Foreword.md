@@ -168,9 +168,9 @@ of tomorrow, for generations to come.</p>
 forward to working with you on this  
 ongoing quest.</p>  
   
-  
-<p>Dean and CEO, Civil Service College  
-</p>
+<p>Ong Toon Hui</p>
+<strong><em>Dean and CEO, Civil Service College  
+</em></strong>
 
 
 
