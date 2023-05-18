@@ -277,7 +277,7 @@ practice at work.</p>
   
 <br>  
   
-<img title="Workplace Learning\_photo 2" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_23/Workplace_Learning_Fig1.jpg" alt="Workplace Learning\_photo 2">  
+<img title="Workplace Learning\_photo 2" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_23/Workplace_Learning_Photo2.jpg" alt="Workplace Learning\_photo 2">  
   
 <p style="text-align: center;" class="small-text">An MOU to harmonise OJT practices across  
 Institutes of Higher Learning was signed on 12 July 2019 by representatives of the five polytechnics  
