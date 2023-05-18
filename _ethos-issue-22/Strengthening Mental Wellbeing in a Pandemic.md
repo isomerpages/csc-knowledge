@@ -118,9 +118,9 @@ who reported a drop in household income experienced a decline in overall life sa
 in self-reported wellbeing of middle-aged and older Singaporeans. However, others who did not experience an income loss also reported lower life satisfaction. This suggests that anxiety and stress associated with a curtailment of movement and the  
 disruption to daily activities have also played a role. While the findings from this study may not be completely generalisable, they offer a timely and important evaluation of older Singaporeans’ wellbeing during the pandemic.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>While  
+<p class="break1">While  
 prolonged  
 national  
 lockdowns and  
@@ -132,9 +132,9 @@ can also lead to
 increased anxiety,  
 depression, and  
 stress.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Framing Mental Wellbeing: Five Priorities</h3>  
   
@@ -148,13 +148,13 @@ society that mirrors Singapore more closely, found <strong>family, finances,
 sense of self, lifestyle behaviours</strong> and  
 <strong>work-life</strong> to be the top five priorities for improving mental wellbeing (see Figure 3).</p>  
   
-<a href="../../images/default-source/ethos-images/ethos-issue-22/s-well\_fig-2.jpg?sfvrsn=eda72cd2\_2"><img title="S Well\_Fig 2" src="../../images/default-source/ethos-images/ethos-issue-22/s-well\_fig-2.jpg?sfvrsn=eda72cd2\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="S Well\_Fig 2"></a>  
+<img title="S Well\_Fig 2" src="/images/Ethos_Images/Ethos_Issue_22/S_Well_Fig2.jpg" alt="S Well\_Fig 2">  
   
 <p style="text-align: center;" class="small-text"><strong>Figure 2.</strong> Stanford WELL Flower, dimensions unweighted<sup><a href="#notes">11</a></sup><br>  
 Source: Stanford WELL for Life</p>  
   
-<a href="../../images/default-source/ethos-images/ethos-issue-22/s-well\_fig-3.jpg?sfvrsn=f9ea29c6\_2"><img title="S Well\_Fig 3" src="../../images/default-source/ethos-images/ethos-issue-22/s-well\_fig-3.jpg?sfvrsn=f9ea29c6\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="S Well\_Fig 3"></a>  
-page 57  
+<img title="S Well\_Fig 3" src="/images/Ethos_Images/Ethos_Issue_22/S_Well_Fig3.jpg" alt="S Well\_Fig 3">  
+
 <p style="text-align: center;" class="small-text"><strong>Figure 3.</strong> Stanford WELL Flower Taiwan, dimensions weighted<sup><a href="#notes">12</a></sup><br>  
 Source: Stanford WELL for Life</p>  
   
@@ -181,9 +181,9 @@ and devices among family members.
 struggling families, CapitaLand, under its philanthropic arm the CapitaLand Hope Foundation, launched a #MealOnMe initiative in partnership with the Food Bank.<sup><a href="#notes">18</a></sup> Great Eastern promoted and matched donations towards students and their families who had suffered income losses due to COVID-19. It also helped provide meals and access to medication for children  
 and seniors, and accommodation and essential assistance for homeless and displaced individuals and their families.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>When  
+<p class="break1">When  
 working  
 and schooling  
 from home were  
@@ -195,17 +195,17 @@ experienced a
 strain on their  
 shared home  
 spaces.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Community groups, such as Community Development Councils and Self-Help Groups, also extended support to individuals and families during the pandemic.<sup><a href="#notes">19</a></sup> Grants were set up to scale up local assistance schemes to vulnerable households.<sup><a href="#notes">20</a></sup> Community organisations joined to launch an online platform facilitating donations in support of their client groups. For instance, the Mind the Gap campaign had a goal of $50,000 to fund  
 the work of groups such as Daughters of Tomorrow, Association of Women for Action and Research (AWARE) and ReadAble, to name a few. This community support allowed immediate, direct intervention to needy families; this helped to reduce the stress on  
 familial relations and stave off financial despair.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>Community  
+<p class="break1">Community  
 support allowed  
 immediate, direct  
 intervention to needy  
@@ -213,9 +213,9 @@ families; this helped to
 reduce the stress on  
 familial relations and  
 stave off financial  
-despair.</em></h5>  
+despair.</p>  
   
-<hr>  
+</div>  
   
 <h3>Easing Finances</h3>  
   
@@ -229,9 +229,9 @@ one-time payments to those stricken with COVID-19, whether in or outside the lin
 <p>By offering material support in a variety of ways, such measures helped relieve the psychological distress of those whose economic situation had been adversely impacted by the pandemic. They also offered important reassurance that Singaporeans were not  
 being left to fend for themselves in a crisis.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>Although it  
+<p class="break1">Although it  
 started as a  
 healthcare crisis,  
 the COVID-19  
@@ -239,9 +239,9 @@ pandemic very
 quickly became a  
 job and livelihood  
 crisis.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Secure Sense of Self </h3>  
   
