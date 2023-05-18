@@ -246,24 +246,17 @@ its best to contain COVID-19, stabilise the economy, and ready ourselves for a v
   
 <p>While governments tackle the public health crisis and address the short-term economic and social issues, they will also need to prepare for the next phase of transformation. In Singapore, this means supporting businesses and workers not just through the pandemic but also in developing deep, future-ready capabilities for the post-COVID world to come. We will also need to strengthen our social compact both at a societal and community level to tackle the long-term impact of COVID-19. These long-term structural shifts might be challenging but will be essential for us to truly overcome and emerge stronger from this crisis of a generation.</p>  
   
-<hr>  
+<div class="author">  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>  
+<h6>ABOUT THE AUTHORS</h6>  
   
-<table style="border: none; background-color: transparent;">  
-<tbody>  
-<tr style="border: none;">  
-<td style="padding: 0; padding-right: 32px; border: none;">  
+
 <p class="small-text"><strong> Ong Toon Hui</strong> is Dean and CEO of the Civil Service College, Singapore. She is also Deputy Secretary (Leadership) at the Public Service Division, Singapore.</p>  
 <p class="small-text"><strong>Danny Quah</strong> is Dean and Li Ka Shing Professor in Economics at the Lee Kuan Yew School of Public Policy. His research interests include income inequality, economic growth, and international economic relations. </p>  
 <p>&nbsp;</p>  
-</td>  
-<td style="width: 120px; border: none;" class="desktop-only"></td>  
-</tr>  
-</tbody>  
-</table>  
+
   
-<hr>  
+</div>  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
   
