@@ -945,7 +945,7 @@ Service.</p>
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
   
 <ol>  
-<li class="small-text">M. Wheatley and D. Frieze, “Leadership in The Age of Complexity: From Hero to Host”, <em>Resurgence Magazine</em> (Winter, 2011), accessed March 5, 2018, <a href="https://margaretwheatley.com/library/articles/leadership-in-age-of-complexity/">www.margaretwheatley.com/library/articles/leadership-in-age-of-complexity</a>.</li>  
+<li class="small-text">M. Wheatley and D. Frieze, “Leadership in The Age of Complexity: From Hero to Host”, <em>Resurgence Magazine</em> (Winter, 2011), accessed March 5, 2018, <a target="_blank" href="https://margaretwheatley.com/library/articles/leadership-in-age-of-complexity/">www.margaretwheatley.com/library/articles/leadership-in-age-of-complexity</a>.</li>  
 <li class="small-text">C. Hendrikson, “Leadership in Complex Times”, in <em>The 2010 Pfeiffer Annual: Leadership Development</em>, eds. D. L. Dotlich, P. C. Cairo, S. P. Rhinesmith, and R. Meeks (San Francisco: John Wiley &amp; Sons, 2010), 254–267. </li>  
 <li class="small-text">S. Maitlis, “The Social Processes of Organisational Sensemaking”, <em>Academy of  
     Management Journal</em> 48 (2005): 21–49.</li>  
@@ -966,14 +966,14 @@ Service.</p>
     </li>  
 <li class="small-text">E. W. Khoo, “Leader Identity: Why It Matters and How to Develop It—A Paper for Leaders”, research report (Civil Service College, Singapore, 2019).</li>  
 <li class="small-text">D. V. Day, “The Difficulties of Learning from Experience and the Need for Deliberate Practice”, <em>Industrial and Organisational Psychology </em>3 (2010): 41–44.</li>  
-<li class="small-text">D. Day, J. Fleenor, L. Atwater, R. Sturm, and R. Mckee, “Advances in Leader and Leadership Development: A Review of 25 Years of Research and Theory”, <em>The Leadership Quarterly </em>25, no. 1 (2014): 63–82, accessed January 29, 2018, <a href="https://doi.org/10.1016/j.leaqua.2013.11.004">https://doi.org/10.1016/j.leaqua.2013.11.004</a>.</li>  
+<li class="small-text">D. Day, J. Fleenor, L. Atwater, R. Sturm, and R. Mckee, “Advances in Leader and Leadership Development: A Review of 25 Years of Research and Theory”, <em>The Leadership Quarterly </em>25, no. 1 (2014): 63–82, accessed January 29, 2018, <a target="_blank" href="https://doi.org/10.1016/j.leaqua.2013.11.004">https://doi.org/10.1016/j.leaqua.2013.11.004</a>.</li>  
 <li class="small-text">J. W. Gentry and A. C. Burns, “Do We Learn from Experience?” <em>Developments in Business Simulation and Experiential Exercises</em> 10 (1983): 139–142.</li>  
 <li class="small-text">E. Soyer and R. M. Hogarth, “Fooled by Experience”, <em>Harvard Business Review</em> (May 2015): 73–77. </li>  
 <li class="small-text">Different researchers have proposed different typologies and stages that describe how adults develop more complex and sophisticated ways of thinking as they mature (e.g., Cook-Greuter, 2004; Kegan, 1982; Rooke &amp; Torbert, 2005).</li>  
 <li class="small-text">R. G. Lord and R. J. Hall, “Identity, Deep Structure and the Development of Leadership Skill”, <em>Leadership Quarterly</em> 16 (2005): 591–615. </li>  
 <li class="small-text">E. W. Khoo, “Stewardship in the Context of Public Sector Leadership”, research report (Civil Service College, Singapore, 2015)</li>  
 <li class="small-text">E. W. Khoo, “Leadership in These Complex Times”, research report (Civil Service College, Singapore, 2018).</li>  
-<li class="small-text">HealthHub, “10 Essential Tips for Mental Well-being”, accessed August 18, 2021, <a href="https://www.healthhub.sg/live-healthy/1926/10-Essentials-for-Mental-Well-Being">https://www.healthhub.sg/live-healthy/1926/10-Essentials-for-Mental-Well-Being</a>.</li>  
+<li class="small-text">HealthHub, “10 Essential Tips for Mental Well-being”, accessed August 18, 2021, <a target="_blank" href="https://www.healthhub.sg/live-healthy/1926/10-Essentials-for-Mental-Well-Being">https://www.healthhub.sg/live-healthy/1926/10-Essentials-for-Mental-Well-Being</a>.</li>  
 <li class="small-text">M. C. Bligh, C. L. Pearce, and J. C. Kohles, “The Importance of Self- and Shared Leadership in Team Based Knowledge Work: A Meso-Level Model of Leadership Dynamics”, J<em>ournal  
     of Managerial Psychology</em> 21, no. 4 (2006): 296–318.  
     </li>  
