@@ -83,12 +83,12 @@ li {
   
 <p>As the COVID-19 outbreak gathered pace globally, it became evident that a much larger intervention would be needed to save businesses and jobs. Many countries across the developed world rushed to implement job protection schemes. Singapore introduced a supplementary budget, called the Resilience Budget, on 26 March 2020. JSS support was stepped up to 25%, 50% or 75% depending on sector, and the qualifying income ceiling raised from $3,600 to $4,600, approximately the median wage in Singapore.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>For ease and speed of implementation, support for firms was based on their sector rather than revenue or profit loss. This would also avoid penalising firms that were better able to respond  
-and adapt to changing market conditions. </em></h5>  
+<p class="break1">For ease and speed of implementation, support for firms was based on their sector rather than revenue or profit loss. This would also avoid penalising firms that were better able to respond  
+and adapt to changing market conditions. </p>  
   
-<hr>  
+</div>  
   
 <p>For ease and speed of implementation, JSS support for firms was based on their sector rather than revenue or profit loss. This would also avoid penalising firms that were better able to respond and adapt to changing market conditions. Firms in the most badly affected sectors (aviation and tourism) received 75% support; those moderately affected (food services) were given 50% support; firms in the remaining sectors had baseline support at 25% of wages. In recognition of the general disruption to business posed by the “Circuit Breaker”, JSS support was set at 75% for all firms for April and May 2020. The JSS was later extended to March 2021, albeit at lower rates of support, and then to September 2021 for firms in the worst-hit sectors. In total, more than $25 billion was committed to the JSS, supporting over 150,000 employers.</p>  
   
