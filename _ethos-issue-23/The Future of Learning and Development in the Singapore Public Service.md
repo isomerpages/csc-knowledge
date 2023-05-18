@@ -112,8 +112,8 @@ members organise its saleable resources.
 </p>  
   
 <p>The pandemic has further accelerated  
-this shift as organisations look to “\[using\]  
-fresh strategic framing and \[creating\]  
+this shift as organisations look to “[using]  
+fresh strategic framing and [creating]  
 organisational structures that promote  
 agility”, and “collaborating with...start-ups and...expertise around the world”  
 to survive and thrive in its aftermath.<sup><a href="#notes">2</a></sup>  
