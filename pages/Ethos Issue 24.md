@@ -146,7 +146,7 @@ margin-top:15px;
 </div>
  <br>	
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_24/Espoo_Banner_Teaser.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_Espoo.jpg"></div>
 	<div>
 		<div>
 		<h3>Sustainable Urban Development: Espoo, Finland</h3>
@@ -158,7 +158,7 @@ margin-top:15px;
 </div>
  <br>	
 <div class="grid-container">
-    <div><img src="/images/Ethos_Images/Ethos_Issue_24/La_Banner_Teaser.jpg"></div>
+    <div><img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_La.jpg"></div>
 <div>
 		<h3>Sustainability through Inclusive and Innovative Development: Los Angeles, United States</h3>
 		<b><i>Victoria Simon</i></b>
@@ -169,7 +169,7 @@ margin-top:15px;
 </div>
  <br>	
 <div class="grid-container">
-  <div><img src="/images/Ethos_Images/Ethos_Issue_24/City_Indices_Banner_Teaser.jpg"></div>
+  <div><img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_City_Indices.jpg"></div>
   <div class="content">
     <h3>Clarifying Complexity, Coordinating Change: The Value of City Indices</h3>
     <b><i>Milton Friesen</i></b>
@@ -179,7 +179,7 @@ margin-top:15px;
 </div>
  <br>	
 <div class="grid-container">
-  <div><img src="/images/Ethos_Images/Ethos_Issue_24/Data_Culture_Banner_Teaser.jpg"></div>
+  <div><img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_Data_Culture.jpg"></div>
   <div class="content">
     <h3>The City of the Future Needs a Data Culture that Sees the Visible and Invisible</h3>
     <b><i>Poon King Wang</i></b>
