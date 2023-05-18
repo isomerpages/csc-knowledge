@@ -368,54 +368,7 @@ ownership of WpL.</p>
   
   
   
-<div class="containerbox">  
-  
-  
-<h3 class="title">Nurturing Our Catalysts: A National Workplace Learning Framework</h3>  
-<p class="text">&nbsp;</p>  
-<p>To the end of creating more catalysts for change, NACE has collaborated with strategic  
-partners from the Trade Associations &amp; Chambers and unions such as Singapore National  
-Employers Federation, Specialists Trade Alliance of Singapore, National Trades Union  
-Congress (NTUC), and NTUC LearningHub to propagate the value and benefits of WpL to  
-employers and employees. They are the critical enablers to contextualising and growing  
-WpL in various domains.</p>  
-<p>To further support local organisations of private and public sectors in implementing a robust  
-WpL culture, NACE (led by NYP) developed a National Workplace Learning Framework,  
-which has since been adopted by SSG in January 2020.<sup>1</sup></p>  
-<p>The Framework marks a strategic movement to provide organisations with a holistic guide  
-to transition to WpL. It is a step-by-step map that organisations can use to plan, execute,  
-customise, and track their incremental milestones in WpL, and see that it is achievable. It  
-also establishes a common language across sectors to build a WpL ecosystem.</p>  
-<p>Organisations that want to embark on this transformation can use the six components of  
-the Framework to benchmark their WpL readiness.</p>  
-<p>We have empowered all NACE Centres to adopt this methodology and collectively help  
-organisations implement WpL.</p>  
-<p>Today, there is also a national-level certification that recognises organisations which have  
-developed a sustainable learning culture.<sup>2</sup> This initiative aims to forge a community of  
-WpL adopters for collective learning and enablers to create multiplier effects for shaping  
-a WpL culture and mindset in Singapore.</p>  
-<p style="text-align: left;">That said, the Framework and the certification are guides, developed to help organisations  
-visualise the WpL journey. At the end of the day, these tools are meant to help bridge the  
-distance between organisations and their employees.<br>  
-<br>  
-<br>  
-<img title="Workplace Learning\_Fig 1" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_23/Workplace_Learning_Fig1.jpg" alt="Workplace Learning\_Fig 1"></p>  
-<p style="text-align: center;" class="small-text"><strong>Figure 1.</strong> The National Workplace Learning Framework Retention of Talents, Growth of Company and Staff Competencies<br>  
-Source: Adapted from the New Quality of Work Initiative (INQA), Germany</p>  
-<hr>  
-<p><strong>Notes</strong></p>  
-<ol>  
-<li>The NWpL Framework provides a common language and guidelines for all sectors (private and public) in building  
-    the WpL ecosystem. On the same note, public sector can benchmark their WpL level/readiness using the same  
-    Framework. See https://www.nace.edu.sg/framework/national-workplace-learning-framework/.  
-    </li>  
-<li>Kok Yufeng, “New National Certification Scheme to Help Local Firms Close Workplace Learning Gaps”, The Straits Times, May 6, 2021, accessed July 16, 2021, https://www.straitstimes.com/singapore/new-national-certificationscheme-to-help-local-firms-close-workplace-learning-gaps.  
-    </li>  
-</ol>  
-  
-  
-  
-</div>  
+
   
   
   
@@ -501,9 +454,56 @@ gain strategic competitive advantage
 through WpL.</p>  
   
   
+  <div class="containerbox">  
+  
+  
+<h3 class="title">Nurturing Our Catalysts: A National Workplace Learning Framework</h3>  
+<p class="text">&nbsp;</p>  
+<p>To the end of creating more catalysts for change, NACE has collaborated with strategic  
+partners from the Trade Associations &amp; Chambers and unions such as Singapore National  
+Employers Federation, Specialists Trade Alliance of Singapore, National Trades Union  
+Congress (NTUC), and NTUC LearningHub to propagate the value and benefits of WpL to  
+employers and employees. They are the critical enablers to contextualising and growing  
+WpL in various domains.</p>  
+<p>To further support local organisations of private and public sectors in implementing a robust  
+WpL culture, NACE (led by NYP) developed a National Workplace Learning Framework,  
+which has since been adopted by SSG in January 2020.<sup>1</sup></p>  
+<p>The Framework marks a strategic movement to provide organisations with a holistic guide  
+to transition to WpL. It is a step-by-step map that organisations can use to plan, execute,  
+customise, and track their incremental milestones in WpL, and see that it is achievable. It  
+also establishes a common language across sectors to build a WpL ecosystem.</p>  
+<p>Organisations that want to embark on this transformation can use the six components of  
+the Framework to benchmark their WpL readiness.</p>  
+<p>We have empowered all NACE Centres to adopt this methodology and collectively help  
+organisations implement WpL.</p>  
+<p>Today, there is also a national-level certification that recognises organisations which have  
+developed a sustainable learning culture.<sup>2</sup> This initiative aims to forge a community of  
+WpL adopters for collective learning and enablers to create multiplier effects for shaping  
+a WpL culture and mindset in Singapore.</p>  
+<p style="text-align: left;">That said, the Framework and the certification are guides, developed to help organisations  
+visualise the WpL journey. At the end of the day, these tools are meant to help bridge the  
+distance between organisations and their employees.<br>  
+<br>  
+<br>  
+<img title="Workplace Learning\_Fig 1" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_23/Workplace_Learning_Fig1.jpg" alt="Workplace Learning\_Fig 1"></p>  
+<p style="text-align: center;" class="small-text"><strong>Figure 1.</strong> The National Workplace Learning Framework Retention of Talents, Growth of Company and Staff Competencies<br>  
+Source: Adapted from the New Quality of Work Initiative (INQA), Germany</p>  
+<hr>  
+<p><strong>Notes</strong></p>  
+<ol>  
+<li>The NWpL Framework provides a common language and guidelines for all sectors (private and public) in building  
+    the WpL ecosystem. On the same note, public sector can benchmark their WpL level/readiness using the same  
+    Framework. See https://www.nace.edu.sg/framework/national-workplace-learning-framework/.  
+    </li>  
+<li>Kok Yufeng, “New National Certification Scheme to Help Local Firms Close Workplace Learning Gaps”, The Straits Times, May 6, 2021, accessed July 16, 2021, https://www.straitstimes.com/singapore/new-national-certificationscheme-to-help-local-firms-close-workplace-learning-gaps.  
+    </li>  
+</ol>  
   
   
   
+</div>  
+  
+ 
   
 <div class="containerbox">  
   
