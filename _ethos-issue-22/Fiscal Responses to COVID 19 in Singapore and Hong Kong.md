@@ -60,9 +60,11 @@ font-family: Georgia;
 	
 	}	
 
-.containerbox strong {
+.containerbox strong , .containerbox h3{
 	color: #478ecc;
 	}	
+	
+
 	
 li {
 	font-size: 15px !important;
@@ -90,9 +92,9 @@ years have afforded them the resources needed to ameliorate the adverse economic
 <p>Singapore’s initial fiscal response to COVID-19 in 2020 involved multiple budgets amounting to more than 19% of Singapore’s 2019 Gross Domestic Product (GDP), and drawing on part of its national reserves. The Government of the Hong Kong Special  
 Administrative Region (HKSAR) also dipped into their reserves in order to mount their pandemic response, which came up to about 11% of 2019 GDP.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Both Hong Kong and  
 Singapore have been able  
 to make investments  
@@ -100,9 +102,9 @@ beyond the urgent needs of
 the pandemic, to be ready  
 for the future that might  
 emerge after the crisis.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Supply-Side and Demand-Side Priorities</h3>  
   
@@ -122,9 +124,9 @@ relationship between the “Go To Travel” domestic tourism campaign and their 
   
 <p>Singapore and Hong Kong have been able to commit resources to these different goals, prioritising economic stabilisation, while attending to both supply and demand concerns.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Public financing measures were  
 targeted at both aspects of the  
 ensuing economic shock: reducing  
@@ -132,9 +134,9 @@ the cost burden of operating
 businesses through “supply-side”  
 policies, and boosting consumption  
 through “demand-side” policies.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
   
   
@@ -144,7 +146,7 @@ and price stability.</p>
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Public Financing in a Crisis: Key Aims</h3>  
