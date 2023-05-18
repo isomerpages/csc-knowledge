@@ -317,7 +317,7 @@ its best to contain COVID-19, stabilise the economy, and ready ourselves for a v
   
 <br>  
   
-<a href="../../ethos.html">Back to ETHOS homepage</a>
+
 
 
 
