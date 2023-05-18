@@ -205,25 +205,17 @@ for the Household Support Package. At the same time, the Government has stepped 
   
 <p>Singapore has responded nimbly to secure jobs and livelihoods amid the COVID-19 pandemic. What lies ahead is the challenge of navigating towards sustainable recovery and a resilient future in a volatile, post-COVID world.</p>  
   
-<hr>  
+<div class="author">  
   
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHOR</p>  
+<h6>ABOUT THE AUTHOR</h6>  
   
-<table style="border:none;background-color:transparent;height:227px;">  
-<tbody>  
-<tr style="border:none;height:234px;">  
-<td style="padding:0;padding-right:32px;border:none;">  
 <p class="small-text"><strong>Terence Ho</strong> is an Associate Professor in Practice at the Lee Kuan Yew School of Public Policy (LKYSPP), National University of Singapore. Since 2002, Terence has served in various policy, research and leadership roles in the Singapore  
             Public Service, including positions in the Ministries of Trade and Industry, Education, Finance, and Manpower, as well as the South East Community Development Council. He is the author of <em>Refreshing the  
             Singapore System: Recalibrating Socio-Economic Policy for the 21st Century</em> (World Scientific, 2021).  
             </p>  
-</td>  
-<td style="width:120px;border:none;" class="desktop-only">&nbsp;</td>  
-</tr>  
-</tbody>  
-</table>  
+
   
-<hr>  
+</div>  
   
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTES</p>  
   
