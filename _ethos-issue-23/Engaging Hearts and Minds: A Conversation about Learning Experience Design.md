@@ -216,7 +216,7 @@ li {
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTE</p>  
   
 <ol>  
-<li class="small-text">INN x CSC is an innovation and experimental sandbox, located at Jurong Town Hall, where we create the space for officers to try new ideas and learning experiences in CSC. INN adopts a “Dream big, test early and fail fast” approach to create timely and improved solutions. See: <a href="../”https\_/www.csc.gov.sg/innxcsc”.html">https://www.csc.gov.sg/innxcsc</a></li>  
+<li class="small-text">INN x CSC is an innovation and experimental sandbox, located at Jurong Town Hall, where we create the space for officers to try new ideas and learning experiences in CSC. INN adopts a “Dream big, test early and fail fast” approach to create timely and improved solutions. See: <a target="_blank" href="https://www.csc.gov.sg/innxcsc">https://www.csc.gov.sg/innxcsc</a></li>  
 <br>  
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>  
 </ol>
