@@ -125,14 +125,7 @@ finds ways to access and unleash the
 collective intelligence and energies  
 that reside in their teams and networks.<sup><a href="#notes">2</a></sup></p>  
   
-<p>In order to play this role well, positional  
-leaders need to (i) sense-make and  
-sense-give in order to provide clarity  
-and direction, (ii) create the conditions  
-that enable innovative and adaptive  
-responses to emerge throughout the  
-organisation, and (iii) work well with  
-other leaders towards collective goals.</p>  
+
   
 <div class="break">  
   
@@ -225,7 +218,14 @@ and practice now reside at every level of an organisation.</p>
   
 </div>  
   
-  
+<p>In order to play this role well, positional  
+leaders need to (i) sense-make and  
+sense-give in order to provide clarity  
+and direction, (ii) create the conditions  
+that enable innovative and adaptive  
+responses to emerge throughout the  
+organisation, and (iii) work well with  
+other leaders towards collective goals.</p>   
   
   
   
