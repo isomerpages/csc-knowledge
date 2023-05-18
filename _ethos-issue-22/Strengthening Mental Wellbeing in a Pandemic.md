@@ -52,13 +52,17 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #d2c4b0;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+	
+.containerbox h3 {
+	color: #30338a;
+	}
+	
 li {
 	font-size: 15px !important;
 	
@@ -278,7 +282,7 @@ also help strengthen civic ties and camaraderie—imperative to building up a re
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Taking Care of Migrant Workers' Mental Wellbeing</h3>  
@@ -322,9 +326,9 @@ almost 90,000 employees.
 <p>Nevertheless, having had a taste of flexi-work arrangements since the pandemic, many Singaporeans now want better work-life balance in future, with a preference for work-from-home as the norm.  
 <sup><a href="#notes">34, 35</a></sup> For these Singaporeans, flexi-work arrangements offer a chance to meet both their work and personal demands on their own terms and in their own space,<sup><a href="#notes">36</a></sup> while affording more time with their families and other pursuits—all of which have benefits for mental wellbeing.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>Having had a  
+<p class="break1">Having had a  
 taste of flexi-work  
 arrangements since  
 the pandemic, many  
@@ -334,9 +338,9 @@ in future, with
 a preference for  
 work-from-home  
 as the norm.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Restoring and Strengthening Mental Wellbeing</h3>  
   
@@ -348,9 +352,9 @@ outbreak, particularly on the economic front. Nevertheless, these efforts may co
 <p>Providing support in areas that matter to individuals, with effective policies and actions paired with consistency and accuracy in messaging, is more likely to produce improved wellbeing. In this regard, Singapore’s relative effectiveness—in  
 containing the outbreak, in providing relief to vulnerable groups, and in ensuring that essential supplies are stockpiled and well distributed—does contribute to the public’s peace of mind and hence mental wellbeing.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>Providing  
+<p class="break1">Providing  
 support in areas  
 that matter to  
 individuals, with  
@@ -361,30 +365,22 @@ accuracy in messaging,
 is more likely to  
 produce improved  
 wellbeing.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>It is worth considering if more might be done to make mental wellbeing an explicit area of attention in a crisis, alongside economic and other concerns. Time will tell if enough was done to enable Singaporeans to emerge from this pandemic as a more resilient  
 people and more united citizens, standing firm in the knowledge that we look after each other in a crisis—not just materially but mentally as well.</p>  
   
-<hr>  
+<div class="author">  
   
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHOR</p>  
-  
-<table style="border:none;background-color:transparent;">  
-<tbody>  
-<tr style="border:none;">  
-<td style="padding:0;padding-right:32px;border:none;">  
+<h6>ABOUT THE AUTHOR</h6>  
+   
 <p class="small-text"><strong>Rianne Karthikayen</strong> is Researcher at the Institute of Governance and Policy, Civil Service College.  
             </p>  
-</td>  
-<td style="width:120px;border:none;" class="desktop-only">&nbsp;</td>  
-</tr>  
-</tbody>  
-</table>  
+
   
-<hr>  
+</div>  
   
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTES</p>  
   
