@@ -55,7 +55,7 @@ font-family: Georgia;
 	background-color: #e59228;
 	border-radius: 10px;
 	padding: 5%;
-	
+	margin-top: 5%
 	}	
 	
 .containerbox h3 {
@@ -503,7 +503,18 @@ Source: Adapted from the New Quality of Work Initiative (INQA), Germany</p>
   
 </div>  
   
- <p>One of the critical advantages of WpL is that it captures tacit knowledge within the organisation: valuable knowledge, skills and attitudes that might otherwise be lost.</p>
+<div class="break">  
+  
+<p class="break1">  
+One of the critical advantages of WpL  
+is that it captures tacit knowledge  
+within the organisation: valuable  
+knowledge, skills and attitudes that  
+might otherwise be lost.  
+</p>  
+  
+</div>  
+
   
 <div class="containerbox">  
   
@@ -562,17 +573,7 @@ their futures.</p>
 <p>It is a mutually reinforcing virtuous cycle,  
 to which everyone contributes, for the  
 gain of all.</p>  
-<div class="break">  
-  
-<p class="break1">  
-One of the critical advantages of WpL  
-is that it captures tacit knowledge  
-within the organisation: valuable  
-knowledge, skills and attitudes that  
-might otherwise be lost.  
-</p>  
-  
-</div>  
+
   
 	
 <div class="author">	
