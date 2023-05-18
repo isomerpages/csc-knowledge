@@ -81,18 +81,18 @@ within their community.<sup><a href="#notes">1</a></sup></p>
 potential shortage of essential goods, and restrictions on movement and social contact both within and across national borders. In Singapore, such stressors have led to behaviours such as panic buying at supermarkets, a rise in calls to suicide prevention  
 and crisis hotlines, and domestic abuse cases.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>Existing  
+<p class="break1">Existing  
 inequalities  
 can  
 compound  
 declining  
 levels of  
 wellbeing.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The 24/7 National Care Hotline, set up shortly after Singapore went into its Circuit Breaker lockdown in April 2020, received close to 28,000 calls within five months of its establishment. The Samaritans of Singapore similarly noted a 30% increase in  
 calls to its suicide prevention hotline during the Circuit Breaker.<sup><a href="#notes">2</a></sup> April 2020, specifically, saw a 42% increase in helpline calls, with callers sharing concerns around financial hardship, stress around the home environment, and anxiety from being separated  
@@ -108,8 +108,8 @@ and neighbours.</p>
 <p>While prolonged national lockdowns and social separation measures reduce the risk of viral transmission, they can also lead to increased anxiety, depression, and stress.<sup><a href="#notes">6, 7</a></sup> In April 2021, a <em>Straits  
 Times</em> survey, conducted one year after the Circuit Breaker, found that people are socialising less, their social circles have shrunk and their overall mental wellbeing has taken a hit.<sup><a href="#notes">8</a></sup></p>  
   
-<a href="../../images/default-source/ethos-images/ethos-issue-22/mental-wellbeing\_fig-1.jpg?sfvrsn=e7963a80\_2"><img title="Mental wellbeing\_Fig 1" src="../../images/default-source/ethos-images/ethos-issue-22/mental-wellbeing\_fig-1.jpg?sfvrsn=e7963a80\_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Mental wellbeing\_Fig 1"></a>  
-page 55  
+<img title="Mental wellbeing\_Fig 1" src="/images/Ethos_Images/Ethos_Issue_22/Mental_WellBeing_Fig1.jpg" alt="Mental wellbeing\_Fig 1">
+
 <p style="text-align: center;" class="small-text"><strong>Figure 1.</strong> Elder Singaporeans' Life Satisfaction over Time <br>  
 Source: T. Cheng, S. Kim, and K. Koh</p>  
   
