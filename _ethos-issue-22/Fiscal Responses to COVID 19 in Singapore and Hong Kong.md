@@ -53,12 +53,17 @@ font-family: Georgia;
 
 .containerbox {
 	background-color: #B7C9E2;
+	background-image: linear-gradient(to right , #25346b , #1b3f6f);
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
 
+.containerbox strong {
+	color: #478ecc;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
