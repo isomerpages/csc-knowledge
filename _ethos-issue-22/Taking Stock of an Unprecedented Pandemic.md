@@ -177,7 +177,7 @@ world fall into three broad classes: containment, health measures, and non-pharm
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">How Other Countries Have Responded to the Pandemic</h3>  
@@ -232,11 +232,11 @@ its best to contain COVID-19, stabilise the economy, and ready ourselves for a v
   
 <p>The war against the COVID-19 crisis continues. Many countries are hoping to start on the road to recovery in 2021, but this will likely be a long and hard journey. World Bank Group President David Malpass has cautioned that “while the global economy appears to have entered a subdued recovery, policymakers face formidable challenges—in public health, debt management, budget policies, central banking and structural reforms…there needs to be a major push to improve business environments, increase labor and product market flexibility, and strengthen transparency and governance.”<sup><a href="#notes">45</a></sup></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>While governments tackle the public health crisis and address the short-term economic and social issues, they will also need to prepare for the next phase of transformation.</em></h5>  
+<p class="break1">While governments tackle the public health crisis and address the short-term economic and social issues, they will also need to prepare for the next phase of transformation.</p>  
   
-<hr>  
+</div>  
   
 <p>Given the unprecedented nature and scale of the crisis, with many unknowns in play, it is hardly surprising if national governments and international institutions have made some policy missteps in the course of responding to the pandemic. In some sense, the best way forward has yet to be determined, although vaccines and improved international collaboration offer the prospect of a path towards eventual recovery.</p>  
   
