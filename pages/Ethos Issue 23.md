@@ -42,7 +42,7 @@ td
 #editorial,#section-1,#section-2,#section-3,#section-4, #section-5,#section-6,#section-7, #section-8
 {
 	margin-top:20px;
-	border-bottom: 0.5px solid black;
+	/* border-bottom: 0.5px solid black; */
 }
 
 .button1 a
