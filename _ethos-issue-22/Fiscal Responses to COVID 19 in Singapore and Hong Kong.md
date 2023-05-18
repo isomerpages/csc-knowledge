@@ -346,23 +346,15 @@ employees with the means to retrain to be more productive and more employable to
   
 <p>&nbsp;</p>  
   
-<hr>  
+<div class="author">  
   
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHOR</p>  
+<h6>ABOUT THE AUTHOR</h6>  
   
-<table style="border:none;background-color:transparent;">  
-<tbody>  
-<tr style="border:none;">  
-<td style="padding:0;padding-right:32px;border:none;">  
 <p class="small-text"><strong>Alfred M. Wu</strong> is Associate Professor/Assistant Dean at the Lee Kuan Yew School of Public Policy, National University of Singapore.  
             </p>  
-</td>  
-<td style="width:120px;border:none;" class="desktop-only">&nbsp;</td>  
-</tr>  
-</tbody>  
-</table>  
+
   
-<hr>  
+</div>  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text">APPENDIX: SOURCES FOR BUDGETS</p>  
   
