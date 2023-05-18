@@ -620,33 +620,33 @@ need to be worked through.</p>
   
 <ol>  
 <li class="small-text">GovTech Singapore, “Digital Government  
-    Blueprint”, accessed August 18, 2021, <a target="\_blank" href="https://www.tech.gov.sg/digital-government-blueprint/">https://www.tech.gov.sg/digital-government-blueprint/</a>.</li>  
+    Blueprint”, accessed August 18, 2021, <a target="_blank" href="https://www.tech.gov.sg/digital-government-blueprint/">https://www.tech.gov.sg/digital-government-blueprint/</a>.</li>  
 <li class="small-text">Smart Nation Singapore, “National AI Strategy: The Next Key Frontier of Singapore’s Smart Nation Journey”, accessed August 18, 2021,  
-    <a target="\_blank" href="https://www.smartnation.gov.sg/initiatives/artificial-intelligence">https://www.smartnation.gov.sg/why-Smart-Nation/NationalAIStrategy</a>.</li>  
+    <a target="_blank" href="https://www.smartnation.gov.sg/initiatives/artificial-intelligence">https://www.smartnation.gov.sg/why-Smart-Nation/NationalAIStrategy</a>.</li>  
 <li class="small-text">H. Bound, S. C. Tan, M. Y. Kan, and X. F. Bi, “Charting the Future of Adult Learning Research Agenda in Singapore: A Consultative Paper by the Subgroup on Innovative  
     Technologies for Adult Learning Research”, March 31, 2020, accessed August 18, 2021,  
-    <a target="\_blank" href="http://www.ial.edu.sg/content/dam/projects/tms/ial/Research-publications/future-of-adult-learning-research/ANNEX 3 - Innovative technologies for adult learning research.pdf">http://www.ial.edu.sg/content/dam/projects/tms/ial/Research-publications/future-of-adult-learning-research/ANNEX%203%20-%20Innovative%20technologies%20for%20adult%20learning%20research.pdf</a>.  
+    <a target="_blank" href="http://www.ial.edu.sg/content/dam/projects/tms/ial/Research-publications/future-of-adult-learning-research/ANNEX 3 - Innovative technologies for adult learning research.pdf">http://www.ial.edu.sg/content/dam/projects/tms/ial/Research-publications/future-of-adult-learning-research/ANNEX%203%20-%20Innovative%20technologies%20for%20adult%20learning%20research.pdf</a>.  
     </li>  
-<li class="small-text">D. Heaven, “Why Faces Don’t Always Tell the Truth About Feelings”, <em>Nature </em>578 (2020): 502-504, accessed August 18, 2021, <a target="\_blank" href="https://www.nature.com/articles/d41586-020-00507-5">https://www.nature.com/articles/d41586-020-00507-5</a>.</li>  
-<li class="small-text">MINDEF Singapore, “Fact Sheet: Murai Urban Live Firing Facility (MULFAC)”, August 14, 2014, accessed August 18, 2021, <a target="\_blank" href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/august/2014aug14-News-Releases-00058">https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/august/2014aug14-News-Releases-00058</a>. </li>  
-<li class="small-text">ST Engineering, “Advanced Driver Assistance Systems”, accessed August 18, 2021, <a target="\_blank" href="https://www.stengg.com/advanced-driver-assist-solutions">https://www.stengg.com/advanced-driver-assist-solutions</a>. </li>  
-<li class="small-text">Cengage, “The Benefits of Adaptive Learning Technology”, April 30, 2021, accessed August 18, 2021, <a target="\_blank" href="https://latam.cengage.com/the-benefits-of-adaptive-learning-technology/">https://latam.cengage.com/the-benefits-of-adaptive-learning-technology/</a>;  
+<li class="small-text">D. Heaven, “Why Faces Don’t Always Tell the Truth About Feelings”, <em>Nature </em>578 (2020): 502-504, accessed August 18, 2021, <a target="_blank" href="https://www.nature.com/articles/d41586-020-00507-5">https://www.nature.com/articles/d41586-020-00507-5</a>.</li>  
+<li class="small-text">MINDEF Singapore, “Fact Sheet: Murai Urban Live Firing Facility (MULFAC)”, August 14, 2014, accessed August 18, 2021, <a target="_blank" href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/august/2014aug14-News-Releases-00058">https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/august/2014aug14-News-Releases-00058</a>. </li>  
+<li class="small-text">ST Engineering, “Advanced Driver Assistance Systems”, accessed August 18, 2021, <a target="_blank" href="https://www.stengg.com/advanced-driver-assist-solutions">https://www.stengg.com/advanced-driver-assist-solutions</a>. </li>  
+<li class="small-text">Cengage, “The Benefits of Adaptive Learning Technology”, April 30, 2021, accessed August 18, 2021, <a target="_blank" href="https://latam.cengage.com/the-benefits-of-adaptive-learning-technology/">https://latam.cengage.com/the-benefits-of-adaptive-learning-technology/</a>;  
     Dorrit Billman and Evan Heit, “Observational Learning from Internal Feedback: A Simulation  
     of an Adaptive Learning Method”, <em>Cognitive Science</em> 12 (1988): 587–625, accessed August  
-    18, 2021, <a target="\_blank" href="https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1204\_4">https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1204\_4</a>; N. Sharma,  
+    18, 2021, <a target="_blank" href="https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1204\_4">https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1204\_4</a>; N. Sharma,  
     I. Doherty, and C. Dong, “Adaptive Learning in Medical Education: The Final Piece of  
     Technology Enhanced Learning?” <em>Ulster Med J.</em> 86, no. 3 (September 2017): 198-200, accessed  
-    August 18, 2021, <a target="\_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5849979/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5849979/</a>.  
+    August 18, 2021, <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5849979/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5849979/</a>.  
     </li>  
 <li class="small-text">Arthur C. Graesser, Xiangen Hu, Benjamin D. Nye, and Robert A. Sottilare, “Intelligent Tutoring Systems, Serious Games, and the Generalized Intelligent Framework for Tutoring  
     (GIFT)”, in <em>Using Games and Simulations for Teaching and Assessment</em>, eds. Harold F.  
     O'Neil, Eva L. Baker, and Ray S. Perez (New York: Routledge, 2016), accessed August  
-    18, 2021, <a target="\_blank" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781315817767-11/intelligent-tutoring-systems-serious-games-generalized-intelligent-framework-tutoring-gift-arthur-graesser-xiangen-hu-benjamin-nye-robert-sottilare">https://www.taylorfrancis.com/chapters/edit/10.4324/9781315817767-11/intelligent-tutoring-systems-serious-games-generalized-intelligent-framework-tutoring-gift-arthur-graesser-xiangen-hu-benjamin-nye-robert-sottilare</a>.</li>  
+    18, 2021, <a target="_blank" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781315817767-11/intelligent-tutoring-systems-serious-games-generalized-intelligent-framework-tutoring-gift-arthur-graesser-xiangen-hu-benjamin-nye-robert-sottilare">https://www.taylorfrancis.com/chapters/edit/10.4324/9781315817767-11/intelligent-tutoring-systems-serious-games-generalized-intelligent-framework-tutoring-gift-arthur-graesser-xiangen-hu-benjamin-nye-robert-sottilare</a>.</li>  
 <li class="small-text">Infocomm Media Development Authority (IMDA) and Personal Data Protection  
     Commission (PDPC), Model Artificial Intelligence Governance Framework Second  
-    Edition (2020), accessed August 18, 2021, <a target="\_blank" href="https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgmodelaigovframework2.pdf">https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgmodelaigovframework2.pdf</a>. </li>  
+    Edition (2020), accessed August 18, 2021, <a target="_blank" href="https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgmodelaigovframework2.pdf">https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgmodelaigovframework2.pdf</a>. </li>  
 <li class="small-text"> S. Begu, “Seniors Less Receptive to Telemedicine and Uncomfortable with AI  
-    Interpreting Medical Results: S’pore Survey”, <em>The Straits Times</em>, July 4, 2021, <a target="\_blank" href="https://www.straitstimes.com/singapore/health/seniors-less-receptive-to-telemedicine-and-uncomfortable-with-ai-interpreting">https://www.straitstimes.com/singapore/health/seniors-less-receptive-to-telemedicine-and-uncomfortable-with-ai-interpreting</a>.  
+    Interpreting Medical Results: S’pore Survey”, <em>The Straits Times</em>, July 4, 2021, <a target="_blank" href="https://www.straitstimes.com/singapore/health/seniors-less-receptive-to-telemedicine-and-uncomfortable-with-ai-interpreting">https://www.straitstimes.com/singapore/health/seniors-less-receptive-to-telemedicine-and-uncomfortable-with-ai-interpreting</a>.  
     </li>  
 </ol>  
   
