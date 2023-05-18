@@ -598,16 +598,16 @@ gain of all.</p>
 <ol>  
 <li class="small-text">Ministry of Trade and Industry, <em>Report of the  
     Committee on the Future Economy: Pioneers of the Next Generation</em>, February 2017, accessed  
-    July 16, 2021, <a href="https://www.mti.gov.sg/-/media/MTI/Resources/Publications/Report-of-the-Committee-on-the-Future-Economy/CFE\_Full-Report.pdf">https://www.mti.gov.sg/-/media/MTI/Resources/Publications/Report-of-the-Committee-on-the-Future-Economy/CFE\_Full-Report.pdf</a>.</li>  
+    July 16, 2021, <a target="_blank" href="https://www.mti.gov.sg/-/media/MTI/Resources/Publications/Report-of-the-Committee-on-the-Future-Economy/CFE\_Full-Report.pdf">https://www.mti.gov.sg/-/media/MTI/Resources/Publications/Report-of-the-Committee-on-the-Future-Economy/CFE\_Full-Report.pdf</a>.</li>  
 <li class="small-text">International Labour Organization, "Structured  
-    Workplace Learning: An Introduction" (draft, 2009), <a href="https://apskills.ilo.org/resources/intro-to-workplace-learning-david-lancaster-draft">https://apskills.ilo.org/resources/intro-to-workplace-learning-david-lancaster-draft</a>.</li>  
+    Workplace Learning: An Introduction" (draft, 2009), <a target="_blank" href="https://apskills.ilo.org/resources/intro-to-workplace-learning-david-lancaster-draft">https://apskills.ilo.org/resources/intro-to-workplace-learning-david-lancaster-draft</a>.</li>  
 <li class="small-text">Goh Yan Han, “Salary Not Main Driver of Job  
     Satisfaction for Singapore Workers”, <em>The Straits Times</em>, January 17, 2019, accessed  
-    July 10, 2021, <a href="https://www.straitstimes.com/singapore/salary-not-main-driver-of-job-satisfaction-for-spore-workers-report/">https://www.straitstimes.com/singapore/salary-not-main-driver-of-job-satisfaction-for-spore-workers-report/</a>.  
+    July 10, 2021, <a target="_blank" href="https://www.straitstimes.com/singapore/salary-not-main-driver-of-job-satisfaction-for-spore-workers-report/">https://www.straitstimes.com/singapore/salary-not-main-driver-of-job-satisfaction-for-spore-workers-report/</a>.  
     </li>  
 <li class="small-text">Randstad Singapore, “The 2020 COVID-19 Labour Pulse Survey”, August 12, 2020,  
-    accessed July 10, 2021, <a href="https://www.randstad.com.sg/hr-trends/talent-management/86-per-cent-motivated-to-upskill-and-re-skill-in-12-months/">https://www.randstad.com.sg/hr-trends/talent-management/86-per-cent-motivated-to-upskill-and-re-skill-in-12-months/</a>.</li>  
-<li class="small-text">Liz Fealy, “How Employers and Employees are Envisioning the Reimaged Workplace”, <em>EY</em>, April 22, 2021, accessed July 10, 2021, <a href="https://www.ey.com/en\_sg/workforce/how-employers-and-employees-are-envisioning-the-reimagined-workplace">https://www.ey.com/en\_sg/workforce/how-employers-and-employees-are-envisioning-the-reimagined-workplace</a>.</li>  
+    accessed July 10, 2021, <a target="_blank" href="https://www.randstad.com.sg/hr-trends/talent-management/86-per-cent-motivated-to-upskill-and-re-skill-in-12-months/">https://www.randstad.com.sg/hr-trends/talent-management/86-per-cent-motivated-to-upskill-and-re-skill-in-12-months/</a>.</li>  
+<li class="small-text">Liz Fealy, “How Employers and Employees are Envisioning the Reimaged Workplace”, <em>EY</em>, April 22, 2021, accessed July 10, 2021, <a target="_blank" href="https://www.ey.com/en\_sg/workforce/how-employers-and-employees-are-envisioning-the-reimagined-workplace">https://www.ey.com/en\_sg/workforce/how-employers-and-employees-are-envisioning-the-reimagined-workplace</a>.</li>  
 <li class="small-text">PwC, <em>PricewaterhouseCoopers (PwC) 24th Annual Global CEO Survey</em>, accessed July 10, 2021, <a target="_blank" href="https://www.pwc.com/cl/es/publicaciones/pwc-24th-global-ceo-survey.pdf">https://www.pwc.com/cl/es/publicaciones/pwc-24th-global-ceo-survey.pdf</a>.</li>  
 <li class="small-text">Ministry of Education, “Speech by Mr Lawrence  
     Wong, Minister for Education, at the Nus115 Distinguished Speaker Series—Shaping the  
