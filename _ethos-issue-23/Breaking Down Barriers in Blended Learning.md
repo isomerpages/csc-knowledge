@@ -760,12 +760,12 @@ interventions could make a difference.</p>
 <li class="small-text">Aurora Harley, “Prospect Theory and Loss Aversion: How Users Make Decisions”, <em>Nielsen Norman Group</em>, June 19, 2016, accessed September 21, 2021, <a href="https://www.nngroup.com/articles/prospect-theory/">https://www.nngroup.com/articles/prospect-theory/</a>.</li>  
 <li class="small-text">C. L. Lai and G. J. Hwang, “A Self-Regulated Flipped Classroom Approach to Improving Students' Learning Performance in a Mathematics Course”, <em>Computers and Education</em>  
     100 (2016): 126–140, <a href="https://doi.org/10.1016/j.compedu.2016.05.006">https://doi.org/10.1016/j.compedu.2016.05.006</a>.</li>  
-<li class="small-text">G. S. Mason, T. R. Shuman, and K. E. Cook, “Comparing the Effectiveness of an Inverted Classroom to a Traditional Classroom in an Upper-Division Engineering Course”, <em>IEEE Transactions on Education</em> 56, no. 4 (2013): 430–435, <a href="https://doi.org/10.1109/TE.2013.2249066">https://doi.org/10.1109/TE.2013.2249066</a>.  
+<li class="small-text">G. S. Mason, T. R. Shuman, and K. E. Cook, “Comparing the Effectiveness of an Inverted Classroom to a Traditional Classroom in an Upper-Division Engineering Course”, <em>IEEE Transactions on Education</em> 56, no. 4 (2013): 430–435, <a target="_blank" href="https://doi.org/10.1109/TE.2013.2249066">https://doi.org/10.1109/TE.2013.2249066</a>.  
     </li>  
 <li class="small-text">P. R. Pintrich, “The Role of Goal Orientation in  
     Self-Regulated Learning”, in Handbook of Self-Regulation, eds. M. Boekaerts, P. R. Pintrich, and  
     M. Zeidner (Academic Press, 2000), 451–502,  
-    <a href="https://doi.org/10.1016/B978-012109890-2/50043-3">https://doi.org/10.1016/B978-012109890-    2/50043-3</a>.  
+    <a target="_blank" href="https://doi.org/10.1016/B978-012109890-2/50043-3">https://doi.org/10.1016/B978-012109890-    2/50043-3</a>.  
     </li>  
 </ol>  
 
