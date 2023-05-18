@@ -750,16 +750,16 @@ interventions could make a difference.</p>
 <li class="small-text">95% of the respondents were Singapore public officers and 5% were overseas participants.</li>  
 <li class="small-text">This poll was set up on OPPi, a platform that uses Artificial Intelligence to analyse the results. OPPi uses machine learning and advanced statistical techniques to identify and cluster  
     opinion groups based on how similar or different respondents vote. More information on their  
-    methodology can be found on their website: <a href="https://www.oppi.live/faq">https://www.oppi.live/faq</a>.  
+    methodology can be found on their website: <a target="_blank" href="https://www.oppi.live/faq">https://www.oppi.live/faq</a>.  
     </li>  
-<li class="small-text">S. Michie, M. M. van Stralen, and R. West, “The Behaviour Change Wheel: A New Method for Characterising and Designing Behaviour Change Interventions”, <em>Implementation Science</em> 6, no. 42 (2011), <a href="https://doi.org/10.1186/1748-5908-6-42">https://doi.org/10.1186/1748-5908-6-42</a>.</li>  
-<li class="small-text">The Behavioural Insights Team, “Barrier Identification Tool”, <a href="https://www.bitbarriertool.com/">https://www.bitbarriertool.com</a>, n.d., accessed August 4, 2021.</li>  
+<li class="small-text">S. Michie, M. M. van Stralen, and R. West, “The Behaviour Change Wheel: A New Method for Characterising and Designing Behaviour Change Interventions”, <em>Implementation Science</em> 6, no. 42 (2011), <a target="_blank" href="https://doi.org/10.1186/1748-5908-6-42">https://doi.org/10.1186/1748-5908-6-42</a>.</li>  
+<li class="small-text">The Behavioural Insights Team, “Barrier Identification Tool”, <a target="_blank" href="https://www.bitbarriertool.com/">https://www.bitbarriertool.com</a>, n.d., accessed August 4, 2021.</li>  
 <li class="small-text">See Note 4.</li>  
-<li class="small-text">Y. Tu, and D. Soman, “The Categorization of Time and Its Impact on Task Initiation”, <em>Journal of Consumer Research</em> 41, no. 3 (2014): 810–822, <a href="https://doi.org/10.1086/677840">https://doi.org/10.1086/677840</a>.  
+<li class="small-text">Y. Tu, and D. Soman, “The Categorization of Time and Its Impact on Task Initiation”, <em>Journal of Consumer Research</em> 41, no. 3 (2014): 810–822, <a target="_blank" href="https://doi.org/10.1086/677840">https://doi.org/10.1086/677840</a>.  
     </li>  
-<li class="small-text">Aurora Harley, “Prospect Theory and Loss Aversion: How Users Make Decisions”, <em>Nielsen Norman Group</em>, June 19, 2016, accessed September 21, 2021, <a href="https://www.nngroup.com/articles/prospect-theory/">https://www.nngroup.com/articles/prospect-theory/</a>.</li>  
+<li class="small-text">Aurora Harley, “Prospect Theory and Loss Aversion: How Users Make Decisions”, <em>Nielsen Norman Group</em>, June 19, 2016, accessed September 21, 2021, <a target="_blank" href="https://www.nngroup.com/articles/prospect-theory/">https://www.nngroup.com/articles/prospect-theory/</a>.</li>  
 <li class="small-text">C. L. Lai and G. J. Hwang, “A Self-Regulated Flipped Classroom Approach to Improving Students' Learning Performance in a Mathematics Course”, <em>Computers and Education</em>  
-    100 (2016): 126–140, <a href="https://doi.org/10.1016/j.compedu.2016.05.006">https://doi.org/10.1016/j.compedu.2016.05.006</a>.</li>  
+    100 (2016): 126–140, <a target="_blank" href="https://doi.org/10.1016/j.compedu.2016.05.006">https://doi.org/10.1016/j.compedu.2016.05.006</a>.</li>  
 <li class="small-text">G. S. Mason, T. R. Shuman, and K. E. Cook, “Comparing the Effectiveness of an Inverted Classroom to a Traditional Classroom in an Upper-Division Engineering Course”, <em>IEEE Transactions on Education</em> 56, no. 4 (2013): 430–435, <a target="_blank" href="https://doi.org/10.1109/TE.2013.2249066">https://doi.org/10.1109/TE.2013.2249066</a>.  
     </li>  
 <li class="small-text">P. R. Pintrich, “The Role of Goal Orientation in  
