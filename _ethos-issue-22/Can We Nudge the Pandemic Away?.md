@@ -377,9 +377,8 @@ public, and avoid going out.</p>
 <li class="small-text">Cheryl Tan, <a target="_blank" href="https://www.straitstimes.com/singapore/spore-cant-rely-on-herd-immunity-will-use-vaccines-among-other-measures-gan-kim-yong">“S’pore Can’t Rely on Herd Immunity, Will Use Covid-19 Vaccines among Other Measures: Gan Kim Yong”</a>, <em>The Straits Times</em>, May 14, 2021, accessed May 24, 2021. </li>
 </ol>
 
-<br>
 
-<a href="../../'ethos'.html">Back to ETHOS homepage</a>
+
 
 
 
