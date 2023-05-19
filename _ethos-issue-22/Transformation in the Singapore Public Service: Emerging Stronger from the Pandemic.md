@@ -399,7 +399,7 @@ and then even better—as a system,
 and as individual public officers who
 make the system work.<sup><a href="#notes">20</a><br>
 <br>
-<img title="Transformation_IR quote 1" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-22/transformation_ir-quote-1.jpg?sfvrsn=2dd79448_2" data-displaymode="Original" alt="Transformation_IR quote 1">&nbsp;<br>
+<img title="Transformation_IR quote 1" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_22/Transformation_IR_Quote1.jpg" alt="Transformation_IR quote 1">&nbsp;<br>
 </sup></p>
 
 <p style="text-align: center;" class="small-text">– Indranee Rajah, Second Minister for Finance <br>
@@ -452,21 +452,21 @@ bands.<sup><a href="#notes">22 </a></sup>Such efforts have continued
 even as Singapore moved into later
 phases of safe reopening.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Adopting a growth and open mindset
 is not only about strengthening
 the Public Service, but also about
-empowering the people sector.</em></h5>
+empowering the people sector.</p>
 
-<hr>
+</div>
 
 <h3>Lesson 5: For Transformation To Be Sustainable,
 Empathy Is Needed To Understand Needs and To Stay Relevant</h3>
 
 <p style="text-align: center;">
-<a href="../../images/default-source/ethos-images/ethos-issue-22/transformation_ir-quote-2.jpg?sfvrsn=6753b46d_2"><img title="Transformation_IR quote 2" src="../../images/default-source/ethos-images/ethos-issue-22/transformation_ir-quote-2.jpg?sfvrsn=6753b46d_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Transformation_IR quote 2"></a><br>
+<img title="Transformation_IR quote 2" src="/images/Ethos_Images/Ethos_Issue_22/Transformation_IR_Quote2.jpg" alt="Transformation_IR quote 2"><br>
 <br>
 </p>
 
@@ -546,22 +546,22 @@ passions of this new generation—within
 and beyond the public sector—through
 active engagement and collaboration.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A group that the Singapore
 Public Service must quickly
 learn to empathise and
 partner with is the youth—the
 generation that has the greatest
-stake in the future.</em></h5>
+stake in the future.</p>
 
-<hr>
+</div>
 
 <h3>Conclusion: Emerging Stronger from COVID-19</h3>
 
 <p style="text-align: center;">
-<a href="../../images/default-source/ethos-images/ethos-issue-22/transformation_hsk-quote-2.jpg?sfvrsn=9373fe93_2"><img title="Transformation_HSK quote 2" src="../../images/default-source/ethos-images/ethos-issue-22/transformation_hsk-quote-2.jpg?sfvrsn=9373fe93_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Transformation_HSK quote 2"></a>&nbsp;</p>
+<img title="Transformation_HSK quote 2" src="/images/Ethos_Images/Ethos_Issue_22/Transformation_HSK_Quote2.jpg" alt="Transformation_HSK quote 2">&nbsp;</p>
 
 <p style="text-align: right;" class="small-text">– Heng Swee Keat, Deputy Prime Minister<sup><a href="#notes">27</a></sup></p>
 
@@ -627,14 +627,11 @@ continue to partner citizens in co-creation
 and provide more opportunities for all
 to care for one another.</p>
 
-<hr>
+<div class="author">
 
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHORS</p>
+<h6>ABOUT THE AUTHORS</h6>
 
-<table style="border:none;background-color:transparent;">
-<tbody>
-<tr style="border:none;">
-<td style="padding:0;padding-right:32px;border:none;">
+
 <p class="small-text"><strong>Ang Hak Seng</strong>
             is the Deputy
             Secretary of the Ministry of Culture,
@@ -677,13 +674,9 @@ to care for one another.</p>
             facilitator in CSC’s leadership
             milestone programmes and other
             citizen engagement initiatives.</p>
-</td>
-<td style="width:120px;border:none;" class="desktop-only">&nbsp;</td>
-</tr>
-</tbody>
-</table>
 
-<hr>
+
+</div>
 
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTES</p>
 
