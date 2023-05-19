@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 22, June 2021</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_22/print22-07.jpg">
 
 
 
