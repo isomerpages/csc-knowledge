@@ -52,11 +52,14 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #1b2e58;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
+	}	
+.containerbox h3 {
+	color: white;
 	}	
 
 li {
@@ -120,14 +123,14 @@ li {
 <p>MCI has also customised communications to engage different audience segments about COVID-19 developments. Messages encouraging good hygiene practices and socially responsible behaviour were aired in English, Chinese, Malay and Tamil. MCI commissioned vernacular programmes, broadcast across FTA TV and radio channels, featuring home-based activities and exercise segments to encourage seniors to keep active and healthy.<sup><a href="#notes">9</a></sup></p>
 <p>MCI also engaged local content creators and artistes to create short-form content in different languages, combining important health messages with humour. The “Comedians Get Serious” video series featured four well- known local comedians encouraging the public to practice good personal hygiene in a light-hearted and entertaining way.<sup><a href="#notes">10</a></sup> A RySense study found 70% of Singaporeans polled agreed that employing humour in public campaigns was good “as these helped keep spirits up during a pandemic”.<sup><a href="#notes">11</a></sup></p>
 </td>
-<td style="width: 228px; border: none;"><img width="228" src="../../images/default-source/ethos-images/ethos-issue-22/public-comms_image-2.jpg" height="390" alt="Public Comms_Image 2">
+<td style="width: 228px; border: none;"><img width="228" src="/images/Ethos_Images/Ethos_Issue_22/Public_Comms_Image2.jpg" height="390" alt="Public Comms_Image 2">
 <p style="text-align: right;" class="small-text">Image credit: Gov.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<h2>Key Principle 2: Information must be credible</h2>
+<h3>Key Principle 2: Information must be credible</h3>
 
 <p>Good public communications are credible and transparent. This means that any information presented must be clear, accurate and backed up by data or science. The messenger is as important as the message. How, when and what information is presented also affects audience perceptions—whether the information is trustworthy and worth complying with.</p>
 
@@ -163,7 +166,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title"> To Mask or not to Mask?</h3>
@@ -188,7 +191,7 @@ li {
 
 
 
-<h2>Key Principle 3: Information must be timely and relevant</h2>
+<h3>Key Principle 3: Information must be timely and relevant</h3>
 
 <p>Critic al information should be disseminated in a timely a n d relevant way. If information is delayed and citizens are made aware of developments through other sources, authorities may be seen to be withholding information.<sup><a href="#notes">20</a></sup> The absence of updated news could also lead to speculation and unnecessary fear. Messages should also be framed in a way that is relevant to the target audience. This means governments should have an ear to the ground in framing messages that elicit the desired actions.</p>
 
@@ -208,7 +211,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Striking the Right Tone</h3>
@@ -224,7 +227,7 @@ li {
 
 
 
-<h2>Beyond Information to Inspiration</h2>
+<h3>Beyond Information to Inspiration</h3>
 
 <p>In a crisis, public communications must go beyond conveying information. On the right occasion, they can also offer encouragement, lift the national spirit and inspire hope.</p>
 
@@ -234,7 +237,7 @@ li {
 
 <p>A 15-minute segment, paying tribute to frontline workers and featuring individuals impacted by the COVID-19 pandemic, was also launched on national TV on 1 June 2020, when the Circuit Breaker ended. These campaigns helped boost morale amid a trying period of the crisis.</p>
 
-<h1>Galvanising the Public to Tackle the Pandemic</h1>
+<h3>Galvanising the Public to Tackle the Pandemic</h3>
 
 <p>Effective public communications are only one aspect of cultivating public trust. The burden of tackling the pandemic is not limited to governments or healthcare workers and requires broader community involvement.<sup><a href="#notes">26</a></sup></p>
 
@@ -244,17 +247,17 @@ li {
 
 <p>Citizen engagement offers a platform and voice to citizens to contribute to public decision-making and implementation. Depending on the mode of engagement, the level of citizen participation may differ, with co-delivery and co-creation entailing deeper engagement and involvement by citizens.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>A government and its public build up mutual trust by cooperating on initiatives for the common good. </em></h5>
+<p class="break1">A government and its public build up mutual trust by cooperating on initiatives for the common good. </p>
 
-<hr>
+</div>
 
 <p>During a pandemic, how governments engage citizens may take a different form, but the underlying principles remain unchanged. Expectations should be articulated clearly and early to avoid misconceptions. Engagement that is perceived to be merely a “paper exercise” risks undermining public trust and confidence. This is especially salient in an environment where access to information is vast and easy, citizens are more discerning, and expectations of the government are high.<sup><a href="#notes">29</a></sup> Good citizen engagement is intentional, people-centric, collaborative, transparent and inclusive.<sup><a href="#notes">30</a></sup></p>
 
 <p>This is similar to what some Public Health researchers from the Dialogue, Evidence, Participation and Translation for Health (DEPTH) research group at the London School of Hygiene &amp; Tropical Medicine have outlined in their four steps<sup><a href="#notes">31</a></sup> for developing effective citizen participation in response to COVID-19:</p>
 
-<h2>1. Invest in co-production</h2>
+<h3>1. Invest in co-production</h3>
 
 <p>The DEPTH research group recommends that governments dedicate specific space, resources and manpower to coordinate community participation.<sup><a href="#notes">32</a></sup> Providing space (whether virtual or physical) and information on relevant networks, agencies and available funding sends the signal that governments are willing to support ground-up initiatives in a concrete way.</p>
 
@@ -264,13 +267,13 @@ li {
 
 <p>One such initiative is Welcome In My Backyard, a campaign led by a group of volunteers seeking to encourage Singaporeans to be more accepting of migrant workers, after it was announced that healthy workers would be relocated to housing estates to stave off the spread of COVID-19. Comprising local ambassadors who live in estates that would house the workers, the volunteers seek to debunk stereotypes of the workers.<sup><a href="#notes">34</a></sup></p>
 
-<h2>2. Work with community groups</h2>
+<h3>2. Work with community groups</h3>
 
 <p>Community groups can play a pivotal role in citizen engagement. Their on-the-ground expertise and networks provide insight into the immediate needs and challenges of those affected by the pandemic. They are well-placed to raise awareness and mobilise the community in ways governments may not be able to do as quickly in a pandemic.</p>
 
 <p>The SGUnited Buka Puasa initiative is a multi-partner collaboration between the Islamic Religious Council of Singapore (MUIS), local mosques, the Rahmatan Lil Alamin Foundation, the People’s Association, Roses of Peace and the Singapore Malay Chamber of Commerce and Industry.<sup><a href="#notes">35</a></sup> The project aimed to deliver 20,000 meals a day during Ramadan to frontline healthcare workers and their families, zakat beneficiaries of MUIS, and other families who needed the meals. By early May 2020, the project had managed to raise close to S$2.6 million in funds, including through community donations.<sup><a href="#notes">36</a></sup> These joint collaborations not only bolster public trust, but also strengthen mutual trust within the community.</p>
 
-<h2>3. Commit to diversity</h2>
+<h3>3. Commit to diversity</h3>
 
 <p>Citizen engagement can be an important channel for different experiences to be shared with policymakers and to co-create solutions, provided engagement modes are accessible to and intentionally inclusive of different segments of society.<sup><a href="#notes">37</a></sup> The effects of the pandemic are not felt equally across different segments of society. Low-income individuals are disproportionately affected by the economic downturn. People with disabilities may face difficulties with certain safe management measures that others may not.</p>
 
@@ -278,7 +281,7 @@ li {
 
 <p>In Singapore, the Emerging Stronger Conversations (ESC), initiated in June 2020, has brought together citizens in virtual Zoom sessions to reflect on the impact of the pandemic, raise issues and propose ideas. The Government has committed to developing partnerships through the Singapore Together Alliances for Action to tackle prominent themes raised, translating the conversations into concrete actions.<sup><a href="#notes">38</a></sup> To ensure greater accessibility, ESC sessions have been held in Mandarin, Malay and Tamil, in addition to English.<sup><a href="#notes">39</a></sup> As part of the ESC, some 120 members in the disability community also gathered to share with political office holders their experience during COVID-19.<sup><a href="#notes">40</a></sup></p>
 
-<h2>4. Be responsive and transparent</h2>
+<h3>4. Be responsive and transparent</h3>
 
 <p>Being responsive and transparent is not only important during citizen engagement, but after as well. Leaving citizens high and dry after engagement activities are over can be detrimental to public trust: engagement can seem merely transactional or superficial.</p>
 
@@ -286,17 +289,17 @@ li {
 
 <p>There is often a time lag between engagement and the tangible implementation of solutions. In the interim, it is important to keep the process open and transparent, ensuring that citizen participants are made aware that their contributions have been heard; they may also want to know how their feedback may feed into a specific policy. As not all ideas may be incorporated, governments should manage expectations by explaining the rationale behind their decisions. Doing so provides assurance to citizens that their participation is valued and valuable.</p>
 
-<h1>Building Trust in Government after the Pandemic</h1>
+<h3>Building Trust in Government after the Pandemic</h3>
 
 <p>Trust and engagement enjoy an interdependent relationship.<a href="#notes"><sup>43</sup></a> Citizen engagement is a useful means to understanding the needs of citizens and fostering confidence in government. Conversely, the success of citizen engagement in a crisis also relies on existing public trust built in quieter times.</p>
 
 <p>The COVID-19 pandemic has underscored the importance of cultivating relationships and growing community capacity during peacetime. The groundswell of community action was possible due to the strong partnerships and mutual trust between community partners and the public sector, which had been built over a long period of time.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>Ensuring that communications and engagement are inclusive, accessible and meaningful goes a long way in maintaining public trust. </em></h5>
+<p class="break1">Ensuring that communications and engagement are inclusive, accessible and meaningful goes a long way in maintaining public trust. </p>
 
-<hr>
+</div>
 
 <p>Singapore has continued to see high levels of trust in government, evidenced by the findings in the recent Edelman Trust Barometer 2020 report.<a href="#notes"><sup>44</sup></a> However, it is important that trust-building continues.</p>
 
@@ -306,21 +309,14 @@ li {
 
 <p>Ensuring that communications and engagement are inclusive, accessible and meaningful goes a long way in maintaining public trust. Offering Singaporeans opportunities to contribute, help one another and share personal stories can help our people to feel more rooted and nurture greater national solidarity. Ensuring citizens feel heard and have a sense of ownership in shaping the future can strengthen the government-citizen and citizen-citizen relationships for the long term. Such relationships, founded on hard-earned trust, will be vital as we navigate the uncertainties of the future.</p>
 
-<hr>
+<div class="author">
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>
+<h6>ABOUT THE AUTHOR</h6>
 
-<table style="border: none; background-color: transparent;">
-<tbody>
-<tr style="border: none;">
-<td style="padding: 0; padding-right: 32px; border: none;">
 <p class="small-text"><strong>Heather Humphries</strong> is Associate Researcher at the Institute of Governance and Policy, Civil Service College. Her research interests include public trust, public communications and engagement. </p>
-</td>
-</tr>
-</tbody>
-</table>
 
-<hr>
+
+</div>
 
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>
 
@@ -372,15 +368,6 @@ li {
 <li class="small-text">Shefali Rekhi, <a target="_blank" href="https://www.straitstimes.com/asia/trust-in-singapore-government-up-edelman-poll"> “Trust in Singapore Government up: Edelman Poll”</a>, <em>The Straits Times</em>, June 22, 2020, accessed October 19, 2020. </li>
 <li class="small-text">See Note 43. </li>
 </ol>
-
-<br>
-
-<a href="../../ethos.html">Back to ETHOS homepage</a>
-
-
-
-
-
 
 
 <br>
