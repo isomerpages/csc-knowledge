@@ -93,14 +93,14 @@ the top few in per capita deaths.</p>
 January 2021, has pledged to jettison the unilateral “America first” policies of the Trump administration, and to return to the more multilateral approach of previous administrations. The US has rejoined the Paris climate accord and the
 World Health Organization (WHO), and is reviving its participation in the Iran nuclear deal (complicated by the recent assassination of Iranian nuclear scientist Mohsen Fakhrizadeh), while adopting a less protectionist approach to trade. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>The Asian international system has two superpowers whose
+<p class="break1">The Asian international system has two superpowers whose
 comprehensive power are way ahead of those below them. In
 such a system, strategic rivalry is the dominant dynamic.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The Biden administration, however, will also have China in its crosshairs. On the one hand, the Biden team will give human rights and democracy a much more prominent spot in their foreign policy agenda. China is coming under greater pressure for its policies
 on Xinjiang, Hong Kong, and Taiwan. More crucially, there is now a consensus in the US foreign policy establishment that China needs to be constrained or contained. China is closing in on the US in terms of its comprehensive power. The Lowy Institute’s
@@ -119,17 +119,17 @@ in Korea and Vietnam. The latter Asian land wars cost the US over 100,000 battle
 such events. The US did so with the AIDs/HIV epidemic, the 2004 tsunami, the 2008 financial crisis, and the 2014 Ebola epidemic. The Trump administration’s decision not to assume a national and global leadership role in confronting the COVID-19
 crisis—with devastating consequences for the US itself—raises questions about US will.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>Trump may be gone,
+<p class="break1">Trump may be gone,
 but Trumpism is not.
 America’s allies and
 partners will have to
 factor this into their
 dealings with the US.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>More important than the will to lead globally is the ability to lead domestically. America today is so ideologically fragmented, politically disunited, and dysfunctional that mask-wearing during the COVID-19 pandemic became a heated political issue. Republicans
 and Democrats view each other as sworn enemies; the Trump administration renounced national leadership on confronting the pandemic, “devolving” responsibility to the state governors. As the world watched in horror at the rising number
@@ -149,16 +149,16 @@ with the erstwhile hegemon. The fact remains that 74 million Americans wanted an
 disunity and acrimony of the last four years. Trump may be gone, but Trumpism is not; it will be sticking around, hobbling the Biden administration’s domestic and foreign policies, and introducing a new factor into the future calculations of
 America’s interlocutors in their strategic interactions with the US.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>The consensus about America’s role in
+<p class="break1">The consensus about America’s role in
 upholding the liberal international order has
 been shattered: without such a consensus, it
 is hard to have a coherent foreign policy and
 sustain it over time.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>This new factor will be especially salient in the medium (after 2024) to long term (around 2030). America’s allies and partners will have to factor this Trumpism in their dealings with the US. Many hoped and assumed that Trump’s “America
 first” foreign policy was an aberration, and that US abdication of its global leadership in the last four years was a one-off. The question is: will the next Republican President—the inheritor of Trump’s base, take off where Trump
@@ -180,17 +180,17 @@ signing on to the AIIB and BRI—the Obama administration’s displeasure with B
 the UK joined, it opened the floodgates for the rest of the European Union to sign on to the AIIB. For now, the AIIB’s lending standards are like those of existing financial institutions such as the Asian Development Bank and World Bank, but
 that should not obscure the point that it is a China-led regional economic institution.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>As the strategic
+<p class="break1">As the strategic
 rivalry intensifies,
 each superpower will
 put pressure on the
 region’s key players
 to align with it.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Welcoming the Obama pivot to Asia and the Trans-Pacific Partnership similarly advanced Singapore’s strategic-economic interests while reiterating Singapore’s belief in the helpful role of America’s forward military and economic presence
 in maintaining peace and stability in Asia. Yet there are signs that the two superpowers are getting impatient with such nuanced approaches to hedging. Speaking at the launch of a photo book celebrating 30 years of Singapore-China diplomatic relations,
@@ -208,16 +208,16 @@ rest of the world, Singapore included, was content with a WHO-based inquiry afte
 This hit a nerve in China; together with Australia’s earlier decision to cut out Huawei from its 5G infrastructure, this has led to a serious deterioration in China-Australia relations, with significant economic costs for the barley, copper,
 and most recently, wine sectors in Australia.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>If our choices repeatedly
+<p class="break1">If our choices repeatedly
 seem to favour one
 side, then we may
 have actually ended up
 choosing a side.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The point is that such choices will present themselves more frequently in the years to come as the rivalry between the two superpowers goes into high gear. The recent signing of RCEP, the largest trading bloc in the world that includes China but not the
 US, suggests to some that it is yet another sign of the ASEAN countries being drawn increasingly closer to China’s economic orbit. It is a truism that when presented with such choices, Singapore and its neighbours will choose on the basis of
@@ -240,25 +240,17 @@ approach are not aberrations; (3) Singapore and its neighbours should expect inc
 of the issue or case, it is probably wise to approach such choices with some conception of an overall strategy, lest, through a series of discrete choices, one inadvertently ends up choosing one side over the other.
 </p>
 
-<hr>
+<div class="author">
 
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHOR</p>
+<h6>ABOUT THE AUTHOR</h6>
 
-<table style="border:none;background-color:transparent;">
-<tbody>
-<tr style="border:none;">
-<td style="padding:0;padding-right:32px;border:none;">
 <p class="small-text"><strong>Khong Yuen Foong</strong> is Vice Dean (Research and Development) and Li Ka Shing Professor of Political Science at the Lee Kuan Yew School of Public Policy (LKYSPP), National University of Singapore. Prior to joining the LKYSPP in 2015,
             he was Professor of International Relations and a Professorial Fellow of Nuffield College, Oxford University. His research interests include United States foreign policy, the international relations of the Asia Pacific, and cognitive
             approaches to international relations. His publications include <em>Analogies at War: Korea, Munich, Dien Bien Phu,</em> <em>and the</em> <em>Vietnam Decisions of 1965 (1992, 2006)</em>, “The US, China, and the Cold War Analogy”, <em>China International
             Strategy Review</em> (December 2019), and “Power as Prestige in World Politics”, <em>International Affairs </em>(January 2019).</p>
-</td>
-<td style="width:120px;border:none;" class="desktop-only">&nbsp;</td>
-</tr>
-</tbody>
-</table>
 
-<hr>
+
+</div>
 
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTES</p>
 
