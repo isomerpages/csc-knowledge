@@ -255,22 +255,15 @@ li {
 <p class="break1">Better data governance could foster participation. Compromises on voluntary participation should be accompanied by stronger protections for privacy trade-offs.</p>
 
 </div>
+<div class="author">
+	
+<h6>ABOUT THE AUTHOR</h6>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>
 
-<table style="border: none; background-color: transparent;">
-<tbody>
-<tr style="border: none;">
-<td style="padding: 0; padding-right: 32px; border: none;">
 <p class="small-text"><strong>Vernie Oliveiro</strong> is Principal Researcher at the Institute of
             Governance and Policy, Civil Service College. Her research interests include governance and digital government.</p>
-</td>
-<td style="width: 120px; border: none;" class="desktop-only"></td>
-</tr>
-</tbody>
-</table>
 
-<hr>
+</div>
 
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>
 
