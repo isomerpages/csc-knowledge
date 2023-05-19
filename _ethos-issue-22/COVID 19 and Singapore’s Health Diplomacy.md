@@ -130,9 +130,9 @@ regional demands.<sup><a href="#notes">7</a></sup>
 “test-kit diplomacy”.<sup><a href="#notes">8</a></sup> While Singapore, recognising its own vulnerabilities as a small island state, is reliant on and advocates multilateral cooperation, it is in turn also ready
 to share its homegrown technological know-how for a good global cause. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>By facilitating
+<p class="break1">By facilitating
 the global fight
 to detect, treat and
 protect against the virus,
@@ -141,9 +141,9 @@ protect its own population
 and accelerate an
 eventual return to
 normalcy.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Accurate and rapid detection of the virus helps everyone: by facilitating the global fight to detect, treat and protect against the virus, Singapore also serves to protect its own population and accelerate an eventual return to the normalcy of open borders
 and trade that it thrives upon. Notably, Temasek Foundation, the philanthropic arm of Temasek, one of Singapore’s two sovereign wealth funds, has earmarked S$800 million (US$563 million) for COVID-19 response, with at least S$250 million of
@@ -218,9 +218,9 @@ contributions in full.<sup><a href="#notes">29</a></sup>
 2020–2021)— and more than doubled its voluntary contributions from US$548,000 in 2014 to US$1.125 million in 2020—to support WHO health emergencies programmes and help strengthen its capacities in the Southeast Asia region.<sup><a href="#notes">30</a></sup> In March 2020, Singapore announced a contribution of US$500,000 to the WHO’s Strategic Preparedness and Response Plan for COVID-19 response.<sup><a href="#notes">31, 32</a></sup> This is beyond its assessed and specified
 voluntary contributions to the WHO, which amount to US$ 6.538 million for 2020-2021.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>No one country
+<p class="break1">No one country
 can be said to have
 conquered the outbreak;
 it is only through
@@ -228,9 +228,9 @@ solidarity in global action
 that the virus and its
 impacts might be
 overcome.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>As one of very few high-income small states that can make a contribution on international platforms through global health and science diplomacy, Singapore was one of the early supporters of the Access to COVID-19 Tools (ACT) Accelerator and the COVID-19
 Vaccines Global Access (COVAX) Facility.<sup><a href="#notes">33</a></sup> It also co-chairs, with Switzerland, the Friends of the COVAX Facility network of supporting countries.<sup><a href="#notes">34</a></sup> In December 2020, Singapore committed to contributing US$5 million to the COVAX Advance Market Commitment mechanism, to help 92 low- and lower-middle-income countries including six ASEAN member
@@ -242,18 +242,18 @@ Global Outbreak Alert and Response Network (GOARN). Medical and public instituti
 battling the infodemic that has spread with COVID-19.<sup><a href="#notes">36</a></sup>
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>The pandemic
+<p class="break1">The pandemic
 could prompt
 governments to
 reflect on the need
 to incorporate a
 health-in-all-policies
 approach.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Singapore has also shown solidarity with the international scientific community, by implementing pandemic response measures based on the scientific data it has contributed to building up.</p>
 
@@ -282,9 +282,9 @@ Zealand and Qatar have dedicated aid agencies (New Zealand Aid and Qatar Fund fo
 comparable to developed countries with a vast network of distribution hubs for international health assistance. Singapore’s test-kit diplomacy, for example, was done through a whole-of-government approach, and unprecedented cooperation with
 the private sector and non-profit and philanthropic organisations.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>The public sector
+<p class="break1">The public sector
 at large will need to
 be able to discern and
 understand how global
@@ -293,9 +293,9 @@ country’s ability to
 pursue security, trade,
 development and
 social progress.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The need for an ongoing global health and humanitarian response could be cause for Singapore to consider developing a specific, if evolving, health diplomacy agenda. One aspect of this might be the establishment of its own aid agency. This could allow
 Singapore to comprehensively respond not only to humanitarian crises in the region but also global health emergencies.</p>
