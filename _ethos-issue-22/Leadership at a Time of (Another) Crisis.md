@@ -254,12 +254,6 @@ of seven traits. Perhaps this may serve as Seven Ways for Civil Servants to Exer
     articles/leadership-at-a-time-of-crisis.</li>
 </ol>
 
-<br>
-
-
-
-
-
 
 
 <br>
