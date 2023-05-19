@@ -304,11 +304,11 @@ public, and avoid going out.</p>
 
 <p>In the UK, a study examining the temporal change in psychological wellbeing of the population in lockdown found an overall increase in mental distress in respondents aged 16 years or older compared with the previous year, even after accounting for the projected upward trend.<sup><a href="#notes">29</a></sup> In Singapore, the number of calls made to the Samaritans of Singapore, an organisation providing support to those contemplating suicide, rose by about 30–35% during the Circuit Breaker period compared to the same period in 2019.<sup><a href="#notes">30</a></sup></p>
 
-<hr>
+<div class="break">
 
-<h5><em>The stigma associated with mental health issues could discourage people from seeking treatment. Nudges can overcome these barriers.</em></h5>
+<p class="break1">The stigma associated with mental health issues could discourage people from seeking treatment. Nudges can overcome these barriers.</p>
 
-<hr>
+</div>
 
 <p>It is important that people seek the help they need, whether from professionals or friends and family, to care for their mental wellbeing, since psychological distress can have long-term consequences. However, the stigma associated with mental health issues, especially among Asians,<sup><a href="#notes">31</a></sup> could discourage people from seeking treatment.</p>
 
@@ -326,23 +326,15 @@ public, and avoid going out.</p>
 
 <p>It is also important to note that people’s behaviours are complex and highly context-dependent. Policymakers must remain agile, relying on evidence to assess the effectiveness of promising nudges in different contexts. Only then might we formulate effective strategies to manage not just the current crisis, but also future pandemics.</p>
 
-<hr>
+<div class="author">
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>
+<h6>ABOUT THE AUTHORS</h6>
 
-<table style="border: none; background-color: transparent;">
-<tbody>
-<tr style="border: none;">
-<td style="padding: 0; padding-right: 32px; border: none;">
 <p class="small-text"><strong>Do Hoang Van Khanh</strong> is Lead Researcher at the Institute of Governance and Policy, Civil Service College. Her research interests include evidence-based policymaking and behavioural economics.</p>
 <p class="small-text"><strong> Mervin Loi</strong> is Researcher at the Institute of Governance and Policy, Civil Service College. His research interests include evidence-based policymaking and behavioural economics. </p>
-</td>
-<td style="width: 120px; border: none;" class="desktop-only"></td>
-</tr>
-</tbody>
-</table>
 
-<hr>
+
+</div>
 
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>
 
