@@ -314,25 +314,18 @@ mutual trust and shared expertise: enhancing the region’s propensity for and c
 
 <p><!--author's name and bio--></p>
 
-<hr>
+<div class="author">
 
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHORS</p>
+<h6>ABOUT THE AUTHORS</h6>
 
-<table style="border:none;background-color:transparent;">
-<tbody>
-<tr style="border:none;">
-<td style="padding:0;padding-right:32px;border:none;">
+
 <p class="small-text"><strong>Gianna Gayle Amul</strong> is Advisor at Research for Impact, Singapore, and a PhD student at the Institute of Global Health, University of Geneva.
             </p>
 <p class="small-text"><strong>Tikki Pang</strong> is Visiting Professor at the Yong Loo Lin School of Medicine, National University of Singapore.
             </p>
-</td>
-<td style="width:120px;border:none;" class="desktop-only">&nbsp;</td>
-</tr>
-</tbody>
-</table>
 
-<hr>
+
+</div>
 
 <p><!--Notes--></p>
 
@@ -468,12 +461,6 @@ mutual trust and shared expertise: enhancing the region’s propensity for and c
 </ol>
 
 <br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
-
-
-
 
 
 <br>
