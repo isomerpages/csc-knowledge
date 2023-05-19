@@ -88,16 +88,16 @@ scale.
 <p>Singapore’s participation in global health diplomacy in the current pandemic can be noted on four broad fronts: (1) bilateral assistance for ASEAN member states and beyond; (2) participation in multilateral mechanisms through the ASEAN Plus platforms;
 (3) participation in international efforts (G20, Belt and Road Initiative) on COVID-19; and (4) contributions to the World Health Organization's (WHO) Strategic Preparedness and Response Plan, and UN mechanisms and processes for COVID-19 response.</p>
 
-<a href="../../images/default-source/default-album/sg-global-health-diplomacy_fig-1.jpg?sfvrsn=c33884d9_0"><img title="Sg Global Health Diplomacy_Fig 1" src="../../images/default-source/default-album/sg-global-health-diplomacy_fig-1.jpg?sfvrsn=c33884d9_0" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Sg Global Health Diplomacy_Fig 1"></a>
+<img title="Sg Global Health Diplomacy_Fig 1" src="/images/Ethos_Images/Ethos_Issue_22/SG_Global_Health_Diplomacy_Fig1.jpg" alt="Sg Global Health Diplomacy_Fig 1">
 
 <p><!--En begins here page 135--></p>
 
 <p style="text-align: center;" class="small-text"><strong>Figure 1.</strong> Singapore’s Global Health Diplomacy in Context
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>Singapore, having
+<p class="break1">Singapore, having
 faced the dire
 effects of the
 SARS epidemic
@@ -107,9 +107,9 @@ of the need for
 multilateral
 cooperation on
 global health
-issues.</em></h5>
+issues.</p>
 
-<hr>
+</div>
 
 <h3>Four Fronts of Global Health Diplomacy</h3>
 
