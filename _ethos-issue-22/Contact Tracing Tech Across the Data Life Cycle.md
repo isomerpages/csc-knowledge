@@ -52,13 +52,17 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #fffffff;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
+	border-top: 20px solid black;
 	
 	}	
-
+.containerbox h3 {
+	color: #60a65c;
+	
+	}
 li {
 	font-size: 15px !important;
 	
@@ -88,7 +92,7 @@ li {
 
 
 
-<p style="text-align: center;"><a target="_blank" href="../../images/default-source/ethos-images/ethos-issue-22/data_life_cycle.jpg"><img width="750" src="../../images/default-source/ethos-images/ethos-issue-22/data-life-cycle-small.jpg" height="171" alt="data life cycle small"></a></p>
+<p style="text-align: center;"><img width="750" src="/images/Ethos_Images/Ethos_Issue_22/Data_Life_Cycle.jpg" height="171" alt="data life cycle small"></p>
 
 <p class="small-text text">Professor Jeanette Wing’s model of the data life cycle encompasses all but the last phase (archival/destruction), as part of her argument that privacy and ethical concerns ought to be considered throughout the life cycle of data. Click to see the larger image</p>
 
@@ -103,11 +107,11 @@ li {
 
 <p>Some COVID-19 contact tracing technologies collect location data (<em>where</em> you were); others collect proximity data (<em>whom</em> you were with). For the former, data can be collected in different ways. For example, some apps in China use data about user GPS locations, acquired from telcos, to determine an individual’s travel history and possible exposure in high-risk areas. In this case, data is acquired automatically, with little participation from users. Singapore’s SafeEntry app also logs location, but by having users scan a QR code when they visit various venues. The advantage to both approaches is their use of familiar technologies. QR code scanning has the added privacy advantage of <em>not</em> continuously logging users’ locations wherever they might be, including at home.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>Not all data generated needs to be collected. Policy owners must determine what data generated is meaningful to collect.</em></h5>
+<p class="break1">Not all data generated needs to be collected. Policy owners must determine what data generated is meaningful to collect.</p>
 
-<hr>
+</div>
 
 <p>There are, however, downsides to using these familiar technologies of location-based tracing. QR code-based systems expose users to security threats.<sup><a href="#notes">10</a></sup> Additionally, where droplet-based transmission dominates, location-based tracking is less useful than proximity-based tracking, since our vulnerability to infection by people with COVID-19 is shaped more by how near we were to them, and for how long, than whether we were at the same venue as them.</p>
 
@@ -148,7 +152,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title"> Contact Tracing and Privacy Concerns Elsewhere</h3>
