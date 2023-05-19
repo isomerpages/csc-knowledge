@@ -191,7 +191,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Upholding Trust in Data Use</h3>
@@ -220,11 +220,11 @@ li {
 
 <p>Data governance via the APPA model and which incorporates decision provenance transparency would require a society to have robust deliberations over the robustly deliberate circumstances under which specific data can be shared with and used by specific entities for specific purposes. Indeed, if countries are to treat data as a resource as much as they do finance, then it should be similarly subjected to periodic, public deliberation as to its best use. Continuous public deliberation over data would also be a way for governments to keep abreast of changing societal attitudes towards data privacy, and to consistently replenish reservoirs of trust.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>The use of digital contact tracing tools could be strengthened by better provisions for decision provenance for government technology.</em></h5>
+<p class="break1">The use of digital contact tracing tools could be strengthened by better provisions for decision provenance for government technology.</p>
 
-<hr>
+</div>
 
 <h3>Archival or Destruction</h3>
 
@@ -250,11 +250,11 @@ li {
 
 <p>Ultimately, people’s willingness to work with COVID-19 public health measures depends on the extent to which they trust the governance system as a whole. In this sense, citizens’ enthusiastic compliance with public health measures—including digital contact tracing—is a daily poll of the authorities’ ability to both protect their health and keep their data safe.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>Better data governance could foster participation. Compromises on voluntary participation should be accompanied by stronger protections for privacy trade-offs.</em></h5>
+<p class="break1">Better data governance could foster participation. Compromises on voluntary participation should be accompanied by stronger protections for privacy trade-offs.</p>
 
-<hr>
+</div>
 
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>
 
