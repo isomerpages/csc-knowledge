@@ -1,4 +1,6 @@
 collections:
   ethos-issue-21:
     output: true
-    order: []
+    order:
+      - "What Digital Success Looks Like: Measuring & Evaluating Government
+        Digitalisation.md"
