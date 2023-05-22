@@ -2,6 +2,7 @@ collections:
   ethos-issue-21:
     output: true
     order:
+      - How to Build Good Software.md
       - "Attracting Tech Talent: Start with Culture Redesign.md"
       - The Agile Way of Working.md
       - "FormSG: From Idea to Hit Platform in a Year.md"
