@@ -2,6 +2,7 @@ collections:
   ethos-issue-21:
     output: true
     order:
+      - Readying Singapore to be a Digital Society.md
       - Bringing Data into the Heart of Digital Government.md
       - How to Build Good Software.md
       - "Attracting Tech Talent: Start with Culture Redesign.md"
