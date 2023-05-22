@@ -2,5 +2,7 @@ collections:
   ethos-issue-21:
     output: true
     order:
+      - "Regulating Digital Technology: Real World Challenges and
+        Opportunities.md"
       - "What Digital Success Looks Like: Measuring & Evaluating Government
         Digitalisation.md"
