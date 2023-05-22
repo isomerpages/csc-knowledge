@@ -2,6 +2,7 @@ collections:
   ethos-issue-21:
     output: true
     order:
+      - Editorial.md
       - "Digital Government, Smart Nation: Pursuing Singapore’s Tech
         Imperative.md"
       - Services 4 point 0 A New Wave of Innovation and Partnerships.md
