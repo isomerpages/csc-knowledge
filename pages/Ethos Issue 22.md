@@ -49,10 +49,10 @@ margin-top:15px;
 }	
 </style>
 <div class="grid-container">
-        <div><img src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg"></div>
-        <div><h3><span class="cat">ISSUE 24, AUG 2022</span>
-            <br>ETHOS Issue 24</h3>	
-            <p>In an era of climate impact and deepening energy and resource constraints, what can we do to make our cities more sustainable and liveable places to be? In this special issue, we partner with the Ministry of National Development’s Centre for Liveable Cities to explore the theme of urban sustainability, with insights from city leaders, public sector practitioners and urban experts from around the world</p>
+        <div><img src="/images/Ethos_Thumbnails_Cover/"></div>
+        <div><h3><span class="cat">ISSUE 22, JUN 2021</span>
+            <br>ETHOS Issue 22</h3>	
+            <p></p>
             
             
    <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-24">Download PDF</a></div>
