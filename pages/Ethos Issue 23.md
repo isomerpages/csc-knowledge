@@ -263,14 +263,15 @@ There will be no one universal model of digital learning that suits all settings
 </tbody>
 </table>
 
-<table id="section-7">
+
+<table>
 <tbody>
 
 <tr>
 <td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-miss2.jpg"></td>
 
 <td class="text">	
-<h3>LEAD BY LEARNING IN A DIGITAL WORLD</h3>
+<h3>Through the Looking-Glass: Three Ways Advancements in Artificial Intelligence Will Change Learning &amp; Development</h3>
 <b><i>by Michael Chew, Hoe Wee Meng, and Kelvin Tan </i></b>
 
 <p>	Artificial intelligence could soon transform learning by augmenting human empathy and judgement with rich, context-sensitive information.
@@ -282,6 +283,7 @@ There will be no one universal model of digital learning that suits all settings
 </tbody>
 </table>
 
+
 <table id="section-8">
 <tbody>
 
@@ -289,13 +291,13 @@ There will be no one universal model of digital learning that suits all settings
 <td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-06.jpg"></td>
 
 <td class="text">	
-<h3>NURTURING: FUTURE LEADERS</h3>
+<h3>NURTURING FUTURE LEADERS: Adapting Leadership Development Approaches to a Changing Context</h3>
 <b><i>by Khoo Ee Wan, Aurora de Souza Watters, and Suniartie Sudyono</i></b>
 
-<p>	Artificial intelligence could soon transform learning by augmenting human empathy and judgement with rich, context-sensitive information.
+<p>To be successful, positional leaders must learn to move from being 'hero' to 'host', providing the conditions , processes and resources for others to step up and contribute at every level.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -311,12 +313,12 @@ There will be no one universal model of digital learning that suits all settings
 <td class="text">	
 <h3>ENGAGING HEARTS AND MINDS: A Conversation about 
 Learning Experience Design</h3>
-<b><i>by Khoo Ee Wan, Aurora de Souza Watters, and Suniartie Sudyono</i></b>
+<b><i>Martin Hang, Daisy Koh , Lau Teh Wei , Lim Ee-Lon</i></b>
 
 <p>Four seasoned practitioners share their perspectives on crafting immersive, learner-centred approaches that may lead 
 to more enduring outcomes in and beyond the workplace.</p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
