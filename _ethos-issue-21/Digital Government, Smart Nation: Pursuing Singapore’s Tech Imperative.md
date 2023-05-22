@@ -68,7 +68,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 21, July 2019</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_21/21_Banner_Digital_Govt_Smart_Nation.jpg">
 
 
 <h3>What Is Smart Nation?</h3>
