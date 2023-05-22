@@ -323,3 +323,60 @@ to more enduring outcomes in and beyond the workplace.</p>
 </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+
+<tr>
+<td class="img"><img src=""></td>
+
+<td class="text">	
+<h3>Employability, Growth and Resilience through Workplace Learning</h3>
+<b><i>by Phua Chee Teck</i></b>
+
+<p>Across industries, jobs and workplaces are changing to adapt to a new normal of disrupted paradigms and ever-changing needs. Workplace Learning (WpL) helps employees and employers establish a common purpose and acquire relevant skills, in order to stay competitive and employable.
+</p>	
+
+<div class="button1"><a target="_blank" href="">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+
+<tr>
+<td class="img"><img src=""></td>
+
+<td class="text">	
+<h3>Thinking Differently about Workplace Learning</h3>
+<b><i>by Helen Bound</i></b>
+
+<p>Instead of topping up on-job skills with training, the focus should be on understanding, framing and improving the relations between people, assets and structures in an organisation.
+</p>	
+
+<div class="button1"><a target="_blank" href="">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+
+<tr>
+<td class="img"><img src=""></td>
+
+<td class="text">	
+<h3>Horsemen and Super-Powers: Learning to Design in Government</h3>
+<b><i>by Agnes Kwek</i></b>
+
+<p>A decade of design thinking experiments has taught one former policy designer what kills innovation, and what helps it thrive.
+</p>	
+
+<div class="button1"><a target="_blank" href="">Read More</a></div><br>
+</td>
+</tr>
+</tbody>
+</table>
