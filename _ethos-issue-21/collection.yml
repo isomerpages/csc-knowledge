@@ -2,6 +2,7 @@ collections:
   ethos-issue-21:
     output: true
     order:
+      - "Artificial Intelligence: Impact on Public Safety & Security.md"
       - "Regulating Digital Technology: Real World Challenges and
         Opportunities.md"
       - "What Digital Success Looks Like: Measuring & Evaluating Government
