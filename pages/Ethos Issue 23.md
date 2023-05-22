@@ -156,7 +156,7 @@ In this issue, ETHOS commemorates two decades since CSC's formation as a statuto
 <p>	
 Four top public service leaders, including the current Head, Civil Service, reflect on the role of the Civil Service College in nurturing a robust, cogent and future-ready public sector in Singapore.</p>	
 
-<div class="button1"><a target="_blank" href="#">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="/ethos-issue-23/civil-service-college-preparing-the-public-service-for-the-future/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -175,7 +175,7 @@ Four top public service leaders, including the current Head, Civil Service, refl
 <p>	
 Being prepared for a volatile and uncertain world may involve not just learning about what faces us ahead, but also relearning—or unlearning—lessons of old.</p>	
 
-<div class="button1"><a href="#">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-23/learning-for-the-future/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -195,7 +195,7 @@ Being prepared for a volatile and uncertain world may involve not just learning 
 <p>	
 We need to rethink what it means to learn and be learners, in a complex, dynamic and fluid world where many answers are not predetermined, but must be cultivated and co-evolved.</p>	
 
-<div class="button1"><a href="#">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-23/metaphors-mental-models-updating-our-language-for-public-sector-learning/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -216,7 +216,7 @@ Public Service</h3>
 <p>	
 By deepening their ability to identify relevant trends and anticipate emerging needs, learning and development practitioners can help shape the future of their organisations.</p>	
 
-<div class="button1"><a href="#">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-23/the-future-of-learning-and-development-in-the-singapore-public-service/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -237,7 +237,7 @@ By deepening their ability to identify relevant trends and anticipate emerging n
 Nudges and other behaviourally compatible strategies could help address the challenges of learning modes that blend face-to-face and online learning.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="/ethos-issue-23/breaking-down-barriers-in-blended-learning/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -257,7 +257,7 @@ Nudges and other behaviourally compatible strategies could help address the chal
 There will be no one universal model of digital learning that suits all settings, but new tools and platforms will allow for richer multimedia engagement that can overcome the sensory stress that plagues today’s technologies.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="/ethos-issue-23/lead-by-learning-in-a-digital-world/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -276,7 +276,7 @@ There will be no one universal model of digital learning that suits all settings
 <p>	Artificial intelligence could soon transform learning by augmenting human empathy and judgement with rich, context-sensitive information.
 </p>	
 
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
