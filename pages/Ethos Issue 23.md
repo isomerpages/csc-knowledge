@@ -254,7 +254,7 @@ Nudges and other behaviourally compatible strategies could help address the chal
 <b><i>by N. Venkat Venkatraman</i></b>
 
 <p>	
-There will be no one universal model of digital learning that suits all settings, but new tools and platforms will allow for richer multimedia engagement that can overcome the sensory stress that plagues today’s technologies.
+In a future shaped by transformative digital advances, leadership calls for curiosity and the discipline to learn about and through rapid change.
 </p>	
 
 <div class="button1"><a target="_blank" href="/ethos-issue-23/lead-by-learning-in-a-digital-world/">Read More</a></div><br>
@@ -277,7 +277,7 @@ There will be no one universal model of digital learning that suits all settings
 <p>	Artificial intelligence could soon transform learning by augmenting human empathy and judgement with rich, context-sensitive information.
 </p>	
 
-<div class="button1"><a target="_blank" href="">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="/ethos-issue-23/three-ways-advancements-in-artificial-intelligence-will-change-learning-development/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -297,7 +297,7 @@ There will be no one universal model of digital learning that suits all settings
 <p>To be successful, positional leaders must learn to move from being 'hero' to 'host', providing the conditions , processes and resources for others to step up and contribute at every level.
 </p>	
 
-<div class="button1"><a target="_blank" href="">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="/ethos-issue-23/nurturingfutureleadersadaptingleadershipdevelopmentapproaches-to-a-changing-context/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -318,7 +318,7 @@ Learning Experience Design</h3>
 <p>Four seasoned practitioners share their perspectives on crafting immersive, learner-centred approaches that may lead 
 to more enduring outcomes in and beyond the workplace.</p>	
 
-<div class="button1"><a target="_blank" href="">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="/ethos-issue-23/engaging-hearts-and-minds-a-conversation-about-learning-experience-design/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -328,7 +328,7 @@ to more enduring outcomes in and beyond the workplace.</p>
 <tbody>
 
 <tr>
-<td class="img"><img src=""></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/23_Teaser_Workplace_Learning.jpg"></td>
 
 <td class="text">	
 <h3>Employability, Growth and Resilience through Workplace Learning</h3>
@@ -337,7 +337,7 @@ to more enduring outcomes in and beyond the workplace.</p>
 <p>Across industries, jobs and workplaces are changing to adapt to a new normal of disrupted paradigms and ever-changing needs. Workplace Learning (WpL) helps employees and employers establish a common purpose and acquire relevant skills, in order to stay competitive and employable.
 </p>	
 
-<div class="button1"><a target="_blank" href="">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="/ethos-issue-23/employability-growth-and-resilience-through-workplace-learning/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -347,7 +347,7 @@ to more enduring outcomes in and beyond the workplace.</p>
 <tbody>
 
 <tr>
-<td class="img"><img src=""></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/23_Teaser_Thinking_Differently_WPL.jpg"></td>
 
 <td class="text">	
 <h3>Thinking Differently about Workplace Learning</h3>
@@ -356,7 +356,7 @@ to more enduring outcomes in and beyond the workplace.</p>
 <p>Instead of topping up on-job skills with training, the focus should be on understanding, framing and improving the relations between people, assets and structures in an organisation.
 </p>	
 
-<div class="button1"><a target="_blank" href="">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="/ethos-issue-23/thinking-differently-about-workplace-learning/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -366,7 +366,7 @@ to more enduring outcomes in and beyond the workplace.</p>
 <tbody>
 
 <tr>
-<td class="img"><img src=""></td>
+<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/23_Teaser_Horsemen_And_Superpowers.jpg"></td>
 
 <td class="text">	
 <h3>Horsemen and Super-Powers: Learning to Design in Government</h3>
@@ -375,7 +375,7 @@ to more enduring outcomes in and beyond the workplace.</p>
 <p>A decade of design thinking experiments has taught one former policy designer what kills innovation, and what helps it thrive.
 </p>	
 
-<div class="button1"><a target="_blank" href="">Read More</a></div><br>
+<div class="button1"><a target="_blank" href="/ethos-issue-23/horsemen-and-superpowers-learning-to-design-in-government/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
