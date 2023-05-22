@@ -98,7 +98,7 @@ Dean and CEO, Civil Service College
 	
 <p>	This year, the Civil Service College marks its 20th year since becoming a statutory board in 2001.</p>	
 
-<div class="button1"><a href="#">Read More</a></div> <br>
+<div class="button1"><a href="/ethos-issue-23/foreword/">Read More</a></div> <br>
 </td>
 	
 	
@@ -131,7 +131,7 @@ Editor-in-Chief Ethos
 In this issue, ETHOS commemorates two decades since CSC's formation as a statutory board and our dedication to continuous learning and capability building in the Singapore Public Service. Gathering insights from a range of practitioners and thought leaders from both within and outside the Service, this issue explores what and how we should learn to be ready for the future.
 </p>	
 
-<div class="button1"><a href="#">Read More</a></div> <br>
+<div class="button1"><a href="/ethos-issue-23/editorial/">Read More</a></div> <br>
 </td>
 	
 	
