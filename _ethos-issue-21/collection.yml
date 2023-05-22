@@ -2,6 +2,7 @@ collections:
   ethos-issue-21:
     output: true
     order:
+      - The Agile Way of Working.md
       - "FormSG: From Idea to Hit Platform in a Year.md"
       - "Artificial Intelligence: Impact on Public Safety & Security.md"
       - "Regulating Digital Technology: Real World Challenges and
