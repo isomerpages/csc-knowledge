@@ -1,4 +1,5 @@
 collections:
   ethos-issue-20:
     output: true
-    order: []
+    order:
+      - Living with Independence and Purpose.md
