@@ -89,13 +89,13 @@ workplace productivity and engagement.</p>
 
 <p>Machine self-learning capabilities have predictive and prescriptive uses. AI creates new sense-making possibilities by quickly generating insights through deeper analysis of data.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 While AI augments capability, it cannot entirely replace humans.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Automating the Home Team’s Operational Capabilities</h3>
 
@@ -144,7 +144,7 @@ Advanced sensors, intelligent autonomous
 navigation and mapping algorithms
 may be progressively added to these
 UAVs to improve obstacle detection
-and avoidance.&nbsp;<a href="../../images/default-source/ethos-images/ethos-issue-21/gallery-of-photos.jpg?sfvrsn=74354e3b_2"><img title="Gallery of photos" style="float: right;" src="../../images/default-source/ethos-images/ethos-issue-21/gallery-of-photos-2.jpg?Culture=en&amp;sfvrsn=74354e3b_1" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="Gallery of photos"></a></p>
+and avoidance.&nbsp;<img title="Gallery of photos" style="float: right;" src="/images/Ethos_Images/Ethos_Issue_21/Gallery_Of_Photos.jpg" alt="Gallery of photos"></p>
 
 <p style="text-align: left;">The Home Team is well aware that AI is
 not a magical silver bullet that will solve
@@ -305,18 +305,18 @@ views within a week.<a href="#notes"><sup>8</sup></a> This shows just
 how attention-grabbing and persuasive
 fakes can be.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 At present, even an AI of tremendous power will not be able to determine outcomes in a
 complex social system, the outcomes are too complex—even without allowing for free will by
 sentient agents...Strategy that involves humans, no matter that they are assisted by modular AI and
 fight using legions of autonomous robots, will retain its inevitable human flavor.<a href="#notes"><sup>9</sup></a>
-</em></h5>
+</p>
 
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Kareem Ayoub and Kenneth Payne</p>
 
-<hr>
+</div>
 
 <h3>Strengthening Our Resilience for The Future: AI and Beyond </h3>
 
@@ -413,25 +413,18 @@ AI, we will be better at mitigating its
 dangers. Exciting times are ahead—we
 have entered a brave new world.</p>
 
-<hr>
+<div class="author">
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>
+<h6>ABOUT THE AUTHORS</h6>
 
-<table style="border: none; background-color: transparent;">
-<tbody>
-<tr style="border: none;">
-<td style="padding: 0; padding-right: 32px; border: none;">
+
 <p class="small-text"><strong>Rahul Daswani</strong>&nbsp;led the Futures team at the Ministry of Home Affairs. Previously a Senior Strategist at the Centre for Strategic Futures, he has
             also served at SkillsFuture Singapore.</p>
 <p class="small-text">He is now Assistant Director, Open Government Products at GovTech.</p>
 <p class="small-text"><strong>Jevon Tan</strong> is part of a team from the Defence Science &amp; Technology Agency (DSTA) embedded in National Security Coordination Secretariat (NSCS), where he identifies risks and threats relating to emerging technologies. Prior to joining NSCS, he was involved in telecommunications acquisition projects and master-planning in DSTA.</p>
-</td>
-<td style="width: 120px; border: none;" class="desktop-only"></td>
-</tr>
-</tbody>
-</table>
 
-<hr>
+
+</div>
 
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>
 
@@ -467,11 +460,6 @@ have entered a brave new world.</p>
 <li class="small-text">Lianne Chia, “National Framework to Build Information and Media Literacy to be Launched in 2019: S Iswaran”, <em>CNA</em>, November 2, 2018, accessed December 26, 2018, <a target="_blank" href="https://www.channelnewsasia.com/news/singapore/framework-build-information-media-literacy-launched-2019-iswaran-10890438">https://www.channelnewsasia.com/news/singapore/framework-build-information-media-literacy-launched-2019-iswaran-10890438</a>.</li>
 <li class="small-text">Infocomm Media Development Authority (IMDA), “New Council to Oversee Cyber Wellness, Media Literacy Initiatives”, November 3, 2017, accessed 26 December 2018, <a target="_blank" href="https://www.imda.gov.sg/about/newsroom/archived/mda/media-releases/2012/new-council-to-oversee-cyber-wellness-media-literacy-initiatives">https://www.imda.gov.sg/about/newsroom/archived/mda/media-releases/2012/new-council-to-oversee-cyber-wellness-media-literacy-initiatives</a>.</li>
 </ol>
-
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
 
 
 
