@@ -2,6 +2,7 @@ collections:
   ethos-issue-20:
     output: true
     order:
+      - Age Is a Number.md
       - Transforming Community Care in 2030.md
       - "Positive Ageing: How Can We Make It Happen?.md"
       - Living with Independence and Purpose.md
