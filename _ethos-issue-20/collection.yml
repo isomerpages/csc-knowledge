@@ -2,6 +2,7 @@ collections:
   ethos-issue-20:
     output: true
     order:
+      - Humanising Technology for Older Adults.md
       - Promoting Active Ageing through Virtual & Augmented Reality.md
       - From Ageing to Augmented Longevity.md
       - Age Is a Number.md
