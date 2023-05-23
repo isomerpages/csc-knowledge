@@ -83,8 +83,9 @@ the Agile approach encourages a culture of working based on the values of autono
 
 <br>
 
-<a href="../../images/default-source/ethos-images/ethos-issue-21/(1)autonomy.png?sfvrsn=d0c0dc6c_2"><img title="(1)Autonomy" style="float: left;" src="../../images/default-source/ethos-images/ethos-issue-21/(1)autonomy-2.png?Culture=en&amp;sfvrsn=d0c0dc6c_1" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="(1)Autonomy"></a>
-<a href="../../images/default-source/ethos-images/ethos-issue-21/(2)collaboration.png?sfvrsn=d0d925a2_2"><img title="(2)Collaboration" style="float: right;" src="../../images/default-source/ethos-images/ethos-issue-21/(2)collaboration-2.png?Culture=en&amp;sfvrsn=d0d925a2_1" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="(2)Collaboration"></a>
+<img title="(1)Autonomy" style="float: left;" src="/images/Ethos_Images/Ethos_Issue_21/1_Autonomy.png" alt="(1)Autonomy">
+<br>
+<img title="(2)Collaboration" style="float: right;" src="/images/Ethos_Images/Ethos_Issue_21/2_Collaboration.png" alt="(2)Collaboration">
 <br>
 
 <br>
@@ -93,98 +94,34 @@ the Agile approach encourages a culture of working based on the values of autono
 
 <br>
 
+
+<img title="(3)Communication" style="float: left;" src="/images/Ethos_Images/Ethos_Issue_21/3_Communication.png" alt="(3)Communication">
+<br>
+
+<img title="(4)Iterative working" style="float: right;" src="/images/Ethos_Images/Ethos_Issue_21/4_IterativeWorking.png" alt="(4)Iterative working">
+
+
+<br>
+
+<img title="(5)User-centricity" style="float: left;" src="/images/Ethos_Images/Ethos_Issue_21/5_UserCentricity.png" alt="(5)User-centricity">
 <br>
 
 <br>
 
-<br>
+<img title="(6)Competence" style="float: right;" src="/images/Ethos_Images/Ethos_Issue_21/6_competence.png" alt="(6)Competence">
+
 
 <br>
 
-<br>
 
-<br>
 
-<br>
+<div class="break">
 
-<br>
-
-<br>
-
-<br>
-
-<a href="../../images/default-source/ethos-images/ethos-issue-21/(3)communication.png?sfvrsn=85cc608d_2"><img title="(3)Communication" style="float: left;" src="../../images/default-source/ethos-images/ethos-issue-21/(3)communication-2.png?Culture=en&amp;sfvrsn=85cc608d_1" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="(3)Communication"></a>
-<br>
-
-<a href="../../images/default-source/ethos-images/ethos-issue-21/(4)iterative-working.png?sfvrsn=2b929ac6_2"><img title="(4)Iterative working" style="float: right;" src="../../images/default-source/ethos-images/ethos-issue-21/(4)iterative-working-2.png?Culture=en&amp;sfvrsn=2b929ac6_1" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="(4)Iterative working"></a>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<a href="../../images/default-source/ethos-images/ethos-issue-21/(5)user-centricity.png?sfvrsn=9f6c74f9_2"><img title="(5)User-centricity" style="float: left;" src="../../images/default-source/ethos-images/ethos-issue-21/(5)user-centricity-2.png?Culture=en&amp;sfvrsn=9f6c74f9_1" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="(5)User-centricity"></a>
-<br>
-
-<br>
-
-<a href="../../images/default-source/ethos-images/ethos-issue-21/(6)competence.png?sfvrsn=75805188_2"><img title="(6)Competence" style="float: right;" src="../../images/default-source/ethos-images/ethos-issue-21/(6)competence-2.png?Culture=en&amp;sfvrsn=75805188_1" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="(6)Competence"></a>
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<hr>
-
-<h5><em>
+<p class="break1">
 Agile emphasises decision-making that gives weight to the views of those with relevant professional expertise, rather than those most senior in the hierarchy.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Why Agile? </h3>
 
@@ -196,13 +133,13 @@ Agile emphasises decision-making that gives weight to the views of those with re
 
 <p>Indeed, organisations that practise Agile methodologies have been found to have a 70% chance of being in the top quartile for organisational health: the most reliable indicator of performance over the long run.<a href="#notes"><sup>3</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Agile is well-suited to highly skilled, self-motivated teams who value their autonomy; culturally, it fits the work styles of many millennials.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>How To Practice Agile</h3>
 
@@ -238,13 +175,14 @@ The Scrum Master is responsible for the productivity of the team and must remove
 <p style="text-align: center;">
 <br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-issue-21/task-board.jpg?sfvrsn=4ec1f50c_2"><img title="Task board" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-21/task-board-2.jpg?Culture=en&amp;sfvrsn=4ec1f50c_1" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="Task board"></a><br>
+
+<img title="Task board" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_21/TaskBoard.jpg" alt="Task board"><br>
 <br>
 <br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-issue-21/processes-description.jpg?sfvrsn=20901251_2"><img title="Processes-description" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-21/processes-description.jpg?sfvrsn=20901251_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Processes-description"></a><br>
+<img title="Processes-description" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_21/Processes_Description.jpg" alt="Processes-description"><br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-issue-21/scrum-processes-overview.jpg?sfvrsn=5189f298_2"><img title="Scrum processes overview" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-21/scrum-processes-overview.jpg?sfvrsn=5189f298_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Scrum processes overview"></a><br>
+<img title="Scrum processes overview" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_21/Scrum_Processes_Overview.jpg" alt="Scrum processes overview"><br>
 <br>
 <a href="../acc6365e-ee98-49d1-9f89-3c3921ada0be.html"></a>
 </p>
@@ -253,53 +191,45 @@ The Scrum Master is responsible for the productivity of the team and must remove
 
 <p>Agile is ultimately not about following a set of processes; it is about a mindset and daily habits of working. It takes a lot of conscious effort to switch from a traditional “bureaucratic” public sector work style towards a more Agile way of working.<br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-issue-21/traditional-vs-agile-working-table.jpg?sfvrsn=56dd820_2"><img title="Traditional vs agile working table" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-21/traditional-vs-agile-working-table.jpg?sfvrsn=56dd820_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Traditional vs agile working table"></a></p>
+<img title="Traditional vs agile working table" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_21/Traditional_vs_Agile_WorkingTable.jpg" alt="Traditional vs agile working table"></p>
 
 <h3>Challenges and Limitations </h3>
 
 <p>Agile methodologies work best for complex, non-routine work in an environment of rapid change. They may not be suited where work processes are standardised and stable, proceeding sequentially in phases that are dependent on previous phases, and where the scope has been clearly defined before work begins and changes would be costly (such as “waterfall” projects, commonly seen in construction).</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Agile methodologies work best for complex, non-routine work in an environment of rapid change.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The fluid nature of Agile approaches is typically more suited to work that requires creativity and where there is some appetite for failure. However, there is some evidence that Agile can work even where risk tolerance is low: Saab used Agile methodologies for developing fighter aircraft.<a href="#notes"><sup>8</sup></a></p>
 
 <p>One serious challenge for practitioners is how to make Agile work when the wider organisation is still run on traditional command-and-control principles. Stephen Denning observes of such situations
 in <em>The Age of Agile</em>: “Either the Agile teams will take over the organisation, or more likely, the bureaucracy will crush the Agile teams.<a href="#notes"><sup>9</sup></a> This would be a pity—as Li Yiyang, a Manager in the Digital Workplace team of Singapore’s Public Service Division puts it: “Scrum organises work so much more efficiently, I hope I will never have to return to the old way of working.”</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 One serious challenge is how to make Agile work when the wider organisation is still run on traditional command-and-control principles.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Given Agile’s benefits, it is important that leaders in traditional public sector organisations learn how to manage Agile teams. Here, Low Xin Wei, Director of Strategy and Masterplanning at Singapore’s National Research Foundation, has some advice: “For a Director whose team is embarking on an Agile journey, there is a learning curve involved, but it is worthwhile to stay the course. For directing passionate young officers on dynamic and complex issues, this is a way of working that keeps them engaged and brings about a sense of ownership not possible with traditional management forms.”</p>
 
-<hr>
+<div class="author">
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>
+<h6>ABOUT THE AUTHORS</h6>
 
-<table style="border: none; background-color: transparent;">
-<tbody>
-<tr style="border: none;">
-<td style="padding: 0; padding-right: 32px; border: none;">
 <p class="small-text"><strong>Abhilash Anselm</strong>&nbsp;is a Lead Delivery Manager in Government Digital Services (GDS) at GovTech. He has over 10 years of product development experience, managing agile development and global operations for products in the gaming industry, with companies like LucasArts, Ubisoft and Blizzard Entertainment. In GDS, he oversees agile development for products such as the Sensor Data Exchange that is part of the Smart Nation Sensor Platform. He also supports efforts that contribute to the Singapore Government Tech Stack and is the Delivery Manager Chapter Lead under the Apps Development team.</p>
 <p class="small-text"><strong>Tiana Desker</strong> is Deputy Director (Digital Workplace) in the Public Sector Transformation Group at the Public Service Division. She leads an agile cross-functional team that works to provide a more digitally-enabled workplace to officers of the Singapore Public Service.
             Tiana was previously Deputy Head of the Centre for Strategic Futures, a think tank within the Singapore Government that researches emerging issues at the intersection of technology and public policy. She began her career at the Ministry of Defence in a policy role focused on Southeast Asia.</p>
-</td>
-<td style="width: 120px; border: none;" class="desktop-only"></td>
-</tr>
-</tbody>
-</table>
 
-<hr>
+
+</div>
 
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>
 
