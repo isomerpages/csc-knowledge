@@ -2,6 +2,7 @@ collections:
   ethos-issue-20:
     output: true
     order:
+      - Editorial.md
       - Reimagining Productive Longevity.md
       - "Lifelong Learning & Ageing:  Evidence from Singapore.md"
       - Humanising Technology for Older Adults.md
