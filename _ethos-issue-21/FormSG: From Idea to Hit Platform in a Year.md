@@ -68,7 +68,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 21, July 2019</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_21/21_Banner_FormSG_Idea_to_Hit_Platform_in_a_Year.jpg">
 
 
 
