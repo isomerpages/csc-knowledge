@@ -3,7 +3,6 @@ title: Editorial
 permalink: /ethos-issue-21/editorial/
 description: ""
 ---
-Articles template:
 <style>
 
 .back a
