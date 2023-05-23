@@ -2,6 +2,7 @@ collections:
   ethos-issue-20:
     output: true
     order:
+      - Promoting Active Ageing through Virtual & Augmented Reality.md
       - From Ageing to Augmented Longevity.md
       - Age Is a Number.md
       - Transforming Community Care in 2030.md
