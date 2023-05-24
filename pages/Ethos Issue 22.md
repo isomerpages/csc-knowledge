@@ -68,7 +68,7 @@ margin-top:15px;
 		<b><i></i></b>
 		<p></p>
 	
-<div class="button1"><a target="_blank" href="">Read more</a></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-22/editorial/">Read more</a></div>
 </div>
 </div> 
 
@@ -83,7 +83,7 @@ margin-top:15px;
                 
   <p></p>	
             
-<div class="button1"><a target="_blank" href="">Read More</a></div> <br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-22/singapore-and-covid-19-in-perspective/">Read More</a></div> <br></div>
     </div>
 
  <br>	
@@ -99,7 +99,7 @@ margin-top:15px;
 	COVID-19 has tested societies like never before: but good governance, agile policymaking, social cohesion and broad collaboration remain vital in facing the crisis of a generation.
 </p>	
             
-<div class="button1"><a target="_blank" href="">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-22/taking-stock-of-an-unprecedented-pandemic/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
@@ -108,7 +108,7 @@ margin-top:15px;
             <b><i>by Tharman Shanmugaratnam</i></b>
 <p>The following remarks-drawing lessons on governance from the ongoing COVID-19 crisis-were abridged from a speech given by the Senior Minister at the Administrative Service Appointment and Promotion Ceremony on 29 March 2021.</p>	
             
-<div class="button1"><a target="_blank" href="">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-22/learning-from-crisis/">Read More</a></div><br></div>
     </div>
     
 <br>    
@@ -120,7 +120,7 @@ margin-top:15px;
             
 <p>Deploying judicious pandemic support measures, Singapore and Hong Kong have sought to stabilise their economies and societies, while laying a foundation for post-pandemic growth.</p>	
             
-<div class="button1"><a href="">Read More</a></div><br></div>
+<div class="button1"><a href="/ethos-issue-22/fiscal-responses-to-covid-19-in-singapore-and-hong-kong/">Read More</a></div><br></div>
     </div>
     
 <br>    
@@ -132,7 +132,7 @@ margin-top:15px;
             
 <p>LKYSPP’s Terence Ho surveys the Singapore Government’s multi-pronged approach to supporting businesses, incomes and households—for the duration of the COVID-19 crisis, and beyond.</p>	
             
-<div class="button1"><a target="_blank" href="">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-22/supporting-jobs-and-livelihoods-during-the-pandemic/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
