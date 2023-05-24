@@ -90,7 +90,7 @@ margin-top:15px;
 
 
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Issue_22/print22-01.jpg"></div>
+        <div><img src="/images/Cropped_images/Ethos_Issue_22/22_Teaser_Taking_Stock_Unprecidented.jpg"></div>
   <div>
 	<h3>Taking Stock of an Unprecedented Pandemic</h3>
             <b><i>by Ong Toon Hui and Danny Quah</i></b>
@@ -103,7 +103,7 @@ margin-top:15px;
     </div>
 <br>
 <div class="grid-container">
-      <div><img src="/images/Cropped_images/Ethos_Issue_22/print22-02.jpg"></div>
+      <div><img src="/images/Cropped_images/Ethos_Issue_22/22_Teaser_Learning_From_Crisis.jpg"></div>
         <div><h3>Learning from Crisis</h3>
             <b><i>by Tharman Shanmugaratnam</i></b>
 <p>The following remarks-drawing lessons on governance from the ongoing COVID-19 crisis-were abridged from a speech given by the Senior Minister at the Administrative Service Appointment and Promotion Ceremony on 29 March 2021.</p>	
@@ -113,7 +113,7 @@ margin-top:15px;
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Issue_22/print22-03.jpg"></div>
+        <div><img src="/images/Cropped_images/Ethos_Issue_22/22_Teaser_Fiscal_Responses.jpg"></div>
 
 <div><h3>Fiscal Responses to COVID-19 in Singapore and Hong Kong</h3>
             <b><i>by Alfred M. Wu</i></b>
