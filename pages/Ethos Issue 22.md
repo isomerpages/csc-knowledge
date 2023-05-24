@@ -93,9 +93,10 @@ margin-top:15px;
         <div><img src="/images/Cropped_images/Ethos_Issue_22/print22-01.jpg"></div>
   <div>
 	<h3>Taking Stock of an Unprecedented Pandemic</h3>
-            <b><i></i></b>
+            <b><i>by Ong Toon Hui and Danny Quah</i></b>
             
 <p>
+	COVID-19 has tested societies like never before: but good governance, agile policymaking, social cohesion and broad collaboration remain vital in facing the crisis of a generation.
 </p>	
             
 <div class="button1"><a target="_blank" href="">Read More</a></div><br></div>
@@ -104,8 +105,8 @@ margin-top:15px;
 <div class="grid-container">
       <div><img src="/images/Cropped_images/Ethos_Issue_22/print22-02.jpg"></div>
         <div><h3>Learning from Crisis</h3>
-            <b><i></i></b>
-<p></p>	
+            <b><i>by Tharman Shanmugaratnam</i></b>
+<p>The following remarks-drawing lessons on governance from the ongoing COVID-19 crisis-were abridged from a speech given by the Senior Minister at the Administrative Service Appointment and Promotion Ceremony on 29 March 2021.</p>	
             
 <div class="button1"><a target="_blank" href="">Read More</a></div><br></div>
     </div>
