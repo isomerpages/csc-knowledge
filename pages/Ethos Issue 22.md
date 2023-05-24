@@ -159,7 +159,7 @@ margin-top:15px;
 <div class="grid-container">
     <div><img src=""></div>
 <div>
-		<h3></h3>
+		<h3>Contact Tracing Tech Across the Data Life Cycle</h3>
 		<b><i></i></b>
 		<p></p>
 
@@ -170,7 +170,7 @@ margin-top:15px;
 <div class="grid-container">
   <div><img src=""></div>
   <div class="content">
-    <h3></h3>
+    <h3>The Role of Public Communications and Engagement in a Pandemic</h3>
     <b><i></i></b>
     <p></p>
     <div class="button1"><a target="_blank" href="">Read More</a></div>
@@ -180,7 +180,7 @@ margin-top:15px;
 <div class="grid-container">
   <div><img src=""></div>
   <div class="content">
-    <h3></h3>
+    <h3>Leadership at a Time of (Another) Crisis</h3>
     <b><i></i></b>
     <p></p>
     <div class="button1"><a target="_blank" href="">Read More</a></div>
@@ -193,7 +193,7 @@ margin-top:15px;
     <img src="">
   </div>
   <div class="content">
-    <h3></h3>
+    <h3>Transformation in the Singapore Public Service: Emerging Stronger from the Pandemic</h3>
     <b><i></i></b>
     <p></p>
     <div class="button1"><a target="_blank" href="">Read More</a></div>
@@ -206,14 +206,24 @@ margin-top:15px;
     <img src="">
   </div>
   <div class="content">
-    <h3></h3>
+    <h3>COVID-19 and Singapore's Health Diplomacy</h3>
     <b><i></i></b>
     <p></p>
     <div class="button1"><a target="_blank" href="">Read More</a></div>
   </div>
 </div>
 
-
+<div class="grid-container">
+  <div>
+    <img src="">
+  </div>
+  <div class="content">
+    <h3>The Global Pandemic, US-China Relations, and implications for Singapore and ASEAN</h3>
+    <b><i></i></b>
+    <p></p>
+    <div class="button1"><a target="_blank" href="">Read More</a></div>
+  </div>
+</div>
 
 <div class="back">
 <a href="/all-issues/">Back to All Issues</a>
