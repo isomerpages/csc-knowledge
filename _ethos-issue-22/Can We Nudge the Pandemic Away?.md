@@ -69,7 +69,7 @@ li {
 	}	
 
 .containerbox img {
-	height: 100% !important;
+	height: 50% !important;
 	width: 60%; 
 	}	
 	
