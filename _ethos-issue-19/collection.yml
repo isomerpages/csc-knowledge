@@ -2,6 +2,7 @@ collections:
   ethos-issue-19:
     output: true
     order:
+      - Editorial.md
       - Developing a Liveable & Sustainable Singapore.md
       - "Integrity: Fundamentals for Singapore's Governance Success.md"
       - "Connecting to the World: Singapore as a Hub Port.md"
