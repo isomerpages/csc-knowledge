@@ -142,7 +142,7 @@ margin-top:15px;
             
 <p>Measures to ease financial strain, support families and protect work-life balance can relieve key stressors during the COVID-19 outbreak.</p>	
             
-<div class="button1"><a target="_blank" href="">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-22/strengthening-mental-wellbeing-in-a-pandemic/">Read More</a></div><br></div>
 </div>
  <br>	
 <div class="grid-container">
@@ -152,7 +152,7 @@ margin-top:15px;
 		<h3>Can we Nudge the Pandemic Away?</h3>
 		<b><i>by Do Hoang Van Khanh and Mervin Loi</i></b>
 		<p>While nudges cannot and should not replace mandatory health measures and lockdowns in the COVID-19 crisis, they can be used to complement regulations, especially in helping communities cope with the long-drawn measures and negative consequences of the pandemic.</p>
-			<div class="button1"><a target="_blank" href="">Read More</a></div>
+			<div class="button1"><a target="_blank" href="/ethos-issue-22/can-we-nudge-the-pandemic-away/">Read More</a></div>
 	</div>
 </div>
 </div>
@@ -164,7 +164,7 @@ margin-top:15px;
 		<b><i>by Vernie Oliveiro</i></b>
 		<p>To maintain public trust and uptake and effectively curtail the spread of COVID-19, digital contact tracing apps should have a robust data governance policy</p>
 
-<div class="button1"><a target="_blank" href="">Read More</a></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-22/contact-tracing-tech-across-the-data-life-cycle/">Read More</a></div>
 			</div>
 </div>
  <br>	
@@ -174,7 +174,7 @@ margin-top:15px;
     <h3>The Role of Public Communications and Engagement in a Pandemic</h3>
     <b><i>by Heather Humphries</i></b>
     <p>Clear messaging, credible information, timely updates and meaningful collaboration can increase public trust in a government’s ability to manage a crisis, and promote social responsibility and resilience.</p>
-    <div class="button1"><a target="_blank" href="">Read More</a></div>
+    <div class="button1"><a target="_blank" href="/ethos-issue-22/the-role-of-public-communications-and-engagement-in-a-pandemic/">Read More</a></div>
   </div>
 </div>
  <br>	
@@ -186,7 +186,7 @@ margin-top:15px;
     <h3>Leadership at a Time of (Another) Crisis</h3>
     <b><i>by Peter Shergold</i></b>
     <p>Strong, nuanced communication and the ability to seize opportunities have emerged as attributes of effective public sector leadership in a COVID-disrupted world.</p>
-    <div class="button1"><a target="_blank" href="">Read More</a></div>
+    <div class="button1"><a target="_blank" href="/ethos-issue-22/leadership-at-a-time-of-another-crisis/">Read More</a></div>
   </div>
 </div>
 
@@ -199,7 +199,7 @@ margin-top:15px;
     <h3>Transformation in the Singapore Public Service: Emerging Stronger from the Pandemic</h3>
     <b><i>by Ang Hak Seng and Sueann Soon</i></b>
     <p>Drawing lessons from its past experiences with disruptive and transformative change, the public sector has helped steady and bring together Singaporeans in a turbulent post-COVID world.</p>
-    <div class="button1"><a target="_blank" href="">Read More</a></div>
+    <div class="button1"><a target="_blank" href="/ethos-issue-22/transformation-in-the-singapore-public-service-emerging-stronger-from-the-pandemic/">Read More</a></div>
   </div>
 </div>
 
@@ -212,7 +212,7 @@ margin-top:15px;
     <h3>COVID-19 and Singapore's Health Diplomacy</h3>
     <b><i>by Gianna Gayle Amul and Tikki Pang</i></b>
     <p>Since the outbreak of the pandemic, Singapore’s health diplomacy initiatives have sought to reaffirm its relevance to the regional and international community.</p>
-    <div class="button1"><a target="_blank" href="">Read More</a></div>
+    <div class="button1"><a target="_blank" href="/ethos-issue-22/covid-19-and-singapores-health-diplomacy/">Read More</a></div>
   </div>
 </div>
 
@@ -224,7 +224,7 @@ margin-top:15px;
     <h3>The Global Pandemic, US-China Relations, and implications for Singapore and ASEAN</h3>
     <b><i>by Khong Yuen Foong</i></b>
     <p>Geopolitical rivalries will continue to shape a post-COVID world, confronting smaller states with strategic choices that may be challenging to balance.</p>
-    <div class="button1"><a target="_blank" href="">Read More</a></div>
+    <div class="button1"><a target="_blank" href="/ethos-issue-22/the-global-pandemic-us-china-relations-and-implications-for-singapore-and-asean/">Read More</a></div>
   </div>
 </div>
 
