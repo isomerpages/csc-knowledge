@@ -498,10 +498,7 @@ people and more united citizens, standing firm in the knowledge that we look aft
     https://www.mom.gov.sg/covid-19/tripartite-advisory-on-mental-well-being-at-workplaces.  
     </li>  
 </ol>  
-  
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+    
 
 
 
