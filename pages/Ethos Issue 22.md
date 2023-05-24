@@ -102,7 +102,7 @@ margin-top:15px;
     </div>
 <br>
 <div class="grid-container">
-      <div><img src=""></div>
+      <div><img src="/images/Cropped_images/Ethos_Issue_22/print22-02.jpg"></div>
         <div><h3>Learning from Crisis</h3>
             <b><i></i></b>
 <p></p>	
