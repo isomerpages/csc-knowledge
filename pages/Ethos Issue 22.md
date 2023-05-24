@@ -150,8 +150,8 @@ margin-top:15px;
 	<div>
 		<div>
 		<h3>Can we Nudge the Pandemic Away?</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Do Hoang Van Khanh and Mervin Loi</i></b>
+		<p>While nudges cannot and should not replace mandatory health measures and lockdowns in the COVID-19 crisis, they can be used to complement regulations, especially in helping communities cope with the long-drawn measures and negative consequences of the pandemic.</p>
 			<div class="button1"><a target="_blank" href="">Read More</a></div>
 	</div>
 </div>
