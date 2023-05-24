@@ -424,9 +424,6 @@ employees with the means to retrain to be more productive and more employable to
     </li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
