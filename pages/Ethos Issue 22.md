@@ -125,7 +125,7 @@ margin-top:15px;
 <br>    
 <div class="grid-container">
         <div><img src=""></div>
-<div><h3></h3>
+<div><h3>Supporting Jobs and Livelihoods during the Pandemic</h3>
             <b><i>
 </i></b>
             
@@ -136,7 +136,7 @@ margin-top:15px;
 <br>
 <div class="grid-container">
         <div><img src=""></div>
-<div><h3></h3>
+<div><h3>Strengthening Mental Wellbeing in a Pandemic</h3>
             <b><i></i></b>
             
 <p></p>	
@@ -148,7 +148,7 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<div>
-		<h3></h3>
+		<h3>Can we Nudge the Pandemic Away?</h3>
 		<b><i></i></b>
 		<p></p>
 			<div class="button1"><a target="_blank" href="">Read More</a></div>
