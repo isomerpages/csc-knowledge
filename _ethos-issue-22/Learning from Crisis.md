@@ -274,8 +274,7 @@ change, and how we have to change course. Being transparent on mistakes or overs
 <div class="break">  
   
 <p class="break1">  
-Trust is not something you can summon up in a  
-crisis. It has to be something built and earned all the time.  
+The countries that have done best to date in countering COVID-19 are those where people had trust in government, and had trust among themselves. It is what upholds belief in the public good.
 </p>  
   
 </div>  
