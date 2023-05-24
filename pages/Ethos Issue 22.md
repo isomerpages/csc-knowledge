@@ -169,11 +169,11 @@ margin-top:15px;
 </div>
  <br>	
 <div class="grid-container">
-  <div><img src=""></div>
+  <div><img src="/images/Cropped_images/Ethos_Issue_22/22_Teaser_RoleOfPublicComms.jpg"></div>
   <div class="content">
     <h3>The Role of Public Communications and Engagement in a Pandemic</h3>
-    <b><i></i></b>
-    <p></p>
+    <b><i>by Heather Humphries</i></b>
+    <p>Clear messaging, credible information, timely updates and meaningful collaboration can increase public trust in a government’s ability to manage a crisis, and promote social responsibility and resilience.</p>
     <div class="button1"><a target="_blank" href="">Read More</a></div>
   </div>
 </div>
