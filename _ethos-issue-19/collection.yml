@@ -1,4 +1,5 @@
 collections:
   ethos-issue-19:
     output: true
-    order: []
+    order:
+      - Growing a Biophilic City in a Garden.md
