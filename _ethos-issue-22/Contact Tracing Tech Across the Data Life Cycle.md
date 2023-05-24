@@ -57,6 +57,8 @@ font-family: Georgia;
 	padding: 5%;
 	margin-top: 5%;
 	border-top: 20px solid black;
+	box-shadow: 5px 5px #888888;
+	
 	
 	}	
 .containerbox h3 {
@@ -147,7 +149,7 @@ li {
 
 
 
-<p class="small-text text">What are the privacy concerns in Israel, Australia and the United Kingdom?</p>
+<!-- <p class="small-text text">What are the privacy concerns in Israel, Australia and the United Kingdom?</p> -->
 
 
 
