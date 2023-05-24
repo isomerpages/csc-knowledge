@@ -178,12 +178,14 @@ margin-top:15px;
   </div>
 </div>
  <br>	
+
+
 <div class="grid-container">
-  <div><img src=""></div>
+  <div><img src="/images/Cropped_images/Ethos_Issue_22/22_Teaser_LeadershipAtATimeOfCrisis.jpg"></div>
   <div class="content">
     <h3>Leadership at a Time of (Another) Crisis</h3>
-    <b><i></i></b>
-    <p></p>
+    <b><i>by Peter Shergold</i></b>
+    <p>Strong, nuanced communication and the ability to seize opportunities have emerged as attributes of effective public sector leadership in a COVID-disrupted world.</p>
     <div class="button1"><a target="_blank" href="">Read More</a></div>
   </div>
 </div>
@@ -195,8 +197,8 @@ margin-top:15px;
   </div>
   <div class="content">
     <h3>Transformation in the Singapore Public Service: Emerging Stronger from the Pandemic</h3>
-    <b><i></i></b>
-    <p></p>
+    <b><i>by Ang Hak Seng and Sueann Soon</i></b>
+    <p>Drawing lessons from its past experiences with disruptive and transformative change, the public sector has helped steady and bring together Singaporeans in a turbulent post-COVID world.</p>
     <div class="button1"><a target="_blank" href="">Read More</a></div>
   </div>
 </div>
