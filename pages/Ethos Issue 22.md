@@ -113,24 +113,24 @@ margin-top:15px;
     
 <br>    
 <div class="grid-container">
-        <div><img src=""></div>
+        <div><img src="/images/Cropped_images/Ethos_Issue_22/print22-03.jpg"></div>
 
 <div><h3>Fiscal Responses to COVID-19 in Singapore and Hong Kong</h3>
-            <b><i></i></b>
+            <b><i>by Alfred M. Wu</i></b>
             
-<p></p>	
+<p>Deploying judicious pandemic support measures, Singapore and Hong Kong have sought to stabilise their economies and societies, while laying a foundation for post-pandemic growth.</p>	
             
 <div class="button1"><a href="">Read More</a></div><br></div>
     </div>
     
 <br>    
 <div class="grid-container">
-        <div><img src=""></div>
+<div>
+<img src="/images/Cropped_images/Ethos_Issue_22/print22-04.jpg"></div>
 <div><h3>Supporting Jobs and Livelihoods during the Pandemic</h3>
-            <b><i>
-</i></b>
+            <b><i>by Terence Ho</i></b>
             
-<p></p>	
+<p>While the human toll of a pandemic is expressed first and foremost in terms of lives lost to the disease, the longer-term wellbeing of Singaporeans is also dependent on the jobs, incomes and livelihoods that have been affected or disrupted by the ensuing economic crisis. For this reason, the Singapore Government has prioritised the protection of “lives and livelihoods”1 in the long fight against COVID-19.</p>	
             
 <div class="button1"><a target="_blank" href="">Read More</a></div><br></div>
     </div>
