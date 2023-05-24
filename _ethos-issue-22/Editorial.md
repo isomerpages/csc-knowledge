@@ -69,6 +69,11 @@ li {
 <em><small>ETHOS Issue 22, June 2021</small></em>
 <img src="/images/Cropped_images/Ethos_Issue_22/editorial_landing.jpg">
 
+
+
+<p>
+Today, more than a year after the outbreak first came to light, the world remains in the grip of the COVID-19 pandemic. While we now know much more about the novel coronavirus, and the rapid development of effective vaccines has brought real hope, formidable challenges remain: not least in the form of virulent new variants, the uneven distribution of vaccines and treatments, and a subdued global economy. However much we may wish otherwise, the crisis will not pass anytime soon. The pandemic has already had a far-reaching impact on the economy and society—including significant changes to the way we live, work and play—with implications that will linger for many years to come. We are still some way from getting a full sense of what COVID-19 means for Singapore, where the virus remains a clear and present threat—as a recent resurgence in cases reminds us. Nevertheless, we can observe, learn from and consolidate what progress we have made, continuing to improve our responses even as the pandemic evolves
+</p>
   
 <p>In the past year, ETHOS has sought to document and reflect on these developments in a series of digital editions. In this, our first print edition since the outbreak, we take stock of the multifarious crisis wrought by the pandemic, and begin to frame its socioeconomic, governance and geopolitical nuances in ways that may serve future consideration. In this endeavour, the Civil Service College (CSC) benefits from a partnership with the Lee Kuan Yew School of Public Policy, whose faculty have kindly lent their perspectives to several articles.</p>  
   
