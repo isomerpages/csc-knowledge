@@ -265,11 +265,6 @@ for the Household Support Package. At the same time, the Government has stepped 
     </li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
-
 
 <br>
 <br>	
