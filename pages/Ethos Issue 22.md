@@ -206,24 +206,24 @@ margin-top:15px;
  <br>	
 <div class="grid-container">
   <div>
-    <img src="">
+    <img src="/images/Cropped_images/Ethos_Issue_22/22_Teaser_SG%20and%20Covid19%20In%20Perspective.jpg">
   </div>
   <div class="content">
     <h3>COVID-19 and Singapore's Health Diplomacy</h3>
-    <b><i></i></b>
-    <p></p>
+    <b><i>by Gianna Gayle Amul and Tikki Pang</i></b>
+    <p>Since the outbreak of the pandemic, Singapore’s health diplomacy initiatives have sought to reaffirm its relevance to the regional and international community.</p>
     <div class="button1"><a target="_blank" href="">Read More</a></div>
   </div>
 </div>
 
 <div class="grid-container">
   <div>
-    <img src="">
+    <img src="/images/Cropped_images/Ethos_Issue_22/22_Teaser_US_China_Relations.jpg">
   </div>
   <div class="content">
     <h3>The Global Pandemic, US-China Relations, and implications for Singapore and ASEAN</h3>
-    <b><i></i></b>
-    <p></p>
+    <b><i>by Khong Yuen Foong</i></b>
+    <p>Geopolitical rivalries will continue to shape a post-COVID world, confronting smaller states with strategic choices that may be challenging to balance.</p>
     <div class="button1"><a target="_blank" href="">Read More</a></div>
   </div>
 </div>
