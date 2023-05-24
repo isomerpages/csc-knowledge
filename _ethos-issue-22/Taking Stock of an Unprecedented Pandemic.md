@@ -169,10 +169,11 @@ world fall into three broad classes: containment, health measures, and non-pharm
   
   
 <br>  
+<br>
+<br>
+
   
-  
-  
-<p class="small-text text">Singapore has not been alone in implementing firm containment measures alongside health and non-medical responses to the pandemic.</p>  
+
   
   
   
@@ -181,6 +182,9 @@ world fall into three broad classes: containment, health measures, and non-pharm
   
   
 <h3 class="title">How Other Countries Have Responded to the Pandemic</h3>  
+	
+<p class="small-text text">Singapore has not been alone in implementing firm containment measures alongside health and non-medical responses to the pandemic.</p>  
+	
 <p class="text"> <strong>China</strong>, where the first COVID-19 cases were detected, is arguably the nation that has most strongly applied containment measures to lower infections and deaths at the onset of the pandemic.<sup>1</sup> As of 6 May 2021, it has allocated almost 5% of its GDP to discretionary fiscal spending, targeting epidemic control, medical equipment, unemployment insurance (including for migrant workers), tax relief, and further public investment.<sup>2</sup> In absolute numbers, China has also administered more COVID-19 vaccine doses than any other nation (over 700 million by 4 June 2021), with plans to inoculate most of its population by the end of 2021.<sup>3</sup></p>  
 <p>In the <strong>US</strong>, in March 2020—more than five weeks after WHO declared a Public Health Emergency of International Concern—then-President Trump was still downplaying the severity of the situation, comparing the coronavirus to ordinary flu.<sup>4</sup> Despite this, US fiscal support in response to the pandemic was considerable. The Coronavirus Aid, Relief, and Economic Security Act of March 2020, signed into law by President Trump, provided US$2.3 trillion in economic stimulus, including one-time cash payments to taxpayers, increased unemployment benefits, loans to corporations, and aid to state and local governments. Amounting to 11% of GDP, this was the largest federal stimulus package in US history.<sup>5</sup> In March 2021, President Biden signed the American Rescue Plan, providing another 9% of GDP to extend unemployment benefits, send direct stimulus payments to individuals, and increase school funding.</p>  
 <p>The <strong>UK</strong> initially considered a strategy of "herd immunity"—allowing enough of the population to get a mild case of COVID-19 and attain immunity, shielding the more vulnerable from infection. Confronted with a spike in cases, the government later imposed social distancing measures, including sharp restrictions on the operations of gyms and entertainment outlets.<sup>6</sup> The UK was the first Western country to administer large-scale vaccinations to its residents, starting from December 2020. By 15 April 2021, the UK had offered at least the first dose of the vaccine to everyone above the age of 50 and those in high-risk categories that accounted for 99% of UK's COVID-19 deaths. Following these measures, daily cases in the UK fell from a high of 90 per 100,000 people in January 2021 to 2.4 per 100,000 people in mid-April 2021.<sup>7</sup> </p>  
