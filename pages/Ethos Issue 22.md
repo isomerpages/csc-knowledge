@@ -158,11 +158,11 @@ margin-top:15px;
 </div>
  <br>	
 <div class="grid-container">
-    <div><img src=""></div>
+    <div><img src="/images/Cropped_images/Ethos_Issue_22/22_Teaser_Contact_Tracing.jpg"></div>
 <div>
 		<h3>Contact Tracing Tech Across the Data Life Cycle</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Vernie Oliveiro</i></b>
+		<p>To maintain public trust and uptake and effectively curtail the spread of COVID-19, digital contact tracing apps should have a robust data governance policy</p>
 
 <div class="button1"><a target="_blank" href="">Read More</a></div>
 			</div>
