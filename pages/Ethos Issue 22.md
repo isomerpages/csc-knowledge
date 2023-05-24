@@ -136,17 +136,17 @@ margin-top:15px;
     </div>
 <br>
 <div class="grid-container">
-        <div><img src=""></div>
+        <div><img src="/images/Cropped_images/Ethos_Issue_22/22_Teaser_Strengthening_Mental_Wellbeing.jpg"></div>
 <div><h3>Strengthening Mental Wellbeing in a Pandemic</h3>
-            <b><i></i></b>
+            <b><i>by Rianne Karthikayen</i></b>
             
-<p></p>	
+<p>Measures to ease financial strain, support families and protect work-life balance can relieve key stressors during the COVID-19 outbreak.</p>	
             
 <div class="button1"><a target="_blank" href="">Read More</a></div><br></div>
 </div>
  <br>	
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_22/print22-06.jpg"></div>
 	<div>
 		<div>
 		<h3>Can we Nudge the Pandemic Away?</h3>
