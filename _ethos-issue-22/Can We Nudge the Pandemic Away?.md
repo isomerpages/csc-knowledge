@@ -157,7 +157,6 @@ public, and avoid going out.</p>
 
 
 
-<p class="small-text text"> Nudges to maintain safe distancing and encourage hand washing</p>
 
 
 
@@ -179,6 +178,8 @@ public, and avoid going out.</p>
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text">Image source: University of Bayreuth. Reproduced with permission.</p>
 <p>The <em>footprints with signs</em> design (image 3) was the most effective at nudging customers without a shopping trolley, with 63% of them adhering to the safe distancing. In comparison, the <em>lines</em> (image 1) and <em>footprints</em> (image 2) designs achieved a compliance rate of 34% and 49% respectively.<sup>1</sup> </p>
 <h3>Nudges to encourage hand washing</h3>
+<p class="small-text text"> Nudges to maintain safe distancing and encourage hand washing</p>
+	
 <p>Efforts to encourage proper hand washing as an effective and affordable way to curb the spread of preventable diseases predate COVID-19. </p>
 <p>In Bangladesh, an experiment to encourage good hand hygiene among students—by placing cheerful footsteps along the pathway between a school latrine and brightly decorated hand washing stations—increased the incidence of students washing their hands with soap after using the toilet from 4% to 68%.<sup>2</sup></p>
 <p>In a March 2020 experiment, respondents were shown seven hand washing posters designed by various health authorities and the World Health Organization. The study found posters that used bright infographic designs, accompanied with minimal text to illustrate proper hand washing techniques, to be most effective in terms of ease of comprehension, sentiments and persuasiveness.<sup>3</sup></p>
