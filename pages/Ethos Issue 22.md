@@ -126,7 +126,7 @@ margin-top:15px;
 <br>    
 <div class="grid-container">
 <div>
-<img src="/images/Cropped_images/Ethos_Issue_22/print22-04.jpg"></div>
+<img src="/images/Cropped_images/Ethos_Issue_22/22_Teaser_TerenceHo_SupportingJobs.jpg"></div>
 <div><h3>Supporting Jobs and Livelihoods during the Pandemic</h3>
             <b><i>by Terence Ho</i></b>
             
