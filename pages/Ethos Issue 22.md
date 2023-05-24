@@ -130,7 +130,7 @@ margin-top:15px;
 <div><h3>Supporting Jobs and Livelihoods during the Pandemic</h3>
             <b><i>by Terence Ho</i></b>
             
-<p>While the human toll of a pandemic is expressed first and foremost in terms of lives lost to the disease, the longer-term wellbeing of Singaporeans is also dependent on the jobs, incomes and livelihoods that have been affected or disrupted by the ensuing economic crisis. For this reason, the Singapore Government has prioritised the protection of “lives and livelihoods”1 in the long fight against COVID-19.</p>	
+<p>LKYSPP’s Terence Ho surveys the Singapore Government’s multi-pronged approach to supporting businesses, incomes and households—for the duration of the COVID-19 crisis, and beyond.</p>	
             
 <div class="button1"><a target="_blank" href="">Read More</a></div><br></div>
     </div>
