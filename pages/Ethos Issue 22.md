@@ -49,7 +49,7 @@ margin-top:15px;
 }	
 </style>
 <div class="grid-container">
-        <div><img src="/images/Ethos_Thumbnails_Cover/"></div>
+        <div><img src="/images/Ethos_Thumbnails_Cover/ethosissue22.jpg"></div>
         <div><h3><span class="cat">ISSUE 22, JUN 2021</span>
             <br>ETHOS Issue 22</h3>	
             <p></p>
@@ -62,7 +62,7 @@ margin-top:15px;
  <br>
  
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
 		<b><i></i></b>
@@ -90,7 +90,7 @@ margin-top:15px;
 
 
 <div class="grid-container">
-        <div><img src=""></div>
+        <div><img src="/images/Cropped_images/Ethos_Issue_22/print22-01.jpg"></div>
   <div>
 	<h3>Taking Stock of an Unprecedented Pandemic</h3>
             <b><i></i></b>
