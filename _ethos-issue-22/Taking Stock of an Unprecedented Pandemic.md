@@ -60,6 +60,10 @@ font-family: Georgia;
 	color: white;
 	}	
 
+.containerbox h3 {
+	color: white;
+	}	
+	
 .containerbox strong {
 	color: #cb682d;
 	}	
