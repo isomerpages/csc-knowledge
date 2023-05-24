@@ -64,7 +64,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Editorial</h3>
 		<b><i></i></b>
 		<p></p>
 	
@@ -76,7 +76,7 @@ margin-top:15px;
 <div class="grid-container">
         <div><img src="">
 	</div>
-        <div><h3> </h3>
+        <div><h3>Singapore and COVID-19: In-Perspective</h3>
             <b><i></i></b>
             <figcaption>
             </figcaption>
@@ -92,7 +92,7 @@ margin-top:15px;
 <div class="grid-container">
         <div><img src=""></div>
   <div>
-	<h3></h3>
+	<h3>Taking Stock of an Unprecedented Pandemic</h3>
             <b><i></i></b>
             
 <p>
@@ -103,7 +103,7 @@ margin-top:15px;
 <br>
 <div class="grid-container">
       <div><img src=""></div>
-        <div><h3></h3>
+        <div><h3>Learning from Crisis</h3>
             <b><i></i></b>
 <p></p>	
             
@@ -114,7 +114,7 @@ margin-top:15px;
 <div class="grid-container">
         <div><img src=""></div>
 
-<div><h3></h3>
+<div><h3>Fiscal Responses to COVID-19 in Singapore and Hong Kong</h3>
             <b><i></i></b>
             
 <p></p>	
