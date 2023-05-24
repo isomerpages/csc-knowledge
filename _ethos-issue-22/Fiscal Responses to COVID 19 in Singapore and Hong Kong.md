@@ -57,11 +57,12 @@ font-family: Georgia;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
+	color: white;
 	
 	}	
 
 .containerbox strong , .containerbox h3{
-	color: #478ecc;
+	color: #478ecc !important;
 	}	
 	
 
@@ -140,8 +141,7 @@ through “demand-side” policies.
   
   
   
-<p class="small-text text">Musgrave’s (1956) classical work on public finance theory frames government budgets as having three purposes: (1) provision of public goods; (2) distribution of resources; and (3) stabilisation, i.e., maintaining high levels of employment  
-and price stability.</p>  
+
   
   
   
