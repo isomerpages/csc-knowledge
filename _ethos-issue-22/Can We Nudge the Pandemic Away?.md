@@ -169,7 +169,13 @@ public, and avoid going out.</p>
 <p class="text">&nbsp;</p>
 <h3> Nudges to maintain safe distancing</h3>
 <p>Researchers from the University of Bayreuth assessed the effectiveness of three different designs of floor stickers—<em>lines</em> (image 1); <em>footprints</em> (image 2); and <em>footprints with signs</em> (image 3) in maintaining safe distancing between customers at a store checkout area. <em>(Click on image to see a larger version)</em></p>
-<p><img src="/images/Ethos_Images/Ethos_Issue_22/Image_Nudge_1.jpg" alt="Supermarket_small"></p>
+
+<img src="/images/Ethos_Images/Ethos_Issue_22/Image_Nudge_1.jpg" alt="Supermarket_small">
+<br>
+<img src="/images/Ethos_Images/Ethos_Issue_22/Image_Nudge_2.jpg">	
+<br>	
+<img src="/images/Ethos_Images/Ethos_Issue_22/Image_Nudge_3.jpg">	
+	
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text">Image source: University of Bayreuth. Reproduced with permission.</p>
 <p>The <em>footprints with signs</em> design (image 3) was the most effective at nudging customers without a shopping trolley, with 63% of them adhering to the safe distancing. In comparison, the <em>lines</em> (image 1) and <em>footprints</em> (image 2) designs achieved a compliance rate of 34% and 49% respectively.<sup>1</sup> </p>
 <h3>Nudges to encourage hand washing</h3>
