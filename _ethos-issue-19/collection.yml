@@ -2,6 +2,8 @@ collections:
   ethos-issue-19:
     output: true
     order:
+      - "Successful Ageing: Progressive Governance and Collaborative
+        Communities.md"
       - "Reimagining Singapore: Placemaking through Arts and Culture.md"
       - Co creating the Rail Corridor Future.md
       - Growing a Biophilic City in a Garden.md
