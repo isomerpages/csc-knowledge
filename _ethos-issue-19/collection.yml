@@ -2,6 +2,7 @@ collections:
   ethos-issue-19:
     output: true
     order:
+      - "Integrity: Fundamentals for Singapore's Governance Success.md"
       - "Connecting to the World: Singapore as a Hub Port.md"
       - Public Transport Planning and the Technological Revolution.md
       - The Future of Heartland Living.md
