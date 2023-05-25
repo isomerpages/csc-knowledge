@@ -182,19 +182,19 @@ life periods and age groups.
   
 <p>This suggests that participation in lifelong learning is significantly influenced by previous education and learning experiences.<sup><a href="#notes">7</a></sup> However, lifelong learning&nbsp;is important to consider in relation to social inclusion and cohesiveness. We therefore have to be more conscientious about reaching out to seniors from&nbsp;all walks of life, so that everyone can&nbsp;benefit from lifelong learning regardless&nbsp;of their backgrounds.&nbsp;</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 We have to be more proactive  
 about investing in learning—  
 tangibly or otherwise—during  
 our later years.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p style="text-align: center;">  
-<img title="Figure 2. Lifelong Learning Scores, by Highest Education Attained" src="../../images/default-source/ethos-images/ethos-issue-20/lifelong\_charts-03.jpg?sfvrsn=9659106f\_0" data-displaymode="Original" alt="Figure 2. Lifelong Learning Scores, by Highest Education Attained">&nbsp;</p>  
+<img title="Figure 2. Lifelong Learning Scores, by Highest Education Attained" src="" data-displaymode="Original" alt="Figure 2. Lifelong Learning Scores, by Highest Education Attained">&nbsp;</p>  
   
 <p style="text-align: center;" class="small-text"><strong>Figure 2.</strong> Lifelong Learning Scores, by Highest Education Attained<sup><a href="#notes">6</a></sup></p>  
   
