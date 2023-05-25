@@ -196,10 +196,10 @@ to switch careers.
   
 <h3 class="title">Intergenerational Bonding Through Sports</h3>  
 <p class="text">In conjunction with Singapore’s 53rd National Day celebration, Singapore University of Social Sciences (SUSS) Gerontology students and Alumni, together with community partners St Luke’s Eldercare Ltd and Singapore Amalgamated Services Co-Operative (SASCO) and student volunteers from Central ITE Polytechnic, recently organised a successful Sports Day at the Singapore Sports Hub for about 150 seniors aged 65 years and above. The seniors played games and ran relays that helped them relive their youthful schooldays. These photos capture the sense of achievement and enthusiasm the seniors experienced that morning.</p>  
-<p style="text-align: center;"><img title="Intergenerational Bonding Through Sports\_1" src="../../images/default-source/ethos-images/ethos-issue-20/img\_1358.jpg?sfvrsn=a84ce17d\_0" data-displaymode="Original" alt="Intergenerational Bonding Through Sports"><br>  
-<img title="Intergenerational Bonding Through Sports\_2" src="../../images/default-source/ethos-images/ethos-issue-20/dsc00359.jpg?sfvrsn=a01c69\_0" data-displaymode="Original" alt="Intergenerational Bonding Through Sports"><br>  
-<img title="Intergenerational Bonding Through Sports\_3" src="../../images/default-source/ethos-images/ethos-issue-20/img\_1354.jpg?sfvrsn=8fd45839\_0" data-displaymode="Original" alt="Intergenerational Bonding Through Sports"><br>  
-<img title="Intergenerational Bonding Through Sports\_4" src="../../images/default-source/ethos-images/ethos-issue-20/img\_1352.jpg?sfvrsn=65cae63\_0" data-displaymode="Original" alt="Intergenerational Bonding Through Sports"></p>  
+<p style="text-align: center;"><img title="Intergenerational Bonding Through Sports\_1" src="/images/Ethos_Images/Ethos_Issue_20/Intergenerational_Bonding_Through_Sports_1.jpg" data-displaymode="Original" alt="Intergenerational Bonding Through Sports"><br>  
+<img title="Intergenerational Bonding Through Sports\_2" src="/images/Ethos_Images/Ethos_Issue_20/Intergenerational_Bonding_Through_Sports_2.jpg" data-displaymode="Original" alt="Intergenerational Bonding Through Sports"><br>  
+<img title="Intergenerational Bonding Through Sports\_3" src="/images/Ethos_Images/Ethos_Issue_20/Intergenerational_Bonding_Through_Sports_3.jpg" data-displaymode="Original" alt="Intergenerational Bonding Through Sports"><br>  
+<img title="Intergenerational Bonding Through Sports\_4" src="/images/Ethos_Images/Ethos_Issue_20/Intergenerational_Bonding_Through_Sports_4.jpg" data-displaymode="Original" alt="Intergenerational Bonding Through Sports"></p>  
   
   
   
@@ -213,15 +213,15 @@ to switch careers.
 <p class="small-text"><em>For more information on the Master and PhD in gerontology degree programmes please visit <a href="https://www.suss.edu.sg/">https://www.suss.edu.sg/</a>.</em>  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>  
+<h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Kalyani K. Mehta</strong> is the Head of the Gerontology programme at Singapore University of Social Sciences. She taught at the NUS Department of Social Work before joining SUSS to start the Master of Gerontology degree programme in 2011. She has published widely and has a strong international and regional network. Currently, she is involved in research and training on age management practices, inter-generational activities, and caregiving for seniors. </p>  
   
 <p class="small-text">The author acknowledges the contribution of Ms Amanda Chan (Master of Gerontology graduate) towards the earlier version of this paper which was presented at the 14th International Federation of Ageing conference held in Toronto, Canada in August 2018.</p>  
   
-<hr>  
+</div>  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>  
   
