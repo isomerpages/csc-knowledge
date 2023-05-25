@@ -154,16 +154,16 @@ We need to not just be good consumers and receivers, but also good creators, pro
 
 <p>In the course of thinking about the work of digital readiness, MCI has been guided by four main principles:</p>
 
-
+<h4>Different strokes, different folks</h4>
 <p>Everyone approaches digital readiness from a different starting point. We are therefore focused on levelling up people to a better understanding of what tech is and can do, from whatever current plane they are on, to whatever is a reasonable improvement for each individual.</p>
 
-
+<h4>Know the baseline, know what success looks like</h4>
 <p>We have to know where we are today, and where we are headed. Earlier this year, we completed a baseline survey for Digital Readiness, the first of its kind in Singapore. Engaging with 3,000 respondents representing Singaporean society today, we set out to understand Singaporeans’ levels of access to technology, digital literacy and digital skills, and their attitudes towards technology.</p>
 
-
+<h4>Find the hook</h4>
 <p>The UK’s Behavioural Insights team has suggested that if we want to encourage a behaviour, we have to make it Easy, Attractive, Social and Timely (EAST). This is where the digital readiness conversation turns to hooks and killer apps. We need to know the compelling reasons that make people want to transact digitally, so there is an incentive to learn the skills needed. For example, Netscape redefined surfing in the early days of the internet; iTunes in 2001 made it difficult for consumers to say no to Apple; Facebook has revolutionised how people network, interact and even live their lives today. What is the equivalent in health and wellness, communications and perhaps wayfinding applications that could encourage even the fearful to try their hand at technology? The Smart Nation Digital Government Group has, for example, developed the Moments of Life app, designed to be helpful in ways that people may not even think about, at specific moments of their lives—when getting married, when becoming a parent for the first time, when reaching a senior age. This is a start, but there remain many more possibilities for us to think about.</p>
 
-
+<h4>Empathy,empathy,empathy</h4>
 <p>It all starts with knowing who we are trying to help, which means spending real time on the ground, talking to the community, to Social Service Agencies, to industry, understanding pain points, aspirations and ideas. In the process of ensuring that all groups are able to thrive in a digital society, we then learn a lot about the characteristics of these groups, including their needs and hopes for the future.<br>
 <br>
 
