@@ -52,11 +52,11 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #34466a;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
 li {
@@ -191,7 +191,7 @@ to switch careers.
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Intergenerational Bonding Through Sports</h3>  
