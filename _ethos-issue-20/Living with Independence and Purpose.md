@@ -159,20 +159,20 @@ of society.
 <h3 class="title">Empowering Elders Through <span style="color:#fcb316;">Community Ownership</span></h3>  
 <p class="text">In 2011, over 18,000 people were killed and more than 65,000 people were displaced when a massive earthquake and tsunami hit northern Japan. When Ibasho and Operation USA visited the affected area to conduct interviews with elderly survivors in temporary community housing, they heard tales of extraordinary courage and hardship, and also of a strong desire to contribute to the rebuilding of their communities. The Honeywell Ibasho House was inspired and created by this spirit, as a partnership between the community of Ofunato in Japan, Ibasho, Operation USA and Honeywell.</p>  
 <p class="text">Here, older people do not passively sit and be served. Instead, they actively join in the planning, management and operation of the organisation. It is a place where elders participate in significant discussions and working is a normal part of everyday life.</p>  
-<hr>  
-<h5><em>  
+<div class="break">  
+<p class="break1">  
 People need a purpose. You don’t want to do exercise for the sake of exercise,  
 you don’t want to volunteer for the sake of volunteering; you want to do  
 something for others and see people being happy because of your service.  
-</em></h5>  
+</p>  
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Emi Kiyota</p>  
-<hr>  
+</div>  
 <br>  
-<p style="text-align: center;"><img title="Ibasho\_1" src="../../images/default-source/ethos-images/ethos-issue-20/150221-135700.jpg?sfvrsn=56c0fb81\_0" data-displaymode="Original" alt="Ibasho"><br>  
-<img title="Ibasho\_2" src="../../images/default-source/ethos-images/ethos-issue-20/171224-134217.jpg?sfvrsn=4b69ab8a\_0" data-displaymode="Original" alt="Ibasho"><br>  
-<img title="Ibasho\_3" src="../../images/default-source/ethos-images/ethos-issue-20/150703-143552.jpg?sfvrsn=d13e5e72\_0" data-displaymode="Original" alt="Ibasho"><br>  
-<img title="Ibasho\_4" src="../../images/default-source/ethos-images/ethos-issue-20/171224-134217b59eb7cf490e4df5be35f145e1cb7893.jpg?sfvrsn=1472561e\_0" data-displaymode="Original" alt="Ibasho"><br>  
-<img title="Ibasho\_5" src="../../images/default-source/ethos-images/ethos-issue-20/170531-163610.jpg?sfvrsn=b8fa3e6a\_0" data-displaymode="Original" alt="Ibasho"></p>  
+<p style="text-align: center;"><img title="Ibasho\_1" src="/images/Ethos_Images/Ethos_Issue_20/Ibasho_1.jpg" data-displaymode="Original" alt="Ibasho"><br>  
+<img title="Ibasho\_2" src="/images/Ethos_Images/Ethos_Issue_20/Ibasho_2.jpg" data-displaymode="Original" alt="Ibasho"><br>  
+<img title="Ibasho\_3" src="/images/Ethos_Images/Ethos_Issue_20/Ibasho_3.jpg" data-displaymode="Original" alt="Ibasho"><br>  
+<img title="Ibasho\_4" src="/images/Ethos_Images/Ethos_Issue_20/Ibasho_4.jpg" data-displaymode="Original" alt="Ibasho"><br>  
+<img title="Ibasho\_5" src="/images/Ethos_Images/Ethos_Issue_20/Ibasho_5.jpg" data-displaymode="Original" alt="Ibasho"></p>  
 <p class="small-text">Source: Photos courtesy of Ibasho and Dr Emi Kiyota. For more information on Ibasho, visit <a href="../www.ibasho.html">www.ibasho.org</a>.</p>  
   
   
@@ -196,9 +196,9 @@ something for others and see people being happy because of your service.
   
 <p>But if the government were to try to figure out what seniors and their families want, that again becomes top down. So it will be interesting to see a few stakeholders from various areas really sit down, determine what scenario they want to bring about, and how best to work together.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 While we cater to  
 specific populations,  
 we have to be  
@@ -207,9 +207,9 @@ segregate people
 as this can create  
 more ageism and  
 more stigma.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>6.&nbsp;There are cultural, social, gender and other differences in engaging seniors to be more active. What other aspects of ageing should we be paying more attention to, as we think about how best to support seniors?</h3>  
   
@@ -227,17 +227,17 @@ more stigma.
   
 <p>It’s the same with architecture: it is not just about attractive design. We want to make people’s lives better. If technology were too advanced, it can be intimidating and not helpful. Instead, a simple technology such as a telephone can help connect people. And just providing gadgets for people to kill time is not useful, because it doesn’t give meaning and purpose.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 I want people to treat  
 me thirty years down  
 the road the way they  
 treat me now: as a  
 normal human being.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>8.&nbsp;How do you hope to spend your own senior years when the time comes?</h3>  
   
@@ -247,13 +247,13 @@ normal human being.
   
 <p>I want to make my own decisions about how to live my day, which is like how I live my life like now. I’m such an introvert, that if I have to go a nursing home, I might not be interested in their activities: I’d rather just read my book. And I’d want those wishes to be respected.</p>  
   
-<hr>  
+<div class="author">  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>  
+<h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Dr Emi Kiyota</strong>, an environmental gerontologist, educator and organisational culture change expert, focuses on initiatives to improve the quality of the built environment for healthcare settings and long-term care services for elders. </p>  
   
-<hr>  
+</div>  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTE</p>  
   
