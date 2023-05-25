@@ -52,13 +52,19 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #4d4d4f;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
-
+.containerbox h3 {
+	color: #58c6d5;
+	}
+.containerbox a {
+	color:white;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -82,13 +88,13 @@ li {
   
 <p>Humanising technology could also mean taking into account both intrinsic needs (such as the desire to stay fit and healthy) and extrinsic motivations (such as incentives to spur individuals to exercise). This is the principle, for example, behind the Health Promotion Board’s step-tracker programme.<sup><a href="#notes">1</a></sup></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Context matters in the implementation of technology, for older adults as well as for their caregivers.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Another aspect of technology that can often be overlooked is its psychological value. Imagine a group of older adults exchanging news and updates with their old schoolmates and reminiscing about the good old days through Whatsapp—and the good this can do for their mental and emotional wellbeing. Such clear benefits can help make the embrace of technology more appealing. The social appeal of technology is akin to creating personalised virtual family and community spaces, where we do not need to physically meet our loved ones all the time in order to stay in touch effectively and affectively.</p>  
   
@@ -106,7 +112,7 @@ Context matters in the implementation of technology, for older adults as well as
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Social Uses of Technology: An Example</h3>  
