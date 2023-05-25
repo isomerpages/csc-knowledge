@@ -126,7 +126,7 @@ The indices focus on numerical measures of the presence of digital technology in
 
 
 <br>
-
+<h4>Success of digital projects</h4>
 <p>Following Dunleavy et al., a digital system’s success can be measured inversely, by the number of projects scrapped. This indicator matters because of the loss of investments involved during such write-offs. Project scrappage is likely to be affected by factors including:</p>
 
 <p>• size, scale and specificity (modularity) of projects;</p>
@@ -157,7 +157,7 @@ Governments should be measuring genuine project success, not merely project surv
 
 
 <br>
-
+<h4>Price competitiveness of government digital projects</h4>
 <p>This measure refers to the money cost of government projects, compared with similar efforts in other governments and other sectors. It measures whether governments are overpaying or obtaining value for money in their expenditure. Price competitiveness is likely to be influenced by:</p>
 
 <p>• the presence of incentives for civil service leaders to secure defensible prices (e.g., </p>
@@ -190,7 +190,7 @@ Avoid simplistic quantitative comparisons between public and private sector proj
 
 
 <br>
-
+<h4>Relative effectiveness of government IT systems</h4>
 <p>Dunleavy et al. consider the “relative modernity” of government IT systems, compared to private sector adoptions. This includes the quality of back office systems, large databases, front-office software, desktop systems, web-compatible systems, network speed and bandwidth, the development level of e-government services (compared to e-commerce, fintech and other Web-oriented services), existence of legacy problems, recency of transition to fully Web-enabled networks, pace of generating government websites, support to citizens in navigating e-bureaucracy, and adoption of up-to-date technical standards.</p>
 
 <p>Such elements make sense as indicators of how successfully a digital system meets its aims, but the term “modernity” is unnecessarily loaded and problematic. Modernity is not an unqualified good: there can be many reasons why governments and even companies might avoid recent software or hardware, including the desire to avoid bugs in early versions. This is why many organisations, both public and private, ask employees not to download new versions of apps until they have been tested by IT departments. Nevertheless, the spirit of the modernity argument is correct, in the sense that IT systems cannot be so old that they become unwieldy and inefficient—as the email client Lotus Notes was for many governments by the late 1990s.</p>
@@ -218,7 +218,7 @@ Whether systems are old or new, their capacity to deliver output and outcomes is
 
 
 <br>
-
+<h4>Usage , usability and usefulness of government digital platforms</h4>
 <p>Usage, usability and usefulness of government digital systems signify the difference between “white elephant” systems and those genuinely serving citizen needs. They are measured by the number of users of government digital platforms, the proportion of such users relative to the total number for a particular service (if the service has an “offline” delivery option), and user experiences of the systems (including time spent on particular functionalities and the ease of use of web services). Usage, usability and usefulness will be determined by how personalised, simple, consistent, intuitive and real-time a system is. The ways in which these aspects are manifested include:</p>
 
 <p>• the existence and prevalence of “digital by default” platforms;</p>
@@ -259,19 +259,19 @@ Usage, usability and usefulness of government digital systems signify the differ
 
 
 <br>
-
+<h4>Security of government data</h4>
 <p>As concerns over individual privacy and collective data integrity rise, the overall security of such data will be a key new dimension of any successful digitalisation—as Singapore has experienced with health data in the past two years. We can measure the security of government data by the number of security breaches in the period under study, and the time taken to respond to them. Breaches could include phishing, man-in-the-middle attacks, identity theft, spearfishing, social engineering and other forms of cyber-security breaches (ICAEW 2016).</p>
 
 <p>This indicator measures the quality of governments’ internal data governance processes, not just their citizen-facing delivery capacity. Observable dimensions include: the existence of protocols for data governance (e.g., classification, extraction); the use of stewardship models, change-control mechanisms, enhanced encryption, increased identification, identity and rights management, secure ID, and multi-factor authentication, including biometrics; and how effectively a government uses platforms like cloud computing or hybrid cloud.</p>
 
 
 <br>
-
+<h4>Timeliness of completion for major government IT projects</h4>
 <p>This measure indicates governments’ capacity to translate an initial idea for a digital project into tangible outcomes within a reasonable timeframe. It is likely to be influenced by the size of each project, as well as the presence of expertise able to anticipate and pre-empt potential obstacles early. Such expertise could be internal or outsourced to contractors with a direct link to internal decision-makers.</p>
 
 
 <br>
-
+<h4>Data use in policy, strategy formulation, organisational design and delivery</h4>
 <p>Where earlier measures consider the use of digital systems by citizens and
 businesses, this measure indicates how government agencies themselves use the opportunities created by digitalisation. This includes harnessing digitally collected and synthesised data to understand broad fiscal patterns and generate insights specific to companies and key citizen segments. For instance, when digital technology is applied to taxation:</p>
 
