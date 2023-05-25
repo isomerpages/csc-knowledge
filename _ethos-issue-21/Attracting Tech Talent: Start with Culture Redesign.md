@@ -138,7 +138,7 @@ insight that has arisen from our many
 interactions with tech talent: the
 importance of engineering culture.</p>
 
-
+<h4>The importance of engineering culture.</h4>
 <p>When we speak to overseas Singaporeans
 about tech in Singapore and Southeast
 Asia, they are at once surprised at the
@@ -169,7 +169,7 @@ of “managers”—until the company grew
 to a size where appointing management
 was unavoidable.</p>
 
-
+<h4>How to enable a healthy engineering culture</h4>
 <p>So, what is a proper engineering culture
 and how have Silicon Valley companies
 gone about creating it?</p>
