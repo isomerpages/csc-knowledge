@@ -151,12 +151,12 @@ respectively.
 <p class="text">A research evaluation component should be integrated at the planning stage of initiatives such as the DFC effort. A survey could be conducted on awareness and attitudes before a programme begins as well as some time (about one or two years) after the programme has kicked off.<sup><a href="#notes">9</a></sup> It is important to involve families of PwDs and the main caregivers in programme planning and implementation, as their views can help shape a more culturally-relevant programme. For instance, personal communication with a staff from FUN conveyed that they have challenges in reaching out to minority communities (such as Malay and Indian participants). This could be a general challenge to bear in mind in future efforts.</p>  
 <li><strong>CONSIDER A BROADER APPROACH TO THINKING ABOUT AGEING</strong></li>  
 <p class="text">If we look into the future, what may the experience of being a senior mean to the next few generations? Should we carry on&nbsp;doing more of the same, or should our policies, work practices and social norms be reframed to meet the full implications of the demographic shift in population? As a gerontologist, I think that our policies, services and approach towards solutioning may still be relatively conservative and silo-minded in engaging with the ageing phenomenon. To fully expand the potential of our future generations of seniors, all sectors of society have to break out of traditional thinking about what it means to age. The inter-dependency of our needs—i.e., physical, social, psychological and spiritual—at the individual level means that society’s solutions also ought to be multidisciplinary.</p>  
-<hr>  
-<h5><em>  
+<div class="break">  
+<p class="break1">  
     Seniors may perceive problems and possibilities  
     that the younger generations may overlook.  
-    </em></h5>  
-<hr>  
+    </p>  
+</div>  
 <li><strong>USE TECHNOLOGY TO OVERCOME CONSTRAINTS</strong></li>  
 <p class="text">To meet the challenges of limited manpower and the need for efficient delivery of goods and services, the potential of technology and communications will have to be exploited. The separation of older generations into the side stream of society (as the current landscape suggests) will have to be reversed, because they will gradually become mainstream in numbers.<sup><a href="#notes">10</a></sup></p>  
 <li><strong>SUPPORT A CULTURE OF CONTINUAL LEARNING AND GROWTH</strong></li>  
@@ -171,17 +171,17 @@ respectively.
 <p class="text">To retain Singapore’s unique heritage and multicultural diversity, greater participation and advocacy by people of all ages and backgrounds is crucial. Policymakers should listen with their hearts. Collectively, there needs to be a social awakening to the importance of all generations working together to make our country a better home, and the world a better place. As dif ferent subgroups in society, be they cultural or generational distinctions, our apparent choices may be different—but human needs are the same and we have common aspirations. If we let this understanding guide our policies and practices, we will stay on the right course to steer through the challenges ahead.</p>  
 </ol>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Make job opportunities in  
 the silver industry more  
 attractive to young people,  
 as well as those who wish  
 to switch careers.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
   
   
