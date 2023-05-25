@@ -239,16 +239,16 @@ them age-friendly.
   
 <p>&nbsp;</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 More can be done to generate  
 demand for products or  
 services that tap on the skills  
 that seniors possess.  
-</em></h5>  
-  
-<hr>  
+</p>  
+
+</div>  
   
 <h3>Dealing with “missed matches”</h3>  
   
@@ -285,15 +285,15 @@ that seniors possess.
   
 <p>&nbsp;</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">    
 The focus will be to transform the desire  
 to be “free from work” to one of being  
 “free to work”.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
   
 <p class="small-text text">As the largest employer in Singapore, the Singapore Public Service has consistently been at the forefront of national efforts to improve employability of older workers. Although the Public Service has a younger workforce than the national average, it is expected to age significantly over time. It should therefore lead the change.</p>  
