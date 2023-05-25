@@ -261,10 +261,6 @@ normal human being.
 <li class="small-text">Founded by Dr Emi Kiyota, Ibasho is a non-profit platform to promote the intergration of elders within communities. In Japanese, the name Ibasho means “a place where you can feel like yourself”. See: <a href="http://www.ibasho.org/">http://www.ibasho.org</a></li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
 
 
 <br>
