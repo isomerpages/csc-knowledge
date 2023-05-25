@@ -194,7 +194,7 @@ our later years.
 </div>  
   
 <p style="text-align: center;">  
-<img title="Figure 2. Lifelong Learning Scores, by Highest Education Attained" src="" data-displaymode="Original" alt="Figure 2. Lifelong Learning Scores, by Highest Education Attained">&nbsp;</p>  
+<img title="Figure 2. Lifelong Learning Scores, by Highest Education Attained" src="/images/Ethos_Images/Ethos_Issue_20/Lifelong_Charts03.jpg" data-displaymode="Original" alt="Figure 2. Lifelong Learning Scores, by Highest Education Attained">&nbsp;</p>  
   
 <p style="text-align: center;" class="small-text"><strong>Figure 2.</strong> Lifelong Learning Scores, by Highest Education Attained<sup><a href="#notes">6</a></sup></p>  
   
