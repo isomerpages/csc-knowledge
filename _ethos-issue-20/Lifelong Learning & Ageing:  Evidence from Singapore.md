@@ -52,13 +52,20 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #f7941e;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
+.containerbox h4 {
+	color: white;
+	}	
+.containerbox h3 {
+	color: #ca2256;
+	}		
+	
 li {
 	font-size: 15px !important;
 	
@@ -115,7 +122,7 @@ life periods and age groups.
   
 <p class="small-text text">In a seminal framework on lifelong learning proposed by Jacques Delors during his tenure as the Head of UNESCO Education Commission between 1993 and 1996, there are four learning pillars: “to know”, “to do”, “to be” and “to live together”. These reflect the modes of learning in relation to formal education, vocational training, personal development, and social cohesion respectively.</p>  
   
-  
+ <div class="containerbox">
 <h3 class="title">FRAMING OUR RESEARCH: THE SIX PILLARS OF LIFELONG LEARNING</h3>  
   
 <p class="text">In a seminal framework on lifelonglearning proposed by Jacques Delors<sup>1</sup> during his tenure as the Head of UNESCO Education Commission between 1993 and 1996, there are four learning pillars: “to know”, “to do”, “to be” and “to live together”. These reflect the modes of learning in relation to formal education, vocational training, personal development, and social cohesion respectively.<sup>2</sup></p>  
@@ -162,7 +169,7 @@ life periods and age groups.
     (2017): 615–628.  
     </li>  
 </ol>  
-  
+</div>  
   
 <h3>LEARNING IS POSITIVELY ASSOCIATED WITH EDUCATION ATTAINMENT</h3>  
   
