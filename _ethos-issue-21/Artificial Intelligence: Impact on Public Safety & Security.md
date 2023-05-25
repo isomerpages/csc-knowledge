@@ -177,6 +177,9 @@ conduct quick biometric identity verification. This reduces manpower requirement
 
 
 
+
+
+<h3 class="title">Case Study: Emergency Management</h3>
 <p class="small-text text">The Ministry of Home Affairs
 uses UAVs (also known as
 drones) to conduct aerial
@@ -185,9 +188,6 @@ operations, fire management
 and crowd monitoring for
 mass public events such as the
 New Year’s Eve Countdown.</p>
-
-
-<h3 class="title">Case Study: Emergency Management</h3>
 
 <p class="text">The Ministry of Home Affairs
 uses UAVs (also known as
