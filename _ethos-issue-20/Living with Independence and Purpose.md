@@ -52,13 +52,17 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #d7f0fc;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
 
+.containerbox h3 {
+	color: black;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -91,17 +95,17 @@ li {
   
 <p>So the way we perceive ageing and the social role of elders has to change. But it cannot be only done by one segment of society. We can’t expect older people to change overnight, and besides, everybody has got to change: young and old, policy and the public. The expectations have to change, and the social norms should follow through.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 What it means to be  
 65 years old now is  
 very different from  
 what it meant thirty  
 years ago.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>3.&nbsp;What are some ways to start shifting these social norms regarding ageing?</h3>  
   
@@ -127,9 +131,9 @@ years ago.
   
 <p>What we need is something that gives meaning to the elderly. I feel like that is what is missing in the eldercare system.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 We should really  
 stop thinking about  
 “entertaining” older  
@@ -137,9 +141,9 @@ people. I want to
 see older people  
 being change agents  
 of society.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
   
   
@@ -149,10 +153,10 @@ of society.
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
-<h3 class="title">Empowering Elders Through Community Ownership</h3>  
+<h3 class="title">Empowering Elders Through <span style="color:#fcb316;">Community Ownership</span></h3>  
 <p class="text">In 2011, over 18,000 people were killed and more than 65,000 people were displaced when a massive earthquake and tsunami hit northern Japan. When Ibasho and Operation USA visited the affected area to conduct interviews with elderly survivors in temporary community housing, they heard tales of extraordinary courage and hardship, and also of a strong desire to contribute to the rebuilding of their communities. The Honeywell Ibasho House was inspired and created by this spirit, as a partnership between the community of Ofunato in Japan, Ibasho, Operation USA and Honeywell.</p>  
 <p class="text">Here, older people do not passively sit and be served. Instead, they actively join in the planning, management and operation of the organisation. It is a place where elders participate in significant discussions and working is a normal part of everyday life.</p>  
 <hr>  
