@@ -144,6 +144,7 @@ Agile is well-suited to highly skilled, self-motivated teams who value their aut
 
 <p>How might you apply Agile techniques in your own team or department? Each team will need to find its own tempo and adapt these processes to suit its unique context.</p>
 
+
 <p>The team at the Public Service Division’s Digital Workplace Programme Office (DPWO) uses Scrum,<a href="../”.html#notes'"><sup>4</sup></a> which is the most widely-used Agile methodology. Scrum project teams have roles and “rituals”—i.e.,
 the processes used to organise a team’s work. For these processes to be effective,
 the team must be relatively small (i.e., fewer than ten people). There must also be considerable
@@ -154,7 +155,7 @@ inter-dependencies between the tasks that the various individuals in the team ar
 
 
 <br>
-
+<h4>Product Owner</h4>
 <p>This is typically the Director or department head who is accountable for the success
 of the programme. The Product Owner sets the vision for the project and signs
 off on the priorities the team needs to deliver. Accountable for meeting the
@@ -167,7 +168,7 @@ tasks.</p>
 
 
 <br>
-
+<h4>Scrum Master</h4>
 <p>The resident problem-solver, the Scrum Master facilitates the relationship between the team and the Product Owner. This can be any member of the team: preferably a senior with relevant experience and Scrum Master certification.<a href="../”.html#notes'"><sup>5</sup></a> The person in this role facilitates the Scrum processes and ensures that meetings are adhered to and productive in achieving team outcomes.
 The Scrum Master is responsible for the productivity of the team and must remove any impediments to team progress: by improving inefficient organisational processes and ensuring the team has the resources they need, for instance. This includes protecting the team from external influences (e.g., unplanned work requests) to avoid impacting their velocity. The Scrum Master also provides guidance to less experienced team members in understanding Scrum and how it is being applied. The Scrum Master must have enough clout in the organisation to deal effectively with any obstacles the team may face.</p>
 
