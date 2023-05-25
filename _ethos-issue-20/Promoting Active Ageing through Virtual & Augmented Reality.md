@@ -52,11 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #f04e3b;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
+	color: white;
+	}	
 	
+.containerbox h3 {
+	color: white;
 	}	
 
 li {
@@ -75,16 +79,16 @@ li {
   
 <p>Perhaps more important than how long we live, is how well we live. Research has shown that in order to age in an active and healthy way, both physically and mentally, we must continue to do a certain level of work, even after retirement. The right amount of work will vary for each individual. We cannot help but face changes in our physical and cognitive abilities as we get old, which means that we may not be able to continue with the same kind of work that we might have been doing when younger. As we age, learning new skills gets more difficult as well, which tends to impede our willingness and ability to participate in learning.<sup><a href="#notes">2</a></sup> An important question is how to support the elderly, and society in general, in developing the appropriate capacities to flourish in an ageing society.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 More important than  
 how long we live, is  
 how well  
 we live.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Singapore has recognised both opportunities and challenges in these demographic changes. The government has sought to make economically and socially sustainable adjustments to the family, workplace and community, so as to ensure a fulfilling and dignified life for everyone—including those in their senior years.<sup><a href="#notes">3</a></sup> In pursuing our vision of becoming a Smart Nation, Prime Minister Lee Hsien Loong has promised that the elderly and the less-technology savvy would not be left behind.<sup><a href="#notes">4</a></sup> Several initiatives involving innovative uses of technology have been rolled out to help the elderly age in place, such as smart sensors and remote monitoring software at home.<sup><a href="#notes">5</a></sup></p>  
   
@@ -94,14 +98,14 @@ we live.
   
 <p>For instance, social workers in Singapore reveal that many of the elderly currently depend on them to assist with daily tasks such as using the ATM machine to withdraw money, using automated self-service kiosks to top-up EZ-link cards or pay bills, or dialling an automated hotline to make enquiries. Apparently, elderly people are having problems adjusting to our increasingly automated society. As such, there is a pressing need to provide adequate training for the elderly, to enable them to carry out essential functions and handle various aspects of life independently and confidently.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 An active-user approach—where technology is used to  
 empower the elderly to live independently—would be more aligned with active ageing.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>HELPING SINGAPOREAN SENIORS TO LEARN BETTER</h3>  
   
@@ -130,7 +134,7 @@ empower the elderly to live independently—would be more aligned with active ag
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">VR and AR: The Next Frontier in Technology</h3>  
