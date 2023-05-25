@@ -125,7 +125,7 @@ For example, the Municipal Services Office (MSO) is leveraging data and digitali
 
 <h3>Developing and Realising the Government Data Strategy (2018 to 2019)</h3>
 
-
+<h4>Challenges for Scaling Data Use in Government</h4>
 <p>Data is the fuel for digital transformation. A good Government Data Architecture (GDA) should provide public officers with access to quality data, quickly and securely—just as good water infrastructure should make clean drinking water available on demand from a tap.</p>
 
 <p>Singapore’s current GDA is based on the operating concept of “data sharing by default”: individual agencies are asked to share data with one another when a legitimate request is made.</p>
@@ -148,7 +148,7 @@ Data is the fuel for digital transformation.
 
 <p>The GDS will be realised through four key thrusts: Data Architecture, Digital Infrastructure, Data Education, and Use Cases.</p>
 
-
+<h4>Data Architecture</h4>
 <p>We will build a new GDA to enable quick and secure access to quality data. Core government data assets will be consolidated, and made discoverable and accessible within 7 working days. All core data fields must also be machine readable and API-ready.</p>
 
 <p>The new GDA introduces two new organisational constructs: Single Sources of Truth (SSOTs) and Trusted Centres (TCs).<br>
@@ -159,7 +159,7 @@ Data is the fuel for digital transformation.
 
 <p>TCs aggregate data across the SSOTs and provide a one-stop-shop for users to access core government datasets. Users who need cross-sectoral datasets will not need to go individually to each SSOT to ask for data. Three TCs, sited in the Department of Statistics (individuals and businesses), Singapore Land Authority (geospatial) and Smart Nation and Digital Government Group (sensors), will be operational from end 2019.</p>
 
-
+<h4>Digital Infrastructure</h4>
 <p>We will develop the infrastructure to digitally industrialise the management, governance, and use of data, to support and scale data transformation initiatives. The aim is to achieve a quantum leap in the speed at which data can be harnessed for insights and data models deployed into products and integrated into business processes.</p>
 
 <p>Some examples of this infrastructure include: (a) Vault.Gov.SG, a platform that lets all officers browse a meta data-catalogue, securely download sample datasets immediately for exploratory analysis and then request full datasets from the TCs; (b) a code repository hosted on a common platform that enables data scientists to share their code with the public sector data community; (c) a whole-of-government analytics platform that enables the rapid development of data and AI models. Data security is built into these platforms by design.</p>
@@ -172,12 +172,12 @@ Core government data assets will be discoverable and accessible within 7 days.
 
 </p></div>
 
-
+<h4>Data Education</h4>
 <p>We will raise data capabilities across different levels and equip all public officers with the knowledge and skills to bring data into their everyday work.</p>
 
 <p>For the majority of public officers, the emphasis is on developing data literacy: the ability to scope data use cases to address business needs and use simple data visualisation and analytics tools. For officers whose job functions require them to work with data, the emphasis is on deepening technical skills, sharpening their ability to link analytics solutions to business needs, and developing the software and data engineering skills to translate analytics insights into products that are integrated into business processes.</p>
 
-
+<h4>Use Cases</h4>
 <p>We will partner with government agencies and companies to identify use cases and facilitate access to data needed to deliver them. Many agencies lack experience working with data and have grown accustomed to slow, tedious processes for data sharing. Organisational cultures and memories are sticky: there needs to be a central push to help kickstart the data transformation process and generate momentum.</p>
 
 <p>To this end, DSAID has published a data science project scoping guide and runs workshops with the Civil Service College; the GDO has partnered with agencies to identify data projects under their Ministry Family Digitalisation Plans and is working with researchers and companies to facilitate data sharing; the Strategy Group in the Prime Minister’s Office works with agencies to commission data science projects.</p>
