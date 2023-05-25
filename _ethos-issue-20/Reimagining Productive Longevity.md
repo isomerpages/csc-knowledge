@@ -78,7 +78,7 @@ li {
   
 <p>What can be done to enable and encourage longer productive lifespans through changes in policies, job design and work arrangements? How can the public sector take the lead to enhance productive longevity?</p>  
   
-<p style="text-align: center;"><img title="An Ageing Society, with Cause of Optimism" src="/images/Ethos_Images/Ethos_Issue_20/Ageing_Society.jpg" data-displaymode="Original" alt="An Ageing Society, with Cause of Optimism"></p>  
+<p style="text-align: center;"><img alt="An Ageing Society, with Cause of Optimism" data-displaymode="Original" src="/images/Ethos_Images/Ethos_Issue_20/Ageing_Society.jpg" title="An Ageing Society, with Cause of Optimism"></p>  
   
 <h3>What is Productive&nbsp;Longevity?</h3>  
   
@@ -95,13 +95,13 @@ li {
 <li>Ageist attitudes persist in society which inhibit seniors from remaining employed or from transiting to new productive opportunities, even when they remain able and willing to work.</li>  
 </ol>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Health is both a pre-condition of productivity and also an outcome of productivity.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>The Problem of Mismatch, Missed Matches and Mindsets</h3>  
   
@@ -115,17 +115,17 @@ Health is both a pre-condition of productivity and also an outcome of productivi
   
 <p>Third, we need to confront the ageist <strong>mindsets</strong> that persist in society. These are reinforced both by explicit anchors (such as the retirement age) and ambient anchors (such as the labels for senior-specific schemes). We need to create a new narrative around what it means to grow old in Singapore.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Information asymmetry leads to missed  
 opportunities between seniors and  
 companies, even though there may not  
 be a mismatch of seniors’ capabilities  
 and business requirements.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Addressing “Mismatch” by Improving Mastery</h3>  
   
@@ -141,17 +141,17 @@ and business requirements.
   
 <p>The relatively lower educational attainment of today’s seniors in their earlier years, coupled with the rapid pace of technological developments, means that our seniors need to acquire new productive and transformational assets. In light of this, data from the SkillsFuture credit scheme is encouraging. Of the 285,060 Singaporeans who have used their SkillsFuture credit as of December 2017, 80,604 (28%) are seniors aged 55 to 69 years old.<sup><a href="#notes">11</a> </sup>This reflects an innate desire among our seniors to continuously upgrade and pick up new skills.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Ageist mindsets are reinforced  
 both by explicit anchors (such as  
 the retirement age) and ambient  
 anchors (such as the labels for  
 senior-specific schemes).  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>However, there are three challenges. First, there are too many courses, resulting in a “paradox of choice”, whereby the plethora of options induces more anxiety and decision-paralysis rather than empowerment. Second, courses that are work-related are typically not designed for seniors. In fact, fewer than 50% of seniors who enrolled in Workforce Singapore’s (WSG) and Employment Employability Institute’s (e2i) training courses actually completed their training.<sup><a href="#notes">12</a></sup> This may be due to the adult training approaches used: many seniors lack “learning how to learn” or meta-cognitive skills, and need a more gradual and guided process to learn effectively. Many seniors also prefer practice-based learning formats rather than formal classroom learning. Third, courses designed for seniors are typically lifestyle- or hobbies-related, without a targeted focus on work and employment.</p>  
   
@@ -178,9 +178,9 @@ senior-specific schemes).
   
 <p>&nbsp;</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Ensuring our seniors  
 remain productive  
 requires us to look  
@@ -189,15 +189,15 @@ of tangible assets
 (such as financial  
 resources) to include  
 intangible assets.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
   
 <p class="small-text text">Seniors are not a homogenous group. Ethnographic interviews based on a cluster analysis of the Retirement and Health Study data surfaced 6 distinct archetypes of seniors in Singapore.</p>  
   
   
-<p style="text-align: center;"><img title="Who Are Our Seniors in Singapore?" src="../../images/default-source/ethos-images/ethos-issue-20/ethos\_illustration\_12-13.jpg?sfvrsn=508d7848\_0" data-displaymode="Original" alt="Who Are Our Seniors in Singapore?"></p>  
+<p style="text-align: center;"><img alt="Who Are Our Seniors in Singapore?" data-displaymode="Original" src="/images/Ethos_Images/Ethos_Issue_20/WhoAreOurSenior.jpg" title="Who Are Our Seniors in Singapore?"></p>  
   
 <hr>  
   
@@ -206,20 +206,20 @@ intangible assets.
 <p class="text">The data was analysed by the data team from Pioneer Generation Office (now known as the Silver Generation Office) and the inter-agency team followed up with ethnographic interviews based on the clusters that emerged from the analysis. The 6 distinct archetypes of seniors in Singapore emerged from the data analysis and ethnographic interviews.</p>  
   
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Many employers  
 still lack the knowhow  
 to re-design  
 workplace practices  
 and jobs to make  
 them age-friendly.  
-</em></h5>  
+</p>  
   
-<hr>  
   
-<p style="text-align: center;"><img title="Which Sectors Could Our Seniors Be Employed In?" src="../../images/default-source/ethos-images/ethos-issue-20/pg14.jpg?sfvrsn=4da083be\_0" data-displaymode="Original" alt="Which Sectors Could Our Seniors Be Employed In?"></p>  
+  
+<p style="text-align: center;"><img alt="Which Sectors Could Our Seniors Be Employed In?" data-displaymode="Original" src="../../images/default-source/ethos-images/ethos-issue-20/pg14.jpg?sfvrsn=4da083be\_0" title="Which Sectors Could Our Seniors Be Employed In?"></p>  
   
 <h3>OTHER PRODUCTIVE OPPORTUNITIES</h3>  
   
@@ -330,7 +330,7 @@ to be “free from work” to one of being
   
 </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>  
+<p class="small-text" style="font-weight: bold; letter-spacing: 1px;"><a name="notes"></a>NOTES</p>  
   
 <ol>  
 <li class="small-text">See: The WEF article (weblink), “How will an ageing population affect the economy?”, Henrique Basso, Economist, Bank of Spain, accessed October, 15, 2017, <a href="https://www.weforum.org/agenda/2015/04/how-will-an-ageing-population-affect-the-economy/">https://www.weforum.org/agenda/2015/04/how-will-an-ageing-population-affect-the-economy/</a>.</li>  
@@ -366,4 +366,4 @@ to be “free from work” to one of being
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div>
+</div></div>
