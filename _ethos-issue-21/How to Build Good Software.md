@@ -258,7 +258,7 @@ knowledge in your organisation.</p>
 
 
 <br>
-
+<h4>Start as Simple as Possible</h4>
 <p>Projects that set out to be a “one-stop
 shop” for a particular domain are often
 doomed. The reasoning seems sensible
@@ -348,7 +348,7 @@ simplicity but because of it.</p>
 
 
 <br>
-
+<h4>Seek Out Problems and Iterate</h4>
 <p>In truth, modern software is so complicated and changes so rapidly that no amount of
 planning will eliminate all shortcomings. Like writing a good paper, awkward
 early drafts are necessary to get a feel of what the final paper should be. To
@@ -395,7 +395,7 @@ as possible to get the information you need to build something good.</p>
 
 
 <br>
-
+<h4>Hire the Best Engineers You Can</h4>
 <p>The key to having good engineering is having good engineers. Google,
 Facebook, Amazon, Netflix, and Microsoft all run a dizzying number of the largest
 technology systems in the world, yet, they famously have some of the most
