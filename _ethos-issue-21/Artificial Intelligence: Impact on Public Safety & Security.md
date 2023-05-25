@@ -322,7 +322,7 @@ fight using legions of autonomous robots, will retain its inevitable human flavo
 
 
 <br>
-
+<h4>Cybersecurity</h4>
 <p>For all the inherent risks AI presents
 in self-mutating malware, the answer
 might ironically lie in harnessing the
@@ -363,7 +363,7 @@ interaction and supervision.</p>
 
 
 <br>
-
+<h4>Dealing with Fake News</h4>
 <p>Research is already being carried
 out on how to deploy AI in detecting
 falsehoods. The machine can be trained
@@ -397,7 +397,7 @@ report suspicious information.<a href="#notes"><sup>16</sup></a></p>
 
 
 <br>
-
+<h4>A Broader Perspective</h4>
 <p>From the security perspective, a multi-agency
 effort is needed to establish a
 framework so that agencies understand
