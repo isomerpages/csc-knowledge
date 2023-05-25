@@ -172,19 +172,18 @@ Adapted with permission from the Ministry of Health</p>
   
 <p>To be a City for All Ages, we need to build up our social infrastructure in tandem with physical infrastructure, to enable our seniors to age confidently in place. By creating communities of care throughout the island, we can grow a robust community care system where seniors can access a range of active ageing and preventive health programmes in every neighbourhood, where every senior living alone or in need of support has a befriender or neighbour looking out for them, and in which the ecosystem of care and support services “grows old with our seniors” as needs evolve.</p>  
   
-<p style="text-align: center;"><img title="Transforming Community Care" src="../../images/default-source/ethos-images/ethos-issue-20/shutterstock\_245827465.jpg?sfvrsn=3334c774\_0" data-displaymode="Original" alt="Transforming Community Care"></p>  
+<p style="text-align: center;"><img title="Transforming Community Care" src="/images/Ethos_Images/Ethos_Issue_20/Shutterstock_245827465.jpg" data-displaymode="Original" alt="Transforming Community Care"></p>  
   
-<hr>  
+<div class="author">  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>  
+<h6>ABOUT THE AUTHORS</h6>  
   
 <p class="small-text"><strong>Nadine Chia</strong> is Assistant Director (Successful Ageing) in the Ageing Planning Office (APO), Ministry of Health. The APO oversees the planning and implementation of strategies to respond to the needs of Singapore’s ageing population. </p>  
   
 <p class="small-text"><strong>Melissa Khoo</strong> is Group Director of the APO. </p>  
   
-<br>  
+</div>
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
