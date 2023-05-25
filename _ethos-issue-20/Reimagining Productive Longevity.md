@@ -219,7 +219,7 @@ them age-friendly.
   
   
   
-<p style="text-align: center;"><img alt="Which Sectors Could Our Seniors Be Employed In?" data-displaymode="Original" src="../../images/default-source/ethos-images/ethos-issue-20/pg14.jpg?sfvrsn=4da083be\_0" title="Which Sectors Could Our Seniors Be Employed In?"></p>  
+<p style="text-align: center;"><img alt="Which Sectors Could Our Seniors Be Employed In?" data-displaymode="Original" src="/images/Ethos_Images/Ethos_Issue_20/Sector.jpg" title="Which Sectors Could Our Seniors Be Employed In?"></p>  
   
 <h3>OTHER PRODUCTIVE OPPORTUNITIES</h3>  
   
