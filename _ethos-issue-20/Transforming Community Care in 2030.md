@@ -149,11 +149,11 @@ Adapted with permission from the Ministry of Health</p>
 <table>  
 <tbody>  
 <tr>  
-<th><img title="Ministry of Health - I Feel Young In My Singapore" src="../../images/default-source/ethos-images/ethos-issue-20/20160108-ministry-of-health---i-feel-young-in-my-singapore-day-1-(37-of-91).jpg?sfvrsn=d55afaf0\_0" data-displaymode="Original" alt="Ministry of Health - I Feel Young In My Singapore"></th>  
-<th><img title="Ministry of Health - I Feel Young In My Singapore" src="../../images/default-source/ethos-images/ethos-issue-20/20160112-ministry-of-health---i-feel-young-in-my-singapore-(5-of-10).jpg?sfvrsn=ed83eec0\_0" data-displaymode="Original" alt="Ministry of Health - I Feel Young In My Singapore"></th>  
+<th><img title="Ministry of Health - I Feel Young In My Singapore" src="/images/Ethos_Images/Ethos_Issue_20/20160108_Ministry_Of_Health_I_Feel_Young_In_My_Singapore_Day_1_37of91.jpg" data-displaymode="Original" alt="Ministry of Health - I Feel Young In My Singapore"></th>  
+<th><img title="Ministry of Health - I Feel Young In My Singapore" src="/images/Ethos_Images/Ethos_Issue_20/20160112_Ministry_Of_Health_I_Feel_Young_In_My_Singapore_5_of_10.jpg" data-displaymode="Original" alt="Ministry of Health - I Feel Young In My Singapore"></th>  
 </tr>  
 <tr>  
-<td colspan="2"><img title="Ministry of Health - I Feel Young In My Singapore" style="text-align: center;" src="../../images/default-source/ethos-images/ethos-issue-20/20160112-ministry-of-health---i-feel-young-in-my-singapore-(additional-photo-1).jpg?sfvrsn=36f287d6\_0" data-displaymode="Original" alt="Ministry of Health - I Feel Young In My Singapore"></td>  
+<td colspan="2"><img title="Ministry of Health - I Feel Young In My Singapore" style="text-align: center;" src="/images/Ethos_Images/Ethos_Issue_20/20160112-ministry-of-health---i-feel-young-in-my-singapore-(additional-photo-1).jpg" data-displaymode="Original" alt="Ministry of Health - I Feel Young In My Singapore"></td>  
 </tr>  
 </tbody>  
 </table>  
