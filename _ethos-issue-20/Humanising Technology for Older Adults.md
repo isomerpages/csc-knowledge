@@ -138,7 +138,7 @@ Context matters in the implementation of technology, for older adults as well as
   
 <hr>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>  
+<h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Tan Tai Kiat</strong> is Director, Operations at  
             SingHealth Community Hospitals. He received  
