@@ -78,7 +78,7 @@ li {
   
 <p>What can be done to enable and encourage longer productive lifespans through changes in policies, job design and work arrangements? How can the public sector take the lead to enhance productive longevity?</p>  
   
-<p style="text-align: center;"><img title="An Ageing Society, with Cause of Optimism" src="../../images/default-source/ethos-images/ethos-issue-20/pg6.jpg?sfvrsn=fcdf68f3\_0" data-displaymode="Original" alt="An Ageing Society, with Cause of Optimism"></p>  
+<p style="text-align: center;"><img title="An Ageing Society, with Cause of Optimism" src="/images/Ethos_Images/Ethos_Issue_20/Ageing_Society.jpg" data-displaymode="Original" alt="An Ageing Society, with Cause of Optimism"></p>  
   
 <h3>What is Productive&nbsp;Longevity?</h3>  
   
