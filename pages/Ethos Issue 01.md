@@ -142,82 +142,16 @@ and production? Professor Norbert Walter highlights the economic implications of
 <br>
 <div class="grid-container">
         <div><img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_Sustainability_As_Behav_Change.jpg"></div>
-<div><h3>Sustainability as Behavioural Change: Nudging the Good, Discouraging the Bad</h3>
-            <b><i>Charmaine Lim</i></b>
+<div><h3>The Real Challenges of an Ageing Population</h3>
+            <b><i>Andrew Kwok</i></b>
             
-<p>Intentional habit formation can help to drive the adoption of more sustainable eco-friendly behaviours.</p>	
+<p>The ageing of populations worldwide has had national governments scrambling to stave off looming economic decline and fiscal disarray.</p>	
             
 <div class="button1"><a target="_blank" href="/ethos-issue-24/sustainability-as-behavioural-change-nudging-the-good-discouraging-the-bad/">Read More</a></div><br></div>
 </div>
- <br>	
-<div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_Espoo.jpg"></div>
-	<div>
-		<div>
-		<h3>Sustainable Urban Development: Espoo, Finland</h3>
-		<b><i>Helena Kyrki</i></b>
-		<p>The small but dynamic Finnish city is a leader in promoting development that brings together residents, businesses and other stakeholders, for the long-term benefit of all.</p>
-			<div class="button1"><a target="_blank" href="/ethos-issue-24/sustainable-urban-development-espoo-finland/">Read More</a></div>
-	</div>
-</div>
-</div>
- <br>	
-<div class="grid-container">
-    <div><img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_La.jpg"></div>
-<div>
-		<h3>Sustainability through Inclusive and Innovative Development: Los Angeles, United States</h3>
-		<b><i>Victoria Simon</i></b>
-		<p>The city’s strategy focuses on the needs of its most vulnerable groups and the aspirations of its residents for a more liveable, equitable, and prosperous future.</p>
-
-<div class="button1"><a target="_blank" href="/ethos-issue-24/sustainability-through-inclusive-and-innovative-development-la-us/">Read More</a></div>
-			</div>
-</div>
- <br>	
-<div class="grid-container">
-  <div><img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_City_Indices.jpg"></div>
-  <div class="content">
-    <h3>Clarifying Complexity, Coordinating Change: The Value of City Indices</h3>
-    <b><i>Milton Friesen</i></b>
-    <p>Urban indices and frameworks help those seeking to improve the health of cities better navigate complex, interrelated systems—facilitating coherent conversation, action and change.</p>
-    <div class="button1"><a target="_blank" href="/ethos-issue-24/clarifying-complexity-coordinating-change-the-value-of-city-indices/">Read More</a></div>
-  </div>
-</div>
- <br>	
-<div class="grid-container">
-  <div><img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_Data_Culture.jpg"></div>
-  <div class="content">
-    <h3>The City of the Future Needs a Data Culture that Sees the Visible and Invisible</h3>
-    <b><i>Poon King Wang</i></b>
-    <p>The Director of the Lee Kuan Yew Centre for Innovative Cities reflects on how city planners and policymakers can make more thoughtful use of data to improve decision-making and better people’s lives in meaningful ways.</p>
-    <div class="button1"><a target="_blank" href="/ethos-issue-24/the-city-of-the-future-needs-a-data-culture-that-sees-the-visible-and-invisible/">Read More</a></div>
-  </div>
-</div>
 
  <br>	
-<div class="grid-container">
-  <div>
-    <img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_Sustaining_Passion_Wellbeing.jpg">
-  </div>
-  <div class="content">
-    <h3>Sustaining Passion and Wellbeing in the City of the Future</h3>
-    <b><i>Rahul Mittal</i></b>
-    <p>Veteran urban designer and planner Rahul Mittal reflects on key trends in the evolution of urban life, and how planners can engage with community aspirations and energies.</p>
-    <div class="button1"><a target="_blank" href="/ethos-issue-24/sustaining-passion-and-wellbeing-in-the-city-of-the-future/">Read More</a></div>
-  </div>
-</div>
 
- <br>	
-<div class="grid-container">
-  <div>
-    <img src="/images/Cropped_images/Ethos_Issue_24/24_Teaser_Liveable_Density.jpg">
-  </div>
-  <div class="content">
-    <h3>Liveable Density: A Conversation with Heng Chye Kiang</h3>
-    <b><i>Heng Chye Kiang</i></b>
-    <p>An NUS Professor of Architecture explains how thoughtful planning, good design, and inclusive choices can enable residents to thrive in dense urban environments.</p>
-    <div class="button1"><a target="_blank" href="/ethos-issue-24/liveable-density-a-conversation-with-heng-chye-kiang/">Read More</a></div>
-  </div>
-</div>
 
 
 
