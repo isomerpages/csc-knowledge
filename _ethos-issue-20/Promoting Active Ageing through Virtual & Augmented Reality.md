@@ -164,13 +164,13 @@ empower the elderly to live independently—would be more aligned with active ag
   
 <p>By providing tangible evidence on the effectiveness of interactive technology in promoting active ageing, our findings could help policymakers, social workers and non-profit organisations develop better training programmes for the elderly in terms of daily tasks, job training, and the acquisition of technological literacy. This will be vital to Singapore’s attempts to address the challenges and opportunities brought about by an ageing population in a cost-effective way.</p>  
   
-<hr>  
+<div class="author">  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>  
+<h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text">Jung Younbo is Associate Professor at the Wee Kim Wee School of Communication and Information, Nanyang Technological University, Singapore.</p>  
   
-<hr>  
+  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>  
   
@@ -198,4 +198,4 @@ empower the elderly to live independently—would be more aligned with active ag
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div>
+</div></div>
