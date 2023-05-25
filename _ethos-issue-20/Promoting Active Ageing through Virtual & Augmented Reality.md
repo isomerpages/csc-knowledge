@@ -118,8 +118,8 @@ empower the elderly to live independently—would be more aligned with active ag
 <table>  
 <tbody>  
 <tr>  
-<td><img title="Examples of educational applications" style="text-align: center;" src="../../images/default-source/ethos-images/ethos-issue-20/img\_0101.jpg?sfvrsn=a76586ea\_0" data-displaymode="Original" alt="Examples of educational applications"></td>  
-<td><img title="ATM interface developed by Franhofer IDM@NTU" style="text-align: center;" src="../../images/default-source/ethos-images/ethos-issue-20/image001.jpg?sfvrsn=9cdf9231\_0" data-displaymode="Original" alt="ATM interface developed by Franhofer IDM@NTU"></td>  
+<td><img title="Examples of educational applications" style="text-align: center;" src="/images/Ethos_Images/Ethos_Issue_20/Img_0101.jpg" data-displaymode="Original" alt="Examples of educational applications"></td>  
+<td><img title="ATM interface developed by Franhofer IDM@NTU" style="text-align: center;" src="/images/Ethos_Images/Ethos_Issue_20/image001.jpg" data-displaymode="Original" alt="ATM interface developed by Franhofer IDM@NTU"></td>  
 </tr>  
 </tbody>  
 </table>  
