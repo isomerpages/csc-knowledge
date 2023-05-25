@@ -71,99 +71,39 @@ li {
 
 
   
-<p>Learning, education, adaptation and  
-application have been key drivers  
-of progress in Singapore’s journey  
-from independence to a modern city-state. In supporting and furthering  
-Singapore’s success, the Public Service  
-has strived to become ever more  
-attuned, aligned and able in meeting the  
-needs of a rapidly developing nation.  
-Over the decades, the Civil Service  
-College (CSC) and its predecessors  
-have prepared generations of civil  
-servants to serve with excellence,  
-integrity and a strong ethos for the  
-public good, even as the demands  
-of nation-building grow ever more  
-sophisticated and complex. In the  
-process, our agencies of learning  
-have become agencies for change:  
-tasked not only with keeping our  
-public officers abreast of the latest  
-technologies and techniques of sound  
-public administration, but also shifting  
-deep-seated mindsets—towards more  
-citizen-centred, whole-of-government  
-thinking, for instance. In the two  
-decades since its formation as a  
-statutory board, <a href="/ethos-issue-23/civil-service-college-preparing-the-public-service-for-the-future/">CSC has been an important platform for advancing the Public Service</a>: beyond doing good  
-work today, to making the work of  
-tomorrow possible.</p>  
+<p>Welcome to the new Ethos. Originally a newsletter started in 1994, Ethos has since become a publication of no small ambition and range. It has featured leading ideas on governance and policy from some of the most senior and expert thinkers in the Singapore Public Service and beyond. This is due in large measure to the effort and intelligence of our previous editor, Patricia Lam, to whom Ethos and its editorial team owe a great debt.</p>  
   
-<p>But what should we learn to be ready  
-for the future? As the COVID-19 crisis  
-has taught us, an interconnected world  
-is also one increasingly beset by rapid  
-and often bewildering change, in which  
-there is far less certainty about what  
-is to be done. While a firm foundation  
-of core technical competencies will  
-always be needed, we must also  
-master meta-skills that will stand us in  
-good stead in fluid circumstances. We  
-must <a href="/ethos-issue-23/learning-for-the-future/">learn how to learn, relearn, and unlearn as the situation requires</a>;  
-get comfortable with ambiguity and  
-differences; find strength in partnering  
-with colleagues, partners, and fellow  
-Singaporeans. The future of learning  
-lies not in knowing more, but in seeking  
-to know. This calls for<a href="/ethos-issue-23/metaphors-mental-models-updating-our-language-for-public-sector-learning/"> fundamentally different ways of looking at learning,and at ourselves</a>.</p>  
+<p>With this issue, Ethos takes on an entirely new look — one which we hope better reflects its values as a smart, professional and forward-looking journal on governance and public policy in Singapore. From 2007, Ethos will also be published biannually with a meatier slate of articles on thematic and general topics, as well as in Special Editions throughout the year.</p>  
   
-<p>Profound changes in the socio-economic  
-landscape—including disruptive  
-technologies and work-life patterns (as  
-we have seen in the pandemic), as well  
-as in the way we relate to one another  
-both within and outside work—are  
-prompting <a href="/ethos-issue-23/the-future-of-learning-and-development-in-the-singapore-public-service/">a rethink of what, how and when we learn, and even who the learner is</a>. Now that we are passing  
-the culture shock of going digital, the  
-practical <a href="/ethos-issue-23/breaking-down-barriers-in-blended-learning/">experience gained in working with these new approaches should deepen and inform our learning strategies</a>. These and other forthcoming  
-technologies will bring new opportunities  
-to enhance capabilities, enrich learning  
-and empower our people.  
-The <a href="/ethos-issue-23/nurturingfutureleadersadaptingleadershipdevelopmentapproaches-to-a-changing-context/">success of future leadership</a>&nbsp;could  
-depend on the degree to which leaders  
-can catalyse effective learning in their  
-teams and organisations, by providing  
-the conditions and impetus for it to take  
-place, even during—or better yet, ahead  
-of—unsettling times.</p>  
+<p>Certainly, the changes we aspire to are more than cosmetic. We want to expand and deepen the scope of reflection on issues that are pressing — or may become so. Our vision is a journal where thought-leading, original ideas are presented, contested, refined and shared among our committed policymakers and scholars.</p>  
   
-<p>There is growing awareness that  
-learning does not happen in silos—that  
-it is a social, embodied and holistic  
-process rather than an individual and  
-purely cognitive procedure. This has  
-led to renewed interest in <a href="/ethos-issue-23/engaging-hearts-and-minds-a-conversation-about-learning-experience-design/">designing environments and experiences  
-better&nbsp;suited to learning</a>. An important  
-aspect of this appreciation for how and  
-where learning occurs is the movement  
-towards <a href="/ethos-issue-23/employability-growth-and-resilience-through-workplace-learning/">workplace learning</a>,  
-by which <a href="/ethos-issue-23/thinking-differently-about-workplace-learning/">theoretical knowledge and applied wisdom can co-develop, iterate, and lead to practical benefits and new insights, for learners as well as their organisations</a>. It is  
-in <a href="/ethos-issue-23/horsemen-and-superpowers-learning-to-design-in-government/">engaging with the complexities of real-world needs and challenges</a>&nbsp;that learning finds its purpose  
-and hones its meaning—when we  
-approach the process with curiosity,  
-discipline, openness, and an instinct  
-for the greater good.</p>  
-  
-<p>May you find inspiration, and something  
-to learn, in this issue of ETHOS!</p>  
+<p>The Singapore Public Service enjoys a hard-won reputation for being competent and forward-looking. Some of the policies and initiatives put forward by our agencies are cutting-edge innovations. They may well have wider relevance and applicability both within and outside Singapore.</p>  
+
+<p>It is also folly to imagine that any government, however capable, has a monopoly on good ideas. In a fast-moving, globalised world, we cannot afford to lose track of the leading edge in thinking and action, lest we miss vital opportunities to leap ahead, or worse, be overtaken by events or the competition.</p>
+
+
+<p>Perhaps most invaluable are ideas not yet tried or tested, but which suggest new perspectives or approaches to prevalent public issues. Some of these ideas may challenge the status quo — but what new idea doesn’t?Others may not find immediate utility in governance, although their time may come.</p>
+
+<p>Our inaugural issue brings to bear some of the leading minds on a matter of global concern and national interest: Ageing. By 2050, the number of persons over 60 years of age will exceed that of children globally for the first time in human history. Singapore is also expected to age rapidly. By estimates, older persons will constitute 18.7% of Singapore’s population in 2030.</p>
+
+<p>These are figures for policymakers to note with some urgency, because the window of opportunity in which to take effective action, is now. What can we expect in the decades to come and what can we do about it today?</p>
+
+<p>Ethos features an interview with former UN Chief Demographer Dr Joseph Chamie, who addresses stagnant fertility rates in the context of a fast-growing senior population worldwide. Dr Sarah Harper, Director of the Oxford Institute of Ageing, contests the prevailing notion that a greying society necessarily means a declining one. Professor Norbert Walter, Chief Economist of the Deutsche Bank Group, forecasts changes in global labour, savings and investment patterns as the baby boomer population retires. Olivia Goh from the Ministry of Community Development, Youth and Sports reviews Singapore’s policy approaches to ageing in the context of social support and pension regimes worldwide. Andrew Kwok from the Singapore Civil Service College rounds up our issue with a thoughtful opinion piece identifying key areas for attention in Singapore’s ageing policies.</p>
+
+<div class="break">
+<p class="break1">By 2050, the number of persons over 60 years of age will exceed that of children globally for the first time in human history. Singapore is also expected to age rapidly. By estimates, older persons will constitute 18.7% of Singapore’s population in 2030.</p>
+</div>
+
+<p>Ethos will continue to convene the best and most interesting thinking about public policy from Singapore and elsewhere. In due course, we hope to generate a vigorous, healthy discourse from the mix.</p>
+
+<p>Let us know what you think of the new Ethos design and the articles in this issue. Tell us what you would like to see in future issues and send us your contributions or ideas for future articles, at any time. Above all, we hope that you will find the new Ethos relevant, thought-provoking, and a good read.</p>
+
+<p>We look forward to hearing from you.</p>  
   
   
-<p>Editor-in-Chief  
+<b>Dr Alvin Pang</b><br>
+Editor-in-Chief, ETHOS
 <br>  
-<strong>ETHOS</strong></p>  
   
 
 
