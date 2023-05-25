@@ -175,7 +175,7 @@ be more responsive in customer service.</p>
 <div class="break">
 
 <p class="break1">
-What is important is to decide deliberately, based on the potential and relevance of new technologies.
+Humans and AI algorithms working together have been shown to perform better than either humans or AI acting alone.
 </p>
 
 </div>
