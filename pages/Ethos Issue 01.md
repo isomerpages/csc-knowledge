@@ -89,6 +89,21 @@ margin-top:15px;
     </div>
 
  <br>	
+ 
+ 
+ <div class="grid-container">
+        <div><img src="/images/Ethos_Images/Teaser_Pictures/Interview.jpg">
+	</div>
+        <div><h3>Interview with Joseph Chamie Population
+and Policy</h3>
+            <b><i>Dr Joseph Chamie </i></b>
+                
+  <p>As the former United Nations Chief Demographer, Dr Joseph Chamie is one of the world’s leading authorities on population change and movement. Speaking to Ethos, he outlined the implications of global demographic trends for public policy in Singapore and elsewhere.</p>	
+            
+<div class="button1"><a target="_blank" href="/ethos-issue-24/editorial/">Read More</a></div> <br></div>
+    </div>
+		
+<br>	
 
 
 <div class="grid-container">
