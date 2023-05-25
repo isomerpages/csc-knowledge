@@ -326,6 +326,10 @@ for organisations looking to embrace
 greater use of AI.<a href="#notes"><sup>1</sup></a></p>
 
 
+
+
+<h3 class="title">Services 4.0 in IRAS</h3>
+
 <p class="small-text text">With its service mantra of “No Need
 for Service is the Best Service”,
 IRAS aspires to go beyond merely
@@ -333,9 +337,6 @@ converting manual processes to
 digital services: it wants to reduce
 processes that require input
 from taxpayers.</p>
-
-
-<h3 class="title">Services 4.0 in IRAS</h3>
 
 <p class="text">In 2016, IRAS set out to anticipate
 and then integrate customer needs
