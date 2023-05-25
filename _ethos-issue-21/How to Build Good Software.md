@@ -64,6 +64,11 @@ li {
 	
 	}	
 
+iframe {
+	width: 100% !important;
+	
+	}	
+	
 </style>
 
 <em><small>ETHOS Issue 21, July 2019</small></em>
