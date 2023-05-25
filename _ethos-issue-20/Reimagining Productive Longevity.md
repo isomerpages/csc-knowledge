@@ -320,15 +320,15 @@ to be “free from work” to one of being
   
 <p>That seniors will make up a growing proportion of our population is inevitable. Singapore is neither the first nor only country to grapple with the challenges posed by the confluence of rapid demographic, economic and technological changes. What we have is a valuable opportunity to reimagine what growing old could be like in the next decade and beyond. Ageing does not have to be associated with deteriorating health, disempowerment and dependency. Instead, we can be a society where seniors are empowered, skilled, healthy and active contributors to society. Reimagining productive longevity is a call to reaffirm that Singapore can be, and is, a home for all ages, with opportunities for all.</p>  
   
-<hr>  
+<div class="author">  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>  
+<h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Kok Ping Soon</strong> is the Chief Executive of the Government Technology Agency of Singapore, the lead agency driving Singapore’s Smart Nation initiative and public sector digital transformation. Prior to his current appointment, he held various positions in the Ministry of Manpower, National Security Co-ordination Secretariat, Ministry of Trade &amp; Industry, Singapore Tourism Board, and Economic Development Board (EDB). </p>  
   
 <p class="small-text">The author wishes to thank the inter-agency study team that worked on the analysis and recommendations for the project on which this article was based. The team members include Tony Lim, Kenny Tan, Wong Hefen, Ye Yongfeng, Ng Yi Han, Oon Si Xiang, Sherlene Chatterji, Hannah Chia, Li Caijia, Lim Shiqi, Yvonne Liu, Xiao Yifei, Chng Jun Yi, Hu Ching, Lee Zhang Er, Rachael Quah, Cheryl Lim, and Geeva s/o Gopal Krishnan.</p>  
   
-<hr>  
+</div>  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>  
   
