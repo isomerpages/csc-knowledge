@@ -209,20 +209,20 @@ our later years.
 <p>However, we found very low levels of skills confidence among seniors with less than secondary education. Among this group of respondents, only 3 in 10 were confident in their literacy skills, and just 1 in 20 were confident in their computer skills. This was in sharp contrast with respondents in other age groups and&nbsp;education levels (see Figure 3).</p>  
   
 <p style="text-align: center;">  
-<img title="Figure 3. Seniors’ Self-assessed Confidence in Their Own Literacy and Computer Skills" src="../../images/default-source/ethos-images/ethos-issue-20/lifelong\_charts-04.jpg?sfvrsn=c78d4882\_0" data-displaymode="Original" alt="Figure 3. Seniors’ Self-assessed Confidence in Their Own Literacy and Computer Skills">&nbsp;</p>  
+<img title="Figure 3. Seniors’ Self-assessed Confidence in Their Own Literacy and Computer Skills" src="/images/Ethos_Images/Ethos_Issue_20/Lifelong_Charts04.jpg" alt="Figure 3. Seniors’ Self-assessed Confidence in Their Own Literacy and Computer Skills">&nbsp;</p>  
   
 <p style="text-align: center;" class="small-text"><strong>Figure 3. </strong>Seniors’ Self-assessed Confidence in Their Own Literacy and Computer Skills</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Participation in lifelong learning  
 is significantly influenced  
 by previous education and  
 learning experiences.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>ENABLING LIFELONG LEARNING</h3>  
   
@@ -236,16 +236,16 @@ learning experiences.
   
 <p>With the push to encourage lifelong learning through various initiatives of the SkillsFuture movement, we would expect to see changes in the patterns for lifelong learning over time. Therefore, it will be of our interest to track these changes in the next iteration of the Skills and Learning Study.</p>  
   
-<hr>  
+<div class="author">  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHORS</p>  
+<h6>ABOUT THE AUTHORS</h6>  
   
 <p class="small-text"><strong>Chia Ying</strong> is Researcher at the Centre for Skills, Performance, and Productivity (CSPP), a research centre under the Institute for Adult Learning—part of SkillsFuture Singapore. CSPP specialises in skills research on the impact of skills at work and the implications for policy and practices in Continuing Education and Training (CET). <strong>Sheng Yee Zher</strong> is Principal Researcher and <strong>Johnny Sung</strong> is Centre Director of CSPP.</p>  
   
 <p class="small-text">For more information, please  
             visit <a href="https://www.ial.edu.sg/">https://www.ial.edu.sg</a>. </p>  
   
-<hr>  
+</div>  
   
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>  
   
