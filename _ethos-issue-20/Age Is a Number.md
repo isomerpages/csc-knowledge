@@ -73,15 +73,15 @@ li {
   
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/313302146?title=0&amp;byline=0" frameborder="0"></iframe></div>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Accept the limitations of old age, and negotiate around it. Don't run away from it, don't kick it under the carpet.  
-</em></h5>  
+</p>  
   
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—John Franklin Siregar</p>  
   
-<hr>  
+</div>  
   
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/313302267?title=0&amp;byline=0" frameborder="0"></iframe></div>  
   
@@ -97,15 +97,15 @@ Accept the limitations of old age, and negotiate around it. Don't run away from 
   
 <p>At <strong>75</strong>, John became a trainer with a workplace literacy programme run by Workforce Singapore.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 If you want to work, you must stay current. You must embrace lifelong learning, so you’ll be relevant.  
-</em></h5>  
+</p>  
   
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—John Franklin Siregar</p>  
   
-<hr>  
+</div>  
   
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/313302332?title=0&amp;byline=0" frameborder="0"></iframe></div>  
   
@@ -113,8 +113,8 @@ If you want to work, you must stay current. You must embrace lifelong learning, 
   
 <p>John served in the police force for 26 years. A firm believer in maintaining an active mind <em>and </em>body, he introduced scuba diving to his colleagues and organised the First Police Academy Bi-Annual Chess Championship.</p>  
   
-<a href="../../images/default-source/ethos-images/ethos-issue-20/20190103\_183820.jpg?sfvrsn=7970223e\_2"><img title="John Siregar\_3" src="../../images/default-source/ethos-images/ethos-issue-20/20190103\_183820-2.jpg?Culture=en&amp;sfvrsn=7970223e\_1" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="John Siregar - Age is a Number"></a>  
-<a href="../../images/default-source/ethos-images/ethos-issue-20/20190103\_183820-3.jpg?sfvrsn=cde4ad8f\_4"><img title="John Siregar\_4" src="../../images/default-source/ethos-images/ethos-issue-20/20190103\_183820-4.jpg?Culture=en&amp;sfvrsn=cde4ad8f\_1" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="John Siregar - Age is a Number"></a>  
+<img title="John Siregar\_3" src="/images/Ethos_Images/Ethos_Issue_20/20190103_183820-2.jpg" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="John Siregar - Age is a Number"> 
+<img title="John Siregar\_4" src="/images/Ethos_Images/Ethos_Issue_20/siregar5.jpg" data-openoriginalimageonclick="true" data-displaymode="Thumbnail" alt="John Siregar - Age is a Number">
 <br>  
   
 <div class="break">  
