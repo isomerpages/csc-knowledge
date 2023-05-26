@@ -266,7 +266,7 @@ The challenge is to think about whether we can anticipate specific needs, and or
 
 
 <br>
-
+<h4>Anticipating Needs</h4>
 <p>Beyond merely meeting needs, the
 challenge is to think about whether
 we can anticipate specific needs, and
@@ -373,7 +373,7 @@ been certified as RPA developers.</p>
 
 
 <br>
-
+<h4>Augmenting Workers</h4>
 <p>Services 4.0 is about creating the workplace
 of the future, where humans and machines
 collaborate closely for higher productivity and
@@ -414,7 +414,7 @@ valued by organisations.</p>
 <p class="small-text text">Singtel has introduced RPA assistants that augment business
 units’ capabilities and increase efficiencies.</p>
 
-
+<div class="containerbox">
 <h3 class="title">Robo-colleagues in Singtel</h3>
 
 <p class="text">Singtel has introduced RPA
@@ -436,11 +436,11 @@ able to take on more value-added
 work by tapping on the service of
 robo-colleagues who help them
 with certain tasks or processes.</p>
-
+</div>
 
 
 <br>
-
+<h4>Partnerships</h4>
 <p>For both the public and private sectors,
 partnerships are key enablers for realising
 Services 4.0. For citizen journeys to be
@@ -485,7 +485,7 @@ innovating.</p>
 of Communication and Information, Infocomm Media Development Authority, and National Library
 Board collaborated with Taiger, an AI and business process automation company. </p>
 
-
+<div class="containerbox">
 <h3 class="title">AI Collaboration with Accreditation@SG Company</h3>
 
 <p class="text">For a joint ideation workshop,
@@ -509,7 +509,7 @@ pi lot to handle a majority of
 procurement enquiries consistently
 with the agencies.
 </p>
-
+</div>
 
 <div class="break">
 
