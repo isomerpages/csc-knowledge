@@ -52,13 +52,18 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #9b1f4a;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
+	background-image: linear-gradient(to bottom, #9b1f4a , #6d2b7b);
 	}	
 
+.containerbox h3 {
+	color: white;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -327,7 +332,7 @@ greater use of AI.<a href="#notes"><sup>1</sup></a></p>
 
 
 
-
+<div class="containerbox">
 <h3 class="title">Services 4.0 in IRAS</h3>
 
 <p class="small-text text">With its service mantra of “No Need
@@ -364,7 +369,7 @@ equipping officers to serve the
 public using digital channels. About
 50 of IRAS’s non-IT officers have
 been certified as RPA developers.</p>
-
+</div>
 
 
 <br>
