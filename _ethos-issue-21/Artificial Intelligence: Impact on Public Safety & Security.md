@@ -241,7 +241,7 @@ crucial in mitigating potential threats.</p>
 
 
 <br>
-
+<h4>The Thinking Malware</h4>
 <p>In 2017, 62% of the attendees at Black
 Hat USA 2017—the world’s leading
 information security conference—said
@@ -275,7 +275,7 @@ this detection-evading mechanism.</p>
 
 
 <br>
-
+<h4>The Role in Fake News</h4>
 <p>The ease of access to emerging technologies
 means AI is as readily available for
 use by malicious actors as by proper
