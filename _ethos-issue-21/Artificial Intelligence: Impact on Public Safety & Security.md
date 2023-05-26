@@ -52,11 +52,16 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #284965;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
+	color: white;
 	
+	}	
+	
+.containerbox h3{
+	color: white;
 	}	
 
 li {
@@ -166,7 +171,7 @@ be replaced by AI.</p>
 
 <p class="small-text text">Iris scans were introduced on a trial basis at the Woodlands Checkpoint in July 2018, enhancing the existing network of cameras with the facial recognition capabilities of the Automated Biometric and Behavioural Screening Suite. </p>
 
-
+<div class="containerbox">
 <h3 class="title">AI Integration in Singapore's Border Security Operations</h3>
 
 <p class="text">Iris scans were introduced on a trial basis at the Woodlands Checkpoint in July 2018, enhancing the existing network of cameras with the facial recognition capabilities of the Automated Biometric and Behavioural Screening Suite.The Immigration &amp; Checkpoints Authority plans to roll out
@@ -174,11 +179,11 @@ the Suite progressively at all checkpoints.</p>
 
 <p class="text">Video analytics and screening capabilities identify suspicious objects and individuals, and
 conduct quick biometric identity verification. This reduces manpower requirements and also increases operational effectiveness. Since its introduction, the system has swiftly detected foreigners wanted for offences such as overstaying.</p>
+</div>
 
 
 
-
-
+<div class="containerbox">
 <h3 class="title">Case Study: Emergency Management</h3>
 <p class="small-text text">The Ministry of Home Affairs
 uses UAVs (also known as
@@ -219,7 +224,7 @@ caught 125 illegal immigrants
 via night-time drone operations
 in the western and northern
 parts of Singapore.</p>
-
+</div>
 
 <h3>Potential for Exploitation</h3>
 
