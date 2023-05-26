@@ -52,13 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	border: 5px solid orange;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: orange;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -194,7 +196,7 @@ Vault.Gov.SG will be operational from Q4 2019. We aim to improve the user experi
 
 <p class="small-text text">Vault.Gov.SG was a ground-up effort initiated in June 2018 by a small group of software engineers from DSAID’s Open Government Products team and the GDO. </p>
 
-
+<div class="containerbox">
 <h3 class="title">Creating Vault.Gov.SG</h3>
 
 <p class="text">Vault.Gov.SG was a ground-up effort initiated in June 2018 by a small group of software engineers from DSAID’s Open Government Products team and the GDO. They were keen to operationalise the new GDA and put data into the hands of users, to demonstrate that it was possible to achieve data sharing in days and not months. Using an agile development approach, they launched a basic product for user testing within three months.</p>
@@ -204,7 +206,7 @@ Vault.Gov.SG will be operational from Q4 2019. We aim to improve the user experi
 <p class="text">The entrepreneurial team worked on the MVP as a side project and pitched the idea to senior management before gaining additional resources to scale the MVP into a government-wide product
 </p>
 
-
+</div>
 <h3>Public Service Is Entrepreneurship at the National Level</h3>
 
 <p>Over the past five years, Singapore has made progress towards our Smart Nation and Digital Government vision. The Public Service is now clearer about its transformation mission and what success would look like by 2023 (as reflected in the Digital Government Blueprint). We have built a core nucleus of in-house engineering talent to work with agencies, and are clearer about how Government needs to be reorganised to fully exploit the game-changing potential of data and digitalisation.</p>
