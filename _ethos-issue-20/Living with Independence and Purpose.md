@@ -171,7 +171,7 @@ something for others and see people being happy because of your service.
 <p style="text-align: center;"><img title="Ibasho\_1" src="/images/Ethos_Images/Ethos_Issue_20/Ibasho_1.jpg" data-displaymode="Original" alt="Ibasho"><br>  
 <img title="Ibasho\_2" src="/images/Ethos_Images/Ethos_Issue_20/Ibasho_2.jpg" data-displaymode="Original" alt="Ibasho"><br>  
 <img title="Ibasho\_3" src="/images/Ethos_Images/Ethos_Issue_20/Ibasho_3.jpg" data-displaymode="Original" alt="Ibasho"><br>  
-<img title="Ibasho\_4" src="/images/Ethos_Images/Ethos_Issue_20/Ibasho_4.jpg" data-displaymode="Original" alt="Ibasho"><br>  
+<img title="Ibasho\_4" src="/images/Ethos_Images/Ethos_Issue_20/160131-125751.jpg" data-displaymode="Original" alt="Ibasho"><br>  
 <img title="Ibasho\_5" src="/images/Ethos_Images/Ethos_Issue_20/Ibasho_5.jpg" data-displaymode="Original" alt="Ibasho"></p>  
 <p class="small-text">Source: Photos courtesy of Ibasho and Dr Emi Kiyota. For more information on Ibasho, visit <a href="../www.ibasho.html">www.ibasho.org</a>.</p>  
   
