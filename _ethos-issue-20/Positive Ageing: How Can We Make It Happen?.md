@@ -135,7 +135,7 @@ respectively.
   
 <p style="text-align: center;"><img title="Forget Us Not\_1" src="/images/Ethos_Images/Ethos_Issue_20/Forget_Us_Not_1.jpg" data-displaymode="Original" alt="Forget Us Not"><img title="Forget Us Not\_2" src="/images/Ethos_Images/Ethos_Issue_20/Forget_Us_Not_2.jpg" data-displaymode="Original" alt="Forget Us Not"><br>  
 <img title="Forget Us Not\_3" src="/images/Ethos_Images/Ethos_Issue_20/Forget_Us_Not_3.jpg" data-displaymode="Original" alt="Forget Us Not"><img title="Forget Us Not\_4" src="/images/Ethos_Images/Ethos_Issue_20/Forget_Us_Not_4.jpg" data-displaymode="Original" alt="Forget Us Not"><br>  
-<img title="Forget Us Not\_5" src="/images/Ethos_Images/Ethos_Issue_20/Forget_Us_Not_5.jpg" data-displaymode="Original" alt="Forget Us Not"><img title="Forget Us Not\_6" src="/images/Ethos_Images/Ethos_Issue_20/Forget_Us_Not_6.jpg" data-displaymode="Original" alt="Forget Us Not"></p>  
+<img title="Forget Us Not\_5" src="/images/Ethos_Images/Ethos_Issue_20/_k012221.jpg" data-displaymode="Original" alt="Forget Us Not"><img title="Forget Us Not\_6" src="/images/Ethos_Images/Ethos_Issue_20/Forget_Us_Not_6.jpg" data-displaymode="Original" alt="Forget Us Not"></p>  
   
 <p class="small-text">A series of seminars organised by “Forget Us Not”, an initiative by the Lien Foundation, Khoo Teck Puat Hospital and Alzheimer’s Disease Association. Participants signed up as Dementia Friends to show support for the cause.</p>  
   
