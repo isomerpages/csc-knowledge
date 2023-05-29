@@ -52,7 +52,6 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
@@ -85,7 +84,7 @@ li {
 
 
 <h3 class="title">Liveable and Sustainable Singapore — By The Numbers</h3>
-<p style="text-align: center;"><img title="LIVEABLE AND SUSTAINABLE SINGAPORE – BY THE NUMBERS" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/ethos_is19_editorial_v5-2fa5-compressor6e131d54302a44e4986035db092187e7.jpg?sfvrsn=f9ad33a7_0" data-displaymode="Original" alt="LIVEABLE AND SUSTAINABLE SINGAPORE – BY THE NUMBERS"></p>
+<p style="text-align: center;"><img title="LIVEABLE AND SUSTAINABLE SINGAPORE – BY THE NUMBERS" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Ethos19_Editorial_2fa16_V5.jpg" data-displaymode="Original" alt="LIVEABLE AND SUSTAINABLE SINGAPORE – BY THE NUMBERS"></p>
 <hr>
 <p class="small-text"><strong>Sources:</strong></p>
 <ul>
@@ -115,7 +114,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">The CLC Liveability Framework</h3>
@@ -166,16 +165,16 @@ even as the political leadership sets the overall direction, based on the electo
 
 <p>At the same time, Singapore could not afford the luxury of ideological approaches to governance: its policies had to work in practice, not just in theory, with the vulnerable young city-state’s survival at stake. An ethos of pursuing ideas that work on the ground, and of learning by doing while keeping broader visionary objectives in sight, have been a hallmark of public administration during Singapore’s early days.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We are pragmatists. We do not stick to any ideology. Does a policy work? Let us try it, and, if it does work, fine, let us continue with it. If it does not work, toss it out, try another one that may work.
-</em></h5>
+</p>
 
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Lee Kuan Yew,<br>
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">—Lee Kuan Yew,<br>
 founding Prime Minister<a href="#notes"><sup>7</sup></a></p>
 
-<hr>
+</div>
 
 <h3>Build a Culture of Integrity<a href="#notes"><sup>8</sup></a></h3>
 
@@ -187,19 +186,19 @@ founding Prime Minister<a href="#notes"><sup>7</sup></a></p>
 
 <p>While holding public officers to a high standard of probity, the government also remunerates them with market-competitive salaries to reduce the temptation for graft. They must also avoid conflicts of interests between their official positions and private interests; refuse, surrender or declare and pay for gifts given in connection with their work; sign an annual declaration of non-indebtedness in order to avoid acquiring compromising obligations; and declare their personal and familial assets to make transparent any properties or investments acquired beyond their means.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Was it planned from the beginning? No!
 It was a process of learning, adjusting,
 refining and passing it on to the next
 generation so that they don’t have to
 relearn the process.
-</em></h5>
+</p>
 
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Lee Kuan Yew<a href="#notes"><sup>9</sup></a></p>
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">—Lee Kuan Yew<a href="#notes"><sup>9</sup></a></p>
 
-<hr>
+</div>
 
 <h3>Cultivate Sound Institutions</h3>
 
@@ -235,21 +234,21 @@ relearn the process.
 
 <p>Singapore’s water policies also benefit from the application of market principles, namely: not subsidising water consumption, pricing water to reflect its true value and working with the private sector to exploit technology to produce alternative sources of potable water in a cost-effective manner. Thus, even though Singapore is one of the most water-stressed places in the world, it continues to maintain access to adequate supplies of potable water. This is the result of consistent investments in water treatment and reclamation technologies and infrastructure, appropriately scaled to make water affordable but without subsidising consumption and encouraging a culture of prudent water use.<a href="#notes"><sup>19</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 On its own, the free market will
 worsen inequalities. [W]e believe in
 free markets but active government
 intervention where markets fail,
 together with personal responsibility
 and a supportive community.
-</em></h5>
+</p>
 
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Desmond Lee,<br>
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">—Desmond Lee,<br>
 Second Minister for National Development<a href="#notes"><sup>20</sup></a></p>
 
-<hr>
+</div>
 
 <h3>Governing for the Future</h3>
 
@@ -269,9 +268,9 @@ Second Minister for National Development<a href="#notes"><sup>20</sup></a></p>
 
 <ol>
 <li class="small-text">W.G. Huff, <em>The Economic Growth of Singapore: Trade and Development in the Twentieth Century</em> (Cambridge: Cambridge University Press, 1994), 291.</li>
-<li class="small-text">Singapore was ranked number two in the World Bank’s <em>Doing Business 2018</em> report for the period to June 2017, see World Bank Group, “Doing Business 2018: Reforming to Create Jobs”, accessed 22 December 2017, <a href="http://www.doingbusiness.org/rankings">http://www.doingbusiness.org/rankings</a>. Singapore was also ranked the third most competitive country in the world in the IMD World Competitiveness Yearbook 2017, see International Institute for Management Development, “IMD World Competitiveness Yearbook 2017 Results”, accessed 22 December 2017, <a href="https://www.imd.org/centers/world-competitiveness-center/rankings/">https://www.imd.org/centers/world-competitiveness-center/rankings/</a>.</li>
-<li class="small-text">Department of Statistics, Singapore, “Home Ownership Rate” and “Resident Households by Type of Dwelling”, accessed 13 June 2018, <a href="https://www.singstat.gov.sg/find-data/search-by-theme/households/households/latest-data">https://www.singstat.gov.sg/find-data/search-by-theme/households/households/latest-data</a>.</li>
-<li class="small-text">See Ministry of Manpower, Singapore, “Summary Table: Unemployment”, accessed 17 April 2018, <a href="http://stats.mom.gov.sg/Pages/Unemployment-Summary-Table.aspx">http://stats.mom.gov.sg/Pages/Unemployment-Summary-Table.aspx</a>.</li>
+<li class="small-text">Singapore was ranked number two in the World Bank’s <em>Doing Business 2018</em> report for the period to June 2017, see World Bank Group, “Doing Business 2018: Reforming to Create Jobs”, accessed 22 December 2017, <a target="_blank" href="http://www.doingbusiness.org/rankings">http://www.doingbusiness.org/rankings</a>. Singapore was also ranked the third most competitive country in the world in the IMD World Competitiveness Yearbook 2017, see International Institute for Management Development, “IMD World Competitiveness Yearbook 2017 Results”, accessed 22 December 2017, <a target="_blank" href="https://www.imd.org/centers/world-competitiveness-center/rankings/">https://www.imd.org/centers/world-competitiveness-center/rankings/</a>.</li>
+<li class="small-text">Department of Statistics, Singapore, “Home Ownership Rate” and “Resident Households by Type of Dwelling”, accessed 13 June 2018, <a target="_blank" href="https://www.singstat.gov.sg/find-data/search-by-theme/households/households/latest-data">https://www.singstat.gov.sg/find-data/search-by-theme/households/households/latest-data</a>.</li>
+<li class="small-text">See Ministry of Manpower, Singapore, “Summary Table: Unemployment”, accessed 17 April 2018, <a target="_blank" href="http://stats.mom.gov.sg/Pages/Unemployment-Summary-Table.aspx">http://stats.mom.gov.sg/Pages/Unemployment-Summary-Table.aspx</a>.</li>
 <li class="small-text">Lee Kuan Yew, <em>From Third World to First: The Singapore Story, 1965–2000</em> (Singapore: Times Media and The Straits Times Press, 2000), 24.</li>
 <li class="small-text">Ngiam Tong Dow, “The Politics Behind Development Policies”, <em>The Straits Times</em>, 19 November 2011.</li>
 <li class="small-text">Cecilia Tortajada and Asit K. Biswas, “What made Singapore tick: Soft options and hard rules”, <em>The Straits Times</em>, 31 December 2017.</li>
@@ -282,17 +281,14 @@ Second Minister for National Development<a href="#notes"><sup>20</sup></a></p>
 <li class="small-text">See Han Fook Kwang, Warren Fernandez and Sumiko Tan, eds., <em>Lee Kuan Yew: The Man and His Ideas</em> (Singapore: Straits Times Press, 1998), 92; Neo Boon Siong and Geraldine Chen, <em>Dynamic Governance: Embedding Culture, Capabilities and Change in Singapore</em> (Singapore: World Scientific, 2007), 323.</li>
 <li class="small-text">For more information on the Singapore Public Service’s talent recruitment, development and retention efforts, see Neo and Chen, <em>Dynamic Governance</em>, chapter 7.</li>
 <li class="small-text">Singapore’s land area has increased since independence through land reclamation from the sea.</li>
-<li class="small-text">See Singapore Infopedia, “Area Licensing Scheme”, accessed 13 June 2018, <a href="http://eresources.nlb.gov.sg/infopedia/articles/SIP_777_2004-12-13.html">http://eresources.nlb.gov.sg/infopedia/articles/SIP_777_2004-12-13.html</a>.</li>
+<li class="small-text">See Singapore Infopedia, “Area Licensing Scheme”, accessed 13 June 2018, <a target="_blank" href="http://eresources.nlb.gov.sg/infopedia/articles/SIP_777_2004-12-13.html">http://eresources.nlb.gov.sg/infopedia/articles/SIP_777_2004-12-13.html</a>.</li>
 <li class="small-text">For example, the Municipal Services Office’s OneService mobile application allows citizens to provide prompt feedback on municipal issues and makes it more convenient for them to access municipal services. The Land Transport Authority’s Beeline public transport application aggregates data on commuters’ transport needs and feed these to transport operators to consider providing a new service to plug the gap. The code for Beeline has been made open source since October 1, 2017 to further encourage community innovation.</li>
 <li class="small-text">June Gwee, “Introduction,” in June Gwee, ed., <em>Case Studies: Building Communities in Singapore</em> (Singapore: Civil Service College, 2015), 2; Peter Ong, “Public service wants to crowdsource, consult and co-create”, <em>The Straits Times</em>, 5 November 2015.</li>
-<li class="small-text">Mah Bow Tan, “Pricing Flats According to their Value”, <em>Today</em>, 29 October 2010, accessed 13 November 2015, <a href="https://www.mnd.gov.sg/home">https://www.mnd.gov.sg/home</a>.</li>
+<li class="small-text">Mah Bow Tan, “Pricing Flats According to their Value”, <em>Today</em>, 29 October 2010, accessed 13 November 2015, <a target="_blank" href="https://www.mnd.gov.sg/home">https://www.mnd.gov.sg/home</a>.</li>
 <li class="small-text">Tan Gee Paw, <em>Singapore Chronicles: Water</em> (Singapore: Institute of Policy Studies and Straits Times Press, 2016), 10, 66, 80 and 86; Ng Joo Hee, “Waste to Potable Water—S’pore’s Solution to World’s Water Problems”, <em>The Business Times</em>, 22 March 2018.</li>
-<li class="small-text">Desmond Lee, “Speech by 2M Desmond Lee at the 9th Session of the World Urban Forum”, 9 February 2018, accessed 6 April 2018, <a href="https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-2m-desmond-lee-at-the-9th-session-of-the-world-urban-forum">https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-2m-desmond-lee-at-the-9th-session-of-the-world-urban-forum</a>.</li>
+<li class="small-text">Desmond Lee, “Speech by 2M Desmond Lee at the 9th Session of the World Urban Forum”, 9 February 2018, accessed 6 April 2018, <a target="_blank" href="https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-2m-desmond-lee-at-the-9th-session-of-the-world-urban-forum">https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-2m-desmond-lee-at-the-9th-session-of-the-world-urban-forum</a>.</li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
