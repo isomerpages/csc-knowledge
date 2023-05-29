@@ -83,7 +83,7 @@ li {
 
 <p style="text-align: center;"><img title="Our Population is ageing rapidly" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Ageing_Rapidly.jpg" data-displaymode="Original" alt="Our Population"></p>
 
-<p style="text-align: center;"><img title="HEALTHY LIFE EXPECTANCY" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/ethos_is19_editorial_v5-2fa32_2-compressor.jpg?sfvrsn=601fdc91_0" data-displaymode="Original" alt="HEALTHY LIFE EXPECTANCY"></p>
+<p style="text-align: center;"><img title="HEALTHY LIFE EXPECTANCY" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Healthy_Life_Expectancy.jpg" data-displaymode="Original" alt="HEALTHY LIFE EXPECTANCY"></p>
 
 <p>Singapore has taken a whole-of-nation approach to preparing for population ageing. A Ministerial Committee on Ageing was established to coordinate government policies and programmes relating to population ageing. In 2015, the Committee launched an Action Plan for Successful Ageing which forms the nation’s blueprint for preparing Singaporeans to age well.</p>
 
