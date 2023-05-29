@@ -228,15 +228,15 @@ efficient, sustainable and safe.</p>
     </li>
 </ul>
 <p>&nbsp;</p>
-<p style="text-align: center;"><img title="HDB’s Approach Towards Smarter Towns" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/ethos_is19_editorial_v5-2fa28-compressord8d935ab743f4b359a6a2cfe9cae4403.jpg?sfvrsn=c92e556e_0" data-displaymode="Original" alt="HDB’s Approach Towards Smarter Towns"></p>
+<p style="text-align: center;"><img title="HDB’s Approach Towards Smarter Towns" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/EthosIssue19_Editorial_V5_2fa28_Compressor.jpg" data-displaymode="Original" alt="HDB’s Approach Towards Smarter Towns"></p>
 <p class="small-text">Source: HDB</p>
 <h4>Living Labs</h4>
 <p>New ideas and innovations are tested out in actual town settings. These living labs include Yuhua, where live-in residents provide feedback, response and usage data that help us calibrate solutions that meet their needs. Smart technologies, such as the smart car park management and smart irrigation, also enhance the urban planning and design for Punggol Northshore, one of seven waterfront housing districts planned in Punggol Eco-Town.</p>
 <p>Smart solutions, like smart-enabled flats and smart lighting, are slated for widerscale implementation in other Punggol developments.</p>
-<p style="text-align: center;"><img title="Neighbourhood Centre in Northshore" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/northshore-plaza-compressoreaf248b051b448bdbb344a546e86b6b4.jpg?sfvrsn=7760bd90_0" data-displaymode="Original" alt="Neighbourhood Centre in Northshore"></p>
+<p style="text-align: center;"><img title="Neighbourhood Centre in Northshore" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Northshore_Plaza.jpg" data-displaymode="Original" alt="Neighbourhood Centre in Northshore"></p>
 <p class="small-text">The Neighbourhood Centre in Northshore, a smart and sustainable district in Punggol, will feature smart technologies.<br>
 Source: HDB</p>
-<p style="text-align: center;"><img title="Smart Planning process for Punggol" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/sensors-map-compressoradeb4caa3f094651ab7f62c909324fde.jpg?sfvrsn=169db2c7_0" data-displaymode="Original" alt="Smart Planning process for Punggol"></p>
+<p style="text-align: center;"><img title="Smart Planning process for Punggol" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Smart_Planning_Process.jpg" data-displaymode="Original" alt="Smart Planning process for Punggol"></p>
 <p class="small-text">Environmental modelling is part of the Smart Planning process for Punggol, allowing HDB planners and architects to see the effect of urban design on environmental conditions.<br>
 Source: HDB</p>
 
