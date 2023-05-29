@@ -140,17 +140,17 @@ the constructive task of
 <p>“The PSC is a critical component of the civil service system. It is basically there to guarantee the integrity of the civil service. It is there to give the reassurance to the public that the civil service is being properly managed. That there is no nepotism, no monkey business going on. And it gives the reassurance to the civil servants that their position is secured and they won’t be subject to political interference.”<a href="#notes"><sup>4</sup></a></p>
 </blockquote>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Another aspect of integrity is
 <strong>intellectual honesty</strong>. This means
 looking problems in the face and solving
 them, not based on ideology, but on a hardnosed
 assessment of the likely results.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Integrity as Intellectual Honesty: Nurturing good habits in policymaking</h3>
 
@@ -158,15 +158,15 @@ assessment of the likely results.
 
 <p>In Singapore’s history and in the minds of our founding generation of leaders, this results-oriented approach to policymaking was linked to the drive for clean and honest government and against corruption: a pragmatic focus on results would l ead to the efficient provision of services to the public. This in turn would remove the incentive for corruption—if citizens could consistently enjoy efficient and effective services, then there would be no need to resort to bribery to get things done. This approach to policymaking, variously described as rational, pragmatic, unsentimental, and results-oriented,<a href="#notes"><sup>5</sup></a> has become a hallmark of the Singapore Public Service’s approach to governance.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Intellectual honesty can
 only bear fruit where there is
 <strong>courage to speak</strong>.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>An extension of this results-oriented approach to policymaking is the habit of “thinking again” both successes and failures in public policy, and being willing to confront the performance, either good or bad, of existing policies—so as to rework them to obtain better results.<a href="#notes"><sup>6</sup></a> Intellectual honesty can only bear fruit where there is courage to speak. Thus willingness to speak truth to power is also part of the public service’s culture of integrity, carefully nurtured over the years. Once a policy is decided, working with the elected government to serve the people of Singapore and shape Singapore’s future means that civil servants will put their full efforts behind implementing the policy well. But in the preceding process of formulating policy, civil servants are encouraged to speak their minds as they develop options, robustly defend their divergent views, and push options which their supervisors may well disagree with. We believe that the best ideas surface when our diverse, 145,000-strong Public Service are empowered to speak and make a difference to policy directions.</p>
 
@@ -193,18 +193,18 @@ only bear fruit where there is
 
 <p>In such an environment, ensuring that the government has the institutional and legal safeguards in place robustly to refute falsehoods is only one part of the answer.<a href="#notes"><sup>9</sup></a> A second, equally important part has to do with the <em>how</em> of delivering public services. We must ensure that the Public Service is prepared to function less hierarchically and more transparently in an environment of greater contestation and scrutiny. It must learn to gain trust by sharing information and sometimes admitting to not knowing, even as it continues to serve citizens with heart—with passion, empathy and care. To engage in transformational change while maintaining our bearings, remaining connected to our values is key. To this end, the Singapore Public Service’s core values of integrity, service and excellence must continue to guide all aspects of our work even as we transform <em>how</em> we do that work.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Whole-of-government,
 <strong>integrated</strong> policymaking
 and implementation has
 become an imperative and
 an essential antidote to the
 dangers of reductionism.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>As technology accentuates the complexity of cities as systems, every government must confront complexity well in order for their country to flourish. Governments that make the effort to understand and manage complexity will gain a competitive advantage.<a href="#notes"><sup>10</sup></a> But how is a government to do this?</p>
 
@@ -214,9 +214,9 @@ dangers of reductionism.
 
 <p>A vivid picture of this can be seen in the nationwide 3D mapping initiative, led by the Singapore Land Authority but involving multiple agencies—PUB, CAAS, GovTech, NParks, and URA. This project put together the most comprehensive geospatial dataset ever collected in Singapore, including buildings, roads, terrain, water bodies, vegetation, tunnels and bridges. The comprehensive 3D map data has provided a rigorous geospatial foundation for policymakers to develop solutions for complex urban challenges more effectively, and has applications in flood management, flight planning and airspace safety assessment, tree management as well as applications in studying potential solar energy harnessing, among others.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Going digital to the
 core is a key part of the
 Singapore Public Service’s
@@ -225,9 +225,9 @@ goal of making Singapore a
 <strong>Smart Nation</strong>
 has widespread implications
 for the practice of governance.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Ongoing Transformation: Going Digital</h3>
 
@@ -251,7 +251,7 @@ for the practice of governance.
 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>
+<h6><a name="notes"></a>NOTES</h6>
 
 <ol>
 <li class="small-text"><em>Liveable &amp; Sustainable Cities: A Framework</em> (Singapore: Centre for Liveable Cities and Civil Service College, 2014): 8–11.</li>
