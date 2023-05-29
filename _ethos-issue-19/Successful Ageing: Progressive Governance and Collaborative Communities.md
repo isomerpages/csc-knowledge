@@ -52,13 +52,24 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #d1eefc;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
+	
+.containerbox2 {
+	background-color: #f68c1f;
+	background-image: linear-gradient: (to left , #f68c1f , #fcb316);
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	}	
 
+.containerbox2 h3 {
+	color: black;
+	}	
 li {
 	font-size: 15px !important;
 	
@@ -99,15 +110,15 @@ Whole-of-Nation</h3>
 
 <p>However, to be able to achieve productive longevity may require us to organise our workplaces, social systems and even urban environments, differently.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 “Many of us may have been socialised into thinking that life is a ‘hump’: you begin life as infant, growing into your teens and early adulthood before maturing at your peak. Thereafter, it is downhill all the way …”
-</em></h5>
+</p>
 
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Teoh Zsin Woon</p>
 
-<hr>
+</div>
 
 <h3>Seniors as Individuals</h3>
 
@@ -117,15 +128,15 @@ Whole-of-Nation</h3>
 
 <p>These are all supported by both communities and the government, and aimed at fueling a new narrative about ageing. Instead of associating seniors with recipients of help, the Silver Volunteer Fund empowers seniors to contribute to society as volunteers.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 “We want to create a society where our seniors are visible. No matter your age, everyone is a valued member of our community.”
-</em></h5>
+</p>
 
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Teoh Zsin Woon</p>
 
-<hr>
+</div>
 
 <h3>Seniors as Members of Society</h3>
 
@@ -147,11 +158,11 @@ Whole-of-Nation</h3>
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 &nbsp;
-<p style="text-align: center;" class="small-text"><img title="Factsheet on Action Plan for Successful Ageing" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/apo_infographic_working_2_1page_3_edit-01.jpg?sfvrsn=d03ca213_0" data-displaymode="Original" alt="Factsheet on Action Plan for Successful Ageing"></p>
+<p style="text-align: center;" class="small-text"><img title="Factsheet on Action Plan for Successful Ageing" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Factsheet_on_ActionPlan.jpg" data-displaymode="Original" alt="Factsheet on Action Plan for Successful Ageing"></p>
 <p class="small-text">Source: Ministry of Health</p>
 
 
@@ -178,7 +189,7 @@ as Stakeholders</h3>
 
 
 
-<div class="container">
+<div class="containerbox2">
 
 
 <h3 class="title">Silver Generation Ambassadors</h3>
@@ -203,9 +214,9 @@ as Stakeholders</h3>
 <h3>Community
 Partnerships</h3>
 
-<p style="text-align: center;"><img title="Functional screening at Yishun Town Secondary School 2" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/yishuntownsecsch_screening2-compressor01f0ecdf2fbe4669ba89b71881b54ae0.jpg?sfvrsn=bbce1a58_0" data-displaymode="Original" alt="Functional screening at Yishun Town Secondary School 2"></p>
+<p style="text-align: center;"><img title="Functional screening at Yishun Town Secondary School 2" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/YTSS_Screening2_Compressor.jpg" data-displaymode="Original" alt="Functional screening at Yishun Town Secondary School 2"></p>
 
-<p style="text-align: center;"><img title="Functional screening at Yishun Town Secondary School" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/yishuntownsecsch_screening1-compressor-(1).jpg?sfvrsn=d0b2cc02_0" data-displaymode="Original" alt="Functional screening at Yishun Town Secondary School"></p>
+<p style="text-align: center;"><img title="Functional screening at Yishun Town Secondary School" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/YTSS_Screening1_Compressor.jpg" data-displaymode="Original" alt="Functional screening at Yishun Town Secondary School"></p>
 
 <p style="text-align: left;" class="small-text">Functional screening at Yishun Town Secondary School where students volunteer to conduct basic eye checks for seniors <br>
 Source: Agency for Integrated Care</p>
@@ -217,7 +228,7 @@ Source: Agency for Integrated Care</p>
 
 <p>To achieve this vision, MOH works with grassroots organisations, senior activity centres and even schools, leveraging existing spaces to bring health checks to seniors. On weekends, school children volunteer to help conduct eye checks for seniors as their school premises turn into health centres for seniors to undergo functional screening, and their school dental buses double up to provide follow-up dental treatment for seniors with oral health issues.</p>
 
-<p style="text-align: center;"><img title="National Dental Centre Singapore" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/dunmansecschool_dental(1).jpg?sfvrsn=9b75038e_0" data-displaymode="Original" alt="National Dental Centre Singapore"></p>
+<p style="text-align: center;"><img title="National Dental Centre Singapore" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/National_Dental_Centre_SG.jpg" data-displaymode="Original" alt="National Dental Centre Singapore"></p>
 
 <p style="text-align: left;" class="small-text">The team from the National Dental Centre Singapore providing dental follow-up treatment for seniors at Dunman Secondary School<br>
 Source: Agency for Integrated Care</p>
@@ -229,15 +240,15 @@ Source: Agency for Integrated Care</p>
 
 <p>Joint planning and programming between communities and government, using data and leveraging existing infrastructure, gives new life and new social purpose to some of these spaces. This mode of programme delivery allows for much faster implementation across the island than just depending on building new infrastructure or retirement villages.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 “Population ageing is huge. I need all the productive energies in each community. I need the community to embrace and to care for the seniors. We really need to combine our resources and everybody needs to chip in to take care of our seniors in each community.”
-</em></h5>
+</p>
 
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Teoh Zsin Woon</p>
 
-<hr>
+</div>
 
 <h3>Tapping on
 Technology</h3>
@@ -252,7 +263,7 @@ Technology</h3>
 
 
 
-<div class="container">
+<div class="containerbox2">
 
 
 <h3 class="title">The Power of Data Analytics: ePlanner &amp; GEMMA</h3>
@@ -270,15 +281,15 @@ Technology</h3>
 
 
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 “Through conscious urban design and facility placement, we want to rekindle that magical bond between the young and old. We want our younger people to feel the love from the older people; and for the older people to fill their days with the laughter from the young.”
-</em></h5>
+</p>
 
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Teoh Zsin Woon</p>
 
-<hr>
+</div>
 
 <h3>Looking into
 the Future</h3>
