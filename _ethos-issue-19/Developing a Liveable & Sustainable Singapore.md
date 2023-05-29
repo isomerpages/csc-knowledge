@@ -254,15 +254,15 @@ Second Minister for National Development<a href="#notes"><sup>20</sup></a></p>
 
 <p>When Singapore was thrust into independence, there was little inkling of what the future might hold. The foremost need was to make this small new island nation work and thrive. It was a time for action rather than reflection. There was no room to systematically formulate and codify principles of governance. It is only later, with a proven track record of success, that Singapore’s public sector sought to document our experiences and hard-won lessons, and to codify the principles that have guided Singapore’s integrated planning and development and approach to dynamic urban governance. Our current landscape is one of a more diverse population, in which the interests of a complex network of stakeholders intersect, cross-cut or even compete. At the same time, we need to engage with a rapidly changing world where international rules that have provided stability since World War Two are being stress-tested or disrupted. In this context, a framework of principles for governance offers an anchor for us to frame, understand and approach change. But circumstances evolve, and new developments, including the technological and social, are overturning existing models of doing things. Our approaches to nation-building must continue to evolve with the shifting political and economic landscape, even as we adhere to the core values of integrity, service and excellence that ground and guide us in a volatile world.</p>
 
-<hr>
+<div class="author">
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">ABOUT THE AUTHOR</p>
+<h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Toh Boon Kwan</strong> is Lead Researcher with the Institute of Governance and Policy, Civil Service College. Besides research and writing, he also lectures on topics such as governance and administration, industrial relations, as well as defence and security. </p>
 
 <p class="small-text">The author wishes to thank Mark Chen, Vernie Oliveiro, James Low and Song Hsi Ching for their help in the drafting of this article.</p>
 
-<hr>
+</div>
 
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>
 
