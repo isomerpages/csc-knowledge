@@ -52,13 +52,18 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #172f56;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
+.containerbox h3 {
+	color: white;
+	
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -87,7 +92,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Not Swayed by Status</h3>
@@ -101,26 +106,16 @@ li {
 
 
 
+<br>
+<br>
+<br>
 
-
-
-
-
-
-<p class="small-text text">In 1994, the CPIB started investigating the case of Choy Hon Tim, a former Deputy Chief Executive (Operations) of the Public Utilities Board (PUB).</p>
-
-
-
-
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">The Largest Graft Amount in Singapore History</h3>
 <p class="text">In 1994, the CPIB started investigating the case of Choy Hon Tim, a former Deputy Chief Executive (Operations) of the Public Utilities Board (PUB) who was found to have accepted bribes to assist a sub-contractor doing work for PUB, on several occasions. Choy Hon Tim fled the country, but was eventually brought back to Singapore and charged on 27 October 1995 for criminal conspiracy and accepting bribes totalling around S$13.85 million. He was sentenced to prison for 14 years.</p>
 <p class="text">To date, the total sum Choy received remains the largest total amount of bribe monies received by a public official in Singapore’s history.</p>
-
-
-
 </div>
 
 
@@ -128,16 +123,16 @@ li {
 
 
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Maintaining integrity is
 also about looking to
 the constructive task of
 <strong>institution-building</strong>.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Maintaining integrity in Singapore in general, and in the civil service in particular, was never just a matter of going on the offensive against corruption, but also about looking to the constructive task of institution-building. Since its formation in 1951, the Public Service Commission (PSC) has been the custodian of the values of integrity, impartiality and meritocracy for the Public Service. As an independent and neutral body, overseeing appointments promotions and discipline within the service, the PSC plays a key role in ensuring that the civil service remains both clean and effective. Then Deputy Prime Minister and Finance Minister Lee Hsien Long summed it up thus:</p>
 
