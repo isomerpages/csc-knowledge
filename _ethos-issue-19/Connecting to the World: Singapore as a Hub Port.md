@@ -132,10 +132,11 @@ li {
 
 
 
-<p style="text-align: center;"><img title="Building Capacity in Tandem with Demand" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/building-capacity-in-tandem-with-demand.png?sfvrsn=fcc6c52d_0" alt="Building Capacity in Tandem with Demand"></p>
+<p style="text-align: center;"><img title="Building Capacity in Tandem with Demand" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Building_Capacity_In_Tandem_With_Demand.png" alt="Building Capacity in Tandem with Demand"></p>
 
-<p style="text-align: center;"><img title="Automated Crane Operations Centre" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/24_300dpi---automated-crane-operations-centre-compressor.jpg?sfvrsn=bf92d838_0" data-displaymode="Original" alt="Automated Crane Operations Centre"></p>
-
+<!--
+<p style="text-align: center;"><img alt="Automated Crane Operations Centre" data-displaymode="Original" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/24_300dpi---automated-crane-operations-centre-compressor.jpg?sfvrsn=bf92d838_0" title="Automated Crane Operations Centre"></p>
+-->
 <p style="text-align: left;" class="small-text">New port cranes will allow for remote monitoring, supervision and control of up to 5 cranes.<br>
 Source: Photo courtesy of PSA Corporation Ltd</p>
 
