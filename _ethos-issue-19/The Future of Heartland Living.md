@@ -247,12 +247,6 @@ Source: HDB</p>
 
 
 
-
-
-<p style="text-align: center;"><img title="ROH-Pasir-Ris" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/roh-pasir-ris-compressord931c5a609184e808607561af3daf2c1.jpg?sfvrsn=23646027_0" data-displaymode="Original" alt="ROH-Pasir-Ris"><br>
-<img title="ROH---Toa-Payoh" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/roh---toa-payoh-compressor5a4b1f40c98f43c79bfa98674c749c82.jpg?sfvrsn=2015fae9_0" data-displaymode="Original" alt="ROH---Toa-Payoh"><br>
-<img title="ROH---Woodlands" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/roh---woodlands-compressor337fdf3a848e4349bbc141aa5be12e9f.jpg?sfvrsn=6f76000b_0" data-displaymode="Original" alt="ROH---Woodlands"></p>
-
 <p class="small-text">Perspectives of Remaking of Heartland 3<br>
 Source: HDB</p>
 
@@ -264,13 +258,13 @@ Source: HDB</p>
 
 <p>HDB is also adopting innovations in information technology, the “Internet of Things” and big data to develop smarter HDB towns that are more sustainable, efficient, safe and liveable.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Such initiatives help to ensure the social and economic sustainability of our HDB towns.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Since the 1990s, HDB has implemented various initiatives to upgrade housing precincts in the older towns and estates, bringing them to a standard closer to the newer ones. Such initiatives include the Main Upgrading Programme, Lift Upgrading Programme, Home Improvement Programme, Neighbourhood Renewal Programme and Selective En bloc Redevelopment Scheme. Beyond the upgrading and redevelopment of individual housing precincts, the Remaking Our Heartland (ROH) programme was launched in 2007 as a comprehensive blueprint to renew and further develop HDB towns and estates. For Woodlands, Pasir Ris and Toa Payoh—the three towns announced in 2015 for ROH 3—a customised set of strategies was developed, taking into consideration factors such as local demographics, history, and the needs and challenges of each town. Residents and community stakeholders are actively engaged to seek their views and suggestions in drawing up these rejuvenation plans and proposals.</p>
 
@@ -284,20 +278,20 @@ Such initiatives help to ensure the social and economic sustainability of our HD
 
 
 
-<div class="container">
+<div class="containerbox2">
 
 
 <h3 class="title">Bidadari</h3>
 <p class="text">Bidadari Estate, in the central region of Singapore, features a unique site topography, history and identity. The estate is being developed into four distinctive districts complemented by a market square, with a range of facilities to serve residents’ needs. Each district will incorporate new housing forms that respond to Bidadari’s unique terrain and site characteristics:</p>
-<p style="text-align: center;"><img title="4-districts-in-Bidadari" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/4-districts-in-bidadari-compressore4ae69ebc6cc43319816a2d60710b9cc.jpg?sfvrsn=1f59e359_0" data-displaymode="Original" alt="4-districts-in-Bidadari"></p>
+<p style="text-align: center;"><img title="4-districts-in-Bidadari" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Districts_In_Bidadari_Compressor.jpg" data-displaymode="Original" alt="4-districts-in-Bidadari"></p>
 <p class="small-text">Four distinctive districts in Bidadari<br>
 Source: HDB</p>
 <p class="text">For example, the Woodleigh district features a community of urban villages among lush rolling hills. In the Woodleigh Glen precinct, a Village Street located along an existing valley serves as a conduit connecting residents and linking to community spaces that flank the valley. Sky terraces open up views to the Bidadari Hill Park. To improve the design of the development, environmental modelling tools are used to simulate microclimatic conditions such as wind flow, temperature fluctuations, and solar irradiance.</p>
 <p class="text">To recreate a sense of tranquility and recall memories of the former Alkaff Lake Garden in the area, a new Alkaff Lake will be created within the new Bidadari Park. The lake will also serve as a water retention pond.</p>
-<p style="text-align: center;"><img title="Woodleigh-Glen" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/woodleigh-glen-compressor1abfdc7579ba461fb9c1322d90e5e1f0.jpg?sfvrsn=d5c5df76_0" data-displaymode="Original" alt="Woodleigh-Glen"></p>
+<p style="text-align: center;"><img title="Woodleigh-Glen" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Woodleigh_Glen_Compressor.jpg" data-displaymode="Original" alt="Woodleigh-Glen"></p>
 <p class="small-text">Artist’s impression of Woodleigh Glen<br>
 Source: HDB</p>
-<p style="text-align: center;"><img title="Heritage-Walk" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/heritage-walk-compressor96166e4c2c2e43e0a244ab417420de11.jpg?sfvrsn=f9f8cef1_0" data-displaymode="Original" alt="Heritage-Walk"></p>
+<p style="text-align: center;"><img title="Heritage-Walk" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Heritage_Walk_Compressor.jpg" data-displaymode="Original" alt="Heritage-Walk"></p>
 <p class="small-text">Artist’s impression of Heritage Walk<br>
 Source: HDB</p>
 <p class="text">A unique new feature of the estate is the Heritage Walk: the Old Upper Aljunied Road will be pedestrianised to preserve the canopy of mature trees. An existing Memorial Garden, which commemorates the heritage of the former Bidadari Cemetery and Singapore’s prominent pioneers, will be integrated into Bidadari Park to bring the district’s heritage closer to residents and visitors.</p>
@@ -315,13 +309,13 @@ Source: HDB</p>
 
 <p>With over 80% of Singapore’s resident population living in HDB flats, public housing plays a crucial role in promoting social harmony in multi-racial, multicultural and multi-religious Singapore. To this end, we provide a living environment where Singaporeans of different races and socio-economic groups have opportunities to come together, mingle and bond as a community.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 HDB provides a living environment where Singaporeans of different races and socio-economic groups have opportunities to come together, mingle and bond as a community.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Community building is achieved through the provision of areas for the community to meet and mingle, like common greens, playgrounds and precinct pavilions. Residents can live, work and play while building ties. More community spaces to facilitate interaction and activities will be included in the planning of towns to support the flourishing of communities. “Community living rooms” located at void decks or landscape decks provide opportunities for residents to interact with each other. On a larger scale, partially covered plazas are provided at the town centre for group gatherings. HDB works with grassroots organisations to activate and improve the vibrancy of such spaces through systematic “place-making” programmes.</p>
 
@@ -335,11 +329,11 @@ HDB provides a living environment where Singaporeans of different races and soci
 
 
 
-<div class="container">
+<div class="containerbox2">
 
 
 <h3 class="title">Kampung Admiralty</h3>
-<p style="text-align: center;"><img title="Kampung-Admiralty-Cross-Section" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/ethos_is19_editorial_v5-2fa30-compressor0e18ed89493546b1aebf50de8fb77161.jpg?sfvrsn=ef7fbaa_0" data-displaymode="Original" alt="Kampung-Admiralty-Cross-Section"></p>
+<p style="text-align: center;"><img title="Kampung-Admiralty-Cross-Section" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Kampung_Admiralty_CrossSection.jpg" data-displaymode="Original" alt="Kampung-Admiralty-Cross-Section"></p>
 <p class="small-text">Kampung Admiralty<br>
 Source: HDB</p>
 <p class="text">Kampung Admiralty, an integrated development that caters to a range of diverse needs, is designed with seamless access to elderly housing and a wide range of facilities like childcare centres, a medical centre, active ageing hub, hawker centre and shops. There are also community spaces like the community plaza and community garden where residents of all ages can pursue their interests or participate in communal activities.</p>
