@@ -59,6 +59,21 @@ font-family: Georgia;
 	
 	}	
 
+.containerbox2 {
+	background-color: #00a1ba;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	color: white;
+	}
+
+.containerbox2 h3,
+.containerbox2 h4,
+.containerbox2 strong {
+	color: white;
+	
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -148,13 +163,13 @@ We must build in an environmentally responsible manner, ensuring that our towns 
 <p>HDB towns are well served by a mass transit network, highways and roads. This is now supplemented by more comprehensive cycling and pedestrian networks.</p>
 </ol>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 HDB takes a comprehensive approach in developing entire towns, not just housing alone.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>With the ramping up of the building programme in the early 2010s, HDB has taken the opportunity to plan and develop a new generation of public housing. Building on the principles above, we have formulated master plans for new areas of development like Bidadari, Tampines North and Punggol North, incorporating a number of fresh ideas:</p>
 
@@ -179,7 +194,7 @@ HDB takes a comprehensive approach in developing entire towns, not just housing 
 
 
 
-<div class="container">
+<div class="containerbox2">
 
 
 <h3 class="title">Smart HDB Towns</h3>
