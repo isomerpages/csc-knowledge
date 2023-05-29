@@ -134,9 +134,9 @@ li {
 
 <p style="text-align: center;"><img title="Building Capacity in Tandem with Demand" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Building_Capacity_In_Tandem_With_Demand.png" alt="Building Capacity in Tandem with Demand"></p>
 
-<!--
-<p style="text-align: center;"><img alt="Automated Crane Operations Centre" data-displaymode="Original" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/24_300dpi---automated-crane-operations-centre-compressor.jpg?sfvrsn=bf92d838_0" title="Automated Crane Operations Centre"></p>
--->
+
+<p style="text-align: center;"><img title="Automated Crane Operations Centre" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/24_300dpi_Automated_Crane_Operations_Centre_Compressor.jpg" data-displaymode="Original" alt="Automated Crane Operations Centre"></p>
+
 <p style="text-align: left;" class="small-text">New port cranes will allow for remote monitoring, supervision and control of up to 5 cranes.<br>
 Source: Photo courtesy of PSA Corporation Ltd</p>
 
@@ -199,8 +199,8 @@ system.
 <p class="text">Given the need to ensure navigational safety as Singapore’s vessel traffic grows, Project SAFER is a collaboration between MPA and IBM Research to develop and test-bed new analytics-based technologies to improve maritime and port operations.</p>
 <p class="text">The SAFER system can automate and increase the accuracy of critical tasks that formerly replied on human observation, reporting, Very High Frequency (VHF) reporting and data entry.</p>
 <p class="text">Examples include Automated Movement Detection and Utilisation Prediction.</p>
-<p style="text-align: center;"><img title="SAFER" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/poster-2(fa)-01-resized.jpg?sfvrsn=76674ab2_0" data-displaymode="Original" alt="SAFER"><span style="text-align: left;"></span></p>
-
+<p style="text-align: center;"><img title="SAFER" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/ethos_issue19pic.jpg" data-displaymode="Original" alt="SAFER"><span style="text-align: left;"></span></p>
+<p style="text-align: center;"><img title="SAFER" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/ethos_issue19pic2.jpg" data-displaymode="Original" alt="SAFER"><span style="text-align: left;"></span></p>
 
 
 </div>
