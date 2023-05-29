@@ -81,7 +81,7 @@ li {
 
 
 
-<p style="text-align: center;"><img title="Our Population is ageing rapidly" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/ethos_is19_editorial_v5-2fa32_1-compressor3b96c57e445a419bbfcbb6e775f7625b.jpg?sfvrsn=76c20e23_0" data-displaymode="Original" alt="Our Population"></p>
+<p style="text-align: center;"><img title="Our Population is ageing rapidly" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Ageing_Rapidly.jpg" data-displaymode="Original" alt="Our Population"></p>
 
 <p style="text-align: center;"><img title="HEALTHY LIFE EXPECTANCY" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/ethos_is19_editorial_v5-2fa32_2-compressor.jpg?sfvrsn=601fdc91_0" data-displaymode="Original" alt="HEALTHY LIFE EXPECTANCY"></p>
 
