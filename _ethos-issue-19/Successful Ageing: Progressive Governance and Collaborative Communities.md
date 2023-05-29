@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 19, Jul 2018</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_19/19_Banner_Successful_Ageing_Progressive_Governance_and_Collaborative_Communities.jpg">
 
 
 
