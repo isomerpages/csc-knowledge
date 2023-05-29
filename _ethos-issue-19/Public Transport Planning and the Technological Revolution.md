@@ -75,13 +75,13 @@ li {
 
 <p>The public transportation system is on the cusp of another technological revolution, enabled by the confluence of various digital technologies. Mobile connectivity now allows real-time information flow between commuters and transport providers in both directions. Smart algorithms can process this information rapidly and generate schedules and routes of bus and train services dynamically to provide better and more targeted services, at less cost. Artificial intelligence reduces the need for human intervention, allowing public transport services to be provided more flexibly and efficiently. This article discusses some of the ways by which these technologies can free up traditional constraints and open up new possibilities in transport planning, along with some of the potential challenges that may arise.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The rigidity of a public transport system permeates through to the lives of commuters; the city marches to the beat of its bus and train schedules.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Freeing the Routes and Schedule</h3>
 
@@ -92,13 +92,13 @@ at very high frequency throughout the day. However, this is also not ideal as it
 
 <p>With mobile technology and smart algorithms, on-demand public transportation is fast becoming a reality. This year, we will be launching three on-demand bus services in Singapore. Through a smart phone, a commuter will indicate where he wants to be picked up and dropped off within a town area. The bus operator will use an algorithm to aggregate these demands and determine the number of buses to deploy and the routes they will take. The bus operator can thus avoid plying routes without commuters. Commuters will benefit from shorter waiting times and usually a more direct path to their destination. That said, some adjustment in behaviour is needed and we may need to ease commuters into this. Thus, we will be starting the trial during off-peak periods and will run some regular bus services along with the on-demand services.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Fare structures may need to be more dynamic: less a fixed function of the distance travelled and more reflective of demand and supply conditions.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>With dynamic routes and schedules, we will also need to shift our mindset in transport planning. Instead of thinking about specific points of origin and destination, we will need to optimally determine geo-fenced areas, within which commuters usually travel. If the area is sized too small, there may not be enough commuters, especially during off-peak periods, to garner much efficiency. If the area is too large, commuters may have to endure long waiting times and circuitous routes. Transport planners may also need to rethink how they size their bus and train fleets. Rather than buy trains and buses that give them maximum carrying capacity, they may want a mix that gives them maximum flexibility. Fare structures may also need to be more dynamic: less a fixed function of the distance travelled and more reflective of demand and supply conditions.</p>
 
@@ -113,19 +113,19 @@ Source: Ministry of Transport</p>
 
 <p>AVs are particularly appealing to Singapore because of our severe land and manpower constraints. The size of our bus and taxi fleet is limited by the number of drivers we can employ and the land take for roads, depots and car parks. AV technology removes the need for drivers. It can also increase the efficiency of road and parking spaces. Freight traffic can be shifted to night hours, thereby freeing up roads for human traffic in the day.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 As AV technology advances, there should be a parallel effort to develop an effective eco-system within which it can be deployed.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>However, to maximise the benefits of AVs, we cannot simply drop them into existing regulations, operating models and infrastructure. As AV technology advances, there should be a parallel effort to develop an effective ecosystem within which it can be deployed. Recognising this, we started the Committee of Autonomous Vehicles (CARTS) in 2014 to bring together transport planners, city planners, traffic regulators and private companies to oversee and organise these efforts. We are developing a set of standards by which all new AV models must abide before they can be deployed on public roads. These standards will be scaled to cater to vehicles with different levels of sophistication—those which can meet the higher standards will be allowed to be used in more complex and crowded environments. We have also installed cameras and other sensors along the roads where AVs will be trialling. These, together with a mandatory “black box” in each vehicle, will be useful for attributing faults in the event of accidents.</p>
 
 <p>By the start of 2019, we will also be piloting a limited autonomous bus service on the island of Sentosa. This pilot will help us gain insights into how commuters, pedestrians and other road users respond to AVs. It will also help us develop an operating model for an AV fleet. One important area we will be studying closely is how to incorporate a “man in the loop” to handle disruptions. From 2022, we will run a more extensive pilot in three new towns: Punggol, Tengah and the Jurong Innovation District. We envisaged two types of services: autonomous buses that run on scheduled routes and smaller on-demand shuttles. With feedback from AV developers, the town planners have incorporated some basic features, like AV charging spots and pick-up zones within the towns. This pilot will also try out new fare charging systems.</p>
 
-<p style="text-align: center;"><img alt="Autonomous Vehicle (AV) test at Sentosa" data-displaymode="Original" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/img_57266d68fc52070a4e9c987ba7a4947f4e5b.jpg?sfvrsn=9927a372_0" title="Autonomous Vehicle (AV) test at Sentosa"></p>
+<p style="text-align: center;"><img alt="Autonomous Vehicle (AV) test at Sentosa" data-displaymode="Original" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Img_5726.jpg" title="Autonomous Vehicle (AV) test at Sentosa"></p>
 
 <p class="small-text">Autonomous Vehicle (AV) test at Sentosa
 <br>
@@ -135,13 +135,13 @@ Source: Ministry of Transport</p>
 
 <p>A key challenge of transport planning in large, metropolitan cities lies in managing the tradeoffs between private and public transportation. Private vehicles offer the most comfort and flexibility to commuters. Yet they result in huge negative externalities for everyone else: congestion, noise, pollution and heavy usage of land for roads and parking. Many cities attempt to capture these externalities through vehicular taxes and charges. Some cities (e.g., London, Singapore) have used road-usage pricing; others (e.g., Beijing, Shanghai, Singapore) have rationed vehicle ownership. While these measures make the price of vehicle ownership more reflective of their true costs, the net effect is that commuters who cannot or would not pay these prices have to settle for less desirable public transport modes.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Technology now enables us to close the last-mile gap and reduce the tedium of public transport in a more cost-effective manner.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>A common bug-bear of public transport is its inconvenience. A public transport journey usually comprises more than one segment: for example, a walk to a bus stop, then a bus trip to the train station, then the train journey, and finally a walk to the destination. Transport planners have sought to reduce this inconvenience by placing bus stops and train stations nearer to homes and linking walkways to them. In Singapore, we plan to have 8 in 10 households to be within a 10-minute walk to a subway station by 2030. Bringing transport infrastructure nearer to homes is an expensive endeavour. Technology now enables us to close the first-last mile gap and reduce the tedium of public transport in a more cost-effective manner.</p>
 
@@ -151,13 +151,13 @@ Technology now enables us to close the last-mile gap and reduce the tedium of pu
 
 <p>From a transport planner’s perspective, the growth of privately provided public transport modes not only enhances the commuting experience, but also expands the choices of public transport commuters. This is a boon. However, it makes transport planning more complex. Travelling patterns are now less predictable. Commuter choices may change from day to day depending on, say, the weather. There is thus a need to build a degree of flexibility in bus and rail capacity to cater to this. To understand commuter behaviour, we will also need a wider data pool: not only data from public trains and buses, but also data in the private providers’ realm. To facilitate MaaS, there may be a need to create an open fare-charging platform. The fare structure may also need to more dynamically manage changing demand and supply from day to day.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Calibrating government involvement incorrectly may inadvertently stifle innovation or lead to perverse outcomes.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>New Technologies, New Challenges</h3>
 
@@ -172,15 +172,14 @@ Calibrating government involvement incorrectly may inadvertently stifle innovati
 <p>We are at an intriguing juncture in the public transport landscape. While emerging technologies offer unprecedented opportunities, we will
 also need to evolve our policies, planning and regulatory frameworks to harness the most benefits for commuters. This process will necessarily involve some degree of trial and error. But without an appropriate ecosystem, such technologies will remain no more than an interesting curiosity.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text">As Deputy Secretary of Land and Corporate at the Ministry of Transport, <strong>Lee Chuan Teck</strong> oversaw the development of land transport strategies and policies, corporate communication and organisational matters, as well as the Futures Division which is spearheading the deployment of self-driving vehicles and drones in Singapore.</p>
+</div>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
