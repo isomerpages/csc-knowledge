@@ -240,7 +240,7 @@ system.
 
 <p>By the early 1980s, it was apparent that Singapore’s first container terminal, Tanjong Pagar Terminal, would be operating at maximum capacity by the 1990s and would not be able to handle the envisaged growth in trade volumes. Beyond the City Terminals (Tanjong Pagar, Brani, and Keppel Terminals), plans were made for port expansion at Pasir Panjang. By 2000, Singapore’s container throughput had reached 17.1 million TEUs. City planners were already looking ahead to the relocation of the container port as the next chapter in Singapore’s maritime story. The decision to consolidate the port at Tuas with a planned capacity of up to 65 million TEUs was made with an eye on the future. Having sufficient capacity in a single, contiguous location affords Singapore a critical competitive advantage—it provides greater economies of scale and also eliminates the need for inter-terminal haulage. In addition, the certainty of increased capacity at Tuas provides assurance to shipping lines and alliances that Singapore can accommodate their growth over the long term. This helps position Singapore’s port more competitively amidst increased competition.</p>
 
-<p style="text-align: center;"><img title="GOSHO" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/gosho-resized.jpg?sfvrsn=17589f06_0" data-displaymode="Original" alt="GOSHO"></p>
+<p style="text-align: center;"><img title="GOSHO" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Gosho_Resized.jpg" data-displaymode="Original" alt="GOSHO"></p>
 
 <p style="text-align: left;" class="small-text">GOSHO—world’s largest grab dredger currently deployed at Tuas for reclamation works<br>
 Source: MPA</p>
@@ -271,7 +271,7 @@ integration.
 
 
 
-<p style="text-align: center;"><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="../../docs/default-source/default-document-library/smw.pdf?sfvrsn=f71a2ae1_2"><img title="Next Generation Port 2030 Initiative" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/smw-screenshot.jpg?sfvrsn=8bb77f93_0" data-displaymode="Original" alt="Next Generation Port 2030 Initiative"></a></p>
+<p style="text-align: center;"><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="../../docs/default-source/default-document-library/smw.pdf?sfvrsn=f71a2ae1_2"><img src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Gosho_Resized.jpg" data-displaymode="Original" alt="Next Generation Port 2030 Initiative"></a></p>
 
 <p class="small-text text">For the detailed infographic on the capabilities of Tuas Terminal, click the image above to view the PDF.</p>
 
