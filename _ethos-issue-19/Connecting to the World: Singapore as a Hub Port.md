@@ -52,13 +52,18 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #00bacd;
+	background-image: linear-gradient(to left, #67c079 ,#00bacd);
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
 
+.containerbox h3 {
+	color: white;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -77,7 +82,7 @@ li {
 
 <p>While Singapore’s geographical location at the crossroads of important trade lines has been favourable, its pre-eminence as a global hub port has not been by chance. Strategic vision and leadership, with the courage to make bold decisions, have been vital in enabling Singapore to stay ready for the future, be a pacesetter, reap first-mover advantages, and thrive in a dynamic global industry.</p>
 
-<p style="text-align: center;"><img title="About Maritime Singapore" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/ethos_is19_editorial_v5-2fa16-compressor.jpg?sfvrsn=a9f14aa8_0" data-displaymode="Original" alt="About Maritime Singapore"></p>
+<p style="text-align: center;"><img title="About Maritime Singapore" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/EthosIssue19_Editorial_V5_Compressor.jpg" data-displaymode="Original" alt="About Maritime Singapore"></p>
 
 
 
@@ -87,7 +92,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Vision and Decisiveness: Staying ahead of the curve</h3>
@@ -110,7 +115,7 @@ li {
 
 <p><strong><em>Connectivity</em></strong> is a measure of the frequency and range of feeder and deep-sea connections. Connectivity is key for shippers, and Singapore offers a high level of connectivity as the primary transhipment hub in the region. By anchoring key shipping lines and alliances that ply the main shipping route from Asia to Europe, and establishing a strong complementary feeder network to smaller ports in the region, Singapore has built up a reliable and densely connected network. We are able to handle increasingly fragmented and dispersed connections across shipping lines and feeders.</p>
 
-<p style="text-align: center;"><img title="TRANSHIPMENT OPERATIONS - Complexity, Scale and Connectivity" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/ethos_is19_editorial_v5-2fa17_1-compressor.jpg?sfvrsn=c57aab70_0" data-displaymode="Original" alt="TRANSHIPMENT OPERATIONS - Complexity, Scale and Connectivity"></p>
+<p style="text-align: center;"><img title="TRANSHIPMENT OPERATIONS - Complexity, Scale and Connectivity" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/EthosIssue19_Editorial_V5_2fa17_Compressor.jpg" alt="TRANSHIPMENT OPERATIONS - Complexity, Scale and Connectivity"></p>
 
 <p>Long-term, strategic port planning must ensure that the port can provide adequate <strong><em>capacity</em></strong> to meet the demands of key shipping lines and their alliance partners in sizeable blocks of volume. This means being able to berth their vessels and conduct cargo operations efficiently. Scale, and the availability of space to grow the port, are essential for retaining Singapore’s edge in connectivity and network strength. Shipping lines prefer partnering with ports that can accommodate their long-term growth plans. Adequate port capacity and operational capability to keep pace with shipping lines’ demands provide certainty and distinguish Singapore’s port. Together with Singapore’s competitive advantage in connectivity, assurance of capacity goes a long way in helping PSA to ink new joint ventures<a href="#notes"><sup>1</sup></a> with leading shipping lines and secure long-term commitments in Singapore.</p>
 
@@ -127,7 +132,7 @@ li {
 
 
 
-<p style="text-align: center;"><img title="Building Capacity in Tandem with Demand" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/building-capacity-in-tandem-with-demand.png?sfvrsn=fcc6c52d_0" data-displaymode="Original" alt="Building Capacity in Tandem with Demand"></p>
+<p style="text-align: center;"><img title="Building Capacity in Tandem with Demand" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/building-capacity-in-tandem-with-demand.png?sfvrsn=fcc6c52d_0" alt="Building Capacity in Tandem with Demand"></p>
 
 <p style="text-align: center;"><img title="Automated Crane Operations Centre" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/24_300dpi---automated-crane-operations-centre-compressor.jpg?sfvrsn=bf92d838_0" data-displaymode="Original" alt="Automated Crane Operations Centre"></p>
 
@@ -145,9 +150,9 @@ Source: Photo courtesy of PSA Corporation Ltd</p>
 
 
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 By offering top-notch
 productivity and
 unrivalled connectivity
@@ -156,9 +161,9 @@ Singapore’s port has
 become a critical nexus
 in the global sea-trade
 system.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Shipping Landscape Today</h3>
 
@@ -186,7 +191,7 @@ system.
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Project SAFER</h3>
@@ -216,7 +221,7 @@ system.
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Anchoring Maersk to Singapore</h3>
@@ -242,9 +247,9 @@ Source: MPA</p>
 
 <p>Tuas Terminal is expected to be the largest container terminal in the world in a single location. It is designed with finger-shaped piers to yield higher capacity berths by maximising usable berth length and enhancing utilisation intensity. Beyond berth design, the construction of Tuas Terminal is also record-breaking in several aspects. For example, each of the caissons that form the permanent wharf structure is 28 metres tall (about 10 storeys high) and weighs the equivalent of around 8,000 cars—these caissons designed for the first phase of Tuas Terminal are amongst the largest ever used in the world. In addition, the world’s largest grab dredger, the GOSHO, has also been mobilised for reclamation works—it can fill an Olympic-sized swimming pool with just 15 grabs!</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Unlike other ports
 that are completely
 out of bounds to
@@ -253,9 +258,9 @@ will incorporate
 elements of
 community
 integration.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Productivity improvements in port operations are also critical to meet demandside requirements (e.g., catering to mega vessels) and address Singapore’s perennial supply-side constraints (i.e., land and labour scarcity). Notably, large-scale deployment of AGVs as well as automated yard and quay cranes at Tuas Terminal, all of which would be remotely operated from a control centre, will improve port productivity.</p>
 
@@ -266,7 +271,7 @@ integration.
 
 
 
-<p style="text-align: center;"><a href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="../../docs/default-source/default-document-library/smw.pdf?sfvrsn=f71a2ae1_2"><img title="Next Generation Port 2030 Initiative" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/smw-screenshot.jpg?sfvrsn=8bb77f93_0" data-displaymode="Original" alt="Next Generation Port 2030 Initiative"></a></p>
+<p style="text-align: center;"><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="../../docs/default-source/default-document-library/smw.pdf?sfvrsn=f71a2ae1_2"><img title="Next Generation Port 2030 Initiative" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/smw-screenshot.jpg?sfvrsn=8bb77f93_0" data-displaymode="Original" alt="Next Generation Port 2030 Initiative"></a></p>
 
 <p class="small-text text">For the detailed infographic on the capabilities of Tuas Terminal, click the image above to view the PDF.</p>
 
@@ -278,13 +283,13 @@ integration.
 
 <p>Beyond our natural attributes, Singapore’s development into a global hub port within our first 50 years of nationhood is no accident. The unparalleled scale and connectivity that we have assiduously cultivated, underpinned by solid operational capabilities, have enabled us to deliver compelling value to shipping lines. Forward-looking leadership, coupled with the courage to take bold decisions, will enable Singapore to continue capitalising on its hard-won advantages in this era of globalised competition between major hub ports to attract transhipment business.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Christl Li</strong> is Senior Manager at the Port Policy Division of the Maritime and Port Authority of Singapore. She was formerly with the Sea Transport Division at the Ministry of Transport. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
