@@ -158,11 +158,11 @@ margin-top:15px;
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_Artificial_Intelligence_ImpactOnPublic.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>ARTIFICIAL INTELLIGENCE: Impact on Public Safety &amp; Security</h3>
+		<b><i>by Rahul Daswani and Jevon Tan</i></b>
+		<p>An integrated and nuanced approach, deploying both humans and machines, will be needed to counter the emerging technology’s potential for malicious abuse.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
