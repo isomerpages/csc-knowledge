@@ -164,7 +164,7 @@ Source: Civil Service College<br>
 
 <h3>Programming: Rejuvenating Our “Hardware” through Cultural “Heartware”</h3>
 
-<p style="text-align: center;"><img title="The Aliwal Urban Art Festival @ Kampong Glam" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/aliwal_art_festival_kampongglam-compressor.jpg?sfvrsn=b94fbdc_0" data-displaymode="Original" alt="The Aliwal Urban Art Festival @ Kampong Glam"></p>
+<p style="text-align: center;"><img title="The Aliwal Urban Art Festival @ Kampong Glam" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Aliwal_Art_Festival_KampongGlam_Compressor.jpg" data-displaymode="Original" alt="The Aliwal Urban Art Festival @ Kampong Glam"></p>
 
 <p style="text-align: left;" class="small-text">The Aliwal Urban Art Festival @ Kampong Glam featured murals by home-grown artists that reference the area’s heritage.<br>
 Source: Arts House Limited</p>
@@ -175,7 +175,7 @@ Source: Arts House Limited</p>
 
 <p>In the Kampong Glam neighbourhood, the royal residence of Singapore’s former Malay Sultans in Singapore now houses the Malay Heritage Centre (MHC), showcasing Singapore’s Malay heritage and culture and its links to the region. Fitted with wooden friezes from Malay kampong houses and Chinese green-tiled roof-covered walkways, the multi-ethnic façades of Kampong Glam’s shophouses embody the area’s traditional trades, cultures and practices, passed down from generation to generation. Heritage trails guide tourists around the area, regaling them with stories of its past residents and traders. The MHC, together with the nearby Aliwal Arts Centre and neighbourhood association One Kampong Glam, have also organised festivals and events to highlight the district’s distinct traditional arts and crafts, integrated with modern performances and youthful energy. Murals from home-grown artists depicting the heritage of the area are also featured along the district’s walls. Such placemaking initiatives have brought an increased 40% in footfall to the area over the past three years, reinvigorating historic Kampong Glam with new purpose in the 21st century.<a href="#notes"><sup>1</sup></a></p>
 
-<p style="text-align: center;"><img title="Arts in Your Neighbourhood" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/arts-in-your-neighbourhood-compressor.jpg?sfvrsn=8a5d08cd_0" data-displaymode="Original" alt="Arts in Your Neighbourhood"></p>
+<p style="text-align: center;"><img title="Arts in Your Neighbourhood" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Arts_In_Your_Neighbourhood_Compressor.jpg" data-displaymode="Original" alt="Arts in Your Neighbourhood"></p>
 
 <p style="text-align: left;" class="small-text">Students viewing a public art show curated by the art collective Vertical Submarine. Works of public art were on display in Jurong as part of the Arts in Your Neighbourhood initiative to bring engaging arts experiences into neighbourhoods in Singapore.<br>
 Source: MCCY</p>
