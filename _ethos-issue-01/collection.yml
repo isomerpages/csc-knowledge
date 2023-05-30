@@ -2,6 +2,6 @@ collections:
   ethos-issue-01:
     output: true
     order:
-      - "Interview with Joseph Chamie: Population and Policy.md"
       - Foreword.md
       - Editorial.md
+      - "Interview with Joseph Chamie: Population and Policy.md"
