@@ -163,7 +163,7 @@ margin-top:15px;
 		<h3>ARTIFICIAL INTELLIGENCE: Impact on Public Safety &amp; Security</h3>
 		<b><i>by Rahul Daswani and Jevon Tan</i></b>
 		<p>An integrated and nuanced approach, deploying both humans and machines, will be needed to counter the emerging technology’s potential for malicious abuse.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-21/artificial-intelligence-impact-on-public-safety-and-security/">Read more</a></div>
 	</div>
 </div>
 <br>
@@ -173,7 +173,7 @@ margin-top:15px;
 		<h3>REGULATING DIGITAL TECHNOLOGY: REAL WORLD CHALLENGES AND OPPORTUNITIES</h3>
 		<b><i>by David Hardoon and Shameek Kundu</i></b>
 		<p>David Hardoon from MAS and StanChart’s Shameek Kundu offer perspectives on the implications of emerging innovations, on and beyond the financial industry.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-21/regulating-digital-technology-real-world-challenges-and-opportunities/">Read more</a></div>
 	</div>
 </div>
 
