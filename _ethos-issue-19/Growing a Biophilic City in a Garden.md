@@ -261,18 +261,18 @@ Source: NParks</p>
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Singapore Botanic Gardens Learning Forest</h3>
-<p style="text-align: center;"><img title="The Learning Forest" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/box-6_1-compressor791afd8568cd4f1fa3aeab4ed90d3bd8.jpg?sfvrsn=bdd6551e_0" data-displaymode="Original" alt="The Learning Forest"></p>
+<p style="text-align: center;"><img title="The Learning Forest" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/The_Learning_Forest.jpg" data-displaymode="Original" alt="The Learning Forest"></p>
 <p style="text-align: left;" class="small-text">The Learning Forest<br>
 Source: NParks</p>
 <p class="text">The 10-hectare Learning Forest is an extensive restoration project of the lowland forest and wetland habitats that used to surround the Singapore Botanic Gardens. Detailed site surveys were conducted and reference was taken from early 19th century maps to restore these former habitats. The Learning Forest is home to more than 100 species of birds, 20 species of amphibians and reptiles, 19 species of butterflies, 7 species of mammals and over 500 species of plants.</p>
-<p style="text-align: center;"><img title="SPH Walk of Giants" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/box-6_2-compressor4b84eac8a007472696eae9bad9476d85.jpg?sfvrsn=3d49491e_0" data-displaymode="Original" alt="SPH Walk of Giants"></p>
+<p style="text-align: center;"><img title="SPH Walk of Giants" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/SPH_Walk_of_Giants.jpg" data-displaymode="Original" alt="SPH Walk of Giants"></p>
 <p style="text-align: left;" class="small-text">SPH Walk of Giants<br>
 Source: NParks</p>
-<p style="text-align: center;"><img title="Keppel Discovery Wetlands" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/nparks-compressor.jpg?sfvrsn=52fbd55f_0" data-displaymode="Original" alt="Keppel Discovery Wetlands"></p>
+<p style="text-align: center;"><img title="Keppel Discovery Wetlands" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Keppel_Discovery_Wetlands.jpg" data-displaymode="Original" alt="Keppel Discovery Wetlands"></p>
 <p style="text-align: left;" class="small-text">Keppel Discovery Wetlands<br>
 Source: NParks</p>
 
@@ -295,13 +295,13 @@ Source: NParks</p>
 
 <p>Being a biophilic city goes beyond just having nature in the built environment. It is also about how communities become part of the ecosystem and stewards of nature. From the onset of Singapore’s greening efforts, we have recognised how a virtuous cycle can be established between the flourishing of our green spaces and the enhancement of civic ownership. In the past decade, the community has been at the centre of our work in greening and conservation.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A virtuous cycle can be established between the flourishing of our green spaces and the enhancement of civic ownership.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Through various programmes and opportunities, the NParks community today comprises more than 40,000 volunteers. This involvement has evolved beyond community outreach and participation to active stewardship of our natural heritage.</p>
 
@@ -309,13 +309,13 @@ A virtuous cycle can be established between the flourishing of our green spaces 
 
 <p>To nurture community involvement, it is imperative that gardens, parks and nature reserves must first be well-loved. This can only happen if people are learning about them or visiting and appreciating them. Each year, more than 3,000 educational and outreach programmes that cater to an extensive range of interests are organised across various gardens, parks and nature reserves. This shifts the focus from just providing green spaces for respite to activating green spaces to cater to lifestyle needs and wellbeing. Many of these programmes also help to inculcate an interest and passion in greenery, and beyond our green spaces, there are programmes that reach out to schools and neighbourhoods as well.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Being a biophilic city is also about how communities become part of the ecosystem and stewards of nature.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The “Every Child a Seed” programme reaches out to every cohort of Primary Three students in Singapore. The schoolchildren are provided with a plant starter kit so that they can experience the joy of growing their own plants, while learning to appreciate the challenges involved.</p>
 
@@ -331,11 +331,11 @@ Being a biophilic city is also about how communities become part of the ecosyste
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Community Initiatives</h3>
-<p style="text-align: center;"><img title="Community in Bloom Initiative" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/box-7_1-compressor0b77c2fd19b643d3910040bab4f077d5.jpg?sfvrsn=f863add1_0" data-displaymode="Original" alt="Community in Bloom Initiative"></p>
+<p style="text-align: center;"><img title="Community in Bloom Initiative" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Community_In_Bloom_Initiative.jpg" alt="Community in Bloom Initiative"></p>
 <p style="text-align: left;" class="small-text">Source: NParks</p>
 <h3>Community in Bloom Initiative</h3>
 <ul class="text">
@@ -344,7 +344,7 @@ Being a biophilic city is also about how communities become part of the ecosyste
 <li>700 allotment garden plots have been launched in 9 parks</li>
 </ul>
 <p>&nbsp;</p>
-<p style="text-align: center;"><img title="Community in Nature Initiative" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/box-7_2-compressord19443c50145409183e1f4a6413057c3.jpg?sfvrsn=3cec1645_0" data-displaymode="Original" alt="Community in Nature Initiative"></p>
+<p style="text-align: center;"><img title="Community in Nature Initiative" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Community_In_Nature_Initiative.jpg" alt="Community in Nature Initiative"></p>
 <p style="text-align: left;" class="small-text">Source: NParks</p>
 <h3>Community in Nature Initiative</h3>
 <p class="text">Citizen science encourages the public to learn more about our natural heritage, and play an active role in contributing to organised research efforts through the collection of large quantities of data. Awareness of Singapore’s rich natural heritage is raised through public participation in NParks’ Community in Nature Biodiversity Watch Programmes. The programmes encourage stewardship of nature amongst Singaporeans, while concurrently collecting information that will inform the development of long-term conservation management strategies. The Biodiversity Watches include Intertidal Watch, Heron Watch, Garden Bird Watch, Butterfly Watch, Dragonfly Watch and BioBlitzes.</p>
@@ -370,13 +370,13 @@ Being a biophilic city is also about how communities become part of the ecosyste
 
 <p>Some in the nature community have also formed working groups to discuss and tackle issues related to conservation and management of several fauna species. These groups generally comprise a variety of stakeholders, including agencies, academics and members of the community. They help raise awareness of human-wildlife interactions, a key aspect of nurturing biophilic communities.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 To nurture community involvement, it is imperative that gardens, parks and nature reserves must first be well-loved.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 
 
@@ -386,20 +386,20 @@ To nurture community involvement, it is imperative that gardens, parks and natur
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
-<h3 class="title">Friends of Ubin Network and Otter Working Group</h3>
+<h3 class="title">Friends of Ubin Network <span>and Otter Working Group</span></h3>
 <p class="text">The Friends of Ubin Network (FUN) was formed in 2014, and comprises a broad network of stakeholders who are
 passionate about Pulau Ubin, are keen to share their ideas and to take personal action by being involved in initiatives and projects. They include biodiversity experts, conservation activists, history buffs, socio-anthropologists, students, volunteers and Ubin community leaders and residents.</p>
 <p class="text">The Network’s discussions centre around five broad themes: Biodiversity conservation, Heritage, History and Community, Sustainable Design &amp; Practices, Education &amp; Research, and Nature-based Recreation. The aim is to develop ways to further enhance the island and get more Singaporeans involved.</p>
 <p class="text">For example, FUN members have developed a code of conduct for environmentally and socially responsible behaviour on Pulau Ubin. Known as the “Ubin Way”, the code of conduct was inspired by the kampung spirit that Pulau Ubin residents embody and is centred on the innate motivation to care for the environment.</p>
-<p style="text-align: center;"><img title="Friends of Ubin Network" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/box-8_1-compressor64a5af1371374d2699b515f22a1291ed.jpg?sfvrsn=b1fd4627_0" data-displaymode="Original" alt="Friends of Ubin Network"></p>
+<p style="text-align: center;"><img title="Friends of Ubin Network" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Friends_of_Ubin_Network.jpg" data-displaymode="Original" alt="Friends of Ubin Network"></p>
 <p style="text-align: left;" class="small-text">Source: NParks</p>
-<h3 class="title">Otter Working Group</h3>
+	<h3 class="title"><span>Otter</span> Working Group</h3>
 <p class="text">Established in April 2016, the group comprises members from non-governmental organisations, government agencies, academics, Otterwatch (a community volunteer group), as well as individuals. The group monitors movements of the native otters around Singapore, meets with stakeholders to resolve otter issues, and actively educates the public on otters and what to do when they encounter them.</p>
 <p class="text">In November 2017, the group successfully isolated, treated and released an otter that was injured by a rubber ring around its body, in an operation that was the first of its kind in Singapore. The success came after three weeks of detailed planning, observations and attempts, and required the support and expertise of various members of the working group—from insights on otter behaviour to technical knowledge of how to build a corral structure.</p>
-<p style="text-align: center;"><img title="Otter Working Group" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/box-8_2-compressorb7bb9c76da14411d9b7b9390d4a37b06.jpg?sfvrsn=f61e69c8_0" data-displaymode="Original" alt="Otter Working Group"></p>
+<p style="text-align: center;"><img title="Otter Working Group" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Otter_Working_Group.jpg" data-displaymode="Original" alt="Otter Working Group"></p>
 <p style="text-align: left;" class="small-text">Source: NParks</p>
 
 
@@ -426,7 +426,7 @@ passionate about Pulau Ubin, are keen to share their ideas and to take personal 
 
 <p style="text-align: center;" class="small-text">The Challenge of Protecting Singapore’s Natural Heritage</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -434,7 +434,7 @@ passionate about Pulau Ubin, are keen to share their ideas and to take personal 
 
 <p class="small-text">The author wishes to thank Toh Wan Ting for assisting with the content research and Dr Leong Chee Chiew for reviewing this article. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
