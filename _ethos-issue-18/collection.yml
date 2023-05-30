@@ -2,6 +2,8 @@ collections:
   ethos-issue-18:
     output: true
     order:
+      - "Governance Amid Technological Disruption: A Vision for an Agile Public
+        Service.md"
       - The Digital Social Contract and E Legitimacy.md
       - The Digital Work Economy and Our Human Future.md
       - Supporting Job Growth and Worker Prosperity in a New Era of Automation.md
