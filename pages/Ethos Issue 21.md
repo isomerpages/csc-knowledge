@@ -68,15 +68,15 @@ margin-top:15px;
 		<b><i>Dr Alvin Pang</i></b>
 		<p></p>
 	
-<div class="button1"><a href="">Read more</a></div>
+<div class="button1"><a href="/ethos-issue-19/editorial">Read more</a></div>
 </div>
 </div> 
 
  <br>	
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_Digital_Govt_Smart_Nation.jpg"></div>
 	<div>
-		<h3></h3>
+		<h3>Digital Government, Smart Nation: Pursuing Singapore’s Tech Imperative</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
