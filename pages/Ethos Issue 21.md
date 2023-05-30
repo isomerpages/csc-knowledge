@@ -148,12 +148,12 @@ margin-top:15px;
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_FormSG_Idea_to_Hit_Platform_in_a_Year.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>FORMSG: From Idea to Hit Platform in a Year</h3>
+		<b><i>by Leonard Loo</i></b>
+		<p>A leading member of the team that created FormSG shares his seven steps to building a breakthrough software application, fast.</p>
+		<div class="button1"><a href="/ethos-issue-21/formsg-from-idea-to-hit-platform-in-a-year/">Read more</a></div>
 	</div>
 </div>
 <br>
