@@ -52,11 +52,12 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	border-top: 7px solid #ef3f6b;
+	border-bottom: 7px solid #ef3f6b;
 	}	
 
 li {
@@ -93,7 +94,7 @@ With greater cultural diversity and globalisation, there is a need to provide co
 
 <p>But even as Seoul expands its cultural reach internationally, it has also sought to retain its history and traditions. Seoul’s Dongdaemun Design Plaza, for instance, was intended to be a centre for fashion and design—but when remains of Seoul’s ancient wall was discovered at the construction site, it was turned into a memorial park instead. By preserving the structural integrity of its history, Seoul has provided a cultural anchor for its people amidst the rapid change brought about by globalisation.</p>
 
-<p style="text-align: center;"><img title="SG Heritage Plan Travelling Exhibition" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/SG_Heritage_Plan_Travelling_ExhibitionCompressor.jpg" data-displaymode="Original" alt="SG Heritage Plan Travelling Exhibition"></p>
+<p style="text-align: center;"><img title="SG Heritage Plan Travelling Exhibition" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/SG_Heritage_Plan_Travelling_ExhibitionCompressor.jpg" alt="SG Heritage Plan Travelling Exhibition"></p>
 
 <p style="text-align: left;" class="small-text">SG Heritage Plan Travelling Exhibition<br>
 Source: MCCY</p>
@@ -102,7 +103,7 @@ Source: MCCY</p>
 
 <p>Like other global cities, Singapore’s multicultural identity and rich history can be reflected in our spaces and places. Our monuments and historic buildings embody the stories of our past and the journey taken by pioneering generations who came before us. In April this year, Grace Fu, Minister for Culture, Community and Youth, launched Our SG Heritage Plan, the first masterplan for Singapore’s heritage and museum sector. The Plan makes recommendations for protecting and promoting Singapore’s tangible heritage, by accounting for heritage considerations up front in development plans, and developing new ways of commemorating our historic buildings, sites and structures. The Plan seeks to ensure that our tangible heritage continues to resonate with our people, both as historical markers and as living everyday spaces.</p>
 
-<p style="text-align: center;"><img title="The Civic and Cultural District Master Plan (1988)" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/civic-and-cultural-district-master-plan-compressor.jpg?sfvrsn=5e3e8541_0" data-displaymode="Original" alt="The Civic and Cultural District Master Plan (1988)"></p>
+<p style="text-align: center;"><img title="The Civic and Cultural District Master Plan (1988)" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Civic_And_Cultural_District_MasterPlan_Compressor.jpg" alt="The Civic and Cultural District Master Plan (1988)"></p>
 
 <p style="text-align: left;" class="small-text">The Civic and Cultural District Master Plan (1988)<br>
 Source: Courtesy of the Urban Redevelopment Authority</p>
@@ -117,7 +118,7 @@ Source: Courtesy of the Urban Redevelopment Authority</p>
 
 <p>Subsequent masterplans have expanded the reach of culture beyond the Central Area, by locating cultural facilities, such as housing for artists and arts groups, in regional and town centres to make them more accessible. A nationwide stocktaking of existing arts and cultural spaces was carried out, to help agencies formulate a plan for sites to safeguard cultural facilities and identify neighbourhoods the arts might revitalise. The National Arts Council (NAC) and the Urban Redevelopment Authority (URA) have also worked closely to link arts housing with conservation planning, adapting pre-war bungalows and disused shophouses into art studios. The National Heritage Board (NHB) was involved in the development and management of these conserved buildings. Examples of these sites include historic buildings at Selegie Road and Waterloo Street, which are now occupied by arts organisations such as the Chinese Calligraphy Society of Singapore, Dance Ensemble Singapore, The Theatre Practice and Objectifs. These Arts Belts create opportunities for genuine exchange and sustained interaction between the arts practitioners who are tenants, as well as with residents and businesses in the area, contributing to a more culturally vibrant neighbourhood.</p>
 
-<p style="text-align: center;"><img title="Esplanade—Theatres on the Bay" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/esplanade_(credit-alvin-pang).jpg?sfvrsn=352d4ba3_0" data-displaymode="Original" alt="Esplanade—Theatres on the Bay"></p>
+<p style="text-align: center;"><img title="Esplanade—Theatres on the Bay" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Esplanade_CreditByAlvinPang.jpg" data-displaymode="Original" alt="Esplanade—Theatres on the Bay"></p>
 
 <p style="text-align: left;" class="small-text">Esplanade—Theatres on the Bay<br>
 Source: Civil Service College<br>
@@ -138,11 +139,11 @@ Source: Civil Service College<br>
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Historic Treasures Repurposed</h3>
-<p style="text-align: center;"><img title="National Gallery Singapore" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/ngs-compressor5351f6a213d444e0b8589c635c63107c.jpg?sfvrsn=4303f17a_0" data-displaymode="Original" alt="National Gallery Singapore"></p>
+<p style="text-align: center;"><img title="National Gallery Singapore" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/National_Gallery_SG.jpg" alt="National Gallery Singapore"></p>
 <p style="text-align: left;" class="small-text">Source: National Gallery Singapore</p>
 <p class="text">Originally built to house the Municipal Council, the <strong>National Gallery Singapore</strong> in the Civic District also served as the former headquarters of Syonan Municipal Administration and Syonan Supreme Court during the Japanese Occupation in 1942, and bore witness to the Japanese surrender to Lord Mountbatten in 1945. Renamed the City Hall building in 1951, it was where then Prime Minister Lee Kuan Yew and his Cabinet took their Oaths of Allegiance in 1959. Today, it is furnished with modern architectural elements and houses the largest public collection of modern art from Singapore and Southeast Asia.</p>
 <p style="text-align: center;"><img title="Fullerton Hotel" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/hi_sinfh_51635733_the_fullerton_hotel_singapore's_facade_evedbcca4007bd1490abe1b8bd7871ebf41.15?sfvrsn=e26e89a9_0" data-displaymode="Original" alt="Fullerton Hotel"></p>
