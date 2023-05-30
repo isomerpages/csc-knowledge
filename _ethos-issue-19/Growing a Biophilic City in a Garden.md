@@ -442,13 +442,6 @@ passionate about Pulau Ubin, are keen to share their ideas and to take personal 
 <li class="small-text">Lee Kuan Yew, <em>From Third World to First: The Singapore Story—1965–2000</em> (Singapore: Times Editions, 2000).</li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
-
-
-
 
 <br>
 <br>	
