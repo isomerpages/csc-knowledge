@@ -79,18 +79,18 @@ margin-top:15px;
 		<h3>Digital Government, Smart Nation: Pursuing Singapore’s Tech Imperative</h3>
 		<b><i>by Ng Chee Khern</i></b>
 		<p>Singapore’s ambitious Smart Nation initiative is about harnessing technology to stay ahead as a global city and to improve lives and livelihoods for all.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-21/digital-government-smart-nation-pursuing-singapore-tech-imperative/">Read more</a></div>
 	</div>
 </div>
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_New_Wave_Innovation.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Service 4.0: A New Wave of Innovation and Partnerships S</h3>
+		<b><i>by Jane Lim</i></b>
+		<p>Emerging technologies promise new service possibilities—but organisations need to understand how best to embrace, apply and develop them to advance their goals.</p>
+		<div class="button1"><a href="/ethos-issue-21/services-4-point-0-a-new-wave-of-innovation-and-partnerships/">Read more</a></div>
 	</div>
 </div>
 <br>
