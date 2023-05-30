@@ -168,11 +168,11 @@ margin-top:15px;
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_Regulating_Digital_Technology.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>REGULATING DIGITAL TECHNOLOGY: REAL WORLD CHALLENGES AND OPPORTUNITIES</h3>
+		<b><i>by David Hardoon and Shameek Kundu</i></b>
+		<p>David Hardoon from MAS and StanChart’s Shameek Kundu offer perspectives on the implications of emerging innovations, on and beyond the financial industry.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
