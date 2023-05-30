@@ -77,8 +77,8 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_Digital_Govt_Smart_Nation.jpg"></div>
 	<div>
 		<h3>Digital Government, Smart Nation: Pursuing Singapore’s Tech Imperative</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Ng Chee Khern</i></b>
+		<p>Singapore’s ambitious Smart Nation initiative is about harnessing technology to stay ahead as a global city and to improve lives and livelihoods for all.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
