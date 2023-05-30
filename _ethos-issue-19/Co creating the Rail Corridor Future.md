@@ -220,14 +220,14 @@ Source: Nikken Sekkei</p>
 
 <p>Public inputs from the exhibitions and workshops were used to refine the Concept Master Plan<a href="#notes"><sup>1</sup></a> and Concept Proposals and to develop the Preliminary Design for the 4 km “signature stretch” of the Rail Corridor at Bukit Timah Railway Station—identified as the first stage of the Rail Corridor—to be completed in 2019. The rest of the Rail Corridor trail will largely be developed by 2021.</p>
 
-<p style="text-align: center;"><img title="MKPL Architects &amp; Turenscape" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/mkpl-turenscape-tprs-station-green-(day)-compressor.jpg?sfvrsn=b1d60ab_0" data-displaymode="Original" alt="MKPL Architects &amp; Turenscape"></p>
+<p style="text-align: center;"><img title="MKPL Architects &amp; Turenscape" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/MKPL_Turenscape_TPRS_Station_Green_Day_Compressor.jpg" data-displaymode="Original" alt="MKPL Architects &amp; Turenscape"></p>
 
 <p class="small-text">Source: MKPL Architects &amp; Turenscape</p>
 
 <h3>Rail Corridor Co-creation as Social Infrastructure</h3>
 
-<p style="text-align: center;"><img title="MKPL-Turenscape-TPRS-Arrival-View-1" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/mkpl-turenscape-tprs-arrival-view-1-compressor155f98c0e95541bca16baff67bff80f8.jpg?sfvrsn=4ee3a316_0" data-displaymode="Original" alt="MKPL-Turenscape-TPRS-Arrival-View-1"><br>
-<img title="MKPL-Turenscape-TPRS-Report-12" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/mkpl-turenscape-tprs-report-12-compressor99da5a8bd375414fb57ab675abe983e7.jpg?sfvrsn=27a8ff23_0" data-displaymode="Original" alt="MKPL-Turenscape-TPRS-Report-12"></p>
+<p style="text-align: center;"><img title="MKPL-Turenscape-TPRS-Arrival-View-1" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/MKPL_Turenscape_TPRS_Arrival_View_Compressor.jpg" data-displaymode="Original" alt="MKPL-Turenscape-TPRS-Arrival-View-1"><br>
+<img title="MKPL-Turenscape-TPRS-Report-12" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/MKPL_Turenscape_TPRS_Report_Compressor.jpg" data-displaymode="Original" alt="MKPL-Turenscape-TPRS-Report-12"></p>
 
 <p class="small-text">Concept proposals for the adaptive re-use of Tanjong Pagar Railway Station<br>
 Source: MKPL Architects &amp; Turenscape</p>
@@ -236,7 +236,7 @@ Source: MKPL Architects &amp; Turenscape</p>
 
 <p>To ensure that the plan would be relevant to the community, it was important to first find out what people valued most about the Rail Corridor and what their own aspirations for the future of this very special place were. URA wanted to co-create the future of the Rail Corridor with the public.</p>
 
-<p style="text-align: center;"><img title="MKPL-Turenscape-CCK-Linear-Forest" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/mkpl-turenscape-cck-linear-forest-compressor2a0c29eb94894eba98de90d7f568abda.jpg?sfvrsn=505678f7_0" data-displaymode="Original" alt="MKPL-Turenscape-CCK-Linear-Forest"></p>
+<p style="text-align: center;"><img title="MKPL-Turenscape-CCK-Linear-Forest" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/MKPL_Turenscape_CCK_Linear_Forest_Compressor.jpg" data-displaymode="Original" alt="MKPL-Turenscape-CCK-Linear-Forest"></p>
 
 <p class="small-text">Source: MKPL Architects &amp; Turenscape</p>
 
@@ -244,14 +244,14 @@ Source: MKPL Architects &amp; Turenscape</p>
 
 <p>From the beginning, it was clearly recognised that there are no set formulas to be used in the planning and design of this space given its special nature, and the government should seek the best ideas for the site. Guided by the overarching planning goals and design principles formulated from public feedback, URA was able to demonstrate that with creativity and sensitive design, the planning objectives of optimal land use could be balanced with aspirations to preserve the Rail Corridor as a unique green corridor and transform it into an extraordinary community space.</p>
 
-<p style="text-align: center;"><img title="Concept proposal for housing precinct integration with the Rail Corridor" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/mkpl-cck-hsg-1-200-05-compressorcb1bb4b7dc644553bb1d9c4cabc69946.jpg?sfvrsn=c4f1e1e7_0" data-displaymode="Original" alt="Concept proposal for housing precinct integration with the Rail Corridor"></p>
+<p style="text-align: center;"><img title="Concept proposal for housing precinct integration with the Rail Corridor" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/MKPL_CCK.jpg" data-displaymode="Original" alt="Concept proposal for housing precinct integration with the Rail Corridor"></p>
 
 <p class="small-text">Concept proposal for housing precinct integration with the Rail Corridor<br>
 Source: MKPL Architects &amp; Turenscape</p>
 
 <p>The government did not just take a proactive role in engaging the community. URA was driven to match the passion and deep seated interests from civil society, built trust with stakeholders, and together develop a shared vision for the Rail Corridor. Throughout this process, URA as the land use planning authority needed to lead with vision, initiate actions and carry out plans with the support and advice of an equally committed Rail Corridor Partnership. The Partnership became a trusted and constructive “sounding board” for URA to test out ideas and seek views on proposals before going public. At times, they helped clarify URA’s views to the public.</p>
 
-<p style="text-align: center;"><img title="MKPL-Turenscape-CCK-Linear-Forest-Aerial" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/mkpl-turenscape-cck-linear-forest-aerial-compressorba5899a661de4af8aa5b07cf3acb3b84.15c068b0.de?sfvrsn=9d17c0a7_0" data-displaymode="Original" alt="MKPL-Turenscape-CCK-Linear-Forest-Aerial"></p>
+<p style="text-align: center;"><img title="MKPL-Turenscape-CCK-Linear-Forest-Aerial" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/MKPL_Turenscape_CCK_Linear_Forest_Aerial_Compressor.jpg" data-displaymode="Original" alt="MKPL-Turenscape-CCK-Linear-Forest-Aerial"></p>
 
 <p class="small-text">Source: MKPL Architects &amp; Turenscape</p>
 
