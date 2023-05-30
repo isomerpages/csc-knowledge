@@ -2,6 +2,7 @@ collections:
   ethos-issue-18:
     output: true
     order:
+      - Supporting Job Growth and Worker Prosperity in a New Era of Automation.md
       - Making Technology Work for Workers.md
       - "Trends and Shifts in Employment: Singapore’s Workforce.md"
       - "Public Value through Private Partnerships: The Grab Story.md"
