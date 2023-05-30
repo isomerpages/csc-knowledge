@@ -52,13 +52,18 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #ffdf4f;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
 
+.containerbox h3 {
+	color: #0090af;
+	
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -96,7 +101,7 @@ li {
 
 <h3>The Public Engagement Journey</h3>
 
-<p style="text-align: center;"><img title="The Public Engagement Journey" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/9_forget-me-not-compressor.jpg?sfvrsn=dfe16453_0" data-displaymode="Original" alt="The Public Engagement Journey"></p>
+<p style="text-align: center;"><img title="The Public Engagement Journey" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Public_Engagement_Journey.jpg" data-displaymode="Original" alt="The Public Engagement Journey"></p>
 
 <p class="small-text">Intense public interest after the railway stopped operations.<br>
 Source: URA</p>
@@ -115,18 +120,18 @@ Source: URA</p>
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Rail Corridor Partnership</h3>
-<p style="text-align: center;"><img title="Minister of State for National State Development" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/149-compressord2a02f7c1c8c47bfb88d39fe84faa0b7.jpg?sfvrsn=5083c695_0" data-displaymode="Original" alt="Minister of State for National State Development"></p>
+<p style="text-align: center;"><img title="Minister of State for National State Development" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/MOS_for_NSD.jpg" data-displaymode="Original" alt="Minister of State for National State Development"></p>
 <p class="small-text">Then Minister of State for National Development Tan Chuan-Jin walking the Rail Corridor with RCP members.<br>
 Source: URA</p>
 <p>A significant first step in community engagement was the formation in July 2011 of the Rail Corridor Consultation Group (RCCG).</p>
 <p>An informal people-government partnership to seek views from experts as well as those who were passionate about the Rail Corridor, the RCCG was helmed by then Minister of State for National Development Tan Chuan-Jin. RCCG participants included members of interest groups such as the Nature Society of Singapore (NSS), the Singapore Heritage Society (SHS),the founder of “We Support the Green Corridor” Facebook page, founding members of the “Friends of the Green Corridor”, a popular blogger on heritage issues, an avid cyclist, academics in environmental sciences and conservation and an architect who is an authority on butterflies.</p>
 <p>The RCCG was crucial in providing well-informed feedback and suggestions to the URA, in charting the development plans for the Rail Corridor. It helped to review ideas and proposals from the public and advised the URA on how to make its public engagement more effective. The RCCG’s role was subsequently expanded to support public interest in uses of the Rail Corridor for community-related activities and events, for which public input could be incorporated with theCorridor’s design specifications. To this end, RCCG membership was expanded and it was renamed the <strong>Rail Corridor Partnership (RCP)</strong>.</p>
 <h3>Rail Corridor Communication &amp; Feedback Portal</h3>
-<p style="text-align: center;"><img title="Promenade Plantée" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/paris-compressor654a3ccb954247fdba76956de2b5efaa.jpg?sfvrsn=29985e1d_0" data-displaymode="Original" alt="Promenade Plantée"></p>
+<p style="text-align: center;"><img title="Promenade Plantée" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Promenade_Plante.jpg" data-displaymode="Original" alt="Promenade Plantée"></p>
 <p class="small-text">Built atop a disused railway line in the east of Paris, the Promenade Plantée is a linear park spanning 4.7 km.<br>
 Source: URA</p>
 <p>Leveraging widespread online interest in the Rail Corridor, the URA launched a dedicated Rail Corridor website offering historical information on the railway line, walking maps of the Rail Corridor and timing of infrastructureworks affecting the Corridor. It also featured overseas examples of other disused railway corridors that have been re-purposed into well-loved community spaces in their respective cities, such as the Promenade Plantée in Paris and the High Line in New York.</p>
@@ -146,7 +151,7 @@ Source: URA</p>
 <p>The competition also featured a Youth Challenge: young participants from schools were encouraged to come up with new ideas and proposals that would surprise and excite Singaporeans. Thiswas to reflect the interests and aspirations of the younger generation, and how the Rail Corridor could be especially meaningful to them.</p>
 <p>URA received more than 200 submissions in total. Apart from professionals such as landscape architects, the competition attracted interest from local schools and tertiary education institutions. It also attracted overseas submissions from Australia, the United Kingdom, Denmark, the Netherlands and the United States. The ideas and proposals were exhibited at the URA City Gallery and the winners were invited to present their proposals in a public seminar.</p>
 <h3>Engaging with Community Partners</h3>
-<p style="text-align: center;"><img title="Tiger’s Garden by Oculous" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/10_tigers-garden-proposal_1-compressor0920e63bbd294cec926a66dfe15d9b5d.jpg?sfvrsn=1329940a_0" data-displaymode="Original" alt="Tiger’s Garden by Oculous"></p>
+<p style="text-align: center;"><img title="Tiger’s Garden by Oculous" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Tigers_Garden_By_Oculous.jpg" data-displaymode="Original" alt="Tiger’s Garden by Oculous"></p>
 <p class="small-text">Journey of Possibilities winning entry: Tiger’s Garden by Oculous<br>
 Source: URA</p>
 <p>URA worked with community partners to establish specific user requirements that could be incorporated into the future design and Master Plan of the Rail Corridor. Various events and activities were considered for the use of the trail as well as the defunct Tanjong Pagar Railway Station. While the objective was to discover the practical constraints and challenges of using the Rail Corridor for community activities, it was also an opportunity to expose more local residents to the Rail Corridor first-hand.</p>
