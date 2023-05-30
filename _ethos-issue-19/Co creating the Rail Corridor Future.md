@@ -198,7 +198,7 @@ Source: URA</p>
 
 <h3>Request for Proposal (RFP) for the Rail Corridor</h3>
 
-<p style="text-align: center;"><img title="The Rail Corridor Nikken Sekkei" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/nikken_green-book-24-compressor.jpg?sfvrsn=f8828115_0" data-displaymode="Original" alt="The Rail Corridor Nikken Sekkei"></p>
+<p style="text-align: center;"><img title="The Rail Corridor Nikken Sekkei" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/TheRailCorridor_NikkenSekkei.jpg" data-displaymode="Original" alt="The Rail Corridor Nikken Sekkei"></p>
 
 <p class="small-text">Source: Nikken Sekkei</p>
 
@@ -210,8 +210,8 @@ Source: URA</p>
 
 <p>In November 2015, Nikken Sekkei won for its proposal for the 24 km Rail Corridor Concept Master Plan; MKPL Architects and Turenscape won for its Concept Proposals for the adaptive re-use of Tanjong Pagar Railway Station and the new housing precinct.</p>
 
-<p style="text-align: center;"><img title="Trail and Nodes 1 by Nikken Sekkei" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/nikken_green-book-68-compressor4f1935b882e342dda70a5ed94805473b.jpg?sfvrsn=bce8cb31_0" data-displaymode="Original" alt="Trail and Nodes 1 by Nikken Sekkei"><br>
-<img title="Trail and Nodes 2 by Nikken Sekkei" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/nikken_green-book-35-compressorfa64e117b5814a14bfcf887e886c7543.jpg?sfvrsn=57391786_0" data-displaymode="Original" alt="Trail and Nodes 2 by Nikken Sekkei"></p>
+<p style="text-align: center;"><img title="Trail and Nodes 1 by Nikken Sekkei" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Trail_Nodes1_NikkenSekkei.jpg" data-displaymode="Original" alt="Trail and Nodes 1 by Nikken Sekkei"><br>
+<img title="Trail and Nodes 2 by Nikken Sekkei" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Trail_Nodes2_NikkenSekkei.jpg" data-displaymode="Original" alt="Trail and Nodes 2 by Nikken Sekkei"></p>
 
 <p class="small-text">Trail and nodes in the winning proposal for the 24 km Rail Corridor Concept Master Plan<br>
 Source: Nikken Sekkei</p>
