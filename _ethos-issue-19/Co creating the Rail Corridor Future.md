@@ -257,9 +257,9 @@ Source: MKPL Architects &amp; Turenscape</p>
 
 <p>Community engagement goes beyond simply soliciting feedback and ideas from the public to inform the project. By nurturing community interest, URA also hopes to build up stewards that will look after the Rail Corridor in future.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Beyond its physical form
 as a linear green space, the
 Rail Corridor plays a unique
@@ -267,28 +267,28 @@ role as a piece of social
 infrastructure with the
 potential to bring
 people together.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The focus of public engagement for the Rail Corridor was “co-creation”, with the government working closely with stakeholders and the community from the onset to achieve consensus on a shared vision and desired outcomes for the Rail Corridor. This contrasts with the government seeking buy-in or acceptance from stakeholders after plans have already been formulated.</p>
 
 <p>For the Rail Corridor, co-creation was an important approach: beyond its physical form as a linear green space, the Rail Corridor plays a unique role as a piece of social infrastructure with the potential to bring people together. It socialises the community by creating a common space for people to develop shared experiences and memories and form community relationships with each other.</p>
 
-<p style="text-align: center;"><img title="Artist’s impression of the “4km signature stretch”" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/forest-valley-(002).jpg?sfvrsn=3f062ab1_0" data-displaymode="Original" alt="Artist’s impression of the “4km signature stretch”"></p>
+<p style="text-align: center;"><img title="Artist’s impression of the “4km signature stretch”" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Artist_Impression.jpg" data-displaymode="Original" alt="Artist’s impression of the “4km signature stretch”"></p>
 
 <p class="small-text">Artist’s impression of the “4 km signature stretch”<br>
 Source: URA</p>
 
 <p>If the Rail Corridor is planned well, developed and programmed properly, it will become not just a green haven and a leisure corridor, but a shared space for community bonding and social integration for people from all walks of life. Open spaces like the Rail Corridor are great social levellers—anyone and everyone can enjoy it. With a connection to nature running through the heart of our urban city-state, this project will improve the quality of life for all residents. It fosters a strong sense of community ownership, civic engagement and pride which will support its sustainability as a public space. Ultimately, it is our hope that the transformed Rail Corridor will be frequently visited and loved by the community and be a source of inspiration and national pride that holds a special place in the hearts of all Singaporeans.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Tan See Nin</strong> is Senior Director (Physical Planning) with the Urban Redevelopment Authority. He led the design and completion of the Concept Master Plan and preliminary design of the Rail Corridor. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
