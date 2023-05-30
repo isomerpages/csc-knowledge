@@ -68,7 +68,7 @@ margin-top:15px;
 		<b><i>Dr Alvin Pang</i></b>
 		<p></p>
 	
-<div class="button1"><a href="/ethos-issue-19/editorial">Read more</a></div>
+<div class="button1"><a href="/ethos-issue-21/editorial">Read more</a></div>
 </div>
 </div> 
 
@@ -98,42 +98,42 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_Readying_Singapore_Digital_Society.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Readying Singapore to be a Digital Society</h3>
+		<b><i>by Rachel Chen</i></b>
+		<p>The Digital Readiness Programme Office is pursuing comprehensive, relevant and inclusive measures to help Singaporeans make the most of a brighter digital future.</p>
+		<div class="button1"><a href="/ethos-issue-21/readying-singapore-to-be-a-digital-society/">Read more</a></div>
 	</div>
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_Bringing_Data_Into_Heart_of_Digital_Society.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Bring Data into the Heart of Digital Government</h3>
+		<b><i>by Daniel Lim Yew Mao</i></b>
+		<p>In a digital era, governments must be more data-driven in decision-making, and work with citizens differently.</p>
+		<div class="button1"><a href="/ethos-issue-21/bring-data-in-the-heart-of-digital-government/">Read more</a></div>
 	</div>
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_How_To_Build_Good_Software.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>How to Build Good Software</h3>
+		<b><i>by Li Hongyi</i></b>
+		<p>Software has characteristics that make it hard to build with traditional management techniques; effective development requires a different, more exploratory and iterative approach.</p>
+		<div class="button1"><a href="/ethos-issue-21/how-to-build-good-software/">Read more</a></div>
 	</div>
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_Attracting_Tech_Talent.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Attracting Tech Talent: Start with Culture Redesign</h3>
+		<b><i>by Karen Tay</i></b>
+		<p>A Singaporean in Silicon Valley argues for new work structures, principles and practices, and incentives that will appeal to the top tech talent we want.</p>
+		<div class="button1"><a href="/ethos-issue-21/attracting-tech-talent-start-with-culture-redesign/">Read more</a></div>
 	</div>
 </div>
 <br>
