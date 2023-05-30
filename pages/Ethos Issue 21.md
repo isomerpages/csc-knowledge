@@ -178,12 +178,12 @@ margin-top:15px;
 </div>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_What_Digital_Success_Looks_Like.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>DIGITAL SUCCESS Looks Like: What Measuring &amp; Evaluating Government Digitalisation </h3>
+		<b><i>by Aaron Maniam</i></b>
+		<p>Seven indicators could offer a more comprehensive and useful overview of how well the public sector is doing in going digital.</p>
+		<div class="button1"><a href="/ethos-issue-21/what-digital-success-looks-like-measuring-evaluating-government-digitalisation/">Read more</a></div>
 	</div>
 </div>
 
