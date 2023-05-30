@@ -143,7 +143,7 @@ margin-top:15px;
 		<h3>The Agile Way of Working</h3>
 		<b><i>by Abhilash Anselm and Tiana Desker</i></b>
 		<p>An approach borrowed from software development could help public service teams take faster and more adaptive action in complex, volatile conditions.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-21/the-agile-way-of-working/">Read more</a></div>
 	</div>
 </div>
 <br>
@@ -177,7 +177,15 @@ margin-top:15px;
 	</div>
 </div>
 
-
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
 
 <div class="back">
 <a href="/all-issues/">Back to All Issues</a>
