@@ -139,7 +139,7 @@ provide complementary habitats for native biodiversity. More importantly, the pa
 <h3 class="title">Nature Parks <span>as Buffer Parks</span></h3>
 <p class="text">Nature reserves are protected areas of rich biodiversity that are representative sites of key indigenous ecosystems. To safeguard the native flora and fauna in these areas, there are special restrictions on the activities that can be carried out.</p>
 <p class="text">As part of a holistic conservation approach, nature parks have been established on the margins of the Nature Reserves to act as green buffers. NParks enhances the habitats within these buffers so that they remain rustic and forested, while serving as an alternative venue for the public to enjoy recreational activities. Nature parks also buffer the nature reserves against developments that abut the reserves. The map below shows the nature parks abutting the Bukit Timah and Central Catchment Nature Reserves. For instance, over at Sungei Buloh Wetland Reserve, a 31-hectare extension to its east acts as its buffer.</p>
-<p style="text-align: center;"><img title="Nature Parks as Buffer Parks" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/box-2.jpg?sfvrsn=e3ee8f31_0" data-displaymode="Original" alt="Nature Parks as Buffer Parks"></p>
+<p style="text-align: center;"><img title="Nature Parks as Buffer Parks" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/NatureParks_As_BufferParks.jpg" data-displaymode="Original" alt="Nature Parks as Buffer Parks"></p>
 <p class="small-text">Source: NParks</p>
 
 
@@ -160,7 +160,7 @@ provide complementary habitats for native biodiversity. More importantly, the pa
 
 
 
-<p style="text-align: center;"><img title="Kallang River" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/bishan-ang-mo-kio-park_birdseye-view_2_preview.jpg?sfvrsn=103b1e9d_0" data-displaymode="Original" alt="Kallang River"></p>
+<p style="text-align: center;"><img title="Kallang River" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Kallang_River.jpg" data-displaymode="Original" alt="Kallang River"></p>
 
 <p style="text-align: left;" class="small-text text">Source: NParks</p>
 
@@ -178,13 +178,13 @@ provide complementary habitats for native biodiversity. More importantly, the pa
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
-<h3 class="title">Determination of Ecological Networks in Singapore</h3>
+<h3 class="title">Determination of <span>Ecological Networks</span> in Singapore</h3>
 <p class="text">To enhance ecological connectivity, the National Parks Board worked with the Urban Redevelopment Authority and National University of Singapore to identify ecological networks to connect habitat patches in the landscape. The researchers incorporated ecological information of target fauna species through multiple-criteria decision analytics into GIS models, and projected
 ecological networks that animals are likely to use. The researchers have also developed landscape planning design guidelines to incorporate this ecological network into urban greening plans.</p>
-<p style="text-align: center;"><img title="Crimson Sunbird" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/crimson-sunbird_1_preview.jpeg?sfvrsn=e40d5e60_0" data-displaymode="Original" alt="Crimson Sunbird"></p>
+<p style="text-align: center;"><img title="Crimson Sunbird" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Crimson_Sunbird.jpeg" data-displaymode="Original" alt="Crimson Sunbird"></p>
 <p style="text-align: left;" class="small-text">Example of least-resistance corridors for the Crimson Sunbird<br>
 Source: NParks, Urban Redevelopment Authority and National University of Singapore</p>
 
@@ -206,7 +206,7 @@ Source: NParks, Urban Redevelopment Authority and National University of Singapo
 <p>Over the last decade, more species of native trees and shrubs have been introduced, some of which have been propagated from seeds collected from within our native habitats. Plantings along streetscapes and parks are now more natural in look, with the adoption
 of a tiered structure. This extends into the built environment in the form of vertical and rooftop gardens that mimic epiphytic plants that adorn the trunks of dominant trees and emergent tree cover respectively.</p>
 
-<p style="text-align: center;"><img title="tropical rainforest structure in our urban landscape" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/ethos_is19_editorial_v5-2fa55-compressor90b211ed559f4ddfb2f718917d8d4d9e.jpg?sfvrsn=70420743_0" data-displaymode="Original" alt="tropical rainforest structure in our urban landscape"></p>
+<p style="text-align: center;"><img title="tropical rainforest structure in our urban landscape" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Tropical_Rainforest.jpg" data-displaymode="Original" alt="tropical rainforest structure in our urban landscape"></p>
 
 <p style="text-align: left;" class="small-text">Replicating the tropical rainforest structure in our urban landscape<br>
 Source: NParks</p>
@@ -223,23 +223,23 @@ Source: NParks</p>
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
-<h3 class="title">Recovery of Species under Threat</h3>
+<h3 class="title"><span>Recovery of Species</span> under Threat</h3>
 <p class="text">Under NParks’ species recovery programme, specific conservation strategies are developed and employed to help recover the populations of endemic, rare or threatened native species in Singapore. There have been encouraging results in some cases, such as that of the Oriental Pied Hornbill. These cases give hope that with concerted effort, we can help our currently vulnerable species to recover and thrive as well.</p>
-<p style="text-align: center;"><img title="Oriental Pied Hornbill (Anthracoceros albirostris)" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/box-5_1-compressor9cc6be8848704d1ea4896ec35aaf6899.jpg?sfvrsn=ae38c3b6_0" data-displaymode="Original" alt="Oriental Pied Hornbill (Anthracoceros albirostris)"></p>
+<p style="text-align: center;"><img title="Oriental Pied Hornbill (Anthracoceros albirostris)" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Oriental_Pied_Hornbill.jpg" data-displaymode="Original" alt="Oriental Pied Hornbill (Anthracoceros albirostris)"></p>
 <p style="text-align: left;" class="small-text">Oriental Pied Hornbill (Anthracoceros albirostris)<br>
 Source: NParks</p>
 <p class="text">The Singapore Hornbill Project started in 2004 as a collaboration by a few naturalists with the National Parks Board and Jurong Bird Park. Artificial nest boxes were installed throughout the island for the hornbills to breed. During the study, high-tech sensors and CCTVs were installed to monitor and record the hornbills’ breeding behaviour. The study and provision of these artificial nest boxes and improved habitats have led to the increase in the hornbill population from a few individuals on Pulau Ubin in 1994, to about 100 throughout Singapore at present.</p>
 <p style="text-align: center;"><iframe width="560" src="https://www.youtube.com/embed/bqjbevg0mZk?showinfo=0" height="315" frameborder="0" allow="autoplay; encrypted-media"></iframe></p>
 <p style="text-align: left;" class="small-text">Singapore Hornbill Project - Return of the King<br>
 Source: NParks</p>
-<p style="text-align: center;"><img title="Singapore Kopsia (Kopsia singaporensis)" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/box-5_2-compressor56d5a73cfd514da38642321074c042d8.jpg?sfvrsn=59c18a6_0" data-displaymode="Original" alt="Singapore Kopsia (Kopsia singaporensis)"></p>
+<p style="text-align: center;"><img title="Singapore Kopsia (Kopsia singaporensis)" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/SG_Kopsia.jpg" data-displaymode="Original" alt="Singapore Kopsia (Kopsia singaporensis)"></p>
 <p style="text-align: left;" class="small-text">Singapore Kopsia (Kopsia singaporensis)<br>
 Source: NParks</p>
 <p class="text">This plant is native to Singapore and bears the same colour as our national flag, earning it its name. It occurs locally in Nee Soon Freshwater Swamp and has been successfully propagated and reintroduced into our nature reserves, parks and gardens.</p>
-<p style="text-align: center;"><img title="Neptune’s Cup Sponge (Cliona patera)" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/box-5_3-compressor3a440170709943dea9f4f760bbf74f86.jpg?sfvrsn=f96570e0_0" data-displaymode="Original" alt="Neptune’s Cup Sponge (Cliona patera)"></p>
+<p style="text-align: center;"><img title="Neptune’s Cup Sponge (Cliona patera)" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Neptune_Cup_Sponge.jpg" data-displaymode="Original" alt="Neptune’s Cup Sponge (Cliona patera)"></p>
 <p style="text-align: left;" class="small-text">Neptune’s Cup Sponge (Cliona patera)<br>
 Source: NParks</p>
 <p>This species was rediscovered in Singapore’s waters in 2011 after being absent from our waters for more than a century. Ongoing conservation efforts include transplanting individuals to locations that will give them proximity to each other so as to increase the opportunities for them to reproduce sexually.</p>
