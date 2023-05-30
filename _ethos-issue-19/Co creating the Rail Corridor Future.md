@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 19, Jul 2018</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_19/19_Banner_CoCreating_The_Rail_Corridors_Future.jpg">
 
 
 
