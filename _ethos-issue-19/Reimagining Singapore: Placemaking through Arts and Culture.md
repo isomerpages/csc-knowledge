@@ -186,7 +186,7 @@ Source: MCCY</p>
 
 <p>Today, there are nearly 20 heritage trails all around the island, which Singaporeans can experience by themselves or with volunteer guides. Through community partnerships, NAC has also developed a network of 16 arts and culture nodes islandwide that offer residents quality arts experiences all year round, strengthening place identity. For instance, Our Gallery at Taman Jurong fosters appreciation in the visual arts through artist-led community participation projects. A total of 15 artworks, co-created by artists and residents, have been installed in various parts of Taman Jurong town since the node’s inception in 2014. These co-creations help to enhance the environment and instil a strong sense of community and belonging. With these initiatives, everyone—young or old, amateur or professional—can participate and be inspired by arts and culture.</p>
 
-<p style="text-align: center;"><img title="Locations of arts spaces, community nodes and presentation venues within Singapore" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/ethos_is19_editorial_v5-2fa41-compressor.jpg?sfvrsn=bc17ca27_0" data-displaymode="Original" alt="Locations of arts spaces, community nodes and presentation venues within Singapore"></p>
+<p style="text-align: center;"><img title="Locations of arts spaces, community nodes and presentation venues within Singapore" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Locations_of_Spaces_Commuity_Nodes.jpg" data-displaymode="Original" alt="Locations of arts spaces, community nodes and presentation venues within Singapore"></p>
 
 <p style="text-align: left;" class="small-text">Locations of arts spaces, community nodes and presentation venues within Singapore<br>
 Source: MCCY</p>
