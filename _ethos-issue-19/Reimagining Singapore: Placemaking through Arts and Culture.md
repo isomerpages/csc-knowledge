@@ -93,7 +93,7 @@ With greater cultural diversity and globalisation, there is a need to provide co
 
 <p>But even as Seoul expands its cultural reach internationally, it has also sought to retain its history and traditions. Seoul’s Dongdaemun Design Plaza, for instance, was intended to be a centre for fashion and design—but when remains of Seoul’s ancient wall was discovered at the construction site, it was turned into a memorial park instead. By preserving the structural integrity of its history, Seoul has provided a cultural anchor for its people amidst the rapid change brought about by globalisation.</p>
 
-<p style="text-align: center;"><img title="SG Heritage Plan Travelling Exhibition" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/sg-heritage-plan-travelling-exhibition-compressor.jpg?sfvrsn=770218f6_0" data-displaymode="Original" alt="SG Heritage Plan Travelling Exhibition"></p>
+<p style="text-align: center;"><img title="SG Heritage Plan Travelling Exhibition" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/SG_Heritage_Plan_Travelling_ExhibitionCompressor.jpg" data-displaymode="Original" alt="SG Heritage Plan Travelling Exhibition"></p>
 
 <p style="text-align: left;" class="small-text">SG Heritage Plan Travelling Exhibition<br>
 Source: MCCY</p>
