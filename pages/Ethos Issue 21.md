@@ -50,8 +50,8 @@ margin-top:15px;
 </style>
 <div class="grid-container">
         <div><img src=""></div>
-        <div><h3><span class="cat"></span>
-            <br></h3>	
+        <div><h3><span class="cat">Issue 21, Jul 2019</span>
+            <br>ETHOS Issue 21</h3>	
             <p></p>
             
             
