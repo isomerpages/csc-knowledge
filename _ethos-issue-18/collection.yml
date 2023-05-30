@@ -2,4 +2,5 @@ collections:
   ethos-issue-18:
     output: true
     order:
+      - "Public Value through Private Partnerships: The Grab Story.md"
       - "Navigating the New Economy: A Future that Works.md"
