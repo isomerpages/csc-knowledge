@@ -214,7 +214,7 @@ Source: MCCY</p>
 
 <p>Ultimately, the measure of success of our placemaking efforts will be determined less by its physical expression than by the quality and relationships of the communities that come together in the process, and whose value go beyond economic and financial measures. While placemaking can make for a more vibrant, attractive destination for visitors, it is also a way to create a more endearing home for Singaporeans—one we imagine and create together.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -222,7 +222,7 @@ Source: MCCY</p>
 
 <p class="small-text">The author wishes to thank Clarissa Tan, Jen Ying-Zhen Ang, Wong Hsien Hui, Agnes Lim and Huang Lijie for their contributions to the drafting of this article.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
