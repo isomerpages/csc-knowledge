@@ -195,7 +195,7 @@ Source: MCCY</p>
 
 <p>The public has also been encouraged to participate in shaping the spaces they use and live in. The Public Art Trust (PAT) scheme, introduced in 2015, provides tax incentives and dollar-for-dollar matching for private donors and corporations towards the commissioning of public art. To celebrate SG50 (Singapore’s Golden Jubilee), three public artworks were commissioned in the Civic District, including <em>24 Hours in Singapore</em> by Baet Yeok Kuan—an interactive installation featuring familiar everyday sounds from around the city—prominently located on the Front Lawn of the Asian Civilisations Museum. The PAT has also initiated an online repository to feature and document public artworks in Singapore, and has offered Singaporeans numerous ways to experience public art through curated art trails. By enabling artists to contribute installations to public spaces, and bringing art closer to Singaporeans, PAT has led to increased arts accessibility and the creation of quality artworks in our public spaces that beautify and inspire.</p>
 
-<p style="text-align: center;"><img title="24 hours in Singapore" src="../../images/default-source/ethos-images/ethos-issue-19-(july-issue)/24-hours-in-singapore-(latest-image-provided-7-6-18).jpg?sfvrsn=5dac64c_0" data-displaymode="Original" alt="24 hours in Singapore"></p>
+<p style="text-align: center;"><img title="24 hours in Singapore" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/24hours_In_Singapore_Latest_Image_Provided_7_6_18.jpg" data-displaymode="Original" alt="24 hours in Singapore"></p>
 
 <p style="text-align: left;" class="small-text">24 Hours in Singapore by Baet Yeok Kuan<br>
 Source: MCCY</p>
