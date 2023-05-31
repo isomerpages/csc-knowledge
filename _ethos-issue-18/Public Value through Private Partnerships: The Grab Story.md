@@ -245,7 +245,7 @@ li {
 <p class="text">Grab saves an estimated 3.2 million kilograms in carbon emissions every year, by offering carpooling options and further optimising the booking system. This is equivalent to the amount of CO<sub>2</sub> emitted to power 9,268 desk lights—kept on 24/7 for a year!</p>  
 <p class="text">In Singapore, through a partnership with SMRT, Grab’s fleet will include eco-friendly hybrid and fully electric vehicles for an improved driving experience, while reducing drivers’ operating costs and minimising the impact on the environment even further.</p>  
 <hr>  
-<p><strong>Note</strong></p>  
+<p><strong style="color:white;">Note</strong></p>  
 <ol>  
 <li>The Singapore Land Transport Authority (LTA) has mandated that all private hire car drivers need to be properly licensed with a PDVL (Private Hire Car Driver’s Vocational Licence). Grab supports its valued driver-partners in their application process to obtain the PDVL by absorbing costs and handling application logistics.</li>  
 </ol>  
@@ -263,13 +263,13 @@ li {
   
 <p>The Singapore government has been helpful in providing space for initiatives to be launched, without rushing to impose regulations at the onset. For example, when Private Hire Cars (PHCs) were launched in Singapore, the government did not ban or regulate it outright, unlike what was done in some cities in other countries. Instead, they adopted a wait-and-see approach. They gave time for these developments to play out, so their effects could be fully analysed. A similar approach was taken by MAS with its regulatory sandbox for Fintech innovation, which was helpful when GrabPay—Grab’s proprietary payments platform—was being developed to facilitate cashless&nbsp;payments.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Lack of regulation does not mean no oversight. When regulators engage closely with private players, it provides opportunities for discussion around issues of&nbsp;concern.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>It helps when regulators are more open to engaging closely with industry players. Partnership is a two-way process: it allows industry to be sensitised to public considerations (e.g., safety in the private car hire sector) while allowing local governments to understand the rationale behind seemingly controversial initiatives that private players may push.</p>  
   
@@ -292,9 +292,6 @@ Lack of regulation does not mean no oversight. When regulators engage closely wi
 <li class="small-text">Boston Consulting Group has found that 36% of Asian drivers have uncorrected vision.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
