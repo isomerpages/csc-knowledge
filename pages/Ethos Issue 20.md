@@ -80,7 +80,7 @@ margin-top:15px;
 		<h3>Reimagining Productive Longevity</h3>
 		<b><i>by Kok Ping Soon</i></b>
 		<p>By increasing seniors’ productive capacity, strengthening the ecoysystem functional capacity and changing the social narrative, we can turn ageing from a societal liability to a productive asset for the nation.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-20/reimagining-productive-longevity/">Read more</a></div>
 	</div>
 </div>
 <br>
@@ -100,7 +100,7 @@ margin-top:15px;
 		<h3>Humanising Technology for Older Adults</h3>
 		<b><i>by Tan Tai Kiat</i></b>
 		<p>Technology can be of profound benefit to seniors and their supporters—but it has to be adaptable to individual needs and contexts to be truly useful.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-20/humanising-technology-for-older-adults/">Read more</a></div>
 	</div>
 </div>
 <br>
@@ -110,17 +110,17 @@ margin-top:15px;
 		<h3>Promoting Active Ageing through Virtual &amp; Augmented Reality</h3>
 		<b><i>by Jung Younbo</i></b>
 		<p>A Nanyang Technological University team is developing simulation tools to help seniors learn important skills at their own pace.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-20/promoting-active-ageing-through-virtual-augmented-reality/">Read more</a></div>
 	</div>
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_20/20_Teaser_From_Ageing_to_Augmented_Longevity.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>From Ageing to Augmented Longevity</h3>
+		<b><i>by Hannah Chia</i></b>
+		<p>Even as governments around the world confront greying populations and their implications, advances in technology and medicine are extending lifespans and healthspans, challenging assumptions about what it means to&nbsp;age.</p>
+		<div class="button1"><a href="/ethos-issue-20/from-ageing-to-augmented-longevity/">Read more</a></div>
 	</div>
 </div>
 <br>
