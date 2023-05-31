@@ -56,7 +56,7 @@ font-family: Georgia;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	margin-bottom: 5em;
 	}	
 .containerbox h3 {
 	color:#6e3f8e
@@ -164,12 +164,12 @@ Digital public empowerment, big data and artificial intelligence (AI) will chall
   
   
   
-<p class="small-text text">It is, of course, possible to improve privacy requirements by masking or anonymising the data collected so as not to gather specific information about an individual.</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Tech solutions to privacy concerns</h3>  
