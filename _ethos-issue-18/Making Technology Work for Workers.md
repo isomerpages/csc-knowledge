@@ -234,9 +234,7 @@ Technology disruption often takes on the complexion of inevitability. While disr
 <li class="small-text">Karen Tay, “Technology and Public Good”, accessed May 5, 2017, <a href="https://techandpublicgood.com/">https://techandpublicgood.com/</a>.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
