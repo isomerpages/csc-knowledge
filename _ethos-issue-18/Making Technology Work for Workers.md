@@ -52,13 +52,16 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #0062a1;
+	background-image: linear-gradient(to right , #0062a1 ,#02437e );
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
-
+.containerbox h3 {
+	color: white;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -78,7 +81,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Auntie Sally's Story</h3>  
@@ -93,23 +96,23 @@ li {
   
   
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Underlying this trend is a deep, visceral and very real fear that the diligent, dutiful employee has of losing his job.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>There have been many involved government policy discussion<sup>1</sup> on how rapid technological disruptions and the progress of artificial intelligence will inevitably displace workers like Auntie Sally along the entire value chain,<sup>2</sup> hollowing out the lower and middle classes. The pace of disruptive technologies makes it ever more difficult to train workers fast enough to transition to new jobs and sectors.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Can technology be used to tackle some of the very problems arising from&nbsp;its development?&nbsp;  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Underlying this trend is a deep, visceral and very real fear that the diligent, dutiful employee has of losing his job. In part, this anxiety is reflected in global events, from the US elections and Brexit in 2016 to worldwide protests against Uber. The sheer potential impact of disruptive technology, adding to prevailing resentments about offshoring, could further deepen divides: between proponents who are able to extract benefit from it, and those who fear they may lose out.</p>  
   
@@ -125,13 +128,13 @@ Can technology be used to tackle some of the very problems arising from&nbsp;its
   
 <p>&nbsp;</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Technology has a role to play in helping both government and companies better anticipate the changing skillsets needed to remain competitive.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3><strong>MATCHING SKILLS, ELIMINATING&nbsp;BIASES</strong></h3>  
   
@@ -141,12 +144,12 @@ Technology has a role to play in helping both government and companies better an
   
 <p>No clearer has skills matching through technology played out than with freelancers and the self-employed. While oft-cited as facilitating companies’ reduction of full-time hires, the inevitable reality is that companies are increasingly prioritising hiring flexibility. Digital job portals like Upwork and Guru provide crucial project-&nbsp;based job opportunities and income for workers whose specific skills may not justify full-time hiring.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
-Finding good matches between skills and skills in demand is essential to helping workers.</em></h5>  
+<p class="break1">   
+Finding good matches between skills and skills in demand is essential to helping workers.</p>  
   
-<hr>  
+</div>  
   
 <p>Digital labour platforms like LinkedIn or CareerBuilder also create more <em>transparent job markets</em> and disrupt previously closed labour markets by increasing workers’ access to a wider variety of jobs and employers’ access to a wider pool of job seekers, reducing the advantage of “old boys clubs”, often driven by wealth and connections. Google’s new built-in job search engine goes one step further to aggregate available jobs across major online job boards, using AI to rationalise among duplicate listings and letting workers shortlist jobs by location.</p>  
   
@@ -164,13 +167,13 @@ Finding good matches between skills and skills in demand is essential to helping
   
 <p>Significantly, these upskilling technologies can also help companies “test” out potential employees during the hiring process in a simulated environment, assuring them that the job seeker—even if they did not have prior work experience—can perform to standard. Real-time, real-world training with AR will also <em>help existing workers learn continuously and at an accelerated speed</em>, increasing organisational learning&nbsp;agility.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Using technology to help mitigate the impact of job displacements can only be truly effective if adopted at scale.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3><strong>Whither Government’s Role?</strong></h3>  
   
@@ -180,13 +183,13 @@ Using technology to help mitigate the impact of job displacements can only be tr
   
 <p>Technologies such as VR and AR for training are most impactful if they can both be customised and scaled up. In the near term, cost constraints and access to these technologies will limit their scalability. Governments could view these technologies not only as training tools but also as productivity enablers, when considering funding incentives.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Less quantifiable skills such as learning agility or strategic thinking may not be as easily evaluated through mediated platforms.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Technology will also affect various constituents to differentiated degrees. Eliminating biases through Codility or GitHub, for example, is limited to skills that are more quantifiable and thus demonstrable on a platform. Less quantifiable skills such as learning agility or strategic thinking may not be as easily evaluated through mediated platforms. These challenges are more tricky to address and certainly worth a separate discussion. Programmes such as Singapore’s Career Support Schemes and other work trials aim to cut through some of this opacity, but these are limited to older workers and the longer-term unemployed, and may lead companies to “discount” these workers’ value or deter companies from signing up to begin with, because they know support is time-limited.</p>  
   
@@ -194,13 +197,13 @@ Less quantifiable skills such as learning agility or strategic thinking may not 
   
 <p>&nbsp;</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Technology disruption often takes on the complexion of inevitability. While disruption will happen, companies and governments can be more thoughtful about why and how they implement technologies.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3><strong>Technology as a Force&nbsp;</strong><strong>for Social Resilience and Collective Progress</strong></h3>  
   
@@ -212,7 +215,7 @@ Technology disruption often takes on the complexion of inevitability. While disr
   
 <p><em>An earlier version of this article first appeared on the blog </em>Technology and Public&nbsp;Good<em>.</em><sup>7</sup></p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -220,7 +223,7 @@ Technology disruption often takes on the complexion of inevitability. While disr
   
 <p class="small-text">Genevieve Ding was named one of Singapore’s 50 changemakers under 35 in 2014. A grassroots leader, she is one of Lean In Singapore’s chapter leaders, and a strong advocate of gender equity and development in the community. Until recently, she worked with the United Workers for Electronics and Electrical Industries representing workers’ interests. She is currently with the Ministry of National Development, and is developing a fintech initiative with NTUC Enterprises to provide financial advisory services for the general public.</p>  
   
-<hr>  
+</div>  
   
 <h6>NOTES</h6>  
   
