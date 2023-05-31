@@ -53,11 +53,11 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #ffc60b;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	border-top: 10px solid grey;
 	}	
 
 li {
@@ -171,7 +171,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Financial Governance: Playing Catch Up</h3>  
