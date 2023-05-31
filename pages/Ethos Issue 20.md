@@ -136,25 +136,36 @@ margin-top:15px;
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_20/20_Teaser_Transforming_Community_Care_in_2030.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Transforming Community Care in 2030</h3>
+		<b><i>by Nadine Chia and Melissa Khoo</i></b>
+		<p>Singapore is developing a networked community care system to meet the changing and varied needs of seniors in a rapidly ageing society.</p>
+		<div class="button1"><a href="/ethos-issue-20/transforming-community-care-in-2030/">Read more</a></div>
 	</div>
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_20/20_Teaser_Positive_Ageing.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Positive Ageing: How can we make it happen?</h3>
+		<b><i>by Kalyani K. Mehta</i></b>
+		<p>Surveying current cross-sector efforts, a veteran gerontologist suggests ways to make Singapore an even more age-friendly city.</p>
+		<div class="button1"><a href="/ethos-issue-20/positive-ageing-how-can-we-make-it-happen/">Read more</a></div>
+	</div>
+</div>
+<br>
+
+
+<div class="grid-container">
+	<div><img src="/images/Cropped_images/Ethos_Issue_20/20_Teaser_Living_with_Independence_and_Purpose.jpg"></div>
+	<div>
+		<h3>Living with Independence and Purpose</h3>
+		<b><i>by Emi Kiyota</i></b>
+		<p>Ibasho founder Dr Emi Kiyota envisions a future where seniors enjoy a life of meaning and dignity—and make a difference in their&nbsp;communities.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
-
 
 
 <div class="back">
