@@ -69,18 +69,18 @@ margin-top:15px;
 		<b><i>by Alvin Pang</i></b>
 		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-19/editorial/">Read more</a></div>
 	</div>
 </div>
 <br>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_Developing_Liveable&amp;Sustainable_Singapore.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Developing a Liveable and Sustainable Singapore</h3>
+		<b><i>by Toh Boon Kwan</i></b>
+		<p>Singapore’s developmental success is underpinned by principled approaches to the ubiquitous challenges of urban governance.</p>
+		<div class="button1"><a href="/ethos-issue-19/developing-a-liveable-and-sustainable-singapore/">Read more</a></div>
 	</div>
 </div>
 <br>
