@@ -52,7 +52,7 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue20.jpg"></div>
 	<div>
 		<h3></h3>
 		<b><i></i></b>
@@ -135,5 +135,6 @@ margin-top:15px;
 
 
 
-
-
+<div class="back">
+<a href="/all-issues/">Back to All Issues</a>
+</div>
