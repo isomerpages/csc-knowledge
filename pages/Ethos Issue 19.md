@@ -84,56 +84,67 @@ margin-top:15px;
 	</div>
 </div>
 <br>
+
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_Integrity_Fundamentals_for_Singapore's_Governance_Success.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>INTEGRITY: FUNDAMENTALS FOR SINGAPORE’S GOVERNANCE SUCCESS</h3>
+		<b><i>by Ng Li Sa, Ong Toon Hui and James Wong</i></b>
+		<p>More than just creating honest, clean government, integrity as wholeness and working together as one united Service will ready Singapore for the future.</p>
+		<div class="button1"><a href="/ethos-issue-19/integrity-fundamentals-for-singapores-governance-success/">Read more</a></div>
 	</div>
 </div>
+
 <br>
+
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_Connecting_to_the_World_Singapore_Hub.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Connecting to the World: Singapore as A Hub Port</h3>
+		<b><i>by Christl Li</i></b>
+		<p>Singapore’s success as a major global maritime hub is the result of bold vision, national determination, and assiduous planning.</p>
+		<div class="button1"><a href="/ethos-issue-19/connecting-to-the-world-singapore-as-a-hub-port/">Read more</a></div>
 	</div>
 </div>
+
 <br>
+
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_Public_Transport_Planning_and_Technological_Revolution.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Public Transport Planning and the Technological Revolution</h3>
+		<b><i>by Lee Chuan Teck</i></b>
+		<p>A paradigm shift in public transport is on the horizon, but the right ecosystem of policies, regulations, infrastructure, and skills must first be in place.</p>
+		<div class="button1"><a href="/ethos-issue-19/public-transport-planning-and-the-technological-revolution/">Read more</a></div>
 	</div>
 </div>
+
 <br>
+
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_The_Future_of_Heartland_Living.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>THE FUTURE OF HEARTLAND LIVING</h3>
+		<b><i>by Cheong Koon Hean</i></b>
+		<p>Innovations in hardware and heartware shape the design of Singapore’s next-generation residential towns.</p>
+		<div class="button1"><a href="/ethos-issue-19/the-future-of-heartland-living/">Read more</a></div>
 	</div>
 </div>
+
 <br>
+
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_Successful_Ageing_Progressive_Governance_and_Collaborative_Communities.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Successful Ageing: Progressive Governance and Collaborative Communities</h3>
+		<b><i>by Teoh Zsin Woon and Kharina Zainal</i></b>
+		<p>The Ministry of Health’s Deputy Secretary (Development) shares perspectives on embracing Singapore’s coming demographic shift.</p>
+		<div class="button1"><a href="/ethos-issue-19/successful-ageing-progressive-governance-and-collaborative-communities/">Read more</a></div>
 	</div>
 </div>
+
 <br>
+
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
@@ -143,7 +154,9 @@ margin-top:15px;
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
+
 <br>
+
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
@@ -153,6 +166,10 @@ margin-top:15px;
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
+
+<br>
+
+
 <div class="back">
 <a href="/all-issues/">Back to All Issues</a>
 </div>
