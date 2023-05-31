@@ -51,7 +51,7 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue19.jpg"></div>
 	<div>
 		<h3></h3>
 		<b><i></i></b>
@@ -59,7 +59,7 @@ margin-top:15px;
 		<div class="button1"><a href="">Download PDF</a></div>
 	</div>
 </div>
-
+<br>
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
@@ -69,7 +69,87 @@ margin-top:15px;
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
-
+<br>
+<br>
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+<br>
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+<br>
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+<br>
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+<br>
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+<br>
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+<br>
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+<br>
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
 <div class="back">
 <a href="/all-issues/">Back to All Issues</a>
 </div>
