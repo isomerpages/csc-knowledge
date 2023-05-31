@@ -60,9 +60,20 @@ margin-top:15px;
 		</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Download PDF</a></div>
+		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-20.pdf">Download PDF</a></div>
 	</div>
 </div>
+<br>
+<div class="grid-container">
+	<div><img src="/images/Cropped_images/Ethos_Issue_20/20_Teaser_Reimagining_Productive_Longevity.jpg"></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+<br>
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
@@ -72,6 +83,7 @@ margin-top:15px;
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
+<br>
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
@@ -81,6 +93,7 @@ margin-top:15px;
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
+<br>
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
@@ -90,6 +103,7 @@ margin-top:15px;
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
+<br>
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
@@ -99,6 +113,7 @@ margin-top:15px;
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
+<br>
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
@@ -108,6 +123,7 @@ margin-top:15px;
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
+<br>
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
@@ -117,15 +133,7 @@ margin-top:15px;
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
-<div class="grid-container">
-	<div><img src=""></div>
-	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
-	</div>
-</div>
+<br>
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
