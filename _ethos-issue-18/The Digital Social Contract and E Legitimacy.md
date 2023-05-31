@@ -58,12 +58,19 @@ font-family: Georgia;
 	margin-top: 5%;
 	margin-bottom: 5em;
 	}	
-.containerbox h3 {
+.containerbox h3 , .containerbox2 h3{
 	color:#6e3f8e
 	}
 .containerbox li {
 	color: grey;
 	}	
+.containerbox2 {
+	background-color: #f57f43;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	margin-bottom: 5em;
+	}
 	
 li {
 	font-size: 15px !important;
@@ -169,7 +176,7 @@ Digital public empowerment, big data and artificial intelligence (AI) will chall
   
   
   
-<div class="containerbox">  
+<div class="containerbox2">  
   
   
 <h3 class="title">Tech solutions to privacy concerns</h3>  
@@ -192,13 +199,13 @@ Digital public empowerment, big data and artificial intelligence (AI) will chall
   
 <p>Research suggests that trust in government and state legitimacy are not principally created by democracy, the rule of law, or the efficiency and effectiveness of government. Instead, trust and legitimacy are the outcomes of “the impartiality of institutions that exercise government authority.”<sup>4</sup> If impartial—not just effective—public administration builds trust between the state and citizenry, and stimulates markets, the implication is a digital social contract that should be articulated. It will be based on the negotiation over shared e-democratic principles such as sustainability, accountability, openness, with citizens in active partnership. Leaders will need to articulate and defend the values of digital society which are currently poorly formulated by the state. Some countries have made headway: Singapore’s “Smart Nation” approach articulates a vision of people “empowered by technology to lead meaningful and fulfilled lives”,<sup>5</sup> while e-Estonia promotes a global vision for digital identities that complement the analogue nation.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Privacy, Big Data and AI lie at the shifting and contested intersection of commercial profit, public policy, and cultural attitudes.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
   
   
@@ -208,7 +215,7 @@ Privacy, Big Data and AI lie at the shifting and contested intersection of comme
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Should there be a digital social contract?</h3>  
@@ -226,17 +233,16 @@ Privacy, Big Data and AI lie at the shifting and contested intersection of comme
   
   
   
+  <br>
+  
+  
+  
+
   
   
   
   
-  
-<p class="small-text text">Whereas most countries enforce strict privacy over tax returns, Norway, Sweden and Finland take an opposite approach:</p>  
-  
-  
-  
-  
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">A different view of privacy: Social Obligation?</h3>  
@@ -270,13 +276,13 @@ Privacy, Big Data and AI lie at the shifting and contested intersection of comme
   
 <br>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Max Everest-Phillips</strong> is Director of the United Nations Development Programme’s (UNDP) Global Centre for Public Service Excellence (GCPSE) in Singapore. </p>  
   
-<hr>  
+</div>  
   
 <h6>NOTES</h6>  
   
@@ -288,9 +294,6 @@ Privacy, Big Data and AI lie at the shifting and contested intersection of comme
 <li class="small-text">Smart Nation Singapore, “Smart Nation”, accessed October 7, 2017, <a href="https://www.smartnation.sg/">https://www.smartnation.sg</a>.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
