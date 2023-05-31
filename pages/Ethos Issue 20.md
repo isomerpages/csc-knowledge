@@ -77,9 +77,9 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_20/20_Teaser_Lifelong_Learning&amp;Ageing.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Lifelong Learning and Ageing: Evidence from Singapore</h3>
+		<b><i>by Chia Ying, Sheng Yee Zher and Johnny Sung</i></b>
+		<p>While age and educational background are key factors influencing our ability to learn, a recent study suggests that enabling technologies and learning methods can help seniors to go further.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
