@@ -70,12 +70,12 @@ margin-top:15px;
 		<h3>Reimagining Productive Longevity</h3>
 		<b><i>by Kok Ping Soon</i></b>
 		<p>By increasing seniors’ productive capacity, strengthening the ecoysystem functional capacity and changing the social narrative, we can turn ageing from a societal liability to a productive asset for the nation.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-20/editorial-issue-20/">Read more</a></div>
 	</div>
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_20/20_Teaser_Lifelong_Learning&amp;Ageing.jpg"></div>
 	<div>
 		<h3></h3>
 		<b><i></i></b>
