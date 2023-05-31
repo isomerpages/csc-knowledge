@@ -163,7 +163,7 @@ margin-top:15px;
 		<h3>Living with Independence and Purpose</h3>
 		<b><i>by Emi Kiyota</i></b>
 		<p>Ibasho founder Dr Emi Kiyota envisions a future where seniors enjoy a life of meaning and dignity—and make a difference in their&nbsp;communities.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-20/living-with-independence-and-purpose/">Read more</a></div>
 	</div>
 </div>
 
