@@ -59,7 +59,10 @@ font-family: Georgia;
 	margin-top: 5%;
 	border-top: 10px solid grey;
 	}	
-
+.containerbox h3 {
+	color: grey;
+	
+	}
 li {
 	font-size: 15px !important;
 	
