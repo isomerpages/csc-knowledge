@@ -98,25 +98,25 @@ The major challenge is not technical but how to integrate robotic automation int
   
 <p>The application of <em>robotic process automation</em> (RPA) to administrative jobs will enable significant reductions in the size of public services. Estimating that the US Federal Government could potentially save billions of dollars through automation, Deloitte concludes that “cognitive technologies will eventually fundamentally change how government works, and the changes will come much sooner than many think.”<sup>5</sup> Similarly, the UK think tank, Reform, suggests that the UK public sector can be slashed through automation, and not just clerical back-office jobs. Sophisticated “chat bots” that conduct human-like conversations by text or voice will become the new frontline. “Public services” they argue, “can become the next Uber.”<sup>6</sup>&nbsp;</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Much of the expertise of professionals will be demystified and their role as gatekeepers to knowledge undermined. Many occupations which previously required extensive training and the exercise of judgement can already be undertaken faster, better and at lower cost by increasingly capable machine-based systems. A high proportion of these jobs are located in public services.  
-</em></h5>  
+</p>  
   
-<hr>  
-  
+</div>  
+ 
 <p>At the basic level of the public sector workforce, change is likely to be intense. Driven by value-for-money considerations, a desire to lift productivity and an ambition to improve customer service standards, RPA can rapidly enhance the performance of public administration. AI-augmented government will be able to deploy computers to perform tasks and make decisions previously thought to require intellectual effort. They will not necessarily replicate the thinking process of human specialists.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 "I want people to use digital public services as readily and as constantly as they do when shopping, socialising or checking bus times. By doing so, we can actually change the way citizens interact with us."<sup>7</sup>  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—John Manzoni, Chief Executive, UK Civil Service</p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">—John Manzoni, Chief Executive, UK Civil Service</p>  
   
-<hr>  
+</div>  
   
 <p>There are dissenting voices. Some remember the false dawn of workplace automation in the early 1980s, when many observers anticipated a workless society that never came to be. Not a few are jaundiced by the disappointment of too many earlier ‘e-government’ initiatives and remain sceptical of rhetoric. The former Chief Executive of Australia’s Digital Transformation Agency, Paul Shetler, has criticised how public service leaders tend to talk up a bold future of “big data, artificial intelligence, dancing holograms, and all that kind of stuff” yet persistently fail to deliver on the basics of customer service.<sup>8 </sup>  
 Too often, government agencies imagine the future without effectively delivering the present. Too frequently their application of technology simply reproduces the traditional hierarchical structure and functional demarcations of the public service.  
@@ -134,13 +134,13 @@ Too often, government agencies imagine the future without effectively delivering
 <br>  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Robots will have the capacity not just to repeat processes but to discern methods of improving them.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
   
   
