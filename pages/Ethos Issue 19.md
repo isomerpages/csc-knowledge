@@ -63,10 +63,11 @@ margin-top:15px;
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
+		<h3>Editorial</h3>
+		<b><i>by Alvin Pang</i></b>
+		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
