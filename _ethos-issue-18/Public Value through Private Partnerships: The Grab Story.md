@@ -52,13 +52,44 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #fffffff;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	border: 1px solid green;
 	}	
 
+.containerbox2 {
+	background-color: green;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	color: white;
+	}	
+	
+.containerbox2 h3 {
+	color: white;
+	
+	}	
+	
+	
+.containerbox3 {
+	background-color: green;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	color: white;
+	
+	}	
+	
+.containerbox3 h3 {
+	color: white;
+	
+	}		
+.containerbox3 h4 {
+	color: yellow;
+	
+	}		
 li {
 	font-size: 15px !important;
 	
@@ -80,7 +111,7 @@ li {
   
   
   
-<p class="small-text text">Founded in 2012, Grab is Southeast Asia’s leading on-demand transportation and mobile payments platform.</p>  
+  
   
   
   
@@ -91,7 +122,7 @@ li {
 &nbsp;  
 <p class="text">Founded in 2012, Grab is Southeast Asia’s leading on-demand transportation and mobile payments platform.\* Headquartered in Singapore, Grab has expanded into more than 168 cities in eight countries across Southeast Asia.</p>  
 <p class="small-text">\*According to TNS, a global market research firm, Grab’s services (taxis, cars and motorbikes) are used most often in Singapore, Indonesia, Malaysia, Philippines, Thailand and Vietnam, compared to other ride-sharing and hailing apps.</p>  
-<div class="featured-overlay\_\_image"><img src="../../images/default-source/ethos-images/ethos\_is18\_grabgraphics6.jpg" alt=""></div>  
+<div class="featured-overlay\_\_image"><img src="/images/Ethos_Images/Ethos_Issue_18/Ethos_Issue18_GrabGraphics6.jpg" alt=""></div>  
   
   
   
@@ -158,7 +189,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox2">  
   
   
 <h3 class="title">SHARING TRAFFIC DATA TO AID PLANNING</h3>  
@@ -183,13 +214,14 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox3">  
   
   
 <h3 class="title">DIGITISATION: TRANSFORMING LIVELIHOODS</h3>  
 <h4 class="sub-title">1. IMPROVING DRIVER-PARTNERS’ EARNING POTENTIAL</h4>  
-<div class="featured-overlay\_\_image"><img src="../../images/default-source/ethos-images/ethos\_is18\_grabgraphics.jpg" alt="Improving driver partners earning potential"></div>  
-<div class="featured-overlay\_\_image"><img src="../../images/default-source/ethos-images/grab\_heatmap.jpg" alt="Improving driver partners earning potential"></div>  
+<div class="featured-overlay\_\_image"><img src="/images/Ethos_Images/Ethos_Issue_18/Ethos_Issue18_GrabGraphic1.jpg" alt="Improving driver partners earning potential"></div>  
+<!-- 	
+<div class="featured-overlay\_\_image"><img alt="Improving driver partners earning potential" src="../../images/default-source/ethos-images/grab\_heatmap.jpg"></div> --> 
 <p class="text">Grab drivers are “partners”: not workers nor contractors. Grab wants them to have a way to earn enough to have options in life.</p>  
 <p class="text">There are now more than 2.3 million driver-partners on the Grab platform. They earn on average one-third (35%) more on a per hour basis compared to average worker wages across all of Grab’s markets.</p>  
 <h4 class="sub-title">2. AIDING FINANCIAL AND DIGITAL INCLUSION</h4>  
