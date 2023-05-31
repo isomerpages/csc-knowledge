@@ -65,12 +65,22 @@ margin-top:15px;
 </div>
 <br>
 <div class="grid-container">
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
+	<div>
+		<h3>Editorial</h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="/ethos-issue-20/editorial-issue-20/">Read more</a></div>
+	</div>
+</div>
+<br>
+<div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_20/20_Teaser_Reimagining_Productive_Longevity.jpg"></div>
 	<div>
 		<h3>Reimagining Productive Longevity</h3>
 		<b><i>by Kok Ping Soon</i></b>
 		<p>By increasing seniors’ productive capacity, strengthening the ecoysystem functional capacity and changing the social narrative, we can turn ageing from a societal liability to a productive asset for the nation.</p>
-		<div class="button1"><a href="/ethos-issue-20/editorial-issue-20/">Read more</a></div>
+		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
 <br>
@@ -80,7 +90,7 @@ margin-top:15px;
 		<h3>Lifelong Learning and Ageing: Evidence from Singapore</h3>
 		<b><i>by Chia Ying, Sheng Yee Zher and Johnny Sung</i></b>
 		<p>While age and educational background are key factors influencing our ability to learn, a recent study suggests that enabling technologies and learning methods can help seniors to go further.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-20/lifelong-learning-and-ageing-evidence-from-singapore/">Read more</a></div>
 	</div>
 </div>
 <br>
