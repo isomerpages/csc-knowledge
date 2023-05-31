@@ -63,6 +63,24 @@ font-family: Georgia;
 	color: grey;
 	
 	}
+	
+.containerbox2 {
+	background-color: #ca2256;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	margin-bottom:
+	border-top: 10px solid grey;
+	color: white;
+	}	
+.containerbox2 h3 {
+	color: #ffc60b;
+	
+	}
+.containerbox2 h4 {
+	color: white;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -107,7 +125,7 @@ li {
   
 <h3>1. RALLY “POLICY COMMANDOS”</h3>  
   
-<p>When Singapore’s MRT Circle Line was hit by a spate of mysterious disruptions in late 2016, a team of three GovTech data scientists stepped up to support investigations. Using data from train operator SMRT and the Land Transport Authority (LTA), they pinpointed a rogue train, PV46, as the cause of breakdowns in all but three hours, and, together with the inter-agency investigation team, caught the rogue train by sundown. No machine learning, no AI, no fancy technical methods were involved. In fact, what shone a new light on the mystery was a simple scatterplot (inspired by the Marey Chart). \[<em>For more on this story, see “Data Science in Public Policy—The New Revolution”, in ETHOS Issue 17.</em>\]</p>  
+<p>When Singapore’s MRT Circle Line was hit by a spate of mysterious disruptions in late 2016, a team of three GovTech data scientists stepped up to support investigations. Using data from train operator SMRT and the Land Transport Authority (LTA), they pinpointed a rogue train, PV46, as the cause of breakdowns in all but three hours, and, together with the inter-agency investigation team, caught the rogue train by sundown. No machine learning, no AI, no fancy technical methods were involved. In fact, what shone a new light on the mystery was a simple scatterplot (inspired by the Marey Chart). [<em>For more on this story, see “Data Science in Public Policy—The New Revolution”, in ETHOS Issue 17.</em>]</p>  
   
 <p>What made the difference was the applied experience of the data scientists, who had honed their analytical skills and instincts through collaboration with agencies on data science projects across varied policy domains. They knew where to begin their sleuthing, which methods to try, and most importantly, which features to visualise on the scatterplot. Their efforts helped achieve a critical objective (identify the source of the problem), which proved decisive in turning the tide. But it took the entire corps to win through: in this case, DSTA engineers narrowed down the hardware issues with PV46, while transport planners coordinated train schedules, and information officers engaged the public.</p>  
   
@@ -131,7 +149,7 @@ li {
   
 <br>  
   
-<img title="Waterfall\_agile" style="vertical-align: middle;" src="../../images/default-source/default-album/waterfall\_agile.jpg?sfvrsn=261a01af\_0" data-displaymode="Original" alt="Waterfall\_agile">  
+<img title="Waterfall\_agile" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_18/agile_vs_waterfall.PNG" alt="Waterfall\_agile">  
 <sub><br>  
 </sub>  
   
@@ -166,19 +184,14 @@ li {
   
   
   
-  
-<div class="ethos-featured-story\_\_image"><img src="../../images/default-source/default-album/drone.jpg" alt=""></div>  
-  
-<p class="small-text text">The financial sector has been especially vulnerable to high risk clockspeed. As more banks use technology to conduct shadow banking activities, regulators are forced to play catch-up.</p>  
-  
-  
+
   
   
 <div class="containerbox">  
   
   
 <h3 class="title">Financial Governance: Playing Catch Up</h3>  
-<div class="featured-overlay\_\_image"><img src="../../images/default-source/default-album/drone.jpg" alt=""></div>  
+
 <p class="text">The financial sector has been especially vulnerable to high risk clockspeed. As more banks use technology to conduct shadow banking activities, regulators are forced to play catch-up. Despite their best efforts, regulators are always several steps behind. Regulations to counter financial fragility have been quickly circumvented by bankers before coming into effect, as demonstrated by each iteration of the Basel Capital Accord. Basel I &amp; II were implemented in the 1990s to counter financial fragility, but was quickly undermined by creative bankers. Regulators recently introduced Basel III to force banks to hold more capital, but these have been circumvented before coming into effect. The failure of central bank regulators to keep up with the digitalisation of financial and banking sectors has proved to be costly, contributing to financial crises in the past three decades.</p>  
 <hr>  
 <p><strong>Note</strong></p>  
@@ -203,7 +216,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox2">  
   
   
 <h3 class="title">Case Study: How Parking.SG Evolved from an Idea to National Product in Eight Months</h3>  
@@ -215,7 +228,7 @@ li {
 <h4 class="sub-title">PROACTIVELY COMMUNICATE </h4>  
 <p class="text">At every stage of development, the team was proactively in touch with stakeholders. The message from the outset was this: the team had released a working app, users can expect bugs and should actively provide feedback for improving subsequent app releases. This helped manage the public’s expectations: ensuring that citizens did not expect the app to be perfect, but instead appreciated the effort to get a useful product quickly to market.</p>  
 <hr>  
-<p><strong>Note</strong></p>  
+<p><strong style="color: white;">Note</strong></p>  
 <ol>  
 <li> A team of three GovTech specialists (a product manager, a software engineer, and a UX designer) worked closely with a small team of policy officers and ground enforcement officers from the Ministry of National Development, URA and HDB. The team deployed a minimal viable product for beta testing among public sector users in just four months—the typical time it takes to call for a government tender.</li>  
 </ol>  
@@ -227,17 +240,14 @@ li {
   
   
   
+ <br>
   
   
   
   
   
-<p class="small-text text">The year is 2021. The global economy shows signs of slowing, while countries that have harnessed technologies in the Fourth Industrial Revolution are powering ahead.</p>  
   
-  
-  
-  
-<div class="container">  
+<div class="containerbox3">  
   
   
 <h3 class="title">Towards an Agile Public Service—Public Service 2021: A Vision</h3>  
@@ -259,7 +269,7 @@ li {
 <br>  
 </em></p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHORS</h6>  
   
@@ -272,7 +282,7 @@ li {
   
 <p class="small-text"><strong>Daniel Lim Yew Mao</strong> is Acting Deputy Director at GovTech’s Data Science &amp; Artificial Intelligence Division, where he leads the Quantitative Strategy team. He received a PhD in Government and an MA in Statistics from Harvard University, where he was also a member of Harvard’s Behavioural Insights Group.</p>  
   
-<hr>  
+</div>  
   
 <h6>NOTES</h6>  
   
