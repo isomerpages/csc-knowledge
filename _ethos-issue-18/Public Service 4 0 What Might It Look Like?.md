@@ -52,10 +52,14 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #fbc8b4;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
+	
+	}	
+.containerbox span {
+	color: #7b86ae;
 	
 	}	
 
@@ -150,10 +154,10 @@ Robots will have the capacity not just to repeat processes but to discern method
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
-<h3 class="title">Consumer and citizen online behaviours are DIFFERENT</h3>  
+<h3 class="title">Consumer and citizen online behaviours are <span>DIFFERENT</span></h3>  
 <p class="text">A citizen in search of public services is not a shopper. Assumptions born of consumer behaviour in a competitive market economy do not readily translate into the relations between an individual and the state. There are important differences.</p>  
 <p class="text">First, in most instances citizens do not choose to do business with government. It represents an unavoidable impost on their time. Looking online for the best value purchase can be an enjoyable experience. Submitting one’s annual tax return, paying a fine for speeding, applying for a family payment, are irritating chores. Most citizens want to complete their transaction as speedily as possible, at a time and place of their convenience, with easy access to assistance if the matter turns out to be more complex than anticipated (it often does). That sense of government as a necessary burden should drive the initial application of automation and digital communication.</p>  
 <p class="text">Perhaps with time, perceptions might change. Citizens might be persuaded to use automated information technology to increase the range of things they actually want to do with government, such as booking a medical appointment online or reporting a pothole in the road. Making publicly-funded data available to the public under a creative commons license will allow them to use government-collected information in ways they find useful: for example, to check out house prices, peruse land titles or identify which suburbs are safest to live in.</p>  
@@ -164,8 +168,9 @@ Robots will have the capacity not just to repeat processes but to discern method
   
 </div>  
   
-  
-  
+<br>
+<br>
+<br>
   
   
   
@@ -179,13 +184,13 @@ Robots will have the capacity not just to repeat processes but to discern method
   
 <p>Robotic automation widens the opportunity&nbsp;to&nbsp;apply behavioural psychology to “nudge” citizens towards pro-social conduct. Machines can be programmed to engage with members of the public in different ways, learning what approaches have most positive impact. They can test responses. Whether it is persuading recalcitrant offenders to pay their fines or convincing families to live healthier lifestyles, robots can learn how to communicate in the most effective manner. They can teach us what works best with humans.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Much public administration is ideally suited to robotic application.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>All of this has the potential to add significant value to the manifold activities of government that will continue to require a human presence. Converging technologies will allow people to work together in quite different ways. Much of the delivery of public value is already undertaken in partnership with the private sector or in collaboration with community-based organisations. Nevertheless, the institutional recruitment and training of civil servants too often remains inflexible, making it hard for employees to move in and out of public&nbsp;administration.</p>  
   
@@ -197,13 +202,13 @@ Much public administration is ideally suited to robotic application.
   
 <p>The technological future&nbsp;of Public Service 4.0 is already with us. Digitisation and robotic process automation will progressively transform how public administration is undertaken. How fast depends on the scale of government investment and the breadth of its imagination. But increased productivity and improved service delivery are just the starting point. Creative minds, assisted by machines, can envisage new ways of applying connective technologies to government—either to reinvigorate democratic participation or to reinforce authoritarian power. The outcome rests with humans not robots. The question is whether we can be trusted to make the right decisions.&nbsp;</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Peter Shergold,</strong> Chancellor of Western Sydney University and NSW Coordinator General for Refugee Resettlement, is a <a href="../../who-we-are/fellowships.html">Senior Visiting Fellow at the Civil Service College Singapore</a>. He was formerly Secretary of the Department of the Prime Minister and Cabinet in Australia.</p>  
   
-<hr>  
+</div>  
   
 <h6>NOTES</h6>  
   
@@ -221,9 +226,6 @@ Much public administration is ideally suited to robotic application.
 <li class="small-text">Peter Shergold, “Learning from Failure: Why Large Government Policy Initiatives Have Gone So Badly Wrong in the Past and How the Chances of Success in the Future Can Be Improved”, updated February 5, 2016, accessed November 24, 2017, <a href="https://legacy.apsc.gov.au/sites/default/files/learningfromfailure.docx">https://legacy.apsc.gov.au/sites/default/files/learningfromfailure.docx</a>. Also see “Public Service Needs ‘Hollywood Model’ of Work”, <em>Canberra Times</em>, February 5, 2016, accessed November 24, 2017,<a href="../www.%20canberratimes.com.html">www. canberratimes.com.au</a>.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
