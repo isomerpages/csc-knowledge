@@ -146,23 +146,33 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_Reimagining_Singapore_Placemaking_through_Arts_and_Culture.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>REIMAGINING SINGAPORE: PLACEMAKING THROUGH ARTS AND CULTURE</h3>
+		<b><i>by Rosa Daniel</i></b>
+		<p>Upgraded infrastructure and creative programming enliven the city’s vibrant neighbourhoods, as it aspires to become a global cultural hub.</p>
+		<div class="button1"><a href="/ethos-issue-19/reimagining-singapore-placemaking-through-arts-and-culture/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_CoCreating_The_Rail_Corridors_Future.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Co-Creating the Rail Corridor's Future</h3>
+		<b><i>by Tan See Nin</i></b>
+		<p>Broad hands-on community engagement has led the design and planning process for a significant stretch of former railway land.</p>
+		<div class="button1"><a href="/ethos-issue-19/co-creating-the-rail-corridors-future/">Read more</a></div>
+	</div>
+</div>
+
+<div class="grid-container">
+	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_Growing_a_Biophillic_City.jpg"></div>
+	<div>
+		<h3>Growing a Biophilic City in a Garden</h3>
+		<b><i>by Kenneth Er</i></b>
+		<p>The greening of Singapore is the outcome of decades of commitment, sound planning, and strong community partnerships.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
