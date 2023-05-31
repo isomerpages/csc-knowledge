@@ -54,7 +54,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue20.jpg"></div>
 	<div>
-		<h3></h3>
+		<h3><span class="cat">Issue 20, Jan 2019</span>
+			<br>
+		Ethos Issue 20
+		</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Download PDF</a></div>
