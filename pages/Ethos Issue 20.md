@@ -95,11 +95,11 @@ margin-top:15px;
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_20/20_Teaser_Promoting_Active_Ageing_Through_Virtual&amp;AR.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Promoting Active Ageing through Virtual &amp; Augmented Reality</h3>
+		<b><i>by Jung Younbo</i></b>
+		<p>A Nanyang Technological University team is developing simulation tools to help seniors learn important skills at their own pace.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
