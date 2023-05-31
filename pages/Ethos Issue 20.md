@@ -124,13 +124,14 @@ margin-top:15px;
 	</div>
 </div>
 <br>
+
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Age is a Number</h3>
+		<b><i>by John Franklin Siregar</i></b>
+		<p>I enjoy a quality of life that is not burdening myself, not burdening my family, not burdening society, and by extension, not burdening the nation. In fact, I'm contributing. I would like to have this dream job as long as possible.</p>
+		<div class="button1"><a href="/ethos-issue-20/age-is-a-number/">Read more</a></div>
 	</div>
 </div>
 <br>
