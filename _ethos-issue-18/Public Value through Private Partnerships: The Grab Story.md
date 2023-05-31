@@ -60,7 +60,7 @@ font-family: Georgia;
 	}	
 
 .containerbox2 {
-	background-color: green;
+	background-color: #01aa4f;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
@@ -74,7 +74,7 @@ font-family: Georgia;
 	
 	
 .containerbox3 {
-	background-color: green;
+	background-color: #01aa4f;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
@@ -225,22 +225,22 @@ li {
 <p class="text">Grab drivers are “partners”: not workers nor contractors. Grab wants them to have a way to earn enough to have options in life.</p>  
 <p class="text">There are now more than 2.3 million driver-partners on the Grab platform. They earn on average one-third (35%) more on a per hour basis compared to average worker wages across all of Grab’s markets.</p>  
 <h4 class="sub-title">2. AIDING FINANCIAL AND DIGITAL INCLUSION</h4>  
-<div class="featured-overlay\_\_image"><img src="../../images/default-source/ethos-images/ethos\_is18\_grabgraphics2.jpg" alt="Aiding financial and digital inclusion"></div>  
+<div class="featured-overlay\_\_image"><img src="/images/Ethos_Images/Ethos_Issue_18/Ethos_Issue18_GrabGraphics2.jpg" alt="Aiding financial and digital inclusion"></div>  
 <p class="text">With 70% of Southeast Asians still lacking basic internet access, the Grab app (along with Grab microfinanced phones) has made it possible for many driver-partners to experience the power of the internet for the first time—bridging the digital divide. Grab has assisted in opening bank accounts for more than two-thirds of its driver-partners, introducing them to banking and other financial services for the first time in their lives. Nearly 2.3 million driver-partners now rely on the Grab platform for their household income.</p>  
 <p class="text">To improve their welfare and encourage driver-partners to save for long-term needs, Grab in Singapore matches qualifying driver-partner’s Medisave contributions by up to $200.</p>  
 <p class="text">Over and above the paid medical health checks Grab covers, as part of the PDVL<sup>1</sup> application process, Grab also provides driver-partners with personal insurance at no cost: a benefit enjoyed by GrabCar driver-partners and GrabHitch passengers in 168 cities across eight countries.</p>  
 <h4 class="sub-title">3. UPSKILLING</h4>  
-<div class="featured-overlay\_\_image"><img src="../../images/default-source/ethos-images/ethos\_is18\_grabgraphics3.jpg" alt="Upskilling"></div>  
+<div class="featured-overlay\_\_image"><img src="/images/Ethos_Images/Ethos_Issue_18/Ethos_Issue18_GrabGraphics3.jpg" alt="Upskilling"></div>  
 <p class="text">Grab’s driver partners are leading the change in the new gig economy. Like any entrepreneur, whilst they enjoy flexible working hours, they need to refine their skills: to be able to speak English fluently, drive safely, learn how to read maps and use smartphones.</p>  
 <p class="text">In the past, Grab supported driver-partners by microfinancing smartphones; today it offers similar options for cars. In some markets, including Singapore, they can sign up for English-speaking classes, or learn how to manage elderly passengers.</p>  
 <p class="text">Such skills support drivers by helping them to enhance their customer service and improve customer ratings, boosting their earnings.</p>  
 <h4 class="sub-title">4. PROVIDING SAFER COMMUTES</h4>  
-<div class="featured-overlay\_\_image"><img src="../../images/default-source/ethos-images/ethos\_is18\_grabgraphics4.jpg" alt="Providing safer commutes"></div>  
+<div class="featured-overlay\_\_image"><img src="/images/Ethos_Images/Ethos_Issue_18/Ethos_Issue18_GrabGraphics4.jpg" alt="Providing safer commutes"></div>  
 <p class="text">On average, Grab commuters reach their destinations in less than half the time (52% reduction in travel time on average) compared to public transport options in their cities.</p>  
 <p class="text">To design safety into its technology, Grab invested in telematics, to measure how safe Grab drivers are on the road. Personalised weekly ‘report cards’ are sent to all driver-partners in Singapore to highlight driving safety issues, e.g., their rate of braking or speeding. In trials, Grab found that this helped drivers reduce their reported driving safety issues by as much as 35%.</p>  
 <p class="text">In addition to this, Grab trains drivers in emergency skills such as first aid, CPR and AED, through partnerships with the International Federation of Red Cross and Red Crescent Societies. It equips drivers with defensive riding skills and road safety techniques. This has kept traffic accident rates from Grab five times lower than national averages.</p>  
 <h4 class="sub-title">5. AIDING CLEANER AND MORE EFFICIENT CITIES</h4>  
-<div class="featured-overlay\_\_image"><img src="../../images/default-source/ethos-images/ethos\_is18\_grabgraphics5.jpg" alt="Aiding cleaner and more efficient cities"></div>  
+<div class="featured-overlay\_\_image"><img src="/images/Ethos_Images/Ethos_Issue_18/Ethos_Issue18_GrabGraphics5.jpg" alt="Aiding cleaner and more efficient cities"></div>  
 <p class="text">Grab’s two flagship carpooling services—GrabShare and GrabHitch—are helping to address pollution and congestion in Southeast Asia.</p>  
 <p class="text">Grab saves an estimated 3.2 million kilograms in carbon emissions every year, by offering carpooling options and further optimising the booking system. This is equivalent to the amount of CO<sub>2</sub> emitted to power 9,268 desk lights—kept on 24/7 for a year!</p>  
 <p class="text">In Singapore, through a partnership with SMRT, Grab’s fleet will include eco-friendly hybrid and fully electric vehicles for an improved driving experience, while reducing drivers’ operating costs and minimising the impact on the environment even further.</p>  
