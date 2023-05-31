@@ -85,11 +85,11 @@ margin-top:15px;
 </div>
 <br>
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_20/20_Teaser_Humanising_Technology_for_Older_Adults.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Humanising Technology for Older Adults</h3>
+		<b><i>by Tan Tai Kiat</i></b>
+		<p>Technology can be of profound benefit to seniors and their supporters—but it has to be adaptable to individual needs and contexts to be truly useful.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
