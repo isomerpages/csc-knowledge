@@ -313,9 +313,6 @@ li {
 <li id="endnotes-1" class="small-text">J. Furman, “Applying behavioral sciences in the service of four major economic problems,” <em>Behavioral Science &amp; Policy</em>, 2(2016): 1–7.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
