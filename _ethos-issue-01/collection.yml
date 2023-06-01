@@ -2,6 +2,7 @@ collections:
   ethos-issue-01:
     output: true
     order:
+      - Successful Ageing – A Review of Singapore’s Policy Approaches.md
       - Foreword.md
       - Editorial.md
       - "Interview with Joseph Chamie: Population and Policy.md"
