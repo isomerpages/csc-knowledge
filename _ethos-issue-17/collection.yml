@@ -2,6 +2,7 @@ collections:
   ethos-issue-17:
     output: true
     order:
+      - Editorial.md
       - "Nudging: Why, How, What Next?.md"
       - Using Behavioural Insights to Improve Service Delivery.md
       - ‘Nudging’ Singapore to be Cleaner and Greener.md
