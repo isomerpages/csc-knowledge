@@ -136,7 +136,17 @@ li {
 
 <p class="small-text" style="font-weight: bold; letter-spacing: 1px;"><a name="notes"></a>NOTES</p>  
   
-<p class="notestop">This article is excerpted from an interview conducted in Singapore (May 2006) by Andrew Kwok, a research associate at IPD, and Alvin Pang, the Editor of Ethos.</p>
+<ol>
+	
+<li id="num1">Egendorf, K. Laura, Aging Population (San Diego, CA: Greenhaven Press, 2002), pp 202.</li>
+	
+	
+<li id="num2">Burtless, Gary, “Does Population Aging Represent a Crisis for Rich Societies?,” American Economic Association (2002),<a href="http://www.brook.edu/views/papers/burtless/200220106.htm"> http://www.brook.edu/views/papers/burtless/200220106.htm</a> (accessed August 15 2006)</li>
+	
+	
+<li id="num3">Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, <a target="_blank" href="https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
+</ol>	
+
 
 
 <br>
