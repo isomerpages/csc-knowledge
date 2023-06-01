@@ -2,5 +2,6 @@ collections:
   ethos-issue-17:
     output: true
     order:
+      - The Making of Behavioural Economics.md
       - Plan for Behavioural Change, One Step at a Time.md
       - "Project Tap out: Nudging Commuter Habits with Behavioural Insights.md"
