@@ -16,6 +16,24 @@ description: ""
 	width:100%;
 }
 	
+.young-at-heart
+{
+background-color: #949646;	
+padding:20px;
+color:white;
+margin-top: 30px;
+}
+	
+.young-at-heart h4
+{
+color:white;
+}	
+
+.young-at-heart a
+{
+color:white;
+}		
+	
 .author
 {
 border-bottom: 1px solid black;
@@ -108,13 +126,11 @@ li {
 
 <p>With the 2004–2006 Committee on Ageing Issues (CAI), a new and urgent emphasis was placed on maintaining a high quality of life for a new cohort of seniors – the baby boomers, who will reach 65 years of age by 2010. This cohort would be healthier due to rapid advances in medical science, and much more educated and economically well off than those of the 1970s and 1980s. The baby boomer generation of seniors will have highly varied needs and aspirations to be catered to, within the window of only a few years.</p>
 
-
-
 <h3>HOLISTIC AND AFFORDABLE HEALTHCARE AND ELDERCARE</h3>
 
-<p>Singapore’s healthcare policy emphasises health promotion and disease prevention, promotes personal responsibility, and encourages seniors to remain healthy and active in the community for as long as possible. The Government has aggressively promoted healthy lifestyles and regular health screenings for early detection of illnesses to lessen the risk of major illnesses. It has also developed a strong network of community-based, step-down care services to support the family in its care-giving role. The implementation of an Eldercare Masterplan5 has resulted in more service providers offering a variety of residential, centre-based and home-based care services for seniors.</p>
+<p>Singapore’s healthcare policy emphasises health promotion and disease prevention, promotes personal responsibility, and encourages seniors to remain healthy and active in the community for as long as possible. The Government has aggressively promoted healthy lifestyles and regular health screenings for early detection of illnesses to lessen the risk of major illnesses. It has also developed a strong network of community-based, step-down care services to support the family in its care-giving role. The implementation of an Eldercare Masterplan<sup>5</sup> has resulted in more service providers offering a variety of residential, centre-based and home-based care services for seniors.</p>
 
-<p>Healthcare in Singapore is based on access to good, affordable and appropriate healthcare for all Singaporeans, through a combination of market forces and Government intervention and infrastructure. Complementing these measures is the national healthcare financing framework, which is based again on individual responsibility, supported by Government subsidies. The Medisave national medical savings scheme, introduced in April 1984, helps individuals to put aside part of their income in personal accounts to meet future medical needs for themselves or their immediate family. MediShield, introduced in 1990, is a co-paid, low-cost insurance scheme, which helps meet medical expenses from major or prolonged illnesses that Medisave balances would not be sufficient to cover. MediFund6  is an endowment fund set up by the Government in April 1993 to help needy Singaporeans who are unable to pay for their medical expenses.</p>
+<p>Healthcare in Singapore is based on access to good, affordable and appropriate healthcare for all Singaporeans, through a combination of market forces and Government intervention and infrastructure. Complementing these measures is the national healthcare financing framework, which is based again on individual responsibility, supported by Government subsidies. The Medisave national medical savings scheme, introduced in April 1984, helps individuals to put aside part of their income in personal accounts to meet future medical needs for themselves or their immediate family. MediShield, introduced in 1990, is a co-paid, low-cost insurance scheme, which helps meet medical expenses from major or prolonged illnesses that Medisave balances would not be sufficient to cover. MediFund<sup>6</sup>  is an endowment fund set up by the Government in April 1993 to help needy Singaporeans who are unable to pay for their medical expenses.</p>
 
 <p>As part of this national framework, healthcare affordability for seniors is ensured through significant government subsidies in “Class B2” and “Class C” restructured hospital wards. ElderShield was introduced in 2002; it is an insurance scheme established to cover severe disabilities, especially at old age.</p>
 
@@ -123,7 +139,6 @@ li {
 <h3>FINANCIAL SECURITY: LIFELONG FINANCIAL PLANNING</h3>
 
 <p>Under Singapore’s Central Provident Fund (CPF) system, individuals are responsible for planning and saving for their financial security in old age. Surveys have shown that many Singaporeans rely mainly on family support and were not prepared adequately for their financial needs in old age.</p>
-
 
 <p>In recognition that family support may not be sustainable given the trend of smaller families and longer life expectancy, a “basic needs CPF model” was adopted after 1999 to cater to basic living expenses, medical and housing needs in old age. Individuals would have to make independent provisions for their desired retirement lifestyles beyond this basic level.</p>
 
@@ -135,28 +150,60 @@ li {
 
 <p>Having older persons employed for as long as possible keeps them healthier mentally and physically. It also integrates them more effectively in society, and enhances their financial security. Singapore will also need to tap on older workers to meet manpower needs as the workforce ages. To this end, the Tripartite Committee on Employability of Older Workers (2005) has recommended a four-pronged approach: expand employment opportunities for older workers, enhance the cost competitiveness of older workers, raise their skills and value, and shape positive perceptions towards older workers.</p>
 
-<p>Mindsets are already changing. A recent study commissioned by the Hong Kong Shanghai Banking Corporation (HSBC) found that Singaporeans, unlike their counterparts in other countries, wish to continue working for as long as possible to remain financially independent. Employers in Singapore, more than anywhere in the world, actively encourage their older employees to continue working; very few companies here encourage full early retirement. More than half of Singaporean companies surveyed agreed that retirement of older workers means the loss of valuable skills and knowledge.7  This is highly encouraging for the future.
-</p>
+<p>Mindsets are already changing. A recent study commissioned by the Hong Kong Shanghai Banking Corporation (HSBC) found that Singaporeans, unlike their counterparts in other countries, wish to continue working for as long as possible to remain financially independent. Employers in Singapore, more than anywhere in the world, actively encourage their older employees to continue working; very few companies here encourage full early retirement. More than half of Singaporean companies surveyed agreed that retirement of older workers means the loss of valuable skills and knowledge.<sup>7</sup>  This is highly encouraging for the future.</p>
 
 
+<h3>ELDER-FRIENDLY HOUSING,TRANSPORT AND LAND USE</h3>
+
+<p>An elder-friendly built environment is a key determinant of the extent to which seniors have access to service and are integrated into the community. For instance, accessible infrastructure helps seniors maintain social networks and participate in social and economic activities. The key principle adopted in housing and land use policies for seniors is “ageing-in-place” – allowing seniors to grow old in the home, community and environment that they are familiar with, with minimal change or disruption to their lives and activities. Land use policies aim to provide a comprehensive range of housing options, complemented with good support care services, and a more elder-friendly public transport system over the long term, to cater to the diverse needs and higher expectations of a growing senior cohort.</p>
+
+<p>In 1990, a “Code on Barrier-Free Accessibility in Buildings” was enacted to ensure that new buildings conform to a set of standards on barrier-free provisions. Housing Development Board (HDB) studio apartments equipped with elder-friendly fittings and features were also introduced in 1998 as a customised housing option for the elderly. In 2001, the Lift Upgrading Programme was introduced to allow lifts to be provided at every level of high-rise HDB blocks where feasible.</p>
+
+<p>Since 2000, the Land Transport Authority (LTA) has been retrofitting existing Mass Rapid Transit (MRT) subway stations to ensure elder accessibility. In addition, low-floor, step-free and wheelchair-accessible buses have been introduced. These features will eventually be available on all public buses.</p>
 
 
+<div class="young-at-heart">
+<h4>YOUNG AT HEART</h4>
+An example of opportunities to help seniors stay active, this community-based learning programme sends the elderly back to school.
+
+<p>Started by the Marine Parade Family Service Centre in May 2005, the YAH! (Young At Heart!) Community College is a pioneering effort to offer learning opportunities for the elderly aged 50 and above.</p>
+	
+<p>Its first intake saw 100 elderly take up courses in gerontology, information technology and other life skills; 94% of them have had less than secondary school education and for one-fifth, this marked their first experience at schooling. The majority or 86%of the two cohorts in 2005 and 2006 are women.</p>
+	
+<p>The programme includes core subjects, project work, volunteer and community activities, and electives such as line dancing, yoga and creative painting. Participants graduate with a “Certificate on Life Long Learning”. Student Seniors are then be recruited as Active Seniors Ambassadors in various areas of volunteer work.</p>
+
+<p>-Olivia Goh</p>
+he YAH! Community College:
+	
+<a href="http://www.mpfsc.org.sg/yah/yah-index.htm">http://www.mpfsc.org.sg/yah/yah-index.htm</a>
+
+</div>
 
 
-		
-<p>The CPF differs from pensions in one other aspect: basic pension schemes provide all retirees with a flat rate payout, as long as they have worked for a specified number of years. As a further social safety net, targeted schemes pay a higher benefit to poorer pensioners and reduced benefits to better-off retirees. The CPF system, while self-sustaining and generally equitable across different generations, does not redistribute income in this way. Accordingly, it has limited merit in forestalling elderly poverty, since lower-income earners are less able to accumulate as much savings.</p>
+<h3>ACTIVE AGEING AND SOCIAL INTEGRATION</h3>
 
-<p>As more people move up the population pyramid, higher expectations and practical needs will fuel greater demand for instruments that complement and make up for the inadequacies of the CPF. As other nations have found, it may be the Government, rather than fragmented private sector services, that is in the best position to operate or facilitate such programmes with sufficient economies of scale.</p>
-
-
-<h3>SUPPORTING SENIORS: A NATIONAL APPROACH</h3>
-
-<p>Many countries have found it useful to adopt a whole-of-government approach to supporting an increasingly senior population, whose needs straddle several sectors. The “National Strategy for an Ageing Australia” is reportedly exemplary: its comprehensive mix of policies, a result of a wide participative process, addresses the multi-faceted concerns of its senior citizens.<sup>17</sup> Like Australia, New Zealand has a dedicated minister overseeing the welfare of seniors. That such resources are invested in the public services reflects the growing emphasis and importance accorded to this sector of the electorate.</p>
-
-<p>Canada takes a slightly different approach. Its policies focus on nurturing lifelong employability of workers, instead of targeting senior citizens as a specific group. The Ministry for Human Resources and Social Development looks after all aspects of education, youth, employment and pension with the aim to “help Canadians invest in themselves to move through life’s transitions – from families with children to seniors, from school to work, from one job to another, from unemployment to employment, from the workforce to retirement”.<sup>18</sup></p>
-  
-<p>Population ageing is not limited to developed nations. The most serious challenges will likely be faced by developing countries, which have yet to build a sound economic base to withstand the economic impact of a greying society. Literature shows that early intervention offers the best chance of success in influencing population trends. Singapore is in an advantaged position – it is not caught in the pension trap and its fiscal health allows it to prepare adequately for an impending demographic shift. It should therefore be able to restructure successfully to meet the challenges of an ageing population –if it acts in good time.</p> 
-   
+<p>Public education efforts have attempted to reshape values, attitudes and perceptions towards ageing and seniors. The intent is to foster a society where older persons are valued as contributing members and remain actively engaged in their families, communities and society.</p>
+	
+<p>In 1999, the Ministry of Community, Youth and Sports (MCYS) introduced year-round public education programmes on active ageing, highlighting the need to plan early for old age and maintain an active, engaged senior lifestyle. These messages are complemented by other programmes from various agencies and voluntary organisations.</p>
+	
+<p>The importance of seniors maintaining active lifestyles continues to be emphasised, with efforts to encourage healthy living, active lifestyles, social networks, lifelong learning and strong family ties. In 2005, the Government committed $20 million to the Golden Opportunities! (GO!) Fund, which provides seed funding for programmes and activities promoting different aspects of active ageing.</p>
+	
+<p>One key thrust of Singapore’s ageing policies has been the social integration of seniors and inter-generational cohesion. Strong families continue to be seen as the first line of support for seniors. While children have the responsibility to take care of their elderly parents, seniors can also contribute, for example as active grandparents.</p>
+	
+<p>Recognising the need for work-life balance in support of stronger family ties, the Government has introduced pro-family practices in the workplace.8 Some policies also actively encourage inter-generational bonding within families. These include the CPF Family Housing Grant, priority for parents and married children buying new HDB flats to live with or near each other, tax incentives for children looking after aged parents and CPF top-ups among family members.</p>	
+	
+	
+<h3>COHESION AND CONFLICT IN AN AGEING SOCIETY: THE IMPORTANCE OF
+INTER-GENERATIONAL BONDING</h3>	
+	
+<p>In an ageing society, conflict could arise between the young and the old. With the increasing number of nuclear families, grandparents have fewer opportunities to interact with their married children and grandchildren. Communication between the two generations can be impeded by language barriers, since many elderly speak only dialects while the young are more comfortable speaking English. People will have to turn increasingly to friends and community in their older years.</p>
+	
+<p>Inter-generational cohesion is therefore important in ensuring that both the young and old do not see each other as competitors for limited resources. The IMC had proposed a review of policies that cater to two-generation families and to extend them to three-generation families. Since 1999, more emphasis has been placed on inter-generational bonding, for example, by encouraging seniors to take on a more active role in the family as grandparents and caregivers. In July 2002, the Family Matters!Singapore Taskforce on Grandparenting and Inter-generational Bonding was set up to promote activities or events that foster interaction and bonding between people of different generations, providing opportunities for older and younger generations to interact and engage in meaningful exchanges and learn from each other.9</p>
+	
+<h3>CONCLUSION</h3>
+	
+<p>Singapore has had a head start in meeting the challenges of an ageing population. While much has been achieved over the last five years since the publication of the 1999 IMC report, more remains to be done before the baby boom generation reaches 65. To be effective, the Government must take an integrated approach and encourage greater co-ordination and collaboration between agencies. Equally important is the need for the community to respond with the same level of commitment and to take ownership of the issue of ageing. A positive and mature attitude towards seniors and ageing, at all levels of society, will be necessary for ageing policies to be truly successful.</p>	
+	 
   
 <div class="author">  
   
