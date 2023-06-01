@@ -218,46 +218,25 @@ INTER-GENERATIONAL BONDING</h3>
   
 <ol>
 	
-<li id="num1">Egendorf, K. Laura, Aging Population (San Diego, CA: Greenhaven Press, 2002), pp 202.</li>
+<li id="num1">Report on the Committee on the Problems of the Aged, (Ministry of Health, February 1984), <br>pp24-26.</li>
 	
 	
-<li id="num2">Burtless, Gary, “Does Population Aging Represent a Crisis for Rich Societies?,” American Economic Association (2002),<a target="_blank" href="http://www.brook.edu/views/papers/burtless/200220106.htm"> http://www.brook.edu/views/papers/burtless/200220106.htm</a> (accessed August 15 2006)</li>
+<li id="num2">ibid, p41.</li>
 	
-<li id="num3">“S’pore firms ignoring elderly market: poll,” The Business Times, February 13, 2006, Singapore section.</li>
+<li id="num3">Prime Minister Goh Chok Tong in a letter to Minister Mah Bow Tan, Chairman of the 1999 IMC (9 November 1999).</li>
 	
-<li id="num4">Committee of Ageing Issues 2005, Report on the Ageing Population (Singapore: Ministry of Community, Youth and Sports, 2006).</li>
+<li id="num4">Taken from the IMC report (1999).</li>
 	
-<li id="num5">5.	Department of Economic and Social Affairs, Population Division, United Nations, “Population Ageing 2006,”<a target="_blank" href="http://www.un.org/esa/population/publications/ageing/ageing2006.htm"> http://www.un.org/esa/population/publications/ageing/ageing2006.htm</a> (accessed August 15, 2006).</li>	
+<li id="num5">The Eldercare Masterplan (2001-2005), spearheaded by the Ministry for Community, Youth and Sports, was a result of a broad-based review of elder care programmes and services conducted between June 1999 and July 2000.</li>	
 	
-<li id="num6">Cabinet Office, Government of Japan, “Annual Report on the Japanese Economy and Public Finance 2005,” <a target="_blank" href="http://www5.cao.go.jp/zenbun/wp-e/wp-je05/05-00000.html">http://www5.cao.go.jp/zenbun/wp-e/wp-je05/05-00000.html</a>  (accessed August 15, 2006).</li>
+<li id="num6">Ministry of Health, “MediFund was established with an initial capital of S$200 million and capital injections will be made when budget surpluses are available,” <a href="http://www.moh.gov.sg/corp/financing/index.do">http://www.moh.gov.sg/corp/financing/index.do</a></li>
 	
-<li id="num7">National Institute of Population and Social Security Research, “Population Projections for Japan: 2001-2050,” (January, 2002),<a target="_blank" href="http://www.ipss.go.jp/pp-newest/e/ppfj02/top.html">http://www.ipss.go.jp/pp-newest/e/ppfj02/top.html</a> (accessed August 15, 2006).</li>	
+<li id="num7">Future of Retirement: Insights for Singapore (London, UK: HSBC, 2006). The report was authored by the Oxford Institute of Ageing under the directorship of Dr Sarah Harper.</li>	
 	
-<li id="num8">General Household Survey 2005, (Singapore: Department of Statistics, 2005).</li>		
+<li id="num8">In the workplace, pro-family practices such as flexi-work arrangements, extended maternity leave and childcare leave have been introduced. The civil service is now on a five-day work week.</li>		
 	
-<li id="num9">Thornhill, John, “French Population prediction rises sharply,” Financial Times, May 12, 2006.</li>		
+<li id="num9">Since July 2002, the Family Matters! Singapore Taskforce on Grandparenting and Inter-generational Bonding has received more than 100 project applications from 65 organisations and disbursed more than $500,000 in funding.</li>		
 	
-<li id="num10">“Australia Celebrates Baby Boom,” BBC, June 2, 2006, <a target="_blank" href="http://news.bbc.co.uk/1/hi/world/asia-pacific/5040582.stm">http://news.bbc.co.uk/1/hi/world/asia-pacific/5040582.stm</a> (accessed September 11, 2006).
-</li>			
-	
-<li id="num11">Dixon, Mike and Margo, Julia, Population Politics (London, UK: Institute of Public Policy Research, 2006).</li>		
-	
-<li id="num12">Grant, Jonathan et al., “Should ART be Part of a Population Policy Mix?” RAND Corporation, 2006. <a target="_blank" href="http://www.rand.org/pubs/documented_briefings/DB507/">http://www.rand.org/pubs/documented_briefings/DB507/</a> (accessed August 15, 2006).</li>	
-	
-<li id="num13">Chen, Gabriel, “1 in 10 S’poreans actively saved for retirement; Few saving though survey shows 61% fear that they may not have enough,” Straits Times, February 16, 2006.</li>	
-	
-<li id="num14">Calculated as a percentage of the average wage of $3444. Singapore Department of Statistics, “Monthly Digest of Statistics,” <a target="_blank" href="http://www.singstat.gov.sg/keystats/mqstats/mqstats.html">http://www.singstat.gov.sg/keystats/mqstats/mqstats.html</a> (accessed August 15, 2006)
-</li>
-
-<li id="num15">Queisser, Monika and Whitehouse, Edward, “Comparing the pension promises of 30 OECD countries,” International Social Security Review 56 (2006): 49-77.</li>
-	
-<li id="num16">Lim, Lydia, “How to bank on a pretty pension,” Straits Times, October 8, 2005.</li>	
-	
-<li id="num17">Department of Health and Ageing, “National Strategy for an Ageing Australia” (2001), <a target="_blank" href="http://www.health.gov.au/internet/wcms/Publishing.nsf/Content/ageing-ofoa-agepolicy-nsaa-nsaabk.htm">http://www.health.gov.au/internet/wcms/Publishing.nsf/Content/ageing-ofoa-agepolicy-nsaa-nsaabk.htm</a> (accessed August 15, 2006).
-</li>		
-	
-<li id="num18">Human Resource and Social Development Canada.. “About Human Resource and Social Development Canada” (2006),<a target="_blank" href="http://www.hrsdc.gc.ca/en/cs/comm/about_us.shtml"> http://www.hrsdc.gc.ca/en/cs/comm/about_us.shtml</a> (accessed August 15, 2006).</li>			
-
 	
 	
 	
