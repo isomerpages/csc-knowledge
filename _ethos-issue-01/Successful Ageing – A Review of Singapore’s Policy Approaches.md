@@ -229,7 +229,7 @@ INTER-GENERATIONAL BONDING</h3>
 	
 <li id="num5">The Eldercare Masterplan (2001-2005), spearheaded by the Ministry for Community, Youth and Sports, was a result of a broad-based review of elder care programmes and services conducted between June 1999 and July 2000.</li>	
 	
-<li id="num6">Ministry of Health, “MediFund was established with an initial capital of S$200 million and capital injections will be made when budget surpluses are available,” <a href="http://www.moh.gov.sg/corp/financing/index.do">http://www.moh.gov.sg/corp/financing/index.do</a></li>
+<li id="num6">Ministry of Health, “MediFund was established with an initial capital of S$200 million and capital injections will be made when budget surpluses are available,” <a target="_blank" href="http://www.moh.gov.sg/corp/financing/index.do">http://www.moh.gov.sg/corp/financing/index.do</a></li>
 	
 <li id="num7">Future of Retirement: Insights for Singapore (London, UK: HSBC, 2006). The report was authored by the Oxford Institute of Ageing under the directorship of Dr Sarah Harper.</li>	
 	
