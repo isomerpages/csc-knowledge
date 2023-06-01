@@ -141,14 +141,17 @@ li {
 <li id="num1">Egendorf, K. Laura, Aging Population (San Diego, CA: Greenhaven Press, 2002), pp 202.</li>
 	
 	
-<li id="num2">Burtless, Gary, “Does Population Aging Represent a Crisis for Rich Societies?,” American Economic Association (2002),<a href="http://www.brook.edu/views/papers/burtless/200220106.htm"> http://www.brook.edu/views/papers/burtless/200220106.htm</a> (accessed August 15 2006)</li>
-	
+<li id="num2">Burtless, Gary, “Does Population Aging Represent a Crisis for Rich Societies?,” American Economic Association (2002),<a target="_blank" href="http://www.brook.edu/views/papers/burtless/200220106.htm"> http://www.brook.edu/views/papers/burtless/200220106.htm</a> (accessed August 15 2006)</li>
 	
 <li id="num3">“S’pore firms ignoring elderly market: poll,” The Business Times, February 13, 2006, Singapore section.</li>
 	
 <li id="num4">Committee of Ageing Issues 2005, Report on the Ageing Population (Singapore: Ministry of Community, Youth and Sports, 2006).</li>
 	
+<li id="num5">5.	Department of Economic and Social Affairs, Population Division, United Nations, “Population Ageing 2006,”<a target="_blank" href="http://www.un.org/esa/population/publications/ageing/ageing2006.htm"> http://www.un.org/esa/population/publications/ageing/ageing2006.htm</a> (accessed August 15, 2006).</li>	
 	
+<li id="num6">Cabinet Office, Government of Japan, “Annual Report on the Japanese Economy and Public Finance 2005,” <a href="http://www5.cao.go.jp/zenbun/wp-e/wp-je05/05-00000.html">http://www5.cao.go.jp/zenbun/wp-e/wp-je05/05-00000.html</a>  (accessed August 15, 2006).</li>
+	
+<li id="num7">7.	National Institute of Population and Social Security Research, “Population Projections for Japan: 2001-2050,” (January, 2002),<a href="http://www.ipss.go.jp/pp-newest/e/ppfj02/top.html">http://www.ipss.go.jp/pp-newest/e/ppfj02/top.html</a> (accessed August 15, 2006).</li>	
 	
 	
 	
