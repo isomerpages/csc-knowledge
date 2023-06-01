@@ -142,14 +142,11 @@ li {
   
   
   
-<h4 class="title">About the BIT</h4>  
-  
-<p class="small-text text">The UK’s Behavioural Insights Team (BIT) was founded in 2010 by the Conservative-led coalition government to apply behavioural science insights in making public services more cost-effective and citizen-friendly, and to enable people to make better choices. BIT faced initial scepticism from civil servants and observers, but gradually gained credibility over the course of various projects with different agencies for its ability to design and implement “nudges” that improved agency outcomes at minimal cost. The BIT is now a company (jointly owned by its employees, the UK government, and innovation charity Nesta), with projects in over 15 countries and offices in London, New York, Sydney and Singapore. Here is what Rory Gallagher has to say about his new book.</p>  
+
   
   
   
-  
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">About the BIT</h3>  
