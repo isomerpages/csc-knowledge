@@ -52,13 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color:#ececda;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #879847;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -106,14 +108,12 @@ li {
   
   
   
-<h4 class="title">Behavioural Scaffolding at work: Redesigning Job Centre Processes</h4>  
-  
-<p class="small-text text">In Essex, BIT redesigned how job centre staff interacted with job seekers. Previously paperwork dominated interactions between centre staff and job seekers. After the changes, centre staff took job seekers through a process that:</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Behavioural Scaffolding at work: Redesigning Job Centre Processes</h3>  
