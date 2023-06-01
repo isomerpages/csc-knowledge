@@ -52,13 +52,17 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #ececda;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
 
+.containerbox h3 {
+	color: #629e75;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -147,7 +151,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Participation in the Growth Vouchers Programme (UK)</h3>  
@@ -199,12 +203,12 @@ li {
   
 <p>These factors interact with one another, and may vary in influence. For example, buying an energy efficient appliance, with its higher upfront cost, might be more strongly influenced by a person’s disposable income (personal capabilities). Whereas the practice of recycling is probably a result of one’s personal habits and the availability of recycling infrastructure (context). </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>It is important to identify each target behaviour and understand the relevant barriers to action.  
-Nudge effects may vary among contexts or situations which appear similar.</em></h5>  
+<p class="break1">It is important to identify each target behaviour and understand the relevant barriers to action.  
+	Nudge effects may vary among contexts or situations which appear similar.</p>
   
-<hr>  
+</div>  
   
 <p>In designing and implementing environmental nudges, it is important to identify each target behaviour and understand the relevant barriers to action (e.g. by using surveys, interviews, ethnographic methods or secondary research). Furthermore, it is also vital to track the results of behavioural interventions. Nudge effects may vary even among contexts or situations which appear similar. Nudging may also give rise to unintended side effects. For example, the heightened awareness that one’s appliances are efficient may inadvertently result in them being used more frequently than necessary, causing a rebound effect which reduces the effectiveness of the intervention. </p>  
   
@@ -216,7 +220,7 @@ Nudge effects may vary among contexts or situations which appear similar.</em></
   
 <p>However, nudges should not diminish people’s ability to choose how to act. Neither should they be seen as replacements for traditional policy tools.<a href="#endnotes-11"><sup>11</sup></a> Many behavioural interventions have been effective in part because of existing social and economic conditions established by traditional policy tools. For example, the use of energy labels to encourage people to buy more efficient appliances works partly because energy costs are priced correctly such that they promote sustainable consumption. Similarly, social norming interventions such as anti-littering posters are effective due to the possibility of sanction for violating such norms, e.g. fines. In essence, nudges serve not to replace, but to complement traditional policy interventions in addressing cognitive biases and social barriers that hinder people’s willingness and ability to become more environmentally friendly.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -224,7 +228,7 @@ Nudge effects may vary among contexts or situations which appear similar.</em></
   
 <p class="small-text">The author thanks Huang Jianyun, Tan Xue Ying, Christiana Chua, Luo Yuzheng and the rest of EBERU for their support and help in writing this article.</p>  
   
-<hr>  
+</div>  
   
 <h6>NOTES</h6>  
   
@@ -267,9 +271,8 @@ Nudge effects may vary among contexts or situations which appear similar.</em></
     </li>  
 </ol>  
   
-<br>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+  
 
 
 
