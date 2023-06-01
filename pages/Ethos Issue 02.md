@@ -143,7 +143,7 @@ has the know-how and track record to position itself as the
 	<div>
 		<h3>Implications of Prospect Theory on Road Pricing</h3>
 		<b><i>Anthony T. H. Chin</i></b>
-		<p>Technology, thoughtfully applied to complement and support the workforce, could deepen collective good rather than anxiety.</p>
+		<p>While the economic costs of traffic congestion are well documented, the effectiveness of economic instruments, such as road pricing, in containing traffic congestion is less clear. Prospect Theory, a leading behavioural model in experimental economics, may explain inelastic driver behaviour in response to road pricing during peak hours. It may also shed light on the phenomenon of consumers who continue driving despite its higher economic cost relative to other modes of transport.</p>
 		<div class="button1"><a href="/ethos-issue-18/making-technology-work-for-workers/">Read more</a></div>
 	</div>
 </div>
