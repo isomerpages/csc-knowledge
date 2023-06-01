@@ -160,6 +160,25 @@ li {
 <li id="num10">“Australia Celebrates Baby Boom,” BBC, June 2, 2006, <a href="http://news.bbc.co.uk/1/hi/world/asia-pacific/5040582.stm">http://news.bbc.co.uk/1/hi/world/asia-pacific/5040582.stm</a> (accessed September 11, 2006).
 </li>			
 	
+<li id="num11">Dixon, Mike and Margo, Julia, Population Politics (London, UK: Institute of Public Policy Research, 2006).</li>		
+	
+<li id="num12">Grant, Jonathan et al., “Should ART be Part of a Population Policy Mix?” RAND Corporation, 2006. <a href="http://www.rand.org/pubs/documented_briefings/DB507/">http://www.rand.org/pubs/documented_briefings/DB507/</a> (accessed August 15, 2006).</li>	
+	
+<li id="num13">Chen, Gabriel, “1 in 10 S’poreans actively saved for retirement; Few saving though survey shows 61% fear that they may not have enough,” Straits Times, February 16, 2006.</li>	
+	
+<li id="num14">Calculated as a percentage of the average wage of $3444. Singapore Department of Statistics, “Monthly Digest of Statistics,” <a href="http://www.singstat.gov.sg/keystats/mqstats/mqstats.html">http://www.singstat.gov.sg/keystats/mqstats/mqstats.html</a> (accessed August 15, 2006)
+</li>
+
+<li id="num15">Queisser, Monika and Whitehouse, Edward, “Comparing the pension promises of 30 OECD countries,” International Social Security Review 56 (2006): 49-77.</li>
+	
+<li id="num16">Lim, Lydia, “How to bank on a pretty pension,” Straits Times, October 8, 2005.</li>	
+	
+<li id="num17">Department of Health and Ageing, “National Strategy for an Ageing Australia” (2001), <a href="http://www.health.gov.au/internet/wcms/Publishing.nsf/Content/ageing-ofoa-agepolicy-nsaa-nsaabk.htm">http://www.health.gov.au/internet/wcms/Publishing.nsf/Content/ageing-ofoa-agepolicy-nsaa-nsaabk.htm</a> (accessed August 15, 2006).
+</li>		
+	
+	
+
+	
 	
 	
 </ol>	
