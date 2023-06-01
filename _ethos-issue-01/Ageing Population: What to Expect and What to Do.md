@@ -273,7 +273,7 @@ Privatisation, public-private partnerships and private initiatives will play a k
   
 <h6>ABOUT THE AUTHOR</h6>  
   
-<p class="small-text"><strong>Professor Norbert Walter</strong>  is Chief Economist of Deutsche Bank Group. He manages Deutsche Bank Research, Deutsche Bank's think tank, which covers, inter alia, economic forecasting, country rating and sector analysis. Services are rendered to the Bank's board, staff, customers and the general public. In addition to holding these responsibilities at Deutsche Bank, Professor Walter is a member of the Inter-Institutional Monitoring Group for securities markets. For more information, please visit Professor Walter's Homepage www.norbert-walter.com</p>  
+<p class="small-text"><strong>Professor Norbert Walter</strong>  is Chief Economist of Deutsche Bank Group. He manages Deutsche Bank Research, Deutsche Bank's think tank, which covers, inter alia, economic forecasting, country rating and sector analysis. Services are rendered to the Bank's board, staff, customers and the general public. In addition to holding these responsibilities at Deutsche Bank, Professor Walter is a member of the Inter-Institutional Monitoring Group for securities markets. For more information, please visit Professor Walter's Homepage <a href="www.norbert-walter.com">www.norbert-walter.com</a></p>  
   
 </div>  
 
