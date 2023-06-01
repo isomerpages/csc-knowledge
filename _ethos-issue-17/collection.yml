@@ -2,6 +2,7 @@ collections:
   ethos-issue-17:
     output: true
     order:
+      - Data Science in Public Policy — The New Revolution?.md
       - Making Policies More Effective, Scalable, Customised and Sustainable.md
       - The Hidden Costs of Behavioural Interventions.md
       - Mindful Choice Making.md
