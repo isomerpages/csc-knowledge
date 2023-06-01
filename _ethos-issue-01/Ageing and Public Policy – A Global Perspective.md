@@ -144,7 +144,16 @@ li {
 <li id="num2">Burtless, Gary, “Does Population Aging Represent a Crisis for Rich Societies?,” American Economic Association (2002),<a href="http://www.brook.edu/views/papers/burtless/200220106.htm"> http://www.brook.edu/views/papers/burtless/200220106.htm</a> (accessed August 15 2006)</li>
 	
 	
-<li id="num3">Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, <a target="_blank" href="https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
+<li id="num3">“S’pore firms ignoring elderly market: poll,” The Business Times, February 13, 2006, Singapore section.</li>
+	
+<li id="num4">Committee of Ageing Issues 2005, Report on the Ageing Population (Singapore: Ministry of Community, Youth and Sports, 2006).</li>
+	
+	
+	
+	
+	
+	
+	
 </ol>	
 
 
