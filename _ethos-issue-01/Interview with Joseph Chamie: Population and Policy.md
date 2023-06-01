@@ -136,7 +136,7 @@ What is happening in Singapore, Japan, Europe and other places with low fertilit
 <p>Some of the adjustments that will have to be made are obvious, such as active ageing: encouraging the elderly to stay on working much longer, keeping them well-trained, competitive, physically active, healthy, etc., and as a result, reducing the costs of the ageing process, and the burden on healthcare. One thing that is common in the US and Canada but less so in other societies, is volunteering, where retirees say: “I have my pension and now I’m going to volunteer my time.” All these things could help make retirement much more rewarding and much more fulfilling for the individual, as well as helping the society at large.</p>
 
 	
-<h3>Has the nature of ageing changed over the years?How might a greying population alter the complexion of society?</h3>  
+<h3>Has the nature of ageing changed over the years? How might a greying population alter the complexion of society?</h3>  
   
 <p>Throughout most of history, people did not have “golden years”. You worked your whole life and then depended on your children to take care of you when you were elderly and frail. In exchange, you took care of the grandchildren or dispensed advice. The government did not get involved. But now the level of income and the well-being of the elderly have improved tremendously because of economic structures, private investments and government policies to provide social security and healthcare. So these people now look forward to what we call the “golden years” — that is relatively recent.</p>  
 
