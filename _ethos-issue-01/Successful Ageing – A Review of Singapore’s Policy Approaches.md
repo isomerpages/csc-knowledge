@@ -209,7 +209,7 @@ INTER-GENERATIONAL BONDING</h3>
   
 <h6>ABOUT THE AUTHOR</h6>  
   
-<p class="small-text"><strong>Andrew Kwok</strong> is a Research Associate at the Institute of Policy Development, Civil Service College. </p>  
+<p class="small-text"><strong>Olivia Goh</strong> is an Elderly Policy Officer with the Social Support Division of the Ministry of Community Development, Youth and Sports.</p>  
   
 </div>  
 
