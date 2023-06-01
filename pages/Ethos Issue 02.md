@@ -151,22 +151,24 @@ has the know-how and track record to position itself as the
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Trends_and_Shifts_in_Employment.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Wanted_An_Ambitious_Vision_For_Singapore_Public_Transport.jpg"></div>
 	<div>
-		<h3>Trends and Shifts in Employment: Singapore’s Workforce</h3>
-		<b><i>by Augustin Lee</i></b>
-		<p>Worldwide shifts in employment patterns may challenge the assumptions underlying current manpower policies.</p>
+		<h3>Wanted — An Ambitious Vision for Singapore’s Public Transport</h3>
+		<b><i>Paul Barter</i></b>
+		<p>In order for public transport in Singapore to compete with the lure
+of private cars, a radical overhaul in regulation and organisation
+may be necessary.</p>
 		<div class="button1"><a href="/ethos-issue-18/trends-and-shifts-in-employment-singapore-s-workforce/">Read more</a></div>
 	</div>
 </div>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_The_Grab_Story.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Qualtiy_Of_Life.jpg"></div>
 	<div>
-		<h3>Public Value through Private Partnerships: The Grab Story</h3>
-		<b><i>by Zafrul Hashim</i></b>
-		<p>A five-year-old technology platform is harnessing public, corporate and individual partnerships to transform urban Southeast Asia.</p>
+		<h3>Quality of Life in Singapore</h3>
+		<b><i>Tan Li San</i></b>
+		<p>Can Singapore become one of the world’s most liveable cities in the 21st century?</p>
 		<div class="button1"><a href="/ethos-issue-18/public-value-through-private-partnerships-the-grab-story/">Read more</a></div>
 	</div>
 </div>
@@ -176,8 +178,8 @@ has the know-how and track record to position itself as the
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Navigating_the_New_Economy.jpg"></div>
 	<div>
-		<h3>Navigating the New Economy: A Future that Works</h3>
-		<b><i>by Andrea Phua</i></b>
+		<h3>Wanted — An Ambitious Vision for Singapore’s Public Transport</h3>
+		<b><i>Paul Barter</i></b>
 		<p>Success in a changing world will demand more than technical skills: it&nbsp;will call for adaptability, empathy and&nbsp;a deeper sense of meaning.</p>
 		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
