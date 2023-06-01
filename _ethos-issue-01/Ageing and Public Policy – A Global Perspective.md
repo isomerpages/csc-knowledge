@@ -151,9 +151,14 @@ li {
 	
 <li id="num6">Cabinet Office, Government of Japan, “Annual Report on the Japanese Economy and Public Finance 2005,” <a href="http://www5.cao.go.jp/zenbun/wp-e/wp-je05/05-00000.html">http://www5.cao.go.jp/zenbun/wp-e/wp-je05/05-00000.html</a>  (accessed August 15, 2006).</li>
 	
-<li id="num7">7.	National Institute of Population and Social Security Research, “Population Projections for Japan: 2001-2050,” (January, 2002),<a href="http://www.ipss.go.jp/pp-newest/e/ppfj02/top.html">http://www.ipss.go.jp/pp-newest/e/ppfj02/top.html</a> (accessed August 15, 2006).</li>	
+<li id="num7">National Institute of Population and Social Security Research, “Population Projections for Japan: 2001-2050,” (January, 2002),<a href="http://www.ipss.go.jp/pp-newest/e/ppfj02/top.html">http://www.ipss.go.jp/pp-newest/e/ppfj02/top.html</a> (accessed August 15, 2006).</li>	
 	
+<li id="num8">General Household Survey 2005, (Singapore: Department of Statistics, 2005).</li>		
 	
+<li id="num9">Thornhill, John, “French Population prediction rises sharply,” Financial Times, May 12, 2006.</li>		
+	
+<li id="num10">“Australia Celebrates Baby Boom,” BBC, June 2, 2006, <a href="http://news.bbc.co.uk/1/hi/world/asia-pacific/5040582.stm">http://news.bbc.co.uk/1/hi/world/asia-pacific/5040582.stm</a> (accessed September 11, 2006).
+</li>			
 	
 	
 	
