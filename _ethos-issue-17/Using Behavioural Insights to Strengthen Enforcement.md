@@ -131,14 +131,14 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Encouraging Property Owners to Pay on Time</h3>  
 <h5>The Problem</h5>  
 <p class="text">IRAS wanted to encourage people with overdue property taxes to pay their taxes immediately. Their proposed solution involved sending trial text messages to encourage immediate action on property tax.</p>  
 <div style="width: 200px;" class="figure-image align-right">  
-<img title="17-property-tax-1" style="float: right;" src="../../images/default-source/ethos-images/ethos-issue-17/17-property-tax-1.jpg?sfvrsn=fbd93171\_2&amp;MaxWidth=200&amp;MaxHeight=&amp;ScaleUp=false&amp;Quality=High&amp;Method=ResizeFitToAreaArguments&amp;Signature=47C5DC79DF4FB39382CC79E4F97CA51AF36DE9EF" data-method="ResizeFitToAreaArguments" data-displaymode="Custom" data-customsizemethodproperties="{'MaxWidth':'200','MaxHeight':'','ScaleUp':false,'Quality':'High'}" alt="17-property-tax-1">&nbsp;  
+<img title="17-property-tax-1" style="float: right;" src="/images/Ethos_Images/Ethos_Issue_17/17_Property_Tax_1.jpg" alt="17-property-tax-1">&nbsp;  
 <p class="small-text text">Figure 1: Trial Text Message to Encourage Immediate Action on Property Tax</p>  
 </div>  
 <h5>The Trial</h5>  
@@ -163,7 +163,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Understanding How Nudges Interact</h3>  
@@ -174,7 +174,7 @@ li {
 <h5>Redesign of Envelopes</h5>  
 <p class="text">The front of the envelopes accompanying renewal notices was redesigned to enhance the saliency of settling road tax on time, by adding a prominent and explicit call to action that reads “Renew Your Road Tax online in 3 minutes”. A social norm statement was added to the back of the envelopes, citing the high proportion of vehicle owners who renew their road tax on time (Figure 2).</p>  
 <div class="figure-image">  
-<img src="../../images/default-source/ethos-images/ethos-issue-17/17-trial-1.png" alt="Envelopes">  
+<img src="/images/Ethos_Images/Ethos_Issue_17/17_Trial_1.png" alt="Envelopes">  
 <p>Figure 2. Back of Accompanying Envelopes – Previous and Redesigned Versions</p>  
 <h5>Redesign of Renewal Notice</h5>  
 <p class="text">The renewal notice itself was also redesigned to include a simplified message, stating renewal and expiry deadlines. LTA also tested the effects of two messages:</p>  
@@ -184,7 +184,7 @@ li {
 </ul>  
 <p class="text">To test the effects of both the redesigned envelope and letters, the randomised controlled trial consisted of three treatment groups (Table 1).</p>  
 <div style="width: 300px;" class="figure-image align-left">  
-<img src="../../images/default-source/ethos-images/ethos-issue-17/17-table-1.jpg" alt="Results">  
+<img src="/images/Ethos_Images/Ethos_Issue_17/17_Table_1.jpg" alt="Results">  
 <p class="small-text text">Table 1. RCT Design – Treatment groups and control group</p>  
 <p class="small-text text">\* All treatment effects were statistically significant at the 5% level (as compared to the control group). Newly registered vehicles were excluded from this analysis.</p>  
 </div>  
@@ -209,13 +209,12 @@ li {
   
   
   
-  
-<p class="small-text text">Motorists who are late in making payment receive reminder letters to settle their parking offences, failing which, court action would be taken. The Urban Redevelopment Authority (URA) wanted to test if more clearly worded and better designed letters could encourage motorists to take action promptly and reduce the number of late payers downstream.</p>  
-  
+
   
   
   
-<div class="container">  
+
+<div class="containerbox">  
   
   
 <h3 class="title">Increasing Compliance to Payment of Parking Fines</h3>  
@@ -247,7 +246,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Nudging Overdue Customers</h3>  
@@ -264,7 +263,7 @@ li {
 <p class="text">The RCT was conducted with 1,774 vehicle owners. A control version (old Advisory Note) and five treatment versions of a revised Advisory Note were tested (see Table 2).</p>  
 <p>&nbsp;</p>  
 <div style="width: 300px;" class="figure-image align-right">  
-<img src="../../images/default-source/ethos-images/ethos-issue-17/17-table-2.jpg" alt="Control and Treatment Versions">  
+<img src="/images/Ethos_Images/Ethos_Issue_17/17_Table_2.jpg" alt="Control and Treatment Versions">  
 <p class="small-text text">Table 2. Control and Treatment Versions of the Advisory Note</p>  
 </div>  
 <h5>The Results</h5>  
