@@ -2,6 +2,7 @@ collections:
   ethos-issue-17:
     output: true
     order:
+      - ‘Nudging’ Singapore to be Cleaner and Greener.md
       - Using Behavioural Insights to Strengthen Enforcement.md
       - Healthy Living, Everyday.md
       - Data Science in Public Policy — The New Revolution?.md
