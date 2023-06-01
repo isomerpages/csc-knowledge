@@ -123,24 +123,24 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Supporting_Job_Growth_and_Worker_Prosperity.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Supporting Job Growth and Worker Prosperity in a New Era of Automation</h3>
+		<b><i>by Eoin Daly and Richard Dobbs</i></b>
+		<p>With the advent of advanced automation, governments have a critical role to play in responding to workforce transitions.</p>
+		<div class="button1"><a href="/ethos-issue-18/supporting-job-growth-and-worker-prosperity-in-a-new-era-of-automation/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Making_Technology_Work_for_Workers.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Making Technology Work for Workers</h3>
+		<b><i>by Genevieve Ding</i></b>
+		<p>Technology, thoughtfully applied to complement and support the workforce, could deepen collective good rather than anxiety.</p>
+		<div class="button1"><a href="/ethos-issue-18/making-technology-work-for-workers/">Read more</a></div>
 	</div>
 </div>
 
