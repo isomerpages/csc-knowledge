@@ -15,6 +15,24 @@ description: ""
 {
 	width:100%;
 }
+
+.global-shifts
+{
+background-color: #a58b56;	
+padding: 20px;
+color: white;
+}
+
+.global-shifts h2
+{
+color: white;
+}	
+	
+.global-shifts h3
+{
+color: white;
+}		
+	
 	
 .populations-trends
 {
@@ -216,40 +234,48 @@ Privatisation, public-private partnerships and private initiatives will play a k
 
 <p>Europe has generally recognised that pay-as-you-go pension systems alone are not a sustainable solution for retirement income and must therefore be supplemented by funded pension systems. Currently, 80% of an average pensioner’s income is state-financed in Germany, compared with 45% in the US and 65% in the UK. Retirement provision, and thus asset management, will profit most from the ageing process in Europe, as the volumes of institutionally managed assets in many Continental European countries such as Germany, Spain and Italy, are considerably smaller than that in the US and Britain.</p>
 
+<div class="global-shifts">
+<h2>GLOBAL SHIFTS IN SAVINGS AND INVESTMENT</h2>
+	
+<p>Population ageing and decline will influence global economic and political power structures as well as international capital flows and exchange rates. Already, there have been endless debates on the current global imbalance and the need for Americans to save more and Asians to spend more. Generally, there is scope for Asians to spend more based on the overall increase in population size between now and 2050, but this will not necessarily apply in countries such as China, South Korea and Singapore, where the domestic population will shrink in a few decades’ time. In the future, savings plans will have to take into account a higher dependency ratio in these countries.</p>	
+	
+<p>Inter-regional and inter-temporal differences in ageing result in divergent saving and yield effects (“demographic arbitrage”). Over the next few years, saving and capital accumulation will probably focus on the European countries –where baby boomers are in their main saving phase – providing great opportunities for asset managers.</p>	
+	
+<p>Lending will tend to shift increasingly to the US, Asia and Latin America, where large numbers of young people are expected to be seeking loans and equity capital for business and private purposes. However, the absorption capacity of younger emerging countries could be a limiting factor. Political and economic stability in the emerging markets are essential premises for the stronger inflow of capital. Given this trend, lenders and borrowers will place rising demands on risk management for credit and currency businesses.</p>
+	
+<p>There is considerable growth potential in countries where birth rates have fallen only in the last 10 to 20 years or where the population continues to grow. If this demographic window of opportunity is combined with favourable political and economic conditions, the growth potential is high. Countries that fall into this category include those in Asia (India, Indonesia and the Philippines), Latin America (Argentina, Brazil and Mexico), and the US.</p>	
+	
+<p>Foreign capital investment by European countries in the younger economies of South America and Asia is expected to increase substantially, and also in the Middle East and Northern Africa depending on political and economic developments. OECD calculations suggest that G3 net foreign assets will expand strongly until about 2030, and then fall again via current account deficits of up to 3%of  GDP. – Norbert Walter</p>	
+	
+</div>	
+	 
+	 
+<h3>DEMOGRAPHIC CHANGE AND CORPORATE BEHAVIOUR</h3>	 
+	 
+<p>The ability of ageing European societies and economies to adapt and adjust is crucial to master the challenges of a demographic decline. The job must not fall solely to the public sector; we must enlist the help of everyone. Privatisation, public-private partnerships and private initiatives will play a key role in absorbing the pressure on public finances and social systems.</p>	 
+	 
+<p>Private-sector entities must be made aware of the challenges facing them as the labour pool shrinks. Demand for less qualified staff is likely to continue to fall in the future, making it unrealistic to hope that the problem of unemployment will be solved by demographic change. The competition for highly qualified employees (“war for talents”) is likely to become more intense and inflate salaries for this group.</p>
+
+<h3>CONCLUSION</h3>
+
+<p>The impact of the demographic shift will be wide-ranging, leading to changes in the way various sectors operate as well as the way individuals live. Appropriate migration policy should help mitigate some of the negative implications in the countries with a shrinking population, but it will not reverse the overall population trend.</p>
+
+<p>In preparation for a smaller pool of labour in the next few decades, more economically-inactive persons need to be enticed to enter the workforce. These include women and the elderly. However, suitable work arrangements for women must be arranged so as not to depress the birth rate further. Furthermore, stretching the working life will be necessary to reduce the burden on the active population. This must be supported by life-long learning and improvements in the health and recreation sectors. The government must raise public awareness of the implications of an ageing society in addition to thoroughly preparing key sectors such as education and healthcare in the coming decades.</p>
+
+<p>Pension schemes will have to enlist the help of all stakeholders. Priorities must be reviewed in order to make sufficient provision for old age. In addition, expectations for investment returns must be realistic. The scope of investment activity will certainly have to be enlarged, which will necessitate an upgrading of risk management and capital market efficiency in emerging markets.</p>
 
 
+	 
+	 
 	 
   
 <div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
-<p class="small-text"><strong>Dr Sarah Harper</strong> is Director of The Oxford Institute of Ageing at the University of Oxford.  She is lead investigator on the Ageing Workforce Programme and the Impact of Migration on Families Programme.  She has also completed a recent study on Extending Late Life Work, and a collaborative six-country study on grandparenthood across Western Europe, funded by the European Union.</p>  
+<p class="small-text"><strong>Professor Norbert Walter</strong>  is Chief Economist of Deutsche Bank Group. He manages Deutsche Bank Research, Deutsche Bank's think tank, which covers, inter alia, economic forecasting, country rating and sector analysis. Services are rendered to the Bank's board, staff, customers and the general public. In addition to holding these responsibilities at Deutsche Bank, Professor Walter is a member of the Inter-Institutional Monitoring Group for securities markets. For more information, please visit Professor Walter's Homepage www.norbert-walter.com</p>  
   
 </div>  
-
-
-<p class="small-text" style="font-weight: bold; letter-spacing: 1px;"><a name="notes"></a>NOTES</p>  
-  
-<ol>
-	
-<li id="num1">Singapore Department of Statistics, Key Annual Indicators, <a href="http://www.singstat.gov.sg/keystats/annual/indicators.html">http://www.singstat.gov.sg/keystats/annual/indicators.html</a> (accessed September 1, 2006).
-</li>
-	
-	
-<li id="num2">Leeson, G. W., The Demographics and Economics of UK Health and Social Care for Older Adults (Oxford: Oxford Institute of Ageing, University of Oxford, 2004).</li>
-	
-<li id="num3">Financing and Delivering Health Care: A Comparative Analysis of OECD Countries (Paris: Organisation for Economic Co-operation and Development, 1987).</li>
-	
-<li id="num4">Seshamani, M and Grey, M, “The Impact of Ageing on Expenditures in the National Health Service”, Age and Ageing 31 (2002):287-94.</li>
-	
-<li id="num5">Heller, P. S., Who will Pay?: Coping with Aging Societies, Climate Change, and other Long-term Fiscal Challenges (Washington, D.C.: International Monetary Fund, 2003), pp14.</li>	
-	
-<li id="num6">Singapore Department of Statistics, 2006.</li>
-	
-<li id="num7">HSBC, The Future of Retirement (London: HSBC, 2006) is a global research commissioned by HSBC, in consultation with Oxford Institute of Ageing and Age Wave, and conducted by Harris Interactive. It involved 21,329 adults across 20 countries – UK, USA, Hong Kong, China, Japan, Brazil, India, Canada, Mexico, France, Singapore, Saudi Arabia, Malaysia, Germany, Indonesia, Egypt, Poland, Russia, Turkey and Sweden.</li>	
-	
-</ol>	
 
 
 
