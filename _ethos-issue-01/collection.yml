@@ -2,10 +2,10 @@ collections:
   ethos-issue-01:
     output: true
     order:
-      - "Ageing Population: What to Expect and What to Do.md"
       - Foreword.md
       - Editorial.md
       - "Interview with Joseph Chamie: Population and Policy.md"
       - Ageing and Public Policy – A Global Perspective.md
       - Successful Ageing – A Review of Singapore’s Policy Approaches.md
       - "Ageing Repositioned: Singapore in the New Global Demography.md"
+      - "Ageing Population: What to Expect and What to Do.md"
