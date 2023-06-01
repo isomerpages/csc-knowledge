@@ -52,13 +52,21 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
 
+.containerbox strong { 
+
+	}	
+	
+.purplestr {
+	color: purple;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -92,12 +100,12 @@ li {
   
 <p>Most people often lack the expertise or time to make careful deliberations based on complete information. Interventions that ease rational decision making — by providing information, de-biasing decision making, or reducing the costs of decision processes — are likely to be welfare enhancing, because they do not compromise autonomy. Instead, they help decision makers achieve their own objectives more efficiently. In Sunstein’s terms, such interventions ‘increase navigability’: they guide decision makers much as a good map does, but the decision maker ultimately chooses the destination. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>In general, interventions that ease rational decision making - by providing information, de-biasing decision making, or reducing the costs of decision processes - are likely to be welfare enhancing,  
-because they do not compromise autonomy.</em></h5>  
+<p class="break1">In general, interventions that ease rational decision making - by providing information, de-biasing decision making, or reducing the costs of decision processes - are likely to be welfare enhancing,  
+because they do not compromise autonomy.</p>  
   
-<hr>  
+</div>  
   
 <p>The best interventions target specific problems of decision making such as our inability to compute complex financial sums, and our tendency to procrastinate and fail to plan for the future. For instance, the Central Provident Fund Board (CPFB) in Singapore has employed behavioural interventions to help members become more informed about their retirement savings, and to encourage members to plan for retirement. In 2016, the CPFB simplified CPF members’ account statements, using visual cues and graphical summaries to highlight the most salient information. They also added a salient, gain-framed financial tip to nudge members to prepare for retirement: Members were told exactly how much additional interest they would earn by the age of 65 for each $1,000 they transfer from their Ordinary Accounts to their Special Accounts.<a href="#endnotes-3"><sup>3</sup></a>  Since most people have difficulty understanding compound interest,<a href="#endnotes-4"><sup>4</sup></a>  such nudges could motivate CPF members to take early action to prepare for retirement.</p>  
   
@@ -126,8 +134,8 @@ because they do not compromise autonomy.</em></h5>
   
   
   
-<div class="container">  
-<p class="small-text text">Nobel Laureate Daniel Kahneman divides <strong>human decision making</strong> into two modes: <strong>System 1</strong> which is quick but driven by subconscious heuristics, emotions, and instincts, and <strong>System 2</strong> which is slow, but deliberative and rational.</p>  
+<div class="containerbox">  
+<p class="small-text text"><span style="color: #01a39f; font-weight: bold;">Nobel Laureate Daniel Kahneman divides human decision makinginto two modes:</span> <strong style="color: purple;">System 1</strong> which is quick but driven by subconscious heuristics, emotions, and instincts, and <strong style="color: purple;">System 2</strong> which is slow, but deliberative and rational.</p>  
 <p class="small-text text">Behavioural interventions that support System 2 decision making, and avoid exploiting the cognitive biases inherent to System 1, are likely to enhance welfare because they help people accomplish their own deliberative, long-term goals.</p>  
 <p class="small-text text"><small>Source: Daniel Kahneman, Thinking, Fast and Slow, (New York, USA:Farrar, Straus and Giroux, 2011).</small></p>  
 <p>&nbsp;</p>  
@@ -139,11 +147,11 @@ because they do not compromise autonomy.</em></h5>
   
 <p>Changing policy outcomes is also not the same thing as changing the minds of decision makers. A 2014 survey on organ donation in Singapore suggests that only 60% of those surveyed were willing to donate their organs, even though very few actually actively opted out.<a href="#endnotes-10"><sup>10</sup></a> For the policy default to be a real nudge, policymakers need to make a concerted effort to ensure that individuals are aware of the real consequences of their decision (or lack of a decision). Otherwise, a policy default is a shove rather than a nudge, and may have repercussions if the public believes that a decision has been made against their own preferences.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>Policymakers recognise that emotions and biases may cloud rational judgement, but the same concerns apply to policy interventions which leverage cognitive biases.</em></h5>  
+<p class="break1">Policymakers recognise that emotions and biases may cloud rational judgement, but the same concerns apply to policy interventions which leverage cognitive biases.</p>  
   
-<hr>  
+</div>  
   
 <h3>Interventions that leverage social norms and alter perceptions of what is socially acceptable</h3>  
   
@@ -159,11 +167,11 @@ because they do not compromise autonomy.</em></h5>
   
 <p>Every behavioural intervention that is narrowly focused on a specific policy goal may impose a small, but cumulative, cognitive tax on members of the public. A barrage of such nudges may gradually deplete our capacity to plan and make good decisions.<a href="#endnotes-16"><sup>16</sup></a>  Society accepts that constant exposure to commercial interventions may be harmful, which is why many cities, including Singapore, regulate billboards and outdoor advertising. But policy interventions are not as easily ignored as commercial advertising: they make use of official government channels to reach members of the public wherever they are. Policymakers must therefore regulate themselves; they must ask whether an intervention is truly necessary, given the potential cognitive costs on society.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>The persistent use of norm-shaping interventions may increase social polarisation, and prime society to discriminate more harshly against minority behaviours. It may also eventually replace altruism with social obligation; people may be forced to act kind, rather than feel any intrinsic motivation to be kind.</em></h5>  
+<p class="break1">The persistent use of norm-shaping interventions may increase social polarisation, and prime society to discriminate more harshly against minority behaviours. It may also eventually replace altruism with social obligation; people may be forced to act kind, rather than feel any intrinsic motivation to be kind.</p>  
   
-<hr>  
+</div>  
   
 <h3>Conclusion: Weighing behavioural interventions</h3>  
   
@@ -175,7 +183,7 @@ because they do not compromise autonomy.</em></h5>
   
 <p>Finally, policymakers must exercise discretion and even restraint when considering behavioural interventions, particularly because they are relatively easy to implement. Greater openness and scrutiny of behavioural interventions from public agencies will be helpful; the commitment that many public agencies have made to share their findings publicly is an excellent start. In the longer term, we believe that creating an institutional process to coordinate and evaluate behavioural interventions across the whole of government will help to ensure that interventions continue to make everyone in society better off.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -183,7 +191,7 @@ because they do not compromise autonomy.</em></h5>
   
 <p class="small-text"><strong>Ong Qiyan</strong> is Deputy Director of Research, Social Service Research Centre, National University of Singapore. She received her PhD from the Nanyang Technological University. A behavioural economist by training, her current focus is on bringing behavioural science to social services to generate new insights and stimulate innovative solutions.</p>  
   
-<hr>  
+</div>  
   
 <h6>NOTES</h6>  
   
@@ -238,13 +246,8 @@ because they do not compromise autonomy.</em></h5>
     </li>  
 </ol>  
   
-<br>  
+
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
-
-
-
 <br>
 <br>	
 <div class="back">
