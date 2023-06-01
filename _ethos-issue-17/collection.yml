@@ -1,4 +1,5 @@
 collections:
   ethos-issue-17:
     output: true
-    order: []
+    order:
+      - "Project Tap out: Nudging Commuter Habits with Behavioural Insights.md"
