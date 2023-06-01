@@ -2,6 +2,7 @@ collections:
   ethos-issue-17:
     output: true
     order:
+      - The Hidden Costs of Behavioural Interventions.md
       - Mindful Choice Making.md
       - Re thinking Public Innovation.md
       - The Making of Behavioural Economics.md
