@@ -79,7 +79,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Creative_Cities.jpg"></div>
 	<div>
 		<h3>Creative Cities: Can they be Comfortable?</h3>
-		<b><i>by Peter Hall</i></b>
+		<b><i>Peter Hall</i></b>
 		<p>Many urban centres aspire to be creative global cities, but they should be prepared to embrace the tensions and turbulence of genuiue change.</p>
 		<div class="button1"><a href="/ethos-issue-18/public-service-4/">Read more</a></div>
 	</div>
@@ -91,7 +91,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Managing_Singapore's_Land_Needs.jpg"></div>
 	<div>
 		<h3>Managing Singapore’s Land Needs</h3>
-		<b><i>by Melissa Sapuan</i></b>
+		<b><i>Melissa Sapuan</i></b>
 		<p>Visionary urban planning transformed a tiny island nation into a bustling business hub.  Now Singapore has set its sights on becoming a distinctive global city.</p>
 		<div class="button1"><a href="/ethos-issue-18/governance-amid-technological-disruption-a-vision-for-an-agile-public-service/">Read more</a></div>
 	</div>
@@ -103,7 +103,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Homes_For_A_Nation.jpg"></div>
 	<div>
 		<h3>Homes for a Nation — Public Housing in Singapore</h3>
-		<b><i>by Yap Chin Beng</i></b>
+		<b><i>Yap Chin Beng</i></b>
 		<p>To meet the changing needs and aspirations of a more affluent and diverse population, Singapore’s public housing will have to evolve in significant new directions in the coming decades.</p>
 		<div class="button1"><a href="/ethos-issue-18/the-digital-social-contract-and-e-legitimacy/">Read more</a></div>
 	</div>
@@ -115,7 +115,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Waste_Management_In_Singapore.jpg"></div>
 	<div>
 		<h3>Water Management in Singapore</h3>
-		<b><i>by Cecilia Tortajada</i></b>
+		<b><i>Cecilia Tortajada</i></b>
 		<p>Singapore has developed from a water-scarce developing nation to a world leader in the field of water management in the space of three decades. Dr Cecilia Tortajada reviews the city-state's water practices and strategies in detail.</p>
 		<div class="button1"><a href="/ethos-issue-18/the-digital-work-economy-and-our-human-future/">Read more</a></div>
 	</div>
@@ -127,7 +127,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Images/Teaser_Pictures/Interview.jpg"></div>
 	<div>
 		<h3>Interview with Asit K. Biswas: Singapore as a Global Water Knowledge Hub</h3>
-		<b><i>by Asit K. Biswas</i></b>
+		<b><i>Asit K. Biswas</i></b>
 		<p>One of the world’s leading authorities on water, Professor Asit
 K. Biswas is also the President of the Third World Centre for Water Management in Mexico. Speaking to Ethos, he argues that Singapore
 has the know-how and track record to position itself as the
@@ -139,10 +139,10 @@ has the know-how and track record to position itself as the
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Making_Technology_Work_for_Workers.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Implications_Of_ProspectTheory_OnRoad_Pricing.jpg"></div>
 	<div>
-		<h3>Making Technology Work for Workers</h3>
-		<b><i>by Genevieve Ding</i></b>
+		<h3>Implications of Prospect Theory on Road Pricing</h3>
+		<b><i>Anthony T. H. Chin</i></b>
 		<p>Technology, thoughtfully applied to complement and support the workforce, could deepen collective good rather than anxiety.</p>
 		<div class="button1"><a href="/ethos-issue-18/making-technology-work-for-workers/">Read more</a></div>
 	</div>
