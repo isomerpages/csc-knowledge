@@ -152,27 +152,21 @@ How industrial economies address their new demographic structures will also have
   
 <ol>
 	
-<li id="num1">Report on the Committee on the Problems of the Aged, (Ministry of Health, February 1984), <br>pp24-26.</li>
+<li id="num1">Singapore Department of Statistics, Key Annual Indicators, <a href="http://www.singstat.gov.sg/keystats/annual/indicators.html">http://www.singstat.gov.sg/keystats/annual/indicators.html</a> (accessed September 1, 2006).
+</li>
 	
 	
-<li id="num2">ibid, p41.</li>
+<li id="num2">Leeson, G. W., The Demographics and Economics of UK Health and Social Care for Older Adults (Oxford: Oxford Institute of Ageing, University of Oxford, 2004).</li>
 	
-<li id="num3">Prime Minister Goh Chok Tong in a letter to Minister Mah Bow Tan, Chairman of the 1999 IMC (9 November 1999).</li>
+<li id="num3">Financing and Delivering Health Care: A Comparative Analysis of OECD Countries (Paris: Organisation for Economic Co-operation and Development, 1987).</li>
 	
-<li id="num4">Taken from the IMC report (1999).</li>
+<li id="num4">Seshamani, M and Grey, M, “The Impact of Ageing on Expenditures in the National Health Service”, Age and Ageing 31 (2002):287-94.</li>
 	
-<li id="num5">The Eldercare Masterplan (2001-2005), spearheaded by the Ministry for Community, Youth and Sports, was a result of a broad-based review of elder care programmes and services conducted between June 1999 and July 2000.</li>	
+<li id="num5">Heller, P. S., Who will Pay?: Coping with Aging Societies, Climate Change, and other Long-term Fiscal Challenges (Washington, D.C.: International Monetary Fund, 2003), pp14.</li>	
 	
-<li id="num6">Ministry of Health, “MediFund was established with an initial capital of S$200 million and capital injections will be made when budget surpluses are available,” <a target="_blank" href="http://www.moh.gov.sg/corp/financing/index.do">http://www.moh.gov.sg/corp/financing/index.do</a></li>
+<li id="num6">Singapore Department of Statistics, 2006.</li>
 	
-<li id="num7">Future of Retirement: Insights for Singapore (London, UK: HSBC, 2006). The report was authored by the Oxford Institute of Ageing under the directorship of Dr Sarah Harper.</li>	
-	
-<li id="num8">In the workplace, pro-family practices such as flexi-work arrangements, extended maternity leave and childcare leave have been introduced. The civil service is now on a five-day work week.</li>		
-	
-<li id="num9">Since July 2002, the Family Matters! Singapore Taskforce on Grandparenting and Inter-generational Bonding has received more than 100 project applications from 65 organisations and disbursed more than $500,000 in funding.</li>		
-	
-	
-	
+<li id="num7">HSBC, The Future of Retirement (London: HSBC, 2006) is a global research commissioned by HSBC, in consultation with Oxford Institute of Ageing and Age Wave, and conducted by Harris Interactive. It involved 21,329 adults across 20 countries – UK, USA, Hong Kong, China, Japan, Brazil, India, Canada, Mexico, France, Singapore, Saudi Arabia, Malaysia, Germany, Indonesia, Egypt, Poland, Russia, Turkey and Sweden.</li>	
 	
 </ol>	
 
