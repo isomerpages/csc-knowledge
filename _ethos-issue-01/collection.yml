@@ -2,6 +2,7 @@ collections:
   ethos-issue-01:
     output: true
     order:
+      - "Ageing Population: What to Expect and What to Do.md"
       - Foreword.md
       - Editorial.md
       - "Interview with Joseph Chamie: Population and Policy.md"
