@@ -176,10 +176,11 @@ may be necessary.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Navigating_the_New_Economy.jpg"></div>
+	<div><img src="/images/Ethos_Images/Teaser_Pictures/Opinion.jpg"></div>
 	<div>
-		<h3>Wanted — An Ambitious Vision for Singapore’s Public Transport</h3>
-		<b><i>Paul Barter</i></b>
+		<h3>Opinion from Aaron Maniam: Spaces and Scapes —
+Thoughts on Urban Planning</h3>
+		<b><i>Aaron Maniam</i></b>
 		<p>Success in a changing world will demand more than technical skills: it&nbsp;will call for adaptability, empathy and&nbsp;a deeper sense of meaning.</p>
 		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
