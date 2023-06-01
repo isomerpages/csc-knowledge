@@ -116,59 +116,20 @@ li {
 <p>As more people move up the population pyramid, higher expectations and practical needs will fuel greater demand for instruments that complement and make up for the inadequacies of the CPF. As other nations have found, it may be the Government, rather than fragmented private sector services, that is in the best position to operate or facilitate such programmes with sufficient economies of scale.</p>
 
 
+<h3>SUPPORTING SENIORS: A NATIONAL APPROACH</h3>
 
+<p>Many countries have found it useful to adopt a whole-of-government approach to supporting an increasingly senior population, whose needs straddle several sectors. The “National Strategy for an Ageing Australia” is reportedly exemplary: its comprehensive mix of policies, a result of a wide participative process, addresses the multi-faceted concerns of its senior citizens.<sup>17</sup> Like Australia, New Zealand has a dedicated minister overseeing the welfare of seniors. That such resources are invested in the public services reflects the growing emphasis and importance accorded to this sector of the electorate.</p>
 
-<h3>If fertility rates cannot be restored nor compensated for by migrants, is a shrinking, greying and declining society inevitable? What adjustments will countries have to make?</h3>
-
-<p>What is happening in Singapore, Japan, Europe and other places with low fertility, may be the trend for the entire world. For instance, the Republic of Korea has benefited from the demographic dividend in the past –small number of children, small number of elderly. Their economy blossomed with good policies and hard work. But now their favourable age structure, where you had 10 or 12 people in the working age for every retired person, is getting considerably older and it will soon be looking more and more like the Japanese and the European age structures.</p>
-
-<p>Adjustments will have to be made. In countries with pay-as-you-go pension systems — not the fully-vested individual pensions that you have in Singapore – there are going to be heavy costs because the burden on the contributing workforce will increase as the population gets larger. I sometimes refer to this as a “red ink” society, where more and more resources are being spent as ageing occurs, so you go from black ink to red ink in order to cover the increasing costs for the elderly.</p>
+<p>Canada takes a slightly different approach. Its policies focus on nurturing lifelong employability of workers, instead of targeting senior citizens as a specific group. The Ministry for Human Resources and Social Development looks after all aspects of education, youth, employment and pension with the aim to “help Canadians invest in themselves to move through life’s transitions – from families with children to seniors, from school to work, from one job to another, from unemployment to employment, from the workforce to retirement”.<sup>18</sup></p>
   
-<div class="break">  
-  
-<p class="break1">  
-What is happening in Singapore, Japan, Europe and other places with low fertility, may be the trend for the entire world.
-</p>  
-  
-</div>  
-  
-<p>In this situation, there are basically three variables you can adjust. You can increase the age of retirement, increase taxes or reduce retirement benefits — or you can have a combination of these three. Increased productivity may help, but then again, the aged and elderly would want to draw added benefits from increased productivity as well, such as through better healthcare.</p>
-
-<p>Baby boomers, in particular, will make a deep impact as they go through retirement. And this may have significant impact on investments, as older people draw down their savings and spend. You may move from a situation where the cohort was saving, to a period of spending.</p>
-
-<p>Some of the adjustments that will have to be made are obvious, such as active ageing: encouraging the elderly to stay on working much longer, keeping them well-trained, competitive, physically active, healthy, etc., and as a result, reducing the costs of the ageing process, and the burden on healthcare. One thing that is common in the US and Canada but less so in other societies, is volunteering, where retirees say: “I have my pension and now I’m going to volunteer my time.” All these things could help make retirement much more rewarding and much more fulfilling for the individual, as well as helping the society at large.</p>
-
-	
-<h3>Has the nature of ageing changed over the years? How might a greying population alter the complexion of society?</h3>  
-  
-<p>Throughout most of history, people did not have “golden years”. You worked your whole life and then depended on your children to take care of you when you were elderly and frail. In exchange, you took care of the grandchildren or dispensed advice. The government did not get involved. But now the level of income and the well-being of the elderly have improved tremendously because of economic structures, private investments and government policies to provide social security and healthcare. So these people now look forward to what we call the “golden years” — that is relatively recent.</p>  
-
-<p>When governments permitted structures to be created so that the elderly had their own income and were self-sufficient, it also helped to dismantle the extended family. In the past, retired grandparents would look after the children, freeing up working mothers and fathers to work and to have more children. Now people are saying, “I raised my children. I don’t have to raise another generation. I have my own income and I want to travel, do my hobbies or volunteer.” With greater mobility, people are moving further away from their families. They are also older — as people marry and have children later in life, they become grandparents at perhaps 60, not at age 50. Socio-economic circumstances in industrialised societies have brought about a situation where grandparents are no longer necessarily available to raise the grandchildren.</p>
-
-<div class="break">  
-  
-<p class="break1">  
-When the elderly became self-sufficient, it also helped to dismantle the extended family.
-</p>  
-  
-</div>  
-
-
-  
-<p>There have been studies by social psychologists about what happens when the population ages. I think there is some correlation between age and the type of productivity, innovativeness and behaviour you have in a democracy. As people become older, they often change their political views and positions on those policies and programmes that directly affect them. In the United States, for example, an official who tries to change existing policies for social security and pensions has to be very careful because if the elderly do not like it, they will try to vote him out of office. So the ageing of the population will have an effect on politics and democracies — we see that in France and in America.</p>  
-  
-<p>The elderly can feel that they have an entitlement, that the government owes them retirement income and healthcare, for example. However, in the end, someone has to pay these costs. So, you need policies and structures that encourage economic independence, self-reliance and planning for old-age, not dependency on the government. In many Asian countries, including Singapore and Japan, there is a balance between societal needs and individual rights and responsibilities. The question for policymakers is this: What areas should be left to individual decision-makers? What issues are basically outside the domain of government involvement and should be left to individuals to manage for themselves?</p>  
-  
-<p>In brief, the ageing of humanity is likely to be among the most significant events of this century. The expected ageing of populations is unprecedented, a worldwide phenomenon affecting every household, and a major challenge for all societies..</p>  
-  
-<p>Third, we need to confront the ageist <strong>mindsets</strong> that persist in society. These are reinforced both by explicit anchors (such as the retirement age) and ambient anchors (such as the labels for senior-specific schemes). We need to create a new narrative around what it means to grow old in Singapore.</p>  
+<p>Population ageing is not limited to developed nations. The most serious challenges will likely be faced by developing countries, which have yet to build a sound economic base to withstand the economic impact of a greying society. Literature shows that early intervention offers the best chance of success in influencing population trends. Singapore is in an advantaged position – it is not caught in the pension trap and its fiscal health allows it to prepare adequately for an impending demographic shift. It should therefore be able to restructure successfully to meet the challenges of an ageing population –if it acts in good time.</p> 
    
   
 <div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
-<p class="small-text"><strong>Dr Joseph Chamie</strong> is Director of Research at the Center for Migration Studies in New York and editor of the International Migration Review published by the Center. Previously, he was the Director of the United Nations Population Division. Dr Chamie served the UN in the field of population and development both overseas and in New York for more than 25 years. Among other major duties, he was the deputy secretary-general for the 1994 UN International Conference for Population and Development. He has written many papers and books in such areas as fertility, population estimates and projections, international migration and population and development policy. </p>  
+<p class="small-text"><strong>Andrew Kwok</strong> is a Research Associate at the Institute of Policy Development, Civil Service College. </p>  
   
 </div>  
 
