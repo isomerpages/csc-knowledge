@@ -94,7 +94,6 @@ Behavioural Insights Issue</p>
   
 <br>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
