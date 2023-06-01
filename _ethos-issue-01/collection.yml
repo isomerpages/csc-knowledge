@@ -2,7 +2,7 @@ collections:
   ethos-issue-01:
     output: true
     order:
-      - Ageing and Public Policy – A Global Perspective.md
       - Foreword.md
       - Editorial.md
       - "Interview with Joseph Chamie: Population and Policy.md"
+      - Ageing and Public Policy – A Global Perspective.md
