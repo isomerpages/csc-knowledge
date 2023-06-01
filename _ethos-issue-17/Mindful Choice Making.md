@@ -137,14 +137,14 @@ li {
   
 <p>I think Singapore is an interesting laboratory for choice architecture, in part because you’ve been bolder than most in pursuing this. You have all the functions of a federal government. Philadelphia, New York may be doing small tweaks on retirement systems — you do it all. The advantage of a small but very diverse city is that you have a population that you can reach much more easily, but this is an effort that would be strengthened by carrying out empirical evaluations. One of the challenges of government is making sure you’re not making the same kind of mistakes that the people you are governing make. </p>  
   
-<hr>  
+<div class="author">  
   
   
 <p class="small-text"><strong>Professor Eric Johnson</strong> is a faculty member at the Columbia Business School at Columbia University where he is the inaugural holder of the Norman Eig Chair of Business. He is also Director of the Center for Decision Sciences. He was awarded the Distinguished Scientific Contribution Award from the Society for Consumer Psychology, and is a Fellow of the Association for Consumer Research, and the Association for Psychological Science. His recent research interests focus on choice architecture and its influences on public policy.</p>  
 <p class="small-text">Professor Johnson spoke with Civil Service College Principal Researcher Sharon Tham and ETHOS Editor-in-Chief Alvin Pang when he was in Singapore to deliver a NUS-MTI-CSC lecture on “Beyond Nudges: What and How to Present Options” in October 2016.</p>  
   
   
-<hr>  
+</div>  
   
 <h6>NOTES</h6>  
   
