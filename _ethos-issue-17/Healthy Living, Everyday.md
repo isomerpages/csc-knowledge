@@ -129,7 +129,7 @@ Creating and sustaining a healthier dining ecosystem</h4>
   
   
   
-<div class="container">  
+<div class="containerbox">  
 <h4 class="title">Case Study #2:<br>  
 Getting people to walk more</h4>  
 <p class="small-text text">To influence longer-term behaviour change, a combination of nudges is required — first, to initiate the new behaviour, and then to encourage repeated behaviour. These nudges must be attractive enough to keep users engaged at each stage.</p>  
@@ -154,7 +154,7 @@ Getting people to walk more</h4>
   
   
   
-<div class="container">  
+<div class="containerbox">  
 <h4 class="title">Case Study #3:<br>  
 Break fast, break a bad habit</h4>  
 <p class="small-text text">To introduce a change, identify a timely point in people’s lives when they will be most receptive. Understand what they are experiencing in those moments and tap on social support or norms in the community to influence the experiences.</p>  
@@ -183,13 +183,13 @@ Break fast, break a bad habit</h4>
   
 <p>People should be able to exercise informed choice over what health decisions to make. HPB’s mission is to empower individuals to take ownership of their health. This will only be possible when an increasingly educated populace realises the importance of health, and takes concrete steps to improve it. </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text">The authors are from the Insights, Innovation and Planning Division, Health Promotion Board.</p>  
   
-<hr>  
+</div>  
   
 <div class="endnotes">  
 <h6>NOTES</h6>  
