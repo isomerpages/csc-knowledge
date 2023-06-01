@@ -62,7 +62,7 @@ margin-top:15px;
  <br>
  
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_24/foreword.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/foreword.jpg"></div>
 	<div>
 		<h3>Preface</h3>
 		<b><i>Hugh Lim</i></b>
