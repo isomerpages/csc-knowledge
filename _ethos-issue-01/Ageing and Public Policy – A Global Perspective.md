@@ -147,7 +147,7 @@ li {
 	
 <li id="num4">Committee of Ageing Issues 2005, Report on the Ageing Population (Singapore: Ministry of Community, Youth and Sports, 2006).</li>
 	
-<li id="num5">5.	Department of Economic and Social Affairs, Population Division, United Nations, “Population Ageing 2006,”<a target="_blank" href="http://www.un.org/esa/population/publications/ageing/ageing2006.htm"> http://www.un.org/esa/population/publications/ageing/ageing2006.htm</a> (accessed August 15, 2006).</li>	
+<li id="num5">Department of Economic and Social Affairs, Population Division, United Nations, “Population Ageing 2006,”<a target="_blank" href="http://www.un.org/esa/population/publications/ageing/ageing2006.htm"> http://www.un.org/esa/population/publications/ageing/ageing2006.htm</a> (accessed August 15, 2006).</li>	
 	
 <li id="num6">Cabinet Office, Government of Japan, “Annual Report on the Japanese Economy and Public Finance 2005,” <a target="_blank" href="http://www5.cao.go.jp/zenbun/wp-e/wp-je05/05-00000.html">http://www5.cao.go.jp/zenbun/wp-e/wp-je05/05-00000.html</a>  (accessed August 15, 2006).</li>
 	
