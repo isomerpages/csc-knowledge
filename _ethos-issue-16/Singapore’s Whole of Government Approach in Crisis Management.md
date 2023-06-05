@@ -144,7 +144,7 @@ Public Service.<a href="#notes-6"><sup class="#notes-6">6</sup></a>
 
 
 <div class="containerbox">
-<img title="singapores-whole-of-government-approach-in-crisis-management-1" src="" alt="singapores-whole-of-government-approach-in-crisis-management-1"><br>
+<img title="singapores-whole-of-government-approach-in-crisis-management-1" src="/images/Ethos_Images/Ethos_Issue_16/HCMC_Ethos_Issue16.PNG" alt="singapores-whole-of-government-approach-in-crisis-management-1"><br>
 <p style="text-align:center;font-weight:bold;" class="small-text">Figure 1. Structure of the Homefront Crisis Management System.<a href="#notes-7"><sup class="#notes-7">7</sup></a></p>
 <p class="small-text">Source: National Security Coordination Secretariat, <em>1826 days: A diary of resolve: Securing Singapore since 9/11</em> (Singapore: National Security Coordination Secretariat, 2016).</p>
 <p>
