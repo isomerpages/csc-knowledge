@@ -66,7 +66,7 @@ li {
 
 </style>
 
-<em><small>ETHOS Issue 17 June 2017</small></em>
+<em><small>ETHOS Issue 16, June 2017</small></em>
 <img src="">
 
 
