@@ -2,6 +2,7 @@ collections:
   ethos-issue-16:
     output: true
     order:
+      - Public Trust in Government Institutions.md
       - Public Institutions and the Productivity Imperative.md
       - Engaging with Stakeholders for Better Public Transport Outcomes.md
       - Using Data to Create Better Government.md
