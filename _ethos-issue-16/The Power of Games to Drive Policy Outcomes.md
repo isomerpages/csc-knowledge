@@ -139,12 +139,12 @@ li {
 
 
 
-<p class="small-text text">This interactive video “game” takes the player through the real-life journey of a family with a child stricken with terminal cancer. </p>
 
 
 
 
-<div class="container">
+
+<div class="containerbox">
 
 
 <h3 class="title">Empathy Through Games</h3>
@@ -185,12 +185,12 @@ li {
 
 
 
-<p class="small-text text">In this online game created by the Federal Reserve Bank of San Francisco, players act as the chair of the Federal Reserve for four years, enacting monetary policies to achieve full employment and low price inflation (known as the dual mandate).</p>
 
 
 
 
-<div class="container">
+
+<div class="containerbox">
 
 
 <h3 class="title">Games in Support of Public Policy</h3>
@@ -242,7 +242,7 @@ li {
 
 <p>Ultimately, the Public Service will need people to work out how to use games, exercises and simulations to teach our civil servants how to operate in a complex environment. A whole ecosystem of skills will be needed, including storytellers, programmers, game designers, game developers, learning design specialists, pedagogues and even improvisational actors, and certainly psychologists. Ministries and agencies will need to think carefully about what capabilities they need to engage or invest in, in order to properly use this methodology.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -250,7 +250,7 @@ li {
 
 <p class="small-text">A version of this article was delivered as a keynote speech at the 2nd Public Sector Games Exchange on 8 September 2016 at the Civil Service College.</p>
 
-<hr>
+</div>
 
 <h6>NOTES</h6>
 
@@ -261,9 +261,7 @@ li {
 <li id="notes-4" class="small-text">According to a 4 August 2016 article “Imagination in the Augmented-Reality Age” in The Atlantic, the game attracted more than 21 million users since its release in July 2016. While a Bloomberg Markets article on 23 August 2016 reported that the game was already on the decline, the game is arguably just the tip of the iceberg in terms of AR adoption</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
