@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 16, Dec 2016</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_16/16_Banner_Lessons%20from%20New%20Zealand’s%20Better%20Public%20Services%20Reforms.jpg">
 
 
 
