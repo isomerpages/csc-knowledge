@@ -2,5 +2,6 @@ collections:
   ethos-issue-16:
     output: true
     order:
+      - Surveying Singapore’s Future.md
       - Putting the Public Back in Public Service.md
       - Committed Leadership in a Changing World.md
