@@ -79,11 +79,11 @@ li {
 <p>These similar functions not withstanding, centres of government in different countries are organised in ways that best fit their contexts. While the United Kingdom (UK) has two central agencies, others, like Canada and New Zealand, have three. Some countries merge the roles of the Cabinet Secretary and Head of Civil Service; others split them. Canada’s Treasury Board Secretariat and the duties of the State Services Commissioner in New Zealand are both entrenched in legislation. But in most cases, the structures and roles are dynamic. As centres of government evolve to be fit for purpose, there are three key insights that should be borne in mind.
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>As policy challenges become more complex and demands on government increase, it may be tempting for the government to take on more.</em></h5>
+<p class="break1">As policy challenges become more complex and demands on government increase, it may be tempting for the government to take on more.</p>
 
-<hr>
+</div>
 
 <h3>(I) THE CENTRE NEEDS TO BE CLEAR ABOUT ITS ROLE</h3>
 
@@ -100,31 +100,31 @@ li {
 <p>As such, another way the centre can foster a whole-of-government mindset is by enhancing collective leadership. First, good central management of talent can balance between empowering public servants to forge their own careers and enabling them to gain a government-wide perspective of issues. This can be achieved by having leaders rotate between agencies and sectors, providing officers with opportunities for secondments, and ensuring that they work with each other on inter-agency projects. Second, senior leaders can regularly meet outside formal decision-making platforms to discuss issues or share perspectives. Deputy Ministers in Canada, for example, do this each week when they meet for Deputy Ministers’ Breakfast. Finally, senior leaders can be made accountable for both the performance of their own organisations and for system-wide outcomes. Canada’s Deputy Minister Committees look after either a policy that cuts across several domains or an issue that pertains to the stewardship of the public service. Similarly, New Zealand’s Chief Executives are accountable for the individual performance of their agencies as well as how their agencies contribute to system-wide outcomes.
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>The centre of government should refrain from doing line agencies' work for them. It should also be watchful about the compliance costs it imposes on agencies as it seeks to foster greater alignment throughout government. </em></h5>
+<p class="break1">The centre of government should refrain from doing line agencies' work for them. It should also be watchful about the compliance costs it imposes on agencies as it seeks to foster greater alignment throughout government. </p>
 
-<hr>
+</div>
 
 <h3>(II) CENTRAL AGENCIES NEED TO WORK CLOSELY TOGETHER</h3>
 
 <p>The relationship between central agencies is frequently described as one of “creative tension”. The “tension” occurs because central agencies bring different but necessary perspectives to the table. This means that leaders at the centre may have to weigh, for example, a government’s ambitious agenda against concerns for fiscal prudence, or the drive for cost efficiencies in the present against building capabilities for the long-term. This tension is nevertheless “creative”, both because creativity is needed to reconcile different perspectives, and because reconciling these perspectives allows government to create value for citizens in an optimal, sustainable way. Diversity at the centre can help to improve the quality of decision-making.
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>Rather than performing their roles separately and sequentially, central agencies should collaborate, especially upstream, to ensure that initiatives are well-designed and delivered.</em></h5>
+<p class="break1">Rather than performing their roles separately and sequentially, central agencies should collaborate, especially upstream, to ensure that initiatives are well-designed and delivered.</p>
 
-<hr>
+</div>
 
 <p>At the same time, central agencies must work together closely. Canada’s three central agencies have been described as functioning like a “three-legged stool”. A review of New Zealand’s State Services Commission said that New Zealand’s central agencies “must speak publicly with one voice and demonstrate strong and collective ownership and accountability for delivering better services”. The review also said that central agencies’ leadership had to be “joined at the hip”.<a href="#notes"><sup class="#notes">6</sup></a> Indeed, the centre’s ability to work well depends upon regular communication between its officers and leadership. Rather than performing their roles separately and sequentially, central agencies should collaborate, especially upstream, to ensure that initiatives are well-designed and delivered. Deliberate cross-deployment of officers between central agencies and regular meetings between senior leaders of central agencies can help to build centre of government expertise and relationships.
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>Diversity at the centre can help improve the quality of decision-making.</em></h5>
+<p class="break1">Diversity at the centre can help improve the quality of decision-making.</p>
 
-<hr>
+</div>
 
 <h3>(III) THE CENTRE NEEDS TO BUILD CAPACITY FOR CHANGE</h3>
 
@@ -135,11 +135,11 @@ li {
 <p>Another way in which the centre can build capacity for change is by helping government to better anticipate and prepare for medium to long term change. Line agencies are predominantly focused on managing current or short-term issues. As such, they may lack the bandwidth to sense the weak signals of change, mitigate risks and prepare to seize opportunities. In this vein, centres can identify and build the capabilities that will allow government to not only be fit for purpose today, but also ready for the future.
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>Volatile, uncertain, and complex times require that governments have a great capacity to absorb change distributed throughout the system, not only a strong centre of government.</em></h5>
+<p class="break1">Volatile, uncertain, and complex times require that governments have a great capacity to absorb change distributed throughout the system, not only a strong centre of government.</p>
 
-<hr>
+</div>
 
 <h3>CONCLUSION: EVOLVING THE CENTRE IN SINGAPORE</h3>
 
@@ -150,13 +150,13 @@ li {
 <p>Singapore starts from a position of strength as it builds more cohesion in government. The centre of government in Singapore will no doubt continue to evolve to ensure that it is fit for purpose, shaped by both historical and contemporary context. As central agencies work to ensure better cohesion in government, they will have to be mindful of the system’s need for nimble and
 decisive action.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Dr Vernie Oliveiro</strong> is Senior Assistant Director (Policy Strategy) at the Research and Strategy Management Division, Ministry of National Development. This article was written when Vernie was Lead Researcher at the Institute of Governance and Policy, Civil Service College. The views expressed herein are her own.</p>
 
-<hr>
+</div>
 
 <h6 id="notes">NOTES</h6>
 
@@ -170,9 +170,6 @@ decisive action.</p>
 <li class="small-text">For more information on central government implementation units, see Jennifer Gold, <em>International Delivery: Centres of Government and the Drive for Better Policy Implementation </em>(Institute for Government, UK and Mowat Centre, Canada: 2014), p. 3.</li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
