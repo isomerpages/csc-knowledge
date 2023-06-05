@@ -2,6 +2,7 @@ collections:
   ethos-issue-16:
     output: true
     order:
+      - Using Data to Create Better Government.md
       - "From Scarcity to Generativity: New Approaches for Governing
         Resources.md"
       - "SG50: What The Public Service Learnt.md"
