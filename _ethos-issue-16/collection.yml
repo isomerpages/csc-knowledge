@@ -1,4 +1,5 @@
 collections:
   ethos-issue-16:
     output: true
-    order: []
+    order:
+      - Committed Leadership in a Changing World.md
