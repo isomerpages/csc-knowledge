@@ -52,7 +52,7 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #eceedb;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
@@ -84,22 +84,21 @@ li {
 <p>This focus on accountability, autonomy and competition cultivated an environment in which individual agency performance was incentivised, but cross-agency cooperation was not. On complex cross-agency issues it is difficult to align and integrate finances, resources and decision-rights. The easier, more rewarded path was to go it alone on one part of the problem rather than struggle through the uncertainty and difficulty of working across agency boundaries. The Better Public Services reforms address the strengths and weaknesses of the radical shift to New Public Management, marking a further paradigm shift towards New Public Governance.<a href="#notes"><sup class="#notes">3</sup></a> In a complex and rapidly changing world there is a global demand for public services that are citizen-centred, flexible-at-pace and capable of networking and working with partners in the private and non-governmental sectors. New Zealand’s reforms are notable for focusing on achieving financially sustainable performance improvements through delivering complex medium- and long-term results, in a period where many jurisdictions turned to austerity as a lever of change.
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>Without responsiveness to political decision makers and citizens, the civil service is not serving</em></h5>
+<p class="break1">Without responsiveness to political decision makers and citizens, the civil service is not serving</p>
 
-<hr>
+</div>
 
 <p>While not heralded with the triumphant, reformist zeal of New Public Management in 1987,<a href="#notes"><sup class="#notes">4</sup></a> the Better Public Services reforms represent an organic attempt to put the still developing theory of New Public Governance into action.</p>
 
 
 
-<div class="container">
-<img title="lessons-from-new-zealand-1" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-16/lessons-from-new-zealand-1.jpg?sfvrsn=fd06b078_0&amp;MaxWidth=550&amp;MaxHeight=&amp;ScaleUp=false&amp;Quality=High&amp;Method=ResizeFitToAreaArguments&amp;Signature=BEAFDBDAE9CF28C1AD2788E87D25BA9694D0E2FF" data-method="ResizeFitToAreaArguments" data-displaymode="Custom" data-customsizemethodproperties="{'MaxWidth':'550','MaxHeight':'','ScaleUp':false,'Quality':'High'}" alt="lessons-from-new-zealand-1">
+
+<img title="lessons-from-new-zealand-1" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_16/Lessons_From_New_Zealand_1.jpg" alt="lessons-from-new-zealand-1">
 <p style="text-align: center;" class="small-text">Figure 1. New Zealand's Better Public Services Results.</p>
 
 
-</div>
 
 
 
@@ -109,11 +108,12 @@ li {
 
 
 
-<div class="container">
+
+<div class="containerbox">
 
 
 <h3 class="title">The Public Management Toolkit</h3>
-<p><img title="lessons-from-new-zealand-2" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-16/lessons-from-new-zealand-2.jpg?sfvrsn=cea89e47_0" data-displaymode="Original" alt="lessons-from-new-zealand-2"></p>
+<p><img title="lessons-from-new-zealand-2" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_16/Lessons_From_New_Zealand_2.jpg" alt="lessons-from-new-zealand-2"></p>
 <p style="text-align: center;" class="small-text">Figure 2. The public management toolkit.</p>
 <p>Figure 2 draws on Stephen Osborne’s discussion of the three regimes to make the case that Public Administration, New Public Management and New Public Governance build on each other and provide a range of governance options for dealing with different levels of complexity.<sup>1</sup></p>
 <p>The values established by <strong>Public Administration</strong> remain the lifeblood of an effective civil service. Integrity, professionalism, merit-based appointment and political neutrality take different forms in different contexts, but a clear and consistent approach to these issues is foundational, and builds critical trust. However, those core values are often channelled into routine compliance activities where the enforcement of rules and the tyranny of process supersede real service to citizens. The primary motivation becomes one of compliance or, even worse, of self-preservation in the face of the forces of change. If change is accelerating and the civil service is rigid rather than adaptable, responsiveness is bound to suffer. Without responsiveness to political decision makers and citizens, the civil service is not serving.</p>
@@ -173,10 +173,10 @@ li {
 
 
 
-<div class="container">
-<img title="lessons-from-new-zealand-3" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-16/lessons-from-new-zealand-3.jpg?sfvrsn=6047e315_0&amp;MaxWidth=500&amp;MaxHeight=&amp;ScaleUp=false&amp;Quality=High&amp;Method=ResizeFitToAreaArguments&amp;Signature=5D2BDDFFEE2F2103FA0746BBCAFE08A469678010" data-method="ResizeFitToAreaArguments" data-displaymode="Custom" data-customsizemethodproperties="{'MaxWidth':'500','MaxHeight':'','ScaleUp':false,'Quality':'High'}" alt="lessons-from-new-zealand-3">
+
+<img title="lessons-from-new-zealand-3" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_16/Lessons_From_New_Zealand_3.jpg" data-method="ResizeFitToAreaArguments" alt="lessons-from-new-zealand-3">
 <p style="text-align: center;" class="small-text">Figure 3. Key lessons for sustainable reforms.</p>
-</div>
+
 
 
 
@@ -229,7 +229,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Making New Zealanders' dealings with government easy in a digital environment</h3>
@@ -237,7 +237,7 @@ li {
 <p>A Cabinet-approved Result 10 Blueprint sets out a shared vision for digital services that are digital by design, digital by default and digital by choice. The 10 actions in the Blueprint support customers to move to digital, redesign services and increase system capability.<a href="#notes"><sup class="#notes">2</sup></a></p>
 <p>The target is to improve from 29.9% of services in June 2012 to 70% of services in December 2017. The shift achieved as at March 2016 is 52.2%.<a href="#notes"><sup class="#notes">3</sup></a> Ten services were measured, ranging from SmartGate departures and arrivals by NZ Customs Service, to filing and paying taxes through Inland Revenue and applying for financial assistance at the Ministry of Social Development.<a href="#notes"><sup class="#notes">4</sup></a></p>
 <p><strong>Ten Services Measured</strong></p>
-<blockquote>
+<blockquote style="background-color: #eceedb;">
 <p>1. SmartGate departures and arrivals</p>
 <p>2. Renew adult passport</p>
 <p>3. Apply for visa</p>
@@ -269,11 +269,14 @@ li {
 
 
 
+<br>
+<br>
+<br>
+<br>
 
-<div class="container">
-<img title="lessons-from-new-zealand-4" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-16/lessons-from-new-zealand-4.jpg?sfvrsn=209a1f99_0&amp;MaxWidth=500&amp;MaxHeight=&amp;ScaleUp=false&amp;Quality=High&amp;Method=ResizeFitToAreaArguments&amp;Signature=D2BDA4F2FE9671E9BDA2267A12AF5A02D1608FD4" data-method="ResizeFitToAreaArguments" data-displaymode="Custom" data-customsizemethodproperties="{'MaxWidth':'500','MaxHeight':'','ScaleUp':false,'Quality':'High'}" alt="lessons-from-new-zealand-4"><br>
+<img title="lessons-from-new-zealand-4" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_16/Lessons_From_New_Zealand_4.jpg" alt="lessons-from-new-zealand-4"><br>
 <p style="text-align: center;" class="small-text">Figure 4. New Public Passion</p>
-</div>
+
 
 
 
@@ -281,13 +284,13 @@ li {
 
 <p>The Better Public Services reforms have changed the rules, incentives and decision-rights of the New Zealand public management system to enable a step-change in cross-agency cooperation on complex and pressing issues. Despite this bureaucratic success, the proof of the value of this reform will only be in how it delivers improved results for New Zealanders. The Better Public Services Results will provide a clear and publicly transparent lead indicator of whether this change is taking place, with the current ongoing commitment to reporting six-monthly progress results, and on setting more challenging targets once the original objectives are reached.<a href="#notes"><sup class="#notes">23</sup></a> However, for the reform to be sustained, it will have to deliver more than ten results. The ongoing rate of change demands dynamism and the New Zealand public service will have to develop a passion for adaptation to continue to deliver on New Zealanders’ needs.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Ryan Orange</strong> was a Deputy Commissioner at the New Zealand State Services Commission from 2011 to 2016, where he led work on the Better Public Services reforms. Ryan currently balances being the primary caregiver for his three young children with his passion for advising countries on delivering sustainable public service reform.</p>
 
-<hr>
+</div>
 
 <h6 id="notes">NOTES</h6>
 
