@@ -2,6 +2,7 @@ collections:
   ethos-issue-16:
     output: true
     order:
+      - Singapore’s Whole of Government Approach in Crisis Management.md
       - "Evolving the Centre of Government: Three Key Insights.md"
       - Lessons from New Zealand’s Better Public Services Reforms.md
       - Public Trust in Government Institutions.md
