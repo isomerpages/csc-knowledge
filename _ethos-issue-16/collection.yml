@@ -2,6 +2,7 @@ collections:
   ethos-issue-16:
     output: true
     order:
+      - Editorial.md
       - The Power of Games to Drive Policy Outcomes.md
       - Singapore’s Whole of Government Approach in Crisis Management.md
       - "Evolving the Centre of Government: Three Key Insights.md"
