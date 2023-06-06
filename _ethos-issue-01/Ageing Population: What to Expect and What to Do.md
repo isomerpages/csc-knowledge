@@ -68,8 +68,8 @@ border-top: 1px solid black;
 
 .break
 {
-   border-top: 1px solid  black;
-   border-bottom: 1px solid black;
+
+	background-color: #987D43;
 	 padding:20px;
 	text-align:center;
 	margin-top:50px;
@@ -77,7 +77,7 @@ border-top: 1px solid black;
 	
 .break1
 {
-font-family: Georgia;
+	color: white;
 	font-size:20px;
 	font-style: italic;
 	font-weight: bold;
