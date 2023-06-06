@@ -28,6 +28,25 @@ padding: 30px;
 	list-style-type: lower-alpha;    
 }	
 	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+	
+.small-text
+{
+font-size:16px;
+}
+	
 	
 	
 </style>
@@ -171,15 +190,15 @@ padding: 30px;
 
 <p>The urban regeneration of HDB estates will mark a new milestone in Singapore's public housing programme. It will constitute an integral part of our vision to build a distinctive city and an endearing home for Singaporeans, while also meeting their life-cycle needs.</p>
 
-<hr>
+<div class="author">  
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Yap Chin Beng</strong> is Director of Estate Adminstration &amp; Property at the Housing and Development Board. </p>
 
-<hr>
+</div>
 
-<h6><a name="notes"></a>NOTES</h6>
+<p class="small-text" style="font-weight: bold; letter-spacing: 1px;"><a name="notes"></a>NOTES</p>  
 
 <ol>
 <li class="small-text">The Concept Plan is the long-term strategic development plan for Singapore. It has guided Singapore's physical development since 1971 and is revised every 10 years.</li>
