@@ -112,11 +112,12 @@ Drivers may value the additional cost of road pricing less than the potential lo
 
 <p>This situation can also be explained in terms of Prospect Theory. Having already made a once-off investment during the purchase of the vehicle, Arkes<a href="#notes"><sup class="#notes">5</sup></a> suggests that additional losses owing to investment will do little to depress the driver's utility, while any potential gain will improve the driver's utility considerably. Furthermore, endowment effects mean that although investments in automobiles may have depreciated on paper, people are unwilling to translate paper losses into real losses. While a consumer would be better off selling his automobile, the effect dictates that the price at which he would be willing to sell his car will be far higher than any buyer's valuation and willingness to pay. In such a context, drivers have an incentive to continue driving despite the negative economic utility, instead of selling their vehicles. This situation may be compounded by a series of rebates on the cost of automobile ownership in response to the government's focus on regulating road usage. While the reduction in taxes and costs were aimed at offsetting the automobile owner's perception of losses with the imposition of road pricing, it inadvertently led to an increase in the demand for automobiles. Prospect Theory would suggest that purchase decisions for automobiles are based on upfront costs while tending to ignore the running costs, since upfront costs are considered as being more salient at the time of automobile purchase while daily usage costs are discounted. The daily costs of road pricing, which tend to be narrowly "bracketed" in daily accounting, seem small in comparison with the huge cost of purchasing the vehicle; this difference discourages drivers from giving up their cars. Drivers are thus more likely to continue driving</p>
 
-<hr>
 
-<h5><em>
+<div class="road-pricing">
+<h5>
 Prospect Theory would suggest that purchase decisions for automobiles are based on upfront costs while ignoring the running costs, since upfront costs are considered as being more salient at the time of automobile purchse while daily usage costs are discounted.
-</em></h5>
+</h5>
+</div>	
 
 <hr>
 
@@ -126,17 +127,15 @@ Prospect Theory would suggest that purchase decisions for automobiles are based 
 
 <p>Prospect Theory suggests that for road pricing to be more effective, charges will have to be set according not only to inelastic demand but to the high value drivers place on the loss of travel time. It must be noted, however, that such an effort must be accompanied by a holistic approach that promotes a comprehensive public transport network, high parking charges within the Central Business District, and an increasing awareness on the social costs of traffic congestion on the environment.</p>
 
-<hr>
-
-<p class="small-text"><em>This article was adapted from a longer study based on a series of experiments replicating various conditions under road pricing. The three experiments tested for the effects of sunk cost, Prospect Theory, and the endowment effect on drivers. </em></p>
-
-<hr>
-
+<div class="author">
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Anthony T. H. Chin</strong> is Deputy Head and Associate Professor in the Department of Economics at the National University of Singapore, where he teaches urban economics, transport economics and microeconomics. Within the University, A/Prof Chin is Director of the Economics Executive Programme and Principal Researcher in the Centre for Transportation Research. He also serves on the Singapore Public Transport Council, Government Parliamentary Committee on Transport and is Chief Editor of the European Journal of Logistics and Sustainable Transport.</p>
+</div>	
 
-<hr>
+<div class="adapted">
+<p class="small-text"><em>This article was adapted from a longer study based on a series of experiments replicating various conditions under road pricing. The three experiments tested for the effects of sunk cost, Prospect Theory, and the endowment effect on drivers. </em></p>
+</div>	
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -165,4 +164,3 @@ Prospect Theory would suggest that purchase decisions for automobiles are based 
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
