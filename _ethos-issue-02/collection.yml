@@ -2,10 +2,10 @@ collections:
   ethos-issue-02:
     output: true
     order:
-      - Implications of Prospect Theory on Road Pricing.md
-      - Singapore as a Global Water Knowledge Hub.md
-      - Water Management in Singapore.md
-      - Homes for a Nation — Public Housing in Singapore.md
-      - Managing Singapore’s Land Needs.md
-      - "Creative Cities: Can they be Comfortable?.md"
       - Editorial.md
+      - "Creative Cities: Can they be Comfortable?.md"
+      - Managing Singapore’s Land Needs.md
+      - Homes for a Nation — Public Housing in Singapore.md
+      - Water Management in Singapore.md
+      - Singapore as a Global Water Knowledge Hub.md
+      - Implications of Prospect Theory on Road Pricing.md
