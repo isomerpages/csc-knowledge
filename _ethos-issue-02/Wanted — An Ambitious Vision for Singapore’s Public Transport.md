@@ -99,13 +99,7 @@ font-size:16px;
 <p><em>'The Seoul Metropolitan Government greatly increased its control over bus routes, schedules, fares, and overall system design. It introduced what it calls a "semi-public operation system" that retains private bus firms but leaves route, schedule, and fare decisions to the Seoul Metropolitan Government. Moreover, it now reimburses bus firms on the basis of vehicle kilometre of service instead of passenger trips…'</em></p>
 <p>The necessary monitoring and coordination is handled with an advanced application of Intelligent Transport System (ITS) technology, using Global Positioning System (GPS). Benefits claimed so far include impressive increases in bus speeds (especially on new Bus Rapid Transit corridors) and an upward trend in bus passenger numbers without a drop in subway use.</p>
 
-
-
 </div>
-
-
-
-
 
 
 <h3>INTERNATIONAL ROLE MODELS FOR AMBITIOUS PUBLIC TRANSPORT</h3>
