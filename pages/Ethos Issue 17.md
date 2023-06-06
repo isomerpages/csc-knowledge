@@ -75,7 +75,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Nudging_Why_How_What_Next.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Teaser_Nudging_Why_How_What_Next.jpg"></div>
 	<div>
 		<h3>Nudging: Why, How, What Next?</h3>
 		<b><i>BY KOK PING SOON</i></b>
@@ -87,7 +87,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Using_Behavioral_Insights.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Teaser_Using_Behavioral_Insights.jpg"></div>
 	<div>
 		<h3>Using Behavioural Insights to Improve Service Delivery</h3>
 		<b><i>BY LEONARD CHEN</i></b>
@@ -99,7 +99,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Nudging_Singapore_to_be_Cleaner_and_Greener.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Teaser_Nudging_Singapore_to_be_Cleaner_and_Greener.jpg"></div>
 	<div>
 		<h3>‘Nudging’ Singapore to be Cleaner and Greener</h3>
 		<b><i>BY JASON BOH</i></b>
@@ -111,7 +111,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Using_Behavioral_Insights_Enforcement.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Teaser_Using_Behavioral_Insights_Enforcement.jpg"></div>
 	<div>
 		<h3>Using Behavioural Insights to Strengthen Enforcement</h3>
 		<b><i>BY LEONG WAI YAN</i></b>
@@ -123,7 +123,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Healthy_Living_Everyday.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Teaser_Healthy_Living_Everyday.jpg"></div>
 	<div>
 		<h3>Healthy Living, Everyday</h3>
 		<b><i>BY
@@ -139,7 +139,7 @@ CHEW LING</i></b>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Data%20Science%20in%20Public%20Policy_The%20New%20Revolution.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Teaser_Data%20Science%20in%20Public%20Policy_The%20New%20Revolution.jpg"></div>
 	<div>
 		<h3>Data Science in Public Policy — The New Revolution?</h3>
 		<b><i>BY DO HOANG VAN KHANH</i></b>
