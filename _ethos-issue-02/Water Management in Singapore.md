@@ -114,8 +114,8 @@ Only 4.5% of water in Singapore is unaccounted for — this is a level that no o
 
 <h4>TABLE 1. AVERAGE MONTHLY CONSUMPTION AND BILLS PER HOUSEHOLD, 1995, 2000 AND 2004</h4>
 
-<p style="text-align: center;">
-<img src="/images/Ethos_Images/Ethos_Issue_02/Water1.jpg">&nbsp;</p>
+<p style="text-align: center; width:60%;">
+<img src="/images/Ethos_Images/Ethos_Issue_02/Water1.jpg"></p>
 
 <p>Average monthly household consumption steadily declined from 1995 to 2004. The consumption in 2004 was 11% less than in 1995. During the same period, the average monthly bill more than doubled.</p>
 
@@ -123,7 +123,7 @@ Only 4.5% of water in Singapore is unaccounted for — this is a level that no o
 
 <h4>FIGURE 1. DOMESTIC WATER CONSUMPTION, 1995 TO 2005</h4>
 
-<p style="text-align: center;"><img title="FIGURE 1. DOMESTIC WATER CONSUMPTION, 1995 TO 2005" src="../../images/default-source/ethos-images/ethos-issue-2/water2.jpg?sfvrsn=1129fe5f_0" data-displaymode="Original" alt="FIGURE 1. DOMESTIC WATER CONSUMPTION, 1995 TO 2005"></p>
+<p style="text-align: center; width:70%;"><img src="/images/Ethos_Images/Ethos_Issue_02/Water2.jpg"></p>
 
 <p>These statistics indicate that the new tariffs had a notable impact on the behaviour of the consumers, and have turned out to be an effective instrument for demand management. This is a positive development since the annual water demands in Singapore increased steadily, from 403 mcm in 1995 to 454 mcm in 2000. The introduction of demand management policies resulted in the lowering of this demand, which declined to 440 mcm in 2004. Water tariffs have not been raised since July 2000.</p>
 
@@ -241,4 +241,3 @@ Only 4.5% of water in Singapore is unaccounted for — this is a level that no o
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
