@@ -165,7 +165,7 @@ It is in places where the private car is a real threat and where public transpor
 
 
 
-<div class="container">
+<div class="purple">
 
 
 <h3 class="title">THREE FORMS OF COMPETITION FOR THE MARKET IN PUBLIC TRANSPORT</h3>
@@ -190,13 +190,13 @@ It is in places where the private car is a real threat and where public transpor
 
 <p>Such a model should help Singapore to reap efficiency benefits from competition, while also enabling an accelerated effort towards a much more ambitious and highly-integrated public transport system.</p>
 
-<hr>
+
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Paul Barter</strong>, Assistant Professor at the Lee Kuan Yew School of Public Policy, National University of Singapore, researches urban transport policy. The views expressed here are those of his own and do not reflect those of his employer.</p>
 
-<hr>
+
 
 <h6><a name="notes"></a>NOTES</h6>
 
