@@ -99,13 +99,14 @@ li {
 
 <p>Singapore, I would judge, does this well much of the time. It has the diverse population that is critical for urban creativity, and it goes on absorbing new migrants, vital to bringing in new ideas, products and services. But it finds it difficult to go the final mile, actually stimulating creative tension: as Landry puts it, creating conditions open enough so that it can rethink its potential in every aspect of urban life. This is the challenge for Singapore's planners. </p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Peter Hall</strong> is Professor of Planning and Regeneration at the Bartlett School of Architecture and Planning, University College London. From 1991-94, he was Special Adviser on Strategic Planning to the UK Secretary of State for the Environment. In 1998-99, he was a member of the Deputy Prime Minister's Urban Task Force. He has authored over 35 books on planning and related topics, including <em>London 2000, The World Cities, Urban and Regional Planning, Technopoles of the World, Cities in Civilization, Urban Future 21 and The Polycentric Metropolis</em>. He received the Gold Medal of the Royal Town Planning Institute in 2003 and the Balzan International Prize in 2005. </p>
 
-<hr>
+
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -120,4 +121,8 @@ li {
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
