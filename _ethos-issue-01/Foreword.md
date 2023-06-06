@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 01, October 2006</small></em>
-<img src="/images/Cropped_images/Ethos_Issue_23/print-23-foreword.jpg">
+<img src="/images/Landing_Banner_Images/knowledge_foreword_banner.jpg">
 
   
 <p>We are at an inflexion point. Globalisation and rapid advances in technology are transforming business, politics and society. The simultaneous rise of China and India are changing trade flows and mapping out new patterns of influence. Formidable competition and new opportunities are emerging in unexpected quarters.</p>  
