@@ -139,11 +139,11 @@ CHEW LING</i></b>
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Data%20Science%20in%20Public%20Policy_The%20New%20Revolution.jpg"></div>
 	<div>
 		<h3>Data Science in Public Policy — The New Revolution?</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>BY DO HOANG VAN KHANH</i></b>
+		<p>Data science tools are likely to revolutionise policymaking, but human intervention is still key to success.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
