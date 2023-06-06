@@ -71,7 +71,7 @@ li {
 	line-height:22px !important;
 }	
 	
-.public-consultation
+.purple
 {
 background-color: #573b69;
 padding: 30px;
@@ -80,11 +80,19 @@ font-family: Georgia;
 	font-size:20px;
 	font-style: italic;
 }
+		
+.purple1
+{
+background-color: #573b69;
+padding: 30px;
+margin-top:20px;
+}
 	
-.public-consultation h5
+.purple h5, .purple1 h4, .purple1 p, .purple1 h3, sup, .purple1 h5
 {
 color: white;	
-}
+}		
+	
 	
 
 </style>
@@ -106,7 +114,7 @@ color: white;
 <p>During the recent review of the 2001 Concept Plan, focus groups — comprising academics, interest group representatives, professionals and citizens — were formed as part of a public consultation exercise to gauge public values. Feedback from the general public was also considered. The consultation process highlighted the need to intensify housing and industrial areas, while retaining parks and identity areas as these provided a quality living environment. This exercise provided a clear indication of public aspirations for the future landscape of Singapore.</p>
 
 
-<div class="public-consultation">
+<div class="purple">
 <h5>Public consultations provide a clear indication of public aspirations for the future landsape of Singapore.</h5>
 </div>
 
@@ -117,13 +125,13 @@ color: white;
 
 <p>Zoning of land for specific uses ensures that sufficient land is earmarked for different needs, in line with strategic directions. This is necessary because if left to the market, uses with higher commercial value could price out uses such as healthcare facilities or parks which are needed by the community. By ensuring that retail amenities and facilities such as libraries, sports facilities, schools, community centres and parks are accessible within housing estates, planning enhances the liveability of residential areas and reduces the need to travel.</p>
 
-<hr>
 
-<h5><em>
+<div class="purple">
+<h5>
 Since the release and development of sites is market-led, the pace of implementing new development areas depends on market demand and investor confidence in the real estate sector.
-</em></h5>
+</h5>
+</div>
 
-<hr>
 
 <p>Stipulating the allowable use and intensity of land parcels provides a degree of certainty for estimating the provision needed for public infrastructure and facilities such as roads, drains, schools and hospitals. It also facilitates planning for the distribution and phasing of these amenities, and for coordinating their implementation. Furthermore, it gives certainty to owners and occupants regarding the land use or activities in their neighbourhood. Zoning also encourages the clustering of compatible uses: for example, sites are identified to meet the demand for hotel rooms in suitable locations such as within vibrant and interesting mixed-use belts along the Singapore River and Orchard Road.</p>
 
@@ -137,7 +145,7 @@ Since the release and development of sites is market-led, the pace of implementi
 
 
 
-<div class="container">
+<div class="purple1">
 
 
 <h3 class="title">A BALANCING ACT</h3>
@@ -170,7 +178,7 @@ Since the release and development of sites is market-led, the pace of implementi
 
 
 
-<div class="container">
+<div class="purple1">
 
 
 <h3 class="title">LAND USE PLANNING IN SINGAPORE:<br>
@@ -184,17 +192,22 @@ PRINCIPLES AND STRATEGIES FOR SUCCESS</h3>
 <h4>Residential Land Use</h4>
 <p>Singapore's strategy for residential areas is to increase densities for new housing, particularly in the city area, in order to minimise land required. At the same time, landed and low-density housing areas are retained to create variety and offer options in Singapore's residential environment, in order to meet the housing aspirations of Singaporeans. The challenge is to create equally attractive high-density housing areas. This can be achieved by providing good amenities and transport facilities to make living in high-density areas more convenient. Greenery and good urban design can also make dense residential areas more attractive. Public feedback has also shown that people are generally prepared to live in high-rise apartments with higher floors, if privacy is maintained through good design and layout.</p>
 <hr>
-<h5><em>
+<h5>
 Singapore's challenge is to find a balance between optimising industrial land use and retaining its competitive edge as a manufacturing location.
-</em></h5>
-<hr>
+</h5>
+
+	
 <h4>Industrial Land Use</h4>
+	
 <p>Given that manufacturing is expected to remain a significant contributor to the economy, land is needed to support the growth of the industrial sector. This includes high value-added sectors, such as petrochemicals and pharmaceuticals, which typically require large tracts of land due to the nature of their production processes and plant layouts. Without further intensification of land use in land-scarce Singapore, it may be difficult to continue to sustain the growth of the industrial sector in the longer term. However, companies are often reluctant to redesign their processes or intensify their development, as this could introduce production risks. Requiring them to do so could make Singapore less competitive.</p>
+	
 <p>Some design innovations, such as JTC's stacked-up factories,<a href="#notes"><sup>2</sup></a> which have ramps which allow container trucks to make doorstep deliveries to higher floors, are geared towards more efficient use of industrial land.</p>
 <p>Nevertheless, higher-intensity industrial developments have yet to gain widespread acceptance from industrialists. Singapore's planning challenge is therefore to find a balance between optimising industrial land use to ensure that future needs can be met, and retaining its competitive edge as a manufacturing location today.</p>
 <p>&nbsp;</p>
+	
 <p style="text-align: center;"><img title="Tampines Regional Centre" src="../../images/default-source/ethos-images/ethos-issue-2/trc.png?sfvrsn=ce035b7c_0" data-displaymode="Original" alt="Tampines Regional Centre"></p>
 <p><em>Tampines Regional Centre</em></p>
+	
 <h4>Commercial Centres</h4>
 <p>The growth of the Central Business District into the reclaimed land at Marina Bay was planned over 30 years ago and is now being realised. Tampines Regional Centre, the first of the regional centres proposed in the 1991 Concept Plan to be developed, was built up through the sale of over 10 land parcels in the span of about a decade. Tampines today is an established hub for the back offices of many financial institutions, and a retail and entertainment hub serving the needs of residents in the eastern part of Singapore. In the next few years, the focus outside the city centre will be to build up Jurong Regional Centre into a business and transportation hub and to develop Paya Lebar into another commercial hub to meet the demand for business space. Detailed plans for these new commercial centres will be released in 2008 as part of the review of the Master Plan.</p>
 <h4>Transportation</h4>
