@@ -159,13 +159,6 @@ Since the release and development of sites is market-led, the pace of implementi
 
 </div>
 
-
-
-
-
-
-<p>&nbsp;</p>
-
 <h3>PLANNING FOR SUCCESS</h3>
 
 <p>Planning in Singapore is about making the most effective use of limited land resources to create a distinctive, attractive and vibrant city, not only for now but also for future generations to enjoy. Long-term planning for all our various land needs provides the assurance that population and economic growth can be accommodated. This includes providing a choice of different housing types and locations, space to grow businesses, attractive and accessible recreational amenities, and a comprehensive and efficient road and rail system to meet transport needs. Planning also enables Singapore to retain its natural and built heritage, helping to create a world-class city which is not only attractive, but also distinctive and authentically Singaporean.</p>
@@ -191,7 +184,8 @@ PRINCIPLES AND STRATEGIES FOR SUCCESS</h3>
 <h3>STRATEGIES FOR SUCCESS</h3>
 <h4>Residential Land Use</h4>
 <p>Singapore's strategy for residential areas is to increase densities for new housing, particularly in the city area, in order to minimise land required. At the same time, landed and low-density housing areas are retained to create variety and offer options in Singapore's residential environment, in order to meet the housing aspirations of Singaporeans. The challenge is to create equally attractive high-density housing areas. This can be achieved by providing good amenities and transport facilities to make living in high-density areas more convenient. Greenery and good urban design can also make dense residential areas more attractive. Public feedback has also shown that people are generally prepared to live in high-rise apartments with higher floors, if privacy is maintained through good design and layout.</p>
-<hr>
+	
+	
 <h5>
 Singapore's challenge is to find a balance between optimising industrial land use and retaining its competitive edge as a manufacturing location.
 </h5>
@@ -205,7 +199,7 @@ Singapore's challenge is to find a balance between optimising industrial land us
 <p>Nevertheless, higher-intensity industrial developments have yet to gain widespread acceptance from industrialists. Singapore's planning challenge is therefore to find a balance between optimising industrial land use to ensure that future needs can be met, and retaining its competitive edge as a manufacturing location today.</p>
 <p>&nbsp;</p>
 	
-<p style="text-align: center;"><img title="Tampines Regional Centre" src="../../images/default-source/ethos-images/ethos-issue-2/trc.png?sfvrsn=ce035b7c_0" data-displaymode="Original" alt="Tampines Regional Centre"></p>
+<p style="text-align: center;"><img title="Tampines Regional Centre" src="/images/Ethos_Images/Ethos_Issue_02/TRC.png"></p>
 <p><em>Tampines Regional Centre</em></p>
 	
 <h4>Commercial Centres</h4>
@@ -224,7 +218,9 @@ Singapore's challenge is to find a balance between optimising industrial land us
 <p>An important planning principle in Singapore is to create a city which is attractive, vibrant, liveable, and distinctive. One of the tools to achieve this is good urban design, which can generate quality environments and distinctive identities. For instance, urban design guidelines require new developments fronting the Singapore River to be no more than four storeys high at the front and up to 10 storeys high at the back. This maintains a comfortable human scale along the promenade defined by the low-rise conserved shophouses and warehouses along the river. Pitched roofs are required to complement the distinctive historic character of the area. To create an exciting cityscape, the Urban Redevelopment Authority (URA) also actively promotes architecture and urban design excellence to create an awareness and appreciation for good design and to encourage greater creativity in design.</p>
 <p>Another strategy is to capitalise on assets such as Singapore's islandness — for example, with waterfront housing, coastal parks and waterfront recreational opportunities. A further measure towards creating an attractive environment is through greening and conserving our natural heritage where possible. Beyond the protected nature reserves, nature areas are retained and integrated within parks and other developments where feasible. For example, as a result of government-facilitated consultations between a golf course developer and the Nature Society, core areas with rich flora and fauna were preserved at Kranji, and the re-creation of natural habitats allowed birds, including some endangered local species, to continue to roost.</p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><img title="Conservation" src="../../images/default-source/ethos-images/ethos-issue-2/conservation.png?sfvrsn=ca4bb4b6_0" data-displaymode="Original" alt="Conservation"></p>
+<p style="text-align: center;"><img title="Conservation" src="/images/Ethos_Images/Ethos_Issue_02/Conservation.png"></p>
+	
+	
 <p><em>The "old-and-new" approach allows for shophouses to be conserved between new infill development.</em></p>
 <h4>Conservation</h4>
 <p>The preservation and restoration of historic areas is an important element in Singapore's distinctive cityscape, and there is now widespread public support and interest in conservation. As more of our city becomes developed and redeveloped to cater to the needs of a larger population, the retention of our identity through conservation will become more important.</p>
