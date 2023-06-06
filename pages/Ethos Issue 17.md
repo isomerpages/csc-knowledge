@@ -144,31 +144,31 @@ CHEW LING</i></b>
 		<h3>Data Science in Public Policy — The New Revolution?</h3>
 		<b><i>BY DO HOANG VAN KHANH</i></b>
 		<p>Data science tools are likely to revolutionise policymaking, but human intervention is still key to success.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-17/data-science-in-public-policy-the-new-revolution/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Making Policies More Effective, Scalable, Customised and Sustainable</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY HO TECK HUA</i></b>
+		<p>Behavioural science has shown that a small nudge in the right direction can produce positive results with enormous benefits.</p>
+		<div class="button1"><a href="/ethos-issue-17/making-policies-more-effective-scalable-customised-and-sustainable/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>The Hidden Costs of Behavioural Interventions</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY WALTER THESEIRA AND ONG QIYAN</i></b>
+		<p>Too many small nudges could lead to big problems, argue two social scientists in Singapore.</p>
+		<div class="button1"><a href="/ethos-issue-17/the-hidden-costs-of-behavioural-interventions/">Read more</a></div>
 	</div>
 </div>
 
