@@ -65,12 +65,7 @@ padding-bottom:30px;
 {
 font-size:16px;
 }
-		
-	
-	
-	
-	
-	
+
 </style>
 
 
