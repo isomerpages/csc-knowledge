@@ -4,6 +4,12 @@ permalink: /ethos-issue-02/implications-of-prospect-theory-on-road-pricing/
 description: ""
 ---
 <style>
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
 
 .bullet li
 {
@@ -163,4 +169,8 @@ Prospect Theory would suggest that purchase decisions for automobiles are based 
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
