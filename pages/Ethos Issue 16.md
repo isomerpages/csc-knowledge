@@ -55,7 +55,7 @@ margin-top:15px;
 	<div>
 		<h3>Issue 16 , Dec 2016<br>ETHOS Issue 16</h3>
 		<p></p>
-		<div class="button1"><a href="">Download PDF</a></div>
+		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-16.pdf">Download PDF</a></div>
 	</div>
 </div>
 
@@ -64,7 +64,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Editorial</h3>
 		<b><i></i></b>
 		<figcaption></figcaption>
 		<p></p>
@@ -77,7 +77,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>The Power of Games to Drive Policy Outcomes</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -89,7 +89,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Singapore’s Whole-ofGovernment Approach in Crisis Management</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -101,7 +101,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Evolving the Centre of Government: Three Key Insights</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -113,7 +113,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Lessons from New Zealand’s Better Public Services Reforms</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -125,7 +125,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Public Trust in Government Institutions</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -137,7 +137,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Public Institutions and the Productivity Imperative</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -149,7 +149,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Engaging with Stakeholders for Better Public Transport Outcomes</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -162,7 +162,67 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Using Data to Create Better Government</h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>From Scarcity to Generativity: New Approaches for Governing Resources</h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>SG50: What The Public Service Learnt</h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Surveying Singapore’s Future</h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Putting the Public Back in Public Service</h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Committed Leadership in a Changing World</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
