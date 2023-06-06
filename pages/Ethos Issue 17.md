@@ -75,24 +75,24 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Nudging_Why_How_What_Next.jpg"></div>
 	<div>
 		<h3>Nudging: Why, How, What Next?</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY KOK PING SOON</i></b>
+		<p>What does the use of behavioural insights mean for public policymaking and service delivery in Singapore? A practitioner shares his views.</p>
+		<div class="button1"><a href="/ethos-issue-17/nudges-why-how-what-next/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Using_Behavioral_Insights.jpg"></div>
 	<div>
 		<h3>Using Behavioural Insights to Improve Service Delivery</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY LEONARD CHEN</i></b>
+		<p>More targeted approaches could address rising public expectations of service, and enhance policy outcomes.</p>
+		<div class="button1"><a href="/ethos-issue-17/using-behavioural-insights-to-improve-service-delivery/">Read more</a></div>
 	</div>
 </div>
 
