@@ -75,7 +75,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 01, Oct 2006</small></em>
-<img src="/images/Ethos_Images/Teaser_Pictures/Interview.jpg">
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
 
  
 <h3>To what extent can government policy effectively influence long-term population trends?</h3>
