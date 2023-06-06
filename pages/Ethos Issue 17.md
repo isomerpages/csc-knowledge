@@ -68,7 +68,7 @@ margin-top:15px;
 		<b><i>by Dr Alvin Pang</i></b>
 		<figcaption>Editor-in-Chief ETHOS</figcaption>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-17/editorial/">Read more</a></div>
 	</div>
 </div>
 
@@ -77,7 +77,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Nudging: Why, How, What Next?</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
