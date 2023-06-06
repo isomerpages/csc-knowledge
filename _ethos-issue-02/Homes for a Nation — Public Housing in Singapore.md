@@ -10,6 +10,24 @@ description: ""
 	font-size:16px;
 }
 	
+.greybox
+{
+background-color: #5d6165;	
+padding: 30px;
+}
+
+.greybox h3, .greybox p
+{
+	color: white;
+}
+
+.greybox ol li
+{
+	color: white;
+	font-size: 16px;
+}	
+	
+	
 	
 </style>
 
@@ -36,16 +54,15 @@ description: ""
 <p class="small-text text">When Singapore attained self-government in 1959, only 9% of Singaporeans resided in public housing. Most of the population was living in squatter colonies and city slums in unhygienic and potentially hazardous conditions.</p>
 
 
+<div class="greybox">
 
 
-<div class="container">
-
-
-<h3 class="title">SINGAPORE'S APPROACH TO PUBLIC HOUSING</h3>
+<h3>SINGAPORE'S APPROACH TO PUBLIC HOUSING</h3>
 <p>When Singapore attained self-government in 1959, only 9% of Singaporeans resided in public housing. Most of the population was living in squatter colonies and city slums in unhygienic and potentially hazardous conditions.</p>
 <p>The priority at that time was to build a large number of flats as quickly as possible. To resolve this housing crisis, the Housing and Development Board (HDB) was set up in 1960.</p>
 <p>Three features have characterised Singapore's approach to public housing since Independence:</p>
-<ul>
+	
+<ol type="a">
 <li>
     A sole agency in charge of public housing, enabling more effective resource planning and housing allocation. HDB was able to secure land, raw materials and manpower for large-scale construction in a way that optimised resources and achieved economies of scale.
     </li>
@@ -55,12 +72,13 @@ description: ""
 <li>
     Strong political and financial commitment from the Government.
     </li>
-</ul>
+
+	
 <p>There have been vast improvements in the living conditions of Singaporeans over the years. Today, 82% of the population live in 879,000 HDB flats located across 23 towns and estates. More remarkably, about 95% of all HDB residents own the flat they live in.</p>
 
 
 
-</div>
+</ol></div>
 
 
 
