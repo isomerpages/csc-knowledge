@@ -21,7 +21,7 @@ padding: 30px;
 	color: white;
 }
 	
-.road-pricing h5	
+.purple h5	
 {
 	color: white;
 	text-align: center;
@@ -114,13 +114,12 @@ font-size:16px;
 
 <p>Infrastructure, such as urban rail systems and Bus Rapid Transit (BRT), is a key aspect of efforts to improve public transport. The most ambitious approaches, however, also involve excellent, highly customer-oriented integration. In an integrated public transport system, the private car — and not other public transport operators — is seen as the primary rival. Highly-integrated public transport systems are planned and marketed as a unified whole and presented as a single brand image to the general public. Stockholm pioneered this approach in the 1960s and Zurich has taken it further.<a href="#notes"><sup>1</sup></a></p>
 
-<hr>
 
+<div class="purple">
 <h5><em>
 It is in places where the private car is a real threat and where public transport refuses to accept defeat that we find the most intense public transport innovation efforts.
 </em></h5>
-
-<hr>
+</div>
 
 <p>If public transport aims to become a comprehensive mobility tool in competition with cars, strenuous efforts are required to ensure that transfers are simple, quick and reliable. Easier transfers are vital if the full range of destinations is to be served beyond just the city centre. This requires either high-frequency, regular service on all provisions or a carefully-coordinated, "timed-pulse" approach to scheduling in lower density areas.</p>
 
