@@ -175,60 +175,60 @@ CHEW LING</i></b>
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Mindful Choice-Making</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>ERIC JOHNSON</i></b>
+		<p>A behavioural insights veteran wants to make it easier for people to make the right informed choices for themselves.</p>
+		<div class="button1"><a href="/ethos-issue-17/mindful-choice-making-interview-with-eric-johnson/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Re-thinking Public Innovation</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY JOCELYNE BOURGON</i></b>
+		<p>The public sector should seek to transform not just itself but society’s broader capacity to generate new solutions for the common good.</p>
+		<div class="button1"><a href="/ethos-issue-17/re-thinking-public-innovation/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
 		<h3>The Making of Behavioural Economics</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>REVIEWED BY CHARMAINE TAN HUAN YUEN</i></b>
+		<p>A pioneer’s account of the paradigm shift in economics offers compelling insights for the contemporary scholar and practitioner alike.</p>
+		<div class="button1"><a href="/ethos-issue-17/the-making-of-behavourial-economics-review-of-misbehaving-by-richard-thaler/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
 		<h3>Plan for Behavioural Change, One Step at a Time</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>REVIEWED BY LEON LIM</i></b>
+		<p>Think Small: The surprisingly simple ways to reach big goals By Owain Service &amp; Rory Gallagher Michael O’Mara Books Limited (2017); 230 pp.</p>
+		<div class="button1"><a href="/ethos-issue-17/plan-for-behavioural-change-one-step-at-a-time/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Teaser_Project_TapOut.jpg"></div>
 	<div>
 		<h3>Project Tap-out: Nudging Commuter Habits with Behavioural Insights</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY YAP JUN LIANG AND SHARON THAM</i></b>
+		<p>A randomised field trial has helped identify key habits and motivations of concession bus riders.</p>
+		<div class="button1"><a href="/ethos-issue-17/project-tap-out-nudging-commuter-habits-with-behavioural-insights/">Read more</a></div>
 	</div>
 </div>
 
