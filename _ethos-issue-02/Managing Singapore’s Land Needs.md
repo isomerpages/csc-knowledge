@@ -253,4 +253,8 @@ Singapore's challenge is to find a balance between optimising industrial land us
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
