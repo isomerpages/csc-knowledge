@@ -146,22 +146,18 @@ Several trends work in our favour, namely increasing connectivity, the harmonisa
 
 <p>In this regard, the Public Service should seek to promote a common understanding of the challenges confronting Singapore while identifying new opportunities for Singapore. The process should be just as important as the outcome. Rather than tinker at the edges, it should call for bold changes. Executed well, this effort should harness the collective energies of the public sector in repositioning Singapore in the New Asia.</p>
 
-<hr>
+
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Andrew Tan</strong> is Deputy Secretary (International) in the Ministry of Foreign Affairs. This article was written following study trips to India and China, under the Institute of Policy Development's 6th Leaders in Administration Programme (9 October to 17 November 2006). The views reflected herein are his own. </p>
 
+</div>	
+
+<br>
 <br>
 
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
-	
-	
-	
-	
-	
-	
-	
