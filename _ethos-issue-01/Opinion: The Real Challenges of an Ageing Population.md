@@ -93,7 +93,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 01, Oct 2006</small></em>
-<img src="/images/Ethos_Images/Teaser_Pictures/Opinion.jpg">
+<img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
  
 <p>The ageing of populations worldwide has had national governments scrambling to stave off looming economic decline and fiscal disarray. Common policy measures to this effect include raising the retirement age, encouraging savings, and tightening the eligibility criteria on social security. The underlying principles are sound: extend the working life of healthier, longer-lived individuals, exercise prudence, and reduce the burden on fiscal and social support systems.
