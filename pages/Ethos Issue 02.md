@@ -206,14 +206,43 @@ Thoughts on Urban Planning</h3>
 	<div>
 		<h3>Positioning Singapore in a New Asia</h3>
 		<b><i>Andrew Tan</i></b>
-		<p>With the resurgence of Asian economies led by India and China, Singapore's economic prospects have never been better</p>
+		<p>With the resurgence of Asian economies led by India and China, Singapore's economic prospects have never been better.</p>
 		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Strategic_In_OutlookNimble_In_Execution.jpg"></div>
+	<div>
+		<h3>Strategic in Outlook, Nimble in Execution: Strengthening the Centre in Government</h3>
+		<b><i>Ng Chee Khern</i></b>
+		<p>To stay strategic in outlook and nimble in execution, the Singapore Armed Forces restructured its chain of command. Should the rest of the public sector follow suit?</p>
+		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+	<div>
+		<h3>The Globalisation Game</h3>
+		<b><i>Martin Wolf</i></b>
+		<p>The award-winning financial journalist and author of
+Why Globalization Works discusses the role of government in a globalised world, and the impact of China’s rapid growth.</p>
+		
+<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
 </div>
 
 
 
 
+
+
+<br>
 <div class="back">
 <a href="/all-issues/">Back to All Issues</a>
 </div>
