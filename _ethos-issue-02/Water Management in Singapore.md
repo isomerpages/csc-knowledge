@@ -4,6 +4,11 @@ permalink: /ethos-issue-02/water-management-in-singapore/
 description: ""
 ---
 <style>
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
 
 .bullet li
 {
@@ -258,4 +263,8 @@ Only 4.5% of water in Singapore is unaccounted for — this is a level that no o
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
