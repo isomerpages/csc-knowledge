@@ -49,10 +49,10 @@ border-top: 1px solid black;
 	}	
 	
 
-.break
+.yellow
 {
-   border-top: 1px solid  black;
-   border-bottom: 1px solid black;
+
+	background-color: #987D43;
 	 padding:20px;
 	text-align:center;
 	margin-top:50px;
@@ -60,7 +60,7 @@ border-top: 1px solid black;
 	
 .break1
 {
-font-family: Georgia;
+	color:white;
 	font-size:20px;
 	font-style: italic;
 	font-weight: bold;
@@ -110,7 +110,7 @@ years, Singapore will be second only to Japan in demographic age, if current tre
 
 <p>It is thus important for policy makers to take a holistic approach by considering the changing population structure as a whole, and not just the micro picture of elderly dependency ratios and support for the growing numbers of older people. Here is not a simple increase in numbers of older people, but a shift in the population structure of the country, away from a society with many young and few old, to one with a far more balanced ratio of young to old. Indeed, fears over the dependency ratio of the old to those of working age should also take into account a fall in the dependency ratio overall from 48 per 100 in the 1980s to just under 40 by 2003, due to a rapid fall in the number of those aged under 15 years.</p>
 
-<div class="break">  
+<div class="yellow">  
   
 <p class="break1">  
 In developed countries, per capita healthcare costs for those over 65 have increased at the same rate as for those aged less than 65.
@@ -124,7 +124,7 @@ In developed countries, per capita healthcare costs for those over 65 have incre
 
 <p>With fewer younger people working and consuming, there is a further concern that economic growth may be slow. However, if individuals continue to be economically active, their consumption rates and patterns will change and not necessarily decrease. Currently, those over 50 years spend on leisure activities rather than on consumable goods. If they remain within the labour force throughout their 60s, later life income is more likely to be spent on household consumable goods. For example, consumer goods purchased in their 20s and 30s will need replacing. Already key marketing and consumer organisations are beginning to realise this and are capitalising on new market potentials. Traditional perceptions of older cohorts and their patterns of behaviour will need to change.</p>
 
-<div class="break">  
+<div class="yellow">  
   
 <p class="break1">  
 How industrial economies address their new demographic structures will also have important consequences for the global economy.
