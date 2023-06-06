@@ -124,7 +124,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Teaser_Pictures/Interview.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Interview with Asit K. Biswas: Singapore as a Global Water Knowledge Hub</h3>
 		<b><i>Asit K. Biswas</i></b>
@@ -176,9 +176,9 @@ may be necessary.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Teaser_Pictures/Opinion.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3>Opinion from Aaron Maniam: Spaces and Scapes —
+		<h3>Spaces and Scapes —
 Thoughts on Urban Planning</h3>
 		<b><i>Aaron Maniam</i></b>
 		<p>Success in a changing world will demand more than technical skills: it&nbsp;will call for adaptability, empathy and&nbsp;a deeper sense of meaning.</p>
@@ -187,6 +187,31 @@ Thoughts on Urban Planning</h3>
 </div>
 
 <br>
+
+<div class="grid-container">
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
+	<div>
+		<h3>The City and My Home</h3>
+		<b><i>Simon Tay</i></b>
+		<p>Success in a changing world will demand more than technical skills: it&nbsp;will call for adaptability, empathy and&nbsp;a deeper sense of meaning.</p>
+		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
+	</div>
+</div>
+
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Positioning_SingaporeIn_NewAsia.jpg"></div>
+	<div>
+		<h3>Positioning Singapore in a New Asia</h3>
+		<b><i>Andrew Tan</i></b>
+		<p>With the resurgence of Asian economies led by India and China, Singapore's economic prospects have never been better</p>
+		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
+	</div>
+</div>
+
+
 
 
 <div class="back">
