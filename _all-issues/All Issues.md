@@ -200,7 +200,7 @@ font-size: 16px;
 
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/digital-issue-04">Digital Edition Issue 4,<br> Apr 2019</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-20">Issue 20, Jan 2019, The Future of Ageing</a></td>
+	<td><a target="_blank" href="/ethos-issue-20/">Issue 20, Jan 2019, The Future of Ageing</a></td>
 </tr>	
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/digital-issue-04">Download PDF</a></td>
@@ -225,7 +225,7 @@ font-size: 16px;
 	
 <tr>
 <td><a target="_blank" href="https://go.gov.sg/ethos-digital-issue-03">Digital Edition Issue 3, Sep 2018</a></td>
-<td><a target="_blank" href="https://go.gov.sg/ethos-issue-19">Issue 19, Jul 2018, <br>Singapore's Urban: What’s Next</a></td>
+<td><a target="_blank" href="/ethos-issue-19/">Issue 19, Jul 2018, <br>Singapore's Urban: What’s Next</a></td>
 </tr>
 
 	
@@ -241,7 +241,7 @@ font-size: 16px;
 
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/digital-issue-02">Digital Edition Issue 2, Apr 2018</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-18">Issue 18, Jan 2018, The Future of Work</a></td>
+	<td><a target="_blank" href="/ethos-issue-18/">Issue 18, Jan 2018, The Future of Work</a></td>
 </tr>	
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/digital-issue-02">Download PDF</a></td>
@@ -262,7 +262,7 @@ font-size: 16px;
 	
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/digital-issue-01">Digital Edition Issue 1, Nov 2017</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethosissue17">Issue 17, Jun 2017, Behavioural Insights</a></td>
+	<td><a target="_blank" href="/ethos-issue-17/">Issue 17, Jun 2017, Behavioural Insights</a></td>
 </tr>
 
 
@@ -286,8 +286,8 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-16">Issue 16, Dec 2016, <br>Connect, Collaborate and Create Consensus</a></td>
-<td><a target="_blank" href="https://go.gov.sg/ethos-issue-15">Issue 15, June 2016, Public Engagement</a></td>
+	<td><a target="_blank" href="/ethos-issue-16/">Issue 16, Dec 2016, <br>Connect, Collaborate and Create Consensus</a></td>
+<td><a target="_blank" href="/ethos-issue-15/">Issue 15, June 2016, Public Engagement</a></td>
 </tr>
 
 
