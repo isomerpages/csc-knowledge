@@ -99,36 +99,40 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Nudging_Singapore_to_be_Cleaner_and_Greener.jpg"></div>
 	<div>
 		<h3>‘Nudging’ Singapore to be Cleaner and Greener</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY JASON BOH</i></b>
+		<p>Carefully chosen and tested behavioural interventions can complement traditional policy tools in cultivating more environmentally friendly habits and actions.</p>
+		<div class="button1"><a href="/ethos-issue-17/nudging-singapore-to-be-cleaner-and-greener/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Using_Behavioral_Insights_Enforcement.jpg"></div>
 	<div>
 		<h3>Using Behavioural Insights to Strengthen Enforcement</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY LEONG WAI YAN</i></b>
+		<p>Understanding why people are not acting and responding in a timely manner allows government agencies to implement nudges that can significantly improve compliance rates.</p>
+		<div class="button1"><a href="/ethos-issue-17/using-behavioural-insights-to-strengthen-enforcement/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_17/17_Banner_Healthy_Living_Everyday.jpg"></div>
 	<div>
 		<h3>Healthy Living, Everyday</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY
+VANESSA TAN,
+VASUKI UTRAVATHY,
+AND
+CHEW LING</i></b>
+		<p>Nudges have been shown to help Singaporeans form healthier habits and make more informed lifestyle choices.</p>
+		<div class="button1"><a href="/ethos-issue-17/healthy-living-everyday/">Read more</a></div>
 	</div>
 </div>
 
