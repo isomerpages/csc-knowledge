@@ -10,13 +10,13 @@ description: ""
 	font-size:16px;
 }
 	
-.road-pricing
+.purple
 {
-background-color: #512C30;	
+background-color: #6E3A67;	
 padding: 30px;
 }
 
-.road-pricing h2,.road-pricing p
+.purple h3, .purple p
 {
 	color: white;
 }
@@ -68,10 +68,6 @@ font-size:16px;
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
 <img src="/images/Ethos_Images/Ethos_Issue_02/Wanted_An_Ambitious_Vision_For_Singapore_Public_Transport.jpg">
 
-
-
-
-
 <p>Momentous issues lie behind the apparently dry choices facing the experts now reviewing Singapore's public transport arrangements. As a large, compact city, Singapore is approaching limits to road capacity expansion. Increasingly, public transport will be called upon to compete with cars for customers who have a choice. To do this successfully, Singapore will have to adopt a much more ambitious approach to the organisation and regulation of public transport. Existing arrangements are almost certainly not up to the task and fine-tuning them will not be enough.</p>
 
 <p>This article discusses a bold yet feasible vision for public transportation in Singapore. It proposes the introduction of real competition to the public transport market. At the same time, it requires a stronger role for the public sector in planning a highly-attractive, comprehensive and well-integrated transport system.</p>
@@ -84,15 +80,12 @@ font-size:16px;
 
 <p>The authorities have already expressed concern that public transport needs improvement, but do not seem to be considering a fundamental restructuring of the system. This article argues that the institutional and regulatory arrangements to support public transport in Singapore require significant changes, if it is to meet the changing needs of its customers.</p>
 
-
-
-
 <p class="small-text text">Seoul in South Korea has a large subway and, until 2004, had a bus network run by numerous private operators with poor coordination. Since the mid-1980s, it has faced the challenge of rapid increases in car ownership. Pucher et al<a href="#notes"><sup>3</sup></a> described reforms in 2004 that reorganised Seoul's bus services. Inspired by integrated urban public transport systems in Scandinavia, Germany and Switzerland, the changes focused on improved, more customer-oriented service, integration and a shift to a hub-and-spoke network structure. Regulatory reforms were also a key feature.</p>
 
 
 
 
-<div class="container">
+<div class="purple">
 
 
 <h3 class="title">SEOUL'S 2004 BUS SYSTEM REFORMS</h3>
@@ -218,4 +211,3 @@ It is in places where the private car is a real threat and where public transpor
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
