@@ -228,7 +228,7 @@ Thoughts on Urban Planning</h3>
 <div class="grid-container">
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3>The Globalisation Game</h3>
+		<h3>Interview with Martin Wolf: The Globalisation Game</h3>
 		<b><i>Martin Wolf</i></b>
 		<p>The award-winning financial journalist and author of
 Why Globalization Works discusses the role of government in a globalised world, and the impact of China’s rapid growth.</p>
