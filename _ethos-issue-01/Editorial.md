@@ -65,7 +65,7 @@ li {
 
 </style>
 
-<em><small>ETHOS Issue 23, October 2021</small></em>
+<em><small>ETHOS Issue 01, October 2006</small></em>
 <img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
 
