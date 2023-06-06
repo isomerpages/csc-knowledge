@@ -16,7 +16,7 @@ background-color: #5d6165;
 padding: 30px;
 }
 
-.greybox h3, .greybox p
+.greybox h3, .greybox p, .greybox h4
 {
 	color: white;
 }
@@ -25,6 +25,7 @@ padding: 30px;
 {
 	color: white;
 	font-size: 16px;
+	list-style-type: lower-alpha;    
 }	
 	
 	
@@ -60,9 +61,10 @@ padding: 30px;
 <h3>SINGAPORE'S APPROACH TO PUBLIC HOUSING</h3>
 <p>When Singapore attained self-government in 1959, only 9% of Singaporeans resided in public housing. Most of the population was living in squatter colonies and city slums in unhygienic and potentially hazardous conditions.</p>
 <p>The priority at that time was to build a large number of flats as quickly as possible. To resolve this housing crisis, the Housing and Development Board (HDB) was set up in 1960.</p>
+
 <p>Three features have characterised Singapore's approach to public housing since Independence:</p>
 	
-<ol type="a">
+<ol>
 <li>
     A sole agency in charge of public housing, enabling more effective resource planning and housing allocation. HDB was able to secure land, raw materials and manpower for large-scale construction in a way that optimised resources and achieved economies of scale.
     </li>
@@ -73,12 +75,14 @@ padding: 30px;
     Strong political and financial commitment from the Government.
     </li>
 
+</ol>	
 	
 <p>There have been vast improvements in the living conditions of Singaporeans over the years. Today, 82% of the population live in 879,000 HDB flats located across 23 towns and estates. More remarkably, about 95% of all HDB residents own the flat they live in.</p>
 
 
 
-</ol></div>
+
+</div>
 
 
 
@@ -107,17 +111,20 @@ padding: 30px;
 
 
 
-<div class="container">
+<div class="greybox">
 
 
 <h3 class="title">PUBLIC HOUSING — A PILLAR OF NATION-BUILDING</h3>
+	
 <p>Beyond providing physical shelter for Singaporeans, the public housing programme has also served as an important policy instrument in promoting national objectives such as social mobility, rootedness and social integration.</p>
 <p>A hallmark of the public housing programme has been its policy of home ownership. Started in 1964, the Home Ownership for the People Scheme gives home-owning citizens a tangible asset and stake in the country, and promotes rootedness and a sense of belonging among Singaporeans, thus contributing to the overall economic, social and political stability of Singapore. Home ownership also provides Singaporeans with a hedge against inflation and a store of value, which can be monetised during times of need.</p>
 <p>Today, a framework of public housing subsidies makes public housing affordable for families buying their first HDB flat, and for second-timers to upgrade to a bigger flat. Together with the Central Provident Fund scheme, healthcare support and Workfare, public housing has become one of the key pillars of Singapore's social security framework.</p>
 <h4><em>Social Mobility</em></h4>
 <p>Singapore's home ownership framework has helped to create a large asset-owning population, with a strong work ethic oriented towards upward social mobility. As the value of HDB flats have generally risen over time, many flat owners would realise gains from selling their flats. The asset values of HDB flats are also preserved and enhanced through various estates renewal programmes funded by the Government. These asset values can be unlocked when owners sell their HDB flats on the open market.</p>
+	
 <h4><em>Social Integration</em></h4>
 <p>Public housing plays a crucial role in maintaining social harmony in multi-racial, multi-cultural and multi-religious Singapore, by providing a living environment where Singaporeans of different races and socio-economic groups have opportunities to mix and interact with one another. This is achieved by providing commercial, educational, recreational, community and social facilities in public housing estates; varying the flat types and sizes within each HDB block; and setting limits on the ethnic proportions within each public housing block and neighbourhood.</p>
+	
 <h4><em>Shared Experience</em></h4>
 <p>Today, 82% of the population is housed in HDB estates, and the estates (comprising flats and a comprehensive range of facilities) have become a common point of emotional reference for the vast majority of Singaporeans. This "HDB Experience" has played an important role in bonding Singaporeans, in the same way that National Service and the education system have created common experiences among Singaporeans of all races and from all walks of life.</p>
 
