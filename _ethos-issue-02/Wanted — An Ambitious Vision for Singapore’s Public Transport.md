@@ -4,6 +4,12 @@ permalink: /ethos-issue-02/wanted-an-ambitious-vision-for-singapores-public-tran
 description: ""
 ---
 <style>
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
 
 .bullet li
 {
@@ -209,4 +215,8 @@ It is in places where the private car is a real threat and where public transpor
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
