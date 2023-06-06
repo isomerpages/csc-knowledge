@@ -4,7 +4,11 @@ permalink: /ethos-issue-02/public-housing-in-singapore/
 description: ""
 ---
 <style>
-	
+
+.bullet li
+{
+	font-size:16px;
+}
 	
 	
 </style>
@@ -19,10 +23,10 @@ description: ""
 
 <p>Following the first Concept Plan<a href="#notes"><sup>1</sup></a> for Singapore in 1971, HDB designed its public housing estates on two basic principles:</p>
 
-<ul>
+<ol class="bullet">
 <li>Optimise scarce land resources to meet long-term housing demands which led to the building of high- rise, high-density public housing.</li>
 <li>Provide a total living environment with educational, social and community facilities in sustainable and self-contained new towns.</li>
-</ul>
+</ol>
 
 <p>To meet the changing needs and lifestyles of Singaporeans, public housing has evolved over the years from the basic low-cost housing units of the 1960s to the high quality, reasonably priced apartments that are the hallmark of Singapore's urban landscape today.</p>
 
@@ -159,4 +163,3 @@ description: ""
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
