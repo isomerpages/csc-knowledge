@@ -2,6 +2,7 @@ collections:
   ethos-issue-02:
     output: true
     order:
+      - Implications of Prospect Theory on Road Pricing.md
       - Singapore as a Global Water Knowledge Hub.md
       - Water Management in Singapore.md
       - Homes for a Nation — Public Housing in Singapore.md
