@@ -4,6 +4,12 @@ permalink: /ethos-issue-02/public-housing-in-singapore/
 description: ""
 ---
 <style>
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}	
 
 .bullet li
 {
@@ -206,4 +212,8 @@ font-size:16px;
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
