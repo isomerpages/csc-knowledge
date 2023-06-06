@@ -126,7 +126,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3>Interview with Asit K. Biswas: Singapore as a Global Water Knowledge Hub</h3>
+		<h3>Singapore as a Global Water Knowledge Hub</h3>
 		<b><i>Asit K. Biswas</i></b>
 		<p>One of the world’s leading authorities on water, Professor Asit
 K. Biswas is also the President of the Third World Centre for Water Management in Mexico. Speaking to Ethos, he argues that Singapore
