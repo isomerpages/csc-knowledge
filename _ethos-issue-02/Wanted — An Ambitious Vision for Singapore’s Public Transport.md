@@ -22,7 +22,7 @@ background-color: #6E3A67;
 padding: 30px;
 }
 
-.purple h3, .purple p
+.purple h3, .purple p, .purple sup
 {
 	color: white;
 }
