@@ -42,6 +42,20 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 	
+.adapted
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+}	
+	
+.adapted p
+{
+		font-size: 0.9em;
+	line-height:24px !important;
+}
+	
+	
 .small-text
 {
 font-size:16px;
@@ -132,15 +146,15 @@ Only 4.5% of water in Singapore is unaccounted for — this is a level that no o
 <p>The current tariff structure used by PUB has several distinct advantages, among which are the following:</p>
 
 <ul>
-<li>Pay-as-you-use: There is no low "lifeline" tariff, used in many countries with the rationale that water should be affordable as a basic necessity. Such a tariff in effect subsidises consumers who can afford to pay for the actual quantity of water they consume. In Singapore, the poor who cannot afford to pay for the current water tariffs receive a targeted subsidy instead. This is much more efficient socio-economically, instead of providing subsidised water to all households irrespective of their economic conditions.</li>
-<li>
-    Disincentive to over-consume: The current domestic tariff of water consumption up to 40m<sup>3</sup>/month/ household is identical to the non- domestic tariff. In other words, commercial and industrial users do not subsidise domestic users, which is often the case in many other countries. However, households who use more than 40m<sup>3</sup> of water per month are subject to higher rates than commercial and industrial rates, as well as more WCT per unit of consumption beyond 40m<sup>3</sup>/month. These penalties have a perceptible impact on household behaviour in terms of water conservation and overall demand management.
+	<li><b>Pay-as-you-use:</b> There is no low "lifeline" tariff, used in many countries with the rationale that water should be affordable as a basic necessity. Such a tariff in effect subsidises consumers who can afford to pay for the actual quantity of water they consume. In Singapore, the poor who cannot afford to pay for the current water tariffs receive a targeted subsidy instead. This is much more efficient socio-economically, instead of providing subsidised water to all households irrespective of their economic conditions.</li>
+
+<li><b>Disincentive to over-consume:</b> The current domestic tariff of water consumption up to 40m<sup>3</sup>/month/ household is identical to the non- domestic tariff. In other words, commercial and industrial users do not subsidise domestic users, which is often the case in many other countries. However, households who use more than 40m<sup>3</sup> of water per month are subject to higher rates than commercial and industrial rates, as well as more WCT per unit of consumption beyond 40m<sup>3</sup>/month. These penalties have a perceptible impact on household behaviour in terms of water conservation and overall demand management.
     </li>
 <li>
-    Differentiated costing: The WBF is used to offset the cost of treating wastewater and for the maintenance and extension of the public sewerage system. For non- domestic consumption, this fee is double that of domestic consumption due to the fact that it is more difficult and expensive to treat non-domestic wastewater.
+	<b>Differentiated costing:</b> The WBF is used to offset the cost of treating wastewater and for the maintenance and extension of the public sewerage system. For non- domestic consumption, this fee is double that of domestic consumption due to the fact that it is more difficult and expensive to treat non-domestic wastewater.
     </li>
 <li>
-    Financial viability: Revenue from WCT accrues to the Government. However, a major component of the overall revenue collected through water tariffs accrues to PUB for operation, maintenance costs and new investments. This is in sharp contrast to many countries where internal cash generation of water utilities to finance water supply and sanitation has steadily declined.
+	<b>Financial viability:</b> Revenue from WCT accrues to the Government. However, a major component of the overall revenue collected through water tariffs accrues to PUB for operation, maintenance costs and new investments. This is in sharp contrast to many countries where internal cash generation of water utilities to finance water supply and sanitation has steadily declined.
     </li>
 </ul>
 
@@ -210,15 +224,19 @@ Only 4.5% of water in Singapore is unaccounted for — this is a level that no o
 
 <p>By ensuring efficient use of its limited water resources through economic instruments, adopting the latest technological development to produce "new" sources of water, enhancing storage capacities by proper catchment management, practising water conservation measures, and ensuring concurrent consideration of social, economic and environmental factors, Singapore has reached a level of holistic water management that other urban centres will do well to emulate.</p>
 
-<hr>
 
+<div class="author">
 <h6>ABOUT THE AUTHOR</h6>
 
-<p class="small-text"><em>This article was adapted with permission from the paper "Water Management in Singapore", first published in the International Journal of Water Resources Development, Volume 22, No. 2, June 2006: pp 227-240. © Routledge, Taylor &amp; Francis Group, <a href="../../Knowledge/Ethos/Issue%202%20Apr%202007/Pages/www.tandf.co.uk/journals.html">www.tandf.co.uk/journals</a> .</em> </p>
-
 <p class="small-text"><strong>Dr Cecilia Tortajada</strong> is Vice-President, Third World Centre for Water Management in Mexico, Director of the International Water Centre, International Centre of Environment and Water (CIAMA) in Aragon, Spain and President of the International Water Resources Association (IWRA). She is also Editor of the International Journal of Water Resources Development, and past member of the Editorial Board of Water International. Dr Tortajada is currently working on a number of issues, including the development of new and innovative approaches for poverty alleviation through integrated regional development, environmental and social policies related to water resources development, and public participation and capacity building in the water sector.</p>
+	
+</div>	
 
-<hr>
+
+<div class="adapted">
+<p class="small-text"><em>This article was adapted with permission from the paper "Water Management in Singapore", first published in the International Journal of Water Resources Development, Volume 22, No. 2, June 2006: pp 227-240. © Routledge, Taylor &amp; Francis Group, <a href="../../Knowledge/Ethos/Issue%202%20Apr%202007/Pages/www.tandf.co.uk/journals.html">www.tandf.co.uk/journals</a> .</em> </p>
+</div>
+
 
 <h6><a name="notes"></a>NOTES</h6>
 
