@@ -122,11 +122,14 @@ The capacity to make effective trade-offs is hindered by the proliferation of ag
 <p>Individual Ministries will need to be as strong as ever in their functional competencies. Otherwise, they run the danger of not having sufficient specialist expertise to take strategic action. However, Ministries will have to be convinced of the value of giving up some of their decision-making prerogative in the interest of a stronger and more holistic perspective on strategic issues that cut across the whole of Government. If they can be persuaded, the Civil Service has the potential to take on a far more strategic orientation and become a lot quicker and more nimble in execution.</p>
 
 
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Brigadier-General Ng Chee Khern</strong> is Chief of Air Force. A pilot by vocation, he previously served as Director, Joint Operations and Planning Directorate and Chief of Staff (Air Staff). This article was written while he was attending the Institute of Policy Development's 6th Leaders in Administration Programme (9 October to 17 November 2006). </p>
 
+</div>	
+	
 <br>
 
 
