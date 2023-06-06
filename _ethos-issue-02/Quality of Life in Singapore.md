@@ -74,6 +74,10 @@ font-size:16px;
 </style>
 
 
+<em><small>ETHOS Issue 02, Apr 2007</small></em>
+<img src="/images/Ethos_Images/Ethos_Issue_02/Qualtiy_Of_Life.jpg">
+
+
 <p>While having a picnic lunch at the reservoir park, your spouse spots a kayak booth and thinks it would be a novel idea to tour the reservoir on boat. After a leisurely paddle and a stop for ice-cream, it is time to head home. Your in-laws drop in for a visit, bringing presents and sharing how they hopped from one mall to another along the shopping belt, never having to leave the air-conditioned comfort of the newly opened underground linkways lined with interesting shops and cafés.</p>
 
 <p>Could this be Singapore in the near future? While Quality of Life tends to be associated with fashionable cities such as Sydney and Vancouver, mention Singapore and the first impression tends to be: too hot and humid; too few entertainment options; too urban and built up. Singapore has even been caricatured as a sterile "police state" where censorship is rife and individual views suppressed.</p>
