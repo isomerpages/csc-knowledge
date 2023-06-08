@@ -135,11 +135,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Implications_Of_ProspectTheory_OnRoad_Pricing.jpg">![]()</div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/Security_With_Slef_Reliance.jpg"></div>
 	<div>
-		<h3>Implications of Prospect Theory on Road Pricing</h3>
-		<b><i>Anthony T. H. Chin</i></b>
-		<p>While the economic costs of traffic congestion are well documented, the effectiveness of economic instruments, such as road pricing, in containing traffic congestion is less clear. Prospect Theory, a leading behavioural model in experimental economics, may explain inelastic driver behaviour in response to road pricing during peak hours. It may also shed light on the phenomenon of consumers who continue driving despite its higher economic cost relative to other modes of transport.</p>
+		<h3>Security with Self-Reliance: The Argument for the Singapore Model</h3>
+		<b><i>Lim Xiuhui</i></b>
+		<p>Singapore’s system of social security is based on enabling self-reliance, supported by strong family and social networks.</p>
 		<div class="button1"><a href="/ethos-issue-18/making-technology-work-for-workers/">Read more</a></div>
 	</div>
 </div>
