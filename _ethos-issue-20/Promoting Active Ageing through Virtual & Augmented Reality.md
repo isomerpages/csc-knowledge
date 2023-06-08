@@ -129,7 +129,7 @@ empower the elderly to live independently—would be more aligned with active ag
   
   
   
-<p class="small-text text">VR is set to become a significant computing platform within the next decade, with applications in a wide variety of sectors, from retail to education and healthcare. </p>  
+<br>
   
   
   
