@@ -147,10 +147,10 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Wanted_An_Ambitious_Vision_For_Singapore_Public_Transport.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3>Wanted — An Ambitious Vision for Singapore’s Public Transport</h3>
-		<b><i>Paul Barter</i></b>
+		<h3>Singapore’s Social Support System: Two Anomalies</h3>
+		<b><i>Chua Hak Bin</i></b>
 		<p>In order for public transport in Singapore to compete with the lure
 of private cars, a radical overhaul in regulation and organisation
 may be necessary.</p>
