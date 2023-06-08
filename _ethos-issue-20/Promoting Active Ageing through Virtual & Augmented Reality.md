@@ -188,9 +188,6 @@ empower the elderly to live independently—would be more aligned with active ag
 <li class="small-text">Ministry of Social and Family Development, <em>Ageing Families in Singapore</em> (Singapore: Ministry of Social and Family Development), <a href="https://www.msf.gov.sg/research-and-data/Research-and-Data-Series/Documents/Ageing Families Report Insight Series 20151124.pdf">https://www.msf.gov.sg/research-and-data/Research-and-Data-Series/Documents/Ageing%20Families%20Report%20Insight%20Series%2020151124.pdf</a>.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
