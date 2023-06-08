@@ -99,10 +99,10 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Homes_For_A_Nation.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3>Homes for a Nation — Public Housing in Singapore</h3>
-		<b><i>Yap Chin Beng</i></b>
+		<h3>Globalisation and the Challenges of Social Policy in Asia’s Developed Open Economies</h3>
+		<b><i>Wong Chack-kie</i></b>
 		<p>To meet the changing needs and aspirations of a more affluent and diverse population, Singapore’s public housing will have to evolve in significant new directions in the coming decades.</p>
 		<div class="button1"><a href="/ethos-issue-18/the-digital-social-contract-and-e-legitimacy/">Read more</a></div>
 	</div>
