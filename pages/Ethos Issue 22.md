@@ -52,7 +52,7 @@ margin-top:15px;
         <div><img src="/images/Ethos_Thumbnails_Cover/ethosissue22.jpg"></div>
         <div><h3><span class="cat">ISSUE 22, JUN 2021</span>
             <br>ETHOS Issue 22</h3>	
-            <p></p>
+            <p>COVID-19 has had a far-reaching impact on the economy and society, and remains a clear and present challenge. In this issue, ETHOS takes stock of the pandemic's socioeconomic, governance and geopolitical implications, and reflects on how Singapore and other governments have responded to the crisis of a generation.</p>
             
             
    <div class="button1"><a target="_blank" href="">Download PDF</a></div>
@@ -65,7 +65,8 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i></i></b>
+		<b><i>Alvin Pang</i></b>
+		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p></p>
 	
 <div class="button1"><a target="_blank" href="/ethos-issue-22/editorial/">Read more</a></div>
