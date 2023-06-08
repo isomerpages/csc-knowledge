@@ -4,7 +4,87 @@ permalink: /ethos-issue-02/singapore-as-a-global-water-knowledge-hub/
 description: ""
 ---
 <style>
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
 	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #B7C9E2;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}	
+
+li {
+	font-size: 15px !important;
+	
+	}	
+	
+.notestop
+{
+	font-size: 15px;
+	line-height:22px !important;
+}	
+	
+.green
+{
+background-color: #76723D;
+padding: 30px;
+margin-top:20px;
+font-family: Georgia;
+font-size:20px;
+font-style: italic;
+text-align: center;
+}
+		
+.green h5
+{
+color: white;	
+}			
 	
 	
 	
@@ -30,13 +110,12 @@ description: ""
 
 <p>Singapore, in my view, now has some unique opportunities in the water sector which it should consider pursuing. Because Singapore has succeeded so well, it should consider very seriously how these management techniques, technology, economics, pricing policies and public participation processes can be used in other countries, both developing and developed. Singapore needs to carefully and objectively document what it has already done, how it has done this, and with what costs and results. These analyses will be of great value to the rest of the world.</p>
 
-<hr>
 
-<h5><em>
+<div class="green">
+<h5>
 Singapore, in recent years, has been a trendsetter. It now has tremendous economic opportunity to export its know-how to many other countries.
-</em></h5>
-
-<hr>
+</h5>
+</div>
 
 <p>For example, there is a great deal of discussion on the advanced technology used in Singapore for managing its water cycle. But with NEWater, the most important issue is not technology, though it is important. The technology is well-known and can be bought off the shelf. The critical issues are public psychology, institutional dynamism and leadership, and public acceptance of the use of treated water.</p>
 
@@ -60,13 +139,13 @@ Singapore, in recent years, has been a trendsetter. It now has tremendous econom
 
 <p>Singapore has a golden opportunity right now to become the water knowledge hub for the world, including focusing on applied research on water management and looking into future water problems and policies needed to solve them. It already has outstanding institutions like PUB. There is absolutely no reason why an established institution in Singapore should not become the pre-eminent global authority in the area of water policy and governance, which the world at present simply does not have.</p>
 
-<hr>
 
-<h5><em>
+<div class="green">
+<h5>
 If Singapore can synergistically combine the water expertise it currently has with new water-related activities, it can become the water captial of the world within the next five to six years.
-</em></h5>
+</h5>
+</div>
 
-<hr>
 
 <p>Singapore also has extremely good tourism infrastructure. It is surrounded by water. It has done remarkably well in urban water planning and management. Perhaps it could also consider a water festival where the main focus could be on water-related activities. The city could become a tourist destination during the water festival.</p>
 
@@ -89,5 +168,3 @@ If Singapore can synergistically combine the water expertise it currently has wi
 <br>
 
 <p><a href="../ethos.html">Back to Ethos homepage</a></p>
-
-
