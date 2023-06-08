@@ -69,9 +69,9 @@ li {
 	line-height:22px !important;
 }	
 	
-.green
+.brown
 {
-background-color: #76723D;
+background-color: #5A4715;
 padding: 30px;
 margin-top:20px;
 font-family: Georgia;
@@ -80,7 +80,7 @@ font-style: italic;
 text-align: center;
 }
 		
-.green h5
+.brown h5
 {
 color: white;	
 }			
@@ -111,13 +111,12 @@ color: white;
 
 <p>In a very deep sense, modern globalisation was ultimately a US project that goes back to the years after the Second World War. It is a logical consequence, if not an intended one, of the post-war system. Throughout the 1960s and 1970s, they pushed the idea that developing countries should liberalise and integrate into the world system. So eventually everybody did, including the Chinese, the Russians, and the Indians. In my view, this was incomparably the most successful foreign policy project of the US and, indeed, of any great power.</p>
 
-<hr>
 
-<h5><em>
-The argument for globalisation is not an argument against government. It is an argument for sensible and good government.
-</em></h5>
+<div class="brown">
+<h5>The argument for globalisation is not an argument against government. It is an argument for sensible and good government.
+</h5>
+</div>
 
-<hr>
 
 <p>There are many, many American winners from globalisation. The United States continues to possess and is likely to continue to possess for quite some time the world's most innovative companies, the world's centres for innovation. For this reason, it attracts many of the brightest people from all over the world, and it has many of the world's most successful multinational companies, financial centres and businesses. All these winners have a huge interest in making globalisation work in the US, and they are very influential in politics.</p>
 
@@ -161,11 +160,12 @@ The argument for globalisation is not an argument against government. It is an a
 
 <p class="small-text"><em>This article was extracted from a discussion between Donald Low, Director of the Institute of Policy Development and Mr Martin Wolf on 14 September 2006, after Mr Wolf delivered his New Insights Lecture on "Global Imbalances: Why They Matter" at the Civil Service College in Singapore.</em></p>
 
-<hr>
+
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
-<p class="small-text"><strong>Mr Martin Wolf</strong> is Associate Editor and Chief Economics Commentator at The Financial Times, London. He was awarded the Commander of the British Empire (CBE) in 2000 for services to financial journalism. He is a visiting fellow of Nuffield College, Oxford University, and a Special Professor at the University of Nottingham. He has been a Forum Fellow at the annual meeting of the World Economic Forum in Davos, since 1999. Mr Wolf was joint winner of the Wincott Foundation senior prize for excellence in financial journalism for 1989 and again for 1997 and won the RTZ David Watt memorial prize for 1994, a prize granted annually "to a writer judged to have made an outstanding contribution in the English language towards the clarification of national, international and political issues and the promotion of their greater understanding".</p>
+<p class="small-text"><strong>Mr Martin Wolf</strong> is Associate Editor and Chief Economics Commentator at The Financial Times, London. He was awarded the Commander of the British Empire (CBE) in 2000 for services to financial journalism. He is a visiting fellow of Nuffield College, Oxford University, and a Special Professor at the University of Nottingham. He has been a Forum Fellow at the annual meeting of the World Economic Forum in Davos, since 1999. Mr Wolf was joint winner of the Wincott Foundation senior prize for excellence in financial journalism for 1989 and again for 1997 and won the RTZ David Watt memorial prize for 1994, a prize granted annually "to a writer judged to have made an outstanding contribution in the English language towards the clarification of national, international and political issues and the promotion of their greater understanding".</p></div>
 
 <hr>
 
