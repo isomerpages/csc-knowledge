@@ -147,12 +147,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_16/16_Teaser_Engaging%20with%20Stakeholders%20for%20Better%20Public%20Transport%20Outcomes.jpg"></div>
 	<div>
 		<h3>Engaging with Stakeholders for Better Public Transport Outcomes</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY HENG JU-LI</i></b>
+		<p>Taking on a new advisory role, the Public Transport Council finds keeping an open mind and engaging diverse views makes for more balanced and useful recommendations.</p>
+		<div class="button1"><a href="/ethos-issue-16/engaging-with-stakeholders-for-better-public-transport-outcomes/">Read more</a></div>
 	</div>
 </div>
 
@@ -160,72 +160,72 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Using Data to Create Better Government</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY VIDHYA GANESAN AND DIAAN-YI LIN</i></b>
+		<p>Public agencies in Singapore and elsewhere have already begun to use data analytics to transform public policy thinking and delivery.</p>
+		<div class="button1"><a href="/ethos-issue-16/using-data-to-create-better-government/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>From Scarcity to Generativity: New Approaches for Governing Resources</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY AARON MANIAM</i></b>
+		<p>Data, knowledge and connections can increase rather than decrease in value with use: but we need a new public language to make the most of them.</p>
+		<div class="button1"><a href="/ethos-issue-16/from-scarcity-to-generativity-new-approaches-to-governing-resources/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_16/16_Teaser_SG50-%20What%20The%20Public%20Service%20Learnt.jpg"></div>
 	<div>
 		<h3>SG50: What The Public Service Learnt</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY YEE LAI FONG</i></b>
+		<p>The successful year-long celebrations strengthened the Public Service’s capacity to engage with its partners in new, collaborative ways that bode well for the future.</p>
+		<div class="button1"><a href="/ethos-issue-16/sg50-what-the-public-service-learnt/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
 		<h3>Surveying Singapore’s Future</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>REVIEWED BY THEOPHILUS KWEK</i></b>
+		<p><b>Book Details:</b> <br> The Birthday Book Edited by Malminderjit Singh Ethos Books (2016); 252pp.; $23.36</p>
+		<div class="button1"><a href="/ethos-issue-16/surveying-singapore-s-future/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Putting the Public Back in Public Service</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>Participants: <br>Hon Christine , Mr Aung Naing Oo , Ms Shazainah Shariffuddin </i></b>
+		<p>In this edition of the ETHOS Roundtable, participants of the 9th Leaders in Governance Programme discuss the challenges of technology, public trust, and the need to nurture strong ties between government and citizens.</p>
+		<div class="button1"><a href="/ethos-issue-16/putting-the-public-back-in-public-service/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Committed Leadership in a Changing World</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>JEAN-FRANÇOIS MANZONI</i></b>
+		<p>To excel, tomorrow’s public leaders will have to be competent, resilient, inclusive and emotionally connected to their people.</p>
+		<div class="button1"><a href="/ethos-issue-16/committed-leadership-in-a-changing-world/">Read more</a></div>
 	</div>
 </div>
 
