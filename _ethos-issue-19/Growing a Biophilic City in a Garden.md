@@ -255,8 +255,9 @@ Source: NParks</p>
 
 
 
-<p class="small-text text">The 10-hectare Learning Forest is an extensive restoration project of the lowland forest and wetland habitats that used to surround the Singapore Botanic Gardens. </p>
-
+<br>
+<br>
+<br>
 
 
 
