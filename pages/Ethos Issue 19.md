@@ -56,8 +56,7 @@ margin-top:15px;
 		<h3>Issue 19, Jul 2018 <br>
 		Ethos Issue 19
 		</h3>
-		<b><i></i></b>
-		<p></p>
+		<p>This issue looks at Singapore's urban development and explores how Singapore's cityscape is set to evolve in the near future, and what it could mean for the way we live, work, connect and play in the 21st century.</p>
 		<div class="button1"><a href="">Download PDF</a></div>
 	</div>
 </div>
@@ -68,7 +67,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
 		<figcaption>Editor-in-Chief, ETHOS</figcaption>
-		<p></p>
+		<p>Singapore's urban solutions are the outcome of efforts to address and overcome prevailing complex constraints through unique approaches.</p>
 		<div class="button1"><a href="/ethos-issue-19/editorial/">Read more</a></div>
 	</div>
 </div>
