@@ -149,8 +149,7 @@ Robots will have the capacity not just to repeat processes but to discern method
   
   
   
-<p class="small-text text">A citizen in search of public services is not a shopper.</p>  
-  
+<br>
   
   
   
