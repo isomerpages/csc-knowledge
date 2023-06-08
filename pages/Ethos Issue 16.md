@@ -80,43 +80,43 @@ margin-top:15px;
 		<h3>The Power of Games to Drive Policy Outcomes</h3>
 		<b><i>BY PETER HO</i></b>
 		<p>Well-designed games and simulations can broaden outreach, bridge divides, and offer engaging ways to understand and further public policy goals.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-16/the-power-of-games-to-drive-policy-outcomes/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_16/16_Teaser_Singapore’s%20Whole-of-Government%20Approach%20in%20Crisis%20Management.jpg"></div>
 	<div>
-		<h3>Singapore’s Whole-ofGovernment Approach in Crisis Management</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Singapore’s Whole-of-Government Approach in Crisis Management</h3>
+		<b><i>BY JAMES LOW</i></b>
+		<p>Deliberate and concerted effort has been key to building up Singapore’s state capacity to resolve crises, but more should be done to strengthen the community’s role in future.</p>
+		<div class="button1"><a href="/ethos-issue-16/singapore-whole-of-government-approach-in-crisis-management/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Evolving the Centre of Government: Three Key Insights</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY VERNIE OLIVEIRO</i></b>
+		<p>For centres of government to play a meaningful role in coordinating state responses to complex issues, they should be clear and purposeful about their impact on the public sector at large</p>
+		<div class="button1"><a href="/ethos-issue-16/evolving-the-centre-of-government-three-key-insights/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_16/16_Teaser_Lessons%20from%20New%20Zealand’s%20Better%20Public%20Services%20Reforms.jpg"></div>
 	<div>
 		<h3>Lessons from New Zealand’s Better Public Services Reforms</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY RYAN ORANGE</i></b>
+		<p>Successful and sustainable public management reform will depend on picking the right time and focus, and engaging an intrinsic passion for service.</p>
+		<div class="button1"><a href="/ethos-issue-16/lessons-from-new-zealands-better-public-services-reforms/">Read more</a></div>
 	</div>
 </div>
 
