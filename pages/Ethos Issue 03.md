@@ -224,12 +224,13 @@ Three Suggestions</h3>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/The_Asian_Financial_Crisis_In_Hindsight.jpg"></div>
 	<div>
-		<h3>Interview with Martin Wolf: The Globalisation Game</h3>
-		<b><i>Martin Wolf</i></b>
-		<p>The award-winning financial journalist and author of
-Why Globalization Works discusses the role of government in a globalised world, and the impact of China’s rapid growth.</p>
+		<h3>The Asian Financial Crisis In Hindsight</h3>
+		<b><i>Donald Low</i></b>
+		<p>The Asian Financial Crisis might well be the first major crisis
+of globalisation. Donald Low examines its causes and
+implications ten years on.</p>
 		
 <div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
