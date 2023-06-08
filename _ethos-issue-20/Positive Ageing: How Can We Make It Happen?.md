@@ -185,10 +185,8 @@ to switch careers.
   
   
   
-  
-<p class="small-text text">In conjunction with Singapore’s 53rd National Day celebration, Singapore University of Social Sciences (SUSS) Gerontology students and Alumni, together with community partners St Luke’s Eldercare Ltd and Singapore Amalgamated Services Co-Operative (SASCO) and student volunteers from Central ITE Polytechnic, recently organised a successful Sports Day at the Singapore Sports Hub for about 150 seniors aged 65 years and above. </p>  
-  
-  
+
+ 
   
   
 <div class="containerbox">  
