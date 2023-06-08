@@ -36,7 +36,6 @@ border-top: 1px solid black;
    border-top: 1px solid  black;
    border-bottom: 1px solid black;
 	 padding:20px;
-	text-align:center;
 	margin-top:50px;
 }
 	
@@ -77,8 +76,9 @@ background-color: #573b69;
 padding: 30px;
 margin-top:20px;
 font-family: Georgia;
-	font-size:20px;
-	font-style: italic;
+font-size:20px;
+font-style: italic;
+text-align:center;
 }
 		
 .purple1
@@ -235,14 +235,14 @@ Singapore's challenge is to find a balance between optimising industrial land us
 
 
 
-<hr>
+<div class="break">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Melissa Sapuan</strong> is Executive Planner in the Physical Planning, Concept Plan and Policies Section of the Urban Redevelopment Authority.</p>
 
-<hr>
-
+</div>
+	
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
