@@ -35,7 +35,6 @@ border-top: 1px solid black;
    border-top: 1px solid  black;
    border-bottom: 1px solid black;
 	 padding:20px;
-	text-align:center;
 	margin-top:50px;
 }
 	
@@ -157,14 +156,22 @@ If Singapore can synergistically combine the water expertise it currently has wi
 
 <p>My view is if Singapore can synergistically combine the water expertise it currently has with new activities like a Singapore Water Festival, or a Singapore Water Forum, and a few similar water-related activities, it can become the water capital of the world within the next five to six years. This is a very exciting prospect.</p>
 
-<hr>
 
+<div class="break">
 <h6>ABOUT THE AUTHOR</h6>
 
-<p class="small-text"><em>This article is excerpted from an interview conducted in Singapore (15 January 2007) by Sheila Ng, Assistant Editor, ETHOS.</em></p>
 
 <p class="small-text"><strong>Professor Asit K. Biswas</strong> is President of the Third World Centre for Water Management in Mexico. He has been a senior advisor to 17 governments, six heads of the United Nations Agencies, and most major international organisations. One of the world's leading international authorities on water, he is the founder of International Journal of Water Resources Development and has been its Editor-in-Chief for the past 22 years. He authored and edited 69 books and has published over 600 scientific and technical papers. In 2006, Prof Biswas was honoured with the Stockholm Water Prize for "his outstanding and multi-faceted contributions to global water resource issues", the prestigious Aragon Environment Prize of Spain, the Man of the Year Award of Canada, and the honorary Doctor of Science degree from the University of Strathclyde, Glasgow. </p>
 
+	
+<p class="small-text"><em>This article is excerpted from an interview conducted in Singapore (15 January 2007) by Sheila Ng, Assistant Editor, ETHOS.</em></p>	
+	
+	
+</div>	
+	
+<br>
 <br>
 
-<p><a href="../ethos.html">Back to Ethos homepage</a></p>
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
