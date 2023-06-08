@@ -160,11 +160,11 @@ may be necessary.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Qualtiy_Of_Life.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/WageInequality.jpg"></div>
 	<div>
-		<h3>Quality of Life in Singapore</h3>
-		<b><i>Tan Li San</i></b>
-		<p>Can Singapore become one of the world’s most liveable cities in the 21st century?</p>
+		<h3>Wage Inequality, Intergenerational Mobility and Education in Singapore</h3>
+		<b><i>Ho Kong Weng</i></b>
+		<p>Wage equality and intergenerational educational mobility may be in long-term decline in Singapore.</p>
 		<div class="button1"><a href="/ethos-issue-18/public-value-through-private-partnerships-the-grab-story/">Read more</a></div>
 	</div>
 </div>
@@ -172,12 +172,13 @@ may be necessary.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/Social_Security_In_Singapore.jpg"></div>
 	<div>
-		<h3>Spaces and Scapes —
-Thoughts on Urban Planning</h3>
-		<b><i>Aaron Maniam</i></b>
-		<p>Success in a changing world will demand more than technical skills: it&nbsp;will call for adaptability, empathy and&nbsp;a deeper sense of meaning.</p>
+		<h3>Workfare: The Fourth Pillar of Social Security in Singapore</h3>
+		<b><i>Jacqueline Poh</i></b>
+		<p>Singapore’s latest labour policy is more than a wage supplement
+scheme—it is a bold new addition to the social safety net in
+today’s volatile economic environment.</p>
 		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
 </div>
@@ -185,11 +186,11 @@ Thoughts on Urban Planning</h3>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/Aid_For_Work.jpg"></div>
 	<div>
-		<h3>The City and My Home</h3>
-		<b><i>Simon Tay</i></b>
-		<p>Success in a changing world will demand more than technical skills: it&nbsp;will call for adaptability, empathy and&nbsp;a deeper sense of meaning.</p>
+		<h3>Aid for Work: The Singapore and US Models in Context</h3>
+		<b><i>Theresa W. Devasahayam</i></b>
+		<p>Theresa W. Devasahayam examines Singapore’s workfare strategy in light of the US model on which it is based, and finds key points of departure that could inform policy development in future.</p>
 		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
 </div>
