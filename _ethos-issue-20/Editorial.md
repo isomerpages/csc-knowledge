@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 20, Jan 2019</small></em>
-<img src="/images/Landing_Banner_Images/editorial_landing.jpg">
+<img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
   
 <p>An ageing population is, from one perspective, a triumph. It means that a society has managed, through sound policies and steady advancement, to allow its people to live longer, healthier lives than ever before. Yet this global phenomenon has stirred&nbsp;anxiety. Even as more of us are now able to fulfil the long-held human dream of living to a ripe old age, we also worry about affordability and sustainability, about intergenerational competition for resources, and about the risk of frailty, which rises along with advancing years.</p>  
