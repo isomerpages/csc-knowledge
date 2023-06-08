@@ -123,24 +123,24 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Public Trust in Government Institutions</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY STEPHEN SEDGWICK</i></b>
+		<p>Australia’s former Public Service Commissioner offers insights on maintaining the people’s trust in the public sector.</p>
+		<div class="button1"><a href="/ethos-issue-16/public-trust-in-government-institutions/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Public Institutions and the Productivity Imperative</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY GARY BANKS</i></b>
+		<p>An independent public institution could better identify, analyse and communicate the reforms necessary to improve national productivity</p>
+		<div class="button1"><a href="/ethos-issue-16/public-institutions-and-the-productivity-imperative/">Read more</a></div>
 	</div>
 </div>
 
