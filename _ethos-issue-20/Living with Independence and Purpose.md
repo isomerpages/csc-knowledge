@@ -148,9 +148,9 @@ of society.
   
   
   
-<p class="small-text text">In 2011, over 18,000 people were killed and more than 65,000 people were displaced when a massive earthquake and tsunami hit northern Japan. </p>  
-  
-  
+
+<br>
+<br>
   
   
 <div class="containerbox">  
