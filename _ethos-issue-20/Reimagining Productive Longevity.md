@@ -52,12 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #00508f;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
+	color: white;
 	}	
-
+.containerbox h3 , .containerbox h4 {
+	color: yellow;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -195,15 +198,15 @@ intangible assets.
   
 <p class="small-text text">Seniors are not a homogenous group. Ethnographic interviews based on a cluster analysis of the Retirement and Health Study data surfaced 6 distinct archetypes of seniors in Singapore.</p>  
   
-  
+<div class="containerbox"> 
 <p style="text-align: center;"><img alt="Who Are Our Seniors in Singapore?" data-displaymode="Original" src="/images/Ethos_Images/Ethos_Issue_20/WhoAreOurSenior.jpg" title="Who Are Our Seniors in Singapore?"></p>  
   
-<hr>  
+
   
 <p class="text">The Retirement and Health Study (RHS) is a survey on Singapore residents’ retirement and healthcare needs and how they change over time. Selected individuals are interviewed once every 2 years over a 10-year period. The RHS Board, HDB, MOF, MOH and MOM. The RHS 2014 –2017 data set involved a sample size of about 15,000 respondents of age 45 to 85. The total number of seniors represented in the 6 emergent archetypes was approximately 10,300.</p>  
   
 <p class="text">The data was analysed by the data team from Pioneer Generation Office (now known as the Silver Generation Office) and the inter-agency team followed up with ethnographic interviews based on the clusters that emerged from the analysis. The 6 distinct archetypes of seniors in Singapore emerged from the data analysis and ethnographic interviews.</p>  
-  
+</div> 
   
 <div class="break">  
   
@@ -295,8 +298,7 @@ to be “free from work” to one of being
 </div>  
   
   
-<p class="small-text text">As the largest employer in Singapore, the Singapore Public Service has consistently been at the forefront of national efforts to improve employability of older workers. Although the Public Service has a younger workforce than the national average, it is expected to age significantly over time. It should therefore lead the change.</p>  
-  
+<div class="containerbox">
   
 <h3 class="title">THE SINGAPORE PUBLIC SERVICE: How to Take the Lead in Enhancing Productive Longevity</h3>  
   
@@ -314,7 +316,7 @@ to be “free from work” to one of being
   
 <p class="text">There is a need to reset public officers’ unspoken expectation of an “iron rice bowl”. With technological disruption, the new norm will involve consistent reskilling and redeployment to new roles in and outside public service agencies. This could be supported by a move towards more contract-based employment instead of employment based on the permanent establishment. To incentivise lifelong learning and skills acquisition, a skillsbased component could also be introduced into the wage structure. These shifts would support the new social contract within the Service where opportunities and resources are provided to support “lifetime employability”, instead of an expectation of “lifetime employment”.</p>  
   
-  
+</div>  
 <h3>Ageing as a Positive Force</h3>  
   
 <p>That seniors will make up a growing proportion of our population is inevitable. Singapore is neither the first nor only country to grapple with the challenges posed by the confluence of rapid demographic, economic and technological changes. What we have is a valuable opportunity to reimagine what growing old could be like in the next decade and beyond. Ageing does not have to be associated with deteriorating health, disempowerment and dependency. Instead, we can be a society where seniors are empowered, skilled, healthy and active contributors to society. Reimagining productive longevity is a call to reaffirm that Singapore can be, and is, a home for all ages, with opportunities for all.</p>  
