@@ -271,11 +271,11 @@ integration.
 
 
 
-
-<p style="text-align: center;"><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><img src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Gosho_Resized.jpg" data-displaymode="Original" alt="Next Generation Port 2030 Initiative"></p>
+<!--
+<p style="text-align: center;"><a href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf" target="_blank"></a><a href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf" target="_blank"></a><img alt="Next Generation Port 2030 Initiative" data-displaymode="Original" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Gosho_Resized.jpg"></p>
 
 <p class="small-text text">For the detailed infographic on the capabilities of Tuas Terminal, click the image above to view the PDF.</p>
-
+-->
 <p>&nbsp;</p>
 
 
