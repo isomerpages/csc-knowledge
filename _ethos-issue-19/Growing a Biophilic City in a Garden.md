@@ -128,7 +128,7 @@ provide complementary habitats for native biodiversity. More importantly, the pa
 
 
 
-<p class="small-text text">Nature reserves are protected areas of rich biodiversity that are representative sites of key indigenous ecosystems. To safeguard the native flora and fauna in these areas, there are special restrictions on the activities that can be carried out.</p>
+
 
 
 
@@ -173,7 +173,7 @@ provide complementary habitats for native biodiversity. More importantly, the pa
 
 
 
-<p class="small-text text">To enhance ecological connectivity, the National Parks Board worked with the Urban Redevelopment Authority and National University of Singapore to identify ecological networks to connect habitat patches in the landscape.</p>
+
 
 
 
@@ -218,7 +218,6 @@ Source: NParks</p>
 
 
 
-<p class="small-text text">Under NParks’ species recovery programme, specific conservation strategies are developed and employed to help recover the populations of endemic, rare or threatened native species in Singapore. </p>
 
 
 
