@@ -324,7 +324,7 @@ HDB provides a living environment where Singaporeans of different races and soci
 
 
 
-<p class="small-text text">Kampung Admiralty, an integrated development that caters to a range of diverse needs, is designed with seamless access to elderly housing and a wide range of facilities like childcare centres, a medical centre, active ageing hub, hawker centre and shops.</p>
+<br>
 
 
 
