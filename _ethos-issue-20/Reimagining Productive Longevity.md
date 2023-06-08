@@ -56,7 +56,6 @@ font-family: Georgia;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
 	}	
 
 li {
@@ -216,7 +215,7 @@ workplace practices
 and jobs to make  
 them age-friendly.  
 </p>  
-  
+</div>  
   
   
 <p style="text-align: center;"><img alt="Which Sectors Could Our Seniors Be Employed In?" data-displaymode="Original" src="/images/Ethos_Images/Ethos_Issue_20/Sector.jpg" title="Which Sectors Could Our Seniors Be Employed In?"></p>  
@@ -366,4 +365,4 @@ to be “free from work” to one of being
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></div>
+</div>
