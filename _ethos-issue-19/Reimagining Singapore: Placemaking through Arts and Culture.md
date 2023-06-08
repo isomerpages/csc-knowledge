@@ -134,7 +134,7 @@ Source: Civil Service College<br>
 
 
 
-<p class="small-text text">Originally built to house the Municipal Council, the National Gallery Singapore in the Civic District also served as the former headquarters of Syonan Municipal Administration and Syonan Supreme Court during the Japanese Occupation in 1942, and bore witness to the Japanese surrender to Lord Mountbatten in 1945.</p>
+<br>
 
 
 
