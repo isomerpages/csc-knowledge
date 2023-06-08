@@ -58,8 +58,7 @@ margin-top:15px;
 			<br>
 		Ethos Issue 20
 		</h3>
-		<b><i></i></b>
-		<p></p>
+		<p>This issue looks at the future of ageing in Singapore, as it seeks to become a city in which citizens of all ages can feel involved, empowered and active.</p>
 		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-20.pdf">Download PDF</a></div>
 	</div>
 </div>
@@ -68,8 +67,8 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>Alvin Pang</i></b>
+		<p>Our elders are not the problem, nor should they be passive recipients of society's largesse. How can we ensure seniors remain involved, empowered and active?</p>
 		<div class="button1"><a href="/ethos-issue-20/editorial-issue-20/">Read more</a></div>
 	</div>
 </div>
