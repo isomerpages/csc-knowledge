@@ -87,7 +87,6 @@ li {
 
 
 
-<p class="small-text text">In 1970s, Wee Toon Boon, then Minister of State for Environment, was found to have used his ministerial status to favour a property developer.</p>
 
 
 
