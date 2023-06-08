@@ -159,9 +159,6 @@ Context matters in the implementation of technology, for older adults as well as
 <li class="small-text">HealthHub, “National Steps ChallengeTM Season 4 Is Here!”, accessed October 22, 2018, <a href="https://www.healthhub.sg/programmes/37/NSC/">https://www.healthhub.sg/programmes/37/NSC/</a>.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
