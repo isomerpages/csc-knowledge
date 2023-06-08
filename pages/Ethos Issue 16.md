@@ -65,8 +65,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i></i></b>
-		<figcaption></figcaption>
+		<b><i>Alvin Pang</i></b>
+		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
