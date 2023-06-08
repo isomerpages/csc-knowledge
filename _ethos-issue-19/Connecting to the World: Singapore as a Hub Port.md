@@ -87,7 +87,7 @@ li {
 
 
 
-<p class="small-text text">In the 1960s, containerisation disrupted the shipping industry—much like how online shopping and third-party hailing apps disrupt the retail and taxi industries today. </p>
+<br>
 
 
 
