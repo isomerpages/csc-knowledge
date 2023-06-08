@@ -61,6 +61,11 @@ font-family: Georgia;
 	color: #d3626d;
 	
 	}
+	
+.containerbox h4 {
+	color: green;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -122,11 +127,11 @@ li {
 
 <h3 class="title">The CLC Liveability Framework</h3>
 <p class="text">Good urban governance requires technocratic and professional expertise: it requires a capable public service,
-even as the political leadership sets the overall direction, based on the electorate’s aspirations and interests.<sup>1</sup> The Centre for Liveable Cities (CLC), in researching Singapore’s urban planning and development achievements, has distilled a large body of codified and tacit knowledge and developed the CLC Liveability Framework. Ten implicit principles were identified and they form the two key pillars of the Framework—the <strong>Integrated Master Planning and Development system</strong>, and the <strong>Dynamic Urban Governance approach.</strong><sup>2</sup> These ten principles, taken together, account for three outcomes, namely: a competitive economy, a sustainable environment and a high quality of life.</p>
+even as the political leadership sets the overall direction, based on the electorate’s aspirations and interests.<sup>1</sup> The Centre for Liveable Cities (CLC), in researching Singapore’s urban planning and development achievements, has distilled a large body of codified and tacit knowledge and developed the CLC Liveability Framework. Ten implicit principles were identified and they form the two key pillars of the Framework—the <strong style="color: darkgreen;">Integrated Master Planning and Development system</strong>, and the <strong style="color: green;">Dynamic Urban Governance approach.</strong><sup>2</sup> These ten principles, taken together, account for three outcomes, namely: a competitive economy, a sustainable environment and a high quality of life.</p>
 <p style="text-align: center;"><img title="CLC Liveable Framework" src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Sustainable02.jpg" data-displaymode="Original" alt="CLC Liveable Framework"></p>
 <p class="small-text">Source: Centre for Liveable Cities</p>
 <h4>Integrated Master Planning and Development</h4>
-<p class="text">Peter Ho, Chairman of the Urban Redevelopment Authority (URA), has observed that <strong>thinking long term</strong> made Singapore’s urban planners “adopt a future-oriented and long-term perspective in policy formulation. This avoids the pitfall of making decisions that might be expedient in the short term but prove costly later on.” To “<strong>fight productively</strong>” means making decisions that are derived from robust debates among all stakeholders, in order to find the strongest ideas for Singapore. Consensus is reached “not from fulfilling all the desires of all the stakeholders, but from finding compromises among all stakeholders”. The need to “<strong>build in some flexibility</strong>” has characterised Singapore’s urban planning regime, which has had to question assumptions and even reverse decisions if circumstances change in a volatile environment. “<strong>Execute effectively</strong>” and “<strong>innovate systematically</strong>” reflect the Singapore government’s proclivity towards action rather than “maintaining the status quo”: holding to the dictum that “policy is implementation, and implementation is policy”. Policy entrepreneurship, encouraged by the government, becomes a way to find new urban solutions that maximise the effectiveness of scarce national resources.<sup>3</sup></p>
+<p class="text">Peter Ho, Chairman of the Urban Redevelopment Authority (URA), has observed that <strong style="color: darkgreen;">thinking long term</strong> made Singapore’s urban planners “adopt a future-oriented and long-term perspective in policy formulation. This avoids the pitfall of making decisions that might be expedient in the short term but prove costly later on.” To “<strong style="color: green;">fight productively</strong>” means making decisions that are derived from robust debates among all stakeholders, in order to find the strongest ideas for Singapore. Consensus is reached “not from fulfilling all the desires of all the stakeholders, but from finding compromises among all stakeholders”. The need to “<strong style="color: darkgreen;">build in some flexibility</strong>” has characterised Singapore’s urban planning regime, which has had to question assumptions and even reverse decisions if circumstances change in a volatile environment. “<strong style="color: darkgreen;">Execute effectively</strong>” and “<strong style="color: darkgreen;">innovate systematically</strong>” reflect the Singapore government’s proclivity towards action rather than “maintaining the status quo”: holding to the dictum that “policy is implementation, and implementation is policy”. Policy entrepreneurship, encouraged by the government, becomes a way to find new urban solutions that maximise the effectiveness of scarce national resources.<sup>3</sup></p>
 <hr>
 <p><strong>Notes</strong></p>
 <ol>
