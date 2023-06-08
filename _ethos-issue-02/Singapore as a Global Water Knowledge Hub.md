@@ -89,7 +89,7 @@ color: white;
 	
 	</style>
 	
-	
+<em><small>ETHOS Issue 02, Apr 2007</small></em>
 <img src="/images/Landing_Banner_Images/banner_interview.jpg">	
 	
 	
