@@ -66,6 +66,7 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>Dr Alvin Pang</i></b>
+		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p>With Singapore's ambition to be a Smart Nation, what does it really mean to be "smart" these days? This issue explores the apparent tensions and trade-offs that both underpin and animate Singapore's Smart Nation efforts.</p>
 	
 <div class="button1"><a href="/ethos-issue-21/editorial">Read more</a></div>
