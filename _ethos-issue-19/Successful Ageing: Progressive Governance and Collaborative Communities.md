@@ -183,8 +183,7 @@ as Stakeholders</h3>
 
 
 
-
-<p class="small-text text">The Silver Generation Ambassadors (SGAs) conduct door to door outreach to all Singaporeans aged 65 years and above.</p>
+<br>
 
 
 
@@ -258,8 +257,7 @@ Technology</h3>
 
 
 
-<p class="small-text text">Developed in-house, URA’s ePlanner and GEMMA (GIS enabled mapping, modelling and analytics) are digital geospatial urban planning tools.</p>
-
+<br>
 
 
 
