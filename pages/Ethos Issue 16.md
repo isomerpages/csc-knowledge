@@ -75,11 +75,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_16/16_Teaser_The%20Power%20of%20Games%20to%20Drive%20Policy%20Outcomes.jpg"></div>
 	<div>
 		<h3>The Power of Games to Drive Policy Outcomes</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>BY PETER HO</i></b>
+		<p>Well-designed games and simulations can broaden outreach, bridge divides, and offer engaging ways to understand and further public policy goals.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
