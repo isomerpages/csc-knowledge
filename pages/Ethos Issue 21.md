@@ -52,7 +52,7 @@ margin-top:15px;
         <div><img src="/images/Ethos_Thumbnails_Cover/ethosissue21.jpg"></div>
         <div><h3><span class="cat">Issue 21, Jul 2019</span>
             <br>ETHOS Issue 21</h3>	
-            <p></p>
+            <p>This issue looks at Singapore's ambition to be a smart Nation, and explores the apparent tensions and trade-offs that both underpin and animate Singapore's Smart Nation efforts.</p>
             
             
    <div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-21.pdf">Download PDF</a></div>
@@ -66,7 +66,7 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>Dr Alvin Pang</i></b>
-		<p></p>
+		<p>With Singapore's ambition to be a Smart Nation, what does it really mean to be "smart" these days? This issue explores the apparent tensions and trade-offs that both underpin and animate Singapore's Smart Nation efforts.</p>
 	
 <div class="button1"><a href="/ethos-issue-21/editorial">Read more</a></div>
 </div>
