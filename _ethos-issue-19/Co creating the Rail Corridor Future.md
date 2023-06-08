@@ -115,8 +115,7 @@ Source: URA</p>
 
 
 
-<p class="small-text text">A significant first step in community engagement was the formation in July 2011 of the Rail Corridor Consultation Group (RCCG).</p>
-
+<br>
 
 
 
