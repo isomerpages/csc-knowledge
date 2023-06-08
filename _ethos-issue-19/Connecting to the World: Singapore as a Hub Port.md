@@ -217,7 +217,7 @@ system.
 
 
 
-<p class="small-text text">The port played a significant role in anchoring the Maersk Group’s shipping and related services in Singapore.</p>
+
 
 
 
@@ -272,7 +272,7 @@ integration.
 
 
 
-<p style="text-align: center;"><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="../../docs/default-source/default-document-library/smw.pdf?sfvrsn=f71a2ae1_2"><img src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Gosho_Resized.jpg" data-displaymode="Original" alt="Next Generation Port 2030 Initiative"></a></p>
+<p style="text-align: center;"><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><a target="_blank" href="https://www-csc-gov-sg.cwp-stg.sg/docs/default-source/ethos/smw53b9b37f80534077a689b3eeab51faeb.pdf"></a><img src="/images/Ethos_Images/Ethos_Issue_19_JulyIssue/Gosho_Resized.jpg" data-displaymode="Original" alt="Next Generation Port 2030 Initiative"></p>
 
 <p class="small-text text">For the detailed infographic on the capabilities of Tuas Terminal, click the image above to view the PDF.</p>
 
