@@ -187,7 +187,7 @@ system.
 
 
 
-<p class="small-text text">Given the need to ensure navigational safety as Singapore’s vessel traffic grows, Project SAFER is a collaboration between MPA and IBM Research to develop and test-bed new analytics-based technologies to improve maritime and port operations.</p>
+<br>
 
 
 
