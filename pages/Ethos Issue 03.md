@@ -111,11 +111,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Waste_Management_In_Singapore.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3>Water Management in Singapore</h3>
-		<b><i>Cecilia Tortajada</i></b>
-		<p>Singapore has developed from a water-scarce developing nation to a world leader in the field of water management in the space of three decades. Dr Cecilia Tortajada reviews the city-state's water practices and strategies in detail.</p>
+		<h3>Poverty, Capabilities and Social Justice</h3>
+		<b><i>Martha C. Nussbaum</i></b>
+		<p>The renowned social philosopher discusses her concept of essential human capabilities, and their implications for dealing with poverty and social development.</p>
 		<div class="button1"><a href="/ethos-issue-18/the-digital-work-economy-and-our-human-future/">Read more</a></div>
 	</div>
 </div>
@@ -123,14 +123,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/The_NordicSocialSecurity_Model.jpg"></div>
 	<div>
-		<h3>Singapore as a Global Water Knowledge Hub</h3>
-		<b><i>Asit K. Biswas</i></b>
-		<p>One of the world’s leading authorities on water, Professor Asit
-K. Biswas is also the President of the Third World Centre for Water Management in Mexico. Speaking to Ethos, he argues that Singapore
-has the know-how and track record to position itself as the
- water hub of the world.</p>
+		<h3>The Nordic Social Security Model: Squaring the Circle?</h3>
+		<b><i>Koh Tsin Yen</i></b>
+		<p>The Nordic states appear to have achieved an enviable balance between strong economic growth and generous welfare provisions, but they too face new pressures from globalisation.</p>
 		<div class="button1"><a href="/ethos-issue-18/supporting-job-growth-and-worker-prosperity-in-a-new-era-of-automation/">Read more</a></div>
 	</div>
 </div>
@@ -138,7 +135,7 @@ has the know-how and track record to position itself as the
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Implications_Of_ProspectTheory_OnRoad_Pricing.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Implications_Of_ProspectTheory_OnRoad_Pricing.jpg">![]()</div>
 	<div>
 		<h3>Implications of Prospect Theory on Road Pricing</h3>
 		<b><i>Anthony T. H. Chin</i></b>
