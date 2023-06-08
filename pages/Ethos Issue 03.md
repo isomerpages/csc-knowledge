@@ -199,11 +199,11 @@ today’s volatile economic environment.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Positioning_SingaporeIn_NewAsia.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3>Positioning Singapore in a New Asia</h3>
-		<b><i>Andrew Tan</i></b>
-		<p>With the resurgence of Asian economies led by India and China, Singapore's economic prospects have never been better.</p>
+		<h3>Making Workfare Work: The US Experience</h3>
+		<b><i>Lawrence M. Mead</i></b>
+		<p>New York University’s Professor Lawrence M. Mead discusses workfare and income inequality in light of the US experience after a decade of welfare reform.</p>
 		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
 </div>
@@ -211,10 +211,11 @@ today’s volatile economic environment.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Strategic_In_OutlookNimble_In_Execution.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3>Strategic in Outlook, Nimble in Execution: Strengthening the Centre in Government</h3>
-		<b><i>Ng Chee Khern</i></b>
+		<h3>The Singapore Model of Workfare:
+Three Suggestions</h3>
+		<b><i>Hoon Hian Teck</i></b>
 		<p>To stay strategic in outlook and nimble in execution, the Singapore Armed Forces restructured its chain of command. Should the rest of the public sector follow suit?</p>
 		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
