@@ -381,7 +381,7 @@ To nurture community involvement, it is imperative that gardens, parks and natur
 
 
 
-<p class="small-text text">The Friends of Ubin Network (FUN) was formed in 2014, and comprises a broad network of stakeholders who are passionate about Pulau Ubin.</p>
+<br>
 
 
 
