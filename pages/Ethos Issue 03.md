@@ -236,6 +236,22 @@ implications ten years on.</p>
 	</div>
 </div>
 
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+	<div>
+		<h3>Indonesia in the Financial Crisis: Advent and Aftermath</h3>
+		<b><i>Adam Schwarz</i></b>
+		<p>The Asian Financial Crisis might well be the first major crisis
+of globalisation. Donald Low examines its causes and
+implications ten years on.</p>
+		
+<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
+	</div>
+</div>
+
+
 
 
 
