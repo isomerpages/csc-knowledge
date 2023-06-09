@@ -193,7 +193,7 @@ Less quantifiable skills such as learning agility or strategic thinking may not 
   
 <p>Technology will also affect various constituents to differentiated degrees. Eliminating biases through Codility or GitHub, for example, is limited to skills that are more quantifiable and thus demonstrable on a platform. Less quantifiable skills such as learning agility or strategic thinking may not be as easily evaluated through mediated platforms. These challenges are more tricky to address and certainly worth a separate discussion. Programmes such as Singapore’s Career Support Schemes and other work trials aim to cut through some of this opacity, but these are limited to older workers and the longer-term unemployed, and may lead companies to “discount” these workers’ value or deter companies from signing up to begin with, because they know support is time-limited.</p>  
   
-<p>More generally, Singapore could rethink and structure unemployment benefits in the context of more frequent gaps in employment and shorter employment cycles, while facilitating a more flexible labour market. \[<em>See “Trends and Shifts in Employment: Singapore’s Workforce” by Augustin Lee of this issue.</em>\]</p>  
+<p>More generally, Singapore could rethink and structure unemployment benefits in the context of more frequent gaps in employment and shorter employment cycles, while facilitating a more flexible labour market. [<em>See “Trends and Shifts in Employment: Singapore’s Workforce” by Augustin Lee of this issue.</em>]</p>  
   
 <p>&nbsp;</p>  
   
