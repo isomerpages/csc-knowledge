@@ -97,8 +97,7 @@ li {
   
   
   
-<p class="small-text text">The “Future of Work” is a broad and complex topic, and major streams of work are on-going.</p>  
-  
+<br>
   
   
 <div class="containerbox">  
