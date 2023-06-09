@@ -63,7 +63,7 @@ font-family: Georgia;
 	}
 	
 .containerbox2 {
-	background-color: #e5e5ea;
+	background-color: lightgrey;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
