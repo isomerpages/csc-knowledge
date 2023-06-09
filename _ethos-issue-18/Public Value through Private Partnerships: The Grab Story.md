@@ -120,8 +120,8 @@ li {
   
   
 &nbsp;  
-<p class="text">Founded in 2012, Grab is Southeast Asia’s leading on-demand transportation and mobile payments platform.\* Headquartered in Singapore, Grab has expanded into more than 168 cities in eight countries across Southeast Asia.</p>  
-<p class="small-text">\*According to TNS, a global market research firm, Grab’s services (taxis, cars and motorbikes) are used most often in Singapore, Indonesia, Malaysia, Philippines, Thailand and Vietnam, compared to other ride-sharing and hailing apps.</p>  
+<p class="text">Founded in 2012, Grab is Southeast Asia’s leading on-demand transportation and mobile payments platform.* Headquartered in Singapore, Grab has expanded into more than 168 cities in eight countries across Southeast Asia.</p>  
+<p class="small-text">*According to TNS, a global market research firm, Grab’s services (taxis, cars and motorbikes) are used most often in Singapore, Indonesia, Malaysia, Philippines, Thailand and Vietnam, compared to other ride-sharing and hailing apps.</p>  
 <div class="featured-overlay\_\_image"><img src="/images/Ethos_Images/Ethos_Issue_18/Ethos_Issue18_GrabGraphics6.jpg" alt=""></div>  
   
   
