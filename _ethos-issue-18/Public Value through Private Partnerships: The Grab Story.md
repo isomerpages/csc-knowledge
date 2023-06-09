@@ -205,13 +205,9 @@ li {
   
   
   
-  
-  
-  
-  
-<p class="small-text text"> Grab drivers are “partners”: not workers nor contractors.</p>  
-  
-  
+<br>
+<br>
+<br>
   
   
 <div class="containerbox3">  
