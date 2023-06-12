@@ -167,7 +167,7 @@ li {
 
 </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTE</p>  
+<h6>NOTE</h6>  
   
 <ol>  
 <li class="small-text">Andrew Wright Associates, cited in Urban Task Force, Towards an Urban Renaissance (2002), 35.</li>  
