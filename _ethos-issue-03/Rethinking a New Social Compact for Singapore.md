@@ -16,19 +16,6 @@ description: ""
 	width:100%;
 }
 	
-.author
-{
-border-bottom: 1px solid black;
-margin-top:40px;
-padding-bottom:30px;
-border-top: 1px solid black;	
-
-}
-
-.author p {
-	font-size: 0.9em;
-	line-height:24px !important;
-	}	
 	
 
 .green
@@ -41,7 +28,7 @@ padding: 30px;
 {
 	color: white;
 	text-align: center;
-	font-size: 23px;
+	font-size: 24px;
 }	
 
 .boxheader {
