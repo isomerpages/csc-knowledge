@@ -133,7 +133,7 @@ more sustainable options.
 <p>&nbsp;</p>  
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p><ol>  
+<h6> <a name="notes"></a>NOTES</h6><ol>  
 <li class="small-text">SG Green Plan, “Let’s Build A City of Green  
     Possibilities Together”, accessed June 27, 2022, <a target="\_blank" href="https://www.greenplan.gov.sg/">https://www.greenplan.gov.sg/</a>.</li>  
 <li class="small-text">Singapore Food Agency, “30 by 30”, accessed June 27, 2022, <a target="\_blank" href="https://www.ourfoodfuture.gov.sg/30by30">https://www.ourfoodfuture.gov.sg/30by30</a>.</li>  
