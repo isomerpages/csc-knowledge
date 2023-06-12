@@ -175,7 +175,7 @@ to aim for and a common language to build on.
 
 </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="note"></a>NOTE</p>  
+<h6> <a name="note"></a>NOTE</h6>  
   
 <ol>  
 <li class="small-text">CitiIQ, “A Measurement System for the Health and Wellbeing of A City”, <a target="\_blank" href="https://www.citiiq.com/">https://www.citiIQ.com</a>.</li>  
