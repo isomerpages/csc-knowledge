@@ -139,7 +139,7 @@ li {
     for future policies, especially if monetary measures are not intended to be permanent. Insights from this and other such trials could help identify similar policy challenges, and explore ways to use information and data more effectively.</p>  
 		
 		
-<div class="break">  
+<div class="author">  
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHOR</p>  
 <p class="small-text"><b>Yap Jun Liang</b> was Researcher in the Social and Economics Team, Institute of Governance and Policy, Civil Service College.</p><p class="small-text"><b>Sharon Tham</b> is Principal Researcher in the Social and Economics Team, Institute of Governance and Policy, Civil Service College. Her research interests include evidence-based policymaking, behavioural economics and economic geography.</p><p class="small-text">This project was done in collaboration with Dr Leong Wai Yan and Linda Liu (Land Transport Authority), and Dr Giovanni Ko (Nanyang Technological University).</p>
 </div>  
