@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 17 June 2017</small></em>
-
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
   
 <h4>From a public policy perspective, how might behavioural insights help shape the context in which people make decisions in a way that would be of broader benefit?</h4>  
   
