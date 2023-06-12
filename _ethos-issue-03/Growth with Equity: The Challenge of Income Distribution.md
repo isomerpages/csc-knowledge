@@ -75,98 +75,86 @@ border-top: 1px solid black;
 <img src="/images/Ethos_Images/Ethos_Issue_03/Growth_With_Equity.jpg">
 
 
-<p>At the heart of Singapore’s success in governance lies the strength of its social compact. Since independence, the majority of citizens, including those at the bottom of the income pyramid, have enjoyed a steady rise in living standards. This prosperity has earned the Government the credibility and mandate it needs to implement difficult social and economic policies time and again, which in spite of initial hardship, eventually raises the nation’s well-being. This virtuous cycle is at the core of Singapore’s long-term, policy-driven success.</p>
 
-<p>For decades, strong economic growth and full employment have raised wages and welfare for the majority of Singaporeans. In the 1990s, our per capita income rose towards average developed country levels. Since then, however, a fundamental change has taken place. Median real wages are no longer rising with robust growth. Instead, they have been roughly stagnating since 1998. For the bottom 60% of workers, individual wages have, in fact, cumulatively declined by 7% to 15% over the last five years through 2006, in spite of 5% to 7% GDP growth and an unemployment rate below 3%. The poorest and least skilled have been the hardest hit. Median monthly starting pay for cleaners and labourers has fallen by nearly a third, from S$860 to S$600, between 1996 and 2006.</p>
+<p>The rapid pace of globalisation, technology advances and economic restructuring over the last decade or so appear to have contributed to increasing income inequality and low wage stagnation and even decline in developed economies. In small and open economies such as Singapore’s, this phenomenon may be felt even more keenly, weakening of the social consensus that has existed so far in favour of free markets and competition. What should the Government do to address this challenge?</p>
 
-<p>While household incomes, especially of the bottom 30%, have rebounded in 2006, this is due to jobs being plentiful enough for more family members working longer hours to bring in more income despite falling wages. Yet the poor have had to run faster just to stand still. The bottom 30% of working families have now experienced stagnating real household incomes for 8 to 10 years. Even the broad middle classes—the 30th to 80th percentile of households—saw a four- to five-year period of stagnating household income between 2001 and 2005.</p>
+<p>The uneven nature of income distribution in human society has existed for centuries. Income distribution was one of the earliest and most well-known examples of non-normal distributions that followed a power law. This statistical description was first recorded by 1896 by Vilfredo Pareto, the Italian economist who observed that 80% of all wealth resided with only 20% of the population—a phenomenon that eventually came to be known as the Pareto distribution—one of many kinds of power law distributions. In the 1980s, this also developed into an equally famous management dictum known as the Pareto principle, or 80–20 rule.</p>
 
-<h3>GLOBALISATION AND WAGE STAGNATION</h3>
+<p>Yet although income inequality is not a new phenomenon in history, the urge for societies to seek a more equitable distribution has been hard to resist. For example, we communicate income data through statistics such as per capita Gross Domestic Product (GDP), or average and median household income to suggest that economic growth has raised incomes across-the-board. Indeed, the success of Singapore since independence has essentially been a story of “growth with equity”, a story of how it managed to achieve economic growth while ensuring that the fruits of that growth are distributed to large segments of the population.</p>
 
-<p>Such wage and welfare stagnation is new to modern Singapore. Yet they are underpinned by the underlying mega-trends of globalisation, which have taken two major new turns since the 1980s. The first is the “great doubling”. For the first time in human history, the globally integrated labour force is in the process of rising from around 1.5 to well over 3 billion, driven by economic liberalisation of the huge populations of China, India, the ex-Soviet Bloc and newly-reformed emerging economies in Latin America and Asia. This cheap, massive and increasingly productive labour force competes for trade, investment and employment on a scale never before seen.</p>
+<h3>THE SITUATION FOR SINGAPORE</h3>
 
-<p>Since the mid-1990s, the “great acceleration” has also been raising developed country productivity growth as IT-driven process innovations spread to service industries and enable offshore outsourcing or “off-shoring” of ever more discrete tasks and occupations. So too, Moore’s law relentlessly pushes down the price of exponentially more sophisticated IT capital goods and services relative to unskilled or semi-skilled labour, replacing people with IT systems managed by smaller, highly skilled teams. This reinforces the “great doubling”, hollowing out swathes of less skilled, labour-intensive jobs in both manufacturing and services in rich countries, even as it creates large numbers of increasingly skills-intensive occupations globally.</p>
+<p>According to the Department of Statistics, the Gini Coefficient has been creeping up over the years (indicating more unequal income distribution), even when adjusted for retiree households, from 0.442 in 2000 to 0.472 in 2006.<a href="#notes"><sup>1</sup></a> Gross monthly income for the lowest 20% has also experienced much slower growth since 1997. There has also been negative growth in the household incomes of the lowest decile since 1997. From around 2000 onwards, increase in incomes for the 50th percentile and below also slowed substantially in nominal terms. Factoring in inflation, real income growth was negative for the bottom two deciles. Given the various exogenous shocks to the economy during this relatively recent period, the jury is still out as to whether this stagnation in the incomes of the middle is a long-term, and not just a cyclical, trend. However, these trends do indicate a widening income disparity and income stagnation, particularly in the middle-income segments since 2001. This is a trend felt by developed countries across the world, which are experiencing an accentuation of income inequality. The US recently reported that although productivity growth had increased substantially between 2000 and 2005, increases in the median wage have not kept pace.<a href="#notes"><sup>2</sup></a> Globalisation, and the structural changes it has wrought on economies, has been commonly identified as the main culprit. In essence, workers are working harder and smarter, but ending up with smaller shares of the growing economic pie.</p>
 
-<p>This skills-biased, Schumpeterian job destruction and creation is leaving behind the less educated and skilled in developed economies. Unable to adapt and upgrade their human capital in time, they face increasingly structural long-term unemployment, which results in wage stagnation or decline. With social security budgets shrinking, and unable to afford skills upgrading, they risk becoming permanently marginalised: a proletarian underclass at the developed core of global capitalism.</p>
+<h3>WHAT IS TO BE DONE?</h3>
 
-<p>By now, many developed economies are beginning to recognise the all-too-common long-term symptoms—median wage stagnation combined with sharply rising income and wealth inequality—despite the strongest global growth and profitability, and lowest unemployment rates in over two decades. The US economy, with one of the most productive, flexible and open labour markets and the world’s most innovative companies, shows these trends the most clearly. This has also spawned an insecure middle class increasingly sceptical of globalisation and susceptible to protectionist or populist policies.</p>
+<p>There are two main instruments that the Government could consider to address the issues of widening income disparities and low and median wage stagnation: redistributive measures and human capital development measures.</p>
 
-<h3>THE INCOME GAP IN SINGAPORE</h3>
+<h4>Redistributive Measures </h4>
 
-<p>Singapore, with one of the most open economies in the world, is particularly vulnerable to these negative trends. In addition, we have two other dampeners of wage growth: first, one of the highest rates of unskilled and semi-skilled immigration in the world, and second, a legacy population of older, less-educated workers who represent a significant share of the resident workforce.</p>
+<p>Redistributive policies aim to transfer part of income gains enjoyed by higher-income earners and the owners of capital to the lower-income segments of the population hurt by global trade. However, if the wages of half the population are stagnant, simply enhancing existing redistributive measures may not be sufficient. Here, the Nordic model offers some insights on how taxation and social spending systems can be both pro-growth and socially equitable.</p>
 
-<p>The implications of these trends for domestic welfare and poverty are clear. Our poorest decile, numbering some 90,000 to 100,000 households, still earn around S$160 per month per capita,<a href="#notes"><sup>1</sup></a> the equivalent of around S$640 a month for a family of four. This compares to a measure of average basic expenditure needs of S$1,040 estimated by the Department of Statistics,<a href="#notes"><sup>2</sup></a> and a guideline of around S$1,500 used by many public agencies to indicate the need for social assistance. Whether this constitutes “absolute poverty” may be contentious. What is clear, however, is that for many of these families, hardship has been a way of life for over a decade. They may have little left over for the enrichment opportunities that could gradually lift them out of poverty—such as tuition, training courses, computers or IT services—access to which mark the boundaries of true social inclusion.</p>
+<hr>
 
-
-
-<div class="green">
 <h5><em>
-Singapore, with one of the most open economies in the world, is particularly vulnerable to these negative trends.
+Workers are working harder and smarter, but ending with smaller shares of the growing economic pie.
 </em></h5>
-</div>
 
+<hr>
 
-<p>With long-term wage stagnation, this wide poverty gap will not easily be whittled away. If wages continue to stagnate, there is a limit to poverty alleviation through working longer and harder, or driving the unemployment rate lower. An underclass of our own may well be emerging.</p>
+<p>The tax systems in the Nordic countries are far less redistributive and progressive than one would expect: capital is taxed lightly (compared with other industrialised countries), while consumption and labour bear the bulk of the tax burden. This conforms to economic theory: taxes that lean on consumption (which is less elastic) are less economically distorting that those which lean on capital, which is more mobile and hence more elastic in supply.</p>
 
-<p>In the long run, this malign combination of median wage stagnation, low wage decline and rising inequality is potentially poisonous for the social compact underpinning globalisation and the bedrock of our virtuous cycle of strong governance.</p>
+<p>While the high labour taxes in the Nordic countries might discourage employment, one must also look at the other side of the tax-and-spend ledger. Nordic countries such as Sweden and Denmark spend up to a third of GDP on social transfers, not only in areas such as pensions and unemployment compensation, but also in areas that might yield high returns, such as child care subsidies. The social protection that the Nordic states provide to large segments of their populations also helps to build public acceptance for a not-so-equitable tax system.<a href="#notes"><sup>3</sup></a></p>
 
+<p>The Singapore Government has also tried to redistribute in a pro-growth way. The Workfare Bonus Scheme, introduced as a one-time transfer in 2006, targeted the lowest 20% of income earners. Recipients had to have worked for at least six months to be eligible for the bonus. This helped to encourage a work-for- reward ethic rather than one seeking handouts. However, a one-time transfer does not alter the income distribution and keep the lower segment of incomes up on a permanent basis, and the scheme was expanded in 2007 to become a permanent support programme known as the Workfare Income Supplement, which operates very much like the Earned Income Tax Credit in the US or the Working Tax Credit in the UK.</p>
 
-<div class="green">
+<p>The overriding consideration for the Singapore Government in implementing any new redistributive measure is to ensure that it does not undermine economic growth, erode the work ethic, or distort incentives. In this regard, the Government could consider measures to moderate the effects of job volatility through some form of unemployment insurance. As more segments of the working population become vulnerable to downward income volatility for extended periods, a basic unemployment insurance scheme might be a more efficient way of providing them some form of income security. Unemployment insurance helps workers pool their risks to fund key necessary expenditures when faced with a sudden loss of income. A publicly administered unemployment insurance system, integrated with assistance in job placement, re-training and targeted welfare, could also help the recovery of household incomes after recessions. If so, social insurance against the risk of unemployment could be an important component of Singapore’s social safety net in the future.</p>
+
+<p>&nbsp;</p>
+
+<h4>Human Capital Development</h4>
+
+<p>If the Government wishes to avoid large social transfers of the Nordic variety, its main alternative would be to invest substantially more in human capital development. This can be done in a variety of ways.</p>
+
+<hr>
+
 <h5><em>
-There is a limit to poverty alleviation through working longer and harder.
+Unemployment insurance helps workers pool their risks to fund key necessary expenditures when faced with sudden loss of income.
 </em></h5>
-</div>
 
+<hr>
 
-<p>If the broad median faces medium-to long-term wage stagnation and rising income inequality, the credibility of tough policies—wage discipline, raising the Goods and Service Tax or public sector wages, further deregulation that demand sacrifice or pain in anticipation of future economic betterment—will be undermined and there could be increasing difficulty in garnering acceptance. Many will feel that their basic stake in the common enterprise of prosperity has been eroded. What is left will be the bitter, zero-sum politics of envy and dead-end populism.</p>
+<p>One would be to provide subsidies to the lower-income households for expenditures beyond mere subsistence, so as to allow for human capital formation. Currently, low income households spend about 60% of their income on food, housing and utility bills, leaving them with little for investments in education and education-related areas. Some studies in the US have shown that children from lower income families develop persistent skills gap as early as the age of three compared to those from higher-income families, should they go without effective pre-school programmes.<a href="#notes"><sup>4</sup></a> Perhaps a suitable starting point to address poverty issues in a sustainable way would be to provide for assistance in the form of enhanced subsidies in early childhood education.</p>
 
-<h3>A NEW PARADIGM FOR SOCIAL SECURITY</h3>
+<p>Simultaneously, the Government could expand existing retraining and re-skilling programmes to help workers transit from declining sectors of the economy to the new, faster-growing ones. This could be an important instrument to address the possible stagnation of median wages.</p>
 
-<p>The experiences of other developed economies are only just now yielding a range of possible policy responses to this dilemma. A few broad conclusions, however, can perhaps be drawn.</p>
+<h3>CONCLUSION</h3>
 
-<p>First, these trends, in spite of cyclical ups and downs, are likely to be a long-term, multi-decade phenomenon. We need to continue to pay serious and immediate heed to long-term remedies, even if cyclical trends lift earnings for a few years.</p>
-
-<p>Second, effective remedies are likely to require an integrated array of concerted and coordinated policy measures by different agencies to provide an adequate social safety net and enable our labour force to deal with these deep-rooted mega-trends. These measures also need to be tailored to Singapore’s particular conditions. The challenge is to do this in a way that maximises work incentives, upward mobility and dignity.</p>
-
-<p>Workfare, or a direct subsidy to work (recommended by Nobel laureates Milton Friedman and Edmund S. Phelps), is probably the principal, most micro-economically efficient tool that can be used to redistribute higher, skills-biased growth to workers right at the bottom of the pyramid. Coordinated with targeted work-oriented welfare and sufficient job opportunities, successful US welfare reform over the 1990s has shown us that this approach can result in a significant alleviation of poverty and more effective integration of lower income classes into the labour market.</p>
-
-<p>What remains in Singapore is to appropriately scale up the relevant magnitudes. Current net workfare payments of around S$80 to S$100 per month are a long way from being able to bridge the poverty gap between bare subsistence and the small surplus needed to invest in human capital at the household level. Yet they remain the fastest way of getting there without compromising work ethic and with relatively low cost.</p>
-
-
-<div class="green">
-<h5><em>
-A stronger, direct social safety net may enable policy to take advantage of globalisation more quickly and boldly.
-</em></h5>
-</div>
-
-<p>Other measures that should be studied for wider implementation include: social risk pooling for unemployment insurance, medical costs, retirement benefits, education risks or reverse mortgages; an expanded and well-integrated continuing education and training system. Perhaps a more discriminating immigration policy—against unskilled labour in non-traded sectors (for example, in the construction industry)—can also be sought even at the expense of maximising short-term output, in order to achieve a better combination of real wage growth and increased productivity.</p>
-
-<p>The political will and policy framework for dealing with wage stagnation may be one of the biggest tests of compassion, pragmatism and policy innovation for Singapore. However, some subtle risks also arise from our traditional policy distrust of large-scale welfare, or direct social spending to address poverty. The latter is perhaps more difficult to deal with, as it has to more do with a policy paradigm that may also need radical change. A stronger, direct social safety net may now need to be seen both by policymakers and public as an institution that enables policy to take advantage of globalisation more quickly and boldly, rather than one that erodes work ethic, drains the budget or hamstrings reform.</p>
-
-<p>With Singapore’s per capita income at around US$31,000, it is undesirable that the bottom 10% of Singapore households still struggle to meet basic needs and have little means to invest in their family’s betterment. However, this in itself is perhaps only half the story.</p>
-
-<p>It is equally important for any policy paradigm to recognise that most of our advanced country competitors (such as the US, UK and Japan) will also be afflicted by similar trends of median wage stagnation and rising income inequality in the face of globalisation, with government budgets that are already badly overstretched. Singapore is one of the few countries with the fiscal reserves to afford the development of a wide, multi-faceted, financially sustainable social safety net. In addition, our freedom from a debilitating legacy welfare system means we can design one largely from scratch, potentially making it structurally compatible with both work incentives and maximising human capital investment. This can not only redistribute the fruits of stronger growth more equitably and securely, but also provide an inherent, long-term source of competitive advantage that enables us to embrace globalisation more quickly and firmly than our competitors.</p>
-
-<p>These then are the main challenges to rethinking Singapore’s social compact. Faith in the old social compact, forged over 40 years of success, will not easily be worn away, but the new globalisation mega-trends will continue to erode it. Can we, as policymakers, be bold and creative enough to re-imagine and re-make a sounder new foundation for its renewal in coming decades?</p>
-
+<p>In any debate over helping the low-income, we are caught in a triangle of competing social goals: helping the affected income groups, maintaining incentives for them to work and strive for themselves, and keeping the programme budget affordable. Any movement within this triangle must move away from at least one goal. Yet societies care not just about the size of the economy, but also social peace and cohesion. Finding the right blend of pro-growth policies and redistributive measures will be critical for sustaining the Singapore story of growth with equity.</p>
 
 
 <div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
-<p class="small-text"><strong>Yeoh Lam Keong</strong> is Director, Economics and Strategy in the Government of Singapore Investment Corporation (GIC) Pte Ltd. </p>
+<p class="small-text"><strong>Kenneth Chan</strong> is Manager in the Strategy Unit, Strategic Policy Office of the Prime Minister’s Office. He first started researching socio-economic issues during the 2005 National Scenarios project, which included developments in the income distribution, the impact of new media on a participative citizenry and the evolution of the Singapore identity with increased immigration. He is also interested in how companies selling to “bottom-of-pyramid” markets will impact ASEAN in the future.</p>
 
 </div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">Based on average monthly income from work per household member among non-retiree households by decile. Singapore Department of Statistics, <em>Key Household Income Trends, 2006</em> (Singapore: Ministry of Trade &amp; Industry, 2007). <a href="http://www.singstat.gov.sg/pubn/papers/people/op-s12.pdf">http://www.singstat.gov.sg/pubn/papers/people/op-s12.pdf</a></li>
-<li class="small-text">For the Department of Statistics’ estimate of S$1,040 minimum household expenditure required for a four-person family, see description of methodology in Yap, Mui Teng, "Poverty Monitoring and Alleviation in Singapore," in <em>Poverty Monitoring and Alleviation in East Asia, K L</em> Tang and C K Wong, eds (New York: Nova Science, 2003): 77-78.</li>
+<li class="small-text">Department of Statistics, <em>Key Household Income Trends</em> (Singapore: Ministry of Trade and Industry, 2006).</li>
+<li class="small-text">The Economist noted that since 2000, real wages for the median US worker rose only about 1.5% even after accounting for health and pension benefits, even though productivity grew by as much as 15%.</li>
+<li class="small-text">Lindert, Peter H., <em>Growing Public: Social Spending and Economic Growth since the Eighteenth Century</em> (UK: Cambridge University Press, 2004).</li>
+<li class="small-text">Barnett, W. Steven and Belfield, Clive R., “Early Childhood Development and Social Mobility,” (National Institute for Early Education Research, NIEER Policy Report, October 2006), <a href="http://nieer.org/docs/?DocID=152">http://nieer.org/docs/?DocID=152</a>.</li>
 </ol>
 
-<br>
+
+
+
+
+
 
 
 
