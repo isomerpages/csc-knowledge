@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 17 June 2017</small></em>
-
+<img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
   
 <p>The situation faced by public servants and public sector leaders today may not be more challenging in absolute terms than in previous generations, but it is certainly different. The problems societies face today stem from a world characterised by increasing complexity, hyperconnectivity and a high level of uncertainty. In this context, the public sector’s role in developing innovative solutions is critical.</p>  
