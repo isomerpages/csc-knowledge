@@ -146,7 +146,7 @@ li {
   
   
   
-<p class="small-text text">As part of the efforts to move towards a Car-Lite Singapore, MEWR and LTA embarked on a project to examine the effectiveness of usage-based pricing in reducing the rate at which their employees drive to work. </p>  
+<br>
   
   
   
