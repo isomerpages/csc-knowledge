@@ -2,5 +2,6 @@ collections:
   ethos-issue-03:
     output: true
     order:
+      - "Growth with Equity: The Challenge of Income Distribution.md"
       - Rethinking a New Social Compact for Singapore.md
       - Editorial.md
