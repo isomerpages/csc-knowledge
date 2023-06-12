@@ -264,7 +264,7 @@ li {
 <p><strong>Angelyn Teo</strong> is an economist in EBERU, a multi-disciplinary research team that leverages economics, behavioural insights and data analytics to support the development, implementation and evaluation of environmental policies.</p> 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
+<h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">R. N. Belcher and R. A. Chisholm, “Tropical Vegetation and Residential Property Value: A Hedonic Pricing Analysis in Singapore”, <em>Ecological Economics</em> 149 (2018): 149–159. The researchers used ordinary least squares regression in the baseline model and controlled for location characteristics (e.g., distance to nearby schools, food centres and transportation nodes) and apartment attributes (e.g., floor area, apartment type, and storey). A key assumption of the ordinary least squares regression is that the residuals of the regression are independently and identically distributed. As property prices of nearby apartments may be more highly correlated than properties that are located further away, the researchers controlled for this spatial autocorrelation by estimating a hierarchical mixed-effect model. </li>  
