@@ -124,13 +124,13 @@ Asset-based policies provide dormant but somewhat ready-to-use resources, and ca
 
 <p>The interesting thing about asset-based policies in an East Asian society like Singapore is this irony: if assets are simply to be redistributed, it becomes simply another form of welfarism. Of course, the mandatory savings and matching principle such as in Singapore may help to overcome this ideological hurdle, but in general, it is in the long-term interest of a government to narrow not only the income gap but also the asset gap in a globalised economy to a level that is in line with core social values. Nevertheless, it seems worthwhile to critically examine the effects of asset-based policies in comparison with traditional income-based policies in terms of alleviating poverty, reducing social inequalities, and enhancing social harmony.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Professor Chack–Kie Wong</strong> teaches in the Social Work Department of the Chinese University of Hong Kong. His research interests include public opinion of welfare, comparative social policy, poverty and social security, and welfare reforms in China. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -140,11 +140,6 @@ Asset-based policies provide dormant but somewhat ready-to-use resources, and ca
 
 <br>
 
-<p><a href="../ethos.html">Back to Ethos homepage</a></p>
-
-
-
-
-
-
-
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
