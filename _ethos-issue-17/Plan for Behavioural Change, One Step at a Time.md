@@ -69,7 +69,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 17 June 2017</small></em>
-
+<img src="/images/Landing_Banner_Images/banner_book%20review.jpg">
 
   
 <p>&nbsp;</p>  
