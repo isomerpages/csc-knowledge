@@ -67,6 +67,20 @@ li {
 	line-height:22px !important;
 }	
 	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}		
+	
 
 </style>
 
@@ -147,13 +161,15 @@ A stronger, direct social safety net may enable policy to take advantage of glob
 
 <p>These then are the main challenges to rethinking Singapore’s social compact. Faith in the old social compact, forged over 40 years of success, will not easily be worn away, but the new globalisation mega-trends will continue to erode it. Can we, as policymakers, be bold and creative enough to re-imagine and re-make a sounder new foundation for its renewal in coming decades?</p>
 
-<hr>
+
+
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Yeoh Lam Keong</strong> is Director, Economics and Strategy in the Government of Singapore Investment Corporation (GIC) Pte Ltd. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -164,4 +180,10 @@ A stronger, direct social safety net may enable policy to take advantage of glob
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
+
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
