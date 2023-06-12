@@ -75,7 +75,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 17 June 2017</small></em>
-
+<img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
   
 <h3>Introduction</h3>  
