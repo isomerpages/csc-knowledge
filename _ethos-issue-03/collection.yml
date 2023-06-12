@@ -2,6 +2,8 @@ collections:
   ethos-issue-03:
     output: true
     order:
+      - Globalisation and the Challenges of Social Policy in Asia’s Developed
+        Open Economies.md
       - "Growth with Equity: The Challenge of Income Distribution.md"
       - Rethinking a New Social Compact for Singapore.md
       - Editorial.md
