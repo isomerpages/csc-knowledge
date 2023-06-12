@@ -102,7 +102,7 @@ li {
   
   
   
-<p class="small-text text">In the UK, the Department for Business, Innovation, and Skills (BIS) launched a programme in 2014 to support small businesses to seek and obtain strategic business advice by offering “Growth Vouchers” that would help pay for the cost of this advice.</p>  
+<br>
   
   
   
@@ -147,7 +147,7 @@ li {
   
   
   
-<p class="small-text text">Whenever the Housing Development Board (HDB) carries out estate upgrading programmes to enhance the living environment, residents are required to pay a proportion of the cost. </p>  
+<br>
   
   
   
@@ -182,7 +182,7 @@ li {
   
   
   
-<p class="small-text text">Singapore’s Ministry of Manpower and Work Development Authority (WDA) found that jobseekers relied heavily on WDA Career Coaches to source for and arrange job referrals. </p>  
+<br>
   
   
   
@@ -227,7 +227,7 @@ li {
 <p class="text">The team redesigned the invitation letter to make it more compelling and attractive to readers, through:</p>  
 <ul>  
 <li><strong>Personalisation.</strong>The letters were personalised to include information about citizens’ individual funds in their Ordinary and Special Accounts, monthly housing payments, and projected balances before and after they turn 55 years old. The inclusion of such information signalled the importance of the letter, making recipients pay more attention to it.</li>  
-<li><strong>Pre-commitment.</strong>The letter also stated, <em>“We have reserved a place for you at the CPF Retirement Planning Service in \[month\]. Call \[number\] to confirm your appointment with us.” </em>This statement reframed the question for recipients, from “Should I go” to “<em>When</em> should I go”, reducing the perceived barriers (e.g. lack of time) to sign up for the service. </li>  
+<li><strong>Pre-commitment.</strong>The letter also stated, <em>“We have reserved a place for you at the CPF Retirement Planning Service in [month]. Call [number] to confirm your appointment with us.” </em>This statement reframed the question for recipients, from “Should I go” to “<em>When</em> should I go”, reducing the perceived barriers (e.g. lack of time) to sign up for the service. </li>  
 </ul>  
 <p class="text">Taken together, these interventions increased attendance for the retirement planning programme from 13.9% to 31.1%.<a href="#notes-2-1"><sup>1</sup></a> By understanding how best to engage a target group and making simple changes to the invitation letter to accommodate their needs, many more signed up for a service that benefitted them.</p>  
 <hr>  
