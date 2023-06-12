@@ -365,7 +365,7 @@ li {
 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
+<h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">Emmanuel Rivière, <a target="\_blank" href="https://kantar.turtl.co/story/public-journal-04/page/3/9">“Our Planet Issues: Accelerating Behaviour Change for a Sustainable Future”</a>, <em>Kantar Public</em>, accessed May 24, 2022. </li>  
