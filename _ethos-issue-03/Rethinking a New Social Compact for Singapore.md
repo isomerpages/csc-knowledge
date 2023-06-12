@@ -31,22 +31,18 @@ border-top: 1px solid black;
 	}	
 	
 
-.break
+.green
 {
-   border-top: 1px solid  black;
-   border-bottom: 1px solid black;
-	 padding:20px;
-	text-align:center;
-	margin-top:50px;
+background-color: #44663E;	
+padding: 30px;
 }
 	
-.break1
+.green h5	
 {
-font-family: Georgia;
-	font-size:20px;
-	font-style: italic;
-	font-weight: bold;
-}
+	color: white;
+	text-align: center;
+	font-size: 23px;
+}	
 
 .boxheader {
 	color: white !important;
@@ -99,25 +95,26 @@ li {
 
 <p>The implications of these trends for domestic welfare and poverty are clear. Our poorest decile, numbering some 90,000 to 100,000 households, still earn around S$160 per month per capita,<a href="#notes"><sup>1</sup></a> the equivalent of around S$640 a month for a family of four. This compares to a measure of average basic expenditure needs of S$1,040 estimated by the Department of Statistics,<a href="#notes"><sup>2</sup></a> and a guideline of around S$1,500 used by many public agencies to indicate the need for social assistance. Whether this constitutes “absolute poverty” may be contentious. What is clear, however, is that for many of these families, hardship has been a way of life for over a decade. They may have little left over for the enrichment opportunities that could gradually lift them out of poverty—such as tuition, training courses, computers or IT services—access to which mark the boundaries of true social inclusion.</p>
 
-<hr>
 
+
+<div class="green">
 <h5><em>
 Singapore, with one of the most open economies in the world, is particularly vulnerable to these negative trends.
 </em></h5>
+</div>
 
-<hr>
 
 <p>With long-term wage stagnation, this wide poverty gap will not easily be whittled away. If wages continue to stagnate, there is a limit to poverty alleviation through working longer and harder, or driving the unemployment rate lower. An underclass of our own may well be emerging.</p>
 
 <p>In the long run, this malign combination of median wage stagnation, low wage decline and rising inequality is potentially poisonous for the social compact underpinning globalisation and the bedrock of our virtuous cycle of strong governance.</p>
 
-<hr>
 
+<div class="green">
 <h5><em>
 There is a limit to poverty alleviation through working longer and harder.
 </em></h5>
+</div>
 
-<hr>
 
 <p>If the broad median faces medium-to long-term wage stagnation and rising income inequality, the credibility of tough policies—wage discipline, raising the Goods and Service Tax or public sector wages, further deregulation that demand sacrifice or pain in anticipation of future economic betterment—will be undermined and there could be increasing difficulty in garnering acceptance. Many will feel that their basic stake in the common enterprise of prosperity has been eroded. What is left will be the bitter, zero-sum politics of envy and dead-end populism.</p>
 
@@ -133,13 +130,12 @@ There is a limit to poverty alleviation through working longer and harder.
 
 <p>What remains in Singapore is to appropriately scale up the relevant magnitudes. Current net workfare payments of around S$80 to S$100 per month are a long way from being able to bridge the poverty gap between bare subsistence and the small surplus needed to invest in human capital at the household level. Yet they remain the fastest way of getting there without compromising work ethic and with relatively low cost.</p>
 
-<hr>
 
+<div class="green">
 <h5><em>
 A stronger, direct social safety net may enable policy to take advantage of globalisation more quickly and boldly.
 </em></h5>
-
-<hr>
+</div>
 
 <p>Other measures that should be studied for wider implementation include: social risk pooling for unemployment insurance, medical costs, retirement benefits, education risks or reverse mortgages; an expanded and well-integrated continuing education and training system. Perhaps a more discriminating immigration policy—against unskilled labour in non-traded sectors (for example, in the construction industry)—can also be sought even at the expense of maximising short-term output, in order to achieve a better combination of real wage growth and increased productivity.</p>
 
@@ -169,4 +165,3 @@ A stronger, direct social safety net may enable policy to take advantage of glob
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
