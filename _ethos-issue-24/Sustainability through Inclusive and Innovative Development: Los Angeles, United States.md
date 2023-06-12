@@ -183,7 +183,7 @@ li {
 <p class="small-text"><strong>Victoria Simon</strong> is the Executive Officer for Los Angeles Mayor Eric Garcetti’s Office of Sustainability. She supports the implementation of LA’s Green New Deal, the City’s sustainability plan to aggressively address the climate crisis, with a specific focus on water, urban ecosystems, resilience, and waste. She also oversees the Mayor’s Youth Council for Climate Action. Prior to this role, she produced the podcast <em>Political Climate</em> and provided policy consulting for state and national political campaigns. She helped create New York City’s first sustainability plan while serving in Mayor Bloomberg’s administration, and has served as Chief of Staff and Director of Energy Policy at the New York Power Authority. She is also a member of Southern California Public Radio (KPCC) Regional Advisory Council. </p>  
 </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTE</p>  
+<h6> <a name="notes"></a>NOTE</h6>  
   
 <ol>  
 <li class="small-text">See “L.A.’s Green New Deal”, <a target="\_blank" href="https://plan.lamayor.org/">https://plan.lamayor.org/</a>.</li>  
