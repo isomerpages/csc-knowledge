@@ -153,20 +153,8 @@ but on the ability of public organisations to capture new insights of what is ha
 <p>Reframing the conversation on innovation means focusing on societal results and exploring how the authority of the State can be put to optimal use to lever a collective effort that encourages the sharing of responsibilities and rewards for contributing to a common desirable outcome. It raises questions about the potential for the State to create a symbiotic system in which both society and the private sector benefit. It also raises further questions about the potential for government to intervene and bear risks beyond the market’s tolerance in order to promote the public good or for government to explore how to leverage social agents to build an innovative economy and society.<a href="#endnotes-12"><sup>12</sup></a> </p>  
   
 <p>The perspective on innovation found in the New Synthesis Initiative repositions public innovation in the broader context of the role of the State. The task of re-thinking the role of government in public innovation is in no way limited to the questions mentioned above. Thinking through the role of government in public innovation is an opportunity to re-articulate its public purpose in a changing context and to examine the system of relationships between public, private and civic spheres that produce societal results.</p>  
-  
-<div class="author">  
-  
-<h6>ABOUT THE AUTHOR</h6>  
-  
 
-<p class="small-text"><em>An international expert in governance and public sector reforms,<strong> the Honourable Jocelyne Bourgon</strong> is a Senior Visiting Fellow at the Civil Service College Singapore, President of Public Governance International (PGI), President Emeritus of the Canada School of Public Service, project leader of the New Synthesis Initiative and author of <strong>A New Synthesis of Public Administration: Serving in the 21st Century</strong>.</em></p>  
-<p class="small-text"><em>This article was adapted from a fuller chapter of the second book of the New Synthesis Initiative, to be published in August 2017: Jocelyne Bourgon, <strong>The New Synthesis of Public Administration Fieldbook</strong> (Dansk Psykologisk Forlag, 2017).</em></p>  
 
-  
-</div>  
-  
-  
-  
 <h4 class="title">The New Synthesis of Public Administration Fieldbook</h4>  
   
 <table style="border: none; background-color: transparent; width: 500;">  
@@ -181,6 +169,23 @@ but on the ability of public organisations to capture new insights of what is ha
 <hr>  
   
 <p class="small-text text">Publisher: Dansk Psykologisk Forlag, Publication Date: 1 August 2017, Cover image: Hellen Jensen</p>  
+
+
+
+<div class="author">  
+  
+<h6>ABOUT THE AUTHOR</h6>  
+  
+
+<p class="small-text"><em>An international expert in governance and public sector reforms,<strong> the Honourable Jocelyne Bourgon</strong> is a Senior Visiting Fellow at the Civil Service College Singapore, President of Public Governance International (PGI), President Emeritus of the Canada School of Public Service, project leader of the New Synthesis Initiative and author of <strong>A New Synthesis of Public Administration: Serving in the 21st Century</strong>.</em></p>  
+<p class="small-text"><em>This article was adapted from a fuller chapter of the second book of the New Synthesis Initiative, to be published in August 2017: Jocelyne Bourgon, <strong>The New Synthesis of Public Administration Fieldbook</strong> (Dansk Psykologisk Forlag, 2017).</em></p>  
+
+  
+</div>  
+  
+  
+  
+
   
   
   
