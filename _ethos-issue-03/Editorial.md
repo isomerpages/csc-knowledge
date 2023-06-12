@@ -98,16 +98,7 @@ font-size: 16px;
 <p>Once again I wish you a constructive read, and welcome you to take advantage of additional web-exclusive resources and articles at <a href="../../ethos.html">http://www.csc.gov.sg/ethos</a>.</p>
 
 
-
-
-
-
-
-
-
-
-
-  
+<br>  
   
   
 <b>Dr Alvin Pang</b><br>
