@@ -16,11 +16,9 @@ description: ""
 	width:100%;
 }
 	
-	
-
 .green
 {
-background-color: #44663E;	
+background-color: #939547;	
 padding: 30px;
 }
 	
@@ -94,13 +92,14 @@ border-top: 1px solid black;
 
 <p>Redistributive policies aim to transfer part of income gains enjoyed by higher-income earners and the owners of capital to the lower-income segments of the population hurt by global trade. However, if the wages of half the population are stagnant, simply enhancing existing redistributive measures may not be sufficient. Here, the Nordic model offers some insights on how taxation and social spending systems can be both pro-growth and socially equitable.</p>
 
-<hr>
 
+
+<div class="green">
 <h5><em>
 Workers are working harder and smarter, but ending with smaller shares of the growing economic pie.
 </em></h5>
+</div>
 
-<hr>
 
 <p>The tax systems in the Nordic countries are far less redistributive and progressive than one would expect: capital is taxed lightly (compared with other industrialised countries), while consumption and labour bear the bulk of the tax burden. This conforms to economic theory: taxes that lean on consumption (which is less elastic) are less economically distorting that those which lean on capital, which is more mobile and hence more elastic in supply.</p>
 
@@ -110,19 +109,17 @@ Workers are working harder and smarter, but ending with smaller shares of the gr
 
 <p>The overriding consideration for the Singapore Government in implementing any new redistributive measure is to ensure that it does not undermine economic growth, erode the work ethic, or distort incentives. In this regard, the Government could consider measures to moderate the effects of job volatility through some form of unemployment insurance. As more segments of the working population become vulnerable to downward income volatility for extended periods, a basic unemployment insurance scheme might be a more efficient way of providing them some form of income security. Unemployment insurance helps workers pool their risks to fund key necessary expenditures when faced with a sudden loss of income. A publicly administered unemployment insurance system, integrated with assistance in job placement, re-training and targeted welfare, could also help the recovery of household incomes after recessions. If so, social insurance against the risk of unemployment could be an important component of Singapore’s social safety net in the future.</p>
 
-<p>&nbsp;</p>
+
 
 <h4>Human Capital Development</h4>
 
 <p>If the Government wishes to avoid large social transfers of the Nordic variety, its main alternative would be to invest substantially more in human capital development. This can be done in a variety of ways.</p>
 
-<hr>
-
+<div class="green">
 <h5><em>
 Unemployment insurance helps workers pool their risks to fund key necessary expenditures when faced with sudden loss of income.
 </em></h5>
-
-<hr>
+</div>
 
 <p>One would be to provide subsidies to the lower-income households for expenditures beyond mere subsistence, so as to allow for human capital formation. Currently, low income households spend about 60% of their income on food, housing and utility bills, leaving them with little for investments in education and education-related areas. Some studies in the US have shown that children from lower income families develop persistent skills gap as early as the age of three compared to those from higher-income families, should they go without effective pre-school programmes.<a href="#notes"><sup>4</sup></a> Perhaps a suitable starting point to address poverty issues in a sustainable way would be to provide for assistance in the form of enhanced subsidies in early childhood education.</p>
 
