@@ -100,9 +100,7 @@ li {
   
   
   
-<h4 class="title">Solving the Circle Line Disruption Mystery</h4>  
-  
-<p class="small-text text">Between August and November 2016, Singapore’s MRT Circle Line was hit by a spate of mysterious disruptions, causing confusion and distress to thousands of commuters. Prior investigations by train operator SMRT and the Land Transport Authority (LTA) indicated the cause as some form of signal interference. This resulted in signal loss and triggered the emergency brake safety feature in some trains, causing them to stop along the tracks. However, the incidents seemed to occur at random, making it difficult for the investigation team to pinpoint the exact cause.</p>  
+<br>
   
   
   
