@@ -95,7 +95,7 @@ li {
   
   
   
-<p class="small-text text">Each year, companies receive letters from the Inland Revenue Authority of Singapore (IRAS) reminding them to file their corporate tax returns on time. These letters provide information tailored to the needs of various company segments. While the vast majority of companies file on time, IRAS has found that one particular profile of newly incorporated companies (NICs) was more likely to be late in filing their returns, compared to other firms.</p>  
+<br>
   
   
   
@@ -126,7 +126,9 @@ li {
   
   
   
-<p class="small-text text">IRAS wanted to encourage people with overdue property taxes to pay their taxes immediately. Their proposed solution involved sending trial text messages to encourage immediate action on property tax. </p>  
+<br>
+<br>
+<br>
   
   
   
@@ -158,8 +160,9 @@ li {
   
   
   
-<p class="small-text text">The Land Transport Authority (LTA) regulates close to one million vehicles in Singapore, including matters related to road tax. LTA’s standard practice is to send a renewal notice to vehicle owners one month prior to road tax expiry. However, historical data showed that about 10% of all vehicle owners still end up making late renewals.</p>  
-  
+<br>
+<br>
+<br>
   
   
   
@@ -239,9 +242,9 @@ li {
   
   
   
-<p class="small-text text">Each year, around 7,200 vehicle owners end up in road tax arrears of more than three months. In such cases, a Notice to Attend Court is issued stating that a court charge is imminent. Accompanying the court notice is an Advisory Note providing information on how the case might be settled out of court.</p>  
-  
-<p class="small-text text">To reduce the number of offenders ending up in court, LTA conducted an experiment to test if a refreshed Advisory Note could increase the propensity for road tax arrears to be settled immediately.</p>  
+<br>
+<br>
+<br>
   
   
   
@@ -249,7 +252,7 @@ li {
 <div class="containerbox">  
   
   
-<h3 class="title">Nudging Overdue Customers</h3>  
+<h3 class="title">Nudging Vehicle Owners in Arreas To Settle Immediately</h3>  
 <p class="text">Each year, around 7,200 vehicle owners end up in road tax arrears of more than three months. In such cases, a Notice to Attend Court is issued stating that a court charge is imminent. Accompanying the court notice is an Advisory Note providing information on how the case might be settled out of court.</p>  
 <p class="text">To reduce the number of offenders ending up in court, LTA conducted an experiment to test if a refreshed Advisory Note could increase the propensity for road tax arrears to be settled immediately.</p>  
 <h5>The Trial</h5>  
