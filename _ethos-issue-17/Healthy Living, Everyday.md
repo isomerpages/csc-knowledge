@@ -204,7 +204,7 @@ Break fast, break a bad habit</h4>
     AIA Healthy Living Survey 2011, <a target="\_blank" href="https://www.aia.com.sg/content/dam/sg/en/docs/press-releases/2011/AIA\_healthy\_living\_index\_survey\_findings\_sg.pdf">https://www.aia.com.sg/content/dam/sg/en/docs/press-releases/2011/AIA\_healthy\_living\_index\_survey\_findings\_sg.pdf (PDF, 402KB)</a>.  
     </li>  
 <li id="endnotes-4" class="small-text">  
-    “EAST - Four simple ways to apply behavioural insights,” where behaviour change can be encouraged by making it Easy, Attractive, Social and Timely, <a href="https://www.bi.team/blogs/behavioural-insights-team-publishes-east-a-new-framework-for-applying-behavioural-insights/">https://www.bi.team/blogs/behavioural-insights-team-publishes-east-a-new-framework-for-applying-behavioural-insights/</a>  
+    “EAST - Four simple ways to apply behavioural insights,” where behaviour change can be encouraged by making it Easy, Attractive, Social and Timely, <a target="_blank" href="https://www.bi.team/blogs/behavioural-insights-team-publishes-east-a-new-framework-for-applying-behavioural-insights/">https://www.bi.team/blogs/behavioural-insights-team-publishes-east-a-new-framework-for-applying-behavioural-insights/</a>  
 </li>  
 <li id="endnotes-5" class="small-text">  
     Those who eat out six or more times a week typically consume 12% more calories, 15% more saturated fat and 34% less whole-grains than those who eat out less often.  
