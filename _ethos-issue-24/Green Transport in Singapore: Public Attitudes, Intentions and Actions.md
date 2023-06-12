@@ -467,7 +467,7 @@ and Information.</em>
 </div>
 <hr>
 	
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p><ol>  
+<h6> <a name="notes"></a>NOTES</h6><ol>  
 <li class="small-text">Singapore has not been, and will not be, spared. Average temperatures in our coastal city-state have risen by more than 1°C over the past 40 years. By the end of the century, the National Climate Change Secretariat projects a further increase of 4.6°C in temperature and a 1 m rise in sea levels.</li>  
 <li class="small-text">National Climate Change Secretariat, “Singapore’s Emissions Profile”, accessed  
     May 2, 2022, <a target="\_blank" href="https://www.nccs.gov.sg/singapores-climate-action/singapores-climate-targets/singapore-emissions-profile/">https://www.nccs.gov.sg/singapores-climate-action/singapores-climate-targets/singapore-emissions-profile/</a>.</li>  
