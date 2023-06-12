@@ -165,7 +165,7 @@ li {
 <p><strong>Yuichi Kikuzawa</strong> works at the research team at the Centre for Liveable Cities, where he focuses on policies, strategies, and international collaborations for the future of city planning. His research is premised on deep understanding of urban systems and how to derive integrated solutions for cities.</p>  
 </div>
 	
-<p class="small-text" style="font-weight: bold; letter-spacing: 1px;"> <a name="notes"></a>NOTES</p><ol>  
+<h6> <a name="notes"></a>NOTES</h6><ol>  
 <li class="small-text">Millennium Ecosystem Assessment, <a href="https://www.millenniumassessment.org/en/Condition.html" target="\_blank">Current State &amp; Trends Assessment”</a>, accessed June 9, 2022. Also see ARUP, <a href="https://www.arup.com/perspectives/publications/research/section/planetary-boundaries" target="\_blank">Designing for Planetary Boundary Cities”</a>, accessed June 9, 2022. </li>  
 <li class="small-text">Hilary Osborne and Sarah Butler, <a href="https://www.theguardian.com/business/2022/jan/29/from-milk-to-crisps-why-the-price-of-basic-food-items-is-rising" target="\_blank"> “From Milk to Crisps: Why the Price of Basic Food Items Is Rising”</a>, <em>The Guardian</em>, January 29, 2022, accessed June 9, 2022. </li>  
 <li class="small-text">Sandra Díaz, Josef Settele, Eduardo Brondízio et al., <a href="https://ipbes.net/global-assessment" target="\_blank">“Summary for Policymakers of the Global Assessment Report on Biodiversity and Ecosystem Services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services”</a>, May 6, 2019, accessed June 9, 2022. </li>  
