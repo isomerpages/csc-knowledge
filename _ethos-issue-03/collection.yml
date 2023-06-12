@@ -1,4 +1,5 @@
 collections:
   ethos-issue-03:
     output: true
-    order: []
+    order:
+      - Editorial.md
