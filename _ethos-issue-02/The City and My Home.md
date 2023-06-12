@@ -148,10 +148,6 @@ The peripheral influences and helps shape evolution in the mainstream.
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
-
-
-
-
-
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
