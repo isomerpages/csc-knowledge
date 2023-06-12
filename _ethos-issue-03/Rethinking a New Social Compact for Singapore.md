@@ -71,6 +71,7 @@ border-top: 1px solid black;
 
 </style>
 
+<em><small>ETHOS Issue 02, Apr 2007</small></em>
 <img src="/images/Ethos_Images/Ethos_Issue_03/Rethinking_A_New_SocialCompact_For_Singapore.jpg">
 
 
