@@ -135,12 +135,13 @@ Asset-based policies provide dormant but somewhat ready-to-use resources, and ca
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li>Dreze, Jean and Sen, Amartya, India: Development and Participation, 2nd ed. (USA: Oxford University Press, 2002).</li>
-<li>For a discussion of how minimum thresholds and implementation priorities might be set in accordance to a nation’s resources and economic conditions, see Nussbaum, Martha, “The Costs of Tragedy: Some Moral Limits of Cost-Benefit Analysis,” in Cost-Benefit Analysis, ed. Adler, M. D. and Posner, E. (Chicago: University of Chicago Press, 2001).</li>
+<li class="small-text">Census and Statistics Department, 2006 Population By-census, Thematic Report: Household Income Distribution in Hong Kong (Hong Kong: The Government of the Hong Kong Special Administrative Region, 2007). Available at: <a href="http://www.bycensus2006.gov.hk/FileManager/EN/Content_962/06bc_hhinc.pdf">http://www.bycensus2006.gov.hk/FileManager/EN/Content_962/06bc_hhinc.pdf</a></li>
 </ol>
 
 <br>
 
+<br>
+<br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
