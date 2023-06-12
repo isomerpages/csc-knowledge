@@ -206,7 +206,7 @@ needs at the centre of development.</p>
   
 </div>
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
+<h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">“The Espoo Story”, <a target="\_blank" href="https://www.espoo.fi/en/city-espoo/espoo-story">https://www.espoo.fi/en/city-espoo/espoo-story</a>.</li>  
