@@ -149,5 +149,6 @@ Small spaces humanise our cities, bringing life and dynamism to urban landscapes
 
 <br>
 
-<p><a href="../ethos.html">Back to Ethos homepage</a></p>
-
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
