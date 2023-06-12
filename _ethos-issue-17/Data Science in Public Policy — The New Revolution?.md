@@ -134,11 +134,9 @@ li {
   
   
   
-  
-<h4 class="title">Supporting Forest and Peat Fire Management Using Social Media in Indonesia</h4>  
-  
-<p class="small-text text">Each year, forest and peatland fires spread across Kalimantan and Sumatra, mostly due to peatland drainage and the conversion of land to palm oil cultivation. Besides the damage caused to biodiversity and the ecosystems, according to UN Global Pulse, over 10 million people in Southeast Asia are affected by haze. Indonesian forest and peat fires in 1997 to 1998 were estimated to have caused over US$4.5 billion in damage, mostly health-related, across the region.</p>  
-  
+<br>
+<br>
+<br>
   
   
   
@@ -174,9 +172,7 @@ li {
   
   
   
-<h4 class="title">Making Sense of Public Feedback to the Housing Development Board (HDB)</h4>  
-  
-<p class="small-text text">The HDB’s Estate Administration &amp; Property Group (EAPG) receives approximately 100,000 emails each year about flat sales. Together with GovTech, EAPG applied unsupervised machine learning to emails received in 2015 to discover key topics of public concerns. The analyses found about a cluster of emails on key collection: many new flat owners were emailing HDB to rush or delay their key collection date.</p>  
+<br>
   
   
   
