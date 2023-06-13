@@ -17,7 +17,7 @@ description: ""
 	
 .maroon
 {
-background-color: #973330;	
+background-color: #651A1C;	
 padding: 30px;
 }
 
@@ -47,17 +47,21 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 	
-.adapted
+.upward
 {
-border-bottom: 1px solid black;
 margin-top:40px;
-padding-bottom:30px;
+padding:30px;
+background-color: #aa4b37;
 }	
 	
-.adapted p
+.upward h3, .upward p, .upward h4
 {
-	font-size: 0.9em;
-	line-height:24px !important;
+	color: white;
+}
+
+.upward img
+{
+width: 70%;
 }
 	
 	
@@ -72,8 +76,6 @@ font-size:16px;
 	
 <em><small>ETHOS Issue 03, Oct 2007</small></em>
 <img src="/images/Ethos_Images/Ethos_Issue_03/WageInequality.jpg">
-
-	
 	
 
 <p>Accompanying Singapore’s phenomenal economic growth over the past four decades has been a rapid increase in educational attainment over the years:<a href="#notes"><sup>1</sup></a> in 1960, the mean years of schooling for residents aged 25 and over was 3.14 years; in 2006, it was 9.3 years. This dramatic increase in the supply of skilled labour in all sectors of the economy helped to power Singapore’s high growth rates over the past few decades of economic development, which also saw declining wage inequality and high upward intergenerational mobility in education.</p>
@@ -106,13 +108,13 @@ font-size:16px;
 
 <p>High upward educational mobility in the past was mainly a result of the expansion of public education. The educational link to employability is important as a higher return to education via public subsidy will lead to higher mobility and higher wage equality.</p>
 
-<hr>
 
+<div class="maroon">
 <h5><em>
 The educational link to employability is important as a higher return to education via public subsidy will lead to higher mobility and higher wage equality.
 </em></h5>
 
-<hr>
+</div>
 
 <p>As Singapore climbs up the educational ladder, there seems to be a call for diversity in educational products and providers apart from the Government, as well as an expansion of tertiary education. Diversity is good, but attention should be given to the marketability of human capital accumulated, that is, the market return on education. Economic models and empirical studies have shown that private schools could have a negative impact on educational mobility as they rely more on the contribution from parents both in terms of time and money. Skill-biased parental influence is more prominent in private schools. As Singapore moves to become the educational hub of the region and beyond, we will see more private and international schools and universities entering the education industry. We have to be aware of the potential impact on educational mobility and wage equality, given a larger share of private schools in the economy.</p>
 
@@ -132,7 +134,7 @@ The educational link to employability is important as a higher return to educati
 
 
 
-<div class="container">
+<div class="upward">
 
 
 <h3 class="title">UPWARD EDUCATIONAL MOBILITY: A DEMAND AND SUPPLY PERSPECTIVE</h3>
@@ -140,7 +142,7 @@ The educational link to employability is important as a higher return to educati
 <p>A demand-supply framework of upward mobility allows us to analyse the impact of trends on wage inequality and intergenerational mobility simultaneously. Wage equality, defined as the ratio of unskilled wage to skilled wage, can be considered the price of upward mobility and influences how parents decide on educational investment in their children. When wage equality is low (unskilled wage is low relative to skilled wage), parents have a greater incentive to invest in their children’s education because of the low opportunity cost and high return of educating an unskilled child into a skilled adult. The increased demand for education when wage equality is low will lead to high upward mobility. Socioeconomic, demographic, and policy shocks (for example, a change in government subsidy to public education) which influence returns and parental decisions on education, will shift the demand curve of upward educational mobility. </p>
 <p>A high upward mobility will also imply a larger pool of skilled workers relative to unskilled workers. All else being equal, the level of skilled wages relative to unskilled wages will decrease, resulting in greater wage equality. This positive relationship between upward mobility and wage equality may be interpreted as a supply curve for upward mobility. Structural changes in technology or conditions in the labour market will shift the supply curve of upward mobility.</p>
 <h4>FIGURE 1.THE BALANCE BETWEEN WAGE EQUALITY AND UPWARD EDUCATIONAL MOBILITY</h4>
-<p style="text-align: center;"><img title="FIGURE 1.THE BALANCE BETWEEN WAGE EQUALITY AND UPWARD EDUCATIONAL MOBILITY" src="../../images/default-source/ethos-images/ethos-issue-3/securitytable02.jpg?sfvrsn=6c2d4768_0" data-displaymode="Original" alt="FIGURE 1.THE BALANCE BETWEEN WAGE EQUALITY AND UPWARD EDUCATIONAL MOBILITY"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_03/Securitytable02.jpg"></p>
 <p>The intersection of the demand and supply curves will give the equilibrium level of upward mobility and wage equality in society. – Ho Kong Weng</p>
 
 
