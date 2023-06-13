@@ -16,10 +16,17 @@ description: ""
 	font-size:16px;
 }
 	
-.greybox
+.red
 {
-background-color: #5d6165;	
+background-color: #B9422F;	
 padding: 30px;
+font-family: Georgia;
+text-align: center;
+}
+	
+.red h5
+{
+color:white	
 }
 
 .greybox h3, .greybox p, .greybox h4
@@ -84,13 +91,15 @@ font-size:16px;
 
 <p>Hence, Singapore’s Public Assistance Scheme,<a href="#notes"><sup>1</sup></a> which can be seen as social insurance against becoming destitute, has eligibility criteria more stringent than those of most welfare states, and gives a lower amount of benefits.</p>
 
-<hr>
 
+<div class="red">
+	
 <h5><em>
 Singapore's social assistance policies require people to exhaust their own resources, those of their families, and those of the community, before turning to government help.
 </em></h5>
 
-<hr>
+</div>
+
 
 <h3>KEEPING THE TAX BURDEN LOW</h3>
 
@@ -112,13 +121,12 @@ Singapore's social assistance policies require people to exhaust their own resou
 
 <p>In fact, Work Support has features to help ensure recipients are both willing and able to become self-reliant. Low assistance amounts and strictly-enforced maximum programme lengths help provide incentives for people to help themselves. At the same time, training grants, funded by the Singapore Workforce Development Agency, and case management help ensure that those who want to help themselves are given the resources to improve their own lives.</p>
 
-<hr>
-
+<div class="red">
 <h5><em>
 Training grants funded by the Singapore Workforce Development Agency and case management jelp ensure that those who want to help themselves are given the resources to improve their own lives.
 </em></h5>
+</div>
 
-<hr>
 
 <p>We also make it possible for families to maintain strong family ties by giving preference to couples who wish to live near or with their parents in our allocation of public apartments. We support the growth of a vibrant community life by providing financial support to organisations who wish to do their part to help others.</p>
 
