@@ -2,6 +2,7 @@ collections:
   ethos-issue-03:
     output: true
     order:
+      - "Security with Self Reliance: The Argument for the Singapore Model.md"
       - "The Nordic Social Security Model: Squaring the Circle?.md"
       - "Interview with Martha C Nussbaum: Poverty, Capabilities and Social
         Justice.md"
