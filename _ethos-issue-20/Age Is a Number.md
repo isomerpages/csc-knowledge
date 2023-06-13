@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 20, Jan 2019</small></em>
-<img src="">
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
 
 
   
