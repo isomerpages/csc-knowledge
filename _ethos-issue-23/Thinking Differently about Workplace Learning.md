@@ -658,7 +658,7 @@ WpL is not about teaching, nor is it about just one way of doing and thinking ab
 <p class="small-text"><strong>Dr Helen Bound</strong> is Deputy Director  
             of the Research Division at the Institute for Adult Learning, Singapore University of Social Sciences. During her 12 years in Singapore, she has undertaken extensive research into workplace learning, pedagogy and learning in different learning spaces. </p> </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
+<h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">P. Matthews, “Workplace Learning: Developing An Holistic Model”, <em>The Learning Organization</em> 6, no. 1 (1999): 19–20</li>  
