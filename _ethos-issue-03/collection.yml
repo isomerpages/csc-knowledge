@@ -2,6 +2,7 @@ collections:
   ethos-issue-03:
     output: true
     order:
+      - The Asian Financial Crisis In Hindsight.md
       - "The Singapore Model of Workfare: Three Suggestions.md"
       - "Interview with Lawrence M Mead: Making Workfare Work: The US
         Experience.md"
