@@ -68,7 +68,10 @@ li {
 <em><small>ETHOS Issue 23, October 2021</small></em>
 <img src="/images/Cropped_images/Ethos_Issue_23/23_Banner_Lead_By_Learning.jpg">
 
+<div class="break">
+	<p class="break1">There will be no one universal model of digital learning that suits all settings, but new tools and platforms will allow for richer multimedia engagement that can overcome the sensory stress that plagues today’s technologies.</p>	
 
+</div>
 
 
 
