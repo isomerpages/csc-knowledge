@@ -267,7 +267,7 @@ li {
 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>
+<h6> <a name="notes"></a>NOTES</h6>
 
 <ol>
 <li class="small-text">Sharon Begley, <a target="_blank" href="https://www.statnews.com/2020/04/02/coronavirus-spreads-too-fast-for-contact-tracing-digital-tools-could-help/">“Covid-19 Spreads Too Fast for Traditional Contact Tracing. New Digital ToolsCould Help”</a>, <em>Stat+</em>, April 2, 2020, accessed March 31, 2021.
