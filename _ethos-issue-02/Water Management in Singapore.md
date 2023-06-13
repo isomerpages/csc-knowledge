@@ -24,6 +24,8 @@ padding: 30px;
 .dark-green h5
 {
 	color: white;
+	font-family: Georgia;
+	text-align: center;
 }
 
 .greybox ol li
@@ -56,7 +58,7 @@ padding-bottom:30px;
 	
 .adapted p
 {
-		font-size: 0.9em;
+	font-size: 0.9em;
 	line-height:24px !important;
 }
 	
