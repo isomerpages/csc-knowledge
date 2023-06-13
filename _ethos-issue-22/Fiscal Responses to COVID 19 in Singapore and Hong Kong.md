@@ -356,7 +356,7 @@ employees with the means to retrain to be more productive and more employable to
   
 </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text">APPENDIX: SOURCES FOR BUDGETS</p>  
+<h6>APPENDIX: SOURCES FOR BUDGETS</h6>  
   
 <ol>  
 <li class="small-text">Ministry of Finance, Republic of Singapore, Budget Speech, 2020, https://www.singaporebudget.gov.sg/budget\_2020/budget-speech (subsequently referred to as, "Unity Budget").</li>  
@@ -383,7 +383,7 @@ employees with the means to retrain to be more productive and more employable to
   
 <hr>  
   
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTES</p>  
+<h6><a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">“Economic scarring” here refers to the protracted duration of recovery of the economy to pre-crisis periods, evident in indicators such as unemployment rates.</li>  
