@@ -153,7 +153,7 @@ Context matters in the implementation of technology, for older adults as well as
   
 <hr>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTE</p>  
+<h6><a name="notes"></a>NOTE</h6>  
   
 <ol>  
 <li class="small-text">HealthHub, “National Steps ChallengeTM Season 4 Is Here!”, accessed October 22, 2018, <a href="https://www.healthhub.sg/programmes/37/NSC/">https://www.healthhub.sg/programmes/37/NSC/</a>.</li>  
