@@ -73,7 +73,11 @@ li {
 
 </div>
 
+<p>It’s a truism that the pandemic has upended many facets of how we live, work, play, interact, learn, innovate, transact, and govern. As we define the new rules of engagement for the postpandemic world, one thing is clear: digital technologies will play a significant part in defining the ‘next normal’. In this article, I focus on how digital is likely to impact learning and leadership, thereby highlighting a new view of 'leading by learning'. Let me pose three interconnected questions: (1) How can digital influence the future of learning?; (2) How can digital change leadership and what leaders do?; and (3) How will learning change leadership?</p>
 
+
+<h3>DIGITAL AND THE FUTURE OF LEARNING</h3>
+<p>Learning—characterised by high-touch, in-person, face-to-face synchronous engagement—has gone mostly untouched by digital technologies for several centuries. The availability of computers and the global deployment of the Internet have since provided some useful tools. But over the last 18 months, in particular, we have witnessed massive, large-scale experiments of different kinds that have tested the role and efficacy of virtual instruction and remote learning with synchronous video meetings and asynchronous study materials.</p>
 
 
 <br>
