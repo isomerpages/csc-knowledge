@@ -16,9 +16,9 @@ description: ""
 	font-size:16px;
 }
 	
-.road-pricing
+.purple
 {
-background-color: #512C30;	
+background-color: #6F3B69;	
 padding: 30px;
 }
 
@@ -27,7 +27,7 @@ padding: 30px;
 	color: white;
 }
 	
-.road-pricing h5	
+.purple h5	
 {
 	color: white;
 	text-align: center;
@@ -50,19 +50,7 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 	
-.adapted
-{
-border-bottom: 1px solid black;
-margin-top:40px;
-padding-bottom:30px;
-}	
-	
-.adapted p
-{
-	font-size: 0.9em;
-	line-height:24px !important;
-}
-	
+
 	
 .small-text
 {
@@ -114,9 +102,6 @@ font-size:16px;
 
 <p class="small-text text">The Workfare Income Supplement (WIS) announced in the 2007 Budget is a long-term programme targeted at older low-wage workers. Owing to the competition low-wage workers face from foreign workers who are willing to accept lower salaries, Singapore’s low-wage workers are encouraged not only to continue working under Workfare but also to seek relevant training to boost their prospects of securing better employment.</p>
 
-<p>&nbsp;</p>
-
-
 
 <h3>RELATED INITIATIVES</h3>
 
@@ -124,13 +109,12 @@ font-size:16px;
 
 <p>In contrast, Wisconsin eschewed training and emphasised work instead,<a href="#notes"><sup>9</sup></a> since it was found that work experience proved to be far more valuable than the additional retooling individuals would receive had they chosen instead to receive training first. Furthermore, programmes that focused on work over training were regarded to be a more efficient use of resources.</p>
 
-<hr>
-
+<div class="purple">
 <h5><em>
 Emphasising work over welfare has numerous benefits aside from the financial advantages it accrues.
 </em></h5>
+</div>
 
-<hr>
 
 <p>By no means does this suggest that education and training are not features in the US welfare reform model. Some states in the US, such as Washington and New Jersey, have also set aside more generous budgets for education and training.<a href="#notes"><sup>10</sup></a> Education and training by themselves, however, were not shown to reduce welfare dependence. These tools had to be complemented by child support and subsidies, the EITC, and health insurance in order to make a positive impact on the lives of welfare recipients.<a href="#notes"><sup>11</sup></a> Childcare subsidies in particular were received favourably as it enabled single mothers to go out to work.</p>
 
