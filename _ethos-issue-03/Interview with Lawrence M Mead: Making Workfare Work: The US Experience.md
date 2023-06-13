@@ -89,86 +89,92 @@ color: white;
 	
 	</style>
 	
-<em><small>ETHOS Issue 02, Apr 2007</small></em>
+<em><small>ETHOS Issue 03, Oct 2007</small></em>
 <img src="/images/Landing_Banner_Images/banner_interview.jpg">	
 	
 	
-<h3>Given that Singapore is a small water- scarce nation, how can it better manage its water resources?</h3>
 
-<p>Overall, Singapore's water management is already one of the best in the world. In water management, Singapore has made a transition from a developing country to a developed country in only 30 to 40 years. In contrast, much of the developing world has made only incremental progress during the past decades. In areas such as technological innovation, institutional arrangements, pricing, leadership, and stakeholders' participation, what Singapore has achieved during the last 30 years is most commendable.</p>
+<h3>Singapore has put in place a Workfare Income Supplement scheme as an additional social safety net for low-income workers. What can we learn from the US experience in work-for-benefit programmes?</h3>
 
-<p>Of course, it is much easier to manage a small city-state like Singapore compared to big countries like India, China or Brazil. However, size itself is not the only consideration because most of the Central American, Caribbean and Pacific Island states are often no bigger than Singapore, and yet none of them have managed to make a fraction of the progress that Singapore has made in water and wastewater management in recent decades.</p>
+<p>It is important to distinguish American-style work enforcement from Singapore’s workfare. The two initiatives are markedly different: in Singapore, workfare refers to the supplementation of wages, while in the US, workfare entails requiring people who receive aid to work.</p>
 
-<p>It will be progressively more difficult to improve radically on what Singapore has already achieved, especially when you consider that the rest of the world is still trying to achieve much of what Singapore has already accomplished. There is, of course, always room for improvement. For example, per capita water consumption in Singapore can be further reduced to around 135 litres, from around 158 litres at present. With increasing population and industrial activities and limited freshwater resources, further reduction in water demand will be necessary. Already, a few European cities have brought down their per capita water consumption to the 130 to 135 litres range.</p>
+<p>The national Personal Responsibility Act of 1996 accelerated welfare reform. The Act meant that welfare was no longer a legal entitlement. However, there was no real reason to abolish the entitlement since the intention was to condition aid on work. Another excessive aspect of US welfare reform is the time limit enforced which only allows recipients to be on aid for a maximum of five years. This was unnecessary since reform was not aimed mainly at ending dependency, but instead at encouraging people to work.</p>
 
-<h3>How well does Singapore's water management compare with best practices around the world? What can we learn from other approaches elsewhere?</h3>
+<p>One state, Wisconsin, even insisted on a universal and immediate work requirement, which was more severe than required. Wisconsin’s strong administrative capacity, however, meant that welfare reform met with success in the state. Washington was another state that saw the smooth running of welfare programmes post-1996. Like Wisconsin, Washington had a strong tradition of good government.</p>
 
-<p>Water management in Singapore is now significantly better than the rest of the developing world and much of the developed world. Indeed, it is often claimed that the private sector manages water better than the public sector, yet Singapore's Public Utilities Board (PUB) is a public sector organisation, and its performance record is simply superb. In fact, private sector companies would do well to emulate a public sector institution like PUB.</p>
+<p>US welfare reform was aimed mainly at raising work levels. Reducing dependency was secondary. The idea that the poor should be entirely non-reliant on the Government is never going to happen and it is even unnecessary. In reality, even the middle class is reliant on the Government. Strict self-reliance is not a meaningful goal. Instead, the goal of reform should be to achieve joint responsibility between citizens and the Government. The poor have to help themselves as much as others help them.</p>
 
-<p>Let us compare the performance of PUB with the performance of private sector water companies in England, which have been privatised completely for about 20 years. In Singapore, the water loss from the system is around five per cent. For Thames Water, the biggest UK private sector water company, the loss is nearly six times this amount. PUB, a public sector company, has been performing much better than a major international private sector company with a long track record. The whole of Singapore is now sewered. Wastewater and storm-water are now collected and reused much more extensively than in nearly all other developed countries. The local population accepts the idea of properly treated wastewater for domestic consumption. Viewed from any perspective, these are remarkable achievements.</p>
+<p>The focus on work rather than reducing dependency meant that welfare benefits were not generally cut. Most of the states which control benefit levels actually raised them in the sense that work incentives were increased. That is, recipients were allowed to keep more welfare if they worked. The combination of earnings with remaining welfare could raise incomes substantially. The cost of work incentives along with the childcare and healthcare provided to support working meant that welfare did not save money for the Government, contrary to what some commentators expected. Rather, spending increased.</p>
 
-<p>Singapore, in my view, now has some unique opportunities in the water sector which it should consider pursuing. Because Singapore has succeeded so well, it should consider very seriously how these management techniques, technology, economics, pricing policies and public participation processes can be used in other countries, both developing and developed. Singapore needs to carefully and objectively document what it has already done, how it has done this, and with what costs and results. These analyses will be of great value to the rest of the world.</p>
+<h3>Helping the poor move out of poverty also means that there is an attempt to close the widening income gap between the rich and the poor. What should governments do to deal with the challenge of inequality?</h3>
+
+<p>Inequality is a real issue but less important than may appear, for two reasons. First, the causes are not well understood. We do not know why inequality is rising. Some scholars find that the trend is related to the decline of labour unions, to the rising payoffs to higher education, and to a lesser degree, to growing trade and immigration, but these factors account for only part of the trend. Second, concern about inequality is mostly confined to academics. The ordinary person cares less about it and, as a consequence, politicians do not grant it much attention. A more pressing concern among ordinary Americans is whether they can secure a job and get ahead on their own. They are not particularly offended by the rich.</p>
+
+<p>There appears to be greater political concern about inequality in Europe than there is in the US. This seems to be the case in Singapore as well. The political class in Singapore is concerned about inequality in a way that is not true in the US. Here the problem is a more serious political question.</p>
+
+<p>If governments choose to tackle this problem, it is clear that one reason for growing inequality is disorganisation at the bottom of society and falling work levels among the poor. Welfare reforms and other efforts can help to raise work levels at the bottom. In the 1990s, the massive increase in earnings among the low-income as a result of welfare reform did slow trends toward inequality considerably. In fact, measures like this might even reverse the trends and reduce inequality. Hence, getting the lower-income population to work more steadily is the best thing governments can do to retard inequality.</p>
+
+<h3>Does making welfare recipients work for a reward facilitate upward mobility, for example, through increased earnings? Are there also other benefits or costs of working that should be taken into consideration?</h3>
+
+<p>Work does to some extent translate into social mobility. Recipients who go to work typically experience some gains in income. That gain is less, admittedly, in states paying high welfare benefits, as the recipients lose more income when they leave welfare for work. But even in these states they are generally better off than they were before, at least in terms of income.</p>
+
+<p>One can argue that the gains in income may not necessarily offset the strains and difficulties that come with working. Some academics have concluded that while mothers who work have higher incomes, they also have higher expenses than non-working mothers. Thus, they may not be better off than their non-working counterparts. However, welfare recipients typically also receive monies from other sources such as families or partners to whom they may not have been married. When they go to work they usually get more from these sources than they did while on welfare, so again they are usually better off than they were on welfare.</p>
+
+<p>Clearly there is progression of earnings over time, provided a mother keeps working steadily. These gains are lost, however, if mothers drop in and out of work, as many do. Welfare recipients who work continuously usually get out of poverty within a few years.</p>
+
+<p>Do the children of welfare recipients do better in future if their mothers work? Evaluations suggest that some young children do better in school if their mothers have to work, while some adolescents are more likely to get in trouble after school if their parents are working and unavailable to supervise them. But all these effects are small. In the longer term, we can only presume that it is good for the children to see their mothers get off welfare and start to work. Furthermore, the children may receive more stimulation in childcare than they would if they had stayed at home with a mother who does not work. As a consequence of having been in a stimulating environment, children of recipients may perform better in schools.</p>
+
+<p>In the US, former welfare recipients are usually better off because they have additional rewards such as childcare support and the Earned Income Tax Credit (EITC),<a href="#notes"><sup>1</sup></a> a wage subsidy for low-paid workers much like what Singapore is instituting. This subsidy on earnings is different from traditional welfare since it is conditioned on work. While EITC does not spur people to work, as welfare work requirements do, it does make them better off if they work.</p>
+
+<p>However, welfare recipients have not utilised this benefit to the fullest. Currently, they can receive this benefit for any amount of work they engage in. Many work in dribs and drabs and so do not use the credit as much as they could. One reason for that is that EITC subsidises even very short working hours. It sets no minimum of hours before you get the subsidy. Some welfare reform experiments require clients to work 30 hours a week to get subsidised. This is to ensure that they get the maximum benefit.</p>
+
+<p>Enforcing a threshold also has another good effect: it offsets the possible income effect that may be produced by receiving the subsidy. That is, the subsidy might permit people to cover their financial needs by working fewer hours than before, which is undesirable. Some policymakers are hesitant about increasing the EITC, as has been proposed, because this income effect might reduce rather than increase working hours among the poor. Instituting a 20- or 30-hour threshold for EITC would be one way to forestall this.</p>
+
+<h3>Many welfare reform programmes in the US have been carried out with the assistance of non-profit organisations and private agencies. Do you think this is a good strategy for success?</h3>
+
+<p>Initially I was hostile to sub-contracting of welfare reform programmes to non-profit bodies and profit-making companies. I thought this would complicate the structures and cause confusion among welfare recipients. However, there are many instances where contracting has played a constructive role in implementing reform, especially in implementing job search requirements for welfare recipients. It was the difficulty of building the job search aspect into welfare that caused many states to turn this task over to private agencies. Generally contractors have proven more constructive than I once thought, and I say now that we should consider this strategy. However, I still have doubts about extreme privatisation, such as in Australia where they abolished the public job service and now have a maze of private agencies.</p>
+
+<p>One question this strategy raises is whether it cuts back on the Government’s role in welfare reform. At one level, it might seem that the Government is heading in that direction when it turns to private agencies. That is one reason why privatisation may be impolitic. In reality, however, welfare reform is closely controlled by the Government even where private agencies are used. The benefits and the work requirements are always defined by elected officials, either at the federal or state level, and the funding is public.</p>
+
+<h3>Do you think that the workfare model would see success even in times of economic downturn when jobs are scarcer? </h3>
+
+<p>Whether or not poor people are expected to work by law has more effect on dependency than economic upturns and downturns. In determining whether welfare recipients work, the unemployment rate remains important, but it is secondary to enforcement pressures. Even during a downturn, jobs are frequently available and there is a great deal of hiring and firing. The immigration rate shows that low-level jobs are still widely available. Job seekers may be unemployed for a little longer than if the economy was thriving. The more skilled probably face a tougher time because they seek higher-paying jobs, and these are less readily available.</p>
+
+<p>In the US, people stay on welfare mainly because they are not even looking for work, not because jobs are unavailable. To be unemployed, you have to be available for work—that is, you have to have entered the labour force—but have not yet accepted a job. Most people who enter the labour force find jobs so quickly that they are never recorded as unemployed at all. Similarly, those who leave jobs are seldom left jobless—they also leave the labour force and so again are not classified as unemployed. Most welfare recipients are not in the labour force and are not even looking for work. That is a much bigger problem than unemployment.</p>
+
+<p>Unemployment as a problem is enshrined in our collective memory in the US because of the Great Depression of the 1930s, when jobs clearly were lacking and a quarter of the labour force was unemployed. Joblessness has been far less of a problem since then. It is a problem mostly for the higher reaches of the income hierarchy. They tend to have expectations of getting certain kinds of jobs, with conditions they think are optimal. So they do not accept just any job and unemployment for this group tends to be longer-lasting. In contrast, among the poor, the overwhelming problem is not employment or even unemployment but just getting into the workforce and staying there.</p>
+
+<h3>Is there a proper time to implement welfare reform? Are there certain conditions that should be in place before making workfare a permanent feature of the social safety net?</h3>
+
+<p>In the US, welfare reform did not come too early since we had a history of prior experimentation going back as far as the 1960s. In fact, there was already a work dimension in welfare policies as early as 1961. It increased in intensity up until the late 1980s when the Family Support Act was enacted. The enforcement of work in the US did not begin with the Personal Responsibility Act of 1996, although that legislation accelerated the process. The earlier experimentation taught that enforcing work in welfare was possible and how best to do it.</p>
+
+<p>In Singapore, the Government is not acting too soon because the Workfare Income Supplement is not so radical as to change everything. Furthermore, it is designed in such a way that ongoing adjustments are possible. The Workfare Bonus Scheme, which preceded the Supplement, might be an even better idea. These proposals respond to your welfare problem, which is mostly about low-income workers and not, as in the US, getting people to work.</p>
+
+<p>While it is not too soon to act, it is also critical to research the effects of the current bonus system and the Workfare Income Supplement, to see their actual effects and for the purpose of fine-tuning.</p>
+
+<p>Singapore might want to learn from the US model, but bear in mind that every government that reforms welfare has to generate its own consensus about how to do that. In the US, every state made its own decisions about reform, although within federal rules. There was less borrowing from other states than many had expected. Even the more influential states, such as Wisconsin, had little influence on how welfare reform occurred in other states.</p>
+
+<p>Singapore will have to justify what it has done based on its own experience. The example of Wisconsin is worth only so much to you! Only after a series of experiments will you know how best to help your low-wage workers and get support for your policies.</p>
 
 
-<div class="green">
-<h5>
-Singapore, in recent years, has been a trendsetter. It now has tremendous economic opportunity to export its know-how to many other countries.
-</h5>
-</div>
+<div class="author">
 
-<p>For example, there is a great deal of discussion on the advanced technology used in Singapore for managing its water cycle. But with NEWater, the most important issue is not technology, though it is important. The technology is well-known and can be bought off the shelf. The critical issues are public psychology, institutional dynamism and leadership, and public acceptance of the use of treated water.</p>
-
-<p>Technologically, it has been known for years that if wastewater is treated properly, its quality should be better than drinking water. Globally, however, we have failed to convince the public that there is nothing wrong in using properly treated wastewater. Major industrialised countries like the United States and Australia have thus far failed to get the public to accept the concept of reused water. Yet Singapore has managed to successfully marry technological possibilities with public acceptance. How this has been done is of great interest to the world.</p>
-
-<h3>What opportunities are there for Singapore to take advantage of its head start in the field of water management?</h3>
-
-<p>Singapore, in recent years, has been a trendsetter. It now has a tremendous economic opportunity to export its know-how to many other countries. They can significantly improve their water management efficiencies by adopting the Singapore experience with appropriate modifications. These countries will be willing to pay for good technical and management advice from Singapore to improve their water management practices and processes. Such an approach will benefit Singapore as well as the rest of the world.</p>
-
-<p>But most of the world at present does not know what Singapore has achieved. Thus, considerable effort needs to be expended to make the world aware of the progress made. In my view, PUB has decisively outperformed the multinational companies that are now providing water management services to the world.</p>
-
-<p>A small state like Singapore must find good market niches, and urban water management is a very special niche that Singapore can now exploit. The country needs to make a determined effort to market its expertise to the rest of the world. This is being done to a certain extent, but much more could be done. In my view, the current effort needs to be increased by 60% to 80% within four or five years to show positive results.</p>
-
-<p>The second possibility is to be a knowledge hub for water — something the world lacks at present. Many universities in the US and the UK are doing good theoretical research; yet these types of research will not solve the developing world's water problems promptly or cost-effectively, because the boundary conditions are very different. These problems can be solved only by applied research that is specifically focused on the circumstances of the developing world.</p>
-
-<p>Asia's water problems, for instance, climate-wise, are very different. Countries like Singapore, Japan, India, Bangladesh and Pakistan are all in the monsoon region. If we compare the annual rainfall figures, for example, between London and Delhi, they are not that dissimilar, differing by only about 15%. But the main difference for water management between these two locations is this: in Delhi, nearly all the annual rainfall occurs in about 80 hours (albeit not consecutively), whereas in London, it occurs over the entire year. Thus, water management practices needed in Delhi are very different from those in London. For monsoon areas like Delhi, the main consideration has to be how to collect this immense amount of rainfall within a very short period, then store it, treat it and use it over the entire year, most of which is rainless. Thus, the water management requirements for the monsoon regions are very different compared to countries in temperate climates.</p>
-
-<p>Regrettably, very few institutions in Asia and the developing world are engaging in good quality research that will solve their own water problems; many institutions from India to Japan and China are mostly trying to follow the type of research conducted at Oxford or Harvard. Asia needs to develop its own research agenda which will help to solve its own water issues, and should not adopt Western practices and solutions blindly.</p>
-
-<p>In addition, no single water institution exists anywhere in the world that is looking at the water problems of the future, either for developed or developing countries. They invariably focus on how we did things in the past, and expect developments to occur only incrementally. But there is no question that within the next 20 years, water management practices and processes will change more than what we have witnessed during the past 2,000 years. There is a big gap between what is being done and what should be done in terms of water research.</p>
-
-<p>Singapore has a golden opportunity right now to become the water knowledge hub for the world, including focusing on applied research on water management and looking into future water problems and policies needed to solve them. It already has outstanding institutions like PUB. There is absolutely no reason why an established institution in Singapore should not become the pre-eminent global authority in the area of water policy and governance, which the world at present simply does not have.</p>
-
-
-<div class="green">
-<h5>
-If Singapore can synergistically combine the water expertise it currently has with new water-related activities, it can become the water captial of the world within the next five to six years.
-</h5>
-</div>
-
-
-<p>Singapore also has extremely good tourism infrastructure. It is surrounded by water. It has done remarkably well in urban water planning and management. Perhaps it could also consider a water festival where the main focus could be on water-related activities. The city could become a tourist destination during the water festival.</p>
-
-<p>But along with the water festival, Singapore needs a main event, similar to an international forum such as the World Economic Forum, held in Davos, Switzerland, every winter. There is nothing similar to the Davos Forum in the field of water anywhere in the world, but it is now needed. The Singapore Water Forum would attract leading water policymakers, experts from public and private sectors, academia, industry, as well as non-governmental organisations and the media from across the world.</p>
-
-<p>There are many water-related professional associations in the world at present. They could be invited to come around the time of the Singapore Water Festival and Singapore Water Forum to discuss water-related issues. It should be possible to make Singapore a model for the water world, and a centre for knowledge on water for the world. It can be done, and should be done.</p>
-
-<p>There is already some thinking in this direction but it could be more ambitious. There is no question that great potential exists to put Singapore on the world map in terms of water-oriented knowledge generation, synthesis, dissemination and application. Singapore can contribute a great deal of knowledge and management expertise, which is now missing in the water field.</p>
-
-<p>My view is if Singapore can synergistically combine the water expertise it currently has with new activities like a Singapore Water Festival, or a Singapore Water Forum, and a few similar water-related activities, it can become the water capital of the world within the next five to six years. This is a very exciting prospect.</p>
-
-
-<div class="break">
 <h6>ABOUT THE AUTHOR</h6>
 
+<p class="small-text"><strong>Lawrence M. Mead</strong> is Professor of Politics at New York University, where he teaches public policy and American government. Professor Mead is an authority on the problems of poverty and welfare in the US. Among academics, he was the principal exponent of work requirements in welfare—the approach that now dominates US national policy. He is also a leading scholar of the politics and implementation of welfare reform, subjects on which he has written several books and over a hundred publications. These works have helped shape welfare reform in the US and abroad. Professor Mead visited Singapore as a Distinguished Visitor of the Centre for Governance and Leadership (CGL), Civil Service College, where he met with senior policymakers and delivered a New Insights Lecture on “Welfare Reform in America: Successes and Limitations”. This article was extracted from an interview conducted by Dr Theresa Devasahayam, CGL Senior Researcher, on 23 June 2007. </p>
 
-<p class="small-text"><strong>Professor Asit K. Biswas</strong> is President of the Third World Centre for Water Management in Mexico. He has been a senior advisor to 17 governments, six heads of the United Nations Agencies, and most major international organisations. One of the world's leading international authorities on water, he is the founder of International Journal of Water Resources Development and has been its Editor-in-Chief for the past 22 years. He authored and edited 69 books and has published over 600 scientific and technical papers. In 2006, Prof Biswas was honoured with the Stockholm Water Prize for "his outstanding and multi-faceted contributions to global water resource issues", the prestigious Aragon Environment Prize of Spain, the Man of the Year Award of Canada, and the honorary Doctor of Science degree from the University of Strathclyde, Glasgow. </p>
+</div>
 
-	
-<p class="small-text"><em>This article is excerpted from an interview conducted in Singapore (15 January 2007) by Sheila Ng, Assistant Editor, ETHOS.</em></p>	
-	
-	
-</div>	
-	
+<h6><a name="notes"></a>NOTES</h6>
+
+<ol>
+<li class="small-text">The Earned Income Tax Credit (EITC), sometimes called the Earned Income Credit, is a refundable federal income tax credit for low-income working individuals and families. Congress originally approved the tax credit legislation in 1975 in part to offset the burden of social security taxes and to provide an incentive to work. When the EITC exceeds the amount of taxes owed, it results in a tax refund to those who claim and qualify for the credit. To qualify, taxpayers must meet certain requirements and file a tax return, even if they did not earn enough money to be obligated to file a tax return.</li>
+</ol>
+
+<br>
+
+
+
 <br>
 <br>
 
