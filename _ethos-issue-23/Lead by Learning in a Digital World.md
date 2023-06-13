@@ -128,8 +128,15 @@ li {
 
 <p>Digital now allows leaders to know deeper than just the facts; it offers opportunities for leaders to run disciplined, data-based experiments rather than rely on pat answers or rules derived by benchmarking imperfect comparisons. Professor Richard Feynman is widely attributed to have said: “I would rather have questions that can’t be answered than answers that can’t be questioned”.3 Adapting his thinking, I have often highlighted and emphasised to the managers that I work with to “judge a leader by the questions that drive them rather than the answers they preach”. The reason is simple—under fast-changing conditions, yesterday’s successful answers may not be the right ones for tomorrow. But more important is that, in not taking the time to frame the right question under transformative conditions (fuelled by digital technologies), leaders are more apt to be following the wrong answers to the wrong questions.</p>
 
-<p></p>
-<p></p>
+
+<div class="break">
+	<p class="break1">In not taking the time to frame the right question under transformative conditions (fuelled by digital technologies), leaders are more apt to be following the wrong answers to the wrong questions.</p>
+
+</div>
+
+<p>Leaders that are disciplined by learning are not limited by their current knowledge but are drawn to know more—they are profoundly curious and are dissatisfied with the status quo. They become adept at connecting the dots—often across different disciplinary boundaries. They constantly ask—for example: how could XYZ be enhanced by digital technologies? What further developments in digital technologies could make ABC economically viable? What are the second-order consequences of latest developments in artificial intelligence and robotics? Since answers to such questions are typically unknown (but not unknowable), they are prepared to run disciplined experiments to learn deeper and faster than their competitors. Such leaders are more likely to be persuaded by data and analytics than by data-free assertions of charismatic colleagues. Such leaders embrace learning as a routine and are not content to just work with the ‘known knowns’—things we are aware of and understand, but are excited to explore the frontiers of ‘known unknowns’—things we are aware of but don’t understand, and ‘unknown knowns’—things we aren’t aware of, but understand.4 Leaders with a learning mindset continuously seek knowledge about occurrences and impacts of key events so that they can be better prepared.</p>
+
+<p>We are at an interesting inflection point: old models of management and organisations are showing their age, yet new models haven’t been well defined and articulated. Leaders recognise the limitations of relying on an old playbook perfected during the apex of the industrial age, yet the new playbook for the digital age hasn’t yet been written. The only way to lead during this transition phase is through learning. The good news is that learning is not restricted to certain years of one’s life but is now lifelong, provided there is appetite and curiosity. The good news is also that the pandemic has shown the importance of digital tools and platforms to make learning personalised and contextual. The real challenge is to create the right conditions where every human develops the discipline and routines to constantly learn new skills and knowledge to solve the many profound challenges in the world. In this environment, leaders are not defined by status or stature, but by how they inspire others to learn and better themselves.</p>
 
 
 
