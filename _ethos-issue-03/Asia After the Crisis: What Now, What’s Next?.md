@@ -106,13 +106,14 @@ color: white;
 
 <p>No, these conditions were essentially the consequences of choices made by governments, and I do not believe you can expect to live in a world where governments will agree to constrain their sovereignty—in a way that will give an international organisation, such as the International Monetary Fund, the mandate to influence the country’s exchange policies ahead of a crisis. It is a good idea for countries to be exposed to a system where you can have a second pair of eyes or alternative points of view and good advice to call on. But it would not be realistic to design an international surveillance regime that could make a substantial contribution to crisis prevention on this scale.</p>
 
-<hr>
+
 
 <h5><em>
 It is a good idea for countries to be exposed to a system where you can have a second pair of eyes or alternative points of view.
 </em></h5>
 
-<hr>
+
+
 
 <p>Nevertheless, Asian countries have generally learnt the right lessons in the dramatic policy moves they have made since the crisis. You could argue that the focus on foreign reserve accumulation is not the most compelling defence against crisis. In some ways, it is a reflection of market distortions and a lack of options, but you cannot but conclude that this policy has been very effective in addressing the set of initial vulnerabilities in a crisis that had been so traumatic.</p>
 
