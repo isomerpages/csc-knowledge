@@ -83,7 +83,7 @@ margin-top:15px;
             Editor-in-Chief Ethos
             </figcaption>
                 
-  <p>In this special edition of ETHOS, we partner with the Ministry of National Development's Centre for Liveable Cities to explore the theme of urban sustainability, with insights from city leaders, public sector practitioners and urban experts from around the world.</p>	
+ <p>Our inaugural issue brings to bear some of the leading minds on a matter of global concern and national interest: Ageing. By 2050, the number of persons over 60 years of age will exceed that of children globally for the first time in human history. Singapore is also expected to age rapidly. What can we expect in the decades to come and what can we do about it today?</p>	
             
 <div class="button1"><a target="_blank" href="/ethos-issue-24/editorial/">Read More</a></div> <br></div>
     </div>
