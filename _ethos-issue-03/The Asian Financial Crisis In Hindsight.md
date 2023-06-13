@@ -16,9 +16,9 @@ description: ""
 	font-size:16px;
 }
 	
-.purple
+.maroon
 {
-background-color: #6E3A67;	
+background-color: #702E46;	
 padding: 30px;
 }
 
@@ -27,7 +27,7 @@ padding: 30px;
 	color: white;
 }
 	
-.purple h5	
+.maroon h5	
 {
 	color: white;
 	text-align: center;
@@ -95,13 +95,15 @@ font-size:16px;
 
 <p>Once the bubble bursts, panic in financial markets played a key role in explaining why the crisis was more severe than weak fundamentals alone might suggest. Domestic investors began to look more critically at weaknesses that had been previously ignored; new information in an environment with poor disclosure further amplified concerns about the quality of investments, the size of foreign borrowings, and the stability of the financial system. As the crisis expanded, domestic residents became less willing to hold assets in domestic financial institutions and foreign creditors became less willing to roll over their loans, causing a liquidity squeeze that led to the bankruptcy of financial institutions as well as private firms that had borrowed from them. Thus the initial loss of confidence turned into a self-reinforcing creditors’ panic.</p>
 
-<hr>
+
+<div class="maroon">
 
 <h5><em>
 Panic in financial markets explains why the crisis was more severe than weak fundamentals alone might suggest.
 </em></h5>
 
-<hr>
+</div>
+
 
 <p>In many cases, policy mistakes on the part of Asian governments after the crisis had begun and the political constraints they faced added to the instability and volatility. When their currencies came under attack, the central banks of Thailand, Korea and Malaysia mounted expensive but futile currency defences by intervening in the forward markets. These did little to reduce pressures on their currencies, but shrunk their foreign exchange reserves further, causing already jittery creditors to be even less willing to roll over their loans. In Indonesia, which suffered the sharpest depreciation of its currency (of 81% between June 1997 and January 1998), there was an inherent tension between the vested interests of the Suharto regime and the structural reforms needed to restore market confidence. The Indonesian government’s backtracking on many of the promises it had made under the IMF programmes further undermined the credibility of its commitment to reform.</p>
 
@@ -109,13 +111,14 @@ Panic in financial markets explains why the crisis was more severe than weak fun
 
 <p>Much of the subsequent debate on the Asian Financial Crisis has revolved around whether the remedial policy prescriptions of the IFIs were largely correct or made the situation worse. The recurrent theme of the criticisms of the IMF is that it should have concentrated on reassuring markets instead of disciplining countries—for instance, in demanding fiscal austerity from countries that did not have budget problems.<a href="#notes"><sup>4</sup></a></p>
 
-<hr>
 
+<div class="maroon">
 <h5><em>
 IMF failed to understand the panic element in the Asian crisis, and that its response should have bene to focus on providing liquidity, aided possibly by temporary capital controls.
 </em></h5>
 
-<hr>
+</div>	
+
 
 <p>Critics of the Fund argue that the IMF failed to understand the panic element in the Asian crisis, and that its response should have been to focus on providing liquidity, aided possibly by temporary capital controls (which the IMF objected to on ideological grounds). Joseph Stiglitz, for instance, argues that the IMF shared a significant part of the blame for the onset of the crisis because it had encouraged capital market liberalisation in emerging economies before their institutional and regulatory capabilities were sufficiently developed to manage the large capital inflows. He further argues that the IMF misdiagnosed the problem and prescribed the same anti-inflationary strategies that it had applied in Latin American crises (which had been caused by profligate government spending and loose monetary policy).<a href="#notes"><sup>5</sup></a> The problem in Asia was not with the governments’ macroeconomic policies, but the mounting debts of the corporate sector.<a href="#notes"><sup>6</sup></a> In this context of insufficient (rather than excess) demand, the policy prescriptions of fiscal contraction, tight domestic credit and high interest rates were inappropriate and deepened the downturn.</p>
 
@@ -141,13 +144,14 @@ IMF failed to understand the panic element in the Asian crisis, and that its res
 
 <p>To the extent that the severity of the crisis was in large part due to panic, a key policy thrust of the IFIs <em>must be to improve disclosure and transparency in emerging economies</em> before crises occur. In the Asian economies, poor information environments created uncertainty and led to markets over-reacting and assuming the worst when new information—for example, concerning the strength of a particular bank—was revealed. Such over-reactions are less likely if banks, financial institutions and governments comply with international and stricter codes and standards on financial, statistical and fiscal reporting.</p>
 
-<hr>
+<div class="maroon">
 
 <h5><em>
 The Asian crisis is evidence that economic growth and financial stability are related but separate policy objectives.
 </em></h5>
 
-<hr>
+</div>	
+
 
 <p>The Asian crisis also demonstrated the need for <em>market-based mechanisms that could facilitate more orderly private debt workouts</em>. The complication with the Asian crisis was that it involved a large number of private-sector debtors, rather than a sovereign debtor. This calls for a debt restructuring mechanism that would impose a generalised standstill on a country’s debt servicing obligations, in tandem with bringing together debtors and creditors for collective rollovers and debt renegotiation. This would have reduced the need for costly IMF bailouts and a reduction in the moral hazard created by these bailouts. Investors and creditors would also exercise greater due diligence and focus appropriately on risk in good times, since they would have to bear the consequences of their decisions. One market-based alternative that has been taken up by some emerging economies is to set collective action clauses in bond issues, requiring investors to authorise a third party to represent their collective interests in the event of default.</p>
 
