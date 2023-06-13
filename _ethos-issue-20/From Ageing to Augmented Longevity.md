@@ -242,7 +242,7 @@ a marker of life-stage and ability.
   
 </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>  
+<h6><a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">Lynda Gratton and Andrew Scott, <em>The 100 Year Life: Living and Working in an Age of Longevity</em> (Bloomsbury Publishing, 2016), 18.</li>  
