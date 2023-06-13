@@ -2,6 +2,8 @@ collections:
   ethos-issue-03:
     output: true
     order:
+      - "Interview with Martha C Nussbaum: Poverty, Capabilities and Social
+        Justice.md"
       - Globalisation and the Challenges of Social Policy in Asia’s Developed
         Open Economies.md
       - "Growth with Equity: The Challenge of Income Distribution.md"
