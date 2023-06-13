@@ -101,11 +101,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Creating_And_Measuring.jpg"></div>
 	<div>
-		<h3>Globalisation and the Challenges of Social Policy in Asia’s Developed Open Economies</h3>
-		<b><i>Wong Chack-kie</i></b>
-		<p>To meet the changing needs and aspirations of a more affluent and diverse population, Singapore’s public housing will have to evolve in significant new directions in the coming decades.</p>
+		<h3>Creating and Measuring Public Service Value</h3>
+		<b><i>Ng Wee Wei</i></b>
+		<p>How can we measure the public sector’s bottomline? Accenture’s Ng Wee Wei advocates an outcome-oriented approach based on the concept of public value.</p>
 		<div class="button1"><a href="/ethos-issue-18/the-digital-social-contract-and-e-legitimacy/">Read more</a></div>
 	</div>
 </div>
@@ -113,11 +113,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Leveraging_Networks_For.jpg"></div>
 	<div>
-		<h3>Poverty, Capabilities and Social Justice</h3>
-		<b><i>Martha C. Nussbaum</i></b>
-		<p>The renowned social philosopher discusses her concept of essential human capabilities, and their implications for dealing with poverty and social development.</p>
+		<h3>Leveraging Networks for Public Service Delivery</h3>
+		<b><i>Nicholas Mai, Tang Tee Sing and Yeo Yaw Shin</i></b>
+		<p>Are we on the brink of a golden age of public service delivery,
+rich in cross-sector partnerships and collaborative networks?</p>
 		<div class="button1"><a href="/ethos-issue-18/the-digital-work-economy-and-our-human-future/">Read more</a></div>
 	</div>
 </div>
