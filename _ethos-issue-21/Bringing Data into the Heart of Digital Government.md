@@ -249,7 +249,7 @@ We must view public service as not just doing a prescribed job, but as engaging 
 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>
+<h6><a name="notes"></a>NOTES</h6>
 
 <ol>
 <li class="small-text">This will involve (a) raising our digital maturity to ingest, process, productionise, and integrate data into decision making and business processes, at scale, (b) building the ops-tech capabilities to develop new operating concepts and redesign systems, processes, and jobs to exploit AI and digital technologies, and (c) building robust institutions that are effective in managing and governing digital technologies.</li>
