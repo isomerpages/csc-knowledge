@@ -69,10 +69,10 @@ li {
 	line-height:22px !important;
 }	
 	
-.brown
+.red
 {
-background-color: #5A4715;
-padding: 30px;
+background-color: #651A1C;
+padding: 20px;
 margin-top:20px;
 font-family: Georgia;
 font-size:20px;
@@ -80,7 +80,7 @@ font-style: italic;
 text-align: center;
 }
 		
-.brown h5
+.red h5
 {
 color: white;	
 }			
@@ -107,11 +107,13 @@ color: white;
 <p>No, these conditions were essentially the consequences of choices made by governments, and I do not believe you can expect to live in a world where governments will agree to constrain their sovereignty—in a way that will give an international organisation, such as the International Monetary Fund, the mandate to influence the country’s exchange policies ahead of a crisis. It is a good idea for countries to be exposed to a system where you can have a second pair of eyes or alternative points of view and good advice to call on. But it would not be realistic to design an international surveillance regime that could make a substantial contribution to crisis prevention on this scale.</p>
 
 
+<div class="red">
 
 <h5><em>
 It is a good idea for countries to be exposed to a system where you can have a second pair of eyes or alternative points of view.
 </em></h5>
 
+</div>
 
 
 
@@ -148,11 +150,11 @@ It is a good idea for countries to be exposed to a system where you can have a s
 <p>One of the nice things about central banks, even a central bank like ours that does many different things besides monetary policy, is that our responsibility ends before fiscal policy, education and healthcare and all these other areas.</p>
 
 
-
+<div class="red">
 <h5><em>
 The challenge is to make people more comfortable living in a world where they must face more uncertainties about the stability of the economic future.
 </em></h5>
-
+</div>
 
 
 <p>That said, we are not quite the same as the more common and classic central banking system which leaves the central bank with only monetary policy and takes everything else out. We’re more like Singapore in the sense that we do broader surveillance and other functions. I think that a more integrated model is a better model and a more comfortable model. The broader question about integration with fiscal and monetary policy is a complicated one.</p>
