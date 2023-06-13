@@ -126,84 +126,110 @@ color: white;
 <p>It is also important that government can delegate part of its role to nongovernmental bodies, such as the market or the family: but if citizens do not achieve the capabilities in that way, we ought to hold the government accountable and seek a better one. If one has the capabilities as one’s goals, one can then experiment with different economic and social structures and see to what extent they deliver the desired results.</p>
 
 <br>
-
-<a name="box"></a>
-
-
-
-
 <ol>
 <li class="small-text">
 <strong>Life</strong>
-</li>
+
 <p class="small-text">
-    Being able to live to the end of a human life of normal length; not dying prematurely, or before one’s life is so reduced as to be not worth living.
-    </p>
+    Being able to live to the end of a human life of normal length; not dying prematurely, or before one’s life is so reduced as to be not worth living. </p>
+	
+</li>	
+
+<br>
+	
 <li class="small-text">
 <strong>Bodily Health</strong>
-</li>
+
 <p class="small-text">
     Being able to have good health, including reproductive health; to be adequately nourished; to have adequate shelter.
-    </p>
+</p>
+</li>	
+
+<br>	
+	
 <li class="small-text">
 <strong>Bodily Integrity</strong>
-</li>
+
 <p class="small-text">
     Being able to move freely from place to place; to be secure against violent assault, including sexual assault and domestic violence; having opportunities for sexual satisfaction and for choice in matters of reproduction.
-    </p>
+ </p>
+</li>	
+	
+<br>	
 <li class="small-text">
 <strong>Senses, Imagination and Thought</strong>
-</li>
+
 <p class="small-text">
     Being able to use the senses, to imagine, think, and reason—and to do these things in a “truly human” way, a way informed and cultivated by an adequate education including, but by no means limited to, literacy and basic mathematical and scientific training. Being able to use imagination and thought in connection with experiencing and producing works and events of one’s own choice, religious, literary, musical, and so forth. Being able to use one’s mind in ways protected by guarantees of freedom of expression with respect to both political and artistic speech, and freedom of religious exercise. Being able to have pleasurable experiences and to avoid non-beneficial pain.
-    </p>
+</p>
+</li>
+	
+<br>
+	
 <li class="small-text">
 <strong>Emotions</strong>
-</li>
+
 <p class="small-text">
     Being able to have attachments to things and people outside ourselves; to love those who love and care for us, to grieve at their absence; in general, to love, to grieve, to experience longing, gratitude, and justified anger. Not having one’s emotional development blighted by fear and anxiety. (Supporting this capability means supporting forms of human association that can be shown to be crucial in their development.)
-    </p>
+</p>
+</li>
+<br>	
+	
 <li class="small-text">
 <strong>Practical Reason</strong>
-</li>
+
 <p class="small-text">
     Being able to form a conception of the good and to engage in critical reflection about the planning of one’s life. (This entails protection for the liberty of conscience and religious observance.)
-    </p>
+</p>
+</li>
+<br>	
 <li class="small-text">
 <strong>Affiliation</strong>
-</li>
+
 <ol style="list-style-type: upper-alpha;">
 <li class="small-text">
         Being able to live with others, to recognise and show concern for other human beings, to engage in various forms of social interaction; to be able to imagine the situation of another. (Protecting this capability means protecting institutions that constitute and nourish such forms of affiliation, and also protecting the freedom of assembly and political speech.)
         </li>
 <li class="small-text">
         Having the social bases of self- respect and non-humiliation; being able to be treated as a dignified being whose worth is equal to that of others. This entails provisions of non-discrimination on the basis of race, sex, sexual orientation, ethnicity, caste, religion, or national origin.
-        </li>
+</li>
 </ol>
+</li>	
+	
+<br>
+	
 <li class="small-text">
 <strong>Other Species</strong>
-</li>
+
 <p class="small-text">
     Being able to live with concern for and in relation to animals, plants, and the world of nature.
-    </p>
+</p>
+</li>
+
+<br>	
 <li class="small-text">
 <strong>Play</strong>
-</li>
+
 <p class="small-text">
     Being able to laugh, to play, and to enjoy recreational activities.
-    </p>
+</p>
+</li>	
+	
+<br>	
+	
 <li class="small-text">
 <strong>Control Over One’s Environment</strong>
-</li>
 <ol style="list-style-type: upper-alpha;">
 <li class="small-text">
 <strong>Political.</strong> Being able to participate effectively in political choices that govern one’s life; having the right of political participation, protections of free speech and association.
         </li>
 <li class="small-text">
 <strong>Material.</strong> Being able to hold property (both land and movable goods), and having property rights on an equal basis with others; having the right to seek employment on an equal basis with others; having the freedom from unwarranted search and seizure. In work, being able to work as a human being, exercising practical reason and entering into meaningful relationships of mutual recognition with other workers. – Martha C. Nussbaum
-        </li>
+</li>
+	
+	
 </ol>
-</ol>
+</li></ol>
 
 
 
