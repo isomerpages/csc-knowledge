@@ -266,7 +266,7 @@ its best to contain COVID-19, stabilise the economy, and ready ourselves for a v
   
 </div>  
   
-<p class="small-text" style="font-weight: bold; letter-spacing: 1px;"> <a name="notes"></a>NOTES</p>  
+<h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">World Health Organization, <a href="https://www.who.int/news-room/detail/29-06-2020-covidtimeline" target="_blank">“Listing of WHO’s Response to COVID-19”</a>, June 29, 2020, accessed March 8, 2021.</li>  
