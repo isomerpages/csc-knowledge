@@ -145,7 +145,14 @@ li {
 </div>
 
 <h6>Notes</h6>
+<ol>
+	<li class="small-text">See https://www.google.com/search/ howsearchworks/mission/.</li>
+	<li>John F. Kennedy Presidential Library and Museum, “Remarks Prepared for Delivery at the Trade Mart in Dallas, TX, November 22, 1963 \[undelivered\]”, accessed September 26, 2021, https://www.jfklibrary.org/archives/otherresources/john-f-kennedy-speeches/dallas-txtrade-mart-undelivered-19631122.</li>
+	<li>Wikiquote, “Talk: Richard Feynman”, accessed September 26, 2021, https://en.wikiquote.org/ wiki/Talk:Richard\_Feynman.</li>
+	<li>For those interested in knowing more about this idea that Donald Rumsfeld popularised during the Gulf War, please refer to https:// medium.com/@andreamantovani/knownknowns-known-unknowns-unknown-unknownsleadership-367f346b0953.</li>
 
+
+</ol>
 
 
 
