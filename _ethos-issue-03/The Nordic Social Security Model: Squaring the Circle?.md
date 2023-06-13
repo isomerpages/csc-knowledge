@@ -201,13 +201,13 @@ rates in the world (Table 3).</p>
 
 
 
-<hr>
+<div class="break">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Koh Tsin Yen</strong> is Head of Social Programmes (1) in the Ministry of Finance, Singapore. Her department looks into funding and policy issues for the social sector in Singapore. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -243,26 +243,11 @@ rates in the world (Table 3).</p>
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
-<div class="break">
 
-<h6>ABOUT THE AUTHOR</h6>
 
-<p class="small-text"><strong>Melissa Sapuan</strong> is Executive Planner in the Physical Planning, Concept Plan and Policies Section of the Urban Redevelopment Authority.</p>
 
-</div>
-	
-<h6><a name="notes"></a>NOTES</h6>
-
-<ol>
-<li class="small-text">Urban Redevelopment Authority, "URA to sell "White Sites"." Press release, October 25, 1995, <a href="http://www.ura.gov.sg/pr/text/pr95-15.html">http://www.ura.gov.sg/pr/text/pr95-15.html</a> (accessed 21 March 2007)</li>
-<li class="small-text">JTC Corporation, Stack-up Factory, <a href="http://www.jtc.gov.sg/products/readybuilt/stackup/pages/index.aspx">http://www.jtc.gov.sg/products/readybuilt/stackup/pages/index.aspx</a> (accessed 21 March 2007).</li>
-<li class="small-text">Urban Redevelopment Authority, "Planning for Growth, Investing in Our Future", Speech by Mr Mah Bow Tan, Minister for National Development, 9 February 2007, <a href="http://www.ura.gov.sg/pr/text/2007/pr07-14.html">http://www.ura.gov.sg/pr/text/2007/pr07-14.html</a></li>
-</ol>
-
-<br>
 
 <br>
 <br>	
