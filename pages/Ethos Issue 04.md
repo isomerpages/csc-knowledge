@@ -68,7 +68,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i>Dr Alvin Pang</i></b>
 		<figcaption>Editor-in-Chief Ethos</figcaption>
-		<p>Now that the low-hanging fruits of public service reform and efficiency gains have been mostly identified, if not harvested, is it enough to make public service delivery and government transactions ever faster, less onerous or more courteous? </p>
+		<p> Now that the low-hanging fruits of public service reform and efficiency gains have been mostly identified, if not harvested, is it enough to make public service delivery and government transactions ever faster, less onerous or more courteous? </p>
 		<div class="button1"><a href="/ethos-issue-18/editorial/">Read more</a></div>
 	</div>
 </div>
