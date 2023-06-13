@@ -229,13 +229,14 @@ brand of governance in order to manage these critical uncertainties and generate
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/The_Asian_Financial_Crisis_In_Hindsight.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Managing_Complexity.jpg"></div>
 	<div>
-		<h3>The Asian Financial Crisis In Hindsight</h3>
-		<b><i>Donald Low</i></b>
-		<p>The Asian Financial Crisis might well be the first major crisis
-of globalisation. Donald Low examines its causes and
-implications ten years on.</p>
+		<h3>Lam Chuan Leong
+Managing Complexity and
+Uncertainties</h3>
+		<b><i>Lam Chuan Leong</i></b>
+		<p>Governments should make provisions for increasingly unpredictable
+and disruptive outcomes in the future, argues Lam Chuan Leong, Senior Fellow at the Centre for Governance and Leadership.</p>
 		
 <div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
