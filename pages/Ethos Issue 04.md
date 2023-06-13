@@ -151,10 +151,10 @@ rich in cross-sector partnerships and collaborative networks?</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/TenTips.jpg"></div>
 	<div>
-		<h3>Singapore’s Social Support System: Two Anomalies</h3>
-		<b><i>Chua Hak Bin</i></b>
+		<h3>Ten Tips: How to Create a Next Generation Public Service Super-Portal</h3>
+		<b><i>Rosina Howe-Teo</i></b>
 		<p>In order for public transport in Singapore to compete with the lure
 of private cars, a radical overhaul in regulation and organisation
 may be necessary.</p>
