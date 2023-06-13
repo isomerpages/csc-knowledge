@@ -2,6 +2,7 @@ collections:
   ethos-issue-03:
     output: true
     order:
+      - "Asia After the Crisis: What Now, What’s Next?.md"
       - Editorial.md
       - Rethinking a New Social Compact for Singapore.md
       - "Growth with Equity: The Challenge of Income Distribution.md"
