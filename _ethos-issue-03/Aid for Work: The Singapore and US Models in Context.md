@@ -128,13 +128,13 @@ Emphasising work over welfare has numerous benefits aside from the financial adv
 
 <p>Another area where Workfare policymakers in Singapore are likely to have to grapple with is whether women should be given more attention, since they are more likely than men to face difficulties in achieving financial self-sufficiency. The predicament in which they often find themselves is a consequence of structural, social and cultural factors. As in many parts of the world, Singaporean women generally earn less and, more often than men, find themselves in lower-paying jobs. Even if they have worked, many spend fewer years of their lives in paid employment compared with men, as they are obliged to enter and exit the labour force to provide care for their children and aged parents in keeping with social and cultural demands that posit that they are primary caretakers of their families.<a href="#notes"><sup>12</sup></a> These factors suggest that women end up with less savings than men to sustain themselves in old age. Furthermore, that married women outlive their husbands means that greater numbers would find themselves in dire straits especially if they were low-wage workers during their work life. Finally, the fact that women continue to undertake roles as primary caregivers in the family suggests that some of the assistance offered under Workfare should be extended to caregivers.<a href="#notes"><sup>13</sup></a> Hence, the design of Workfare may also need to take into account the demographic particularities of Singapore rather than subsuming all low-wage workers in a single, undifferentiated category.</p>
 
-<hr>
 
+<div class="purple">
 <h5><em>
 Workfare may need to take into account the demographic particularities of Singapore.
 </em></h5>
+</div>
 
-<hr>
 
 <p>State governments across the US have been experimenting with welfare reform for years or even decades before the Welfare Reform Bill was announced. Invariably, Workfare in Singapore should take into account developments in the US in so far as it wants to discover what works and what does not when helping low-wage workers. More importantly, Workfare in Singapore should evolve and adapt to its own demographic and economic circumstances. Already, the Prime Minister has announced that WIS would be increased by up to two times for eligible older workers aged above 55. These adaptations will require a good measure of discernment on the part of Singapore’s Workfare policymakers. While it may be useful up to a point to import ideas from other countries, what is most critical in directing the future development of Workfare is to understand the profile and culture of Singaporean low-wage workers and how they respond to the current Workfare programme.</p>
 
