@@ -234,7 +234,7 @@ design of our digital products and services are informed by actual experiences a
 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTE</p>
+<h6><a name="notes"></a>NOTE</h6>
 
 <ol>
 <li class="small-text">Smart Nation Singapore, “Transcript of Speech by Prime Minister Lee Hsien Loong at Smart Nation Launch, 24 November 2014”, accessed April 23, 2019, <a target="_blank" href="https://www.smartnation.sg/whats-new/speeches/smart-nation-launch/">https://www.smartnation.sg/whats-new/speeches/smart-nation-launch</a>.</li>
