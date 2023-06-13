@@ -182,7 +182,7 @@ li {
   
 </div>
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
+<h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">This was in an interview with San Jose Mercury News in January 2000.</li>  
