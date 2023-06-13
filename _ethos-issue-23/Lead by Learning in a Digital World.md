@@ -89,6 +89,37 @@ li {
 <p>The future of learning will be paved by digital foundations enabling personalised options for exploring a multitude of ways to acquire skills and knowledge.</p>
 
 
+<h3>DIGITAL AND THE ROLE OF LEADERSHIP</h3>
+
+
+
+
+<p>Even before the current pandemic, digital technologies had started to influence how leaders lead. In my research, I have found that the single biggest challenge faced by companies and institutions is how to transform their organisations to survive and thrive in a post-industrial world. This calls for leaders to recognise the limitations of the processes and practices perfected in the industrial world, and to develop new rules and routines with digital at the core. Digital transformation is not incremental changes to using technology to improve products, processes, and services: it calls for leadership to deal with ambiguity and uncertainty on an unprecedented scale; it calls for leaders to shift resources away from what made them successful in the past and reallocate towards what’s likely to make them successful in the future. Leaders that succeeded during an era of relatively predictable shifts find themselves at a loss dealing with situations where the future is clearly not to be extrapolated from past patterns.</p>
+
+<div class="break">
+	<p class="break1">Digital transformation is not incremental changes to using technology to improve products, processes, and services: it calls for leaders to shift resources away from what made them successful in the past towards what’s likely to make them successful in the future.</p>
+
+
+</div>
+
+
+<p>Astute leaders recognise that digital is not just about technical skills such as data sciences or software applications or artificial intelligence and machine learning. They understand that digital transformation is about applying such technologies to redefine their companies and institutions—private and public, profit and non-profit.</p>
+
+<p>I have observed many leaders that have preferred to delegate responsibilities for digitalisation to the different functions—marketing for customer engagement, operations for product design and supply chain, information technology function for designing the end-to-end processes and so on. In nearly all cases, such companies then found themselves at a disadvantage because their deployment of digital technologies became fragmented and uncoordinated.</p>
+
+<p>In this decade, leaders must first and foremost recognise that digital is the lingua franca of business and society. We cannot lead without understanding how digital impacts and influences how individuals behave (as employees, customers, and citizens), how individuals interact, collaborate, and co-create with others (in teams and in society) and how organisations and institutions function to deliver distinct value with utmost efficiency to individuals and society. Digital is pervasive today and will be more so in the future.</p>
+
+<p>Leaders at all levels should develop digital acumen—appreciating how technology is likely to disrupt and create new ways to deliver value that would have been unthinkable and unimaginable one or two decades ago. This also demands that leaders develop a more holistic understanding of the risks and rewards that digital poses—including privacy, security, job displacement through automation and AI, and others—and identify ways to minimise and mitigate potential risks. Embracing digital as tailwind to create and capture opportunities in the future is much better than treating it as headwind and suboptimising to maintain status quo.</p>
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+
+
+
+
 
 
 
