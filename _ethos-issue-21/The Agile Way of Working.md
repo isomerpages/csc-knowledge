@@ -231,7 +231,7 @@ One serious challenge is how to make Agile work when the wider organisation is s
 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>
+<h6><a name="notes"></a>NOTES</h6>
 
 <ol>
 <li class="small-text">Manifesto for Agile Software Development (website), accessed July 1, 2019,
