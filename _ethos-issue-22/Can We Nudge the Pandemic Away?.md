@@ -348,7 +348,7 @@ public, and avoid going out.</p>
 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>
+<h6> <a name="notes"></a>NOTES</h6>
 
 <ol>
 <li class="small-text">Anja Bauer and Enzo Weber, “COVID-19: How Much Unemployment Was Caused by the Shutdown in Germany?” <em>Applied Economics Letters</em>, (2020), doi: 10.1080/13504851. 2020.1789544. </li>
