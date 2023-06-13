@@ -132,13 +132,13 @@ The peripheral influences and helps shape evolution in the mainstream.
 
 <p>We cannot achieve a national or collective sense of home at the expense of personal identities and spaces that create that individual sense of home. That individual sense of home is the everyday anchor to the collective. The state and the individual both must have their respective and interlinking places in Singapore.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Simon S. C. Tay</strong> is a law professor, environmentalist and former Nominated Member of Parliament. He co-chaired the 2001 Concept Plan focus group on conservation and currently chairs the National Environment Agency. He is also a published writer of poems and stories.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
