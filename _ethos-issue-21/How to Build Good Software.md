@@ -533,7 +533,7 @@ development, understanding this process
 provides a basis to tackle the complexities
 of how to build good software.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -545,7 +545,7 @@ of how to build good software.</p>
             image search teams. In his free time, he works on personal projects like typographing.com
             and chatlet.com.</p>
 
-
+</div>
 
 
 <h6><a name="notes"></a>NOTE</h6>
