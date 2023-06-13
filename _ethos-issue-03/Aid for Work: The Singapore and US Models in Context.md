@@ -22,7 +22,7 @@ background-color: #6F3B69;
 padding: 30px;
 }
 
-.road-pricing h2,.road-pricing p
+.purple h2,.purple p
 {
 	color: white;
 }
@@ -35,6 +35,7 @@ padding: 30px;
 	font-family: Georgia;
 	font-style:italic;
 }	
+		
 
 .author
 {
@@ -84,6 +85,14 @@ font-size:16px;
 <p>In contrast, Singapore does not have an extensive welfare system to begin with. Reducing welfare dependency is therefore not the main objective of Singapore’s workfare, although the spectre of rising welfare costs and a weakening work ethic are seen as unintended consequences that could materialise if the Government allowed welfare programmes to expand over time. The dilemma that the Government grappled with in devising a sustainable workfare programme was how to provide aid without undermining work incentives.</p>
 
 <p>A second point of departure is that welfare reform in the US was also aimed at strengthening marriage, and reducing child illegitimacy and child poverty.<a href="#notes"><sup>6</sup></a> There was growing evidence pointing to the fact that children raised by single mothers sustaining themselves on welfare were more likely to be trapped in a culture of poverty. This meant that children developed behavioural problems and low performance levels at school.<a href="#notes"><sup>7</sup></a> The promotion of marriage was seen as the solution since it would give the child a stable home. Welfare in the US gave little incentive for the majority of recipients, consisting mostly of single mothers, to get married since being a single mother was one of the eligibility criterion used for determining welfare status. The aim that welfare reform would promote marriage however was mostly rhetoric, as in practical terms welfare reform focused mainly on raising work levels. States were explicitly mandated to put in place measures to encourage work; in contrast, there was little pressure put on states to create initiatives to promote marriage. Hence, it remains to be seen whether welfare reforms in the US will solidify marriages and promote more stable families in the long term.</p>
+
+<div class="purple">
+
+<h2>SINGAPORE'S WORKFARE</h2>
+<p>The permanent implementation of Workfare in Singapore came a year after the Workfare Bonus Scheme (WBS) was introduced in 2006 as a one-off measure to boost the incomes of low-wage workers.
+The Workfare Income Supplement (WIS) announced in the 2007 Budget is a long-term programme targeted at older low-wage workers. Owing to the competition low-wage workers face from foreign workers who are willing to accept lower salaries, Singapore’s low-wage workers are encouraged not only to continue working under Workfare but also to seek relevant training to boost their prospects of securing better employment.</p>
+	
+</div>	
 
 <h3>WORKFARE: KEY DIFFERENCES BETWEEN THE US AND SINGAPORE</h3>
 
