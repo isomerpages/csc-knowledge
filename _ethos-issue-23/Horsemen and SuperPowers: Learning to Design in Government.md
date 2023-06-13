@@ -708,7 +708,7 @@ along the way.
   
 </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
+<h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text"> DesignSingapore Council, “A Design Innovation Culture to Elevate Singapore’s Defence Science Game”, January 17, 2020, accessed April 21, 2021, <a target="_blank" href="https://www.designsingapore.org/stories/a-design-innovation-culture-to-elevate-singapores-defence-science-game.html">https://www.designsingapore.org/stories/a-design-innovation-culture-to-elevate-singapores-defence-science-game.html</a>.</li>  
