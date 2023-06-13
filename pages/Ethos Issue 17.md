@@ -65,9 +65,8 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i>by Dr Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief ETHOS</figcaption>
-		<p></p>
+		<b><i>by Sharon Tham</i></b>
+		<p>Behavioural Insights (BI) have had a positive impact on policy making and the delivery of public services.</p>
 		<div class="button1"><a href="/ethos-issue-17/editorial/">Read more</a></div>
 	</div>
 </div>
