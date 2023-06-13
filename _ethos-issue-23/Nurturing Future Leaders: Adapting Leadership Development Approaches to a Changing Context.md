@@ -942,7 +942,7 @@ Service.</p>
 
 </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
+<h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">M. Wheatley and D. Frieze, “Leadership in The Age of Complexity: From Hero to Host”, <em>Resurgence Magazine</em> (Winter, 2011), accessed March 5, 2018, <a target="_blank" href="https://margaretwheatley.com/library/articles/leadership-in-age-of-complexity/">www.margaretwheatley.com/library/articles/leadership-in-age-of-complexity</a>.</li>  
