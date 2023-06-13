@@ -584,7 +584,7 @@ and enriching lives.</p>
 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTE</p>
+<h6><a name="notes"></a>NOTE</h6>
 
 <ol>
 <li class="small-text">For further details, see <a target="_blank" href="https://www.pdpc.gov.sg/Resources/Model-AI-Gov">https://www.pdpc.gov.sg/Resources/Model-AI-Gov</a>.</li>
