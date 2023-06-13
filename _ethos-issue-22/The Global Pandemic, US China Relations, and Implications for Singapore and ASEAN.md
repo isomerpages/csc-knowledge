@@ -252,7 +252,7 @@ of the issue or case, it is probably wise to approach such choices with some con
 
 </div>
 
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTES</p>
+<h6><a name="notes"></a>NOTES</h6>
 
 <ol>
 <li class="small-text">Ambassador-at-large Tommy Koh put the
