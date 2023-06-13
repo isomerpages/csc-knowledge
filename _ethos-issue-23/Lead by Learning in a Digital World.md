@@ -107,9 +107,20 @@ li {
 
 <p>I have observed many leaders that have preferred to delegate responsibilities for digitalisation to the different functions—marketing for customer engagement, operations for product design and supply chain, information technology function for designing the end-to-end processes and so on. In nearly all cases, such companies then found themselves at a disadvantage because their deployment of digital technologies became fragmented and uncoordinated.</p>
 
+
+<div class="break">
+	<p class="break1">
+	Digital is not just about technical skills such as data sciences or software applications or artificial intelligence and machine learning. It is about applying such technologies to redefine companies and institutions.
+</p>
+</div>
+
 <p>In this decade, leaders must first and foremost recognise that digital is the lingua franca of business and society. We cannot lead without understanding how digital impacts and influences how individuals behave (as employees, customers, and citizens), how individuals interact, collaborate, and co-create with others (in teams and in society) and how organisations and institutions function to deliver distinct value with utmost efficiency to individuals and society. Digital is pervasive today and will be more so in the future.</p>
 
 <p>Leaders at all levels should develop digital acumen—appreciating how technology is likely to disrupt and create new ways to deliver value that would have been unthinkable and unimaginable one or two decades ago. This also demands that leaders develop a more holistic understanding of the risks and rewards that digital poses—including privacy, security, job displacement through automation and AI, and others—and identify ways to minimise and mitigate potential risks. Embracing digital as tailwind to create and capture opportunities in the future is much better than treating it as headwind and suboptimising to maintain status quo.</p>
+
+
+
+<div class="break"><p class="break1">Embracing digital as tailwind to create and capture opportunities in the future is much better than treating it as headwind and suboptimising to maintain status quo.</p></div>
 
 <p></p>
 <p></p>
