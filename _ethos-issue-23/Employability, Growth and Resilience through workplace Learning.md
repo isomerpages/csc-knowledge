@@ -593,7 +593,7 @@ gain of all.</p>
 </div>
 
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
+<h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">Ministry of Trade and Industry, <em>Report of the  
