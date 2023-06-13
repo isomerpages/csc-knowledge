@@ -247,11 +247,9 @@ and disruptive outcomes in the future, argues Lam Chuan Leong, Senior Fellow at 
 <div class="grid-container">
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3>Indonesia in the Financial Crisis: Advent and Aftermath</h3>
-		<b><i>Adam Schwarz</i></b>
-		<p>The Asian Financial Crisis might well be the first major crisis
-of globalisation. Donald Low examines its causes and
-implications ten years on.</p>
+		<h3>The Challenge of Growth</h3>
+		<b><i>Interview with Paul Romer</i></b>
+		<p>Noted economist Paul Romer, proponent of the New Growth Theory, assesses the role of the public sector in sustaining growth in Singapore and the wider Asian region.</p>
 		
 <div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
@@ -261,11 +259,15 @@ implications ten years on.</p>
 
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
-		<h3>Asia After the Crisis: What Now, What’s Next?</h3>
-		<b><i>Timothy F. Geithner</i></b>
-		<p>Timothy F. Geithner, President and CEO of Federal Reserve Bank of New York, discusses monetary and fiscal policy in the region a decade after the Asian Financial Crisis.</p>
+		<h3>The Changing Face of Government</h3>
+		<b><i>Dr Ashraf Hassan Abdelwahab, Mr Mothusi Bruce Rabasha Palai &amp; Mr Feng Tei</i></b>
+		<p>The ETHOS Roundtable brings together thought leaders and
+practitioners to discuss key issues of interest to the public service.
+In this session, three eminent participants in Singapore’s
+inaugural Leaders in Governance Programme reflect on the
+evolving challenges facing public sectors around the world today.</p>
 		
 <div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
