@@ -313,7 +313,7 @@ As concerns over individual privacy and collective data integrity rise, the over
 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>
+<h6><a name="notes"></a>NOTES</h6>
 
 <ol>
 <li class="small-text"> Patrick Dunleavy, Helen Margetts, Simon Bastow, and Jane Tinkler, <em>Digital Era Governanance: IT Corporations, the State and E-Government</em> (Oxford University Press, 2006).</li>
