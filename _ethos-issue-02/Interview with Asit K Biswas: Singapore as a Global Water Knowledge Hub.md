@@ -157,7 +157,7 @@ If Singapore can synergistically combine the water expertise it currently has wi
 <p>My view is if Singapore can synergistically combine the water expertise it currently has with new activities like a Singapore Water Festival, or a Singapore Water Forum, and a few similar water-related activities, it can become the water capital of the world within the next five to six years. This is a very exciting prospect.</p>
 
 
-<div class="break">
+<div class="author">
 <h6>ABOUT THE AUTHOR</h6>
 
 
