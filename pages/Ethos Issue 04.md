@@ -164,11 +164,11 @@ may be necessary.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/WageInequality.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3>Wage Inequality, Intergenerational Mobility and Education in Singapore</h3>
-		<b><i>Ho Kong Weng</i></b>
-		<p>Wage equality and intergenerational educational mobility may be in long-term decline in Singapore.</p>
+		<h3>Service Beyond Excellence</h3>
+		<b><i>Interview with Ng Hock Keong</i></b>
+		<p>Singapore’s Central Provident Fund Board (CPFB) has won many accolades for its service excellence and innovations such as the groundbreaking my.cpf online portal. Ng Hock Keong, the Quality Service Manager (QSM) behind many of CPFB’s service initiatives, shares his views on the challenges of change in a mature service-oriented agency responsible for over three million members.</p>
 		<div class="button1"><a href="/ethos-issue-18/public-value-through-private-partnerships-the-grab-story/">Read more</a></div>
 	</div>
 </div>
@@ -178,36 +178,9 @@ may be necessary.</p>
 <div class="grid-container">
 	<div><img src="/images/Ethos_Images/Ethos_Issue_03/Social_Security_In_Singapore.jpg"></div>
 	<div>
-		<h3>Workfare: The Fourth Pillar of Social Security in Singapore</h3>
-		<b><i>Jacqueline Poh</i></b>
-		<p>Singapore’s latest labour policy is more than a wage supplement
-scheme—it is a bold new addition to the social safety net in
-today’s volatile economic environment.</p>
-		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
-	</div>
-</div>
-
-<br>
-
-<div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/Aid_For_Work.jpg"></div>
-	<div>
-		<h3>Aid for Work: The Singapore and US Models in Context</h3>
-		<b><i>Theresa W. Devasahayam</i></b>
-		<p>Theresa W. Devasahayam examines Singapore’s workfare strategy in light of the US model on which it is based, and finds key points of departure that could inform policy development in future.</p>
-		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
-	</div>
-</div>
-
-
-<br>
-
-<div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
-	<div>
-		<h3>Making Workfare Work: The US Experience</h3>
-		<b><i>Lawrence M. Mead</i></b>
-		<p>New York University’s Professor Lawrence M. Mead discusses workfare and income inequality in light of the US experience after a decade of welfare reform.</p>
+		<h3>Integrated Service Delivery: The Australian Department of Human Services</h3>
+		<b><i>Jeff Popple</i></b>
+		<p>Jeff Popple, from Australia’s Department of Human Services, discusses their experience in integrating service operations across different agencies, in order to achieve large-scale synergies.</p>
 		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
 </div>
@@ -217,10 +190,38 @@ today’s volatile economic environment.</p>
 <div class="grid-container">
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3>The Singapore Model of Workfare:
-Three Suggestions</h3>
-		<b><i>Hoon Hian Teck</i></b>
-		<p>To stay strategic in outlook and nimble in execution, the Singapore Armed Forces restructured its chain of command. Should the rest of the public sector follow suit?</p>
+		<h3>What Does It Mean to Optimise Public Service Delivery?</h3>
+		<b><i>Lee Chong Hock and John Lim</i></b>
+		<p>Lee Chong Hock and John Lim from the PS21 Office examine the challenges that face the Singapore Public Service, as it reaches beyond individual service excellence towards Whole-of-Government outcomes.</p>
+		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
+	</div>
+</div>
+
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
+	<div>
+		<h3>Public Services at the Crossroads</h3>
+		<b><i>Richard Brooks, Kay Withers, Miguel Castro Coelho, Tim Gosling,
+Guy Lodge, Sophie Moullin, Nick Pearce and Ben Rogers</i></b>
+		<p>Garvin Chow reviews the IPPR’s milestone report on contemporary public service delivery in the UK.</p>
+		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Governance_At_The_LeadingEdge.jpg"></div>
+	<div>
+		<h3>Governance at the Leading Edge: Black Swans, Wild Cards, and Wicked Problems</h3>
+		<b><i>Peter Ho</i></b>
+		<p>At the 2008 Strategic Perspectives Conference, Head of Civil Service
+Peter Ho traced the evolution of contemporary public sector practice.
+He concludes that while the Public Service has successfully adopted best practices from the private sector and elsewhere in the past, these are not enough to ensure good governance as we move into an unpredictable and complex future. In the following excerpt, he highlights the nature of the challenges ahead and argues that Singapore must develop its own new
+brand of governance in order to manage these critical uncertainties and generate original solutions to the wicked problems of our time.</p>
 		<div class="button1"><a href="/ethos-issue-18/navigating-the-new-economy-a-future-that-works/">Read more</a></div>
 	</div>
 </div>
