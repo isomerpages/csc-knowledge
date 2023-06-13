@@ -187,17 +187,6 @@ The Asian crisis is evidence that economic growth and financial stability are re
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
-
-
-
-
-
-
-
-
-
 
 
 <div class="author">
