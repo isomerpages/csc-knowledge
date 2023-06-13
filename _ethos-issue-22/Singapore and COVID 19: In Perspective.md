@@ -70,7 +70,8 @@ li {
 <img src="/images/Ethos_Images/Ethos_Issue_22/ethosissue22-covid19inperspectivebanner.PNG">
 
 
-
+<h4>As of 8 June 2021,1 Singapore has seen</h4>
+<p></p>
 
 
 
