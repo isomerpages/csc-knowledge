@@ -27,6 +27,22 @@ padding: 30px;
 	color: white;
 }
 	
+.box1
+{
+background-color: #62788a;	
+padding: 30px;
+}
+	
+.box1 h3,.box1 p
+{
+	color: white;
+}	
+	
+ .box1 ol li
+{
+	color: white;
+	font-size: 17px;
+}	
 
 
 .author
@@ -135,19 +151,12 @@ font-size:16px;
 
 
 
-
-
-<p>&nbsp;</p>
-
-
-
-
 <p class="small-text text">Negative income taxes and a wide range of other programmes have existed for some time in which governments provide income support to workers based on their wages. Economic theory suggests that as long as the demand for labour is not inelastic, wage supplementation will help increase the incomes of workers as well as encourage more people to enter or remain in the workforce.</p>
 
 
 
 
-<div class="container">
+<div class="box1">
 
 
 <h3 class="title">WAGE SUPPLEMENTATION</h3>
