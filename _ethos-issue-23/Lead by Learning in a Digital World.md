@@ -138,7 +138,11 @@ li {
 
 <p>We are at an interesting inflection point: old models of management and organisations are showing their age, yet new models haven’t been well defined and articulated. Leaders recognise the limitations of relying on an old playbook perfected during the apex of the industrial age, yet the new playbook for the digital age hasn’t yet been written. The only way to lead during this transition phase is through learning. The good news is that learning is not restricted to certain years of one’s life but is now lifelong, provided there is appetite and curiosity. The good news is also that the pandemic has shown the importance of digital tools and platforms to make learning personalised and contextual. The real challenge is to create the right conditions where every human develops the discipline and routines to constantly learn new skills and knowledge to solve the many profound challenges in the world. In this environment, leaders are not defined by status or stature, but by how they inspire others to learn and better themselves.</p>
 
+<div class="break">
+	<p class="break1">The real challenge is to create the right conditions where every human develops the discipline and routines to constantly learn new skills and knowledge.</p>
 
+
+</div>
 
 
 
