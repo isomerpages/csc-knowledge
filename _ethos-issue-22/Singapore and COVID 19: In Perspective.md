@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 22, June 2021</small></em>
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_22/ethosissue22-covid19inperspectivebanner.PNG">
 
 
 
