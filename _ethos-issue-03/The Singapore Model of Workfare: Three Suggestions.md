@@ -104,7 +104,7 @@ font-size:16px;
 
 <ol>
 <li class="small-text">Hoon, Hian Teck, “Future Job Prospects in Singapore,” in The Economic Prospects of Singapore, eds. Koh, Winston and Mariano, Roberto, (Singapore: Addison-Wesley, 2005, pp. 47–78).</li>
-<li class="small-text">Hoon, Hian Teck and Ho, Kong Weng, “Distance to Frontier and the Big Swings of the Unemployment Rate: What Room is Left for Monetary Policy?”, Kiel Working Paper No. 1347, Kiel Institute for World Economics (paper originally presented at conference entitled “The Phillips Curve and the Natural Rate of Unemployment” organised by Kiel Institute, Kiel, Germany, June 3–4, 2007).</li>
+<li class="small-text">Koh, Winston and Mariano, Roberto, “Distance to Frontier and the Big Swings of the Unemployment Rate: What Room is Left for Monetary Policy?”, Kiel Working Paper No. 1347, Kiel Institute for World Economics (paper originally presented at conference entitled “The Phillips Curve and the Natural Rate of Unemployment” organised by Kiel Institute, Kiel, Germany, June 3–4, 2007).</li>
 </ol>
 
 <br>
