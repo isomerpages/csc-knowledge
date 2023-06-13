@@ -201,7 +201,7 @@ rates in the world (Table 3).</p>
 
 
 
-<div class="break">
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
