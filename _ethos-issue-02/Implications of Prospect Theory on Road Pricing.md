@@ -25,6 +25,7 @@ padding: 30px;
 .road-pricing h2,.road-pricing p
 {
 	color: white;
+	font-family: Georgia;
 }
 	
 .road-pricing h5	
@@ -32,6 +33,7 @@ padding: 30px;
 	color: white;
 	text-align: center;
 	font-size: 24px;
+
 }	
 
 .author
