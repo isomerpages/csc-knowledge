@@ -329,7 +329,7 @@ mutual trust and shared expertise: enhancing the region’s propensity for and c
 
 <p><!--Notes--></p>
 
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTES</p>
+<h6><a name="notes"></a>NOTES</h6>
 
 <ol>
 <li class="small-text">This was particularly the case with the widespread adoption of the UN Millennium Development Goals (and now the Sustainable Development Goal on health and wellbeing). See Tikki Pang, “Singapore Should Play a Strong Leadership Role in Global
