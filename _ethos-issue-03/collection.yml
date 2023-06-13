@@ -2,6 +2,7 @@ collections:
   ethos-issue-03:
     output: true
     order:
+      - Wage Inequality, Intergenerational Mobility and Education in Singapore.md
       - "Singapore's Social Support System: Two Anomalies.md"
       - "Security with Self Reliance: The Argument for the Singapore Model.md"
       - "The Nordic Social Security Model: Squaring the Circle?.md"
