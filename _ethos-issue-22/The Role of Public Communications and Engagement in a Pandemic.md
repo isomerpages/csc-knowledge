@@ -318,7 +318,7 @@ li {
 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>
+<h6> <a name="notes"></a>NOTES</h6>
 
 <ol>
 <li class="small-text">Prime Minister’s Office Singapore, <a target="_blank" href="http://www.pmo.gov.sg/Newsroom/PM-Lee-Speech-at-the-debate-on-the-motion-of-thanks-to-the-president-Sep-2020">“PM Lee Hsien Loong at the Debate on the Motion of Thanks to the President”</a>, September 2, 2020, accessed October 19, 2020. </li>
