@@ -217,7 +217,7 @@ for the Household Support Package. At the same time, the Government has stepped 
   
 </div>  
   
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTES</p>  
+<h6><a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">Co-Chair of the Multi-Ministry COVID-19 Task Force, Minister Lawrence Wong, said that the Government prioritised “both lives and livelihoods” in an interview with Money FM 89.3 host Elliott Danker on 2 June 2020.  
