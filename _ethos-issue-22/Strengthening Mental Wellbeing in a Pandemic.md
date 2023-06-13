@@ -382,7 +382,7 @@ people and more united citizens, standing firm in the knowledge that we look aft
   
 </div>  
   
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTES</p>  
+<h6><a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">The World Health Organization describes mental wellbeing as “a state of well-being in which the individual realises his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make  
