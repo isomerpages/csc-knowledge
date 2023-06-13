@@ -331,7 +331,7 @@ to be “free from work” to one of being
   
 </div>  
   
-<p class="small-text" style="font-weight: bold; letter-spacing: 1px;"><a name="notes"></a>NOTES</p>  
+<h6><a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">See: The WEF article (weblink), “How will an ageing population affect the economy?”, Henrique Basso, Economist, Bank of Spain, accessed October, 15, 2017, <a href="https://www.weforum.org/agenda/2015/04/how-will-an-ageing-population-affect-the-economy/">https://www.weforum.org/agenda/2015/04/how-will-an-ageing-population-affect-the-economy/</a>.</li>  
