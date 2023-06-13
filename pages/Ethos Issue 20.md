@@ -126,7 +126,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Age is a Number</h3>
 		<b><i>by John Franklin Siregar</i></b>
