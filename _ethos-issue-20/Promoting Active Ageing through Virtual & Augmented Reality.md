@@ -172,7 +172,7 @@ empower the elderly to live independently—would be more aligned with active ag
   
   
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>  
+<h6><a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">Janice Tai, <em>“More Seniors in Singapore Taking Own Lives”</em>, <em>The Straits Times</em>, December 17, 2015, accessed April 20, 2016, <a href="https://www.straitstimes.com/singapore/more-seniors-in-singapore-taking-own-lives">https://www.straitstimes.com/singapore/more-seniors-in-singapore-taking-own-lives</a>.</li>  
