@@ -255,7 +255,7 @@ normal human being.
   
 </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTE</p>  
+<h6><a name="notes"></a>NOTE</h6>  
   
 <ol>  
 <li class="small-text">Founded by Dr Emi Kiyota, Ibasho is a non-profit platform to promote the intergration of elders within communities. In Japanese, the name Ibasho means “a place where you can feel like yourself”. See: <a href="http://www.ibasho.org/">http://www.ibasho.org</a></li>  
