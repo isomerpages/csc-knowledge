@@ -561,7 +561,7 @@ organisations through a complex and fast-changing future.</p>
 
 </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
+<h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">‘Build, buy, borrow, and bot’ is a phrase that has become popular in the HR field within the last 3 years. One example of its usage and meaning can be found here: <a target="\_blank" href="https://www.howardgray.net/build-buy-borrow-or/">https://www.howardgray.net/build-buy-borrow-or/</a>.</li>  
