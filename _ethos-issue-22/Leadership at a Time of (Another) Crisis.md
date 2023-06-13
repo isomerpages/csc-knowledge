@@ -246,7 +246,7 @@ of seven traits. Perhaps this may serve as Seven Ways for Civil Servants to Exer
 
 </div>
 
-<p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="note"></a>NOTE</p>
+<h6><a name="note"></a>NOTE</h6>
 
 <ol>
 <li class="small-text">Peter Shergold, “Leadership at a Time of Crisis”,
