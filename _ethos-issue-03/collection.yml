@@ -2,6 +2,7 @@ collections:
   ethos-issue-03:
     output: true
     order:
+      - "Making Workfare Work: The US Experience.md"
       - "Aid for Work: The Singapore and US Models in Context.md"
       - "Workfare: The Fourth Pillar of Social Security in Singapore.md"
       - Wage Inequality, Intergenerational Mobility and Education in Singapore.md
