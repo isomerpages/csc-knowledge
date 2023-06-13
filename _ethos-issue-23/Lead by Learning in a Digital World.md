@@ -80,6 +80,19 @@ li {
 <p>Learning—characterised by high-touch, in-person, face-to-face synchronous engagement—has gone mostly untouched by digital technologies for several centuries. The availability of computers and the global deployment of the Internet have since provided some useful tools. But over the last 18 months, in particular, we have witnessed massive, large-scale experiments of different kinds that have tested the role and efficacy of virtual instruction and remote learning with synchronous video meetings and asynchronous study materials.</p>
 
 
+<p>While the jury is still out on the efficacy of remote learning for kindergarten to high school education—which still rely on personalised coaching—there are encouraging signs that the collegiate and higher levels of education could pivot to a hybrid model of learning that can take advantage of digital technologies. When we finally capture the lessons and experiences from the many different hybrid modes, we will start to develop new principles of learning enabled by digital functionality. There will be no one universal model of digital learning that suits all settings, but new tools and platforms will allow for richer multimedia engagement that can overcome the Zoom fatigue and sensory stress that plague today’s technologies. Just imagine how we could have managed learning if this pandemic occurred in 2001 or 2011— the state of digital technologies back then could not have allowed us to do a fraction of what we have done so far. Looking ahead to 2030, we can start to see how new technologies—such as augmented reality, virtual reality, artificial intelligence, machine learning combined with powerful computers and personal devices, fast broadband and 5G/6G cellular connectivity, and cloud functionality—could create new modes of learning.</p>
+
+
+
+<p>Digital learning innovations are becoming mainstream, with enterprises such as Coursera, Udacity and 2U (with edX) in the US, Yuanfudao in China, Byju's in India, and others introducing compelling value propositions that compete with and complement traditional academic models and institutions. What’s clear is that learning will no longer be confined to the hallowed halls of university campuses with instructions delivered by ‘sages on stages’. Learning will be unbundled, with more options for personalisation than ever before. It will be defined by not only degree certificates from accredited global universities, but also certificates and badges from a broad range of entities such as Amazon, Microsoft, McKinsey, and LinkedIn. Building on Google’s mission “to organise the world’s information and make it universally accessible and useful”, new companies such as Coursera have sprung up with a mission to “provide universal access to world-class learning so that anyone, anywhere has the power to transform their life through learning”.1</p>
+
+<p>The future of learning will be paved by digital foundations enabling personalised options for exploring a multitude of ways to acquire skills and knowledge.</p>
+
+
+
+
+
+
 <br>
 <br>	
 <div class="back">
