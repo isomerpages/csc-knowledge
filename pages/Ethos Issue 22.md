@@ -55,7 +55,7 @@ margin-top:15px;
             <p>COVID-19 has had a far-reaching impact on the economy and society, and remains a clear and present challenge. In this issue, ETHOS takes stock of the pandemic's socioeconomic, governance and geopolitical implications, and reflects on how Singapore and other governments have responded to the crisis of a generation.</p>
             
             
-   <div class="button1"><a target="_blank" href="">Download PDF</a></div>
+   <div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethosjune2021.pdf">Download PDF</a></div>
 	</div>
    </div>
     
