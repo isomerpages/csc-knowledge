@@ -32,7 +32,8 @@ padding: 30px;
 	color: white;
 	text-align: center;
 	font-size: 24px;
-
+	font-family: Georgia;
+	font-style:italic;
 }	
 
 .author
