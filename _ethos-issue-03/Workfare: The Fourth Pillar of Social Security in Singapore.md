@@ -16,25 +16,18 @@ description: ""
 	font-size:16px;
 }
 	
-.road-pricing
+.box
 {
-background-color: #512C30;	
+background-color: #4e7077;	
 padding: 30px;
 }
 
-.road-pricing h2,.road-pricing p
+.box h3,.box p, .box h4
 {
 	color: white;
 }
 	
-.road-pricing h5	
-{
-	color: white;
-	text-align: center;
-	font-size: 24px;
-	font-family: Georgia;
-	font-style:italic;
-}	
+
 
 .author
 {
@@ -50,19 +43,7 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 	
-.adapted
-{
-border-bottom: 1px solid black;
-margin-top:40px;
-padding-bottom:30px;
-}	
-	
-.adapted p
-{
-	font-size: 0.9em;
-	line-height:24px !important;
-}
-	
+
 	
 .small-text
 {
@@ -126,7 +107,7 @@ font-size:16px;
 
 
 
-<div class="container">
+<div class="box">
 
 
 <h3 class="title">WHY WORKFARE?</h3>
