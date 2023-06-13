@@ -241,7 +241,7 @@ li {
   
 </div>  
   
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="notes"></a>NOTES</p>  
+<h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">P. Freire, <em>Pedagogy of the Oppressed</em> (London: Penguin Books Ltd, 1968). </li>  
@@ -252,8 +252,7 @@ li {
 <li class="small-text">Ibid. </li>  
 <li class="small-text">Such approaches might draw from Daniel Kim’s Core Theory of Success, which sees a dynamic and mutually reinforcing relationship between the quality of relationships, collective thinking, actions and results in an organisation. Details at: D. H. Kim, <em>Introduction to Systems Thinking</em> (Massachusetts: Pegasus Communications, 1999). </li>  
 </ol>  
-  
-<p><a href="../../ethos.html">Back to ETHOS homepage</a></p>
+
 
 
 
