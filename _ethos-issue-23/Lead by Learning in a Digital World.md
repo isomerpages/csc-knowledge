@@ -122,8 +122,12 @@ li {
 
 <div class="break"><p class="break1">Embracing digital as tailwind to create and capture opportunities in the future is much better than treating it as headwind and suboptimising to maintain status quo.</p></div>
 
-<p></p>
-<p></p>
+
+<h3>LEARNING AND LEADERSHIP</h3>
+<p>US President John F. Kennedy, in his prepared remarks for the undelivered speech on the day he died, noted that “leadership and learning are indispensable to each other”.2 Today, digital is the catalyst that drives both learning and leadership. In my interactions with students and executives over the last decade, I have found that young aspiring executives are drawn to be led by those with a passion to learn; to work for those with a profound curiosity to know why (not just facts but the underlying rationale); to be guided by those that are prepared to pose profound questions rather than half-truths and myths that are more readily discredited by data and analytics.</p>
+
+<p>Digital now allows leaders to know deeper than just the facts; it offers opportunities for leaders to run disciplined, data-based experiments rather than rely on pat answers or rules derived by benchmarking imperfect comparisons. Professor Richard Feynman is widely attributed to have said: “I would rather have questions that can’t be answered than answers that can’t be questioned”.3 Adapting his thinking, I have often highlighted and emphasised to the managers that I work with to “judge a leader by the questions that drive them rather than the answers they preach”. The reason is simple—under fast-changing conditions, yesterday’s successful answers may not be the right ones for tomorrow. But more important is that, in not taking the time to frame the right question under transformative conditions (fuelled by digital technologies), leaders are more apt to be following the wrong answers to the wrong questions.</p>
+
 <p></p>
 <p></p>
 
