@@ -126,11 +126,12 @@ rich in cross-sector partnerships and collaborative networks?</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/The_NordicSocialSecurity_Model.jpg"></div>
-	<div>
-		<h3>The Nordic Social Security Model: Squaring the Circle?</h3>
-		<b><i>Koh Tsin Yen</i></b>
-		<p>The Nordic states appear to have achieved an enviable balance between strong economic growth and generous welfare provisions, but they too face new pressures from globalisation.</p>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/ReinventingSingapore.jpg"></div>
+
+<div>
+		<h3>Reinventing Singapore’s Electronic Public Services</h3>
+		<b><i>Karen Wong</i></b>
+		<p>Building on its acclaimed online public services, Singapore is developing the next generation of truly interactive government technologies.</p>
 		<div class="button1"><a href="/ethos-issue-18/supporting-job-growth-and-worker-prosperity-in-a-new-era-of-automation/">Read more</a></div>
 	</div>
 </div>
@@ -138,11 +139,11 @@ rich in cross-sector partnerships and collaborative networks?</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/Security_With_Slef_Reliance.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Better_Faster_Cheaper.jpg"></div>
 	<div>
-		<h3>Security with Self-Reliance: The Argument for the Singapore Model</h3>
-		<b><i>Lim Xiuhui</i></b>
-		<p>Singapore’s system of social security is based on enabling self-reliance, supported by strong family and social networks.</p>
+		<h3>Better, Faster, Cheaper: Service Transformation and Channel Migration at the Ministry of Manpower</h3>
+		<b><i>Penny Han</i></b>
+		<p>A successful transition to new service channels has transformed this traditional regulatory agency into an award-winning service provider.</p>
 		<div class="button1"><a href="/ethos-issue-18/making-technology-work-for-workers/">Read more</a></div>
 	</div>
 </div>
