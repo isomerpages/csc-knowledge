@@ -235,7 +235,7 @@ Singapore's challenge is to find a balance between optimising industrial land us
 
 
 
-<div class="break">
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
