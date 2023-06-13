@@ -209,7 +209,7 @@ We cannot know how each new disruptive idea will change the playing field, and a
 
 </div>
 
-<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"><a name="notes"></a>NOTES</p>
+<h6><a name="notes"></a>NOTES</h6>
 
 <ol>
 <li class="small-text">“Transcript of Speech by Prime Minister Lee Hsien Loong at Smart Nation launch, 24 November 2014”, <em>Smart Nation Singapore</em>, accessed April 15, 2019, <a target="_blank" href="https://www.smartnation.sg/whats-new/speeches/smart-nation-launch/">https://www.smartnation.sg/whats-new/speeches/smart-nation-launch</a>.</li>
