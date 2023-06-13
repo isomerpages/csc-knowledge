@@ -189,24 +189,7 @@ The Asian crisis is evidence that economic growth and financial stability are re
 
 
 
-<div class="author">
 
-<h6>ABOUT THE AUTHOR</h6>
-
-<p class="small-text"><strong>Paul Barter</strong>, Assistant Professor at the Lee Kuan Yew School of Public Policy, National University of Singapore, researches urban transport policy. The views expressed here are those of his own and do not reflect those of his employer.</p>
-
-</div>
-
-<h6><a name="notes"></a>NOTES</h6>
-
-<ol>
-<li class="small-text">Mees, P., "The "Zurich" Model: Planning and Integration as an Alternative to the Market." in A Very Public Solution: Transport in the Dispersed City. (Melbourne: Melbourne University Press, 2000), 120-151.</li>
-<li class="small-text">Hidson, M. and M. Müller. Better Public Transport for Europe through Competitive Tendering - A Good Practice Guide. (Freiburg, Germany: ICLEI - Local Governments for Sustainability, 2003).</li>
-<li class="small-text">Pucher, J., H. Park, M. H. Kim, and J. Song. "Public Transport Reforms in Seoul: Innovations Motivated by Funding Crisis." Journal of Public Transportation Vol. 8, No. 5 (2005).</li>
-<li class="small-text">Halcrow Fox. Department for International Development, Review of Urban Public Transport Competition, Draft Final Report. (London, UK: Halcrow Group Limited, 2000), 3</li>
-</ol>
-
-<br>
 
 <br>
 <br>	
