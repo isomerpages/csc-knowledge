@@ -71,7 +71,7 @@ li {
 	
 .green
 {
-background-color: #76723D;
+background-color: #A0AC51;
 padding: 30px;
 margin-top:20px;
 font-family: Georgia;
@@ -103,16 +103,16 @@ color: white;
 
 <p>This is one of the oldest questions in economics: What is the role of the state and what is the role of the market? We tend to think of the government and the market as substitutes. But if you limit government to those activities where it is uniquely important, then in those key areas, what the government does is a complement to what the market or the private sector does. If the government does its job better, it enhances all the activities of the market. This is where thinking of Singapore as a city rather than a nation helps: you realise that there are many interesting ways in which the government can create value, such as through measures like land use planning.</p>
 
-<hr>
 
+<div class="green">
 <h5><em>
 Singapore should consider more
 mission-oriented funding for
 basic research across a whole
 range of agencies.
 </em></h5>
+</div>
 
-<hr>
 
 <p>When you think about the problem this way, the challenge is for the government to keep its focus on those complementary activities where its role is critically important. The problem in having, for example, a government-run phone or airline company is not so much that you suppress entrepreneurship in telecoms or aviation, but that it distracts the government’s resources from areas like education, research, and technological development where its role is uniquely important.</p>
 
@@ -136,8 +136,8 @@ range of agencies.
 
 <p>The other challenge in good governance lies in dealing with two fundamental problems. The first problem has to do with time horizons. Many political systems create pressure to respond immediately, or the political process deters the adoption of policies which will cause some pain now but gain in the future. So “now-versus-later” is a huge problem in managing politics in governments. We have created some special institutions like independent central banks to address precisely this problem. </p>
 
-<hr>
 
+<div class="green">
 <h5><em>
 Growth continues and even
 speeds up when more people
@@ -145,7 +145,7 @@ are innovating and trading
 with each other.
 </em></h5>
 
-<hr>
+</div>
 
 <p>Because Singapore’s political system has a dominant party that can form a strong majority government that expects to be in power in the future, Singapore has done a good job in managing “now-versus-later” issues. Because the party expects to be in power for a long time, it takes a long view in addressing problems. Because it has a strong majority, it can take actions that cause some pain now without being thrown out of office. Your political equilibrium would be difficult to replicate in most other countries, but some countries like Italy would probably be well advised to move in your direction, toward a political system where they are more likely to have strong majority governments. </p>
 
