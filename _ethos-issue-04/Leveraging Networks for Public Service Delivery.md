@@ -41,7 +41,11 @@ color:white
 	list-style-type: lower-alpha;    
 }	
 	
-
+.evolution-of-public-service1
+{
+background-color: #d8cbd1;
+padding: 50px;
+}
 	
 	
 .author
@@ -66,8 +70,7 @@ font-size:16px;
 .grid-container {
 	display: grid;
 	grid-template-columns: 50% 50%;
-	grid-column-gap: 5%;
-	margin-bottom: 5%;
+	grid-column-gap: 3%;
 	}	
 	
 @media only screen and (max-width: 600px) {
@@ -94,7 +97,9 @@ font-size:16px;
 
 
 
-<div class="evolution-of-public-service">
+<div class="evolution-of-public-service1">
+
+
 	
 <h3 class="title">FIGURE 1. EVOLUTION OF PUBLIC SERVICE DELIVERY NETWORK–A MODEL</h3>
 
@@ -153,6 +158,16 @@ font-size:16px;
 </div>
 
 </div>	
+	
+<p><span style="font-size: 13px;"><em>Source: Ministry of Finanace, Managing for Excellence Directorate</em></span></p>
+<p>The model shows how networks within a government mature from the Age of Agencies with very few, if any, networks to the Golden Age of Networks, when the public and private sectors are all interlinked in a well-connected network. </p>
+<p>By providing leadership and encouraging mindset changes, a government can actively nurture and grow its network maturity from Ages I to IV. Doing so increases the participation base which the government can draw on. </p>
+<p>Subsequently, by leveraging the built-up networks, a government can tap on the resources and imagination of many participants to fulfill the needs of the constituents. </p>
+<p>By actively cultivating and leveraging the network, a government can bring out its full potential to deliver maximum value for public service delivery.</p>
+	
+	
+</div>	
+	
 	
 
 <p>During the initial waves of computerisation in the 1980s and 1990s, the Public Service made aggressive attempts to adopt the new technologies for both internal and external efficiency gains. About 1,600 online public services were introduced to provide round-the-clock access to government information and transactions, some to much acclaim. </p>
@@ -281,4 +296,4 @@ that can tap on it.
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></div>
+</div>
