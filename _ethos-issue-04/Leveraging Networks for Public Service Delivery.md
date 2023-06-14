@@ -60,6 +60,18 @@ border-top: 1px solid black;
 font-size:16px;
 }
 	
+.grid-container {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-column-gap: 5%;
+	margin-bottom: 5%;
+	}	
+	
+@media only screen and (max-width: 600px) {
+	.grid-container {
+		display: block;
+	}
+}		
 	
 	
 </style>
@@ -79,185 +91,67 @@ font-size:16px;
 
 
 
-
-<p class="small-text text">&nbsp;</p>
-
-
-
-
-<div class="container">
-
-
+<div class="evolution-of-public-service">
 <h3 class="title">FIGURE 1. EVOLUTION OF PUBLIC SERVICE DELIVERY NETWORK–A MODEL</h3>
-<table width="520" style="width: 400px; height: 911px; left: 57px; top: 422px;" height="722" class="greybox" cellspacing="0" cellpadding="0" border="0" align="center">
-<tbody>
-<tr class="Ethosover">
-<td style="height: 50px;">
-<div style="text-align: center;" class="style6">AGE OF <br>
-            AGENCIES</div>
-</td>
-<td style="width: 1px;" rowspan="4"></td>
-<td>
-<div style="text-align: center;" class="style6">AGE OF <br>
-            TRANSITION</div>
-</td>
-<td rowspan="4"></td>
-<td>
-<div style="text-align: center;" class="style6">AGE OF INTEGRATION</div>
-</td>
-<td rowspan="4"></td>
-<td>
-<div style="text-align: center;" class="style6">GOLDEN AGE <br>
-            OF NETWORKS</div>
-</td>
-</tr>
-<tr class="titleBLACK">
-<td>
-<div style="text-align: center;" class="style3">
-<h3><strong>I</strong></h3>
-</div>
-</td>
-<td>
-<div style="text-align: center;" class="style3">
-<h3><strong>II</strong></h3>
-</div>
-</td>
-<td>
-<div style="text-align: center;" class="style3">
-<h3><strong>III</strong></h3>
-</div>
-</td>
-<td>
-<div style="text-align: center;" class="style3">
-<h3><strong>IV</strong></h3>
-</div>
-</td>
-</tr>
-<tr valign="middle" align="center">
-<td><img title="6e1.1" src="../../images/default-source/ethos-images/ethos-issue-4/6e1-18c30c38b597e41b1b5209c5a66e6c848.jpg?Culture=en&amp;sfvrsn=9f297292_1" data-displaymode="Thumbnail" alt="6e1.1"></td>
-<td><img title="6e1.2" src="../../images/default-source/ethos-images/ethos-issue-4/6e1-2.jpg?Culture=en&amp;sfvrsn=850ef293_1" data-displaymode="Thumbnail" alt="6e1.2"><br>
-</td>
-<td><img title="6e1.3 (1)" src="../../images/default-source/ethos-images/ethos-issue-4/6e1-3-(1).jpg?Culture=en&amp;sfvrsn=e5cf80fd_1" data-displaymode="Thumbnail" alt="6e1.3 (1)"><br>
-</td>
-<td><img title="6e1.4" src="../../images/default-source/ethos-images/ethos-issue-4/6e1-4.jpg?Culture=en&amp;sfvrsn=8c564c1e_1" data-displaymode="Thumbnail" alt="6e1.4"><br>
-</td>
-</tr>
-<tr valign="top" class="mainTEXT">
-<td>
-<div style="text-align: left;">
-<table width="123" height="127">
-<tbody>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Agencies function as separate silos</td>
-</tr>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Constituents interface with many agencies instead of one government</td>
-</tr>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Little or no cross-agency sharing and coordination in service delivery</td>
-</tr>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">No evidence of a service delivery network</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</div>
-</td>
-<td>
-<div style="text-align: left;">
-<table width="122" height="124">
-<tbody>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Some agencies working together through central agency coordination</td>
-</tr>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">An increasing understanding that “the whole is greater than the sum of its parts” </td>
-</tr>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Some attempts at consolidating service delivery at WOG level</td>
-</tr>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">A small, but growing service delivery network</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</div>
-</td>
-<td>
-<div style="text-align: left;">
-<table width="135" height="126">
-<tbody>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Strong network within government</td>
-</tr>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Strong confidence in network potential, development picks up momentum</td>
-</tr>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Leveraging the network to understand constituents and create new services to benefit them</td>
-</tr>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Coordinated WOG approach to service delivery with some private sector participation</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-<td>
-<div style="text-align: left;">
-<table width="125" height="144">
-<tbody>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Vast private sector inclusion within the network</td>
-</tr>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Harnessing the “power of us”: government, private sector and individuals leveraging a developed network in a massive co-creation effort</td>
-</tr>
-<tr>
-<td valign="top" style="width: 5px;" class="mainTEXT">•</td>
-<td class="mainTEXT">Boundless and unlimited potential for innovation in service delivery</td>
-</tr>
-</tbody>
-</table>
-</div>
-</td>
-</tr>
-<tr valign="top" class="mainTEXT">
-<td colspan="7">
-<p><span style="font-size: 13px;"><em>Source: Ministry of Finanace, Managing for Excellence Directorate</em></span></p>
-<p>The model shows how networks within a government mature from the Age of Agencies with very few, if any, networks to the Golden Age of Networks, when the public and private sectors are all interlinked in a well-connected network. </p>
-<p>By providing leadership and encouraging mindset changes, a government can actively nurture and grow its network maturity from Ages I to IV. Doing so increases the participation base which the government can draw on. </p>
-<p>Subsequently, by leveraging the built-up networks, a government can tap on the resources and imagination of many participants to fulfill the needs of the constituents. </p>
-<p>By actively cultivating and leveraging the network, a government can bring out its full potential to deliver maximum value for public service delivery.</p>
-</td>
-</tr>
-</tbody>
-</table>
 
+<br>	
+	
+<div class="grid-container">
+	<div>
+	<img src="/images/Ethos_Images/Ethos_Issue_04/Fig_6e11.jpg">
+<br>
+<ul>
+		<li>Agencies function as separate silos</li>
+		<li>Constituents interface with many agencies instead of one government</li>
+		<li>Little or no cross-agency sharing and coordination in service delivery</li>
+		<li>No evidence of a service delivery network</li>
+</ul>
+		
+</div>
 
+	
+<div>
+	<img src="/images/Ethos_Images/Ethos_Issue_04/Fig6e12.jpg">
+	<br>
+<ul>
+	<li>Some agencies working together through central agency coordination</li>
+	<li>An increasing understanding that “the whole is greater than the sum of its parts”</li>
+<li>Some attempts at consolidating service delivery at WOG level</li>
+	<li>A small, but growing service delivery network</li>
+</ul>
+</div>
 
 </div>
 
+<div class="evolution-of-public-service">
 
+<br>	
+	
+<div class="grid-container">
+	<div>
+	<img src="/images/Ethos_Images/Ethos_Issue_04/Fig6e13.jpg">
+<br>
+<ul>
+	<li>Strong network within government</li>
+	<li>Strong confidence in network potential, development picks up momentum</li>
+	<li>Leveraging the network to understand constituents and create new services to benefit them</li>
+	<li>Coordinated WOG approach to service delivery with some private sector participation</li>
+</ul>
+		
+</div>
 
+<div>
+	<img src="/images/Ethos_Images/Ethos_Issue_04/Fig6e14.jpg">
+	<br>
+<ul>
+	<li>Vast private sector inclusion within the network</li>
+	<li>Harnessing the “power of us”: government, private sector and individuals leveraging a developed network in a massive co-creation effort</li>
+	<li>Boundless and unlimited potential for innovation in service delivery</li>
+</ul>
+</div>
 
-
+</div>	
+	
 
 <p>During the initial waves of computerisation in the 1980s and 1990s, the Public Service made aggressive attempts to adopt the new technologies for both internal and external efficiency gains. About 1,600 online public services were introduced to provide round-the-clock access to government information and transactions, some to much acclaim. </p>
 
@@ -295,7 +189,6 @@ font-size:16px;
 
 <p><strong>Turn Ideas into Reality:</strong> To realise real benefit, we need to encourage agencies with the right expertise to lead and implement good cross-agency ideas. For this to happen, the Ministry of Finance (MOF) is developing a “Centre of Expertise” framework. For each idea, MOF aims to encourage a natural agency to take up a leadership role. These lead agencies will be recognised as Centres of Expertise, and will coordinate with different agencies to provide the expertise necessary to implement the ideas. If required, MOF will be a strategic partner in execution, helping to bring agencies together by providing a Whole-of-Government perspective.</p>
 
-<hr>
 
 <h5><em>
 New processes should either
@@ -307,7 +200,7 @@ address gaps in the
 Government’s capabilities.
 </em></h5>
 
-<hr>
+
 
 <p>For instance, the Monetary Authority of Singapore (MAS), the Infocomm Development Authority (IDA) and MOF are working hand-in-hand to bring about the next wave of e-payment innovation and adoption. Each party brings their respective competencies to the table: MAS as the financial regulator, IDA as the technical expert and MOF as the catalyst for innovative public services. Together, the three agencies hope to spur the next wave of payment innovation, such as allowing Singapore residents to pay for purchases with their hand phones, unlocking new opportunities for public services.</p>
 
@@ -386,4 +279,4 @@ that can tap on it.
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div>
+</div></div></div>
