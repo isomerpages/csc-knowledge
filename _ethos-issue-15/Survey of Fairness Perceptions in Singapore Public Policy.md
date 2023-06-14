@@ -109,19 +109,19 @@ li {
   
 <p>A majority of respondents (56%) felt it was fair for pay higher income taxes to cover increased public expenditure on healthcare. In contrast, for unemployment benefits and childcare/kindergarten, only half or less of the respondents thought it was fair to do so. This could be partly due to the profile of the respondents, as about a third of them (32%) were either single or married with no children, and only 3% were unemployed.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Policies with a wide reach should take on the universal, means-tested approach as this approach would likely to be perceived as fair by the majority of the public.  
-</em></h5>  
+</p>  
   
-<hr>  
-  
-<br>  
+</div>  
   
 <br>  
   
-<img title="iss15art11fig3" src="../../images/default-source/ethos-images/ethos-issue-15/survey-of-fairness-perceptions-in-singapore-public-policy/iss15art11fig3.jpg?sfvrsn=89324bd0\_0" data-displaymode="Original" alt="Key Finding #2">  
+<br>  
+  
+<img title="iss15art11fig3" src="/images/Ethos_Images/Ethos_Issue_15/Sur_Fairness_PerceptIn_SG_PP/Iss15_Art11fig3.jpg" data-displaymode="Original" alt="Key Finding #2">  
 <sub><br>  
 </sub>  
   
