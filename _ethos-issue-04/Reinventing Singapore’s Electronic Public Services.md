@@ -31,21 +31,6 @@ border-top: 1px solid black;
 	}	
 	
 
-.break
-{
-   border-top: 1px solid  black;
-   border-bottom: 1px solid black;
-	 padding:20px;
-	margin-top:50px;
-}
-	
-.break1
-{
-font-family: Georgia;
-	font-size:20px;
-	font-style: italic;
-	font-weight: bold;
-}
 
 .boxheader {
 	color: white !important;
@@ -70,9 +55,9 @@ li {
 	line-height:22px !important;
 }	
 	
-.red
+.green
 {
-background-color: #992D33;
+background-color: #8DA34D;
 padding: 30px;
 margin-top:20px;
 font-family: Georgia;
@@ -82,7 +67,7 @@ text-align:center;
 }
 		
 
-.red h5
+.green h5
 {
 color: white;	
 }		
@@ -95,152 +80,597 @@ color: white;
 <em><small>ETHOS Issue 04, April 2008</small></em>
 <img src="/images/Ethos_Images/Ethos_Issue_04/ReinventingSingapore.jpg">
 
-<p>The challenge facing many developed countries today is how to strike a balance between preserving economic growth, and enhancing social welfare to mitigate the ills of economic growth. Countries face pressure on the one hand to keep tax rates low and regulation light to stay competitive; on the other, to raise taxes in order to fund redistributive policies that reduce income inequality and strengthen social security.</p>
 
-<p>There has been some attention of late on the Nordic states (Sweden, Denmark, Finland and Norway), who appear to have found a virtuous compromise between staying competitive and ensuring social security for their citizens. In December 2006, an inter-ministry team from Singapore made a study trip to Denmark and Sweden to study their social security system. This article highlights some of our findings.</p>
+<p>In 1997, Singapore took bold steps to make public services available through electronic means. Electronic public services were seen as a strategic initiative to enhance Singapore’s readiness to plug into an increasingly complex and networked global economy, and as a means to achieve dramatic improvements in service delivery standards, by harnessing the efficiencies and synergies of emerging information and communications technology. By the end of 2001, more than 1,600 public services were offered online and made accessible through the Internet 24/7, from anywhere in the world. Guided by three e-Government Master Plans,<a href="#notes"><sup>1</sup></a> Singapore has built up significant understanding and capabilities within the Public Service to leverage electronic service delivery channels to its advantage.</p>
 
-<h3>MAKING IT WORK</h3>
+<p>In the past decade, the Public Service has won many international awards and accolades for its e-Government efforts, and is even beginning to export its knowledge and expertise in electronic service delivery. This is a solid achievement that has put Singapore at the forefront of e-Government rankings worldwide. But is this enough? There is clear recognition that the rapid pace of change, a savvier generation of citizens and businesses, and the interconnectedness of public needs will put yet greater demands on the Public Service and the e-infrastructure it has put in place to deliver its core services.</p>
 
-<p>The Nordic social security system is based on the belief that the state should strive to ensure equality of outcomes and social security. Redistribution, through taxes and transfers, is an explicit goal of Nordic social policy. Benefits are universal, and means-testing, to the extent that it is applied, determines only the amount of benefit a person shall receive, not whether he should receive any benefit at all. There are clear, publicly known rules governing how much social security benefits someone may receive and for how long.</p>
+<h3>FROM ONLINE SERVICES TO INTEGRATED GOVERNMENT</h3>
 
-<div class="red">
+<p>Singapore’s success has been due in no small part to its nimbleness and adaptability to a changing environment. Decentralisation and autonomy have enabled public agencies to be quick and decisive. But this has also brought about fragmentation, resulting in loss of systemic efficiency and economies of scale. More importantly, there could be sub-optimisation at the whole-of-government level. </p>
 
+<p>This is especially pertinent given the increasingly multi-faceted and inter-related nature of public needs. The Accounting and Corporate Regulatory Authority could be very efficient in registering a new company, but the company could not start work if our telecommunications infrastructure takes a long time to wire up. In order for our trade and logistics industry to thrive, related agencies such as the sea ports, airports, maritime authorities and customs and have to work together to maintain seamless traffic and inter-connectivity.</p>
+
+<p>In the initial years of Singapore’s e-Government effort, there was an urgency to make public services available online. Public service agencies were strongly encouraged to establish a presence in cyberspace—this resulted in a widespread proliferation of corporate websites, many of which carried little more than basic information about the organisation’s mandate and portfolio of services. In parallel, the eCitizen Portal established opportunities for agencies in charge of related functions to offer their services as an online package for the convenience of customers. This approach was initially focused on front-end bundling of information and basic application and query activities. </p>
+
+<p>However, efforts are now being made to achieve true service integration, through the redesign of business process and flow-through for related public services across different agencies. For instance, an original process might be removed or simplified, such as when another agency has already undertaken necessary steps for validation. </p>
+
+<p>Also under review is the strict delineation between websites that offer government content and those that offer commercial content. The new consumer wants to receive a range of holistic services readily from a single location, regardless of whether the service is of governmental or commercial origin; he also wants these services delivered to him on-demand in an engaging and refreshing manner, with service standards comparable to those of the best available commercial online services in the world. </p>
+
+<p>Progressively, public agencies are partnering with the private sector to provide government information and services together with relevant commercial content on commercial portals. With the introduction of the Public-Private-People Integration (3Pi) approach in 2005, government projects have started looking into opportunities to collaborate across the public and private sectors in order to deliver a holistic range of services with radical improvements and synergies. </p>
+
+<p>Mindef’s miw.com (subsequently replaced by NS Portal<a href="#notes"><sup>2</sup></a>) and LTA’s One.motoring<a href="#notes"><sup>3</sup></a> are forerunners in this effort, with government owned but privately run portals delivering trusted public services alongside rich commercial offerings of relevance to NSmen and motorists respectively. In 2006, IDA also outsourced its MyeCitizen personalised portal, allowing the private sector to bring more vibrancy into the service through introduction of useful commercial services such as Travel Buddy and Moving House.</p>
+
+<table width="100%" class="breadcrumb greybox" border="0">
+<tbody>
+<tr valign="middle" bgcolor="#ff9900">
+<td style="height: 24px;" colspan="2">
+<div style="text-align: center;">
+<h4>Milestones in our e-Government Journey</h4>
+</div>
+<h3 style="text-align: center;"><span></span></h3>
+</td>
+</tr>
+<tr>
+</tr>
+<tr valign="middle" bgcolor="#fbc283">
+<td valign="top" style="width: 80px;">
+<p><span class="mainTEXT style16"><strong><span style="font-size: 16px;" class="style14">PERIOD </span><span class="style15"></span></strong></span></p>
+</td>
+<td style="width: 451px;">
+<p><span style="font-size: 16px;" class="mainTEXT style16"><span class="style14"><strong>GOVERNMENT INFOCOMM PLANS AND THEIR ACHIEVEMENTS</strong></span></span></p>
+</td>
+</tr>
+<tr bgcolor="#fbe2c9">
+<td valign="top" style="background-color: #fbe2c9;">
+<p><span style="font-size: 16px;" class="submenuover">1980–1999</span></p>
+<p><span class="textORANGE">
+</span></p>
+</td>
+<td valign="top" style="background-color: #fbe2c9;">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr valign="top">
+<td colspan="2">
+<p><span style="font-size: 16px;" class="breadcrumbRED style4">Civil Service Computerisation Programme<br>
+<br>
+</span><span style="font-size: 16px;" class="mainTEXT">Phase 1: Improvements to public administration through the effective use of IT </span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">Automating traditional work functions</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">Reducing paperwork and clerical staff</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td colspan="2">
+<p><span style="font-size: 16px;" class="mainTEXT">Phase 2: “One-Stop,Non-Stop” services to public and businesses</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">Data sharing across agencies, e.g., People Hub, Establishment Hub, Land Hub</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">Extending government systems to private sector, e.g., TradeNet, MediNet, LawNet</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td colspan="2">
+<p><span style="font-size: 16px;" class="mainTEXT">Phase 3: Supporting the vision of “Singapore—The Intelligent Island”</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">Consolidation of systems in a Data Centre</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;" class="mainTEXT">Implementation of Civil Service-wide network infrastructure</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr valign="top" bgcolor="#fbc283">
+<td>
+<p><span style="font-size: 16px;">2000–2003</span></p>
+</td>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr valign="top">
+<td colspan="2">
+<p><span style="font-size: 16px;" class="breadcrumbRED style4">e-Government Action Plan I
+                        </span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;">Focused on enhancing interactions and capabilities in three components: Government- to-Citizens (G2C), Government-to-Businesses (G2B), Government-to-Employees (G2E)</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;">G2C: Provided citizens with easy and 24/7 access points to government services; built central infrastructure and common facilities (data exchange, e-Payment, authentication) that allowed government agencies to offer e-services to citizens quickly and efficiently.</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;">G2B: Established easy and convenient online access to government information and services that translates to savings in time and money for businesses. This supports the national drive to promote a pro-enterprise environment to facilitate business growth in Singapore.</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;">G2E: Laid foundation for a Networked Government; equipped public sector officers with the relevant skills and expertise to operate in an environment that was increasingly collaborative, customer-centric and consultative.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr bgcolor="#fbe2c9">
+<td valign="top">
+<p><span class="submenuover"></span></p>
+<p><span style="font-size: 16px;">2003–2006</span></p>
+<p><span style="display: inline-block; font-size: 16px;">
+</span></p>
+</td>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr valign="top">
+<td colspan="2">
+<p><span style="font-size: 16px;" class="breadcrumbRED style4">e-Government Action Plan I
+                        </span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;">Focused on three desired outcomes: Delighted Customers, Connected Citizens, Networked Government</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;">Delighted Customers: Built on wealth of e-services implemented for citizens—further enhanced on usability and convenience of access. Focused on building e-services that transcend organisational boundaries.</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;">Connected Citizens: Promoted active citizenry and engaged citizens as stakeholders in introduction of government public policies through online consultations; built communities by leveraging on online channels, thereby fostering greater trust and confidence in Government.</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;">Networked Government: Built foundation pieces to achieve “Many Agencies, One Government” experience for citizens and businesses; built infrastructure to achieve agility, effectiveness and efficiencies in government functions; set guidelines and measures to protect information and ICT assets in highly networked government environment and also due to increased Internet interactions between Government and citizens/businesses.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr bgcolor="#fbc283">
+<td valign="top">
+<p><span style="font-size: 16px;">2006–2010</span></p>
+</td>
+<td valign="top" style="background-color: #fbc283;">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr valign="top">
+<td colspan="2">
+<p><span style="font-size: 16px;" class="breadcrumbRED style4">iGov2010 Masterplan
+                        </span></p>
+<p><span style="font-size: 16px;">Phase 1: Improvements to public administration through the effective use of IT</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td style="height: 116px;">
+<p><span style="font-size: 16px;">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;">The move from using “e” in earlier e-Government masterplans to “i” in iGov2010 symbolises a shift in focus from the means (electronic) to the outcome (Integrated Government). It highlights the importance of establishing an Integrated Government—the underlying foundation to serving citizens and customers better. It emphasises the opportunity to move from just integrating services to integrating our processes, systems and information.</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span style="font-size: 16px;">•</span></p>
+</td>
+<td>
+<p><span style="font-size: 16px;">Four strategic thrusts formulated to achieve iGov2010 vision of Integrated Government:</span></p>
+<p><span style="font-size: 16px;"><strong>Thrust 1</strong> “Increasing Reach and Richness of e-Services”: Programmes implemented to acquire a deeper understanding of our customers, to allow Government to anticipate their needs and deliver proactive, responsive e-services, through their preferred electronic channels. Initiatives started to integrate processes and services across organisational boundaries, including those of private sector entities, with the aim of minimising the number of interactions between customers and Government in completing their transactions. Set ups designed to make it easy and convenient for citizens to transact with Government, regardless of whether he or she has the means or know-how to do so, via CitizenConnect Centres.</span></p>
+<p><span style="font-size: 16px;"><strong>Thrust 2</strong> “Increasing Citizens’ Mindshare in e-Engagement”: Build on earlier efforts to engage citizens in public policy-making and reviews through consultation, and setup of online communities to promote greater bonding amongst citizen groupings, and citizens with Government.</span></p>
+<p><span style="font-size: 16px;"><strong>Thrust 3</strong> “Enhancing Capacity and Synergy in Government”: Work started on development of the Singapore Government Enterprise Architecture (SGEA), a blueprint to identify potential business areas for inter-agency collaboration and set data and application standards to facilitate sharing of information and systems across agencies.</span></p>
+<p><span style="font-size: 16px;"><strong>Thrust 4</strong> “Enhancing National Competitive Advantage”: Leverage iGov efforts to provide a strategic competitive advantage for Singapore at industry, national and international levels. At industry level, government agencies collaborate with the infocomm industry in the co-creation, development and export of iGov solutions. At the national level, government agencies play active roles, working with industry players in the use of infocomm to transform various economic sectors of Singapore. At international level, our Government partner like-minded countries in the development of infocomm initiatives. For instance, Singapore leverages its infocomm experience to accelerate the development of cross-border infocomm initiatives and proactively share our experience and provide consultancy to countries keen on building up their own versions of e-Governments.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<div class="green">
 <h5><em>
-The Danish "flexicurity" system claims to combine labour market flexibility with employment security.
+Government projects have started looking into opportunities to collaborate across the public and private sectors in order to deliver a holistic range of services
+with radical improvements and synergies.
 </em></h5>
-
 </div>
 
-<p>One of the key innovations of the Nordic model is the reconciliation of an efficient labour market with a comprehensive social security system. The Danish “flexicurity” system, for example, claims to combine labour market <em>flexibility</em> with employment <em>security</em>. (Although the term was coined by the Danish, the system is employed to varying degrees in all the Nordic states.) “Flexicurity” consists of three components:</p>
 
-<p>(a) a flexible labour market; <br>
-(b) generous unemployment insurance (UI) benefits; and <br>
-(c) active labour market policies/ programmes (ALMPs).</p>
+<h3>THE SERVICE IMPERATIVE FOR CHANGE</h3>
 
-<p>All three are necessary to balance one another. A flexible labour market, for example in terms of hiring and firing workers, lowers the cost of labour for employers and enhances economic competitiveness. The uncertainty and volatility it creates for workers is mitigated by generous UI benefits, which are partly funded by worker contributions and mostly by the state.</p>
+<p>Dramatic changes in the nature of public service delivery have been enabled by the Information and Communication Technology (ICT) revolution in the past decade. Yet they are not—and should not be—motivated by technological change. Instead, they have been driven and guided by a fundamental shift in the public sector’s service mindset.</p>
 
-<p><strong>Work-based Criteria</strong><br>
-To reduce the disincentive to work created by the UI scheme, unemployed workers have to register at the state public employment offices and undertake to accept the first suitable job offered in order to receive their UI benefits. To help unemployed workers return to the workforce as quickly as possible, they can take part in ALMPs, which fall into four broad categories: adult training (encompassing both formal and informal training, work-related education and personal development programmes), job search services (such as job matching and counselling) and sanctions on UI benefits if the work conditions are not complied with, incentive programmes for private sector employers (e.g., wage subsidies), and direct employment programmes in the public sector.</p>
+<p>The traditional approach to public service delivery conceived of a single customer profile, with which the government agency interacted according to a clearly defined set of rules and accountabilities. In this “one-size-fits-all” model, any special needs were handled as exceptions to the standardised “fair treatment” provided as the norm. As public agencies embraced customer service values, they began to offer customised and even personalised services to differentiated groups of customers within their purview.</p>
 
-<p>Consequently, employment churn is high: in Denmark, for instance, worker turnover is estimated to be about 30% in any given year, and it is considered normal to have five or six jobs over one’s career with unemployment spells lasting about three to five weeks. About 60% of registered unemployed people find jobs after two months;<a href="#notes"><sup>1</sup></a> 22.6% of the total unemployed are considered long-term unemployed (generally more than one year of unemployment).<a href="#notes"><sup>2</sup></a> At the same time, at least 80% of workers are members in a UI fund (85% to 90% in Sweden), even though membership is voluntary, which is remarkable in a scheme that in theory should be too susceptible to adverse selection to be viable without mandatory participation.<a href="#notes"><sup>3</sup></a></p>
+<p>However, the fundamental truth of public interaction with the Government is that often, many agencies are involved even in basic activities such as buying a new house or starting a new business. Further, customers who use public services do not differentiate between different government agencies—they see and expect the Government to operate as a seamless entity. </p>
 
-<p><strong>Partnership with Unions</strong><br>
-The “flexicurity” system would not be possible without the cooperation of the “social partners”, namely the trade unions and employers’ organisations. However, unions are a double-edged sword: they both enable and lock in the present labour market policy. Having the unions on their side, for example, makes it difficult for the government to scale back on UI benefits, as the new Swedish government was trying to do. The union-negotiated wage forms the de facto minimum wage, as it applies to all workers in the industry, union member or not, citizen or foreigner.</p>
+<p>There is also time pressure on the Public Service to deliver on the ICT promise of ubiquitous connectivity and service on-demand. One approach is to modularise as many public services as possible, creating Lego blocks out of fundamental units of services, which can be quickly assembled in different combinations on the fly to meet diverse requests on demand.</p>
 
-<p>The relationship between the government and the unions may be changing: Although unionisation rates are still very high, union membership is falling, in part because the young are less interested in the unions, especially when faced with a strong labour market, and in part because of the growing trend in part-time and informal work. At the time of our visit, the new Swedish government was considering making UI fund membership compulsory, to sever the historical link between UI fund and union membership, which would weaken the unions.<a href="#notes"><sup>4</sup></a></p>
+<p>This implies more than just the need for front-end integration of services. It also calls for the need to better share data among and across agencies—not just to reap immediate service efficiencies and synergies, but also to enhance business intelligence and customer understanding in order to understand the customer base more broadly across the public sector. This is no small feat, as it would require a review of current policies and legislation limiting agencies’ ability to share data, to streamline processes, and leverage common IT systems. More subtly but just as vital is the nurturing of a whole-of-government mindset among public officers not yet accustomed to designing public services and reviewing public policies across different agencies. There needs to be clear recognition, that what the Government can achieve as an integrated whole is much greater than the sum of the individual agencies.</p>
 
-<h4>The Cost of Welfare </h4>
+<h3>TOWARDS GREATER E-ENGAGEMENT</h3>
 
-<p>The Nordic competitive strategy is familiar to Singapore, with its focus on rising above labour costs and moving up the value chain into more productive and knowledge-intensive industries. Strong economic fundamentals in the Nordic states present a stable and attractive environment for business. Sweden and Denmark, for example, have enjoyed budget surpluses of about 2.3% GDP over the past five years. Domestic inflationary pressures have also been kept in check, averaging at about 1% to 2%. Strong international competition has also spilled over to industries competing in the domestic market and restrained cost inflation through higher productivity growth and lower wage growth. For both countries, low inflation reflects high productivity growth.</p>
+<p>The Public Service must remain responsive to changing needs, aspirations and circumstances of Singaporeans over time. Although Singapore was ranked as the world’s first in Accenture’s 2007 report on Excellence in Customer Service, the most recent UN eGovernment Survey (released in January 2008) rated Singapore unfavourably due to, amongst other things, poor showing in the e-participation index of our citizens in public policy discussions and formulation process. </p>
 
-<p>There is substantial emphasis on the development of human and knowledge capital. The Danes and Swedes, for example, are one of the best-educated populations in the world, with 35% of Danes and 42% of Swedes attaining tertiary education.<a href="#notes"><sup>5</sup></a> In addition to the formal education system, there are also long-standing traditions of life-long learning for adults.<a href="#notes"><sup>6</sup></a> The Nordic states also spend about 2% to 3% of GDP on research and development, but spending is not limited to government—60% of R&amp;D expenditure in Denmark, Sweden and Finland comes from industry.</p>
+<p>In the next generation of e-Government, electronic public services must go beyond the merely transactional. They will also involve electronic means for government to more effectively engage citizens in the formulation of public policies. Singapore has already started on this effort. </p>
 
-<p>These strategies have enhanced Nordic competitiveness and contributed to the viability of the Nordic states so far. However, the welfare state still exacts its price. For example, one of Denmark’s research institutes, the Rockwool Foundation Research Unit, recommended eliminating the highest tax bracket as a way to increase tax revenue for Denmark, in view of the strong disincentives for the top earners to work more.<a href="#notes"><sup>7</sup></a> Denmark and Sweden have both sought to strengthen incentives to work by introducing an Earned Income Tax Credit (EITC) scheme in 2004 and 2006 respectively, to make work more attractive, and to distinguish (in a philosophical departure) earned income from transfer income.<a href="#notes"><sup>8</sup></a></p>
-
-
-<div class="red">
+<div class="green">
 <h5><em>
-Our future test for the Nordic model will be whether it is able to sustain an ageing population and the growing number of immigrants.
+e-Government has become the primary interface between the Government
+and Singapore’s citizens and businesses.
 </em></h5>
 </div>
 
+<p>Since 2005, the Reaching Everyone for Active Citizenry @ Home (REACH) website (<a href="http://www.reach.gov.sg/">http://www.reach.gov.sg</a>) has offered a series of online channels including discussion forums, online chats, blogs and emails, in order to gather public feedback as well as facilitate discussion on government policies. Once a year, REACH also organises an eTownhall discussion (using its online chat facility) to allow citizens to have real-time discussions with politicians upon the release of the Budget Speech. </p>
 
-<p><strong>Changing Demographics and Social Norms</strong><br>
-One future test for the Nordic model will be a demographic one—whether the state is able to sustain its ageing population and growing number of immigrants. Preliminary estimates by the Swedish government suggest that they will be able to sustain their social security system in the face of an ageing population, as long as they do not need to raise the level or quality of existing services. They will do so in part by maintaining a budget surplus of 2% GDP over the business cycle until 2015, which can be used to reduce public debt roughly to the 2005 debt level.</p>
+<p>It remains to be seen whether such forms of engagement are sufficient in the eyes of our citizens, as well as international bodies. What is clear, however, is that electronic channels are no longer a niche or alternative means for delivering information and services only when it is convenient or cost-effective to do so. e-Government has become the primary interface between the Government and Singapore’s citizens and businesses. It is a reality that the Public Service has to embrace.</p>
 
-<p>In response to this trend, the key strategy of the new Swedish government is to strengthen the labour market: increase the demand for labour by reducing payroll taxes for older and younger workers, and increase the supply of labour by maintaining a high level of employment. Denmark, on the other hand, is projected to be in the red from 2016 onwards, with a total public deficit of about 8% by 2029. Nonetheless, the Danes are optimistic that the new Welfare Agreement cemented between all the major parties in 2006 will enhance the fiscal sustainability of their model, primarily by raising the retirement age for voluntary early retirement pensions and public old-age pensions from 2019, and by indexing the retirement age thresholds to the life expectancy of 60-year-olds, which is about 19.5 years, so that the government can reduce its outlay on old-age pensions and stabilise outlay even as life expectancies increase.</p>
-
-<p>The other demographic challenge is immigration. This is in part an economic dilemma, because the Nordic countries take in a good number of political immigrants, who tend to have lower employment rates than locals. It is also a social challenge—the Nordic social security system is a pay-as-you-go scheme, and by definition depends on the willingness of each new generation to pay for the last one. An influx of immigrants who do not share the same social philosophy or work ethic (so far away from Max Weber) strains the intergenerational social compact that the Nordic model is built on.</p>
-
-<p>The worry is not only with immigrants; some feel that the young seem to be more materialistic than in the past and less willing to pay top tax rates in exchange for social security.<a href="#notes"><sup>9</sup></a> Critics of the Nordic model point out that in some aspects, it is too good to be true: the official unemployment figures, for example, hide high public sector employment (about 30% of the total work force), participation in labour market programmes, including wage-subsidised jobs, and withdrawals from the workforce due to sick leave or early retirement. A McKinsey article in June 2006 estimated that the actual unemployment rate in Sweden was 17% (11% more than the official rate). This 17% included people on labour market programmes, latent job candidates, the under-employed and those excluded from the workforce but able to work (for example, on early retirement or sick leave beyond Sweden’s normal historic levels from the 1970s).<a href="#notes"><sup>10</sup></a></p>
-
-<h3>A QUESTION OF VALUES</h3>
-
-<p>It is tempting to talk about social security systems in abstraction, but a social security system depends, first and foremost, on the social values of the people who depend on it and who pay for it with their tax dollars. The Nordic model is an interesting way of incorporating work into the heart of a welfare system—if a welfare system is what is needed. Citizens encountered in the course of the study trip seemed to be genuinely proud of their social security system; although aware of its faults, they seemed to feel that the social values embedded into the system were worth preserving, even at the cost of high taxes.</p>
-
-<p>In terms of policy directions or programmes, it would difficult to import most features of the Nordic model into the Singapore system as it is premised on an entirely different social philosophy, and each component of the social security system is integrated with and dependent on the others. The question, at the end of the day, could simply be: what do we believe in? It starts there.</p>
-
-
-
-
-<p class="small-text text">The “Nordic model” can be broadly characterised as a high-tax, high-expenditure social democratic welfare state — except with the labour market flexibility and economic competitiveness of a liberal welfare state.</p>
-
-
-<div class="container">
-
-
-<h3 class="title">WHAT IS THE NORDIC MODEL?</h3>
-<p class="text">The “Nordic model” can be broadly characterised as a high-tax, high-expenditure social democratic welfare state — except with the labour market flexibility and economic competitiveness of a liberal welfare state.</p>
-<p class="text">Table 1 provides a simplified characterisation of different European social models.</p>
-<h4>TABLE 1: CHARACTERISATION OF SOCIAL MODELS<sup><a href="#notes">11</a></sup></h4>
-<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_03/Nordictable01.jpg"></p>
-<p class="text">The Nordic states appear to have done well both on measures of competitiveness and social outcomes (Table 2).</p>
-<h4>TABLE 2: COMPARISON OF ECONOMICAL AND SOCIAL OUTCOMES<sup><a href="#notes">12</a></sup></h4>
-<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_03/Nordictable02.jpg"></p>
-
-<p class="text">As indicated in Table 2, the
-high emphasis on social welfare is paid for by some of the highest tax
-rates in the world (Table 3).</p>
-<h4>TABLE 3: TAX RATES AND COLLECTIONS IN SWEDEN, DENMARK AND SINGAPORE<sup><a href="#notes">13</a></sup></h4>
-
-<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_03/Nordictable03.jpg"></p>
-	
-<p class="text">Tax revenues have averaged at about 50% of GDP over the past five years. Although taxes on labour income are arguably high enough to be on the wrong side of the Laffer curve,<a href="#notes"><sup>20</sup></a> this is as efficient a tax mix as can be expected given their revenue needs, with higher taxes on labour income and consumption, and regionally comparable taxes on corporate and capital income.</p>
-<p class="text">Table 4 outlines the benefits enjoyed in the Nordic states, relative to comparable social measures in Singapore.</p>
-<h4>TABLE 4: COMPARISON OF BENEFITS IN SWEDEN, DENMARK AND SINGAPORE</h4>
-	
-<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_03/Nordictable0401.jpg"></p>
-
-
-
+<table width="100%" class="breadcrumb greybox" border="0">
+<tbody>
+<tr valign="middle" bgcolor="#ff9900">
+<td style="height: 24px;" colspan="2">
+<div style="text-align: center;">
+<h3>Achievements</h3>
 </div>
+</td>
+</tr>
+<tr valign="middle" bgcolor="#fbc283">
+<td style="width: 167px; height: 51px;">
+<p><span class="mainTEXT style16"><span class="style14"><strong>KEY INTERNATIONAL AWARDS</strong></span></span></p>
+</td>
+<td style="width: 364px;">
+<p><span class="mainTEXT style16"><span class="style14"><strong>YEAR</strong></span></span></p>
+</td>
+</tr>
+<tr bgcolor="#fbe2c9">
+<td valign="top" style="background-color: #fbe2c9;">
+<p><span>Accenture e-Government Leadership Study</span></p>
+</td>
+<td valign="top" style="background-color: #fbe2c9;">
+<p><span>2nd position (2000–2004)<br>
+            3rd position (2005)<br>
+            1st position (2007)</span></p>
+</td>
+</tr>
+<tr valign="top" bgcolor="#fbc283">
+<td style="height: 61px;">
+<p><span class="mainTEXT style11">World Economic Forum’s<br>
+            Global Information<br>
+            Technology Report</span></p>
+</td>
+<td>
+<p>1st position (2002–2004)</p>
+</td>
+</tr>
+<tr bgcolor="#fbe2c9">
+<td valign="top">
+<p>United Nations <br>
+            e-Government Readiness Report</p>
+</td>
+<td>
+<table width="344" height="78" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<p><span>Ranking amongst 192 UN member states:</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<table width="265" height="91" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="width: 53px; height: 5px;">
+<p>&nbsp;</p>
+</td>
+<td style="width: 104px; height: 5px;">
+<p><span>e-Participation </span></p>
+</td>
+<td style="width: 94px; height: 5px;">
+<p><span>e-Readiness </span></p>
+</td>
+</tr>
+<tr>
+<td style="height: 5px;">
+<p><span>2003</span></p>
+</td>
+<td style="height: 5px;">
+<p><span>13th</span></p>
+</td>
+<td style="height: 5px;">
+<p><span>12th</span></p>
+</td>
+</tr>
+<tr>
+<td style="height: 5px;">
+<p><span>2004</span></p>
+</td>
+<td style="height: 5px;">
+<p><span>4th</span></p>
+</td>
+<td style="height: 5px;">
+<p><span>8th</span></p>
+</td>
+</tr>
+<tr>
+<td style="height: 5px;">
+<p><span>2005</span></p>
+</td>
+<td style="height: 5px;">
+<p><span>2nd</span></p>
+</td>
+<td style="height: 5px;">
+<p><span>7th</span></p>
+</td>
+</tr>
+<tr>
+<td style="height: 5px;">
+<p><span>2008</span></p>
+</td>
+<td style="height: 5px;">
+<p><span>10th</span></p>
+</td>
+<td style="height: 5px;">
+<p><span>23rd</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#fbc283">
+<td valign="top">
+<p>Stockholm<br>
+            Challenge Award</p>
+</td>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr valign="top">
+<td colspan="2">
+<p><span class="breadcrumbRED style4">Winners &amp; Finalists:<br>
+</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span>•</span></p>
+</td>
+<td>
+<p><span>eCitizen Portal (2002)</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span>•</span></p>
+</td>
+<td>
+<p><span>Mobile Phone Reuse Project and the PC Reuse Scheme under Empowering Persons with Disabilities (2002)</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span>•</span></p>
+</td>
+<td>
+<p><span>BizFile (2004)</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span>•</span></p>
+</td>
+<td>
+<p><span>Access to Archives Online (2004)</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span>•</span></p>
+</td>
+<td>
+<p><span>Child Care Link (2004)</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span>•</span></p>
+</td>
+<td>
+<p><span>Electronic Medical Record Exchange (2006)</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span>•</span></p>
+</td>
+<td>
+<p><span>Integrated Case Management System for Protection and Welfare of Youth, Children and Families at Risk (2006)</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p><span>•</span></p>
+</td>
+<td>
+<p><span>Telecare: Remote Outpatient Care Anytime Anywhere for Chronic Diseases (2006)</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr bgcolor="#fbe2c9">
+<td valign="top">
+<p>UN Public Service Award</p>
+</td>
+<td>
+<p><strong>Online Business Licensing Service (OBLS)</strong> for category of "Application of Information and Communication Technology (ICT) in Government: <br>
+            e-Government" (2005)<br>
+<strong>Integrated Work Permit Online Services (WPOL)</strong> for category of “Improving transparency, accountability and responsiveness in the Public Service” (2006)</p>
+</td>
+</tr>
+<tr bgcolor="#fbc283">
+<td valign="top">
+<p>Commonwealth Association for Public Administration and Management (CAPAM) International Innovations Awards</p>
+</td>
+<td valign="top">
+<p>eCitizen Portal (MOF) (Bronze) (2000)<br>
+            The Enterprise Challenge (PSD) (Bronze) (2002) <br>
+            Child Care Link (MCYS) (Finalist) (2004)<br>
+            myCPF (CPFB) (Finalist) (2006)</p>
+</td>
+</tr>
+</tbody>
+</table>
 
+<p>&nbsp;</p>
 
+<p>&nbsp;</p>
 
+<table width="95%" class="greybox" cellspacing="5" cellpadding="5" border="0">
+<tbody>
+<tr>
+<td valign="top" style="background-color: #fbe2c9;">
+<h3>GROWING THE NETWORK: ISSUES AND CHALLENGES</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" style="background-color: #fbe2c9;">
+<p>Public-Private-People Integration (3Pi) initiatives have provided strong learning opportunities for government agencies venturing into the relatively new frontier of public service delivery through commercial portals. Some of the key challenges that public agencies have had to grapple with include:</p>
+<p><strong>Sustainability of the business model: </strong><br>
+            In a 3Pi project, particularly one that is initiated by the Government, the choice of commercial partner(s) is vital. The chosen partner should have a clearly viable business model or the project will be doomed to failure. Several unsuccessful attempts at 3Pi projects began with the Government providing seed funding to start up the project (usually a portal business). The partner, who more often than not was selected based on technical competence and not business acumen, continued to rely on Government funding to sustain the portal business long beyond rollout. The burden to sustain the commercial portal (especially since the Government’s own portal had ceased operation) outstripped the benefits that had been brought about through the 3Pi approach. </p>
+<p><strong>Consumer awareness of government versus commercial content:</strong> <br>
+            While government agencies are free to collaborate with their chosen private sector partner to deliver bundled services, it is necessary to ensure that the consumer can distinguish between government content and commercial content. This is because the Government can only be accountable for its own information and services, and a clear understanding by the consumer of limits and caveats is necessary. This also posts creative and practical limitations on the ways in which Government and commercial can be combined and presented. </p>
+<p><strong>Exclusivity:</strong> <br>
+            The Government generally does not grant exclusivity in its engagement with commercial vendors, as it still wants to retain the option of engaging other partners. However, commercial partners frequently prefer to negotiate for an exclusive engagement, as it provides protection against competition and gives a certain assurance of business demand. In fact, some commercial partners view this as a critical success factor for the partnership to flourish. </p>
+<p>Despite these challenges, public agencies who have engaged in 3Pi projects have gained valuable insight into business thinking, modelling and marketing. Businesses have also come to appreciate the Government’s need to strike a balance between creative flexibility and public accountability. These experiences continue to reap benefits for public-private sector relations well beyond the scope of the specific project. – Karen Wong</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<table width="95%" class="greybox" cellspacing="5" cellpadding="5" border="0">
+<tbody>
+<tr>
+<td valign="top" style="background-color: #fbe2c9;">
+<h3>BEYOND SERVICE DELIVERY</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" style="background-color: #fbe2c9;">
+<p>As part of the e-Government revolution, public service agencies have embarked on a series of broad initiatives in order to reap efficiency gains from streamlining and integration, and IT-enabled automation.</p>
+<p><strong>Consolidating Shared Services:</strong> Pooling shared services across different government agencies, such as human resource and finance through the Vital.Org initiative, reaps economies of scale across the public sector, while allowing Ministries to retain a high degree of autonomy in decision making.</p>
+<p><strong>End-to-end servicing:</strong> The Online Business Licensing System (OBLS) integrates the processes needed to apply a plethora of business licences. However, integration means more than just automating the application process—it means possibly doing away with some licenses or using alternative non-licensing measures to achieve regulatory objectives. </p>
+<p><strong>Standardisation and collaboration:</strong> A new infrastructure, the Standard Operating Environment (SOEasy), is being built as a standardised ICT operating environment for the entire public sector. It will homogenise, consolidate and aggregate demand of all desktops, messaging, online collaboration tools and network environment across all government agencies, involving some 60,000 users across 73 agencies. The result will be a rich, portable and interactive environment through which all public officers can work and collaborate, regardless of their physical location in the public sector. – Karen Wong</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
-<p class="small-text"><strong>Koh Tsin Yen</strong> is Head of Social Programmes (1) in the Ministry of Finance, Singapore. Her department looks into funding and policy issues for the social sector in Singapore. </p>
+<p class="small-text"><strong>Karen Wong</strong> is Director of the e-Government Programmes and Policies Division in the Government Chief Information Office, Infocomm Development Authority of Singapore. In this role, Ms Wong is responsible for leading the Division to strategise, plan and implement the iGov2010 Masterplan through a variety of public sector-wide e-Government initiatives. </p>
 
-</div>
+</div>	
 
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">Meeting  with the National Directorate of Labour, Denmark
-    (5 December 2006).</li>
-<li class="small-text">OECD Factbook 2006 (Paris: Organisation  for Economic Co- operation and Development, 2006).</li>
-<li class="small-text">The replacement rate and duration of UI benefits in both Denmark and Sweden are among the highest in Europe. In Denmark, an unemployed person can receive UI benefits for up to four years, at a maximum replacement rate of 90%, subject to a cap. The average replacement rate is 69%. In Sweden, an unemployed person can receive UI benefits  for
-    300 days, at a maximum replacement rate of 80%, subject to a cap. The average replacement rate is 63%. (Source: OECD Employment Outlook - 2006 Edition: Boosting Jobs and Incomes
-    (Paris:  Organisation   for Economic  Co-operation  and Development, 2006). Membership fees are low; in Sweden, government funds covered about 90% of UI payouts, and membership fees only 10%. In Denmark, membership fees covered 50% of payouts in 2005, but only 25% a few years ago, when unemployment  rates were higher. (Source: meetings with the Unemployment Insurance Board in Sweden, 27
-    November 2006, and the National Directorate of Labour in
-    Denmark, 2 December 2006).</li>
-<li class="small-text">Meeting with Dr Lotti Ryberg-Welander, Stockholm University, Department of Social Work, 1 December 2006.</li>
-<li class="small-text">The Global Competitiveness Index 2006 ranked Denmark second in higher education and training, followed by Sweden in 3rd place. Finland took first place.</li>
-<li class="small-text">Expenditure on adult training programmes forms about 0.5% of Denmark’s  GDP, and 0.3%  for Sweden (Nordic Social- Statistical Committee (NOSOSCO), 2006, Social Protection in the Nordic Countries 2004: Scope, Expenditure and Financing, pg.227.).</li>
-<li class="small-text">From the paper “Tax, Work and Equality – a Study of the Danish Tax and Welfare  System,”  Rockwool Foundation Research Unit.</li>
-<li class="small-text">Meeting with the Swedish Ministry  of Finance, 30 November
-    2006.</li>
-<li class="small-text">Meeting with Dr Lotti Ryberg-Welander, Stockholm University, Department of Social Work, 1 December 2006.</li>
-<li class="small-text">“Sweden’s  Growth Paradox,” The McKinsey Quarterly, June 2006. Public sector employment figures from Hans Werner Sinn, “Scandinavia’s Accounting Trick,” Project Syndicate 2006.</li>
-<li class="small-text">Schubert, Carlos Buhigas, and Martens, Hans, “The Nordic Model: A Recipe for European Success?” (European Policy Centre (EPC) Working Paper No. 20, September 2005).</li>
-<li class="small-text">Sources: Growth Competitiveness  Report 2005, OECD Factbook 2006, UN Human Development  Report 2005, and the CIA World Factbook 2006.</li>
-<li class="small-text">Sources: Swedish Ministry  of Finance, Danish Ministry  of Finance, Singapore Ministry  of Finance (Budget Highlights 2005), and OECD Tax Database.</li>
-<li class="small-text">The top tax rate on labour income was lowered to 20% in YA2007 from 21% in 2005. The headline corporate tax rate lowered to 18% with  effect  from YA2008; and the GST rate increased to 7% with effect from 1 July 2007.</li>
-<li class="small-text">Tax on labour income includes payroll taxes for Sweden and Denmark. For Singapore, CPF contributions are excluded as they are not considered as part of government tax revenue.</li>
-<li class="small-text">In January this year, the Danish government lowered the top CIT
-    rate from 28% to 22%.</li>
-<li class="small-text">There are reduced VAT rates for Sweden: 12% for food and hotel charges; 6% for personal transportation, publications, entrance fees to commercial sports activities and cultural events; and exemptions for healthcare and other services.</li>
-<li class="small-text">But an annual lump sum charge applies.</li>
-<li class="small-text">Figures for Denmark  and Sweden  are from  the OECD Tax Database. The figure for Singapore is based on an average wage of S$3,444 (Labour Force Survey 2005), and the employer CPF contribution rate of 20%, employee contribution rate of 13%, $1,000 annual earned income relief and the personal income tax schedule for YA2006.</li>
-<li class="small-text">From the paper “Tax, Work and Equality – a Study of the DanishTax and Welfare  System,”  Rockwool Foundation Research Unit, 2006.</li>
+<li class="small-text">The three masterplans are the e-Government Action Plan (2000–2003), the e-Government Action Plan II (2003–2005) and the iGov2010 (2006–2010). For details. refer to <a href="https://www.tech.gov.sg/media/corporate-publications/egov-masterplans">https://www.tech.gov.sg/media/corporate-publications/egov-masterplans</a></li>
+<li class="small-text">For details, refer to the NS Portal at <a href="http://www.ns.sg/">http://www.ns.sg</a></li>
+<li class="small-text">For details, refer to the One.motoring Portal at <a href="http://www.onemotoring.com.sg/">http://www.onemotoring.com.sg</a></li>
 </ol>
 
 <br>
+
 
 
 
