@@ -175,11 +175,7 @@ with each other.
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
-
-	
-	
 	
 	
 	
