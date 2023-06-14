@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 16, Dec 2016</small></em>
-
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
 
 <h3>A NEW CONTEXT BRINGS NEW CHALLENGES</h3>
 
