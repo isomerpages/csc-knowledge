@@ -85,9 +85,9 @@ border-top: 1px solid black;
 
 <h4>FIGURE 1. CUSTOMER RESPONSIVENESS FRAMEWORK</h4>
 
-<p style="text-align: center;"><img title="FIGURE 1. CUSTOMER RESPONSIVENESS FRAMEWORK" src="../../images/default-source/ethos-images/ethos-issue-4/6g1.jpg?sfvrsn=e9469ee7_0" data-displaymode="Original" alt="FIGURE 1. CUSTOMER RESPONSIVENESS FRAMEWORK"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_04/Fig1_CustomerResponsiveness.jpg"></p>
 
-<h3>DIVERSE CUSTOMER BASE, MU LTI-CHANNEL SERVICESs</h3>
+<h3>DIVERSE CUSTOMER BASE, MULTI-CHANNEL SERVICES</h3>
 
 <p>MOM serves a wide spectrum of customers in two principal groups: employers (comprising both about 100,000 businesses as well as individual employers of foreign domestic workers) and employees (comprising about 1.8 million locals and about 900,000 foreigners on a variety of work passes). </p>
 
@@ -112,7 +112,7 @@ border-top: 1px solid black;
 
 <h4>FIGURE 2. COST COMPARISONS</h4>
 
-<p style="text-align: center;"><img title="FIGURE 2. COST COMPARISONS" src="../../images/default-source/ethos-images/ethos-issue-4/6g1_02.jpg?sfvrsn=2aac8162_0" data-displaymode="Original" alt="FIGURE 2. COST COMPARISONS"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_04/Fig2_CostComparisons.jpg"></p>
 
 <h3>CHANNEL MIGRATION: MAKING ELECTRONIC SERVICES THE FIRST AND BEST CHOICE</h3>
 
@@ -140,7 +140,7 @@ border-top: 1px solid black;
 
 
 
-<div class="container">
+<div class="wor">
 
 
 <h3 class="title">WORK PERMIT ONLINE: A WORLD CLASS E-SERVICE</h3>
