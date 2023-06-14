@@ -103,13 +103,13 @@ he argues, that necessary moral codes and beliefs are generated — along with, 
 <p>Narratives are also elusive in the sense that, when they work, they are difficult to distinguish from habits, conventions, stories, myths and institutions themselves. So how can we tell when we’re seeing, or hearing, a narrative?  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A good narrative can account for failure, expansive enough to fold in individual misfortunes while maintaining its logic. The many and varied strands of stories within a narrative can successfully incorporate the things that don’t quite fit.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>First, a narrative is not ‘ just a story’ — it is a system of stories that hang together and make sense of the way history has unfolded; But it also offers a glimpse of the future as somewhere different, yet to which one can still relate.  
 </p>  
@@ -120,13 +120,13 @@ A good narrative can account for failure, expansive enough to fold in individual
 <p>Third, a good narrative can account for failure, or at least for bumps in the road. It is expansive enough to fold in individual misfortunes while maintaining its logic. This is why the many and varied strands of stories within a narrative are important; because they can successfully incorporate the things that don’t quite fit. A good example would be the narrative of the American dream which can accommodate failure because its main thrust is that of adventure, and of people willing to seize their chance — rather than of success (which would have made it much more fragile). Still, there are enough stories of success that the narrative is effective in providing legitimacy and institutional momentum.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The minute a narrative becomes fixed, i.e. appears incapable of accounting for, and accommodating change, it starts to become dysfunctional.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Finally, a narrative is as much about the past as it is about the present or the future: one of its key roles is to change, adapt and expand in ways that allow its proponents and actors to evolve over time. The minute a narrative becomes fixed, i.e. appears incapable of accounting for, and accommodating change, it starts to become dysfunctional. This has institutional effects. The French Republican narrative around laïcité, its particular brand of militant secularism, offers a good example of a once powerful narrative incapable of evolving to encompass change. The results on the institutions of the French Republic — chiefly, the alienation of a number of its non-secular citizens — are dramatic.  
 </p>  
@@ -137,13 +137,13 @@ The minute a narrative becomes fixed, i.e. appears incapable of accounting for, 
 <p>  
 Diverse nations (by that I mean nations for whom the absence of a homogenous population might have been an obstacle to the cohesion needed to live together peacefully under a set of shared national institutions) seem to have long recognised the value of a good narrative. The Canadian narrative on multiculturalism — in which a multicultural ‘mosaic’ leaves even greater room for adaptation and change — is a case in point, and a manifest success as evidenced, in part, in the readiness with which Canadians, both recent and long-established, cite it as Canada’s founding creed; they also readily cite the protection afforded by the Canadian Charter of Rights and Freedoms. But Canada’s multicultural narrative also seems capable of expanding — of encompassing new forms of diversity, new forms of the ‘new’.<a href="#notes"><sup class="#notes">3</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A powerful narrative, capable of evolving and accommodating new forms of diversity, is a key piece of institutional architecture.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 The Canadian mosaic, as it is known, is just under-specified enough to be powerful, because it remains accommodating. The narrowly defined linguistic multiculturalism of a few generations ago has gradually given way to a broader multiculturalism that addresses mega-trends that might have threatened the nation and its institutions: inequality, new demands for recognition, and new ways of formulating such demands. In the face of this, Canadian institutions continue to uphold multiculturalism: for every new challenge, there is a corresponding attempt to respond through the promotion and expansion of the multicultural narrative and its clockwork — but generous — logic. Whether in the face of terrorism (the role of Muslim community leaders is often pointed to in the surfacing of the so-called ‘Toronto 18’ plot in 2006) or in the face of the Syrian refugee crisis (strengthened by Canadian Prime Minister Trudeau’s presence at the airport in December 2015 to welcome the refugees with the words “You arrive as refugees, but you leave this airport as permanent residents of Canada”), multiculturalism is seen as an essential but accommodating narrative that underpins both behaviour and expectations. But it has changed: housing quotas are no longer quite as engineered, or engineered on the same basis as before. For example, Toronto Community Housing reflects a concern for new forms of discrimination and inequality along generational and income lines. It has become accepted that diversity runs deeper than race, or gender, that it can look different, or needs to be spotted through a different set of lenses.  
@@ -153,13 +153,13 @@ The Canadian mosaic, as it is known, is just under-specified enough to be powerf
 The point here is that a powerful narrative, capable of evolving and accommodating new forms of diversity, is a key piece of institutional architecture. Diversity will not cease to come up as a relevant issue, because we can expect some enormous changes ahead — in our family lives, in our working lives, in the way we move across the globe, and the way we choose to spend our time, our money, our energy. Our successful societies have given us more choice and more of a capacity for educated choices. This is bound to reshape the way in which we coalesce with one another, who we think is similar to us, whose differences we can relate to, and whose may seem increasingly alien. So importantly, while narratives need to adapt, they are also a powerful way to help us and our institutions adapt in the face of change. By continuing to maintain Offe’s necessary ‘democratic illusion’, strong adaptive narratives allow us to evolve with confidence, to change whilst remaining true to ourselves as collectives.  
 </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Catherine Fieschi</strong> is the Founder and Executive Director of Counterpoint, a London-based global cultural risk consultancy. As a political scientist, Catherine believes that rigorous social and cultural analyses can help leaders make better decisions, in both the public and private sectors. She advises business and political leaders around the world and serves regularly on government task forces.</p>  
   
-<hr>  
+</div>  
   
 <br>  
   
