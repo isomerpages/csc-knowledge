@@ -2,6 +2,8 @@ collections:
   ethos-issue-04:
     output: true
     order:
+      - "Governance at the Leading Edge: Black Swans, Wild Cards, and Wicked
+        Problems.md"
       - "Book Review: Public Services at the Crossroads.md"
       - What Does It Mean to Optimise Public Service Delivery?.md
       - "Integrated Service Delivery: The Australian Department of Human
