@@ -156,7 +156,7 @@ li {
 <hr>
 <h6>NOTE</h6>
 <ol>
-<li class="small-text">This game can be played at www.bbc.com/news/world-middle-east-32057601.</li>
+<li class="small-text">This game can be played at <a href="www.bbc.com/news/world-middle-east-32057601">www.bbc.com/news/world-middle-east-32057601</a>.</li>
 </ol>
 
 
