@@ -246,10 +246,10 @@ The campaign has allowed the Government to appreciate the value of face-to-face 
 </div>  
 <p> The PGP communication and outreach efforts have improved the Government’s approach to ground engagement; in the process, they have also enhanced public service delivery, strengthened citizen-centricity, and re-ignited community networks. The data and experience gleaned from this important initiative will help future efforts to understand, engage and serve citizens, as well as strengthen the planning of local programmes, and further improve last-mile service delivery and communication.  
 </p>  
-<hr>  
+<div class="author">  
 <h6>ABOUT THE AUTHOR</h6>  
 <p class="small-text"><strong>Lai Szu Hao</strong> is Lead Researcher at the Institute of Governance and Policy, Civil Service College. His research interests are in government communications and public sector governance. </p>  
-<hr>  
+</div>  
 <h6><a name="notes"></a>NOTES</h6>  
 <ol>  
 <li class="small-text">For more information, refer to www.pioneers.sg.</li>  
@@ -260,8 +260,6 @@ The campaign has allowed the Government to appreciate the value of face-to-face 
 <li class="small-text">The Singapore system may appear complicated when compared with universal healthcare coverage plans in other parts of the world, where no co-payment or a fixed co-payment is required. For instance, in Australia, the co-payment for each visit to the general practitioner is fixed at A$7, capped at A$70 a year for concessional patients.</li>  
 <li class="small-text">The PGO was set up to gather and train a group of volunteers called Pioneer Generation Ambassadors. It is a division under the People’s Association which is a Statutory Board under the Ministry of Culture, Community and Youth.</li>  
 </ol>  
-<br>  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>  
 
 
 
