@@ -84,9 +84,7 @@ li {
 
 
 
-
-<p class="small-text text"><strong>A guiding narrative based on people and shared values</strong><br>
-A reference narrative was developed to guide the overall planning of programmes and communications. Conceived as the story of Singapore’s people and the nation’s shared values (rather than the conventional storyline of economic and technical progress) it provided a coherent thread across the broad range of celebratory activities, with a crucial human touch.</p>
+<br>
 
 
 
