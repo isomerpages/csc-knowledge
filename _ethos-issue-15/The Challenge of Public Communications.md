@@ -78,12 +78,12 @@ li {
   
 <p>Button imparts insights that might prove useful to anyone new to the field of political communications. “Know your audience” is a key point of note — speeches need to speak to the concerns of audiences, avoid offending them and even, as a veteran political speechwriter counsels Button, “tell people something about themselves they had not thought of before”. Another might be to make sure that you can “hear the voice” of your client, and write using the vocabulary, metaphors and other turns of speech that come naturally to the speaker. “Be well read” might be a third. Political speechwriting almost always involves extensive research work, and speechwriters need to be able to draw on a vast array of material — facts, personal stories, historical narratives, imagery and metaphors — to effectively convey what they mean.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>The very people who are often most knowledgeable about policy and who can provide context that might illuminate public understanding of issues are also the least likely to share their knowledge in the public sphere. This contributes to a general lack of understanding about the work of bureaucracies.  
-</em></h5>  
+<p class="break1">The very people who are often most knowledgeable about policy and who can provide context that might illuminate public understanding of issues are also the least likely to share their knowledge in the public sphere. This contributes to a general lack of understanding about the work of bureaucracies.  
+</p>  
   
-<hr>  
+</div>  
   
 <p><em>Speechless</em>&nbsp;also describes the many communications challenges that policymakers might face today. Among these are the financial constraints that prevent media organisations from covering important stories well, the increasing scepticism of the public, and the 24-hour news cycle that encourages reactive rather than creative policymaking. These challenges are compounded, Button suggests, by the erosion of “informal contact between journalists, ministers and advisers”; journalists, rather than enjoying conversations with public servants, now only get “scripted briefings”. He laments that the very people who are often most knowledgeable about policy and who can provide context that might illuminate public understanding of issues are also the least likely to share their knowledge in the public sphere. Button suggests that this contributes to a general lack of understanding about the work of bureaucracies.</p>  
   
@@ -91,13 +91,13 @@ li {
   
 <p><em>Speechless</em>&nbsp;highlights some tensions between the ideals of political communication and the realities of working in public service. In dealing with these, Button is more descriptive than prescriptive — he leaves it to the reader to determine how they might, in their own contexts, resolve some of these issues. For instance, he acknowledges the need for speechwriters to “hear the voice” of their ministers. Button mentions reading the work of Peggy Noonan who wrote speeches for US Presidents Ronald Reagan and George H. W. Bush. She writes, in&nbsp;<em>On Speaking Well</em>&nbsp;(Regan Books, 1998), that speechwriters “have to literally be close to someone to get his sound”, that they “have to be exposed to him, sit in his office and hear him talk ... hear him answer the phone”. Yet, elected leaders are invariably very busy people. This, and the nature of their office, tends to isolate them not just from the public, but also from those who work for them. Similarly, speechwriters might hope that their literary flourishes survive the interventions of bureaucrats who are sticklers for accuracy and nuance. A stronger personality in a different political system, such as Noonan in the White House, might have insisted on being right beside the President and would have argued strenuously with interfering bureaucrats. Button can only wonder if he should have been more assertive with his Prime Minister.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">
 With an increasingly diverse population, it no longer makes practical sense to talk of a singular, monolithic “public”, or act as if a “silent majority” exists with views somehow distinct from the range of opinions already being expressed in public.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Button recounts Noonan’s observations about how an increased emphasis on profit-making in media has contributed to the growing prevalence of sound bites. It seems that one constant challenge of political communication is the need for the officers involved to continuously adapt to changing media landscapes. Singapore’s information officers are, in turn, learning to both communicate with a public that tunes into multiple channels for information and work in an environment which no longer allows the Government to control the public agenda. They will need to ensure the substantial quality and consistency of their communications amid diverse media, particularly given increasingly sceptical public demands for more timely, accurate and meaningful information. There may be a need for the Government to better anticipate and prepare for future developments in media.</p>  
   
@@ -105,13 +105,13 @@ With an increasingly diverse population, it no longer makes practical sense to t
   
 <p>Some questions linger for those interested in the challenges of political communication in Singapore. Can impartial career public servants who oversee government communications “care” about policies and politicians the same way as partisan speechwriters who are more vested in parties, ideologies or personalities? In fitting policy into narrative, how should public officers balance or differentiate between the political imperative to persuade and the ethical imperative to inform? Does the Singapore Public Service need dedicated speechwriters? If so, what institutional adaptations and career paths might be needed to afford speechwriters enough access to “hear the voice” of those for whom they write? Finally, given Button’s (and Noonan’s) suggestion that good communications are based upon excellent research and sense-making, what capacities does the Singapore Public Service need to develop in these areas in order to get political communications right?</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Dr Vernie Oliveiro</strong> is Lead Researcher at the Institute of Governance and Policy, Civil Service College. Her research interests include governance, political narratives and civil society. The views expressed herein are her own. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -119,7 +119,7 @@ With an increasingly diverse population, it no longer makes practical sense to t
 <li class="small-text">BBC, “The Thick of It”, Series 4 Episode 1, 8 September 2012. http://www.bbc.co.uk/ mediacentre/proginfo/2012/37/The-Thick-of-It.html.</li>  
 </ol>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
