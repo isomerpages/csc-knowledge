@@ -137,9 +137,6 @@ government?
 <p>(Source: <em>Public Services at the Crossroads,</em> p36)</p>
 
 
-
-
-
 <h3>PUBLISHING PUBLIC SERVICE PERFORMANCE</h3>
 
 <p>In spite of the negative notions and side-effects that could be brought about by adopting a “top-down” performance management style, the report is right to point out that performance targets will continue to play an important role in the design and delivery of public services. The rule of thumb is not to rely excessively on management by targets but to ensure that any performance target set should clearly indicate the key public objectives in each instance. </p>
@@ -148,8 +145,8 @@ government?
 
 <p>It is clear that with higher service expectations and greater general IT literacy the public will become more demanding of information about their public services, and be more able to access and interpret that information. Already, some private sector organisations (such as Dr Foster, an independent commercial provider of healthcare information <a href="http://www.drfoster.co.uk/">http://www.drfoster.co.uk</a>) have emerged to play an intermediary role in relation to public service information.</p>
 
-<hr>
 
+<div class="blue">
 <h5><em>
 The public will become more
 demanding of information
@@ -157,8 +154,8 @@ about their public services, and
 be more able to access and
 interpret that information.
 </em></h5>
+</div>
 
-<hr>
 
 <h3>PUBLIC SERVICE WORKFORCE—ADMINISTRATORS OF PUBLIC SERVICES</h3>
 
@@ -168,13 +165,14 @@ interpret that information.
 
 <p><em>Public Services at the Crossroads</em> highlights the difficulties of managing citizens’ expectations of public services, the importance of the public sector workforce as a determinant of both performance and perception of the public service as a whole. In the UK experience, public service reform initiatives seem geared towards finding an effective but often elusive balance between policy objectives, service provision and citizen expectations. If executed well and in the right spirit, the report asserts that efforts to improve service governance should help to strengthen trust (clarity of reform objectives, availability of public services performance to the public, and more citizen engagement) in government. If managed badly, delicate but critical changes, necessary to bring a nation to the next level of development, may falter or even fail.</p>
 
-<hr>
+
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Garvin Chow</strong> is a Manager in the Public Service Centre for Organisational Excellence, Civil Service College, Singapore. The views expressed in this article are his own.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
