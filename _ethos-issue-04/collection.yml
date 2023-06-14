@@ -2,4 +2,5 @@ collections:
   ethos-issue-04:
     output: true
     order:
+      - Reclaiming Public Administration.md
       - Editorial.md
