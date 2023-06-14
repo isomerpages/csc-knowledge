@@ -71,7 +71,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 16, Dec 2016</small></em>
-
+<img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
 
 <p>Technology has drastically shifted our ability to capture and analyse data. In recent decades the capability that has come to be known as <em>big data analytics</em> has evolved rapidly. While big data was originally viewed narrowly as a means for retailers to understand their customers better, insights drawn from collecting and analysing data can now deliver benefits across an expanding range of services. The impact of big data is being felt in corporations, governments, and even individual households. It has been applied in a wide range of activities, from remote monitoring of off-shore oil rigs to tracking health metrics using personal fitness bands.
