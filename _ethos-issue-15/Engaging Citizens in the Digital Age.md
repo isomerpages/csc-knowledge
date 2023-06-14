@@ -52,13 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #ececda;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: brown;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -77,15 +79,15 @@ li {
 Public engagement is not new to the Singapore government. With a vision to be “One Trusted Public Service with Citizens at the Centre”, our public agencies are continually monitoring and making sense of ground sentiments in the process of policy development and service delivery. The Public Service does not work in isolation, even though it is not always easy to get the whole public — including private individuals, businesses and civic groups — to fully appreciate all the considerations and trade-offs involved in policymaking. Nevertheless, effective public engagement results in better policies and services that take into account the needs of citizens in different circumstances. It can also increase mutual trust and shared ownership of policy outcomes, as more public issues become multi-dimensional and cut across traditional agency, demographic or sectoral boundaries.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 "We must be close to the ground, listening to feedback, sensing the deeper concerns that often underlie that feedback, and spotting the gaps in policy delivery that should not be there."  
-</em></h5>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Deputy Prime Minister Tharman Shanmugaratnam<a href="#notes"><sup class="#notes">1</sup></a> </p>  
   
-<hr>  
+</p><p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Deputy Prime Minister Tharman Shanmugaratnam<a href="#notes"><sup class="#notes">1</sup></a> </p>  
+  
+</div>  
   
 <h3>  
 Platforms to Engage the Public Over the Years  
@@ -110,7 +112,7 @@ As Singapore developed and the public became more educated and outspoken, commun
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Engaging the Nation: Our Singapore Conversation</h3>  
