@@ -151,8 +151,7 @@ public agencies.
 
 
 
-<p class="small-text text">Global market surveys have shown that citizens are concerned about their privacy: many fear personal data may be compromised and misused with the advent of big data analytics. As part of the effort to shape the volume and texture of data collected, governments must credibly assure individuals and corporations that all data collected and handled will be protected vigorously and not susceptible to manipulation or unauthorised access.</p>
-
+<br>
 
 
 
