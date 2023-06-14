@@ -224,8 +224,7 @@ Singapore hosted the SEA Games and ASEAN Para Games in June and December 2015, r
 
 
 
-<p class="small-text text"><strong>Government as Enabler</strong><br>
-The SG50 Celebration Fund, set up to support worthwhile ground-up initiatives to engage and connect Singaporeans in meaningful ways, attracted some 2,095 applications — 10 times the original forecast. A total of 420 projects were approved, each funded for up to $50,000. The success of the fund showed that Government can indeed help catalyse self-organising, ground-up initiatives that benefit society. A new $25-million Our Singapore Fund<sup>1</sup> has since been launched to sustain the momentum of active citizenry in shaping the future of Singapore.</p>
+<br>
 
 
 
