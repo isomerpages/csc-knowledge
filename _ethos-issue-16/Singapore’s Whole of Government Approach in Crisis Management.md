@@ -95,7 +95,7 @@ Public Service.<a href="#notes-6"><sup class="#notes-6">6</sup></a>
 
 
 
-<p class="small-text text">When the Hotel New World collapsed in 1986 trapping survivors in the rubble, the Executive Group (EG) was fortuitously in the midst of a routine meeting and was able to coordinate the multi-agency rescue efforts immediately. The Singapore Police Force, Singapore Fire Service and the recently-created Singapore Civil Defence Force responded immediately. The Singapore Armed Forces, Ministry of Health, Ministry of Community Development, Public Works Department and other agencies were also mobilised to provide additional manpower, medical support, counselling for families of victims and engineering support. It was effectively a WOG operation. In all, 33 died but 17 lives were saved. The disaster vindicated earlier decisions to develop crisis response capabilities, as well as the effectiveness of the EG in coordinating inter-agency responses.</p>
+<br>
 
 
 
