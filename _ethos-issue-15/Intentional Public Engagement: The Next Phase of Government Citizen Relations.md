@@ -52,13 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #ececda;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #b192a4;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -99,13 +101,13 @@ mitigate the impact on segments of the public who may be adversely affected by t
 Agencies typically engage stakeholders around their specific policies and programmes, rather than from the citizens’ perspective. But the issues that citizens grapple with are not always neatly organised by agency policy domains; often, their needs cut across agency mandates and boundaries. In tandem, government policies have grown increasingly complex and often require significant inter-agency collaboration at the policy level (e.g., Medishield Life, CPF).  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Public agencies could collaborate better on public engagement efforts, which are often not as wide or deep as they could be.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 The way the Government engages the public must similarly take on a collaborative approach: rather than adopting a reductionist approach, we should create opportunities for agencies to engage the public on broad cross-cutting issues, organised from the citizens’ point of view instead of through an institutional lens. This approach  
@@ -121,12 +123,12 @@ will help policymakers connect with citizens better, and develop a more comprehe
   
   
   
-<p class="small-text text">   Public engagement has been an important element of the policy development and implementation process since Singapore’s independence. In the early years of nation-building, the People’s Association was established to engage with citizens on national policies. It helped to explain the rationale behind some of the less popular ones, and demonstrated the Government’s concern for the public. The feedback that was gathered from citizens helped to refine policies and their implementation.</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Public Engagement Past and Present</h3>  
@@ -171,13 +173,13 @@ To this end, Singapore’s public sector has started investing in stronger coord
 for collaboration. The Committee on Citizen Engagement (CCE) under the PS21 Executive Committee will provide strategic guidance and coordination on Whole-of-Government engagement issues. It will work with agencies across government to build the spectrum of capabilities needed to involve citizens meaningfully in dialogue, co-creation and co-delivery. The CCE will also help agencies embed public engagement in their priorities, workplans and processes, and depending on their context and needs,includepublicengagementat various points of the policy cycle. This will include increasing meaningful and sustainable opportunities for citizen participation in the public sector.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Clear and intentional public engagement and communications on issues of importance to the public should be regarded as critical elements of the policy process.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Public engagement is core to the work of Singapore’s public sector, and we need to sustain our efforts over the long term, across all our agencies. Senior leaders in government and leaders at all levels must have a deep understanding of the interplay between public engagement, public communications, policy development and  
 delivery, and intentionally weave these elements together. Public engagement practitioners and middle management in agencies should reach out to their counterparts across the Public Service to seek better overall policy outcomes for their agencies. Most critically, public engagement will only succeed if public officers are sincere, have a good understanding of citizens’ concerns and are able to connect with empathy. Our aim is to work in partnership with our citizens to build a more resilient and cohesive society.</p>  
@@ -190,9 +192,6 @@ delivery, and intentionally weave these elements together. Public engagement pra
   
 <p class="small-text"><strong>Yeoh Chee Yan</strong> is Permanent Secretary at the Ministry of Culture, Community and Youth. She chairs the Committee on Citizen Engagement under the PS21 Executive Committee, which provides strategic guidance and coordination on whole-of-government engagement issues. </p>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
