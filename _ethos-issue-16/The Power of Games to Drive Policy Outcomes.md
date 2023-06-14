@@ -205,12 +205,12 @@ li {
 <hr>
 <h6>NOTE</h6>
 <ol>
-<li class="small-text">This game can be played at http://sffededucation.org/chairthefed/WebGamePlay.html.
+<li class="small-text">This game can be played at <a href="http://sffededucation.org/chairthefed/WebGamePlay.htm">http://sffededucation.org/chairthefed/WebGamePlay.html</a>.
     </li>
 <li class="small-text">Glenn Rudebusch, Executive Vice President at the Federal Reserve Bank of San Francisco.</li>
-<li class="small-text">More information can be found at https://hackerone.com/resources/hack-the-pentagon.</li>
-<li class="small-text">More information can be found at https://www.wired.com/2016/03/uber-bug-bounties/</li>
-<li class="small-text">More information can be found at www.climatecentre.org/resources-games/games</li>
+<li class="small-text">More information can be found at <a href="https://hackerone.com/resources/hack-the-pentagon">https://hackerone.com/resources/hack-the-pentagon</a>.</li>
+<li class="small-text">More information can be found at <a href="https://www.wired.com/2016/03/uber-bug-bounties/">https://www.wired.com/2016/03/uber-bug-bounties/</a></li>
+<li class="small-text">More information can be found at <a href="www.climatecentre.org/resources-games/games">www.climatecentre.org/resources-games/games</a></li>
 </ol>
 
 
