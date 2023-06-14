@@ -127,7 +127,7 @@ expressing appreciation and respect in a personal way, which would not have been
   
 <br>  
   
-<img title="iss15art4fig3a" src="../../images/default-source/default-album/iss15art4fig3a.jpg?sfvrsn=d08456bc\_0" data-displaymode="Original" alt="Pioneer Generation Baseline Survey by the Ministry of Communications and Information and the Ministry of Finance (MOF), July to September 2014.">  
+<img title="iss15art4fig3a" src="images/Ethos_Images/Ethos_Issue_15/Ethos_Issue_15_Graph.PNG" data-displaymode="Original" alt="Pioneer Generation Baseline Survey by the Ministry of Communications and Information and the Ministry of Finance (MOF), July to September 2014.">  
 <sub><br>  
 </sub>  
   
