@@ -134,56 +134,9 @@ government?
 
 <p>(Source: <em>Public Services at the Crossroads,</em> p36)</p>
 
-<table width="100%" class="breadcrumb" border="0">
-<tbody>
-<tr>
-<td colspan="2">&nbsp;</td>
-</tr>
-<tr>
-<td valign="top" style="background-color: #0099ff; width: 192px;">
-<h4>THE PROBLEM</h4>
-</td>
-<td style="background-color: #0099ff; width: 339px;">
-<h4>EXAMPLE</h4>
-</td>
-</tr>
-<tr valign="top">
-<td style="background-color: #33ccff; height: 87px;"><span class="mainTEXT"><strong class="mainTEXT">Tunnel vision:</strong> Concentrating on what is included in the performance indicator to the exclusion of other important considerations</span></td>
-<td style="background-color: #33ccff;">
-<span class="mainTEXT">Attempting to meet the high-profile target for five A-C grade General Cerificate of Secondary Education (GCSE) passes has incentivised schools to focus on those on the C/D margin. Evidence suggests that very low-achieving pupils have, as a result, not shared in educational gains.</span>
-</td>
-</tr>
-<tr valign="top" bgcolor="#0099ff">
-<td style="height: 99px;"><span class="mainTEXT"><strong class="mainTEXT">Measure fixation:</strong> Focusing only on measured outcomes—hitting the target but missing the point</span></td>
-<td><span class="mainTEXT">The target to see a general practitioner (GP) within two working days led to some practices refusing to book more than two days in advance. 30% of patients surveyed in 2005 reported that their general practice did not allow them to make an appointment three or more days in advance.</span></td>
-</tr>
-<tr valign="top" bgcolor="#33ccff">
-<td style="height: 112px;"><span class="mainTEXT"><strong>Gaming:</strong> Getting round the system by altering behaviour to obtain strategic advantage</span></td>
-<td><span class="mainTEXT">In order to meet targets for total time at Accident and Emergency (A&amp;E), gaming behaviour included requiring patients to wait in ambulance queues until the hospital was confident that they could be seen in under four hours, and the performance of cancelling scheduled operations and drafting in extra staff over the period was measured.</span></td>
-</tr>
-<tr valign="top" bgcolor="#0099ff">
-<td style="height: 101px;"><span class="mainTEXT"><strong>Data misrepresentation:</strong><br>
-            A spectrum of behaviours from “creative accounting” to fraud</span></td>
-<td><span class="mainTEXT">Auditors found evidence that 12 National Health Service (NHS) Trusts had adjusted their waiting lists ‘inappropriately’ for the two hospital waiting time targets. In 2004/5, officially 96% of patients at A&amp;E were seen in under four hours, but the survey-reported level was only 77%.</span></td>
-</tr>
-<tr valign="top" bgcolor="#33ccff">
-<td style="height: 84px;"><span class="mainTEXT"><strong>Myopia: </strong>Concentrating on short-term issues and ignoring long-term risks</span></td>
-<td><span class="mainTEXT">Waiting-time targets for new ophthalmology outpatient appointments had been achieved by cancellation and delay of follow-up appointments, on which there were no targets. At least 25 patients had lost their vision over two years as a result.</span></td>
-</tr>
-<tr valign="top" bgcolor="#0099ff">
-<td style="height: 143px;"><span class="mainTEXT"><strong>Sub-optimisation: </strong>The pursuit of narrow objectives, at the expense of strategic coordination and goals</span></td>
-<td><span class="mainTEXT">Managers in the NHS were ladened with performance targets and required to ensure financial viability amongst the projects in their portfolios. When managers discovered that Primary Care Trusts were accorded low priority in the NHS balance sheet (and could therefore be deprioritised without affecting their bottomline), the proportion of Trusts left to “significantly underachieve” in financial performance rose from 3% in 2001 to 30% in 2005.</span></td>
-</tr>
-<tr valign="top" bgcolor="#33ccff">
-<td style="height: 85px;"><span class="mainTEXT"><strong>Convergence:</strong> Also known as “threshold effects”, where targets do not provide incentives for those performing above the target level</span></td>
-<td><span class="mainTEXT">Waiting times in A&amp;E departments have converged just below the four-hour target.</span></td>
-</tr>
-<tr valign="top" bgcolor="#0099ff">
-<td><span class="mainTEXT"><strong>Ossification:</strong> A disinclination to experiment with new and innovative methods</span></td>
-<td><span class="mainTEXT">A poorly designed pupil assessment regime in English schools has led to shallow, narrow teaching in pursuit of gains in test results. In tight target regimes, budgets for research and development necessary for innovation have been cut to focus resources on essential work to meet targets.</span></td>
-</tr>
-</tbody>
-</table>
+
+
+
 
 <h3>PUBLISHING PUBLIC SERVICE PERFORMANCE</h3>
 
