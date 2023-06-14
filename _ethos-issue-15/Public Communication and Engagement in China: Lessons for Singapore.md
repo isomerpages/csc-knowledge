@@ -106,13 +106,13 @@ Indeed, the CCP seems to have succeeded in marketing its style of governance, no
 <p>While China maintains tight control over the communication of its ideology and image, including wielding internet restrictions such as the “Great Firewall” that filters out undesirable content, one prominent development in China’s model of public engagement is how the government has embraced the internet and social media. Prompted in part by the strong anti-establishment culture on the internet, the government invested significant effort to develop its online communication capability.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The Chinese government has facilitated the development of alternative platforms such as Weibo and WeChat where it can exercise far greater control over the content and remove unfavourable messages if required.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Chinese President Xi Jinping experimented with crafting his online persona as one who is down-to-earth and sympathetic to the concerns of the average Chinese citizen. When he visited a popular eatery in Beijing, an influential internet commentator “coincidentally” ran into the President and posted, on Weibo, images of Xi Jinping queuing up at the eatery, paying for his food and sitting down to eat with other customers. Within minutes, official media outlets including Xinhua and CCTV reposted on their platforms and the image of China’s top leader personally queuing up at an eatery started spreading on China’s social media. Xi’s publicity campaign generated positive public responses on the Chinese internet.  
 </p>  
@@ -144,13 +144,13 @@ In Singapore, public communications have extended to the internet and social med
 <p>Yet even as the Chinese government adopts tight monitoring and interventionist measures, including the routine filtering of internet content to discourage certain discussion threads, it knows that netizens are becoming increasingly sophisticated and creative at getting around such measures, for example using homonyms in place of phrases that might be filtered by the authorities. While the government has been resolute in quelling discussions that directly challenge its legitimacy or that incite social disturbances, it has been relatively tolerant of criticisms of the government or its policies, which abound on the internet and social media.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Both state and society use the internet as a tool to expand their respective spheres of influence; the Chinese government realises that this is not a zero-sum game.  
-</em></h5>  
+	</p>  
   
-<hr>  
+</div>  
   
 <p>The government realises that the internet can be harnessed in its favour, to better understand the people’s sentiments  
 in order to meet their legitimate needs. They have been open to suggestions to improve public administration and have been keen to demonstrate responsiveness on issues at the top of people’s minds, for example, corruption, environmental pollution, and food safety. Paradoxically, the unfettered voicing of public opinion has the potential to undermine the stability of the Party’s rule, and the CCP does not hesitate to deal with these in a heavy-handed way when its security is threatened.  
@@ -162,7 +162,7 @@ in order to meet their legitimate needs. They have been open to suggestions to i
 <p>Singapore has likewise become more sophisticated in our attitude towards, and use of, the internet. Singapore has been using technology to conduct sentiment analyses of internet and social media content to understand people’s responses to various policies and programmes. This allows the government to gauge understanding (or lack thereof) of national issues, and respond accordingly. At the same time, the internet occasionally becomes a forum for vitriol, rumours and untruths to spread. While regulation is one possible response, it may eventually be more effective and sustainable to encourage the development of a more civil and responsible internet space that allows for meaningful dialogue to take place.  
 </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -172,7 +172,7 @@ in order to meet their legitimate needs. They have been open to suggestions to i
   
 <p class="small-text">This article was adapted from a research paper produced in the course of Ms Tan’s participation in the Lien Ying Chow Legacy Fellowship with the Nanyang Technological University. The views expressed are the authors’ own and may not reflect those of their respective organisations.</p>  
   
-<hr>  
+</div>  
   
 <br>  
   
@@ -184,9 +184,6 @@ in order to meet their legitimate needs. They have been open to suggestions to i
 <li class="small-text">Zhou Zhaocheng, “The Role of Social Media in China’s Political Communication”, in <em>China’s Socio-Political Reforms: Evolutionary or Revolutionary? </em>(Singapore: Civil Service College, 2015): 95–111.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
