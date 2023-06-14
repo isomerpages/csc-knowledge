@@ -31,22 +31,18 @@ padding: 30px;
 	font-size: 24px;
 }	
 
-.boxheader {
-	color: white !important;
+.australian-department h3,.australian-department p,.australian-department li,.australian-department strong 
+	{
+	color: white;
 	}	
 
-.containerbox {
-	background-color: #B7C9E2;
-	border-radius: 10px;
+.australian-department 
+	{
+	background-color: #6a4073;
 	padding: 5%;
 	margin-top: 5%;
-	
 	}	
 
-li {
-	font-size: 15px !important;
-	
-	}	
 	
 .notestop
 {
@@ -140,9 +136,7 @@ current accessibility.
 <p class="small-text text">The Department of Human Services (DHS) was created on 26 October 2004 to achieve improved governance, clearer accountability and better performance in government service delivery by:</p>
 
 
-
-
-<div class="container">
+<div class="australian-department">
 
 
 <h3 class="title">THE AUSTRALIAN DEPARTMENT OF HUMAN SERVICES</h3>
