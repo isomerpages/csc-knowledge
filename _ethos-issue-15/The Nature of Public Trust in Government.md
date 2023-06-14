@@ -74,13 +74,13 @@ li {
   
 <p>We are really not sure what is going on in developed and developing nations. In the United States (US), the high point of trust in the government was in the 1950s. It began to fall in the 1960s and the approximate cause was not the Vietnam War; it was civil rights. Vietnam did contribute to further erosion, as did the Watergate scandal and Nixon’s resignation. We did not have great authority figures to guide us as Singapore had and still has, but history has a way of working its will through demographic replacement, through technological change, through increased diversity. Of course, the US has always had a fair amount of ambivalence about how strong the government should be. In a sense, the future of Singapore’s trust in government is based in part on the fact that you already have trust in government. It’s hard to hold on to something of great value when you no longer have the shared experience of having lived through historical or period effects of the kind we see in generational displacements. So in the US we have the concept of the Greatest Generation, which was my father’s generation, who went through the Depression and World War II. This is also the generation that is dying out, so you lose some historical anchors, along with the social capital and bonds that tie people and governments together. In the same way, twenty years from now, will people remember what Singapore was like twenty years ago?</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 In the US and Western Europe: people still have good experiences with government but they will attribute the experience to good luck or a fluke.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>I would not predict that your trust in government is going to fall, but it will only stay up if you respond to prevailing social and historical drivers. Right now we are in a setting where access to information is great, and public expectations in terms of speed, of transaction, quality of interaction, transparency, opportunity for free expressions and so forth, are high. Like it or not, these expectations exist and if governments don’t keep up, then they become a representation of the old stodgy past. And then even if they are effective, they are seen as being effective by accident. That’s one of the things you see in the US and Western Europe: people still have good experiences with government but they will attribute the experience to good luck or a fluke, because the reputation of government has become so bad. You have to be very careful about that.</p>  
   
@@ -91,13 +91,13 @@ In the US and Western Europe: people still have good experiences with government
 <p>Performance talks, and that’s what people remember. It’s the story; it’s the dog that doesn’t bark that is important to trust in government. You must do your jobs well, and you have to take distrust as a natural part of the process. When something goes wrong, as it inevitably does from time to time, you must respond to it with candour. What we often lack in government is the willingness to admit a mistake. We don’t do that very well.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 You must do your jobs well, and you have to take distrust as a natural part of the process. When something goes wrong, as it inevitably does from time to time, you must respond to it with candour.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Now more often than not, it is the bad stories that show up in the media. It’s not a functional lack of good news but the nature of the media. After the Challenger space shuttle accident, it became clear from the subsequent investigation that it could have been prevented, but dissent had been suppressed internally, leading to the accident. Later, NASA launched another space shuttle successfully but the news was still negative: that the shuttle did not blow up. The positive outcome became an opportunity to rehash the tragedy again.</p>  
   
@@ -109,13 +109,13 @@ You must do your jobs well, and you have to take distrust as a natural part of t
   
 <p>That said, I think there is a hierarchy of performance. Public agencies should pursue zero failures, Six Sigma performance, zero tolerance for poor service, and so on. You should always aim for 100% accuracy and quality of service — that subway should always be on time, period. If you lower those expectations, you are on a slippery slope and you will eventually reach zero. Now is that going to affect trust in government measured by ordinary survey research? Probably not.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">   
 Trust in government is not a good indicator of whether or not government is trustworthy or whether government is performing.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Our research on trust in governments suggests that it’s an amalgam of variables that are well beyond the reach of governments’ day-to-day performance — trust in government is not a referendum on government performance nor is it a referendum on media coverage. It’s an amalgam of how you feel about many things, from what happened in the grocery store to what happened at the airline counter, for example.</p>  
   
@@ -132,19 +132,19 @@ of the sum total of its systems and its cohesion — but that is going to be tes
   
 <p>It is also up to government to deliver on promises made. There’s no excuse for not doing so. If the promise needs to be changed, you need to talk about the cost and benefits of doing so and what will have to be given up in order to get it. You set goals, meet them and then you can have a conversation about whether the goals need to be reset. You pledge that the trains will come every ten minutes but they will be on time. And then we can talk about what the cost is to society, who is going to have to pay for it to come every five minutes. But if you go down to that train at rush hour in the morning and you have to use your elbows to get onto the train and government isn’t watching, then you are creating an impression, but not one that you hope for: the impression is that government isn’t paying attention. It doesn’t matter if your trains have nice straps and interiors and so on: the purpose of the subway train is not to make government feel good about how effective it is at purchasing train cars.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">    
 Over-promising is more of a problem than under-promising, but under-promising creates an expectation that government is not very competent.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>So you have to work through the priorities and trade-offs. However, my experience has been that working through the priorities from on high through an opaque process, where nobody understands how you reach that decision, is a source of skewed expectations: <em>I was not involved in that decision, they did not take my views into account, they are not listening to me, etc</em>. You should deliver on your promises and then decide whether or not you’ve promised too much or too little. Over-promising is more of a problem than under-promising, but under-promising creates an expectation that government is not very competent. So find the point of compromise where the promise is accurate, honoured and appropriate: this is part of government. This is what makes Singapore special.</p>  
   
 <p>The government is going to be tested in coming decades as generations replace each other, each bringing a different set of problems. The good news: Singapore has a generation in place and set to lead government in future, who are much more technologically savvy than the generation which is currently running government right now. Singapore doesn’t face a single future, nor even two or three futures. It faces a thousand futures squared and you must understand which future you wish to pursue and which you wish to avoid. You can look at the trends and see the stresses coming. You can better understand, through rigorous methodologies, what the shock absorbers have been and will be in the Singapore system. You have the tools do the robust modelling to see what the futures look like and to hedge against the downside futures and to shape for the upside. That’s where Singapore needs to focus.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -154,8 +154,7 @@ Over-promising is more of a problem than under-promising, but under-promising cr
   
 <strong>  
 </strong>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+</div> 
 
 
 
