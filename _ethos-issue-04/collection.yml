@@ -2,6 +2,7 @@ collections:
   ethos-issue-04:
     output: true
     order:
+      - Reinventing Singapore’s Electronic Public Services.md
       - Leveraging Networks for Public Service Delivery.md
       - Creating and Measuring Public Service Value.md
       - Not Just Service Delivery.md
