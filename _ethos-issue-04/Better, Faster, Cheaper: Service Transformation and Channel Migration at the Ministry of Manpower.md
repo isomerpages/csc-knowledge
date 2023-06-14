@@ -159,11 +159,6 @@ border-top: 1px solid black;
 
 </div>
 
-
-
-
-
-
 <h3>TOWARDS HIGHER SERVICE QUALITY</h3>
 
 <p>MOM’s customer responsiveness approach has borne fruit. Customer perception survey results have shown steady improvements over the years, with the percentage of satisfied customers increasing from 91.2% in 2006 to 93.2% in 2007. MOM scored well in the annual Pro-Enterprise Ranking (PER) survey amongst businesses, rising from a PER index of 72.5 in 2006 to 74.6 in 2007. In recognition of the management systems and processes in place for service excellence, MOM was also awarded the Singapore Service Class certification in November 2007.</p>
@@ -182,7 +177,7 @@ border-top: 1px solid black;
 
 
 
-<div class="container">
+<div class="work-permit">
 
 
 <h3 class="title">PERSONALISED ASSISTANCE: THERE WHEN NEEDED</h3>
@@ -202,13 +197,14 @@ border-top: 1px solid black;
 
 
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Penny Han</strong> is Director of the Customer Responsiveness Department in the Ministry of Manpower. She is concurrently the Quality Service Manager and Director, (Applications and Processing) Work Pass Division in the same Ministry. Ms Han has more than 20 years’ experience in the public service, in employment-related matters, spanning labour relations, labour prosecution, work injury compensation and work pass administration.</p>
 
-<hr>
+</div>	
+
 
 <h6><a name="notes"></a>NOTES</h6>
 
