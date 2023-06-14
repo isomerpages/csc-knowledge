@@ -125,7 +125,7 @@ the people whose needs we are serving.
 
 
 
-<p class="small-text text">The PTC also engaged stakeholders such as the Land Transport Authority, National Taxi Association, National Transport Workers’ Union and public transport operators, sharing with them what we had learnt, and seeking their side of the story on issues raised by commuters.</p>
+<br>
 
 
 
@@ -134,6 +134,8 @@ the people whose needs we are serving.
 
 
 <h3 class="title">DIVERSE VIEWS MAKE FOR BALANCED RECOMMENDATIONS</h3>
+<p class="small-text text">The PTC also engaged stakeholders such as the Land Transport Authority, National Taxi Association, National Transport Workers’ Union and public transport operators, sharing with them what we had learnt, and seeking their side of the story on issues raised by commuters.</p>	
+	
 <p>
 For example, wheelchair users said that they found it difficult to hail taxis on the street, as taxi drivers avoided picking them up. When we discussed this with taxi drivers, we saw the issue from their perspective: they shared that they received training on how to handle wheelchairs but not the person, and were afraid of injuring them. We then recommended that taxi operators collaborate with disability agencies to provide sensitivity training and disability etiquette training for taxi drivers.
 </p>
