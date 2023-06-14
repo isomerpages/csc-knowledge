@@ -126,13 +126,13 @@ both. The coming together of both cultures defines them and their beliefs. Indee
 <p>The implication is that if policies make it hard for Singaporeans with foreign spouses to settle in Singapore, the entire household may leave, or those that are already resident overseas will not return. Particularly with Singapore’s already low fertility rates, we cannot afford to lose any more Singaporean sons and daughters who might otherwise be ready to come home.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 We cannot afford to lose any Singaporeans if we can help it; social policies need to reflect and cater to the diverse reality of our households today.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Professor Straughan also recounts her son’s story, who had to choose between a Singaporean and an American citizenship after having been born and  
 schooled in Singapore and completing National Service. It was a difficult decision both for him and the entire family. There was a deep sense of resentment at being forced to choose only one citizenship when he had, all his life, held dear both his Singaporean and American roots — it was like being asked to chop off a limb. While she believes that such situations should be considered on a case-by-case basis, the last thing we want is for children from bicultural families to withdraw from the conversation, because they have been forced into a no-win situation, for instance by current policies against dual citizenship. We cannot afford to lose any Singaporeans if we can help it; social policies need to reflect and cater to the diverse reality of our households today.  
