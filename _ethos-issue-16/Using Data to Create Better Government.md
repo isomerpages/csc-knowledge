@@ -260,7 +260,7 @@ which attracts the best talent.
 
 
 
-<p class="small-text text">As part of its Smart Nation initiative, Singapore is building a nationwide infrastructure to enable better sensing of how the city works, and to optimise the running of smart city services. Singapore is putting in place systems to collect data, perform analytics to interpret real-time data as far as possible, and ultimately, to visualise insights to help public agencies make better planning decisions, and enhance their operations.</p>
+<br>
 
 
 
