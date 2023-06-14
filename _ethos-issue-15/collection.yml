@@ -1,4 +1,5 @@
 collections:
   ethos-issue-15:
     output: true
-    order: []
+    order:
+      - Risk Ready Leadership.md
