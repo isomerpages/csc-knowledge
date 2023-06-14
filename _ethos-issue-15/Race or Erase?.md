@@ -96,13 +96,13 @@ Do Our Race-based Policies Continue to Serve Us Well?
 <p>Systems and policies do find a way to work themselves out, but the concern is whether our systems and policies perpetuate a false sense of security about the level of social cohesion we have achieved, or whether they serve to create an exclusive identity of what a Singaporean is — permanently excluding anybody who falls outside that definition.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Some differences cannot simply be papered over with labels. I suspect we would all feel very much less Singaporean if we were to remove our collective multiracial identity  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>For the family from the Philippines who have become Singapore citizens, will their children be forced to learn Mandarin, Malay or Tamil as their mother tongue language, as Tagalog is not offered in our schools? If I am neither Chinese, Malay, Indian nor Eurasian, which self-help group should I approach for help? Should the newly wed Chinese-Indian couple apply for their first BTO flat as Chinese or Indian? Does it matter which race they subscribe to more, or which race allows them an advantage with the quotas and better access to their dream flat? Is this fair to the couples who do not have such flexibility of choice?  
 </p>  
