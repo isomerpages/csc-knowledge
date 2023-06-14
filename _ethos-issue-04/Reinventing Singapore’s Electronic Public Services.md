@@ -89,7 +89,7 @@ color: white;
 </style>
 
 
-<em><small>ETHOS Issue 04, April 2008</small></em>
+<em><small>ETHOS Issue 04, Apr 2008</small></em>
 <img src="/images/Ethos_Images/Ethos_Issue_04/ReinventingSingapore.jpg">
 
 
