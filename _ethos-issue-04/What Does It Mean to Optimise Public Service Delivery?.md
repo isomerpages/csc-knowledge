@@ -91,7 +91,7 @@ li {
 
 
 
-<em><small>ETHOS Issue 03, Apr 2008</small></em>
+<em><small>ETHOS Issue 04, Apr 2008</small></em>
 <img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
 
