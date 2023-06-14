@@ -2,6 +2,7 @@ collections:
   ethos-issue-15:
     output: true
     order:
+      - When the Government Goes Online.md
       - Communicating to Our Pioneer Generation.md
       - "Public Communication and Engagement in China: Lessons for Singapore.md"
       - The Challenge of Public Communications.md
