@@ -52,9 +52,9 @@ font-family: Georgia;
 	color: white !important;
 	}	
 	
-.green
+.red
 {
-background-color: #B0BC4C;
+background-color: #9D090D;
 padding: 30px;
 margin-top:20px;
 font-family: Georgia;
@@ -63,7 +63,7 @@ font-style: italic;
 text-align: center;
 }
 		
-.green h5
+.red h5
 {
 color: white;	
 }				
@@ -113,7 +113,7 @@ li {
 
 <p>Without an explicit way of determining the ideal state of service provision vis-à-vis public interest, perceptions are being shaped by a vocal few, and agencies are susceptible to pressure applied by this vocal minority. Better service invariably comes at a price (i.e., requiring more resources), and the question often neglected is: who actually benefits, and who is paying for it?</p>
 
-<hr>
+<div class="red">
 
 <h5><em>
 Customer satisfaction is about
@@ -121,7 +121,7 @@ giving customers what they
 need, when they need it.
 </em></h5>
 
-<hr>
+</div>
 
 <h4>2. Should it be handled with CARE?</h4>
 
@@ -139,15 +139,15 @@ need, when they need it.
 
 <p>The size and nature of the Public Service do not lend itself well to rigid standardisation and normalisation. This is a good thing, as we increasingly rely on the creativity, dynamism and boldness of our agencies to carry out their duties in this constantly changing environment. The same goes for service excellence. Agencies should be allowed to improve and improvise at their own pace, governed by a central strategic directive. However, the greatest challenge with that is that perceptions of the Public Service are shaped by the “weakest link”. This has been demonstrated by lapses in the “No Wrong Door” policy,<a href="#notes"><sup>2</sup></a> where customer satisfaction plummets at the point where the policy is disregarded, when the first officer “drops the ball”.</p>
 
-<hr>
 
+<div class="red">
 <h5><em>
 Perceptions of the Public
 Service are shaped by the
 “weakest link”.
 </em></h5>
+</div>
 
-<hr>
 
 <p>One way to address this is to resist the urge to roll out blanket service improvement initiatives which agencies have to follow, and instead use a more targeted approach to achieve predefined Whole-of-Government outcomes. Attention and resources should be given to critical areas, such as supporting agencies that require more assistance, or building necessary infrastructure to aid agencies’ efforts. In essence, we need to articulate a credible Whole-of-Government vision of service excellence, facilitate the realisation of that vision, and then just trust our agencies to do the right thing.</p>
 
