@@ -121,8 +121,7 @@ To mitigate potential risks, contingency planning was taken seriously throughout
 
 
 
-<p class="small-text text"><strong>Multi-agency coordinating structure to facilitate planning and execution</strong><br>
-A central coordination platform comprising multi-agency representatives formed the backbone of the organising structure of mega events under SG50. Roles were identified based on the strengths of each agency, for example: People’s Association’s extensive experience in community engagement, the Home Team in handling public safety and security, and the Ministry of Communications and Information in public communications. Within the central coordinating team, regular communications was integral in keeping everyone posted on developments, facilitating coordination and anticipating issues. Agencies also set aside or modified their agendas in order to achieve more impactful, whole-of-government outcomes. For example, the Urban Redevelopment Authority adjusted their plans for the launch of the Jubilee Bridge in order to accommodate the Jubilee Big Walk<sup>1</sup> in November 2015.</p>
+<br>
 
 
 
