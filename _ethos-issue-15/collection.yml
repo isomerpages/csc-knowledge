@@ -2,5 +2,6 @@ collections:
   ethos-issue-15:
     output: true
     order:
+      - Survey of Fairness Perceptions in Singapore Public Policy.md
       - Uniquely Singapore, Uniquely CPF.md
       - Risk Ready Leadership.md
