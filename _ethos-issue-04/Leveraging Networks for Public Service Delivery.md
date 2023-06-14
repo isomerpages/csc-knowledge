@@ -41,6 +41,9 @@ color:white
 	list-style-type: lower-alpha;    
 }	
 	
+
+	
+	
 .author
 {
 border-bottom: 1px solid black;
@@ -92,13 +95,15 @@ font-size:16px;
 
 
 <div class="evolution-of-public-service">
+	
 <h3 class="title">FIGURE 1. EVOLUTION OF PUBLIC SERVICE DELIVERY NETWORK–A MODEL</h3>
 
 <br>	
 	
 <div class="grid-container">
-	<div>
-	<img src="/images/Ethos_Images/Ethos_Issue_04/Fig_6e11.jpg">
+	
+<div>	
+<img src="/images/Ethos_Images/Ethos_Issue_04/Fig_6e11.jpg">
 <br>
 <ul>
 		<li>Agencies function as separate silos</li>
@@ -106,7 +111,6 @@ font-size:16px;
 		<li>Little or no cross-agency sharing and coordination in service delivery</li>
 		<li>No evidence of a service delivery network</li>
 </ul>
-		
 </div>
 
 	
@@ -122,8 +126,6 @@ font-size:16px;
 </div>
 
 </div>
-
-<div class="evolution-of-public-service">
 
 <br>	
 	
@@ -279,4 +281,4 @@ that can tap on it.
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></div></div>
+</div></div>
