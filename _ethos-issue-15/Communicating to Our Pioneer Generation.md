@@ -230,7 +230,7 @@ This long-standing moratorium on the use of dialects was waived for the PGP camp
   
 <br>  
   
-<img title="iss15art4fig4a" src="../../images/default-source/ethos-images/ethos-issue-15/iss15art4fig4a.jpg?sfvrsn=c03c7d42\_0" data-displaymode="Original" alt="Pioneer Generation Ambassadors: The Roles that Evolved to Fill Gaps."><sub><br>  
+<img title="iss15art4fig4a" src="/images/Ethos_Images/Ethos_Issue_15/ISS15_Art4_Fig4a.jpg" data-displaymode="Original" alt="Pioneer Generation Ambassadors: The Roles that Evolved to Fill Gaps."><sub><br>  
 </sub>  
 <p>&nbsp;</p>  
 <p class="small-text"><strong>Figure 3.</strong> Pioneer Generation Ambassadors: The Roles that Evolved to Fill Gaps.<br>  
