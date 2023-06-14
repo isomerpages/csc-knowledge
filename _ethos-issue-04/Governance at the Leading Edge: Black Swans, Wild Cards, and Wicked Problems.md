@@ -66,12 +66,12 @@ font-size:16px;
 
 <p>At a Pentagon briefing in 2002, Donald Rumsfeld, then Secretary of Defense, said</p>
 
-<h4><strong><em>"Reports that say that
+<h4><em>"Reports that say that
 something hasn’t happened are always interesting to me because as we
 know, there are known knowns; there are things we know we know. We also
 know there are known unknowns; that is to say we know there are some
 things we do not know. But there are also unknown unknowns–the ones we
-don’t know we don’t know."</em></strong></h4>
+don’t know we don’t know."</em></h4>
 
 
 
