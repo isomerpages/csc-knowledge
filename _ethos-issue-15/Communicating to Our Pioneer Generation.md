@@ -52,13 +52,16 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #ececda;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #46b2d5;
+	
+	}
 li {
 	font-size: 15px !important;
 	
@@ -155,13 +158,13 @@ Innovations in Public Communication
 <p>For any public communication campaign to be effective, stakeholders’ understanding of the key issues has to be assessed, so that appropriate follow-up strategies can be formulated to better explain the policies at hand. This is especially vital for target audiences such as the pioneers, who are harder to reach for a variety of reasons, including age, literacy and health factors. Furthermore, the pioneer generation is not a homogenous group: communication cannot adopt a one-size-fits-all approach. Consequently, the level of customised content produced by public agencies to communicate PGP was unprecedented. This ranged from modifying the language of the advertisements to tweaking content to suit each target subgroup. For instance, the videos produced depicted familiar scenarios that seniors of specific ethnic and language groups could identify with. Celebrities from the respective ethnic communities were also featured prominently in newspaper advertorials to attract their attention and hold their interest.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 For any public communication campaign to be effective, stakeholders’ understanding of the key issues has to be assessed, so that appropriate follow-up strategies can be formulated.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>In a further creative effort to address the many concerns of pioneers and their caregivers, an 8-episode Mandarin drama serial—<em>A Blessed Life (吉人天相 jírén tiānxiàng)</em> — was commissioned to portray the different personal, physical and financial issues that pioneers face, along with the corresponding PGP provisions that could help. This programme complemented the door-to-door outreach by PGAs, who then explained the PGP benefits in more detail and addressed any residual information gaps or concerns they might have.  
 </p>  
@@ -174,12 +177,12 @@ For any public communication campaign to be effective, stakeholders’ understan
   
   
   
-<p class="small-text text">Since the launch of the Speak Mandarin Campaign in 1979, government agencies in Singapore have not used dialects to explain public policies. </p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Reverting to Vernacular Languages for Communication</h3>  
