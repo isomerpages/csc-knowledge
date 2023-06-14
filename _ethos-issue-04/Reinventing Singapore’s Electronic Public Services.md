@@ -72,6 +72,18 @@ text-align:center;
 color: white;	
 }		
 	
+.greenbox
+{
+background-color: #7a8c54;	
+padding: 30px;
+}
+
+.greenbox h3, .greenbox p, .greenbox strong 
+{
+color: white;
+}	
+	
+	
 	
 
 </style>
