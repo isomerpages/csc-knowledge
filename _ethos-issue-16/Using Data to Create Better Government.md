@@ -100,7 +100,7 @@ li {
 
 
 
-<p class="small-text text">The UK water distribution company Southern Water deployed smart water meters providing utilities, property managers and users with real-time data on water usage.</p>
+<br>
 
 
 
