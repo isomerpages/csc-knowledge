@@ -52,13 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #ececda;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #46b2d5;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -107,13 +109,13 @@ the Government is uncomfortable, even inept, in navigating. The public sector ha
     </p>  
 </ol>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 What the Government is less good at is knowing how to “talk’’ to people online and persuading them to its point of view. While technologically flexible and efficient in disseminating information, it does so in the same voice that it applies to the traditional media realm and with the same expectations and assumptions.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The Singapore public sector’s use of the internet generally suggests a confusion of aims. What are the key online objectives of the various agencies? Other than providing an online “information dump”, do the agencies want to be “liked’’ by the public, or seen as authoritative? Is it a pro-active or a reactive approach to engagement? Are there attempts to nurture friendly community relations? With which segments of the public?  
 </p>  
@@ -163,13 +165,12 @@ agencies such as the Law and Finance ministries, for example, should avoid being
   
   
   
-<p class="small-text text">The Singapore Civil Defence Force, with its approachable, light-hearted social media presence, seems to understand that its Facebook page is like a person, with a personality that it wants to brand.  
-However, while humour is usually appealing to the online community, it may not always be the image that public agencies want for themselves</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Cultivating the Right Image Online</h3>  
@@ -223,12 +224,12 @@ However, while humour is usually appealing to the online community, it may not a
   
   
   
-<p class="small-text text">The Singapore Armed Forces may be the public agency with the best online traction. One reason is that it appears to have a diverse range of commentators and authentic interaction on its Facebook page.</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Building a Community Online</h3>  
@@ -259,13 +260,13 @@ There are different ways to cultivate feedback and discussion. For example, the 
 <p>Media regulations and laws should be applied sparingly to issues that arise in the online realm, as they can often backfire, leading to accusations that the Government is being heavy-handed without doing much lasting good. The suspension of the website The Real Singapore<a href="#notes"><sup class="#notes">1</sup></a> has only led to the setting up of similar clones. The attempt to use harassment laws on The Online Citizen backfired when the courts ruled that such protection from harassment is intended for individuals and not entities, in much the same way as entities cannot sue for libel.<a href="#notes"><sup class="#notes">2</sup></a>  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The online world does not work with offline rules. Media regulations and laws should be applied sparingly to issues that arise in the online realm, as they can often backfire, leading to accusations that the Government is being heavy-handed without doing much lasting good.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Some agencies have commissioned outside agencies to “seed” messages or to rebut information and opinion online.  
 A better strategy might be for the Government to re-calibrate its attitude towards online citizens and online views:  
@@ -277,25 +278,25 @@ A better strategy might be for the Government to re-calibrate its attitude towar
 <li><strong>Have a savvy social media team </strong>with members who are good with language, possess a healthy sense of humour and are in touch with internet culture. It will help agencies avoid public relations gaffes (such as a recent misleading picture caption of a junior minister reclining on a bed in a foreign worker dormitory). More importantly, the team should be empowered to post online without having to refer every post up the hierarchy for vetting, on as wide a range of relevant issues as possible.</li>  
 </ol>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Throwing weight or pulling rank does not work on the internet. The Government cannot control internet chatter, it can only hope to be part of it.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 The Government will have to get used to the intolerant, irreverent attitude on the internet where conspiracy theories, baseless accusations, sweeping generalisations and cheap shots are rife. They have always been present — technology has merely brought them out into the open. Throwing weight or pulling rank does not work on the internet. The Government cannot control internet chatter, it can only hope to be part of it.  
 </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Bertha Henson</strong>  was formerly Associate Editor of The Straits Times and worked as a journalist in Singapore Press Holdings for 26 years. During her career, she launched several news magazines, including the global award-winning IN and Little Red Dot for schools, as well as the now defunct Project Eyeball. She now runs her own media training company for government agencies and corporations. She teaches a seminar course on Quality Journalism at Tembusu College, National University of Singapore and is co-founder and consulting editor of The Middle Ground, a news website.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -305,9 +306,6 @@ The Government will have to get used to the intolerant, irreverent attitude on t
     Times, 9 December 2015, http://www. straitstimes.com/singapore/courts-crime/ government-cannot-invoke-harassment-act- to-make-website-remove-statements-on.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
