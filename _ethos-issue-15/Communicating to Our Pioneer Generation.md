@@ -239,11 +239,11 @@ This long-standing moratorium on the use of dialects was waived for the PGP camp
 <p>  
 The many efforts made for the PGP communication campaign has led to a deeper overall understanding of how to reach out to elderly Singaporeans and explain government policies to them. It has also generated greater awareness of the role of message-testing in enhancing citizen-centric communication in general. While the various media platforms are instrumental in promoting policy awareness, a significant number of the elderly do not access mainstream media. Here, the campaign has allowed the Government to appreciate the value of face-to-face engagement as part of the last-mile communication efforts vital for policy success. Effective, personalised engagement goes beyond information dissemination to help intended groups understand the relevance of policies to their well-being and how they can optimise the use of policy features given their individual circumstances.  
 </p>  
-<hr>  
-<h5><em>  
+<div class="break">  
+<p class="break1">  
 The campaign has allowed the Government to appreciate the value of face-to-face engagement as part of the last-mile communication efforts vital for policy success.  
-</em></h5>  
-<hr>  
+</p>  
+</div>  
 <p> The PGP communication and outreach efforts have improved the Government’s approach to ground engagement; in the process, they have also enhanced public service delivery, strengthened citizen-centricity, and re-ignited community networks. The data and experience gleaned from this important initiative will help future efforts to understand, engage and serve citizens, as well as strengthen the planning of local programmes, and further improve last-mile service delivery and communication.  
 </p>  
 <hr>  
