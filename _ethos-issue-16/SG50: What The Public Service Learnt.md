@@ -165,8 +165,7 @@ In organising mega events, public safety and security were of paramount importan
 
 
 
-<p class="small-text text"><strong>Fostering Human-to-Human Connections through Stories </strong><br>
-Through a six-month crowdsourcing exercise, the SG Heart Map<sup>1</sup> initiative encouraged Singaporeans to tell their stories of fond memories and emotional connection with specific places in Singapore. The exercise generated some 100,000 stories, which underlined the power of stories in nurturing a sense of place and making heritage a living practice. Some 70% of the stories were submitted through hardcopy, despite the availability of digital submission channels, highlighting the value of physical interaction and the human touch, even in an age of digital technology. The involvement of some 74,000 students in the mySG trails and exhibitions,<sup>2</sup> one of the Ministry of Education’s SG50 initiatives, helped our youth to appreciate the deeper meaning and values behind a community’s experiences of a place as it evolves over time. It also helped strengthen personal bonds between the students and the 36,000 members of the public they led on the guided tours, offering a fresh perspective on Singapore viewed through the eyes of its young people.</p>
+<br>
 
 
 
