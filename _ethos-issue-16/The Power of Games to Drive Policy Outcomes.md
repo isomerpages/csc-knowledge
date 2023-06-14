@@ -97,7 +97,7 @@ li {
 
 
 
-<p class="small-text text">At the University of Central Florida, trainee teachers undergo a realistic and interactive simulation called TeachLIVE that exposes them to common student archetypes that they are likely to encounter in the classroom.</p>
+<br>
 
 
 
