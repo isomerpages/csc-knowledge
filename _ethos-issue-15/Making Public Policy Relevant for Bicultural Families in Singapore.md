@@ -168,13 +168,13 @@ On Engaging Bicultural Families: Looking for Commonalities
   
 <p style="text-align: right;" class="quotesource ms-rteFontSize-2"> – On giving space to difference</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 There are times when we fail to recognise the importance of allowing Singaporeans air time. It is important to let people speak to release some angst.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>  
 Encouraging These Conversations to Take Place  
@@ -189,7 +189,7 @@ Encouraging These Conversations to Take Place
 <p>"There are times," she argues, "when we fail to recognise the importance of allowing Singaporeans air time. It is important to let people speak to release some angst."  
 </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -199,7 +199,7 @@ Encouraging These Conversations to Take Place
   
 <p class="small-text">This article is written by Kharina, based on conversations with Professor Straughan, conducted on 19 January 2016.</p>  
   
-<hr>  
+</div>  
   
 <br>  
   
@@ -210,10 +210,6 @@ Encouraging These Conversations to Take Place
     on Marriage and Divorces: Reference year 2014”, July 2015, accessed January 29, 2016, www.singstat.gov.sg.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
 
 
 
