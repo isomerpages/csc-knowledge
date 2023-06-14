@@ -17,10 +17,10 @@ description: ""
 	
 .author
 {
-border-bottom: 1px solid black;
-margin-top:40px;
-padding-bottom:30px;
+
+margin-top:60px;
 border-top: 1px solid black;	
+padding-top:15px;
 
 }
 
@@ -28,16 +28,6 @@ border-top: 1px solid black;
 	font-size: 0.9em;
 	line-height:24px !important;
 	}	
-	
-
-.break
-{
-   border-top: 1px solid  black;
-   border-bottom: 1px solid black;
-	 padding:20px;
-	margin-top:50px;
-}
-
 
 
 li {
@@ -69,7 +59,7 @@ color: white;
 	
 	
 	
-	</style>
+</style>
 	
 <em><small>ETHOS Issue 03, Oct 2007</small></em>
 <img src="/images/Landing_Banner_Images/banner_interview.jpg">	
@@ -193,10 +183,13 @@ involve a lot of risk.
 
 <p><strong><span style="color: #0070c0;">PALAI</span>:</strong> For me, it is a matter of your leadership and execution, the will to stand up and make it work and get results. You go out and look for opportunities, and create things that are not there yet, at a very high level. I feel sometimes governments talk and plan forever, they over-consult. They spend too much time thinking through things and they miss opportunities when they could have leveraged on what they have got. We have to be prepared to make mistakes; if we think there’s an opportunity, let’s go for it.</p>
 
-<hr>
+
+<div class="author">
 
 <p class="small-text">The ETHOS Roundtable was conducted by ETHOS Editor Alvin Pang in January 2008. Dr Ashraf, Mr Palai and Mr Feng were participants in the inaugural Leaders in Governance Programme (LGP), organised by the Singapore Civil Service College from 13 to 23 January 2008 in Singapore. Drawing from Singapore's development experience, the LGP offered practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the eight-day Programme, participants interacted with senior government officials and thought leaders, and visited key government agencies to understand their operating philosophies and systems.</p>
 
+</div>	
+	
 <br>
 <br>
 <br>	
