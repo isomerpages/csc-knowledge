@@ -2,6 +2,7 @@ collections:
   ethos-issue-15:
     output: true
     order:
+      - Editorial.md
       - "Intentional Public Engagement: The Next Phase of Government Citizen
         Relations.md"
       - Engaging Citizens in the Digital Age.md
