@@ -2,5 +2,6 @@ collections:
   ethos-issue-04:
     output: true
     order:
+      - Not Just Service Delivery.md
       - Reclaiming Public Administration.md
       - Editorial.md
