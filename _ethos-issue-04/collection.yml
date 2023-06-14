@@ -2,6 +2,7 @@ collections:
   ethos-issue-04:
     output: true
     order:
+      - Managing Complexity and Uncertainties.md
       - "Governance at the Leading Edge: Black Swans, Wild Cards, and Wicked
         Problems.md"
       - "Book Review: Public Services at the Crossroads.md"
