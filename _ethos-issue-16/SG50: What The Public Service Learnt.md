@@ -288,7 +288,7 @@ Singapore: Inside Out was a travelling showcase celebrating Singapore’s spectr
 
 
 
-<p class="small-text text">The impact of SG50 continued to be felt even after 2015 drew to a close.</p>
+<br>
 
 
 
