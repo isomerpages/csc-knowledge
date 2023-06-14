@@ -132,6 +132,8 @@ government?
 
 <h4>TABLE 1. PERFORMANCE, TARGETS AND THEIR POTENTIALLY PERVERSE SIDE EFFECTS</h4>
 
+<img src="/images/Ethos_Images/Ethos_Issue_04/table1.jpg">
+
 <p>(Source: <em>Public Services at the Crossroads,</em> p36)</p>
 
 
