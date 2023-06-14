@@ -18,13 +18,13 @@ description: ""
 	
 	
 
-.green
+.purple
 {
-background-color: #44663E;	
+background-color: #7c4665;	
 padding: 30px;
 }
 	
-.green h5	
+.purple h5	
 {
 	color: white;
 	text-align: center;
@@ -75,79 +75,93 @@ border-top: 1px solid black;
 <img src="/images/Ethos_Images/Ethos_Issue_04/Integrated_Service_Delivery.jpg">
 
 
-<p>At the heart of Singapore’s success in governance lies the strength of its social compact. Since independence, the majority of citizens, including those at the bottom of the income pyramid, have enjoyed a steady rise in living standards. This prosperity has earned the Government the credibility and mandate it needs to implement difficult social and economic policies time and again, which in spite of initial hardship, eventually raises the nation’s well-being. This virtuous cycle is at the core of Singapore’s long-term, policy-driven success.</p>
+<h3>What is the Australian Public Service’s approach to innovation and excellence in service delivery? What are the factors behind your drive towards service innovation and service integration?</h3>
 
-<p>For decades, strong economic growth and full employment have raised wages and welfare for the majority of Singaporeans. In the 1990s, our per capita income rose towards average developed country levels. Since then, however, a fundamental change has taken place. Median real wages are no longer rising with robust growth. Instead, they have been roughly stagnating since 1998. For the bottom 60% of workers, individual wages have, in fact, cumulatively declined by 7% to 15% over the last five years through 2006, in spite of 5% to 7% GDP growth and an unemployment rate below 3%. The poorest and least skilled have been the hardest hit. Median monthly starting pay for cleaners and labourers has fallen by nearly a third, from S$860 to S$600, between 1996 and 2006.</p>
-
-<p>While household incomes, especially of the bottom 30%, have rebounded in 2006, this is due to jobs being plentiful enough for more family members working longer hours to bring in more income despite falling wages. Yet the poor have had to run faster just to stand still. The bottom 30% of working families have now experienced stagnating real household incomes for 8 to 10 years. Even the broad middle classes—the 30th to 80th percentile of households—saw a four- to five-year period of stagnating household income between 2001 and 2005.</p>
-
-<h3>GLOBALISATION AND WAGE STAGNATION</h3>
-
-<p>Such wage and welfare stagnation is new to modern Singapore. Yet they are underpinned by the underlying mega-trends of globalisation, which have taken two major new turns since the 1980s. The first is the “great doubling”. For the first time in human history, the globally integrated labour force is in the process of rising from around 1.5 to well over 3 billion, driven by economic liberalisation of the huge populations of China, India, the ex-Soviet Bloc and newly-reformed emerging economies in Latin America and Asia. This cheap, massive and increasingly productive labour force competes for trade, investment and employment on a scale never before seen.</p>
-
-<p>Since the mid-1990s, the “great acceleration” has also been raising developed country productivity growth as IT-driven process innovations spread to service industries and enable offshore outsourcing or “off-shoring” of ever more discrete tasks and occupations. So too, Moore’s law relentlessly pushes down the price of exponentially more sophisticated IT capital goods and services relative to unskilled or semi-skilled labour, replacing people with IT systems managed by smaller, highly skilled teams. This reinforces the “great doubling”, hollowing out swathes of less skilled, labour-intensive jobs in both manufacturing and services in rich countries, even as it creates large numbers of increasingly skills-intensive occupations globally.</p>
-
-<p>This skills-biased, Schumpeterian job destruction and creation is leaving behind the less educated and skilled in developed economies. Unable to adapt and upgrade their human capital in time, they face increasingly structural long-term unemployment, which results in wage stagnation or decline. With social security budgets shrinking, and unable to afford skills upgrading, they risk becoming permanently marginalised: a proletarian underclass at the developed core of global capitalism.</p>
-
-<p>By now, many developed economies are beginning to recognise the all-too-common long-term symptoms—median wage stagnation combined with sharply rising income and wealth inequality—despite the strongest global growth and profitability, and lowest unemployment rates in over two decades. The US economy, with one of the most productive, flexible and open labour markets and the world’s most innovative companies, shows these trends the most clearly. This has also spawned an insecure middle class increasingly sceptical of globalisation and susceptible to protectionist or populist policies.</p>
-
-<h3>THE INCOME GAP IN SINGAPORE</h3>
-
-<p>Singapore, with one of the most open economies in the world, is particularly vulnerable to these negative trends. In addition, we have two other dampeners of wage growth: first, one of the highest rates of unskilled and semi-skilled immigration in the world, and second, a legacy population of older, less-educated workers who represent a significant share of the resident workforce.</p>
-
-<p>The implications of these trends for domestic welfare and poverty are clear. Our poorest decile, numbering some 90,000 to 100,000 households, still earn around S$160 per month per capita,<a href="#notes"><sup>1</sup></a> the equivalent of around S$640 a month for a family of four. This compares to a measure of average basic expenditure needs of S$1,040 estimated by the Department of Statistics,<a href="#notes"><sup>2</sup></a> and a guideline of around S$1,500 used by many public agencies to indicate the need for social assistance. Whether this constitutes “absolute poverty” may be contentious. What is clear, however, is that for many of these families, hardship has been a way of life for over a decade. They may have little left over for the enrichment opportunities that could gradually lift them out of poverty—such as tuition, training courses, computers or IT services—access to which mark the boundaries of true social inclusion.</p>
+<p>Like most Public Services around the world, the Australian Public Service constantly seeks to improve the quality of services it provides to the Australian people. One of the factors behind the establishment of the Department of Human Services was the desire to reinvigorate public administration and improve the delivery of services to the many Australians who have contact with the agencies that comprise the Human Services portfolio. This has led to a culture within Human Services, and its agencies, of always trying to improve the quality of services that are provided. The individual agencies undertake a range of activities to support this approach to excellence, including benchmarking, customer surveys and monitoring against performance standards. Agencies also explore more innovative ways of dealing with customers, such as the use of short message service (SMS) or text messaging, provided these innovations do not conflict with the policy intent of the programmes they are administrating and do not jeopardise the integrity of the payments they administer. If done well, innovative service delivery can result in higher satisfaction amongst customers and can also be more efficient and more cost effective.</p>
 
 
-
-<div class="green">
+<div class="purple">
 <h5><em>
-Singapore, with one of the most open economies in the world, is particularly vulnerable to these negative trends.
+There are advantages to
+integration, but it has to be
+managed in such a way that
+you do not compromise the
+expertise that individual
+delivery agencies have built
+up and do not weaken their
+current accessibility.
 </em></h5>
 </div>
 
+<p>The search for improvement in service delivery can sometimes logically lead to service integration, but this is not necessarily always the case. If done in an effective manner, integration can lead to more convenient service delivery. In Australia, we have the complication of three different levels of government: local, state and commonwealth. Often, each of these levels of government can have involvement in the same areas, such as childcare.</p>
 
-<p>With long-term wage stagnation, this wide poverty gap will not easily be whittled away. If wages continue to stagnate, there is a limit to poverty alleviation through working longer and harder, or driving the unemployment rate lower. An underclass of our own may well be emerging.</p>
+<p>The Australian people, however, often do not differentiate between the different levels and just see it as being “government”. Achieving greater synergy between the three levels of government is one of the biggest challenges that we face.</p>
 
-<p>In the long run, this malign combination of median wage stagnation, low wage decline and rising inequality is potentially poisonous for the social compact underpinning globalisation and the bedrock of our virtuous cycle of strong governance.</p>
+<h3>In your experience, what are the challenges of pursuing an integrated approach to service delivery, and what are the key opportunities and advantages?</h3>
+
+<p>An integrated approach to service delivery can lead to more convenience for customers, especially if they only have to visit one location to do their business. We have had some success in Australia with the Flexible Service Delivery Trials, involving Medicare Australia, which primarily administers health rebates, and Centrelink,<a href="#notess"><sup>1</sup></a> which delivers welfare and family payments to Australians. The trials involved Centrelink delivering some of their services for older Australians and carers through four Medicare sites and, in turn, Medicare trial-tested the delivery of some of their services in four Centrelink sites. The trials were reasonably successful and the benefits included:</p>
+
+<ul>
+<li>more convenience with people able to conduct a range of government business in one place at the same time;</li>
+<li>better customer service designed to suit people’s specific needs; and</li>
+<li>more choices of sites in which to conduct government related business.</li>
+</ul>
+
+<p>The Australian Government is currently considering the outcomes of the trials.</p>
+
+<p>There are advantages to integration, but it has to be managed in such a way that you do not compromise the expertise that individual delivery agencies have built up and do not weaken their current accessibility, i.e., by forcing them into less suitable locations.</p>
+
+<h3>Has technology, or new models of management and organisation supported your pursuit of service excellence? What achievements would you highlight and what are the factors underlying their success?</h3>
+
+<p>Technological advances have certainly provided new opportunities to improve service excellence. The most obvious examples involve the use of the Internet, mobile phone communication and the electronic sharing of data.</p>
+
+<p>Australia is still developing new ways of improving electronic service delivery, although nearly 60% of people now report having contacted the Government using the Internet at least once in the previous 12 months. This is nearly a doubling of Internet contact since 2004.</p>
+
+<p>One significant improvement has been the development of the Human Services Portal,<a href="#notess"><sup>2</sup></a> which provides a single entry point to the online services offered by Centrelink, Medicare Australia and the Child Support Agency. The Portal also has a single sign-on to the online services of the agencies, so instead of having to go through three separate identification processes, the customer now only has to do it once before being able to easily access the services of the three agencies. Another noteworthy advance has been the introduction of electronic claiming processes for Medicare services, so that Australians can now receive their rebates electronically at the point of service, instead of having to make a separate trip to a shopfront to receive their rebate.</p>
+
+<h3>How does the Department of Human Services harness the natural strengths of its component agencies in order to achieve whole-of-government policy objectives?</h3>
+
+<p>By looking across the six agencies that make up the portfolio, Human Services is able to see the possible synergies and advantages by using a range of agencies. An example of this was the delivery of the Liquid Petroleum Gas Scheme, which provided a rebate to Australians who converted their petrol cars to liquid petroleum gas. The scheme was jointly delivered by Centrelink and Medicare Australia. Working with these agencies, we were able to develop a delivery arrangement which used the natural advantages of the two agencies:</p>
+
+<ul>
+<li>Centrelink’s ability to quickly implement payment systems and efficiently make payments; and</li>
+<li>Medicare’s network, which is largely based in easily accessible shopfronts in shopping centres.</li>
+</ul>
+
+<p>This meant that in a matter of weeks, the system was set up and people were able to lodge claim forms at a convenient shopfront, which then sent the claim forms to a processing centre that quickly processed them and made payments to customers.</p>
+
+<h3>Is the Department of Human Services involved in ensuring that service outcomes are considered in the policymaking process?</h3>
+
+<p>I think that this has been one of the main achievements of the Department. Too often in the past, the service delivery arm of government was separate from the policymaking process. This meant that sometimes good policy ideas were unable to achieve the envisaged outcomes for Government because too little consideration had been given to the implementation issues. With the formation of Human Services, greater emphasis has been given to service delivery. On the practical level, this means that service delivery has a more prominent role in policy development by being involved in the Cabinet process. With the establishment of a department of state with a specific responsibility for service delivery, policy departments have also been more willing to engage in discussions about service delivery at a much earlier stage. Proper consideration of service delivery means that the customer is better served when the individual policies are implemented.</p>
 
 
-<div class="green">
-<h5><em>
-There is a limit to poverty alleviation through working longer and harder.
-</em></h5>
+
+
+<p class="small-text text">The Department of Human Services (DHS) was created on 26 October 2004 to achieve improved governance, clearer accountability and better performance in government service delivery by:</p>
+
+
+
+
+<div class="container">
+
+
+<h3 class="title">THE AUSTRALIAN DEPARTMENT OF HUMAN SERVICES</h3>
+<p>The Department of Human Services (DHS) was created on 26 October 2004 to achieve improved governance, clearer accountability and better performance in government service delivery by:</p>
+<ul>
+<li>ensuring the <strong>efficient</strong>, <strong>effective</strong> and <strong>sympathetic</strong> delivery of social and health-related services, including financial assistance, to the Australian community; and</li>
+<li>nfluencing policy development upfront—so that service delivery and implementation issues are taken into account in policy design and decision-making at a whole-of-government level.</li>
+</ul>
+<p>The Minister for Human Services is a senior Minister in Cabinet and brings a service delivery focus to Government deliberations. </p>
+<p>The DHS administers almost A$100 billion in health and welfare payments each year (amounting to about 10% of Australia’s GDP or 40% of the national budget), serving nearly all 21 million Australians through Medicare and other services.</p>
+<p>With a total of 40,000 staff, the agencies under the Human Services Portfolio include Centrelink, Medicare Australia, Australian Hearing, CRS Australia, Child Support Agency and the HSA Group.</p>
+<p>Set up in 1997, Centrelink (now a key agency under the DHS) delivers A$64 billion worth of payments and services on behalf of national and state governments to 6.5 million customers, including retirees, families, carers, parents, people with disabilities and the unemployed. Serving as the “human face” for the Australian Government in many local communities, it is the broker of services ranging from income support, workforce and social participation support, farm and drought assistance, regional development programmes and emergency assistance. Approximately 1.8 million citizens are registered for Centrelink’s award-winning online services, undertaking more than 14 million view and update transactions per year.</p>
+
+
+
 </div>
 
 
-<p>If the broad median faces medium-to long-term wage stagnation and rising income inequality, the credibility of tough policies—wage discipline, raising the Goods and Service Tax or public sector wages, further deregulation that demand sacrifice or pain in anticipation of future economic betterment—will be undermined and there could be increasing difficulty in garnering acceptance. Many will feel that their basic stake in the common enterprise of prosperity has been eroded. What is left will be the bitter, zero-sum politics of envy and dead-end populism.</p>
 
-<h3>A NEW PARADIGM FOR SOCIAL SECURITY</h3>
-
-<p>The experiences of other developed economies are only just now yielding a range of possible policy responses to this dilemma. A few broad conclusions, however, can perhaps be drawn.</p>
-
-<p>First, these trends, in spite of cyclical ups and downs, are likely to be a long-term, multi-decade phenomenon. We need to continue to pay serious and immediate heed to long-term remedies, even if cyclical trends lift earnings for a few years.</p>
-
-<p>Second, effective remedies are likely to require an integrated array of concerted and coordinated policy measures by different agencies to provide an adequate social safety net and enable our labour force to deal with these deep-rooted mega-trends. These measures also need to be tailored to Singapore’s particular conditions. The challenge is to do this in a way that maximises work incentives, upward mobility and dignity.</p>
-
-<p>Workfare, or a direct subsidy to work (recommended by Nobel laureates Milton Friedman and Edmund S. Phelps), is probably the principal, most micro-economically efficient tool that can be used to redistribute higher, skills-biased growth to workers right at the bottom of the pyramid. Coordinated with targeted work-oriented welfare and sufficient job opportunities, successful US welfare reform over the 1990s has shown us that this approach can result in a significant alleviation of poverty and more effective integration of lower income classes into the labour market.</p>
-
-<p>What remains in Singapore is to appropriately scale up the relevant magnitudes. Current net workfare payments of around S$80 to S$100 per month are a long way from being able to bridge the poverty gap between bare subsistence and the small surplus needed to invest in human capital at the household level. Yet they remain the fastest way of getting there without compromising work ethic and with relatively low cost.</p>
-
-
-<div class="green">
-<h5><em>
-A stronger, direct social safety net may enable policy to take advantage of globalisation more quickly and boldly.
-</em></h5>
-</div>
-
-<p>Other measures that should be studied for wider implementation include: social risk pooling for unemployment insurance, medical costs, retirement benefits, education risks or reverse mortgages; an expanded and well-integrated continuing education and training system. Perhaps a more discriminating immigration policy—against unskilled labour in non-traded sectors (for example, in the construction industry)—can also be sought even at the expense of maximising short-term output, in order to achieve a better combination of real wage growth and increased productivity.</p>
-
-<p>The political will and policy framework for dealing with wage stagnation may be one of the biggest tests of compassion, pragmatism and policy innovation for Singapore. However, some subtle risks also arise from our traditional policy distrust of large-scale welfare, or direct social spending to address poverty. The latter is perhaps more difficult to deal with, as it has to more do with a policy paradigm that may also need radical change. A stronger, direct social safety net may now need to be seen both by policymakers and public as an institution that enables policy to take advantage of globalisation more quickly and boldly, rather than one that erodes work ethic, drains the budget or hamstrings reform.</p>
-
-<p>With Singapore’s per capita income at around US$31,000, it is undesirable that the bottom 10% of Singapore households still struggle to meet basic needs and have little means to invest in their family’s betterment. However, this in itself is perhaps only half the story.</p>
-
-<p>It is equally important for any policy paradigm to recognise that most of our advanced country competitors (such as the US, UK and Japan) will also be afflicted by similar trends of median wage stagnation and rising income inequality in the face of globalisation, with government budgets that are already badly overstretched. Singapore is one of the few countries with the fiscal reserves to afford the development of a wide, multi-faceted, financially sustainable social safety net. In addition, our freedom from a debilitating legacy welfare system means we can design one largely from scratch, potentially making it structurally compatible with both work incentives and maximising human capital investment. This can not only redistribute the fruits of stronger growth more equitably and securely, but also provide an inherent, long-term source of competitive advantage that enables us to embrace globalisation more quickly and firmly than our competitors.</p>
-
-<p>These then are the main challenges to rethinking Singapore’s social compact. Faith in the old social compact, forged over 40 years of success, will not easily be worn away, but the new globalisation mega-trends will continue to erode it. Can we, as policymakers, be bold and creative enough to re-imagine and re-make a sounder new foundation for its renewal in coming decades?</p>
 
 
 
@@ -155,18 +169,21 @@ A stronger, direct social safety net may enable policy to take advantage of glob
 
 <h6>ABOUT THE AUTHOR</h6>
 
-<p class="small-text"><strong>Yeoh Lam Keong</strong> is Director, Economics and Strategy in the Government of Singapore Investment Corporation (GIC) Pte Ltd. </p>
+<p class="small-text"><strong>Jeff Popple</strong> is the Acting Deputy Secretary in the Australian Department of Human Services. He is responsible for the overall management of the service delivery role of the Department, advising on the performance of the Portfolio’s Agencies and providing strategic and policy advice on a range of service delivery issues.</p>
 
 </div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">Based on average monthly income from work per household member among non-retiree households by decile. Singapore Department of Statistics, <em>Key Household Income Trends, 2006</em> (Singapore: Ministry of Trade &amp; Industry, 2007). <a href="http://www.singstat.gov.sg/pubn/papers/people/op-s12.pdf">http://www.singstat.gov.sg/pubn/papers/people/op-s12.pdf</a></li>
-<li class="small-text">For the Department of Statistics’ estimate of S$1,040 minimum household expenditure required for a four-person family, see description of methodology in Yap, Mui Teng, "Poverty Monitoring and Alleviation in Singapore," in <em>Poverty Monitoring and Alleviation in East Asia, K L</em> Tang and C K Wong, eds (New York: Nova Science, 2003): 77-78.</li>
+<li class="small-text">Centrelink (<a href="http://www.centrelink.gov.au/">http://www.centrelink.gov.au</a>) is an Australian Government Statutory Agency, assisting people to become self-sufficient and supporting those in need.</li>
+<li class="small-text">Single entry signon: <a href="http://myaccount.humanservices.gov.au/wps/portal/">http://myaccount.humanservices.gov.au/wps/portal/</a> linked from the Human Services Portfolio Portal at <a href="http://www.humanservices.gov.au/">http://www.humanservices.gov.au/</a></li>
 </ol>
 
 <br>
+
+
+
 
 
 
