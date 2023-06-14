@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 16, Dec 2016</small></em>
-
+<img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
 
 <p>Of one thing we can be certain: although the world in twenty five or fifty years may well be very different to our current experience of it, the need for effective government underpinned by public trust in our major institutions is unlikely to be any less an imperative — and may well be a greater one.
