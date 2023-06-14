@@ -52,13 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #ececda;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #851c64;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -89,13 +91,13 @@ both. The coming together of both cultures defines them and their beliefs. Indee
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">On Defining Biculturalism</h3>  
 <p class="text">In sociology, biculturalism involves two originally distinct cultures in some form of co-existence. The children from these families will live, embrace and transverse the richness of both cultures, often unconscious about the need to make any distinction from one or the other because it is as natural as their left and right limbs. They are born to the world with  
 both. The coming together of both cultures defines them and their beliefs. Indeed, these children are the outcome of a significant coming together of differences.</p>  
-<blockquote>  
+<blockquote style="background-color:#ececda;">  
 <p>Marriage and family formation are the most intimate and private of social relationships. To be able to marry a person who is ethnically and culturally different from yours require mutual deep appreciation of each other’s way of life and beliefs.</p>  
 <p style="text-align: right;" class="quotesource ms-rteFontSize-2">— Paulin Tay Straughan</p>  
 </blockquote>  
