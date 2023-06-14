@@ -156,13 +156,13 @@ With the advent of fast, ubiquitous internet access and a broad range of digital
 The rise of social media platforms,<a href="#notes"><sup class="#notes">7</sup></a> such as Facebook, Twitter, Instagram, YouTube, Tumblr and WordPress, has attracted large numbers of users to share content with each other, particularly a new generation of digital natives who have grown up with the internet.<a href="#notes"><sup class="#notes">8</sup></a> Social media platforms are also more likely to appeal to the Generation Y who grew up with the internet. For example, an Institute of Policy Studies Survey<a href="#notes"><sup class="#notes">9</sup></a> in 2010 revealed that Singaporeans aged 21 to 39 years old read more about politics on the internet, and trusted the internet as a source of political news slightly more than older people. They also tended to participate more in online political activities such as taking part in online political forums. Thus, as the Government seeks to interest Singaporeans in public issues, social media provides tremendous opportunities to extend the reach of engagement efforts, as well as to receive near-instantaneous feedback on its policies and services — that is, if public agencies are prepared for digital engagement.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The Public Service has shifted its overall digital strategy from a “government-to-you” approach to a “government-with-you” approach  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Several public sector-wide developments have arisen to support digital engagement efforts. In October 2006, the Feedback Unit was restructured as “Reaching Everyone for Active Citizenry @ Home” (REACH), and tasked with facilitating communication between Singaporeans and the Government through a variety of electronic channels. REACH expanded its social media platforms to include interactive discussion forums, Facebook, Twitter and Instagram; by 2014, it had received 27,140 pieces of online feedback, more than double of that received in 2009.<a href="#notes"><sup class="#notes">10</sup></a></p>  
   
@@ -171,13 +171,13 @@ The Public Service has shifted its overall digital strategy from a “government
   
 <br>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>"Public engagement is an ongoing intentional process for the government that aims to build relationships and, together with the public, produce better policies, services and outcomes for society."</em></h5>  
+<p class="break1">"Public engagement is an ongoing intentional process for the government that aims to build relationships and, together with the public, produce better policies, services and outcomes for society."</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">— “Public Engagement 101, Defining the Public Engagement Framework”, PS21 Office, Public Service Division</p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— “Public Engagement 101, Defining the Public Engagement Framework”, PS21 Office, Public Service Division</p>  
   
-<hr>  
+</div>  
   
 <br>  
   
