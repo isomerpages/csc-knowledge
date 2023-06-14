@@ -139,63 +139,63 @@ Policies with a wide reach should take on the universal, means-tested approach a
   
 <br>  
   
-<img title="iss15art11fig4" src="../../images/default-source/ethos-images/ethos-issue-15/survey-of-fairness-perceptions-in-singapore-public-policy/iss15art11fig4.jpg?sfvrsn=5a72834c\_0" data-displaymode="Original" alt="Key Finding #3"><sub><br>  
+<img title="iss15art11fig4" src="/images/Ethos_Images/Ethos_Issue_15/Sur_Fairness_PerceptIn_SG_PP/Iss15_Art11fig4.jpg" data-displaymode="Original" alt="Key Finding #3"><sub><br>  
 </sub>  
 <br>  
 <p>Hospitalisation insurance was one of the exceptions to the preference for a universal, means-tested approach. Instead, there was a strong preference for a universal approach, in which the government pays the full premium for all Singaporeans (77% said it was fair). This support was consistent across all income levels. A possible reason could be due to hospitalisation insurance being viewed as an ‘entitlement’ that the government should provide equally for all citizens.</p>  
-<hr>  
-<h5><em>  
+<div class="break">  
+<p class="break1">  
 A larger proportion of those with higher education levels and household incomes seemed to feel that it was fair, even when told of the need for higher taxes or costs to individuals, to support higher public expenditure.  
-</em></h5>  
-<hr>  
+</p>  
+</div>  
 <p>However, when respondents were told in a separate question that they needed to pay higher taxes to cover increased public expenditure, the universal approach was deemed fair by only 42% (see Figure 4). In other words, citizens had strong initial impulses towards the collectivisation of medical insurance, but this was reduced when they realised taxes would rise to support this policy.</p>  
 <br>  
 <br>  
-<img title="iss15art11fig567" src="../../images/default-source/ethos-images/ethos-issue-15/survey-of-fairness-perceptions-in-singapore-public-policy/iss15art11fig567.jpg?sfvrsn=752186ca\_0" data-displaymode="Original" alt="Key Finding #4"><sub><br>  
+<img title="iss15art11fig567" src="/images/Ethos_Images/Ethos_Issue_15/Sur_Fairness_PerceptIn_SG_PP/Iss15_Art11fig567.jpg" data-displaymode="Original" alt="Key Finding #4"><sub><br>  
 </sub>  
 <br>  
 <p>When analysing reactions to increased taxes in return for universal hospitalisation insurance, there were interesting variations based on income levels and educational attainment.</p>  
 <p>The first observation was that a larger proportion of those with higher education levels and household incomes seemed to feel that it was fair, even when told of the need for higher taxes or costs to individuals, to support higher public expenditure.</p>  
 <p>In the case of hospitalisation insurance, universal provision was seen as the fairest by all respondents. But degree holders and those with monthly household incomes of $10,000 or more saw the smallest drop (by 11% and 17% respectively) in the ‘fair’ response when they were told of higher taxes needed. The largest drop in support was among diploma holders and those from household incomes between $3,001 and $6,000 per month. Their support dropped by more than 40% once an increase in taxes was factored in (See Figures 5 and 6 for more details).</p>  
 <p>Similar patterns were observed for questions pertaining to transfers for low-wage workers. More respondents felt it was fair to provide low-wage workers with some benefits. However, at least half of them felt that the policy was unfair when told of the need to pay higher taxes or food prices to fund the support. Again, the fairness ratings among those with higher education levels and household incomes fell the least when told of the financial implications.</p>  
-<hr>  
-<h5><em>  
+<div class="break">  
+<p class="break1">  
 A persistently large proportion of the "sandwiched class" consistently viewed the targeted approach as more unfair compared to the other income groups — they are left out from most government transfer schemes while having to pay higher taxes.  
-</em></h5>  
-<hr>  
+</p>  
+</div>  
 <p>The second observation was that the “sandwiched class” showed lower support across all allocation approaches, especially for targeted schemes. The group with $6,001–$10,000 monthly household income expressed lower fairness levels when compared to all other income groups, even for the generally preferred universal, means- tested approach (see Figure 7). This observation was also seen across most policy domains.</p>  
 <p>In addition, a persistently large proportion of this income group consistently viewed the targeted approach as more unfair compared to the other income groups (both lower and higher incomes). This could possibly be due to the fact that this group viewed themselves as the “sandwiched class”, who are left out from most government transfer schemes while having to pay higher taxes. Hence, they reacted more strongly against the targeted approach that would help only the low-income groups.</p>  
 <br>  
 <br>  
-<img title="iss15art11fig8" src="../../images/default-source/ethos-images/ethos-issue-15/survey-of-fairness-perceptions-in-singapore-public-policy/iss15art11fig8.jpg?sfvrsn=aaacafb6\_0" data-displaymode="Original" alt="Key Finding #5"><sub><br>  
+<img title="iss15art11fig8" src="/images/Ethos_Images/Ethos_Issue_15/Sur_Fairness_PerceptIn_SG_PP/Iss15_Art11fig8.jpg" data-displaymode="Original" alt="Key Finding #5"><sub><br>  
 </sub>  
 <br>  
 <p>Interestingly, fairness perceptions towards tertiary education subsidies and fee increases were divergent. For public university fee subsidies, both the targeted and universal, means-tested approaches received high support (78% and 81% respectively). On the other hand, only 65% of respondents felt that the universal approach was fair (see Figure 8). Hence, it appeared that respondents felt a strong need to provide relatively more subsidies to students from lower-income households.</p>  
 <p>When it came to tertiary fee increases, at least half of the respondents already felt that it was unfair to pass the fee increase in any form to the students. Among possible fee increase structures, the universal, means-tested approach, where richer students bear a greater fee increase, was deemed the most unfair (more than 60% said unfair; see Figure 9). While this approach to fee increase would appear similar to the universal, means-tested approach to subsidies, where lower-income groups are favoured, framing it in the context of fee increases yielded a drastically different fairness response.</p>  
-<hr>  
-<h5><em>  
+<div class="break">  
+<p class="break1">  
 When it came to tertiary fee increases, respondents from each income group felt that any approach that would place them at a disadvantage compared to others was unfair.  
-</em></h5>  
-<hr>  
+</p>  
+</div>  
 <p>Furthermore, there were differences in fairness preferences by income levels when it came to fee increases. Those from low-income households (below $3,000 per month) felt that it was most unfair when there was no differentiation in fee increase between them and the richer students. On the other hand, those from high-income households ($10,000 and above per month) felt it was most unfair when the fee increase took on a targeted approach and was borne solely by richer students. The most surprising result came from respondents from the middle-income groups, who felt that the means-tested approach was the most unfair while being indifferent to the other two approaches.</p>  
 <p>There was thus no general consensus when it came to tertiary fee increases. The results suggest that respondents from each income group felt that any  
 approach that would place them at a disadvantage compared to others was unfair. This suggests that unlike other policy domains, tertiary education was not seen in a similar way across different income groups, possibly invoking a notion of opportunity and private benefit.</p>  
 <h3>Conclusion</h3>  
 <p>This survey on “Fairness Perceptions in Singapore Public Policy” offers evidence on how Singaporeans view the way resources and rights are allocated in the current system.</p>  
 <p>A significant observation was that those in the middle-income group (with monthly household income of $6,001–$10,000) felt “sandwiched”. This group consistently expressed lower fairness levels than other groups for all redistribution approaches, including their most preferred universal, means-tested, which could be a signal to their sentiments of being left out of most government schemes targeted to help the poor, while still having to pay taxes.</p>  
-<hr>  
-<h5><em>  
+<div class="break">  
+<p class="break1">  
 People felt it was fairer to pay a bit more for universal, means-tested subsidies and transfers, rather than pay less, through lower taxes, for targeted schemes.  
-</em></h5>  
-<hr>  
+</p>  
+</div>  
 <p>Another important finding was that while the generally perceived fairness of a policy always dropped when people were informed that higher taxes were required to pay for higher expenditures, there were considerable variation among certain subgroups and domains. First, respondents with higher education levels (degree and above) and monthly household incomes ($10,000 and above) had a greater tolerance for higher taxes in return for increased public expenditure. This could possibly be due to their better understanding of trade-offs in public finance and having more financial resources to cope with higher taxes or prices. Second, certain domains still received high level of support for increased expenditure, even taking higher taxes into account. One such area was healthcare: people generally felt that paying higher taxes for more healthcare subsidies was fair. This is probably due to the fact that healthcare is something everyone expects to depend on sooner or later. On the other hand, expenditures on early child education and income support for lower wage groups saw larger relative drops in perceived fairness once higher taxes or out-of-pocket expenditures were mentioned.</p>  
 <p>Finally, and perhaps most importantly, there was a general preference for the universal means-tested approach to allocate public resources in most domains. People felt it was fairer to pay more for universal, means-tested subsidies and transfers, rather than pay less, through lower taxes, for targeted schemes. In other words, people seemed willing to tolerate some inefficiency and costs to themselves if the policy appeals to their sense of fairness.</p>  
 <p>These insights may inform Singapore policymakers’ understanding of how policies can be designed for greater public buy-in, balanced against the efficiency of more targeted approaches.</p>  
-<hr>  
+<div class="author">  
 <h6>ABOUT THE AUTHOR</h6>  
 <p class="small-text"><strong>Do Hoang Van Khanh</strong> is Senior Researcher in the Social &amp; Economics Team, Institute for Governance and Policy, Civil Service College. Her research interests include healthcare economics, behavioural economics and evidence-based policymaking. </p>  
 <p class="small-text"><strong>Sharon Tham</strong> is Lead Researcher in the Social &amp; Economics Team, Institute for Governance and Policy, Civil Service College. Her research interests include evidence-based policymaking, behavioural economics and economic geography. </p>  
-<hr>  
+</div>  
 <br>  
 <h6><a name="notes"></a>NOTES</h6>  
 <ol>  
