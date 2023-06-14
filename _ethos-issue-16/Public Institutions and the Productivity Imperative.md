@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 16, Dec 2016</small></em>
-
+<img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
 
 <p>Despite unprecedented “pump priming” by government authorities since the global financial crisis, investment and growth have languished in most developed economies. Conventional and unconventional macroeconomic measures alike have been found wanting, serving mainly to push up share prices and land prices, rather than production and real incomes.
