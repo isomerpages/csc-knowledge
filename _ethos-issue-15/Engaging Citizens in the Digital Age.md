@@ -198,11 +198,11 @@ While these whole-of-government efforts take root, individual agencies have a vi
   
   
   
-<p class="small-text text">The Singapore Civil Defence Force (SCDF) was recently lauded in The Straits Times for its creative posts that won Facebook fans.</p>  
+
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Creating A Suitable Online Persona</h3>  
@@ -238,12 +238,12 @@ While these whole-of-government efforts take root, individual agencies have a vi
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Government-Citizen Collaboration Using Social Platforms</h3>  
 <p class="text">&nbsp;</p>  
-<p><strong>OneService (http://www.mnd.gov.sg/mso/mobile-about.htm)</strong></p>  
+<p><strong>OneService (http://www.mnd.gov.sg/mso/mobile-about.html)</strong></p>  
 <p>Jointly developed by the Municipal Services Office (MSO) and IDA, this award-winning mobile application gathers location-based public feedback on a variety of municipal issues (e.g., cleanliness, footpaths, animals in public places). Its map-based photo geo-tagging features help agencies to respond to and resolve issues quickly. Reported cases are also routed automatically to the appropriate public agencies for follow up.</p>  
 <br>  
 <p><strong>Beeline (www.beeline.sg)</strong>  
@@ -277,12 +277,12 @@ While these whole-of-government efforts take root, individual agencies have a vi
   
   
   
-<p class="small-text text"> In September 2015, there were online rumours that the Government conducted cloud seeding operations to reduce the impact of haze for the Formula 1 race.</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Setting the Record Straight Online</h3>  
@@ -313,13 +313,13 @@ While these whole-of-government efforts take root, individual agencies have a vi
 <p>The digital era has transformed the landscape for public engagement across all sectors. It presents many opportunities for the Government to better engage the public. However, digital forms of engagement need to be integrated with physical platforms, and judiciously managed in order to be inclusive and fulfil all the various objectives of public engagement and communication. Besides whole-of-government efforts, the Public Service must help individual agencies and officers to cultivate a citizen centric mindset, develop the desired capabilities and improve service standards for the new digital arena, so as to tap on the possibilities of social media as it continues to evolve.  
 </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Cindy Tan</strong>  is Senior Researcher at the Institute of Governance and Policy, Civil Service College.</p>  
   
-<hr>  
+</div>  
   
 <br>  
   
