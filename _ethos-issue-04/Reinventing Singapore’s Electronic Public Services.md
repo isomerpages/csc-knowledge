@@ -603,19 +603,14 @@ and Singapore’s citizens and businesses.
 </tbody>
 </table>
 
-<p>&nbsp;</p>
 
-<p>&nbsp;</p>
 
-<table width="95%" class="greybox" cellspacing="5" cellpadding="5" border="0">
-<tbody>
-<tr>
-<td valign="top" style="background-color: #fbe2c9;">
+
+<div class="greenbox">
+
 <h3>GROWING THE NETWORK: ISSUES AND CHALLENGES</h3>
-</td>
-</tr>
-<tr>
-<td valign="top" style="background-color: #fbe2c9;">
+
+
 <p>Public-Private-People Integration (3Pi) initiatives have provided strong learning opportunities for government agencies venturing into the relatively new frontier of public service delivery through commercial portals. Some of the key challenges that public agencies have had to grapple with include:</p>
 <p><strong>Sustainability of the business model: </strong><br>
             In a 3Pi project, particularly one that is initiated by the Government, the choice of commercial partner(s) is vital. The chosen partner should have a clearly viable business model or the project will be doomed to failure. Several unsuccessful attempts at 3Pi projects began with the Government providing seed funding to start up the project (usually a portal business). The partner, who more often than not was selected based on technical competence and not business acumen, continued to rely on Government funding to sustain the portal business long beyond rollout. The burden to sustain the commercial portal (especially since the Government’s own portal had ceased operation) outstripped the benefits that had been brought about through the 3Pi approach. </p>
@@ -624,35 +619,24 @@ and Singapore’s citizens and businesses.
 <p><strong>Exclusivity:</strong> <br>
             The Government generally does not grant exclusivity in its engagement with commercial vendors, as it still wants to retain the option of engaging other partners. However, commercial partners frequently prefer to negotiate for an exclusive engagement, as it provides protection against competition and gives a certain assurance of business demand. In fact, some commercial partners view this as a critical success factor for the partnership to flourish. </p>
 <p>Despite these challenges, public agencies who have engaged in 3Pi projects have gained valuable insight into business thinking, modelling and marketing. Businesses have also come to appreciate the Government’s need to strike a balance between creative flexibility and public accountability. These experiences continue to reap benefits for public-private sector relations well beyond the scope of the specific project. – Karen Wong</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 
-<p>&nbsp;</p>
+</div>
 
-<p>&nbsp;</p>
 
-<table width="95%" class="greybox" cellspacing="5" cellpadding="5" border="0">
-<tbody>
-<tr>
-<td valign="top" style="background-color: #fbe2c9;">
+<div class="greenbox">
+
 <h3>BEYOND SERVICE DELIVERY</h3>
-</td>
-</tr>
-<tr>
-<td valign="top" style="background-color: #fbe2c9;">
+
+
 <p>As part of the e-Government revolution, public service agencies have embarked on a series of broad initiatives in order to reap efficiency gains from streamlining and integration, and IT-enabled automation.</p>
 <p><strong>Consolidating Shared Services:</strong> Pooling shared services across different government agencies, such as human resource and finance through the Vital.Org initiative, reaps economies of scale across the public sector, while allowing Ministries to retain a high degree of autonomy in decision making.</p>
 <p><strong>End-to-end servicing:</strong> The Online Business Licensing System (OBLS) integrates the processes needed to apply a plethora of business licences. However, integration means more than just automating the application process—it means possibly doing away with some licenses or using alternative non-licensing measures to achieve regulatory objectives. </p>
 <p><strong>Standardisation and collaboration:</strong> A new infrastructure, the Standard Operating Environment (SOEasy), is being built as a standardised ICT operating environment for the entire public sector. It will homogenise, consolidate and aggregate demand of all desktops, messaging, online collaboration tools and network environment across all government agencies, involving some 60,000 users across 73 agencies. The result will be a rich, portable and interactive environment through which all public officers can work and collaborate, regardless of their physical location in the public sector. – Karen Wong</p>
-</td>
-</tr>
-</tbody>
-</table>
 
 
+</div>	
+
+	
 <div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
