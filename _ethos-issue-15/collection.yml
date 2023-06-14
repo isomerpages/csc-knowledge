@@ -2,6 +2,7 @@ collections:
   ethos-issue-15:
     output: true
     order:
+      - The Nature of Public Trust in Government.md
       - Survey of Fairness Perceptions in Singapore Public Policy.md
       - Uniquely Singapore, Uniquely CPF.md
       - Risk Ready Leadership.md
