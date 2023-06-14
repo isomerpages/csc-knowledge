@@ -2,6 +2,8 @@ collections:
   ethos-issue-04:
     output: true
     order:
+      - "Integrated Service Delivery: The Australian Department of Human
+        Services.md"
       - "Interview with Ng Hock Keong: Service Beyond Excellence.md"
       - "Ten Tips: How to Create a Next Generation Public Service Super
         Portal.md"
