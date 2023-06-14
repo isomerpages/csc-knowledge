@@ -186,12 +186,12 @@ delivery, and intentionally weave these elements together. Public engagement pra
   
 <br>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Yeoh Chee Yan</strong> is Permanent Secretary at the Ministry of Culture, Community and Youth. She chairs the Committee on Citizen Engagement under the PS21 Executive Committee, which provides strategic guidance and coordination on whole-of-government engagement issues. </p>  
-  
+ </div>
 
 
 
