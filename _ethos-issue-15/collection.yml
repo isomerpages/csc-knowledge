@@ -2,6 +2,7 @@ collections:
   ethos-issue-15:
     output: true
     order:
+      - "Public Communication and Engagement in China: Lessons for Singapore.md"
       - The Challenge of Public Communications.md
       - Narratives and the Institutional Imagination.md
       - Race or Erase?.md
