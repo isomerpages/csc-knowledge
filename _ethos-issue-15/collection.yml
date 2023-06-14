@@ -2,6 +2,7 @@ collections:
   ethos-issue-15:
     output: true
     order:
+      - Engaging Citizens in the Digital Age.md
       - When the Government Goes Online.md
       - Communicating to Our Pioneer Generation.md
       - "Public Communication and Engagement in China: Lessons for Singapore.md"
