@@ -76,7 +76,7 @@ font-size: 16px;
 
 </style>
 
-<em><small>ETHOS Issue 04, April 2008</small></em>
+<em><small>ETHOS Issue 04, Apr 2008</small></em>
 <img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
 
