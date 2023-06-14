@@ -83,13 +83,13 @@ li {
 While the PGP is comprehensive, it is also complex in design, affecting different individuals differently depending on their individual circumstances. This made communication a challenge: not only did overall publicity about the PGP need to be simplified, but there was also a need to customise the communication to specific audiences. Many Singaporeans already found the existing healthcare financing and assistance schemes hard to understand.<a href="#notes"><sup class="#notes">5</sup></a> The PGP involves multiple tiers of subsidy that depend on the complexity of the presenting disease and whether it would be covered by other existing schemes. Such intricacies are not only difficult to explain but are also dependent on individual contexts.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 While the PGP is comprehensive, it is also complex in design, affecting different individuals differently depending on their individual circumstances.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <div class="article-blockquote">  
 <p>  
@@ -116,7 +116,7 @@ expressing appreciation and respect in a personal way, which would not have been
   
 <br>  
   
-<img title="iss15art4fig2a" src="../../images/default-source/ethos-images/ethos-issue-15/iss15art4fig2ab85af8664a8143c787ff35e820cf0f8d.jpg?sfvrsn=a31944ac\_0" data-displaymode="Original" alt="Message Map for the Pioneer Generation">  
+<img title="iss15art4fig2a" src="/images/Ethos_Images/Ethos_Issue_15/ISS15_Art4_Fig2a.jpg" data-displaymode="Original" alt="Message Map for the Pioneer Generation">  
 <sub><br>  
 </sub>  
   
