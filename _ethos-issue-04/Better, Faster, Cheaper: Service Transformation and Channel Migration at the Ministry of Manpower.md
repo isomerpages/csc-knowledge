@@ -17,17 +17,15 @@ description: ""
 	width:100%;
 }
 	
-.green
+.work-permit
 {
 background-color: #939547;	
 padding: 30px;
 }
 	
-.green h5	
+.work-permit h3, .work-permit p, .work-permit li, .work-permit h4
 {
 	color: white;
-	text-align: center;
-	font-size: 24px;
 }	
 
 .boxheader {
@@ -140,7 +138,7 @@ border-top: 1px solid black;
 
 
 
-<div class="wor">
+<div class="work-permit">
 
 
 <h3 class="title">WORK PERMIT ONLINE: A WORLD CLASS E-SERVICE</h3>
@@ -154,7 +152,7 @@ border-top: 1px solid black;
 <li>Number of documents to be submitted reduced from 23 to seven.</li>
 </ul>
 <h4>WORK PASS APPLICATIONS RECEIVED AND PERCENTAGE PROCESSED WITHIN BENCHMARK TIME</h4>
-<p style="text-align: center;"><img title="WORK PASS APPLICATIONS RECEIVED AND PERCENTAGE PROCESSED WITHIN BENCHMARK TIME" src="../../images/default-source/ethos-images/ethos-issue-4/6g3.jpg?sfvrsn=e4413c1c_0" data-displaymode="Original" alt="WORK PASS APPLICATIONS RECEIVED AND PERCENTAGE PROCESSED WITHIN BENCHMARK TIME"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_04/WorkPassApplication.jpg"></p>
 <p>For its achievements, the WPOL service was awarded the 2006 UN Public Service Award for improving transparency, accountability, and responsiveness in the Public Service. MOM was one of only three government organisations worldwide, and the only one in the Asia-Pacific region to receive the award. – Penny Han </p>
 
 
