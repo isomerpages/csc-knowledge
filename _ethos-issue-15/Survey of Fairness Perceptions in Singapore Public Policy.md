@@ -77,13 +77,13 @@ li {
   
 <p>Do Singaporeans have a dominant view of what is fair or unfair in public policy? Are public perceptions of fairness consistent or do they vary across different policy domains? Are these perceptions systemic and what are their implicit rules? We conducted a survey to address these questions.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>"It’s my point that every policy that comes out has to be reasoned and reasonable. It’s reasoned in the sense that every policy has its rational grounds based on data, knowledge, for you to come to the best choice of what action to take. But every policy must also be reasonable in the minds of the people who are affected. Reasonableness is an emotional assessment and not a rational assessment. The reasonableness part of it is when the people are going to look at it and say ‘Does that seem fair, does that seem reasonable?’ The policy needs to pass this test."</em></h5>  
+<p class="break1">"It’s my point that every policy that comes out has to be reasoned and reasonable. It’s reasoned in the sense that every policy has its rational grounds based on data, knowledge, for you to come to the best choice of what action to take. But every policy must also be reasonable in the minds of the people who are affected. Reasonableness is an emotional assessment and not a rational assessment. The reasonableness part of it is when the people are going to look at it and say ‘Does that seem fair, does that seem reasonable?’ The policy needs to pass this test."</p>  
   
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">— Mr Lim Siong Guan, former Singapore Head of Civil Service<a href="#notes"><sup class="#notes">1</sup></a></p>  
   
-<hr>  
+</div>  
   
 <h3>Objectives of the Survey</h3>  
   
@@ -101,7 +101,7 @@ li {
   
 <br>  
   
-<img title="iss15art11fig2" src="../../images/default-source/ethos-images/ethos-issue-15/survey-of-fairness-perceptions-in-singapore-public-policy/iss15art11fig2.jpg?sfvrsn=bc5e44f5\_0" data-displaymode="Original" alt="Key Finding #1">  
+<img title="iss15art11fig2" src="/images/Ethos_Images/Ethos_Issue_15/Sur_Fairness_PerceptIn_SG_PP/Iss15_Art11fig2.jpg" data-displaymode="Original" alt="Key Finding #1">  
 <sub><br>  
 </sub>  
   
