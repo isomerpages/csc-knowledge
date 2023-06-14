@@ -225,8 +225,7 @@ li {
 
 
 
-<p class="small-text text">Better Public Services Result 10<a href="#notes"><sup class="#notes">1</sup></a> seeks to enable New Zealanders to complete their transactions with government easily in a digital environment. The measure of success is the proportion of New Zealanders’ most common transactions with government that are completed in a digital environment.
-</p>
+<br>
 
 
 
