@@ -2,6 +2,8 @@ collections:
   ethos-issue-04:
     output: true
     order:
+      - "Better, Faster, Cheaper: Service Transformation and Channel Migration
+        at the Ministry of Manpower.md"
       - Reinventing Singapore’s Electronic Public Services.md
       - Leveraging Networks for Public Service Delivery.md
       - Creating and Measuring Public Service Value.md
