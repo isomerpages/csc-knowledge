@@ -174,7 +174,7 @@ technical specifications alone.
 
 <p>I always tell my chaps that service delivery is not only about transactions. Through these service experiences, goodwill has been built over the last five decades and that is why the customer has trust in the organisation. It is not an overnight task. It takes a long runway to build a strong service culture in an organisation. It is a journey that never ends.</p>
 
-<hr>
+
 
 <div class="author">
 
@@ -184,9 +184,9 @@ technical specifications alone.
 	
 </div>
 
-
-
-
+<br>
+<br>
+<br>
 <br>
 
 	
