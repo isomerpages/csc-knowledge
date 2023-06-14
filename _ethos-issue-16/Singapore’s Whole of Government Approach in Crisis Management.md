@@ -160,8 +160,7 @@ Public Service.<a href="#notes-6"><sup class="#notes-6">6</sup></a>
 
 
 
-<p class="small-text text">Commit time, resources and practice to make it work<br>
-Organisational structures by themselves have nominal authority over agencies. It is the commitment of key leaders, as expressed in the adequate investment of time and resources, including frequent drills to anchor capabilities, that cements the credibility and effectiveness of the coordinating structure. Constant exercises smooth out the interface between agencies and personnel, allowing any unforeseen frictions or hindrances to be identified and rectified. Drills may pull agencies and officers away from routine work, and managers may cite important duties as justification to skip them, but the commitment and discipline to regular exercises is the “software” that allows the “hardware” of structural arrangements to be effective in inter-agency coordination.</p>
+<br>
 
 
 
