@@ -256,7 +256,7 @@ li {
 
 <ol>
 <li id="notes-1" class="small-text">The uniqueness of this approach was covered by Olivia Ho of <em>The Straits Times</em> in “SGFuture dialogue: Plenty of jobs, but few takers – why?”, 6 March 2016.</li>
-<li id="notes-2" class="small-text">More information can be found at <a href="https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html#travel_smart_by_planning_your_journey">https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html#travel_smart_by_planning_your_journey"</a></li>
+<li id="notes-2" class="small-text">More information can be found at <a target="_blank" href="https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html#travel_smart_by_planning_your_journey">https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html#travel_smart_by_planning_your_journey"</a></li>
 <li id="notes-3" class="small-text">More information can be found at <a target="_blank" href="https://www.healthhub.sg/programmes/37/nsc">www.healthhub.sg/programmes/37/nsc</a></li>
 <li id="notes-4" class="small-text">According to a 4 August 2016 article “Imagination in the Augmented-Reality Age” in The Atlantic, the game attracted more than 21 million users since its release in July 2016. While a Bloomberg Markets article on 23 August 2016 reported that the game was already on the decline, the game is arguably just the tip of the iceberg in terms of AR adoption</li>
 </ol>
