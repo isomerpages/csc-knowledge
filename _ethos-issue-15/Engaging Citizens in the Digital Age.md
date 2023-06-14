@@ -136,13 +136,13 @@ As Singapore developed and the public became more educated and outspoken, commun
   
 <br>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Effective public engagement can also increase mutual trust and shared ownership of policy outcomes.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>  
 The New Digital Imperative  
