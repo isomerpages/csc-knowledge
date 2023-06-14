@@ -18,7 +18,7 @@ description: ""
 	
 .red
 {
-background-color: #B9422F;	
+background-color: #7c4664;	
 padding: 30px;
 font-family: Georgia;
 text-align: center;
@@ -206,32 +206,25 @@ font-size:16px;
 
 <p><strong>Turn Ideas into Reality:</strong> To realise real benefit, we need to encourage agencies with the right expertise to lead and implement good cross-agency ideas. For this to happen, the Ministry of Finance (MOF) is developing a “Centre of Expertise” framework. For each idea, MOF aims to encourage a natural agency to take up a leadership role. These lead agencies will be recognised as Centres of Expertise, and will coordinate with different agencies to provide the expertise necessary to implement the ideas. If required, MOF will be a strategic partner in execution, helping to bring agencies together by providing a Whole-of-Government perspective.</p>
 
-
+<div class="red">
 <h5><em>
-New processes should either
-increase the efficiency and
-effectiveness of our public
-services through multiagency
-collaborations, or
-address gaps in the
-Government’s capabilities.
+New processes should either increase the efficiency and effectiveness of our public
+services through multiagency collaborations, or address gaps in the Government’s capabilities.
 </em></h5>
+</div>
 
 
 
 <p>For instance, the Monetary Authority of Singapore (MAS), the Infocomm Development Authority (IDA) and MOF are working hand-in-hand to bring about the next wave of e-payment innovation and adoption. Each party brings their respective competencies to the table: MAS as the financial regulator, IDA as the technical expert and MOF as the catalyst for innovative public services. Together, the three agencies hope to spur the next wave of payment innovation, such as allowing Singapore residents to pay for purchases with their hand phones, unlocking new opportunities for public services.</p>
 
-<hr>
 
+<div class="red">
 <h5><em>
-In the new world of Wikipedia,
-citizens are not satisfied with
-just being consumers—they
-can and want to participate
-and have a say.
+In the new world of Wikipedia, citizens are not satisfied with just being consumers—they
+can and want to participate and have a say.
 </em></h5>
+</div>
 
-<hr>
 
 <p>By achieving an integrated Government, we build up our internal networks of resources and ideas, as well as improve our ability to leverage these networks to develop and deliver new public services.</p>
 
@@ -247,18 +240,12 @@ and have a say.
 
 <p>In the long term, we envision a government that, instead of being the sole provider of public services, sets and referees the rules in an ecosystem which allows new participants, whether private sector or individuals, to freely innovate and create value-added services on top of or even superseding existing public services. Government services and data will be made available, where possible, in a new way so that businesses and individuals can re-use them to develop innovative “mash-ups”. This cross-sectoral network of “public-private governance” will be empowered to deploy new value-added services to the public, generate ideas on how to solve complex issues and implement creative solutions.</p>
 
-<hr>
 
+<div class="red">
 <h5><em>
-How successful we are at leveraging
-networks will depend on how well
-we can encourage spontaneous
-and unplanned “partnerships” to
-proliferate, and nurture a culture
-that can tap on it.
+How successful we are at leveraging networks will depend on how well we can encourage spontaneous and unplanned “partnerships” to proliferate, and nurture a culture that can tap on it.
 </em></h5>
-
-<hr>
+</div>
 
 <p>However, this path is not without its challenges. We will need to grapple with issues that include information security, accountability and privacy. How do we prevent unauthorised access and usage? How do we ensure that businesses and individuals use government systems and data responsibly? And how do we balance all these against issues such as privacy and economic viability? These are complex issues that will pose immense challenges. However, the potential rewards are so great that we cannot afford to ignore the possibilities.</p>
 
