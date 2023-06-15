@@ -55,7 +55,7 @@ margin-top:15px;
 	<div>
 		<h3>Issue 15 June 2016<br> ETHOS Issue 15</h3>
 		<p></p>
-		<div class="button1"><a href="">Download PDF</a></div>
+		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-15.pdf">Download PDF</a></div>
 	</div>
 </div>
 
