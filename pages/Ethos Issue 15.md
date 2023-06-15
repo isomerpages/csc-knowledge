@@ -79,8 +79,8 @@ margin-top:15px;
 	<div>
 		<h3>Intentional Public Engagement: The Next Phase of Government-Citizen Relations</h3>
 		<b><i>BY YEOH CHEE YAN</i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<p>Public engagement in Singapore should become more purposeful, meaningful and integrated across traditional institutional and sectoral boundaries.</p>
+		<div class="button1"><a href="/ethos-issue-15/intentional-public-engagement-the-next-phase-of-government-citizen-relations/">Read more</a></div>
 	</div>
 </div>
 
