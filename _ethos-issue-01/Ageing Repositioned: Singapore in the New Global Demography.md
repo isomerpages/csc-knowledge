@@ -93,7 +93,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 01, Oct 2006</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_01/Ageing_Repositioned.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_01/1_Banner_Ageing%20Repositioned-%20Singapore%20in%20the%20New%20Global%20Demography.jpg">
 
  
 <p>There has been a corresponding increase in longevity, with life expectancy at birth now 77 years for men and 81 years for women.<sup>1</sup> Within 25
