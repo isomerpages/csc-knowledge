@@ -75,13 +75,13 @@ li {
   
 <p>In a 2014 interview with the Gail Foster group, Deputy Prime Minister Tharman Shanmugaratnam pointed out that while many think of Singapore as an economic success, it is the “social integration of our citizens and our institutions that has fostered an unusual degree of social mobility in our first four decades and that defines Singapore’s development story”.<a href="#notes"><sup class="#notes">1</sup></a> This compact between economic and social strategies<a href="#notes"><sup class="#notes">2</sup></a> has been a remarkably consistent theme in the development of Singapore. In the first few decades after Independence, socially oriented policies — including the provision of public housing, education and healthcare — promoted social stability and built up a capable, productive workforce attractive to foreign investment. Early successes in fulfilling these public needs gave the Singapore Government a longer runway to develop long-term, rational economic strategies for growth. This association of economic development with social wellbeing would come to underlie the relationship and social contract between Singaporeans and their Government in the years to come. As the late Deputy Prime Minister Goh Keng Swee put it: “It is dangerous to execute an economic development plan which has reference only to economic variables, important though these are… The creation of wealth, which is what economic development is about, is basically a simple process. All it requires is the application of modern science and technology to production, whether in agriculture, mining or industry… What is more difficult to achieve is a social and political order that enables development to take place. Where a stable political system is achieved, progress can be&nbsp;spectacular…”<a href="#notes"><sup class="#notes">3</sup></a> </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Those who have done well on merit through the Singapore system have an obligation to give back to the society that enabled them to succeed.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Consistent with this social contract, public assistance was kept low to encourage self-reliance and effort; individuals would work hard to support themselves and their families to the best of their own efforts and abilities, while the Government would “provide all its citizens with the same opportunities to make the best that they can of their available talents, … skills and abilities to rise to the position for which they are best fitted”.<a href="#notes"><sup class="#notes">4</sup></a> Economic growth and the steady rise in affluence soon buoyed up Singaporeans, who enjoyed intergenerational mobility in incomes and educational attainment across the social spectrum.<a href="#notes"><sup class="#notes">5</sup></a></p>  
   
@@ -91,13 +91,13 @@ Those who have done well on merit through the Singapore system have an obligatio
   
 <p>Policies continued “to ensure that every Singaporean has equal and maximum opportunity to advance himself, while providing a social safety net to prevent the minority who cannot cope, from falling through”.<a href="#notes"><sup class="#notes">6</sup></a> Measures were introduced to redistribute Singapore’s budget surpluses back to Singaporeans to enhance their assets and to defray essential expenses<a href="#notes"><sup class="#notes">7</sup></a> such as services and conservancy, and utility charges. Explaining new measures to support the needs of lower-income households in 2001, then-Prime Minister Goh Chok Tong argued that “… higher-income Singaporeans owe their success in part to the others who support our social compact. They must, therefore, be prepared to lend a helping hand to those among us who are not so well off. Only then can we remain a cohesive and stable society. It cannot be every man for himself. For a person to succeed, he needs a launch-pad from society. … In turn, lower-income Singaporeans must support the enterprise and efforts of those who have the ability. We must not resent those who create wealth, for themselves and for&nbsp;Singapore.”<a href="#notes"><sup class="#notes">8</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 This “paradox of active government support for self-reliance” requires Singaporeans to retain their personal drive and dignity as part of this compact.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Mr Goh’s statements outlined a new dimension in Singapore’s social compact, expanding its scope beyond the creation of fair opportunities for all Singaporeans to highlight a greater sense of collective responsibility. Those who have done well on merit through the Singapore system have an obligation to give back to the society that enabled them to succeed. This entails mitigating social inequality and helping those who are less able to progress.<a href="#notes"><sup class="#notes">9</sup></a> In an iteration of the social compact of collective responsibility, and mutual support, successful individuals would also be expected to contribute to society by helping their less fortunate counterparts through philanthropy, volunteerism and community service. </p>  
   
