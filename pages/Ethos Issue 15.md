@@ -128,8 +128,8 @@ margin-top:15px;
 	<div>
 		<h3>Public Communication and Engagement in China: Lessons for Singapore</h3>
 		<b><i>BY TAN LI SAN AND LIM CHEE KIA</i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<p>The Chinese government is exploring new media strategies to engage a public more willing and able to express themselves online.</p>
+		<div class="button1"><a href="/ethos-issue-15/public-communication-and-engagement-in-china-lessons-for-singapore/">Read more</a></div>
 	</div>
 </div>
 
