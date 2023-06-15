@@ -179,7 +179,7 @@ li {
   
 <p class="small-text">The authors would like to thank the following persons for their inputs towards this article: A/Prof John Abisheganaden, Mr Peter Ho, Dr Benjamin Koh, A/Prof Kenneth Mak, MG (NS) Ng Chee Khern, Dr Ng Yeuk Fan and Mrs Tan Ching Yee.&nbsp;</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -187,7 +187,7 @@ li {
   
 <p class="small-text"><strong>Aaron Maniam</strong> is Director, Industry Division at the Ministry of Trade and Industry, where he oversees policy and regulation of the manufacturing, exportable services and tourism sectors, as well as long-term economic strategy. He served previously as Director of the Institute of Public Sector Leadership at the Civil Service College, founding Head of the Centre for Strategic Futures, and a diplomat with the Ministry of Foreign Affairs. Outside of work, he is a published poet and active in youth leadership, community service and inter-faith dialogue projects.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -214,9 +214,6 @@ li {
 <li class="small-text">Vandenbroeck, Philippe. Working with Wicked Problems. Brussels, Belgium: King Baudouin Foundation, 2012. www.kbs-fre.be</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
