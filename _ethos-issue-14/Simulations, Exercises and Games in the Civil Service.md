@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 15, June 2016</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_14/14_Banner_Simulations,%20Exercises%20and%20Games%20in%20the%20Civil%20Service.jpg">
 
 
 
