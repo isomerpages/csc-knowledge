@@ -114,8 +114,10 @@ and Policy</h3>
             
 <p>Is there an impending ageing crisis? Two views predominate in the global discourse.</p>	
             
-<div class="button1"><a target="_blank" href="/ethos-issue-24/the-future-of-urban-sustainability-implications-for-governance/">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-01/ageing-and-public-policy-aglobal-perspective/">Read More</a></div><br></div>
     </div>
+		
+		
 <br>
 <div class="grid-container">
       <div><img src="/images/Ethos_Images/Ethos_Issue_01/Successful_Ageing.jpg">
@@ -127,7 +129,7 @@ A Review of Singapore’s Policy Approaches</h3>
 the national agenda since the 1980s, with several high-level
 committees formed to study ageing trends.</p>	
             
-<div class="button1"><a target="_blank" href="/ethos-issue-24/skilling-up-for-a-green-future/">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-01/successful-ageing-a-review-of-singapores-policy-approaches/">Read More</a></div><br></div>
     </div>
     
 <br>    
@@ -140,7 +142,7 @@ Singapore in the New Global Demography</h3>
             
 <p>Singapore will soon be one of the demographically oldest countries in East Asia, as measured by the proportion of the population aged 65 and over. The median age of Singapore residents has increased over the past quarter-century, from 24.4 years in 1980 to over 35 today. This has been fuelled by a fall in Singapore’s Total Fertility Rate, which now stands at 1.24 per resident female, one of the lowest in the world.</p>	
             
-<div class="button1"><a target="_blank" href="/ethos-issue-24/valuing-sustainability-and-the-environment/">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-01/ageing-repositioned-singapore-in-the-new-global-demography/">Read More</a></div><br></div>
     </div>
     
 <br>    
@@ -152,7 +154,7 @@ What to Expect and What to Do</h3>
   <p>What will the global ageing trend mean for finance, investment
 and production? Professor Norbert Walter highlights the economic implications of ageing in the coming decades.</p>	
             
-<div class="button1"><a target="_blank" href="/ethos-issue-24/green-transport-in-singapore-public-attitudes-intention-and-actions/">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-01/ageing-population-what-to-expect-and-what-to-do/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
@@ -162,7 +164,7 @@ and production? Professor Norbert Walter highlights the economic implications of
             
 <p>The ageing of populations worldwide has had national governments scrambling to stave off looming economic decline and fiscal disarray.</p>	
             
-<div class="button1"><a target="_blank" href="/ethos-issue-24/sustainability-as-behavioural-change-nudging-the-good-discouraging-the-bad/">Read More</a></div><br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-01/the-real-challenges-of-an-ageing-population/">Read More</a></div><br></div>
 </div>
 
  <br>	
