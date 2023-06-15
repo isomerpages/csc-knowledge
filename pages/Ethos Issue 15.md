@@ -112,7 +112,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_15/Ethos_Issue_15_Teaser_pioneer.PNG"></div>
 	<div>
 		<h3></h3>
 		<b><i></i></b>
