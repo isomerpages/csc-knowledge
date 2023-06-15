@@ -69,6 +69,7 @@ li {
 <em><small>ETHOS Issue 15, June 2016</small></em>
 <img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
+
   
 <h3>Regarding Complexity</h3>  
   
@@ -215,7 +216,6 @@ li {
 <br>  
   
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
 
 
 
