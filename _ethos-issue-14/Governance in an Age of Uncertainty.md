@@ -52,13 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #eceedb;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #b3a74b;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -92,7 +94,7 @@ li {
   
 <div class="break">  
   
-<p class="break">  
+<p class="break1">  
 In a more politicised environment, clarity and commitment to the values of public service will help ensure the resilience of our institutions of governance.  
 </p>  
   
@@ -112,13 +114,13 @@ In a more politicised environment, clarity and commitment to the values of publi
   
 <p>Amidst these shifts, the Public Service must continue to be professional and uphold the rule of law without fear or favour. In a more politicised environment, clarity and commitment to the values of public service will help ensure the resilience of our institutions of governance.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 While the currency of control is power, and that of competition is money, the currency of collaboration is relationships.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h4>Structure and Organisation</h4>  
   
@@ -133,12 +135,12 @@ While the currency of control is power, and that of competition is money, the cu
   
   
   
-<p class="small-text text">It can often be challenging to solve problems that cut across agency mandates, because of the vertical nature of reporting. Cross-domain issues can take a long time to address. This was one reason the Municipal Services Office (MSO) was established in 2014. It brings together 11 agencies to address cross-domain municipal issues. For example, certain agencies now take the lead on issues, such as public greenery and cleanliness. The MSO has also developed processes to help agencies handle public requests for footpaths, street lamps and other local infrastructure that cut across their boundaries.</p>  
+<br>
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Addressing cross-agency issues through new structures</h3>  
@@ -160,12 +162,12 @@ While the currency of control is power, and that of competition is money, the cu
   
   
   
-<p class="small-text text">Within the Singapore Public Service, the Public Service Leadership Programme (PSLP) nurtures experts to become leaders in the economy, infrastructure and environment, social, security and central administration sectors. They complement generalists in the Administrative Service.</p>  
+<br>
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Broadening Public Sector Leadership</h3>  
@@ -273,13 +275,13 @@ While the currency of control is power, and that of competition is money, the cu
   
 <p class="small-text">The author thanks Wan Chng (Assistant Manager, Institute of Public Sector Leadership, Civil Service College), Vernie Oliveiro (Senior Researcher, Institute of Governance and Policy, Civil Service College) and Tan Li Sheng (former Senior Assistant Director, Centre for Strategic Futures) who provided substantial content and revisions to this essay.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Terence Poon</strong> is a Lead Strategist at the Centre for Strategic Futures, a think tank in the Prime Minister’s Office. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
