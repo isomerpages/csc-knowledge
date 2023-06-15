@@ -2,6 +2,7 @@ collections:
   ethos-issue-14:
     output: true
     order:
+      - Governance in an Age of Uncertainty.md
       - Embracing Complexity in Healthcare.md
       - Simulations, Exercises and Games in the Civil Service.md
       - Gearing the Public Service for SG100.md
