@@ -51,7 +51,7 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue15.jpg"></div>
 	<div>
 		<h3><br></h3>
 		<p></p>
