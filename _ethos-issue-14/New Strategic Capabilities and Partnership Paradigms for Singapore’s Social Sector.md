@@ -53,13 +53,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #eceedb;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #c68429;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -82,13 +84,13 @@ li {
   
 <p>However, it may be time to review and recalibrate Singapore’s approach. Given the increasing volatility of&nbsp;the global economy, shorter employment&nbsp;cycles, technological displacement and wage depression, the bottom 20th percentile remains particularly vulnerable to prevailing economic trends. Evidence suggests that lower-middle income households in the 30th–50th percentile, numbering approximately 22,940, are also increasingly in need of help.<a href="#notes"><sup class="#notes">2</sup></a> The profile and needs of the poor and needy have become increasingly complex, rendering traditional methods less effective in breaking the poverty cycle. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 To be able to more effectively support Singapore's poor and vulnerable, ongoing and contextually relevant research regarding their specific needs and difficulties is essential.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Clearly, the nature of the partnership between public, social services and community sectors needs to evolve and move towards supporting self-reliance. New challenges increasingly affect vulnerable Singaporeans in not just one, but multiple inter-related aspects of their&nbsp;lives.</p>  
   
@@ -98,13 +100,13 @@ To be able to more effectively support Singapore's poor and vulnerable, ongoing 
   
 <p>If the public sector is no longer able to cater to increasingly diverse and complex needs on its own, then moving towards a model of greater partnership and collaboration with the social services and community sectors makes sense. The Government will have to rethink its traditional role as the dominant player in social service provision, to embrace a broader spectrum and scope of responsibilities. In addition to being a provider of assistance and services, and an architect of effective structures for services delivery, the Government should take on additional roles as a developer of capabilities, facilitator, convenor, enabler and partner. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Risk management capabilities will become increasingly relevant to social sector organisations, defined not so much by profit-based objectives as qualitative outcomes.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Part of the public sector’s role as a facilitator should be to promote greater latitude for collaborations and partnerships,&nbsp;as other sectors assume a greater role in supporting the needy. The growing complexity and diversity of challenges faced by the poor and vulnerable is likely to be a manifestation of an underlying web of needs — employment, housing, health, behavioural barriers — that are deeply embedded and intertwined. To address such interconnected needs, timely and effective interventions may best be achieved by leveraging on more horizontal network structures<a href="#notes"><sup class="#notes">3</sup></a> that can facilitate access to information and feedback, help relevant players respond quickly to changes and needs,<a href="#notes"><sup class="#notes">4</sup></a> and allow each sector to tap on the resources of the others.</p>  
   
@@ -124,13 +126,13 @@ Risk management capabilities will become increasingly relevant to social sector 
   
 <p>Capable leadership will be called for in key areas of corporate governance&nbsp;— strategic planning, organisational&nbsp;design, change management,<a href="#notes"><sup class="#notes">6</sup></a> negotiation, communication and public engagement&nbsp;— both within each individual welfare organisation, and across the social services sector as a whole. At the same time, core management capabilities will also be needed to translate strategy into the structures, processes and operations necessary to realise social objectives in a sustainable and effective manner.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Capable leadership will be called for in key areas of corporate governance — both within each individual welfare organisation, and across the social services sector as a whole.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h4>Managing Risks in the Social Sector</h4>  
   
@@ -141,12 +143,12 @@ Capable leadership will be called for in key areas of corporate governance — b
   
   
   
-<p class="small-text text">Singapore is not alone in its bid to redefine partnership paradigms towards a stronger social sector. In response to a confluence of global and domestic pressure for reform, countries around the world have adopted a variety of new approaches in tackling social issues.</p>  
+<br>
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">New Partnership Paradigms: Examples From the UK and Canada</h3>  
