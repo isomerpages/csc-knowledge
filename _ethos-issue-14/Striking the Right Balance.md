@@ -119,13 +119,13 @@ li {
   
 <p><span class="ms-rteForeColor-6"><strong><span style="color: #76923c;">Hamzah</span>:</strong></span> The challenge will be trying to get people to understand the processes and institutions of governance. Some have done it through schools or through civic education. Once you have that understanding, I think there must also be some leadership, whether it’s from the government or from the community, to forge not just a whole-of-government approach, but a “Whole-of-Nation” partnership. Every nation has different cultures, different values – I think in this process you will uncover your true values. What matters most to a society? This will inform the way it allocates its resources. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 We should consider our definitions of meritocracy. Is meritocracy a matter of academic achievement and hard work? Or do we say that we want people to train from young to be good at what they do, to work hard for what they earn and what they deserve? Values can also be seen as competencies regardless of credentials.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>On Meritocracy, Values and an Inclusive Society</h3>  
   
@@ -137,13 +137,13 @@ We should consider our definitions of meritocracy. Is meritocracy a matter of ac
   
 <p>My grandfather never went to school and he was one of the most successful businessmen in Saudi Arabia&nbsp;— he had a very strong set of values. Our system recognises values such as empathy, loyalty, passion, trustworthiness and service orientation. These things can be instilled and ingrained, like a sort of cultural DNA; the rest are hard skills that can be trained for. In the course of the next generation, academic credentials will be rated less highly. There will be different ways of delivering knowledge and education. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 If we don't take into account the social aspects of life, and think about them holistically, the way we think about the environment and pollution, they could just as well destroy us.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>I would say the focus in the future ought to be more on tools for behavioural and attitudinal analysis. There are very good psychometric tools that are used in the private sector to assess people’s behaviours and attitudes — a psychological composition, on how they deal with issues. To me, these are as good indicators of quality as someone’s academic background. I have met people with graduate degrees from Harvard who don’t really fit in the workplace; someone else with the right charisma, attitude and values could do much better. </p>  
   
