@@ -63,13 +63,13 @@ margin-top:15px;
  <br>
  
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/foreword.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_preface_foreword.jpg"></div>
 	<div>
 		<h3>Foreword</h3>
 		<b><i>Peter Ho</i></b>
 		<p>We are at an inflexion point. Globalisation and rapid advances in technology are transforming business, politics and society. The simultaneous rise of China and India are changing trade flows and mapping out new patterns of influence. </p>
 	
-<div class="button1"><a target="_blank" href="/ethos-issue-24/preface/">Read more</a></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-01/foreword/">Read more</a></div>
 </div>
 </div> 
 
@@ -85,7 +85,7 @@ margin-top:15px;
                 
  <p>Our inaugural issue brings to bear some of the leading minds on a matter of global concern and national interest: Ageing. By 2050, the number of persons over 60 years of age will exceed that of children globally for the first time in human history. Singapore is also expected to age rapidly. What can we expect in the decades to come and what can we do about it today?</p>	
             
-<div class="button1"><a target="_blank" href="/ethos-issue-24/editorial/">Read More</a></div> <br></div>
+<div class="button1"><a target="_blank" href="/ethos-issue-01/editorial/">Read More</a></div> <br></div>
     </div>
 
  <br>	
