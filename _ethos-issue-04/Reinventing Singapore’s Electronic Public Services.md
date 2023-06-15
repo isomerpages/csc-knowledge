@@ -115,7 +115,13 @@ color: white;
 
 <div class="milestones">
 
-<h3>Milestones in our e-Government Journey</h3>
+<h3>Milestones in our e-Government Journey</h3>	
+<figure>
+<img src="/images/Ethos_Images/Ethos_Issue_04/milestones.png">
+<figcaption>Download PDF</figcaption>
+</figure>	
+	
+</div>
 
 
 <div class="green">
@@ -445,4 +451,4 @@ and Singapore’s citizens and businesses.
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></div>
+</div>
