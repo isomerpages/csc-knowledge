@@ -293,9 +293,7 @@ While the currency of control is power, and that of competition is money, the cu
 <li class="small-text">The class of the 9th Leaders in Administration Programme, a milestone programme for senior public sector leaders, developed a narrative based on “Hope, Heart, and Home”, to which Emeritus Senior Minister Goh Chok Tong added a cautionary note that the narrative of “fear” was still necessary.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
