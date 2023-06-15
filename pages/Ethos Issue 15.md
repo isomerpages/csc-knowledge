@@ -220,11 +220,15 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Risk-Ready Leadership</h3>
+		<b><i>Participants: <br>
+			Mr Nikhil Seth<br>
+			Ms Stephanie Foster<br>
+			Mr Said Faisa
+			</i></b>
+		<p>Three distinguished participants from Singapore’s 8th Leaders in Governance Programme share insights on how the public sector can embrace a more complex and uncertain world.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
