@@ -103,13 +103,13 @@ li {
   
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #7030a0;">Foster</span>:</strong></span> In Australia, the focus has been on the need for public service to be agile and flexible — features which haven’t been traditionally associated with bureaucratic, hierarchical organisations. This is about being flexible and adaptive both in terms of the way in which we respond to a changing public environment, as well as the way we work with each other. We’ve talked a lot about the need to work across government, and working genuinely with citizens, private sector and non-profit sectors. So it’s moving away from what Nikhil terms an environment of <em>benevolence</em> towards one of more genuine co-creation, to use a current buzzword.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The question is no longer about managing the risk, but living with the risk.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>This has enormous challenges for organisations that have not been used to working like that. But it also has enormous benefits, in the way we have been nudging the public to serve themselves — a concept more familiar in Singapore than in many other countries — so that we can meet the demand for service that is immediate, responsive and delivered in a way people want without expanding the public service. By harnessing the power of a more capable, educated public, we can, together, deliver a much higher level of service, and achieve all of the things that we want to do.</p>  
   
@@ -123,13 +123,13 @@ The question is no longer about managing the risk, but living with the risk.
   
 <p><span class="ms-rteThemeForeColor-5-4"><strong><span style="color: #31859b;">Seth</span>:</strong></span> The purpose of governance is to enhance the wellbeing of your citizenry. But public well being is a very complex interplay of forces which act upon peoples’ economic aspirations, as well as social aspirations. People want decent jobs. They want security. They want opportunities. But they also want their families to do well. They want to move up the social ladder. They want to overcome discrimination, explicit or implicit. They want to live in a good environment, with peace and security.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 All these forces act so indivisibly across various spheres that the issues have to be seen in their complexity and to be tackled simultaneously in order to enhance well-being.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>In the past, we have tackled these forces in certain silos. There are ministries that look after economic prosperity, employment; others look after social inclusion, law and order, and so on. But all these forces act so indivisibly across various spheres that the issues have to be seen in their complexity and to be tackled simultaneously in order to enhance well-being. The old silo approaches of segmenting economic issues, social issues, environmental issues and peace and security issues are no longer possible.</p>  
   
@@ -143,13 +143,13 @@ All these forces act so indivisibly across various spheres that the issues have 
   
 <p>But often in Australia, we bemoan the difficulty we have sustaining long-term planning and in fact, we’re working very hard to reskill our public service to not blame politics for stopping them from doing what is our real job, which is to plan long-term sustained futures in all of our policy areas.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1"> 
 Policy without execution is hallcunication.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Like anything in life, you got to work with what you have, and so if ministers or governments have particular political drivers, then you’ve got to find a way of achieving the best you can within that framework. Part of our job as civil servants is to give the government options that they can work with, rather than saying this is the ideal, but we are never going to get that through because the politics will interfere. It’s one of the biggest challenges but also one of the most exciting things about public sector work: to get the best solution possible through the politics of the day.</p>  
   
@@ -159,13 +159,13 @@ Policy without execution is hallcunication.
   
 <p><span class="ms-rteThemeForeColor-9-4"><strong><span style="color: #76923c;">Said</span>:</strong></span> The model of long-term planning in Singapore is about anticipating change. Long-term planning is not just a slogan, but a carefully designed, robust process with many stakeholders. It is also oriented towards producing outcomes we want, not long-term planning for its own sake. But I think what separates good from average is the discipline of execution, which is lacking in many other countries. The general assumption is that those at the high level focus on the big picture, the softer aspects. But we have learnt is that whether you are high level or low, you need to understand what it takes to get things done. You can have great plans or ideas but it’s the discipline of execution that makes a difference between one organisation to another, one country to another. Policy without execution is hallucination. Everyone feels good about it but actually nothing happens.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1"> 
 The two things that leaders really need to be good at, and cannot delegate away, are the questions of “what” and of “why”.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>This is where good leadership makes the difference. A good leader tells you what victory looks like, and what it will take to get there. You can let market mechanisms work, in which you get good leaders sometimes, and different leaders at other times. But I believe good leadership is manufactured — it is a deliberate process, at all levels. This is why the Civil Service College in Singapore is remarkable: it is a system for creating public sector leaders.</p>  
   
@@ -179,13 +179,13 @@ The two things that leaders really need to be good at, and cannot delegate away,
   
 <p><span class="ms-rteThemeForeColor-9-4"><strong><span style="color: #76923c;">Said</span>:</strong></span> In the end, the two things that leaders really need to be good at, and cannot delegate away, are the questions of “what” and of “why”. They are difficult questions: “Why do we want to achieve as you wish?”; “What do you want to see in the next five years?”; “What does Singapore want to be in the next 50 years?”. Leaders really need to understand the “what” and the “why”. You can delegate the “how” — it is technical. But the “what” and the “why” need to be solid.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">   
 We need a sense that constructive engagement with risk is what makes us relevant and responsive.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #7030a0;">Foster</span>:</strong></span> Public servants can fall into the habit of thinking that they are all about the “how”, while the political masters determine the direction, which we just implement. But the vision in Singapore is one of the public service in partnership with the government to shape the country’s future. This means that the public service has a responsibility to actually help determine the “what”, and then equipping people to do the “how” really well.</p>  
   
