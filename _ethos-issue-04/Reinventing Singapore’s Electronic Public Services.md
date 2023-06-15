@@ -102,7 +102,7 @@ color: white;
 <figure>
 <img src="/images/Ethos_Images/Ethos_Issue_04/milestones.png">
 <br>	
-	<figcaption>See more by download this<a target="_blank" href="/files/milestones.pdf"> PDF</a></figcaption>
+	<figcaption>See more by download this <a target="_blank" href="files/milestones.pdf">PDF</a></figcaption>
 </figure>	
 	
 </div>
