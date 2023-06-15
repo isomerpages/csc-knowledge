@@ -62,7 +62,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_15/15_Teaser_Intentional%20Public%20Engagement-%20The%20Next%20Phase%20of%20Government-Citizen%20Relations.jpg"></div>
 	<div>
 		<h3></h3>
 		<b><i></i></b>
