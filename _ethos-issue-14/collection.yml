@@ -2,6 +2,7 @@ collections:
   ethos-issue-14:
     output: true
     order:
+      - Ownership, Opportunity and Outcomes.md
       - New Strategic Capabilities and Partnership Paradigms for Singapore’s
         Social Sector.md
       - Governance in an Age of Uncertainty.md
