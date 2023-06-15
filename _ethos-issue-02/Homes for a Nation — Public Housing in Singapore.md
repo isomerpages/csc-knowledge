@@ -65,7 +65,7 @@ font-size:16px;
 
 <p>Singapore's public housing programme has its roots in the 1960s, when the acute housing shortage called for a low-cost housing model that could meet the people's accommodation needs in the shortest possible time. Housing designs were kept simple and utilitarian — slab blocks of 1-, 2- and 3-room flats which came with basic amenities such as piped water and electricity. Although spartan by today's standards, these flats were far better than the slums and rural huts of the past.</p>
 
-<p>Following the first Concept Plan<a href="#notes"><sup>1</sup></a> for Singapore in 1971, HDB designed its public housing estates on two basic principles:</p>
+<p>Following the first Concept Plan<sup><a href="#num1">1</a></sup> for Singapore in 1971, HDB designed its public housing estates on two basic principles:</p>
 
 <ol class="bullet">
 <li>Optimise scarce land resources to meet long-term housing demands which led to the building of high- rise, high-density public housing.</li>
@@ -207,7 +207,7 @@ font-size:16px;
 <p class="small-text" style="font-weight: bold; letter-spacing: 1px;"><a name="notes"></a>NOTES</p>  
 
 <ol>
-<li class="small-text">The Concept Plan is the long-term strategic development plan for Singapore. It has guided Singapore's physical development since 1971 and is revised every 10 years.</li>
+<li id="num1">The Concept Plan is the long-term strategic development plan for Singapore. It has guided Singapore's physical development since 1971 and is revised every 10 years.</li>
 </ol>
 
 <br>
