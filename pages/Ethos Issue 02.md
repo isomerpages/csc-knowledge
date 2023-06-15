@@ -245,5 +245,5 @@ Why Globalization Works discusses the role of government in a globalised world, 
 
 <br>
 <div class="back">
-<a href="/ethos/">Back to All Issues</a>
+<a href="/all-issues/">Back to All Issues</a>
 </div>
