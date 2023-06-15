@@ -92,7 +92,7 @@ li {
   
   
   
-<p class="small-text text"><strong>Social security:</strong> The key pillars of Singapore’s social security system are: Home Ownership, the Central Provident Fund system (consisting of individual savings accounts under a fully-funded, defined contribution system), Healthcare Assurance, Workfare (income supplement for low-wage workers), and the recently introduced Silver Support Scheme (income supplement for the bottom 20% to 30% of elderly Singaporeans). Through the CPF, Singaporeans build up savings for their retirement and healthcare needs as well as housing purchases.</p>  
+<br>
   
   
   
@@ -133,13 +133,13 @@ li {
   
 <p>CPF integrates several aspects of social security: retirement savings, healthcare financing, home ownership. Together with government schemes like Workfare and Silver Support, an individual can look forward to peace of mind in old age. There is also flexibility within the CPF system to allow a member to optimise the use of his savings. For example, the portion of CPF savings that is invested in property may be monetised when needed to enhance retirement income, while the monthly income that a CPF member receives in retirement will also help him to meet his out-of-pocket medical expenses in old age. CPF members can also transfer their CPF savings among family members to better support each other’s retirement needs.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 CPF integrates several aspects of social security: retirement savings, healthcare financing, home ownership.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h4>CPF Helps Individuals to Manage Retirement Risks</h4>  
   
@@ -183,13 +183,13 @@ CPF integrates several aspects of social security: retirement savings, healthcar
 illustrate the strengths and weaknesses of different systems, but are less useful for appreciating how the unique features of each system have evolved to suit their respective contexts.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 While CPF is premised on self-reliance and individual savings, it includes redistributive and progressive features that benefit less well-off members.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>International comparisons of retirement income systems tend to focus on adequacy and sustainability. Adequacy refers to the level of benefits that the systems provide for old age needs, while sustainability refers to their ability to continue providing these benefits in the long term. While these are useful parameters in assessing the effectiveness of a retirement income system, the way in which each parameter is defined and applied will affect evaluations significantly.  
 </p>  
@@ -215,7 +215,7 @@ While CPF is premised on self-reliance and individual savings, it includes redis
 <p>To build a more inclusive and resilient society, the Government has signalled its commitment to enhance the CPF system and reinforce Singapore’s social safety nets. These efforts will create a broader and more flexible social security system that protects Singaporeans over their lifetimes  
 </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -225,7 +225,7 @@ While CPF is premised on self-reliance and individual savings, it includes redis
   
 <p class="small-text"><strong>Laura Lim</strong> is Lead Research Analyst with the Policy Research Department at the Central Provident Fund Board.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -258,9 +258,6 @@ While CPF is premised on self-reliance and individual savings, it includes redis
 <li class="small-text">The GST Voucher was introduced in Budget 2012. It is a permanent transfer scheme to help lower and middle-income households with their expenses, in particular, what they pay in Goods-and-Services Tax (GST). There are three components to the GST Voucher: Cash, Medisave and Utility-Save (or U-Save).</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
