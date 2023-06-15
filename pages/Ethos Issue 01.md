@@ -107,7 +107,7 @@ and Policy</h3>
 
 
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Issue_01/ageing-and-public-policy.png"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_01/1_Teaser_Ageing%20and%20Public%20Policy%20–%20A%20Global%20Perspective.jpg"></div>
   <div>
 	<h3>Ageing and Public Policy - A Global Perspective</h3>
             <b><i>Andrew Kwok</i></b>
@@ -120,7 +120,7 @@ and Policy</h3>
 		
 <br>
 <div class="grid-container">
-      <div><img src="/images/Ethos_Images/Ethos_Issue_01/Successful_Ageing.jpg">
+      <div><img src="/images/Ethos_Images/Ethos_Issue_01/1_Teaser_Successful%20Ageing%20–%20A%20Review%20of%20Singapore’s%20Policy%20Approaches.jpg">
 </div>
         <div><h3>Successful Ageing –
 A Review of Singapore’s Policy Approaches</h3>
@@ -134,7 +134,8 @@ committees formed to study ageing trends.</p>
     
 <br>    
 <div class="grid-container">
-        <div><img src="images/Ethos_Images/Ethos_Issue_01/Ageing_Repositioned.jpg"></div>
+<div><img src="/images/Ethos_Images/Ethos_Issue_01/1_Teaser_Ageing%20Repositioned-%20Singapore%20in%20the%20New%20Global%20Demography.jpg">
+</div>
 
 <div><h3>Ageing Repositioned:
 Singapore in the New Global Demography</h3>
@@ -147,7 +148,7 @@ Singapore in the New Global Demography</h3>
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Issue_01/Ageing_Population.jpg"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_01/1_Teaser_Ageing%20Population-%20What%20to%20Expect%20and%20What%20to%20Do.jpg"></div>
 <div><h3>Ageing Population:
 What to Expect and What to Do</h3>
             <b><i>Norbert Walter</i></b>
