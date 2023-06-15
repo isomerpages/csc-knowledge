@@ -68,7 +68,7 @@ margin-top:15px;
 		<b><i>by Alvin Pang</i></b>
 		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p>Of the key constituents of society, the public sector is the most directly accountable, through the various institutions of state and the political process, to the people and the national good.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
 
