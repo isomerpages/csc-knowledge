@@ -106,14 +106,7 @@ font-size:16px;
 	
 <p>There have been vast improvements in the living conditions of Singaporeans over the years. Today, 82% of the population live in 879,000 HDB flats located across 23 towns and estates. More remarkably, about 95% of all HDB residents own the flat they live in.</p>
 
-
-
-
 </div>
-
-
-
-
 
 
 <h4>1970s — Rise of the New Towns</h4>
