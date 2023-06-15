@@ -58,7 +58,7 @@ font-size:16px;
 </style>
 
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_02/Homes_For_A_Nation.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_02/2_Banner_Homes%20for%20a%20Nation%20—%20Public%20Housing%20in%20Singapore.jpg">
 
 
 <h3>A TOTAL LIVING ENVIRONMENT</h3>
