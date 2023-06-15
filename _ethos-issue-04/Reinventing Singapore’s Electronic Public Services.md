@@ -11,10 +11,6 @@ description: ""
 	font-weight: bold;
 }
 
-#banner img
-{
-	width:100%;
-}
 	
 .author
 {
@@ -30,19 +26,6 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 	
-
-
-.boxheader {
-	color: white !important;
-	}	
-
-.containerbox {
-	background-color: #B7C9E2;
-	border-radius: 10px;
-	padding: 5%;
-	margin-top: 5%;
-	
-	}	
 
 li {
 	font-size: 15px !important;
@@ -118,12 +101,13 @@ color: white;
 <h3>Milestones in our e-Government Journey</h3>	
 <figure>
 <img src="/images/Ethos_Images/Ethos_Issue_04/milestones.png">
-<figcaption>Download PDF</figcaption>
+<br>	
+	<figcaption>See more by download this<a href="/files/milestones.pdf"> PDF</a></figcaption>
 </figure>	
 	
 </div>
 
-
+<br>
 <div class="green">
 <h5><em>
 Government projects have started looking into opportunities to collaborate across the public and private sectors in order to deliver a holistic range of services
