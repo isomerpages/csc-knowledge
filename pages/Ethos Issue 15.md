@@ -196,12 +196,24 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_15/15_Teaser_Survey%20of%20Fairness%20Perceptions%20in%20Singapore%20Public%20Policy.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Survey of Fairness Perceptions in Singapore Public Policy</h3>
+		<b><i>BY KHANH DO AND SHARON THAM</i></b>
+		<p>A survey finds that the perceived fairness of public policies in Singapore varies according to the socioeconomic groups affected.</p>
+		<div class="button1"><a href="/ethos-issue-15/survey-of-fairness-perceptions-in-singapore-public-policy/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Cropped_images/Ethos_Issue_15/15_Teaser_Uniquely%20Singapore,%20Uniquely%20CPF.jpg"></div>
+	<div>
+		<h3>Uniquely Singapore, Uniquely CPF</h3>
+		<b><i>BY HEIDI CHAN, ENG SOON KHAI AND LAURA LIM</i></b>
+		<p>Singapore’s pragmatic approach to social security has led to the development of a unique system that does not readily adhere to international benchmarks.</p>
+		<div class="button1"><a href="/ethos-issue-15/uniquely-singapore-uniquely-cpf/">Read more</a></div>
 	</div>
 </div>
 
