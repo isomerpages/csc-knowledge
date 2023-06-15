@@ -204,12 +204,11 @@ Capable leadership will be called for in key areas of corporate governance — b
   
   
   
-<p class="small-text text">In Singapore, a growing number of initiatives are harnessing the power of the Internet to gather community resources towards the common goal of supporting the needy.</p>  
+<br>
   
   
   
-  
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Crowdsourcing for a Good Cause</h3>  
@@ -228,15 +227,15 @@ Capable leadership will be called for in key areas of corporate governance — b
   
   
   
-<p>With the increasingly multifaceted challenges faced by the poor and vulnerable,&nbsp;the community should constitute the third pillar of the national partnership supporting a renewed social compact in Singapore. In this regard, Laurence Lien, former CEO of the National Volunteer and Philanthropy Centre, has called for “bold experiments in community development” to help develop broader social capital towards collective&nbsp;causes<a href="#notes"><sup class="#notes">11</sup></a> (Laurence Lien shares more on “<a href="ownership-opportunity-and-outcomes-interview-with-laurence-lien.html">Ownership, Opportunities and Outcome</a>”).</p>  
+<p>With the increasingly multifaceted challenges faced by the poor and vulnerable,&nbsp;the community should constitute the third pillar of the national partnership supporting a renewed social compact in Singapore. In this regard, Laurence Lien, former CEO of the National Volunteer and Philanthropy Centre, has called for “bold experiments in community development” to help develop broader social capital towards collective&nbsp;causes<a href="#notes"><sup class="#notes">11</sup></a> (Laurence Lien shares more on “<a href="/ethos-issue-14/ownership-opportunity-and-outcomes-interview-with-laurence-lien/">Ownership, Opportunities and Outcome</a>”).</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Trust and reciprocity are central to the social ties that facilitate information flows, resources and expertise along formal and informal networks within a community.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h4>Technology and the Potential of &nbsp;Crowdsourcing </h4>  
   
@@ -252,13 +251,13 @@ Trust and reciprocity are central to the social ties that facilitate information
   
 <p>As Singapore works towards more inclusive growth, its social assistance system is set to play an even greater role in helping translate economic growth into quality living for all Singaporeans. While Singapore continues to “adapt, adjust, restructure, and transform”<a href="#notes"><sup class="#notes">13</sup></a> its economy to remain competitive, the nation’s approach to the provision for social needs should similarly evolve. Stakeholders across all sectors must come together to develop new ways of thinking, interpreting and structuring the means by which common objectives may be achieved together.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Cheryl Wu</strong> is a Researcher with the Institute of Governance and Policy, Civil Service College. Her research interests include social policies, gender issues and the ageing population. She holds a Master’s degree in Social Sciences from the National University of Singapore. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
