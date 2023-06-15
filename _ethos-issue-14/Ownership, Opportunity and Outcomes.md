@@ -79,13 +79,13 @@ li {
   
 <p>There are also questions around the relationship between the non-profit sector and the public sector in terms of the model of contracting, sub-contracting and so on. When the Government says it wants the community to do more, what do we mean by that? What does co-creation mean in actual terms? Both sides have to be clear about the details and how to actually go about it. Are we really going to devolve responsibility, accountability and ownership to the non-profit sector and to citizens, or does “Many Helping Hands” mean that you only want others to lend their help and resources? On the ground, people do see it that way — that the Government just shows up and tells them what to do. This should not be the way forward.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 If people actually have to work together on a common solution, they can start to learn to be responsible with power.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Having worked in the Government, we know the fear is what happens when you let go. People have different and sometimes narrow interests; they may not see the common good or the bigger issues. So quite often the Government is fixated on narrowing the risks. But if we don’t start letting go and are always seeking to prevent the negative from happening, we will also not allow the good to happen, and the good could far outweigh the bad. The alternative would be continued dependency, which is unsustainable. It also breeds an entitlement mentality which the public sector already has a tough time dealing with. The public can already be very demanding of public service standards. Taxpayers have a tendency to treat their government as vendors — there isn’t a sense of co-ownership, which is what we want to nurture.</p>  
   
@@ -121,29 +121,28 @@ If people actually have to work together on a common solution, they can start to
   
 <p>Instead of sweeping things under the rug, adaptive leadership means seeing opportunities to mobilise people to reflect and learn without seeking blame. It is also about weaning people from dependency on any one leader or authority who comes in and does everything for everyone. Nor do you merely aggregate diverse views and then determine the final outcome. Instead, you allow people to engage one another so that, with more information and better awareness, their views can mature and develop. Leadership means having the confidence to allow some of the tensions to bubble up, rather than simply reduce the pressure and pretend everything is well. Such tensions can be important. Sometimes it is only under pressure that creative work can happen. But being so used to order and control, our authorities tend to step in at the slightest discomfort to draw the line.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 People are quite often part of the problem themselves, which means they also have to be part of the solution. So a leader needs to get people to realise how they are contributing ot the issue, and how things have to change.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>There will always be unconstructive comments and brickbats — there are those who are looking for any excuse to pull you down and they are not going to go away. Right now, we are still unused to this state of affairs; we get so distracted by the noise that we cannot focus on what is really going on. But the best policy is to be thick-skinned and to concentrate on those who are willing to engage — to show that it is&nbsp;possible to work together productively.</p>  
   
 <div>&nbsp;</div>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Laurence Lien</strong> is Co-Founder and CEO of the Asia Philanthropy Circle, a new non-profit initiative that convenes Asian philanthropists to learn, collaborate and catalyse new social interventions. He is also the Chairman of Lien Foundation and the Community Foundation of Singapore, Vice-President of the Centre for Non-Profit Leadership, and Board Member of the Lien Centre for Social Innovation at the Singapore Management University. Laurence was the CEO of the National Volunteer &amp; Philanthropy Centre in Singapore from 2008-2014, when he founded the Community Foundation of Singapore. He was a Nominated Member of Parliament in Singapore from 2012 to 2014. </p>  
   
-<hr>  
+</div>  
   
 <p class="small-text">This interview was conducted on 10 January 2014 by CSC Senior Researcher Soh Tze Min, CSC Researcher Cheryl Wu and ETHOS Editor-in-Chief Alvin Pang as part of ongoing research and development of social sector leadership.</p>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
