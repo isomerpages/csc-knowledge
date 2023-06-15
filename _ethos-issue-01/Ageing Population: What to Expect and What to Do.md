@@ -110,8 +110,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 01, Oct 2006</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_01/Ageing_Population.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_01/1_Banner_Ageing%20Population-%20What%20to%20Expect%20and%20What%20to%20Do.jpg">
  
 <p>What are the ramifications of a demographic shift towards an ageing population? When post–World War II baby boomers enter their retirement phase, the supply of labour will fall. In Germany, as in many other European countries, the population in the working age of 15 to 64 years is likely to shrink by around 20% between 2005 and 2050. This will put Germany’s growth potential under pressure. If no action is taken, Germany’s trend growth rate is set to be cut in half in the longer term from its current level of 1.5%. The working age population in Singapore is likely to decline by 16% by 2050, reducing the share of 15- to 64-year-olds from 72% to 56%. All other things being equal, this would lower Singapore’s growth potential by half a percentage point.</p>  
 
