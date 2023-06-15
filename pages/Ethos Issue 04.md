@@ -76,7 +76,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Reclaiming_PublicAdmin.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/4_Teaser_Reclaiming%20Public%20Administration.jpg"></div>
 	<div>
 		<h3>Reclaiming Public Administration</h3>
 		<b><i>Jocelyne Bourgon</i></b>
@@ -101,7 +101,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Creating_And_Measuring.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/4_Teaser_Creating%20and%20Measuring%20Public%20Service%20Value.jpg"></div>
 	<div>
 		<h3>Creating and Measuring Public Service Value</h3>
 		<b><i>Ng Wee Wei</i></b>
@@ -113,7 +113,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Leveraging_Networks_For.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/4_Teaser_Leveraging%20Networks%20for%20Public%20Service%20Delivery.jpg"></div>
 	<div>
 		<h3>Leveraging Networks for Public Service Delivery</h3>
 		<b><i>Nicholas Mai, Tang Tee Sing and Yeo Yaw Shin</i></b>
@@ -126,7 +126,7 @@ rich in cross-sector partnerships and collaborative networks?</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_04/ReinventingSingapore.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/4_Teaser_Reinventing%20Singapore’s%20Electronic%20Public%20Services.jpg"></div>
 
 <div>
 		<h3>Reinventing Singapore’s Electronic Public Services</h3>
@@ -139,7 +139,7 @@ rich in cross-sector partnerships and collaborative networks?</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Better_Faster_Cheaper.jpg"></div>
+<div><img src="/images/Ethos_Images/Ethos_Issue_04/4_Teaser_Better,%20Faster,%20Cheaper.jpg"></div>
 	<div>
 		<h3>Better, Faster, Cheaper: Service Transformation and Channel Migration at the Ministry of Manpower</h3>
 		<b><i>Penny Han</i></b>
@@ -151,7 +151,7 @@ rich in cross-sector partnerships and collaborative networks?</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_04/TenTips.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/4_Teaser_Ten%20Tips-%20How%20to%20Create%20a%20Next%20Generation%20Public%20Service%20Super-Portal.jpg"></div>
 	<div>
 		<h3>Ten Tips: How to Create a Next Generation Public Service Super-Portal</h3>
 		<b><i>Rosina Howe-Teo</i></b>
@@ -176,7 +176,7 @@ may be necessary.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Integrated_Service_Delivery.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/4_Teaser_Integrated%20Service%20Delivery-%20The%20Australian%20Department%20of%20Human%20Services.jpg"></div>
 	<div>
 		<h3>Integrated Service Delivery: The Australian Department of Human Services</h3>
 		<b><i>Jeff Popple</i></b>
@@ -214,7 +214,7 @@ Guy Lodge, Sophie Moullin, Nick Pearce and Ben Rogers</i></b>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Governance_At_The_LeadingEdge.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/4_Teaser_Governance%20at%20the%20Leading%20Edge-%20Black%20Swans,%20Wild%20Cards,%20and%20Wicked%20Problems.jpg"></div>
 	<div>
 		<h3>Governance at the Leading Edge: Black Swans, Wild Cards, and Wicked Problems</h3>
 		<b><i>Peter Ho</i></b>
@@ -229,7 +229,7 @@ brand of governance in order to manage these critical uncertainties and generate
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Managing_Complexity.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_04/4_Teaser_Managing%20Complexity%20and%20Uncertainties.jpg"></div>
 	<div>
 		<h3>Lam Chuan Leong
 Managing Complexity and
