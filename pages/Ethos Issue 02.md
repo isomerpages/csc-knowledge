@@ -81,7 +81,7 @@ margin-top:15px;
 		<h3>Creative Cities: Can they be Comfortable?</h3>
 		<b><i>Peter Hall</i></b>
 		<p>Many urban centres aspire to be creative global cities, but they should be prepared to embrace the tensions and turbulence of genuiue change.</p>
-		<div class="button1"><a href="/ethos-issue-18/public-service-4/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-02/creative-cities-can-they-be-comfortable/">Read more</a></div>
 	</div>
 </div>
 
