@@ -1,4 +1,5 @@
 collections:
   ethos-issue-14:
     output: true
-    order: []
+    order:
+      - Gearing the Public Service for SG100.md
