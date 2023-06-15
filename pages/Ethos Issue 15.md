@@ -88,12 +88,12 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_15/15_Banner_Engaging%20Citizens%20in%20the%20Digital%20Age.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Engaging Citizens in the Digital Age</h3>
+		<b><i>by Cindy Tan</i></b>
+		<p>As public engagement grows online, the Public Service will need a strong social media policy that integrates both online and offline strategies as well as mindset and role shifts in service delivery to truly reap the benefits of social media.</p>
+		<div class="button1"><a href="/ethos-issue-15/engaging-citizens-in-the-digital-age/">Read more</a></div>
 	</div>
 </div>
 
