@@ -273,5 +273,5 @@ implications ten years on.</p>
 
 <br>
 <div class="back">
-<a href="/ethos/">Back to All Issues</a>
+<a href="/all-issues/">Back to All Issues</a>
 </div>
