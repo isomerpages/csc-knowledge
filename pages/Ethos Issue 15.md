@@ -229,7 +229,7 @@ margin-top:15px;
 			Mr Said Faisa
 			</i></b>
 		<p>Three distinguished participants from Singapore’s 8th Leaders in Governance Programme share insights on how the public sector can embrace a more complex and uncertain world.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-15/risk-ready-leadership/">Read more</a></div>
 	</div>
 </div>
 
