@@ -99,7 +99,7 @@ color: white;
 
 
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_02/Managing_Singapore's_Land_Needs.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_02/2_Banner_Managing%20Singapore’s%20Land%20Needs.jpg">
 
 
 
