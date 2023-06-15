@@ -158,8 +158,8 @@ and production? Professor Norbert Walter highlights the economic implications of
     </div>
 <br>
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Teaser_Pictures/Opinion.jpg"></div>
-<div><h3>Opinion by Andrew Kwok: The Real Challenges of an Ageing Population</h3>
+        <div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
+<div><h3>The Real Challenges of an Ageing Population</h3>
             <b><i>Andrew Kwok</i></b>
             
 <p>The ageing of populations worldwide has had national governments scrambling to stave off looming economic decline and fiscal disarray.</p>	
