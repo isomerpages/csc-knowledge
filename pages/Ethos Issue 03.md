@@ -75,7 +75,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/Rethinking_A_New_SocialCompact_For_Singapore.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Rethinking%20a%20New%20Social%20Compact%20for%20Singapore.jpg"></div>
 	<div>
 		<h3>Rethinking a New Social Compact for Singapore</h3>
 		<b><i>Yeoh Lam Keong</i></b>
@@ -87,7 +87,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/Growth_With_Equity.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Growth%20with%20Equity-%20The%20Challenge%20of%20Income%20Distribution.jpg"></div>
 	<div>
 		<h3>Growth with Equity: The Challenge of Income Distribution</h3>
 		<b><i>Kenneth Chan</i></b>
@@ -123,7 +123,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/The_NordicSocialSecurity_Model.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_teaser_the%20nordic%20social%20security%20model-%20squaring%20the%20circle.jpg"></div>
 	<div>
 		<h3>The Nordic Social Security Model: Squaring the Circle?</h3>
 		<b><i>Koh Tsin Yen</i></b>
@@ -135,7 +135,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/Security_With_Slef_Reliance.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Security%20with%20Self-Reliance-%20The%20Argument%20for%20the%20Singapore%20Model.jpg"></div>
 	<div>
 		<h3>Security with Self-Reliance: The Argument for the Singapore Model</h3>
 		<b><i>Lim Xiuhui</i></b>
@@ -160,7 +160,7 @@ may be necessary.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/WageInequality.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Wage%20Inequality,%20Intergenerational%20Mobility%20and%20Education%20in%20Singapore.jpg"></div>
 	<div>
 		<h3>Wage Inequality, Intergenerational Mobility and Education in Singapore</h3>
 		<b><i>Ho Kong Weng</i></b>
@@ -172,8 +172,8 @@ may be necessary.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/Social_Security_In_Singapore.jpg"></div>
-	<div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Workfare-%20The%20Fourth%20Pillar%20of%20Social%20Security%20in%20Singapore.jpg"></div>
+<div>
 		<h3>Workfare: The Fourth Pillar of Social Security in Singapore</h3>
 		<b><i>Jacqueline Poh</i></b>
 		<p>Singapore’s latest labour policy is more than a wage supplement
@@ -186,7 +186,7 @@ today’s volatile economic environment.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/Aid_For_Work.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Aid%20for%20Work-%20The%20Singapore%20and%20US%20Models%20in%20Context.jpg"></div>
 	<div>
 		<h3>Aid for Work: The Singapore and US Models in Context</h3>
 		<b><i>Theresa W. Devasahayam</i></b>
@@ -223,7 +223,7 @@ today’s volatile economic environment.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/The_Asian_Financial_Crisis_In_Hindsight.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_The%20Asian%20Financial%20Crisis%20In%20Hindsight.jpg"></div>
 	<div>
 		<h3>The Asian Financial Crisis In Hindsight</h3>
 		<b><i>Donald Low</i></b>
