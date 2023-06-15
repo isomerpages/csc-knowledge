@@ -2,6 +2,7 @@ collections:
   ethos-issue-14:
     output: true
     order:
+      - Editorial.md
       - "Meritocracy: Time for an Update?.md"
       - Striking the Right Balance.md
       - What We Didn’t Know About Multigenerational Mobility.md
