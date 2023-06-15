@@ -114,20 +114,20 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_15/Ethos_Issue_15_Teaser_pioneer.PNG"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Communicating to Our Pioneer Generation</h3>
+		<b><i>BY LAI SZU HAO</i></b>
+		<p>The launch of the Pioneer Generation Package demonstrated new ways to understand, inform, engage and serve Singaporeans on the ground.</p>
+		<div class="button1"><a href="/ethos-issue-15/communicating-to-our-pioneer-generation/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
+		<h3>Public Communication and Engagement in China: Lessons for Singapore</h3>
+		<b><i>BY TAN LI SAN AND LIM CHEE KIA</i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
