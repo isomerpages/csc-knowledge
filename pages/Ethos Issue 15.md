@@ -172,11 +172,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Making Public Policy Relevant for Bicultural Families in Singapore.</h3>
+		<b><i>PAULIN TAY STRAUGHAN AND KHARINA ZAINAL</i></b>
+		<p>A conversation with noted sociologist Paulin Tay Straughan offers insights on Singapore’s growing social diversity and its implications for bicultural families and social policy.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
