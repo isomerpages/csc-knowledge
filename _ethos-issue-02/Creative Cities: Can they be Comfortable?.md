@@ -111,12 +111,12 @@ li {
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="num1">Richard Florida, The Rise of the Creative Class (New York: Basic Books, 2002), pp5-7, 218.</li>
-<li class="num2">Richard Florida, The Rise of the Creative Class (New York: Basic Books, 2002), pp260.</li>
-<li class="num3">Peter Hall, Cities in Civilization: Culture, Technology and Urban Order (London: Weidenfeld and Nicolson, 1998).</li>
-<li class="num4">Charles Landry, The Art of City Making (London: Earthscan, 2006), pp354.</li>
-<li class="num5">Charles Landry, The Art of City Making (London: Earthscan, 2006), pp360.</li>
-<li class="num6">Charles Landry, The Art of City Making (London: Earthscan, 2006), pp385, 386.</li>
+<li id="num1">Richard Florida, The Rise of the Creative Class (New York: Basic Books, 2002), pp5-7, 218.</li>
+<li id="num2">Richard Florida, The Rise of the Creative Class (New York: Basic Books, 2002), pp260.</li>
+<li id="num3">Peter Hall, Cities in Civilization: Culture, Technology and Urban Order (London: Weidenfeld and Nicolson, 1998).</li>
+<li id="num4">Charles Landry, The Art of City Making (London: Earthscan, 2006), pp354.</li>
+<li id="num5">Charles Landry, The Art of City Making (London: Earthscan, 2006), pp360.</li>
+<li id="num6">Charles Landry, The Art of City Making (London: Earthscan, 2006), pp385, 386.</li>
 </ol>
 
 <br>
