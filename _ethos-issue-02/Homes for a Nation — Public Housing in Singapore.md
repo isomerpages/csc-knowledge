@@ -11,10 +11,12 @@ description: ""
 	font-weight: bold;
 }	
 
-.bullet li
+.bullet li, .notes ol li
 {
 	font-size:16px;
 }
+	
+	
 	
 .greybox
 {
@@ -204,11 +206,15 @@ font-size:16px;
 
 </div>
 
-<p class="small-text" style="font-weight: bold; letter-spacing: 1px;"><a name="notes"></a>NOTES</p>  
+<div class="notes">
+<h6>NOTES</h6>  
 
 <ol>
 <li id="num1">The Concept Plan is the long-term strategic development plan for Singapore. It has guided Singapore's physical development since 1971 and is revised every 10 years.</li>
 </ol>
+
+</div>
+
 
 <br>
 
