@@ -93,8 +93,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 01, Oct 2006</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_01/Successful_Ageing.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_01/1_Banner_Successful%20Ageing%20–%20A%20Review%20of%20Singapore’s%20Policy%20Approaches.jpg">
  
 <p>Given its multifaceted nature, Singapore has tackled the issue of ageing with an inter-agency approach, taking into account public inputs when deliberating policy.</p>  
 
