@@ -131,7 +131,7 @@ This “paradox of active government support for self-reliance” requires Singa
 <p class="text"> </p>  
 <p>In Singapore, higher income households contribute to “the bulk of taxes” and lower-income households receive the “bulk of benefits”1 (Figure 1). This approach has positive downstream effects on income growth and particularly benefits households in the bottom 20% by income. In the last decade, the real incomes of this bottom segment have grown faster than households in the top 20% (Figure 2). </p>  
 <p>To ensure that the tax system remains progressive and fair, the Singapore Government will increase the marginal tax for the top 5% of income earners in 2017.</p>  
-<img title="Ethos\_Social\_Compact\_chart" src="../../images/default-source/ethos-images/ethos-issue-15/-economic-development-and-social-integration-si/ethos\_social\_compact\_chart.jpg?sfvrsn=2632d29e\_0" data-displaymode="Original" class="article-image" alt="Moving Toward A More Progressive Tax Regime">&nbsp;  
+<img title="Ethos\_Social\_Compact\_chart" src="" class="article-image" alt="Moving Toward A More Progressive Tax Regime">&nbsp;  
 <p>&nbsp;</p>  
 <hr>  
 <p><strong>Notes</strong></p>  
