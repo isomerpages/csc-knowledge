@@ -90,13 +90,13 @@ li {
   
 <p>The complexity of today’s public issues and diverse needs means societies must harness different perspectives and experiences in order to address prevailing challenges. While good service design and implementation can enhance delivery, they can only go so far when different stakeholders have different or even conflicting interests. A new consensus about the roles of different stakeholders in government, business and community needs to be developed. Public sector systems must therefore be able to integrate different perspectives; they must also facilitate more collaboration among agencies, and embrace more diverse types of public sector leadership.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break">  
 In a more politicised environment, clarity and commitment to the values of public service will help ensure the resilience of our institutions of governance.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h4>Roles and Relationships</h4>  
   
