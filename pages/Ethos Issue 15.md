@@ -136,36 +136,36 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>The Challenge of Public Communications</h3>
+		<b><i>REVIEWED BY VERNIE OLIVEIRO</i></b>
+		<p>Speechless: A Year in My Father’s Business By James Button Melbourne University Press, 2012 (version reviewed; updated edition published August 2013); 256 pp.</p>
+		<div class="button1"><a href="/ethos-issue-15/the-challenge-of-public-communications/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Narratives and the Institutional Imagination</h3>
+		<b><i>BY CATHERINE FIESCHI</i></b>
+		<p>Political scientist Catherine Fieschi argues that every country needs a good tale to help it adapt to change while maintaining a sense of collective identity</p>
+		<div class="button1"><a href="/ethos-issue-15/narratives-and-the-institutional-imagination/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Race ... or Erase?</h3>
+		<b><i>BY NGIAM SIEW YING</i></b>
+		<p>Does race continue to be relevant in modern, diverse Singapore?</p>
+		<div class="button1"><a href="/ethos-issue-15/race-or-erase/">Read more</a></div>
 	</div>
 </div>
 
