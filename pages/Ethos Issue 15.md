@@ -100,12 +100,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/banner_opinion.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>When the Government Goes Online</h3>
+		<b><i>BY BERTHA HENSON</i></b>
+		<p>A veteran journalist and editor believes the government should rethink its strategy for communication and engaging online.</p>
+		<div class="button1"><a href="/ethos-issue-15/when-the-government-goes-online/">Read more</a></div>
 	</div>
 </div>
 
