@@ -265,9 +265,7 @@ While we still value self-reliance and hard work, there has been a greater ackno
 <li class="small-text">The Pioneer Generation Package (subsidised healthcare and disability benefits) and Silver Support Scheme (monthly cash benefits to seniors with lesser means) provide Singaporeans with greater assurance that their needs in their later years will be looked after.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
