@@ -91,7 +91,7 @@ li {
   
   
   
-<p class="small-text text">In Singapore, a commitment to meritocracy first emerged in debates over the Malayanisation of the civil service in the 1950s. In his work on the Malayanisation Commission, S.&nbsp;Rajaratnam sought to entrench meritocracy as a principle within the Singapore civil service. In the words of the report of the Malayanisation&nbsp;Commission:<a href="#notes"><sup class="#notes">1</sup></a></p>  
+<br>
   
   
   
@@ -126,13 +126,13 @@ li {
   
 <p>Official statistics show that Singaporean households in the top income quintile spend on average $175 a month on private tuition and other enrichment courses for their children. This is five times as much as what the household in the bottom income quintile typically spends.<a href="#notes"><sup class="#notes">3</sup></a> The suggestion is that this could entrench the advantages enjoyed by children of the wealth, enhancing the likelihood that they can succeed and do better in life compared to their less privileged peers.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 There is recognition that our commitment to meritocracy should be tempered with broader social values such as compassion, humility, and regard for the poor.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Maintaining a high degree of social mobility will be a continuing challenge for Singapore, as it is for most advanced economies. Nevertheless, compared to many other societies, however, social mobility in Singapore is still high. A child born to parents in the bottom quintile of incomes has a 14% chance of attaining an income in the top quintile by the time they reach their early 30s; in contrast, they only have 8% chance in the US and 9% in the UK.<a href="#notes"><sup class="#notes">4</sup></a> </p>  
   
@@ -181,13 +181,13 @@ There is recognition that our commitment to meritocracy should be tempered with 
   
 <p>For instance, many Singaporean parents continue to regard the Primary School Leaving Examination (PSLE) as a “make-or-break” milestone that would determine whether their children could enter a prestigious school (presumed to have a higher quality of education and outcomes). In response, there have been efforts to make every school a good school, for example, appointing the best teachers and principals to schools with poorer student outcomes, to raise standards. The PSLE scoring system is also being changed to create wider bands for grades, so that there is less competitive pressure surrounding this educational milestone. Greater flexibility across the various academic streams now allows students to take each subject at the level that is comfortable for them. Singapore’s ITE and polytechnic system today also offers excellent teaching, nurturing skills valued by industry, representing a real alternative to the junior college and university route. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 While we still value self-reliance and hard work, there has been a greater acknowledgement of the need for collective responsibility and care for the vulnerable.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Beyond these policy measures however, there is a need to change social attitudes. Singaporeans ought not to aspire to any single “best” educational stream or life path. Deputy Prime Minister Tharman Shanmugaratnam<a href="#notes"><sup class="#notes">11</sup></a> has stressed the need to move beyond the soulless pursuit of academic qualifications: </p>  
   
@@ -200,12 +200,11 @@ While we still value self-reliance and hard work, there has been a greater ackno
   
   
   
-<p class="small-text text">As Singapore’s largest employer, the Public Service plays a key role in changing attitudes towards paper qualifications.</p>  
+<br>
   
   
   
-  
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">A More Inclusive Approach to Meritocracy</h3>  
@@ -239,13 +238,13 @@ While we still value self-reliance and hard work, there has been a greater ackno
   
 <p>&nbsp;</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Tiana Desker</strong> was Deputy Head, Centre for Strategic Futures and Senior Assistant Director, Strategy Group in the Prime Minister's Office. She has previously served in the Strategic Policy Office and the Ministry of Defence. Tiana graduated from Stanford University and is currently pursuing a master's degree. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
