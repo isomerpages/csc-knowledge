@@ -53,13 +53,16 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #B7C9E2;
+	background-color: #eceedb;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #449daf;
+	
+	}
 li {
 	font-size: 15px !important;
 	
@@ -121,7 +124,7 @@ This “paradox of active government support for self-reliance” requires Singa
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Moving Toward A More Progressive Tax Regime</h3>  
