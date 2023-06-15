@@ -53,7 +53,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue15.jpg"></div>
 	<div>
-		<h3>Issue 15 June 2016<br></h3>
+		<h3>Issue 15 June 2016<br> ETHOS Issue 15</h3>
 		<p></p>
 		<div class="button1"><a href="">Download PDF</a></div>
 	</div>
