@@ -11,6 +11,13 @@ description: ""
 	font-weight: bold;
 }
 
+.purple1 a
+{
+color: white;	
+text-decoration: none;
+}
+	
+	
 #banner img
 {
 	width:100%;
@@ -151,7 +158,7 @@ Since the release and development of sites is market-led, the pace of implementi
 <h3 class="title">A BALANCING ACT</h3>
 <h4>In land-scarce Singapore, land use planning involves trade-offs between many compelling priorities.</h4>
 <p>An important principle of planning is to protect amenity by preventing uses with negative externalities (i.e., those that create nuisance or have a negative impact on others in the vicinity) from being inappropriately located. For instance, industrial activities which could be pollutive are prevented from operating in predominantly residential areas.</p>
-<p>A balance also needs to be found between providing flexibility for businesses and facilitating development, and minimising adverse impact on neighbouring uses. White sites were introduced in 1995 to give developers greater flexibility by allowing commercial, residential, hotel or any mix of these compatible uses at suitable locations.<a href="#notes"><sup>1</sup></a> Several white sites have been successfully sold, including those which are now the Novena Medical Centre cum retail mall, and The Sail at Marina Bay.</p>
+<p>A balance also needs to be found between providing flexibility for businesses and facilitating development, and minimising adverse impact on neighbouring uses. White sites were introduced in 1995 to give developers greater flexibility by allowing commercial, residential, hotel or any mix of these compatible uses at suitable locations.<sup><a href="#num1">1</a></sup> Several white sites have been successfully sold, including those which are now the Novena Medical Centre cum retail mall, and The Sail at Marina Bay.</p>
 <p>In residential areas, childcare centres within landed housing estates, while providing a greater choice of locations for parents and childcare operators, could create nuisance for neighbours. URA carried out public consultations on the guidelines for childcare centres within landed areas to find a balanced solution that addressed both the concerns of residents regarding noise and traffic, and the needs of parents and childcare operators.</p>
 <p>A balance also has to be found between flexibility for businesses and longer term sustainability. For example, while guidelines for industrial developments were relaxed to allow some e-businesses and selected media activities to be carried out within industrial premises, the requirement of a minimum 60% of industrial activities remains in place. This is to ensure that the stock of industrial space needed to support Singapore's manufacturing sector is not eroded through conversion to other uses, which could also inadvertently drive up industrial land prices.</p>
 
@@ -195,9 +202,9 @@ Singapore's challenge is to find a balance between optimising industrial land us
 	
 <p>Given that manufacturing is expected to remain a significant contributor to the economy, land is needed to support the growth of the industrial sector. This includes high value-added sectors, such as petrochemicals and pharmaceuticals, which typically require large tracts of land due to the nature of their production processes and plant layouts. Without further intensification of land use in land-scarce Singapore, it may be difficult to continue to sustain the growth of the industrial sector in the longer term. However, companies are often reluctant to redesign their processes or intensify their development, as this could introduce production risks. Requiring them to do so could make Singapore less competitive.</p>
 	
-<p>Some design innovations, such as JTC's stacked-up factories,<a href="#notes"><sup>2</sup></a> which have ramps which allow container trucks to make doorstep deliveries to higher floors, are geared towards more efficient use of industrial land.</p>
+<p>Some design innovations, such as JTC's stacked-up factories<sup><a href="#num2">2</a></sup>, which have ramps which allow container trucks to make doorstep deliveries to higher floors, are geared towards more efficient use of industrial land.</p>
 <p>Nevertheless, higher-intensity industrial developments have yet to gain widespread acceptance from industrialists. Singapore's planning challenge is therefore to find a balance between optimising industrial land use to ensure that future needs can be met, and retaining its competitive edge as a manufacturing location today.</p>
-<p>&nbsp;</p>
+
 	
 <p style="text-align: center;"><img title="Tampines Regional Centre" src="/images/Ethos_Images/Ethos_Issue_02/TRC.png"></p>
 <p><em>Tampines Regional Centre</em></p>
@@ -209,7 +216,7 @@ Singapore's challenge is to find a balance between optimising industrial land us
 <p>The rail network will be expanded to at least double the current network in the long term. Radial lines will provide direct links to the city centre, while orbital lines will serve those travelling from one place to another outside the city centre. This will enhance accessibility and reduce travel times, making public transport more attractive and reducing reliance on private transport.</p>
 <p>With less reliance on private transport, the need for more roads and road-widening which may affect surrounding land uses will be reduced, and environmental quality will be better maintained as noise and air pollution will also be reduced. Higher-density developments can be sited at locations well-served by rail transit stations, providing convenient access without creating excessive congestion.</p>
 <h4>Recreational Land Use</h4>
-<p>As Singapore becomes more built up, the presence of greenery and open spaces will become even more important as a relief to high-density living. While parks and open spaces take up a significant amount of land, their availability is highly valued by the public for recreation and relaxation. Hence, even though demand for land will increase with a bigger population,<a href="#notes"><sup>3</sup></a> more land will be set aside for parks and open spaces.</p>
+<p>As Singapore becomes more built up, the presence of greenery and open spaces will become even more important as a relief to high-density living. While parks and open spaces take up a significant amount of land, their availability is highly valued by the public for recreation and relaxation. Hence, even though demand for land will increase with a bigger population,<sup><a href="#num3">3</a></sup> more land will be set aside for parks and open spaces.</p>
 <p>The introduction of park connectors creates "green corridors" linking parks with town centres, sports complexes and homes. This expands recreation space and increases accessibility to parks and the coastline, with minimal opportunity cost, since park connectors generally run along drainage reserves, road reserves or under viaducts. Today, the total length of park connectors in Singapore is 70 kilometres; the aim is to increase this total length to 200 kilometres by 2012, and to more than 400 kilometres in the long term. Water bodies will also be integrated with parks and green spaces to create new opportunities for water-based recreational and leisure activities. Promoting sky-gardens and high-rise greenery will also help to create a sense of pervasive lush greenery even in built-up areas.</p>
 <h4>Land Optimisation</h4>
 <p>To help manage land demand, several innovative land optimisation strategies have been adopted, such as building more intensively, making better use of underground space or co-locating uses. Singapore's long-term planning approach ensures that even as land is set aside for economic activities, there is sufficient provision of land for a variety of housing types, parks and open space for recreation, and community facilities without maximising the use of every land parcel to the detriment of the overall quality of the environment. Some areas, not needed to be developed yet, are put to interim short-term uses, for example, agriculture in Lim Chu Kang and cultural/arts activities in the old Tanglin Camp.</p>
@@ -217,8 +224,8 @@ Singapore's challenge is to find a balance between optimising industrial land us
 <h4>Creating a Distinctive, Attractive City</h4>
 <p>An important planning principle in Singapore is to create a city which is attractive, vibrant, liveable, and distinctive. One of the tools to achieve this is good urban design, which can generate quality environments and distinctive identities. For instance, urban design guidelines require new developments fronting the Singapore River to be no more than four storeys high at the front and up to 10 storeys high at the back. This maintains a comfortable human scale along the promenade defined by the low-rise conserved shophouses and warehouses along the river. Pitched roofs are required to complement the distinctive historic character of the area. To create an exciting cityscape, the Urban Redevelopment Authority (URA) also actively promotes architecture and urban design excellence to create an awareness and appreciation for good design and to encourage greater creativity in design.</p>
 <p>Another strategy is to capitalise on assets such as Singapore's islandness — for example, with waterfront housing, coastal parks and waterfront recreational opportunities. A further measure towards creating an attractive environment is through greening and conserving our natural heritage where possible. Beyond the protected nature reserves, nature areas are retained and integrated within parks and other developments where feasible. For example, as a result of government-facilitated consultations between a golf course developer and the Nature Society, core areas with rich flora and fauna were preserved at Kranji, and the re-creation of natural habitats allowed birds, including some endangered local species, to continue to roost.</p>
-<p>&nbsp;</p>
-<img src="/images/Ethos_Images/Ethos_Issue_02/Conservation.png"><p></p>
+
+<img src="/images/Ethos_Images/Ethos_Issue_02/Conservation.png">
 	
 	
 <p><em>The "old-and-new" approach allows for shophouses to be conserved between new infill development.</em></p>
