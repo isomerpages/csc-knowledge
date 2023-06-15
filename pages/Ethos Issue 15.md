@@ -88,7 +88,7 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_15/15_Banner_Engaging%20Citizens%20in%20the%20Digital%20Age.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_15/15_Teaser_Engaging%20Citizens%20in%20the%20Digital%20Age.jpg"></div>
 	<div>
 		<h3>Engaging Citizens in the Digital Age</h3>
 		<b><i>by Cindy Tan</i></b>
@@ -100,7 +100,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/banner_opinion.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>When the Government Goes Online</h3>
 		<b><i>BY BERTHA HENSON</i></b>
