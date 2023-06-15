@@ -58,7 +58,9 @@ font-family: Georgia;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #24aae1;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -69,7 +71,6 @@ li {
 <em><small>ETHOS Issue 15, June 2016</small></em>
 <img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
-
   
 <h3>Regarding Complexity</h3>  
   
@@ -79,15 +80,15 @@ li {
   
 <p>Governments, economies, and even families are some human systems we know intuitively as complex: they involve multiple entities with different roles, functions, agendas and decision-making processes, a diverse network of interactions, an evolving environment, and multiple concurrent activities. These characteristics lead to a common property of complex systems: unpredictability in the interactions and outcomes of the entities and the system as a whole. This is a case of the whole system being greater than the sum of its parts.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 ”Health care is the most difficult, chaotic and complex industry to manage today.”  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">— Peter Drucker, on hospital management,<em> Managing in the Next Society </em>(2002)</p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— Peter Drucker, on hospital management,<em> Managing in the Next Society </em>(2002)</p>  
   
-<hr>  
+</div>  
   
 <h3>Complexity in Healthcare</h3>  
   
@@ -107,7 +108,7 @@ li {
     </li>  
 </ul>  
   
-<img title="ETHOS\_IS14-61" src="../../images/default-source/ethos-images/ethos-issue-14/ethos\_is14-61.jpg?sfvrsn=eb36c2ae\_0" data-displaymode="Original" class="article-image" alt="Embracing Complexity in Healthcare">  
+<img title="ETHOS\_IS14-61" src="/images/Ethos_Images/Ethos_Issue_14/Ethos_Is14_61.jpg" data-displaymode="Original" class="article-image" alt="Embracing Complexity in Healthcare">  
   
 <h3>Why View Healthcare Through a Complexity Lens?</h3>  
   
@@ -135,7 +136,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Approaching complexity in healthcare at different scales</h3>  
@@ -216,6 +217,7 @@ li {
 <br>  
   
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
