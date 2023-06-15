@@ -119,7 +119,7 @@ This “paradox of active government support for self-reliance” requires Singa
   
   
   
-<p class="small-text text">In Singapore, higher income households contribute to “the bulk of taxes” and lower-income households receive the “bulk of benefits”1 (Figure 1). This approach has positive downstream effects on income growth and particularly benefits households in the bottom 20% by income. In the last decade, the real incomes of this bottom segment have grown faster than households in the top 20% (Figure 2).</p>  
+<br>
   
   
   
@@ -167,12 +167,11 @@ This “paradox of active government support for self-reliance” requires Singa
   
   
   
-<p class="small-text text">The Central Provident Fund (CPF) – Singapore’s&nbsp;national retirement savings programme – has also seen policy changes towards more progressivity in the past decade.</p>  
+<br>
   
   
   
-  
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Augmenting Retirement&nbsp;Savings for Older Workers</h3>  
@@ -211,13 +210,13 @@ This “paradox of active government support for self-reliance” requires Singa
   
 <p>Normative discourse on what Singapore defines as success, merit and fair reward will determine what trade-offs and policy options will be most effective in equalising opportunities and sustaining social mobility. In the long term, Singapore will need to embark on an iterative process of engagement and negotiation of these rapidly evolving markers and issues. There will not be any easy answers.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Soh Tze Min</strong> is Senior Researcher at the Institute of Governance and Policy, Civil Service College. Her research interests are in social policy research and the policy sciences. She holds a Master in Public Policy from the Lee Kuan Yew School of Public Policy, National University of Singapore. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -252,7 +251,7 @@ This “paradox of active government support for self-reliance” requires Singa
 <li class="small-text">Hoang Van Khanh Do and Sharon Tham, Survey Of “Fairness Perceptions In Singapore, Public Policy”, Singapore: Civil Service College, 2014. </li>  
 </ol>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
