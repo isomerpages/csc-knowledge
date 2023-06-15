@@ -62,12 +62,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_15/15_Teaser_Intentional%20Public%20Engagement-%20The%20Next%20Phase%20of%20Government-Citizen%20Relations.jpg"></div>
+	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<figcaption></figcaption>
-		<p></p>
+		<h3>Editorial</h3>
+		<b><i>by Alvin Pang</i></b>
+		<figcaption>Editor-in-Chief, ETHOS</figcaption>
+		<p>Of the key constituents of society, the public sector is the most directly accountable, through the various institutions of state and the political process, to the people and the national good.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
@@ -75,10 +75,10 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_15/15_Teaser_Intentional%20Public%20Engagement-%20The%20Next%20Phase%20of%20Government-Citizen%20Relations.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
+		<h3>Intentional Public Engagement: The Next Phase of Government-Citizen Relations</h3>
+		<b><i>BY YEOH CHEE YAN</i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
