@@ -83,25 +83,25 @@ li {
   
 <p>Some work has been done on differences in income persistence across the income distribution in the United States. While people were expecting a poverty trap, there seems instead to be more stickiness at the other end: a ‘wealth trap’ if you will. There are probably more rags to riches cases than the other way around. Anecdotally, there seems to be better safety nets for the offspring of the wealthy. For instance, although my father was from a poor family, I had the chance to go to Harvard, an elite university. An extraordinary percentage of the students there were from a few elite private schools. Some of them spent all their time drinking and so forth, yet I have a hunch that those people are not doing so badly today, even if they haven’t changed their work habits all that much. They have enough going for them, including their family wealth and connections. They have more buffers against misfortune.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The question is: what can we do to level the playing field more, not in the sense of worsening the oppourtunities of well-off people, but finding things that are worth doing for children from disadvantaged families.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>A brand new study by a team of Harvard and Berkeley researchers in the US, who have been able to get access to a large pool of income data from the tax authorities, has also been able to look extensively at intergenerational mobility quite accurately down to the city level. They seem to have found substantial differences in intergenerational persistence across cities. The study itself takes only an exploratory look at the characteristics that are most correlated between city differences and intergenerational persistence. However, they have observed that cities with more inequality tend to also have more intergenerational persistence. Other particulars are more difficult to understand, such as the correlation between declared religiosity and mobility, as well as the correlation between intergenerational persistence and the percentage of families in the cities headed by a single mother. One can speculate wildly about these correlations, but it is difficult to know exactly what is going on.</p>  
   
 <p>There are also substantial cross-country differences in international persistence that are somewhat correlated with cross-country differences in inequality. Norway, for instance, has both less inequality than most other rich countries and also more intergenerational mobility than most other rich countries. Canada, a neighbouring country culturally similar to the US, has only a bit less inequality than the US, but much more mobility. Again, one can speculate that there are some connections to how progressive public policy is in these countries, but these are loose relationships; you can see the patterns but the precise factors remain fairly mysterious.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 While people were expecting a poverty trap, there seems instead to be more stickiness at the other end: a 'wealth trap'.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>There is also a distinction between absolute and relative mobility. What I have been referring to so far is relative mobility, which is the connection between one’s position in the income distribution within one’s own generation and what the parents’ position was. So you could have a situation where your parents were at the 20th percentile and you’re also at the 20th percentile, but because the whole income distribution shifted upward, your absolute material wellbeing may be way ahead of your&nbsp;parents’.</p>  
   
@@ -117,13 +117,13 @@ While people were expecting a poverty trap, there seems instead to be more stick
   
 <p>In US research on intergenerational mobility, the huge breakthrough was the creation during the 1960s of two long running longitudinal surveys — the Panel Study of Income Dynamics and the National Longitudinal Surveys of labour market experience — which for the first time gave us fairly accurate intergenerational income data for representative samples from the population. The work that I and other researchers have done would not have been possible without these surveys.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The point of empirical research in economics and elsewhere is to update our 'priors' — i.e. our beliefs and assumptions.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>However, it takes a very long time to start a survey like that and then get an intergenerational perspective. The survey has to have been running for at least a quarter of a century to get you there. This highlights the potential power of administrative data — such as data from the tax system, or the pension system — which is being collected on an ongoing basis for programme reasons. In the US, Harvard’s Raj Chetty and his team have been able to get research access to tax data: their work will result in landmark studies that will make a big difference for understanding income mobility in the United States. </p>  
   
@@ -133,19 +133,18 @@ The point of empirical research in economics and elsewhere is to update our 'pri
   
 <p>This keeps us honest and in the end we understand better what’s going on, thanks to the new evidence. That’s how we learn.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Gary Solon</strong> is the Eller Professor of Economics at the University of Arizona. Most of his research involves empirical analysis of labour market issues. concentrating on the behaviour of labour markets over recessions and expansions. Some of the other topics on which he has conducted influential research are the intergenerational transmission of socioeconomic status, earnings dynamics over the life cycle, and microeconometric methods.</p>  
   
-<hr>  
+</div>  
   
 <p class="small-text">Professor Solon spoke at the MTI-CSC Economics Speaker Series on “Social Mobility Across Generations: International and Singapore Perspectives” on 27 March 2014. He shared his views in conversation with ETHOS Editor-in-Chief Alvin Pang and CSC Senior Researcher Leon Lim.</p>  
   
 <br>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
