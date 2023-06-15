@@ -485,7 +485,7 @@ WOG Collaboration</a></td>
 </tr>
 		
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-04">Issue 4, Apr 2008, <br>Beyond Excellent Service
+	<td><a target="_blank" href="/ethos-issue-04/">Issue 4, Apr 2008, <br>Beyond Excellent Service
 Delivery</a></td>
 </tr>
 	
@@ -509,9 +509,9 @@ Delivery</a></td>
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-03">Issue 3, Oct 2007, <br>Rethinking Social Mobility <br>and
+	<td><a href="/ethos-issue-03/">Issue 3, Oct 2007, <br>Rethinking Social Mobility <br>and
 Social Security</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-02">Issue 2, Apr 2007, <br>Urban Planning and
+	<td><a target="_blank" href="/ethos-issue-02/">Issue 2, Apr 2007, <br>Urban Planning and
 Management</a></td>
 </tr>
 
@@ -538,7 +538,7 @@ Management</a></td>
 </tr>
 	
 <tr>
-<td><a target="_blank" href="https://go.gov.sg/ethos-issue-01">Issue 1, Oct 2006, Ageing and Public Policy</a></td>
+<td><a target="_blank" href="/ethos-issue-01/">Issue 1, Oct 2006, Ageing and Public Policy</a></td>
 </tr>
 
 
