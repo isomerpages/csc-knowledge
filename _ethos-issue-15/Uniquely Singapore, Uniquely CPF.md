@@ -75,15 +75,15 @@ li {
   
 <p>Singapore’s social security system has co-evolved with its historical development. Given our unique position as a small and open economy with no natural resources, we have adopted a model, premised on self-reliance, that is more fiscally sustainable and conducive to economic competitiveness. This, however, does not mean that we adopt a laissez-faire stance towards social policy. Instead, the Government takes an activist approach, consciously designing social spending and subsidies in ways that reinforce both individual responsibility and collective responsibility, as part of a shared social compact.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 "This is not about leaving things to self-reliance, or about leaving families to face uncertainties on their own. It is a strategy of government support for efforts by individuals to learn and strive to achieve their aspirations, to own a home by working and paying down a loan, and to save for their retirement needs. It may be a paradox, but this paradox of active government support for self-reliance has to run through all our social policies."  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Deputy Prime Minister and then-Finance Minister Tharman Shanmugaratnam<a href="#notes"><sup class="#notes">1</sup></a></p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">—Deputy Prime Minister and then-Finance Minister Tharman Shanmugaratnam<a href="#notes"><sup class="#notes">1</sup></a></p>  
   
-<hr>  
+</div>  
   
 <p>While the Central Provident Fund (CPF)<a href="#notes"><sup class="#notes">2</sup></a> provides for Singaporeans’ basic retirement needs, our social policy adopts a holistic approach that extends beyond social security to also encompass social investment and social assistance (see box story on “Key Features of Singapore’s Social Policy Framework”).</p>  
   
