@@ -173,5 +173,5 @@ and production? Professor Norbert Walter highlights the economic implications of
 
 
 <div class="back">
-<a href="/ethos/">Back to All Issues</a>
+<a href="/all-issues/">Back to All Issues</a>
 </div>
