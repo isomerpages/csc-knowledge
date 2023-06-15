@@ -68,7 +68,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 15, June 2016</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_14/14_Banner_Economic%20Dev%20and%20Social%20Integration_Singapore_Evolving%20Social%20Compact.jpg">
 
 
 
