@@ -64,6 +64,22 @@ li {
 	
 	}	
 
+.span1 {
+	color: #449daf;
+	font-weight: bold;
+	}	
+
+.span2 {
+	color: #7030a0;
+	font-weight: bold;
+	}	
+	
+.span3 {
+	color: #76923c;;
+	font-weight: bold;
+	}	
+	
+	
 </style>
 
 <em><small>ETHOS Issue 15, June 2016</small></em>
@@ -72,12 +88,12 @@ li {
   
 <h6>PARTICIPANTS:</h6>  
   
-<p class="small-text"><span style="color: #000000;"><span style="color: #31859b;" class="ms-rteThemeForeColor-5-4"><strong>Mr Nikhil Seth</strong></span>,</span> Executive Director, United Nations Institute for Training and Research</p>  
+<p class="small-text"><span class="span1">Mr Nikhil Seth</span>, Executive Director, United Nations Institute for Training and Research</p>  
   
 <p class="small-text">  
-<span class="ms-rteForeColor-10"><strong><span style="color: #7030a0;">Ms Stephanie Foster</span></strong></span>, Deputy Public Service Commissioner, Australian Public Service Commission</p>  
+<span class="span2">Ms Stephanie Foster</span>, Deputy Public Service Commissioner, Australian Public Service Commission</p>  
   
-<p class="small-text"><span class="ms-rteThemeForeColor-9-4"><strong><span style="color: #76923c;">Mr Said Faisal</span></strong></span>, Executive Director, ASEAN Coordinating Centre for Humanitarian Assistance on Disaster</p>  
+<p class="small-text"><span class="span3">Mr Said Faisal</span>, Executive Director, ASEAN Coordinating Centre for Humanitarian Assistance on Disaster</p>  
   
 <hr>  
   
