@@ -76,7 +76,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Creative_Cities.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/2_teaser_creative%20cities-can-they-be-comfortable.jpg"></div>
 	<div>
 		<h3>Creative Cities: Can they be Comfortable?</h3>
 		<b><i>Peter Hall</i></b>
@@ -88,7 +88,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Managing_Singapore's_Land_Needs.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/2_Teaser_Managing%20Singapore’s%20Land%20Needs.jpg"></div>
 	<div>
 		<h3>Managing Singapore’s Land Needs</h3>
 		<b><i>Melissa Sapuan</i></b>
@@ -100,7 +100,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Homes_For_A_Nation.jpg"></div>
+<div><img src="/images/Ethos_Images/Ethos_Issue_02/2_Teaser_Homes%20for%20a%20Nation%20—%20Public%20Housing%20in%20Singapore.jpg"></div>
 	<div>
 		<h3>Homes for a Nation — Public Housing in Singapore</h3>
 		<b><i>Yap Chin Beng</i></b>
@@ -112,7 +112,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Waste_Management_In_Singapore.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/2_Teaser_Water%20Management%20in%20Singapore.jpg"></div>
 	<div>
 		<h3>Water Management in Singapore</h3>
 		<b><i>Cecilia Tortajada</i></b>
@@ -139,7 +139,7 @@ has the know-how and track record to position itself as the
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Implications_Of_ProspectTheory_OnRoad_Pricing.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/2_Teaser_Implications%20of%20Prospect%20Theory%20on%20Road%20Pricing.jpg"></div>
 	<div>
 		<h3>Implications of Prospect Theory on Road Pricing</h3>
 		<b><i>Anthony T. H. Chin</i></b>
@@ -152,7 +152,7 @@ has the know-how and track record to position itself as the
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Wanted_An_Ambitious_Vision_For_Singapore_Public_Transport.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/2_Teaser_Wanted%20—%20An%20Ambitious%20Vision%20for%20Singapore’s%20Public%20Transport.jpg"></div>
 	<div>
 		<h3>Wanted — An Ambitious Vision for Singapore’s Public Transport</h3>
 		<b><i>Paul Barter</i></b>
@@ -165,7 +165,7 @@ may be necessary.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Qualtiy_Of_Life.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/2_Teaser_Quality%20of%20Life%20in%20Singapore.jpg"></div>
 	<div>
 		<h3>Quality of Life in Singapore</h3>
 		<b><i>Tan Li San</i></b>
@@ -203,7 +203,7 @@ Thoughts on Urban Planning</h3>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Positioning_SingaporeIn_NewAsia.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/2_Teaser_Positioning%20Singapore%20in%20a%20New%20Asia.jpg"></div>
 	<div>
 		<h3>Positioning Singapore in a New Asia</h3>
 		<b><i>Andrew Tan</i></b>
@@ -215,7 +215,7 @@ Thoughts on Urban Planning</h3>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_02/Strategic_In_OutlookNimble_In_Execution.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_02/2_Teaser_Strategic%20in%20Outlook,%20Nimble%20in%20Execution-%20Strengthening%20the%20Centre%20in%20Government.jpg"></div>
 	<div>
 		<h3>Strategic in Outlook, Nimble in Execution: Strengthening the Centre in the Singapore Government</h3>
 		<b><i>Ng Chee Khern</i></b>
