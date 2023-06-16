@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 15, June 2016</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_14/14_Banner_Gearing%20the%20Public%20Service%20for%20SG100.jpg">
 
 
 
