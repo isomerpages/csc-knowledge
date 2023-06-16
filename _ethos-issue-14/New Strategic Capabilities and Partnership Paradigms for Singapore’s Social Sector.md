@@ -69,7 +69,7 @@ li {
 
 </style>
 
-<em><small>ETHOS Issue 15, June 2016</small></em>
+<em><small>ETHOS Issue 14, Feb 2016</small></em>
 <img src="/images/Cropped_images/Ethos_Issue_14/14_Banner_New%20Strategic%20Capabilities%20and%20Partnership%20Paradigms%20for%20Singapore’s%20Social%20Sector.jpg">
 
 
