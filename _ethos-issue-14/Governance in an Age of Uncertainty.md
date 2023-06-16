@@ -68,7 +68,7 @@ li {
 
 </style>
 
-<em><small>ETHOS Issue 15, June 2016</small></em>
+<em><small>ETHOS Issue 14, Feb 2016</small></em>
 <img src="/images/Landing_Banner_Images/tile_opinion.jpg">
 
   
