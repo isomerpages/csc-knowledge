@@ -114,7 +114,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Economic Development and Social Integration: Singapore’s Evolving Social Compact</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -126,7 +126,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Ownership, Opportunity and Outcomes</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -138,7 +138,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>New Strategic Capabilities and Partnership Paradigms for Singapore’s Social Sector</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
