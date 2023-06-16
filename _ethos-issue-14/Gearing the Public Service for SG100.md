@@ -88,13 +88,13 @@ li {
 
 <p>We are learning new ways of reaching out, listening and involving the community as partners. Our Singapore Conversation built mutual understanding amongst Singaporeans, and helped the Public Service appreciate the myriad of aspirations and concerns among different segments. Subsequent public engagements like MediShield Life and CPF consultations have built on these approaches of small group dialogues.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Partner Singaporeans and harness their energies and ideas for the good of Singapore — no one has a monopoly on ideas and the Public Service may not always have the answer, or be the answer.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Building a Better Singapore, Together</h3>
 
@@ -108,13 +108,13 @@ Partner Singaporeans and harness their energies and ideas for the good of Singap
 
 <p>The other aspect is “governing the digital”, which means putting in place the platforms, processes and policies to foster invention and co-creation. We want to provide access to and improve the quality of open data so that new insights and solutions can be derived by a wider community of researchers, data scientists, and developers. This year, we released additional transport data sets and revamped our government open data portal to make it more user-friendly. Concurrently, we will take steps to mitigate the risks of new technology, particularly in cyber-security, personal data protection and ensuring no one is left behind.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Beyond hard structural changes, we must internalise systems thinking and collaboration as part of our shared culture so that it will be second nature for all of us to work across agency boundaries and tackle issues of priority.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The third is to be an integrated and nimble Public Service. We call this “Whole-of-Government” (WOG). We have put in place processes such as the No Wrong Door policy and First Responder Protocol, and set up the Strategy Group under the Prime Minister’s Office to improve WOG coordination. Beyond hard structural changes, we must internalise systems thinking and collaboration as part of our shared culture so that it will be second nature for all of us to work across agency boundaries and tackle issues of priority. We will then be able to tap on the wisdom of crowds as well as innovate and adapt as we work at delivering higher public value.</p>
 
@@ -126,20 +126,17 @@ Beyond hard structural changes, we must internalise systems thinking and collabo
 
 <p>We are starting a new chapter that will bring us closer to SG100. How our Singapore story will unfold will depend on bold ideas, a whole-of-nation effort and the gumption to make it happen. In partnership with Singaporeans, public officers have an opportunity to be tomorrow’s pioneers through the journeys we take today.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Peter Ong</strong> is the Head of Singapore’s Civil Service and concurrently Permanent Secretary at the Ministry of Finance and Permanent Secretary (Special Duties) at the Prime Minister’s Office. </p>
 
-<hr>
+</div>
 
 <p class="small-text">A version of this article was published in The Straits Times on 5 November 2015.
 </p>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
