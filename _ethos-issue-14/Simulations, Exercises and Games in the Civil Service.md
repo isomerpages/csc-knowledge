@@ -92,13 +92,13 @@ li {
 
 <p>But such activities do more than just increase tacit knowledge. Like their richer cousin — real-life experience — they can expose us to emotions and senses that we cannot fully grasp just by sitting through a lecture. We may understand fear, but only in an intellectual way. To teach the Starfleet cadets how to manage fear, the imaginary <em>Kobayashi Maru</em> creates fear by simulating the complexities of emotion and stress that exist in combat situations.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 As more patterns are embedded in memory, the ability to make sound decisions when dealing with complex situations is strengthened.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Pattern Recognition</h3>
 
@@ -140,7 +140,7 @@ As more patterns are embedded in memory, the ability to make sound decisions whe
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Dark Winter</h3>
