@@ -58,7 +58,10 @@ font-family: Georgia;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 , .containerbox h4 , .containerbox h5 {
+	color: #6d5181;
+	
+	}
 li {
 	font-size: 15px !important;
 	
@@ -135,7 +138,7 @@ As more patterns are embedded in memory, the ability to make sound decisions whe
 
 
 
-<p class="small-text text">Exercise <em>Dark Winter</em> was a famous American simulation exercise held in 2001.<a href="#notes"><sup class="#notes">1</sup></a> Many senior officials and politicians participated in <em>Dark Winter</em>.</p>
+<br>
 
 
 
@@ -166,13 +169,13 @@ As more patterns are embedded in memory, the ability to make sound decisions whe
 
 <p>Other forms of online games have taken cognitive diversity to even higher levels. The US Army has used Massively Multiplayer Online Games (MMOGs) involving thousands of players from all over the world to develop new tactical concepts. The US Navy’s version, called Massively Multiplayer Online War Game Leveraging the Internet (MMOWGLI) created new tactics to combat Somali pirates. In opening up MMOWGLI to the whole world — and perhaps a few Somali pirates might even have played — many more alternatives were generated, resulting in a richer outcome, leading to more robust tactical solutions. The US Navy has since used MMOWGLI to tackle wicked problems like energy.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Simulations, exercises and games can sometimes lead to unpredictable learning outcomes, and this is anathema in bureaucratic organisations that value structure and measurable performance.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Simulations, Exercises and Games in Government</h3>
 
@@ -193,12 +196,12 @@ Simulations, exercises and games can sometimes lead to unpredictable learning ou
 
 
 
-<p class="small-text text">Simulations, exercises and games are known as “policy games” in the Singapore Civil Service, to distinguish them from the wargames used by the military. Several have been deployed to help improve the quality of planning and decision-making.</p>
+<br>
 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Policy Gaming Initiatives in the Singapore Civil Service</h3>
