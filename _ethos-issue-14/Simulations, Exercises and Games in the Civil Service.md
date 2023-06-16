@@ -234,13 +234,13 @@ Simulations, exercises and games can sometimes lead to unpredictable learning ou
 
 <p>The Singapore Civil Service should move to systematically design and run policy games for civil servants at all levels, including in their milestone programmes. The use of policy games for planning, policy design, futures work, public engagement, and service delivery, should be explored. Policy games must become integral to the proper running and organisation of the Civil Service in Singapore.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Peter Ho</strong> is currently the Senior Advisor to the Centre for Strategic Futures and Senior Fellow in the Civil Service College. He is an Adjunct Professor with the S Rajaratnam School of International Studies, and a Visiting Fellow at the Lee Kuan Yew School of Public Policy. Previously, he served as Head, Civil Service, concurrent with other appointments as Permanent Secretary (Foreign Affairs), Permanent Secretary (National Security and Intelligence Coordination), and nt Secretary (Special Duties) in the Prime Minister’s Office. Before that, he was Permanent Secretary (Defence).</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -248,9 +248,7 @@ Simulations, exercises and games can sometimes lead to unpredictable learning ou
 <li class="small-text">Gary Klein, Sources of Power: How People Make Decisions (Cambridge, MA: MIT Press, 1999). </li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
