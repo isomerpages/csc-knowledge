@@ -77,7 +77,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Meritocracy: Time for an Update?</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -90,7 +90,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Striking the Right Balance</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -102,7 +102,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>What We Didn’t Know About Multigenerational Mobility</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
