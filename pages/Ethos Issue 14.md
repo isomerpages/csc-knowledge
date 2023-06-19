@@ -151,12 +151,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Governance in an Age of Uncertainty</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY TERENCE POON</i></b>
+		<p>How should public policymaking and service delivery adapt to an era of greater uncertainty and complexity?</p>
+		<div class="button1"><a href="/ethos-issue-14/governance-in-an-age-of-uncertainty/">Read more</a></div>
 	</div>
 </div>
 
