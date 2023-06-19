@@ -139,12 +139,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_14/14_Teaser_New%20Strategic%20Capabilities%20and%20Partnership%20Paradigms%20for%20Singapore’s%20Social%20Sector.jpg"></div>
 	<div>
 		<h3>New Strategic Capabilities and Partnership Paradigms for Singapore’s Social Sector</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY CHERYL WU</i></b>
+		<p>Singapore’s social compact can no longer rest on Government alone; cross-sector partnerships may better address increasingly complex social needs.</p>
+		<div class="button1"><a href="/ethos-issue-14/new-strategic-capabilities-and-partnership-paradigms-for-singapore-s-social-sector/">Read more</a></div>
 	</div>
 </div>
 
