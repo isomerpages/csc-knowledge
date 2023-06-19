@@ -75,12 +75,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Meritocracy: Time for an Update?</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY TIANA DESKER</i></b>
+		<p>While the spirit of meritocracy is still important for Singapore, there may be a need to review our ideas about how it can be put into practice.</p>
+		<div class="button1"><a href="/ethos-issue-14/meritocracy-time-for-an-update/">Read more</a></div>
 	</div>
 </div>
 
