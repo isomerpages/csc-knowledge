@@ -67,7 +67,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i></i></b>
 		<figcaption></figcaption>
-		<p></p>
+		<p>Singapore's meritocracy is fundamentally pragmatic, but has the relentless pursuit of excellence and merit-based rewards — assumed to inculcate discipline and accrue optimal gains for all — in fact left some in society behind due to factors over which they have little control?</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
