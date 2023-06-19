@@ -88,11 +88,11 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Striking the Right Balance</h3>
 		<b><i></i></b>
-		<p></p>
+		<p>Participants from the 7th Leaders in Governance Programme discuss the prospects for maintaining an agile and prosperous society that is also responsive to diverse and increasingly complex needs.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
