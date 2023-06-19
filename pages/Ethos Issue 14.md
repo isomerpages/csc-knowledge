@@ -108,19 +108,19 @@ margin-top:15px;
 		<h3>What We Didn’t Know About Multigenerational Mobility</h3>
 		<b><i>GARY SOLON</i></b>
 		<p>Better income data has uncovered surprising insights about income mobility and income inequality, says the noted researcher and economics professor.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-14/what-we-didnt-know-about-multigenerational-mobility-in-conversation-with-gary-solon/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_14/14_Teaser_Economic%20Dev%20and%20Social%20Integration_Singapore_Evolving%20Social%20Compact.jpg"></div>
 	<div>
 		<h3>Economic Development and Social Integration: Singapore’s Evolving Social Compact</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY SOH TZE MIN</i></b>
+		<p>Is continuous meritocracy the key to balancing economic integration and social cohesion in a period of slowing growth?</p>
+		<div class="button1"><a href="/ethos-issue-14/economic-development-and-social-integration-singapore-s-evolving-social-compact/">Read more</a></div>
 	</div>
 </div>
 
