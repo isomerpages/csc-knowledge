@@ -301,7 +301,7 @@ font-size: 16px;
 </tr>
 		
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-14">Issue 14, Feb 2016, <br>Meritocracy and Mobility</a></td>
+	<td><a target="_blank" href="/ethos-issue-14/">Issue 14, Feb 2016, <br>Meritocracy and Mobility</a></td>
 </tr>
 	
 <tr>
