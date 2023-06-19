@@ -65,8 +65,8 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i></i></b>
-		<figcaption></figcaption>
+		<b><i>Alvin Pang</i></b>
+		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p>Singapore's meritocracy is fundamentally pragmatic, but has the relentless pursuit of excellence and merit-based rewards — assumed to inculcate discipline and accrue optimal gains for all — in fact left some in society behind due to factors over which they have little control?</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
