@@ -127,12 +127,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Ownership, Opportunity and Outcomes</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>LAURENCE LIEN</i></b>
+		<p>The community sector can become more confident in working with others to solve collective problems — but it will take practice, patience and leadership.</p>
+		<div class="button1"><a href="/ethos-issue-14/ownership-opportunity-and-outcomes-interview-with-laurence-lien/">Read more</a></div>
 	</div>
 </div>
 
