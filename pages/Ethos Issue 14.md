@@ -163,36 +163,36 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Embracing Complexity in Healthcare</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY CLIVE TAN AND AARON MANIAM</i></b>
+		<p>In a complex environment where centralised planning has limited effectiveness, simple rules may allow the system to evolve organically towards shared goals.</p>
+		<div class="button1"><a href="/ethos-issue-14/embracing-complexity-in-healthcare/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_14/14_Teaser_Simulations,%20Exercises%20and%20Games%20in%20the%20Civil%20Service.jpg"></div>
 	<div>
 		<h3>Simulations, Exercises and Games in the Civil Service</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY PETER HO</i></b>
+		<p>The former Head of Civil Service makes a case for policy gaming as a means to anchor learning, reduce surprise and surface diverse perspectives.</p>
+		<div class="button1"><a href="/ethos-issue-14/simulations-exercises-and-games-in-the-civil-service/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_14/14_Teaser_Gearing%20the%20Public%20Service%20for%20SG100.jpg"></div>
 	<div>
 		<h3>Gearing the Public Service for SG100</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>BY PETER ONG</i></b>
+		<p>Singapore’s Head of Civil Service charts new directions for the public sector as the nation looks forward to its next decades of growth.</p>
+		<div class="button1"><a href="/ethos-issue-14/gearing-the-public-service-for-sg100/">Read more</a></div>
 	</div>
 </div>
 
