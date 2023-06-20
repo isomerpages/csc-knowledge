@@ -68,7 +68,8 @@ border-top: 1px solid black;
 </style>
 
 <em><small>ETHOS Issue 04, Apr 2008</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_04/Integrated_Service_Delivery.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_04/4_Banner_Integrated%20Service%20Delivery-%20The%20Australian%20Department%20of%20Human%20Services.jpg">
+
 
 
 <h3>What is the Australian Public Service’s approach to innovation and excellence in service delivery? What are the factors behind your drive towards service innovation and service integration?</h3>
