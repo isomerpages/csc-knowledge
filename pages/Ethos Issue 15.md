@@ -223,10 +223,10 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Risk-Ready Leadership</h3>
-		<b><i>Participants: <br>
-			Mr Nikhil Seth<br>
-			Ms Stephanie Foster<br>
-			Mr Said Faisa
+		<b><i>
+			Nikhil Seth,
+			Stephanie Foster and
+			Said Faisa
 			</i></b>
 		<p>Three distinguished participants from Singapore’s 8th Leaders in Governance Programme share insights on how the public sector can embrace a more complex and uncertain world.</p>
 		<div class="button1"><a href="/ethos-issue-15/risk-ready-leadership/">Read more</a></div>
