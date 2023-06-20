@@ -62,8 +62,7 @@ color: white;
 </style>
 	
 <em><small>ETHOS Issue 03, Oct 2007</small></em>
-<img src="/images/Landing_Banner_Images/banner_interview.jpg">	
-	
+<img src="/images/Landing_Banner_Images/banner_roundtable.jpg">		
 
 <h6>PARTICIPANTS:</h6>
 
