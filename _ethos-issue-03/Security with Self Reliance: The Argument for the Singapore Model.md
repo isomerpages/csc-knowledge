@@ -65,8 +65,7 @@ font-size:16px;
 </style>
 
 <em><small>ETHOS Issue 03, Oct 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_03/Security_With_Slef_Reliance.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_03/3_Banner_Security%20with%20Self-Reliance-%20The%20Argument%20for%20the%20Singapore%20Model.jpg">
 
 
 <p>While the concept of social insurance is never used to describe Singapore’s social safety net, it is often used to describe those of welfare states. The term “insurance” is evocative. Insurance is typically taken out against high impact, low probability events over which the individual has relatively little control. Hence, there is no insurance against suicide, but there is insurance against falling ill.</p>
