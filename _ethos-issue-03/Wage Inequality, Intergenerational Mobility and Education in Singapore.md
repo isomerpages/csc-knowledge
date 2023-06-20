@@ -75,7 +75,7 @@ font-size:16px;
 	
 	
 <em><small>ETHOS Issue 03, Oct 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_03/WageInequality.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_03/3_Banner_Wage%20Inequality,%20Intergenerational%20Mobility%20and%20Education%20in%20Singapore.jpg">
 	
 
 <p>Accompanying Singapore’s phenomenal economic growth over the past four decades has been a rapid increase in educational attainment over the years:<a href="#notes"><sup>1</sup></a> in 1960, the mean years of schooling for residents aged 25 and over was 3.14 years; in 2006, it was 9.3 years. This dramatic increase in the supply of skilled labour in all sectors of the economy helped to power Singapore’s high growth rates over the past few decades of economic development, which also saw declining wage inequality and high upward intergenerational mobility in education.</p>
