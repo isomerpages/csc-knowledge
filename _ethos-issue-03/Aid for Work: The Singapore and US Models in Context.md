@@ -64,7 +64,7 @@ font-size:16px;
 
 
 <em><small>ETHOS Issue 03, Apr 2010</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_03/Aid_For_Work.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_03/3_Banner_Aid%20for%20Work-%20The%20Singapore%20and%20US%20Models%20in%20Context.jpg">
 
 
 
