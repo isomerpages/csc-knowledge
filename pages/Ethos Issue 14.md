@@ -78,7 +78,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Meritocracy: Time for an Update?</h3>
-		<b><i>BY TIANA DESKER</i></b>
+		<b><i>By Tiana Desker</i></b>
 		<p>While the spirit of meritocracy is still important for Singapore, there may be a need to review our ideas about how it can be put into practice.</p>
 		<div class="button1"><a href="/ethos-issue-14/meritocracy-time-for-an-update/">Read more</a></div>
 	</div>
@@ -91,10 +91,10 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Striking the Right Balance</h3>
-		<b><i>Participants: <br>
-			Mr Hamzah Sulaiman <br>
-			Mr Filimone Waqabaca<br>
-			Mr Mohammed Mosly</i></b>
+		<b><i>
+			Hamzah Sulaiman and
+		 Filimone Waqabaca and
+		 Mohammed Mosly</i></b>
 		<p>Participants from the 7th Leaders in Governance Programme discuss the prospects for maintaining an agile and prosperous society that is also responsive to diverse and increasingly complex needs.</p>
 		<div class="button1"><a href="/ethos-issue-14/striking-the-right-balance/">Read more</a></div>
 	</div>
