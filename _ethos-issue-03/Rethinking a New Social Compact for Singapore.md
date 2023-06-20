@@ -72,7 +72,7 @@ border-top: 1px solid black;
 </style>
 
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_03/Rethinking_A_New_SocialCompact_For_Singapore.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_03/3_Banner_Rethinking%20a%20New%20Social%20Compact%20for%20Singapore.jpg">
 
 
 <p>At the heart of Singapore’s success in governance lies the strength of its social compact. Since independence, the majority of citizens, including those at the bottom of the income pyramid, have enjoyed a steady rise in living standards. This prosperity has earned the Government the credibility and mandate it needs to implement difficult social and economic policies time and again, which in spite of initial hardship, eventually raises the nation’s well-being. This virtuous cycle is at the core of Singapore’s long-term, policy-driven success.</p>
