@@ -72,7 +72,7 @@ font-size:16px;
 </style>
 
 <em><small>ETHOS Issue 03, Oct 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_03/The_Asian_Financial_Crisis_In_Hindsight.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_03/3_Banner_The%20Asian%20Financial%20Crisis%20In%20Hindsight.jpg">
 
 
 <p>The 1997/98 Asian Financial Crisis hit the fastest growing economies in the world, and prompted the largest financial bailouts by international financial institutions (IFIs) in history. It brought to an end decades of strong economic growth among Asian economies that were previously lauded for their sound economic policies of export orientation, balanced budgets, and high savings and investment rates.</p>
