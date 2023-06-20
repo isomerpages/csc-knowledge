@@ -69,8 +69,7 @@ border-top: 1px solid black;
 </style>
 
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_04/Better_Faster_Cheaper.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_04/4_Banner_Better,%20Faster,%20Cheaper.jpg">
 
 
 <p>Public agencies around the world are under increasing pressure to do more with less. More and more are being caught in a “value squeeze”,<a href="#notes"><sup>1</sup></a> seeking more efficient ways to create public outcomes amidst calls for better, faster service against tighter budgets and rising customer expectations.</p>
