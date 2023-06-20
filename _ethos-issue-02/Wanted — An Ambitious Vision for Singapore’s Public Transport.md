@@ -72,7 +72,8 @@ font-size:16px;
 </style>
 
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_02/Wanted_An_Ambitious_Vision_For_Singapore_Public_Transport.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_02/2_Banner_Wanted%20—%20An%20Ambitious%20Vision%20for%20Singapore’s%20Public%20Transport.jpg">
+
 
 <p>Momentous issues lie behind the apparently dry choices facing the experts now reviewing Singapore's public transport arrangements. As a large, compact city, Singapore is approaching limits to road capacity expansion. Increasingly, public transport will be called upon to compete with cars for customers who have a choice. To do this successfully, Singapore will have to adopt a much more ambitious approach to the organisation and regulation of public transport. Existing arrangements are almost certainly not up to the task and fine-tuning them will not be enough.</p>
 
