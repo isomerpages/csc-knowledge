@@ -175,7 +175,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Making Public Policy Relevant for Bicultural Families in Singapore.</h3>
-		<b><i>PAULIN TAY STRAUGHAN AND KHARINA ZAINAL</i></b>
+		<b><i>INTERVIEW WITH PAULIN TAY STRAUGHAN AND KHARINA ZAINAL</i></b>
 		<p>A conversation with noted sociologist Paulin Tay Straughan offers insights on Singapore’s growing social diversity and its implications for bicultural families and social policy.</p>
 		<div class="button1"><a href="/ethos-issue-15/making-public-policy-relevant-for-bicultural-families-in-singapore/">Read more</a></div>
 	</div>
@@ -187,7 +187,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>The Nature of Public Trust in Government</h3>
-		<b><i>Paul Light</i></b>
+		<b><i>INTERVIEW WITH PAUL LIGHT</i></b>
 		<p>A veteran scholar explores the nature of public trust in government and its impact on public policy and service delivery.</p>
 		<div class="button1"><a href="/ethos-issue-15/the-nature-of-public-trust-in-government-interview-with-paul-c/">Read more</a></div>
 	</div>
