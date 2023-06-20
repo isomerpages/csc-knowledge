@@ -75,8 +75,7 @@ font-size:16px;
 
 
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_02/Implications_Of_ProspectTheory_OnRoad_Pricing.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_02/2_Banner_Implications%20of%20Prospect%20Theory%20on%20Road%20Pricing.jpg">
 
 
 
