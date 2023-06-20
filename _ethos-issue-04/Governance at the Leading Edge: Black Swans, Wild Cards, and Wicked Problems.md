@@ -57,7 +57,7 @@ font-size:16px;
 
 
 <em><small>ETHOS Issue 04, Apr 2008</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_04/Governance_At_The_LeadingEdge.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_04/4_Banner_Governance%20at%20the%20Leading%20Edge-%20Black%20Swans,%20Wild%20Cards,%20and%20Wicked%20Problems.jpg">
 
 
 <h3>OF BLACK SWANS AND WILD CARDS</h3>
