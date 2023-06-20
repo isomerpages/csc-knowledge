@@ -70,8 +70,7 @@ border-top: 1px solid black;
 </style>
 
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_03/Growth_With_Equity.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_03/3_Banner_Growth%20with%20Equity-%20The%20Challenge%20of%20Income%20Distribution.jpg">
 
 
 <p>The rapid pace of globalisation, technology advances and economic restructuring over the last decade or so appear to have contributed to increasing income inequality and low wage stagnation and even decline in developed economies. In small and open economies such as Singapore’s, this phenomenon may be felt even more keenly, weakening of the social consensus that has existed so far in favour of free markets and competition. What should the Government do to address this challenge?</p>
