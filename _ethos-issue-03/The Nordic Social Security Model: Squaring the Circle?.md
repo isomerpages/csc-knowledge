@@ -93,8 +93,7 @@ color: white;
 
 
 <em><small>ETHOS Issue 03, Oct 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_03/The_NordicSocialSecurity_Model.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_03/3_banner_the%20nordic%20social%20security%20model-%20squaring%20the%20circle.jpg">
 
 <p>The challenge facing many developed countries today is how to strike a balance between preserving economic growth, and enhancing social welfare to mitigate the ills of economic growth. Countries face pressure on the one hand to keep tax rates low and regulation light to stay competitive; on the other, to raise taxes in order to fund redistributive policies that reduce income inequality and strengthen social security.</p>
 
