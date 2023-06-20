@@ -70,8 +70,7 @@ font-size:16px;
 
 
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_02/Qualtiy_Of_Life.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_02/2_Banner_Quality%20of%20Life%20in%20Singapore.jpg">
 
 <p>While having a picnic lunch at the reservoir park, your spouse spots a kayak booth and thinks it would be a novel idea to tour the reservoir on boat. After a leisurely paddle and a stop for ice-cream, it is time to head home. Your in-laws drop in for a visit, bringing presents and sharing how they hopped from one mall to another along the shopping belt, never having to leave the air-conditioned comfort of the newly opened underground linkways lined with interesting shops and cafés.</p>
 
