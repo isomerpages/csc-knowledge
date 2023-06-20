@@ -67,7 +67,7 @@ font-size:16px;
 
 
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_02/Strategic_In_OutlookNimble_In_Execution.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_02/2_Banner_Strategic%20in%20Outlook,%20Nimble%20in%20Execution-%20Strengthening%20the%20Centre%20in%20Government.jpg">
 
 
 <h3>BARRIERS TO A NIMBLE GOVERNMENT</h3>
