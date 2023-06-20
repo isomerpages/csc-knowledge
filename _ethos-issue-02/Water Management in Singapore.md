@@ -73,7 +73,7 @@ font-size:16px;
 </style>
 
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_02/Waste_Management_In_Singapore.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_02/2_Banner_Water%20Management%20in%20Singapore.jpg">
 
 
 <p>With a territory size of just 700 square kilometres (km<sup>2</sup>), Singapore is a water-scarce country not because of lack of rainfall (2,400 millimetres/year), but because of the limited amount of land area where rainfall can be stored. One of the main concerns of the Government has been how to provide clean water to its population, which currently consumes about 1.36 billion litres of water per day.</p>
