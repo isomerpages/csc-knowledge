@@ -57,7 +57,8 @@ font-size:16px;
 
 
 <em><small>ETHOS Issue 04, Oct 2008</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_04/Managing_Complexity.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_04/4_Banner_Managing%20Complexity%20and%20Uncertainties.jpg">
+
 
 
 <p>History is not without its disruptive surprises. At the end of the 19th century, it was thought that everything that could be known had been discovered. Yet only a few years later came the x-ray, sub-atomic particles, nuclear fission and other discoveries that completely changed the world.</p>
