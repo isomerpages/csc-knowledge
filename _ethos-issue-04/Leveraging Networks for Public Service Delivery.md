@@ -83,8 +83,7 @@ font-size:16px;
 </style>
 
 <em><small>ETHOS Issue 04, Apr 2008</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_04/Leveraging_Networks_For.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_04/4_Banner_Leveraging%20Networks%20for%20Public%20Service%20Delivery.jpg">
 
 
 <h3>NEW CHALLENGES AND OPPORTUNITIES IN A MASSIVELY CONNECTED WORLD</h3>
