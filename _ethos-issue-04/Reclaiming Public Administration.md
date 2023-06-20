@@ -72,8 +72,7 @@ border-top: 1px solid black;
 </style>
 
 <em><small>ETHOS Issue 04, Apr 2008</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_04/Reclaiming_PublicAdmin.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_04/4_Banner_Reclaiming%20Public%20Administration.jpg">
 
 <p>Public administrations are a vehicle for expressing the values and preferences of citizens, communities and societies. </p>
 
