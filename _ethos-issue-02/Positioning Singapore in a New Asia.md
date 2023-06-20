@@ -71,7 +71,7 @@ font-size:16px;
 	
 	
 <em><small>ETHOS Issue 02, Apr 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_02/Positioning_SingaporeIn_NewAsia.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_02/2_Banner_Positioning%20Singapore%20in%20a%20New%20Asia.jpg">
 	
 	
 
