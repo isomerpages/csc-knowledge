@@ -72,8 +72,7 @@ font-size:16px;
 
 
 <em><small>ETHOS Issue 03, Oct 2007</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_03/Social_Security_In_Singapore.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_03/3_Banner_Workfare-%20The%20Fourth%20Pillar%20of%20Social%20Security%20in%20Singapore.jpg">
 
 
 
