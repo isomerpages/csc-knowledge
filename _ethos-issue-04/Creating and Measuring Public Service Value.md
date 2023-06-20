@@ -65,7 +65,7 @@ font-size:16px;
 </style>
 
 <em><small>ETHOS Issue 04, Apr 2008</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_04/Creating_And_Measuring.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_04/4_Banner_Creating%20and%20Measuring%20Public%20Service%20Value.jpg">
 
 
 <h3>THE DILEMMA OF PUBLIC SERVICE</h3>
