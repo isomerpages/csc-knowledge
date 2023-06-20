@@ -106,7 +106,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>What We Didn’t Know About Multigenerational Mobility</h3>
-		<b><i>GARY SOLON</i></b>
+		<b><i>Interview with GARY SOLON</i></b>
 		<p>Better income data has uncovered surprising insights about income mobility and income inequality, says the noted researcher and economics professor.</p>
 		<div class="button1"><a href="/ethos-issue-14/what-we-didnt-know-about-multigenerational-mobility-in-conversation-with-gary-solon/">Read more</a></div>
 	</div>
@@ -130,7 +130,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Ownership, Opportunity and Outcomes</h3>
-		<b><i>LAURENCE LIEN</i></b>
+		<b><i>Interview with LAURENCE LIEN</i></b>
 		<p>The community sector can become more confident in working with others to solve collective problems — but it will take practice, patience and leadership.</p>
 		<div class="button1"><a href="/ethos-issue-14/ownership-opportunity-and-outcomes-interview-with-laurence-lien/">Read more</a></div>
 	</div>
