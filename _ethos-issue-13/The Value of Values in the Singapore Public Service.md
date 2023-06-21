@@ -76,15 +76,15 @@ li {
   
 <p>The core purpose of the Singapore Public Service is defined by service to the nation and its people. It follows that the practice of good governance calls for the right set of values to be cultivated and upheld across the Service. Our core values of Integrity, Service and Excellence were distilled and espoused in 2003, after an extensive service-wide process.<a href="#notes"><sup class="#notes">1</sup></a> They provide a compass for our standards of behaviour as public servants, and inform the way we think about our day-to-day work, such as policy analysis and design, service delivery, or public engagement. Our values prompt us to do our duty honestly without fear or favour, to go the extra mile to help fellow citizens, and to be the best that we can be. To be part of an organisation that prizes these values is also a source of pride and belonging for our public officers. Our commitment to these values has also undoubtedly contributed to the Singapore Public Service’s international reputation for good governance.<a href="#notes"><sup class="#notes">2</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Values are not just words; values are what we live by. They are about the causes that we champion and the people we fight for.  
-</em></h5>  
+</p>  
   
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—US Secretary of State John Kerry</p>  
   
-<hr>  
+</div>  
   
 <p>We serve a public that is more diverse than before. They are more educated, with more complex needs and higher expectations of government, in an operating environment that is also becoming more dynamic. To meet these and other new challenges, the Public Service must enhance its effectiveness, public value, citizen-centric service delivery, policy design and public engagement. But just as critically, public officers need to be steeped in the right set of values that will underpin the responsibilities we have to the citizens we serve, and provide a basis for us to make the difficult and complex decisions we sometimes have to make in order to serve the common good. Our core values help us manage trade-offs across different interest groups, interpret policies and make judgement calls on grey areas — decisions that frontline officers are increasingly expected to make. Without clear values to guide these decisions, our jobs risk becoming mechanical and rule-bound, and we may seize up when faced with ambiguous situations that call for tough choices based not only on rational calculations but on what we stand for as a Public Service.</p>  
   
