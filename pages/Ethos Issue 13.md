@@ -78,8 +78,8 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Issue_13/13_Banner_Redefining%20Engagement-%20Lessons%20for%20the%20Public%20Service%20from%20Our%20Singapore%20Conversation.jpg"></div>
 	<div>
 		<h3>Redefining Engagement: Lessons for the Public Service from Our Singapore Conversation</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Melissa khoo and Yee lai fong</i></b>
+		<p>Through collective learning-by-doing and investment in strong relationships, Our Singapore Conversation has pioneered new possibilities for public engagement and governance.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
