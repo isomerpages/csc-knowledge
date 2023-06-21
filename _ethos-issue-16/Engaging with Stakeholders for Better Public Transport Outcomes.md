@@ -125,8 +125,6 @@ the people whose needs we are serving.
 
 
 
-<br>
-
 
 
 
