@@ -68,7 +68,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 13, May 2014</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_13/13_Banner_Redefining%20Engagement-%20Lessons%20for%20the%20Public%20Service%20from%20Our%20Singapore%20Conversation.jpg">
 
 
 
