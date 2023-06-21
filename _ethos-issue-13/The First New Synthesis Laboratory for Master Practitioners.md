@@ -164,20 +164,20 @@ changing circumstances and evolving with the society that they have a mission to
 <p>A key challenge is to frame public policy issues and challenges in a way that invites and allows others to contribute. Changing the way one thinks about the mission of public agency changes the way one shapes policy responses and services, how an agency relates to others and engages citizens. </p>  
 <p>Participants explored and shared ideas about how to use the concept of “positioning” to domains as varied as open data, “City in a Garden”, social and family development, and education. </p>  
 <p>The participants discovered the power of a broader mental map to open up new avenues and encourage cooperation, through the process of constructively questioning each other and sharing insights to improve the likelihood of success in addressing each others’ cases – a key feature of the NS Lab.<a href="#greybox"><sup class="#greybox">1</sup></a> </p>  
-<blockquote class="article-blockquote">  
+<blockquote style="background-color:#eceedb;" class="article-blockquote">  
 <p><em>In the late-1990s, the National Library Board and the Singapore Prison Service successfully repositioned their mission in the broader context of system-wide and societal results. This meant a focus on nation and community building for the former and the reintegration of ex-offenders for the latter. In so doing, they reinvented their respective professions and their roles as public agencies, resulting in better outcomes and improving the lives of users and those of the people providing the services.</em></p>  
 </blockquote>  
 <p><strong>Session 2: Leveraging</strong></p>  
 <p>Leveraging is about the Power of Others. It is the coming together of the authority of the state and the power of society to achieve better public results. Participants explored the importance of working across multiple boundaries inside government and across sectors to achieve results of higher value for society.</p>  
 <p>Leveraging recognises that an increasing number of issues exceed the capacity of government working alone.<a href="#greybox"><sup class="#greybox">2</sup></a> It calls for an understanding of the perspectives of others and the key factors that encourage them to join a collective effort.</p>  
 <p>Participants identified some factors that would enhance government capacity to build on contributions from others, learning from both successful and failed attempts.</p>  
-<blockquote class="article-blockquote">  
+<blockquote style="background-color:#eceedb;" class="article-blockquote">  
 <p><em>Participants examined the reasons behind the success of the Singapore Health Promotion Board in working with hawkers and food manufacturers to achieve better public health outcomes. They also explored possibilities for applying leveraging in the work of agencies such as the Land Transport Authority and the Agri-Food and Veterinary Authority.</em></p>  
 </blockquote>  
 <p><strong>Session 3: Engaging</strong></p>  
 <p>Even when working together, public agencies may not be able to achieve some complex results or find solutions to intractable problems. This session explored how public policies and programmes can be shaped to engage users and beneficiaries as value creators.</p>  
 <p>Successful citizen engagement requires clarity of purpose from the agency in question. Participants discussed the importance of establishing clarity on when the government is best positioned to engage citizens, when it would be unwise to do so, and when the desired outcomes can only be achieved with the contribution of users and beneficiaries as value creators. </p>  
-<blockquote class="article-blockquote">  
+<blockquote style="background-color:#eceedb;" class="article-blockquote">  
 <p><em>A case study from Sweden Clinic of Internal Medicine provided key insights into co-production.<a href="#greybox"><sup class="#greybox">3</sup></a> Important distinctions were drawn between various forms of engagement including information, consultation, co-creation, co-production and enabled self-organisation.<a href="#greybox"><sup class="#greybox">4</sup></a></em></p>  
 </blockquote>  
 <p><strong>Integrating and Applying NS Concepts</strong></p>  
@@ -190,13 +190,13 @@ changing circumstances and evolving with the society that they have a mission to
 <li>Engaging users and beneficiaries of public services to shift the relationship between the government and citizens from one of dependency to one of mutuality and shared responsibility.</li>  
 </ul>  
 <p>Participants improved their search for solutions in the context of their cases by using all three lenses.</p>  
-<blockquote class="article-blockquote">  
+<blockquote style="background-color: #eceedb;" class="article-blockquote">  
 <p><em>Through community engagement efforts, the Ministry of Home Affairs was able to reconcile its stewardship role under the law while expanding public involvement in achieving public policy results.</em></p>  
 </blockquote>  
 <p><strong>Sessions 4–6: A New Synthesis for Singapore</strong></p>  
 <p>The subsequent sessions marked a shift in focus from key concepts applied to individual cases to an overall transformation agenda for Singapore’s public service. Sessions 4-6 reached beyond particular initiatives to identify and explore the capacities needed to build public institutions and organisations capable of adapting to changing circumstances and of evolving alongside society. </p>  
 <p>During these sessions, participants heard from resource persons about the changing landscape in Singapore from an internal and an external perspective. The participants drew insights from the early findings of “Our Singapore Conversation”. They engaged with political, academic and public sector leaders, heard from central agencies about current initiatives, and discussed how these agencies could help build the capacity of government to adapt to changing needs and circumstances. A series of international examples were used to help participants learn what others were doing to build adaptive and resilient societies.</p>  
-<p>Over the course of the NS Lab sessions, participants co-created a powerful narrative that speaks to Singapore’s context and to their aspirations. They articulated the special role and responsibility of government to nurture adaptive public institutions fit for the time, and a resilient society fit for the challenges of the future. They also highlighted guiding principles and promising approaches to support these efforts.<a href="#greybox"><sup class="#greybox">5</sup></a> The document they produced amounts to an ambitious reform agenda that warrants careful consideration.<a href="#greybox"><sup class="#greybox">6</sup></a> It is available on the CSC website at: <a href="the-first-new-synthesis-laboratory-for-master-practitioners.html" class="breadcrumbRED">https://www.csc.gov.sg/articles/the-first-new-synthesis-laboratory-for-master-practitioners</a></p>  
+<p>Over the course of the NS Lab sessions, participants co-created a powerful narrative that speaks to Singapore’s context and to their aspirations. They articulated the special role and responsibility of government to nurture adaptive public institutions fit for the time, and a resilient society fit for the challenges of the future. They also highlighted guiding principles and promising approaches to support these efforts.<a href="#greybox"><sup class="#greybox">5</sup></a> The document they produced amounts to an ambitious reform agenda that warrants careful consideration.<a href="#greybox"><sup class="#greybox">6</sup></a> It is available on the CSC website at: <a href="/ethos-issue-13/the-first-new-synthesis-laboratory-for-master-practitioners/" class="breadcrumbRED">https://www.csc.gov.sg/articles/the-first-new-synthesis-laboratory-for-master-practitioners</a></p>  
 <p>&nbsp;</p>  
 <hr>  
 <p><strong>Notes</strong></p>  
@@ -236,13 +236,13 @@ changing circumstances and evolving with the society that they have a mission to
   
 <p>The NS Labs conducted in 2013 and 2014 are a powerful reminder of the need to continue to explore the New Frontiers of Public Administration, to prepare government fit for the challenges of its time and to build public organisations and public institutions with the capacity to adapt to changing needs, circumstances and citizens expectations. The Civil Service College plans to continue to explore the ideas generated from the 2013 and 2014 NS Labs as the New Synthesis Journey continues, for there is no end to our search for good government and good governance.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text">An international expert in governance and public sector reforms, the <strong>Honourable Jocelyne Bourgon</strong> is Senior Visiting Fellow at the Civil Service College, Singapore, where she works closely with public sector leaders and managers to prepare the Government to be fit and resilient for the future through research and practitioners’ workshops. Madame Bourgon is also President of Public Governance International (PGI), President Emeritus of the Canada School of Public Service, project leader of the New Synthesis Project and author of A New Synthesis of Public Administration: Serving in the 21st Century.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
