@@ -59,6 +59,10 @@ font-family: Georgia;
 	
 	}	
 
+.containerbox h3 {
+	color: #65544b;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
