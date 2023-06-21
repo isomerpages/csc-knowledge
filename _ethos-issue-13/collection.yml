@@ -2,6 +2,7 @@ collections:
   ethos-issue-13:
     output: true
     order:
+      - The Value of Values in the Singapore Public Service.md
       - "Ethics in Public Administration: Are We Teaching What Can’t be
         Taught?.md"
       - Inclusive and Iterative Governance.md
