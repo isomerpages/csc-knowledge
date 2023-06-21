@@ -267,9 +267,7 @@ These 21st century competencies are rarely rewarded in a 20th century culture.
 <li class="small-text">My experience helping to establish a programme to support transformative innovation in school education in Scotland has been encouraging. Using a simple set of resources as prompts and challenges, schools are first encouraged to express small-scale innovations that might help shift the system towards their aspirations and then supported to put them into practice. This approach is described in detail in Graham Leicester et al., Transformative Innovation in Education: A Playbook for Pragmatic Visionaries (UK: Triarchy Press, 2013) and at www.iffpraxis.com/transformative-innovation-in-education</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
