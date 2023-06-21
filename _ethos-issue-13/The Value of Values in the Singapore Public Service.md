@@ -88,13 +88,13 @@ Values are not just words; values are what we live by. They are about the causes
   
 <p>We serve a public that is more diverse than before. They are more educated, with more complex needs and higher expectations of government, in an operating environment that is also becoming more dynamic. To meet these and other new challenges, the Public Service must enhance its effectiveness, public value, citizen-centric service delivery, policy design and public engagement. But just as critically, public officers need to be steeped in the right set of values that will underpin the responsibilities we have to the citizens we serve, and provide a basis for us to make the difficult and complex decisions we sometimes have to make in order to serve the common good. Our core values help us manage trade-offs across different interest groups, interpret policies and make judgement calls on grey areas — decisions that frontline officers are increasingly expected to make. Without clear values to guide these decisions, our jobs risk becoming mechanical and rule-bound, and we may seize up when faced with ambiguous situations that call for tough choices based not only on rational calculations but on what we stand for as a Public Service.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Inculcating and strengthening values goes far beyond rules and guidelines. Values cannot become entrenched in our public officers and agencies by fiat alone — they must be brought to life.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Where the Singapore Public Service Stands</h3>  
   
