@@ -2,6 +2,7 @@ collections:
   ethos-issue-13:
     output: true
     order:
+      - Public Sector Transformation — Six Small Ways to Make a Big Impact.md
       - "Enabling Organisational Transformation: Possibilities and Practice.md"
       - "Nudging Towards The Good: In Conversation.md"
       - The Value of Values in the Singapore Public Service.md
