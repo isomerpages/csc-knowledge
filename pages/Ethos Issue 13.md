@@ -67,7 +67,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i>Dr Alvin Pang</i></b>
 		<figcaption>Editor-in-Chief Ethos</figcaption>
-		<p></p>
+		<p>At this critical inflection point in Singapore's development, the Public Service need not be on the defensive, but can instead use its considerable resources and influence in ways which not only accommodate the varied, restless energies emerging in society, but actively harness them towards the public good.</p>
 		<div class="button1"><a href="/ethos-issue-13/editorial/">Read more</a></div>
 	</div>
 </div>
