@@ -78,7 +78,7 @@ li {
   
 <p>For the Public Service, the key learning insights from the OSC experience may be summarised through four broad themes: Context, Connection, Capacity, and Capability.</p>  
   
-<img title="ethos\_redefining\_engag\_opt\_diagram" src="../../images/default-source/ethos-images/ethos-issue-13/ethos\_redefining\_engag\_opt\_diagram.jpg?sfvrsn=a99b6a7d\_0" data-displaymode="Original" alt="ethos\_redefining\_engag\_opt\_diagram">  
+<img src="/images/Ethos_Images/Ethos_Issue_13/Ethos_Redefining_Engage_PT_Diagram.jpg" alt="ethos\_redefining\_engag\_opt\_diagram">  
   
   
   
