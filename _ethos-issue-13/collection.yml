@@ -2,5 +2,6 @@ collections:
   ethos-issue-13:
     output: true
     order:
+      - The First New Synthesis Laboratory for Master Practitioners.md
       - "Making Public Private Partnerships Work: Implications for Singapore and
         the Region.md"
