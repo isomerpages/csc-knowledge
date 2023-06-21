@@ -210,7 +210,7 @@ li {
   
 <p>SC and IRAS demonstrate the powerful possibilities of organisational transformation over time. If our objective for public sector transformation is to build institutions that can anticipate, adapt and prosper over the years, how do the ways in which we frame transformation and design our organisations serve the future we want to create?</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -218,7 +218,7 @@ li {
   
 <p class="small-text"><strong>Lena Leong</strong> is Principal Researcher at the Institute of Leadership and Organisation Development, Civil Service College. Her research interests are in public administration and management, organisation change, and leadership. She holds a Master in Public Administration from the Lee Kuan Yew School of Public Policy. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
