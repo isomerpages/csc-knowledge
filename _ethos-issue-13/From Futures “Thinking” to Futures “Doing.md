@@ -138,7 +138,7 @@ Activist futuring involves not just intellectual persuasion but also the generat
     </li>  
 <li class="small-text">Adam Kahane, Power and Love: A Theory and Practice of Social Change (San Francisco: Berrett-Koehler, 2010).  
     </li>  
-<li class="small-text">Pieter le Roux et al., “The Mont Fleur Scenarios,” The Weekly Mail &amp; The Guardian Weekly, July 1992, http://reospartners.com/publication-view/46  
+<li class="small-text">Pieter le Roux et al., “The Mont Fleur Scenarios,” The Weekly Mail &amp; The Guardian Weekly, July 1992, <a href="http://reospartners.com/publication-view/46">http://reospartners.com/publication-view/46</a>  
     </li>  
 <li class="small-text">Lee Hsien Loong, “National Day Rally 2013 Speech” (speech, Singapore, August 21, 2013), Prime Minister’s Office, <a href="http://www.pmo.gov.sg/content/pmosite/mediacentre/speechesninterviews/primeminister/2013/August/prime-minister-lee-hsien-loong-s-national-day-rally-2013--speech.html">http://www.pmo.gov.sg/content/pmosite/mediacentre/speechesninterviews/primeminister/2013/August/prime-minister-lee-hsien-loong-s-national-day-rally-2013--speech.html</a>
     </li>  
