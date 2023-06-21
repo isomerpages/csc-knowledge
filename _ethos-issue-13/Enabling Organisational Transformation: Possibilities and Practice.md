@@ -58,7 +58,9 @@ font-family: Georgia;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #50849e;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -87,7 +89,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Organisational Transformation: Different Models, Different Approaches</h3>  
