@@ -22,6 +22,7 @@ border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
+padding-top: 30px;
 
 }
 
@@ -170,10 +171,12 @@ tomorrow’s world.
 <p><span class="ms-rteThemeForeColor-9-4"><strong><span style="color: #00b0f0;">Shazainah</span>: </strong></span>One basic approach is to really invest in reaching out to youth, trying to understand where they are coming from and to establish common ground with them, and at the same time managing their expectations. It will not be easy to go back to the values of the past. But the onus is on government to come up with innovative ideas to reach out to young people and to instil the values that we want to see, that society will need to progress in tomorrow’s world.
 </p>
 
-<hr>
 
+<div class="author">
 <p class="small-text"><em>The ETHOS Roundtable was conducted by ETHOS Editor-in-Chief Alvin Pang in September 2016 with a group of participants in the 9th Leaders in Governance Programme (LGP). Organised annually by the Civil Service College, the LGP draws from Singapore’s development experience to offer practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the seven-day programme, participants interact with senior government officials and thought leaders, and visit key government agencies to understand their operating philosophies and values.</em></p>
 
+</div>	
+	
 <br>
 
 
