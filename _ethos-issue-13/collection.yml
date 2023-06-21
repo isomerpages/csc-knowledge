@@ -2,6 +2,7 @@ collections:
   ethos-issue-13:
     output: true
     order:
+      - Editorial.md
       - "Redefining Engagement: Lessons for the Public Service from Our
         Singapore Conversation.md"
       - "After Our Singapore Conversation: The Futures of Governance.md"
