@@ -195,13 +195,13 @@ Internal government bureaucracy re-negotiates resources, responsibilities and ou
   
 <p>PPPs have worked well in many countries but have also attracted critics. Too often, critics charge that governments have entered into PPP agreements that lead to pressure to re-negotiate financial terms when financing conditions deteriorate, when revenue streams do not materialise or when costs overrun. However, this line of criticism conveniently ignores the fact that government-owned projects often also face cost overruns and poor management, resulting in additional project subsidies. The key difference here is that PPPs, involving private sector actors, often result in these subsidies being made very explicit. This may attract greater political controversies, but it does not necessarily imply weaker governance. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The framing of PPPs must shift from one where the state co-opts the private sector to provide financing and solutions, to one where state and non-state actors come together to solve complex social problems.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>In all likelihood, PPPs will become a permanent part of the public sector landscape. There are financial and non-financial reasons driving this. Even in Singapore, a fiscally healthy country, there could be greater reliance on PPPs in the future. The population is ageing, and trend economic growth is slowing as a result. Fiscal space will become tighter in the future. Coinciding with this, there will also be more ageing infrastructure (economic or social) that would need to be replaced. PPPs offer opportunities to introduce innovation into the financing and management of government assets and services. </p>  
   
@@ -209,19 +209,17 @@ The framing of PPPs must shift from one where the state co-opts the private sect
   
 <p>Singapore should build PPP capacity while it still does not really require it from the fiscal standpoint, and when it still has luxury to experiment and learn. It may stand to reap good rewards in the future.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
-  
+ </div>
 <h6><a name="notes"></a>NOTES</h6>  
   
 <ol>  
 <li class="small-text">Pamela Qiu, “Can Public-Private Partnerships Deliver Better Public Services? Annex 3: Singapore Sports Hub: Why the Delay?” https://www.cscollege.gov.sg/Knowledge/Documents/EP042010\_Annex%203.pdf</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
