@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 13, May 2014</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_13/13_Banner_The%20Value%20of%20Values%20in%20the%20Singapore%20Public%20Service.jpg">
 
 
 
