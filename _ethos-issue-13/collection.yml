@@ -2,6 +2,7 @@ collections:
   ethos-issue-13:
     output: true
     order:
+      - Managing Complexity with Courage, Conflict and Engagement.md
       - Transformative Innovation and the Policymaker of the Future.md
       - Public Sector Transformation — Six Small Ways to Make a Big Impact.md
       - "Enabling Organisational Transformation: Possibilities and Practice.md"
