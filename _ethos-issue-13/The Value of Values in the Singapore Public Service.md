@@ -58,7 +58,9 @@ font-family: Georgia;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #9ba555;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -129,8 +131,7 @@ Inculcating and strengthening values goes far beyond rules and guidelines. Value
   
   
   
-  
-<p class="small-text text">The PSD study suggests that Singapore’s public sector agencies use a wide variety of approaches to instill organisational values:</p>  
+<br>
   
   
   
@@ -185,7 +186,7 @@ Inculcating and strengthening values goes far beyond rules and guidelines. Value
 </div>  
   
 <p style="text-align: center;">  
-<img title="Ethos\_13\_Values\_4Steps" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-13/ethos\_13\_values\_4steps.png?sfvrsn=30eb873c\_0" data-displaymode="Original" alt="Ethos\_13\_Values\_4Steps">&nbsp;  
+<img title="Ethos\_13\_Values\_4Steps" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_13/Ethos_13_Values_4steps.png" data-displaymode="Original" alt="Ethos\_13\_Values\_4Steps">&nbsp;  
 </p>  
   
 <div style="text-align: center;">  
@@ -227,13 +228,13 @@ Inculcating and strengthening values goes far beyond rules and guidelines. Value
   
 <p>Successful organisations often use a combination of these approaches. However, it is important that the communication platforms used are the most appropriate and effective for the organisation. Communication on values cannot be one-off or one-way. Any communication on values should be consistent, regular and constantly refreshed, so that espoused values continue to resonate with staff.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Stories create a sense of connection to values by reflecting real dilemmas rather than abstract concepts.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h4>Step 3: Weave Values into Organisational Processes</h4>  
   
@@ -291,7 +292,7 @@ Stories create a sense of connection to values by reflecting real dilemmas rathe
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">What can Managers Do to Cultivate a Values-based Work Culture?</h3>  
