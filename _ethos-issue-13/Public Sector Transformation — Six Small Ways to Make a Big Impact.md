@@ -143,13 +143,13 @@ li {
   
 <p>Singapore stands at an important crossroads in its development. Will we be a run-of-the-mill country, or continue to be exceptional? This is not mere rhetoric. Our success has hinged as much on exceptional leadership as on an exceptional civil service that has stayed true to the nation’s interests and secured the public’s trust. The public sector transformation effort is too important to be left to chance. It is also too important to be left to the few who oversee the civil service. It has to be everyone’s job. It is up to us — people like you and me — to believe that we can make a difference, and to make change happen today.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Andrew Tan</strong> is Chief Executive, Maritime and Port Authority, Singapore. He has served previously as Chief Executive of the National Environment Agency, as well as Deputy Secretary in the Ministries of Transport and Foreign Affairs. He holds a Master’s degree in Public Administration from the Kennedy School of Government and a First Class Honours degree in History from King’s College, University of London. This article was written during his Fellowship at the Civil Service College, Singapore and the views expressed herein are his own. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -157,9 +157,6 @@ li {
 <li class="small-text">Speech by Prime Minister Lee Hsien Loong at Public Service Leadership Advance on 30 September 2013, http://www.pmo.gov.sg/content/pmosite/mediacentre/speechesninterviews/primeminister/2013/September/speech-by-prime-minister-lee-hsien-loong-at-the-public-service-l.html</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
