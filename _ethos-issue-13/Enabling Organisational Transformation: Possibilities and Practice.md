@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 13, May 2014</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_13/13_Banner_Enabling%20Organisational%20Transformation_Possibilities%20and%20Practice.jpg">
 
 
 
