@@ -79,7 +79,7 @@ li {
 
 <p><a href="https://vimeo.com/209170040">Power of Games to Drive Policy Outcomes</a> from <a href="https://vimeo.com/user57303802">Civil Service College Singapore</a> on <a href="https://vimeo.com/">Vimeo</a>.</p>
 
-<br>
+
 
 <p>Play is natural. From young, people and animals naturally seek out playful experiences. Even as we mature, we continue to play: the games we play grow in complexity. But games do more than engage and entertain us. They can impart knowledge and skills, different from the explicit knowledge that is formalised, codified, and written down, for others to learn.</p>
 
