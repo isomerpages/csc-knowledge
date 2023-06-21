@@ -2,6 +2,7 @@ collections:
   ethos-issue-13:
     output: true
     order:
+      - "After Our Singapore Conversation: The Futures of Governance.md"
       - Transformative Alliance.md
       - From Futures “Thinking” to Futures “Doing.md
       - Managing Complexity with Courage, Conflict and Engagement.md
