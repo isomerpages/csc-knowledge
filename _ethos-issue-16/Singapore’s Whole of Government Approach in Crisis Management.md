@@ -66,18 +66,16 @@ li {
 	font-size: 15px !important;
 	
 	}	
+	
+    . small-text{
+    font-size:14;
+    }	
 
 </style>
 
 <em><small>ETHOS Issue 16, Dec 2016</small></em>
 <img src="/images/Cropped_images/Ethos_Issue_16/16_Banner_Singapore’s%20Whole-of-Government%20Approach%20in%20Crisis%20Management.jpg">
 
-
-<style>
-    . small-text{
-    font-size:14;
-    }
-</style>
 
 <h3>A STRUCTURE FOR INTER-AGENCY CRISIS MANAGEMENT</h3>
 
@@ -106,13 +104,12 @@ Public Service.<a href="#notes-6"><sup class="#notes-6">6</sup></a>
 <h3 class="title">SINGAPORE’S CRISIS MANAGEMENT IN ACTION</h3>
 <p><strong>1986: Hotel New World Collapse</strong></p>
 <p>When the Hotel New World collapsed in 1986 trapping survivors in the rubble, the Executive Group (EG) was fortuitously in the midst of a routine meeting and was able to coordinate the multi-agency rescue efforts immediately. The Singapore Police Force, Singapore Fire Service and the recently-created Singapore Civil Defence Force responded immediately. The Singapore Armed Forces, Ministry of Health, Ministry of Community Development, Public Works Department and other agencies were also mobilised to provide additional manpower, medical support, counselling for families of victims and engineering support. It was effectively a WOG operation. In all, 33 died but 17 lives were saved. The disaster vindicated earlier decisions to develop crisis response capabilities, as well as the effectiveness of the EG in coordinating inter-agency responses.<sup>1</sup></p>
-<p>&nbsp;</p>
+
 <p><strong>1991: SQ117 Hijack</strong></p>
 <p>In 1991, four Pakistanis hijacked Singapore Airlines Flight SQ117 <em>en route</em> to Singapore. They held 114 passengers and 11 crew members hostage, in order to pressure the government of Pakistan to release some prisoners. The EG’s frequently-drilled plans went into action.<sup>2</sup> A Negotiation Team comprising specially-trained police officers and psychologists established contact with the hijackers. When there was no breakthrough from the overnight talks, as the foreign authorities rejected the hijackers’ demands, the increasingly agitated hijackers threatened to kill the hostages at daybreak. EG ordered a storming of the plane. In less than 30 seconds, commandos killed all four terrorists, freeing all hostages. The successful resolution of the hijack vindicated earlier investments in specialised capabilities. It also demonstrated the value of regular cross-agency peacetime exercises in preparation for a crisis: they helped to blur boundary lines among agencies, forging various state capabilities into a single focused instrument for crisis resolution.</p>
-<p>&nbsp;</p>
+
 <p><strong>2003: SARS</strong></p>
 <p>When the Severe Acute Respiratory Syndrome (SARS) virus reached Singapore in early 2003, the EG was activated to coordinate a government-wide response. The entire Public Service and citizen-volunteers were mobilised to conduct contact tracing and monitoring for 2,500 wholesale centre workers and 55,000 food centre workers across the country. This helped prevent the epidemic from spreading further through the vegetable supply chain. Although four Singaporeans succumbed to the virus, these coordinated efforts were effective in containing SARS: on 30 May, with no new cases recorded for 20 days, the World Health Organisation took Singapore off its “SARS list”, praising Singapore’s handling of the crisis as “exemplary”.<sup>3</sup> The incident highlighted the need for the EG to be prepared for crises other than security threats: it soon set up cross-agency functional groups to cover areas such as transport, border control, education and housing.<sup>4</sup></p>
-<p>&nbsp;</p>
 <p><strong>2013: Transboundary haze</strong></p>
 <p>In 2013, trans-boundary haze caused by slash-and-burn plantation farming in neighbouring Indonesia reached hazardous levels in Singapore. The health of the population, especially those with respiratory conditions, the elderly and young, was at risk, as well as low-income and vulnerable households less able to afford protective masks. The Homefront Crisis Executive Group activated its Crisis Management Group (Haze), which mobilised thousands of public officers from 23 different sectoral agencies along with citizen-volunteers. Together, they provided a comprehensive response to mitigate the socio-economic repercussions and to seek diplomatic solutions to the crisis. Well-rehearsed processes, strong executive capacity, the urgency of the situation and a collective sense of the national good meant that public officers looked beyond agency interests to tackle the haze. Eventually, a shift in wind direction at about the same time helped dissipate the haze and improved the situation.</p>
 <hr>
@@ -171,10 +168,10 @@ Public Service.<a href="#notes-6"><sup class="#notes-6">6</sup></a>
 <h3 class="title">CULTIVATING WHOLE-OF-GOVERNMENT COORDINATION</h3>
 <p><strong>Commit time, resources and practice to make it work</strong></p>
 <p>Organisational structures by themselves have nominal authority over agencies. It is the commitment of key leaders, as expressed in the adequate investment of time and resources, including frequent drills to anchor capabilities, that cements the credibility and effectiveness of the coordinating structure. Constant exercises smooth out the interface between agencies and personnel, allowing any unforeseen frictions or hindrances to be identified and rectified. Drills may pull agencies and officers away from routine work, and managers may cite important duties as justification to skip them, but the commitment and discipline to regular exercises is the “software” that allows the “hardware” of structural arrangements to be effective in inter-agency coordination.</p>
-<p>&nbsp;</p>
+
 <p><strong>Strong leadership with a shared ethos is a must</strong></p>
 <p>High-performing leadership across the bureaucracy allows the application of the best and most suitable minds towards managing crises when they arise. The high level of executive capacity aggregated in the EG and later the HCEG has certainly been instrumental in resolving Singapore’s various crises. Equally significant is the “shared language and culture” cultivated among the small cadre of public sector elite.<a href="#notes"><sup class="#notes">1</sup></a> The ethos among Administrative Officers in leadership positions up and down the hierarchy and across the Public Service helped ease communication and coordination among agencies during crisis management.</p>
-<p>&nbsp;</p>
+
 <p><strong>Whole-of-government culture needs to permeate the whole of government</strong></p>
 <p>A WOG-mindset among public officers at all levels is the software that lubricates the machinery of inter-agency crisis management, particularly when the numbers mobilised scales into the thousands for complex scenarios. In the Singapore Public Service, the constant reiteration of WOG thinking — along with communications about the larger national purpose they are serving — helps motivate officers to persist in the face of adversity, and to exercise initiative when needed at the working level.</p>
 <hr>
