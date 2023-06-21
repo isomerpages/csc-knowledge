@@ -7,7 +7,7 @@ description: ""
 
 #container-2014, #container-2013,#container-2012, #container-2009, #container-2006 
 {
-width:54%;	
+width:50%;	
 }
 	
 table
@@ -286,7 +286,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="/ethos-issue-16/">Issue 16, Dec 2016, <br>Connect, Collaborate and Create Consensus</a></td>
+<td><a target="_blank" href="/ethos-issue-16/">Issue 16, Dec 2016, <br>Connect, Collaborate and Create Consensus</a></td>
 <td><a target="_blank" href="/ethos-issue-15/">Issue 15, June 2016, Public Engagement</a></td>
 </tr>
 
