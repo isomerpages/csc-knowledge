@@ -194,16 +194,14 @@ These 21st century competencies are rarely rewarded in a 20th century culture.
 <p class="small-text text">  
 </p>  
   
-<p class="small-text text">In a workshop I ran in Singapore,<a href="#notes"><sup>1</sup></a> the example was raised of the annual wave of dissatisfaction with the Primary 1 school registration process. Getting into the “right” primary school is seen to be an important step on the path to a successful life, so many schools are oversubscribed and many parents are disappointed. We brainstormed policy ideas that might address the problem, in order to appreciate the distinction between technocratic fixes (change the algorithm, experiment with different admissions criteria, allocate places by lot, etc.) and transformative innovation rooted in culture and values. </p>  
+
   
-<p class="small-text text">In the latter case, we see the problem not as a technical flaw but as an indicator of a culture under strain. We must therefore design innovations that will lead the culture back to health; how, for example, might we move towards a world in which this pressure on registration no longer exists, because Primary 1 placement no longer determines a person’s fate, or because society has come to realise that (as one participant put it) “success has many faces”? And how might we successfully pursue such an innovation as part of a longer-term transition strategy, even as existing systems need to continue delivering goods and services?</p>  
-  
-<p>&nbsp;</p>  
+<br>
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Transformative Innovation in Action</h3>  
@@ -239,13 +237,13 @@ These 21st century competencies are rarely rewarded in a 20th century culture.
   
 <p>I believe some such system will increasingly come to be seen as an essential component for any government in the 21st century that wishes to take its dual task seriously, acting at a cultural level as both hospice worker and midwife and with the operational competencies required to “redesign the plane whilst flying it”.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Graham Leicester</strong> is Director of the International Futures Forum. A former diplomat, he previously headed Scotland’s leading think tank, the Scottish Council Foundation. He is a senior adviser to the British Council, and has also worked with the Organisation for Economic Co-operation and Development (OECD), the World Bank Institute and other agencies on the themes of governance in a knowledge society and the governance of the long term. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
