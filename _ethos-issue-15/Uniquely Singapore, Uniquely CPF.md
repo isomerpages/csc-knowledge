@@ -110,9 +110,7 @@ li {
   
 </div>  
   
-  
-  
-  
+
   
   
 <p>A key guiding principle when designing and reviewing social programmes is fiscal sustainability. This issue has become particularly salient in recent years, given the number of pension schemes worldwide that are struggling to honour their pension obligations in the face of demographic pressures or poor investment returns.</p>  
@@ -163,7 +161,7 @@ CPF integrates several aspects of social security: retirement savings, healthcar
     </li>  
 </ol>  
   
-<p>&nbsp;</p>  
+
   
 <h4>CPF Has Redistributive and Progressive Features</h4>  
   
