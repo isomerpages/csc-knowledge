@@ -286,8 +286,8 @@ font-size: 16px;
 </tr>
 	
 <tr>
-<td><a target="_blank" href="/ethos-issue-16/">Issue 16, Dec 2016, <br>Connect, Collaborate and Create Consensus</a></td>
-<td><a target="_blank" href="/ethos-issue-15/">Issue 15, June 2016, Public Engagement</a></td>
+<td><a target="_blank" href="/ethos-issue-16/">Issue 16, Dec 2016, <br>Connect, Collaborate and<br> Create Consensus</a></td>
+<td><a target="_blank" href="/ethos-issue-15/">Issue 15, June 2016, <br>Public Engagement</a></td>
 </tr>
 
 
