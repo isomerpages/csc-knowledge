@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 15, June 2016</small></em>
-<img src="/images/Landing_Banner_Images/editorial_landing.jpg">
+<img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
   
 <p>Of the key constituents of society, the public sector is the most directly accountable, through the various institutions of state and the political process, to the people and the national good. Yet by popular reckoning it has also been slowest to adapt to the shifting pulse of a modern, diverse polity as well as to the emerging technologies that have enabled sweeping changes in the marketplace and other spheres. In Singapore, this criticism may be less than fair — bound since the earliest years of independence by the necessities of nation-building and survival, our people and their government have co-evolved an intimate and intricate, mutually reinforcing relationship often described as familial.</p>  
