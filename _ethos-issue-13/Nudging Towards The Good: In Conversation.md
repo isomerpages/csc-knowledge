@@ -76,13 +76,13 @@ li {
   
 <p>I think it could be useful as another way to pick up indications about some of the concerns that citizens have. You may have to wonder about how representative social media is, but it seems like it could be much more representative in Singapore than in the UK. The question is how to get the views of those who are not as well represented.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 If you are trying to get people’s honest feedback, you should make sure that the one asking for the feedback is perceived as completely neutral.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The hardest thing, I found, was for the government to get money to carry out proper evaluations for implemented policies — you’re doing well if you get to pilot something. So how do you found out whether your policy is working? Quite often there is going to be an enormous lag between a policy implementation, say a change to the benefits system, and before you get any useable data. So how do you get a more immediate sense?</p>  
   
@@ -123,13 +123,13 @@ If you are trying to get people’s honest feedback, you should make sure that t
   
 <p>So what could the civil servants have done? I think we should have come up with a better package which would have targeted the needy old. Instead of just saying that it’s a terrible policy and we shouldn’t do it, we should have persuaded the politicians that we understand they want to help the aged but there are better solutions. In this case, we didn’t have enough time to come up with a good alternative. Part of the problem is that the civil service mindset is often not proactive enough on policy: this wasn’t a public issue we had thought about.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 You have to be incredibly careful not to starve innovation that can leave people better off.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>On Nurturing Healthy Values Within the Civil Service</h3>  
   
@@ -137,13 +137,13 @@ You have to be incredibly careful not to starve innovation that can leave people
   
 <p>We also sort for values at recruitment. One aspect of the UK Civil Service Fast Stream is what is called an e-Tray exercise: a timed set of scenario-based questions. It might be a flu epidemic and you have a limited supply of flu medicine and so on. A question is posed on how you might approach the problem, with four possible answers. One of the answers might be that the optimal way to do this is to sell off the flu vaccine, because the people who want them the most will pay the most. Another might be that you distribute it according to those groups who benefit most from the vaccine. Another answer might be that you can’t make any of these judgements because the underlying data is not good enough so you have to give it out first come, first served. Values are implicit in each of these options, and you have to pick the best and worst options out of the four. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">
 The way we do things today evolved in a different age, and are geared to an older model based on theoretical economics, not human beings.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The answers get marked based on our assessment of the options and how we think we would want our civil servants to answer such questions. Interestingly, the e-Tray exercise is probably the biggest differentiator for recruitment: it’s not grades, because they all have good grades. So values are at the centre of identifying the civil service leadership of the future. We are saying: here’s what you do, you lead. Here’s how you do it: by using our values.</p>  
   
@@ -156,13 +156,13 @@ The way we do things today evolved in a different age, and are geared to an olde
 <p class="small-text">  
 In his second visit as CSC Senior Visiting Fellow in November 2013, Lord Gus shared these views in conversation with ETHOS Editor-in-Chief Alvin Pang, CSC Senior Researcher Vernie Oliveiro, futurist and Deputy Director in the Futures &amp; Strategy Division Lee Chor Pharn from the Ministry of Trade and Industry and Jonathan Ng, Senior Assistant Director from the Strategic Policy Office, Public Service Division.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Lord Augustine O’Donnell</strong> has been non-Executive Chairman of Frontier (Europe) since October 2013. After joining the Treasury in 1979, Lord Gus held various positions at the British Embassy in Washington, the International Monetary Fund and the World Bank. From 2002 to 2005, he was Permanent Secretary at the Treasury and in 2005 became Cabinet Secretary. He held this position until 2011, serving three Prime Ministers. Lord Gus studied economics at the University of Warwick and holds an MPhil in Economics from Nuffield College, Oxford. He lectured in economics at the University of Glasgow. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
