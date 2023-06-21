@@ -2,6 +2,8 @@ collections:
   ethos-issue-13:
     output: true
     order:
+      - "Ethics in Public Administration: Are We Teaching What Can’t be
+        Taught?.md"
       - Inclusive and Iterative Governance.md
       - The First New Synthesis Laboratory for Master Practitioners.md
       - "Making Public Private Partnerships Work: Implications for Singapore and
