@@ -244,7 +244,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Ministry-led OSC Sessions</h3>  
@@ -273,7 +273,7 @@ li {
   
 <p>In playing a central role in the OSC movement, the Public Service has gained insights into the value of Context, Connection, Capacity and Capability. What will take us forward in making public engagement a game changer for Singapore may be a fifth C: Conviction.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -281,7 +281,7 @@ li {
   
 <p class="small-text"><strong>Yee Lai Fong</strong> is Senior Researcher at the Institute of Governance and Policy, Civil Service College. She was attached to the Our Singapore Conversation Secretariat as a learning historian to document the public sector’s insights and reflections from this collective journey. She holds a Master of Arts degree in Education and Human Development from George Washington University and is currently pursuing a Doctorate in Human and Organisational Learning at the same university. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -309,9 +309,6 @@ li {
 <li class="small-text">Red-teaming is a form of ritualised dissent, or playing the “devil’s advocate” (e.g. in the process of reviewing products, processes and message testing), to ensure robustness.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
