@@ -211,7 +211,7 @@ While we still value self-reliance and hard work, there has been a greater ackno
 <p class="text"> </p>  
 <p>As Singapore’s largest employer, the Public Service plays a key role in changing attitudes towards paper qualifications.</p>  
 <p>Public Service Commission scholars today are drawn from a more diverse pool that includes polytechnic graduates and those who attended specialised programmes such as the School of the Arts. While in the past, the Public Service had separate schemes of service for graduates and non-graduates, there is now a single scheme of service, meaning that starting academic qualifications are no hindrance to career advancement, which is based on performance on the&nbsp;job.</p>  
-<p>&nbsp;</p>  
+
   
   
   
