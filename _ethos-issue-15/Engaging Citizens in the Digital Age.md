@@ -231,14 +231,13 @@ While these whole-of-government efforts take root, individual agencies have a vi
   
   
 <h3 class="title">Government-Citizen Collaboration Using Social Platforms</h3>  
-<p class="text">&nbsp;</p>  
 <p><strong>OneService (http://www.mnd.gov.sg/mso/mobile-about.html)</strong></p>  
 <p>Jointly developed by the Municipal Services Office (MSO) and IDA, this award-winning mobile application gathers location-based public feedback on a variety of municipal issues (e.g., cleanliness, footpaths, animals in public places). Its map-based photo geo-tagging features help agencies to respond to and resolve issues quickly. Reported cases are also routed automatically to the appropriate public agencies for follow up.</p>  
-<br>  
+ 
 <p><strong>Beeline (www.beeline.sg)</strong>  
 </p>  
 <p>This LTA/IDA-developed mobile application helps commuters travelling to their workplaces. Through Beeline, the public can suggest bus services for specific locations — popular routes with sufficient crowd-sourced demand will trigger private bus operators to run these routes for a paid fare. Beeline also helps commuters pre-book a seat on the minibuses, which serve routes of about five stops in length. </p>  
-<p>&nbsp;</p>  
+
   
   
   
