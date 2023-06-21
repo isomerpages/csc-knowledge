@@ -18,6 +18,7 @@ description: ""
 	
 .author
 {
+padding-top: 30px;
 border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
@@ -161,7 +162,7 @@ If we don't take into account the social aspects of life, and think about them h
   
 <p class="small-text">The ETHOS Roundtable was conducted by ETHOS Editor-in-Chief Alvin Pang in September 2014 with a group of participants in the 7th Leaders in Governance Programme (LGP) in late 2014. Organised annually by the Civil Service College, the LGP draws from Singapore’s development experience to offer practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the eight-day programme, participants interact with senior government officials and thought leaders, and visit key government agencies to understand their operating philosophies and values.</p>  
   
-<div>&nbsp;</div>
+
 </div>
 
 
