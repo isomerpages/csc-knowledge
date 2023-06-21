@@ -81,13 +81,13 @@ li {
   
 <p>Fortunately or unfortunately, the reality of life — and particularly with democratic governance in most parts of the world — is that we are in the grey zone where the government is an actor but it cannot control everything. It may not want to or be able to, or citizens won’t accept it. It is a phenomenon very much like what is discussed in Singapore. It is a middle ground full of ambiguity and paradox.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 We have to find a way not simply to adapt to whatever happens, but to influence what happens. The objective is not to adapt to the future, but also to transform the future.  
-</em></h5>  
+	</p>  
   
-<hr>  
+</div>  
   
 <h3>How can transformative scenario planning help to address these challenges?</h3>  
   
@@ -127,13 +127,13 @@ of agency?</h3>
   
 <p>Half of our work is in putting together — convening, building and organising — these labs; not that it is the hardest part, but it is the first step and therefore the one that by definition is not yet formed. The ones who initiate this process with us can be different people: government, businesses or civil society actors. In most cases it is an alliance. But it is always somebody or, more usefully, some coalition that is concerned about a problematic situation and has not succeeded through established methods, who leads us to think that the lab or transformative scenario planning approach can be useful.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 If you have been successful, it is very easy to fall on your face, because you cannot see that what you are doing won’t work anymore. It may take a crisis to realise that it is not going to work.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Are there conditions that suggest that a particular group or society is in a good position to benefit from such a process?</h3>  
   
@@ -149,9 +149,7 @@ If you have been successful, it is very easy to fall on your face, because you c
   
 <p>It is important to be pretty clear about whether you are consulting or co-creating. These are two entirely different modes. It is not that one is right and one is wrong, but that they require entirely different conditions. Transformative scenario planning, employing social labs, is co-creative work.</p>  
   
-<hr>  
-  
-<h6>ABOUT THE AUTHOR</h6>  
+<div class="author">
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -161,7 +159,7 @@ If you have been successful, it is very easy to fall on your face, because you c
 <li class="small-text">Zaid Hassan, The Social Labs Revolution: A New Approach to Solving Our Most Complex Challenges (San Francisco: Berrett-Koehler, 2014).</li>  
 </ol>
 
-
+</div>
 
 <br>
 <br>	
