@@ -90,9 +90,9 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>After Our Singapore Conversation: The Futures of Governance</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Adrian W. J. Kuah and Lim Seok Hui</i></b>
+		<p>Two analysts from the Public Service Division reflect on Our Singapore Conversation’s radical implications for the nation and its public policy enterprise</p>
+		<div class="button1"><a href="/ethos-issue-13/after-our-singapore-conversation-the-futures-of-governance/">Read more</a></div>
 	</div>
 </div>
 
