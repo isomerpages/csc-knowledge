@@ -106,13 +106,13 @@ li {
 </tbody>  
 </table>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Even the best thought-through policies and change initiatives will fail to live up to expectations without wider levels of engagement.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Embrace Diversity</h3>  
   
@@ -171,13 +171,13 @@ Even the best thought-through policies and change initiatives will fail to live 
 </tbody>  
 </table>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Becoming a courageous leader who embraces diversity and conflict while creating whole system engagement is not usually an overnight shift for most people.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Bring More Voices into the Room</h3>  
   
