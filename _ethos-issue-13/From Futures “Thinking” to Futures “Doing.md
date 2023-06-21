@@ -140,9 +140,9 @@ Activist futuring involves not just intellectual persuasion but also the generat
     </li>  
 <li class="small-text">Pieter le Roux et al., “The Mont Fleur Scenarios,” The Weekly Mail &amp; The Guardian Weekly, July 1992, http://reospartners.com/publication-view/46  
     </li>  
-<li class="small-text">Lee Hsien Loong, “National Day Rally 2013 Speech” (speech, Singapore, August 21, 2013), Prime Minister’s Office, http://www.pmo.gov.sg/content/pmosite/mediacentre/speechesninterviews/primeminister/2013/August/prime-minister-lee-hsien-loong-s-national-day-rally-2013--speech.html  
+<li class="small-text">Lee Hsien Loong, “National Day Rally 2013 Speech” (speech, Singapore, August 21, 2013), Prime Minister’s Office, <a href="http://www.pmo.gov.sg/content/pmosite/mediacentre/speechesninterviews/primeminister/2013/August/prime-minister-lee-hsien-loong-s-national-day-rally-2013--speech.html">http://www.pmo.gov.sg/content/pmosite/mediacentre/speechesninterviews/primeminister/2013/August/prime-minister-lee-hsien-loong-s-national-day-rally-2013--speech.html</a>
     </li>  
-<li class="small-text">“Our Singapore Conversation,” http://www.oursgconversation.sg</li>  
+	<li class="small-text">“Our Singapore Conversation,” <a href="http://www.oursgconversation.sg">http://www.oursgconversation.sg</a></li>  
 </ol>
 
 
