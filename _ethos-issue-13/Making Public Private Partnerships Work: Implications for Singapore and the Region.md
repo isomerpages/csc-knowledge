@@ -60,6 +60,10 @@ font-family: Georgia;
 	
 	}	
 
+.containerbox h3 {
+	color: #50849e;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -78,13 +82,13 @@ li {
   
 <p>PPPs are not new to Singapore. Singapore has utilised PPPs as vehicles for various projects, including water treatment plants, waste disposal plants and education infrastructure. The largest PPP to date is the Sports Hub, which brings together private bank financing for the Sports Hub Consortium to build and manage Singapore’s key national sporting facilities, with an annual payment by the Government for use of these facilities. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The private sector does not always have as much capacity as the government does to undertake the higher level of funding risks associated with these large-scale infrastructure projects.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>While the Sports Hub PPP won several international awards, it also prompted a re-assessment of how PPPs should be structured. This was in part due to the financial crisis in the late 2000s. Even though the private sector had ostensibly taken over the construction of the Sports Hub, further loan support from the government was required during the crisis. Singapore’s experience with the Sports Hub is not unique. Taiwan’s high-speed rail system, also a PPP, required government support when there was a reduction in passenger use during the crisis, and the PPP could not meet debt service payments. This underscores the point that private sector financing can be quite tenuous, and that the private sector does not always have as much capacity as the government does to undertake the higher level of funding risks associated with these large-scale infrastructure projects, or absorb risks associated with uncertain future revenue streams.</p>  
   
@@ -92,13 +96,13 @@ The private sector does not always have as much capacity as the government does 
   
 <p>Finally, the construction of the Sports Hub was also much delayed due to a variety of reasons, including cost overruns. The case for PPPs in Singapore thus appears further weakened.<a href="#notes"><sup class="#notes">1</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The common denominator of a successful PPP is a partnering government employee with multi-sector experience.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>Fresh Perspectives for PPPs</h3>  
   
@@ -122,17 +126,11 @@ The common denominator of a successful PPP is a partnering government employee w
   
   
   
-  
-<p class="small-text text">New York’s Central Park Conservancy and Bryant Park Restoration Corporation are great examples of how PPPs created and managed by the private sector can introduce innovation and competitiveness to public assets through collaboration with the public sector.</p>  
-  
-<p class="small-text text">In the 1970s, New York’s Central Park1 and Bryant Park2 had become liabilities to the city. They were relatively unsafe, their facilities deteriorated, and the surrounding residential real estate and economic activity were in decline.</p>  
-  
-<p class="small-text text">These very different public spaces were converted from liabilities into major tourist, real estate and community assets through two different types of PPPs. The city retained ownership of the parks but transferred operations to the privately financed and managed non-profit Conservancy and Corporation. The results have been startling increases in the assessed value of the areas surrounding the parks, one primarily residential, the other commercial.</p>  
+<br>
   
   
   
-  
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Examples of Successful PPPs</h3>  
@@ -163,13 +161,13 @@ The common denominator of a successful PPP is a partnering government employee w
   
 <p>There are three key concepts associated with the formation of PPPs. The most important is to properly frame the problem. The second is the identification, analysis and organisation of the partnership’s stakeholders. The third is the use of a set of PPP tools rather than a template to complete the formation of the partnership. Such a toolkit would include financial structuring skills such as the development of key assumptions that will impact use and revenue projections, motivations and incentives of stakeholders, and negotiation issues.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Governments may have the financial strengths, but may still want to engage the private sector for the purpose of fostering innovation and competitiveness.  
-</em></h5>  
+	</p>  
   
-<hr>  
+</div>  
   
 <p>The best way to realistically approach the formation of a PPP is by understanding the type of asset and public-policy problem that is the focus of the PPP. Essentially, all PPPs are best understood as either fundamental or complex assets. Fundamental assets can have either simple or complex structures. </p>  
   
