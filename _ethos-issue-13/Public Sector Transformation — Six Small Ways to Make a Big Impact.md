@@ -58,7 +58,10 @@ font-family: Georgia;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #65544b;
+	
+	}
 li {
 	font-size: 15px !important;
 	
@@ -105,7 +108,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">A Library By the People, For the People: Building a Long-Term Relationship Based on Engagement and Trust</h3>  
