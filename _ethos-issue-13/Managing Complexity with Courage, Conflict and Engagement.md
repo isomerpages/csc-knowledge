@@ -221,13 +221,13 @@ Becoming a courageous leader who embraces diversity and conflict while creating 
   
 <p>These principles are not wholesale substitutes for traditional leadership qualities. Instead, they build upon and expand these proven competencies in ways that, over time, help nurture personal and institutional capacity to cope with complex situations that call for shared ownership and effort. The desired outcome is the growth of stronger organisational cultures in and across our agencies, and an even more resilient and engaged society.   </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Douglas O’Loughlin</strong>, PhD, is a Principal Consultant at the Institute of Leadership and Organisation Development (ILOD), Civil Service College. He consults with senior leaders and organisation development practitioners across the Public Service in areas such as organisation development, leadership development, change management, large group engagement, facilitation and team effectiveness.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
