@@ -7,13 +7,13 @@ description: ""
 
 #container-2014, #container-2013,#container-2012, #container-2009, #container-2006 
 {
-width:50%;	
+width:54%;	
 }
 	
 table
 { 
 border-collapse: separate; 
-border-spacing: 50px 10px; 	
+border-spacing: 20px 10px; 	
 }	
 
 th,td 
