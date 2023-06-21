@@ -114,7 +114,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Poverty, Capabilities and Social Justice</h3>
-		<b><i>Martha C. Nussbaum</i></b>
+		<b><i>Interview with Martha C. Nussbaum</i></b>
 		<p>The renowned social philosopher discusses her concept of essential human capabilities, and their implications for dealing with poverty and social development.</p>
 		<div class="button1"><a href="/ethos-issue-03/poverty-capabilities-and-social-justice/">Read more</a></div>
 	</div>
@@ -202,7 +202,7 @@ today’s volatile economic environment.</p>
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Making Workfare Work: The US Experience</h3>
-		<b><i>Lawrence M. Mead</i></b>
+		<b><i>Interview with Lawrence M. Mead</i></b>
 		<p>New York University’s Professor Lawrence M. Mead discusses workfare and income inequality in light of the US experience after a decade of welfare reform.</p>
 		<div class="button1"><a href="/ethos-issue-03/making-workfare-work-the-us-experience/">Read more</a></div>
 	</div>
@@ -241,7 +241,7 @@ implications ten years on.</p>
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Indonesia in the Financial Crisis: Advent and Aftermath</h3>
-		<b><i>Adam Schwarz</i></b>
+		<b><i>Interview with Adam Schwarz</i></b>
 		<p>The Asian Financial Crisis might well be the first major crisis
 of globalisation. Donald Low examines its causes and
 implications ten years on.</p>
@@ -257,7 +257,7 @@ implications ten years on.</p>
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Asia After the Crisis: What Now, What’s Next?</h3>
-		<b><i>Timothy F. Geithner</i></b>
+		<b><i>Interview with Timothy F. Geithner</i></b>
 		<p>Timothy F. Geithner, President and CEO of Federal Reserve Bank of New York, discusses monetary and fiscal policy in the region a decade after the Asian Financial Crisis.</p>
 		
 <div class="button1"><a href="/ethos-issue-03/asia-after-the-crisis-what-now-whats-next/">Read more</a></div>
