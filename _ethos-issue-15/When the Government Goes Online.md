@@ -205,21 +205,17 @@ agencies such as the Law and Finance ministries, for example, should avoid being
   
   
   
-
-  
-  
-  
   
 <div class="containerbox">  
   
   
 <h3 class="title">Building a Community Online</h3>  
-<p class="text">&nbsp;</p>  
+
 <p>  
 The Singapore Armed Forces may be the public agency with the best online traction. One reason is that it appears to have a diverse range of commentators and authentic interaction on its Facebook page.</p>  
 <p>  
 There are different ways to cultivate feedback and discussion. For example, the National Environment Agency could host an active page for animal lovers; the Urban Redevelopment Authority could start one for those who believe in preserving heritage. Agencies could also offer an official point person for informal public groups to turn to for queries or background information.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>  
-<p>&nbsp;</p>  
+
   
   
   
