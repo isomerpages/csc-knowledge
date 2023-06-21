@@ -75,7 +75,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_13/13_Banner_Redefining%20Engagement-%20Lessons%20for%20the%20Public%20Service%20from%20Our%20Singapore%20Conversation.jpg"></div>
 	<div>
 		<h3>Redefining Engagement: Lessons for the Public Service from Our Singapore Conversation</h3>
 		<b><i></i></b>
