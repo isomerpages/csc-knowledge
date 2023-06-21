@@ -66,8 +66,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 23, October 2021</small></em>
-<img src="/images/Cropped_images/Ethos_Issue_23/print-23-foreword.jpg">
-
+<img src="/images/Landing_Banner_Images/banner_preface_foreword.jpg">
   
 <p>This year, the Civil Service College  
 marks its 20th year since becoming  
