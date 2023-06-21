@@ -100,8 +100,8 @@ li {
   
   
 <h3 class="title">Meritocracy: The Historical Context</h3>  
-<p class="text">&nbsp;</p>  
-<p>In Singapore, a commitment to meritocracy first emerged in debates over the Malayanisation of the civil service in the 1950s. In his work on the Malayanisation Commission, S.&nbsp;Rajaratnam sought to entrench meritocracy as a principle within the Singapore civil service. In the words of the report of the Malayanisation&nbsp;Commission:<a href="#notes"><sup class="#notes">1</sup></a></p>  
+
+<p>In Singapore, a commitment to meritocracy first emerged in debates over the Malayanisation of the civil service in the 1950s. In his work on the Malayanisation Commission, S.Rajaratnam sought to entrench meritocracy as a principle within the Singapore civil service. In the words of the report of the Malayanisation&nbsp;Commission:<a href="#notes"><sup class="#notes">1</sup></a></p>  
 <p><em>It is essential that, apart from statutory requirements, every officer should feel that he can get right to the top if he is sufficiently meritorious and paper qualifications should not be a sine qua non for promotion.</em></p>  
 <p>The hearings of the Malayanisation Commission spoke to the systematic discrimination in the civil service in favour of British expatriates and against Malayans. In this context, meritocracy was about replacing British officers in the civil service with capable local officers, effecting the transition from a civil service designed to serve the interests of the colonial power to one designed to serve the citizen.</p>  
 <p>Merger with Malaysia in 1963 precipitated a contest between an UMNO-dominated leadership in Kuala Lumpur committed to protecting the special rights of Malays as <em>bumiputera</em> (or “sons of the soil”) and a PAP leadership in Singapore who advocated a “Malaysian Malaysia” whereby the various ethnic groups would have equal rights, regardless of their demographic status as majority or minority groups in society. This commitment to equal rights, opportunities and consideration among the races became a factor in Singapore’s eventual exit from Malaysia in 1965.</p>  
