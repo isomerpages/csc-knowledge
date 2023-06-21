@@ -82,10 +82,7 @@ li {
   
   
   
-<p class="small-text text">There are many models for understanding organisational transformation.</p>  
-  
-<p class="small-text text">The Burke-Litwin model of organisational change and performance (Figure 1)<a href="#greybox"><sup class="#greybox">1</sup></a> suggests that an organisation’s mission and strategy, organisational culture and leadership are <strong style="text-decoration: none;" class="ms-rteThemeForeColor-9-4">transformational factors</strong> that can create organisation-wide impact. The organisation’s structure, systems and management practices are regarded as <strong style="text-decoration: none;" class="ms-rteThemeForeColor-7-4"><span style="text-decoration: none;">transactional factor</span><span style="text-decoration: none;">s</span></strong> that may not impact the whole organisation when changed. Changes in transformational and transactional factors impact individuals’ values, needs, motivation, job roles, skills and therefore performance that in turn affect organisation performance. </p>  
-  
+<br>
   
   
   
@@ -100,14 +97,14 @@ li {
 <ul>  
 </ul>  
 <br>  
-<img title="Ethos\_13\_Org\_Transformation\_Fig1" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-13/ethos\_13\_org\_transformation\_fig1.png?sfvrsn=aaa6bf5f\_0" data-displaymode="Original" alt="Figure 1">&nbsp;<br>  
+<img title="Ethos\_13\_Org\_Transformation\_Fig1" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_13/Ethos_13_Org_Transformation_Fig1.png" alt="Figure 1">&nbsp;<br>  
 <h6 style="text-align: center;"><strong>Figure 1. Burke-Litwin model (1992). Reproduced with permission.</strong></h6>  
 <p>&nbsp;</p>  
 <div style="text-align: left;">Daniel H. Kim’s Levels of Perspective Framework, applying ideas from the field of Systems Thinking, distinguishes five levels that can be used to perceive the world — events, patterns of behaviour over time, systemic structures, mental models and vision (Figure 2)<a href="#greybox"><sup class="#greybox">2</sup></a>.  
 </div>  
 <div>&nbsp;</div>  
 <p>&nbsp;</p>  
-<h4 style="text-align: center;"><img title="Ethos\_13\_Org\_Transformation\_Fig2" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-13/ethos\_13\_org\_transformation\_fig2.jpg?sfvrsn=1a1fc3c8\_0" data-displaymode="Original" alt="Figure 2"></h4>  
+<h4 style="text-align: center;"><img title="Ethos\_13\_Org\_Transformation\_Fig2" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_13/Ethos_13_Org_Transformation_Fig2.jpg" data-displaymode="Original" alt="Figure 2"></h4>  
 <h6 style="text-align: center;"><strong>Figure 2. Daniel H. Kim’s Levels of Perspective Framework. </strong></h6>  
 <h6 style="text-align: center;"><strong>Reproduced with permission.</strong></h6>  
 <p>&nbsp;</p>  
@@ -122,7 +119,7 @@ li {
 <br>  
 </p>  
 <div style="text-align: center;">  
-<img title="Ethos\_13\_Org\_Transformation\_Fig3" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-13/ethos\_13\_org\_transformation\_fig3.png?sfvrsn=869cd0b\_0" data-displaymode="Original" alt="Figure 3">&nbsp;&nbsp;</div>  
+<img title="Ethos\_13\_Org\_Transformation\_Fig3" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_13/Ethos_13_Org_Transformation_Fig3.png" alt="Figure 3">&nbsp;&nbsp;</div>  
 <h6><strong>Figure 3. Amalgamation of Ralph Stacey’s Agreement-Uncertainty Diagram and Plexus’ Change Strategies for Different parts of the continuum Diagram.<a href="#greybox"><sup class="#greybox">4</sup></a> Reproduced with permission.</strong></h6>  
 <hr>  
 <p><a name="greybox"></a><strong>Notes</strong></p>  
