@@ -175,13 +175,13 @@ Governments may have the financial strengths, but may still want to engage the p
   
 <p>The challenges associated with improving public health outcomes are typically more complex than providing adequate and safe supplies of drinking water. Healthcare requires a system or network of assets: facilities for prevention, diagnosis, treatment and long-term care. Maximising the outcomes associated with these assets may not necessarily be a function of cost and investment. The innovation may be in terms of the public and private configuration of these assets. Even when resources and interests become aligned to support improved public health, behaviour and culture may present serious obstacles. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">   
 Internal government bureaucracy re-negotiates resources, responsibilities and outcomes all the time. It is unrealistic to expect otherwise with private sector players.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>It may be therefore better to frame the problem as delivering superior healthcare outcomes, rather than one of the Government purchasing services. As healthcare often reflects complex underlying social challenges, it becomes useful to bring in different perspectives. Ideally, the framing of PPPs must shift from one where the state co-opts the private sector to provide financing and solutions (another form of outsourcing), to one where state and non-state actors come together to solve complex social problems. </p>  
   
