@@ -24,7 +24,11 @@ padding-bottom:30px;
 border-top: 1px solid black;	
 
 }
-
+.specialdiv {
+	border-top: 1px solid black;
+	margin-top: 40px;
+	padding-bottom: 30px;
+	}
 .author p {
 	font-size: 0.9em;
 	line-height:24px !important;
@@ -149,7 +153,7 @@ If you have been successful, it is very easy to fall on your face, because you c
   
 <p>It is important to be pretty clear about whether you are consulting or co-creating. These are two entirely different modes. It is not that one is right and one is wrong, but that they require entirely different conditions. Transformative scenario planning, employing social labs, is co-creative work.</p>  
   
-<div class="author">
+<div class="specialdiv">
   
 <h6><a name="notes"></a>NOTES</h6>  
   
