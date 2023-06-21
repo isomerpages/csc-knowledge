@@ -1,4 +1,6 @@
 collections:
   ethos-issue-13:
     output: true
-    order: []
+    order:
+      - "Making Public Private Partnerships Work: Implications for Singapore and
+        the Region.md"
