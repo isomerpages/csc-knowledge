@@ -124,8 +124,7 @@ What the Government is less good at is knowing how to “talk’’ to people on
 agencies such as the Law and Finance ministries, for example, should avoid being too free with its public comments and should stay above the fray. On the other hand, an effective social media presence is more important for people-centric agencies such as the Ministry of Education, the Ministry of Manpower, or the Housing and Development Board, which have a stronger public-facing mandate and have to demonstrate empathy for the common man.  
 </p>  
   
-<br>  
-  
+
 <h3>Public Agencies and Social Media — Points to Consider  
 </h3>  
   
@@ -163,40 +162,22 @@ agencies such as the Law and Finance ministries, for example, should avoid being
 <br>  
   
   
-  
-  
-
-  
-  
-  
-  
 <div class="containerbox">  
   
   
 <h3 class="title">Cultivating the Right Image Online</h3>  
-<p class="text">&nbsp;</p>  
+
 <p>The Singapore Civil Defence Force, with its approachable, light-hearted social media presence, seems to understand that its Facebook page is like a person, with a personality that it wants to brand.</p>  
 <p>However, while humour is usually appealing to the online community, it may not always be the image that public agencies want for themselves.</p>  
 <p>One suggestion: Agencies that deal with the public in a big way may want to focus on using its social media to offer user-friendly help or guides.</p>  
 <p>These need not only be about new programmes. The online crowd has a short memory and old news may be passed off as new, wittingly or unwittingly. For example, changes to PSLE grading made the rounds recently despite it being old news — the Ministry of Education could have intervened online.</p>  
 <p>There is a quick way for agencies to do this: they could modify their Frequently Asked Questions online to address the public’s trending interest in these old questions or policies.</p>  
-<p>More technical agencies that deal with economics or the law could use social media to answer questions by reprising what has already been said by their principals and leaders.</p>  
-<p>&nbsp;</p>  
-<p>&nbsp;</p>  
-  
-  
+<p>More technical agencies that deal with economics or the law could use social media to answer questions by reprising what has already been said by their principals and leaders.</p>   
   
 </div>  
+ 
   
-  
-  
-  
-  
-  
-<br>  
-  
-<h3>Reaching Out  
-</h3>  
+<h3>Reaching Out</h3>  
   
 <p>Government agencies usually depend on the mainstream media to broadcast official news and information online while they themselves direct the online community to the original material. In the haste to upload fresh information online, it is common for the media to make mistakes. This should be corrected as quickly as possible before it reaches too many people. Because traditional media can be reluctant to publicise errors online, agencies should consider telling their readers that the earlier draft was incorrect, especially if the mistake was grievous.  
 </p>  
