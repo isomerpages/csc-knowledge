@@ -83,7 +83,7 @@ the Government is uncomfortable, even inept, in navigating. The public sector ha
 <p>The Government has been employing all the social media tools at its disposal to engage those who are more active online than offline. It has made official information easily available and has developed a myriad of ways to make public services more accessible. What the Government is less good at is knowing how to “talk’’ to people online and persuading them to its point of view. While technologically flexible and efficient in disseminating information, it does so in the same voice that it applies to the traditional media realm and with the same expectations and assumptions. It forgets that there tend to be more cynical people online than offline.  
 </p>  
   
-<br>  
+
   
 <h3>Hard Truths about the Online Realm</h3>  
   
