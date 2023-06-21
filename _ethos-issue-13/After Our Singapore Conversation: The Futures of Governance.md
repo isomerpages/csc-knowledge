@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 13, May 2014</small></em>
-<img src="">
+<img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
 
 
