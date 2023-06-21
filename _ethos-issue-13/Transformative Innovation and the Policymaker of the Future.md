@@ -58,7 +58,7 @@ font-family: Georgia;
 	margin-top: 5%;
 	
 	}	
-.containerbox h3 {
+.containerbox h3 , .containerbox strong{
 	color: #b61a6e;
 	}
 li {
