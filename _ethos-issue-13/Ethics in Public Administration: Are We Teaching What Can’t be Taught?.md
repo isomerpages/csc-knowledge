@@ -58,7 +58,9 @@ font-family: Georgia;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 , .containerbox strong{
+	color: #b61a6e;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -83,12 +85,12 @@ li {
   
 <p class="small-text text">New and in-service officers are given many opportunities, through extensive induction programmes and other training to be familiar with the appropriate procedures pertaining to their work, although such courses tend to focus on the application of prescribed guidelines and procedures. </p>  
   
-<p class="small-text text">Ethics is covered in key milestone programmes<a href="../../Knowledge/Ethos/Ethos%20-%20Issue%2013,%20June%202014/Pages/Ethics%20in%20Public%20Administration%20Are%20We%20Teaching%20What%20Cant%20be%20Taught.html"><sup>1</sup></a> designed for managers and those being groomed for leadership positions — these segments encompass lectures, story-telling and vignette discussions on a variety of contexts, but do not do not necessarily address issues of moral character and ethical judgement in specific dilemmas, e.g. in procurement. There may be room to consider including ethics education in specific domain areas such as procurement, HR management and public engagement, all of which can present quite different ethical challenges.</p>  
+<p class="small-text text">Ethics is covered in key milestone programmes<a href=""><sup>1</sup></a> designed for managers and those being groomed for leadership positions — these segments encompass lectures, story-telling and vignette discussions on a variety of contexts, but do not do not necessarily address issues of moral character and ethical judgement in specific dilemmas, e.g. in procurement. There may be room to consider including ethics education in specific domain areas such as procurement, HR management and public engagement, all of which can present quite different ethical challenges.</p>  
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Ethics Management in the Singapore Public Service</h3>  
@@ -132,7 +134,7 @@ li {
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Critical Goals and Desired Outcomes for Ethics Training</h3>  
@@ -198,13 +200,13 @@ li {
   
 <p>An important aspect of ethics education in our public administration is communicating how the standards and instructions inherent in the Code of Conduct and Instruction Manuals should be applied in real-life workplaces. Since last year, the Civil Service College (CSC), in collaboration with lead agencies such as the Public Service Division and the Ministry of Finance, has launched numerous initiatives to support ethics education in the Singapore public sector. For example, easy-to-use handbooks on procurement and the Code of Conduct have been developed: important principles are simplified and brought to life with illustrations that highlight key issues and potential pitfalls. In addition, researchers documenting cases from across the Public Service that demonstrate how officers’ poor judgement have led to major lapses, misconduct and fraud. These cases will be used in CSC’s training programmes to raise awareness of ethical issues and to facilitate classroom discussions. In the longer term, CSC hopes to establish a common curriculum to embed values and ethics in milestone programmes and other relevant courses for officers at different levels and in different roles.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Celia Lee</strong> is Researcher with the Institute of Public Administration and Management, Civil Service College. Her research interests are in public sector finance, strategic procurement, finance leadership, integrity management and forensic data analytics. She has a Master of Business Administration from the University of Huddersfield and is currently a Doctorate of Business Administration candidate at the University of Manchester. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -261,10 +263,6 @@ li {
     </li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
 
 
 
