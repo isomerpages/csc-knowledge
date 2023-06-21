@@ -63,6 +63,10 @@ font-family: Georgia;
 	color: #65544b;
 	}	
 	
+.containerbox strong {
+	color: #50849e;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
