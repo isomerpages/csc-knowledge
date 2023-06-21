@@ -58,7 +58,9 @@ font-family: Georgia;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #b61a6e;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -103,13 +105,13 @@ li {
   
 <p>VUCA is not a threat but a condition of life that is primarily a process of growth, change and uncertainty. The opposite scenario is stasis and predictability, with all change ground to a halt. As the humanist physician and former President of the Royal College of General Practitioners Iona Heath puts it: “Only because we do not understand everything, and because we do not control the future, is it possible to live and be human.”<a href="#notes"><sup class="#notes">7</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 These 21st century competencies are rarely rewarded in a 20th century culture.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>The Human Response</h3>  
   
@@ -128,12 +130,12 @@ These 21st century competencies are rarely rewarded in a 20th century culture.
   
   
   
-<p class="small-text text">These can be taken as both design criteria for interventions and a practical guide for the kind of action needed to develop 21st century competencies.</p>  
+<br>
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Transformative Innovation: 10 Critical Characteristics</h3>  
