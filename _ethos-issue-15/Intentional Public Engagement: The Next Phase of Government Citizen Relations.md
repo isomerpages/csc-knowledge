@@ -81,7 +81,7 @@ The case for more effective public engagement is clear. A government that has a 
 Given the growing importance of public engagement to the work of government, practitioners across the public sector came together in 2012 to form a learning community, termed the <em>Public Engagement Network (PEN)</em>, to help public agencies level up their capabilities in this area. PEN has developed a <em>Public&nbsp;Engagement Field Guide</em> to provide agencies with an over-arching framework for public engagement, information on best practices&nbsp;in public engagement, and a range of relevant tools. Singapore’s Civil Service College has also developed a <em>Public&nbsp;Engagement Competency Model</em> to guide practitioners’ capability development,&nbsp;and has implemented several training courses for public officers.  
 </p>  
   
-<br>  
+
   
 <h3>Towards More Intentional Public Engagement</h3>  
   
@@ -118,14 +118,7 @@ will help policymakers connect with citizens better, and develop a more comprehe
 </strong> While PEN has helped level up public engagement expertise across the public service, the expertise and experience among agencies remain uneven. Agencies will need to invest more resources to strengthen their own capabilities to engage with the public effectively. While past engagement efforts have typically focused more on citizens as customers of our policies or services, the next stage of engagement will seek greater participation from citizen as <em>partners</em>, with a shared responsibility to co-develop and co-deliver solutions. Singapore’s public sector will therefore have to intensify capability development efforts across all agencies in consensus building, co-creation, stakeholder relationship management and volunteer management.  
 </p>  
   
-<br>  
-  
-  
-  
-  
 
-  
-  
   
   
 <div class="containerbox">  
@@ -150,14 +143,8 @@ As citizens became better educated and informed, they began to express their vie
   
 </div>  
   
-  
-  
-  
-  
-  
-<br>  
-  
-<br>  
+ 
+
   
 <h3>Positive Steps Forward</h3>  
   
