@@ -253,9 +253,9 @@ Singapore's challenge is to find a balance between optimising industrial land us
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">Urban Redevelopment Authority, "URA to sell "White Sites"." Press release, October 25, 1995, <a href="http://www.ura.gov.sg/pr/text/pr95-15.html">http://www.ura.gov.sg/pr/text/pr95-15.html</a> (accessed 21 March 2007)</li>
-<li class="small-text">JTC Corporation, Stack-up Factory, <a href="http://www.jtc.gov.sg/products/readybuilt/stackup/pages/index.aspx">http://www.jtc.gov.sg/products/readybuilt/stackup/pages/index.aspx</a> (accessed 21 March 2007).</li>
-<li class="small-text">Urban Redevelopment Authority, "Planning for Growth, Investing in Our Future", Speech by Mr Mah Bow Tan, Minister for National Development, 9 February 2007, <a href="http://www.ura.gov.sg/pr/text/2007/pr07-14.html">http://www.ura.gov.sg/pr/text/2007/pr07-14.html</a></li>
+<li id="num1">Urban Redevelopment Authority, "URA to sell "White Sites"." Press release, October 25, 1995, <a href="http://www.ura.gov.sg/pr/text/pr95-15.html">http://www.ura.gov.sg/pr/text/pr95-15.html</a> (accessed 21 March 2007)</li>
+<li class="num2">JTC Corporation, Stack-up Factory, <a href="http://www.jtc.gov.sg/products/readybuilt/stackup/pages/index.aspx">http://www.jtc.gov.sg/products/readybuilt/stackup/pages/index.aspx</a> (accessed 21 March 2007).</li>
+<li class="num3">Urban Redevelopment Authority, "Planning for Growth, Investing in Our Future", Speech by Mr Mah Bow Tan, Minister for National Development, 9 February 2007, <a href="http://www.ura.gov.sg/pr/text/2007/pr07-14.html">http://www.ura.gov.sg/pr/text/2007/pr07-14.html</a></li>
 </ol>
 
 <br>
