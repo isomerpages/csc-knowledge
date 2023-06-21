@@ -102,14 +102,8 @@ engagement was to get the word out to citizens from all walks of life in order t
 As Singapore developed and the public became more educated and outspoken, communication platforms were set up for citizen voices to be heard. For example, the Feedback Unit was set up in 1985 to explain policies and assess sentiments on public issues through face-to-face platforms such as dialogues, tea sessions and conferences. In September 2000, the Speakers’ Corner at the Hong Lim Park was made available for citizens to give public speeches without having to obtain a Public Entertainment Licence. Subsequently in 2008, restrictions were further eased to allow demonstrations by citizens to be held without a police permit.<a href="#notes"><sup class="#notes">3</sup></a> This reflected the Government’s receptivity to more diverse platforms for citizen views.<a href="#notes"><sup class="#notes">4</sup></a>  
 </p>  
   
-<br>  
-  
-  
-  
   
 <p class="small-text text"> In August 2012, Prime Minister Lee Hsien Loong announced the need for “Our Singapore Conversation” (OSC) to engage Singaporeans on our desired future for the country. Open-ended group conversations and discussions were held to generate ideas on the public’s aspirations while the Ministries held thematic dialogues on housing, education, healthcare and jobs.</p>  
-  
-  
   
   
 <div class="containerbox">  
@@ -130,12 +124,7 @@ As Singapore developed and the public became more educated and outspoken, commun
 </div>  
   
   
-  
-  
-  
-  
-<br>  
-  
+
 <div class="break">  
   
 <p class="break1">  
@@ -227,10 +216,10 @@ While these whole-of-government efforts take root, individual agencies have a vi
 <li><strong>A proactive and citizen-centric mindset in every public officer</strong></li>  
 <p>  
     Public agencies should be proactive in public engagement. A citizen-centric mindset ought to be ingrained in every organisation and every public officer, whether they are involved in policy development or service delivery. To this end, many agencies are already working to resolve day-to-day issues together with citizens, using digital platforms that are based heavily on public input.  
-    </p>  
-<br>  
-  
-  
+</p>  
+	
+<br>
+
   
 <p class="small-text text"><strong>OneService (http://www.mnd.gov.sg/mso/mobile-about.htm)</strong><br>  
     Jointly developed by the Municipal Services Office (MSO) and IDA, this award-winning mobile application gathers location-based public feedback on a variety of municipal issues (e.g., cleanliness, footpaths, animals in public places). Its map-based photo geo-tagging features help agencies to respond to and resolve issues quickly. Reported cases are also routed automatically to the appropriate public agencies for follow up.  
@@ -273,13 +262,7 @@ While these whole-of-government efforts take root, individual agencies have a vi
 </ol>  
   
 <br>  
-  
-  
-  
-  
 
-  
-  
   
   
 <div class="containerbox">  
@@ -299,13 +282,7 @@ While these whole-of-government efforts take root, individual agencies have a vi
   
   
 </div>  
-  
-  
-  
-  
-  
-  
-<br>  
+
   
 <h3>Conclusion  
 </h3>  
