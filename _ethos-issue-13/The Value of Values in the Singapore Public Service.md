@@ -357,7 +357,7 @@ Stories create a sense of connection to values by reflecting real dilemmas rathe
   
 <p>The Public Service is set to become more diverse with time, as officers from different generations, backgrounds, worldviews and norms join the service. While this diversity can be a strength, since it should better reflect a dynamic and expanding Singaporean society, the need to inculcate a shared set of meaningful core values becomes all the more vital. Without strong, consistently values-oriented workplaces across government, we risk eroding the Public Service’s focus on its core purpose, in the process alienating both our officers and the public we serve.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -365,7 +365,7 @@ Stories create a sense of connection to values by reflecting real dilemmas rathe
   
 <p class="small-text"><strong>Ghalpanah Thangaraju</strong> is currently Manager in the PS21 Office, Public Service Division. She holds a Master’s Degree in International Relations from the S. Rajaratnam School of International Studies, Nanyang Technological University.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -379,9 +379,7 @@ Stories create a sense of connection to values by reflecting real dilemmas rathe
 <li class="small-text">In 2003, IBM successfully initiated values conversations with its staff through a global ValuesJam as part of its efforts to review and refresh its corporate values. Conducted over 3 days, IBM’s ValuesJam saw 50,000 IBMers from all over the world participate, with 10,000 comments posted online. Although the online conversation was dominated by overwhelmingly negative comments in the initial phase, it eventually led to constructive comments that ultimately resulted in a new set of values for IBM. Through it all, committed and visible leadership by CEO Sam Palmisano was critical in ensuring the success of the ValuesJam.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
