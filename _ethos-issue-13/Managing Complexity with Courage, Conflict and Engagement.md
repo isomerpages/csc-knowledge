@@ -247,9 +247,6 @@ Becoming a courageous leader who embraces diversity and conflict while creating 
 <li class="small-text">William Rothwell and Roland Sullivan, Practicing OD: A Guide for Consultants (San Francisco: Pfeiffer, 2005).</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
