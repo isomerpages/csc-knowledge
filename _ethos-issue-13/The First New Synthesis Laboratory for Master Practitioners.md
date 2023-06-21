@@ -140,12 +140,12 @@ changing circumstances and evolving with the society that they have a mission to
   
   
   
-<p class="small-text text">The first three sessions were designed to explore the implications of some of the key underlying concepts of the NS Framework in practice. This was done by drawing from international examples, inviting local resource people who had led ambitious, transformative reforms, and working as a group to explore solutions to the cases.</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">The NS Lab Sessions</h3>  
