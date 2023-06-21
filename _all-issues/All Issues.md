@@ -369,7 +369,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-11">Issue 11, Aug 2012, Globalisation: Challenges
+<td><a target="_blank" href="https://go.gov.sg/ethos-issue-11">Issue 11, Aug 2012, Globalisation: Challenges
 and Policy Responses</a></td>
 </tr>
 
@@ -470,7 +470,7 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-	<td><a href="https://go.gov.sg/ethos-issue-05">Issue 5, Nov 2008, <br>Human Capital Development</a></td>
+	<td><a href="https://go.gov.sg/ethos-issue-05">Issue 5, Nov 2008,<br>Human Capital Development</a></td>
 	<td><a href="https://go.gov.sg/ethos-world-cities-summit-issue">World Cities Summit<br>Special Edition, Jun 2008</a></td>
 </tr>
 
