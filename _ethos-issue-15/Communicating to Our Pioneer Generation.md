@@ -93,7 +93,8 @@ While the PGP is comprehensive, it is also complex in design, affecting differen
 </p>  
   
 </div>  
-  
+ 
+<br> 
 <div class="article-blockquote">  
 <p>  
 In communicating the PGP, it was imperative to ensure that the key messages were structured and simple to understand, yet meaningful enough to resonate with the different target groups, in order to provide assurance that healthcare costs would become more affordable. To achieve this, the strategy for communicating the PGP incorporated several elements that were rolled out in stages.  
@@ -103,8 +104,7 @@ In communicating the PGP, it was imperative to ensure that the key messages were
 <h4><em>Understand the pioneer generation more deeply</em>  
 </h4>  
   
-<p>At the early stage of implementing the PGP, there was a need to understand how the pioneers felt about the package. Research was conducted to better understand the target audience and to test effectiveness of different communication strategies, as well as aid in the design of publicity materials. For instance, it was found that the elderly preferred to receive something tangible — this led to the Ministry of Health developing a Pioneer Generation Welcome Package, presented in the form of a gift pack with a “Thank You” note penned by Prime Minister Lee Hsien Loong. This reinforced the PGP’s intention of  
-expressing appreciation and respect in a personal way, which would not have been conveyed by conventional mailers.  
+<p>At the early stage of implementing the PGP, there was a need to understand how the pioneers felt about the package. Research was conducted to better understand the target audience and to test effectiveness of different communication strategies, as well as aid in the design of publicity materials. For instance, it was found that the elderly preferred to receive something tangible — this led to the Ministry of Health developing a Pioneer Generation Welcome Package, presented in the form of a gift pack with a “Thank You” note penned by Prime Minister Lee Hsien Loong. This reinforced the PGP’s intention of  expressing appreciation and respect in a personal way, which would not have been conveyed by conventional mailers.  
 </p>  
   
 <h4>  
@@ -172,14 +172,8 @@ For any public communication campaign to be effective, stakeholders’ understan
 <p> Different ways of presenting a piece of information can evoke different emotional responses. The PGO tested different headlines, images and videos designed to create awareness of PGP’s benefits.Test results showed that the videos in the Mandarin, Malay, Tamil and Chinese dialects resonated best with the pioneers, offering a sense of familiarity and enabling them to better digest the information. Some PGP videos were also tested with the PGAs — considered a group on the ground keenly aware of the pioneers’ preferences — to get a sense of how the messages might be received by their target audience.  
 </p>  
   
-<br>  
-  
-  
-  
-  
+<br>   
 
-  
-  
   
   
 <div class="containerbox">  
@@ -193,20 +187,10 @@ Since the launch of the Speak Mandarin Campaign in 1979, government agencies in 
 <p>  
 This long-standing moratorium on the use of dialects was waived for the PGP campaign, because the use of vernacular and patois was considered vital in communicating with the target audience of seniors, who were often reliant on these vernacular tongues in daily life.  
 </p>  
-<p>&nbsp;</p>  
-  
-  
   
 </div>  
+
   
-  
-  
-  
-  
-  
-<br>  
-  
-<br>  
   
 <h3>Enhancing Engagement through Citizen-centred Service</h3>  
   
@@ -246,10 +230,15 @@ The campaign has allowed the Government to appreciate the value of face-to-face 
 </div>  
 <p> The PGP communication and outreach efforts have improved the Government’s approach to ground engagement; in the process, they have also enhanced public service delivery, strengthened citizen-centricity, and re-ignited community networks. The data and experience gleaned from this important initiative will help future efforts to understand, engage and serve citizens, as well as strengthen the planning of local programmes, and further improve last-mile service delivery and communication.  
 </p>  
+
+
+
 <div class="author">  
 <h6>ABOUT THE AUTHOR</h6>  
 <p class="small-text"><strong>Lai Szu Hao</strong> is Lead Researcher at the Institute of Governance and Policy, Civil Service College. His research interests are in government communications and public sector governance. </p>  
 </div>  
+
+
 <h6><a name="notes"></a>NOTES</h6>  
 <ol>  
 <li class="small-text">For more information, refer to www.pioneers.sg.</li>  
