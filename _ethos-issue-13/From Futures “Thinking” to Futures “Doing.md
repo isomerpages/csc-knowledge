@@ -90,9 +90,9 @@ future, but to influence it:</p>
 <li>Act to Transform the System</li>  
 </ol>  
   
-<p>The first three steps will be familiar to anyone who has undertaken a scenarios exercise, like the growing community of futures thinking practitioners in the Singapore public sector, which has used scenarios as a tool for strategic planning since the late 1980s. Convening a system-wide team is analogous to the concept of whole-of-government thinking in Singapore, where system-level insights are sought to tackle challenges that transcend the jurisdiction of any single agency. “Observ\[ing\] what is happening” is similar to the horizon scanning and emerging issue analysis currently undertaken by the National Security Coordination Secretariat (NSCS) and the Strategic Policy Office in the Public Service Division (PSD). This involves discerning and detecting today’s weak signals of tomorrow’s game-changers. </p>  
+<p>The first three steps will be familiar to anyone who has undertaken a scenarios exercise, like the growing community of futures thinking practitioners in the Singapore public sector, which has used scenarios as a tool for strategic planning since the late 1980s. Convening a system-wide team is analogous to the concept of whole-of-government thinking in Singapore, where system-level insights are sought to tackle challenges that transcend the jurisdiction of any single agency. “Observ[ing] what is happening” is similar to the horizon scanning and emerging issue analysis currently undertaken by the National Security Coordination Secretariat (NSCS) and the Strategic Policy Office in the Public Service Division (PSD). This involves discerning and detecting today’s weak signals of tomorrow’s game-changers. </p>  
   
-<p>“Construct\[ing\] stories” is the step from which the art of scenarios originally took its name. The plural “stories” is critical here, since crafting several narratives with both complementary and competing elements allows decision-makers to question the possible truths in each of them, and thereby examine their own deeply-held mental models and assumptions. Stories and narratives, as opposed to more dispassionate analysis, are also more memorable for decision-makers and help foster a common language for planning. Many civil servants and, indeed, Singaporeans more broadly, will recall the catchy names of the first National Scenarios from 1997: “Hotel Singapore” and “A Home Divided”. Kahane quotes a similar sentiment from Trevor Manuel, a participant in the famous Mont Fleur scenarios<a href="#notes"><sup class="#notes">3</sup></a> that envisioned post-apartheid futures for South Africa. Manuel, who was head of the African National Congress’ Department of Economic Policy at the time, and is currently Head of South Africa’s National Planning Commission, said of the Mont Fleur scenarios: “I’ve internalized them, and if you have internalized something, then you probably carry it for life”.</p>  
+<p>“Construct[ing] stories” is the step from which the art of scenarios originally took its name. The plural “stories” is critical here, since crafting several narratives with both complementary and competing elements allows decision-makers to question the possible truths in each of them, and thereby examine their own deeply-held mental models and assumptions. Stories and narratives, as opposed to more dispassionate analysis, are also more memorable for decision-makers and help foster a common language for planning. Many civil servants and, indeed, Singaporeans more broadly, will recall the catchy names of the first National Scenarios from 1997: “Hotel Singapore” and “A Home Divided”. Kahane quotes a similar sentiment from Trevor Manuel, a participant in the famous Mont Fleur scenarios<a href="#notes"><sup class="#notes">3</sup></a> that envisioned post-apartheid futures for South Africa. Manuel, who was head of the African National Congress’ Department of Economic Policy at the time, and is currently Head of South Africa’s National Planning Commission, said of the Mont Fleur scenarios: “I’ve internalized them, and if you have internalized something, then you probably carry it for life”.</p>  
   
 <p> </p>  
   
@@ -100,13 +100,13 @@ future, but to influence it:</p>
   
 <p>In step five — Act to Transform the System — Kahane breaks into new territory for many scenario planners. He draws a distinction between two approaches to the future: an<em> adaptive</em> one, which takes the future as an exogenously determined “given” to which we can only react, and an <em>activist</em> approach that starts from the belief that we have some level of agency in determining the future we want (or not), and can work towards (or away from) it. There are parallels here to the psychological concept of the “locus of control”. People with internal loci tend to see their destinies as primarily the result of choices they make; they exercise agency and are often described by others as acting in “empowered” ways. In contrast, people with external loci tend to ascribe responsibility for their fates to factors outside themselves — “the system”, “my environment”, “my boss”. Activist approaches, because they require risky normative judgements about what future might be desirable, call for a strong internal locus, whereas adaptive approaches tend to coincide with an external locus of control. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Activist futuring involves not just intellectual persuasion but also the generation of emotive resonance.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The reality is that we need both adaptive and activist approaches. Activist, internal-locus approaches alone can lead to recklessness and arrogance. In Singapore’s case, awareness of our status as a small, price-taking economy on the global arena has — mostly rightly — meant a primarily humble and adaptive approach in our futures thinking. </p>  
   
@@ -118,7 +118,7 @@ Activist futuring involves not just intellectual persuasion but also the generat
   
 <p>This is a minor cavil in the context of a book that successfully elaborates, extends and enhances a familiar idea. In a world where citizens are increasingly empowered and keen to have active roles in governance, Kahane’s ideas could provide interesting fodder on how activist energy can be harnessed for a more inclusive and participatory public policy process. Anyone who cares about governance, social change and how we run organisations of any size should look forward to the next movement in Kahane’s emerging symphony.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -127,7 +127,7 @@ Activist futuring involves not just intellectual persuasion but also the generat
 <em>  
 </em>  
   
-<hr>  
+</div>  
   
 <br>  
   
