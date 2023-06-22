@@ -219,7 +219,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_13/ethos_issue_13_synthesis.PNG"></div>
 	<div>
 		<h3>The First New Synthesis Laboratory for Master Practitioners</h3>
 		<b><i>By Jocelyne Bourgon</i></b>
