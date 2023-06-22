@@ -212,7 +212,7 @@ margin-top:15px;
 		<h3>Inclusive and Iterative Governance</h3>
 		<b><i>Mr Bui The Giang and Mr Abdul Mutalib Pehin Dato Yusof</i></b>
 		<p>Two distinguished participants from Singapore’s 6th Leaders in Governance Programme discuss income inequality, talent and governance which balances the needs of the public with the challenges of the future.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-13/inclusive-and-iterative-governance/">Read more</a></div>
 	</div>
 </div>
 
