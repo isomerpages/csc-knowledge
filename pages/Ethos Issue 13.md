@@ -147,11 +147,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Public Sector Transformation — Six Small Ways to Make a Big Impact</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Andrew Tan</i></b>
+		<p>The Singapore Public Service can ready itself for a more challenging environment with more thoughtful communication, collaboration and creative use of resources.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
