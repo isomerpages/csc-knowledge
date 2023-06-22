@@ -56,7 +56,7 @@ margin-top:15px;
 	<div>
 		<h3>Issue 02, Apr 2007 <br> ETHOS Issue 02</h3>
 		<p>This issue looks at the future of work and how technology is changing the future of work and employment. We gather views from global thinkers such as Gary A. Bolles and Peter Shergold as well as forward-thinking organisations like Grab and McKinsey, where Singapore's own Chan Chi Ling, Daniel Lim, Genevieve Ding, Andrea Phua, and the Ministry of Manpower share insights from the public sector.</p>
-		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-02.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-02">Download PDF</a></div>
 	</div>
 </div>
 
