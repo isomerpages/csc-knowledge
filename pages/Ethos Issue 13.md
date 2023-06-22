@@ -123,12 +123,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Managing Complexity with Courage, Conflict and Engagement</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>By Douglas O’Loughlin</i></b>
+		<p>ILOD Principal Consultant Douglas O’Loughlin outlines four key leadership competencies to cultivate in a world of greater complexity and uncertainty.</p>
+		<div class="button1"><a href="/ethos-issue-13/managing-complexity-with-courage-conflict-and-engagement/">Read more</a></div>
 	</div>
 </div>
 
