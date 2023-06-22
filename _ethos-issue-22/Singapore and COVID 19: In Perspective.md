@@ -76,7 +76,17 @@ li {
 
 <p>Click <a href="https://file.go.gov.sg/ethosjune2021.pdf#page=8">here</a> to view the PDF info-graphic for this article.</p>
 
+<div class="author">
+<h6>Notes</h6>
 
+	
+	
+	
+	
+	
+	
+	
+</div>
 <br>
 <br>	
 <div class="back">
