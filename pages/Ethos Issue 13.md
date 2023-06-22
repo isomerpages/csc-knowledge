@@ -197,10 +197,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Ethics in Public Administration: Are We Teaching What Can’t be Taught?</h3>
+		<b><i>by Celia Lee</i></b>
+		<p>CSC researcher Celia Lee makes a case for the systematic cultivation of ethical thinking and moral development in public administration.</p>
+		<div class="button1"><a href="/ethos-issue-13/ethics-in-public-administration-are-we-teaching-what-can-t-be-taught/">Read more</a></div>
 	</div>
 </div>
 
