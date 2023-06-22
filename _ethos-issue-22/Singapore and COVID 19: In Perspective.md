@@ -70,8 +70,12 @@ li {
 <img src="/images/Ethos_Images/Ethos_Issue_22/ethosissue22-covid19inperspectivebanner.PNG">
 
 
-<h4>As of 8 June 2021,1 Singapore has seen</h4>
-<p></p>
+<h4>As of 8 June 2021, Singapore has seen </h4>
+<ul>
+	<li>&gt; 62, 000 cases of COVID-19</li>
+	<li>&gt; 61, 000 cases discharged</li>
+
+</ul>
 
 
 
