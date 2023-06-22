@@ -78,6 +78,19 @@ li {
 
 <div class="author">
 <h6>Notes</h6>
+	<ol>
+  <li>Gov.sg, “COVID-19 (Coronavirus Disease 2019): Updates on the COVID-19 Situation in Singapore”</li>
+  <li>The National Vaccination Programme refers to the inoculation drive with vaccines approved for use in Singapore by the Health Sciences Authority. As of 1 June 2021, only the Pfizer-BioNTech and Moderna COVID-19 vaccines have been approved for use in Singapore.</li>
+  <li>Source: Ministry of Health</li>
+  <li>Based on a total population of 5.69 million as of June 2020. Source: National Population and Talent Division, “Population in Brief 2020: Key Trends”</li>
+  <li>Ibid.</li>
+  <li>Ministry of Trade and Industry, “MTI Narrows 2020 GDP Growth Forecast to ‘-7.0 to -5.0 Per Cent’”</li>
+  <li>Rachel Phua, “Singapore’s Labour Market Shows Signs of Recovery as Unemployment Rates Fall for Second Straight Month”</li>
+  <li>Ang Hwee Min, “Singapore’s Overall Unemployment Rate in August Climbs Past Global Financial Crisis’ High”</li>
+  <li>Joyce Teo, “Covid-19 Will Have a Long-Tail Effect on Mental Health, Experts Predict”</li>
+  <li>N. Elangovan, “SOS Hotline Receives 30% More Calls during Circuit Breaker Period”</li>
+  <li>Heng Swee Keat, Written Reply to Parliamentary Question by Ms Foo Mee Har, February 1, 2021.</li>
+</ol>
 
 	
 	
