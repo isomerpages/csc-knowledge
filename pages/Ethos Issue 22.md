@@ -78,11 +78,9 @@ margin-top:15px;
         <div><img src="/images/Ethos_Images/Ethos_Issue_22/ethosissue22-covid19inperspectivebanner.PNG">
 	</div>
         <div><h3>Singapore and COVID-19: In-Perspective</h3>
-            <b><i></i></b>
-            <figcaption>
-            </figcaption>
+        
                 
-  <p></p>	
+  <p>An infographic on COVID-19.</p>	
             
 <div class="button1"><a target="_blank" href="/ethos-issue-22/singapore-and-covid-19-in-perspective/">Read More</a></div> <br></div>
     </div>
