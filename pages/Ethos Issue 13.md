@@ -221,9 +221,9 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>The First New Synthesis Laboratory for Master Practitioners</h3>
+		<b><i>By Jocelyne Bourgon</i></b>
+		<p>A groundbreaking lab for practitioners demonstrates the robustness and applicability of the New Synthesis Framework in transforming ideas about public administration and public value for the future</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
