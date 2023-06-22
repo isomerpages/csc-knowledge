@@ -69,18 +69,12 @@ li {
 <em><small>ETHOS Issue 22, June 2021</small></em>
 <img src="/images/Ethos_Images/Ethos_Issue_22/ethosissue22-covid19inperspectivebanner.PNG">
 
+<br>
+<img src="/images/Ethos_Images/Ethos_Issue_22/ethos_issue_22.PNG">
+<br>
+<img src="/images/Ethos_Images/Ethos_Issue_22/ethos_issue_22_perspective.PNG">
 
-<h4>As of 8 June 2021, Singapore has seen </h4>
-<ul>
-	<li>&gt; 62, 000 cases of COVID-19</li>
-	<li>&gt; 61, 000 cases discharged</li>
-
-</ul>
-
-
-
-
-
+<p>Click <a href="https://file.go.gov.sg/ethosjune2021.pdf#page=8">here</a> to view the PDF info-graphic for this article.</p>
 
 
 <br>
