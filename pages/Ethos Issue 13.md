@@ -185,9 +185,9 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>The Value of Values in the Singapore Public Service</h3>
+		<b><i>by Keith TAN and Ghalpanah THANGARA JU</i></b>
+		<p>The transformation of the Public Service must also involve thoughtful reinvigoration of the values it stands for.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
