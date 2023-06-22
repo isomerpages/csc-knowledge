@@ -183,7 +183,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_13/13_Teaser_The%20Value%20of%20Values%20in%20the%20Singapore%20Public%20Service.jpg"></div>
 	<div>
 		<h3>The Value of Values in the Singapore Public Service</h3>
 		<b><i>by Keith Tan and Ghalpanah Thangaraju</i></b>
