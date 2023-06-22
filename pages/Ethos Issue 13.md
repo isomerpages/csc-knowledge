@@ -138,7 +138,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Transformative Innovation and the Policymaker of the Future</h3>
-		<b><i>by Graham Leicester</i></b>
+		<b><i>By Graham Leicester</i></b>
 		<p>The competencies needed to transform governance are already innate in the policymaking community — but a deliberate cultural shift may be necessary to bring them to the fore.</p>
 		<div class="button1"><a href="/ethos-issue-13/transformative-innovation-and-the-policymaker-of-the-future/">Read more</a></div>
 	</div>
@@ -150,21 +150,21 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Public Sector Transformation — Six Small Ways to Make a Big Impact</h3>
-		<b><i>by Andrew Tan</i></b>
+		<b><i>By Andrew Tan</i></b>
 		<p>The Singapore Public Service can ready itself for a more challenging environment with more thoughtful communication, collaboration and creative use of resources.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-13/public-sector-transformation-six-small-ways-to-make-a-big-impact/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_13/13_Teaser_Enabling%20Organisational%20Transformation_Possibilities%20and%20Practice.jpg"></div>
 	<div>
 		<h3>Enabling Organisational Transformation: Possibilities and Practice</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>By Aurora de Souza Watters and Lena leong</i></b>
+		<p>Two public agencies illustrate transformational strategies that could help organisations rethink and reinvent themselves for the future.</p>
+		<div class="button1"><a href="/ethos-issue-13/enabling-organisational-transformation-possibilities-and-practice/">Read more</a></div>
 	</div>
 </div>
 
