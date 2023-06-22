@@ -53,7 +53,7 @@ margin-top:15px;
         <div><img src="/images/Ethos_Images/Ethos_Issue_01/ETHOS01.jpg"></div>
         <div><h3><span class="cat">ISSUE 24, OCT 2006</span>
             <br>ETHOS Issue 01</h3>	
-            <p>Welcome to the new Ethos. Originally a newsletter started in 1994, Ethos has since become a publication of no small ambition and range. It has featured leading ideas on governance and policy from some of the most senior and expert thinkers in the Singapore Public Service and beyond.</p>
+            <p></p>
             
             
    <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-01">Download PDF</a></div>
