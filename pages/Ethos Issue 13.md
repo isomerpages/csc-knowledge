@@ -233,10 +233,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Making Public Private Partnerships Work: Implications for Singapore and the Region</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-13/making-public-private-partnerships-work-implications-for-singapore-and-the-region/">Read more</a></div>
 	</div>
 </div>
 
