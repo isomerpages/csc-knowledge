@@ -104,17 +104,17 @@ margin-top:15px;
 		<h3>Transformative Alliance</h3>
 		<b><i>Interview with Adam Kahane</i></b>
 		<p>To resolve complex problems, we must cooperate across conventional boundaries to co-create the future, not just adapt to it, argues the foresight veteran.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-13/transformative-alliance-interview-with-adam-kahane/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
 		<h3>From Futures “Thinking” to Futures “Doing”</h3>
-		<b><i></i></b>
+		<b><i>Reviewed by Aaron Maniam</i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
