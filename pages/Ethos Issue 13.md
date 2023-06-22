@@ -188,7 +188,7 @@ margin-top:15px;
 		<h3>The Value of Values in the Singapore Public Service</h3>
 		<b><i>by Keith Tan and Ghalpanah Thangaraju</i></b>
 		<p>The transformation of the Public Service must also involve thoughtful reinvigoration of the values it stands for.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-13/the-value-of-values-in-the-singapore-public-service/">Read more</a></div>
 	</div>
 </div>
 
