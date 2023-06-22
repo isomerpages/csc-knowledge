@@ -116,7 +116,7 @@ margin-top:15px;
 		<h3>From Futures “Thinking” to Futures “Doing”</h3>
 		<b><i>Reviewed by Aaron Maniam</i></b>
 		<p>Transformative Scenario Planning By Adam Kahane Berrett–Koehler Publishing, Inc. (paperback published in October 2012); 168 pp.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-13/from-futures-thinking-to-futures-doing/">Read more</a></div>
 	</div>
 </div>
 
