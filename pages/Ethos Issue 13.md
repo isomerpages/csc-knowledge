@@ -234,8 +234,8 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Issue_13/13_Teaser_.Making%20Public-Private%20Partnerships%20Work-%20Implications%20for%20Singapore%20and%20the%20Region.jpg"></div>
 	<div>
 		<h3>Making Public Private Partnerships Work: Implications for Singapore and the Region</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Thia Jang Ping and Alan M. Trager</i></b>
+		<p>Can cross-sectoral collaborations be structured to deliver public value more effectively on a large scale?</p>
 		<div class="button1"><a href="/ethos-issue-13/making-public-private-partnerships-work-implications-for-singapore-and-the-region/">Read more</a></div>
 	</div>
 </div>
