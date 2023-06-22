@@ -102,8 +102,8 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Transformative Alliance</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>Interview with Adam Kahane</i></b>
+		<p>To resolve complex problems, we must cooperate across conventional boundaries to co-create the future, not just adapt to it, argues the foresight veteran.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
