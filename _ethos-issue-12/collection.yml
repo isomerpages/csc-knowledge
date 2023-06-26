@@ -2,6 +2,7 @@ collections:
   ethos-issue-12:
     output: true
     order:
+      - CPFB’s iCARE Advantage.md
       - MOM’s Smarter Service Initiatives.md
       - Randomised Controlled Trials in Policymaking.md
       - "Governance Through Adaptive Urban Platforms: The INSINC Experiment.md"
