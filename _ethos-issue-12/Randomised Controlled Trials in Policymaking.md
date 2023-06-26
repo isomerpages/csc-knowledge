@@ -229,13 +229,13 @@ Modular Curriculum for Chinese Language in Singapore Primary Schools</h3>
 
 
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Voluntary participation can exaggerate or distort observed effects.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Apart from costs, policymakers often also need to undertake longer-term studies to understand the effects of a policy intervention over time. This poses administrative and logistical challenges (e.g. ensuring participant follow-up). As time goes by, response rates may fall, leading to higher attrition rates, and the probability of contamination (control group having access to the equivalent programme) increases. Trials examining long-term effects of policies therefore need to be carefully planned and mindful of these possible obstacles.<a href="#notes"><sup class="#notes">7</sup></a></p>
 
@@ -257,7 +257,7 @@ Voluntary participation can exaggerate or distort observed effects.
 
 <p>However, there are ways to make the best of the situation and data on hand, such as by looking for alternative ways to randomise, or by using other tools of similar rigour. This is far better than settling for a pilot that is conducted on a self-selective sample based on vicinity or other factors of convenience. Without evidence and robust ways to test the outcomes of interventions, policymakers can only rely on intuition, ideology and inherited wisdom, risking good intentions that produce disappointing or unintended outcomes.<a href="#notes"><sup class="#notes">13</sup></a></p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -265,7 +265,7 @@ Voluntary participation can exaggerate or distort observed effects.
 
 <p class="small-text"><strong>Sharon Tham</strong> is Senior Researcher in the Public Economics team, Institute of Governance and Policy, Civil Service College. Her research interests include evidence-based policymaking, behavioural economics and economic geography.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
