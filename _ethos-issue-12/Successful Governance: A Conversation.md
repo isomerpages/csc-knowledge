@@ -169,19 +169,6 @@ We need to start working with and thinking about a world inhabited by humans —
     </li>
 </ol>
 
-<br>
-
-<hr>
-
-<br>
-
-
-
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
-
 
 
 
