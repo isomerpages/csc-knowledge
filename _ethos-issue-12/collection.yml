@@ -2,5 +2,6 @@ collections:
   ethos-issue-12:
     output: true
     order:
+      - "What’s Past is Prologue: Kissinger on China.md"
       - The Age of Angst.md
       - "Context, Connection and Continuity: Governance in the Next Decade.md"
