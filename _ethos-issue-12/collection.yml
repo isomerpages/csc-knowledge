@@ -2,6 +2,7 @@ collections:
   ethos-issue-12:
     output: true
     order:
+      - MOM’s Smarter Service Initiatives.md
       - Randomised Controlled Trials in Policymaking.md
       - "Governance Through Adaptive Urban Platforms: The INSINC Experiment.md"
       - "Public Managers as Innovators: In Search of Design Attitude.md"
