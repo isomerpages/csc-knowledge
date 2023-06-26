@@ -2,6 +2,7 @@ collections:
   ethos-issue-12:
     output: true
     order:
+      - "Public Managers as Innovators: In Search of Design Attitude.md"
       - Rethinking Public Service Delivery for the 21st Century.md
       - "Commissioning Public Value: The Role of Civil Servants.md"
       - Public Engagement That Works.md
