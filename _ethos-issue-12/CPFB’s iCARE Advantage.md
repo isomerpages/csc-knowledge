@@ -87,13 +87,13 @@ li {
 
 <p>In CPFB, we track two types of feedback — service feedback and policy feedback — and these can also be captured by iCARE. For example, some of our top enquiries are about early withdrawal of CPF funds and the use of Medisave funds for healthcare. Although Medisave policies come under the Ministry of Health, we collate the relevant feedback and forward it to them. You would have noticed that over time they have relaxed their policies on the use of Medisave, for instance for outpatient treatment of long-term chronic diseases. The feedback they received from us, and from elsewhere, would have factored into their decisions. The same goes for feedback on the use of funds for housing, or withdrawal rules under the Ministry of Manpower and so on. The feedback we receive represents a ground feel, for which the CPFB faces pressure from the public, so this is something we need to pass on to the policymaking ministries.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 In the past, some features might have been “nice to have”, but today, they have become critical to good service delivery.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Sometimes we get good suggestions from the public. For instance, one member suggested that we should allow credit card transactions, which we didn’t in the past. We explored it, and today we do allow credit card payments. Whatever the outcome, we always reply to those offering feedback. The member who suggested the use of credit cards was pleasantly surprised to hear back from us!</p>
 
@@ -103,13 +103,13 @@ In the past, some features might have been “nice to have”, but today, they h
 
 <p>Today, sites such as Amazon can already intelligently predict, based on your transactions, where your interests lie. We hope in future to employ this sort of data analytics in order to anticipate what our members might want and then pull out relevant initiatives or information for them, based on the rich data residing in iCARE.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The key philosophy behind iCARE is that all relevant information must be captured by the system. It should not be a case where people choose what to include and what to leave out.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>CPF is at the heart of many key government policies from healthcare to housing, so patterns of CPF usage could be insightful to policymaking. In this regard, it is important that key characteristics and attributes of members are kept up to date. A member’s marital status, for example, is important in CPF’s context since a marriage would invalidate any CPF nomination made prior to the member’s marriage. Such status data is dynamic and can change, so the system will have to keep information up to date. Because timeliness is important in these matters, CPFB links up with other government agencies instead of waiting for members to notify us — say of a marriage or a death, which would trigger changes to related CPF accounts.</p>
 
@@ -127,17 +127,17 @@ The key philosophy behind iCARE is that all relevant information must be capture
 
 <p>As a system becomes better used and more successful, more people are willing to come on board, and a virtuous cycle of system usage develops. Today iCARE is deployed widely across CPFB. Over the years, we have also made continual enhancements to make the system even easier to use and more productive for our staff. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The people factor is more important than the system.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Since its inception, iCARE, supported by our strong service culture instilled over several generations of leadership, has helped propel CPFB in its service excellence journey. We believe it will be an important part of our future strategy to deliver more streamlined, integrated and relevant services for our members.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -147,14 +147,12 @@ The people factor is more important than the system.
 
 <p class="small-text">As part of its research on innovative service delivery, the ETHOS editorial team met with Boon Chye and Stephanie in January 2013.</p>
 
+</div>
+
+
+
+
 <br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
-
-
-
-
 <br>
 <br>	
 <div class="back">
