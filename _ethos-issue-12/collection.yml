@@ -2,6 +2,7 @@ collections:
   ethos-issue-12:
     output: true
     order:
+      - "Governance Through Adaptive Urban Platforms: The INSINC Experiment.md"
       - "Public Managers as Innovators: In Search of Design Attitude.md"
       - Rethinking Public Service Delivery for the 21st Century.md
       - "Commissioning Public Value: The Role of Civil Servants.md"
