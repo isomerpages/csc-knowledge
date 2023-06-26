@@ -89,7 +89,7 @@ li {
 
 
 
-<p class="small-text text">Running a trial involves splitting the study sample into two groups by random lot, one of which (control group) will get the standard intervention, while the other (treatment group) will get the new intervention.</p>
+
 
 
 
@@ -127,14 +127,12 @@ li {
 
 
 
-<p class="small-text text">PROGRESA combines a traditional cash transfer programme with financial incentives for families to invest in human capital of children (health, education and nutrition).1 In order to receive the cash transfer, families must obtain preventive healthcare and participate in growth monitoring and nutrition supplements programmes.</p>
-
-<p class="small-text text">Approximately 10% (506) of the 50,000 PROGRESA communities were chosen to participate in trials. These communities were randomly assigned to either a treatment group that would receive PROGRESA benefits immediately or a control group that would be given the benefits two years later. The trials showed that the utilisation of public health clinics increased faster in PROGRESA villages than in control areas, with significant improvements in the health of both adult and child beneficiaries.</p>
 
 
 
 
-<div class="container">
+
+<div class="containerbox">
 
 
 <h3 class="title">The Impact of PROGRESA on Health in Mexico</h3>
@@ -166,12 +164,12 @@ li {
 
 <p class="small-text text">In line with recommendations made by the Chinese Language Curriculum and Pedagogy Review Committee, a modular Chinese Language curriculum was piloted at 25 schools in 2006.1 Various aspects of the new curriculum including the modular structure, pedagogical approaches, textbook and activity book, instructional resources and students’ learning outcomes were studied.</p>
 
-<p class="small-text text">Outcomes in terms of teachers’ pedagogical practices and students’ learning from pilot and non-pilot schools were compared. The pilot schools yielded encouraging results and indicated that the curriculum objectives were largely achieved. By the end of 2006, the new curriculum for Primary 1 and 2 was ready for implementation in 2007.</p>
 
 
 
 
-<div class="container">
+
+<div class="containerbox">
 
 
 <h3 class="title">
@@ -204,14 +202,10 @@ Modular Curriculum for Chinese Language in Singapore Primary Schools</h3>
 
 
 
-<p class="small-text text">The Courts Service and the Behavioural Insights Team carried out two trials to test whether sending text messages to people who had failed to pay their court fines would encourage them to pay prior to a bailiff being sent to their homes.1 The individuals in the initial trial were randomly allocated to five groups. The control group was not sent any message, while the other intervention groups were sent either a standard text or a more personalised message (with the name of the recipient, amount owed or both). The trial showed that text message prompts yield far better payment rates compared to no text prompts.</p>
-
-<p class="small-text text">A second trial was conducted to determine the aspects of personalised messages that were key to increasing payment rates. It ascertained that not only were people more likely to make a payment if they received a text message with their name, but the average value of fine repayments went up by over 30%. This amounted to an additional annual recovery of over £3 million in fines, and eliminating the need for up to 150,000 bailiff interventions annually.</p>
 
 
 
-
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Demonstrating the Impact of Text Messaging on Fine Repayments in the UK
