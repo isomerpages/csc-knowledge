@@ -94,12 +94,12 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">How a Randomised Controlled Trial works</h3>
 <p class="text">Running a trial involves splitting the study sample into two groups by random lot, one of which (control group) will get the standard intervention, while the other (treatment group) will get the new intervention.</p>
-<p style="text-align: center;" class="text"><img title="59136-compressor" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-12/59136-compressor.png?sfvrsn=dd93f7f8_0" data-displaymode="Original" alt="59136-compressor"></p>
+<p style="text-align: center;" class="text"><img title="59136-compressor" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_12/Fig_59136_Compressor.png" data-displaymode="Original" alt="59136-compressor"></p>
 <p class="text">This allows for a more robust and transparent comparison of how effective a new intervention is, compared to doing without it. </p>
 <p class="text">In addition, when individuals are assigned randomly and the sample size is large enough, the control and treatment groups can be expected to have the same characteristics. This eliminates the possibility of external factors (e.g. bias in the sample group) that could affect the results.</p>
 
