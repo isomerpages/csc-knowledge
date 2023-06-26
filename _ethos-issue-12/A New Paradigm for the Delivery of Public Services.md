@@ -195,21 +195,21 @@ Agencies come some way in co- developing solutions with the people. However, the
 
 <p>Agencies should be prepared to make extensive investments in service capability building. Front-line officers and managers should be equipped with the skills, expertise and motivation for good service. Agencies should find ways to recognise their efforts, and to ensure the wellbeing of front-line staff. As the volume of customer transactions increases, operational practices can be improved to help balance the workload of these officers (such as through staggered deployment to better manage peak hour demand). Agencies should also seek to broaden development opportunities for service staff, such as through rotations across organisational functions or creating service specialist progression tracks.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 One of the deep secrets of life is that all that is really worth doing is what we do for others.
-</em></h5>
+</p>
 
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Lewis Carroll</p>
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">—Lewis Carroll</p>
 
-<hr>
+</div>
 
 <h3>Conclusion</h3>
 
 <p>As members of the Singapore Public Service, we should continue to strive to bring value to the people through the services we deliver. Nevertheless, bringing the new Service Principles to life in the next phase of service excellence will be challenging. Public sector leaders will need to continually refresh their service strategy, and chart out the next leaps of progress they intend their agencies to achieve. Public officers at every level need to understand the role they play in their organisation’s overall service strategy, and take personal ownership for achieving service excellence in their own field of influence. Front-line officers are of particular importance in this effort, and their conviction to serve, despite today’s complex and demanding environment, should be appreciated.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -217,7 +217,7 @@ One of the deep secrets of life is that all that is really worth doing is what w
 
 <p class="small-text">Pang has been the Permanent Secretary (Transport) since July 2012. Before his current appointment, he served in various portfolios in the Public Service Division, Ministry of Trade and Industry and Ministry of Home Affairs. He was the Principal Private Secretary to the Prime Minister and Director, Internal Security Department, Ministry of Home Affairs, before his appointment as Permanent Secretary (Law) in 2010.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -225,9 +225,6 @@ One of the deep secrets of life is that all that is really worth doing is what w
 <li class="small-text">CARE stands for Courtesy, Accessibility, Responsiveness and Effectiveness.</li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
