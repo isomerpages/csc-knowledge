@@ -92,9 +92,7 @@ li {
 <br>
 <strong>ETHOS</strong></p>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
