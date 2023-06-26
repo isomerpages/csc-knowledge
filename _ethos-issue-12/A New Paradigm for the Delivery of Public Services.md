@@ -87,7 +87,7 @@ Achieving the principles will require a shift towards a more relational form of 
 
 <p style="text-align: center;">
 <br>
-<img title="Servicecare_logo_opt" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-issue-12/servicecare_logo_opt.png?sfvrsn=919a8655_0" data-displaymode="Original" alt="Servicecare_logo_opt">&nbsp;<sub><br>
+<img title="Servicecare_logo_opt" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Issue_12/Servicecare_Logo_Opt.png" data-displaymode="Original" alt="Servicecare_logo_opt">&nbsp;<sub><br>
 </sub></p>
 
 <h6 style="text-align: center;"><strong>The Service Principles for the Singapore Public Service</strong></h6>
