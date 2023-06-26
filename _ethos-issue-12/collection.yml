@@ -2,4 +2,5 @@ collections:
   ethos-issue-12:
     output: true
     order:
+      - The Age of Angst.md
       - "Context, Connection and Continuity: Governance in the Next Decade.md"
