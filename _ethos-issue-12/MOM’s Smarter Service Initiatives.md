@@ -59,6 +59,10 @@ font-family: Georgia;
 	
 	}	
 
+.containerbox h3 , .containerbox h4 {
+	color: #49a5ae;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -116,7 +120,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Applying Behavioural Insights to Service Design</h3>
@@ -155,7 +159,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Cultivating Professional Empathy</h3>
@@ -189,7 +193,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Service Commitment and Service Differentiation</h3>
@@ -202,7 +206,7 @@ li {
 <h4>Service Charter</h4>
 <p>To address an increased number of abusive customers and to protect its front-line staff more effectively, MOM revamped its service charter (displayed prominently wherever its front-line staff serve customers). In the past, the Charter stated that MOM would not hesitate to take legal action against abusive customers (though it rarely did). Now, MOM makes it clear that its officers will not serve those who are abusive. Such customers would therefore feel the immediate impact of service denial; this also helps to safeguard front-line staff.</p>
 <p>MOM’s new Service Charter now reads:</p>
-<blockquote class="article-blockquote">
+<blockquote style="background-color: #eceedb;" class="article-blockquote">
 <p><em>“We know your issues are important. Our officers want to serve you well and give you our attention and respect. Likewise, we would be greatly motivated when you return the mutual understanding and respect. We want to provide a conducive and safe environment for our customers and staff. We will not serve any person who is abusive, offensive or threatening in language or behaviour.”</em></p>
 </blockquote>
 <p>&nbsp;</p>
@@ -246,13 +250,13 @@ li {
 
 <p class="small-text">My special thanks to team members who have contributed to this article: Deputy Director Foo Chek Nam, Senior Assistant Directors Tan Che Wei and Chow May Fong, Assistant Director Irving Lim, Section Head Nicholas Quek, Senior Manager Regina Chang and, last but not least, Manager Janet Koh.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Roslyn Ten</strong> is Director of the Customer Responsiveness Department at the Ministry of Manpower, responsible for managing the ministry’s service touch points, including its outsourced MOM Contact Centre, and building staff capability in service excellence. She is also the Ministry’s Quality Service Manager. Mrs Ten has more than 30 years’ experience in the public service, spanning labour relations, employment facilitation and work injury compensation. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -260,9 +264,7 @@ li {
 <li class="small-text">There was a substantial increase in customer volume after the 2011 General Election. For instance, the workload for the MOM Quality Service Management team alone almost tripled from the low 200s to more than 500 cases per day via email and phone. This spike may be due to several factors, including the tightening of immigration and foreign worker policies, redirected cases, and a greater willingness by the public to come forward with feedback.</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
