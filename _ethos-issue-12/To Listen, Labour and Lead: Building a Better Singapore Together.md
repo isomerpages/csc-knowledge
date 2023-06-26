@@ -94,13 +94,13 @@ li {
 
 <p>While these strategic shifts are essential, some hard truths do not change. We must continue to strengthen and reinforce our core values. We must stay united and face the future together. We will always need a strong Home Team and Singapore Armed Forces to keep our country safe. We still rely on a competitive, vibrant economy to provide good jobs for our people and generate resources for our social programmes. We must strengthen our Singapore identity, while remaining open to the world.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The Administrative Service must increase the diversity of experiences among its officers.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>This being the Administrative Service Dinner, one more of these hard truths is worth stressing: The need for a high-quality public service that is competent and honest, staffed with able and committed officers, imbued with a sense of responsibility to the nation and a spirit of service to their fellow citizens. One reason we have been able to build such a Service — though by no means the only reason — is that we have paid our officers realistically and competitively, in line with the quality of the officers and the value of their contributions. We have been reviewing Administrative Service salaries, but we are not changing this principle. </p>
 
@@ -125,13 +125,13 @@ The Administrative Service must increase the diversity of experiences among its 
 
 <p>Second, the Government must change its approach to policymaking. We no longer have the luxury of making policy “in a lab”. Today’s environment is more complex and fluid, and our trade-offs more stark. Ideas are more vigorously and widely contested, especially online. Our policy process must adapt to this new landscape. We must gather a wider range of views, especially from outside the Government. We must market-test and adjust our policies more. We must also acquire a better feel of how our policies impact different groups, and what their likely reactions and concerns will be. With win-win solutions more elusive, we must be more willing to “satisfice” to achieve our main goals. This includes recognising when it is better for the Government to wait for the right time to solve a problem, or to take a partial step and defer a fuller solution to some more propitious moment. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The Civil Service must harness the energy and passion from within its ranks, especially among our younger and junior officers.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>These imperatives apply to all our policies, whether community projects like developing Wisma Geylang Serai, perpetually thorny issues such as public transport or car ownership, or major reviews like our housing policy rethink. The adjustments will not be easy to make. They require confidence and skill on the Government’s part, and maturity and commitment on the part of the public. But they are essential to avoid blind-spots, generate buy-in and improve the quality of our policies. </p>
 
@@ -149,27 +149,26 @@ The Civil Service must harness the energy and passion from within its ranks, esp
 
 <p>Lastly, always be stewards of the public good. We are in positions of authority, and must live up to the trust bestowed on us. Stewardship also means improving those around us — our colleagues, the rest of the Civil Service, and most importantly the lives of Singaporeans. Ultimately, stewardship means developing our successors and handing on to them a better Singapore than the one we inherited.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The Government does not have all the answers. That is why we must engage the public more, to walk in their shoes and tap their divese perspectives.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Conclusion</h3>
 
 <p>Building a better Singapore is what Government is about. This is an exciting time to be in the business of governance. The world and Singapore are changing rapidly, but the possibilities are endless. Despite our challenges, I am confident we can succeed. We have an excellent Civil Service and Administrative Service, a strong base to scale loftier heights and a shared passion to improve Singaporeans’ lives. We must Listen with empathy, Labour with conviction and Lead with humility. Let us persevere in our mission to create a brighter future for all Singaporeans.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Lee Hsien Loong</strong> is the third Prime Minister of Singapore. This article is an adaptation of a speech delivered at the 25th Administrative Service Dinner and Promotion Ceremony on 27 March 2013. </p>
 
-<br>
+</div>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
