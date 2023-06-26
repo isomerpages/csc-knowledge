@@ -2,6 +2,7 @@ collections:
   ethos-issue-12:
     output: true
     order:
+      - "Successful Governance: A Conversation.md"
       - A New Paradigm for the Delivery of Public Services.md
       - CPFB’s iCARE Advantage.md
       - MOM’s Smarter Service Initiatives.md
