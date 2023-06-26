@@ -84,13 +84,13 @@ li {
 
 <p>Of course you need to think about the benefits that you get from greater openness and do your own cost-benefit analysis. It is not a case of “publish everything and be damned”. In the UK, we expanded the publication of public service wages from the top down to the middle level, hoping to put downward pressure on wages. But this created a lot of resentment, when people started looking around and comparing their salaries to others in their grade or those in the private sector. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The concentration of thinking on wellbeing and what we value will help people realise that the pursuit of income alone is not going to achieve the goals we think it will.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>On Capabilities that the Public Sector Will Need in the Coming Decade</h3>
 
@@ -98,13 +98,13 @@ The concentration of thinking on wellbeing and what we value will help people re
 
 <p>Many aspects of the public service will need to be professionalised: human resources, IT, process re-engineering and so on. We will also need people to design better online solutions, which have enormous untapped potential for service delivery. The next generation of online services needs to be more intelligent: for example, systems that “cross-sell” services. When people apply for one benefit, we can make them aware of other benefits for people in their position and so on, based on the data available.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We should be aware that we tend to come up with the kinds of solutions for the world we’ve been in.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>When it comes to delivering public service to a vast number of people, one of the benefits of online systems is that they enhance fairness. A computer is not going to treat you differently because of how you look, or discriminate based on stereotypes or bias. This fairness and predictability are good for citizens.</p>
 
@@ -130,13 +130,13 @@ We should be aware that we tend to come up with the kinds of solutions for the w
 
 <p>In that sense, Singapore has done incredibly well in thinking ahead, and it is important that you do it well. I come from an environment with a great degree of political change, so an element of change is built in for us. We live in an unstable world. But you have a very stable political system and you might be tempted to wish that stability will continue. When you are in such an open and vulnerable situation, I think what you need to be doing is to build resilience: resilient individuals and institutions that can manage shocks.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We need to start working with and thinking about a world inhabited by humans — building up interventions around the basis of understanding how real people make choices.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>A resilient society can withstand big shocks and bounce back. During World War Two and the recent terrorist attack on the Tube, there was public determination in Britain borne out of a feeling of a just war, and of not letting the terrorists win. The politicians and the public were aligned, and the attacks were not allowed to completely disrupt life. We proved resilient.</p>
 
@@ -144,7 +144,9 @@ We need to start working with and thinking about a world inhabited by humans —
 
 <p>At the same time, I think what we do in public service as well as the way we set things up supports national resilience. For example, the financial crisis put many individuals in shock: through redundancy and becoming unemployed, with personal finances being depleted when people get sick and so on. So by helping people to get back to work, supporting them in the period when they haven’t got any income and providing healthcare help when there’s been a sudden accident, we are helping to build resilience in our society.</p>
 
-<hr>
+
+<p class="small-text"><strong>Watch video extracts from Lord Gus's "Innovations in Governance and Leadership" lecture at the Civil Service College on 30 November 2012: <a target="_blank" href="../../Knowledge/Pages/Lord-Augustine-ODonnell-Innovations-in-Governance-and-Leadership-Part1of2.html?url=http%3a//www.cscollege.gov.sg/Knowledge/Knowledge/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part1of2/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part1-F8_FLV_VP6_1200Kbps_480p.flv&amp;imgurl=/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part1of2/Lord%20Gus-thumbnail-Part1-Innovations%20in%20Governance%20and%20Leadership.jpg&amp;ddd=">Part 1</a> and <a target="_blank" href="../../Knowledge/Pages/Lord-Augustine-ODonnell-Innovations-in-Governance-and-Leadership-Part2of2.html?url=http%3a//www.cscollege.gov.sg/Knowledge/Knowledge/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part2of2/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part2-F8_FLV_VP6_1200Kbps_480p.flv&amp;imgurl=/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part2of2/Lord%20Gus-thumbnail-Part2-Innovations%20in%20Governance%20and%20Leadership.jpg&amp;ddd=">Part 2</a>.</strong></p>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -156,14 +158,14 @@ We need to start working with and thinking about a world inhabited by humans —
 
 <p class="small-text">In his first visit to Singapore as CSC Senior Visiting Fellow in November 2012, Lord Gus spoke on "Innovations in Governance and Leadership", and headed a Roundtable on "Income Inequality, Social Mobiilty, Well Being and Behavioural Economics". He shared these views in conversation with ETHOS Editor-in-Chief Alvin Pang. </p>
 
-<hr>
+</div>
 
 <br>
 
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">http://hbr.org/2012/12/saving-economics-from-the-economists
+	<li class="small-text"><a href="http://hbr.org/2012/12/saving-economics-from-the-economists">http://hbr.org/2012/12/saving-economics-from-the-economists</a>
     </li>
 </ol>
 
@@ -173,7 +175,7 @@ We need to start working with and thinking about a world inhabited by humans —
 
 <br>
 
-<p class="small-text"><strong>Watch video extracts from Lord Gus's "Innovations in Governance and Leadership" lecture at the Civil Service College on 30 November 2012: <a target="_blank" href="../../Knowledge/Pages/Lord-Augustine-ODonnell-Innovations-in-Governance-and-Leadership-Part1of2.html?url=http%3a//www.cscollege.gov.sg/Knowledge/Knowledge/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part1of2/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part1-F8_FLV_VP6_1200Kbps_480p.flv&amp;imgurl=/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part1of2/Lord%20Gus-thumbnail-Part1-Innovations%20in%20Governance%20and%20Leadership.jpg&amp;ddd=">Part 1</a> and <a target="_blank" href="../../Knowledge/Pages/Lord-Augustine-ODonnell-Innovations-in-Governance-and-Leadership-Part2of2.html?url=http%3a//www.cscollege.gov.sg/Knowledge/Knowledge/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part2of2/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part2-F8_FLV_VP6_1200Kbps_480p.flv&amp;imgurl=/Lord%20Augustine%20ODonnell-Innovations%20in%20Governance%20and%20Leadership-Part2of2/Lord%20Gus-thumbnail-Part2-Innovations%20in%20Governance%20and%20Leadership.jpg&amp;ddd=">Part 2</a>.</strong></p>
+
 
 <br>
 
