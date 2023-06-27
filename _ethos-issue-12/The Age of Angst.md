@@ -92,12 +92,12 @@ li {
 
 
 
-<p class="small-text text">Beginning in Britain with the introduction of textile-producing machinery, the Industrial Revolution in the late 18th century and throughout most of the 19th century, quickly spread throughout Europe, shifting it from its predominantly agricultural and mercantilist base to an industrial economy. With it came a great burst of innovation, leading to critical developments such as factories, steam power, railroads, the telegraph, electricity, and more.</p>
+<br>
 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Social Angst in the Industrial Revolution</h3>
@@ -136,14 +136,12 @@ li {
 
 
 
-<p class="small-text text">Every social movement is broadly manifested in a three-part sequence: Ideation, Catalysation and Mobilisation. Ideation refers to the point at which the idea is planted and becomes a compelling narrative, shared and accepted by a substantial audience. Catalysation refers to an event or a series of incidents that ignites the movement. Mobilisation is the final phase where collective action is taken, bringing the narrative to fruition. </p>
-
-<p class="small-text text">The Arab Spring of 2011 exemplifies this sequence. Prior to 2011, the narrative of angst that resulted from income inequality, corruption, high youth unemployment, perceived western injustice and growing political frustrations at the lack of democracy was gaining credence. The immolation of a single street vendor in Tunisia acted as the catalyst. Accelerated through the internet and social media, large crowds were mobilised and before long, a socio-political movement was underway.</p>
+<br>
 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">When Does Angst Become a Movement?</h3>
@@ -171,13 +169,13 @@ li {
 
 <p>Nevertheless, the factors that allow a society to deal with acute occurrences are quite different from those that allow it to respond to chronic forces. For example, Japanese society dealt remarkably well with the earthquake and tsunami in 2011. However, against longer-term concerns like globalisation and ageing, Japan has proved itself less adaptable as its society continues to struggle to find a consensus to deal with these emerging issues. As governments learn to navigate the age of angst, they will have to expand their communication and engagement strategies, moving beyond conventional speeches and press releases to embrace affective approaches,<a href="#notes"><sup class="#notes">4</sup></a> in order to more effectively shepherd social narratives towards the greater collective good.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Charles Ng</strong> is Assistant Director in the Legal Industry Division, Ministry of Law. Prior to this, he was Assistant Director in the National Security Coordination Secretariat. The views expressed in this article are his own. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
