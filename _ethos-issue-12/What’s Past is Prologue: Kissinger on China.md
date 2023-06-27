@@ -89,15 +89,14 @@ li {
 
 <p>Among the many virtues of reading Kissinger’s <em>On China</em> is a realisation of the vastly different timescales upon which the three countries of Singapore, US and China view their history — 40, 400 and 4,000 years respectively — along with the sobering fact that for most of recorded history, the GDP and advancement of the Middle Kingdom has far outpaced that of Europe. It has been pointed out that China views current Western dominance not as a strategic shift, but as an aberration of the past few centuries that will eventually cease. On this basis, it has been argued that the much-vaunted “Rise of China” may be more accurately termed as the “Return of Sino-Centricity”. Readers of Kissinger’s account might be inclined to agree.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Leong Ming Wei</strong> is Principal Strategist in the Strategic Policy Office, Prime Minister’s Office. His current research interest is China. He holds a Master in Civil Engineering degree from Cambridge and a Master in Public Management degree from the Lee Kuan Yew School of Public Policy. The views expressed in this review are his own. </p>
 
-<br>
+</div>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
