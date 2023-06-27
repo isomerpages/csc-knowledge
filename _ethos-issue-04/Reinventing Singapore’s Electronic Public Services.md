@@ -203,7 +203,7 @@ and Singapore’s citizens and businesses.
 <ol>
 <li class="small-text">The three masterplans are the e-Government Action Plan (2000–2003), the e-Government Action Plan II (2003–2005) and the iGov2010 (2006–2010). For details. refer to <a target="_blank" href="https://www.tech.gov.sg/media/corporate-publications/egov-masterplans">https://www.tech.gov.sg/media/corporate-publications/egov-masterplans</a></li>
 <li class="small-text">For details, refer to the NS Portal at <a target="_blank" href="http://www.ns.sg/">http://www.ns.sg</a></li>
-<li class="small-text">For details, refer to the One.motoring Portal at <a target="_blank" href="https://onemotoring.lta.gov.sg">https://onemotoring.lta.gov.sg</a></li>
+<li class="small-text">For details, refer to the OneMotoring Portal at <a target="_blank" href="https://onemotoring.lta.gov.sg">https://onemotoring.lta.gov.sg</a></li>
 </ol>
 
 <br>
