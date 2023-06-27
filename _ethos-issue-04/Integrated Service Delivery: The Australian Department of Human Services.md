@@ -44,7 +44,7 @@ padding: 30px;
 	}	
 
 	
-.notestop
+.notestop ol li
 {
 	font-size: 15px;
 	line-height:22px !important;
@@ -168,12 +168,16 @@ current accessibility.
 
 </div>
 
-<h6><a name="notes"></a>NOTES</h6>
+<div class="notestop">
+	
+<h6>NOTES</h6>
 
 <ol>
 <li class="small-text">Centrelink (<a href="http://www.centrelink.gov.au/">http://www.centrelink.gov.au</a>) is an Australian Government Statutory Agency, assisting people to become self-sufficient and supporting those in need.</li>
 <li class="small-text">Single entry signon: <a href="http://myaccount.humanservices.gov.au/wps/portal/">http://myaccount.humanservices.gov.au/wps/portal/</a> linked from the Human Services Portfolio Portal at <a href="http://www.humanservices.gov.au/">http://www.humanservices.gov.au/</a></li>
 </ol>
+	
+</div>
 
 <br>
 
