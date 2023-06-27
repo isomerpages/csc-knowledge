@@ -168,7 +168,7 @@ Governments are in an enviable position to offer integrated, personalised and re
 <p><strong>Personalised Recommendations via the Magic Box</strong></p>
 <p>Every Friday at 10am Singapore time, commuters receive a "magic box offer", which is an offer of extra rewards should they achieve behaviour targets the following week. For example, a commuter travelling consistently in the peak hour may receive extra credits for off-peak travel the following week, while a different commuter may earn extra credits for inviting friends; yet another commuter may get extra credits for answering a few survey questions.</p>
 <p>Such personalised offers allow administrators to understand a participant's utility function: i.e., a commuter's willingness to exhibit a particular behaviour, measured in monetary terms.</p>
-<p style="text-align: center;"><img title="insinc2-(1)_opt-compressor" src="../../images/default-source/ethos-images/ethos-issue-12/insinc2-(1)_opt-compressor.jpeg?sfvrsn=c582c7e3_0" data-displaymode="Original" alt="HOW INSINC WORKS"></p>
+<p style="text-align: center;"><img title="insinc2-(1)_opt-compressor" src="/images/Ethos_Images/Ethos_Issue_12/Insinc21_Opt_Compressor.jpeg" data-displaymode="Original" alt="HOW INSINC WORKS"></p>
 &nbsp;
 
 
