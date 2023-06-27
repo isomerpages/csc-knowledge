@@ -171,10 +171,10 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
+		<h3>Rethinking Public Service Delivery for the 21st Century</h3>
+		<b><i>by Janine O’Flynn</i></b>
 		<p></p>
 		<div class="button1"><a href="/ethos-issue-12/rethinking-public-service-delivery-for-the-21st-century/">Read more</a></div>
 	</div>
