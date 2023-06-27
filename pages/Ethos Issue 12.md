@@ -152,7 +152,7 @@ margin-top:15px;
 		<h3>Governance Through Adaptive Urban Platforms: The Insinc Experiment</h3>
 		<b><i>by Chng Kai Fong, Balaji Prabhakar and Jeffrey Siow</i></b>
 		<p>Cloud and mobile technology meet big data and behavioural economics in LTA’s public transport experiment.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-12/governance-through-adaptive-urban-platforms-the-insinc-experiment/">Read more</a></div>
 	</div>
 </div>
 
@@ -164,7 +164,7 @@ margin-top:15px;
 		<h3></h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-12/public-managers-as-innovators-in-search-of-design-attitude/">Read more</a></div>
 	</div>
 </div>
 
@@ -176,7 +176,7 @@ margin-top:15px;
 		<h3></h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-12/rethinking-public-service-delivery-for-the-21st-century/">Read more</a></div>
 	</div>
 </div>
 
@@ -188,7 +188,7 @@ margin-top:15px;
 		<h3></h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-12/commissioning-public-value-the-role-of-civil-servants/">Read more</a></div>
 	</div>
 </div>
 
@@ -200,7 +200,7 @@ margin-top:15px;
 		<h3></h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-12/public-engagement-that-works/">Read more</a></div>
 	</div>
 </div>
 
@@ -212,7 +212,7 @@ margin-top:15px;
 		<h3></h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-12/whats-past-is-prologue-kissinger-on-china/">Read more</a></div>
 	</div>
 </div>
 
@@ -224,7 +224,7 @@ margin-top:15px;
 		<h3></h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-12/the-age-of-angst/">Read more</a></div>
 	</div>
 </div>
 
@@ -236,7 +236,7 @@ margin-top:15px;
 		<h3></h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-12/context-connection-and-continuity-governance-in-the-next-decade/">Read more</a></div>
 	</div>
 </div>
 
