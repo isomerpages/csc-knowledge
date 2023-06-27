@@ -143,7 +143,6 @@ Unemployment insurance helps workers pool their risks to fund key necessary expe
 <li class="small-text">Department of Statistics, <em>Key Household Income Trends</em> (Singapore: Ministry of Trade and Industry, 2006).</li>
 <li class="small-text">The Economist noted that since 2000, real wages for the median US worker rose only about 1.5% even after accounting for health and pension benefits, even though productivity grew by as much as 15%.</li>
 <li class="small-text">Lindert, Peter H., <em>Growing Public: Social Spending and Economic Growth since the Eighteenth Century</em> (UK: Cambridge University Press, 2004).</li>
-<li class="small-text">Barnett, W. Steven and Belfield, Clive R., “Early Childhood Development and Social Mobility,” (National Institute for Early Education Research, NIEER Policy Report, October 2006), <a href="http://nieer.org/docs/?DocID=152">http://nieer.org/docs/?DocID=152</a>.</li>
 </ol>
 
 
