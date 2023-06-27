@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 12, June 2013</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_12/12_Banner_Commissioning%20Public%20Value-%20The%20Role%20of%20Civil%20Servants.jpg">
 
 
 
