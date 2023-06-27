@@ -75,7 +75,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Public_Service4.0.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Teaser_Public_Service4.0.jpg"></div>
 	<div>
 		<h3>Public Service 4.0: What Might It Look Like?</h3>
 		<b><i>by Peter Shergold</i></b>
