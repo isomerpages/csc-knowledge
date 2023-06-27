@@ -88,9 +88,9 @@ Governments are in an enviable position to offer integrated, personalised and re
 
 
 
-<p class="small-text text">Boston’s BUMP<a href="#notes"><sup class="#notes">1</sup></a> platform allows a citizen to post “glitches” that need fixing; e.g., potholes, broken hydrants, faulty lighting, bad taxi service. This helps authorities to target areas that require the most attention. For example, if data analysis finds that 20% of the potholes in Boston are found to make up 80% of the complaints, the public works department can prioritise the potholes that attract the most complaints for repair. </p>
+<br>
 
-<p class="small-text text">Similarly, New York’s Office of Policy and Strategic Planning has used public data on carting service licenses to track down illegal dumpers of grease.<a href="#notes"><sup class="#notes">2</sup></a></p>
+
 
 
 
@@ -152,13 +152,10 @@ Governments are in an enviable position to offer integrated, personalised and re
 
 
 
-<p class="small-text text">INSINC is best described as a frequent commuter programme, similar to an airline miles programme. Its main goal is to shift commuters from peak to off-peak trains.
-</p>
+<br>
 
 
-
-
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">How INSINC Works
@@ -181,17 +178,17 @@ Governments are in an enviable position to offer integrated, personalised and re
 
 
 
+<br>
 
 
 
 
 
-<p class="small-text text">The Stanford Center for Societal Networks<sup>1</sup> has been running a series of projects to study the effect of incentives as a way to nudge people to change their behaviour. Their research has uncovered several insights:</p>
 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Applying Incentives in a Principled Way</h3>
