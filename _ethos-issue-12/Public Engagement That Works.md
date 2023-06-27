@@ -111,13 +111,13 @@ li {
 
 <p>These are just some of the basic considerations when judging the rationale for public engagement.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Discerning when it is appropriate to engage with the public is an important skill for the public sector to master.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Like any tool we would employ in policymaking, programme design and for deciding public issues, public engagement has both great potential and great limitations. It is not a panacea or the solution to everything wrong with government or public decision-making. However, it can uncover hidden knowledge and motivations around an issue. It can generate new and creative approaches to problems; it can repair relationships between the public and the public sector if done well and thoughtfully; it can build trust; it can lead to productive collaboration. But there are also many risk factors that need to be carefully weighed in every situation or decision before public engagement is undertaken. This is as much about skill and knowledge of good public engagement practice as it is about experience and applying sound judgment.</p>
 
@@ -135,9 +135,9 @@ Discerning when it is appropriate to engage with the public is an important skil
 
 
 
+<br>
 
-
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Public Engagement: How To Promote Inclusive, Balanced And Constructive Conversations</h3>
@@ -181,9 +181,11 @@ Discerning when it is appropriate to engage with the public is an important skil
 
 
 
+<br>
+<br>
+<br>
 
-
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Towards More Effective Public Engagement: Strategies For Success</h3>
@@ -213,6 +215,9 @@ Discerning when it is appropriate to engage with the public is an important skil
 
 
 
+<br>
+<br>
+<br>
 
 
 
@@ -220,8 +225,7 @@ Discerning when it is appropriate to engage with the public is an important skil
 
 
 
-
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Leadership is an incredibly important component of public engagement.</h3>
@@ -266,25 +270,25 @@ Discerning when it is appropriate to engage with the public is an important skil
 
 <p>As in many fields, the measuring process is much easier to conduct than the measuring of outcomes. As a practitioner, I am very interested in knowing from participants what they learned through their involvement in an engagement exercise. I also try to understand how they perceive an issue or a topic at the start of an engagement process, and then how they perceive that issue at the end of the process. Furthermore, identifying how public engagement may have affected decisions or key outcomes during engagement is an important factor.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Public engagement supplements but is not a replacement for democratic process.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>From a public perspective, a successful project is one in which the public can see that they have had a visible or demonstrable impact. Being able to ask participants at the start of a project about how they believe their input will influence decisions, and then asking them at the end of the project if they think they did influence the decision is an approach that will help gauge the overall success of public engagement efforts. I want to emphasise however that it is still very important to evaluate the public engagement work itself and to recognise the significant measurement challenges involved in doing so.</p>
 
 <p>Standards of practice are beginning to appear in various places around the world, and these can offer guidance and insight into some of the appropriate process and outcome measures common in the field. The IAP2 will soon have practice standards based on their approach. However, there are many organisations and jurisdictions that have created practice standards, for example, Scotland, the AA1000 Standards Board in the UK<a href="#notes"><sup class="#notes">2</sup></a> and Australia,<a href="#notes"><sup class="#notes">3</sup></a> to name just a few. The Brisbane Declaration on Community Engagement<a href="#notes"><sup class="#notes">4</sup></a> also outlines a set of general principles that can be readily adapted into a standards or evaluation framework.<a href="#notes"><sup class="#notes">5</sup></a></p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Geoff Wilson</strong> was President of the International Association for Public Participation International (IAP2) from February 2010 to November 2012. He is Director of Patient and Public Engagement in Capital Health, Nova Scotia’s largest provider of health services in Halifax, Canada. Wilson last spoke in Singapore at the 2012 MICA-CSC Public Communications Conference on “Public Engagement and Organisational Culture”. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -300,7 +304,6 @@ Public engagement supplements but is not a replacement for democratic process.
 <li class="small-text">http://www.iap2.org.au/sitebuilder/resources/knowledge/asset/files/40/undecevaluation frameworkforcommunityengagement.pdf</li>
 </ol>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
