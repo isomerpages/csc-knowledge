@@ -248,7 +248,7 @@ Only 4.5% of water in Singapore is unaccounted for — this is a level that no o
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">"The Tebrau and Soudai Rivers Agreement between the Government of the State of Johore and the City Council of the State of Singapore signed on 1 September 1962", <a href="http://www.channelnewsasia.com/cna/parliament/relations/documents.htm">http://www.channelnewsasia.com/cna/parliament/relations/documents.htm</a></li>
+
 <li class="small-text">"The Johore River Water Agreement between the Johore State Government and City Council of Singapore signed on 29 September 1962", <a href="http://www.channelnewsasia.com/cna/parliament/relations/documents.htm">http://www.channelnewsasia.com/cna/parliament/relations/documents.htm</a></li>
 <li class="small-text">Malaysia, Act of Parliament No. 53 of 1965, Constitution of Malaysia (Singapore Amendment) Act, 1965: An Act to amend the Constitution of Malaysia and the Malaysia Act, August 9, 1965.</li>
 <li class="small-text">Lee, M. F. and Nazarudeen, H. "Collection of urban storm water for potable water supply in Singapore." Water Quality International, May/June (1996): 36-40.</li>
