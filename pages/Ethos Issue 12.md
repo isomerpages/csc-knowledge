@@ -147,11 +147,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_12/12_Teaser_Governance%20Through%20Adaptive%20Urban%20Platforms-%20The%20Insinc%20Experiment.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Governance Through Adaptive Urban Platforms: The Insinc Experiment</h3>
+		<b><i>by Chng Kai Fong, Balaji Prabhakar and Jeffrey Siow</i></b>
+		<p>Cloud and mobile technology meet big data and behavioural economics in LTA’s public transport experiment.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
