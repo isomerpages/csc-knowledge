@@ -249,8 +249,6 @@ Only 4.5% of water in Singapore is unaccounted for — this is a level that no o
 
 <ol>
 
-<li class="small-text">"The Johore River Water Agreement between the Johore State Government and City Council of Singapore signed on 29 September 1962", <a href="http://www.channelnewsasia.com/cna/parliament/relations/documents.htm">http://www.channelnewsasia.com/cna/parliament/relations/documents.htm</a></li>
-<li class="small-text">Malaysia, Act of Parliament No. 53 of 1965, Constitution of Malaysia (Singapore Amendment) Act, 1965: An Act to amend the Constitution of Malaysia and the Malaysia Act, August 9, 1965.</li>
 <li class="small-text">Lee, M. F. and Nazarudeen, H. "Collection of urban storm water for potable water supply in Singapore." Water Quality International, May/June (1996): 36-40.</li>
 <li class="small-text">Appan, A. "A total approach to water quality management in partly-protected catchments." (paper presented at The Singapore Experience, International Workshop on Management and Conservation of Urban Lakes, Hyderabad, India, June 16-18, 2003).</li>
 <li class="small-text">Lee, Poh Onn, "Water management issues in Singapore." (paper presented at Water in Mainland Southeast Asia, Siem Reap, Cambodia, November 29 – December 2, 2005).</li>
@@ -258,9 +256,9 @@ Only 4.5% of water in Singapore is unaccounted for — this is a level that no o
 <li class="small-text">Public Utilities Board, Annual Report 2002, (Singapore: PUB, 2002).</li>
 <li class="small-text">Ministry of the Environment and Water Resources, Key Environmental Statistics 2005, (Singapore: MEWR, 2006).</li>
 <li class="small-text">Public Utilities Board, Annual Report 2003, (Singapore: PUB, 2003).</li>
-<li class="small-text">Editor's Note: With the opening of the latest plant in March 2007, the four NEWater plants can meet more than 15% of Singapore's water demand today, well ahead of the original target date of 2010. PUB will also bring forward the construction of the fifth NEWater Factory at Changi which will produce 50 million gallons per day. Hence by 2011, the NEWater plants will have the combined capacity to meet 30% of Singapore's water needs, double the original target. The ramp-up of NEWater capacity has yielded significant operational efficiencies and economies of scale. From 1 April 2007, PUB will reduce the price of NEWater from S$1.15 to S$1.00/m<sup>3</sup>. This will benefit all NEWater customers, and will translate into lower costs for businesses. [<a href="http://www.channelnewsasia.com/stories/singaporelocalnews/view/264240/1/.html">http://www.channelnewsasia.com/stories/singaporelocalnews/view/264240/1/.html</a>]</li>
+
 <li class="small-text">Khoo, Teng Chye, "Water Resources Management in Singapore." (paper presented at the Second Asian Water Forum, Bali, Indonesia, August 29 – September 3, 2005).</li>
-<li class="small-text">Asian Development Bank, "Country Water Action: Singapore. Technology Turns Water Weakness to Strength, November 2005," <a href="http://www.adb.org/water/actions/SIN/Technology.asp">http://www.adb.org/water/actions/SIN/Technology.asp</a> (accessed March 15, 2007).</li>
+
 </ol>
 
 <br>
