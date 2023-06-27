@@ -127,7 +127,7 @@ The inherent structural weakness of Workfare is that the income support stops du
 <ol>
 <li class="small-text">This was highlighted in an important Department of Statistics General Household Survey 2005. The report showed that the lower income households saw their incomes falling from 2000–2005, while the top income segments saw a more than 2% annual rise. Income inequality appears to be widening.</li>
 <li class="small-text">The Housing and Development Board (HDB) is Singapore’s public housing authority. HDB’s role, as stated on its website, is to provide affordable and quality homes and to support larger national objectives such as social cohesion and strong family ties. As at 2006, 80% of the resident population own the flat they lived in.</li>
-<li class="small-text">See <a href="www.hdb.gov.sg">www.hdb.gov.sg</a> for more details on the complexity of the HDB housing grant scheme.</li>
+<li class="small-text">See <a target="_blank" href="www.hdb.gov.sg">www.hdb.gov.sg</a> for more details on the complexity of the HDB housing grant scheme.</li>
 </ol>
 
 <br>
