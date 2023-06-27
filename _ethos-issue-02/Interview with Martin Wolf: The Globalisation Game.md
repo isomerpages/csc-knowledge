@@ -175,28 +175,7 @@ color: white;
 <li class="small-text">Zoellick, Robert, "Whither China: From Membership to Responsibility?" (Remarks to the National Committee on United States-China Relations, September 21, 2005, New York City), http://www.ncuscr.org/articlesandspeeches/Zoellick.htm (accessed 29 March 2007).</li>
 </ol>
 
-<br>
 
-<p><a href="../ethos.html">Back to Ethos homepage</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
 <br>
 <br>
 
