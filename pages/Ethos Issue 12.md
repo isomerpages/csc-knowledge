@@ -135,7 +135,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_12/12_Teaser_Randomised%20Controlled%20Trials%20in%20Policymaking.jpg"></div>
 	<div>
 		<h3>Randomised Controlled Trials in Policymaking</h3>
 		<b><i>by Do Hoang Van Khanh and Sharon Tham</i></b>
