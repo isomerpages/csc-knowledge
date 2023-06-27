@@ -183,11 +183,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_12/12_Teaser_Commissioning%20Public%20Value-%20The%20Role%20of%20Civil%20Servants.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Commissioning Public Value: The Role of Civil Servants</h3>
+		<b><i>by Peter Shergold</i></b>
+		<p>Civil servants should see themselves as the architects of new, flexible, cross-sectoral arrangements for creating greater public value.</p>
 		<div class="button1"><a href="/ethos-issue-12/commissioning-public-value-the-role-of-civil-servants/">Read more</a></div>
 	</div>
 </div>
@@ -195,11 +195,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Public Engagement That Works</h3>
+		<b><i>Interview with Geoff Wilson</i></b>
+		<p>A veteran strategist shares advice on how to make the most of public engagement as an instrument for governance and decision-making.</p>
 		<div class="button1"><a href="/ethos-issue-12/public-engagement-that-works/">Read more</a></div>
 	</div>
 </div>
