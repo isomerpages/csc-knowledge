@@ -170,7 +170,7 @@ with each other.
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">Launched in April 2006, the Commission on Growth and Development (<a href="http://www.growthcommission.org/">www.growthcommission.org</a>) brings together 21 leading practitioners from the government, business, and policymaking arenas, including Singapore’s Senior Minister Goh Chok Tong. The Commission is chaired by Nobel Laureate Professor Emeritus Michael Spence.</li>
+<li class="small-text">Launched in April 2006, the Commission on Growth and Development (<a target="_blank" href="http://www.growthcommission.org/">www.growthcommission.org</a>) brings together 21 leading practitioners from the government, business, and policymaking arenas, including Singapore’s Senior Minister Goh Chok Tong. The Commission is chaired by Nobel Laureate Professor Emeritus Michael Spence.</li>
 </ol>
 
 <br>
