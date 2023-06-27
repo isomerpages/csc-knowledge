@@ -113,13 +113,13 @@ It should not be assumed that civil services are necessarily the best institutio
 
 <p>Around the world, funding pressures are acute. That is not just a consequence of economic volatility. Most governments are now finding that the expectations of citizens are rising faster than their capacity to deliver. It is becoming ever harder for governments to balance expenditure with revenue. Consequently, there is growing interest in the potential to harness social finance (from the philanthropic or private sectors) to help fund public initiatives. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 While civil servants tend to be highly proficient at articulating the benefits of a policy intervention, they are often less willing or able to identify the regulatory costs imposed on those who are subject to it.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>In Australia, for instance, the New South Wales government is introducing “social benefit bonds” to scale-up not-for-profit innovation by allowing social service organisations to attract private sector funds.<a href="#notes"><sup class="#notes">3</sup></a> Such new financial instruments enable mission-driven social enterprises to pay a return to investors on the basis of sharing any reduction in public costs with government. It is an approach which is particularly valuable in trialling preventative interventions which can reduce the need for crisis management later — such as lowering the likelihood of released prisoners re-offending or reducing the need for out-of-home care for vulnerable children by helping parents cope more effectively.</p>
 
@@ -133,13 +133,13 @@ While civil servants tend to be highly proficient at articulating the benefits o
 
 <p>Some tasks should continue to be undertaken by a professional public administration. Many can be performed by outside suppliers. Nevertheless, the ability to provide confidential advice to successive governments — and the obligation to be answerable and accountable for the expenditure of public funds — means that civil servants are likely to remain at the centre of political decision-making. The question is how effectively they can perform their role. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 There is a need not to reduce the power of public services but to redirect it.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Civil service leadership skills need to be redirected to the important task of facilitation. This requires the ability to exercise strategic judgement on which modes of creating public value work best. It calls for the capacity to assess objectively what expertise, from which sectors, and in what forms, should be steered towards the achievement of government objectives.</p>
 
@@ -147,25 +147,25 @@ There is a need not to reduce the power of public services but to redirect it.
 
 <p>At the same time, civil servants need to bring to discussions of policy formulation and implementation their inside understanding of the governance structures which distinguish decision-making in the public arena. They must bring to any cross-sectoral arrangement their intimate knowledge of governance processes.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Collaboration demands a much more sophisticated skill set than consultation or coordination.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Civil servants need also to be able to manage risk prudently rather than avoid it. They need to take responsibility for the introduction and careful evaluation of pilots, trials and demonstration projects. Performance metrics have to be designed which can audit and measure the returns on public investments. Failure needs to be contemplated and, when it happens, learned from as quickly as possible. It is central to the pursuit of public innovation.</p>
 
 <p>There is a need not to reduce the power of public services but to redirect it. Civil servants should take pride in their position at the centre of the “co-production” and “co-management” of public policy. As the commissioners of government policy implementation, they are, in a real sense, the architects of a flexible and innovative design and delivery system. It is a crucial role to which to aspire.<a href="#notes"><sup class="#notes">4</sup></a></p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Peter Shergold</strong>, Chancellor of the University of Western Sydney, is a Senior Visiting Fellow at the Civil Service College, Singapore. From 2002 to 2008, he was the Secretary of the Department of the Prime Minister and Cabinet in the Australian Public Service. He is now Chair of the Commonwealth Government’s Aged Care Reform Implementation Council, the New South Wales Public Service Commission Advisory Board and Social Investment Expert Advisory Group, and the Western Australian Premier’s Partnership Forum. He serves on the Queensland Public Sector Renewal Board and is leading a Victorian Government project on reform of the community services system.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -179,9 +179,7 @@ Collaboration demands a much more sophisticated skill set than consultation or c
 <li class="small-text">A broader assessment of my views on the future for civil services can be found within Shergold, Peter, “Reform of the Australian Public Service” in State of the Nation: Aspects of Australian Public Policy, Don Markwell, et al., eds (Victoria: Connor Court, 2013).</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
