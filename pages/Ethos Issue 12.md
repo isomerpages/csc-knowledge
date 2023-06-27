@@ -99,12 +99,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_12/12_Teaser_A%20New%20Paradigm%20for%20the%20Delivery%20of%20Public%20Services.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>A New Paradigm for the Delivery of Public Services</h3>
+		<b><i>by Pang Kin Keong</i></b>
+		<p>Public agencies looking to step up service delivery should invest in people-centred reforms and smarter data tools.</p>
+		<div class="button1"><a href="/ethos-issue-12/a-new-paradigm-for-the-delivery-of-public-services/">Read more</a></div>
 	</div>
 </div>
 
