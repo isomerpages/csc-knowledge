@@ -80,7 +80,7 @@ margin-top:15px;
 		<h3>To Listen, Labour and Lead: Building a Better Singapore Together</h3>
 		<b><i>by Lee Hsien Loong</i></b>
 		<p>Addressing public sector leaders, Singapore’s Prime Minister calls for greater diversity in the Civil Service, and a change in the Government’s approach to policymaking.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-12/to-listen-labour-and-lead-building-a-better-singapore-together/">Read more</a></div>
 	</div>
 </div>
 
