@@ -217,13 +217,13 @@ Governments are in an enviable position to offer integrated, personalised and re
 
 
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Incentives are attractive because they are seen as a win-win situation.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>INSINC: Results and Benefits of Urban Platforms</h3>
 
@@ -243,13 +243,13 @@ Incentives are attractive because they are seen as a win-win situation.
 <p><strong>• </strong><strong>Energy Conservation:</strong> Every home-dweller receives a utilities bill every month. Using incentives, a home-dweller could be nudged to conserve energy. His behaviour can then be used as social proof for other home-dwellers, thus creating an opportunity to cultivate good habits and reinforce energy conservation norms.</p>
 </blockquote>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Personalised offers allow administrators to understand a participant's utility function: i.e., a commuter's willingness to exhibit a particular behaviour, measured in monetary terms.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Conclusion: Lessons on Designing Adaptive Platforms</h3>
 
@@ -266,7 +266,7 @@ Personalised offers allow administrators to understand a participant's utility f
 
 <p>Such adaptive platforms have great untapped potential to provide a significant leap in performance in public sector service delivery and cost efficiency, at a resolution commensurate with the individual’s needs and expectations. In doing so, the adaptive nature of such platforms can help the government understand and strengthen its evolving relationship with citizens to a much greater and nuanced degree.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -276,7 +276,7 @@ Personalised offers allow administrators to understand a participant's utility f
 
 <p class="small-text"><strong>Jeffrey Siow</strong> is Director, Land Division, at the Ministry of Transport. He has degrees in business administration, urban and regional planning, economics and government. The views expressed in this article are his own.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -286,9 +286,7 @@ Personalised offers allow administrators to understand a participant's utility f
 <li class="small-text">http://policyexchange.org.uk/images/publications/the%20big%20data%20opportunity.pdf</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
