@@ -207,11 +207,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>What’s Past is Prologue: Kissinger on China</h3>
+		<b><i>Reviewed by Leong Ming Wei</i></b>
+		<p><b>Book Details:</b> On China By Henry A. Kissinger Penguin Books Ltd (paperback published in April 2012); 624 pp.</p>
 		<div class="button1"><a href="/ethos-issue-12/whats-past-is-prologue-kissinger-on-china/">Read more</a></div>
 	</div>
 </div>
@@ -219,11 +219,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>The Age of Angst</h3>
+		<b><i>by Charles Ng</i></b>
+		<p>How should governments contend with the rise of social discontent in the wake of rapid globalisation?</p>
 		<div class="button1"><a href="/ethos-issue-12/the-age-of-angst/">Read more</a></div>
 	</div>
 </div>
