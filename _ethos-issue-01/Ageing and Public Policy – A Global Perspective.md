@@ -141,14 +141,11 @@ li {
 <li id="num1">Egendorf, K. Laura, Aging Population (San Diego, CA: Greenhaven Press, 2002), pp 202.</li>
 	
 	
-<li id="num2">Burtless, Gary, “Does Population Aging Represent a Crisis for Rich Societies?,” American Economic Association (2002),<a target="_blank" href="http://www.brook.edu/views/papers/burtless/200220106.htm"> http://www.brook.edu/views/papers/burtless/200220106.htm</a> (accessed August 15 2006)</li>
 	
 <li id="num3">“S’pore firms ignoring elderly market: poll,” The Business Times, February 13, 2006, Singapore section.</li>
 	
 <li id="num4">Committee of Ageing Issues 2005, Report on the Ageing Population (Singapore: Ministry of Community, Youth and Sports, 2006).</li>
-	
-<li id="num5">Department of Economic and Social Affairs, Population Division, United Nations, “Population Ageing 2006,”<a target="_blank" href="http://www.un.org/esa/population/publications/ageing/ageing2006.htm"> http://www.un.org/esa/population/publications/ageing/ageing2006.htm</a> (accessed August 15, 2006).</li>	
-	
+		
 <li id="num6">Cabinet Office, Government of Japan, “Annual Report on the Japanese Economy and Public Finance 2005,” <a target="_blank" href="http://www5.cao.go.jp/zenbun/wp-e/wp-je05/05-00000.html">http://www5.cao.go.jp/zenbun/wp-e/wp-je05/05-00000.html</a>  (accessed August 15, 2006).</li>
 	
 <li id="num7">National Institute of Population and Social Security Research, “Population Projections for Japan: 2001-2050,” (January, 2002),<a target="_blank" href="http://www.ipss.go.jp/pp-newest/e/ppfj02/top.html">http://www.ipss.go.jp/pp-newest/e/ppfj02/top.html</a> (accessed August 15, 2006).</li>	
@@ -166,16 +163,11 @@ li {
 	
 <li id="num13">Chen, Gabriel, “1 in 10 S’poreans actively saved for retirement; Few saving though survey shows 61% fear that they may not have enough,” Straits Times, February 16, 2006.</li>	
 	
-<li id="num14">Calculated as a percentage of the average wage of $3444. Singapore Department of Statistics, “Monthly Digest of Statistics,” <a target="_blank" href="http://www.singstat.gov.sg/keystats/mqstats/mqstats.html">http://www.singstat.gov.sg/keystats/mqstats/mqstats.html</a> (accessed August 15, 2006)
-</li>
 
 <li id="num15">Queisser, Monika and Whitehouse, Edward, “Comparing the pension promises of 30 OECD countries,” International Social Security Review 56 (2006): 49-77.</li>
 	
 <li id="num16">Lim, Lydia, “How to bank on a pretty pension,” Straits Times, October 8, 2005.</li>	
-	
-<li id="num17">Department of Health and Ageing, “National Strategy for an Ageing Australia” (2001), <a target="_blank" href="http://www.health.gov.au/internet/wcms/Publishing.nsf/Content/ageing-ofoa-agepolicy-nsaa-nsaabk.htm">http://www.health.gov.au/internet/wcms/Publishing.nsf/Content/ageing-ofoa-agepolicy-nsaa-nsaabk.htm</a> (accessed August 15, 2006).
-</li>		
-	
+		
 <li id="num18">Human Resource and Social Development Canada.. “About Human Resource and Social Development Canada” (2006),<a target="_blank" href="http://www.hrsdc.gc.ca/en/cs/comm/about_us.shtml"> http://www.hrsdc.gc.ca/en/cs/comm/about_us.shtml</a> (accessed August 15, 2006).</li>			
 
 	
