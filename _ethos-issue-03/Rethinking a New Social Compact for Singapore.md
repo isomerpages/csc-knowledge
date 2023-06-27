@@ -162,7 +162,7 @@ A stronger, direct social safety net may enable policy to take advantage of glob
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">Based on average monthly income from work per household member among non-retiree households by decile. Singapore Department of Statistics, <em>Key Household Income Trends, 2006</em> (Singapore: Ministry of Trade &amp; Industry, 2007). <a href="http://www.singstat.gov.sg/pubn/papers/people/op-s12.pdf">http://www.singstat.gov.sg/pubn/papers/people/op-s12.pdf</a></li>
+
 <li class="small-text">For the Department of Statistics’ estimate of S$1,040 minimum household expenditure required for a four-person family, see description of methodology in Yap, Mui Teng, "Poverty Monitoring and Alleviation in Singapore," in <em>Poverty Monitoring and Alleviation in East Asia, K L</em> Tang and C K Wong, eds (New York: Nova Science, 2003): 77-78.</li>
 </ol>
 
