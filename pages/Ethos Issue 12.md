@@ -137,10 +137,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Randomised Controlled Trials in Policymaking</h3>
+		<b><i>by Do Hoang Van Khanh and Sharon Tham</i></b>
+		<p>Controlled trials can bring rigour to the process of determining what works — and what does not — in public policy</p>
+		<div class="button1"><a href="/ethos-issue-12/randomised-controlled-trials-in-policymaking/">Read more</a></div>
 	</div>
 </div>
 
