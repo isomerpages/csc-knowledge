@@ -26,10 +26,18 @@ padding-bottom:30px;
 border-top: 1px solid black;	
 
 }	
+	
+li {
+	font-size: 15px !important;
+	
+	}	
+
 </style>
 <em><small>ETHOS Issue 24, August 2022</small></em>
 
-<img src="/images/Ethos_Images/Ethos_Issue_24/foreword.jpg">
+<img src="/images/Landing_Banner_Images/banner_preface_foreword.jpg">
+
+
 <p>Climate change poses major risks and potential disruptions, but it also offers opportunities to coalesce efforts towards a more sustainable future. The New Climate Economy
 estimated in 2018 that bold action against climate change could yield a direct economic gain
 of US$26 trillion through to 2030, as compared with business-as-usual—and these were
@@ -61,4 +69,14 @@ our cities for critical uncertainties in our climate future.</p>
 
 
 <b>Hugh Lim</b><br>
-Executive Director
+Executive Director<br>
+Centre for Liveable Cities, Ministry of National Development Singapore.
+
+<hr>
+<p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="note"></a>NOTE</p>
+<ol>
+    <li class="small-text">New Climate Economy, <em>Unlocking the Inclusive Growth Story of the 21st Century:
+    Accelerating Climate Action in Urgent Times</em> (Washington DC: New Climate Economy, 2018).
+    See <a target="_blank" href="https://newclimateeconomy.report/2018/">https://newclimateeconomy.report/2018/</a>.</li>
+</ol>
+<p></p>

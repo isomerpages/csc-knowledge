@@ -1,0 +1,19 @@
+collections:
+  ethos-issue-16:
+    output: true
+    order:
+      - Editorial.md
+      - The Power of Games to Drive Policy Outcomes.md
+      - Singapore’s Whole of Government Approach in Crisis Management.md
+      - "Evolving the Centre of Government: Three Key Insights.md"
+      - Lessons from New Zealand’s Better Public Services Reforms.md
+      - Public Trust in Government Institutions.md
+      - Public Institutions and the Productivity Imperative.md
+      - Engaging with Stakeholders for Better Public Transport Outcomes.md
+      - Using Data to Create Better Government.md
+      - "From Scarcity to Generativity: New Approaches for Governing
+        Resources.md"
+      - "SG50: What The Public Service Learnt.md"
+      - Surveying Singapore’s Future.md
+      - Putting the Public Back in Public Service.md
+      - Committed Leadership in a Changing World.md
