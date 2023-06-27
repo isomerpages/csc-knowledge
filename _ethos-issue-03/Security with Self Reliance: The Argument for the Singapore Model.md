@@ -153,8 +153,8 @@ Training grants funded by the Singapore Workforce Development Agency and case ma
 
 <ol>
 <li class="small-text">The Public Assistance Scheme is a needs-tested financial assistance schemes for those who are unable to work owing to old age, illness or disability, and who have no means of subsistence and no one to depend on.</li>
-<li class="small-text">The figure is based on two sources from the Department of Statistics, Ministry of Trade and Industry, Singapore: <em>Yearbook of Statistics 2007: Public Finance</em> (<a href="http://www.singstat.gov.sg/pubn/reference/yos/statsT-publicfinance.pdf">http://www.singstat.gov.sg/pubn/reference/yos/statsT-publicfinance.pdf</a>) and the GDP at Current Market Prices (<a href="http://www.singstat.gov.sg/stats/themes/economy/hist/gdp2.html">http://www.singstat.gov.sg/stats/themes/economy/hist/gdp2.html</a>).</li>
-<li class="small-text">2006, StatBank Denmark, <a href="http://www.statbank.dk/">http://www.statbank.dk/</a></li>
+
+<li class="small-text">2006, StatBank Denmark, <a target="_blank" href="http://www.statbank.dk/">http://www.statbank.dk/</a></li>
 <li class="small-text">Manpower Research and Statistics Department. <em>Singapore Yearbook of Manpower Statistics, 2007</em> (Singapore: Ministry of Manpower, 2007).</li>
 </ol>
 
