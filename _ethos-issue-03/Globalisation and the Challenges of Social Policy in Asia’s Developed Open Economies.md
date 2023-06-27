@@ -132,11 +132,6 @@ Asset-based policies provide dormant but somewhat ready-to-use resources, and ca
 
 </div>
 
-<h6><a name="notes"></a>NOTES</h6>
-
-<ol>
-<li class="small-text">Census and Statistics Department, 2006 Population By-census, Thematic Report: Household Income Distribution in Hong Kong (Hong Kong: The Government of the Hong Kong Special Administrative Region, 2007). Available at: <a href="http://www.bycensus2006.gov.hk/FileManager/EN/Content_962/06bc_hhinc.pdf">http://www.bycensus2006.gov.hk/FileManager/EN/Content_962/06bc_hhinc.pdf</a></li>
-</ol>
 
 <br>
 
