@@ -77,13 +77,13 @@ li {
 
 <p>Like Google’s consumers, citizens also interact with government services regularly, in a variety of ways and in great numbers. Governments are in an enviable position given the breadth of services they offer and the depth of detailed personal data they can collect about their customers: births, deaths and travel movements, income, medical records, educational qualifications, the usage of water and electricity from individuals to households and commercial entities. Unlike Google, however, governments usually offer each service on separate platforms, i.e., they are not integrated. There may be sound regulatory or other reasons for this separation, but it can prevent governments from leveraging data the way Google does in order to serve the public better.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Governments are in an enviable position to offer integrated, personalised and real-time services based on te breadth and depth of citizen data they can obtain.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 
 
@@ -95,7 +95,7 @@ Governments are in an enviable position to offer integrated, personalised and re
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Integrated Service Platforms in Boston and New York</h3>
