@@ -509,7 +509,7 @@ Delivery</a></td>
 </tr>
 	
 <tr>
-	<td><a href="/ethos-issue-03/">Issue 3, Oct 2007, <br>Rethinking Social Mobility <br>and
+	<td><a target="_blank" href="/ethos-issue-03/">Issue 3, Oct 2007, <br>Rethinking Social Mobility <br>and
 Social Security</a></td>
 	<td><a target="_blank" href="/ethos-issue-02/">Issue 2, Apr 2007, <br>Urban Planning and
 Management</a></td>
