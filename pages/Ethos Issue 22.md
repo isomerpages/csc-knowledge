@@ -75,7 +75,7 @@ margin-top:15px;
 
  <br>	
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Issue_22/ethosissue22-covid19inperspectivebanner.PNG">
+        <div><img src="images/Ethos_Images/Ethos_Issue_22/ethosissue22-covid19inperspectiveteaser.jpg">
 	</div>
         <div><h3>Singapore and COVID-19: In-Perspective</h3>
         
