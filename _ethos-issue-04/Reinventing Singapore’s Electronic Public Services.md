@@ -73,8 +73,7 @@ color: white;
 
 
 <em><small>ETHOS Issue 04, Apr 2008</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_04/ReinventingSingapore.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_04/4_Banner_Reinventing%20Singapore’s%20Electronic%20Public%20Services.jpg">
 
 <p>In 1997, Singapore took bold steps to make public services available through electronic means. Electronic public services were seen as a strategic initiative to enhance Singapore’s readiness to plug into an increasingly complex and networked global economy, and as a means to achieve dramatic improvements in service delivery standards, by harnessing the efficiencies and synergies of emerging information and communications technology. By the end of 2001, more than 1,600 public services were offered online and made accessible through the Internet 24/7, from anywhere in the world. Guided by three e-Government Master Plans,<a href="#notes"><sup>1</sup></a> Singapore has built up significant understanding and capabilities within the Public Service to leverage electronic service delivery channels to its advantage.</p>
 
