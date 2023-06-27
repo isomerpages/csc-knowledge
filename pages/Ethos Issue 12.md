@@ -111,24 +111,24 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>CPFB’s iCARE Advantage</h3>
+		<b><i>Interview with LIM BOON CHYE and stephanie ng</i></b>
+		<p>Two senior managers from the Central Provident Fund Board discuss the strategic benefits of the agency’s iCARE customer information system.</p>
+		<div class="button1"><a href="/ethos-issue-12/cpfbs-icare-advantage/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_12/12_Teaser_MOM’s%20Smarter%20Service%20Initiatives%20.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>MOM’s Smarter Service Initiatives</h3>
+		<b><i>by Roslyn Ten</i></b>
+		<p>Customer demand and limited resources drive front-line and backend process redesign at the Ministry of Manpower.</p>
+		<div class="button1"><a href="/ethos-issue-12/moms-smarter-service-initiatives/">Read more</a></div>
 	</div>
 </div>
 
