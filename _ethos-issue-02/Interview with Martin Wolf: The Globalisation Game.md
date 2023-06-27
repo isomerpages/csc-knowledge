@@ -167,9 +167,12 @@ color: white;
 
 <p class="small-text"><strong>Mr Martin Wolf</strong> is Associate Editor and Chief Economics Commentator at The Financial Times, London. He was awarded the Commander of the British Empire (CBE) in 2000 for services to financial journalism. He is a visiting fellow of Nuffield College, Oxford University, and a Special Professor at the University of Nottingham. He has been a Forum Fellow at the annual meeting of the World Economic Forum in Davos, since 1999. Mr Wolf was joint winner of the Wincott Foundation senior prize for excellence in financial journalism for 1989 and again for 1997 and won the RTZ David Watt memorial prize for 1994, a prize granted annually "to a writer judged to have made an outstanding contribution in the English language towards the clarification of national, international and political issues and the promotion of their greater understanding".</p></div>
 
-<hr>
 
+<h6><a name="notes"></a>NOTES</h6>
 
+<ol>
+<li class="small-text">Zoellick, Robert, "Whither China: From Membership to Responsibility?" (Remarks to the National Committee on United States-China Relations, September 21, 2005, New York City), <a target="_blank" href="http://www.ncuscr.org/articlesandspeeches/Zoellick.htm">http://www.ncuscr.org/articlesandspeeches/Zoellick.htm</a> (accessed 29 March 2007).</li>
+</ol>
 
 <br>
 <br>
