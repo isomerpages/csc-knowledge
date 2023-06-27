@@ -159,11 +159,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_12/12_Teaser_Public%20Managers%20as%20Innovators-%20In%20Search%20of%20Design%20Attitude.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Public Managers as Innovators: In Search of Design Attitude</h3>
+		<b><i>by Christian Bason</i></b>
+		<p>Can public managers see themselves as active designers of innovation and change processes, involving both citizens and the government?</p>
 		<div class="button1"><a href="/ethos-issue-12/public-managers-as-innovators-in-search-of-design-attitude/">Read more</a></div>
 	</div>
 </div>
