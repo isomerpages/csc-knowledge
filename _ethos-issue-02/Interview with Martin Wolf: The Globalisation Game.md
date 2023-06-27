@@ -172,7 +172,7 @@ color: white;
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">Zoellick, Robert, "Whither China: From Membership to Responsibility?" (Remarks to the National Committee on United States-China Relations, September 21, 2005, New York City), http://www.ncuscr.org/articlesandspeeches/Zoellick.htm (accessed 29 March 2007).</li>
+<li class="small-text">Zoellick, Robert, "Whither China: From Membership to Responsibility?" (Remarks to the National Committee on United States-China Relations, September 21, 2005, New York City), <a href="http://www.ncuscr.org/articlesandspeeches/Zoellick.htm">http://www.ncuscr.org/articlesandspeeches/Zoellick.htm</a> (accessed 29 March 2007).</li>
 </ol>
 
 
