@@ -267,10 +267,10 @@ How successful we are at leveraging networks will depend on how well we can enco
 
 <ol>
 <li class="small-text">Don Tapscott and Anthony D. Williams, Wikinomics: <em>How Mass Collaboration Changes Everything</em>, 2006</li>
-<li class="small-text">Wikipedia: Size of Wikipedia, <a href="http://en.wikipedia.org/wiki/ Wikipedia:Size_of_Wikipedia">http://en.wikipedia.org/wiki/ Wikipedia:Size_of_Wikipedia</a></li>
-<li class="small-text">Talbot, David, “A Technology Surges”, <em>Technology Review</em>, March/April 2008, <a href="https://www.technologyreview.com/2008/02/19/221545/a-technology-surges/">https://www.technologyreview.com/2008/02/19/221545/a-technology-surges/</a></li>
+<li class="small-text">Wikipedia: Size of Wikipedia, <a target="_blank" href="http://en.wikipedia.org/wiki/ Wikipedia:Size_of_Wikipedia">http://en.wikipedia.org/wiki/ Wikipedia:Size_of_Wikipedia</a></li>
+<li class="small-text">Talbot, David, “A Technology Surges”, <em>Technology Review</em>, March/April 2008, <a target="_blank" href="https://www.technologyreview.com/2008/02/19/221545/a-technology-surges/">https://www.technologyreview.com/2008/02/19/221545/a-technology-surges/</a></li>
 <li class="small-text">While leveraging networks call for partnerships, it is fundamentally different from the cross-agency initiatives and public-private partnerships that we are familiar with. Instead of bringing a few nodes in the network together, it is about tapping on the collective resources of all the nodes in the network. It is about constructing a business model that allows unplanned but effective partnerships to take place spontaneously across the network.</li>
-<li class="small-text">“The World’s Most Innovative Companies”, <em>BusinessWeek</em>, 24 April 2006, <a href="http://www.businessweek.com/magazine/content/06_17/b3981401.htm">http://www.businessweek.com/magazine/content/06_17/b3981401.htm</a></li>
+<li class="small-text">“The World’s Most Innovative Companies”, <em>BusinessWeek</em>, 24 April 2006, <a target="_blank" href="http://www.businessweek.com/magazine/content/06_17/b3981401.htm">http://www.businessweek.com/magazine/content/06_17/b3981401.htm</a></li>
 </ol>
 
 <br>
