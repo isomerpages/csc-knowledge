@@ -73,13 +73,13 @@ li {
 
 <p>In many ways the role of democratic governments in sovereign nations remains bounded by tradition and practice. On the basis of a successful election outcome, governments claim a mandate to set political direction, subject to the ongoing need to win legislative approval (and, of course, to withstand media scrutiny). They establish revenue and expenditure parameters within which they frame budgets. Through legislation they regulate civic conduct, although the laws they enact are open to judicial review and, increasingly, subject to international agreements. Every few years they face the court of public opinion at the ballot box.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Most governments are now finding that the expectations of citizens are rising faster than their capacity to deliver.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>What has changed in recent years is the manner in which public policies are implemented. Today, governments rely on a variety of institutions, and not just their civil services, to deliver programmes.<a href="#notes"><sup class="#notes">1</sup></a> In effect they look to a mixed “public economy” to provide defence and ensure order, raise revenue, build and maintain public infrastructure and provide financial assistance and services to citizens.<a href="#notes"><sup class="#notes">2</sup></a></p>
 
@@ -97,13 +97,13 @@ Most governments are now finding that the expectations of citizens are rising fa
 
 <p>In short, there is a danger if civil servants wield monopoly power. Governments need to choose the mix of public, private and social service sector delivery that can contribute most effectively to the creation of public value. The task should be approached with strategic intent. Assumptions need to be tested. Context and circumstance rather than ideological persuasion should determine the most effective channel by which to implement the ambitions of government.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 It should not be assumed that civil services are necessarily the best institutions for delivering government policy.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The key is for all those involved in the design and delivery of government policies to recognise that they are partners. If the relationship between “purchasers” and “providers” is defined solely by contractual obligation, the likely result will be a self-defeating emphasis on the micromanagement of process compliance rather than an agreement on a joint approach to outcome-based performance. A rigid approach will stifle the innovation that should be the hallmark of contestability. It will limit the search for new approaches. It will fail to create choice and diversity for citizens. Commissioning must be understood as far more than the exercise of purchasing services in the market: rather it is about inspiring more effective and creative governance arrangements.</p>
 
