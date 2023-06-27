@@ -48,7 +48,7 @@ font-size: 16px;
 </tr>
 <tr>
 	<td>
-		<a href="/ethos/">Issue 25, <br>April 2023</a>
+		<a href="/ethos/">Issue 25, April 2023<br>Prioritising Purpose in the Public Service</a>
 	</td>
 	<td>
 		<a href="/digital-issue-10/">Digital Edition Issue 10, <br>Mar 2023</a>
