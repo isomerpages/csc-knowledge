@@ -75,25 +75,24 @@ li {
 
 <p>The economic, financial and social crisis in many developed economies is putting public managers under almost unprecedented pressure to deliver more value while reining in cost. From Europe to the UK and the US, austerity measures have been put in place which leave no doubt that governments will be severely cash-strapped for the foreseeable future. In the meantime, “wicked” societal challenges abound, which require smarter solutions in increasingly turbulent, complex and interdependent societal and human settings.<a href="#notes"><sup class="#notes">1</sup></a><sup>,</sup><a href="#notes"><sup class="#notes">2</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The voice of the citizen, captured through audio or video, is a crucial trigger for change.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>This growth in both turbulence and complexity has occurred in tandem, perhaps coincidentally, with an increasingly systematic exploration of what design<a href="#notes"><sup class="#notes">3</sup></a> can do for government. We appear to be seeing a period of rapid experimentation, often framed in the context of new forms of citizen involvement.<a href="#notes"><sup class="#notes">4</sup></a> Over the past decade, public sector organisations in countries such as Australia, New Zealand, Singapore, France, Denmark, the UK,<a href="#notes"><sup class="#notes">5</sup></a> Canada and the US have, to varying degrees and in different forms, taken up such design approaches as a tool to drive innovation and change.<a href="#notes"><sup class="#notes">6</sup></a><sup>,</sup><a href="#notes"><sup class="#notes">7</sup></a> Just within the past year, governments in the US, Australia and Singapore have set up their own innovation labs and design centres.</p>
 
 
 
 
-<p class="small-text text">The Human Experience Lab (THE Lab) helps Singapore’s public agencies design and develop public policies, services and experiences that are more human-centred. Established in April 2012 within the Public Service Division, PS21 Office, it has worked with agencies to:</p>
 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">THE Lab</h3>
@@ -142,13 +141,13 @@ The voice of the citizen, captured through audio or video, is a crucial trigger 
 
 <p>Change and innovation, however, do not just come about by way of smart methods and tools. It is also a question of stewardship. It is one thing for public managers to hire or employ designers to conduct citizen-centred innovation projects. It is quite another for managers themselves to relate to and drive the change efforts. It turns out, perhaps unsurprisingly, that the most forward-thinking managers don’t just commission design projects, but engage actively with the process of innovation. We might even think of them as designers. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We appear to be seeing a period of rapid experimentation, often framed in the context of new forms of citizen involvement.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>In their seminal 2004 book <em>Managing as Designing</em>, Richard Boland and Dick Collopy suggest that design attitude might be a useful way of understanding how managers shape and make desirable futures. Innovative public managers tend to immerse themselves in a set of activities around identifying problems and opportunities, seeking new ideas and solutions, and acting on them through engagement with actors inside and outside the organisation. Boland and Collopy make the point that “a design attitude views each project as an opportunity for invention that includes a questioning of basic assumptions and a resolve to leave the world a better place than we found it”.<a href="#notes"><sup class="#notes">9</sup></a></p>
 
@@ -159,22 +158,21 @@ We appear to be seeing a period of rapid experimentation, often framed in the co
 
 
 
-<p class="small-text text">How do design attitude archetypes play out in the real world? Consider how Ms Anne Lind, Director of the Board of Industrial Injuries, reflected on the purchase of a new IT system for her organisation, a Danish government agency of around 300 employees:</p>
 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Design Attitude in Practice</h3>
 <p>How do design attitude archetypes play out in the real world? Consider how Ms Anne Lind, Director of the Board of Industrial Injuries, reflected on the purchase of a new IT system for her organisation, a Danish government agency of around 300 employees:</p>
-<blockquote class="article-blockquote">
+<blockquote style="background-color:#eceedb;" class="article-blockquote">
 <p><em>Back in 2005–6 or so, we decided to work towards a new IT system which needed to be much more dynamic and which should be able to do ‘objective’ case management, that is, hyper-modern technology. What we spoke about was that we needed a new IT system. And then I was home during my summer holidays, and I thought there is something wrong. One doesn’t ‘just’ buy a new IT system. It is great that IT is so smart and can do all these things. But that means that one just puts those things into it, the ways we work today, and then we don’t go any further. So when I came back I established this Secretariat for developing our case management, which we call SUS, where we simply decided to go through and assess our entire organization. Because an IT system will never be better than what we put into it.</em></p>
 </blockquote>
 <p>This style of thinking and questioning assumptions points to “embracing discontinuity and open-endedness”. The manager chooses to open up her organisation to explore what the implications of the new technology can be, and she begins a journey to find out what they are going to “put into” the new system.</p>
 <p>Another example is Ms Christina Pawsoe, the manager of a small institution for mentally handicapped adults in Odense, Denmark’s third-largest city. Using design-led approaches, she transformed her organisation to provide a much more satisfactory and meaningful service to citizens, effectively casting her wards as the everyday innovators in spite of their disabilities. Describing her approach to innovation and change, Pawsoe says:</p>
-<blockquote class="article-blockquote">
+<blockquote style="background-color:#eceedb;" class="article-blockquote">
 <p><em>We must make some trial-balloons, and then see if it works. If it does not work, fair enough, so we just change it, so that we always have some new goal, or a new angle on our challenges</em>.</p>
 </blockquote>
 <hr>
@@ -202,23 +200,23 @@ We appear to be seeing a period of rapid experimentation, often framed in the co
 
 <p>Second, it appears that the managers’ exposure to design approaches — through actual project work — amplifies or catalyses extant design attitudes. The design work stimulates their thinking and perhaps teases out a more “designerly” way of addressing current and possibly future problems.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The most forward-thinking managers don't just commission design projects, but engage actively with the process of innovation.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>While the work of Michlewski and others help describe what a design attitude might look like, the very notion still raises questions for how we should educate current and future public managers. What is their role in initiating and stewarding systematic, design-led problem solving? What specific competencies and skills are required? And perhaps more fundamentally: Is design attitude even something that can be learned?</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Christian Bason</strong> is the Director of MindLab, an innovation unit that is part of the Danish central government. The author of four books on social innovation, design and leadership, most recently Leading Public Sector Innovation: Co-creating for a Better Society (Policy Press, 2010), he is a frequent presenter and advisor to governments around the world. Bason is a member of numerous advisory boards and was recently appointed Chairman of the European Commission’s Expert Group on public sector innovation. He holds an M.Sc. in political science and is currently writing a doctoral thesis on public management as a design discipline. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -248,7 +246,6 @@ The most forward-thinking managers don't just commission design projects, but en
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
