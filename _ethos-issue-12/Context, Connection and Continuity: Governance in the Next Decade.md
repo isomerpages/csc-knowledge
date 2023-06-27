@@ -94,13 +94,13 @@ li {
 
 <p>It has also been my observation that in many African countries, the political mandate has not been viewed as a mechanism for service delivery to fulfil the needs of the people. Without greater public deliberation and understanding of the proper uses of power, we open the way to a lack of accountability, corruption and abuse.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 How do we effectively involve the young of our countries in the processes of governance from which they feel alienated?
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p><strong><span style="color: #f79646;">Noharuddin</span></strong><strong><span style="color: #f79646;">:</span></strong> To me, the biggest question is not so much what the right solutions are, but how we come to decide on the solutions and their implementation in the complex environments we have to operate in. The issue is how we define and understand our context and how we adapt the available solutions to our context.</p>
 
@@ -114,13 +114,13 @@ How do we effectively involve the young of our countries in the processes of gov
 
 <p>Mr Mandela played a key role in taking us from apartheid to democracy and attempting to unify the people; now we need the same kind of leadership to take us forward through the challenges that we have. In the case of South Africa, we also need to have the right people with the right skills at the local government level. At the moment, the best minds are concentrated at the national level, but it is at the local level where intervention is most necessary. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Without greater public deliberation and understanding of the proper uses of power, we open the way to a lack of accountability, corruption and abuse.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p><strong><span style="color: #d99694;">Tripathi:</span></strong> People often have the idea that because they vote you in, you are supposed to be like a god, with the power to change or save lives. Government structures are then regarded as so many ranks under god. But that is not how it is. As a politician, I think of government as a process, and a very long road. </p>
 
@@ -142,13 +142,13 @@ Without greater public deliberation and understanding of the proper uses of powe
 
 <p>I think your process works also because you have the right people in the right place — some of them work out and some of them don’t, but you practise meritocracy and you end up with a team that is able to deliver what Singapore aspires to be. One remarkable strength is how you are not only able to identify capable people, but also move them around from one organisation to another, apparently without any barriers at all, even to positions that they had not originally been trained for. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Our perception of talent can sometimes be too narrow. The kind of people we need tomorrow may not be the kind of people that delivered results in the past.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p><strong><span style="color: #d99694;">Tripathi:</span></strong> The vigorous participation of the people in democracies such as India can sometimes look like a disadvantage from the outside. But it also means that despite being very diverse, we are a people united by our political consciousness and principles. When we have issues, we fight over them, we have the means to express and debate our views — all of which enrich our policies and the country as a whole. It makes us more robust.</p>
 
@@ -164,7 +164,6 @@ Our perception of talent can sometimes be too narrow. The kind of people we need
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
