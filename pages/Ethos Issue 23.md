@@ -87,7 +87,7 @@ td
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print-23-foreword.jpg"></td>
+<td class="img"><img src="/images/Landing_Banner_Images/tile_preface_foreword.jpg"></td>
 
 <td class="text">	
 <h3>Foreword </h3>
@@ -118,7 +118,7 @@ Dean and CEO, Civil Service College
 <tbody>
 
 <tr>
-<td class="img"><img src="/images/Cropped_images/Ethos_Digital_10/editorial_landing.jpg"></td>
+<td class="img"><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></td>
 
 <td class="text">	
 <h3>Editorial </h3>
