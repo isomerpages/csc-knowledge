@@ -76,13 +76,13 @@ li {
 
 <p>In <em>Rethinking Public Service Delivery: Managing with External Parties</em>, my co-author John Alford and I explore these ideas: we argue that using various modes of coordination to simultaneously manage a complex portfolio of providers with different motivations represents one of the most pressing public management challenges of our time.<a href="#notes"><sup class="#notes">1</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Rethinking <strong>who</strong> these external providers are opens up a much broader menu of options in the delivery of public services.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Rethinking the Providers</h3>
 
@@ -112,13 +112,13 @@ Rethinking <strong>who</strong> these external providers are opens up a much bro
 
 <p>The second category gets some attention, but not enough given the potential for this to add or detract from “value for money”. These are the <strong>relationship costs</strong>. Even if some other party can potentially do something better or cheaper, government organisations expend considerable effort and resources in making that happen. They must define services, often run processes to select providers, and then monitor that the provider is doing what is expected. None of these activities is cost-free for either party, but these rarely get discussed in any public debate about externalisation.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Views on the costs and benefits of externalisation have been far too narrow.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The third category barely rates a mention until there is a scandal. These are the <strong>strategic costs and benefits</strong>, such as how externalisation may enable government to take a more strategic rather than operation role (the classic “steering rather than rowing” narrative), how risk is allocated (or not allocated) between parties, the reputation building or destroying potential of outsourcing, the loss of core competences, and the handing over of legal force to other parties. Again, these factors tend to come to the fore when there is a scandal but do not otherwise get enough attention in externalisation decisions. </p>
 
@@ -128,13 +128,13 @@ Views on the costs and benefits of externalisation have been far too narrow.
 
 <p>With a broader set of providers and a more robust framework for weighing up the externalisation decision, we are just starting to rethink public service delivery. Once we make the decision to externalise, public managers are only part of the way there. They must determine <em>who</em> will do what — who will take on the deciding and producing roles and in what combination? They must decide <em>what</em> mode of coordination — compulsion, supervision, classical contracting, negotiation, or collaboration — can connect the parties together. They must consider the <em>motivations</em> of those they will work with and then determine what <em>motivators</em>, or levers, they can use to tap these contributions. Finally, they must consider how to build the organisational capabilities to manage external parties and in doing so, confront a range of potential government obstacles to effective relationship management — accountability, interdependency/complexity, turbulence, and cultural differences. All are potential barriers to optimising relationships for the delivery of public services and the creation of public value.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Janine O’Flynn</strong> is Professor of Public Management at the University of Melbourne and an Adjunct Professor at the Australia and New Zealand School of Government. Her expertise is in public sector management, particularly in the areas of public sector reform and relationships. She is currently involved with addressing the performance framework aspects of the Australian Government’s Ahead of the Game blueprint for reforming the Australian Public Service. In 2012, O’Flynn published Rethinking Public Service Delivery: Managing with External Providers, co-authored with John Alford (Palgrave), which explores how government organisations can work with other providers, in various modes, to deliver public services. Crossing Boundaries in Public Management and Policy: The International Experience will be published in July 2013 (co-edited with Deborah Blackman and John Halligan; Routledge). </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -142,9 +142,6 @@ Views on the costs and benefits of externalisation have been far too narrow.
 <li class="small-text">John Alford and Janine O’Flynn, Rethinking Public Services: Managing with External Parties (Palgrave Macmillan, 2012).</li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
