@@ -149,11 +149,7 @@ How industrial economies address their new demographic structures will also have
 
 <p class="small-text" style="font-weight: bold; letter-spacing: 1px;"><a name="notes"></a>NOTES</p>  
   
-<ol>
-	
-<li id="num1">Singapore Department of Statistics, Key Annual Indicators, <a href="http://www.singstat.gov.sg/keystats/annual/indicators.html">http://www.singstat.gov.sg/keystats/annual/indicators.html</a> (accessed September 1, 2006).
-</li>
-	
+<ol>	
 	
 <li id="num2">Leeson, G. W., The Demographics and Economics of UK Health and Social Care for Older Adults (Oxford: Oxford Institute of Ageing, University of Oxford, 2004).</li>
 	
