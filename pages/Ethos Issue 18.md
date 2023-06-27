@@ -87,7 +87,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Agile_Public_Service.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Teaser_Agile_Public_Service.jpg"></div>
 	<div>
 		<h3>Governance Amid Technological Disruption: A Vision for an Agile Public Service</h3>
 		<b><i>by Chan Chi Ling and Daniel Lim Yew Mao</i></b>
@@ -99,7 +99,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Digital_Social_Contract_and_e-Legitimacy.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Teaser_Digital_Social_Contract_and_e-Legitimacy.jpg"></div>
 	<div>
 		<h3>The Digital Social Contract and e-Legitimacy</h3>
 		<b><i>by Max Everest-Phillips</i></b>
@@ -111,7 +111,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Digital_Work_Economy_and_Our_Human_Future.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Teaser_Digital_Work_Economy_and_Our_Human_Future.jpg"></div>
 	<div>
 		<h3>The Digital Work Economy and Our Human Future</h3>
 		<b><i>by Gary A. Bolles</i></b>
@@ -123,7 +123,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Supporting_Job_Growth_and_Worker_Prosperity.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Teaser_Supporting_Job_Growth_and_Worker_Prosperity.jpg"></div>
 	<div>
 		<h3>Supporting Job Growth and Worker Prosperity in a New Era of Automation</h3>
 		<b><i>by Eoin Daly and Richard Dobbs</i></b>
@@ -135,7 +135,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Making_Technology_Work_for_Workers.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Teaser_Making_Technology_Work_for_Workers.jpg"></div>
 	<div>
 		<h3>Making Technology Work for Workers</h3>
 		<b><i>by Genevieve Ding</i></b>
@@ -147,7 +147,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Trends_and_Shifts_in_Employment.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Teaser_Trends_and_Shifts_in_Employment.jpg"></div>
 	<div>
 		<h3>Trends and Shifts in Employment: Singapore’s Workforce</h3>
 		<b><i>by Augustin Lee</i></b>
@@ -158,7 +158,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_The_Grab_Story.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Teaser_The_Grab_Story.jpg"></div>
 	<div>
 		<h3>Public Value through Private Partnerships: The Grab Story</h3>
 		<b><i>by Zafrul Hashim</i></b>
@@ -170,7 +170,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Banner_Navigating_the_New_Economy.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_18/18_Teaser_Navigating_the_New_Economy.jpg"></div>
 	<div>
 		<h3>Navigating the New Economy: A Future that Works</h3>
 		<b><i>by Andrea Phua</i></b>
