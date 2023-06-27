@@ -51,11 +51,11 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue12.jpg"></div>
 	<div>
-		<h3><br></h3>
+		<h3>ISSUE 12, JUNE 2012<br>ETHOS Issue 12</h3>
 		<p></p>
-		<div class="button1"><a href="">Download PDF</a></div>
+		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-12.pdf">Download PDF</a></div>
 	</div>
 </div>
 
