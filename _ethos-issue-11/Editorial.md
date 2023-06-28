@@ -95,9 +95,7 @@ editorial content.</p>
 <strong>ETHOS</strong><br>  
 <a href="#">ethos@cscollege.gov.sg</a></p>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
