@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 11, Aug 2012</small></em>
-<img src="">
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
 
   
 <h3>In light of the recent global financial crisis, to what extent are the fundamental principles of economics still applicable?</h3>  
