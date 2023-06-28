@@ -120,14 +120,12 @@ choices like human organ transplant and MediShield<a href="#notes"><sup class="#
 <h6><a name="notes"></a>NOTES</h6>  
   
 <ol>  
-<li class="small-text">MediShield is a low-cost catastrophic illness insurance scheme designed to help members meet medical expenses from major illnesses, which could not be sufficiently covered by their Medisave balance. MediShield operates on a co-payment and deductible system to avoid problems associated with firstdollar, comprehensive insurance. For more information, see http://hbswk.hbs.edu/item/5736html  
+<li class="small-text">MediShield is a low-cost catastrophic illness insurance scheme designed to help members meet medical expenses from major illnesses, which could not be sufficiently covered by their Medisave balance. MediShield operates on a co-payment and deductible system to avoid problems associated with firstdollar, comprehensive insurance. 
     </li>  
-<li class="small-text">The Workfare Income Supplement Scheme provides more income and retirement savings when older, low-wage Singaporeans work and stay employed, while Workfare Training Support Scheme complements the former by encouraging them to go for and complete training, so that they take on more productive work, improve their employability and move out of low-wage employment. For information, see http://www.cld.gov.sg/</li>  
+<li class="small-text">The Workfare Income Supplement Scheme provides more income and retirement savings when older, low-wage Singaporeans work and stay employed, while Workfare Training Support Scheme complements the former by encouraging them to go for and complete training, so that they take on more productive work, improve their employability and move out of low-wage employment. For information, see </li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
