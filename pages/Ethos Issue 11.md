@@ -99,7 +99,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_11/11_Teaser_The%20Danish%20Negotiated%20Economy.jpg"></div>
 	<div>
 		<h3>The Danish Negotiated Economy</h3>
 		<b><i></i></b>
@@ -111,7 +111,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Don’t Close Off Options in Tackling Income Gap</h3>
 		<b><i></i></b>
