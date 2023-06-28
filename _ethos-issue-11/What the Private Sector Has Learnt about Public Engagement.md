@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 11, Aug 2012</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_11/11_Banner_What%20the%20Private%20Sector%20Has%20Learnt%20about%20Public%20Engagement.jpg">
 
 
 
