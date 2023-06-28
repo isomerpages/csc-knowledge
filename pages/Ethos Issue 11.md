@@ -64,10 +64,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Editorial</h3>
 		<b><i></i></b>
 		<figcaption></figcaption>
-		<p></p>
+		<p>That the survival and success of Singapore depends on our economic vitality and relevance to world market remains a given. The question is how best to improve the lot of those who are less able to benefit from the particular activities that sustain Singapore.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
