@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 11, Aug 2012</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_11/11_Banner_The%20Future%20of%20Tripartism%20in%20Singapore-%20Concertation%20or%20Dissonance.jpg">
 
 
 
