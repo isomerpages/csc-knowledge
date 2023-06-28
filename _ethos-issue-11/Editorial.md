@@ -80,8 +80,7 @@ Some observers believe that Singapore needs to bolster its own institutions for 
 <p>That skews and limitations are inherent in human cognition and decision-making is a central theme of behavioural economics — a recent volume points out how insights from this relatively new discipline have informed <a href="/ethos-issue-11/policymaking-for-real-people/">policy design</a>&nbsp;in Singapore. Another recent book, by University of Michigan scholar <a href="/ethos-issue-11/how-not-to-lose-the-war-on-poverty/">Aneel Karnani</a>, calls into question the efficacy of prevailing strategies to fight poverty — including the notion that economic growth will readily trickle down to the poor. Instead, he advocates active government intervention to ensure that key services remain  accessible to the poor, even as the public, private and civil sectors collaborate to address critical gaps in the market. </p>  
   
 <p> There are no ready-made solutions to the dilemma of globalisation, even if the contours of the challenges ahead have become better and more widely known, and hence more broadly contested. A pragmatic rather than dogmatic approach to policy should remain the gold standard in governance for some time to come, even if it could demand greater reserves of ingenuity, flexibility, compassion, and patience in the years ahead.</p>  
-  
-<p style="text-align: center;">\*\*\*\*\*\*\*</p>  
+
   
 <p> We have revised the visual presentation of ETHOS from this issue onwards, to provide a more attractive and effective layout, with better use of infographics, textual highlights, illustrations, and  
 related information.</p>  
