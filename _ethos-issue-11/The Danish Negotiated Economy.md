@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 11, Aug 2012</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_11/11_Banner_The%20Danish%20Negotiated%20Economy.jpg">
 
 
 
