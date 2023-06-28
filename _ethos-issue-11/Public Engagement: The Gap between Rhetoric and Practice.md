@@ -172,13 +172,13 @@ We need to return to the original spirit of pragmatism that made Singapore so su
   
   
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
-<p class="small-text"><strong>Kenneth Paul Tan</strong> is Associate Professor and Vice Dean (Academic Affairs) at the National University of Singapore’s Lee Kuan Yew School of Public Policy (<a href="http://www.lkyspp.nus.edu.sg/Faculty\_Kenneth\_Paul\_Tan.aspx">www.lkyspp.nus.edu.sg/Faculty\_Kenneth\_Paul\_Tan.aspx</a>). He can be contacted at <a href="mailto:kennethpaultan@nus.edu.sg">kennethpaultan@nus.edu.sg</a>. </p>  
+<p class="small-text"><strong>Kenneth Paul Tan</strong> is Associate Professor and Vice Dean (Academic Affairs) at the National University of Singapore’s Lee Kuan Yew School of Public Policy. He can be contacted at <a href="mailto:kennethpaultan@nus.edu.sg">kennethpaultan@nus.edu.sg</a>. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -192,9 +192,7 @@ We need to return to the original spirit of pragmatism that made Singapore so su
 <li class="small-text">Neo, Boon Siong, Dynamic Governance: Embedding Culture, Capabilities and Change in Singapore (Singapore: World Scientific, 2007).</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
