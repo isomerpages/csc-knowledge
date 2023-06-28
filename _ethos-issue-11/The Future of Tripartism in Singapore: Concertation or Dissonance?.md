@@ -156,15 +156,15 @@ all workers, not only unionised workers. It has done so from the premise that it
 growth to preserve employment and income security for workers help  
 disprove criticisms that trade unions in Singapore are co-opted “de facto arms of the government”.<a href="#notes"><sup class="#notes">11</sup></a> The symbiotic relationship between NTUC and the Government was born out of a convergence of respective interests during the early days of independence, when the ruling party’s policy of economic growth through rapid industrialisation also advanced worker interests. This early relationship established a foundation of mutual trust and consensus that continues to this day.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1"> 
 "'The right to work’ and ‘the right to organise’ and all the other sacred cows of trade unions in the developed countries are the RESULT, and not the CAUSE of economic growth and progress."  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—The late Devan Nair, then Secretary-General of NTUC<a href="#notes"><sup class="#notes">12</sup></a></p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">—The late Devan Nair, then Secretary-General of NTUC<a href="#notes"><sup class="#notes">12</sup></a></p>  
   
-<hr>  
+</div>  
   
 <h3>The Challenges of Tripartism</h3>  
   
@@ -195,13 +195,11 @@ Coefficient has seen an upward trend, increasing from 0.43 in 2000 to 0.45 in 20
   
   
   
-  
-<p class="small-text text">How might tripartism evolve in an increasingly complex and challenging environment? Three scenarios are possible:</p>  
-  
+<br>
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">The Future of Tripartism: Three Scenarios</h3>  
@@ -231,13 +229,13 @@ interests are likely to be disparate and diverse. In such an environment, would 
   
 <p> While its institutional strength, strong cultural and structural foundations seem likely to sustain this centralised form of collective representation in the near-to medium-term, tripartism’s longterm survival amidst an increasingly complex environment remains debatable. Nevertheless, the demonstrated adaptability of Singapore’s tripartite partnership could well see it through the many uncertainties ahead.&nbsp;</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Soh Tze Min</strong> is Senior Researcher at the Centre for Governance and Leadership, Civil Service College. Her research interests are in social policy research and the policy sciences. She holds a Masters in Public Policy from the Lee Kuan Yew School of Public Policy, National University of Singapore. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
