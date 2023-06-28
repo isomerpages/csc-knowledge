@@ -72,7 +72,7 @@ li {
   
 <h3>A Ferrari, a Fatal Collision and its Fallout</h3>  
   
-<p>On 17 May 2012,<em> The Straits Times</em> carried a letter from the Chinese embassy in Singapore expressing regret over a fatal crash in the Republic involving a Ferrari, driven by a resident from China, and a taxi, driven by a Singaporean. The letter urged Chinese nationals in Singapore to “respect life, value the safety of themselves and others, abide by its \[Singapore’s\] laws  regulations,  live responsibly  and gracefully”.<a href="#notes"><sup class="#notes">1</sup></a> It was evidently a response to the outrage at the accident expressed by many Singaporeans, in whose eyes the driver of the Ferrari was the epitome of a class of affluent expatriates from China and elsewhere, whose influx into their country had pushed up living costs  and strained public services.</p>  
+<p>On 17 May 2012,<em> The Straits Times</em> carried a letter from the Chinese embassy in Singapore expressing regret over a fatal crash in the Republic involving a Ferrari, driven by a resident from China, and a taxi, driven by a Singaporean. The letter urged Chinese nationals in Singapore to “respect life, value the safety of themselves and others, abide by its [Singapore’s] laws  regulations,  live responsibly  and gracefully”.<a href="#notes"><sup class="#notes">1</sup></a> It was evidently a response to the outrage at the accident expressed by many Singaporeans, in whose eyes the driver of the Ferrari was the epitome of a class of affluent expatriates from China and elsewhere, whose influx into their country had pushed up living costs  and strained public services.</p>  
   
 <p>The Chinese embassy’s effort to mollify Singaporeans and  urge its nationals in Singapore to avoid behaviour that offends citizens of their host country should come as no surprise. We now live in an age characterised by the rise of civil society  and growing empowerment of just about anyone with an Internet-enabled camera phone. Coupled with the easy movement of goods, services, people, capital  and information across borders, the emerging “new normal” in international relations is that governments  and inter-governmental organisations such as the United Nations (UN) are no longer the sole determinants of international policies and sole practitioners of diplomacy. Gone are the days when a huddle in private between, say, the prime minister of Singapore  and the president of Indonesia was all that it took to sort out bilateral issues; any government that seeks to improve ties with a foreign government or to secure an agreement with it must also reach out to the public of that country. </p>  
   
@@ -91,12 +91,12 @@ languish on paper if the governments in question have weak standings with each o
   
   
   
-<p class="small-text text">Scholars note that public diplomacy is practised in several inter-connected dimensions.</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Forms of Public Diplomacy</h3>  
