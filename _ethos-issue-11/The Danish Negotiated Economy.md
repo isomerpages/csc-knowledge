@@ -180,15 +180,13 @@ language codes. </p>
   
 <p> Significantly, the global financial crisis from 2008 did not mark Denmark as it had other European countries. Unemployment from 2008 to 2012 has been relatively low (6%); the balance of payment positive; foreign debt is now at a historic low; inflation has been moderate. Relative to Sweden and Germany, Denmark was hit by low productivity — a reminder of the need for ongoing labour market reforms. Private household debt did soar as a result of deregulation of the house market in the 1990s and financial policies in the 2000s. The general system for negotiations has been expanded to include more actors, levels and policies. A new wave of major labour market reforms was initiated by tripartite negotiations at the beginning of 2012. Denmark’s strategy for institutional competitiveness remains intact. </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Ove K. Pedersen</strong> founded the International Center for Business and Politics and is Professor in Comparative Political Economy at the Copenhagen Business School. He is Honorary Professor of Public Administration at Aalborg University and has been a visiting scholar to Stockholm, Harvard, Stanford and Sydney Universities and Dartmouth College. He has been writing political commentaries for several years for a number of Danish newspapers and was awarded the best communicator of scientific knowledge (2008) by the Minister for Science, Technology and Development. </p>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+</div>  
 
 
 
