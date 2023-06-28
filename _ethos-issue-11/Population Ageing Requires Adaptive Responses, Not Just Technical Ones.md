@@ -85,25 +85,25 @@ li {
 <p> Indeed, the current reorganisation of Singapore’s health services  
 clusters — from two large clusters to six geographically-based regional health systems — reflects a shift to a more population- and patient-centred approach in healthcare delivery. The 2012 Budget measures to engage private and non-profit providers also hint at longer-range efforts to harness the resources that reside outside of the public sector. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Increased spending and capacity in healthcare do not automatically produce better outcomes in the health and well-being of the population.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Within each regional health system, the emphasis is very much on providing more patient-centric care through multi-disciplinary teams involving specialists, general practitioners, nurses, care coordinators, social workers and allied health professionals. There are also efforts to integrate care across different parts of the healthcare system. Over time, our healthcare system should evolve from one structured as separate hierarchies — usually with doctors at the apex — to one organised as a <em>fluid network</em> in which the professional taking the lead may change depending on context and the circumstances of the patient. Our healthcare system would become better organised around the needs of the patient and the population, rather than the needs of professionals or healthcare organisations. These changes to the organisation of the healthcare system reflect the Government’s recognition that an older population with a higher incidence of people with co-morbidities<a href="#notes"><sup class="#notes">2</sup></a> will require a more connected healthcare system. </p>  
   
 <p> Such structural changes will involve shifts in organisational cultures, the expectations of healthcare professionals, and the ways in which they work with one another across government. They will require leaders and policymakers in public healthcare to take a systems view of policy reforms: recognising that what is optimal for the system and its intended outcomes may not always be optimal for individual institutions or constituent parts of the system. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">
 Our healthcare system would become better organised around the needs of the patient and the population, rather than the needs of professionals or healthcare organisations.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The magnitude of the inputs into healthcare may matter less than how the resources are allocated and which specific interventions are implemented. From a systems perspective, the right question may not be how much healthcare spending there is, but how healthcare expenditures are allocated over the lifetime of citizens.</p>  
   
@@ -116,13 +116,13 @@ Our healthcare system would become better organised around the needs of the pati
   
 <p> Singapore’s healthcare financing philosophy of shared responsibility — reflected in the combination of tax-financed subvention to public healthcare institutions, individual savings, social and private insurance, and patient co-payment — is basically sound. Because the severity of market failures in healthcare varies significantly across the healthcare system, it makes economic sense to calibrate the extent of government intervention at different points in the healthcare continuum. For instance, in primary care where informational asymmetries are less pronounced, it is easier for consumers to exercise informed choice. Consumers also have relatively more discretion over how much care they consume. In this sector, it is not unreasonable or inefficient for citizens to bear a larger part of the costs and responsibilities. In acute care, on the other hand, bill sizes are much larger, patients have less control over their consumption of such care, and they are far more reliant on the advice of their physicians (i.e. informational asymmetries are more severe). Correspondingly, there should be more state intervention and subvention in this sector. This calibrated, “surgical” approach to healthcare financing is one of the strengths of Singapore’s healthcare system, and helps to contain spending. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">
 The allocation of healthcare risks between state and individuals will also have to adapt as our population ages.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p> Nonetheless, the state-market balance in healthcare needs to adapt dynamically to changes in the socio-economic environment. The larger increase in healthcare costs relative to median wage growth in recent years may have led to gaps in the ability of low- and middle-income families to afford good healthcare over their lifetimes. The relatively high share of private spending in healthcare is another area of concern. The confluence of these factors may result in inadequate access for a growing minority that has insufficient financial provision for<em> long-term care</em>, but who face higher risks of requiring it. At the same time, an ageing population and the rising incidence of chronic conditions that are best managed at the primary and long-term care sectors may require a different state approach to those sectors. In this regard, it is worth noting that the 2012 Budget extends long-term care subsidies to two-thirds of Singaporean households with elderly members, or about 80% of elderly in Singapore. Furthermore, all patients in community hospitals will now be eligible for government subsidies. </p>  
   
@@ -141,7 +141,7 @@ affordability, and how changed incentives might alter people’s healthcare cons
   
 <p> Fostering new norms for an ageing society is arguably the hardest adaptive challenge facing Singapore. It cannot be addressed simply by government spending more or doing more. Similarly, changes to the healthcare financing regime are only viable if they command the support of broad swathes of society. More than ever, leaders in healthcare will have to engage in an ongoing dialogue with Singaporeans on the trade-offs that an ageing population brings, on the difficult shifts that the government is trying to make in our healthcare systems, on the changing roles of the state, community and individuals, and on the limits of medicine. Not only will such a dialogue help to shape citizens’ expectations of what the state should do as our population ages, but it will also foster a stronger sense of citizenship and ownership of the challenges of an ageing society. </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -149,7 +149,7 @@ affordability, and how changed incentives might alter people’s healthcare cons
   
 <p class="small-text"><strong>Melinda Elias</strong> is a researcher at the Healthcare Leadership College at MOH Holdings Pte Ltd. The views expressed in the article are her own.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
