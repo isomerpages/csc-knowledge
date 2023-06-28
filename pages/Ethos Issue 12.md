@@ -65,9 +65,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i></i></b>
+		<b><i>by Alvin Pang</i></b>
 		<figcaption></figcaption>
-		<p></p>
+		<p>For many countries, nimble, adaptive, connected government is no longer a developmental goal to aspire to in an ideal future -- it has become a pressing, present imperative.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
