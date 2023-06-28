@@ -55,8 +55,10 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Images/Ethos_Issue_02/ETHOS02.jpg"></div>
 	<div>
 		<h3>Issue 02, Apr 2007 <br> ETHOS Issue 02</h3>
-		<p></p>
-		<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-02">Download PDF</a></div>
+		<p>Urban planning and management strengthens a city’s capacity to respond to change. How might this capacity best be served? Featuring leading thinkers in the urban design space such as Professors Peter Hall, Asit K. Biswas, Simon Tay and Anthony T. H. Chin.</p>
+<br>
+<div class="button1">
+<a target="_blank" href="https://go.gov.sg/ethos-issue-02">Download PDF</a></div>
 	</div>
 </div>
 
