@@ -2,6 +2,7 @@ collections:
   ethos-issue-11:
     output: true
     order:
+      - The Danish Negotiated Economy.md
       - Don’t Close Off Options in Tackling Income Gap.md
       - Population Ageing Requires Adaptive Responses, Not Just Technical Ones.md
       - "Public Engagement: The Gap between Rhetoric and Practice.md"
