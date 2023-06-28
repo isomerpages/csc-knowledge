@@ -94,7 +94,7 @@ li {
   
 <h3 class="title">State and Civil Society: A Symbiotic Relationship</h3>  
 <p class="text">Danish political theorist Per Mouritsen has argued that Scandinavian countries tend to enjoy a “symbiotic complementarity between state and civil society”.<sup>1</sup> Illustrating the crucial role of government in the formation of civil society, he contrasts the civil society of the Weimar Republic that produced the Nazi state, with the civil society that underpins the post-Communist Eastern European states. Mouritsen argues: </p>  
-<blockquote>  
+<blockquote style="background-color:#eae4d9;">  
 <p class="text">There must be reasonable and operative laws before people will learn to respect them, working institutions before national solidarity, and rights before anyone would wish to be a citizen. The first step towards civil society is a civil state — difficult as this is.<sup>2</sup>  
 </p>  
 </blockquote>  
@@ -127,13 +127,13 @@ li {
   
 <p> The question, then, for Singapore, is how government can encourage and constructively engage with the NGO sector. To begin, <strong>government needs to become more comfortable with open contestation</strong> and the apparent “disorder” associated with civil society. Governance by consensus certainly has its merits, but such consensus must not only emerge but <em>appear</em> to emerge from the reconciliation rather than the curtailment of contestation. Public officers know that the best solutions emerge from sensing the disparate perspectives, interests and needs of a diverse society.<a href="#notes"><sup class="#notes">9</sup></a> Yet, there continues to be a widespread perception that government is wary of civil society, and that it muffles dissent or dismisses critics.<a href="#notes"><sup class="#notes">10</sup></a> The government could more clearly signal its willingness to engage with controversial or contrarian ideas in order to encourage NGOs’ trust in government. Such trust encourages NGOs to approach public agencies in a spirit of cooperation rather than defensiveness. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A mutually exclusive relationship between government and civil society is not only unhelpful but dangerous.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p> To facilitate this, <strong>government could provide more platforms where different interests can meet each other</strong>, and thus design conversations that forge consensus. Public engagement already occurs on many policy issues, and this has encouraged a more cooperative relationship between all involved. However, civil society-government relations in Singapore are still often framed in a petitionary framework, wherein advocates approach public agencies without having to face and consider the perspectives of others who may have opposing views. Moreover, NGOs often complain about being talked to rather than talked with. Facilitating dialogue between diverse groups will enable them to constructively engage with issues in fuller knowledge of the choices and trade-offs involved. The ensuing familiarity can also encourage public officers and activists to view each other not as institutions or interests but reasonable people of goodwill who can validly hold divergent views on important questions.<a href="#notes"><sup class="#notes">11</sup></a></p>  
   
@@ -149,13 +149,13 @@ A mutually exclusive relationship between government and civil society is not on
   
 <p>In conjunction with the above, it is important to emphasise that increased understanding of the work of government will better equip activists to realise their goals. L. David Brown and Jonathan Fox, writing about transnational activism vis-à-vis the World Bank, advise NGOs not to think of “large actors as monolithic institutions that present united fronts to external challenges”. Instead, they argue, activists should recognise that such institutions “include staff with a wide range of political and social perspectives” who can yield “advice, information and support”.<a href="#notes"><sup class="#notes">19</sup></a> This does <em>not</em> mean that activists should play one agency against another. Rather, working with public agencies can help NGOs to better align their particular goals with state ones and develop strategies to better communicate their perspectives to policymakers. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 It remains the prerogative of elected officials to choose among policy options and take responsibility for any resulting trade-offs.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p> Finally,<strong> civil society should acknowledge the agency and autonomy it enjoys in the public sphere today.</strong> This should enhance its confidence and willingness to approach government as a partner rather than a supplicant. Over a decade ago, Simon Tay exhorted civil society to believe, against the “veto of power” enjoyed and exercised by government, that “citizens \[could\] organise civil society on their own terms”.<a href="#notes"><sup class="#notes">20</sup></a> He pointed to the flourishing of Eastern European civil society under communist rule to illustrate the possibilities in this imagination. The political, social, and technological conditions of today’s Singapore make Tay’s exhortation a reality to be recognised. The Lien Foundation, for example, advocates and pursues improvements in the care of the terminally ill and young children with developmental needs — areas that are under-served. Similarly, AWARE’s shadow reports to the United Nations Committee on the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW) challenge the Government to do more to combat gender-based stereotyping in policy.</p>  
   
@@ -164,9 +164,9 @@ It remains the prerogative of elected officials to choose among policy options a
   
   
   
-<p class="small-text text">There have been many examples of successful engagement between public agencies and NGOs on social issues. In 2006, advocacy by the Animal Concerns Research and Education Society (ACRES) led to the reform of the Endangered Species (Import and Export) Act.<sup>1</sup> In 2011, AWARE’s activism led the Government to repeal Section 157 (d) of the Penal Code.<sup>2</sup> The Nature Society’s lobbying played a crucial role in the creation of the Sungei Buloh and Chek Jawa nature reserves as well as the Green Corridor along the former Keretapi Tanah Melayu railway tracks. The Government is currently working together with the Singapore Heritage Society to document graves located at Bukit Brown cemetery.<sup>3</sup></p>  
+
   
-<p style="text-align: center;"><img title="issue11H1" src="../../images/default-source/ethos-images/ethos-issue-11/issue11h1.jpg?sfvrsn=e84bc2ed\_1" data-displaymode="Original" alt="issue11H1"></p>  
+<p style="text-align: center;"><img title="issue11H1" src="/images/Ethos_Images/Ethos_Issue_11/Issue11h1.jpg" data-displaymode="Original" alt="issue11H1"></p>  
   
   
   
