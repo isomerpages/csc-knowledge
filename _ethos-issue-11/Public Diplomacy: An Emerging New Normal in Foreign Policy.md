@@ -199,34 +199,34 @@ Credibility is an essential element in the building of trust, which is the ultim
   
 <p> Building trust with foreign publics takes a long time and a huge commitment of resources, especially when stereotypes and deep-seated negative opinions need to be changed or at least tempered. The effectiveness of public diplomacy is also not immediately perceptible; neither is it easy to measure as opinions can change for any number of reasons and not just because of the efficacy of public diplomacy programmes. Therefore, taking a cost-benefit approach to public diplomacy could render it ineffective.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">
 Working with non-state entities requires ceding some control over messaging, which governments may find hard to countenance.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>On the other hand, public policy in Singapore today is no longer insulated from public pressures, making it harder to justify expenditure on public diplomacy programmes whose outcomes are not imm8diately perceptible.<a href="#notes"><sup class="#notes">8</sup></a> With the distinction between domestic and foreign policy having blurred, Singaporeans can be expected to become more vocal on issues that have international dimensions. </p>  
   
 <p>More critically, the nation-branding exercise to project Singapore as a cool and creative city, largely with a view to wooing foreign businesses and talents, is clearly not resonating with many citizens. Singapore’s most daunting public diplomacy challenge will be to ensure that the simmering resentment of “foreign talent”, manifested in the harsh invectives hurled at the Chinese national who drove the Ferrari, does not descend into xenophobia, which could affect Singapore’s reputation abroad and efforts to build political goodwill with foreign publics. In sum, the success of a public diplomacy strategy will also hinge on first securing broad public consensus at home.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">
 "Building a reputation in our busy modern world is like trying to fill a bathtub with the plug pulled out: as soon as each symbolic action is completed, its effect on public attention begins to decay, unless it is swiftly followed by further equally remarkable proof of the kind of country that produces it, that country’s reputation will stand still or move backwards, the bathtub will never fill."  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Nation-branding guru Simon Anholt, <em>Place Branding &amp; Public Diplomacy</em>, <br>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">—Nation-branding guru Simon Anholt, <em>Place Branding &amp; Public Diplomacy</em>, <br>  
 Volume 4, Issue 1, 2008</p>  
   
-<hr>  
-  
+</div>  
+<div class="author">
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Premarani Somasundram</strong> is Principal Researcher at the Centre for Governance and Leadership, Civil Service College. She spent a good part of her career with the Strategic Assessments Directorate of the Ministry of Defence, which allowed her the opportunity to serve as counsellor with the Singapore embassy in Washington, DC, from end 1999 to early 2003. The views expressed in the article are her own. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
