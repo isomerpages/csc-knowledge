@@ -52,13 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #eae4d9;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #758570;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -82,19 +84,12 @@ li {
   
   
   
-<p class="small-text text"> Danish political theorist Per Mouritsen has argued that Scandinavian countries tend to enjoy a “symbiotic complementarity between state and civil society”.<sup>1</sup> Illustrating the crucial role of government in the formation of civil society, he contrasts the civil society of the Weimar Republic that produced the Nazi state, with the civil society that underpins the post-Communist Eastern European states. Mouritsen argues: </p>  
-  
-<blockquote>  
-<p class="small-text text">There must be reasonable and operative laws before people will learn to respect them, working institutions before national solidarity, and rights before anyone would wish to be a citizen. The first step towards civil society is a civil state — difficult as this is.<sup>2</sup>  
-</p>  
-</blockquote>  
-  
-<p class="small-text text"> One author Mouritsen discusses at length is none other than Alexis de Tocqueville who wrote, almost two centuries ago, that “civil associations therefore facilitate political associations; but, on the other hand, political associations singularly develop and perfect civil associations”.<sup>3</sup> De Tocqueville argued that it was through participation in the work of government that individuals learn how to live and work with each other. “Political associations,” De Tocqueville argued, “can therefore be considered great schools, free of charge, where all citizens come to learn the general theory of associations”.<sup>4</sup></p>  
+
+<br>
   
   
   
-  
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">State and Civil Society: A Symbiotic Relationship</h3>  
