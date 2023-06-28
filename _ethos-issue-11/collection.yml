@@ -2,6 +2,7 @@ collections:
   ethos-issue-11:
     output: true
     order:
+      - Policymaking for Real People.md
       - How Not to Lose the War on Poverty.md
       - Managing Transitions.md
       - "New Capabilities in Strategic Leadership: Insights from Singapore.md"
