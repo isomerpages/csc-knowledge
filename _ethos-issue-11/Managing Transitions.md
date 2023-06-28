@@ -117,13 +117,13 @@ People who adopt a learner response are more likely to have a high capacity for 
   
 <p> What is important during the transition is that the individual accepts personal responsibility for the situation and puts in the effort to quickly and efficiently learn what he does not know. Besides identifying his learning agenda, he has to plan how he can best address these gaps (whether it is through tapping on the knowledge of specific persons, hands-on experience, critical analysis, or other methods).<a href="#notes"><sup class="#notes">36</sup></a><sup>,</sup><a href="#notes"><sup class="#notes">37</sup></a> He must also exercise self-discipline to consciously work at those areas that he needs to improve in or do more of.<a href="#notes"><sup class="#notes">38</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A successful adjustment to a transition means that the individual has internalised a new role identity.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p> Accepting personal responsibility is particularly helpful for transitions that represent adversity because it allows the individual to engage in constructive self-examination, which increases awareness about his limitations and vulnerabilities. It also encourages him to reflect on how he can be a more effective leader.<a href="#notes"><sup class="#notes">39</sup></a></p>  
   
