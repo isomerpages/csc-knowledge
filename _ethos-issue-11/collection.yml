@@ -2,4 +2,5 @@ collections:
   ethos-issue-11:
     output: true
     order:
+      - Managing Transitions.md
       - "New Capabilities in Strategic Leadership: Insights from Singapore.md"
