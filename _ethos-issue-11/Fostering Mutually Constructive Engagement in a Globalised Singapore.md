@@ -165,19 +165,17 @@ It remains the prerogative of elected officials to choose among policy options a
   
   
 
-  
-<p style="text-align: center;"><img title="issue11H1" src="/images/Ethos_Images/Ethos_Issue_11/Issue11h1.jpg" data-displaymode="Original" alt="issue11H1"></p>  
-  
+
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Working Hand in Hand</h3>  
 <p class="text">There have been many examples of successful engagement between public agencies and NGOs on social issues. In 2006, advocacy by the Animal Concerns Research and Education Society (ACRES) led to the reform of the Endangered Species (Import and Export) Act.<sup>1</sup> In 2011, AWARE’s activism led the Government to repeal Section 157 (d) of the Penal Code.<sup>2</sup> The Nature Society’s lobbying played a crucial role in the creation of the Sungei Buloh and Chek Jawa nature reserves as well as the Green Corridor along the former Keretapi Tanah Melayu railway tracks. The Government is currently working together with the Singapore Heritage Society to document graves located at Bukit Brown cemetery.<sup>3</sup></p>  
 <br>  
-<p style="text-align: center;"><img title="issue11H1" src="../../images/default-source/ethos-images/ethos-issue-11/issue11h1.jpg?sfvrsn=e84bc2ed\_1" data-displaymode="Original" alt="issue11H1"></p>  
+<p style="text-align: center;"><img title="issue11H1" src="/images/Ethos_Images/Ethos_Issue_11/Issue11h1.jpg" data-displaymode="Original" alt="issue11H1"></p>  
 <hr>  
 <p><strong>Notes</strong></p>  
 <ol>  
@@ -202,13 +200,13 @@ It remains the prerogative of elected officials to choose among policy options a
   
   
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Dr Vernie Oliveiro</strong> is Researcher at the Centre for Governance and Leadership at the Civil Service College. Her research interests are in globalisation, civil society, gender, and the uses of history in public affairs. In the interest of full disclosure, she is also a volunteer and member of the Association of Women for Action and Research (AWARE). She received a PhD in International History from Harvard University in 2010. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
