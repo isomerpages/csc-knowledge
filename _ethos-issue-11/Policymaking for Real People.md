@@ -79,13 +79,13 @@ li {
 <p>In some of the chapters, the authors discuss “status quo bias” — the tendency for people to prefer sticking to the status quo even if they are rationally aware that a change might suit their preferences or serve them better. This bias leads to large gaps between human preferences, seemingly optimal solutions, and actual behaviour. In the case of organ donation, for example, the authors note that while polling in Canada found that 85% of society favoured being an organ donor, the actual sign-up rate was 17%. In Singapore and some other countries, the policy is to presume that consent to be a donor has been given, unless people explicitly opt out. In such cases, the share of donors is usually above 80%.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 An unthinking application of the “right” tools according to conventional economic theory might lead instead to suboptimal outcomes.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p> A chapter on fiscal policy details how policymakers were able to improve the design of discretionary transfer policies by taking into account a range of behavioural predispositions and cognitive biases. These include: encouraging spending by framing a transfer as a “bonus” rather than a “rebate”, limiting the time period in which transfers can be consumed, and changing the structure and substance of transfers to avoid building up a sense of entitlement. </p>  
   
@@ -101,25 +101,25 @@ An unthinking application of the “right” tools according to conventional eco
   
 <p> A common theme discussed in the book is the value of combining the insights of behavioural economics with the policy practices of transparency and participation. Moreover, a unilateral approach to policymaking is increasingly out of sync with a Singaporean society and economy that is highly networked and integrated with global processes of production, innovation, and cultural and ideational exchange. Deliberative and participatory approaches to governance allow the Government to draw on the diverse viewpoints and skillsets of society as a strength, and enable a more flexible, responsive, and ultimately more robust approach to governance. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 One way to address the question of the Government’s own cognitive biases is to bring greater transparency to the thinking behind various policy issues, opening the policy process to a wider set of stakeholders  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p> The first step towards a more participatory approach to governance is to open up the policymaking process to the public. In this regard, this book makes a substantial contribution by bringing the voices and thoughts of different practitioners directly to the public. In doing so, it also represents an evolving attitude of greater openness, with policy practitioners prepared to be reflective about the learning that has taken place within Government, upfront about missteps that have occurred, and frank about the difficult challenges of grappling with norms, values, and psychological biases alongside technical economic issues. </p>  
   
 <p> Finally, the book represents an admirable contribution to strengthening exchanges between policymakers and academia. Apart from behavioural economics, the field of cultural economics is also uncovering new insights into how norms and values — from expectations of social mobility, to social capital and trust — relate to economic issues such as inequality, democracy and the functioning of institutions.<a href="#notes"><sup class="#notes">2</sup></a> This growing body of work offers another exciting source of new ideas for policymakers in Singapore to draw from, to respond to ever-more complex governance challenges. </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Tan Yeling</strong> is a PhD candidate at the John F. Kennedy School of Government, Harvard University. She has worked in the government, academic and NGO sectors. Yeling holds an MPA in International Development from Harvard and a BA in International Relations and Economics (Honors, Distinction) from Stanford University. She is co-author (with Ann Florini and Lai Hairong) of China Experiments: From Local Innovations to National Reform (Brookings Institution Press, 2012), and co-editor (with Kelley Lee and Tikki Pang) of Asia's Role in Governing Global Health (Routledge, 2012, forthcoming). </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -129,9 +129,6 @@ One way to address the question of the Government’s own cognitive biases is to
 <li class="small-text">See, for example, Alesina, A., and Glaeser, E., Fighting Poverty in the US and Europe: A World of Difference (Oxford, UK: Oxford University Press, 2004); Alesina, A. and la Ferrara, E., “Preferences for Redistribution in the Land of Opportunities”, Journal of Public Economics 89 (2005): 897–931.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
