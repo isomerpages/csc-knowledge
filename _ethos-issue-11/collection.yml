@@ -2,6 +2,7 @@ collections:
   ethos-issue-11:
     output: true
     order:
+      - "Public Engagement: The Gap between Rhetoric and Practice.md"
       - What the Private Sector Has Learnt about Public Engagement.md
       - Fostering Mutually Constructive Engagement in a Globalised Singapore.md
       - "Public Diplomacy: An Emerging New Normal in Foreign Policy.md"
