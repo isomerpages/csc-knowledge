@@ -79,13 +79,13 @@ descriptions of one’s practice can be a nice way to obscure a rather more pros
   
 <p> Secondly, the gap may exist simply because of real practical challenges that attend to even the most genuine desire to engage the public. Here the gap is really between what public service leaders (and preferred public management gurus) may say their organisation should be and what the organisation at the rank-and-file level is truly capable of being. It could take a long time before the practice catches up with the ideals expressed in the leaders’ idealistic and sometimes even “revolutionary” rhetoric. Mid-level and frontline officers, who are confronted by a different set of risks and rewards in their daily challenges, are likely to be more sensitive to the practical limitations in the day-to-day choices that they make. Genuine public engagement is difficult to account for. The risks of failure, traditionally conceived, are high. And the work that it entails is much more complicated, troublesome, and slow in achieving results (which an officer needs to show at the end of each reporting year). What will all of this contribute to a promising officer’s career prospects? Celebratory talk at the elite levels of the Civil Service about inclusiveness could trivialise real concerns that anxious mid-level bureaucrats have about being able to reconcile the new-fangled rhetoric with traditional goals of efficiency, consistency and results in the practice of policymaking.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The gap between rhetoric and practice may exist because of deeply entrenched public sector mindsets rooted in Singapore’s political culture.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>To progress towards genuine public engagement, it is important at the very start to acknowledge and work through its ideological and practical obstacles. This, I suggest, requires critical understanding of a third factor: the gap between rhetoric and practice may exist because of deeply entrenched public sector mindsets rooted in Singapore’s political culture, unique historical development, and the public mythologies that have nourished (or perhaps impoverished) our understanding of them. </p>  
   
@@ -103,13 +103,13 @@ The gap between rhetoric and practice may exist because of deeply entrenched pub
   
 <p> A deep cultural change is necessary to disencumber our minds of these rigidities. We need to return to the original spirit of pragmatism that made Singapore so successful in the first place. Neo Boon Siong has, for instance, argued for “dynamic governance” that involves “thinking ahead, thinking again, and thinking across”.<a href="#notes"><sup class="#notes">4</sup></a> But culture is notoriously challenging to transform quickly. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 We need to return to the original spirit of pragmatism that made Singapore so successful in the first place.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p> There must also be a congruous incentive structure in place — designed not only to reward officers who take public engagement seriously and can demonstrate genuine progress in their efforts, but also to signal strongly its importance, in ways that go beyond organisational rhetoric. We could commission studies that aim to identify appropriate indicators of successful engagement in the Singapore context, and develop tools for measuring them sensitively. We can adapt for our purposes the numerous models available around the world for evaluating public engagement. Furthermore, there needs to be adequate training for public officers, and a repertoire of effective engagement strategies that they can adopt, so that they will have the confidence and competence necessary to engage effectively. There are many case studies of successful and failed public engagement exercises from around the world that can provide concrete examples and inspiration. </p>  
   
@@ -118,7 +118,7 @@ We need to return to the original spirit of pragmatism that made Singapore so su
   
   
   
-<p class="small-text text">Singapore’s history, and how that history has been understood, shapes the limitations and prospects of public policy as a discipline and as a practice, and has influenced the evolution of Singapore’s political culture as a whole. </p>  
+
   
   
   
