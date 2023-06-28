@@ -239,7 +239,7 @@ It remains the prerogative of elected officials to choose among policy options a
     </li>  
 <li class="small-text">The Society Against Family Violence commissioned an International Violence Against Women Survey in 2010 because of a lack of consistent and comprehensive data on the problem in Singapore. See also Association for Women Action and Research, “General Recommendation 19: Violence Against Women”, CEDAW Shadow Report, May 2011, pp. 153–154.  
     </li>  
-<li class="small-text">Prime Minister Lee Hsien Loong, National Day Rally Speech 2009, 16 August 2009, http://www.pmo.gov.sg/content/pmosite/mediacentre/speechesninterviews/primeminister/2009/August/national\_day\_rallyspeech2009part3racialreligiousharmony.html  
+<li class="small-text">Prime Minister Lee Hsien Loong, National Day Rally Speech 2009, 16 August 2009
     </li>  
 <li class="small-text">Following a leadership tussle in a local NGO when then Deputy Prime Minister Wong Kan Seng reiterated that “keeping religion and politics separate is a key rule of political engagement” in Singapore. See “Exercise Restraint, Mutual Respect, Tolerance”, The Straits Times, May 15, 2009, and Azhar Ghani and Gillian Koh, “Not Quite Shutting Up and Sitting Down: The Singapore Government’s Role in the AWARE Saga” in The AWARE Saga: Civil Society and Public Morality in Singapore, ed. Terence Chong (Singapore: NUS Press, 2011), 42.  
     </li>  
