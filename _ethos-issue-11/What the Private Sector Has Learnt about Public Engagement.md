@@ -192,11 +192,11 @@ li {
 <h6><a name="notes"></a>NOTES</h6>  
   
 <ol>  
-<li class="small-text">SingSem 2011, “What is the New Normal for the Public Service?” by Mr Eddie Teo, Chairman PSC, on Saturday 5 November 2011 in London. Available at: http://www.pscscholarships.gov.sg/content/pscsch/default/outreach/media/speeches/singsem\_new\_normal.html  
+<li class="small-text">SingSem 2011, “What is the New Normal for the Public Service?” by Mr Eddie Teo, Chairman PSC, on Saturday 5 November 2011 in London.
     </li>  
-<li class="small-text">Inaugural Lecture, Chief Secretary Forum (Kuala Lumpur), “Building an Adaptive Service” by Mr Peter Ong, Head, Civil Service, Republic of Singapore, 30 November 2011. Available at: http://app.psd.gov.sg/data/HCS%20Peter%20Ong%20-%20Chief%20Secretary%20Forum\_30%20Nov.pdf  
+<li class="small-text">Inaugural Lecture, Chief Secretary Forum (Kuala Lumpur), “Building an Adaptive Service” by Mr Peter Ong, Head, Civil Service, Republic of Singapore, 30 November 2011.
     </li>  
-<li class="small-text">“Panel III Politics: A New Paradigm?”, in Report on Singapore Perspectives 2012 Singapore Inclusive: Bridging Divides, eds, Chan Hoong Leong and Soon Hock Kang (Singapore: Institute of Policy Studies, 2012), 8. Available at: http://www.spp.nus.edu.sg/ips/docs/events/p2012/SP2012\_report.pdf  
+<li class="small-text">“Panel III Politics: A New Paradigm?”, in Report on Singapore Perspectives 2012 Singapore Inclusive: Bridging Divides, eds, Chan Hoong Leong and Soon Hock Kang (Singapore: Institute of Policy Studies, 2012), 8.   
     </li>  
 <li class="small-text">For instance, at the leadership level: ten years ago, more than 50% of permanent secretaries (as of January 2002) studied Engineering or Science as their undergraduate major. As of January 2012, 55% of permanent secretaries have an arts or social science background, including one with a degree in English. Based on a manual count from publicly available information.</li>  
 </ol>  
