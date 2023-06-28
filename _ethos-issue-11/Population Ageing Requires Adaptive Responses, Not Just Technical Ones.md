@@ -161,9 +161,7 @@ affordability, and how changed incentives might alter people’s healthcare cons
 <li class="small-text">In recent months, news reports have highlighted a number of Singaporeans voicing their concerns over elderly care facilities being built in their vicinities: for example, some residents of Woodlands, over the proposed construction of an elder daycare centre; some residents of Toh Yi estate in Bukit Timah, over plans to build an eldercare facility; and some residents in Bishan, over plans to build a nursing home.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 <br>
