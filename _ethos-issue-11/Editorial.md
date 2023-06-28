@@ -93,7 +93,7 @@ editorial content.</p>
   
 <p>Managing Editor<br>  
 <strong>ETHOS</strong><br>  
-<a href="#">ethos@cscollege.gov.sg</a></p>  
+<a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a></p>  
   
 
 
