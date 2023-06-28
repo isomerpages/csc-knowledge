@@ -252,9 +252,7 @@ It remains the prerogative of elected officials to choose among policy options a
 <li class="small-text">Tay, Simon S.C., “Towards a Singaporean Civil Society”, Southeast Asian Affairs (1998):253.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
