@@ -87,7 +87,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_11/11_Teaser_The%20Future%20of%20Tripartism%20in%20Singapore-%20Concertation%20or%20Dissonance.jpg"></div>
 	<div>
 		<h3>The Future of Tripartism in Singapore: Concertation or Dissonance?</h3>
 		<b><i></i></b>
