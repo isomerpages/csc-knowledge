@@ -159,13 +159,13 @@ administrations and/or leaders can render this process difficult, but not imposs
   
 <p>Such Centres will help senior government policymakers everywhere to plan for the future, and the role their country will play in that future.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Sheila R. Ronis</strong>, PhD is Professor of Management and Director of the MBA/Master of Management Programs at Walsh College, and a Distinguished Fellow with the Project on National Security Reform. This article draws from her research as a Fulbright Specialist Scholar.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -187,9 +187,7 @@ administrations and/or leaders can render this process difficult, but not imposs
 <li class="small-text"> Project on National Security Reform, <em>Forging a New Shield</em> (Arlington, VA: Project on National Security Reform, 2008).</li>  
 </ul>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
