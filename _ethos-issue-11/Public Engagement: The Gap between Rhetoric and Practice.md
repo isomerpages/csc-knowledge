@@ -52,13 +52,21 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #eae4d9;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+	
+.containerbox h3 {
+	color: #274c5a;
+	
+	}	
+.containerbox h4 {
+	color: black;
+	}
+	
 li {
 	font-size: 15px !important;
 	
@@ -116,14 +124,14 @@ We need to return to the original spirit of pragmatism that made Singapore so su
 <p> With holistic attempts to encourage public engagement through cultural management, incentive structures and capability building, we can begin to redesign our public administration in ways that can revitalise a sceptical public and a distrustful strong state — forging a new, complex, perhaps at times open-ended, and yet productive relationship based on an expanded mode of public rationality. By necessity, it will be a slow process, with mistakes and failures along the way: impatience for results and intolerance of failure are two habits  that will have to be unlearnt. </p>  
   
   
-  
+  <br>
   
 
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">The Evolution of Singapore’s Political Culture</h3>  
