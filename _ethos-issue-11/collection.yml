@@ -2,6 +2,7 @@ collections:
   ethos-issue-11:
     output: true
     order:
+      - "Public Diplomacy: An Emerging New Normal in Foreign Policy.md"
       - Policymaking for Real People.md
       - How Not to Lose the War on Poverty.md
       - Managing Transitions.md
