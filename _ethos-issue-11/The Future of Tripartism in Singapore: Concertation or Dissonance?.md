@@ -52,13 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #eae4d9;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #274c5a;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -79,14 +81,12 @@ li {
   
   
   
-<p class="small-text text">The 2008 global financial crisis brought into sharp relief the centrality of Singapore’s tripartism model to its economic development. The concertation of tripartite interests kept industrial relations in Singapore peaceful and facilitated labour market adjustments during the crisis. Consequently, Singapore bucked global trends and continued to experience overall employment growth during the 2008 crisis. This is the first time that Singapore’s employment rate grew during an economic downturn. Employment numbers continued to increase from 2.95 million in 2008 to 2.99 million in 2009.<sup>1</sup> The retention of human capital gave Singapore the competitive advantage to respond quickly to the unexpected rebound. As a result, Singapore achieved a strong economic performance of 14.5% growth in GDP in 2010, fuelled mainly by expansion in the manufacturing sector which grew by 19.3%.<sup>2</sup></p>  
-  
-<p class="small-text text"> In stark contrast, social tensions arising from the breakdown of trust between businesses, labour and the governments in the US, UK and Europe Union countries brought labour negotiations to a stalemate, exacerbated unemployment and further attenuated economic growth. </p>  
+<br>
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Labour Relations and the Global Crisis</h3>  
