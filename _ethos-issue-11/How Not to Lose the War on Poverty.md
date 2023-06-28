@@ -122,14 +122,14 @@ li {
   
 <p><em>Fighting Poverty Together</em> is a salient reminder that poverty alleviation requires a concerted effort by many stakeholders in society. Government can keep public services within the reach of the poor, who are disproportionately dependent on such services to get by. It can also provide the necessary infrastructure, education and jobs in order that people, especially the poor, are provided with the tools to become self-reliant. But private businesses and civil society can also play an important part by increasing the income of the poor and being more vigilant in identifying market gaps, respectively.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Jeanne Conceicao</strong> is Senior Researcher at the Centre for Governance and Leadership, Civil Service College. Her research interests are in government-people relations, networking and engagement. She received a Masters from Harvard in government studies. The views expressed in this article are her own.  
             </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -138,10 +138,7 @@ li {
     </li>  
 <li class="small-text">One cited example of an effective NGO is TechnoServe, which identifies high potential but underperforming economic subsectors and helps resolve the identified market failures that constrain their development.</li>  
 </ol>  
-  
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
