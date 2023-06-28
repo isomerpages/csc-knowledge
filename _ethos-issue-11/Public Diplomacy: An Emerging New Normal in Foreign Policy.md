@@ -248,9 +248,7 @@ Volume 4, Issue 1, 2008</p>
 <li class="small-text">The inaugural Youth Olympic Games hosted by Singapore is a case in point, with Singaporeans questioning the sizeable expenditure overrun and perceived lack of returns.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
