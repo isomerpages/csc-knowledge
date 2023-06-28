@@ -83,7 +83,7 @@ li {
   
 <p> Although the demands of every transition may be different, there are some general strategies that an individual can adopt to enhance transition success in the workplace. </p>  
   
-<p style="text-align: center;"><img title="issue11L2" src="../../images/default-source/ethos-images/ethos-issue-11/issue11l2.jpg?sfvrsn=d4469c15\_0" data-displaymode="Original" alt="issue11L2"></p>  
+<p style="text-align: center;"><img title="issue11L2" src="/images/Ethos_Images/Ethos_Issue_11/Issue11l2.jpg" data-displaymode="Original" alt="issue11L2"></p>  
   
 <p> Matrix adapted from Dotlich, Noel &amp; Walker, 2004; list of transitions collated from Charan, Drotter &amp; Noel, 2001; Dotlich et al., 2004; Ruderman &amp; Ohlott, 2000. </p>  
   
@@ -91,13 +91,13 @@ li {
   
 <p> According to Schlossberg,<a href="#notes"><sup class="#notes">7</sup></a> adaptation to a transition is the interaction of three sets of variables: an individual’s <em>perception</em> of the transition, the characteristics of the individual, and the <em>characteristics</em> of the pre- and post-transition <em>environments.</em> Positivity means that the individual perceives the transition as a positive event and is ready to embrace the challenges and risks and make the necessary adaptations. Being developmentally ready, that is, having “the ability and motivation to attend to, make meaning of and appropriate new knowledge into one’s long-term memory structures”,<a href="#notes"><sup class="#notes">8</sup></a> facilitates learning from work and life experiences in general. More specifically, perceiving the transition as an opportunity for greater learning and growth would help one accept a higher level of challenge during the transition.<a href="#notes"><sup class="#notes">9</sup></a> Bunker<a href="#notes"><sup class="#notes">10</sup></a> similarly points out that people who adopt a learner response to a change are more likely to be comfortable with the change and to have a high capacity for change. Such positivity is particularly essential when the pre- and post-transition environments are significantly different, which represents a more intense transition that requires a greater degree of new learning. Positivity may be more difficult when the transition is perceived to be undesirable. What is helpful in these instances is to see the transition from a broader perspective, which can provide a greater degree of objectivity about the situation and serve as a reminder that negative events can provide useful leadership development experiences.<a href="#notes"><sup class="#notes">11</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 People who adopt a learner response are more likely to have a high capacity for change.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p> Positivity also entails being resilient, instead of allowing self-doubt or defeatism to hamper one’s ability to handle the challenges of a transition.<a href="#notes"><sup class="#notes">12</sup></a> While there is an element of optimism to positivity, this is optimism that is grounded in reality. In one study, individuals who approached career change planfully and realistically cited better experiences of the transition and perceived themselves to be coping better than did individuals who ignored signs of change or reacted unrealistically.<a href="#notes"><sup class="#notes">13</sup></a></p>  
   
