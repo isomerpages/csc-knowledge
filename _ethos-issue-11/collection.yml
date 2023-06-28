@@ -1,4 +1,5 @@
 collections:
   ethos-issue-11:
     output: true
-    order: []
+    order:
+      - "New Capabilities in Strategic Leadership: Insights from Singapore.md"
