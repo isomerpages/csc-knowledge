@@ -146,13 +146,13 @@ languish on paper if the governments in question have weak standings with each o
   
 <p>While some of the tools of public diplomacy are in pervasive use today, there is no consensus or clarity on what the specific objectives of public diplomacy are, apart from the broad one of seeking to shape perceptions and influence foreign audiences. Neither is there clarity on how best to deploy these tools. Consequently, there is much hand-wringing about the efficacy of public diplomacy as a strategy.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A good national brand image notwithstanding, countries may still come up against political hurdles in advancing their commercial interests abroad.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The rise of “nation-branding” as a discipline over the past decade or so has led to public diplomacy being conflated with commercially-oriented brand-building exercises. By default or design, countries as well as cities acquire distinct brand identities based on their key attributes and the values that shape their institutions and policies. For instance, Germany has acquired a reputation for engineering precision and reliability while Italy for style and high fashion. As the scramble for tourist dollars, investments, talent and markets intensifies across the world, many countries and cities, especially developing ones, have begun adopting corporate branding techniques to market their brand identities and establish some form of “product differentiation” from their competitors. </p>  
   
