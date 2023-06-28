@@ -192,7 +192,7 @@ margin-top:15px;
  <br>	
 <div class="grid-container">
   <div>
-    <img src="">
+    <img src="/images/Cropped_images/Ethos_Issue_22/transformation_teaser.jpg">
   </div>
   <div class="content">
     <h3>Transformation in the Singapore Public Service: Emerging Stronger from the Pandemic</h3>
