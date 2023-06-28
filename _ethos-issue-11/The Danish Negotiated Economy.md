@@ -52,13 +52,16 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #eae4d9;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 , .containerbox h4 {
+	color: #274c5a;
+	
+	}
 li {
 	font-size: 15px !important;
 	
@@ -123,14 +126,12 @@ language codes. </p>
   
   
   
-<p class="small-text text">In the 1960s and 1970s, international competitiveness was understood as wage competitiveness, managed by demand-side policies.</p>  
-  
-<p class="small-text text">By the 1980s, measures of competitiveness were reformulated as a composite index to include the relative unit cost of labour, capital costs, productivity, and exchange-rate development. </p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">What is Institutional Competitiveness? </h3>  
