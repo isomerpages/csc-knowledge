@@ -55,8 +55,8 @@ margin-top:15px;
             <br>ETHOS Issue 01</h3>	
             <p>The inaugural issue focuses on a matter of global concern and national: Ageing. What can we expect in the decades to come and what can we do about it today? Learn more from thought leaders Dr Joseph Chamie, Dr Sarah Harper and Professor Norbert Walter.</p>
             
-            
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-01">Download PDF</a></div>
+<br>            
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-01">Download PDF</a></div>
 	</div>
    </div>
     
