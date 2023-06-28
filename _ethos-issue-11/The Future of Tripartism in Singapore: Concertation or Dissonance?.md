@@ -265,7 +265,7 @@ interests are likely to be disparate and diverse. In such an environment, would 
     </li>  
 <li class="small-text">See Endnote 1.  
     </li>  
-<li class="small-text">“Earnings and Wages”, Ministry of Manpower, accessed 26 July 2011, http://www.mom. gov.sg/statistics-publications/national-labourmarket- information/statistics/Pages/earningswages.aspx#tabs-2-2  
+<li class="small-text">“Earnings and Wages”, Ministry of Manpower, accessed 26 July 2011
     </li>  
 <li class="small-text">Singapore Department of Statistics, Key Houshold Income Trends, 2010 (Singapore: Department of Statistics, 2011).  
     </li>  
@@ -279,12 +279,10 @@ interests are likely to be disparate and diverse. In such an environment, would 
     </li>  
 <li class="small-text">Kor, Kian Beng, “NTUC Looking at Reviewing CPF for Older Workers”, The Straits Times, July 15, 2011.  
     </li>  
-<li class="small-text">Transitioning.org, http://www.petitiononline.com/Employed/petition.html (accessed July 24, 2011).</li>  
+<li class="small-text">Transitioning.org, (accessed July 24, 2011).</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
