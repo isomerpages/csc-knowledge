@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 11, Aug 2012</small></em>
-<img src="">
+<img src="/images/Landing_Banner_Images/tile_editorial.jpg">
 
 
 
