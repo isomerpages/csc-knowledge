@@ -84,13 +84,13 @@ everything grows at the same rate together, then inequality does not increase. <
   
 <p> Raising the education level of your population increases productivity and incomes. In many ways, educated people also do better in life. However, not all of it has to be paid for publicly, because a lot of the benefits are private. The fact that more people go for college education does not mean the government has to spend an ever larger share of national income subsidising higher education.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Economic growth does not reduce inequality. If everything grows at the same rate together, then everything stays the same.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p> Over time, I would hope that higher education becomes more efficient. Currently, it is an elite system and carried out in a very expensive way. You have educator-scholars, but they are expensive because they do not spend most of their time teaching. A lot of their salaries goes into allowing them to conduct research. But that need not be the case. When college education is universally provided, the teaching does not necessarily need to come from frontier scholars.</p>  
   
@@ -136,7 +136,7 @@ but many countries with high tax rates, like Norway and Germany, continue to ret
   
 <p> Singapore’s foundations are quite solid. There are countries that get wealthy quickly in ways that are not sustainable, primarily through the export of natural resources. When the oil runs out, the whole game is up. Singapore, in contrast, has something more durable — skills, good government and social harmony. Those tend to reproduce themselves. They are very difficult to replicate. And they do not fade away quickly.  </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -144,9 +144,9 @@ but many countries with high tax rates, like Norway and Germany, continue to ret
   
 <p class="small-text">Professor Autor was in Singapore to speak at a symposium on achieving inclusive growth organised by the Ministry of Trade and Industry and the Civil Service College. He was interviewed by The Straits Times journalist Tan Hui Yee, who contributed this article to ETHOS.</p>  
   
-<hr>  
+</div>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
