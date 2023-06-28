@@ -181,13 +181,13 @@ li {
   
 <p>In the business world, the explosion in customer engagement activity arose from the common understanding that it is the customers who make the company. In the public sector, a parallel perspective is that it is the people, and not the policies, that make Singapore. This belief, however stated, has to underpin the shift to engagement, openness and responsiveness.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Chng Hak-Peng</strong> is Managing Partner at Devaro Partners, a leadership advisory firm that coaches business leaders on strategy development and implementation. He was with the Singapore Civil Service from 1998 to 2002. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -201,9 +201,7 @@ li {
 <li class="small-text">For instance, at the leadership level: ten years ago, more than 50% of permanent secretaries (as of January 2002) studied Engineering or Science as their undergraduate major. As of January 2012, 55% of permanent secretaries have an arts or social science background, including one with a degree in English. Based on a manual count from publicly available information.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
