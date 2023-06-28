@@ -107,7 +107,7 @@ choices like human organ transplant and MediShield<a href="#notes"><sup class="#
   
 <p> The choices in our public policies will become more complex and difficult: between safeguarding the environment and promoting growth, between lowering taxes and helping the disadvantaged, between reducing dependence on foreign workers and relieving cost pressures, and so on. Economic analysis can provide valuable rigour that will help us make better informed choices.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -115,7 +115,7 @@ choices like human organ transplant and MediShield<a href="#notes"><sup class="#
   
 <p class="small-text">This interview was conducted as part of a research project on the evolution of economic thinking and practice in Singapore over the past decade by the Centre for Governance and Leadership, Civil Service College. It was prepared for publication by Godwin Tang, formerly Senior Researcher at the Centre.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
