@@ -52,13 +52,20 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #eae4d9;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-
+.containerbox h3 {
+	color: #d81d60;
+	
+	}
+	
+.containerbox h4 {
+	color: black;
+	}	
 li {
 	font-size: 15px !important;
 	
@@ -115,12 +122,12 @@ li {
   
   
   
-<p class="small-text text">Even leading customer-focused companies have sometimes tripped up in their engagement efforts. </p>  
+<br>
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title"> Social Engagement: Lessons from the Business World</h3>  
