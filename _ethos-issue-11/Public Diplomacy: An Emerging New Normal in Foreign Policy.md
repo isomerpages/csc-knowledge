@@ -167,23 +167,23 @@ A good national brand image notwithstanding, countries may still come up against
 <p> Good public diplomacy, therefore, begins with a mindset change that regards public diplomacy as a strategic function which has to be mainstreamed and integrated with traditional  
 diplomacy. Public diplomacy also entails overcoming cognitive biases that blind a country to elements of its policies and behaviour that rile others, a thorough assessment of what can realistically be done to undo underlying negative images, ongoing anticipation of how foreign publics might respond to specific policies, and if necessary tweaking, or even changing, policy to mitigate any potential negative fallout. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A single policy misstep could be amplified many times over in today's environment and potentially undo a painstainkingly-built positive image.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p> Public diplomacy cannot be approached in a one-size-fits-all manner; unique circumstances in target countries and theatres, particularly the differences in how a country is perceived in different parts of the world, call for country-specific strategies where specific sub-messages consonant with the overarching theme are emphasised and appropriate tools deployed. Most countries embarking on public diplomacy programmes tend to tackle the low-hanging fruit of improving visibility in places where visibility is lacking, while sidestepping the more intractable task of attempting to redeem weak reputations in places that count most. Furthermore, in their relationship-building activities, they tend to preach to the converted, that is, to seek out those who already have positive impressions of their country, and to ignore the peskier, but oftentimes more influential, elements whose views may be at variance with their own. Public diplomacy is not about getting others to accept a country’s policies; it is more about using open, two-way communication to create a foundation of trust against which foreign audiences may understand a country’s policies and actions, even if they do not necessarily accept them in toto. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">
 Credibility is an essential element in the building of trust, which is the ultimate goal of public diplomacy.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3> “Smart Public Diplomacy” </h3>  
   
