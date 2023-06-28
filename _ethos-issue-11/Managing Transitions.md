@@ -131,13 +131,13 @@ A successful adjustment to a transition means that the individual has internalis
   
 <p>Once the individual has made sense of his new role and gained greater knowledge about his new situation, he has to map out his key priorities and strategies in the coming months, define performance standards, and then ensure he achieves the desired results.<a href="#notes"><sup class="#notes">40</sup></a><sup>,</sup><a href="#notes"><sup class="#notes">41</sup></a> The strategy needs to be mapped to the particular characteristics and challenges of the situation.<a href="#notes"><sup class="#notes">42</sup></a> In addition, although it is important to strategise about longer term goals, it is also important that the individual identifies some immediate focal points where he can quickly achieve tangible results. Securing such early wins in his new role would help establish his credibility and set up a virtuous cycle which would facilitate further success.<a href="#notes"><sup class="#notes">43</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 What is important during the transition is that the individual accepts personal responsibility for the situation and puts in the effort to quickly and efficiently learn what he does not know.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p> Building and managing key relationships will facilitate the individual’s ability to deliver results. One key relationship that has to be managed is the individual’s relationship with his supervisor. He has to understand his supervisor’s style and agenda, and negotiate success for himself by clarifying mutual expectations, seeking the necessary resources, and working in ways that would support his supervisor’s agenda. He also has to build a strong network of people who can support him, and to create coalitions with stakeholders that are critical to his success.<a href="#notes"><sup class="#notes">44</sup></a><sup>,</sup><a href="#notes"><sup class="#notes">45</sup></a></p>  
   
@@ -151,13 +151,13 @@ What is important during the transition is that the individual accepts personal 
   
 <p> While we may not always be able to plan what transitions we have to face, we are able to calibrate our responses to these transitions. These strategies could help an individual manage the challenges of transitions and reap their potential benefits.  </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Khoo Ee Wan</strong> is Senior Consultant (Psychologist) at the Centre for Leadership Development in the Civil Service College. The Centre provides leadership assessment and development services that support the Singapore Public Service in developing a pipeline of talent that are inspired to lead and drive change.  </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
