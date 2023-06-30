@@ -237,7 +237,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Context, Connection and Continuity: Governance in the Next Decade</h3>
-		<b><i>Ms Vani Tripathi, Datuk Noharuddin Nordin and Ambassador S. Francis Moloi</i></b>
+		<b><i>Ethos roundtable with Ms Vani Tripathi, Datuk Noharuddin Nordin and Ambassador S. Francis Moloi</i></b>
 		<p>Three eminent participants from Singapore’s 5th Leaders in Governance Programme discuss the evolving role of the public sector, and the need for governments to engage with changing norms in society.</p>
 		<div class="button1"><a href="/ethos-issue-12/context-connection-and-continuity-governance-in-the-next-decade/">Read more</a></div>
 	</div>
