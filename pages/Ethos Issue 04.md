@@ -12,7 +12,10 @@ image: /images/Ethos_Thumbnails_Cover/ethosissue04.jpg
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -54,7 +57,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Images/Ethos_Issue_04/Ethos04.jpg"></div>
 	<div>
-		<h3>Issue 04, April 2008 <br> ETHOS Issue 04</h3>
+		<h3><span class="cat">Issue 04, April 2008</span><br> ETHOS Issue 04</h3>
 		<p>What is the next phase of development for public service delivery? What are the new key capabilities that the public service will have to develop, to thrive in a challenging operating environment? Featuring thought leaders such as Jocelyne Bourgon, B. Guy Peters, Peter Ho and Lam Chuan Leong.</p>
 <br>
 <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-04">Download PDF</a></div>
