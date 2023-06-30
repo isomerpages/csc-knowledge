@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -53,7 +56,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue11.jpg"></div>
 	<div>
-		<h3>Issue 11, Aug 2012<br>ETHOS Issue 11</h3>
+		<h3><span class="cat">Issue 11, Aug 2012</span><br>ETHOS Issue 11</h3>
 		<p>This issue explores the impact of a more diverse socioeconomic demographic and geopolitical landscape on public institutions and policymaking.</p>
 		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-11.pdf">Download PDF</a></div>
 	</div>
