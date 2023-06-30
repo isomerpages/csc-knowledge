@@ -70,8 +70,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i>Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief, ETHOS</figcaption>
+		<b><i>by Alvin Pang</i></b>
 		<p>Our elders are not the problem, nor should they be passive recipients of society's largesse. How can we ensure seniors remain involved, empowered and active?</p>
 		<div class="button1"><a href="/ethos-issue-20/editorial-issue-20/">Read more</a></div>
 	</div>
