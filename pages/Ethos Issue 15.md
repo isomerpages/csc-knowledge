@@ -69,7 +69,6 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p>Of the key constituents of society, the public sector is the most directly accountable, through the various institutions of state and the political process, to the people and the national good.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
@@ -226,7 +225,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Risk-Ready Leadership</h3>
-		<b><i>
+		<b><i>Ethos roundtable with
 			Nikhil Seth,
 			Stephanie Foster and
 			Said Faisa
