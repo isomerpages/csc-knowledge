@@ -12,7 +12,10 @@ image: /images/Ethos_Thumbnails_Cover/ethosissue02.jpg
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -54,7 +57,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Images/Ethos_Issue_02/ETHOS02.jpg"></div>
 	<div>
-		<h3>Issue 02, Apr 2007 <br> ETHOS Issue 02</h3>
+		<h3><span class="cat">Issue 02, Apr 2007</span><br> ETHOS Issue 02</h3>
 		<p>Urban planning and management strengthens a city’s capacity to respond to change. How might this capacity best be served? Featuring leading thinkers in the urban design space such as Professors Peter Hall, Asit K. Biswas, Simon Tay and Anthony T. H. Chin.</p>
 <br>
 <div class="button1">
