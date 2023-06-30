@@ -92,9 +92,7 @@ td
 <td class="text">	
 <h3>Foreword </h3>
 <b><i>by Ong Toon Hui</i></b>
-<figcaption>
-Dean and CEO, Civil Service College
-</figcaption>
+
 	
 <p>	This year, the Civil Service College marks its 20th year since becoming a statutory board in 2001.</p>	
 
@@ -123,10 +121,7 @@ Dean and CEO, Civil Service College
 <td class="text">	
 <h3>Editorial </h3>
 <b><i>by Dr Alvin Pang</i></b>
-<figcaption>
-Editor-in-Chief Ethos
-</figcaption>
-	
+
 <p>	
 In this issue, ETHOS commemorates two decades since CSC's formation as a statutory board and our dedication to continuous learning and capability building in the Singapore Public Service. Gathering insights from a range of practitioners and thought leaders from both within and outside the Service, this issue explores what and how we should learn to be ready for the future.
 </p>	
@@ -250,7 +245,7 @@ Nudges and other behaviourally compatible strategies could help address the chal
 <td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-miss1.jpg"></td>
 
 <td class="text">	
-<h3>LEAD BY LEARNING IN A DIGITAL WORLD</h3>
+<h3>Lead by Learning in a Digital World</h3>
 <b><i>by N. Venkat Venkatraman</i></b>
 
 <p>	
@@ -291,7 +286,7 @@ In a future shaped by transformative digital advances, leadership calls for curi
 <td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-06.jpg"></td>
 
 <td class="text">	
-<h3>NURTURING FUTURE LEADERS: Adapting Leadership Development Approaches to a Changing Context</h3>
+<h3>Nurturing Future Leaders: Adapting Leadership Development Approaches to a Changing Context</h3>
 <b><i>by Khoo Ee Wan, Aurora de Souza Watters, and Suniartie Sudyono</i></b>
 
 <p>To be successful, positional leaders must learn to move from being 'hero' to 'host', providing the conditions , processes and resources for others to step up and contribute at every level.
@@ -311,9 +306,8 @@ In a future shaped by transformative digital advances, leadership calls for curi
 <td class="img"><img src="/images/Cropped_images/Ethos_Issue_23/print23-07.jpg"></td>
 
 <td class="text">	
-<h3>ENGAGING HEARTS AND MINDS: A Conversation about 
-Learning Experience Design</h3>
-<b><i>Martin Hang, Daisy Koh , Lau Teh Wei , Lim Ee-Lon</i></b>
+<h3>Engaging Hearts and Minds: A Conversation about Learning Experience Design</h3>
+<b><i>by Martin Hang, Daisy Koh , Lau Teh Wei , Lim Ee-Lon</i></b>
 
 <p>Four seasoned practitioners share their perspectives on crafting immersive, learner-centred approaches that may lead 
 to more enduring outcomes in and beyond the workplace.</p>	
