@@ -69,7 +69,6 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p>That the survival and success of Singapore depends on our economic vitality and relevance to world market remains a given. The question is how best to improve the lot of those who are less able to benefit from the particular activities that sustain Singapore.</p>
 		<div class="button1"><a href="/ethos-issue-11/editorial/">Read more</a></div>
 	</div>
