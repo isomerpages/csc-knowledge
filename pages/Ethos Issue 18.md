@@ -69,7 +69,6 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>Dr Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief Ethos</figcaption>
 		<p>The future of work is less about who gets to do the work, but what work is worth doing and what tradeoffs should be made in so doing.</p>
 		<div class="button1"><a href="/ethos-issue-18/editorial/">Read more</a></div>
 	</div>
