@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -53,7 +56,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue12.jpg"></div>
 	<div>
-		<h3>ISSUE 12, JUNE 2012<br>ETHOS Issue 12</h3>
+		<h3><span class="cat">ISSUE 12, JUNE 2012</span><br>ETHOS Issue 12</h3>
 		<p>This issue looks at how governments can create and deliver new forms of public value amid rapid globalisation , widening inequality , mounting debt and a more vocal public empowered by the rise of social media. This issue features contributions by PM Lee Hsien Loong, Lord Gus O'Donnell and Professor Peter Shergold, among other thought leaders.</p>
 		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-12.pdf">Download PDF</a></div>
 	</div>
