@@ -68,8 +68,8 @@ td
 <img src="/images/Ethos_Thumbnails_Cover/ethosissue23.jpg">
 </td>
 
-<td class="text"><h3><span class="cat">PRINT ISSUE 23, OCT 2021</span>
-<br>Ethos Print Issue 23</h3>	
+<td class="text"><h3><span class="cat">ISSUE 23, OCT 2021</span>
+<br>ETHOS Issue 23</h3>	
 <p>In this issue, ETHOS commemorates two decades since CSC's formation as a statutory board and our dedication to continuous learning and capability building in the Singapore Public Service. Gathering insights from a range of practitioners and thought leaders from both within and outside the Service, this issue explores what and how we should learn to be ready for the future.</p>
 
 
