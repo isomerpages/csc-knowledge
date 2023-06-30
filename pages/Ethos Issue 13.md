@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -53,7 +56,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue13.jpg"></div>
 	<div>
-		<h3>Issue 13, June 2014<br>ETHOS Issue 13</h3>
+		<h3><span class="cat">Issue 13, June 2014</span><br>ETHOS Issue 13</h3>
 		<p>How can the public service leverage its resources and influence to not only accommodate the varied, restless energies emerging in society, but actively harness them towards the public good? Learn more about the lessons from Our Singapore Conversation and hear from Adam Kahane and Gus O’Donnell.</p>
 <br>	
 <div class="button1"><a href="https://file.go.gov.sg/ethos-issue-13.pdf">Download PDF</a></div>
