@@ -213,7 +213,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Putting the Public Back in Public Service</h3>
-		<b><i>Hon Christine , Mr Aung Naing Oo and Ms Shazainah Shariffuddin </i></b>
+		<b><i>Ethos roundtable with Hon Christine , Mr Aung Naing Oo and Ms Shazainah Shariffuddin </i></b>
 		<p>In this edition of the ETHOS Roundtable, participants of the 9th Leaders in Governance Programme discuss the challenges of technology, public trust, and the need to nurture strong ties between government and citizens.</p>
 		<div class="button1"><a href="/ethos-issue-16/putting-the-public-back-in-public-service/">Read more</a></div>
 	</div>
