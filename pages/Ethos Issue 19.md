@@ -125,7 +125,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_The_Future_of_Heartland_Living.jpg"></div>
 	<div>
-		<h3>THE FUTURE OF HEARTLAND LIVING</h3>
+		<h3>The Future of Heartland Living</h3>
 		<b><i>by Cheong Koon Hean</i></b>
 		<p>Innovations in hardware and heartware shape the design of Singapore’s next-generation residential towns.</p>
 		<div class="button1"><a href="/ethos-issue-19/the-future-of-heartland-living/">Read more</a></div>
@@ -149,7 +149,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_Reimagining_Singapore_Placemaking_through_Arts_and_Culture.jpg"></div>
 	<div>
-		<h3>REIMAGINING SINGAPORE: PLACEMAKING THROUGH ARTS AND CULTURE</h3>
+		<h3>Reimagining Singapore: Placemaking through Arts and Culture</h3>
 		<b><i>by Rosa Daniel</i></b>
 		<p>Upgraded infrastructure and creative programming enliven the city’s vibrant neighbourhoods, as it aspires to become a global cultural hub.</p>
 		<div class="button1"><a href="/ethos-issue-19/reimagining-singapore-placemaking-through-arts-and-culture/">Read more</a></div>
