@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -53,7 +56,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue14.jpg"></div>
 	<div>
-		<h3>Issue 14, <br></h3>
+		<h3><span class="cat">Issue 14, </span> <br></h3>
 		<p>This issue examines evolving notions of merit, competence and reward, as economic and social needs become much more complex and even divergent. We explore ways to further strengthen Singapore's social compact and inclusiveness, even as we continue to pursue excellence and global competitiveness. Contributors to this issue include leading thinkers Professor Gary Solon and Laurence Lien and our own public service leaders such as Peter Ho and Peter Ong.</p>
 		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-14.pdf">Download PDF</a></div>
 	</div>
