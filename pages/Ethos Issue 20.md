@@ -59,7 +59,7 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">Issue 20, Jan 2019</span>
 			<br>
-		Ethos Issue 20
+		ETHOS Issue 20
 		</h3>
 		<p>This issue looks at the future of ageing in Singapore, as it seeks to become a city in which citizens of all ages can feel involved, empowered and active.</p>
 		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-20.pdf">Download PDF</a></div>
