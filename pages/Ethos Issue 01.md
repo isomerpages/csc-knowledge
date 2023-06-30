@@ -12,7 +12,10 @@ image: /images/Ethos_Images/Ethos_Issue_01/ETHOS01.jpg
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
