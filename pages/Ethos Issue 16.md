@@ -68,8 +68,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i>Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief, ETHOS</figcaption>
+		<b><i>by Alvin Pang</i></b>
 		<p>The political upheavals of 2016 must have prompted deep introspection in governments the world over.</p>
 		<div class="button1"><a href="/ethos-issue-16/editorial/">Read more</a></div>
 	</div>
