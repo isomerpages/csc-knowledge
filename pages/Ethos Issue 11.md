@@ -125,7 +125,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Population Ageing Requires Adaptive Responses, Not Just Technical Ones</h3>
 		<b><i></i></b>
@@ -137,7 +137,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Public Engagement: The Gap between Rhetoric and Practice</h3>
 		<b><i></i></b>
@@ -149,7 +149,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_11/11_Teaser_What%20the%20Private%20Sector%20Has%20Learnt%20about%20Public%20Engagement.jpg"></div>
 	<div>
 		<h3>What the Private Sector Has Learnt about Public Engagement</h3>
 		<b><i></i></b>
