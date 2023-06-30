@@ -71,7 +71,6 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p>Singapore's meritocracy is fundamentally pragmatic, but has the relentless pursuit of excellence and merit-based rewards — assumed to inculcate discipline and accrue optimal gains for all — in fact left some in society behind due to factors over which they have little control?</p>
 		<div class="button1"><a href="/ethos-issue-14/editorial/">Read more</a></div>
 	</div>
@@ -96,7 +95,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Striking the Right Balance</h3>
-		<b><i>
+		<b><i>Ethos roundtable with
 			Hamzah Sulaiman and
 		 Filimone Waqabaca and
 		 Mohammed Mosly</i></b>
