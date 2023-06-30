@@ -374,3 +374,7 @@ to more enduring outcomes in and beyond the workplace.</p>
 </tr>
 </tbody>
 </table>
+
+<div class="back">
+<a href="/all-issues/">Back to All Issues</a>
+</div>
