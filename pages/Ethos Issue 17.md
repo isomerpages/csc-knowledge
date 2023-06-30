@@ -12,7 +12,11 @@ description: ""
 	}
 	
 
-
+ .cat
+    {
+        font-size: 15px;
+    }
+	
 .text
 {
 	width: 50%;
@@ -53,7 +57,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue17.jpg"></div>
 	<div>
-		<h3>Issue 17, June 2017<br>ETHOS Issue 17</h3>
+		<h3><span class="cat">Issue 17, June 2017</span><br>ETHOS Issue 17</h3>
 		<p>Behavioural insights (BI) can lead to significant changes in behaviour and have a positive impact on policymaking and public service delivery. However, a BI approach is not an end in itself; neither is it the silver bullet to all our policy challenges. This issue explores how to better design choice infrastructure and improve the use of BI in combination with other tools.</p>
 		<div class="button1"><a href="https://file.go.gov.sg/ethosissue17.pdf">Download PDF</a></div>
 	</div>
