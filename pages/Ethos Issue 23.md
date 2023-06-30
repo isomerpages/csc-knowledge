@@ -11,7 +11,12 @@ border-collapse: separate;
 border-spacing: 30px 10px;
 }	
 
-
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+	}
+	
 .text
 {
 	width: 50%;
