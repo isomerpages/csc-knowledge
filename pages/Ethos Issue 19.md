@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -53,8 +56,8 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue19.jpg"></div>
 	<div>
-		<h3>Issue 19, Jul 2018 <br>
-		Ethos Issue 19
+		<h3><span class="cat">Issue 19, Jul 2018</span><br>
+		ETHOS Issue 19
 		</h3>
 		<p>This issue looks at Singapore's urban development and explores how Singapore's cityscape is set to evolve in the near future, and what it could mean for the way we live, work, connect and play in the 21st century.</p>
 		<div class="button1"><a href="">Download PDF</a></div>
