@@ -72,7 +72,7 @@ margin-top:15px;
 		<b><i>Peter Ho</i></b>
 		<p>We are at an inflexion point. Globalisation and rapid advances in technology are transforming business, politics and society. The simultaneous rise of China and India are changing trade flows and mapping out new patterns of influence. </p>
 	
-<div class="button1"><a target="_blank" href="/ethos-issue-01/foreword/">Read more</a></div>
+<div class="button1"><a href="/ethos-issue-01/foreword/">Read more</a></div>
 </div>
 </div> 
 
