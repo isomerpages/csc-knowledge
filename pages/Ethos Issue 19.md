@@ -60,7 +60,7 @@ margin-top:15px;
 		ETHOS Issue 19
 		</h3>
 		<p>This issue looks at Singapore's urban development and explores how Singapore's cityscape is set to evolve in the near future, and what it could mean for the way we live, work, connect and play in the 21st century.</p>
-		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-19.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-19.pdf">Download PDF</a></div>
 	</div>
 </div>
 <br>
