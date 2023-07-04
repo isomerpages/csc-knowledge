@@ -185,48 +185,48 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
 		<h3>Policymaking for Real People</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>Reviewed by Tan Ye</i></b>
+		<p>An understanding of how human biases affect economic decision-making can significantly improve the design of public policy. A new book authored by Singapore’s policymakers explains</p>
+		<div class="button1"><a href="/ethos-issue-11/policymaking-for-real-people/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
 		<h3>How Not to Lose the War on Poverty</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>Reviewed by Jeanne Conceicao</i></b>
+		<p>Conventional strategies to fight poverty may be doing more harm than good.</p>
+		<div class="button1"><a href="/ethos-issue-11/how-not-to-lose-the-war-on-poverty/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_11/11_Teaser_Managing%20Transitions.jpg"></div>
 	<div>
 		<h3>Managing Transitions</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Khoo Ee Wan</i></b>
+		<p>How can individuals manage the challenges — and reap the potential benefits — of life changes and workplace transitions?</p>
+		<div class="button1"><a href="/ethos-issue-11/managing-transitions/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>New Capabilities in Strategic Leadership: Insights from&nbsp;Singapore</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Sheila Ronis</i></b>
+		<p>Singapore’s experience holds lessons for the establishment of robust, future-oriented national strategy frameworks elsewhere.</p>
+		<div class="button1"><a href="/ethos-issue-11/new-capabilities-in-strategic-leadership-insights-from-singapore/">Read more</a></div>
 	</div>
 </div>
 
