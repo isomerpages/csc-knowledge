@@ -58,7 +58,7 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">Issue 18, Jan 2018</span><br> ETHOS Issue 18</h3>
 		<p>This issue looks at the future of work and how technology is changing the future of work and employment. We gather views from global thinkers such as Gary A. Bolles and Peter Shergold as well as forward-thinking organisations like Grab and McKinsey, where Singapore's own Chan Chi Ling, Daniel Lim, Genevieve Ding, Andrea Phua, and the Ministry of Manpower share insights from the public sector.</p>
-		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-18.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-18.pdf">Download PDF</a></div>
 	</div>
 </div>
 
