@@ -166,7 +166,7 @@ margin-top:15px;
 		<h3>Fostering Mutually Constructive Engagement in a Globalised Singapore</h3>
 		<b><i>By Vernie Oliveiro</i></b>
 		<p>An increasingly complex and diverse decision-making ecology calls for more productive relations between the state and civil society.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-11/fostering-mutually-constructive-engagement-in-a-globalised-singapore/">Read more</a></div>
 	</div>
 </div>
 
@@ -178,7 +178,7 @@ margin-top:15px;
 		<h3>Public Diplomacy: An Emerging New Normal in Foreign Policy</h3>
 		<b><i>by Premarani Somasundram</i></b>
 		<p>States must now learn to shape the context in which their policies are perceived by foreign publics in order to achieve national goals.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-11/public-diplomacy-an-emerging-new-normal-in-foreign-policy/">Read more</a></div>
 	</div>
 </div>
 
