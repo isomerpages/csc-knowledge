@@ -161,11 +161,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Fostering Mutually Constructive Engagement in a Globalised Singapore</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>By Vernie Oliveiro</i></b>
+		<p>An increasingly complex and diverse decision-making ecology calls for more productive relations between the state and civil society.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
@@ -173,11 +173,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Public Diplomacy: An Emerging New Normal in Foreign Policy</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Premarani Somasundram</i></b>
+		<p>States must now learn to shape the context in which their policies are perceived by foreign publics in order to achieve national goals.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
