@@ -152,9 +152,9 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Issue_11/11_Teaser_What%20the%20Private%20Sector%20Has%20Learnt%20about%20Public%20Engagement.jpg"></div>
 	<div>
 		<h3>What the Private Sector Has Learnt about Public Engagement</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Chng Hak-Peng</i></b>
+		<p>Consumer engagement strategies — and failures — in the business world could hold valuable lessons for engagement efforts in the public sector.</p>
+		<div class="button1"><a href="/ethos-issue-11/what-the-private-sector-has-learnt-about-public-engagement/">Read more</a></div>
 	</div>
 </div>
 
