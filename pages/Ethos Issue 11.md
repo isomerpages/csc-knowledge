@@ -128,9 +128,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Population Ageing Requires Adaptive Responses, Not Just Technical Ones</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Donald Low and Melindaelias</i></b>
+		<p>Beyond increased public spending, Singapore’s ageing population should prompt a deep rethinking about the structures, risks and values underpinning our healthcare system</p>
+		<div class="button1"><a href="/ethos-issue-11/population-ageing-requires-adaptive-responses-not-just-technical-ones/">Read more</a></div>
 	</div>
 </div>
 
@@ -140,9 +140,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Public Engagement: The Gap between Rhetoric and Practice</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Kenneth Paul Tan</i></b>
+		<p>Deeply ingrained habits and structures may have to be shed before a more productive relationship can develop between the state and the public.</p>
+		<div class="button1"><a href="/ethos-issue-11/public-engagement-the-gap-between-rhetoric-and-practice/">Read more</a></div>
 	</div>
 </div>
 
