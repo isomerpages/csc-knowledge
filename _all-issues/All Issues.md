@@ -323,7 +323,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-13">Issue 13, May 2014, <br>Public Service Transformation</a></td>
+	<td><a target="_blank" href="/ethos-issue-13/">Issue 13, May 2014, <br>Public Service Transformation</a></td>
 </tr>
 
 
@@ -344,7 +344,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-12">Issue 12, Jun 2013, <br>Listen, Labour and Lead</a></td>
+	<td><a target="_blank" href="/ethos-issue-12/">Issue 12, Jun 2013, <br>Listen, Labour and Lead</a></td>
 </tr>
 
 
@@ -369,7 +369,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-<td><a target="_blank" href="https://go.gov.sg/ethos-issue-11">Issue 11, Aug 2012, Globalisation: Challenges
+<td><a target="_blank" href="/ethos-issue-11/">Issue 11, Aug 2012, Globalisation: Challenges
 and Policy Responses</a></td>
 </tr>
 
