@@ -80,9 +80,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Economic Thinking and Practice in Singapore</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>Interview with Ravi Menon</i></b>
+		<p>The application of economic principles to public policy has shifted significantly over the past decade, in response to new insights and changing circumstances, the Managing Director of the Monetary Authority of Singapore explains.</p>
+		<div class="button1"><a href="/ethos-issue-11/economic-thinking-and-practice-in-singapore/">Read more</a></div>
 	</div>
 </div>
 
@@ -92,9 +92,9 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Issue_11/11_Teaser_The%20Future%20of%20Tripartism%20in%20Singapore-%20Concertation%20or%20Dissonance.jpg"></div>
 	<div>
 		<h3>The Future of Tripartism in Singapore: Concertation or Dissonance?</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by SohTze Min</i></b>
+		<p>Singapore’s tripartite model of labour relations has underpinned three decades of success, but it must now contend with destabilising forces in the modern globalised economy.</p>
+		<div class="button1"><a href="/ethos-issue-11/the-future-of-tripartism-in-singapore-concertation-or-dissonance/">Read more</a></div>
 	</div>
 </div>
 
@@ -104,9 +104,9 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Issue_11/11_Teaser_The%20Danish%20Negotiated%20Economy.jpg"></div>
 	<div>
 		<h3>The Danish Negotiated Economy</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Ove K. Pedersen</i></b>
+		<p>Denmark thrives on a strategy of institutional competitiveness: policies, incentives and norms that create a whole-of-society comparative advantage.</p>
+		<div class="button1"><a href="/ethos-issue-11/the-danish-negotiated-economy/">Read more</a></div>
 	</div>
 </div>
 
@@ -116,9 +116,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Don’t Close Off Options in Tackling Income Gap</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>Interview with David Autor</i></b>
+		<p>A leading US labour economist discusses the challenges of rising income inequality in Singapore.</p>
+		<div class="button1"><a href="/ethos-issue-11/dont-close-off-options-in-tackling-income-gap/">Read more</a></div>
 	</div>
 </div>
 
