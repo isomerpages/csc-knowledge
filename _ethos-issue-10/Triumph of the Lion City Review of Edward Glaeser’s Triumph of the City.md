@@ -151,13 +151,13 @@ continued success.
   
   
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Tan Peng Ting</strong> is Senior Associate at the Centre for Liveable Cities, Singapore. She is also currently pursuing a Masters of Social Sciences in Geography at the National University of Singapore. The views expressed in this article are her own.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -166,10 +166,7 @@ continued success.
     </li>  
 <li class="small-text">The same report ranked Singapore as the second most competitive economy in the world. See http://www.weforum.org/reports/global-competitiveness-report-2011-2012</li>  
 </ol>  
-  
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
