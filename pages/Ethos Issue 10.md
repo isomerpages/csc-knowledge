@@ -174,12 +174,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_10/Issue10_Perceptions_Of_Fairness.png"></div>
 	<div>
 		<h3>Perceptions of Fairness</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by David Chan</i></b>
+		<p>The perceived fairness of process and treatment is as significant as outcomes when engaging employees, stakeholders or the public.</p>
+		<div class="button1"><a href="/ethos-issue-10/perceptions-of-fairness/">Read more</a></div>
 	</div>
 </div>
 
