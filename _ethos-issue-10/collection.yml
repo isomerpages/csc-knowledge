@@ -2,6 +2,7 @@ collections:
   ethos-issue-10:
     output: true
     order:
+      - Developing Our Approach to Public Engagement.md
       - Perceptions of Fairness.md
       - Adaptive Government.md
       - "Opinion: Preparing Public Officers for New Modes of Governance.md"
