@@ -321,7 +321,7 @@ that is more open and dynamic.
 <li>More attuned to challenges of governing, better able to manage trade-offs and more difficult conversations in the future.</li>  
 <li>Better equipped to tackle challenges as a community, withstand threats, respond and recover from crisis.</li>  
 </ul>  
-<p style="text-align: center;"><img title="13g4a-big" src="../../images/default-source/ethos-images/ethos-issue-10/13g4a-big.gif?sfvrsn=40078a62\_0" data-displaymode="Original" alt="13g4a-big"></p>  
+<p style="text-align: center;"><img title="13g4a-big" src="/images/Ethos_Images/Ethos_Issue_10/Decision_Making.gif" data-displaymode="Original" alt="13g4a-big"></p>  
 &nbsp;  
   
   
