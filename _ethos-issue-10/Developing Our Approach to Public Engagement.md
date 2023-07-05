@@ -58,7 +58,20 @@ font-family: Georgia;
 	margin-top: 5%;
 	color: white;
 	
+	}
+	
+.containerbox2 {
+	background-color: #ab8239;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	color: white;
 	}	
+
+	.containerbox2 h3 , .containerbox2 strong{
+	color: white;
+	}
+	
 .containerbox h3 {
 	color: white;
 	}
@@ -187,7 +200,7 @@ on output but process.
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">The Land Transport Authority's (LTA) Legalising Road Side Parking by Changing Traffic Scheme</h3>  
@@ -240,7 +253,7 @@ on output but process.
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">NorthLight School  
@@ -264,17 +277,17 @@ on output but process.
   
 <p>Public engagement in practice has limitations. Engagement efforts consume government resources and in the short term, can appear less efficient than decision-making by fiat. Public outcomes realised through co-creation can be inconsistent in service standards and outcomes, since the government is no longer in direct control of delivery.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The public sector will have to  
 negotiate the transition from  
 a stable and predictable  
 operating environment to one  
 that is more open and dynamic.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Additionally, public involvement in policy deliberations or execution could significantly constrain the manoeuvring space available to the government, possibly hindering its ability to plan and act decisively for the long term. Finally, a more organic, decentralised operating environment, with multiple simultaneous activities and a variety of players, can appear inchoate and difficult to manage, evaluate or account for.</p>  
   
@@ -284,7 +297,7 @@ that is more open and dynamic.
   
   
   
-<div class="container">  
+<div class="containerbox2">  
   
   
 <h3 class="title">A Framework For Public Engagement More Robust Solutions · More Resilient Society</h3>  
