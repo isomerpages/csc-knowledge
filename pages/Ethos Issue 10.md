@@ -104,7 +104,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Images/Ethos_Issue_10/Public_Governance_Challenges_In_A_Changing_Landscape.png"></div>
 	<div>
-		<h3></h3>
+		<h3>Public Governance: Challenges in a Changing Landscape</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -116,7 +116,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>The New Synthesis: Preparing Government for the Challenges of the 21st Century</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -128,7 +128,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>National Resilience: Developing a Whole-ofSociety Response</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -140,7 +140,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Opinion: Singapore’s Non-Profit Sector: What Should its Role Be?</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -152,7 +152,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Open Government and Public Crowdsourcing in Practice</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -164,7 +164,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Developing Our Approach to Public Engagement</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -176,7 +176,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Perceptions of Fairness</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -188,7 +188,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Adaptive Government</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -200,7 +200,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Opinion: Preparing Public Officers for New Modes of Governance</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -212,7 +212,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Opinion: Frontiers, Sovereignty and Cyberspace</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -224,7 +224,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Triumph of the Lion City Review of Edward Glaeser’s Triumph of the City</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -236,7 +236,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Opinion: Futures Literacy — Embracing Complexity and Using the Future</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -248,7 +248,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Leadership Across Generation</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
