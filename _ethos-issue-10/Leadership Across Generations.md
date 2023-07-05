@@ -175,32 +175,37 @@ li {
 <h4>• Big-Picture Capabilities but Short-Term Focus.</h4>  
 <p>Whilst the younger generations are supposedly more inclined towards broader-level thinking, they also seem to operate on shorter timescales. This apparent contradiction might be the function of a difference between capability and preference. This is conceivable, given that the newer generations grew up in a more globalised world of not just interacting systems and diverse views, but also one that has a high rate of change, high product design turnover, and a strong emphasis on speed. The new generations might be able to see more quickly and grasp a more complex inter-related world — expressed as an aptitude for bigger-picture and even longer-term thinking. Yet, they have not seen things last for very long and are used to instant results. The younger generation's short-term focus could also reflect their view of organisational commitment — compared to the older generations, they have a more short-term view of their time with an organisation.</p>  
 </blockquote>  
+ <br>
+ <br>
+<div class="break">  
   
-<hr>  
-  
-<h5><em>  
+<p class="break1">  
 "They are very impatient, or have a very short attention span. So they might start on one project and be very excited about it and then they realise 'Maybe we can't do this sort of thing' and then they'll move onto the next thing and be very excited about that."  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">— Gen Y on Gen Y leaders</p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— Gen Y on Gen Y leaders</p>  
   
-<hr>  
+</div>
+
+<br>
+<br>
+<br>
   
 <blockquote style="margin-right: 0px;" dir="ltr">  
 <h4>• Sources of Authority.</h4>  
 <p>Generations appear to vary in their sources of authority with some real consequences for how they lead. Older generations have a higher respect for those in authority as compared to new generations who are less concerned with authority and hierarchy. The younger generations have grown up in a climate where it is culturally more acceptable to question authority. Their developmental context has been one dominated by post-modern and pluralistic worldviews, with no one seen to possess absolute "right" answers. Many organisations are becoming flatter and younger leaders may perceive influence as deriving primarily from competence and knowledge. Given these differing sources of authority, the older generation leaders can be seen to exercise leadership along lines of hierarchy, viewing leadership influence as generally positional. On the other hand, the newer generations are more likely to respect and also exercise leadership based on capability, competency and expertise, rather than rank.</p>  
 </blockquote>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
-"\[My experience of\] all the Boomer bosses I've reported to \[is that\] it's more formal, in terms of the relationship… and it's a bit more directive rather than discursive."  
+<p class="break1">  
+"[My experience of] all the Boomer bosses I've reported to \[is that\] it's more formal, in terms of the relationship… and it's a bit more directive rather than discursive."  
 "There is an unspoken expectation that you must respect me, because I'm your boss… and I didn't get to this position for nothing."  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">— Gen Y on Boomer boss</p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— Gen Y on Boomer boss</p>  
   
-<hr>  
+</div>  
   
 <h3>IMPLICATIONS FOR THE DEVELOPMENT OF FUTURE LEADERS</h3>  
   
