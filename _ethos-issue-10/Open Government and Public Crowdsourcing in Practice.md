@@ -85,19 +85,15 @@ The success of open government and crowdsourcing efforts also depends critically
   
   
   
-<p class="small-text text"><strong>UNITED STATES (US)</strong><br>  
-The <em>Open Government Directive</em> was initiated by the Obama administration in December 2009 to increase civic participation and engagement<a href="#notes"><sup>1</sup></a> and create a culture of transparency, participation and collaboration across US Federal agencies. It stipulates four broad guidelines.</p>  
+
   
-<p class="small-text text"><strong>UNITED KINGDOM (UK)</strong><br>  
-The UK has set up <em>www.data.gov.uk</em><a href="#notes"><sup>16</sup></a> to consolidate government data in a single searchable website. The goal is to "help people understand how government works and how policies are made." To date, there are over 5,400 datasets searchable through the website, from across government departments and local authorities. Citizen developers can download "raw datasets" to create and share applications for public use. Feedback, comments, recommendations, suggestions and requests are also actively solicited.</p>  
-  
-<p class="small-text text"><strong>CANADA</strong><br>  
-Unlike the US and UK, Canada lacks a government-led centralised open data website. However, some citizens have taken the lead in pushing for more open and accessible government.</p>  
+
+ 
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Open Government and Crowdsourcing Initiatives in the United States, United Kingdom and Canada</h3>  
