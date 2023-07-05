@@ -201,9 +201,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Preparing Public Officers for New Modes of Governance</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Aaron Maniam</i></b>
+		<p>Public service training and development should evolve in tandem with the dynamic, relational modes of governance that are emerging.</p>
+		<div class="button1"><a href="/ethos-issue-10/opinion-preparing-public-officers-for-new-modes-of-governance/">Read more</a></div>
 	</div>
 </div>
 
@@ -213,9 +213,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Frontiers, Sovereignty and Cyberspace</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Bertrand de La Chapelle</i></b>
+		<p>Should social media platforms be governed as cross-border digital jurisdictions?</p>
+		<div class="button1"><a href="/ethos-issue-10/opinion-frontiers-sovereignty-and-cyberspace/">Read more</a></div>
 	</div>
 </div>
 
