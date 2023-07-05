@@ -2,6 +2,7 @@ collections:
   ethos-issue-10:
     output: true
     order:
+      - Triumph of the Lion City Review of Edward Glaeser’s.md
       - "Opinion: Futures Literacy — Embracing Complexity and Using the
         Future.md"
       - Leadership Across Generations.md
