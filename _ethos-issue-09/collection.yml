@@ -2,6 +2,8 @@ collections:
   ethos-issue-09:
     output: true
     order:
+      - "Government 2 0: Pursuing National Productivity through Collaborative
+        Networking.md"
       - Reviewing Whole ofGovernment Collaboration in the Singapore Public
         Service.md
       - "Networked Governance: Why It Is Different and How It Can Work.md"
