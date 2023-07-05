@@ -126,11 +126,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_10/Developing_A_Whole_Of_Society.png"></div>
 	<div>
 		<h3>National Resilience: Developing a Whole-ofSociety Response</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Charles Ng</i></b>
+		<p>A more robust society begins with clarity about shared priorities, risks, constraints and capabilities.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
