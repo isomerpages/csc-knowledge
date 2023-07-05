@@ -222,11 +222,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
 		<h3>Triumph of the Lion City Review of Edward Glaeser’s Triumph of the City</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>reviewed by Tan Peng Ting</i></b>
+		<p><b>Book Title</b> : Triumph of the City: How Our Greatest Invention Makes Us Richer, Smarter, Greener, Healthier, and Happier <br><b>Author</b> : Edward Glaeser <br><b>Published by</b> : The Penguin Press, 2011</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
