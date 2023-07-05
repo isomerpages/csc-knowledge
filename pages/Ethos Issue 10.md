@@ -117,8 +117,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>The New Synthesis: Preparing Government for the Challenges of the 21st Century</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Jocelyne Bourgon</i></b>
+		<p>The New Synthesis Framework expands the concept and practice of governance beyond traditional boundaries of public administration.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
