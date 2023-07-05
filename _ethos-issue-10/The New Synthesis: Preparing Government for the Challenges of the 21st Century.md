@@ -68,7 +68,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 10, Oct 2011</small></em>
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_10/Issue10_The_New_Synthesis.png">
 
 
 
