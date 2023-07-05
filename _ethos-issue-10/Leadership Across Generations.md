@@ -121,15 +121,15 @@ li {
 <p>Newer generations appear to have more of an individualistic focus compared to the more collective orientation of the older generations. It seems that newer generation leaders tend to be more competitive and assertive, compared to older generation leaders who tend to adopt a more communal form of leadership. In our focus groups, Gen Ys described themselves as more self-interested and ambitious. This is manifest in their relative reluctance to take up their share of team tasks, their weighing up of personal gain before accepting roles or responsibilities and their impatience to see immediate returns for themselves. The argument that newer generations have a more individualistic leadership style seems to contradict popular literature that refers to Gen Y as being more team-oriented. They may engage in teamwork but are they good team players? Our focus group data seems to indicate that the newer generation of Singapore leaders are very accustomed to working in teams as a result of their education, but may tend to interpret things through the lens of personal gain rather than the common good.</p>  
 </blockquote>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 "…my generation has low emphasis on values… maybe 70% to 80% of those who want to be leaders \[do so\] because of the rewards… They are more impatient about things and try to gain personal recognition more than to share rewards with their team mates."  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">— Gen Y Public Service Employee</p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— Gen Y Public Service Employee</p>  
   
-<hr>  
+</div>  
   
 <blockquote style="margin-right: 0px;" dir="ltr">  
 <h4>• Conservative versus Risk Orientated.</h4>  
