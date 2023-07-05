@@ -237,9 +237,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Futures Literacy — Embracing Complexity and Using the Future</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Riel Miller</i></b>
+		<p>If policymakers want to address complexity, they must define and then use the future more effectively, argues futurist Riel Miller.</p>
+		<div class="button1"><a href="/ethos-issue-10/opinion-futures-literacy-embracing-complexity-and-using-the-future/">Read more</a></div>
 	</div>
 </div>
 
