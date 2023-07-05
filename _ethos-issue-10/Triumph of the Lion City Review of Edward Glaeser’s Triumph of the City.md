@@ -52,13 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #7d4766;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
-
+.containerbox h3 {
+	color: white;
+	}
 li {
 	font-size: 15px !important;
 	
@@ -80,47 +82,47 @@ li {
 <p>Not dissimilar to Richard Florida's idea of the Creative Class,<a href="#notes"><sup>1</sup></a> Glaeser stresses the importance of small firms, skilled citizens and small-scale inter-connected creative communities. In support of this view, he attributes the decline of Detroit in the United States (US) to the loss of its creative class and small firms. The previously innovative city, he argues, had been replaced by a monoculture of ideas — a juggernaut company which drew fewer and fewer educated workers into massive factories that were disconnected from the city.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A city’s success depends on its  
 ability to innovate and reinvent  
 itself to produce ideas and  
 not things.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Of particular resonance is Glaeser's emphasis on the importance of helping poor <em>people</em> and not poor places. Rather than indulging in more infrastructure projects to boost the economy, the author suggests that it would be more effective instead to nurture a city's inhabitants and stoke its innovative and creative spirit. Investing in people, Glaeser argues, is more valuable than investing in real estate, because fundamentally "cities aren't buildings; cities are people".  
 </p>  
   
 <p>Glaeser's book is aimed primarily at an American audience, often addressing the Detroit Mayor to suggest solutions for the "Rust Belt" cities in the US. He goes further to debunk what he regards as a misguided American "environmentalist" ideology that denounces high-density urban development as the epitome of vile living conditions. Being an environmentalist does not mean that one must live in nature — on the contrary, Glaeser seems to suggest that such ideas have ironically resulted in the encroachment of suburban developments into wilderness areas and the loss of natural habitats and agricultural land. Coupled with the American dream of home ownership with a quarter-acre home and garden for every family, the preference for a low-density lifestyle has led to urban sprawl across major metropolitan areas in the US. So an urban dweller who lives, say, in a Singapore high-rise apartment and commutes via public transport, may in fact be more "environmentally friendly" than a person who lives by the forest, away from the urban jungle, but has to drive everywhere.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">   
 Cities aren’t buildings; cities  
 are people.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>SINGAPORE — POSTER CHILD FOR SUCCESS</h3>  
   
 <p>Unsurprisingly, a few pages of his book are devoted to Singapore, which appears to be something of a poster child for Glaeser's formula for a successful city. While the author has taken pains to uncover the common urban properties conducive to the creation of human wealth and happiness, he also points out that every successful city "defines its own idiosyncratic space". In the case of Singapore, he (perhaps predictably) highlights the investment in education and cultivation of its human capital as one of the city state's key successful factors. Singapore's resource and land scarcity have served as the impetus for various policies, which in Glaeser's view have resulted in positive urban growth: the attraction of international capital, a broad and effective education system, and careful industrial planning. He argues that unlike Japan, where the government plays the role of venture capitalist in investing in its local companies, Singapore has supported the innovation and growth of firms largely through market mechanisms, supported by excellent infrastructure and the rule of law. Whereas Tokyo attracts the nation's talent through a concentration of political power and associated wealth, Singapore attracts global talent and capital through a high quality of life and strong urban governance.  
 </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Beyond immigration and  
 integration, the building  
 of communities will be  
 fundamental to Singapore's  
 continued success.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Glaeser also offers insights into what <em>not</em> to do in the pursuit of urban growth. Detroit is held up as an example of over-reliance on large corporations at the expense of supportive conditions for individual innovators; overdependence on the private sector to drive development is also to be avoided. It begs the question of whether Singapore's population — which continues to grow largely through non-resident immigration, which in turn is partly cost-driven — risks inheriting a less-skilled migrant population (as Detroit eventually did) even as more highly-educated and mobile Singaporeans flow to other global cities. If this is the case, then signs such as the 2011–2012 World Economic Forum Global Competitiveness Report,<a href="#notes"><sup>2</sup></a> which cited an "inadequately educated workforce" as one of the top concerns for doing business in Singapore, may signal cause for concern. If small firms and creative individuals are at the heart of Glaeser's innovative city, it makes one wonder if our reliance on large multinational firms will, like Detroit's experience, eventually become detrimental to the health of our urban ecosystem and economy.</p>  
   
@@ -129,12 +131,12 @@ continued success.
   
   
   
-<p class="small-text text">While cities look to be the dominant human landscape of the future, it is important not to be overly deterministic about the role of cities and urban development as engines of growth, at the expense of rural development. </p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Was Gandhi an Anti-Urbanist?</h3>  
