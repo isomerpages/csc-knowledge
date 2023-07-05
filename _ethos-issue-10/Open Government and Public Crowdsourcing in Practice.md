@@ -232,14 +232,15 @@ Unlike the US and UK, Canada lacks a government-led centralised open data websit
   
   
   
-<p class="small-text text">Singapore's data.gov.sg was launched in June 2011 as a "first-stop portal to search and access publicly-available data".</p>  
+<br>
+<br>
+<br>
+
   
-<p class="small-text text">It currently offers over 5,000 datasets from 50 government ministries and agencies.</p>  
   
   
   
-  
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Data.gov.sg</h3>  
@@ -259,15 +260,15 @@ Unlike the US and UK, Canada lacks a government-led centralised open data websit
 <br>  
 For governments and citizens to truly create public value by building on each other's contributions, a climate of mutual respect and a sense of shared ownership are vital. The good news is that these initiatives, when managed well, can help deepen the confidence and trust necessary for future efforts. New ways of framing roles, new skill sets and aptitudes of Singapore public officers and citizens, as well as new rules of engagement, may need to be developed, before the full potential of these approaches can be unlocked.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Jairus Yip</strong> was a research intern at the Centre for Governance and Leadership, Civil Service College from May to July 2011. He is currently a third year Political Science student at the National University of Singapore. His research interests include public administration in Singapore.</p>  
   
-<br>  
+</div>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
