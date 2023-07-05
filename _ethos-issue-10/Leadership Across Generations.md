@@ -90,14 +90,14 @@ li {
   
 <h3 class="title">Singapore's Multi-Generational Workforce</h3>  
 <p>While the precise time-frames may vary, experts generally agree that there are four distinct generations at present:</p>  
-<p style="text-align: center;"><img title="13n1a" src="" data-displaymode="Original" alt="13n1a"></p>  
+<p style="text-align: center;"><img title="13n1a" src="/images/Ethos_Images/Ethos_Issue_10/ethos_10_piechart1.PNG" data-displaymode="Original" alt="13n1a"></p>  
 <ul>  
 <li>Traditionals (Matures) — born between 1909 and 1945 </li>  
 <li>Boomers — born between 1946 and 1964 </li>  
 <li>Generation X (Xers) — born between 1965 and 1979</li>  
 <li>Generation Y (<em>Gen Y, Millennials or Nexters</em>) — born after 1979</li>  
 </ul>  
-<p style="text-align: center;"><img title="13n1b" src="../../images/default-source/default-album/13n1b.gif?sfvrsn=15382432\_0" data-displaymode="Original" alt="13n1b"></p>  
+<p style="text-align: center;"><img title="13n1b" src="/images/Ethos_Images/Ethos_Issue_10/ethos10_image2.PNG" data-displaymode="Original" alt="13n1b"></p>  
 <p>Of the approximately 3 million in the Singapore workforce today, approximately 3% are Traditionals, 38% Boomers, 39% Xers, and 20% Generation Ys.</p>  
 <p>Of the 74,000 employees in the Singapore Civil Service, 0.5% are Traditionals, 22% Boomers, 44% Xers, and 33.5% Generation Ys.</p>  
   
