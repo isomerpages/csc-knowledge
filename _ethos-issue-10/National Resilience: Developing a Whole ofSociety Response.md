@@ -86,17 +86,17 @@ li {
   
 <p>A strategy of resilience is not new and has long gained credence in academic literature dealing with disaster prevention, emergency preparedness, environmental sciences and even social psychology. Security professionals only began to consider it seriously after 9/11, when the developed world realised the threats to national security had become multifaceted, amorphous and essentially complex. Since then, a number of countries have infused resilience into their broader national security strategies. For example, resilience was made a key strategic pillar of Obama's National Security Strategy (NSS) in 2010. Subsequently, a resilience directorate was established in the White House. In Singapore, the National Security Coordination Secretariat (NSCS) coordinates security resilience across the whole-of-government. Guided by the Strategic Framework for National Security, enacted in 2004, resilience is placed at the heart of Singapore's strategic response to national security threats. This greater emphasis on resilience has a number of advantages. For one, resilience is an effective deterrent. Nations which are able to respond rapidly to a terrorist attack and recover quickly tend to dissuade terrorists from mounting another attack due to low psychological payoffs. Furthermore, resilience has also become a "competitive differentiator for companies and countries alike, (as) advancing resilience almost always provides a positive return on a relatively smaller investment."<a href="#notes"><sup>2</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The doctrine of resilience  
 accepts that some threats will  
 eventually come to fruition, but  
 society must absorb the stress  
 and recover rapidly.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>CHALLENGES IN BUILDING RESILIENCE </h3>  
   
@@ -106,16 +106,16 @@ and recover rapidly.
   
 <p>Finally, resilience requires structural and conceptual shifts that are difficult for governments to execute. There were historical roots to this. In the Cold War era, the threat of nuclear war diminished any sense of ownership one had for one's own security as the spectre of total annihilation made any individual effort meaningless. Security became the purview of the government. This led to the professionalisation of security work within vast national bureaucracies, diminishing the need for citizens to take responsibility for the security of their own communities. However, 21st century threats are of far lower intensity and greater unpredictability. One of the reasons why resilience is apt for our time is because it represents a whole-of-society approach to security: blending government, local communities, the media, religious organisations and NGOs. Yet given that government bureaucracies were woven and built in response to Cold War related threats, structural and conceptual challenges of expanding its reach to include all of society remains challenging.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Resilience is often threat  
 specific. A society may be  
 resilient to a terrorist attack but  
 not against a pandemic.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>BUILDING RESILIENCE AS A CONCEPT</h3>  
   
@@ -123,22 +123,22 @@ not against a pandemic.
   
 <p>Conceptually, each country needs to build its own indigenous lexicon of resilience and expand it into other spheres beyond the traditional realms of security and emergency preparedness. This is premised on the fact that the threats facing each country and the traits that determine resilience in each society are rarely similar. Furthermore, resilience is grossly incomplete without engaging the complex social and economic realities that affect the outcomes of a crisis. Resilience as such should not be seen as an outcome that is affected by a series of policies, but a doctrine of governance that encompasses a wide variety of socio-economic and security policies which undergird a society both in peacetime and in crisis. Positioning resilience as such provides the philosophy with a number of advantages.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">    
 Resilience represents a wholeof-society  
 approach to security  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>First, governments will have to move beyond mere operational exigencies during a crisis to consider the society's unique social-political values that may serve to build resilience in the face of unexpected change. This carries resilience further than just <em>crisis management to change management</em>, a crucial paradigm for resilience to work. For example, countries like the US and UK, in a bid to build resilience, have established emergency preparedness clubs within local communities to respond to threats. However, during the occurrence of threats, these have proven to be less successful than previously envisaged. Resilience measures in such explicitly organised forms tend to be problematic. Experience has shown that local communities are likely to band around established organisations of interest, like community clubs, business associations, religious organisations and other places towards which they have a clear affective inclination. Proximity of affection — in organisations where friends and family have built strong ties — has been demonstrated to be more important, since people look first to communities they have found historical resonance with for leadership, aid and resources in the face of change. Such realities require conceptual shifts in government thinking. Instead of building social institutions to provide crisis-response, governments can harness existing community organisations, whose values and resources can support change management.</p>  
   
 <p>Second, a broad conception of resilience imbues government policies with relevant principles of change management. For example, if a society were to be resilient, it might need to hedge against overspecialisation and overconcentration of resources. In international trade, efficiency is gained when a nation produces the products in which it has comparative advantage in. Certainly that would maximise productivity. However, if resilience were to be incorporated as part of the overall philosophy, a balance would need to be struck between diversification and specialisation to protect a country from unexpected changes in the global economy. A broad conception of resilience acknowledges the trade-offs that need to be made (e.g. from loss of efficiency) in order to generate sufficient latency as a buffer against any uncertainty that might arise from the prevailing risk landscape.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Resilience, a doctrine of  
 governance that encompasses  
 a wide variety of socioeconomic  
@@ -146,9 +146,9 @@ and security policies
 which undergird a society  
 both in peacetime and  
 in crisis.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Finally, going through the process of devising a broad and national definition of resilience pushes public servants to identify the intangible values and principles that form the national psyche of the country. Typically, public servants have been more accustomed to quantitative measurements of a country's economic and social well-being. However, to build resilience, we need to question and identify the fundamental and often intangible traits of society that allow it to falter or survive, or even thrive in the face of a crisis. As in the seminal book, <em>Built to Last</em>, such intangible values, once enunciated and built upon, have the powerful effect of bringing a country to "greatness", even in the face of broad sweeping change.</p>  
   
@@ -158,7 +158,7 @@ in crisis.
   
 <p>In that light, the Government needs to ensure that resilience is firmly embedded within the broader process of policymaking and matched with the underlying capabilities so as to harness it (see Figure 1).</p>  
   
-<p style="text-align: center;"><img title="13d3a-big" src="../../images/default-source/ethos-images/ethos-issue-10/13d3a-big.gif?sfvrsn=3c89e76a\_0" data-displaymode="Original" alt="13d3a-big"></p>  
+<p style="text-align: center;"><img title="13d3a-big" src="/images/Ethos_Images/Ethos_Issue_10/Fig_13d3a_big.gif" data-displaymode="Original" alt="13d3a-big"></p>  
   
 <p>As part of the broader policy process, resilience is the natural strategic response that arises from good strategic anticipation and risk management. Also, building resilience in Singapore requires effective sense-making of our social compact. Both are needed to determine what the challenges are or broad forces that might catalyse change in the horizon, as well as the concerns of Singapore society. That can then be translated into a risk assessment map to prioritise the risks that a country faces. From there, resilience might be regarded as the strategic response to change — where government harnesses the national strengths of the populace and existing institutions, both government and non-government, to overcome adversity and thrive in the face of these challenges.</p>  
   
