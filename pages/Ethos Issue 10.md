@@ -198,7 +198,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Preparing Public Officers for New Modes of Governance</h3>
 		<b><i></i></b>
@@ -210,7 +210,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Frontiers, Sovereignty and Cyberspace</h3>
 		<b><i></i></b>
