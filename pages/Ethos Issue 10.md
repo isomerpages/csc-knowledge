@@ -143,7 +143,7 @@ margin-top:15px;
 		<h3>Opinion: Singapore’s Non-Profit Sector: What Should its Role Be?</h3>
 		<b><i>by Laurence Lien</i></b>
 		<p>Civil society needs to step up and do much more to help meet the increasingly complex needs of the Singaporean community.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-10/opinion-singapores-non-profit-sector-what-should-its-role-be/">Read more</a></div>
 	</div>
 </div>
 
@@ -153,9 +153,9 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Open Government and Public Crowdsourcing in Practice</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Jairus Yip</i></b>
+		<p>Government efforts to engage citizens in collaborative public initiatives are still in their early stages, but there have been some successes.</p>
+		<div class="button1"><a href="/ethos-issue-10/open-government-and-public-crowdsourcing-in-practice/">Read more</a></div>
 	</div>
 </div>
 
