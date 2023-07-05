@@ -2,6 +2,8 @@ collections:
   ethos-issue-09:
     output: true
     order:
+      - "Modernising Public Sector Management: Recent Reforms in Western
+        Australia.md"
       - "Opinion: Social Policy in Singapore: A Crucible of Individual
         Responsibility.md"
       - Strategic Orientations in Singapore Healthcare.md
