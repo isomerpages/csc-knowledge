@@ -2,6 +2,7 @@ collections:
   ethos-issue-10:
     output: true
     order:
+      - "National Resilience: Developing a Whole ofSociety Response.md"
       - "Opinion: Singapore’s Non Profit Sector: What Should its Role Be?.md"
       - Open Government and Public Crowdsourcing in Practice.md
       - Developing Our Approach to Public Engagement.md
