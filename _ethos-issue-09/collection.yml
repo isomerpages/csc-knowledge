@@ -2,6 +2,7 @@ collections:
   ethos-issue-09:
     output: true
     order:
+      - The Age of Big Data.md
       - "That Elixir Called Productivity: Ten Implications for Singapore.md"
       - Government and Markets in a Well Functioning Economy.md
       - Global Growth, Local Governance.md
