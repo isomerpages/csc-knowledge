@@ -80,17 +80,17 @@ li {
   
   
   
-<p class="small-text text">While the precise time-frames may vary, experts generally agree that there are four distinct generations at present.</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Singapore's Multi-Generational Workforce</h3>  
 <p>While the precise time-frames may vary, experts generally agree that there are four distinct generations at present:</p>  
-<p style="text-align: center;"><img title="13n1a" src="../../images/default-source/default-album/13n1a.gif?sfvrsn=da8569d2\_0" data-displaymode="Original" alt="13n1a"></p>  
+<p style="text-align: center;"><img title="13n1a" src="" data-displaymode="Original" alt="13n1a"></p>  
 <ul>  
 <li>Traditionals (Matures) — born between 1909 and 1945 </li>  
 <li>Boomers — born between 1946 and 1964 </li>  
