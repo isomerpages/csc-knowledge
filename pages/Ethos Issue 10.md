@@ -114,7 +114,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_10/Issue10_The_New_Synthesis.png"></div>
 	<div>
 		<h3>The New Synthesis: Preparing Government for the Challenges of the 21st Century</h3>
 		<b><i>by Jocelyne Bourgon</i></b>
