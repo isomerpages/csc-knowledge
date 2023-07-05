@@ -102,7 +102,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_10/Public_Governance_Challenges_In_A_Changing_Landscape.png"></div>
 	<div>
 		<h3></h3>
 		<b><i></i></b>
