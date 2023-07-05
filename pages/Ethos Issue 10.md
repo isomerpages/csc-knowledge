@@ -131,14 +131,14 @@ margin-top:15px;
 		<h3>National Resilience: Developing a Whole-ofSociety Response</h3>
 		<b><i>by Charles Ng</i></b>
 		<p>A more robust society begins with clarity about shared priorities, risks, constraints and capabilities.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-10/national-resilience-developing-a-whole-of-society-response/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Singapore’s Non-Profit Sector: What Should its Role Be?</h3>
 		<b><i></i></b>
