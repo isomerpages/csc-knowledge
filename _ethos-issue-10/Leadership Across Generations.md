@@ -238,13 +238,13 @@ li {
   
 <p><em>This article is based on a research report co-written with Jo Hennessy of Roffey Park Institute.</em></p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Goh Han Teck</strong> is Senior Consultant (Psychologist) in the Centre for Leadership Development in the Civil Service College. The Centre provides leadership assessment and development services that support the Singapore Public Service in developing a pipeline of talent that are inspired to lead and drive change.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -314,9 +314,7 @@ li {
 <li class="small-text">Zemke, R., Raines, C. and Filipczak, B., Generations at Work: Managing the Clash of Veterans, Boomers, Xers, and Nexters in Your Workplace (USA: AMACOM, 2000)</li>  
 </ul>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
