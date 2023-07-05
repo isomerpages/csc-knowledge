@@ -119,7 +119,7 @@ margin-top:15px;
 		<h3>The New Synthesis: Preparing Government for the Challenges of the 21st Century</h3>
 		<b><i>by Jocelyne Bourgon</i></b>
 		<p>The New Synthesis Framework expands the concept and practice of governance beyond traditional boundaries of public administration.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-10/the-new-synthesis-preparing-government-for-the-challenges-of-the-21st-century/">Read more</a></div>
 	</div>
 </div>
 
