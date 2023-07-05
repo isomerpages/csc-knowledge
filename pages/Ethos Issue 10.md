@@ -105,8 +105,8 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Images/Ethos_Issue_10/Public_Governance_Challenges_In_A_Changing_Landscape.png"></div>
 	<div>
 		<h3>Public Governance: Challenges in a Changing Landscape</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Peter Ong</i></b>
+		<p>Policymaking should involve public perspectives and citizen efforts while staying focused on the long term, argues Singapore's Head of Civil Service.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
