@@ -2,4 +2,6 @@ collections:
   ethos-issue-10:
     output: true
     order:
+      - "Opinion: Futures Literacy — Embracing Complexity and Using the
+        Future.md"
       - Leadership Across Generations.md
