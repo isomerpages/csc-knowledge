@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 10, Oct 2011</small></em>
-<img src="">
+<img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
   
 <p>While there is broad agreement that governments will need to work in partnership with other sectors in society in order to adequately address the complexities of wicked problems confronting nations today, there is not yet clear agreement on how best to go about doing so. There is recognition that exceptional national outcomes arise from exceptional collective effort — with government deeply and productively engaged with public perspectives and contributions, as <a href="public-governance-challenges-in-a-changing-landscape.html">Singapore's Head of Civil Service points out</a>. One initiative at the forefront of efforts to find a new, synergistic model for governance is the <a href="the-new-synthesis-preparing-government-for-the-challenges-of-the-21st-century.html">New Synthesis Project</a>&nbsp;spearheaded by Canada's Jocelyne Bourgon in collaboration with several leading administrations, including Singapore. Among the Project's key outcomes is a framework that envisions the relationship between the public, private and civic spheres as a dynamic network of interlinking feedback loops that generates holistic public results; its chief value is to guide conversation and help uncover latent opportunities for cross-sectoral collaboration and innovation.</p>  
@@ -89,9 +89,7 @@ li {
 <br>  
 <strong>ETHOS</strong></p>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+&gt;
 
 
 
