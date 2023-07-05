@@ -2,5 +2,7 @@ collections:
   ethos-issue-09:
     output: true
     order:
+      - "Opinion: Social Policy in Singapore: A Crucible of Individual
+        Responsibility.md"
       - Strategic Orientations in Singapore Healthcare.md
       - Understanding Managerial Derailment.md
