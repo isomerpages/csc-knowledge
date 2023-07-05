@@ -143,9 +143,7 @@ li {
 <li class="small-text">As reported in The Economist, 22 November 2010, http://www.economist.com/node/17493351</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
