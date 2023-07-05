@@ -71,7 +71,7 @@ margin-top:15px;
 		<b><i></i></b>
 		<figcaption></figcaption>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-10/foreword/">Read more</a></div>
 	</div>
 </div>
 
@@ -83,7 +83,7 @@ margin-top:15px;
 		<h3>Preface</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-10/preface/">Read more</a></div>
 	</div>
 </div>
 
@@ -95,7 +95,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-10/editorial/">Read more</a></div>
 	</div>
 </div>
 
@@ -107,7 +107,7 @@ margin-top:15px;
 		<h3>Public Governance: Challenges in a Changing Landscape</h3>
 		<b><i>by Peter Ong</i></b>
 		<p>Policymaking should involve public perspectives and citizen efforts while staying focused on the long term, argues Singapore's Head of Civil Service.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-10/public-governance-challenges-in-a-changing-landscape/">Read more</a></div>
 	</div>
 </div>
 
