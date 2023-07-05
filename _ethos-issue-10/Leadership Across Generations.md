@@ -140,30 +140,36 @@ li {
 <p>Newer generation leaders, having grown up in a world of rapid change and technological revolutions, appear more comfortable with fast changing environments and are more willing to take risks and consider novel approaches in their leadership. In contrast, older generation leaders tend to be more conservative, relying more on predictability and maintaining the status quo. With a lower concern for social norms and greater levels of self-esteem, newer generations may be more equipped to generate out-of-the-box suggestions that they are confident of promoting.</p>  
 </blockquote>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 "I was really struck by the difference in her worldview and the willingness to question and challenge assumptions a lot more rather than just take things as a given…this whole openness to new ideas with less concern that the decisions taken now are going to impact my organisation or my country…The older ones amongst us would be weighing \[these\] more heavily."  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">— Boomer on Gen Y</p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— Boomer on Gen Y</p>  
   
-<hr>  
-  
+</div>  
+ <br>
+ <br>
+ <br>
 <blockquote style="margin-right: 0px;" dir="ltr">  
 <h4>• Increasing Intensity and Pace.</h4>  
 <p>Given their openness to risk, the newer generations seem to be more fast-paced and intense in their exercise of leadership. They tend to be perceived as operating with more energy, intensity and passion, while older generations are seen as more likely to maintain a calmer, lower-key, understated stance — with more emphasis on interpersonal impact. Compared to the older generation's world of steady progression and paced achievement, those of the newer generation are accustomed to a world of immediate access, instant feedback and rapid outcomes. While it is possible that the younger generation in the workplace is not any more achievement-oriented than young adults of past generations, they seem to be more demanding for the immediacy of outcomes, and this often manifests as impatience or abruptness in leadership. This "leadership impatience" could stem from generational differences in work values, personality and other factors. There is an indication that the newer generations are more competitive, ambitious and results driven, more self-assured and more opportunistic. Status matters to them and they are eager to seize opportunities.</p>  
 </blockquote>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 "I suppose that she's a lot faster, absorbs ideas a lot faster than maybe the Boomer generation and some in the X generation, she moves a lot faster, \[is\] able to whip up things very quickly, highly energetic…"  
-</em></h5>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">— Gen X on Gen Y</p>  
   
-<hr>  
+</p><p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— Gen X on Gen Y</p>  
+  
+</div> 
+<br>
+<br>
+<br>
+
   
 <blockquote style="margin-right: 0px;" dir="ltr">  
 <h4>• Big-Picture Capabilities but Short-Term Focus.</h4>  
