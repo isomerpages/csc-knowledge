@@ -83,15 +83,15 @@ li {
   
 <p>Modes of public engagement can be categorised as four broad approaches: <strong>inform, consult, build consensus</strong> and <strong>co-create</strong>. The choice of mode, rules of engagement and process design vary with context and intent. In the long run, the aim of engaging the public is not only to resolve immediate issues at hand (what are the best solutions), but also to build capacity for the future (how to do this in a way that would help society achieve better results over time). The focus therefore is not only on output but process — galvanising people through shared values, a compelling vision and a sense of larger purpose; reframing positions from "I" to "We"; from "Me and my interest" to encompass "Us and the larger community". Besides performance-based objectives, engagement initiatives should also pay attention to experiential and learning goals. A purposeful approach and clarity about longer term outcomes will enhance the capability of all participants to listen, anticipate and engage constructively.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The choice of mode, rules of  
 engagement and process design  
 vary with context and intent.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>MODES OF PUBLIC ENGAGEMENT&nbsp;</h3>  
   
@@ -113,9 +113,9 @@ vary with context and intent.
 <li>Balance advocacy with inquiry — explain and help others understand the reasoning behind the policy. At the same time be open and listen well, in order to respond more appropriately.</li>  
 </ul>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">   
 The aim of engaging  
 the public is not only to  
 resolve immediate issues at  
@@ -123,9 +123,9 @@ hand, but also to build
 capacity for the future.  
 The focus therefore is not only  
 on output but process.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>CONSULT</h3>  
   
@@ -139,7 +139,7 @@ on output but process.
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">The Ministry of Health's (MOH) Means-testing Experience</h3>  
