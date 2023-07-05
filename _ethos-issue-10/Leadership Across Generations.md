@@ -199,7 +199,7 @@ li {
 <div class="break">  
   
 <p class="break1">  
-"[My experience of] all the Boomer bosses I've reported to \[is that\] it's more formal, in terms of the relationship… and it's a bit more directive rather than discursive."  
+"[My experience of] all the Boomer bosses I've reported to [is that] it's more formal, in terms of the relationship… and it's a bit more directive rather than discursive."  
 "There is an unspoken expectation that you must respect me, because I'm your boss… and I didn't get to this position for nothing."  
 </p>  
   
