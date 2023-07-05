@@ -130,7 +130,11 @@ li {
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— Gen Y Public Service Employee</p>  
   
 </div>  
-  
+ 
+ <br>
+ <br>
+ <br>
+ 
 <blockquote style="margin-right: 0px;" dir="ltr">  
 <h4>• Conservative versus Risk Orientated.</h4>  
 <p>Newer generation leaders, having grown up in a world of rapid change and technological revolutions, appear more comfortable with fast changing environments and are more willing to take risks and consider novel approaches in their leadership. In contrast, older generation leaders tend to be more conservative, relying more on predictability and maintaining the status quo. With a lower concern for social norms and greater levels of self-esteem, newer generations may be more equipped to generate out-of-the-box suggestions that they are confident of promoting.</p>  
