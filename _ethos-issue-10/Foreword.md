@@ -89,9 +89,7 @@ Public Service Division, <br>
 Prime Minister's Office and <br>  
 Chairman of the Civil Service College</p>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
