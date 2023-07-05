@@ -2,6 +2,7 @@ collections:
   ethos-issue-10:
     output: true
     order:
+      - "Opinion: Frontiers, Sovereignty and Cyberspace.md"
       - Triumph of the Lion City Review of Edward Glaeser’s Triumph of the
         City.md
       - "Opinion: Futures Literacy — Embracing Complexity and Using the
