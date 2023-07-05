@@ -162,18 +162,18 @@ in crisis.
   
 <p>As part of the broader policy process, resilience is the natural strategic response that arises from good strategic anticipation and risk management. Also, building resilience in Singapore requires effective sense-making of our social compact. Both are needed to determine what the challenges are or broad forces that might catalyse change in the horizon, as well as the concerns of Singapore society. That can then be translated into a risk assessment map to prioritise the risks that a country faces. From there, resilience might be regarded as the strategic response to change — where government harnesses the national strengths of the populace and existing institutions, both government and non-government, to overcome adversity and thrive in the face of these challenges.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A broad conception of  
 resilience acknowledges the  
 trade-offs that need to be made  
 in order to generate sufficient  
 latency as a buffer against  
 any uncertainty.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>To support this process, four capabilities need to be established in any government — Policy Coordination, Strategic Engagement, Research, and Crisis Management. For Singapore, we have built sophisticated and effective crisis management capabilities and as such, our concerns are enhancing our capabilities in policy coordination and research. Briefly, these are the functions associated with each of these capabilities.</p>  
   
@@ -182,16 +182,17 @@ any uncertainty.
 <p><span><strong>Strategic Engagement</strong></span> — Governments have to move beyond strategic communications to strategic engagement. Communications have the connotation of speaking to the populace, whereas engagement is about partnering the populace. This is particularly crucial in resilience building as resilience is about building networks between government, the general populace, businesses, non-government organisations and religious organisations.</p>  
   
 <p><span><strong>Research and Sense-making</strong></span> — In every society, resilience needs to be studied and measured. In particular, research teases out the traits that make up a resilient society and informs policy options. Measurement tools, though often arbitrary, provide useful guides to policymakers. Given the complex make-up of society, traditional survey tools are insufficient and a more complex suite of tools is needed to understand the social compact.</p>  
+
+
+<div class="break">  
   
-<hr>  
-  
-<h5><em>  
+<p class="break1">  
 Resilience is not about resisting  
 change but instead harnessing it  
 to allow a country to thrive.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p><span><strong>Crisis Management</strong></span> — Part of building resilience is ensuring that the government has strong crisis management systems. Strong crisis resilience builds strong peacetime resilience and vice versa.</p>  
   
@@ -199,13 +200,13 @@ to allow a country to thrive.
   
 <p>Governments today need to build resilience more systematically in the face of the tremendous changes taking place in the world. Having gained ascendency in the security and emergency preparedness circles, resilience should move beyond these realms and inform the broader philosophy of governance. Its applications may reach into social, economic and political spaces, and aid in a nation's management of change. At its heart, resilience is not resistance. It is not about resisting change but instead harnessing it to allow a country to thrive. In order to accomplish that, governments need to have the right capabilities and appropriate levers to build resilience. Only then are we able to know ourselves, face up to an amorphous enemy and increase the chances of victory.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Charles Ng</strong> is Assistant Director at the National Security Coordination Secretariat, Prime Minister's Office. The views expressed in this article are his own.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -217,9 +218,7 @@ to allow a country to thrive.
 <li class="small-text">In a study on the confluence between Risk and Resilience concepts, the Homeland Security Studies and Analysis Institute (HSI) discovered 119 different definitions for resilience. From the resilience of a child's psychology in educational theory to the resilience of metallic elements in physics, there is rarely any convergence in the use of the term.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
