@@ -193,9 +193,6 @@ li {
 <li class="small-text">Riel Miller, "Futures Literacy: A Hybrid Strategic Scenario Method", Futures: The Journal of Policy, Planning and Future Studies, 39 (Elsevier, May 2007), pp341-362, and "From Trends to Futures Literacy: Reclaiming the Future", Centre for Strategic Education, Seminar Series Papers, No. 160 (Melbourne, Australia, December 2006).</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
