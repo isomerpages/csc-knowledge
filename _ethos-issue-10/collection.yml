@@ -2,6 +2,8 @@ collections:
   ethos-issue-10:
     output: true
     order:
+      - "The New Synthesis: Preparing Government for the Challenges of the 21st
+        Century.md"
       - "National Resilience: Developing a Whole ofSociety Response.md"
       - "Opinion: Singapore’s Non Profit Sector: What Should its Role Be?.md"
       - Open Government and Public Crowdsourcing in Practice.md
