@@ -2,6 +2,7 @@ collections:
   ethos-issue-10:
     output: true
     order:
+      - Perceptions of Fairness.md
       - Adaptive Government.md
       - "Opinion: Preparing Public Officers for New Modes of Governance.md"
       - "Opinion: Frontiers, Sovereignty and Cyberspace.md"
