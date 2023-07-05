@@ -162,12 +162,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_10/Issue10_Developing_Our_Approach_To_Public_Engagement.png"></div>
 	<div>
 		<h3>Developing Our Approach to Public Engagement</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Lena Leong</i></b>
+		<p>Clear goals, thoughtful processes and mutual trust are key to constructive engagement with the public.</p>
+		<div class="button1"><a href="/ethos-issue-10/developing-our-approach-to-public-engagement/">Read more</a></div>
 	</div>
 </div>
 
