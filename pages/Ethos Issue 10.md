@@ -90,9 +90,9 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_preface_foreword.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
-		<h3></h3>
+		<h3>Editorial</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -102,7 +102,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_preface_foreword.jpg"></div>
+	<div><img src=""></div>
 	<div>
 		<h3></h3>
 		<b><i></i></b>
