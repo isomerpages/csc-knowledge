@@ -150,7 +150,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_10/Issue10_Open_Government.png"></div>
 	<div>
 		<h3>Open Government and Public Crowdsourcing in Practice</h3>
 		<b><i>by Jairus Yip</i></b>
