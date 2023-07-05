@@ -106,15 +106,15 @@ li {
   
 <ul>  
 <li>As uncertainty grows in what Anthony Giddens has called our "runaway world",<a href="#notes"><sup>1</sup></a> policy work will increasingly be less direct and less amenable to clear solutions that can be determined ahead of time. Instead, policymaking will be characterised more by indirect approaches or "obliquity", a term popularised by the <em>Financial Times</em> journalist John Kay in his 2010 book.<a href="#notes"><sup>2</sup></a> Instead of attempting to tackle policy challenges "head on", practitioners of governance may find it more useful to address the systems surrounding a particular policy experience and the root causes therein. Implementing obliquity will be challenging; it will call for significant lateral thinking from policymakers who may be more familiar with optimising approaches. Time-constrained decision-makers will also have to reframe their perceptions of policy, and exercise a measure of suspension of disbelief, if oblique approaches are to be allowed to take their course.</li>  
-<hr>  
-<h5><em>  
+<div class="break">  
+<p class="break1">  
     Efficiency-focused approaches  
     will need to evolve to allow  
     spare capacity for officers to  
     deal with complex and often  
     untidy situations.  
-    </em></h5>  
-<hr>  
+    </p>  
+</div>  
 <li>Policymakers will probably have to better understand the soft, emergent, non-linear qualities of complex systems, which operate far more like biological ecosystems than mechanical systems (which are based on immutable input-output relationships). Such quasi-biological characteristics, with major consequences sometimes resulting from minor perturbations, are evident in many governance challenges today, from climate change and falling fertility rates to the impact of social media. An appreciation of these traits — what former president of the Institute of the Future Bob Johansen terms "bio-empathy"<a href="#notes"><sup>3</sup></a> — will help policymakers accept that they might not be able to predict all the changes in a complex system, many of which arise from self-reinforcing feedback loops and multiple variables.</li>  
 <li>Perhaps most fundamental to governance of the future will be the need to constantly remake policy, reinvent ideas and re-perceive the world. It is likely to involve engaging in acts of <em>creation</em> and not just the maintenance or sustaining of existing systems. In many ways, this will give expression to latent "maker instincts" in all of us — our inclinations to be what Douglas Thomas and John Seely Brown have called "homo farens", the doer, not just "homo sapiens", the thinker.<a href="#notes"><sup>4</sup></a> Brown extends this argument to include the need for some of us to be "homo ludens", engaging in creative play geared towards innovation. This ability to participate in strategically-directed play will be key if our innate maker instincts are to operate obliquely and in a bio-empathetic way.</li>  
 </ul>  
@@ -123,16 +123,16 @@ li {
   
 <p>How do we ensure that policymakers are given the appropriate training and experience-building to meet the rigours of being playful, creative makers who employ oblique approaches and who appreciate the non-linear rhythms of complex systems? In keeping with the evolving demands of governance, the very process of training will have to employ more oblique, bio-empathetic and play-related approaches, and many training techniques will be experiments in themselves.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The exact capability set  
 required for such governance  
 will be dynamic  
 and kaleidoscopic.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>At the Civil Service College, some of the ongoing experiments in these directions include:</p>  
   
@@ -145,29 +145,30 @@ and kaleidoscopic.
   
 <p>First, training must continue to be systematic and regular. As the demands on policymakers, our development programmes must grow more intentional and purposeful. We currently conduct leadership programmes for new entrants; for those taking on supervisory roles for the first time; for those first taking on Director or Head of Department positions; and for new entrants into senior Public Sector Leadership/agency head positions.</p>  
   
-<hr>  
   
-<h5><em>  
+<div class="break">  
+  
+<p class="break1">  
 Governance of the future  
 will involve engaging in acts  
 of creation and not just the  
 maintenance or sustaining of  
 existing systems.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Second, the Whole-of-Government nature of many training programmes, particularly those geared towards future leaders, will be key. The value of such interactions across agencies is both analytical, in inculcating understanding among future leaders of how government operates as a system, not just discrete silos; as well as in the formation of social capital, through networks and bonds of trust developed over the various leadership programmes, which can last from two to nine weeks.</p>  
   
 <p>Third, we continue to adopt a "practitioner-based" teaching/facilitation model, where more senior officers return to the College to share experiences and insights with their junior colleagues. Some invited practitioners come from the private, non-profit and academic sectors, who provide useful non-government perspectives on the effects of current public policies. In a changing world, each sharing could legitimately encompass good practices as well as learning points from policies that did not pan out as anticipated. Both cases offer useful ways of nurturing a deep awareness of the Public Service's shared history, which can inform the thought processes of future generations of public officers as they navigate evolving trends in governance.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Aaron Maniam</strong> is Director of the Institute of Policy Development at the Civil Service College. The Institute is responsible for organising leadership training for public sector leaders at various stages of their careers. He is concurrently Associate Fellow at the Centre for Strategic Futures in the Prime Minister's Office, where he works with a team analysing issues with long-term implications for Singapore's future. He began his career in public service at the Ministry of Foreign Affairs. The views expressed in this article are his own.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -181,9 +182,7 @@ existing systems.
 <li class="small-text">Thomas, Douglas, and Brown, John Seely, A New Culture of Learning: Cultivating the Imagination for a World of Constant Change (2011)</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
