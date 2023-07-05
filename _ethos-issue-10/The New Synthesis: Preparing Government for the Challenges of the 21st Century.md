@@ -218,9 +218,9 @@ innovation is to be found.
 <li>As <em>public sector leaders</em>, they must envision and anticipate what others have not yet seen, to give coherence to seemingly disparate elements and to give meaning to ambitious trajectories.<a href="#notes"><sup>15</sup></a> They need to give voice to aspirations and help frame a narrative of hope deserving of support and conducive to collective actions.</li>  
 </ul>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A government-centric approach  
 focused on efficiency and  
 productivity must give way to a  
@@ -230,9 +230,9 @@ collective capacity to achieve
 results of higher public value  
 and at a lower overall cost  
 for society.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>CONCLUSION</h3>  
   
@@ -240,7 +240,7 @@ for society.
   
 <p>This transformation starts with people and, in particular, with those who have the very special responsibility of serving the public good and the collective interest. Over the coming months, efforts will be made to deepen the international conversation with those who participated in the project so far, and to broaden it to reach practitioners beyond the initial participating countries…and thus the journey continues.<a href="#notes"><sup>16</sup></a></p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -248,7 +248,7 @@ for society.
   
 <p class="small-text">Madame Bourgon has led ambitious public sector reforms as Secretary to Cabinet for Canada and as an international public servant. She was a key architect of deficit reduction in Canada and is a leading public administration thinker and writer. She is author of the book A New Synthesis of Public Administration: Serving in the 21st Century.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -288,7 +288,7 @@ for society.
   
 <br>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
