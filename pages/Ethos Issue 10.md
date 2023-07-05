@@ -58,16 +58,16 @@ margin-top:15px;
 	<div>
 		<h3>Issue 10 , Oct 2011<br>ETHOS Issue 10</h3>
 		<p></p>
-		<div class="button1"><a target="_blank" href="">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-10.pdf">Download PDF</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/foreword.jpg"></div>
 	<div>
-		<h3></h3>
+		<h3>Foreword</h3>
 		<b><i></i></b>
 		<figcaption></figcaption>
 		<p></p>
