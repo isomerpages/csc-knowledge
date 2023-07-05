@@ -59,11 +59,14 @@ font-family: Georgia;
 	color: white;
 	}	
 	
-.containerbox h3 , .containerbox strong ,.containerbox h5 , .containerbox h4{
+.containerbox h3 , .containerbox strong , .containerbox h4{
 	color: white;
 	
 	}	
 	
+.containerbox h5 {
+	color: #e0c108;
+	}	
 
 li {
 	font-size: 15px !important;
