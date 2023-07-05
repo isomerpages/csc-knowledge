@@ -355,7 +355,7 @@ to more enduring outcomes in and beyond the workplace.</p>
 <p>Instead of topping up on-job skills with training, the focus should be on understanding, framing and improving the relations between people, assets and structures in an organisation.
 </p>	
 
-<div class="button1"><a target="_blank" href="/ethos-issue-23/thinking-differently-about-workplace-learning/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-23/thinking-differently-about-workplace-learning/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
@@ -374,7 +374,7 @@ to more enduring outcomes in and beyond the workplace.</p>
 <p>A decade of design thinking experiments has taught one former policy designer what kills innovation, and what helps it thrive.
 </p>	
 
-<div class="button1"><a target="_blank" href="/ethos-issue-23/horsemen-and-superpowers-learning-to-design-in-government/">Read More</a></div><br>
+<div class="button1"><a href="/ethos-issue-23/horsemen-and-superpowers-learning-to-design-in-government/">Read More</a></div><br>
 </td>
 </tr>
 </tbody>
