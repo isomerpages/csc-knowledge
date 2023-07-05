@@ -246,12 +246,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_10/Leadership_Across_Generations.png"></div>
 	<div>
 		<h3>Leadership Across Generation</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Goh Han Teck</i></b>
+		<p>Generational differences may transform the way we identify, develop and practise leadership in the Public Service.</p>
+		<div class="button1"><a href="/ethos-issue-10/leadership-across-generations/">Read more</a></div>
 	</div>
 </div>
 
