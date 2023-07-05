@@ -105,26 +105,26 @@ li {
   
 <p>In this context, it may be time to ask a key question: can physical frontiers remain the sole criteria for the determination of applicable jurisdiction in Internet-related activities, or does Cyberspace prefigure a new geography, including the concept of Digital Territories and a global, multi-stakeholder cooperation to define acceptable ToS for social media platforms?</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Waiting for traditional  
 multilateral processes to  
 produce a universal regime  
 for the Internet is a delusion.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>New challenges require innovative approaches to reframe and successfully address the intractable issues we are currently facing. All public servants in the Digital Age need to develop new skills: to manage regular interactions with businesses and civil society at the national level (the multi-stakeholder approach) but also to understand how national regulations can impact other countries. The pan-jurisdiction reality of social media creates an intermediary space between the national level and treaty-based international arrangements. What will be needed are public servants who can combine technical competence and traditional diplomatic skills, and are willing to engage in new global discussions where the size of the country matters less than the capacity of its representatives to contribute to effective solutions.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Bertrand de La Chapelle</strong> is Director of the Governance Program of the International Diplomatic Academy in Paris and a member of the Board of Directors of the Internet Corporation for Assigned Names and Numbers (ICANN). He was the Thematic Ambassador and Special Envoy for the Information Society of the French Foreign and European Affairs Ministry between 2006 and 2010.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -136,9 +136,7 @@ for the Internet is a delusion.
 <li class="small-text">The World Summit on the Information Society was a four-year UN Summit (2002–2005) that established the principle of associating governments, businesses, civil society and international organisations in the development and application of regimes related to the evolution and use of the Internet.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
