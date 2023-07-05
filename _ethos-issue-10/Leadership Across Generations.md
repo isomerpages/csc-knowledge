@@ -124,7 +124,7 @@ li {
 <div class="break">  
   
 <p class="break1">  
-"…my generation has low emphasis on values… maybe 70% to 80% of those who want to be leaders \[do so\] because of the rewards… They are more impatient about things and try to gain personal recognition more than to share rewards with their team mates."  
+"…my generation has low emphasis on values… maybe 70% to 80% of those who want to be leaders [do so] because of the rewards… They are more impatient about things and try to gain personal recognition more than to share rewards with their team mates."  
 </p>  
   
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— Gen Y Public Service Employee</p>  
@@ -143,7 +143,7 @@ li {
 <div class="break">  
   
 <p class="break1">  
-"I was really struck by the difference in her worldview and the willingness to question and challenge assumptions a lot more rather than just take things as a given…this whole openness to new ideas with less concern that the decisions taken now are going to impact my organisation or my country…The older ones amongst us would be weighing \[these\] more heavily."  
+"I was really struck by the difference in her worldview and the willingness to question and challenge assumptions a lot more rather than just take things as a given…this whole openness to new ideas with less concern that the decisions taken now are going to impact my organisation or my country…The older ones amongst us would be weighing [these] more heavily."  
 </p>  
   
 <p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— Boomer on Gen Y</p>  
@@ -160,7 +160,7 @@ li {
 <div class="break">  
   
 <p class="break1">  
-"I suppose that she's a lot faster, absorbs ideas a lot faster than maybe the Boomer generation and some in the X generation, she moves a lot faster, \[is\] able to whip up things very quickly, highly energetic…"  
+"I suppose that she's a lot faster, absorbs ideas a lot faster than maybe the Boomer generation and some in the X generation, she moves a lot faster, [is] able to whip up things very quickly, highly energetic…"  
   
   
 </p><p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— Gen X on Gen Y</p>  
