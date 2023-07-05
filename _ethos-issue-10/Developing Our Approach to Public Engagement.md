@@ -334,26 +334,26 @@ that is more open and dynamic.
   
 <p>Furthermore, the challenges of effective public engagement are significant: the competing interests and expectations of multiple stakeholders have to be balanced and aligned, while also trying to convey the intricacies of government work, complex policy options and trade-offs. There is the need to make sense of simultaneous public input from multiple channels and players without allowing narrower interests or more vocal groups from cornering the agenda, while at the same time maintaining focus on strategic long-term objectives. The public sector will have to negotiate the inevitable transition from a stable and predictable operating environment to one that is more open and dynamic, where the government no longer enjoys an unchallenged legitimacy to act alone in the national interest.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Engagement is not a  
 one-off event.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Not every issue needs to be consulted on, have consensus sought or be co-created; knowing when to use or not use appropriate engagement strategies in particular contexts will be a key to their success. The other side of the equation is the maturity and commitment of the public: all stakeholders, within and outside government, have a part to play in cultivating a constructive working relationship that can enhance national outcomes.</p>  
   
 <p>Engagement is not a one-off event. Its quality ultimately depends on the quality of relationship and trust stemming from the agency's record at engagement and delivery, as well as day-to-day interactions with public officers, leaders and fellow citizens. Change involves more than levelling up the competencies of those on the front lines. It has to be embedded into an organisation's mission, vision, values culture, systems and processes. There has to be a change in the mindset of governance: a "shift from a production or delivery state to a relational state, one that does things to or for people to one that more often does things with them".<a href="#notes"><sup>7</sup></a></p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Lena Leong</strong> is Senior Researcher at the Centre for Governance and Leadership in the Civil Service College. Her work focuses on citizen engagement, change management and organisation development.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -373,9 +373,7 @@ one-off event.
 <li class="small-text">Mulgan, Geoff, "The Rise of the Relational State", Paper presented at the NS6 International Roundtable, London, United Kingdom, 16-18 November 2010.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
