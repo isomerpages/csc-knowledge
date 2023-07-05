@@ -93,8 +93,8 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Alvin Pang</i></b>
+		<p>While there is broad agreement that governments will need to work in partnership with other sectors in society in order to adequately address the complexities of wicked problems confronting nations today, there is not yet clear agreement on how best to go about doing so.</p>
 		<div class="button1"><a href="/ethos-issue-10/editorial/">Read more</a></div>
 	</div>
 </div>
