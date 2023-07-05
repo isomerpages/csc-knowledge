@@ -59,7 +59,7 @@ font-family: Georgia;
 	color: white;
 	}	
 	
-.containerbox h3 , .containerbox strong {
+.containerbox h3 , .containerbox strong ,.containerbox h5 , .containerbox h4{
 	color: white;
 	
 	}	
@@ -103,7 +103,7 @@ The success of open government and crowdsourcing efforts also depends critically
   
   
 <h3 class="title">Open Government and Crowdsourcing Initiatives in the United States, United Kingdom and Canada</h3>  
-<h4><strong>UNITED STATES (US)</strong></h4>  
+<h4>UNITED STATES (US)</h4>  
 <p>  
 The <em>Open Government Directive</em> was initiated by the Obama administration in December 2009 to increase civic participation and engagement<a href="#notes"><sup>1</sup></a> and create a culture of transparency, participation and collaboration across US Federal agencies. It stipulates four broad guidelines:</p>  
 <ul style="list-style-type: decimal;">  
@@ -120,7 +120,7 @@ The <em>Open Government Directive</em> was initiated by the Obama administration
 <p><em>HUD Ideas in Action</em><a href="#notes"><sup>9</sup></a> is a discussion forum powered by a tool called <em>UserVoice</em>. It is jointly operated by the Department of Housing and Urban Development (HUD) in partnership with non-profit National Academy of Public Administration. HUD employees and citizens can share and discuss ideas, and vote the best ones for follow-up action. Forums are topic specific and moderators are assigned to respond to off-topic or misplaced contributions. HUD is using this platform to solicit ideas for their 2010–2015 Strategic Plan.</p>  
 <h5>• cityofboston.gov</h5>  
 <p>A number of open government projects at <em>cityofboston.gov</em><a href="#notes"><sup>10</sup></a> tap on citizen ideas and expertise, and offer social networking sites for the community to connect and interact.<a href="#notes"><sup>11</sup></a> <em>GIS Data Hub</em><a href="#notes"><sup>12</sup></a> maps different types of information about the Boston government by location. <strong>Solar Boston</strong><a href="#notes"><sup>13</sup></a> is a two-year programme to increase the amount of solar energy in the city from one-half megawatt to 25 megawatts by 2015, with a dynamic map tracking solar energy use in the city. <strong>Data Dashboard</strong><a href="#notes"><sup>14</sup></a> offers municipal datasets and aims to build a "larger, easier to use and more data-rich" site with citizen feedback. <em>Citizens Connect</em><a href="#notes"><sup>15</sup></a> is an iPhone application with which citizens can take pictures of municipal issues such as potholes and graffiti and report them to the City Council.</p>  
-<h4><strong>UNITED KINGDOM (UK)</strong></h4>  
+<h4>UNITED KINGDOM (UK)</h4>  
 <p>  
 The UK has set up <em>www.data.gov.uk</em><a href="#notes"><sup>16</sup></a> to consolidate government data in a single searchable website. The goal is to "help people understand how government works and how policies are made." To date, there are over 5,400 datasets searchable through the website, from across government departments and local authorities. Citizen developers can download "raw datasets" to create and share applications for public use. Feedback, comments, recommendations, suggestions and requests are also actively solicited.</p>  
 <h5>• Citizen-developed applications</h5>  
@@ -129,7 +129,7 @@ The UK has set up <em>www.data.gov.uk</em><a href="#notes"><sup>16</sup></a> to 
 <p>Not content with simply releasing data, the UK Government's project "Making A Difference with Data" or <em>MADwDATA</em><a href="#notes"><sup>20</sup></a> seeks to "spread understanding about open data and transparency in local public services". The initiative demonstrates how government information can be used by citizens to "raise issues, campaign and otherwise influence things that affect local communities". Projects promoted through the site include gathering of feedback from citizens on the data they would like to access, publishing of good data visualisation and application examples, and guidance material for citizens planning to campaign on various local issues.</p>  
 <h5>• Cultivating an open government approach within the civil service</h5>  
 <p>The UK Civil Service has adopted a range of tools to encourage discussion and crowdsourcing among civil servants. The portal <em>www.communities.idea.gov.uk</em><a href="#notes"><sup>21</sup></a> is a safe platform for knowledge sharing across the public sector where users can set up or join communities around specific issues. The intranet-only <em>Civil Wiki</em><a href="#notes"><sup>22</sup></a> is a secure knowledge sharing and collaboration tool for civil servants. The content generated is moderated by its users.</p>  
-<h4><strong>CANADA</strong></h4>  
+<h4>CANADA</h4>  
 <p>  
 Unlike the US and UK, Canada lacks a government-led centralised open data website. However, some citizens have taken the lead in pushing for more open and accessible government.</p>  
 <ul>  
