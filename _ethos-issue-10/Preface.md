@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 10, Oct 2011</small></em>
-<img src="">
+<img src="/images/Landing_Banner_Images/banner_preface_foreword.jpg">
 
 
   
@@ -91,9 +91,7 @@ Deputy Secretary (Development), <br>
 Public Service Division,<br>  
 Prime Minister's Office</p>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
