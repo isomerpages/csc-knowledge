@@ -141,8 +141,8 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Singapore’s Non-Profit Sector: What Should its Role Be?</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Laurence Lien</i></b>
+		<p>Civil society needs to step up and do much more to help meet the increasingly complex needs of the Singaporean community.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
