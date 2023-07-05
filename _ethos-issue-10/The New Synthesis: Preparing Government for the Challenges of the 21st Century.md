@@ -77,18 +77,18 @@ li {
   
 <p>Over the course of the project, close to 200 participants from academia and the world of public sector practice shared ideas about how to prepare government for the challenges of the 21st century. International roundtables and exploratory discussions took us to The Hague, Ottawa, Singapore, Rio de Janeiro and London.<a href="#notes"><sup>2</sup></a> The project also brought us to Auckland, Wellington, Perth, Melbourne and Canberra, and we reached out to colleagues in Finland and the United States. We searched for and found powerful initiatives and promising practices from many countries. The insights from these deliberations pave the way for a <em>New Synthesis of Public Administration</em>, or if you prefer, a new narrative that can help to move public administration forward as a discipline and domain of practice beyond the concepts and practices inherited from the Industrial Age.<a href="#notes"><sup>3</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The New Synthesis Framework  
 presents public administration  
 as a dynamic system with the  
 capacity to adapt to changing  
 circumstances and to co-evolve  
 with society.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Despite differences in circumstances and diversity of background and perspectives, the project's participants achieved consensus on several key issues:</p>  
   
@@ -115,7 +115,7 @@ with society.
 <p>A new narrative is needed to guide the actions and decisions of practitioners: one that integrates the role of government, people and society. The New Synthesis Framework aims to address this need. It presents public administration as a dynamic system with the capacity to adapt to changing circumstances and to co-evolve with society: government transforms society and is transformed by it.<a href="#notes"><sup>10</sup></a></p>  
   
 <p style="text-align: center;">  
-<img title="13c2a" src="../../images/default-source/ethos-images/ethos-issue-10/13c2a.gif?sfvrsn=772511d6\_0" data-displaymode="Original" alt="13c2a">&nbsp;</p>  
+<img title="13c2a" src="/images/Ethos_Images/Ethos_Issue_10/Adaptive_System_Gov.gif" data-displaymode="Original" alt="13c2a">&nbsp;</p>  
   
 <p>The New Synthesis Framework is an <em>enabling framework</em>; it does not provide answers but helps to frame the questions. It facilitates the exploration in practice of a broad range of possibilities open to government, and it helps to reveal the consequences that various choices entail. The framework helps practitioners to explore a <em>space of possibilities</em>.<a href="#notes"><sup>11</sup></a></p>  
   
