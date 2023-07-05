@@ -90,18 +90,18 @@ li {
   
 <p>The essence of a good Public Service is that it is trustworthy and there is consistency and transparency in implementation. Rules are implemented without fear or favour. However, a "one size fits all" approach, while impartial and fair, may unwittingly convey rigidity and a lack of care, if applied inflexibly and without regard to the genuine needs and circumstances of individuals.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 There is room for us to  
 formulate and implement  
 policies more from the citizen’s  
 perspective, rather than from  
 the perspective of the  
 implementing agency  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Instead, we need to start adopting a more "user-centric" approach, and we can begin by putting ourselves in the shoes of the citizen and customer. While we have some way to go, we have seen some interesting successes in terms of service experience when our agencies try to see things from citizens and customers' points of view.</p>  
   
@@ -116,16 +116,16 @@ implementing agency
   
 <p>As the Public Service, we should think about how to engage the public more. In the long term, this will prove beneficial for Singapore for several reasons.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 We need to overcome  
 our own cognitive biases  
 in policy formulation  
 and implementation.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>First, the Government does not have a monopoly on good ideas. The challenges we face as a nation are becoming more complex and will require different perspectives and approaches. Some of these can come from the public.</p>  
   
@@ -137,16 +137,16 @@ and implementation.
   
 <p>More and better public engagement does not mean that all issues should be put up for grabs, and there are issues about engagement that require further reflection. First, engagement must be done with sincerity. We have a sophisticated public, one that will pick up very quickly if we are just paying lip service to an engagement exercise.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 More and better public  
 engagement does not mean  
 that all issues should be put up  
 for grabs.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Second, the appropriate mode of engagement is contextual. Engagement can be upstream at the policy design stage, or downstream at the implementation stage. In some cases, the public wants to be involved upstream to be co-creators of the policy. In other areas, we will not have the luxury of time to undertake too much engagement, for example, when there is a crisis.</p>  
   
@@ -166,17 +166,14 @@ for grabs.
   
 <p>Going forward, the Public Service must continue anticipating and preparing for the future. We also need to formulate and implement policies with greater empathy and heart, as well as engage the public sincerely. An exceptional Singapore is our common goal, and the journey ahead is one that we must embark on together with our people.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Peter Ong</strong> is the Head of Singapore's Civil Service and concurrently Permanent Secretary at the Ministry of Finance and Permanent Secretary (Special Duties) at the Prime Minister's Office. This article is an adaptation of a speech delivered at the Public Service Staff Conference 2011. </p>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
-
+</div>
 
 
 <br>
