@@ -189,7 +189,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Adaptive Government</h3>
-		<b><i></i></b>
+		<b><i>Ethos roundtable with Adeeb Al Afifi , Do Le Ch and Mr Puneet Ku</i></b>
 		<p>In this session of the ETHOS Roundtable, three eminent participants from Singapore’s 4th Leaders in Governance Programme reflect on the changing roles and responsibilities of public servants in a dynamic world.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
