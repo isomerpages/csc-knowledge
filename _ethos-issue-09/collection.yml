@@ -2,6 +2,7 @@ collections:
   ethos-issue-09:
     output: true
     order:
+      - "That Elixir Called Productivity: Ten Implications for Singapore.md"
       - Government and Markets in a Well Functioning Economy.md
       - Global Growth, Local Governance.md
       - Five Reasons Korea is the Future.md
