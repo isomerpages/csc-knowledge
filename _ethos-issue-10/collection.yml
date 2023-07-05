@@ -2,6 +2,7 @@ collections:
   ethos-issue-10:
     output: true
     order:
+      - Adaptive Government.md
       - "Opinion: Preparing Public Officers for New Modes of Governance.md"
       - "Opinion: Frontiers, Sovereignty and Cyberspace.md"
       - Triumph of the Lion City Review of Edward Glaeser’s Triumph of the
