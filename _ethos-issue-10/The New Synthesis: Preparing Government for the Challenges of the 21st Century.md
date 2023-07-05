@@ -121,30 +121,30 @@ with society.
   
 <p>Delineated by four vectors, the framework (see Figure 1) argues that public results are a combination of public policy results and civic results, and that the role of public servants is to mediate and move the contribution of their organisations along both value added chains (the vertical vectors). It argues that the role of government extends beyond what government can do on its own. Instead, public servants need to work to leverage its collective capacity for better results (the horizontal vectors). This gives particular importance to the stewardship role of government to promote and defend the collective interest in all circumstances — both predictable and unpredictable — and in particular when the costs of failures would be borne by society as a whole.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The framework helps  
 practitioners to explore  
 a space of possibilities.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 There are multiple tensions at the intersection of these vectors but this is also where the greatest potential for innovation is to be found, and where a new synergistic sharing of roles and responsibilities between people, government and society may be forged. Such a synthesis would represent a shift from a relatively closed concept of government, where public organisations are the primary provider of public services, to an open concept of governance, where public organisations constantly exchange and are part of their environment, and where the public, private and civic spheres co-evolve in a manner that supports the overall performance of society. It would require:</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 There are multiple tensions at  
 the intersection of these vectors  
 but this is also where the  
 greatest potential for  
 innovation is to be found.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <ul>  
 <li>a strong <em><strong>emergence function</strong></em> to anticipate what might be, with the ability to take proactive action and tap collective intelligence so as to shape emergent solutions and co-create responses to complex policy issues;</li>  
@@ -164,17 +164,16 @@ innovation is to be found.
   
   
   
-  
-<p style="text-align: center;" class="small-text text"><img title="13c2b" src="../../images/default-source/ethos-images/ethos-issue-10/13c2b.gif?sfvrsn=60c50275\_0" data-displaymode="Original" alt="13c2b"></p>  
-  
+
   
   
   
-<div class="container">  
+  
+<div class="containerbox">  
   
   
 <h3 class="title">The Singapore Prison System Case — The Power of an Inclusive Mental Map</h3>  
-<p style="text-align: center;" class="text"><img title="13c2b" src="../../images/default-source/ethos-images/ethos-issue-10/13c2b.gif?sfvrsn=60c50275\_0" data-displaymode="Original" alt="13c2b"></p>  
+<p style="text-align: center;" class="text"><img title="13c2b" src="/images/Ethos_Images/Ethos_Issue_10/Fig_13c2b.gif" data-displaymode="Original" alt="13c2b"></p>  
 <p class="text">The transformation of the Singapore Prison System (SPS) illustrates aspects of the New Synthesis framework in action. Confronted with overcrowding, high recidivism, increasing costs, staff shortages, low morale and poor public perception, the SPS transformed itself from "custodians" of prisoners to "captains in the lives" of the offenders they served. They did this by working with families, employers and other stakeholders to reintegrate former offenders into society successfully.<a href="#notes2"><sup>1</sup></a> In essence, they shifted from focusing on agency results to societal results.</p>  
 <p class="text">Today, the prisons of Singapore are some of the most cost-effective corrections facilities in the world. Between 1998 and 2007, recidivism decreased from 44.4% to 26.5%. By leveraging the capacity of the community, the SPS achieved far more than it could on its own.<a href="#notes2"><sup>2</sup></a></p>  
 <hr>  
