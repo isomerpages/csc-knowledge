@@ -2,6 +2,7 @@ collections:
   ethos-issue-09:
     output: true
     order:
+      - "Networked Governance: Why It Is Different and How It Can Work.md"
       - The Age of Big Data.md
       - "That Elixir Called Productivity: Ten Implications for Singapore.md"
       - Government and Markets in a Well Functioning Economy.md
