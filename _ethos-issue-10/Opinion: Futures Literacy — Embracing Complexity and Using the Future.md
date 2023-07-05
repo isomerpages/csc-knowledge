@@ -151,7 +151,7 @@ li {
   
 <p>Working through structured conversations that treat the future as an explicit part of shared sense-making, FL approaches complexity not by abandoning assumptions about the future, but by better understanding the different kinds of futures we use when we make decisions and enhancing the richness of each. FL encompasses traditional techniques for discovering what might happen in the future — contingency and optimisation futures that are depicted with the help of a vast range of familiar predictive and probabilistic methods. However, what makes FL distinctive is the integration of anticipatory systems and the different categories of the future into each phase of the action-research processes of sense-making and making sense.</p>  
   
-<p style="text-align: center;"><img title="13m3a-big" src="../../images/default-source/ethos-images/ethos-issue-10/13m3a-big.gif?sfvrsn=196ade3f\_0" data-displaymode="Original" alt="13m3a-big"></p>  
+<p style="text-align: center;"><img title="13m3a-big" src="/images/Ethos_Images/Ethos_Issue_10/Futures_Literacy.gif" data-displaymode="Original" alt="13m3a-big"></p>  
   
 <p>As indicated in Figure 1, the foresight process must be designed using a threefold framework that pays equal attention to:</p>  
   
@@ -167,13 +167,13 @@ li {
   
 <p>By increasing our capacity to improvise and be spontaenous, live with permanent ambiguity and novelty, FL frees us up to go beyond the predictable, and enables us to embrace complexity.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Riel Miller</strong> is a faculty member in the Master of Public Affairs, Sciences-Po, Paris, France, a board member of the Association of Professional Futurists, and a Fellow of the World Futures Studies Federation. He has worked in the Ontario Civil Service and the OECD, and is widely published on topics ranging from the future of the global economy, the financial sector, the Internet, education systems, to social equity. Riel holds a PhD in Economics from the New School for Social Research, New York and can be reached at www.rielmiller.com</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
