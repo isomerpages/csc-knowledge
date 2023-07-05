@@ -97,25 +97,25 @@ li {
   
 <p>NPOs can be a rich source of innovation and experimentation, as they can take risks that the Government cannot take. The State is sometimes not in the best position to develop new policies and services, or to drive innovation. In social policy, it is difficult for the Government to experiment because government programmes, once adopted, tend to have to be deployed nationally. Citizens would not take kindly to beneficiaries being a narrow pilot group. Moreover, once implemented, there can be heavy political costs in withdrawing a programme even if it proves ineffective. Hence, governments would typically be conservative in implementing new interventions. There may be a tendency in policymaking to value stability over radical innovation. On the other hand, the non-profit sector can attract the contributions of people, including private sector entrepreneurs and philanthropists, who can deploy their entrepreneurial know-how, long term focus, initiative and instinct for risk-taking. Being in touch with the ground, NPOs may also be better able to identify opportunities for innovative intervention. The public sector should hence welcome and even encourage the proliferation of new ideas from the non-profit sector: competition can lead to better approaches and models for Singapore.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 NPOs can cater to the  
 difficult exceptions.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Finally, there is power in CSOs that governments do not have. CSOs have more moral authority in dealing with one another and with beneficiaries than government agencies may have. In government programmes, entitlement sets in more quickly. For example, philanthropic organisations can have a higher degree of convening power in bringing NPOs together to work collaboratively towards a common cause, as they are seen as more neutral and having less of a specific agenda than government agencies. If the government gives a dollar, there is little appreciation from the recipients, as they would consider it their right to receive that benefit, as citizens and taxpayers; if a neighbour helps out and gives a dollar, there is deep gratitude, and even shame, as it is voluntarily donated out of goodwill and compassion. Similarly, a volunteer might succeed with a difficult patient where a professional nurse might not, through diversionary therapy efforts. Appreciated as a compassionate person rather than someone who is only doing their job, the volunteer may be better able to offer reassurance and comfort, or convince the patient to comply with their medication or therapeutic regimens. The prescription may be the same, but the results achieved can be starkly different.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 NPOs can take risks that the  
 Government cannot take.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>THE STATE <em>SHOULD</em> NOT DO EVERYTHING</h3>  
   
@@ -149,13 +149,13 @@ Government cannot take.
   
 <p>The civil society is certainly a growth sector in Singapore. As Singapore matures, civil society too must mature. For this to happen, the Government should, rather than being omnipresent, be prepared to cede control in some areas — particularly where new thinking is required — while allowing the sector to experiment and flourish. Civil society must, naturally, step up to the plate.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Laurence Lien</strong> is the Chairman of Lien Foundation, the CEO of the National Volunteer &amp; Philanthropy Centre and the Acting CEO of the Community Foundation of Singapore. He is also the President of the Centre for Non-Profit Leadership, the Deputy Chairman of the Caritas Singapore Community Council, and a board member of the Lien Centre for Social Innovation at the Singapore Management University. Before his full-time involvement with the non-profit sector, he served in the Singapore Administrative Service for 14 years.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -163,9 +163,7 @@ Government cannot take.
 <li class="small-text">The terms "civil society" and "non-profit sector" are used interchangeably in this article. Generally, "civil society" refers to voluntary civic and social associations, organisations and institutions, and are strictly non-governmental and non-commercial entities. "Non-profit sector" refers to all civic and social organisations and institutions, some of which are not strictly non-governmental (e.g. our universities). I have deliberately used both "civil society" and "civil society organisations", because in Singapore's context, the former term is uncommonly used and connotes something more political and adversarial, which need not be the case.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
