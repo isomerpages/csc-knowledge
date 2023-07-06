@@ -106,7 +106,7 @@ li {
   
 <p>Some cities, including London, New York and San Francisco, have begun to open up their public service databases, making large amounts of public data freely available to citizens.</p>  
   
-<p style="text-align: center;"><img title="12e2a-big" src="../../images/default-source/ethos-images/ethos-issue-9/12e2a-big.gif?sfvrsn=4f531638\_0" data-displaymode="Original" alt="Figure 2. Democratising Data Creates Value for Industry and Individuals"></p>  
+<p style="text-align: center;"><img title="12e2a-big" src="/images/Ethos_Images/Ethos_Issue_09/Fig_12e2a_Big.gif" data-displaymode="Original" alt="Figure 2. Democratising Data Creates Value for Industry and Individuals"></p>  
   
 <div class="break">  
   
