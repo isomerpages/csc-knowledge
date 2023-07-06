@@ -127,19 +127,19 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>That Elixir Called Productivity: Ten Implications for Singapore</h3>
+		<b><i>by Jesus Felipe</i></b>
+		<p>What can the public sector do to ensure broad and inclusive growth?</p>
+		<div class="button1"><a href="/ethos-issue-09/that-elixir-called-productivity-ten-implications-for-singapore/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_Teaser_Govt_and_Market.jpg"></div>
 	<div>
-		<h3></h3>
+		<h3>Government and Markets in a Well-Functioning Economy</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
