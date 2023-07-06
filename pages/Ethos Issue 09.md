@@ -149,36 +149,36 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Global Growth, Local Governance</h3>
+		<b><i>Interview with Dani Rodrik </i></b>
+		<p>Smart globalisers should retain room for manoeuvre in a globalised economy, argues Harvard’s Rafiq Hariri Professor of International Political Economy.</p>
+		<div class="button1"><a href="/ethos-issue-09/global-growth-local-governance/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_Teaser_Five%20Reasons%20Korea%20is%20the%20Future.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Five Reasons Korea is the Future</h3>
+		<b><i>by Lee Chor Pharn</i></b>
+		<p>South Korea is ahead of the curve in technology, design, and the market. Could it also be a leading architect of Asia’s future development path?</p>
+		<div class="button1"><a href="/ethos-issue-09/five-reasons-korea-is-the-future/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_Teaser_Risk%20and%20Resilience%20in%20a%20Changing%20World.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Risk and Resilience in a Changing World</h3>
+		<b><i>by David Skilling</i></b>
+		<p>A structured approach to managing risk and building resilience is a significant competitive advantage in a more volatile world.</p>
+		<div class="button1"><a href="/ethos-issue-09/risk-and-resilience-in-a-changing-world/">Read more</a></div>
 	</div>
 </div>
 
