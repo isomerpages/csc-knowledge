@@ -101,12 +101,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_Teaser_Networked%20Governance-%20Why%20It%20Is%20Different%20and%20How%20It%20Can%20Work.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Networked Governance: Why It Is Different and How It Can Work</h3>
+		<b><i>by John Lim</i></b>
+		<p>John Lim outlines strategies and implications for policymakers seeking to build and leverage the full power of collaborative networks.</p>
+		<div class="button1"><a href="/ethos-issue-09/networked-governance-why-it-is-different-and-how-it-can-work/">Read more</a></div>
 	</div>
 </div>
 
