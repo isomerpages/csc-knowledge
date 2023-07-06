@@ -52,11 +52,15 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #d3681b;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
+	color: white;
+	}
 	
+.containerbox h3 , .containerbox strong , .containerbox h4 , .containerbox a {
+	color: white;
 	}	
 
 li {
