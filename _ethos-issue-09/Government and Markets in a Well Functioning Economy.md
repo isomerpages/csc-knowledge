@@ -190,7 +190,7 @@ function efficiently.
   
   
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -198,7 +198,7 @@ function efficiently.
   
 <p class="small-text"><strong>Wu Wei Neng</strong> is Deputy Head and Senior Faculty Member at the Centre for Public Economics (wu\_wei\_neng@cscollege.gov.sg), Civil Service College.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
