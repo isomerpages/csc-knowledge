@@ -95,19 +95,19 @@ margin-top:15px;
 		<h3>Public Service for the future</h3>
 		<b><i>by Lim Siong Guan, Peter Ho, Peter Ong, and Leo Yip</i></b>
 		<p>Four top public service leaders, including the current Head, Civil Service, reflect on the role of the Civil Service College in nurturing a robust, cogent and future-ready public sector in Singapore.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-23/civil-service-college-preparing-the-public-service-for-the-future/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/print23-02.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Learning for the Future</h3>
+		<b><i>by Angel Chew</i></b>
+		<p>Being prepared for a volatile and uncertain world may involve not just learning about what faces us ahead, but also relearning—or unlearning—lessons of old.</p>
+		<div class="button1"><a href="/ethos-issue-23/learning-for-the-future/">Read more</a></div>
 	</div>
 </div>
 
