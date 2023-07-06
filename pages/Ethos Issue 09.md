@@ -113,12 +113,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_Teaser_The%20Age%20of%20Big%20Data.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>The Age of Big Data</h3>
+		<b><i>by Cheryl Chung</i></b>
+		<p>Data-driven activities and smart systems could power a quantum leap in productivity and innovation.</p>
+		<div class="button1"><a href="/ethos-issue-09/the-age-of-big-data/">Read more</a></div>
 	</div>
 </div>
 
