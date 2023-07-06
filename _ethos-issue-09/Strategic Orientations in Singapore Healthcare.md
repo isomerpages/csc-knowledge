@@ -115,13 +115,13 @@ In healthcare, this has meant striving for maximum value. Indeed, some readers m
 <p>  
 The Singapore Government has hence not been afraid to make unpopular decisions such as denying coverage for the breast cancer drug Herceptin®. The Straits Times columnist Chua Mui Hoong, writing about her diagnosis of breast cancer while in the US, wrote candidly: “If I had been diagnosed with cancer in Singapore, the chances are higher that I would be dead today.” She went on to explain that “in Singapore, access to promising but expensive treatments are sometimes curtailed on grounds of ‘cost-effectiveness’ and to keep health-care costs down”.<a href="#notes"><sup>2</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>"We must get maximum value for what we spend on healthcare. To do so, we will need to trade off competing needs and allocate more resources for cost-effective treatments that yield the best outcomes."</em></h5>  
+<p class="break1">"We must get maximum value for what we spend on healthcare. To do so, we will need to trade off competing needs and allocate more resources for cost-effective treatments that yield the best outcomes."</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—White Paper on Affordable Healthcare, 1993</p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">—White Paper on Affordable Healthcare, 1993</p>  
   
-<hr>  
+</div>  
   
 <p>The decision to not include Herceptin® is consistent with the purpose of the Standard Drug List which is a “list of clinically relevant and cost effective drugs considered as basic therapies that are essential for the management of common diseases afflicting the majority of our population”,<a href="#notes"><sup>3</sup></a> and reflects a population-based “greatest benefit for the greatest number” approach to public policy.</p>  
   
@@ -139,15 +139,15 @@ MediShield today is designed deliberately to avoid first-dollar coverage and in 
   
 <p>The affordability of healthcare is a relative concept dependent on personal resources. Singapore has targeted subsidies to those most in need of them, through an escalating series of measures over the years. The introduction of <strong>different ward classes</strong> with varying levels of amenities and corresponding subsidies, and longer <strong>waiting times</strong> in polyclinics and public hospital specialist clinics were efforts to encourage patients to choose higher levels of service and hence lower subsidies, thus conserving subsidies for lower-income Singaporeans. However, as medical costs continue to escalate, Singaporeans are increasingly turning to public healthcare regardless of personal finances. In 2005, an Information Paper released by the Ministry of Health reported that 22.1% of Singaporeans in the highest income group elected for inpatient care in a B2 or C class ward.<a href="#notes"><sup>9</sup></a> </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 "There is no free healthcare. Every healthcare service is eventually paid for by the patient, either through taxes, or reduced wages. Ultimately, patients and their families pay for the bills."  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—White Paper on Affordable Healthcare, 1993</p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">—White Paper on Affordable Healthcare, 1993</p>  
   
-<hr>  
+</div>  
   
 <p>On 1 January 2009, Singapore implemented <strong>means testing</strong> for inpatient services in the public hospitals to “enable lower-income patients to enjoy more subsidies than higher-income patients”,<a href="#notes"><sup>10</sup></a> effecting a tiered subsidy depending on personal income and type of residence. This approach to public policy is by no means confined to healthcare and similar philosophies guide decisions in public housing, where eligibility for grants available to first time owners is based on household incomes.</p>  
   
@@ -160,15 +160,15 @@ MediShield today is designed deliberately to avoid first-dollar coverage and in 
 <p>  
 An example of this approach would be mitigating information asymmetry; initiatives such as placement of hospital bill sizes online, making public results of patient satisfaction surveys and issuing of clinical quality information papers improve information availability, allowing consumers to make more informed choices. The National Electronic Health Records agenda may also be considered not only as a patient safety instrument but also a pro-market measure. Electronically captured and transferrable clinical data is akin to the portability of mobile phone numbers in the information communications sector – they lower the barrier to changing providers. They are also a mechanism to capture clinical quality data electronically for risk adjustment and subsequent public release, further narrowing the information gap.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 "The key to a sustainable healthcare system is to de-politicise healthcare, minimise market distortions and allow healthcare to function as normally as other economic activities."  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">—Minister for Health, March 2010</p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">—Minister for Health, March 2010</p>  
   
-<hr>  
+</div>  
   
 <h4>II. Community-Based Provision of Healthcare Wherever Possible</h4>  
   
