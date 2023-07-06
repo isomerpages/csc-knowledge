@@ -103,9 +103,7 @@ I wish you a stimulating read.</p>
 <li class="small-text">March 17, 2011.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
