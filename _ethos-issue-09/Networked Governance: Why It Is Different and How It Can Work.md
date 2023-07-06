@@ -88,16 +88,16 @@ li {
   
 <p>A common misconception with policymakers is that collaboration with external stakeholders implies a process of democratic public consultation involving resource-draining feedback solicitation, and sorting through half-formed ideas and perennial complaints. The fact is that collaborative participation can be structured, selective and designed to be productive; dialogue can often be highly specialised, technical and closed (see sidebar).</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 New forms of societal  
 organisation are only  
 conditioned, not determined,  
 by technology.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Unfortunately, while policymakers may seek to use more collaborative arrangements, they often still expect outcomes and processes that are consistent with the traditional, comfortable forms of working. Klijn<a href="#notes"><sup>4</sup></a> concludes that – given existing efforts, including attempts to involve stakeholders in the designing of policy – interactive governance does not always foster more cooperation among stakeholders, nor does it necessarily facilitate better solutions or more democratic processes.</p>  
   
@@ -110,15 +110,12 @@ by technology.
   
   
   
-<h3 class="title">NOVECK: "COLLABORATIVE DEMOCRACY"<a href="#notes"><sup>5</sup></a></h3>  
-  
-<p class="small-text text"><em><strong>Approach </strong></em><br>  
-Technology can help solicit and gather relevant expertise from large numbers of self-selected peers working together in groups.</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Making The Net Work: Three Models</h3>  
