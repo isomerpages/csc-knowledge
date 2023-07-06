@@ -68,10 +68,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i></i></b>
-		<figcaption></figcaption>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Alvin Pang</i></b>
+		<p>What is the evolving value proposition of the public service? How can the public sector enhance Singapore's national productivity.</p>
+		<div class="button1"><a href="/ethos-issue-09/editorial/">Read more</a></div>
 	</div>
 </div>
 
