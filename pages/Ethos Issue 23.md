@@ -83,18 +83,18 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
 		<p>In this issue, ETHOS commemorates two decades since CSC's formation as a statutory board and our dedication to continuous learning and capability building in the Singapore Public Service. Gathering insights from a range of practitioners and thought leaders from both within and outside the Service, this issue explores what and how we should learn to be ready for the future.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-23/editorial/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/print23-01.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Public Service for the future</h3>
+		<b><i>by Lim Siong Guan, Peter Ho, Peter Ong, and Leo Yip</i></b>
+		<p>Four top public service leaders, including the current Head, Civil Service, reflect on the role of the Civil Service College in nurturing a robust, cogent and future-ready public sector in Singapore.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
