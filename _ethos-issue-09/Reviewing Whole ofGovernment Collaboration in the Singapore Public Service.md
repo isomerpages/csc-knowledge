@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 09, June 2011</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_09/Reviewing_Whole_Of_Government.png">
+<img src="/images/Cropped_images/Ethos_Issue_09/9_Banner_Reviewing%20Whole-of-Government%20Collaboration%20in%20the%20Singapore%20Public%20Service.jpg">
 
 
 
