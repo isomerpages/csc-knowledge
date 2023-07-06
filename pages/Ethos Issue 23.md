@@ -139,12 +139,12 @@ Public Service</h3>
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/print23-05.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Breaking Down Barriers in Blended Learning</h3>
+		<b><i>by Charmaine Lim, Mervin Loi, and Do Hoang Van Khanh</i></b>
+		<p>Nudges and other behaviourally compatible strategies could help address the challenges of learning modes that blend face-to-face and online learning.</p>
+		<div class="button1"><a href="/ethos-issue-23/breaking-down-barriers-in-blended-learning/">Read more</a></div>
 	</div>
 </div>
 
