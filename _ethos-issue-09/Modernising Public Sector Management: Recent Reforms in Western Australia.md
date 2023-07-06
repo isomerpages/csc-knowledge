@@ -168,7 +168,7 @@ li {
   
 <p>The further and more critical challenge will be to measure the success of these key reforms at both the agency and sectoral level, and assessing the extent to which the new regulatory framework is making a positive difference to the efficiency, effectiveness and overall productivity of the WA public sector and to the lives of Western Australians.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -176,7 +176,7 @@ li {
   
 <p class="small-text"><strong>Dr Chris Stansbury</strong> leads the Evaluation and Reporting Branch of the Performance and Oversight Directorate in the Western Australian Public Sector Commission, and is responsible for overseeing the monitoring and evaluation framework for the WA public sector.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -197,10 +197,8 @@ li {
     </li>  
 <li class="small-text">The 2010 SOTS report is available via: http://www.opssc.wa.gov.au/Documents/Reporting/State\_of\_the\_Service\_reports/State\_of\_the\_Sector\_Report\_2010.pdf</li>  
 </ol>  
-  
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
+
 
 
 
