@@ -207,14 +207,14 @@ its people and businesses.
   
 <p>What else might Singapore be able to achieve in the coming age of big data?</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Cheryl Chung</strong> is a strategist with the Ministry of Trade and Industry’s Futures and Strategy Division. Her research interests focus on technology and innovation as drivers of economic growth.  
             </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
