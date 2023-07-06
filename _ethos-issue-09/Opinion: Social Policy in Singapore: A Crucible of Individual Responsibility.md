@@ -81,18 +81,18 @@ Recent work by Irwin Garfinkel and his colleagues shows that if all expenditures
 <p>  
 In the case of Singapore, which gained independence peacefully in 1965 after over a century of British colonial government and a few years as part of federated Malaysia, three wise policy decisions were made early on that have had continuing influence on Singapore’s ethos and social environment.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Capitalist democracies  
 have achieved substantial  
 economic mobility in  
 large part because a significant  
 portion of the cost of education  
 is borne by taxpayers.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 The first was to emphasise education. By 1965, it was already evident that education would be key to a nation’s economic progress and wealth.<a href="#notes"><sup>6</sup></a> An educated workforce was becoming increasingly important for employment and productivity in trade, finance, technology and manufacturing; education and creativity could also prompt economic innovation. Consequently, the early leaders of newly independent Singapore emphasised public education.<a href="#notes"><sup>7</sup></a> Primary education in Singapore is universal and free; both secondary and pre-university education are heavily subsidised and virtually free for low-income families; and undergraduate education is also highly subsidised for students from low-income families.</p>  
