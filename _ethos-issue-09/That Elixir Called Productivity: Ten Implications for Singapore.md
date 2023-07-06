@@ -102,9 +102,9 @@ li {
   
 <p>A clear answer to this question for the next decades will help chart the path for the future and then the role of productivity growth. The recommendations of the Economic Strategies Committee (2010) do indicate directions, e.g. “Make Singapore a distinctive global city and endearing home”, “Make Singapore a leading cultural capital”, and “Provide the best quality of life in Asia”. Today, most governments are evaluated based on their performance, not on their ideology. As a consequence, Singapore should gauge its performance not by the rate of labour productivity growth (or even of GDP growth), but by its ability to deliver key services and to provide its citizens with what they need to live a decent life: enough food, adequate shelter and health services, a well-paying job, elimination of poverty, modernisation of the economy, employment for all those who want to work, leisure and family time and a good education. This is a much more complex and challenging set of objectives.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Singapore should gauge  
 its performance not by  
 the rate of labour productivity  
@@ -113,9 +113,9 @@ but by its ability to deliver
 key services and to provide its  
 citizens with what they need  
 to live a decent life.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>In Felipe (2010), I argue that the objective of public policy should be to achieve inclusive growth, defined as "growth with equal opportunities". This has three components: (a) Effective delivery of public goods and services, e.g. health, education, water, power, especially for the poor; (b) Elimination of inequalities; and (c) Achievement of full, productive and decent employment. It is in this broader context that labour productivity, as a tool and not as an end in itself, matters and should be understood for policy purposes.</p>  
   
