@@ -52,11 +52,11 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #3a83b6;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
 li {
@@ -79,12 +79,12 @@ li {
   
   
   
-<p class="small-text text">The five principles from the Singapore Government White Paper on Affordable Healthcare, October 1993 are:</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <p>The five principles from the Singapore Government White Paper on Affordable Healthcare, October 1993 are:</p>  
