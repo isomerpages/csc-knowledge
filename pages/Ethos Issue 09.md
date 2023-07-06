@@ -79,10 +79,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Government 2.0: Pursuing National Productivity through Collaborative Networking</h3>
+		<b><i>by Chan Lai Fung</i></b>
+		<p>A new model of connectedness and collaboration in Government could transform the creation and delivery of public value.</p>
+		<div class="button1"><a href="/ethos-issue-09/government-2/">Read more</a></div>
 	</div>
 </div>
 
