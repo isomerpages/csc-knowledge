@@ -238,9 +238,6 @@ its people and businesses.
 <li class="small-text">The LIVE Singapore! exhibition was on public display at the Singapore Art Museum in April 2011.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
