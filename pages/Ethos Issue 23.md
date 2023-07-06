@@ -151,24 +151,24 @@ Public Service</h3>
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/print23-miss1.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Lead by Learning in a Digital World</h3>
+		<b><i>by N. Venkat Venkatraman</i></b>
+		<p>In a future shaped by transformative digital advances, leadership calls for curiosity and the discipline to learn about and through rapid change.</p>
+		<div class="button1"><a href="/ethos-issue-23/lead-by-learning-in-a-digital-world/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/print23-miss2.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Through the Looking-Glass: Three Ways Advancements in Artificial Intelligence Will Change Learning &amp; Development</h3>
+		<b><i>by Michael Chew, Hoe Wee Meng, and Kelvin Tan</i></b>
+		<p>Artificial intelligence could soon transform learning by augmenting human empathy and judgement with rich, context-sensitive information.</p>
+		<div class="button1"><a href="/ethos-issue-23/three-ways-advancements-in-artificial-intelligence-will-change-learning-development/">Read more</a></div>
 	</div>
 </div>
 
