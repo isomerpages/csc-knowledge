@@ -77,7 +77,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_Teaser_Pursuing%20National%20Productivity%20through%20Collaborative%20Networking.jpg"></div>
 	<div>
 		<h3>Government 2.0: Pursuing National Productivity through Collaborative Networking</h3>
 		<b><i>by Chan Lai Fung</i></b>
@@ -89,12 +89,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_Teaser_Reviewing%20Whole-of-Government%20Collaboration%20in%20the%20Singapore%20Public%20Service.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Reviewing Whole-ofGovernment Collaboration in the Singapore Public Service</h3>
+		<b><i>by Kharina Zainal</i></b>
+		<p>Findings from a 2010 survey offer ways to improve collaboration among government agencies.</p>
+		<div class="button1"><a href="/ethos-issue-09/reviewing-whole-of-government-collaboration-in-the-singapore-public-service/">Read more</a></div>
 	</div>
 </div>
 
