@@ -89,7 +89,7 @@ li {
   
 <h5>FIGURE 1. GROSS DOMESTIC EXPENDITURE ON R&amp;D AS % OF GDP</h5>  
   
-<p style="text-align: center;"><img title="12i2a-big" src="../../images/default-source/ethos-images/ethos-issue-9/12i2a-big.gif?sfvrsn=1fd4fc4a\_0" data-displaymode="Original" alt="figure 1"></p>  
+<p style="text-align: center;"><img title="12i2a-big" src="/images/Ethos_Images/Ethos_Issue_09/Fig_12i2a_big.gif" data-displaymode="Original" alt="figure 1"></p>  
   
 <p>Already, South Korea spends 3.2% of its GDP on research and development – among the highest levels of investment in the world. At the same time, its investment in design has also been substantial: it boasts of 230 design schools (more than the US), and major supporting institutions such as the Korea Institute of Design Promotion.</p>  
   
