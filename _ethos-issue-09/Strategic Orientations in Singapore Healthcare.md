@@ -214,7 +214,7 @@ Singapore’s financing philosophy is based on personal responsibility and co-pa
 <p>  
 Proposed initiatives that depart significantly from these considerations should trigger robust discussion; at the same time, they may also signal the need to review the basic structure and thinking underlying the healthcare system. Such national introspection is healthy and vital to continued sustainability in terms of economic results and healthcare outcomes. How much a society should spend on healthcare, which areas and functions should take priority and so on are difficult issues in and of themselves; Former Health Minister Khaw has expressed that these are questions “for society at large to answer”;<a href="#notes"><sup>24</sup></a> a clear and transparent articulation of the principles that guide healthcare design and delivery, as is attempted here, should greatly facilitate resolution of any public debate.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -222,7 +222,7 @@ Proposed initiatives that depart significantly from these considerations should 
   
 <p class="small-text"><strong>Dr Clive Tan</strong> is a medical officer with the Singapore Armed Forces. He completed his Masters in Public Health from Johns Hopkins Bloomberg School of Public Health. His research interests include public health policy, healthcare financing and emergency preparedness. The views expressed in this article are his own.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
