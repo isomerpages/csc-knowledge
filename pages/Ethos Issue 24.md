@@ -80,7 +80,7 @@ margin-top:15px;
         <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg">
 	</div>
         <div><h3>Editorial </h3>
-            <b><i>Dr Alvin Pang</i></b>
+            <b><i>by Alvin Pang</i></b>
 
                 
   <p>In this special edition of ETHOS, we partner with the Ministry of National Development's Centre for Liveable Cities to explore the theme of urban sustainability, with insights from city leaders, public sector practitioners and urban experts from around the world.</p>	
