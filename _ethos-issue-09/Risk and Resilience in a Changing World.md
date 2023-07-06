@@ -81,7 +81,7 @@ li {
   
 <p>This increased background uncertainty and volatility is exacerbated by the tectonic changes that are occurring in the global economy. The world is coming to the end of 200 years of Western economic dominance, the multilateral institutions such as the WTO are declining in influence, and the Washington Consensus, which placed free markets at the core of economic policy, faces real competition.</p>  
   
-<p>Periods of structural change are often coincident with periods of elevated risk and uncertainty. The US National Intelligence Council recently noted that “Historically, emerging multipolar systems have been more unstable than bipolar or unipolar ones…the next 20 years of transition to a new system are fraught with risks.”<a href="../../Knowledge/Ethos/Issue%209%20Jun%202011/Pages/Risk-and-Resilience-in-a-Changing-World.html#notes"><sup>1</sup></a></p>  
+<p>Periods of structural change are often coincident with periods of elevated risk and uncertainty. The US National Intelligence Council recently noted that “Historically, emerging multipolar systems have been more unstable than bipolar or unipolar ones…the next 20 years of transition to a new system are fraught with risks.”<a href="#notes"><sup>1</sup></a></p>  
   
 <p>This is not to say that there are no substantial growth opportunities, particularly in emerging markets. There are strong fundamental forces at work – demographics, urbanisation, technology, productivity catch-up – that provide some confidence that economic growth rates will be robust in these markets. But the distribution of possible outcomes is likely to be significantly wider.</p>  
   
@@ -93,17 +93,17 @@ li {
   
 <p>At a global level, the external risk exposures of many countries has increased substantially due to an intense process of global economic engagement. At the same time, there has been a general tendency to remove sources of protection against these shocks, in the pursuit of greater flexibility and efficiency. For example, capital controls have been largely removed, and the provision of social insurance has been reduced for households.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 There has been a general  
 tendency to remove sources  
 of protection against shocks, in  
 the pursuit of greater flexibility  
 and efficiency.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>So over the past few decades, the overall level of resilience has declined. Governments, corporations, financial institutions and individuals have taken on more risk in the belief that financial innovation allowed for increased risk exposure to be borne efficiently. Some evidence does suggest that there was a significant transfer of risk from governments and companies to households.</p>  
   
@@ -125,15 +125,15 @@ and efficiency.
   
 <p>Singapore is perhaps better placed than many governments in addressing issues of risk and resilience because of existing policy settings that give it a flexible economy, a managed exchange rate system, and substantial reserves. But there is scope for further progress to be made in terms of managing emerging exposures and building resilience, particularly among households.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Not all protection against  
 risk necessarily depresses  
 economic performance.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>EFFICIENT RISK MANAGEMENT IS AN IMPORTANT SOURCE OF COMPETITIVE ADVANTAGE</h3>  
   
@@ -145,15 +145,15 @@ economic performance.
   
 <p>Indeed, there can be a complementary relationship between the provision of insurance and innovation and risk-taking. Consider, for example, limited liability companies, one of the fundamental institutional underpinnings of modern capitalist economies. The security provided to shareholders by limited liability – that they will not be exposed to claims beyond their investment if their company floundered – has unlocked enormous sums of capital and put it to productive use.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The challenge is to  
 manage risk, resilience and  
 growth in an integrated way.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>This notion is also common in the context of finance. Diversification allows investors to pool risks and reduce the overall risk of the investment. Indeed, a key function of capital markets is to allow investors to better engage in risk-sharing, by offering liquidity and diversification opportunities. This increases the attractiveness of risky projects to investors and accelerates investment and growth. The historical record shows that greater risk-sharing opportunities provided by financial development sparked economic take-off.</p>  
   
@@ -161,13 +161,13 @@ growth in an integrated way.
   
 <p>In sum, managing risk and building resilience need not require the insulation of the economy from the forces of change. Indeed, it can create a more efficient economy with higher levels of growth, innovation and risk-taking. In Joseph Schumpeter’s famous metaphor, cars can go faster because they have brakes. In a world that will become more risky and turbulent, adopting a structured and systematic approach to risk and resilience will pay dividends.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>David Skilling</strong> is Senior Advisor to McKinsey &amp; Company, based in Singapore, and Fellow with the Civil Service College, Singapore.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -177,7 +177,7 @@ growth in an integrated way.
   
 <br>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
