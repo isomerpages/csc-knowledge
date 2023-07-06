@@ -79,17 +79,17 @@ li {
   
 <p>The evolution of economic thought in the past 200 years has profoundly influenced our notions about the right balance between states and markets. In the 18th and early 19th centuries, the writings of Adam Smith, David Ricardo and others attributed economic growth to the operation of the “invisible hand” of markets. Relying only on prices to allocate resources and ration demand, markets ensured that the interactions between a multitude of agents – each making economic decisions based only on his self-interest – resulted in outcomes more efficient than what central planners can achieve. Markets benefited society at large, with no requirement for active state intervention beyond the provision of a few public goods, such as law and order.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 One key lesson from the  
 crisis is that markets often  
 need proper government  
 supervision and regulation to  
 function efficiently.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>This <em>laissez faire</em> thinking reigned unchallenged throughout the late 19th and early 20th centuries, until the Great Depression. British economist John Maynard Keynes (1883–1946) argued that markets were inherently uncertain, and if left on their own, could self-depress rather than self-correct. Government intervention was necessary to boost aggregate demand during periods of high unemployment. This “Keynesian Consensus” recommending activist economic policies eventually came to shape the policies of Western governments from the 1950s to 1970s. It was premised on the ability of governments to manage aggregate demand and maintain full employment without causing inflation.</p>  
   
@@ -127,7 +127,7 @@ function efficiently.
   
 <p>Based on the relative strengths of government institutions and markets, it is possible to establish a set of principles that policymakers could consider when designing or taking into account interventions:</p>  
   
-<p><strong>Do no harm</strong>. Governments can make mistakes and should know its limits. There are some things that states must provide – e.g. secure property rights and national defence. However, it is useful to remember the cautionary note by Financial Times commentator and economist Martin Wolf that “the mechanism of the state is at least as defective as that of the market. Throughout history, it has been far more so.”<a href="../../Knowledge/Ethos/Issue%209%20Jun%202011/Pages/Government-and-Markets-in-a-Well-Functioning-Economy.html#notes"><sup>1</sup></a> Governments should set themselves a high burden of proof that their interventions are more likely than not to improve market outcomes.</p>  
+<p><strong>Do no harm</strong>. Governments can make mistakes and should know its limits. There are some things that states must provide – e.g. secure property rights and national defence. However, it is useful to remember the cautionary note by Financial Times commentator and economist Martin Wolf that “the mechanism of the state is at least as defective as that of the market. Throughout history, it has been far more so.”<a href="#notes"><sup>1</sup></a> Governments should set themselves a high burden of proof that their interventions are more likely than not to improve market outcomes.</p>  
   
 <p><strong>Mimic markets, and ensure the right incentives</strong>. The Singapore Government generally prefers to support and augment the proper functioning of markets, and to use price-based interventions (e.g. an externality charge) rather than through command-and-control measures such as outright prohibitions. By working through markets and prices, the Government maintains incentives for people to economise on scarce resources and to take into account the externalities they are creating.</p>  
   
@@ -138,12 +138,12 @@ function efficiently.
   
   
   
-<p class="small-text text">The most successful examples of government interventions are those which harness the strengths of markets and the price system, along with specific and targeted government action. Interventions which go with the grain of market incentives, which make use of price signals, and which augment and complement markets instead of replacing them tend to work much better than interventions based on coercion or command.</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Market-Compatible Interventions: Examples from Singapore</h3>  
