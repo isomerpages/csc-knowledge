@@ -123,24 +123,24 @@ efficient for the Government.
   
 <p>We need to help our public officers develop some basic skills to deal with differences and difficult trade-offs inherent in many WOG initiatives. Successful WOG collaboration requires high levels of inter-personal and organisational sensitivity, particularly for agencies taking the lead in collaborative projects. We need to develop the capacity to readily acknowledge others’ contributions, and give credit where it is due. Even if credit is not due, we can be generous and magnanimous. Interestingly, one of the leadership values that top Chinese cadres are expected to display is what they call “????”, which broadly translates to being “big-hearted”. It is the opposite of being petty and calculating. For us to have a collaborative mindset, we need to display much of the same spirit.</p>  
   
-<p>Public officers also have to learn the skills of managing trade-offs. They can benefit from picking up some skills taught in negotiation courses such as “focusing on interests, not positions”, and “inventing options for mutual gain”.<span style="font-size: 14px;"><a href="../../Knowledge/Ethos/Issue%209%20Jun%202011/Pages/Government20Pursuing-National-Productivity-through-Collaborative-Networking.html#notes"><sup>2</sup></a><span style="display: inline-block;"></span></span> In managing trade-offs, we need public officers to adopt a solution-seeking mindset, and be flexible and creative enough to invent options as opposed to adopting an all-or-nothing stance.</p>  
+<p>Public officers also have to learn the skills of managing trade-offs. They can benefit from picking up some skills taught in negotiation courses such as “focusing on interests, not positions”, and “inventing options for mutual gain”.<span style="font-size: 14px;"><a href="#notes"><sup>2</sup></a><span style="display: inline-block;"></span></span> In managing trade-offs, we need public officers to adopt a solution-seeking mindset, and be flexible and creative enough to invent options as opposed to adopting an all-or-nothing stance.</p>  
   
 <p>There may be fears about being overwhelmed if we take a more collaborative approach with the private sector. But, increasingly, this is the new environment that we have to work in. The Infocomm industry has coined the term “Web 2.0”, commonly referring to web applications that facilitate information sharing and collaboration. We should look at nurturing a Government 2.0 environment with similar characteristics. Australia has, in fact, set up a Government 2.0 Taskforce. Among other aims, the Taskforce examines how public sector government information can be made more accessible and usable to promote innovation. One of its terms of reference is to encourage “the active collaboration of anyone wishing to contribute and collaborate with the public sector”.</p>  
   
 <p>In this Government 2.0 environment, the call and demand on our resources can be huge. But our response cannot be to continually increase budget and headcount. For example, when we make available more non-sensitive information through the Data.gov.sg initiative, it could lead to a huge number of requests to release other types of information. We may not be able to give the same time and attention to every query and request, but we can develop filters and customised responses for the vast majority of requests that may come in, giving greater attention only to the more meritorious requests. In a Government 2.0 environment, we need to develop the mechanisms and capacity to cope with the increased demand on our time and resources. But we cannot hold back from engaging and collaborating with external parties just because we fear we cannot cope.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 In a Government 2.0  
 environment, we need to  
 develop the mechanisms and  
 capacity to cope with the  
 increased demand on our  
 time and resources.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>CONCLUSION</h3>  
   
