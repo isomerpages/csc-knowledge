@@ -141,16 +141,16 @@ to live a decent life.
   
 <p>The key lies in understanding the role that each of the two sectors has to play, and the inputs that each has to provide. While the role of the private sector and what motivates it is straightforward, that of the public sector is more controversial. The public sector has to provide public inputs such as basic infrastructure and address market failures that prevent private investment, in particular when they entail <em>information</em> (e.g. incentives to enter a new market and defer uncertainty costs) and <em>coordination</em> (e.g. the provision of an airport for the development of the hotel industry). Singapore excels in these areas, and coordination between its private and public sectors is outstanding, in comparison with that of many other countries around the globe.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Singapore needs to create  
 employment for the people  
 it has, and not for the people  
 it wishes it had.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h4><em>9. Follow your capabilities and find niches</em></h4>  
   
@@ -166,13 +166,13 @@ it wishes it had.
   
 <p>In the same way that Singapore must know and nurture its strengths and advantages, it should equally be aware of its constraints and limitations. In particular, Singapore as a city-state with a very open economy will always have to be vigilant of the international environment, and in particular the region in which it operates; it must always take into account its perennial land constraint; it should keep track of the changing structure of its population, and be aware of the potential pressures brought about by immigration.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Jesus Felipe</strong> (jefelipe@adb.org) is Lead Economist, Central and West Asia Department at the Asian Development Bank. This paper represents the views of the author and does not represent those of the Asian Development Bank, its Executive Directors, or the countries that they represent.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -207,9 +207,7 @@ it wishes it had.
 <li class="small-text"> Syverson, Chad, “What Determines Productivity?” <em>Journal of Economic Literature</em>. Forthcoming. (2010)</li>  
 </ul>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
