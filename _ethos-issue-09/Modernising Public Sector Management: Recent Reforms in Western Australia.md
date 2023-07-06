@@ -129,7 +129,7 @@ li {
   
 <p>The Public Sector Reform Act 2010 expands the monitoring and reporting function undertaken by the Public Sector Standards Commissioner from its previous legislative focus on compliance with Human Resource Standards and Ethical Codes, to a broader consideration of the state of public sector administration and management<a href="#notes"><sup>7</sup></a> across the sector, including areas administered by other agencies. Work is underway with these other central government agencies to devise a common accountability map, in order to develop a shared conceptual framework for measuring, monitoring, reporting and managing sectorwide performance. Much of this evaluative work is in progress. A 2010 State of the Sector report<a href="#notes"><sup>8</sup></a> includes a maturity model for measuring an agency’s, and the sector’s, overall capacity to administer and manage particular governance areas. This new approach to monitoring and reporting the state of public administration and management is in its infancy and continues to evolve.</p>  
   
-<p style="text-align: center;"><img title="12k2a-big" src="../../images/default-source/ethos-images/ethos-issue-9/12k2a-big.gif?sfvrsn=9b2d565f\_0" data-displaymode="Original" alt="figure 1"></p>  
+<p style="text-align: center;"><img title="12k2a-big" src="/images/Ethos_Images/Ethos_Issue_09/Fig_12k2a_big.gif" data-displaymode="Original" alt="figure 1"></p>  
   
 <h3>OTHER MODERNISATION AND REFORM INITIATIVES</h3>  
   
