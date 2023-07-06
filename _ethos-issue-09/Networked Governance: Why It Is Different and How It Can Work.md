@@ -225,21 +225,21 @@ prevalent in the network.<span style="display: inline-block;"></span> </p>
 </div>  
   
   
+<br>
   
   
   
+<div class="break">  
   
-<hr>  
-  
-<h5><em>  
+<p class="break1">  
 Traditional policies and  
 management techniques  
 run counter to the positive  
 results expected of  
 networked arrangements.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>While trust is not easy to build, there are two characteristics of network structures that may mitigate these constraints. First, the formation of a network structure means that at least some of the members recognise they are not able to achieve their purposes on their own, and that all action is thus interdependent. Second, many of the participants may already know each other and may have formed pockets of trust before the network structure was formed. These pockets of trust can be capitalised on through effective management strategies.</p>  
   
@@ -249,15 +249,15 @@ networked arrangements.
   
 <p>There are, unfortunately, few definitive outcome measures that can conclusively demonstrate the effectiveness of a programme designed to work in a network structure among government agencies. If this deficiency persists, the true benefits of the network structure (that is, systemic change, relationship-building, innovative operating procedures and community inclusion) could be seen as less significant than it deserves. The reality is that the way governments work today is not conducive to changing traditional processes because of the risk involved. Network structures are unique responses to very complex, messy, wicked problems that do not lend themselves to business as usual. Policymakers must realise that their key role in a network environment is to lay the foundation for members to operate with the authority they need, and then get out of the way.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 New modes of leadership  
 centre primarily on a  
 facilitator or broker role.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h4><em>Start Small</em></h4>  
   
