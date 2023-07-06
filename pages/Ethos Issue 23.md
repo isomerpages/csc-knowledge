@@ -66,13 +66,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_preface_foreword.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<figcaption></figcaption>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Foreword</h3>
+		<b><i>by Ong Toon Hui</i></b>
+		<p>This year, the Civil Service College marks its 20th year since becoming a statutory board in 2001.</p>
+		<div class="button1"><a href="/ethos-issue-23/foreword/">Read more</a></div>
 	</div>
 </div>
 
