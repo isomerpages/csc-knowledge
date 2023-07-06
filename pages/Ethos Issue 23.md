@@ -125,7 +125,7 @@ td
 
 <td class="text">	
 <h3>Editorial </h3>
-<b><i>by Dr Alvin Pang</i></b>
+<b><i>by Alvin Pang</i></b>
 
 <p>	
 In this issue, ETHOS commemorates two decades since CSC's formation as a statutory board and our dedication to continuous learning and capability building in the Singapore Public Service. Gathering insights from a range of practitioners and thought leaders from both within and outside the Service, this issue explores what and how we should learn to be ready for the future.
