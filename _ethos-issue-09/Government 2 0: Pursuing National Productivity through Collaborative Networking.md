@@ -146,13 +146,13 @@ time and resources.
   
 <p>The biologist Lewis Thomas once pointed out that “the survival of the fittest is not a battle where the strongest and most dominating will prevail, but where those who cooperate best with others will.” His insight is very apt in our context. Singapore, given our small size, is clearly not the strongest nor the most dominating. But can we, as a Public Service, make up for this lack by cooperating and collaborating well as a WOG and with others?</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Jack Welch</strong> coined the word “boundarylessness”. He described it as “the idea that will make the difference between GE and the rest of world business in the 1990s”. For us, could “a Connected and Collaborative Government” be the idea that will make a difference between Singapore and the rest of the world?</p>  
   
-<hr>  
+</div>  
   
 <p class="small-text">This article was adapted from a presentation delivered at the Public Service Staff Conference 2010, held in July 2010.</p>  
   
@@ -165,7 +165,7 @@ time and resources.
 <li class="small-text">From Getting to Yes: Negotiating Agreement without Giving In, first published in 1981 by Roger Fisher and William L. Ury.</li>  
 </ol>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
