@@ -128,15 +128,15 @@ relevant information.
   
 <p>In “The Numerati”, Stephen Baker posits the rise of “a new math intelligentsia” who would analyse the data trails we create and build accurate models to predict our behaviour. Some precursors of this trend are already evident in the retail sector, with supermarket chains mining customer loyalty card data to target advertising and stimulate impulse purchases.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 “I keep saying the sexy job in the next ten years will be statisticians.”  
-</em></h5>  
+</p>  
   
-<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="small-text">— Hal Varian, Google Chief Economist<a href="#notes"><sup>10</sup></a></p>  
+<p style="font-weight: bold; letter-spacing: 1px; text-align: right;" class="break1">— Hal Varian, Google Chief Economist<a href="#notes"><sup>10</sup></a></p>  
   
-<hr>  
+</div>  
   
 <p>As we enter a world where data is increasingly free and ubiquitous, industry leaders such as Google Chief Economist Hal Varian believe that the ability to find, process, understand, and extract value from relevant data will become ever more important. Indeed, just as computer engineering was the desirable job of the 1990s, Varian believes that the statistician will be the most sought after professional of the next decade. We already see this increased demand for data-crunching capabilities reflected in employment data. The US Bureau of Labour Statistics lists Numerati-type jobs amongst the fastest growing and highest paying.</p>  
   
