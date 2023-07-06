@@ -114,12 +114,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/print23-03.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Metaphors &amp; Mental Models: Updating Our Language for Public Sector Learning</h3>
+		<b><i>by Aaron Maniam</i></b>
+		<p>We need to rethink what it means to learn and be learners, in a complex, dynamic and fluid world where many answers are not predetermined, but must be cultivated and co-evolved.</p>
+		<div class="button1"><a href="/ethos-issue-23/metaphors-mental-models-updating-our-language-for-public-sector-learning/">Read more</a></div>
 	</div>
 </div>
 
