@@ -175,36 +175,37 @@ Public Service</h3>
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/print23-06.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Nurturing Future Leaders: Adapting Leadership Development Approaches to a Changing Context</h3>
+		<b><i>by Khoo Ee Wan, Aurora de Souza Watters, and Suniartie Sudyono</i></b>
+		<p>To be successful, positional leaders must learn to move from being 'hero' to 'host', providing the conditions , processes and resources for others to step up and contribute at every level.</p>
+		<div class="button1"><a href="/ethos-issue-23/nurturingfutureleadersadaptingleadershipdevelopmentapproaches-to-a-changing-context/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/print23-07.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Engaging Hearts and Minds: A Conversation about Learning Experience Design</h3>
+		<b><i>by Martin Hang, Daisy Koh , Lau Teh Wei , Lim Ee-Lon</i></b>
+		<p>Four seasoned practitioners share their perspectives on crafting immersive, learner-centred approaches that may lead 
+to more enduring outcomes in and beyond the workplace.</p>
+		<div class="button1"><a href="/ethos-issue-23/engaging-hearts-and-minds-a-conversation-about-learning-experience-design/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/23_Teaser_Workplace_Learning.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Employability, Growth and Resilience through Workplace Learning</h3>
+		<b><i>by Phua Chee Teck</i></b>
+		<p>Across industries, jobs and workplaces are changing to adapt to a new normal of disrupted paradigms and ever-changing needs. Workplace Learning (WpL) helps employees and employers establish a common purpose and acquire relevant skills, in order to stay competitive and employable.</p>
+		<div class="button1"><a href="/ethos-issue-23/employability-growth-and-resilience-through-workplace-learning/">Read more</a></div>
 	</div>
 </div>
 
