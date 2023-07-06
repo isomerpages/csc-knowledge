@@ -212,12 +212,12 @@ to more enduring outcomes in and beyond the workplace.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/23_Teaser_Thinking_Differently_WPL.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Thinking Differently about Workplace Learning</h3>
+		<b><i>by Helen Bound</i></b>
+		<p>Instead of topping up on-job skills with training, the focus should be on understanding, framing and improving the relations between people, assets and structures in an organisation.</p>
+		<div class="button1"><a href="/ethos-issue-23/thinking-differently-about-workplace-learning/">Read more</a></div>
 	</div>
 </div>
 
