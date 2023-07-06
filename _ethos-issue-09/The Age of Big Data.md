@@ -100,7 +100,7 @@ li {
   
 <p>Having more data is only interesting to the extent that you can make better decisions and change behaviour with relevant information. In his book, “The Numerati”,<a href="#notes"><sup>8</sup></a> Stephen Baker suggests that a “mathematical modeling of humanity… will manipulate our behaviour – how we buy, how we vote, whom we love – without our even realising it.”</p>  
   
-<p style="text-align: center;"><img title="12e1a-big" src="../../images/default-source/ethos-images/ethos-issue-9/12e1a-big.gif?sfvrsn=b0f3f9e\_0" data-displaymode="Original" alt="Figure 1. The Data Value Chain"></p>  
+<p style="text-align: center;"><img title="12e1a-big" src="/images/Ethos_Images/Ethos_Issue_09/Fig_12e1a_Big.gif" data-displaymode="Original" alt="Figure 1. The Data Value Chain"></p>  
   
 <h4><em>Data Democratisation: Data has become more accessible</em></h4>  
   
@@ -108,17 +108,17 @@ li {
   
 <p style="text-align: center;"><img title="12e2a-big" src="../../images/default-source/ethos-images/ethos-issue-9/12e2a-big.gif?sfvrsn=4f531638\_0" data-displaymode="Original" alt="Figure 2. Democratising Data Creates Value for Industry and Individuals"></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Having more data is only  
 interesting to the extent that  
 you can make better decisions  
 and change behaviour with  
 relevant information.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>IBM, among many other companies, has built a web-based application called City Forward that takes in data from 50 cities. These trends towards unlocking public data could well change the way that local governments, in particular, are organised. Instead of being a collection of departmental silos, public agencies could come to act as task-specific computing platforms. Most services, from payment systems to traffic information, could be provided as a single consolidated version to be used across all departments – or by private firms that want to offer their own urban applications. As Glen Allmendinger, President of Harbour Research, suggests, “more openness should be good for innovation, not just in terms of the information itself but how it is handled.”<a href="#notes"><sup>9</sup></a></p>  
   
