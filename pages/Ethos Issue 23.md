@@ -126,12 +126,13 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/print23-04.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Future of Learning and Development In The Singapore
+Public Service</h3>
+		<b><i>by Iva Aminuddin, Wan Chng, and Vera Lim</i></b>
+		<p>By deepening their ability to identify relevant trends and anticipate emerging needs, learning and development practitioners can help shape the future of their organisations.</p>
+		<div class="button1"><a href="/ethos-issue-23/the-future-of-learning-and-development-in-the-singapore-public-service/">Read more</a></div>
 	</div>
 </div>
 
