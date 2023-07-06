@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 09, June 2011</small></em>
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_09/Reviewing_Whole_Of_Government.png">
 
 
 
