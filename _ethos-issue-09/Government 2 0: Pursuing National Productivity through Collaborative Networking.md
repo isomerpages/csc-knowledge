@@ -88,20 +88,20 @@ li {
   
 <p>Beyond regulation, the Government also has a role in improving national productivity by helping companies grow their top-line. Initiatives such as OneMap and the proposed Data.gov.sg are aimed at sharing more public sector information with the private sector, to help them to be more innovative and productive. We are also exploring how resources in our polytechnics and Institutes of Technical Education (ITEs) could be made available to support the continuing education and training of workers. All these could mean a lot of additional work for the Public Service – to look at what we have, what can be shared, how the resources can be shared, and attendant issues including handling potentially large volumes of requests and suggestions from individuals and companies, once we start to engage them. If we were to look purely at the Government’s own costs and benefits, we may end up not doing very much. But this will also mean that we would be sub-optimising at the national level. On the other hand, concerns over the lack of resources and the capacity to cope are real and have to be addressed.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 We should do what would  
 make the most sense nationally,  
 not what is expedient or even  
 efficient for the Government.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>A NEW APPROACH TOWARDS A CONNECTED AND COLLABORATIVE GOVERNMENT</h3>  
   
-<p>What can we do to bring us closer to the ideals of a Connected and Collaborative Government? Drawing on Mark Moore’s Strategic Triangle framework,<span style="font-size: 14px;"><a href="../../Knowledge/Ethos/Issue%209%20Jun%202011/Pages/Government20Pursuing-National-Productivity-through-Collaborative-Networking.html#notes"><sup>1</sup></a><span style="display: inline-block;"></span></span> we should simultaneously address the issues of public value, support and capacity.</p>  
+<p>What can we do to bring us closer to the ideals of a Connected and Collaborative Government? Drawing on Mark Moore’s Strategic Triangle framework,<span style="font-size: 14px;"><a href="#notes"><sup>1</sup></a><span style="display: inline-block;"></span></span> we should simultaneously address the issues of public value, support and capacity.</p>  
   
 <h4><em>Public Value</em></h4>  
   
