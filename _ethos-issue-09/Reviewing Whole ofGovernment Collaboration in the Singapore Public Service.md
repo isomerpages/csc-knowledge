@@ -229,9 +229,7 @@ li {
 <li class="small-text">The Infocomm Development Authority employs a cross-agency feedback system for its officers seconded to other agencies.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
