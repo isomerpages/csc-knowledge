@@ -103,18 +103,18 @@ As a result, Singapore is among the world’s leaders in educational achievement
 <p>  
 The second fruitful decision by Singapore’s early leaders, made over a period of years preceding and following independence, was to build the nation’s social policy around pensions, healthcare and housing. Unlike most capitalist nations, Singapore established a pension system in the 1950s based on defined-contributions rather than defined benefits. The crucial difference between defined benefit and defined-contribution plans is their respective allocation of risk. Governments that promise to provide their citizens with defined benefits are at great risk of insufficient long-term financing such that benefits due can exceed contributions owed, which at some point leads to bankruptcy of the entire system and perhaps even of the government. This problem has plagued nearly every government-sponsored defined benefit plan in the world, primarily because of rapid increases in life expectancy and an unexpected slowdown in population growth.<a href="#notes"><sup>10</sup></a> Indeed, many nations have been forced, often under emergency conditions, to refinance their pension system by increasing contributions, reducing benefits, or both.<a href="#notes"><sup>11</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Establishing its pension  
 system around the central  
 principle of individual  
 ownership is consistent with  
 Singaporean society's emphasis  
 on individual responsibility.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 By basing its pension system on defined contributions, the Government of Singapore avoided these problems. Thus, Singaporeans and their employers pay into personal accounts under the Central Provident Fund (CPF); the funds in the account are invested; the remainder of funds in the account can be withdrawn, or used to purchase a life annuity, upon retirement. Part of the money paid into the fund is also used to help pay for medical expenses, or as a source of borrowing to finance a home or other approved investments. The Government’s roles are to require regular contributions to the account, administer the accounts, make the investment decisions or provide approved opportunities from which participants can select their own investments and, from time to time, contribute excess government funds into the accounts, providing account owners with a kind of windfall bonus. The individual’s role is to make contributions, to make decisions about investment of funds in their account (within limits established by the Government), and to withdraw funds only for major purchases such as a home.</p>  
@@ -122,16 +122,16 @@ By basing its pension system on defined contributions, the Government of Singapo
 <p>  
 There are numerous advantages to a defined-contribution pension scheme, which amounts to enforced savings.<a href="#notes"><sup>12</sup></a> Establishing its pension system around the central principle of individual ownership is consistent with Singaporean society’s emphasis on individual responsibility. Not surprisingly, interviews show that Singaporeans like the fact that they own their own account and do not have to share it with others.<a href="#notes"><sup>13</sup></a> Another major advantage of enforced savings is that individuals have a source from which they can borrow at reasonable rates to make major purchases such as homes. Given that health expenses are paid for out of a separate section of the individual accounts, it seems likely that individuals and families are aware of how much their healthcare costs: perhaps the most fundamental aspect of using the market to control medical costs, and something that many other nations have failed to do.<a href="#notes"><sup>14</sup></a> The role of the CPF in teaching individual responsibility and self-reliance must be counted as a considerable advantage of Singapore’s pension system.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 A nation’s social policy  
 should be judged on more than  
 the percentage of its GDP  
 devoted to social programmes.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 The decision to base government-supported pensions on defined contributions 30 or 40 years ago could be made to seem like the Government was erring on the side of social policy that was too conservative. But today, with government pension systems all over the world in need of cash infusions and with the solvency of entire governments at risk because of flawed pension fund financing, Singapore’s decision to base their pension system on defined contributions looks better and better.</p>  
@@ -165,18 +165,18 @@ But a nation’s social policy should be judged on more than the percentage of i
 <p>  
 As a foreign observer who has spent more than three decades participating in the formulation of federal social policy in the US and studying the enactment, implementation and impacts of social policy in the US and Europe, I see a great deal to admire and emulate in Singapore's social policy. Its education system is one of the world's finest and produces young students of world-class achievements; its defined contribution pension plan and government discipline in managing the system have helped Singapore avoid the type of financial crisis that threatens the solvency of the pension funds of many nations and plays a major role in developing individual responsibility in its citizens; its housing policy has led to huge rates of home ownership and virtually no homelessness; and its health policy has produced a healthy and long-lived population without threatening government solvency. Its legislation on child care, wage subsidies, and employment and training programmes for low-income workers has created a system that provides economic opportunity for all; and its emphasis on self-reliance and family and community responsibility has inculcated self-reliance and a minimal dependency among its citizens. It is little wonder that the World Economic Forum recently determined that Singapore is the world's third most competitive nation, ahead even of the US.<a href="#notes"><sup>20</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 It might make sense  
 for Singapore to focus even  
 more resources on high-quality  
 pre-school programmes,  
 especially for children from  
 low-income families.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 There is, of course, always room for improvement. It might make sense for Singapore to focus even more resources on high-quality pre-school programmes, especially for children from low-income families. It might also prove worthwhile to provide greater work support in the form of child care and wage subsidies to low-income workers. Fairness would also be advanced if Singapore did more for its guest workers, especially by focusing more attention on their housing</p>  
@@ -184,13 +184,13 @@ There is, of course, always room for improvement. It might make sense for Singap
 <p>  
 But none of these suggestions should detract from the achievements of Singapore in creating one of the best educated, most disciplined, and most self-reliant populations in the world. These great achievements have provided the foundation on which a social and economic miracle has been built.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text">A former White House and congressional advisor on welfare issues, <strong>Ron Haskins</strong> co-directs the Center on Children and Families at the Brookings Institution in the US. An expert on pre-school, foster care, and poverty, he was instrumental in the 1996 overhaul of national welfare policy. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -237,9 +237,7 @@ But none of these suggestions should detract from the achievements of Singapore 
     </li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
