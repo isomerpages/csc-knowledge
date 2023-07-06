@@ -394,9 +394,9 @@ and Policy Responses</a></td>
 </tr>
 	
 <tr>
-<td><a target="_blank" href="https://go.gov.sg/ethos-issue-10">Issue 10, Oct 2011, <br>Preparing Government<br> for
+<td><a target="_blank" href="/ethos-issue-10/">Issue 10, Oct 2011, <br>Preparing Government<br> for
 the Challenges<br> of the 21 st Century</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-09">Issue 9, Jun 2011, National<br>Productivity and
+	<td><a target="_blank" href="/ethos-issue-09/">Issue 9, Jun 2011, National<br>Productivity and
 WOG Collaboration</a></td>
 </tr>
 
