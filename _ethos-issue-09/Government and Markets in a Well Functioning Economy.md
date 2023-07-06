@@ -205,10 +205,7 @@ function efficiently.
 <ol>  
 <li class="small-text">Wolf, Martin, Why Globalization Works (USA: Yale University Press, 2004)</li>  
 </ol>  
-  
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
