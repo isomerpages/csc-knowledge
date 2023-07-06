@@ -68,7 +68,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 09, June 2011</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_09/Pursuing_National_Productivity_Through.png">
+<img src="/images/Cropped_images/Ethos_Issue_09/9_Banner_Pursuing%20National%20Productivity%20Through%20Collaborative%20Networking.jpg">
 
 
   
