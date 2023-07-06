@@ -93,17 +93,17 @@ Derailment is of concern to any organisation as the consequences can be consider
   
 <p><strong>4. Becoming Victims of Their Own Success</strong>: Managers who enjoyed great success early and easily may develop an unrealistic sense of superiority and infallibility which affects their judgement and receptivity to alternative ideas or feedback from others. Threatened by the possibility of failure, some managers may resort to tried and-true but ineffective solutions rather than embarrass themselves by experimenting with new strategies that may fail. As a result, they fail to adapt to meet the evolving demands of complex new situations.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Lack of interpersonal skills  
 may limit effectiveness  
 in managing teams and  
 working through people to  
 deliver results.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>WHEN DOES DERAILMENT HAPPEN?</h3>  
   
@@ -133,15 +133,15 @@ Furthermore, organisations often require managers to deal with transitions, such
   
 <p>Derailment implies a misfit between a manager and his job. In broad terms, the manager’s job could be described as getting results through other people. At lower and middle managerial levels, the focus is on providing task-based leadership and sound technical skills to enable one’s unit to complete tasks and obtain results efficiently. Hence, those who derail at this level tend to lack these job-critical qualities. Managers who have poor interpersonal skills that prevent them from establishing good working relationships with their supervisors or subordinates are also likely to derail.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Young talents who are  
 fast-tracked may be at  
 higher risk of derailment.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 Higher up the organisational hierarchy, a successful manager has to develop a greater repertoire of skills in order to respond to the evolving demands of the job, such as developing and promoting a vision, recruiting and retaining talented people and motivating a team. Managers have to effectively garner support and resources for their initiatives. Those who do not possess the necessary intellectual skills such as strategic thinking and ability to make high quality decisions, and the skills or willingness to adapt will face difficulty coping with the demands of working within a larger sphere of diverse functions, and a fast-paced and dynamic environment.  
@@ -183,17 +183,17 @@ Furthermore, research has consistently shown managers to be less aware of their 
   
 <p>In the Singapore Public Sector, a sizeable proportion of young, fast-tracked managers are identified as potential public sector leaders early in their careers. Such managers may be at risk of derailment if they become victims of their initial career success. A more deliberate focus may be needed to help these managers be self-aware and adaptable so that they understand the potential derailment risk, and work towards developing greater leadership effectiveness in order to improve their likelihood of succeeding as public sector leaders in the longer term. In addition, though talented, the relative youth of these managers may mean that they require specially-tailored developmental opportunities to compensate for their lack of on-the-job and life experience necessary to be effective in managerial roles in diverse workplaces and complex situations.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Research has consistently  
 shown managers to be  
 less aware of their own risk  
 of derailment than  
 others perceive.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>FURTHER QUESTIONS ON DERAILMENT</h3>  
   
@@ -203,15 +203,15 @@ others perceive.
   
 <p class="small-text"><em>This article is based on the findings of a research study undertaken in 2010 by Khoo Ee Wan and Caithlin Tham of the Centre for Leadership Development, Civil Service College. The full research report, together with the references, can be accessed at </em><a href="https://go.gov.sg/derail">https://go.gov.sg/derail</a></p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Khoo Ee Wan</strong> is Senior Consultant (Psychologist) in the Centre for Leadership Development in the Civil Service College. The Centre provides leadership assessment and development services that support the Singapore Public Service in developing a pipeline of talent that are inspired to lead and drive change.</p>  
   
-<br>  
+</div>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 <br>
