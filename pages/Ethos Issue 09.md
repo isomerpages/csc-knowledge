@@ -140,9 +140,9 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_Teaser_Govt_and_Market.jpg"></div>
 	<div>
 		<h3>Government and Markets in a Well-Functioning Economy</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Donald Low and Wu Wei Neng</i></b>
+		<p>The central question for governments is not whether but how to intervene in markets to ensure their proper functioning.</p>
+		<div class="button1"><a href="/ethos-issue-09/government-and-markets-in-a-well-functioning-economy/">Read more</a></div>
 	</div>
 </div>
 
