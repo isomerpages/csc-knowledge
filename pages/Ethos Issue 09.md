@@ -125,7 +125,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_teaser_that%20elixir%20called%20productivity-%20ten%20implications%20for%20singapore.jpg"></div>
 	<div>
 		<h3>That Elixir Called Productivity: Ten Implications for Singapore</h3>
 		<b><i>by Jesus Felipe</i></b>
@@ -221,7 +221,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="images/Cropped_images/Ethos_Issue_09/9_Teaser_Understanding%20Managerial%20Derailment.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_Teaser_Understanding%20Managerial%20Derailment.jpg"></div>
 	<div>
 		<h3>Understanding Managerial Derailment</h3>
 		<b><i>by Khoo Ee Wan</i></b>
