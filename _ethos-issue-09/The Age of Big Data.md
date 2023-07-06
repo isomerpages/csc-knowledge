@@ -166,29 +166,28 @@ relevant information.
   
 <p>Seoul is not the only example. In many major cities, large portions of stimulus packages are being spent on smart city infrastructure projects, and some have made smart systems a priority of industrial policy. Urban centres in China are a good example of this: for instance, without an infrastructure enhanced by digital technology, Beijing knows that it will be difficult to provide the country’s newly urbanised population with enough food, transport, electricity and water.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Singapore needs to develop  
 new numerati capabilities in  
 its people and businesses.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Singapore too aspires to be a “smart city”, a living laboratory of sustainable urban solutions that are scalable and exportable. How can Singapore succeed in the age of big data? To start with, Singapore needs to develop new numerati capabilities in its people and businesses, to seed new data-driven industry mashups and encourage the adoption of datadriven business solutions and methods.</p>  
   
   
   
-<p style="text-align: center;"><img title="12e4a-big" src="../../images/default-source/ethos-images/ethos-issue-9/12e4a-big.gif?sfvrsn=cdaebd99\_0" data-displaymode="Original" alt="Figure 3. LIVE SINGAPORE!"></p>  
+
+  
+<br>
+  
+<div class="containerbox">  
   
   
-  
-  
-<div class="container">  
-  
-  
-<p style="text-align: center;"><img title="12e4a-big" src="../../images/default-source/ethos-images/ethos-issue-9/12e4a-big.gif?sfvrsn=cdaebd99\_0" data-displaymode="Original" alt="Figure 3. LIVE SINGAPORE!"></p>  
+<p style="text-align: center;"><img title="12e4a-big" src="/images/Ethos_Images/Ethos_Issue_09/Fig_12e4a_big.gif" data-displaymode="Original" alt="Figure 3. LIVE SINGAPORE!"></p>  
 <p>LIVE Singapore! closes the feedback loop between people moving in the city and the digital real-time data collected in multiple networks. It gives the data back to the people who themselves generate it through their actions, allowing them to be more in sync with their environment as well as to make decisions based on information that reflect the actual state of their city.</p>  
 <p>To achieve this, LIVE Singapore! consists the development of an open platform for the collection, the combination, fusion and distribution of real-time data that originate from a large number of different sources.</p>  
 <p>The platform is not aimed at one single application; instead it rather resembles an ecosystem and a toolbox for real-time data that describes urban dynamics. Building on this platform, a community of developers can build multiple applications in a joint effort which harnesses the creative potential of citizens in extracting new value from real- time data.</p>  
