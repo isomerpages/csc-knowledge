@@ -224,12 +224,12 @@ to more enduring outcomes in and beyond the workplace.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_23/23_Teaser_Horsemen_And_Superpowers.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Horsemen and Super-Powers: Learning to Design in Government</h3>
+		<b><i>by Agnes Kwek</i></b>
+		<p>A decade of design thinking experiments has taught one former policy designer what kills innovation, and what helps it thrive.</p>
+		<div class="button1"><a href="/ethos-issue-23/horsemen-and-superpowers-learning-to-design-in-government/">Read more</a></div>
 	</div>
 </div>
 
