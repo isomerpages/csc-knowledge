@@ -68,7 +68,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i>Alvin Pang</i></b>
+		<b><i>by Alvin Pang</i></b>
 		<p>This issue of ETHOS takes stock of the COVID-19 pandemic to date including some of its socioeconimic, governance and geopolitical implications and reflects on how Singapore and other governments have responded to the crisis of a generation.</p>
 	
 <div class="button1"><a target="_blank" href="/ethos-issue-22/editorial/">Read more</a></div>
