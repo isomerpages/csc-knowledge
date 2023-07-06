@@ -103,7 +103,7 @@ trade arrangements.
   
 <p>&nbsp;</p>  
   
-<p style="text-align: center;"><img title="12h2a-big" src="../../images/default-source/ethos-images/ethos-issue-9/12h2a-big.gif?sfvrsn=9b079fe7\_0" data-displaymode="Original" alt="Figure 1. The Political Trilemma of the World Economy"></p>  
+<p style="text-align: center;"><img title="12h2a-big" src="/images/Ethos_Images/Ethos_Issue_09/Fig_12h2a_big.gif" data-displaymode="Original" alt="Figure 1. The Political Trilemma of the World Economy"></p>  
   
 <h3>How can global institutions play a role?</h3>  
   
@@ -117,32 +117,32 @@ trade arrangements.
   
 <p>There is no need to buy into the discourse that globalisation is an imperative in the face of which we have no choices. Globalisation is a man-made concept: while technological progress has indeed made it easier to move goods, transfer funds and make transactions in ways that make us more globally integrated, how it determines policy is a social and political construct. To what extent and on what terms are you integrated into the world economy?</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 There are good reasons  
 why we need to preserve  
 room for economies to have  
 their own independent  
 monetary and fiscal policy.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Countries which are smart globalisers have always left some room for themselves to manoeuvre. For example, Sweden is not a member of the Eurozone and its flexibility in controlling its own exchange rate has been a great boon to them in recovering from the crisis.</p>  
   
 <p>In terms of labour markets, there is the question of how much globalisation to accept and what is being given up in return. The countries that have been the most successful in avoiding dramatic problems in this area are countries that have had very self-conscious domestic provisions alongside their globalisation strategy, such as the Nordic countries and Singapore, where policies for social redistribution and other provisions help moderate some of the underlying tensions. Of course, there will still be tensions: Taxing labour to reduce demand is inefficient; at the same time, globally mobile professionals are more able to avoid the taxation which is needed to fund social safety nets. The erosion of the tax base becomes an issue.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 There is the question of  
 how much globalisation  
 to accept and what is being  
 given up in return.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Clearly, a small country can still have a domestic economic development strategy or industrial policy, as well as its own levels of social provision: Singapore today would be very different if it had not chosen to do so. Being a small country does change the trade-offs: for instance, in terms of industrial policy, you do not have the capability to have a very wide portfolio of large experiments; therefore you would want to try to select investments, projects and industry niches that are on average smaller in size than those of a larger country to still have a reasonable spread – otherwise you are gambling too much on a few big projects. Unless the industry you have chosen to invest in has very strong scale economies, smaller countries can find success in niches where they need not be overshadowed by the efforts of larger countries.</p>  
   
@@ -150,16 +150,16 @@ given up in return.
   
 <p>First, it helps to have very concrete goals and targets to avoid losing sight of the real objectives as you go along, not necessarily because you might miss your targets, but to be clear about the intentions for pursuing certain policies, and how best to account for results relative to what you are trying to achieve.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 Evaluate whether  
 economic interventions  
 on balance have been of  
 benefit to society.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Second, I think it is very important from time to time to conduct a social cost benefit analysis and try to figure out if an overall social surplus has been generated for a given investment that has been made. I would be cautious about expressing success with measures such as total foreign investment, or in terms of technology, or employment, because these are not the ultimate objectives for society. A social cost benefit analysis will help policymakers focus on the fundamentals, and to evaluate whether economic interventions on balance have been of benefit to society. More of that should be done.</p>  
   
@@ -168,15 +168,14 @@ benefit to society.
 <p class="small-text"><em>This article was adapted from discussions in Singapore with Professor Rodrik in January 2011, when he spoke on The Globalisation Paradox and The Return of Industrial Policy.</em>  
 </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Dani Rodrik</strong> is the Rafiq Hariri Professor of International Political Economy at the John F. Kennedy School of Government, Harvard University. He has published widely in the areas of international economics, economic development and political economy. He was awarded the inaugural Albert O. Hirschman Prize of the Social Science Research Council in 2007. He is affiliated with the National Bureau of Economic Research, Centre for Economic Policy Research (London), Center for Global Development and Council on Foreign Relations, among others. His new book The Globalization Paradox was published by Norton in early 2011.</p>  
   
-<hr>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+</div>  
+
 
 
 
