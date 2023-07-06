@@ -84,16 +84,16 @@ li {
   
 <p>For instance, the question of global multinationals (MNCs) throws these tensions into sharp relief. MNCs want to have common global standards because this is an efficient way to reduce the cost of doing business across borders, for the same reason that international banks want global financial standards and not nationally determined ones. This would not be a big issue if everybody in domestic economy were as equally mobile as the multinationals. As a result, there is a very big divide in most modern societies between groups that perceive themselves as globally mobile and therefore view their opportunities and remuneration as set by what is happening in the world (i.e. capitalists and highly-skilled professionals), and the vast majority of most people, who are not globally mobile and whose livelihoods are determined by what happens in the domestic economy. </p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 There has been a steady  
 loss of legitimacy and  
 credibility in our existing  
 trade arrangements.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The tension is due to the fact that democratically-led governments have to pay attention to the skilled professionals and capitalists, yet also have to listen to the mass majority of the electorate who are not as mobile.</p>  
   
