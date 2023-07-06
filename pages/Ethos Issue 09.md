@@ -185,64 +185,52 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_Teaser_Modernising%20Public%20Sector%20Management%20Recent%20Reforms%20in%20Western%20Australia.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Modernising Public Sector Management: Recent Reforms in Western Australia</h3>
+		<b><i>by Alan Barrett and Chris Stansbury</i></b>
+		<p>Legislative changes pave the way for greater public sector accountability, flexibility and collaboration</p>
+		<div class="button1"><a href="/ethos-issue-09/modernising-public-sector-management-recent-reforms-in-western-australia/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Opinion: Social Policy in Singapore: A Crucible of Individual Responsibility</h3>
+		<b><i>by Ron Haskins</i></b>
+		<p>The co-Director of the Brookings Center on Children and Families explains why he finds Singapore’s social policy remarkably effective.</p>
+		<div class="button1"><a href="/ethos-issue-09/opinion-social-policy-in-singapore-a-crucible-of-individual-responsibility/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_09/9_Teaser_Strategic%20Orientations%20in%20Singapore%20Healthcare.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Strategic Orientations in Singapore Healthcare</h3>
+		<b><i>by Jeremy Lim and Clive Tan</i></b>
+		<p>Medical doctors Jeremy Lim and Clive Tan unpack the principles underlying Singapore’s healthcare policy, and examine how these are reflected in cost and delivery structures.</p>
+		<div class="button1"><a href="/ethos-issue-09/strategic-orientations-in-singapore-healthcare/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="images/Cropped_images/Ethos_Issue_09/9_Teaser_Understanding%20Managerial%20Derailment.jpg"></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<h3>Understanding Managerial Derailment</h3>
+		<b><i>by Khoo Ee Wan</i></b>
+		<p>What causes promising executives to underperform, and how can organisations intervene in time?</p>
+		<div class="button1"><a href="/ethos-issue-09/understanding-managerial-derailment/">Read more</a></div>
 	</div>
 </div>
 
-<br>
 
-<div class="grid-container">
-	<div><img src=""></div>
-	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
-	</div>
-</div>
-
-<br>
 
 
 <div class="back">
