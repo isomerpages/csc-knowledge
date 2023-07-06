@@ -52,13 +52,20 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #e4b907;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
+	}	
+.containerbox h3 , .containerbox h4 {
+	color: white;
 	}	
 
+.containerbox strong {
+	color: white;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -81,7 +88,7 @@ li {
   
 <h3>THE CURRENT STATE OF WOG COLLABORATION</h3>  
   
-<p>In early 2010, the Ministry of Finance (MOF) and the Public Service Division (PSD) commissioned the Lee Kuan Yew School of Public Policy (LKYSPP) and the Nanyang Business School (NBS)<a href="../../Knowledge/Ethos/Issue%209%20Jun%202011/Pages/Reviewing-Whole-of-Government-Collaboration-in-the-Singapore-Public-Service.html#notes"><sup>1</sup></a> to take stock, assess and review the state of WOG collaboration in the Singapore Public Service.<a href="../../Knowledge/Ethos/Issue%209%20Jun%202011/Pages/Reviewing-Whole-of-Government-Collaboration-in-the-Singapore-Public-Service.html#notes"><sup>2</sup></a> It was intended to give greater clarity to the term “WOG collaboration” as applied in the Singapore Public Service, identify supporting factors as well as impediments, and recommend strategies to improve collaboration among government agencies.<a href="../../Knowledge/Ethos/Issue%209%20Jun%202011/Pages/Reviewing-Whole-of-Government-Collaboration-in-the-Singapore-Public-Service.html#notes"><sup>3</sup></a></p>  
+<p>In early 2010, the Ministry of Finance (MOF) and the Public Service Division (PSD) commissioned the Lee Kuan Yew School of Public Policy (LKYSPP) and the Nanyang Business School (NBS)<a href="#notes"><sup>1</sup></a> to take stock, assess and review the state of WOG collaboration in the Singapore Public Service.<a href="#notes"><sup>2</sup></a> It was intended to give greater clarity to the term “WOG collaboration” as applied in the Singapore Public Service, identify supporting factors as well as impediments, and recommend strategies to improve collaboration among government agencies.<a href="#notes"><sup>3</sup></a></p>  
   
 <h3>WOG COLLABORATION IN SINGAPORE: WHAT WORKS</h3>  
   
@@ -114,12 +121,12 @@ li {
   
   
   
-<p class="small-text text">The WOG Collaboration Study classified all WOG efforts undertaken in Singapore to date into six types.</p>  
+<br>
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">WOG Collaboration Study</h3>  
@@ -132,7 +139,7 @@ li {
 <p><em>Examples: Hosting of the Singapore F1 Grand Prix and the Youth Olympic Games (SYOG); setting up of the Integrated Resorts</em>.</p>  
 <h4><em>3. Programmes Sponsored by Central Agencies and Ministries</em></h4>  
 <p>The two central agencies in Government, PSD and MOF, may make use of their influence and central control over manpower and financing to steer other agencies towards specific public sector priorities. Agencies involved (particularly coordinating agencies) are usually provided with additional resources to pursue specific programmes. Coordinating agencies also assist in facilitating dialogue among the other participating agencies.</p>  
-<p><em>Examples: World.Singapore strategic planning exercise; setting up of Centres of Excellence<a href="../../Knowledge/Ethos/Issue%209%20Jun%202011/Pages/Reviewing-Whole-of-Government-Collaboration-in-the-Singapore-Public-Service.html#notes2"><sup>1</sup></a> in the Public Service</em>.</p>  
+<p><em>Examples: World.Singapore strategic planning exercise; setting up of Centres of Excellence<a href="#notes2"><sup>1</sup></a> in the Public Service</em>.</p>  
 <h4><em>4. Self-driven, Inter-organisation and Peer Initiatives</em></h4>  
 <p>Organisations on their own may approach one another to share resources, pursue mutually beneficial projects or resolve common problems. Most of these efforts are bilateral and the result of existing social networks nurtured over time.</p>  
 <p><em>Examples: The Singapore Sports School (MOE and MCYS); promotion of arts and culture (MICA, STB and PA); Gardens by the Bay (URA, NParks and STB)</em>.</p>  
@@ -212,13 +219,13 @@ li {
   
 <p>Strategic social networks and communities should be developed among agencies with high incidence of collaborations. In the process, key connectors, influential brokers and experienced WOG role models in the public sector community at all levels of the Service can be identified. These key figures will be highly influential in moving the public sector forward towards more effective collaboration.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Kharina Zainal</strong> is Principal Researcher at the Centre of Governance Leadership whose works focus on organisational development and social policies.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
