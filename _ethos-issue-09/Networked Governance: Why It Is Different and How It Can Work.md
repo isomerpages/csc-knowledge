@@ -263,13 +263,13 @@ facilitator or broker role.
   
 <p>With greater experience and working knowledge of the benefits of network structures, as well as an understanding of what outcomes can be expected, decision makers may be more prepared to make changes – at the margins, initially, but in ways which could enable fuller network structures to emerge as a means to address more intractable issues. Allowing longer timeframes for evaluation, putting emphasis on integration rather than simply delivery of services, changing perceptions about each other's contribution to the whole, and recognising the value of relationship-building – these signal a promising start to new ways of working together.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>John Lim</strong> was Senior Researcher with the Centre for Governance and Leadership, Civil Service College. He is currently Assistant Director at the Transformation Office, Public Service Division.</p>  
   
-<hr>  
+</div>  
   
 <h6 name="notes">NOTES</h6>  
   
@@ -291,9 +291,7 @@ facilitator or broker role.
 <li class="small-text">Brown, K., and Keast, R., “Citizen-Government Engagement: Community Connection through Networked Arrangements”, Asian Journal of Public Administration, 25 (1) (June 2003), pp107-131, http://sunzi.lib.hku.hk/hkjo/view/50/5000083.pdf 02. Keast, R., Mandell, M. P., Brown, K., and Woolcock, G, “Network Structures: Working Differently and Changing Expectations”, Public Administration Review, 64 (3) (May/June 2004), pp363-371, http://www.csus.edu/indiv/s/shulockn/executive%20fellows%20pdf%20readings/keast%20network%20structures.pdf</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
