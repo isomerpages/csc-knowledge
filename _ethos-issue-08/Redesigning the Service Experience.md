@@ -106,14 +106,14 @@ The service redesign process required a better understanding of the decision poi
 <h3>Two Key Service Touchpoints</h3>
 <p>The Employment Pass service involves two critical touchpoints: the Employment Pass OnLine (EPOL) system which applicants first encounter while still in their home countries, and the Employment Pass Services Centre (EPSC) where applicants visit Singapore to submit documents for verification, register biometric data and complete their application.</p>
 <h4><em>EPOL</em></h4>
-<p style="text-align: center;"><img title="11k1b" src="/images/Ethos_Images/Ethos_Issue_08/Fig_11k1b_big.gif" alt="11k1b"></p>
+<p style="text-align: center;"><img title="11k1b" src="/images/Ethos_Images/Ethos_Issue_08/Fig_11k1b.gif" alt="11k1b"></p>
 <p>The EPOL was first offered in 2002 but it had limited functions. Fewer than 20% of applications were submitted through the system, leaving some 25,000 hardcopy applications to be received and manually processed each month. Applicants had little information on how applications were evaluated.</p>
 <p>
 Between 2005 and 2009, the EPOL was enhanced and redesigned to increase the information flow to users of the system. This has helped to shift the perception of WPD from an opaque and high-handed regulator to that of a responsive and transparent facilitator of employment. An Employment Pass Self Assessment Tool was introduced to help employers and applicants determine the likelihood that their applications would be approved, minimising efforts wasted on clearly non-qualifying applications. In this collaborative spirit, employers of EP applicants take ownership of the process by ensuring that their background checks on candidate employees meet the stipulated guidelines.</p>
 <p>
 The new EPOL serves two critical functions: it is an information portal for applicants, accessible to anyone anywhere in the world who may be considering taking up employment in Singapore. It is also a direct channel of communication between applicants and the WPD; applicants can submit or cancel applications, check their eligibility and application status, or seek clarifications through email from WPD officers.</p>
 <h4><em>EPSC</em></h4>
-<p style="text-align: center;"><img title="11k2a" src="/images/Ethos_Images/Ethos_Issue_08/Fig_11k2a_big.jpg" data-displaymode="Original" alt="11k2a"></p>
+<p style="text-align: center;"><img title="11k2a" src="/images/Ethos_Images/Ethos_Issue_08/Fig_11k2a.gif" data-displaymode="Original" alt="11k2a"></p>
 <p>Using design thinking methodology, the EPSC was reconceived as a space where user experience would determine how its various service transactions flowed. Space design insights and ideas were derived from field observation of the way users navigated existing systems. Trial solutions were then visualised and translated into quick, rough, life-sized prototypes of the new Centre, and tested for feasibility. WPD staff, employers and current users were invited to try out the prototypes, and their feedback helped to further refine EPSC design, production and operation.</p>
 <p>
 Field observation was preferred over surveys and focus groups because it could give clues to instinctive, non-verbal behaviours, which users might not have been able to articulate in a formal manner. Special attention was paid to outlier and extreme users of services, because these exceptions could lead to radical new insights or solutions. One of these insights was that users appreciate certainty in their application — such as waiting times, outcomes, or even whether their applications have been received. As a result, visits to the EPSC are now appointment-based, ensuring that applicants would be served at their selected date and time.</p>
@@ -153,13 +153,13 @@ Three factors can determine a public organisation's success in using design thin
 
 <p>The choice of an appropriate design thinking methodology depends on the agency's experience with the concept. Agencies that are new to the approach would benefit from the appointment of qualified design consultants who are able to transfer knowledge of the methodology to their clients.<a href="#notes"><sup>2</sup></a> Such client-consultant partnerships allow public agencies who are new to the design thinking methodology to learn how the consultant uses the process, and gain hands-on experience in the approach by directly participating in the development of service prototypes.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The challenge many public organisations will face is how to reconcile the use of abstract and intangible elements in the creation of the absolute and the concrete.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h4><em>Organisational Culture and Competency</em></h4>
 
@@ -172,13 +172,13 @@ Once employees are empowered and confident enough to ask difficult questions, th
 
 <p>Design thinking does not encourage thinking out of the box; it is about recognising that there is no box. It draws attention to the need to imagine a new space and establish fresh parameters in order to generate the right experience and potentially transform the perception and meaning of public service. The challenge many public organisations will face is how to reconcile the use of abstract and intangible elements in the creation of the absolute and the concrete; how to bridge the gap between utility and experience, in order to anticipate new needs, environments and futures.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Dr June Gwee</strong> is Principal Researcher at Centre for Governance and Leadership at the Civil Service College. She is also the author of Art and Design for Strategic Management (Saarbrücken: VDM Verlag Dr. Müller, 2008). Her research interests are in design, arts and culture, and strategy and innovation. She received a PhD in Visual Arts from the University of Sydney for her research on design management. The views expressed in this article are her own. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -187,9 +187,7 @@ Once employees are empowered and confident enough to ask difficult questions, th
 <li class="small-text">MOM worked closely with design consultancy, IDEO LLC, for the Work Pass Division's third Business Process Re-engineering and the EPSC was the first project deliverable as a result of this collaboration.</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
