@@ -90,13 +90,13 @@ Despite these nuanced distinctions, both approaches are not mutually exclusive.<
 
 <p>A key aspect of leader development involves the discovery and awareness of individual attributes and behaviours, such as preferences, strengths, limitations, beliefs, values and motivations, to form a clearer and more accurate model of oneself.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 While leaders may act with good intentions, they need to be sensitive to how their behaviours may be perceived by others.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Beyond that, it is important for individuals to develop awareness of the impact of their personal attributes and behaviours on the people around them. This is particularly relevant to a leader's development, as positive intentions do not necessarily lead to positive impact. We tend to judge ourselves by our intentions, but are likely to judge others by the impact of their behaviours on us. Hence, while leaders may act with good intentions, they need to be sensitive to how their behaviours may be perceived by others. By relating their personal attributes and behaviours to the workplace, leaders can also develop a better appreciation of their current impact on their environment as leaders and how to further enhance their effectiveness.</p>
@@ -108,13 +108,13 @@ Beyond that, it is important for individuals to develop awareness of the impact 
 <p>
 Related to this is the concept of contextual leadership where there is no one-size-fits-all formula for good leadership, and that different leadership qualities are called for in different settings.<a href="#notes"><sup>5</sup></a> Thus, a great leader in one situation may not necessarily be a great leader in a different situation; qualities and skills that have proved useful in a past context may not be most appropriate in the present or future. Dotlich et al<a href="#notes"><sup>6</sup></a> also noted from a recent study that "context leaders" are three times more effective than "content leaders" (those who draw mainly from their knowledge to add value), as they are able to contribute by recognising resources in their environment and to use them effectively. Hence, while self-regulation and adaptability are vital in pursuing personal development, they are also important leadership qualities. Effective leaders are generally able to adapt their leadership styles to suit the context, and are able to develop new leadership behaviours to cope with situations in which their usual approach may not work well.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Different leadership qualities are called for in different settings.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 In practice, it is useful for leaders to gain awareness of and to understand the match between their personal capacities and the unique demands of the environment in which they are operating in, so that they can better learn to leverage on their existing qualities or consider the development of new behaviours to enhance their overall leadership effectiveness.</p>
@@ -126,24 +126,24 @@ In practice, it is useful for leaders to gain awareness of and to understand the
 <p>
 Organisations tend to overemphasise <em>Head Leadership</em> in identifying and developing leadership potential. While such qualities may allow the leader to demonstrate competence in analysing issues, making decisions and addressing problems, there is increasing recognition that other qualities related to <em>Heart</em> and <em>Guts Leadership</em> are equally important. For instance, leaders need to be able to stay connected with people within and across organisations, demonstrate support and empathy, balance conflicting needs between stakeholders, and make difficult but necessary decisions for the greater good in the face of ambiguous and complex challenges. These qualities are of particular relevance to leaders in the public service, who are entrusted with tremendous responsibility not only on behalf of their agencies but public interests at large.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Organisations tend to overemphasise <strong>Head Leadership</strong> in identifying and developing leadership potential.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Following the principle of contextual leadership, leaders should adapt their use of head, heart and guts leadership according to the context (e.g., some situations may require more heart leadership than head leadership). Indeed, whole leadership does not mean using all three sets of qualities all the time; it is about drawing upon the qualities that are most appropriate for a given situation. In practice, whole leadership can apply to every level of leadership within an organisation. Leadership programmes can also address the development of head, heart and guts, although the focus and intensity for each area would vary across the different organisation levels.<a href="#notes"><sup>7</sup></a> Furthermore, while individual leaders may find themselves having natural preferences for certain aspects of whole leadership (e.g., being more of a Head than Heart leader), the key to development is in helping individuals uncover and enhance their capacities in all three aspects of their repertoire, and to avoid over-reliance on any one strength — which could ironically result in leadership derailment.<a href="#notes"><sup>6</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Leaders develop best by undergoing a <strong>variety</strong> of experiences.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h4><em>Leaders Develop Through a Variety of Experiences Often Beyond the Classroom</em></h4>
 
