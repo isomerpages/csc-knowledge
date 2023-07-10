@@ -105,15 +105,13 @@ If there is a fault in these essays, it occurs when their clinical efficiency an
 <p>
 As far as they do go, however, the pieces in this collection illuminate key issues of our time with unflinching clarity. Regardless of how much we recall from our college classroom days, they are a shot in the arm for all who believe in the value of ideas, their disciplined examination and the language with which they are expressed.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Aaron Maniam</strong> is Deputy Director of the Strategic Policy Office and Head, Centre for Strategic Futures, Public Service Division, Prime Minister's Office. The views expressed in this article are his own. </p>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+</div>
 
 
 
