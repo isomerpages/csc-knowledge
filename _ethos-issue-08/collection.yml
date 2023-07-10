@@ -2,6 +2,8 @@ collections:
   ethos-issue-08:
     output: true
     order:
+      - "Opinion: China’s More Open Society and the Dynamics of Political
+        Change.md"
       - China in Transition.md
       - "Opinion: China’s Consumption Challenge.md"
       - China’s Clean Energy Thrust.md
