@@ -76,7 +76,7 @@ li {
 <p>
 Stephen Roach, chairman of Morgan Stanley Asia, has suggested that the post-crisis global economy is likely to experience a multi-year consolidation of the American consumer; export-driven economies like China are expected to face stiff headwinds in the years ahead.<a href="#notes"><sup>1</sup></a> While the global economy is on the path to recovery, China can no longer depend on the conventional cycle of a robust rebound in global growth that has sustained its export-led growth model since the 1990s. The current European debt crisis and the plunging euro are hurting China's export to its biggest overseas market. Roach warned that if China stays the path of the old growth model and fails to embrace the pro-consumption model, it risks compounding its already formidable imbalances. This is the most apparent in the investment share of China's GDP, which is moving above 45%. This is a record for any major economy and is simply unsustainable for any economy, including China.</p>
 
-<p style="text-align: center;"><img title="11f1a" src="../../images/default-source/ethos-images/ethos-issue-8/11f1a.gif?sfvrsn=82bda7fb_0" data-displaymode="Original" alt="11f1a"></p>
+<p style="text-align: center;"><img title="11f1a" src="/images/Ethos_Images/Ethos_Issue_08/Fig_11f1a.gif" alt="11f1a"></p>
 
 <p><em>Source: Morgan Stanley</em></p>
 
@@ -87,13 +87,13 @@ Stephen Roach, chairman of Morgan Stanley Asia, has suggested that the post-cris
 <p>
 Stoking China's domestic private consumption is currently a top national policy agenda. As early as the first half of 2007, Premier Wen Jiabao had signalled that while China's economy appeared robust on the surface, it was increasingly "unstable, unbalanced, uncoordinated and ultimately unsustainable".<a href="#notes"><sup>2</sup></a> In September 2009, Premier Wen emphasised that China should "make greater effort to enhance the role of domestic demand, especially final consumption, in spurring growth" and highlighted that this would be "a long-term strategic policy for China's economic growth".<a href="#notes"><sup>3</sup></a> It is evident that even a competitive export-driven economy like China could not sustain rapid increases in living standards without an accompanying degree of broad-based private consumption — which should arise as a consequence of economic growth, and which can then fuel the next cycle of demand and supply.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 While the global economy is on the path to recovery, China can no longer depend on the conventional cycle of a robust rebound in global growth that has sustained its export-led growth model since the 1990s.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Indeed, the International Monetary Fund has noted that "raising private consumption over the longer term through structural reforms that lower precautionary savings would provide a large impetus to output growth and reduce the need for gaining further [international] market share. It could allow productive capacity in tradable sectors to be directed to the internal market and new capacity built in sectors that serve local consumers. As such, it would avoid the limits to over-reliance on export-oriented growth that were seen in other major exporters such as Japan and Korea".<a href="#notes"><sup>4</sup></a></p>
@@ -105,19 +105,19 @@ Indeed, the International Monetary Fund has noted that "raising private consumpt
 <p>
 This reluctance to spend and consume may have cultural roots. Observers such as Minister Mentor Lee Kuan Yew have pointed out that the Chinese citizenry's pro-savings mindset is "deep-seated, born of centuries of deprivation. Their experience over the millennia is that during floods, famine, pestilence, earthquakes and war, the central government will not rescue them; therefore, savings are vital to survival."7</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The challenge of low personal income growth has been further compounded by the lack of income security as a result of inadequate social safety provisions.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h4><em>Lack of Private Income Growth and Security</em></h4>
 
 <p>Low private consumption in China can also be attributed to low personal income growth. China has experienced rapid economic growth over the past two decades as a result of tremendous external demand for its goods. In the post-economic crisis period, China's strategy of paying low wages to its workers and depending on external consumers to absorb surplus production is likely to be far less effective. China may now need to emphasise personal income growth over production. However, the 2009 stimulus package demonstrated that the Chinese economy was not moving in this direction. On the contrary, China increased government spending and investment by state-owned enterprises to cushion the impact of weak exports, instead of implementing necessary measures to boost the income of its citizens.</p>
 
-<p style="text-align: center;"><img title="11f2a" src="../../images/default-source/ethos-images/ethos-issue-8/11f2a.gif?sfvrsn=a46067f3_0" data-displaymode="Original" alt="11f2a"></p>
+<p style="text-align: center;"><img title="11f2a" src="/images/Ethos_Images/Ethos_Issue_08/Fig_11f2a.gif" data-displaymode="Original" alt="11f2a"></p>
 
 <p><em>Source: McKinsey Global Institute</em></p>
 
@@ -140,13 +140,13 @@ Third, the escalating private burden of expenditures on housing, education and h
 <p>
 In August 2000, the Chinese government set up the National Social Security Fund, a strategic reserve fund to mitigate the looming ageing crisis and help provide financial protection for pensioners. By the end of 2009, the fund had RMB776.6 billion of assets under management.<a href="#notes"><sup>9</sup></a> The State Council also enacted a 3-year RMB850 billion national health insurance plan in January 2009 to provide basic medical security to all Chinese in urban and rural areas, improve the quality of medical services and make medical services more accessible and affordable to ordinary people. While the plan aims to provide some form of insurance for 90% of the population by 2011, each person covered by the system would only receive an annual subsidy of RMB120, starting in 2010.<a href="#notes"><sup>10</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Measures to make goods and services better and more easily available could encourage consumption much more than strengthening the social safety net.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Since mid-2009, the Chinese government has expanded subsidies to help the country's vast rural population purchase home appliances and automobiles as part of its efforts to boost domestic consumption. They have also loosened consumer credit in the short term to encourage spending. In the longer term, however, the financial uncertainties faced by Chinese citizens can only be countered by major policy initiatives in social security, pension system, health care and unemployment insurance. Although China's 11th Five-Year Plan in early 2006 had established a broad framework for advancement to a consumer-driven growth model, there may need to be an expansion of social security policies in the 12th Five-Year Plan, which runs from 2011 to 2015. According to the China Development Research Foundation, a government think-tank, the state would need to invest RMB5.74 trillion by 2020 to establish a comprehensive social welfare system for its citizens.<a href="#notes"><sup>11</sup></a> This would encompass pensions, education, health care, housing, employment as well as aid to rural residents and migrant workers.</p>
@@ -164,13 +164,13 @@ Deficiencies on the supply side of domestic consumption would also need to be ta
 <p>
 A consumer-led rebalance will result in a more sustainable growth model for China. This development will help to mitigate the country's overwhelming labour absorption problem and buffer the Chinese economy from future global demand shocks. This will also allow China's trading partners to participate in the expansion of its enormous base of domestic demand, thereby reducing their trade deficits with China. In addition, a major shift away from the industrial production underpinnings of exports and investment will also make growth less energy and resources intensive, as well as more environmentally sustainable. As the transition will bring about increased domestic investment, it could boost the productive capacity of the Chinese workers and help reduce income inequality. If China succeeds in making a major strategic shift in its growth model and adopts pro-consumption structural changes, it could reap significant benefits towards its aspirations of a harmonious society, with higher standards of living for Chinese citizens as well as greater regional and global economic stability in the long term.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Lai Szu Hao</strong> is Senior Researcher at the Centre for Governance and Leadership, Civil Service College. The views expressed in this article are his own.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -199,9 +199,6 @@ A consumer-led rebalance will result in a more sustainable growth model for Chin
     </li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
