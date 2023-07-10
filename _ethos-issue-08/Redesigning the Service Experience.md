@@ -52,13 +52,18 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #906d2e;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
+.containerbox h3 ,.containerbox h4 {
+	color: white;
+	}	
+	
+	
 li {
 	font-size: 15px !important;
 	
@@ -84,7 +89,7 @@ When relevant intangibles are taken into account, and the planning approach allo
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Redesigning Employment Pass Services</h3>
@@ -96,12 +101,12 @@ In 2009, design thinking methods were applied for the first time. Instead of loo
 <p>
 The service redesign process required a better understanding of the decision points of both users and non-users. This involved taking a closer look at the opportunities and difficulties facing users, including those who had succeeded and failed within it, or had encountered problems or avoided it.</p>
 <h3>Figure 1. A CHRONOLOGY OF THE WORK PASS DIVISION'S BUSINESS PROCESS RE-ENGINEERING</h3>
-<p style="text-align: center;"><img title="11k1a-big" src="../../images/default-source/ethos-images/ethos-issue-8/11k1a-big.jpg?sfvrsn=e6507dfa_0" data-displaymode="Original" alt="11k1a-big"></p>
+<p style="text-align: center;"><img title="11k1a-big" src="/images/Ethos_Images/Ethos_Issue_08/Fig_11k1a_big.jpg" data-displaymode="Original" alt="11k1a-big"></p>
 <h6><em>Source: Ministry of Manpower Work Pass Division</em></h6>
 <h3>Two Key Service Touchpoints</h3>
 <p>The Employment Pass service involves two critical touchpoints: the Employment Pass OnLine (EPOL) system which applicants first encounter while still in their home countries, and the Employment Pass Services Centre (EPSC) where applicants visit Singapore to submit documents for verification, register biometric data and complete their application.</p>
 <h4><em>EPOL</em></h4>
-<p style="text-align: center;"><img title="11k1b" src="../../images/default-source/ethos-images/ethos-issue-8/11k1b.gif?sfvrsn=e9855458_0" data-displaymode="Original" alt="11k1b"></p>
+<p style="text-align: center;"><img title="11k1b" src="/images/Ethos_Images/Ethos_Issue_08/Fig_11k1b_big.gif" data-displaymode="Original" alt="11k1b"></p>
 <p>The EPOL was first offered in 2002 but it had limited functions. Fewer than 20% of applications were submitted through the system, leaving some 25,000 hardcopy applications to be received and manually processed each month. Applicants had little information on how applications were evaluated.</p>
 <p>
 Between 2005 and 2009, the EPOL was enhanced and redesigned to increase the information flow to users of the system. This has helped to shift the perception of WPD from an opaque and high-handed regulator to that of a responsive and transparent facilitator of employment. An Employment Pass Self Assessment Tool was introduced to help employers and applicants determine the likelihood that their applications would be approved, minimising efforts wasted on clearly non-qualifying applications. In this collaborative spirit, employers of EP applicants take ownership of the process by ensuring that their background checks on candidate employees meet the stipulated guidelines.</p>
