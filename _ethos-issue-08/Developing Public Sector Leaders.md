@@ -52,12 +52,18 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #573c6a;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
+	color: white;
+	}
+	
+.containerbox h3 , .containerbox h4 {
+	color: white;
 	
 	}	
+	
 
 li {
 	font-size: 15px !important;
@@ -195,7 +201,7 @@ It is important to note, however, that time and experience alone does not guaran
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Leadership Development in the Singapore Public Service</h3>
