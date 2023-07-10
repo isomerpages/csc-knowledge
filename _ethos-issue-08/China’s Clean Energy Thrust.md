@@ -84,13 +84,13 @@ However, Chinese policymakers have recognised that this high carbon and energy-i
 
 <p>As the world's largest emitter of carbon dioxide, China is also facing strong international and domestic pressure to address environmental concerns brought about by its rapid development. Beyond pursuing the development of renewable and clean energy sources for power generation and implementing other "green" measures such as planting new forests, China has, for the first time, set domestic targets to cut, by 2020, the amount of carbon produced per unit of gross domestic product between 40% and 45% from 2005 levels.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 China is aggresively driving energy efficiency and conservation even as it seeks to augment its energy supply.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h4><em>Clean Technology is a Growth Sector </em></h4>
 
@@ -119,13 +119,13 @@ China's energy policies can be generally grouped according to the three key poli
 Aware that surging energy demands means a growing reliance on imported energy, China is aggressively driving energy efficiency and conservation even as it seeks to augment its energy supply. Measures include setting energy efficiency benchmarks for enterprises,<a href="#notes"><sup>4</sup></a> rebate programmes to subsidise the purchase of energy efficient light bulbs and "green" government procurement. Steps are also being taken to enhance the efficiency of China's energy infrastructure. These include hastening the development of the west-to-east power transmission system and replacing small oil-burning units to improve energy efficiency in the power generation sector.<a href="#notes"><sup>5</sup></a>
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Chinese policymakers also see the development of the clean energy sector as a means to fuel its next phase of growth.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>In transportation, apart from setting high fuel economy standards,<a href="#notes"><sup>6</sup></a> the Chinese government is also leading the adoption of energy-efficient vehicles. A total of 13 Chinese cities will be piloting subsidy schemes for "new energy vehicles", ranging from US$7,350 for small hybrid passenger cars to US$87,700 for large, fuel-cell-powered commercial buses. The subsidies will target public-sector purchases such as public transportation, sanitation, and postal services. In addition, the government is building up its automotive manufacturing capacity to roll out highly efficient cars, including hybrid-electric and pure electric vehicles. This thrust is not only aimed at improving the overall efficiency of the transport system, but is also meant to create new export opportunities.<a href="#notes"><sup>7</sup></a></p>
 
@@ -147,13 +147,13 @@ Correspondingly, the NDRC expects the country to have to invest more than 2 tril
 
 <p>Despite strong financial and political backing, China's push towards clean energy and a low carbon economy is not without its challenges. One such challenge comes from the continued dominance of energy intensive industries,<a href="#notes"><sup>11</sup></a> which has been identified as a contributing factor in China's inability to meet its first short-term energy intensity reduction target.<a href="#notes"><sup>12</sup></a> Recognising this, the NDRC has recently announced plans to raise power prices for some energy-intensive firms in renewed efforts to control the expansion of such energy-guzzling and pollutive industries.<a href="#notes"><sup>13</sup></a> In the years ahead, China will need to carefully calibrate the contribution of such industries to its economy to effectively manage the inherent tension between its low carbon aspirations and ongoing industrialisation drive.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 China's push towards clean energy is driven primarily by pragmatic economic reasons and does not yet reflect a fundamental shift towards green policies and a new state of environmental consciousness.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Another key challenge for China would be to augment its current suite of legislative and industrial policy tools with market-based tools to drive consumer and business behaviour towards energy conservation/efficiency and low carbon technologies. This will include re-looking the practice of energy subsidies in the country, which is hindering the full realisation of the potential energy efficiency savings in China.</p>
@@ -168,13 +168,13 @@ In the face of such competitive pressures from China, countries that are seeking
 
 <p>Countries like Singapore, which have limited capacity and resources to take as aggressive a stance in making clean energy investments, will face more challenges. Hence we have to move quickly into specific niches where we can remain competitive in the clean energy race. Although Singapore may lack China's financial wherewithal, manufacturing capacity and market scale, we can still ride industry growth trends by playing to our competitive strengths. From an overall system perspective, we remain an attractive "living laboratory" for companies to develop, showcase and export clean energy products and services. We should make full use of this advantage to anchor major clean tech players in Singapore.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Augustine Chong</strong> is Senior Analyst in the Research and Statistics Unit and <strong>Andy Eng</strong> is Deputy Director in the Policy and Planning Department. Both are from the Energy Planning and Development Division of the Energy Market Authority. The views expressed in this article are the authors' own.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -209,9 +209,7 @@ In the face of such competitive pressures from China, countries that are seeking
     </li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
