@@ -85,24 +85,24 @@ The Internet has further facilitated the opening up of society. Today, China has
 <p>
 Significantly, the Chinese leadership has signalled their encouragement for a more open society. Both General Secretary Hu Jintao and Premier Wen Jiabao have emphasised the importance of mass supervision by the people as a means to curb malpractice and abuse of power by public officials.<a href="#notes"><sup>1</sup></a> This is intended to improve governance, and ultimately strengthen the CCP and the Government's legitimacy. On the other hand, this also means that the CCP and the Government will be subject to public calls for greater official accountability and transparency.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Ultimately, the pace of political change will depend on whether the Chinese Communist Party (CCP) assesses that more radical change is in its best interests.
-</em></h5>
-
-<hr>
+</p>
+	
+</div>
 
 <p>
 There have already been instances where the public have disclosed cases of official extravagance, corruption or abuse of power, particularly via new media channels such as the Internet which is the most effective way to reach a wider audience while at the same time allowing the source of the information to remain anonymous. Most importantly, the Chinese leadership seems to have treated such revelations seriously, taking action to punish the perpetrators after verifying the authenticity of these accounts.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Any perception of mismanagement could become more costly politically and erode public confidence in the leadership.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Other grievances that have caused public discontent include: urban-rural divide; income disparities; the treatment of migrant workers and their family members in cities; the lack of social welfare and affordable public housing; environmental pollution and degradation. With the rise of a more assertive population and loosening information flows, Chinese leaders and officials have come under closer scrutiny for the way they handle major events such as earthquakes, mining accidents, epidemics and other major civic mishaps. As a result of the rapid and extensive reach of new media channels, any perception of mismanagement could become more costly politically and quickly erode public confidence in the CCP leadership.</p>
@@ -140,13 +140,13 @@ The influence of NGOs in China can also depend on context and timing. During the
 
 <p>These intra-party and grassroots political innovations and even the greater leeway given to NGOs to perform non-political functions all indicate that the CCP is proactively adapting itself to stay relevant to the times. By doing so, it intends to hold on to power for many years to come.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The question is whether these political innovations are sufficient to ensure social and political stability.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Nevertheless, critics have highlighted the limits of such political innovations. While there is increasing emphasis on intra-party democracy, the Chinese political system is still very much a top-down process. Also, while grassroots democratic processes have taken place at the village and township levels, it is doubtful whether this will be progressively extended to include the administrative levels higher up. In civil society, NGOs are subject to various regulatory requirements, one of which is to find a relevant ministry or agency in China that is willing to sponsor their registration. This can be hard to come by as government agencies are careful not to be associated with a potentially controversial organisation. And while the personal touch of individual leaders such as Bo Xilai are certainly welcome, these individual efforts are of limited impact in a vast country. China needs a more comprehensive and systemic approach.</p>
@@ -157,7 +157,7 @@ In the final analysis, it is important for the Chinese leadership to nurture the
 <p>
 In the past, when faced with a crisis, the CCP has shown that it has the mettle to make painful decisions. Most notably, the Third Plenum of the 11th CCP Congress endorsed an open door and reform policy in 1978 that set China on a course of growth and prosperity. Thirty years later, in 2008, the Chinese leadership reacted quickly by devising a 4-trillion yuan stimulus package to cushion the impact of the global economic crisis. Due to this and other measures, China was able to engineer a quick recovery. With such a track record, it seems reasonable to conclude that when tough decisions need to be made, the CCP should be up to the task.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -165,7 +165,7 @@ In the past, when faced with a crisis, the CCP has shown that it has the mettle 
 
 <p class="small-text"><strong>Professor Zheng Yongnian</strong> is Director of the East Asian Institute. He is Editor of Series on Contemporary China (World Scientific Publishing) and Editor of China Policy Series (Routledge). He is also a co-editor of China: An International Journal. He has studied both China's transformation and its external relations. His papers have appeared in journals such as Comparative Political Studies, Political Science Quarterly, Third World Quarterly and China Quarterly. He is the author of 13 books, including Technological Empowerment, De Facto Federalism in China, Discovering Chinese Nationalism in China, and Globalization and State Transformation in China, and co-editor of 11 books on China's politics and society, including the latest volume China and the New International Order (2008).</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -179,9 +179,7 @@ In the past, when faced with a crisis, the CCP has shown that it has the mettle 
 <li class="small-text">NGOs is used here broadly to refer to social organisations (社会团体), civil non-enterprise institutions (民办非企业单位) and foundations (基金会). See statistics provided by China's Ministry of Civil Affairs at http://cws.mca.gov.cn/article/tjsj/qgsj/</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
