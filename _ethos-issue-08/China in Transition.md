@@ -77,13 +77,13 @@ li {
 <p>
 There has also been a genuine rise in Chinese pride and self-esteem, as demonstrated at major events such as the Beijing Olympics and the Shanghai World Expo. This sometimes manifests itself in terms of nationalistic sentiment. But these are not the result of government campaigns or political mobilisation; instead, they indicate a certain degree of self-confidence among the Chinese people, and a willingness to express their identity.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 China is neither heaven nor hell; it is a vast country in the midst of very complex and fluid development.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Western views of China's transformation tend to fall into two extremes. The first is overwhelmingly optimistic, full of praise for China's dramatic development, accompanied by claims that it will soon take the place of the US and so on. The second is pessimistic or even alarmist, constantly warning of some impending crisis, or cultural theories about the Yellow Peril and so on. These two poles of opinion are really manifestations of an inability to come to terms with modern China's dynamic transition: outdated views of a stagnating China are clearly no longer valid, yet there is no new intellectual basis by which to understand the changes that are now happening. There are no textbook models for China's current trajectory. Many of these observers have never been to China, not even the major cities, and yet there have been sweeping claims about its rural areas, mountains and plains; some of these scholarly views are based on simple ignorance. China is neither heaven nor hell; it is a vast country in the midst of very complex and fluid development. It is important to keep an open mind and look at China today on its own terms.</p>
@@ -99,13 +99,13 @@ Young people in China are neither naive nor apathetic. There used to be a negati
 
 <p>In any reform process, there will always be a degree of upheaval in the short term. This is especially the case in modern China, which has experienced such dramatic change in a short time. In a mature society, some level of unrest can be absorbed, so long as it does not exceed certain expectations or limits. Otherwise, it may hinder or undo the reform process; there is also an opportunity cost to chaos. The shock treatment that Yeltsin introduced to Russia after the collapse of the Soviet Union proved that aggressive reform is counterproductive.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Young Chinese today are intelligent and independent-minded, and no longer follow political dogma uncritically.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 The current Chinese leadership, unlike their predecessors such as Mao Zedong or Liu Shaoqi, are not politically audacious; they believe in small, prudent steps rather than broad, sweeping changes. There is a technique in Beijing Opera called "suibu" (??), which means to walk in tiny, closely paced steps instead of large strides. Progressive reforms are likely to be gradual but ongoing, calculated to incur the lowest social cost. Now that China has attained a certain level of material success, it is in a much better position to accommodate different interests.</p>
@@ -120,13 +120,13 @@ The most noteworthy of China's recent reforms have actually been in terms of dem
 
 <p>I think this is an interesting question. The role that Singapore plays in the modernisation of China has not abated, but has in fact strengthened. In articular, the Chinese government's 2020 time frame for administrative reform means there is an urgent need for the training and development of China's civil service; there is much to learn from the experience of other countries in terms of public administration, management and development. Singapore is still an important point of reference.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Progressive reforms are likely to be gradual but ongoing, calculated to incur the lowest social cost.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Furthermore, Singapore has been visionary in its many initiatives to strengthen ties with China, with successful projects such as the Suzhou Industrial Park, the Tianjin Eco-city, and the Knowledge City in Guangzhou. I think such full-scale application of Singapore's economic and management expertise through these different model projects is very promising. Singapore may think it is very small, but its relationship with China is probably the best developed in ASEAN; its leadership treads a rational and balanced middle ground, without allowing its size to be a weakness. The Chinese government deeply understands Singapore's delicate diplomatic position. When China expressed its displeasure at PM Lee Hsien Loong's visit to Taiwan on his own initiative, I believe it was merely a test of the strategic bottom line for both parties, and it should no longer be a cause for concern. Singapore is a benchmark to which the Chinese government refers in its handling of relationships with peripheral countries.</p>
@@ -137,15 +137,14 @@ It's worth pointing out that the Chinese government seems to be far more sophist
 <p>
 That said, the current generation of civil servants in Singapore should invest time to learn about the reality in China, given that no country in the region can avoid dealing with China in some way. Without a deeper understanding of the real issues or a good grasp of political and economic concepts in the Chinese language, Singapore may lose the regional advantage it has possessed so far in interacting with China. Singapore's leaders, from Lee Kuan Yew to Goh Chok Tong and Lee Hsien Loong, have understood this. The current and future generations of public servants should ensure that Singapore retains this edge.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Yang Jin Lin</strong> is a senior political commentator and host of a number of popular programmes on Phoenix Television. He is well-known for his passionate, candid yet humorous interviews with the public. A graduate of Fujian's Xiamen University Faculty of History, Yang worked in Hong Kong for a number of mass media companies as reporter, chief editor, chief writer and magazine editor. He was also a columnist for a few newspapers in Hong Kong and a special reporter for Asiaweek. In Singapore to deliver a lecture on "Emerging Attitudes Towards China's Elites", Yang was interviewed by Alvin Pang, Editor, ETHOS and facilitated by Soh Tze Min, Researcher in the Centre for Governance and Leadership, Civil Service College. The original interview was conducted in Mandarin and has been translated for publication in ETHOS.</p>
 
-<br>
+</div>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
