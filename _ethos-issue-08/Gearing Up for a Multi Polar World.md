@@ -99,13 +99,13 @@ Federal Republic of Nigeria</p>
 <p>
 In my opinion, the real national concern for Kuwaitis is to radically improve market competitiveness for the future. Kuwait is striving to become a regional financial centre, and we are trying to gain a foothold. Kuwait hosts several successful banks and we can capitalise on our strengths in the finance and investment sector to diversify our income sources. Although our regional counterparts such as Dubai, Bahrain and Qatar have a head start in this area, we can still find a niche of our own.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Any government, whether in a developed or developing country, that wants to stay relevant and stay in power, ought to periodically review and renew itself.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Before there was oil, Kuwait had historically been an intermediary between neighbouring production-based countries and their consumer markets. Although we have now become reliant on oil, we can revive our capabilities in this direction. Some of our major economic diversification initiatives include establishing Bubiyan Island as a hub port in a regional free trade area, commercial centres such as Madinat Al-Hareer ("City of Silk") and transport networks reaching into the landlocked areas of Central Asia.</p>
@@ -129,13 +129,13 @@ Any government, whether in a developed or developing country, that wants to stay
 <p>
 Currently, Kuwait is reliant on a single commodity, which is oil. Our forefathers were wise in setting up the Kuwait Investment Authority, which takes specified portion of oil revenues and locks it away in a sovereign fund to be invested elsewhere, so it can become an alternative source of income for our future generations. But we face increasing pressures from a growing population (with a native fertility rate of 3.3). Kuwait is a society that has no taxes and generous social provisions in healthcare, education and so on — the proportion of fiscal resources being spent on public subsidies is set to grow, and it will eventually eat into what we have set aside for investment. So a long-term challenge for us is the diversification of the Kuwaiti economy. To do so, we will need to have markets in which we can engage, assets upon which we can rely, and a competitive advantage that we can use.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 You cannot intervene with drastic policies overnight; you must win the hearts of the people with step-by-step measures.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Another challenge we face relates to our human capital. From a period of illiteracy before independence, we have evolved to become a modern society with a vibrant Parliament and media scene, supported by highly educated immigrants from developed countries who have come because of economic opportunities. However, although education is available for everyone, it has not translated into higher productivity in the marketplace — likely because people with know-how go into the government sector which employs 93% of Kuwaitis, and where they do not reach their full potential. This is a waste of resources and talent which could go into developing the private sector.</p>
@@ -162,13 +162,13 @@ One challenge you may face is that your population may not be enough to sustain 
 <p>
 <strong><span style="color: #c00000;">HAU</span></strong>: What interested me the most is the way all the public agencies are integrated in implementing the country's policies. We have been to different departments and sites and they are all independent in operation. Yet there is coherence and coordination between agencies; the policy guidelines are given from the top, and the implementation details are executed by the individual agencies. These agencies are empowered with the authority to carry out policies and projects, and are staffed by professional, effective, efficient civil servants and technocrats, who take their own initiative and use their skills and talents to carry out government policies to the utmost. That is most remarkable.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 National strategies may be going one way but the values and priorities of immigrants may differ, and you have to find a way to align the two.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 <strong><span style="color: #4f81bd;">CHINWO</span></strong>: What I found striking apart from our classroom sessions were some of our site visits, where we could clearly see that the knowledge economy isn't just about ICT, science and technology. It is also about applying know-how to transform a harsh environment into a beautiful and enjoyable one. The Urban Redevelopment Authority has a master plan for Singapore where you can project future developments and ensure that growth follows a sustainable pattern, green spaces are protected and so on. You have your ERP to limit car use but also an efficient public transport system as a realistic alternative. And you have the Marina Barrage, which is able to control floods and also serves as a reservoir of water for industry, recreation and also drinking. Coming from a city that has similar topography, by the sea, this is something we can think about back home.</p>
@@ -180,9 +180,7 @@ Strategically speaking, Singapore is located among bigger countries and bound by
 
 <p class="small-text">The ETHOS Roundtable was conducted by ETHOS Editor Alvin Pang in March 2010. Mr Chinwo, Mr Hau and Dr Adel were participants in the 3rd Leaders in Governance Programme (LGP) organised by the Singapore Civil Service College from 22 to 30 March 2010. Drawing from Singapore's development experience, the LGP offered practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the eight-day Programme, participants interacted with senior government officials and thought leaders, and visited key government agencies to understand their operating philosophies and values.</p>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
