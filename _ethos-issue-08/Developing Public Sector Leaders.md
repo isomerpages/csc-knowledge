@@ -216,17 +216,20 @@ It is important to note, however, that time and experience alone does not guaran
 </div>
 
 
+<br>
+<br>
+<br>
 
 
 
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Goh Phek Suan</strong> is a Consultant Psychologist in the Centre for Leadership Development in the Civil Service College (CSC). The Centre serves to strengthen and build up the various leadership development work undertaken by CSC, as well as to promote greater collaborations on leadership assessment, research and development work for the benefit of the public service. Some examples of leadership development initiatives undertaken by CSC and its partners include the implementation of a development centre for Management Associates, the delivery of leadership modules within milestone programmes, the development of a CSC pool of coaches to support the roll-out of executive coaching within the public service, as well as the establishment of a conceptual blueprint to guide the design of leadership development curriculum for the public service.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -254,9 +257,7 @@ It is important to note, however, that time and experience alone does not guaran
 <li class="small-text">Boyatzis, R. E. (2006), "An Overview of Intentional Change from a Complexity Perspective", Journal of Management Development, 25(7): 607–623.</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
