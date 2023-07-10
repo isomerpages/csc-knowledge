@@ -2,6 +2,7 @@ collections:
   ethos-issue-08:
     output: true
     order:
+      - Redesigning the Service Experience.md
       - Scientific Thinking and Public Policy Review of Clark Glymour’s Galileo
         in Pittsburgh.md
       - "Opinion: Using the Tax System to Create New Resources Out of Thin
