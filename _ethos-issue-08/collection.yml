@@ -2,6 +2,7 @@ collections:
   ethos-issue-08:
     output: true
     order:
+      - Editorial.md
       - "China Engages Asia: The Soft Notion of China’s “Soft Power”.md"
       - "Opinion: Is China Catching Up with the US?.md"
       - "Opinion: China’s More Open Society and the Dynamics of Political
