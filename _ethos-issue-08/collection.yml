@@ -2,6 +2,7 @@ collections:
   ethos-issue-08:
     output: true
     order:
+      - "Opinion: Is China Catching Up with the US?.md"
       - "Opinion: China’s More Open Society and the Dynamics of Political
         Change.md"
       - China in Transition.md
