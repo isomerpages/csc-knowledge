@@ -2,6 +2,7 @@ collections:
   ethos-issue-08:
     output: true
     order:
+      - Gearing Up for a Multi Polar World.md
       - Developing Public Sector Leaders.md
       - Redesigning the Service Experience.md
       - Scientific Thinking and Public Policy Review of Clark Glymour’s Galileo
