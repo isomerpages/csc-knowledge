@@ -89,13 +89,13 @@ li {
 
 <p>Although China has drawn the most attention in the trade story of the past decade (particularly with China surpassing Germany to become the world's largest exporter in 2009), the trend of a rising Asia extends beyond China. China's role as a lower value-add producer and final assembler in global production and supply chains means that only a small percentage of total exports are actually accrued to domestic value add. Indeed, the share of foreign content in China's exports has been estimated to be about 50%.<a href="#notes"><sup>3</sup></a> Sectors that are labelled as relatively sophisticated (e.g. electronic devices) have even higher foreign content (about 80%). In fact, current global trade interdependence is between G3 and emerging Asia as a whole, with other emerging Asian economies also benefiting economically from the proliferation of global production and supply chains, set up to produce and feed the G3 demand. Nevertheless, China's development is expected to be a key driver in determining the future of trading regimes in the decade ahead.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Current global trade interdependence is between G3 and emerging Asia as a whole. The trend of a rising Asia extends beyond China.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>POSSIBLE SCENARIOS</h3>
 
@@ -118,13 +118,13 @@ In this bi-polar world, Singapore's friendship with the two giants requires a de
 <p>
 As a result, China dominates global demand; trading partners re-orientate towards China in order to participate in this growth. China-centric trading and financial platforms emerge, in parallel to existing international frameworks which are now unable to accommodate China's growing demands. A China-Japan-Korea trade core forms, at the expense of Southeast Asia. Likewise, global talent and resources are sucked into China's relentless rise; it soon has the intellectual wherewithal to project thought leadership and determine global discourse.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 By attracting its share of talent and thought leadership, Singapore could become a "horizon scanning base", sniffing out emerging pockets of growth opportunities dispersed around the world.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 In this uni-polar world where the centre of gravity has shifted north to East Asia, Singapore's geopolitical and economic space is greatly curtailed. Its value as a hub is likely to diminish; its success depends crucially on its ability to play by the new China-centric rules, and to continue to be attractive — counting on its urban planning, education and public governance expertise — to the Chinese elite and other affluent regional players.</p>
@@ -152,7 +152,7 @@ Nevertheless, the three scenarios present different challenges for Singapore. Fo
 <p>
 <strong>ATTRACT TALENT AND IDEAS</strong>: Singapore must continue to draw and anchor its share of global talent, who will continue to be a key differentiating factor in all scenarios. It should also seek to cultivate a positive, substantial and enduring mindshare among the international elite who live, work and play here. To keep Singapore plugged into the global traffic in ideas, think tanks, top universities and other leaders of intellectual capital could be encouraged to set up offices in Singapore as part of their international network of activities.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -160,7 +160,7 @@ Nevertheless, the three scenarios present different challenges for Singapore. Fo
 
 <p class="small-text">This article was adapted from research commissioned by MTI Trade Division to consider what the global trading regime might look like in the near future, with a focus on the key uncertainties regarded as most pertinent to global trade. The views expressed in this paper are the authors', and do not necessarily reflect those of MTI or the Government of Singapore.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -184,8 +184,6 @@ Nevertheless, the three scenarios present different challenges for Singapore. Fo
 <ol>
 <li class="small-text">Aw A., Lee C. P. and Wee S. L., "The End of the World as We Know It", ETHOS Issue 6 (Singapore: Civil Service College, July 2009), pp48-53.</li>
 </ol>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
