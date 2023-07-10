@@ -2,6 +2,7 @@ collections:
   ethos-issue-08:
     output: true
     order:
+      - "Opinion: China’s Consumption Challenge.md"
       - China’s Clean Energy Thrust.md
       - "The Future of Global Trading Regimes: Three Scenarios.md"
       - Gearing Up for a Multi Polar World.md
