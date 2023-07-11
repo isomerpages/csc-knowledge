@@ -56,7 +56,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3><span class="cat"></span><br></h3>
+		<h3><span class="cat">Issue 08, August 2010</span><br></h3>
 		<p></p>
 		<div class="button1"><a target="_blank" href="">Download PDF</a></div>
 	</div>
