@@ -52,13 +52,17 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #346591;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
+.containerbox h3 , .containerbox h4 {
+	color: white;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -77,7 +81,7 @@ li {
 
 <p>To serve "beyond the predictable", public organisations must embrace a broader definition of public results, an expanded understanding of the role of government and a dynamic view of public administration. Their role is to achieve <em>public policy results and civic results</em>. To do this, public administrators must explore how to move results up the value-added chain and balance better policy results in the short term, with the need to engage citizens to achieve better results in the long term.</p>
 
-<p style="text-align: center;"><img title="10b1a" src="../../images/default-source/ethos-images/ethos-issue-7/10b1a.gif?sfvrsn=9d97dcfe_0" data-displaymode="Original" alt="10b1a"></p>
+<p style="text-align: center;"><img title="10b1a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10b1a.gif" alt="10b1a"></p>
 
 <p style="text-align: center;">© J Bourgon 2009. Reproduced with permission.</p>
 
@@ -109,7 +113,7 @@ Governments acting alone cannot address an increasing number of <em>complex poli
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">IMPROVING THE CAPACITY FOR PUBLIC RESULTS</h3>
@@ -267,7 +271,7 @@ FURTHER READING</h6>
 <li class="small-text">Salamon, L. The Tools of Government: A Guide to the New Governance (Oxford: Oxford University Press, 2002).</li>
 </ul>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
