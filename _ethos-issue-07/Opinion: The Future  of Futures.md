@@ -52,13 +52,17 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #615e11;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
+.containerbox h3 , .containerbox h4 , .containerbox strong{
+	color: white;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -86,12 +90,12 @@ Our repertoire of futures thinking tools has also grown. In the recent past, we 
 
 
 
-<p class="small-text text">The desire to know the future has been a preoccupation of humankind since time immemorial, along with its attendant culture and processes. Those who sought the wisdom of the Greek oracle at Delphi, for instance, had to deliberate carefully on what to ask and how to phrase the question they would pose to the sacred oracle.</p>
 
 
 
 
-<div class="container">
+
+<div class="containerbox">
 
 
 <h3 class="title">What the Delphi Oracle can Tell Us about Futures</h3>
