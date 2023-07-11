@@ -147,7 +147,7 @@ Third, futures units should be prepared to consider <em>shorter term outlooks</e
 <p>
 Finally, there are benefits in <em>coordinating the activity of futures units</em> that have proliferated across different segments of government. Futures units in the public sector today differ widely in terms of their competency, capability and capacity, as well as in their degree of organisational maturity. While the different units started out from different policy mandates, there is growing recognition that every major issue has dimensions which interface with others. For instance, social issues should take into consideration economics and industrial organisational futures, as these will have impact on wages and composition of the labour force which, in turn, will potentially modify assumptions about the distribution of income and shape of the social needs picture. This can allow for a customised packaging of skills, methods and systems to deal with specific questions or problems, as well as reap inter-agency or WOG synergies.</p>
 
-<img width="530" src="../../Knowledge/Ethos/Issue%207%20Jan%202010/Pages/images/10e2a.html" height="164" alt="">
+<img width="530" src="/images/Ethos_Images/Ethos_Issue_07/ethos_7_10e2a.PNG" height="164" alt="">
 
 <h3>THE POWER OF MULTIPLE FUTURES</h3>
 
@@ -160,12 +160,9 @@ Finally, there are benefits in <em>coordinating the activity of futures units</e
 
 
 
-<p class="small-text text">Over the past decade, new futures units have been set up and legacy ones modified. Futures units in the Singapore Public Service now straddle a wide range of policy domains.</p>
 
 
-
-
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Public Sector Futurists</h3>
