@@ -79,9 +79,9 @@ At the organisational level, foresight is more than simply a long-term work plan
 <p>
 Foresight has to be practised; to this end, governments and private organisations have embarked on widespread foresight programmes and activities varying in breadth, depth and sophistication (see Table 1).</p>
 
-<p style="text-align: center;"><img title="Table 1 (1)" src="../../images/default-source/ethos-images/ethos-issue-7/table-1-(1).png?sfvrsn=8d23b416_0" data-displaymode="Original" alt="table 1"></p>
+<p style="text-align: center;"><img title="Table 1 (1)" src="/images/Ethos_Images/Ethos_Issue_07/Table11.png" data-displaymode="Original" alt="table 1"></p>
 
-<p style="text-align: center;"><img title="Table 1 (2)" src="../../images/default-source/default-album/table-1-(2).png?sfvrsn=88f0016e_0" data-displaymode="Original" alt="table 1 cont'd"></p>
+<p style="text-align: center;"><img title="Table 1 (2)" src="/images/Ethos_Images/Ethos_Issue_07/ethos_07_tablecontinued.PNG" data-displaymode="Original" alt="table 1 cont'd"></p>
 
 <p>The UK Foresight Programme, with its stated role "to help government think systematically about the future", is an example of an established approach to the praxis of foresight in the public sector.<a href="#notes"><sup>1</sup></a> Observation of the UK Programme reveals four useful insights:</p>
 
@@ -109,17 +109,17 @@ Furthermore, the UK Horizon Scanning Centre also functions as the government's h
 
 <p>Robust and credible foresight work has to be relevant to policy and invested with sufficient management buy-in to ensure that findings and recommendations are given due consideration and followed through. Foresight projects in the UK are carefully chosen to address cross-departmental policy issues with action-oriented outcomes. Each project has to be supported by a lead government department and its Minister must agree to chair a high-level stakeholder group of senior decision-makers and budget-holders from relevant departments, research councils and other organisations. The government's Chief Scientific Adviser sits on each of these stakeholder groups as well.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A foresight programme should be
 seen as part of a larger endeavour
 to institutionalise and make
 mainstream habits of mind that
 challenge prevailing assumptions.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Once buy-in from higher management and stakeholders is secured, attention has to be given to communicating of foresight products in effective ways. Heavily researched analysis and complex scenarios need to be presented in a detailed yet incisive manner for decision makers to understand and subsequently take action. To this end, the UK foresight projects are crafted to be well signposted, monitored and regularly updated within the stakeholders’ communities as part of the implementation process.</p>
@@ -137,13 +137,13 @@ Cultivating an appreciation of strategic futures methodologies in departments ha
 <p>
 As observed from the UK’s experience, the explicit goal of a foresight programme is for public of f icials to think systematically about the future. Given the need for public policymaking to become ever more adroit, adaptive and astute, such an endeavour is nothing short of a transformative process to institutionalise the praxis of foresight at all levels of government.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Calvin Chong</strong> is Assistant Director (Policy and International Relations) and Jeremy Tan is Executive (Horizon Scanning Centre) at the National Security Coordination Centre, Prime Minister’s Office. This article was the result of a study trip to the United Kingdom in February 2009.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
