@@ -101,7 +101,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/banner_opinion.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Looking for Trouble</h3>
 		<b><i></i></b>
@@ -113,7 +113,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/banner_opinion.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: The Future of Futures</h3>
 		<b><i></i></b>
@@ -125,7 +125,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/banner_opinion.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Mainstreaming the Praxis of Foresight: The UK Example</h3>
 		<b><i></i></b>
@@ -185,7 +185,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/banner_opinion.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: In Search of the New Public Leader</h3>
 		<b><i></i></b>
