@@ -52,13 +52,18 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #6a7f81;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
+.containerbox h3 {
+	color: white;
+	}	
+	
+	
 li {
 	font-size: 15px !important;
 	
@@ -84,13 +89,13 @@ li {
 
 <p>Top earners have spent much of their extra income on positional goods — things whose value depends heavily on how they compare with similar things bought by others. Like mutually offsetting weapons in a military arms race, consumption of this sort is largely wasteful. Such wasteful competition occurs because people take too little account of the costs that certain types of consumption impose on others. When one job applicant spends more on an interview suit, for example, others must spend more as well, or else accept lower odds of getting a call back. Yet when all spend more, no one's odds of landing the job are any higher than before.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Evidence suggests that satisfaction depends more on relative consumption than absolute consumption.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Although there is little evidence that middle-income families resent the spending of top earners, they are nonetheless affected by it in tangible ways. Additional spending by the rich shifts the frame of reference that defines what the near-rich consider necessary or desirable, so they too spend more. In turn, this shifts the frame of reference for those just below the near-rich, and so on, all the way down the income ladder. Such expenditure cascades help explain why the median new house built in the US is now about 50% larger than its counterpart from 30 years ago, even though the median real wage has risen little since then. In Singapore as well, expenditures on housing have been growing at rapid rates, even among people who have experienced little income growth.</p>
 
@@ -98,13 +103,13 @@ Evidence suggests that satisfaction depends more on relative consumption than ab
 
 <p>Such waste can be easily curtailed by existing policy instruments. In a world of perfect information, the ideal remedy would be to tax different goods in proportion to the extent to which their use generates negative side effects. In practice, we lack the detailed information necessary to implement this remedy. But a <em>steeply progressive tax on each family's total annual consumption</em> would serve almost as well.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 If a progressive consumption tax were phased in gradually, its main effect would be to shift spending from consumption to investment, causing productivity and incomes to rise faster.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>First, a brief word about how this tax would work. The amount a family consumes each year is simply the difference between what it earns and what it saves. People would report their income to the tax authorities as they do now, and also their annual savings, much as how people in the United States currently document their annual contributions to tax-sheltered retirement accounts. The difference between these two amounts, less a <em>large standard deduction</em> — say, US$30,000 for a family of four — would be the family's taxable consumption. Rates would start low, perhaps only 10%. In this illustration, a family that earned US$50,000 and saved US$5,000 would have taxable consumption of US$15,000 and pay only US$1,500 in tax.</p>
 
@@ -121,12 +126,12 @@ If a progressive consumption tax were phased in gradually, its main effect would
 
 
 
-<p class="small-text text">Consider a wealthy family that currently spends US$10 million a year and is debating whether to add a US$2-million wing to its mansion.</p>
 
 
 
 
-<div class="container">
+
+<div class="containerbox">
 
 
 <h3 class="title">How A Progressive Consumption Tax Would Work</h3>
@@ -148,13 +153,13 @@ If a progressive consumption tax were phased in gradually, its main effect would
 
 <p>With much of the world economy still in the midst of a deep downturn, no additional taxes should be levied on low- and middle-income households in the short run. Under the circumstances, however, there would be considerable advantage in a gradual phase-in of a progressive consumption tax, to begin once unemployment has again fallen to a suitably low threshold. At first, we could collect income taxes as before and levy a progressive surtax only on consumption in excess of some high threshold — say, $500,000 annually. The threshold could then be lowered gradually until the consumption tax completely replaced the income tax.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 By eliminating waste, these taxes free up resources for things we actually value.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Alternatively, the current income tax could be retained permanently and be supplemented with a progressive surtax levied only on extremely high levels of consumption, as the economist Larry Seidman has proposed.<a href="#notes"><sup>2</sup></a> Since this surtax would apply to fewer than 1% of households, Seidman's approach would be administratively far simpler and hence likely to provoke less political resistance.</p>
 
@@ -164,13 +169,13 @@ By eliminating waste, these taxes free up resources for things we actually value
 
 <p>Progressive consumption taxation has long been proposed by both economists from all parts of the political spectrum. It is a policy move that would create valuable new resources out of thin air.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Robert H. Frank</strong> is the Henrietta Johnson Louis Professor Management and Professor of Economics at Cornell University. Until 2001, he was the Goldwin Smith Professor of Economics, Ethics, and Public Policy in Cornell's College of Arts and Sciences. He has also served as a Peace Corps volunteer in rural Nepal, chief economist for the Civil Aeronautics Board, fellow at the Center for Advanced Study in the Behavioral Sciences, and was Professor of American Civilization at l'Ecole des Hautes Etudes en Sciences Sociales in Paris. His books include Choosing the Right Pond, Passions within Reason, Microeconomics and Behavior, Luxury Fever, and What Price the Moral High Ground? The Winner-Take-All Society, co-authored with Philip Cook, was named a Notable Book of the Year by The New York Times, and was included in Business Week´s list of the ten best books for 1995. Professor Frank holds a BS in mathematics from the Georgia Institute of Technology, an MA in statistics and a PhD in economics, both from UC Berkeley. Professor Frank visited Singapore in November 2009 at the invitation of the Centre for Public Economics, Civil Service College, to speak on "The Economic Naturalist: In Search of Solutions to Everyday Enigmas" and "Falling Behind: Income Inequality and Middle Class Disaffection".</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -179,9 +184,6 @@ By eliminating waste, these taxes free up resources for things we actually value
 <li class="small-text">Seidman, Laurence S., Pouring Liberal Wine Into Conservative Bottles: Strategy and Policies (University Press of America, 2006).</li>
 </ol>
 
-<br>
-
-<p><a href="../ethos.html">Back to Ethos homepage</a></p>
 
 
 
