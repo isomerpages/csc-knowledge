@@ -2,6 +2,7 @@ collections:
   ethos-issue-07:
     output: true
     order:
+      - Thinking through  Complexity, Managing  for Uncertainty.md
       - "Opinion: Looking for Trouble.md"
       - "Opinion: The Future  of Futures.md"
       - "Opinion: Mainstreaming  the Praxis of Foresight:  The UK Example.md"
