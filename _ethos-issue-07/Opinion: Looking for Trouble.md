@@ -160,7 +160,7 @@ early indications seriously.
 <p>
 In a risk-averse environment, analysts will be very reluctant to offer opinions that might be wrong. They will avoid the boundary line, moving as far to the accurate pole as possible. That is fine—except that their statements and observations will carry very little information value. More desirable is a situation where people go in the opposite direction. They migrate to the boundary line, trying to make the most extreme observations that they believe they can defend. These are the insights, the risky predictions, the disruptive opinions that can be so valuable.</p>
 
-<img width="530" style="margin-left: 4px; margin-right: 4px;" src="../../Knowledge/Ethos/Issue%207%20Jan%202010/Pages/images/10d2a.html" height="77" alt="">
+<img width="530" style="margin-left: 4px; margin-right: 4px;" src="" height="77" alt="">
 
 <p>There do not seem to be any special skills for spotting weak signals, other than a contrarian attitude. However, by encouraging speculation rather than conformity, curiosity rather than avoidance of mistakes, disagreement over harmony, we may be able to increase success in noticing the early indications of threats.</p>
 
