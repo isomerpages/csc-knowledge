@@ -82,14 +82,14 @@ margin-top:15px;
 		<h3>China Engages Asia: The Soft Notion of China’s “Soft Power”</h3>
 		<b><i>by Shaun Breslin</i></b>
 		<p>A leading scholar argues for a more nuanced understanding of China's emerging geopolitical influence.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-08/china-engages-asia-the-soft-notion-of-chinas-soft-power/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Is China Catching Up with the US?</h3>
 		<b><i></i></b>
@@ -101,7 +101,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: China’s More Open Society and the Dynamics of Political Change</h3>
 		<b><i></i></b>
@@ -125,7 +125,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: China’s Consumption Challenge</h3>
 		<b><i></i></b>
@@ -209,7 +209,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Using the Tax System to Create New Resources Out of Thin Air</h3>
 		<b><i></i></b>
