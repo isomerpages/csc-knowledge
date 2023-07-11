@@ -2,5 +2,6 @@ collections:
   ethos-issue-07:
     output: true
     order:
+      - "Opinion: In Search of  the New Public Leader.md"
       - Phases of Singapores  Demographic Development  Post World War II.md
       - "Sustainable Development:  Challenges and Opportunities.md"
