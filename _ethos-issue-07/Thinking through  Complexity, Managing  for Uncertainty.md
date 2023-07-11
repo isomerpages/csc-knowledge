@@ -85,21 +85,21 @@ The second reason is that current risk management systems and other attempts to 
 <p>
 Combining the findings from Behavioural Economics and Complex Systems points of view, we can classify the way we think and manage events in a two-by-two matrix as follows:</p>
 
-<p style="text-align: center;"><img title="10c1a" src="../../images/default-source/ethos-images/ethos-issue-7/10c1a.gif?sfvrsn=715ae66e_0" data-displaymode="Original" alt="10c1a"></p>
+<p style="text-align: center;"><img title="10c1a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10c1a.gif" data-displaymode="Original" alt="10c1a"></p>
 
-<p>Behavioural economists have shown that when confronted with decisions in a short time interval, we think in ways that are different than if we were given more time to make decisions. We use the <em>Automatic System</em> to deal with matters that require very fast decisions. The Automatic System, as the name suggests, controls our intuitive, automatic responses. It is typically uncontrolled, effortless, associate, fast, unconscious and based on practised skills. This is the system of thinking we tend to use in our day-to-day activities, and when we have only a short time in which to make decisions.<a href="../../Knowledge/Ethos/Issue%207%20Jan%202010/Pages/Thinking-through-Complexity-Managing-for-Uncertainty.html#notes"><sup>1</sup></a></p>
+<p>Behavioural economists have shown that when confronted with decisions in a short time interval, we think in ways that are different than if we were given more time to make decisions. We use the <em>Automatic System</em> to deal with matters that require very fast decisions. The Automatic System, as the name suggests, controls our intuitive, automatic responses. It is typically uncontrolled, effortless, associate, fast, unconscious and based on practised skills. This is the system of thinking we tend to use in our day-to-day activities, and when we have only a short time in which to make decisions.<a href="#notes"><sup>1</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Current risk management
 systems and other attempts to
 predict the future are based too
 much upon linear relationships
 derived from past experience.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 When adequate time is available for reflection, we use the <em>Reflective System</em>. This mode of thinking is controlled, effortful, deductive, slow, self-aware and rule-following. Most of what we are taught in schools, our reasoning and analysis and the rational method are based on the Reflective System. In particular, the great advances in science and technology can be attributed to the use of the rational method. Most economic analysis now is based on the so-called "Rational Man Model". This rational method has served us well so far, but may no longer be sufficient in solving some complex problems.</p>
