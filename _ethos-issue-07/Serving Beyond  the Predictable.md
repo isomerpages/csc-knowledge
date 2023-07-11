@@ -165,23 +165,23 @@ The challenge will be to integrate the findings of collective intelligence resea
 
 <p>Where shocks can be reasonably foreseen, it is the role of government to anticipate, initiate pre-emptive action and mitigate key vulnerabilities.<a href="#notes"><sup>15,16</sup></a></p>
 
-<p style="text-align: center;"><img title="10b3a" src="../../images/default-source/ethos-images/ethos-issue-7/10b3a.gif?sfvrsn=c4976503_0" data-displaymode="Original" alt="10b3a"></p>
+<p style="text-align: center;"><img title="10b3a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10b3a.gif" data-displaymode="Original" alt="10b3a"></p>
 
 <p style="text-align: center;">© J Bourgon 2009. Reproduced with permission.</p>
 
 <p>However, where shocks cannot be foreseen or prevented, the role of government is to promote the <em>resilience</em> of society, ensure a more equitable distribution of risks and reduce the impact on its most vulnerable. This means building the <em>adaptive capacity</em> of society.<a href="#notes"><sup>17</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Complex issues call for a
 participative approach to create
 a shared view of a given issue,
 opening up the possibility of
 concerted actions.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Individuals, organisations or government working alone cannot achieve resilience.<a href="#notes"><sup>16</sup></a> It requires an <em>active citizenry</em> with the skills and confidence to act. It relies on <em>strong communities</em> with the capacity to mobilise resources and co-ordinate action that leads to common solutions.<a href="#notes"><sup>18</sup></a></p>
@@ -197,17 +197,17 @@ Individuals, organisations or government working alone cannot achieve resilience
 
 <p>A <em>participative approach</em> to public policy and policy implementation is not a luxury. It reinforces resilience and the adaptive capacity of society, particularly when it allows decision making and action at the community level.<a href="#notes"><sup>19</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Where shocks cannot
 be foreseen or prevented,
 the role of government is
 to promote the resilience
 of society.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Complex issues can be large or small<a href="#notes"><sup>20</sup></a> and governments must intervene appropriately to achieve the desired outcome.<a href="#notes"><sup>17,20</sup></a> Small-scale interventions are a powerful way to gain insights on preferences, potential outcomes and unintended consequences, and micro interventions can accelerate collective learning, deflect risks and increase resilience.</p>
@@ -222,7 +222,7 @@ This role transforms the systems and structures that served us well in the past.
 <p>
 As a result of a number of global failures and crises, a search for balance is under way to reconcile the private, public and civil society spheres. The need for a new balance reveals more clearly than ever the need for an <em>affirmative state</em> able to provide services of high public value, promote and defend the collective interest in all circumstances and also to <em>serve beyond the predictable</em>.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -230,7 +230,7 @@ As a result of a number of global failures and crises, a search for balance is u
 
 <p class="small-text">These positions follow an extensive career in the public sector where she led the Public Service of Canada through some of its most important reforms since the 1940s. Selected positions include: Ambassador to the Organisation of Economic Cooperation and Development (2003-2007), Clerk of the Privy Council and Secretary to the Cabinet (1994-1999), Queen's Privy Council of Canada (1998-present), and Deputy Minister in various departments: Transport, Canadian International Development Agency, Consumer and Corporate Affairs, and the Canadian Center for Management Development.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
