@@ -112,7 +112,7 @@ When adequate time is available for reflection, we use the <em>Reflective System
 
 <p>Combining these two dimensions gives us the following matrix to classify the mode of thinking appropriate for different situations.</p>
 
-<p style="text-align: center;"><img title="10c2a" src="../../images/default-source/ethos-images/ethos-issue-7/10c2a.gif?sfvrsn=6dd9737_0" data-displaymode="Original" alt="10c2a"></p>
+<p style="text-align: center;"><img title="10c2a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10c2a.gif" data-displaymode="Original" alt="10c2a"></p>
 
 <p>In the Routine quadrant, where time is short and the task is simple, we rely upon past experience, learned heuristics, and rules of thumb. Skill in this area can be gained through training and drilling, and the creation of rules or protocols.</p>
 
@@ -132,7 +132,7 @@ Since our interest is how best to operate in a complex and uncertain environment
 
 <p>If we apply this matrix to Singapore, we can describe the issues we faced from the 1960s to the 1980s as falling into a relatively simple set, which can be satisfactorily resolved by the application of the rational method. The characteristic problems of that time were quite straightforward—to build excellent infrastructure, schools and housing, and to create jobs. As Singapore evolves from a third-world to a first-world economy, there is a corresponding rise in the complexity of our problems. Issues such as a declining and ageing population, climate change and rising healthcare costs do not have obvious or straightforward answers. Greater calls for consultation, participation and variation from Singaporeans today can be seen as both symptom and cause of the complexity of our environment. The types of problems can be positioned on the time-complexity matrix as shown in Figure 3.</p>
 
-<p style="text-align: center;"><img title="10c3a" src="../../images/default-source/ethos-images/ethos-issue-7/10c3a.gif?sfvrsn=28e97ba2_0" data-displaymode="Original" alt="10c3a"></p>
+<p style="text-align: center;"><img title="10c3a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10c3a.gif" data-displaymode="Original" alt="10c3a"></p>
 
 <p>The strength of the Singapore Civil Service is, arguably, in the technical quadrant. Simple environments are generally amenable to what are essentially engineering solutions— solutions which depend on repeatable causes and effects (or at most on probabilistic or stochastic models). The problems of the 1960s to 1980s in Singapore fall into this quadrant.</p>
 
@@ -142,13 +142,13 @@ However, many of our most pressing policy problems now fall in the top right qua
 <p>
 Over the last forty years, we have seen a trend of increasing complexity in public issues, and this is reflected in the response in the manner of our public administration as summarised in Figure 4.</p>
 
-<p style="text-align: center;"><img title="10c4a" src="../../images/default-source/ethos-images/ethos-issue-7/10c4a.gif?sfvrsn=e7c9cffb_0" data-displaymode="Original" alt="10c4a"></p>
+<p style="text-align: center;"><img title="10c4a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10c4a.gif" data-displaymode="Original" alt="10c4a"></p>
 
 <h3>COGNITIVE AND BEHAVIOURAL CHALLENGES</h3>
 
 <p>Challenges to thinking exist in all four contexts:</p>
 
-<p style="text-align: center;"><img title="10c4b" src="../../images/default-source/ethos-images/ethos-issue-7/10c4b.gif?sfvrsn=bf8fe9f7_0" data-displaymode="Original" alt="10c4b"></p>
+<p style="text-align: center;"><img title="10c4b" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10c4b.gif" data-displaymode="Original" alt="10c4b"></p>
 
 <p>For example, one challenge for managing in an inherently uncertain and complex environment is how we deal with cognitive and behavioural biases. These biases can skew our judgements of probability and uncertainty, especially when we rely on our Automatic System. The following is a short list of the key biases we need to be aware of.</p>
 
@@ -158,35 +158,35 @@ Over the last forty years, we have seen a trend of increasing complexity in publ
 <p>
 <strong>Anchoring</strong>: Experiments have demonstrated the importance of anchoring effects. For example, if a subject is exposed to a large number just before you make a purchase, he tends to be willing to pay a higher price—even if the number has nothing to do with the object of purchase.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Confronted with decisions in
 a short time interval, we think
 in ways that are different than
 if we were given more time to
 make decisions.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 <strong>Confirmation bias</strong>: The mind tends to see what it wants to see, which means we often, perhaps unconsciously, ignore evidence that contradicts our beliefs.</p>
 
 <p>
-<strong>Framing effects</strong>: How problems or options are framed can have different effects on people's responses. This is especially important to policymaking—for policymakers to avoid being misled by framing effects, and to frame problems carefully to elicit the desired responses in their target audience.<a href="../../Knowledge/Ethos/Issue%207%20Jan%202010/Pages/Thinking-through-Complexity-Managing-for-Uncertainty.html#notes"><sup>2</sup></a></p>
+<strong>Framing effects</strong>: How problems or options are framed can have different effects on people's responses. This is especially important to policymaking—for policymakers to avoid being misled by framing effects, and to frame problems carefully to elicit the desired responses in their target audience.<a href="#notes"><sup>2</sup></a></p>
 
 <h3>CONCLUSION</h3>
 
-<p>Our education system has done a wonderful job in teaching the analytical thinking we need for most problem-solving. The new thinking for managing complex systems is relatively new. The first lesson we draw from the arguments above is that in the past, we could rely on analysis and control. In the future, we are looking for innovative solutions, or to generate new ideas. The second lesson is that we must remember the motto of Delphi—"Know Thyself"—when we think about issues. In other words, we need to learn to make sense of the environment in which we operate and recognise its inherent uncertainty and complexity. We need to understand the role that emotions play in our decision-making process.<a href="../../Knowledge/Ethos/Issue%207%20Jan%202010/Pages/Thinking-through-Complexity-Managing-for-Uncertainty.html#notes"><sup>3</sup></a> We need to recognise the behavioural and cognitive biases we are subject to; the time constraints that we act under, and the system of thinking we rely on. Above all, <strong>we need to adopt a model of critical thinking that challenges rules established from prior observation</strong> because complex systems do not necessarily have repeatable and enduring cause-and-effect relationships.</p>
+<p>Our education system has done a wonderful job in teaching the analytical thinking we need for most problem-solving. The new thinking for managing complex systems is relatively new. The first lesson we draw from the arguments above is that in the past, we could rely on analysis and control. In the future, we are looking for innovative solutions, or to generate new ideas. The second lesson is that we must remember the motto of Delphi—"Know Thyself"—when we think about issues. In other words, we need to learn to make sense of the environment in which we operate and recognise its inherent uncertainty and complexity. We need to understand the role that emotions play in our decision-making process.<a href="#notes"><sup>3</sup></a> We need to recognise the behavioural and cognitive biases we are subject to; the time constraints that we act under, and the system of thinking we rely on. Above all, <strong>we need to adopt a model of critical thinking that challenges rules established from prior observation</strong> because complex systems do not necessarily have repeatable and enduring cause-and-effect relationships.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Mr Lam Chuan Leong</strong> is Senior Fellow of the Civil Service College, Ambassador-at-Large with the Ministry of Foreign Affairs and Chairman of the Competition Commission of Singapore. Mr Lam's key areas of interest and expertise are in the application of general management theories, particularly in the context of complex systems. His career background has been in macro-economic management, trade and investment and science and technology policies. In the course of this, he has worked on micro-eonomic issues, particularly in regard to regulation, monopolies, competition policy, pricing and market efficiency, privatisation of government services, transport economics, and the relationship between the public and private sectors on key projects.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
