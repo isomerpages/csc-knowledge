@@ -113,12 +113,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>China in Transition</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>Interview with Yang Jin Lin</i></b>
+		<p>A Chinese media veteran shares his candid perspective on emerging sociopolitical trends in China.</p>
+		<div class="button1"><a href="/ethos-issue-08/china-in-transition/">Read more</a></div>
 	</div>
 </div>
 
@@ -128,45 +128,45 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: China’s Consumption Challenge</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Lai Szu Hao</i></b>
+		<p>China faces formidable challenges in its attempt to stimulate the domestic demand necessary to sustain economic growth in the long term.</p>
+		<div class="button1"><a href="/ethos-issue-08/opinion-chinas-consumption-challenge/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_08/8_Teaser_China%20Clean%20Energy%20Thrust.jpg"></div>
 	<div>
 		<h3>China’s Clean Energy Thrust</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Augustine Chong and Andy Eng</i></b>
+		<p>Why China wants to become a clean energy powerhouse — and what it means for the global economy.</p>
+		<div class="button1"><a href="/ethos-issue-08/chinas-clean-energy-thrust/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_08/8_Teaser_Future%20of%20Global%20Trading%20Regimes%20Three%20Scenarios.jpg"></div>
 	<div>
 		<h3>The Future of Global Trading Regimes: Three Scenarios</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Lee Chor Pharn and Yap Zhi Jia</i></b>
+		<p>As former export-led trading relationships decline, the interplay between the Chinese and US economies could shape the course of global trade in the coming decade. How should Singapore respond?</p>
+		<div class="button1"><a href="/ethos-issue-08/the-future-of-global-trading-regimes-three-scenarios/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Gearing Up for a Multi-Polar World</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>ETHOS roundtable with Hon. Ike Chinwo , Hau Do Suan and Adel A. Al-Wugayan.</i></b>
+		<p>In this session of the ETHOS Roundtable, three eminent participants from Singapore’s 3rd Leaders in Governance Programme reflect on the evolving challenges facing public sectors as global economic and political balances shift in the post-Crisis world.</p>
+		<div class="button1"><a href="/ethos-issue-08/gearing-up-for-a-multi-polar-world/">Read more</a></div>
 	</div>
 </div>
 
