@@ -65,9 +65,21 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
+	<div>
+		<h3>Editorial</h3>
+		<b><i>by Alvin Pang</i></b>
+		<p></p>
+		<div class="button1"><a href="/ethos-issue-08/editorial/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>China Engages Asia: The Soft Notion of China’s “Soft Power”</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -79,7 +91,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Opinion: Is China Catching Up with the US?</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -91,7 +103,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Opinion: China’s More Open Society and the Dynamics of Political Change</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -103,7 +115,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>China in Transition</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -115,7 +127,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Opinion: China’s Consumption Challenge</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -127,7 +139,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>China’s Clean Energy Thrust</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -139,7 +151,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>The Future of Global Trading Regimes: Three Scenarios</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -151,7 +163,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Gearing Up for a Multi-Polar World</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -163,7 +175,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Developing Public Sector Leaders</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -175,7 +187,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Redesigning the Service Experience</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -187,7 +199,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Scientific Thinking and Public Policy Review of Clark Glymour’s Galileo in Pittsburgh</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -199,19 +211,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
-	</div>
-</div>
-
-<br>
-
-<div class="grid-container">
-	<div><img src=""></div>
-	<div>
-		<h3></h3>
+		<h3>Opinion: Using the Tax System to Create New Resources Out of Thin Air</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
