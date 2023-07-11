@@ -173,36 +173,36 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_08/8_Teaser_Developing%20Public%20Sector%20Leaders.jpg"></div>
 	<div>
 		<h3>Developing Public Sector Leaders</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Goh Phek Suan</i></b>
+		<p>Self-awareness and shared responsibility are key to the cultivation of holistic leadership in public organisations today.</p>
+		<div class="button1"><a href="/ethos-issue-08/developing-public-sector-leaders/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_08/8_Teaser_Redesigning%20Service%20Experience.jpg"></div>
 	<div>
 		<h3>Redesigning the Service Experience</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by June Gwee</i></b>
+		<p>Design thinking approaches could catalyse breakthrough innovations in public service delivery</p>
+		<div class="button1"><a href="/ethos-issue-08/redesigning-the-service-experience/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
 		<h3>Scientific Thinking and Public Policy Review of Clark Glymour’s Galileo in Pittsburgh</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>Reviewed by Aaron Maniam</i></b>
+		<p>A leading philosopher and statistician applies discipline and wit to the most pressing issues of our time.</p>
+		<div class="button1"><a href="/ethos-issue-08/scientificthinkingand-public-policy-review-of-clark-glymours-galilieo-in-pittsburgh/">Read more</a></div>
 	</div>
 </div>
 
@@ -212,9 +212,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Using the Tax System to Create New Resources Out of Thin Air</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Robert H. Frank</i></b>
+		<p>Cornell Professor of Economics Robert Frank believes a progressive consumption tax could cut down wasteful competitive spending without compromising public resources.</p>
+		<div class="button1"><a href="/ethos-issue-08/using-the-tax-system-to-create-new-resources-out-of-thin-air/">Read more</a></div>
 	</div>
 </div>
 
