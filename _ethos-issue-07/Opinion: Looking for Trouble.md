@@ -84,16 +84,16 @@ While I think that all of these steps are valuable, I have some concerns with ea
 <p>
 Returning to the metaphor of a killer asteroid, the threat of asteroids is not new. It is a recurrent crisis. Our planet has been shaken by asteroids in the past. They are cited as a likely reason for the extinction of dinosaurs, and for a massive explosion in Siberia in 1908. Asteroid-hunting is a poor metaphor for the challenge of detecting first-of-a-kind crises such as the airborne suicide attacks of 9/11, Pearl Harbor, the collapse of Enron, and the current global economic meltdown. First-of-a-kind crises correspond to the black swans that Taleb has discussed.<a href="#notes"><sup>1</sup></a> Thus, in hindsight, the weak signals were there in plain view for 9/11, for Pearl Harbor, for the collapse of Enron, for the US economic crisis in the fall of 2007.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Using computational models to
 spot weak signals is like driving
 a car by looking in the rearview
 mirror.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Most people missed the weak signals because, as Karl Weick has pointed out in his book <em>Sensemaking in Organizations</em>,<a href="#notes"><sup>2</sup></a> we understand the significance of the weak signals only in hindsight. Weak signals do not announce themselves, particularly for first-of-a-kind crises. In hindsight, we can see the signs of the US housing bubble several years ago. We can shake our heads at the granting of home loans to people with limited resources. But there have been bubbles before this. What made this bubble so devastating was that it was associated with lax regulations, insufficient risk analyses by the Wall Street investment banks, infusion of capital from thriving Asian economies, a perversion of the loan insurance practices for mortgage-backed securities so that they accelerated risk rather than dampened it, loss of transparency for financial instruments, and so forth. Each of these signals was commented on at the time, but it was the combination of these factors that led to the crisis.</p>
@@ -108,15 +108,15 @@ Not only are weak signals hard to spot, but when keen observers do pick them up 
 
 <p>Government agencies may attempt to pick up the weak signals that indicate that a crisis may be brewing, but the signals only make sense in context, in relation to the rest of the situation. Thus, each of the forces that led to the financial crisis that hit the US in the fall of 2007 were fairly visible (excepting the deceptions practised by Bear Stearns and others), but there was little government enthusiasm for reining in the low-inflation growth that seemed to be generating such prosperity, until it was too late.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Reducing mistakes is
 not the same thing as
 fostering insights.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 Agencies may develop systematic methods and technologies for scanning more and more data, but a point is soon reached where more data results in more ambiguity. The Japanese attack on Pearl Harbor was fairly obvious, in hindsight, but the plethora of signals made it easier to anticipate a Japanese attack on Russia, or a bold move to the south to ensure a supply of oil. Besides, decision makers are very good at explaining away data that they do not like. Analysts may be encouraged to "connect the dots", but the dots are only clear in hindsight; the skill of analysts is in judging what counts as a dot in the first place.<a href="#notes"><sup>4</sup></a></p>
@@ -131,31 +131,31 @@ Agencies that feel themselves to be under pressure often become risk-averse. The
 <p>
 However, organisations incur a cost when they become less predictable and run into coordination difficulties. Predictability is essential for organisational coordination. Perhaps what is needed is a split-level organisational style in which the leader is responsible for consistent performance and mature oversight, but can draw on subordinates who are speculative, reacting or even over-reacting to potential trends and threats. If the leader shows this type of variability, the organisation may suffer. Better to depend on subordinates who are free to speculate. This advice comes with a catch—subordinates who do their job of freely speculating will often be wrong, which will likely reduce their credibility. It is hard to regain credibility. Therefore, when leaders find themselves dismissing comments from the speculators, it may be time to rotate in some new warning officers.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Perhaps what is needed
 are leaders responsible for
 performance and oversight,
 with subordinates who
 are speculative.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 One way to see if an organisation is harvesting the worries of people trying to pick up weak signals is to look at the products they generate. Imagine a continuum from statements that are very likely to be true, to statements that might well be wrong. And imagine a boundary line, separating the region of true statements from the region of possible errors.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The harder challenge is
 getting higher ups in
 the organisation to take these
 early indications seriously.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 In a risk-averse environment, analysts will be very reluctant to offer opinions that might be wrong. They will avoid the boundary line, moving as far to the accurate pole as possible. That is fine—except that their statements and observations will carry very little information value. More desirable is a situation where people go in the opposite direction. They migrate to the boundary line, trying to make the most extreme observations that they believe they can defend. These are the insights, the risky predictions, the disruptive opinions that can be so valuable.</p>
@@ -167,13 +167,13 @@ In a risk-averse environment, analysts will be very reluctant to offer opinions 
 <p>
 The harder challenge is getting higher ups in the organisation to take these early indications seriously. Efforts here will involve breaking them out of their fixations. They will have to give up their old mindsets before they can seriously entertain new ways of viewing events and threats.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Dr Gary Klein</strong>, a Senior Visiting Fellow of the Civil Service College since 2007, last visited Singapore in September 2009, during which he conducted a series of workshops for our public officers. A Senior Scientist at MacroCognition, LLC and at Applied Research Associates, Inc., Dr Klein was instrumental in founding the field of Naturalistic Decision Making and helped to initiate the new discipline of macrocognition. More recently, he has been investigating sensemaking, replanning, and anticipatory thinking. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
