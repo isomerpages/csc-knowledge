@@ -92,9 +92,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Is China Catching Up with the US?</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Kenneth Lieberthal</i></b>
+		<p>While China has emerged as a key player in global affairs, significant challenges to its ongoing development should not be underestimated, argues Professor Kenneth Lieberthal of the Brookings Institution.</p>
+		<div class="button1"><a href="/ethos-issue-08/opinion-is-china-catching-up-with-the-us/">Read more</a></div>
 	</div>
 </div>
 
@@ -104,9 +104,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: China’s More Open Society and the Dynamics of Political Change</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Lye Liang Fook and Zheng Yongnian</i></b>
+		<p>China’s political landscape is evolving in subtle but significant ways, as it develops economically and a more assertive and socially aware population emerges.</p>
+		<div class="button1"><a href="/ethos-issue-08/opinion-chinas-more-open-society-and-the-dynamics-of-political-change/">Read more</a></div>
 	</div>
 </div>
 
