@@ -77,11 +77,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_08/8_Teaser_China_Engages_Asia_Soft_Power.jpg"></div>
 	<div>
 		<h3>China Engages Asia: The Soft Notion of China’s “Soft Power”</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Shaun Breslin</i></b>
+		<p>A leading scholar argues for a more nuanced understanding of China's emerging geopolitical influence.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
