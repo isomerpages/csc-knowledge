@@ -2,6 +2,7 @@ collections:
   ethos-issue-07:
     output: true
     order:
+      - "Thinking About the Future:  What the Public Service Can Do.md"
       - "Singapore: The Apple of  Nations—A Conversation with  Peter Schwartz.md"
       - "Opinion: In Search of  the New Public Leader.md"
       - Phases of Singapores  Demographic Development  Post World War II.md
