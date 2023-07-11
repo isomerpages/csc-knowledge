@@ -2,6 +2,8 @@ collections:
   ethos-issue-07:
     output: true
     order:
+      - "Enterprise Risk Management:  Strengthening Singapore’s  Competitive
+        Advantage.md"
       - "Rethinking Recovery:  Possible Discontinuities  and Domestic
         Implications.md"
       - "Thinking About the Future:  What the Public Service Can Do.md"
