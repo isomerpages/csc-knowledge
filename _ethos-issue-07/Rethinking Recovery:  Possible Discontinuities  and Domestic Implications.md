@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 07, Jan 2010</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_07/7_Banner_Rethinking%20Recovery%20Possible%20Discontinuities%20and%20Implications%20for%20Singapore.jpg">
 
 
 
