@@ -86,16 +86,16 @@ li {
   
 <p>Like Henry the Navigator, Singapore has created an economic miracle by investing in talent. Its leaders, realising that the only way for Singapore to grow without natural resources or scale was to invest in talent, systematically attracted the best people, both to key political appointments and its civil service, and have been doing so for well over four decades. As a result, Singapore's gross domestic product (GDP) per capita has multiplied by a factor of eight in real terms (constant dollars) since 1965, while GDP per capita in the US, the UK and several other highly developed nations has multiplied by a factor of less than three.<a href="#notes"><sup>2</sup></a></p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Evidence suggests that an  
 unprecedented war for talent  
 will take place in Asia for  
 at least the next two decades.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Singapore's economic achievements can be credited to the integrity of its leaders and their long-term vision, its ability to reinvent itself, and its global outlook. As Neo Boon Siong has described, Singapore's unique form of "dynamic governance", based on the principles of incorruptibility, meritocracy, markets, pragmatism, and multi-racialism, has given it an extraordinary capacity to think ahead, to think again, and to think across.<a href="#notes"><sup>3</sup></a> A continual flow of able, honest people has allowed Singapore to become one of the world's most competitive nations.</p>  
   
@@ -133,13 +133,13 @@ at least the next two decades.
   
 <p>Finally, Singapore should also lead the way when it comes to educating their senior leaders for making great people decisions. Great people decisions do not just happen by chance, but by following a proven process to decide when a people change is needed, what to look for in a candidate, where and how to find the best candidates (inside and out), how to assess them, how to attract them, and how to integrate them into the new job. My evidence indicates that most senior leaders in Singapore have not been trained in this key discipline. This is not a problem unique to Singapore, but a telling blind spot in educational systems all over the world, and in most organisations both public and private. When 70% of the value of a typical large organisation comes from intangibles, and knowledge and talent are the most important assets in today's economy, the ability to make great people decisions becomes the key for career success, organisational value, and for building a powerful nation. In spite of what most people think, making great appointments is not an art, the result of an intuition or a gut feeling. Making great people decisions is a craft and a discipline that can be learned and should be learned by the new public leaders in Singapore.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Claudio Fernández-Aráoz</strong> is the author of Great People Decisions (NJ: Wiley 2007). A Senior Adviser of the executive search firm Egon Zehnder International, he was a member of its Global Executive Committee for over ten years, as well as the leader of its Management Appraisal practice, Professional Development, and the development of the firm's Intellectual Capital. An advisor to several progressive governments, he is a frequent keynote speaker at major business gatherings globally.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -150,9 +150,7 @@ at least the next two decades.
 <li class="small-text">Black, J. Stewart, "Waging and Winning the War for Talent in Asia", in Leadership in Asia: Challenges and Opportunities (Singapore: McGraw-Hill, 2010).</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
