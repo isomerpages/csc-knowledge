@@ -109,18 +109,18 @@ li {
   
 <p><strong><span style="color: #7030a0;">Smith</span></strong>: You get the most receptive environment when people are facing a genuine problem with their current way of doing things and they are looking for a different way. One good example is the evolution of the market for sulphur and nitrogen dioxide in the Los Angeles Basin. A colleague, David Porter, who is with Chapman University, was involved with its design. They devised a system and allocated rights to pollute. The idea was to tighten the standards and let people trade the permits. But they didn’t have any trading mechanism.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 You get the most receptive  
 environment when people are  
 facing a genuine problem with  
 their current way of doing  
 things and they are looking  
 for a different way.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Intermediaries formed and they knew more about both sides of the market than the buyers and sellers. This led to a situation where the market was competitive and disorganised. The intermediaries made huge arbitrage profits buying and reselling the permits. The companies were outraged and they thought that there ought to be a better way to do it.</p>  
   
@@ -132,16 +132,16 @@ for a different way.
   
 <p><strong><span style="color: #7030a0;">Smith</span></strong>: At that time, each Australian state owned its own generator which generated electricity for its own needs. The National Grid Management Council wanted to create a national electricity market. It was fine if the states wanted to retain ownership of the generators but they had to compete to supply electricity in the national market. So a lot of those assets are still publicly owned but they are disciplined by the market.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Conducting laboratory  
 experiments is like having  
 a wind tunnel before  
 implementing policies.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The experiments involved a lot of participants from both sides of the market—buyers, sellers and the national grid. People were asking questions and debating. Back then, it was really a pretty radical idea to trade energy on a network, on high voltage grid in real time. People buying and selling, and disciplined by the constraints on the grid.</p>  
   
@@ -151,7 +151,7 @@ implementing policies.
   
 <p class="small-text"><em>This discussion was excerpted from an interview conducted by Donald Low, Head of the Centre for Public Economics and Associate Fellow at the Centre for Governance and Leadership, Civil Service College, when Professor Smith and his associates were in Singapore in March 2008, during which they delivered a lecture and conducted a two-day workshop on experimental economics.</em></p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHORS</h6>  
   
@@ -161,9 +161,9 @@ implementing policies.
   
 <p class="small-text"><strong>Bart Wilson</strong> is a Professor of Economics and Law at Chapman University and the Donald P. Kennedy Endowed Chair in Economics and Law. Prior to this, he was an Associate Professor at George Mason University in the Department of Economics, with affiliation in the School of Law. Professor Wilson’s broad fields of specialty are industrial organisation, experimental economics, and econometrics. He is currently pursuing research on the foundations of exchange and specialisation and the origins of property rights systems that support exchange. His other research programmes apply the experimental method to topics in e-commerce, electric power deregulation and antitrust.</p>  
   
-<br>  
+</div>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
