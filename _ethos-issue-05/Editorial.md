@@ -9,9 +9,6 @@ description: ""
 </style>	
 
 
-
-
-
 <em><small>ETHOS Issue 05, Nov 2008</small></em>
 <img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
