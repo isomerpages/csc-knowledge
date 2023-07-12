@@ -4,6 +4,16 @@ title: "The Global Talent War: Why Singapore Needs to Get Serious About Branding
 permalink: /ethos-issue-05/the-global-talent-war-why-singapore-needs-to-get-serious-about-branding-itself/
 description: ""
 ---
+<style>
+	
+	
+</style>	
+
+
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Ethos_Images/Ethos_Issue_05/5_Banner_The%20Global%20Talent%20War%20Why%20Singapore%20Needs%20to%20Get%20Serious%20About%20Branding%20Itself.jpg">
+
+
 
 <p>Singapore has been largely discreet in its efforts to attract talent and investments. The Government tends to work through its agencies to establish contacts to bring industry heavy-hitters to our shores. While this approach has served us well in the past, we can no longer afford to be subtle. As competition from our regional and global competitors escalates, we need to leverage on every avenue available to us to promote ourselves as a location of choice for the world’s best talent.</p>
 
@@ -96,4 +106,3 @@ Growing the promise of a brand that will attract global talent needs time, but t
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
