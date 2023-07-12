@@ -3,6 +3,15 @@ title: "Talent Management in Asia: Four Perspectives"
 permalink: /ethos-issue-05/talent-management-in-asia-four-perspectives/
 description: ""
 ---
+<style>
+	
+	
+</style>	
+
+
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Landing_Banner_Images/banner_roundtable.jpg">
+
 
 <h6>SPEAKERS:</h6>
 
@@ -99,4 +108,3 @@ The key to retention is being able to offer better opportunities for advancement
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
