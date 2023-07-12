@@ -106,16 +106,16 @@ Some sectors across the region have been more directly affected, such as constru
 <p>  
 Nevertheless, revenue accumulated in the past is helping to cushion the effects of the downturn, and if the turnaround comes in two to three years’ time, we should be fine.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 The challenge all around  
 the world is to be ready for  
 the upswing and to come back  
 stronger after a decline.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 But what we are concerned about now is the global economic picture once the turnaround arrives. Will things be the same? Will people be buying diamonds as they were before? We think it may not be so, and adjustments will have to be made. As public servants, we are now occupied with thinking through how best to reform the economy and find new ways to drive it forward after the crisis.</p>  
@@ -168,30 +168,30 @@ The strength of Singapore’s institutions is that they have a clear sense of vi
 <p>  
 <strong><span style="color: #953734;">SA BALI</span></strong>: Indeed, there seems to be good communication between public sector leaders and the political leadership. This mutual respect is important; they might not always agree with each other but they are able to work together for the better of the country.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1"> 
 There is good interaction  
 between politicians,  
 policymakers, operational  
 staff, and the public. Everybody  
 speaks the same language.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 It was rewarding to learn not only about the successes of Singapore but also areas which needed adjustment, such as population policies: how you have moved from a two-child policy in the past to now having to bring in people from elsewhere, because of your low fertility rate.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 You cannot depend on  
 your past success to  
 determine future growth.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 Also, I found it laudable that you spend a hefty proportion of your GDP in research and development—perhaps the only country in Asia other than Japan to do so.</p>  
@@ -213,10 +213,7 @@ When looking at policy issues, you need to have a broad enough mind to see from 
 <ol>  
 <li class="small-text">Developed by the Brunei Economic Development Board, the 271-hectare site is positioned to be a world class petrochemical hub, drawing an estimated US$1.3 billion in investment and creating up to 1,065 permanent jobs. For more details, see <a href="http://www.bedb.com.bn/bisop\_spark.htm">http://www.bedb.com.bn/bisop\_spark.htm</a></li>  
 </ol>  
-  
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
