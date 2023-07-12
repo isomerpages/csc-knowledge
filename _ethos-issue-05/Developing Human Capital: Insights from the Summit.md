@@ -3,6 +3,15 @@ title: "Developing Human Capital: Insights from the Summit"
 permalink: /ethos-issue-05/developing-human-capital-insights-from-the-summit/
 description: ""
 ---
+<style>
+	
+	
+</style>	
+
+
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Ethos_Images/Ethos_Issue_05/5_Banner_Developing%20Human%20Capital.jpg">
+
 
 <p>The inaugural Human Capital Summit has just taken place, at a time of unprecedented turmoil in world financial markets. The collapse of banking models that first appeared unassailable and the prospects of global recession have, in particular, added to the turbulence in which organisations now have to thrive, compete and prosper.</p>
 
@@ -95,4 +104,3 @@ Today's employees see their employment as a negotiable and changing relationship
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
