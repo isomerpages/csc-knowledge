@@ -3,6 +3,17 @@ title: "Sharpening Singapore’s Edge: Insights from the IBM Experience"
 permalink: /ethos-issue-05/sharpening-singapores-edge-insights-from-the-ibm-experience/
 description: ""
 ---
+<style>
+	
+	
+</style>	
+
+
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Ethos_Images/Ethos_Issue_05/5_Banner_Sharpening%20Singapore's%20Edge.jpg">
+
+
+
 
 <p>Singapore’s highly talented workforce is world-renowned for being efficient, skilled and hard-working. Singaporeans have often been branded as driven, speedy, responsive and task-oriented individuals— traits that boost the employability of and demand for our talent globally. Our competent and disciplined workforce fuels Singapore’s economic growth and attracts foreign talent. Supported by a world-class infrastructure and education system—both well suited to the challenges of a highly dynamic economic environment—Singapore has moved to the forefront of global human capital. Our strengths have given us an advantageous reputation for world-class performance: witness the recent World Bank Summit, the staging of the world’s first Formula 1 urban night race, and our hard-won privilege of hosting the inaugural Youth Olympics in 2010. </p>
 
@@ -133,4 +144,3 @@ We need to groom our young, from an early age, to be independent thinkers and ex
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
