@@ -200,13 +200,11 @@ About Branding Itself</h3>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Workfare-%20The%20Fourth%20Pillar%20of%20Social%20Security%20in%20Singapore.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_05/5_Teaser_Developing%20Human%20Capital.jpg"></div>
 <div>
-		<h3>Workfare: The Fourth Pillar of Social Security in Singapore</h3>
-		<b><i>Jacqueline Poh</i></b>
-		<p>Singapore’s latest labour policy is more than a wage supplement
-scheme—it is a bold new addition to the social safety net in
-today’s volatile economic environment.</p>
+		<h3>Developing Human Capital: Insights from the Summit</h3>
+		<b><i>Geoff Armstrong</i></b>
+		<p>The theme-weaver for the inaugural Human Capital Summit reflects on the event’s broader significance and key insights.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-fourth-pillar-of-social-security-in-singapore/">Read more</a></div>
 	</div>
 </div>
