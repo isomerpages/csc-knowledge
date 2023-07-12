@@ -66,7 +66,7 @@ li {
 
 </style>
 
-<em><small>ETHOS Issue 07, Jan 2010</small></em>
+<em><small>ETHOS Issue 06, July 2009</small></em>
 <img src="/images/Cropped_images/Ethos_Issue_06/6_Banner_Leadership%20at%20a%20Time%20of%20Crisis.jpg">
 
 
