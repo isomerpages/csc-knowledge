@@ -3,6 +3,15 @@ title: Accelerating the Growth of the Asian Leader
 permalink: /ethos-issue-05/accelerating-the-growth-of-the-asian-leader/
 description: ""
 ---
+<style>
+	
+	
+</style>	
+
+
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Ethos_Images/Ethos_Issue_05/5_Banner_Accelerating%20the%20Growth%20of%20the%20Asian%20Leader.jpg">
+
 
 <h3>LEADERSHIP AND LEADERSHIP DEVELOPMENT IN ASIA</h3>
 
@@ -222,4 +231,3 @@ Organisations need to leverage on Asian leaders' desire to be role models and me
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
