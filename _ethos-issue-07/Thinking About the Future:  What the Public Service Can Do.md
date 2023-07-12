@@ -157,14 +157,14 @@ of human cognition.
   
 <p><strong>Third</strong>, we have to calibrate strategic thinking processes around the psychological and practical challenges of policy implementation. In addressing these "downstream" issues, methods matter, but psychology matters as well. We will have to harness the relative strengths of the scenario planning and RAHS to mitigate issues of cognitive dissonance and consistency biases.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Insight and good ideas are not  
 the monopoly of government.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p><strong>Fourth</strong>, it is important to engage and communicate with decision-makers. Their support and active involvement are crucial in achieving better decisions and strategic outcomes. For a message to resonate strongly with decision-makers, the work should be presented in distilled forms, with sufficient detail, using creative expressions and relevant, compelling graphics or visual aids. In addition, complex scenarios and strategies can be broken down into smaller "bite-sized" pieces. These are more easily digested by decision-makers who, in turn, are more likely to recall and apply these insights.</p>  
   
@@ -174,18 +174,18 @@ the monopoly of government.
   
 <p>In this regard, one important idea is to have a small but dedicated group of people to think about the future. The skill-sets needed for long-term policy planning are different from those needed to deal with more immediate volatility and crisis. Both are important. But those charged with thinking about the future should be given the freedom and allocated the bandwidth to focus on this important role without getting bogged down in day-to-day routines. These people will become repositories of patterns that can be used to facilitate decision-making, and especially to prepare for "unknown unknowns". What we need from this small group of people is the capacity to conduct strategic thinking about future possibilities to facilitate more considered decision-making, perhaps even to conduct policy experiments on possible alternative futures, or policymaking by discovery.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 In a world of growing  
 volatility and uncertainty,  
 our approach to policymaking  
 needs to go beyond an emphasis  
 on efficiency, towards  
 building resilience.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>A CENTRE FOR STRATEGIC FUTURES</h3>  
   
@@ -198,12 +198,14 @@ building resilience.
   
   
   
-<p class="small-text text">&nbsp;</p>  
+<br>
+<br>
+<br>
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">ROLES OF THE CENTRE FOR STRATEGIC FUTURES</h3>  
@@ -247,13 +249,13 @@ building resilience.
   
 <p>To deal with consistency bias and cognitive dissonance is to nurture in our people the instincts and skills to be sensitive to discontinuities. In an increasingly uncertain and complex environment, it is imperative that we have the courage to open our minds and take bold but pragmatic steps forward. The CSF is an important step in building capability in futures work, and to develop and strengthen inter-agency collaboration for networked government. The CSF will play a key part in keeping us at the leading edge of governance, enhancing our decision-making capability and the service that we provide to Singaporeans.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Mr Peter Ho</strong> is Head of the Singapore Civil Service. This article was adapted from a longer speech delivered at the Strategic Perspectives Conference on 23 November 2009.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -266,7 +268,7 @@ building resilience.
 <li class="small-text">Wack, P., "Scenarios: Uncharted Waters Ahead," Harvard Business Review, 63 (1985):72-79.</li>  
 </ol>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
