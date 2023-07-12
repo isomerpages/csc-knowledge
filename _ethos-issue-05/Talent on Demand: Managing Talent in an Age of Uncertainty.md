@@ -3,7 +3,6 @@ title: "Talent on Demand: Managing Talent in an Age of Uncertainty"
 permalink: /ethos-issue-05/talent-on-demand/
 description: ""
 ---
-
 <p>&nbsp;</p>
 
 <p>In his new book <em>Talent on Demand</em>, Peter Cappelli defines talent management as “the process through which employers anticipate and meet their needs for human capital”.<a href="#notes"><sup>1</sup></a> He argues that the number one challenge confronting organisations seeking to manage their talent is uncertainty and risk. Shorter business cycles and increasing competition have intensified the war for talent. Managing business risk, which derives from the uncertainty surrounding business demand, has a direct impact on talent management. </p>
@@ -116,4 +115,3 @@ Some companies buy talent by recruiting directly from top universities. The Publ
 <br>
 
 <p><a href="../ethos.html">Back to Ethos homepage</a></p>
-
