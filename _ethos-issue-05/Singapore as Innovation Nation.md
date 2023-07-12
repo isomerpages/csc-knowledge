@@ -3,6 +3,15 @@ title: Singapore as Innovation Nation
 permalink: /ethos-issue-05/singapore-as-innovation-nation/
 description: ""
 ---
+<style>
+	
+	
+</style>	
+
+
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
+
 
 <h3>What does it mean for a nation or a country to be innovative? Can a nation’s overall innovative capacity be usefully determined?</h3>
 
@@ -107,4 +116,3 @@ Because design is an approach to innovation that involves prototyping, visualisa
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
