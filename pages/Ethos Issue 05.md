@@ -122,11 +122,13 @@ sound leadership in a rapidly changing global business landscape.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
-		<h3>Globalisation and the Challenges of Social Policy in Asia’s Developed Open Economies</h3>
-		<b><i>Wong Chack-kie</i></b>
-		<p>To meet the changing needs and aspirations of a more affluent and diverse population, Singapore’s public housing will have to evolve in significant new directions in the coming decades.</p>
+	<h3>Talent Management in Asia: Four Perspectives</h3>
+	<b><i> Mr Kan Trakulhoon, Mr Ho Kwon Ping, Professor Peter Cappelli, Mr Israel Berman</i></b>
+
+<p>Experts and business leaders share insights on the 
+challenges of managing talent in Asia today.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/globalisation-and-the-challenges-of-social-policy-in-asia-developed-open-economies/">Read more</a></div>
 	</div>
 </div>
