@@ -2,6 +2,7 @@ collections:
   ethos-issue-06:
     output: true
     order:
+      - "Opinion: It’s Not Over Yet.md"
       - The 2009 Budget and the Ministry of Finance’s Approach to
         Countercyclical Economic Strategy.md
       - Thinking Beyond the Crisis.md
