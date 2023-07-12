@@ -3,6 +3,14 @@ title: Foreword
 permalink: /ethos-issue-05/foreword/
 description: ""
 ---
+<style>
+	
+	
+</style>	
+
+
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Landing_Banner_Images/banner_preface_foreword.jpg">
 
 <p>The rise of a new Asia, led by the growth of China, India and other emerging economies in the region, should endure the current global financial turmoil and economic downturn. </p>
 
@@ -39,4 +47,3 @@ description: ""
 <strong>Ministry of Manpower</strong></p>
 
 <p><a href="../ethos.html">Back to Ethos homepage</a></p>
-
