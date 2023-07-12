@@ -59,7 +59,7 @@ font-family: Georgia;
 	color: white;
 	}	
 
-.containerbox h3 {
+.containerbox h3 , .containerbox strong , .containerbox h4 {
 	color: #08a4cd;
 	}	
 	
