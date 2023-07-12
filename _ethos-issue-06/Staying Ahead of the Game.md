@@ -72,13 +72,13 @@ li {
   
 <p>Singapore’s growth and transformation from a developing nation in the early 1960s to the successful and thriving economy it is today has been the source of much fascination for many observers. Ours is a story that appears to defy conventional economic theory; it has attracted criticism from some quarters, particularly for being too “firmly state-directed”. Part of this is due to an overemphasis by some on specific details of Singapore’s economic development, without understanding the thinking that underlies our approach.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 “We (the EDB) talk to companies, listen carefully to them, what they are thinking, and what they think are possible markets and new businesses.”  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>A closer examination of Singapore’s economic development strategy demonstrates that the role played by the Government in anticipating new and emerging opportunities is not incongruent with market forces. Indeed, both elements have been and will continue to be key to Singapore’s continued long-run growth.</p>  
   
@@ -92,11 +92,11 @@ li {
   
 <p>Through the process of investment promotion for example, the Singapore Economic Development Board (EDB) continuously gathers feedback from existing and potential investors in Singapore. Ongoing dialogues with industry leaders, international advisors and futurists ensure that the EDB keeps abreast of industry, technology and demographic trends.</p>  
   
-<hr>  
+<div class="break">
+
+<p class="break1">"We have been talking to young people here (in Singapore) on their hopes and aspirations, what they are interested in, and what can they do well in. We are here to create real jobs for real people."</p>  
   
-<h5><em>"We have been talking to young people here (in Singapore) on their hopes and aspirations, what they are interested in, and what can they do well in. We are here to create real jobs for real people."</em></h5>  
-  
-<hr>  
+</div>
   
 <p>To identify new growth opportunities, the EDB also attunes itself to the career aspirations of Singaporeans by engaging with tertiary level students, potential entrants to the job market, and those already in the workforce. For instance, the interest of young Singaporeans was an important motivation for Singapore’s push into “green” industries and clean technology. With globalisation and increasing mobility, notwithstanding the financial crisis, Singapore will lose our top talent if we do not ensure that there are good jobs in growth sectors that excite Singaporeans.</p>  
   
@@ -110,13 +110,13 @@ li {
   
 <p>Manufacturing, for example, continues to make up a significant share of Singapore’s GDP (approximately 25%) as firms find that it continues to make good financial sense for them to be here. Competition in manufacturing has evolved from one concentrated around production factors to one that encompasses entire supply chains. Companies such as the Renewable Energy Corporation have chosen Singapore to locate their new worldscale integrated solar manufacturing complex, citing access to technology centres and research programmes, as well as market access as key reasons for doing so.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1"> 
 “Companies are very rational. The critical thing is whether their Singapore plant is the most productive in the world or not. If it is, they keep the plant. If not, they close it down.”  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Our investment incentives are structured to build local capabilities, and to encourage firms to continue reinvesting and expanding for the long term. They are not used to subsidise the continued operation of otherwise non-viable ventures in Singapore. This discipline extends to all aspects of Singapore’s economic strategy.</p>  
   
@@ -124,13 +124,13 @@ li {
   
 <p>Singapore’s economy is small and dependent on external markets and international capital. It is therefore imperative that we differentiate ourselves in the global marketplace, build relevant capacities, and be in a position to act decisively when opportunities arise.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 “We have to be at the forefront of this game. If we are not, someone else will.”  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Today, Singapore has built up a strong track record of being able to offer businesses a unique proposition based on four key strengths which we refer to as TKCL: “Trust”, “Knowledge”, “Connected” and “Life”.<a href="#notes"><sup>1</sup></a></p>  
   
@@ -144,13 +144,13 @@ li {
   
 <p>Nevertheless, there is a perception that local companies have been disadvantaged by the strong presence of foreign multinational corporations (MNCs) in Singapore. The reality is that local companies have benefited tremendously from this growth. For instance, the supplier base for MNC operations in Singapore has become increasingly local. Many home-grown companies such as MMI, Sunningdale and Venture, have successfully partnered MNCs, both locally and in their regional expansion.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1"> 
 “The world is changing, opportunities are changing; you need to be clear in your mind how you are approaching change, to identify for yourself what the opportunities are and what the challenges are going into the future.”  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Singapore’s aerospace sector is another example where strong links between local firms and foreign MNCs have led to the growth of a highly competitive industry. Our local companies, SIA Engineering and ST Aerospace, are amongst the world leaders in airframe maintenance and modification. They have multiple partnerships with Pratt and Whitney, Rolls Royce and other major manufacturers, spanning engine overhaul, nacelle, landing gear, hydraulics and component repair. These, together with the presence of other complementary global manufacturers and local small and medium enterprises, have resulted in a comprehensive aerospace cluster that is at the global forefront of aerospace maintenance, repair and overhaul.</p>  
   
@@ -162,13 +162,13 @@ li {
   
 <p>The Singapore Government will continue to <strong>Listen</strong>—to market participants, futurists, and Singaporeans, <strong>Test</strong>—ideas with the market, and <strong>Act</strong>—on opportunities. In today’s fast-evolving economic landscape, no one can predict the next big idea with certainty, but through <em>Listen</em>, <em>Test</em> and <em>Act</em>, Singapore stands prepared for emerging opportunities and will be in a position to capitalise on them.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Bernard Nee</strong> is Executive Director of the Strategic Planning Group at Singapore’s Economic Development Board. Julia Yap is Assistant Head in the Strategic Planning Group.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -177,9 +177,7 @@ li {
 <li class="small-text">All quotes are from Mr Lim Siong Guan, Chairman of EDB from October 2006 to June 2009.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
