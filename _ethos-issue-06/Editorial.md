@@ -85,10 +85,10 @@ Viewing the crisis through the lens of economic history, <a href="/ethos-issue-0
 Singapore has a confident chance of tiding over the economic tsunami relatively intact. But it would serve us well to start looking at new opportunities which might have opened up since the crisis. Prices and rents have declined; labour has become more available; more are willing to try new ventures. Some market barriers to entry have been reduced. Smaller local enterprises—particularly those which have been prudent in recent years—may find new breathing space to grow. New industries, such as green tech, may be on the rise as traditional sectors shift priorities. It is possible that public investment in fresh fields, at relatively lower cost and with the added benefit of economic stimulus in a downturn, may reap enduring dividends in the post-crisis future. </p>  
   
 <p>  
-Significantly, this is already the counter-crisis strategy of some developing nations, who remain cautiously optimistic at a time where most of the world’s advanced nations are devoting tremendous resources to <a href="crisis-proof-governance.html">economic firefighting</a>. Relatively unscathed economies such as Oman and Brunei, having husbanded their resources during the boom years of high oil prices, have stepped up the diversification of their economies, markets and asset base. Once the recovery takes hold, they aim to be better poised than the competition.</p>  
+Significantly, this is already the counter-crisis strategy of some developing nations, who remain cautiously optimistic at a time where most of the world’s advanced nations are devoting tremendous resources to <a href="/ethos-issue-06/crisis-proof-governance/">economic firefighting</a>. Relatively unscathed economies such as Oman and Brunei, having husbanded their resources during the boom years of high oil prices, have stepped up the diversification of their economies, markets and asset base. Once the recovery takes hold, they aim to be better poised than the competition.</p>  
   
 <p>  
-Times of crisis test the mettle of the public service, and none more so than a crisis which has so dramatically restored the public sector to a place of leadership and prominence in economic life. It is perhaps fitting that we begin this issue of ETHOS with veteran public servant <a href="leadership-at-a-time-of-crisis.html">Peter Shergold</a>, who highlights five key qualities that civil servants need to meet national challenges—and national expectations—in difficult times. We close with <a href="singapore%27s-political-economy-two-paradoxes.html">Bryan Caplan’s</a>&nbsp;insights into Singapore’s policy-making environment where necessary but tough policies are carried time and again through the democratic mill. </p>  
+Times of crisis test the mettle of the public service, and none more so than a crisis which has so dramatically restored the public sector to a place of leadership and prominence in economic life. It is perhaps fitting that we begin this issue of ETHOS with veteran public servant <a href="/ethos-issue-06/leadership-at-a-time-of-crisis/">Peter Shergold</a>, who highlights five key qualities that civil servants need to meet national challenges—and national expectations—in difficult times. We close with <a href="/ethos-issue-06/singapores-political-economy-two-paradoxes/">Bryan Caplan’s</a>&nbsp;insights into Singapore’s policy-making environment where necessary but tough policies are carried time and again through the democratic mill. </p>  
   
 <p>  
 I wish you, as always, a productive read.</p>  
@@ -101,9 +101,7 @@ I wish you, as always, a productive read.</p>
 <br>  
 <a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a></p>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
