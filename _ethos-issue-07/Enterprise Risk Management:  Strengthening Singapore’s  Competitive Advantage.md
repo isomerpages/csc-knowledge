@@ -88,7 +88,7 @@ ERM recognises uncertainty as the fundamental driver of strategy</h3>
   
 <p>Different types of strategic planning tools are more suited to different levels of uncertainty.<a href="#notestes"><sup>1</sup></a></p>  
   
-<p style="text-align: center;"><img title="10g1a" src="../../images/default-source/ethos-images/ethos-issue-7/10g1a.gif?sfvrsn=b7f9eab5\_0" data-displaymode="Original" alt="Figure 1"></p>  
+<p style="text-align: center;"><img title="10g1a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10g1a.gif" data-displaymode="Original" alt="Figure 1"></p>  
   
 <p>Traditional planning tools which project only one state of the future can be grossly inadequate in the face of deeper uncertainty. To address this inadequacy, scenario planning tools were developed. The scenario planning approach, which describes discrete (and sometimes artificial-seeming) future states of the world, copes best with up to "Level 2" states of uncertainty. ERM, by helping planners to better appreciate the level of uncertainty at which a risk resides and applying the appropriate tools, offers a way to think about issues more holistically and at different levels of predictability, thereby deriving more calibrated and thorough plans.</p>  
   
@@ -99,7 +99,7 @@ ERM recognises uncertainty as the fundamental driver of strategy</h3>
 <p>  
 The work of any effective government involves sensing, strategy-making and implementation. Individually, these elements may at best be adequate in an uncertain environment. The value of ERM is in providing a framework that exploits the synergy and feedback between these mechanisms.</p>  
   
-<p style="text-align: center;"><img title="10g2a" src="../../images/default-source/ethos-images/ethos-issue-7/10g2a.gif?sfvrsn=364671d6\_0" data-displaymode="Original" alt="Figure 2"></p>  
+<p style="text-align: center;"><img title="10g2a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10g2a.gif" data-displaymode="Original" alt="Figure 2"></p>  
   
 <h3>Sensing</h3>  
   
@@ -107,26 +107,24 @@ The work of any effective government involves sensing, strategy-making and imple
   
 <h3>Strategy-Making</h3>  
   
-<p style="text-align: center;"><img title="10g2b" src="../../images/default-source/ethos-images/ethos-issue-7/10g2b.gif?sfvrsn=98fd59d4\_0" data-displaymode="Original" alt="Figure 3"></p>  
+<p style="text-align: center;"><img title="10g2b" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10g2b.gif" data-displaymode="Original" alt="Figure 3"></p>  
   
 <p>For each level of uncertainty, there are tools available to manage vulnerabilities (the downside of risks) and seek opportunities (the upside of risks). Clearly, it is important to first appreciate at which level of uncertainty an identified risk resides, since to underestimate a risk is to potentially be exposed to its unmitigated effects. For instance, an investor who relied solely on historic market data would probably have had a rude shock when the financial crisis struck.</p>  
   
   
   
-  
-<h5 class="title">FIGURE 4. EARLY WARNING SYSTEM</h5>  
-  
-<p style="text-align: center;" class="small-text text"><img title="10g3a" src="../../images/default-source/ethos-images/ethos-issue-7/10g3a.gif?sfvrsn=88c7af7e\_0" data-displaymode="Original" alt="Figure 4"></p>  
-  
+ <br>
+ <br>
+ <br>
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">Sensing in the Singapore Police Force</h3>  
 <h3>FIGURE 4. EARLY WARNING SYSTEM</h3>  
-<p style="text-align: center;"><img title="10g3a" src="../../images/default-source/ethos-images/ethos-issue-7/10g3a688b676dec0b4758b7fe81ada1e98087.gif?sfvrsn=26825fcb\_0" data-displaymode="Original" alt="Figure 4 popup"></p>  
+<p style="text-align: center;"><img title="10g3a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10g3a.gif" data-displaymode="Original" alt="Figure 4 popup"></p>  
 <h3>TRIPWIRES</h3>  
 <p>The information technology revolution means that management is inundated with information and news. To ensure proper management of the vast amount of information, prior hypotheses must be made, which will also specify triggers to alert management to major systemic issues ahead of time.</p>  
 <h3>BOTTOM-UP SENSORS</h3>  
