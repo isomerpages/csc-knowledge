@@ -188,9 +188,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: In Search of the New Public Leader</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Claudio Fernández-Aráoz</i></b>
+		<p>What can a Portuguese prince from the Age of Exploration teach us about the search for leadership in an Age of Uncertainty?</p>
+		<div class="button1"><a href="/ethos-issue-07/opinion-in-search-of-the-new-public-leader/">Read more</a></div>
 	</div>
 </div>
 
@@ -200,8 +200,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Phases of Singapore’s Demographic Development Post-World War II</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Koh Eng Chuan</i></b>
+		<p>An emerging phase of demographic development brings new challenges for Singapore.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
