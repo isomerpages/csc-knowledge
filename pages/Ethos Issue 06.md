@@ -149,35 +149,35 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Singapore’s Economic Growth Model: Too Much or Too Little?</h3>
-		<b><i></i></b>
+		<b><i>by Linda Lim</i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-06/singapores-economic-growth-model-too-much-fun-or-too-little/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Staying Ahead of the Game</h3>
-		<b><i></i></b>
+		<b><i>by Bernard Nee and Julia Yap</i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-06/opinion-staying-ahead-of-the-game/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_06/6_Teaser_The%20End%20of%20the%20World%20Economy.jpg"></div>
 	<div>
 		<h3>The End of the World (Economy) as We Know It</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Adeline Aw, Lee Chor Pharn and Wee Shu Lin</i></b>
+		<p>“…After this crisis, the world is not going to be the same again. This is not just another cyclical downturn and recovery. The world’s economy is undergoing a structural shift. ” <br>—  Singapore’s Prime Minister Lee Hsien Loong in Parliament, 27 May 2009</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
