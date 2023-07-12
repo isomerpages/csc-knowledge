@@ -88,7 +88,7 @@ li {
   
   
   
-<p class="small-text text">The <strong>Jobs Credit scheme</strong> provides businesses with a cash grant based on the wages of Singapore and Permanent Resident (PR) employees, set at 12% on up to the first S$2,500 of wages per month. Structured as four quarterly payments, the payments are based on the preceding three months’ wage bill but only for workers employed at the end of the period. Calculated using CPF contribution data, the scheme requires no additional application and paperwork on the recipient firms’ part.</p>  
+
   
   
   
@@ -134,18 +134,18 @@ li {
   
 <p>The 12% wage offset provided by the Jobs Credit scheme is generally equivalent to a 9-percentage point Central Provident Fund (CPF) contribution rate cut.<a href="#notes"><sup>3</sup></a> When compared against the 14.5% prevailing employer contribution rate for most workers, this translates into a 62% reduction in the employer’s share of CPF contributions.<a href="#notes"><sup>4</sup></a> However, unlike CPF cuts, the Jobs Credit scheme does not undermine workers’ retirement savings or their ability to service their mortgage payments through CPF. Never in the past has the Singapore Government stepped in to replenish employees’ CPF contributions in conjunction with a CPF cut to lower business costs. Since its introduction, the Jobs Credit scheme has generally been welcomed as a vital cashflow boost.<a href="#notes"><sup>5</sup></a></p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 The Government needs to help  
 companies find breathing space  
 to ride out temporary dislocations in  
 demand. At the same time, businesses  
 must still have incentive to restructure  
 and adapt to changing circumstances.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The SRI schemes also represent an unprecedented level of risk-sharing in terms of Government credit measures. With 80% risk-share on unsecured working capital loans of up to S$5 million, the new Bridging Loan Programme under Budget 2009<a href="#notes"><sup>6</sup></a> is the most generous Government loan scheme available that does not require any collateral. At the time, MOF also felt that 80% risk-sharing was as high as we could accommodate for a broad-based scheme while still aligning the banks’ interests and objectives with ours.</p>  
   
@@ -169,17 +169,17 @@ and adapt to changing circumstances.
   
 <p>The speedy implementation of the Jobs Credit and SRI schemes was made possible only by building on established processes and mechanisms, such as the CPF system, to minimise working lag time.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Given the suddenness of  
 the downturn, the disruption  
 to Singapore’s economy would  
 have been worse had the  
 Government not acted decisively.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Given its goal of saving jobs by easing cash-flow constraints posed by the downturn, the Jobs Credit scheme had to be implemented in a manner that posed minimal administrative burden to recipients. MOF, in close collaboration with the Central Provident Fund Board (CPFB) and the Inland Revenue Authority of Singapore (IRAS), used existing administrative data from CPF contribution and tax filings to compute and distribute Jobs Credit payouts. This avoided the need for burdensome declarations from companies.</p>  
   
@@ -209,13 +209,13 @@ Government not acted decisively.
   
 <p>However, to paraphrase Keynes, the injunction that “when the facts change, we change our minds” remains the most fundamental principle of all. Given the volatility of the economic environment, the Government must place a premium on flexibility and remain nimble in its responses. Should the needs of the Singaporean economy change, the Government will not hesitate to fine-tune—or, if necessary, overhaul—our strategies and policies, in order to advance the interests of Singaporeans and Singapore businesses.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Jonathan Pflug</strong> is an Associate for Economic Strategy in the Ministry of Finance. He is a member of both inter-agency teams responsible for formulating, implementing and monitoring the Jobs Credit scheme and the SRI. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -229,10 +229,7 @@ Government not acted decisively.
 <li class="small-text">In terms of retaining jobs, multi-national corporations, like German chipmaker Infineon Technologies Asia-Pacific, have applauded the Jobs Credit scheme for easing the pressure off their labour costs. Meanwhile, Deloitte and Touche has cited the scheme as affirmation for its decision to hire 150 new graduates. Some other companies have also said that they would use the funds in different ways, such as investing in training and new equipment. See Alvin Foo and Robin Chan, “Cash grant helps wage bill”, The Straits Times, 24 January 2009.</li>  
 <li class="small-text">At a March 2009 tripartite dialogue with unionists, Mr Tan Peng Heng, President of the Singapore Industrial and Services Employees’ Union, raised the example of an aerospace company that intends to use the wage bill savings to subsidise training. See Jeremy Au Yong, “How the Budget helped one company”, The Straits Times, 25 February 2009.</li>  
 </ol>  
-  
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
