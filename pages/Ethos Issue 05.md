@@ -212,11 +212,12 @@ About Branding Itself</h3>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Aid%20for%20Work-%20The%20Singapore%20and%20US%20Models%20in%20Context.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_05/5_Teaser_Sharpening%20Singapore's%20Edge.jpg"></div>
 	<div>
-		<h3>Aid for Work: The Singapore and US Models in Context</h3>
-		<b><i>Theresa W. Devasahayam</i></b>
-		<p>Theresa W. Devasahayam examines Singapore’s workfare strategy in light of the US model on which it is based, and finds key points of departure that could inform policy development in future.</p>
+		<h3>Sharpening Singapore’s Edge: Insights from the IBM Experienc</h3>
+		<b><i>Teresa Lim</i></b>
+		<p>Singapore needs to develop T-shaped workers and a culture 
+that favours innovation, collaboration, diversity and values.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-singapore-and-us-models-in-context/">Read more</a></div>
 	</div>
 </div>
