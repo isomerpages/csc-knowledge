@@ -87,16 +87,16 @@ li {
   
 <p>The first quality is <strong>collegiality</strong>. The great challenges of contemporary public policy—from the immediacy of economic crisis to the prospect of long-term environmental catastrophe—inevitably cross the constrictive structures of government administration. Indeed, a hallmark of the response to crisis is the need to ensure that central, line and operational agencies are working harmoniously. Bureaucratic territoriality reduces timeliness, complicates process and weakens collective ownership of decisions.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Collegiality is a culture  
 of cooperative creativity,  
 not an excuse for  
 drawn-out process.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Of course, the qualities of teamwork (empathic listening, treating all participants with respect and ensuring that a diversity of views and perspectives are considered) can actually serve to impede the decisive action called for at a time of crisis. This must be avoided. Speed is essential. The goal is to work openly together, across horizontal demarcations, in the search for the best whole-ofgovernment outcomes.</p>  
   
@@ -104,16 +104,16 @@ drawn-out process.
   
 <p><strong>Execution</strong> is the second essential leadership quality required of civil servants. Once government has made its decisions, it is the job of its public administrators to deliver them with vigour and commitment. A brilliant policy, poorly executed, is probably far more damaging to governments than having no policy at all. That is why I placed much greater emphasis on project management skills when I led the Australian Public Service. It is also the reason I set up a Cabinet Implementation Unit in the Prime Minister’s Department to oversee and report on the manner in which policy decisions were being delivered.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 The ever-present danger is that  
 new approaches are embraced  
 and then discarded before they have  
 had sufficient chance to work.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The third leadership quality on which I set high store is <strong>persistence</strong>. Ministers love to announce new initiatives. Civil servants enjoy mastering the latest acronyms. Training courses like to exhibit their cutting-edge credentials by showing familiarity with the latest mantras of management gurus.</p>  
   
@@ -123,9 +123,9 @@ had sufficient chance to work.
   
 <p>A fourth quality, and one whose significance I have only slowly come to appreciate, is <strong>authenticity</strong>. During the two decades I was an Australian “mandarin”, the role changed significantly. The quasi-monopoly which characterised the working relationship between Secretaries (or Director- Generals) and their Ministers a generation ago has been transformed. The Westminster tradition has been made over. Ministers now appoint their own politically-sympathetic advisors. The lobbying of industry, unions and professional organisations has become more skilled. Not-for-profit organisations are now more important as contracted deliverers of government services, a development which (on balance) has probably increased the persuasiveness of their advocacy. Policy think-tanks have emerged. In short, the making and outsourcing of public policy implementation has become increasingly competitive.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 The civil service requires  
 leaders who have the good  
 sense and emotional  
@@ -133,9 +133,9 @@ intelligence to bring their
 complete self to the  
 development and  
 delivery of public policy.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Exciting opportunities are presented by the emergence of “network governance”. Civil servants need to collaborate with a growing array of state actors. They need to be able to negotiate, with goodwill, in an environment of asymmetrical power (for the civil service remains a centrally positioned, wellresourced and highly influential player). The situation demands well-honed communication and facilitation skills, leaders who are able and willing to manage relationships rather than simply ensure compliance with contracts.</p>  
   
@@ -151,13 +151,13 @@ delivery of public policy.
   
 <p>Yet, at moments of crisis—when the articulation of national interest will often be contested, but when the failure to act decisively will always prove fatal—civil service has its distinctive rewards. It is a job that has meaning and purpose. It involves the provision of public value, not shareholder gain, with benefits delivered to citizens, not consumers. How well it is done affects, to a lesser or greater extent, the future well-being of society. At a time of crisis, the burdens of responsibility are heavy but the opportunities for satisfaction are greater still. </p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Peter Shergold</strong> is the Macquarie Group Foundation Professor at the Centre for Social Impact in Australia. From 1988 to 2008, he was a senior public servant in the Australian Public Service, including being the Secretary of the Department of the Prime Minister and Cabinet from 2003 to 2008. He is also a Senior Visiting Fellow at the Civil Service College, Singapore. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -174,9 +174,7 @@ delivery of public policy.
 <li class="small-text">The Governance and Leadership Programme, organised by the Institute of Policy Development, Civil Service College, is an intensive milestone programme for officers who are already Directors or Heads-of-Departments. The objective of the Programme is to allow participants to gain a deeper insight to Singapore’s fundamental realities and principles of governance and how they play an integral part in the formulation and implementation of public policies, including public consultation and policy communication. Participants discuss issues on public sector excellence, including leadership and management in the public service.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
