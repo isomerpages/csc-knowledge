@@ -3,6 +3,15 @@ title: Creating Hot Spots of Innovation and Energy in Your Organisation
 permalink: /ethos-issue-05/creating-hot-spots-of-innovation-and-energy-in-your-organisation/
 description: ""
 ---
+<style>
+	
+	
+</style>	
+
+
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Ethos_Images/Ethos_Issue_05/5_Banner_Creating%20Hot%20Spots%20of%20Innovation%20and%20Energy%20in%20Your%20Organisation.jpg">
+
 
 <p>Walk around any organisation and you will see people going about their daily routines. Sometimes as you walk the corporate corridors, you will come across something different, something that causes you to pause and consider how you might encourage it to happen throughout the organisation. It might be an excited debate among team members where enthusiasm and commitment is tangible. It might be an overheard conversation about a brilliantly simple idea. It might be a conference call on which, instead of being separated by time zones, people appear to be energised and working to the same goal.</p>
 
@@ -150,4 +159,3 @@ Igniting tasks create a sense of meaning that resonate with employees' sense of 
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
