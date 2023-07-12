@@ -424,8 +424,8 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-08">Issue 8, Aug 2010, The Impact of China</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-07">Issue 7, Jan 2010, <br>Thinking About The Future</a></td>
+	<td><a target="_blank" href="/ethos-issue-08/">Issue 8, Aug 2010, The Impact of China</a></td>
+	<td><a target="_blank" href="/ethos-issue-07/">Issue 7, Jan 2010, <br>Thinking About The Future</a></td>
 </tr>
 
 
@@ -447,7 +447,7 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-<td><a target="_blank" href="https://go.gov.sg/ethos-issue-06">Issue 6, Jul 2009, The Global Financial Crisis</a></td>
+<td><a target="_blank" href="/ethos-issue-06/">Issue 6, Jul 2009, The Global Financial Crisis</a></td>
 </tr>
 
 
@@ -470,7 +470,7 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-	<td><a href="https://go.gov.sg/ethos-issue-05">Issue 5, Nov 2008,<br>Human Capital Development</a></td>
+	<td><a href="/ethos-issue-05/">Issue 5, Nov 2008,<br>Human Capital Development</a></td>
 	<td><a href="https://go.gov.sg/ethos-world-cities-summit-issue">World Cities Summit<br>Special Edition, Jun 2008</a></td>
 </tr>
 
