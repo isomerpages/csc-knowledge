@@ -177,7 +177,7 @@ challenging work assignments on staff development and performance.</p>
 <div class="grid-container">
 	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
-		<h3>Who’s Your City?</h3>
+		<h3>How the creative economy is making where to live the most important decision of your life</h3>
 		<b><i>Review by Cai Shan</i></b>
 		<p></p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-argument-for-the-singapore-model/">Read more</a></div>
