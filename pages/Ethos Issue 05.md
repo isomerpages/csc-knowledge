@@ -163,10 +163,10 @@ challenging work assignments on staff development and performance.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Security%20with%20Self-Reliance-%20The%20Argument%20for%20the%20Singapore%20Model.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
-		<h3>Security with Self-Reliance: The Argument for the Singapore Model</h3>
-		<b><i>Lim Xiuhui</i></b>
+		<h3>Talent on Demand: Managing Talent in an Age of Uncertainty</h3>
+		<b><i>Toh Boon Kwan</i></b>
 		<p>Singapore’s system of social security is based on enabling self-reliance, supported by strong family and social networks.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-argument-for-the-singapore-model/">Read more</a></div>
 	</div>
@@ -175,24 +175,24 @@ challenging work assignments on staff development and performance.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
-		<h3>Singapore’s Social Support System: Two Anomalies</h3>
-		<b><i>Chua Hak Bin</i></b>
-		<p>In order for public transport in Singapore to compete with the lure
-of private cars, a radical overhaul in regulation and organisation
-may be necessary.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/singapore-social-support-system-two-anomalies/">Read more</a></div>
+		<h3>Who’s Your City? How the Creative Economy Is Making Where to Live the Most Important Decision of Your Life</h3>
+		<b><i>Cai Shan</i></b>
+		<p>Singapore’s system of social security is based on enabling self-reliance, supported by strong family and social networks.</p>
+		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-argument-for-the-singapore-model/">Read more</a></div>
 	</div>
 </div>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Wage%20Inequality,%20Intergenerational%20Mobility%20and%20Education%20in%20Singapore.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_05/5_Teaser_The%20Global%20Talent%20War%20Why%20Singapore%20Needs%20to%20Get%20Serious%20About%20Branding%20Itself.jpg"></div>
 	<div>
-		<h3>Wage Inequality, Intergenerational Mobility and Education in Singapore</h3>
-		<b><i>Ho Kong Weng</i></b>
-		<p>Wage equality and intergenerational educational mobility may be in long-term decline in Singapore.</p>
+		<h3>The Global Talent War:
+Why Singapore Needs to Get Serious 
+About Branding Itself</h3>
+		<b><i>Ng Siew Kiang</i></b>
+		<p>Singapore has what it takes to be a global talent magnet: now it needs to make its case clearly, argues Ng Siew Kiang from Contact Singapore.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/wage-inequality-intergenerational-mobility-and-education-in-singapore/">Read more</a></div>
 	</div>
 </div>
