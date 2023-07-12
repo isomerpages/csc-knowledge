@@ -166,7 +166,7 @@ challenging work assignments on staff development and performance.</p>
 	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
 		<h3>Talent on Demand: Managing Talent in an Age of Uncertainty</h3>
-		<b><i>Toh Boon Kwan</i></b>
+		<b><i>Review by Toh Boon Kwan</i></b>
 		<p></p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-argument-for-the-singapore-model/">Read more</a></div>
 	</div>
@@ -178,7 +178,7 @@ challenging work assignments on staff development and performance.</p>
 	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
 		<h3>Who’s Your City? How the Creative Economy Is Making Where to Live the Most Important Decision of Your Life</h3>
-		<b><i>Cai Shan</i></b>
+		<b><i>Review by Cai Shan</i></b>
 		<p></p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-argument-for-the-singapore-model/">Read more</a></div>
 	</div>
