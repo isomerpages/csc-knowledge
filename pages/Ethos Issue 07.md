@@ -197,7 +197,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_07/7_Teaser_Phases%20of%20Singapore%20Demographic%20Development%20Post%20World%20War%202.jpg"></div>
 	<div>
 		<h3>Phases of Singapore’s Demographic Development Post-World War II</h3>
 		<b><i>by Koh Eng Chuan</i></b>
