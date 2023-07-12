@@ -1,4 +1,5 @@
 collections:
   ethos-issue-06:
     output: true
-    order: []
+    order:
+      - "Singapore’s Political Economy: Two Paradoxes.md"
