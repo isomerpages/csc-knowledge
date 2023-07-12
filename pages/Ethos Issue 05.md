@@ -108,11 +108,13 @@ they highlight key findings from their research.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Growth%20with%20Equity-%20The%20Challenge%20of%20Income%20Distribution.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3>Growth with Equity: The Challenge of Income Distribution</h3>
-		<b><i>Kenneth Chan</i></b>
-		<p>“…the issue is not how much inequality there is, but how much opportunity there is for the individual to get out of the bottom classes and into the top.” – Milton Friedman</p>
+		<h3>Thinking About Winning: 
+Leadership in the Global War for Talent</h3>
+		<b><i>Interview with Jeffrey R. Immelt</i></b>
+		<p>The Chairman and CEO of GE reflects on the continuing importance of 
+sound leadership in a rapidly changing global business landscape.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/growth-with-equity-the-challenge-of-income-distribution/">Read more</a></div>
 	</div>
 </div>
