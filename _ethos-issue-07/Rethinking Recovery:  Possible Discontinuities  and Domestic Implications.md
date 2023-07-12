@@ -79,16 +79,16 @@ While some analysts argue that the worst of the global financial crisis appears 
 <br>  
 This article discusses two related questions: What possible discontinuities can Singapore expect in the next 10 to 15 years, after a decade of mostly unfettered globalisation? How could our domestic priorities be affected?</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Singapore will have to  
 move into new markets that  
 serve as alternative sources  
 of demand.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>POSSIBLE DISCONTINUITY 1: BEYOND US / CHINA-DRIVEN GROWTH</h3>  
   
@@ -105,18 +105,18 @@ Apart from opportunities, Singapore will also need to operate in an environment 
   
 <p>Since the end of the Cold War, Anglo-Saxon free-market capitalism has been the dominant economic model. Over the years, developed and emerging economies alike have engaged in a series of privatisation and deregulation exercises to shift the ownership of industries from the public to private sectors, albeit at different paces and with differing intensities.<a href="#notes"><sup>9</sup></a> This trend of privatisation has been reversed with the current crisis. The governments of the US and other developed economies have been intervening directly to bail out troubled financial institutions and big corporations. Simultaneously, the governments of emerging economies, facing increased uncertainty about their growth prospects (and political longevity) due to the current crisis, have increased direct intervention to prop up domestic demand by investing more heavily in state-owned enterprises and government-linked private companies.<a href="#notes"><sup>10</sup></a></p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Prolonged state  
 interventionism, due to  
 the current crisis, may  
 inadvertently lead to freemarket  
 capitalism being  
 replaced by state capitalism.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 While the governments of developed and emerging economies may not intend to directly manage their respective economies indefinitely, it is uncertain when they will eventually withdraw their direct involvement. Prolonged state interventionism, due to the current crisis, may inadvertently lead to free-market capitalism being replaced by state capitalism—an economic model where the state functions as the leading economic actor and uses markets primarily for political gain—as the new dominant model. Already, in sectors as diverse as petrochemicals, power generation and port management, a growing number of governments are no longer content with simply regulating the market, and instead use the market to bolster their domestic political positions.<a href="#notes"><sup>10</sup></a></p>  
@@ -135,17 +135,17 @@ Should governments feel a greater need to make stronger protectionist gestures, 
 <p>  
 However, the scale of the financial crisis could possibly lead to the creation of new supranational regulatory bodies, measures and currencies. At the international level, the G-20 London Summit in April 2009 saw the creation of a new Financial Stability Board dedicated to monitoring leverage and inter-connectedness of international financial institutions.<a href="#notes"><sup>13</sup></a> In addition, prominent members of the G-20 have proposed the implementation of a "Tobin Tax" on financial transactions,<a href="#notes"><sup>14</sup></a> to guard against excessive risk-taking behaviour—a measure that Brazil recently implemented.<a href="#notes"><sup>15</sup></a> At the regional level, China, Japan and South Korea have agreed to enhance existing cooperation and led the setting up of a regional pool of reserves under the "ASEAN + 3" grouping, to protect the region against speculative attacks and provide countries in crisis with liquidity.<a href="#notes"><sup>16</sup></a></p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Future financial innovation  
 will most probably come at  
 a higher cost, contributing  
 towards slowed growth  
 for financial sectors.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 There have also been growing calls for the world to be less dependent on the US dollar. China has suggested that US dollar-denominated assets could be exchanged for more Special Drawing Rights from the International Monetary Fund (IMF), while Japan and Russia have respectively voiced their support for the yen and the rouble to be the base unit of currency exchange in Asia and the ex-Soviet Union states, replacing the US dollar. At the same time, economic historian Barry Eichengreen suggests that the Yuan may become an important international currency alongside the US dollar sooner than expected.<a href="#notes"><sup>17</sup></a></p>  
@@ -164,7 +164,7 @@ The creation of supranational regulatory bodies will place increased pressure on
 <p>  
 Following the severity of the financial crisis, the world is likely to become increasingly "multi-polar", where strong regional nations compete, conflict and coalesce with each other and alongside influential non-state actors, such as multinational corporations, in the absence of a "global policeman".<a href="#notes"><sup>21</sup></a> Should more supranational and subnational entities (i.e., influential citystates) emerge to contest for power and influence in the international arena, the world could even be shifting towards an era of "non-polarity", where power is even more diffused.<a href="#notes"><sup>22</sup></a></p>  
   
-<p style="text-align: center;"><img title="10h3a" src="../../images/default-source/ethos-images/ethos-issue-7/10h3a.gif?sfvrsn=c622fe11\_0" data-displaymode="Original" alt="Figure 1"></p>  
+<p style="text-align: center;"><img title="10h3a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10h3a.gif" data-displaymode="Original" alt="Figure 1"></p>  
   
 <h4>Implications for Singapore </h4>  
   
@@ -174,7 +174,7 @@ Following the severity of the financial crisis, the world is likely to become in
   
 <p>Singapore has experienced both the benefits and ill-effects of globalisation, and must continue to navigate the uncharted territory ahead. The world's ability to digest and adapt to these key discontinuities will determine whether the next phase of development will be characterised by a different form of globalisation or a dark period of de-globalisation. As always, Singapore will have to stay nimble and adapt to global changes, given its size and lack of natural resources. In the face of possible drastic discontinuities, a strategic rethink of the Government's fundamental roles, strategies and internal capabilities may be in order. This may include honing in public officers the instinct to identify and anticipate critical uncertainties and their potential implications for our operating environment.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -184,7 +184,7 @@ Following the severity of the financial crisis, the world is likely to become in
   
 <p class="small-text">They are both Senior Strategists in the Strategic Policy Office of the Public Service Division, Prime Minister's Office. The views expressed in this article are their own.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -213,9 +213,6 @@ Following the severity of the financial crisis, the world is likely to become in
 <li class="small-text">Haass, Richard N., "The Age of Non-Polarity", Foreign Affairs, June 2008.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
