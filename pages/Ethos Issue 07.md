@@ -77,24 +77,24 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_07/7_Teaser_serving%20beyond%20the%20predictable.jpg"></div>
 	<div>
 		<h3>Serving Beyond the Predictable</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Jocelyne Bourgon</i></b>
+		<p>The public sector needs a unifying framework to reconcile the efficiency gains of the past with the participative, explorative and adaptive strategies needed to address tomorrow’s complex challenges, argues Jocelyne Bourgon, President of Public Governance International and President Emeritus of the Canada School of Public Service.</p>
+		<div class="button1"><a href="/ethos-issue-07/serving-beyond-the-predictable/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_07/7_Teaser_thinking%20through%20complexity%20managing%20for%20uncertainty.jpg"></div>
 	<div>
 		<h3>Thinking through Complexity, Managing for Uncertainty</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Lam Chuan Leong</i></b>
+		<p>Our thinking is less rational than we’d like to believe, but can we learn to outsmart our own cognitive biases?</p>
+		<div class="button1"><a href="/ethos-issue-07/thinking-through-complexity-managing-for-uncertainty/">Read more</a></div>
 	</div>
 </div>
 
