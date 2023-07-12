@@ -114,15 +114,13 @@ li {
   
 <p>Once you understand that that is the most important fact about the global diplomatic history of the late nineteenth and early twentieth centuries, the implications for the US today are, I think, obvious. The odds are overwhelming that India or China will become the most important power to come; the capital where everyone sends their senior Ambassadors to in 2100s isn’t going to be Washington. It’s going to be either Beijing or New Delhi. So the question is how the US should be acting now to shape this world 100 years from now.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text">In Singapore at the invitation of the Centre for Public Economics, Civil Service College to deliver a lecture on “The Financial Crisis of 2007–2009: Understanding its Causes, Consequences—and its Possible Cures”, <strong>Professor Bradford DeLong</strong> was interviewed by ETHOS Editor, Alvin Pang. He is a professor in the Department of Economics at the University of California, Berkeley; chair of the Berkeley International and Area Studies Political Economy major; a research associate at the National Bureau of Economic Research; and a visiting scholar at the Federal Reserve Bank of San Francisco. From 1993 to 1995, he worked for the US Treasury as a deputy assistant secretary for economic policy. While in the Clinton administration, Professor DeLong worked on the Uruguay Round of the General Agreement on Tariffs and Trade, the North American Free Trade Agreement, and on many other issues. He has written on, among other topics, the evolution and functioning of the US and other nations’ stock markets, the course and determinants of long-run economic growth, the making of economic policy, the changing nature of the American business cycle, and the history of economic thought.</p>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+</div>
 
 
 
