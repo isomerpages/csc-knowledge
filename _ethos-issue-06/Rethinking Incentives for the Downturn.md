@@ -78,7 +78,7 @@ li {
   
 <p>In a spot survey of 516 public, private and government organisations in Asia conducted in November 2008, Hay Group found that Asian companies were using their salary budgets more strategically to reward performance— paying an average of 66.7% more in base salary increases to their high-performing employees compared to all other employees. At the high end, Malaysian, Hong Kong and Singaporean companies surveyed had doled out an average of 60% more in base salary increases to their star performers in 2008 (Table 1).</p>  
   
-<p style="text-align: center;"><img title="9la" src="../../images/default-source/ethos-images/ethos-issue-6/9la.jpg?sfvrsn=a4484632\_0" data-displaymode="Original" alt="Table 1"></p>  
+<p style="text-align: center;"><img title="9la" src="/images/Ethos_Images/Ethos_Issue_06/Fig_9la.jpg" data-displaymode="Original" alt="Table 1"></p>  
   
 <p>Certainly, a robust performance management and reward system is critical to success in a downturn. As always, it is important for organisations to clearly define, communicate and recognise what good performance looks like, and to appropriately portion rewards based on differentiated performance (as well as ensure that poor performance is identified and addressed).</p>  
   
@@ -100,7 +100,7 @@ li {
   
 <p>By considering both employee engagement and employee enablement, research by Hay Group Insight suggests that there are four distinct groups of employees within a typical organisation (Figure 1).</p>  
   
-<p style="text-align: center;"><img title="9lb" src="../../images/default-source/ethos-images/ethos-issue-6/9lb.jpg?sfvrsn=46339eaf\_0" data-displaymode="Original" alt="Figure 1"></p>  
+<p style="text-align: center;"><img title="9lb" src="/images/Ethos_Images/Ethos_Issue_06/Fig_9lb.jpg" data-displaymode="Original" alt="Figure 1"></p>  
   
 <ul>  
 <li><em>Effective employees</em> are both highly engaged and well supported for success. In these ideal circumstances, employees are most likely to be high achievers.</li>  
@@ -111,22 +111,22 @@ li {
   
 <p>What these employee types make clear is that both engagement and enablement are necessary to provide an optimal climate for effective employees. Take away either strong support structures or high levels of staff engagement and you end up with either frustrated or detached employees. What is worse is when both support and engagement are lacking: employees become ineffective and often a drain on overall morale.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 If key talented employees  
 are leaving after all the effort  
 put into engaging them,  
 the secret may lie in balancing  
 out the effort with  
 employee enablement.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Consider these numbers: frustrated employees represent as much as one third of the Asian workforce with only 16% of them believing that they are effective in their jobs. Despite being well engaged by their employers, the frustration of these employees largely stems from a lack of empowerment and professional development. This is in contrast to a similar Hay Group Insight study conducted in the UK, which found that only 21% of the UK employees were feeling frustrated and two out of every five employees considered themselves effective workers (Table 2).</p>  
   
-<p style="text-align: center;"><img title="9lc" src="../../images/default-source/ethos-images/ethos-issue-6/9lc.jpg?sfvrsn=cc26b02b\_0" data-displaymode="Original" alt="Table 2"></p>  
+<p style="text-align: center;"><img title="9lc" src="/images/Ethos_Images/Ethos_Issue_06/Fig_9lc.jpg" alt="Table 2"></p>  
   
 <p>The highest percentage (35%) of Asian employees was found to be detached. They are the ones who will only perform the minimum of what is needed to meet their objectives, and no more. What is worrying with these detached employees, despite the high level of training they have received, is that 60% of them intend to leave their organisations the minute someone makes them a marginally better offer.</p>  
   
@@ -134,15 +134,14 @@ employee enablement.
   
 <p>Singaporean organisations that focus only on engaging and motivating employees may ironically be missing out on getting the best possible performance, even from committed employees. In a downturn, both effective engagement and enablement are critical to retaining the talent that organisations will need when the upswing inevitably returns.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text">As Regional Director of Hay Group Insight, <strong>Dr Stephen Choo</strong> works closely with senior executives of leading organisations throughout the region, developing highly effective management strategies with the use of strategic diagnostic tools in employee opinion research. He works closely with senior executives and middlelevel managers in converting survey results into workable action plans. Dr Choo received his PhD in International Management from the University of Western Australia and has written a book entitled <em>Entrepreneurial Management</em> (Victoria, Australia: Tilde University Press, 2006) and more than 20 papers on leadership, entrepreneurship, innovation and strategic human resource management in several academic and professional publications.</p>  
   
-<br>  
+</div>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
