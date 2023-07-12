@@ -2,6 +2,7 @@ collections:
   ethos-issue-06:
     output: true
     order:
+      - Editorial.md
       - Leadership at a Time of Crisis.md
       - "Book Review: Krugman, Wolf and the Roots of the Financial Crisis.md"
       - "Opinion: It’s Not Over Yet.md"
