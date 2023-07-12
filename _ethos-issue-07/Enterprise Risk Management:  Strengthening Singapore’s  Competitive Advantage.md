@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Issue 07, Jan 2010</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Issue_07/7_Banner_Enterprise%20Risk%20Management%20Strengthening%20Singapore's%20Advantage.jpg">
 
 
   
