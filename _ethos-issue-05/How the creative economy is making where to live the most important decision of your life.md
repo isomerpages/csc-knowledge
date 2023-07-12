@@ -4,6 +4,18 @@ title: How the creative economy is making where to live the most important
 permalink: /ethos-issue-05/how-the-creative-economy/
 description: ""
 ---
+<style>
+	
+	
+</style>	
+
+
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Landing_Banner_Images/banner_preface_foreword.jpg">
+
+
+
+
 <p>When Thomas Friedman asserted that “the world is flat”, he could hardly have imagined that it would one day be countered by another notion: that the world is in fact “spiky”. This is precisely what Richard Florida argues in his new book, <em>Who’s Your City?</em>. Florida, an academic in economy development and demography, is best known for his writings on the rise and flight of the <em>creative class</em>—a catch-all reference to the strata of talented individuals in a society, including scientists, writers, artists and designers, who create the new knowledge, technology and innovations that drive economic and cultural development. His current book is the product of extensive research on the relevance of place to the creative class; it paints a convincing picture of a world where the geographical congregation of diverse, creative talent is now a key underlying driver (or at least a pre-requisite) for economic growth and cutting-edge innovation.</p>
 
 <h3>What the world <em>really</em> looks like</h3>
