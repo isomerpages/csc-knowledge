@@ -57,9 +57,9 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Images/Ethos_Issue_03/ETHOS03.jpg"></div>
 	<div>
 		<h3><span class="cat">Issue 05, Nov 2008</span><br> ETHOS Issue 05</h3>
-		<p>The phenomenal growth brought about by globalisation has also dramatically widens the gap between the haves and the have-nots, on a worldwide scale. What more can be done to mitigate the impact of wage stagnation and inequality? Featuring thought leaders such as Martha Nussbaum, Lawrence M. Mead and Timothy F. Geithner.</p>
+		<p></p>
 <br>		
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-03">Download PDF</a></div>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-05">Download PDF</a></div>
 	</div>
 </div>
 
@@ -71,7 +71,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i>Dr Alvin Pang</i></b>
 		<figcaption>Editor-in-Chief Ethos</figcaption>
-		<p>The phenomenal growth globalization has generated has also dramatically widened the gap between the haves and the have-nots, on a worldwide scale. Social provisions and national policies formulated a generation ago are struggling to cope with the demands of today’s interconnected marketplaces and accelerated flows of capital and labour.</p>
+		<p></p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -84,13 +84,13 @@ margin-top:15px;
 		<h3>Foreword</h3>
 		<b><i>Leon Yip</i></b>
 		<figcaption>Permanent Secretary, Ministry of Manpower</figcaption>
-		<p>The phenomenal growth globalization has generated has also dramatically widened the gap between the haves and the have-nots, on a worldwide scale. Social provisions and national policies formulated a generation ago are struggling to cope with the demands of today’s interconnected marketplaces and accelerated flows of capital and labour.</p>
+		<p></p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/editorial/">Read more</a></div>
 	</div>
 </div>
 
 <br>
-
+<br>
 
 
 <div class="grid-container">
