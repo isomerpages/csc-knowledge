@@ -96,16 +96,16 @@ li {
   
 <p>You have to convey to your people, and to your customers and visitors, that you share the same sense of passion for your country. And this is an astonishing country. It is the city of the future, but you need to tell the world. You want people going home from Singapore and say "I want my city to be like Singapore!"</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 The civil service embodies  
 the values, dynamism and  
 behaviour that make  
 Singapore succeed.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>There is a sense that what is possible here is not yet fully realised. It isn't that people are unhappy. Instead, there is the sense that not only are things good, but they have to be better. That is also true at Apple. They keep pushing the frontiers, like in Singapore.</p>  
   
@@ -117,17 +117,17 @@ Singapore succeed.
   
 <p><strong><span style="color: #974806;">SCHWARTZ</span></strong>: But you do have the IP: You know how to run a country! Singapore is a made-up country with a colonial past and without much deep history, unlike many countries in the region. Up until independence, this place was only moderately interesting; it was not by any means the centre of things. Since independence, however, it has become incredibly interesting because of what you've done here. But the thing about great world cities is that they bring the world into the city.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Size should not be a  
 factor in accommodating  
 diversity: Singapore is about  
 the same size as the  
 San Francisco Bay Area.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>New York is one of the best examples. You find the whole world represented on almost every street of New York in one way or another. Tokyo, on the other hand, is not a world city: it is Japanese through and through. Shanghai is well on its way to becoming a world city. Beijing is not. Hong Kong is, and Singapore is becoming ever more so. I see this as a distinguishing characteristic of the great cities of the future.</p>  
   
@@ -147,16 +147,16 @@ San Francisco Bay Area.
   
 <p>Singapore is about the same size as the Bay Area, which has a range of manufacturing, services, banking, tourism, and perfectly ordinary middleclass activities; the area covers San Francisco, Silicon Valley and Berkley. So your size should not be a factor in terms of accommodating diversity.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 You need to open up the dense  
 middle and give the bottom,  
 particularly young people, an  
 opportunity to participate.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>You have done a good job of engaging and attracting talent from elsewhere, particularly in science and technology. But I think part of the strength of Singapore is how deeply engrained the founding values of the country are, including a profound sense of insecurity: the recognition that Singapore is fundamentally vulnerable and that you have to survive on your wits alone. I think this is a profound motivator, and makes people willing to do things they might otherwise not do. People coming to Singapore, such as myself, can never feel that. We come with a different psychology. We think "What a cool and interesting place to be!", and not "What an insecure place to be".</p>  
   
@@ -172,16 +172,16 @@ opportunity to participate.
   
 <p>One idea is to create a Defense Advanced Research Projects Agency (DARPA)-like outfit to allow for innovation outside the usual stream, where you can experiment and be allowed to fail, which is critical. Create a mini ministry to conduct experiments in governance: How would we run things differently? How would we organise things differently? If you were to invent Singapore today, what would you do? How would you build it? This could be used as a nucleus for innovation elsewhere.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 The next generation in  
 Singapore and in Asia could  
 turn out to be very rebellious  
 and progressively stranger.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p><strong><span style="color: #ff0000;">EDITOR</span></strong>: Does it make sense for Singapore to sponsor something like the Ansari X Prize,<a href="#notes"><sup>1</sup></a> where we attract innovative solutions to tricky problems? The ideas may not come from us but they come to us because we're the ones who issue the challenge.</p>  
   
@@ -189,11 +189,11 @@ and progressively stranger.
   
 <p>Another useful idea is the MacArthur Fellows Program,<a href="#notes"><sup>2</sup></a> which are commonly called the Genius Awards. Every year, a secret committee picks 20 to 30 talented individuals who exhibit unusual creativity relatively early in their career, although some are as late as 50, and gives them US$100,000 a year for five years, with no strings attached. Over 800 Fellows have been named since 1981; interestingly enough, there is no common trend in terms of their background or formative environment. The impact of this award has been disproportionately large, in terms of its second order effect and on the creative culture. Singapore could set up something like this award for its own citizens as a low-cost tool to draw out talent.</p>  
   
-<hr>  
+<div class="author">  
   
 <p class="small-text">The ETHOS Roundtable was hosted by Alvin Pang, Editor of ETHOS, in July 2009. Peter Schwartz was in Singapore for a monthlong sabbatical, during which he delivered a New Insights Lecture on "Emerging Strategic Issues and Wild Cards" at the Civil Service College and conducted a number of workshops for scenario planners in the Public Service.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -202,9 +202,7 @@ and progressively stranger.
 <li class="small-text">For more details, see <a href="http://www.macfound.org/fellows">http://www.macfound.org/fellows</a></li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
