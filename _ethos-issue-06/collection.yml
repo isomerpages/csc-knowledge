@@ -2,6 +2,8 @@ collections:
   ethos-issue-06:
     output: true
     order:
+      - The 2009 Budget and the Ministry of Finance’s Approach to
+        Countercyclical Economic Strategy.md
       - Thinking Beyond the Crisis.md
       - Crisis proof Governance.md
       - "Singapore’s Economic Growth Model: Too Much or Too Little?.md"
