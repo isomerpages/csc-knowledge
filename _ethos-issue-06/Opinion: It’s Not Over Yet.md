@@ -82,17 +82,17 @@ li {
   
 <p>Third, if economic activity is going to continue to fall and if financial sectors have not returned to strength, then we are likely to see more financial stresses. As unemployment continues to rise in major economies and as cash flows in the business sector remain constrained, bad debts must rise. In the US, the outlook for commercial real estate looks particularly bad. The International Monetary Fund (IMF) has estimated that the global crisis will induce financial sector losses of US$4.05 trillion in the US, Europe and Japan, of which only about a third has been recognised. Of this extraordinarily large amount, US$2.7 trillion of losses are expected to be in the US alone, although some economists are estimating US losses at US$3.6 trillion. The scale of these likely losses throws some cold water on the optimistic findings of the US bank “stress tests”, suggesting that more financial stresses are likely as we move to the end of this year.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 If emerging market risks  
 rise, investors will become  
 warier of Asian emerging  
 markets, even if their  
 fundamentals are better.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>IMPLICATIONS FOR ASIA</h3>  
   
@@ -106,16 +106,16 @@ fundamentals are better.
 <li>Another example would be the effect of corporate sector adjustments to the slowdown—hotel and tour operators are cutting prices and so are pressing their workers and suppliers to cut wages and prices as well. In manufacturing, workers are being laid off; in China, Thailand, Indonesia and other countries where rural-urban migration is substantial, remittances from urban migrants to their families in the rural areas are likely to fall, causing rural demand to slow.</li>  
 </ul>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 As the economy stabilises,  
 the costs of policy responses  
 to the crisis will  
 become more evident.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>LOOKING FORWARD: CAN THERE REALLY BE AN EASY EXIT FROM THIS CRISIS?</h3>  
   
@@ -127,15 +127,14 @@ become more evident.
   
 <p>This means that, even as the global economy recovers, new risks will emerge. For policymakers in Asia, the implications are clear—expect and be prepared for more shocks.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Manu Bhaskaran</strong> is Partner and Head of Economic Research at the Centennial Group Inc, a Washington D.C.-based strategic advisory group. His major area of research interest is the Singapore economy and the policy options it faces. He is concurrently Adjunct Senior Research Fellow at the Institute of Policy Studies, Vice President of the Economic Society of Singapore and a Council Member of the Singapore Institute of International Affairs. Prior to his current positions, Mr Bhaskaran worked for 13 years at the investment banking arm of Societe Generale as its Chief Economist for Asia. He began his professional career at Singapore’s Ministry of Defence, focusing on regional security and strategic issues.</p>  
   
-<br>  
+</div>  
   
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
