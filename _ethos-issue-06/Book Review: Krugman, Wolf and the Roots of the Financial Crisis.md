@@ -91,18 +91,18 @@ Both authors observe that banking and currency crises have become more frequent 
 <p>  
 Krugman and Wolf also agree that financial crises translate into economic crises at great cost and with dire results. While the consequences would differ across countries, they are likely to include unemployment, poverty, lost output, increased public debt, and some degree of social and political unrest. With more frequent economic shocks in future, my sense is that governments will have to learn to mitigate these social consequences in a cost-effective way.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Banking and currency crises  
 have become more frequent  
 since the 1970s, due to  
 financial globalisation and  
 the resultant upsurge in  
 international capital flows.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>HOW THE CRISIS CAME ABOUT</h3>  
   
@@ -138,17 +138,17 @@ If, on the other hand, the current crisis is fundamentally a result of an unsust
 <p>  
 First, currency and banking crises across the world are likely to recur with increasing frequency for some time to come. While they may not be global recessions, we can expect regional crises to spill over to tiny and connected Singapore. Singapore’s small domestic market and dependence on the global economy make it particularly susceptible to knock-on effects from such crises. This may lead to higher frequency fluctuations in our economic performance. Policymakers must thus continue to look ahead, and respond early, decisively, and effectively to changes in the global environment, while remaining cognisant that their policies may inadvertently exacerbate the very fluctuations that they are attempting to smooth.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Policymakers must remain  
 cognisant that their policies  
 may inadvertently exacerbate  
 the very fluctuations that  
 they are attempting to smooth.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>  
 Second, in our drive to become a financial services hub, we have to maintain an active and forward-looking regulatory regime while avoiding overregulation. Risk Assessment and Horizon Scanning (RAHS) methodologies, predominantly employed for security risks today, may yield insights for financial regulation. Tighter regulation of domestic financial institutions by other countries may also affect Singapore’s attractiveness as a hub.</p>  
@@ -156,13 +156,13 @@ Second, in our drive to become a financial services hub, we have to maintain an 
 <p>  
 Third, while Singapore remains too small to generate sufficient domestic demand for our industries, the inability of the US to sustain current account deficits indefinitely suggests that we must constantly seek new export markets for our goods and services, without neglecting existing ones. Our capital investments must also continue to be diversified across geographical and asset classes, particularly in view of the heightened risk of a depreciation of the American dollar.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>He Ruimin</strong> is a Research Economist in the Economics &amp; Strategy Division, Ministry of Trade and Industry. A Naval Officer by training, he was formerly an Operations Officer on board the Singapore Navy frigate RSS Intrepid. He holds a PhD in Economics and a Bachelor’s degree in Electrical Engineering and Science, both from the Massachusetts Institute of Technology. The views expressed in this article are his own.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -170,9 +170,7 @@ Third, while Singapore remains too small to generate sufficient domestic demand 
 <li class="small-text">Krugman is the 2008 recipient of the Nobel Memorial Prize in Economic Science for his work on the new trade theory, and a Professor of Economics at Princeton. Wolf is a Professor of Economics at Nottingham.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
