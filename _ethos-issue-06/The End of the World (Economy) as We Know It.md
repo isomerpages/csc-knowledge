@@ -128,13 +128,13 @@ status quo.
   
 <p>All three scenarios present significant challenges for Singapore. Against this backdrop, Singapore would need to address three main themes of Resilience, Survival and Relevance to secure its continued economic progress. In the “Wounded Beast”, Singapore would need to develop deeper resilience to resource shocks and shorter business cycles to cope with heightened economic volatility. Muted G3 consumption growth as in the “Chasm” and the “Abyss” suggests that Singapore would need to develop new capabilities to survive a shortfall in G3 demand. Finally, the reduced relative importance of G3 final demand will require Singapore to stay economically relevant to Asia as economies in the region seek to jump-start their domestic demand.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Adeline Aw</strong>, <strong>Lee Chor Pharn</strong>, and <strong>Wee Shu Lin</strong> are from the Economics and Strategy Division of the Ministry of Trade and Industry. The division studies and identifies key sectors and clusters in Singapore, assesses the impact of policy initiatives by other government agencies and produces research and analyses of the Singapore economy and global trends.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -144,9 +144,7 @@ status quo.
 <li class="small-text">The Great Depression altered the spending habits for at least one generation of Americans.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
