@@ -2,6 +2,7 @@ collections:
   ethos-issue-05:
     output: true
     order:
+      - "Talent Management in Asia: Four Perspectives.md"
       - "Thinking About Winning: Leadership in the Global War for Talent.md"
       - "Global Talent: The War Goes On.md"
       - Foreword.md
