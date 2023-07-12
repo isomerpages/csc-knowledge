@@ -214,7 +214,7 @@ About Branding Itself</h3>
 <div class="grid-container">
 	<div><img src="/images/Ethos_Images/Ethos_Issue_05/5_Teaser_Sharpening%20Singapore's%20Edge.jpg"></div>
 	<div>
-		<h3>Sharpening Singapore’s Edge: Insights from the IBM Experienc</h3>
+		<h3>Sharpening Singapore’s Edge: Insights from the IBM Experience</h3>
 		<b><i>Teresa Lim</i></b>
 		<p>Singapore needs to develop T-shaped workers and a culture 
 that favours innovation, collaboration, diversity and values.</p>
@@ -228,9 +228,9 @@ that favours innovation, collaboration, diversity and values.</p>
 <div class="grid-container">
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
-		<h3>Making Workfare Work: The US Experience</h3>
-		<b><i>Interview with Lawrence M. Mead</i></b>
-		<p>New York University’s Professor Lawrence M. Mead discusses workfare and income inequality in light of the US experience after a decade of welfare reform.</p>
+		<h3>Singapore as Innovation Nation</h3>
+		<b><i>Conversation with John Kao</i></b>
+		<p>ETHOS speaks to innovation thought leader John Kao who argues that innovative capacity can and should be cultivated as a national strategy.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/making-workfare-work-the-us-experience/">Read more</a></div>
 	</div>
 </div>
@@ -238,58 +238,17 @@ that favours innovation, collaboration, diversity and values.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_05/5_Teaser_Creating%20Hot%20Spots%20of%20Innovation%20and%20Energy%20in%20Your%20Organisation.jpg"></div>
 	<div>
-		<h3>The Singapore Model of Workfare: Three Suggestions</h3>
-		<b><i>Hoon Hian Teck</i></b>
-		<p>To stay strategic in outlook and nimble in execution, the Singapore Armed Forces restructured its chain of command. Should the rest of the public sector follow suit?</p>
+		<h3>Creating Hot Spots of Innovation and Energy in Your Organisation</h3>
+		<b><i>Lynda Gratton</i></b>
+		<p>Leaders can ignite creative energy by asking incisive questions and nurturing cross-boundary collaboration, writes Lynda Gratton 
+from the London Business School.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-singapore-model-of-workfare-3-suggestions/">Read more</a></div>
 	</div>
 </div>
 
 <br>
-
-<div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_The%20Asian%20Financial%20Crisis%20In%20Hindsight.jpg"></div>
-	<div>
-		<h3>The Asian Financial Crisis In Hindsight</h3>
-		<b><i>Donald Low</i></b>
-		<p>The Asian Financial Crisis might well be the first major crisis
-of globalisation. Donald Low examines its causes and
-implications ten years on.</p>
-		
-<div class="button1"><a target="_blank" href="/ethos-issue-03/the-asian-financial-crisis-in-hindsight/">Read more</a></div>
-	</div>
-</div>
-
-<br>
-
-<div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
-	<div>
-		<h3>Indonesia in the Financial Crisis: Advent and Aftermath</h3>
-		<b><i>Interview with Adam Schwarz</i></b>
-		<p>The Asian Financial Crisis might well be the first major crisis
-of globalisation. Donald Low examines its causes and
-implications ten years on.</p>
-		
-<div class="button1"><a target="_blank" href="/ethos-issue-03/indonesia-in-the-financial-crisis-advent-and-aftermath/">Read more</a></div>
-	</div>
-</div>
-
-<br>
-
-
-<div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
-	<div>
-		<h3>Asia After the Crisis: What Now, What’s Next?</h3>
-		<b><i>Interview with Timothy F. Geithner</i></b>
-		<p>Timothy F. Geithner, President and CEO of Federal Reserve Bank of New York, discusses monetary and fiscal policy in the region a decade after the Asian Financial Crisis.</p>
-		
-<div class="button1"><a target="_blank" href="/ethos-issue-03/asia-after-the-crisis-what-now-whats-next/">Read more</a></div>
-	</div>
-</div>
 
 
 
