@@ -77,16 +77,16 @@ li {
   
 <p>Although economic development was a key national priority during Singapore's early post-independence years, it was never a case of pursuing growth at all costs and cleaning up afterwards. We realised at the same time that development should not come at the expense of the environment, which is also integral to our quality of life. Despite competing demands for funding, Singapore made early investments in environmental infrastructure—even borrowing US$25 million from the World Bank to build its first incineration plant in 1973. We adopted a long-term horizon for planning and integrated environmental considerations upfront into our development and building control processes.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 The debate between economic  
 development and environment  
 protection is outdated: cities  
 need to pursue both.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Singapore has also been prepared to make hard policy decisions to uphold environmental standards, sometimes even risking foreign direct investment. When the former Head of the Civil Service, Mr Lee Ek Tieng, was head of the Anti-Pollution Unit (APU), there was a case where a large multinational corporation (MNC) wanted to build a petrochemical facility in Singapore, but was not prepared to pay for a ground furnace to reduce pollution. The MNC appealed to the Economic Development Board against APU's policy, but the Prime Minister concurred with APU that preventive measures were better than cleaning up retroactively. The appeal was rejected and the company had to install the ground furnace.</p>  
   
@@ -98,17 +98,17 @@ need to pursue both.
   
 <p>We have reaped the benefits of our early actions and consistent efforts. Today, Singapore is ranked Asia's most competitive economy<a href="#notes#notes"><sup>3</sup></a> and the most liveable city in Asia,<a href="#notes#notes"><sup>4</sup></a> an example of a city that is both economically vibrant and environmentally liveable. We continue to harvest more gains from foresighted long-term environmental investments in the past. Singapore's S$300 million, 10-year programme in 1977 to clean up the polluted Singapore River has led to a vibrant, revitalised waterfront, which laid the foundations for the development of the Marina Barrage and an urban reservoir.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 As the world turns towards  
 a low-carbon growth path,  
 new business opportunities,  
 jobs and technology spin-offs  
 will open up.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>We have also been able to share our environmental expertise with others. For instance, China is now collaborating with Singapore to build an Eco-city in Tianjin, China, which aims to be a model of sustainable development for other cities in China. The goal is to transform an otherwise sterile site into a thriving and vibrant city, where ecological rehabilitation is sensitively balanced with urban development. Singapore's proven successes in water management and recycling will allow us to contribute to devising water solutions for the Eco-city.<a href="#notes#notes"><sup>5</sup></a></p>  
   
@@ -140,30 +140,30 @@ will open up.
   
 <p>Looking ahead, Singapore needs to manage energy with the same attention we have paid to water. Global concern over climate change will increasingly see the emergence of a carbon-constrained world. The exploitation of traditional energy sources such as oil and gas could be curtailed by various geo-political and economic considerations. Many countries are today exploring the development of alternative energy sources such as hydro, geothermal, wind and solar. Although Singapore is also exploring clean or renewable energy, we face many constraints in exploiting alternative energy sources. Most forms of alternative energy are generated in situ. Unfortunately, Singapore's wind speed is too low for viability, and we lack access to either hydro or geothermal sources.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Singapore needs to manage  
 energy with the same attention  
 we have paid to water.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Solar energy is the most promising renewable resource for Singapore. However, the cost of solar-generated electricity is still about twice that of grid electricity generated from fossil fuels. Our approach is therefore to invest in solar research and test-bedding, to prepare for wider deployment when the cost of solar electricity falls. For example, the Housing and Development Board is embarking on a S$30 million project to test solar technology on the roofs of our public housing developments island-wide. The National Research Foundation has also allocated S$170 million to build up R&amp;D and manpower capabilities in clean energy. In addition to providing solutions for Singapore's energy needs, the clean energy sector is projected to add S$1.7 billion to GDP and create 7,000 jobs by 2015.</p>  
   
 <p>Deploying renewable energy resources is not the only tool to mitigate energy constraints. For an alternative energy disadvantaged country like Singapore, using energy more efficiently is as, if not more, important. By optimising energy use and conserving energy where we can, we reduce costs and increase overall competitiveness. Energy efficiency is also a key means to reduce greenhouse gas emissions. An International Energy Agency study showed that 11 member countries, which engaged in energy efficiency initiatives, achieved US$1.1 trillion (based on 2006 prices) of energy cost savings in 2006 alone.<a href="#notes#notes"><sup>12</sup></a></p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Cities that are good homes  
 for their residents are also  
 attractive to mobile global  
 talent and investments.  
-</em></h5>  
+	</p>  
   
-<hr>  
+</div>  
   
 <p>Singapore has ramped up efforts to improve national energy efficiency. Our target is to improve our energy intensity by 35% from 2005 levels, by 2030. As energy use is pervasive, we have adopted a holistic approach to improve energy efficiency across all key sectors of energy use—buildings, households, transport, industry and power generation. Thus far, we have focused on raising awareness of the benefits of energy efficiency, incentivising the adoption of energy efficient practices and building expertise in energy management. Going forward, we will need to do more by setting higher standards and leveraging fiscal tools to encourage energy conservation. For instance, the experiences of countries like Japan and Denmark are instructive: they attained high levels of energy efficiency and conservation through a holistic suite of policies including legislation, which sets minimum standards and requires the monitoring and reporting of energy data, energy taxes and the provision of incentives to kick-start industry development and R&amp;&amp;D.</p>  
   
@@ -181,7 +181,7 @@ talent and investments.
   
 <p>As a land- and water-scarce city-state, Singapore has had to overcome many constraints to enjoy the clean environment and quality of life we have today. With the continued growth of the global economy and population, and our own domestic growth, ever-increasing resource pressures necessitate a renewed emphasis on sustainable development. We do not have all the answers; there will be trade-offs to be made and dilemmas to be faced. These will require more creative management of resources and the development of more innovative solutions. While there may be some cost to conserving and improving the environment, there is a greater cost to inaction. Our collective efforts towards a more sustainable Singapore are crucial to fuel new areas of economic growth and secure a better home for future generations.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
@@ -189,7 +189,7 @@ talent and investments.
   
 <p class="small-text">The author would like to thank his Ministry colleagues Karen Tan and Diana Ng for their assistance in the preparation and research for the article.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -209,9 +209,6 @@ talent and investments.
 <li class="small-text">The Blueprint was issued by the Inter-Ministerial Committee on Sustainable Development, which comprises Ministers from the Ministries of National Development, Environment and Water Resources, Finance, Transport and Trade &amp; Industry. The Blueprint can be downloaded at <a href="../../Knowledge/Ethos/Issue%207%20Jan%202010/Pages/www.sustainablesingapore.gov.html">www.sustainablesingapore.gov.sg</a>.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
