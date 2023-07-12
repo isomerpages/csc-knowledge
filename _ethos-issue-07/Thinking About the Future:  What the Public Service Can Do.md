@@ -52,13 +52,18 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #346591;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
+.containerbox h3 {
+	color: #08a4cd;
+	}	
+	
+	
 li {
 	font-size: 15px !important;
 	
@@ -74,17 +79,17 @@ li {
   
 <p>Yet why do decision-makers, who have ready access to ample information, fail to respond to warning signals of imminent crises? Why, despite support from the public sector leadership, and years of scenario planning workshops, and with new tools like RAHS, are we still not fully adept in anticipating the future? How can government agencies better organise their strategic thinking about the future?</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 We miss out on signals not  
 only because of the limitations  
 of our tools and methods,  
 but also because of the nature  
 of human cognition.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>OBSTACLES IN ANTICIPATING STRATEGIC SURPRISES</h3>  
   
@@ -100,12 +105,12 @@ of human cognition.
   
   
   
-<p class="small-text text">Decision makers tend to discount <em>future</em> risks and contingencies, and place too much weight on present costs and benefits. Governments are also prone to <em>confirmation bias</em>, which is the tendency to pay attention only to data which is consistent with existing mental models.</p>  
+
   
   
   
   
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">WHY WE FAIL TO ANTICIPATE THE FUTURE</h3>  
