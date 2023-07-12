@@ -202,19 +202,19 @@ margin-top:15px;
 		<h3>Phases of Singapore’s Demographic Development Post-World War II</h3>
 		<b><i>by Koh Eng Chuan</i></b>
 		<p>An emerging phase of demographic development brings new challenges for Singapore.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-07/phases-of-singapores-demographic-development-post-world-war-ii/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_07/7_Teaser_Sustainable%20Development%20Challenges%20and%20Opportunities.jpg"></div>
 	<div>
 		<h3>Sustainable Development: Challenges and Opportunities</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Tan Yong Soon</i></b>
+		<p>Singapore should continue to invest in sustainable development to ensure dynamic growth and a liveable environment for the future, argues the Permanent Secretary for the Environment and Water Resources.</p>
+		<div class="button1"><a href="/ethos-issue-07/sustainable-development-challenges-and-opportunities/">Read more</a></div>
 	</div>
 </div>
 
