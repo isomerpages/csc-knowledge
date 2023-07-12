@@ -65,11 +65,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Alvin Pang</i></b>
+		<p>Buoyed by years of seemingly illimitable growth, corporate and public institutions in highly sophisticated economies pursued aggressive policies based — as it turned out — on risky, unsupported and less than prudent assumptions about the future. For this failed gamble, the world is still paying a price whose final sum has yet to be fully determined.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
