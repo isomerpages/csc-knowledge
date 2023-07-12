@@ -3,6 +3,15 @@ title: Leadership Development in the Singapore Public Service
 permalink: /ethos-issue-05/leadership-development-in-the-singapore-public-service/
 description: ""
 ---
+<style>
+	
+	
+</style>	
+
+
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Ethos_Images/Ethos_Issue_05/5_Banner_Leadership%20Development%20in%20the%20Singapore%20Public%20Service.jpg">
+
 
 <p>The Singapore public sector has long since recognised the importance of top leadership capability as a key driver for organisational excellence and performance. In a continuing effort to understand how leaders best learn, grow and develop, a joint research study, “Lessons of Experience: Singapore Public Service”, was conducted in 2007.<a href="#notes"><sup>1</sup></a></p>
 
@@ -133,4 +142,3 @@ Critical lessons on accountability, and managing and motivating staff are learnt
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
