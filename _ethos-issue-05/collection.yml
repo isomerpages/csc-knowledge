@@ -2,5 +2,6 @@ collections:
   ethos-issue-05:
     output: true
     order:
+      - "Global Talent: The War Goes On.md"
       - Foreword.md
       - Editorial.md
