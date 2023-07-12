@@ -94,16 +94,16 @@ li {
   
 <p>Third, there is no evidence that Singapore’s elections are corrupt. Indeed, international observers have consistently rated its government as one of the least corrupt in the world,<a href="#notes"><sup>6</sup></a> with elections that are “free from irregularities and vote rigging”.<a href="#notes"><sup>7</sup></a> The Global Barometer country report for Singapore finds that 86% of Singaporeans believe that their elections are either “completely free and fair”, or “free and fair, but with minor problems”.<a href="#notes"><sup>8</sup></a> So while decades of one-party electoral dominance is frequently a strong symptom of electoral corruption, this is not the case in Singapore.</p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 International observers have  
 consistently rated Singapore’s  
 government as one of the least  
 corrupt in the world.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>This is not to deny the many peculiarities of Singaporean politics.<a href="#notes"><sup>9</sup></a> My point is that these peculiarities are largely irrelevant as far as the Median Voter Model is concerned. In Singapore, voters are free to vote for opposition candidates, and opposition candidates can safely advocate the elimination of unpopular policies. In the Median Voter Model, this is all you need for the will of the people to prevail.</p>  
   
@@ -115,17 +115,17 @@ corrupt in the world.
   
 <p>Given Singapore’s many economic, political and cultural similarities to Hong Kong, it seems unlikely that Singaporean public opinion would be significantly better. Unfortunately, nothing comparable to the survey by Lau and Kuan exists for Singapore. But the 2002 World Values Survey<a href="#notes"><sup>13</sup></a> data suggests little reason to believe that the Singaporean electorate is unusually economically literate. Singaporeans and Americans have virtually the same beliefs about the social benefits of competition,<a href="#notes"><sup>14</sup></a> and Singaporeans are more likely to accept income inequality as a trade-off for better incentives.<a href="#notes"><sup>15</sup></a> Yet Singaporeans are actually less sympathetic to private enterprise than Americans,<a href="#notes"><sup>16</sup></a> and seem to favour a much more restrictive approach to immigration than do Americans.<a href="#notes"><sup>17</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">   
 Many of Singapore’s successful  
 policies would be considered  
 unpopular around the world,  
 but they persistently survive the  
 democratic test in Singapore.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>There is admittedly some indication that Singaporeans are unusually concerned about economic performance. The survey showed that 58.8% of Singaporeans say that “a high level of economic growth” should be their nation’s top priority; 48.6% of Americans say the same.<a href="#notes"><sup>18</sup></a> Similarly, only 37.9% of Singaporeans—versus 65.2% of Americans—think it would be a “good thing” if people put “less emphasis on money and material possessions”.<a href="#notes"><sup>19</sup></a> Once Singaporeans recognise the economic benefits of a policy, they seem more willing to support it. Still, at this point, the case for the “unusual economic literacy” hypothesis looks rather weak.</p>  
   
@@ -143,17 +143,17 @@ democratic test in Singapore.
   
 <p>Critics seem to endorse the deference hypothesis, suggesting that the “success of the government in the economy” has lent it a significant “performance legitimacy”.<a href="#notes"><sup>27</sup></a> Compared to Americans, Singaporeans show little interest in “giving people more say”; just 19.7% make this a top priority, compared to 32.6% of Americans.<a href="#notes"><sup>28</sup></a></p>  
   
-<hr>  
+<div class="break">  
   
-<h5><em>  
+<p class="break1">  
 The secret to Singapore’s  
 success seems to lie in its  
 electorate’s “party preference”  
 for a ruling party that takes  
 economic reasoning seriously.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>While the deference story does fit well, there is also considerable evidence that resignation is also at play. Singaporeans’ unusually low professed interest in politics is telling.<a href="#notes"><sup>29</sup></a> The stereotype of the apolitical Singaporean appears to have much basis in fact.</p>  
   
@@ -173,13 +173,13 @@ economic reasoning seriously.
   
 <p>The case of Singapore is a fascinating challenge to time-tested models of how democracy works. But more importantly, the mechanisms underlying Singaporean political economy are probably at work in every democracy. These mechanisms are not unique to Singapore, just uniquely visible.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Dr Bryan Caplan</strong> is Associate Professor of Economics at the Department of Economics, Center for Study of Public Choice, and Mercatus Center, George Mason University. Dr Caplan is the author of <em>The Myth of the Rational Voter: Why Democracies Choose Bad Policies</em>, published in 2007 by Princeton University Press. It was named “the best political book this year” by <em>the New York Times</em> and a Best Book of 2007 by the <em>Financial Times</em>. His articles have appeared in the <em>American Economic Review</em>, the <em>Economic Journal</em>, the <em>Journal of Law and Economics</em>, the <em>Wall Street Journal</em>, the <em>New York Times</em> and the <em>Washington Post</em>.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -214,10 +214,7 @@ economic reasoning seriously.
 <li class="small-text">World Values Survey variable identifier E003.</li>  
 <li class="small-text">Only 3.2% of Singaporeans say they are “very interested” in politics, and another 32.8% say that are “somewhat interested”; in the US, the corresponding numbers are 18.3% and 47.2% (World Values Survey variable identifier E023). The World Values Survey consistently finds that compared to Americans, Singaporeans are extremely reluctant to engage in even low-level political participation, such as signing a petition or attending a rally (World Values Survey variable identifiers E025 and E027).</li>  
 </ol>  
-  
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
