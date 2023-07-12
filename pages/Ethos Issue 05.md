@@ -94,11 +94,13 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_Teaser_Rethinking%20a%20New%20Social%20Compact%20for%20Singapore.jpg"></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
-		<h3>Rethinking a New Social Compact for Singapore</h3>
-		<b><i>Yeoh Lam Keong</i></b>
-		<p>To address globalisation’s unprecedented challenges, Singapore may need to rethink—and not just tweak—its social safety net.</p>
+		<h3>Global Talent: The War Goes On</h3>
+		<b><i>Pushp Deep Gupta</i></b>
+		<p>In 2008, Hewitt Associates was commissioned by Singapore’s Ministry 
+of Manpower to conduct wide-ranging research on current and future talent challenges with a special focus on Asia. In this article,  
+they highlight key findings from their research.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/rethinking-a-new-social-compact-for-singapore/">Read more</a></div>
 	</div>
 </div>
