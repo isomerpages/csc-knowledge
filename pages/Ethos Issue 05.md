@@ -136,11 +136,12 @@ challenges of managing talent in Asia today.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_05/5_Teaser_Accelerating%20the%20Growth%20of%20the%20Asian%20Leader.jpg"></div>
 	<div>
-		<h3>Poverty, Capabilities and Social Justice</h3>
-		<b><i>Interview with Martha C. Nussbaum</i></b>
-		<p>The renowned social philosopher discusses her concept of essential human capabilities, and their implications for dealing with poverty and social development.</p>
+		<h3>Accelerating the Growth of the Asian Leader</h3>
+		<b><i>Bruce J. Avolio and Peter Ong</i></b>
+		<p>Research from Gallup suggests that the emerging Asian workforce 
+may benefit from a different model of leadership development.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/poverty-capabilities-and-social-justice/">Read more</a></div>
 	</div>
 </div>
@@ -148,11 +149,13 @@ challenges of managing talent in Asia today.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Ethos_Images/Ethos_Issue_03/3_teaser_the%20nordic%20social%20security%20model-%20squaring%20the%20circle.jpg"></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_05/5_Teaser_Leadership%20Development%20in%20the%20Singapore%20Public%20Service.jpg"></div>
 	<div>
-		<h3>The Nordic Social Security Model: Squaring the Circle?</h3>
-		<b><i>Koh Tsin Yen</i></b>
-		<p>The Nordic states appear to have achieved an enviable balance between strong economic growth and generous welfare provisions, but they too face new pressures from globalisation.</p>
+		<h3>Leadership Development in the Singapore Public Service</h3>
+		<b><i>Ong Perng Yih</i></b>
+		<p>A ground-breaking research study on public sector leadership in 
+Singapore highlights the importance of leadership impact and 
+challenging work assignments on staff development and performance.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-nordic-social-security-model-squaring-the-circle/">Read more</a></div>
 	</div>
 </div>
