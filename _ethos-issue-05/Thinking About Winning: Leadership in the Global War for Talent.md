@@ -3,6 +3,15 @@ title: "Thinking About Winning: Leadership in the Global War for Talent"
 permalink: /ethos-issue-05/thinking-about-winning-leadership-in-the-global-war-for-talent/
 description: ""
 ---
+<style>
+	
+	
+</style>	
+
+
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
+
 
 <p>At a company like GE, which is over 130 years old, leadership and people management go hand in hand. We pull talented people together and focus on developing five growth traits: external focus, clear thinking, imagination, inclusiveness and expertise.</p>
 
@@ -73,4 +82,3 @@ You need to be able to motivate employees by giving them jobs that have the poss
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
