@@ -872,10 +872,7 @@ in the population.
 <li class="small-text">Yeoh noted that social integration concerns may arise from differences within racial categories as it becomes "inflected by differences in nationality and history". For example, the Chinese community now is not going to be the same as the Chinese community a generation later with the migrants coming in. Yeoh, B. "Migration, International Labour and Multicultural Policies in Singapore." Asia Research Institute Working Paper No 19. February 2004. <a href="https://ari.nus.edu.sg/">https://ari.nus.edu.sg/</a></li>  
 <li class="small-text">Singapore Department of Statistics 2009. Population Trends 2009. <a href="https://www.singstat.gov.sg/">https://www.singstat.gov.sg/</a>, accessed 30 November 2009.</li>  
 </ol>  
-  
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
