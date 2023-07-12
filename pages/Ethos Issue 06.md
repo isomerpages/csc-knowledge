@@ -185,36 +185,36 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Auctions, Market Experiments and Public Policy</h3>
-		<b><i></i></b>
+		<b><i>Interview with Professors Vernon L. Smith, Stephen Rassenti and Bart Wilson</i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-06/auctions-market-experiments-and-public-policy/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_06/6_Teaser_Rethinking%20Incentives%20for%20the%20Downturn.jpg"></div>
 	<div>
 		<h3>Rethinking Incentives for the Downturn</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Stephen Choo</i></b>
+		<p>Management approaches that engage and enable employees are needed more than ever in a downturn, argues Hay Group’s Stephen Choo</p>
+		<div class="button1"><a href="/ethos-issue-06/rethinking-incentives-for-the-downturn/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_06/6_Teaser_Singapore%20Political%20Economy%20Two%20Paradoxes.jpg"></div>
 	<div>
 		<h3>Singapore’s Political Economy: Two Paradoxes</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Bryan Caplan</i></b>
+		<p>Economist Bryan Caplan, noted for his insights on public choice, visited Singapore in November 2008. His observations address how “economically efficient, but politically unpopular” policies might successfully be carried through a democratic system, and sheds light on the environment in which public policy is made and implemented in Singapore.</p>
+		<div class="button1"><a href="/ethos-issue-06/singapores-political-economy-two-paradoxes/">Read more</a></div>
 	</div>
 </div>
 
