@@ -72,15 +72,15 @@ li {
   
 <p>Singapore’s economic growth model of the past forty-odd years, like those of its fellow “Asian tigers”, has been based on the export of initially labour-intensive manufactures to world markets, followed by a move up te technology and valueadded ladders as comparative advantage shifts. Like Korea, Taiwan and Japan, economic development in Singapore has been substantially state-directed and features a managed-float currency regime; like Hong Kong, it is based on free trade and capital flows.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">  
 Should Singapore rethink  
 its growth strategy for a  
 post-crisis world?  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Over the past two decades however, Korea and Taiwan have reduced the state’s role in their economies, while Hong Kong is still the world’s freest economy. Singapore’s economy, on the other hand, continues to be firmly statedirected while diversifying into highvalue services, with heavy reliance on an imported workforce. Most notably absent, outside of banking and property, is the strong domestic private sector participation that is such a distinctive feature in Japan, Korea, Taiwan and Hong Kong.</p>  
   
@@ -96,18 +96,18 @@ post-crisis world?
   
 <p>Comparative and competitive advantage both allow for government policy to influence a location’s competitiveness in particular sectors— through selective investments that shape resource endowments, and tax incentives and subsidies to target resource allocation toward particular sectors.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">  
 As an economy moves up  
 the technology ladder, the  
 capital and opportunity cost  
 of further state directed shifts  
 in comparative or competitive  
 advantage escalates.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>However, these policies can be imitated with relative ease, leading to “beggar-my-neighbour” outcomes<a href="#notes"><sup>1</sup></a> (where neighbouring countries compete to attract foreign investors with ever more attractive and costly tax breaks) and excess capacity.</p>  
   
@@ -151,18 +151,19 @@ advantage escalates.
   
 <p>First, there should be a national conversation on the purpose and nature of economic growth for an affluent and educated nation at our stage of development, and in our geographical location. While Singapore’s economic growth record to date has been admirable, it has emphasised quantitative targets over qualitative results and the distribution among beneficiaries. Focusing on “how much” growth does not necessarily tell us “how good” it is, or “for whom”. “People for growth” (growth as an end in itself) is not the same as “growth for people” (growth as a means toward greater welfare for people, presumably citizen workers and consumers). The assumption that the former will inevitably lead to the latter should itself be re-examined.</p>  
   
-<hr>  
   
-<h5><em>  
+<div class="break">
+
+<p class="break1">  
 While Singapore’s economic  
 growth record to date has been  
 admirable, it has emphasised  
 quantitative targets over qualitative  
 results and the distribution  
 among beneficiaries.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Second, the growth we choose should be sustainable—both financially (i.e., without ongoing subsidies in an intensely competitive world economy, and without generating inflation through the import of excess labour and capital) and environmentally (i.e., without creating congestion costs and negative externalities that undermine competitiveness and growth, in a world already running up against severe natural resource constraints).</p>  
   
@@ -170,13 +171,13 @@ among beneficiaries.
   
 <p>A time of global crisis and transformation, and of impending major economic, social and demographic shifts in our region, is an excellent time to reexamine not just Singapore’s economic growth model, but also our identity and values as a nation, since growth and identity are ultimately linked.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Linda Lim</strong> is Professor of Strategy at the Ross School of Business, University of Michigan. This article was adapted from a talk given at the annual Singapore Economic Policy Conference on 24 October 2008, organised by the Singapore Centre for Applied and Policy Economics (SCAPE), National University of Singapore.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -206,9 +207,7 @@ among beneficiaries.
 <li class="small-text">Lim, Linda and Lee, Soo Ann, “Globalising State, Disappearing Nation: The Impact of Foreign Participation in Singapore’s Hub Economy”, in Management of Success Revisited, ed. Terence Chong (Singapore: Institute of Southeast Asian Studies, 2009) (forthcoming).</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
