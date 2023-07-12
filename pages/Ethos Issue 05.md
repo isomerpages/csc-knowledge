@@ -167,7 +167,7 @@ challenging work assignments on staff development and performance.</p>
 	<div>
 		<h3>Talent on Demand: Managing Talent in an Age of Uncertainty</h3>
 		<b><i>Toh Boon Kwan</i></b>
-		<p>Singapore’s system of social security is based on enabling self-reliance, supported by strong family and social networks.</p>
+		<p></p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-argument-for-the-singapore-model/">Read more</a></div>
 	</div>
 </div>
@@ -179,7 +179,7 @@ challenging work assignments on staff development and performance.</p>
 	<div>
 		<h3>Who’s Your City? How the Creative Economy Is Making Where to Live the Most Important Decision of Your Life</h3>
 		<b><i>Cai Shan</i></b>
-		<p>Singapore’s system of social security is based on enabling self-reliance, supported by strong family and social networks.</p>
+		<p></p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-argument-for-the-singapore-model/">Read more</a></div>
 	</div>
 </div>
