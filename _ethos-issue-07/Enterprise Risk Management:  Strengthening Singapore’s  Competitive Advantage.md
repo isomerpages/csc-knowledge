@@ -52,13 +52,17 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #a32e18;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
+.containerbox h3 , .containerbox strong , .containerbox h4 {
+	color: white;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -177,19 +181,18 @@ In Level 3, where even the dimensions of risk cannot be fathomed, seizing opport
   
   
   
-<h5>FIGURE 5: STRATEGY CANVAS: TRADING-OFF RISKS AND OPPORTUNITY</h5>  
+
   
-<p style="text-align: center;" class="small-text text"><img title="10g4a" src="../../images/default-source/ethos-images/ethos-issue-7/10g4a.gif?sfvrsn=ee6138a3\_0" data-displaymode="Original" alt="Figure 5"></p>  
-  
-  
+
   
   
-<div class="container">  
+  
+<div class="containerbox">  
   
   
 <h3 class="title">Strategy Canvas: From Police to Policing</h3>  
 <h3>FIGURE 5: STRATEGY CANVAS: TRADING-OFF RISKS AND OPPORTUNITY</h3>  
-<p style="text-align: center;"><img title="10g4a" src="../../images/default-source/ethos-images/ethos-issue-7/10g4ad92ba6a2949041c29623f3798e29b56e.gif?sfvrsn=b96cd188\_0" data-displaymode="Original" alt="Figure 5 (popup)"></p>  
+<p style="text-align: center;"><img title="10g4a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10g4a.gif" data-displaymode="Original" alt="Figure 5 (popup)"></p>  
 <p>In the chart above, the areas in which value is given up represent the risk which is taken, given limited resources, in order to create value in other areas.</p>  
 <p>  
 In the example of the Singapore Police Force, the entire frontline policing system was overhauled in the late 1990s and upgraded in the mid 2000s. While the iconic Neighbour Police Post system<a href="#notestes"><sup>1</sup></a> was working well, SPF decided that the future would not be reached through perfecting past approaches, and it deliberately reduced counter services to redirect resources to areas such as public education and problem-solving capabilities. In doing so, instead of only having 13,000 full-time police officers to safeguard Singapore, the SPF potentially recruited all 5 million Singaporeans in the fight against crime and terrorism.</p>  
@@ -234,13 +237,13 @@ In the example of the Singapore Police Force, the entire frontline policing syst
   
 <p>The ability of ERM to raise issues that cut across organisational boundaries and unify by offering a common platform for analysis and discussion makes it a very useful framework for the WOG strategic planning process, across different levels of organisation and layers of uncertainty. ERM also focuses attention on possible turbulent events: offering a powerful strategic edge to any country that has to navigate an ever more unpredictable and complex world. Singapore, with a nimble, integrated and able Government, can seize this initiative to position itself as a leading country at the global forefront of coping with Turbulence.</p>  
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text">Senior Assistant Commissioner <strong>Ang Hak Seng</strong> joined the Singapore Police Force in 1986 and has assumed leadership positions in units involved in operations, intelligence and frontline policing. He is the current Senior Director of Planning and Development and Director of International Cooperation. Senior Assistant Commissioner Ang holds a M.Sc (MOT) from the Massachusetts Institute of Technology and attended the Advanced Management Program at Harvard University. He is also a chartered accountant by training. He is leading a Civil Service project team commissioned by the Organisational Excellence Committee (OEC) on enterprise risk management. The views expressed in this article are his own.</p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
@@ -250,9 +253,7 @@ In the example of the Singapore Police Force, the entire frontline policing syst
 <li class="small-text">Blue Ocean thinking, coined by W. Chan Kim and Renee Mauborgne, refers to challenging the norm, moving out of one's comfort zone and exploring uncharted space so as to spur creative and intellectual breakthroughs.</li>  
 </ol>  
   
-<br>  
-  
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
