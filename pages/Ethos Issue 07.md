@@ -104,9 +104,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Looking for Trouble</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Gary Klein</i></b>
+		<p>It is not just that weak signals are hard to detect and understand. They are also hard to communicate and difficult to take seriously, warns naturalistic decision making guru Gary Klein.</p>
+		<div class="button1"><a href="/ethos-issue-07/opinion-looking-for-trouble/">Read more</a></div>
 	</div>
 </div>
 
@@ -116,9 +116,9 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: The Future of Futures</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Devadas Krishnadas</i></b>
+		<p>The next stage in the evolution of futures thinking could come from coordination across multiple domains, with a careful mix of capabilities.</p>
+		<div class="button1"><a href="/ethos-issue-07/opinion-the-future-of-futures/">Read more</a></div>
 	</div>
 </div>
 
