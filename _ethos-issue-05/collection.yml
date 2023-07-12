@@ -2,6 +2,7 @@ collections:
   ethos-issue-05:
     output: true
     order:
+      - "Sharpening Singapore’s Edge: Insights from the IBM Experience.md"
       - "Developing Human Capital: Insights from the Summit.md"
       - "The Global Talent War: Why Singapore Needs to Get Serious About
         Branding Itself.md"
