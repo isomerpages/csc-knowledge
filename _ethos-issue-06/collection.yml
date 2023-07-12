@@ -2,6 +2,7 @@ collections:
   ethos-issue-06:
     output: true
     order:
+      - The End of the World (Economy) as We Know It.md
       - Auctions, Market Experiments and Public Policy.md
       - Rethinking Incentives for the Downturn.md
       - "Singapore’s Political Economy: Two Paradoxes.md"
