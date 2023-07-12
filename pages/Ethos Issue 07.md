@@ -128,56 +128,56 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Opinion: Mainstreaming the Praxis of Foresight: The UK Example</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Calvin Chong and Jeremy Tan</i></b>
+		<p>The UK Government’s approach to futures thinking emphasises communication, engagement and broad application.</p>
+		<div class="button1"><a href="/ethos-issue-07/opinion-mainstreaming-the-praxis-of-foresight-the-uk-example/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_07/7_Teaser_Enterprise%20Risk%20Management%20Strengthening%20Singapore's%20Advantage.jpg"></div>
 	<div>
 		<h3>Enterprise Risk Management: Strengthening Singapore’s Competitive Advantage</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Ang Hak Seng</i></b>
+		<p>ERM could serve as a shared platform for understanding complexity and assessing trade-offs at the whole-of-government level.</p>
+		<div class="button1"><a href="/ethos-issue-07/enterprise-risk-management-strengthening-singapores-advantage/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_07/7_Teaser_Rethinking%20Recovery%20Possible%20Discontinuities%20and%20Implications%20for%20Singapore.jpg"></div>
 	<div>
 		<h3>Rethinking Recovery: Possible Discontinuities and Domestic Implications</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Godwin Tang and Valerie Yuen</i></b>
+		<p>Analysts from the Strategic Policy Office consider how the global economy might evolve in the next decade.</p>
+		<div class="button1"><a href="/ethos-issue-07/rethinking-recovery-possible-discontinuities-and-domestic-implications/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Issue_07/7_Teaser_Thinking%20About%20the%20Future%20What%20the%20Public%20Service%20Can%20Do.jpg"></div>
 	<div>
 		<h3>Thinking About the Future: What the Public Service Can Do</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Peter Ho</i></b>
+		<p>How can the Public Service overcome cognitive and institutional hindrances to anticipating strategic surprises? In the following excerpt from his 2009 Strategic Perspectives Conference keynote address, Head of Civil Service Peter Ho charts the way forward.</p>
+		<div class="button1"><a href="/ethos-issue-07/thinking-about-the-future-what-the-public-service-can-do/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Singapore: The Apple of Nations—A Conversation with Peter Schwartz</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>ETHOS roundtable with Peter Schwartz</i></b>
+		<p>PETER SCHWARTZ , QUAH LEY HOON and KWEK MEAN LUCK</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
