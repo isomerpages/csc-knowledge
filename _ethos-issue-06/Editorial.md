@@ -66,7 +66,7 @@ li {
 
 </style>
 
-<em><small>ETHOS Issue 07, Jan 2010</small></em>
+<em><small>ETHOS Issue 06, July 2009</small></em>
 <img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
   
