@@ -77,16 +77,16 @@ li {
   
 <p>The years leading up to the financial crisis were marked by very benign economic conditions leading to structural imbalances in the global economy. At the global level, the developed economies saw strong growth in credit growth and private consumption, while the level of savings plummeted.<a href="#notes"><sup>1</sup></a> Emerging economies redirected their excess savings to finance consumption in developed economies. This cycle reinforced trade interdependence between the G3 nations (US, Japan and the European Union) and emerging Asian economies and meant that the Asian economic growth became more, rather than less, dependent on G3 growth.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">  
 It has become increasingly  
 clear that the global economy  
 will not revert to its pre-crisis  
 status quo.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>The current financial and economic crisis has unravelled this intertwined relationship, which the historian Niall Ferguson has described as “Chimerica”.<a href="#notes"><sup>2</sup></a> Consumption in the US has fallen, perhaps for the foreseeable future.<a href="#notes"><sup>3</sup></a> Exports from Asia to the developed countries have collapsed. Singapore has been affected severely, with its economy expected to experience its largest contraction since 1965. To date, Singapore’s economic success has largely been attributed to the openness of its economy and its concentration on activities which largely serve G3 demand. But with the unravelling of “Chimerica” bringing long-term change to the global demand landscape, Singapore, along with much of Asia, is likely to face significant challenges in the post-crisis future.</p>  
   
@@ -100,7 +100,7 @@ status quo.
 <li><strong>Creeping protectionism</strong> could reduce the overall level of global trade and affect the main mechanism that has supported Chimerica’s prosperity. Blatant forms of protectionism, such as tariff wars, seem less likely. But more subtle forms of protectionism, embedded as clauses in many fiscal stimulus plans, may hinder the free flow of trade too.</li>  
 </ul>  
   
-<p style="text-align: center;"><img title="9j2a" src="../../images/default-source/ethos-images/ethos-issue-6/9j2a.jpg?sfvrsn=b9fd7e07\_0" data-displaymode="Original" alt="Figure 1"></p>  
+<p style="text-align: center;"><img title="9j2a" src="/images/Ethos_Images/Ethos_Issue_06/Fig_9j2a.jpg" data-displaymode="Original" alt="Figure 1"></p>  
   
 <h3>THE CHANGING LANDSCAPE OF GLOBAL DEMAND: POSSIBLE SCENARIOS</h3>  
   
@@ -113,7 +113,7 @@ status quo.
 <p>This scenario is not a return to a stable status quo. A quick revival of Chimerica means that there will be less will to deal with the structural imbalances that led to the crisis in the first place. The persistence of these imbalances and the intensification of demand on limited resources and commodities increase the likelihood of asset bubbles and crashes, and volatile, unstable growth over the long run. Business cycles, which have already become shorter over the last ten years, will shrink even more. In this world, Singapore, as a small and vulnerable open economy, will have to deal with the impact of a volatile, unstable global macroeconomic environment.</p>  
 </blockquote>  
   
-<p style="text-align: center;"><img title="9j2b" src="../../images/default-source/default-album/9j2b.jpg?sfvrsn=1303d49e\_0" data-displaymode="Original" alt="Figure 2"></p>  
+<p style="text-align: center;"><img title="9j2b" src="/images/Ethos_Images/Ethos_Issue_06/ethos_issue_06_9j2b.PNG" data-displaymode="Original" alt="Figure 2"></p>  
   
 <blockquote style="margin-right: 0px;" dir="ltr">  
 <h4>• Scenario 2: Chasm</h4>  
