@@ -54,7 +54,7 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue07.jpg"></div>
 	<div>
 		<h3><span class="cat">Issue 07, January 2010</span><br>ETHOS Issue 07</h3>
 		<p></p>
@@ -65,12 +65,12 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<b><i>by Alvin Pang</i></b>
+		<p>The future remains humanity's most enduring dilemma. The survival and success — or failure and decline — of ventures, organizations, and nations have always depended on how present actions might be expected to play out down the road, it is for this reason that those who govern or lead are tasked with the responsibility for foresight</p>
+		<div class="button1"><a href="/ethos-issue-07/editorial/">Read more</a></div>
 	</div>
 </div>
 
