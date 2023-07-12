@@ -3,6 +3,8 @@ title: Editorial
 permalink: /ethos-issue-05/editorial/
 description: ""
 ---
+<em><small>ETHOS Issue 05, Nov 2008</small></em>
+<img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
 <p>This thematic issue of Ethos continues the important conversations raised at the inaugural Singapore Human Capital Summit, held in October 2008. It examines more closely some of the many issues that face leaders, developers and observers of human capital today.</p>
 
@@ -34,4 +36,3 @@ description: ""
 <br>
 
 <p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
