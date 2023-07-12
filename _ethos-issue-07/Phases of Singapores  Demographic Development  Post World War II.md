@@ -75,21 +75,24 @@ li {
   
 <p>From a population of 1 million in 1950, Singapore's resident population, comprising citizens and permanent migrants, has grown more than three and a half times to 3.7 million in 2009 (5.0 million, if foreigners with permits<a href="#notes"><sup>1</sup></a> are included). Singapore's demographic change from the late 1940s can be differentiated into three phases characterised by distinct population trends and socioeconomic developments, with a fourth phase now emerging.</p>  
   
-<p style="text-align: center;"><img title="10l1a" src="../../images/default-source/ethos-images/ethos-issue-7/10l1a.gif?sfvrsn=7604828a\_0" data-displaymode="Original" alt="Table 1. Characteristics of Singapore's Demographic Phases"></p>  
+<p style="text-align: center;"><img title="10l1a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10l1a.gif" data-displaymode="Original" alt="Table 1. Characteristics of Singapore's Demographic Phases"></p>  
   
 <p>&nbsp;</p>  
   
-<p style="text-align: center;"><img title="10l1b" src="../../images/default-source/ethos-images/ethos-issue-7/10l1b.gif?sfvrsn=f68102ea\_0" data-displaymode="Original" alt="Figure 1. Population and Growth, 1950-2009"></p>  
+<p style="text-align: center;"><img title="10l1b" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10l1b.gif" data-displaymode="Original" alt="Figure 1. Population and Growth, 1950-2009"></p>  
   
-<hr>  
-  
-<h5><em>  
+<br>
+<br>
+	
+<div class="break">
+
+<p class="break1"> 
 Fertility had begun to fall even  
 before the family planning  
 measures were put in place.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h3>FERTILITY DECLINE REGARDLESS OF POLICY </h3>  
   
@@ -99,17 +102,17 @@ measures were put in place.
   
 <p>Secondly, <em>even with the reversal to a pro-natalist policy supporting childbearing from the late 1980s, fertility did not rise from its low levels</em>. The socioeconomic case for having a small family had become so strong that despite three rounds of measures by the Government,<a href="#notes"><sup>8</sup></a> fertility remained below 1.3 from 2003 to 2008. A well-educated population, ample job opportunities and expectations to work hard in a highly competitive environment had created strong forces making small families advantageous. Actualising any desire for a large family remained impractical for most.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Changes in the population,  
 society and economy were  
 already leading to a reduction  
 in the number of children  
 couples would have.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>Thirdly, we observe that <em>most low fertility societies around the world</em> (for example, Spain, Italy, Germany, but also Hong Kong and Japan) <em>did not have anti-natalist population policies to push fertility down</em>. What most of these societies had in common were a well-educated population or a rapid rise in the education profile of women, increasing ages at marriage and childbearing, and an economy that had been successful in creating jobs for its people.<a href="#notes"><sup>9</sup></a> Observers<a href="#notes"><sup>10,11</sup></a> have noted that socioeconomic conditions could already have provided a favourable basis to the success of family planning programmes. While family planning policies are likely to have contributed to Singapore's pace of fertility decline, they are secondary to the fact that changes in the population, society and economy were already leading to a reduction in the number of children couples would have.</p>  
   
@@ -121,15 +124,15 @@ couples would have.
   
 <p>Arising from a rapidly ageing population, continued low fertility and need for migrants,<a href="#notes"><sup>15</sup></a> a fourth phase of Singapore's demographic development is emerging. A key characteristic of the fourth phase is that the main source of population growth in Singapore will shift more and more from natural increase to net migration.<a href="#notes"><sup>16</sup></a> This is to be expected, as the Crude Death Rate is also likely to increase in the coming years as the baby boomers reach age 65 and above, and mortality starts to set in. Natural increase (i.e., births minus deaths) would fall towards zero with Singapore's below-replacement fertility, and migrant inflows will be needed to maintain population growth. The implications are discussed below.</p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Net migration will take over  
 natural increase as the main  
 source of population growth.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <h4>Addressing Lowest Low Fertility </h4>  
   
@@ -147,20 +150,20 @@ source of population growth.
   
 <p>The combined effect of low fertility and sustained migration will also mean that Singapore will undergo a huge age structure shift in the population. While this has been in the background for the third phase of demographic development, pronounced changes would only come after the post-war baby boomers reach age 65 years (Figure 2). The intake of permanent migrants in working ages from 1990 (third phase of demographic development) onwards will also start to reach age 65 from about year 2030, and will further raise the numbers of elderly in the population.</p>  
   
-<p style="text-align: center;"><img title="10l3a" src="../../images/default-source/ethos-images/ethos-issue-7/10l3a.gif?sfvrsn=7917f421\_0" data-displaymode="Original" alt="Figure 2. Population Age Structure, 1990, 2009 and 2030"></p>  
+<p style="text-align: center;"><img title="10l3a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10l3a.gif" data-displaymode="Original" alt="Figure 2. Population Age Structure, 1990, 2009 and 2030"></p>  
   
-<hr>  
-  
-<h5><em>  
+<div class="break">
+
+<p class="break1">
 Permanent migrants in  
 working ages from 1990  
 will start to reach age 65 from  
 year 2030 and will further  
 raise the numbers of elderly  
 in the population.  
-</em></h5>  
+</p>  
   
-<hr>  
+</div>  
   
 <p>With fertility below 1.3 and the new birth cohorts in the current 35,000 to 40,000 in the foreseeable future, the age structure imbalance will be accentuated. Singapore's dependency ratio will rise quickly in the near future, with the old dependency ratio overtaking the young dependency ratio in the future. </p>  
   
@@ -173,12 +176,11 @@ in the population.
   
   
   
-<p class="small-text text">&nbsp;</p>  
+
   
   
   
-  
-<div class="container">  
+<div class="containerbox">  
   
   
 <h3 class="title">THREE PHASES OF DEMOGRAPHIC DEVELOPMENT</h3>  
@@ -416,13 +418,13 @@ in the population.
 <h4>Phase II: Low Fertility, Low Mortality, Anti-Natalist Population Policy </h4>  
 <p>After a period of significant decline in CBR, Singapore experienced saw a gentler fall of the Crude Birth Rate (CBR) (Figure 1) during the second phase (1970s to mid-1980s). Crude Death Rate (CDR) was low at around 5 per 1,000 population. Life expectancy further increased and infant mortality fell. Singapore's population growth was stable, ranging from 1.3% to 1.9% per annum. </p>  
 <h3>FIGURE 1. CRUDE BIRTH RATE AND CRUDE DEATH RATE, 1950–2008</h3>  
-<p style="text-align: center;"><img title="10l5a" src="../../images/default-source/ethos-images/ethos-issue-7/10l5a.gif?sfvrsn=2f89c542\_0" data-displaymode="Original" alt="Figure 1. Crude Birth Rate and crude Death Rate, 1950-2008"></p>  
+<p style="text-align: center;"><img title="10l5a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10l5a.gif" data-displaymode="Original" alt="Figure 1. Crude Birth Rate and crude Death Rate, 1950-2008"></p>  
 <p>Source: Reports on Births and Deaths, Immigration and Checkpoints Authority.</p>  
 <p>This demographic development took place at the same time as newly independent Singapore was striving to provide for a sizeable young uneducated population and ensure sustainable economic growth. With the Government trying to manage population growth in line with economic resources, migrant inflow was kept to a minimum.</p>  
 <p>Despite falling fertility therefore, family planning services was introduced and measures were implemented to reduce the rate of population increase<a href="#notes"><sup>3</sup></a>. Population policies and family planning services were set in the broader context of managing the rate of population increase to reach the level that Singapore could cope with in terms of infrastructure, education and employment<a href="#notes"><sup>4</sup></a>. At the same time, the widespread availability of modern contraceptive methods made rational control of fertility possible<a href="#notes"><sup>5</sup></a>.</p>  
 <p>This second phase saw fertility falling below the ideal family size and also below replacement level (Figure 2). TFR thereafter remained below ideal family size, with the gap gradually widening in the third phase of demographic development.</p>  
 <h3>FIGURE 2. TOTAL FERTILITY RATE AND IDEAL FAMILY SIZE</h3>  
-<p style="text-align: center;"><img title="10l5b" src="../../images/default-source/ethos-images/ethos-issue-7/10l5b.gif?sfvrsn=7044cf1d\_0" data-displaymode="Original" alt="FIGURE 2. TOTAL FERTILITY RATE AND IDEAL FAMILY SIZE"></p>  
+<p style="text-align: center;"><img title="10l5b" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10l5b.gif" data-displaymode="Original" alt="FIGURE 2. TOTAL FERTILITY RATE AND IDEAL FAMILY SIZE"></p>  
 <p>Source: Reports on Births and Deaths, Immigration and Checkpoints Authority. </p>  
 <p>Ideal Family Size: Yap, M. T., "Population Policies and Programs in Singapore" in Population Policies and Programs in East Asia, ed. Andrew Mason (Hawaii: East-West Centre, 2001). Ideal Family Size 2007: author's survey results based on 754 respondents aged 25–39 years.</p>  
 <p>In 1975, fertility reached replacement level for the first time. Subsequently, sustained low fertility soon forced Singapore to re-examine its family planning and population policies.</p>  
@@ -430,7 +432,7 @@ in the population.
 <p>When fertility fell to a then historic low of 1.4 in 1986, the Government decided to completely and fully reverse its two-child policy, thus beginning a third phase in Singapore's demographic development. The focus was on getting the people to recognise that there were repercussions from sustained sub-replacement fertility levels since 1975<a href="#notes"><sup>6</sup></a>. The tagline in the late 1980s promoted "Have Three or More if You Can Afford It". By then, sub-replacement fertility levels had been around for just over 10 years.</p>  
 <p>Pro-natalist measures were set in place in 1987 with the hope of countering the strong downward pull on fertility<a href="#notes"><sup>7</sup></a>. A slight rise in TFR to around 1.8–1.9 was experienced in the initial years following the new policy (Figure 3). This was short-lived, and fertility and births continued the general downward trend, despite additional incentives in 2001 and 2004<a href="#notes"><sup>8</sup></a>.</p>  
 <h3>FIGURE 3. TFR AND POPULATION POLICIES</h3>  
-<p style="text-align: center;"><img title="10l6a" src="../../images/default-source/ethos-images/ethos-issue-7/10l6a.gif?sfvrsn=45b5a066\_0" data-displaymode="Original" alt="FIGURE 3. TFR AND POPULATION POLICIES"></p>  
+<p style="text-align: center;"><img title="10l6a" src="/images/Ethos_Images/Ethos_Issue_07/Fig_10l6a.gif" data-displaymode="Original" alt="FIGURE 3. TFR AND POPULATION POLICIES"></p>  
 <p>Source: Population Trends, various years, Singapore Department of Statistics. Ministry of Community Development, Youth and Sports.</p>  
 <p>Recognising that the local population could not be depended on for generational replacement, encouraging more migrants to Singapore was a natural policy option<a href="#notes"><sup>9</sup></a>. Table 2 shows that in the 1950s prior to independence, net migration was substantial; it supplemented the high rates of natural increase to produce extraordinarily high rates of population growth from 1947 to 1957. Only in the second phase of demographic development was migration turned off. In the third phase starting from the late 1980s, migration again became an important component of population growth. These were permanent settlers who had applied for long term residence with a view to stay, live and work in Singapore, akin to the early migrants<a href="#notes"><sup>10</sup></a>. By 2009, permanent residents accounted for approximately 11% of the total population.</p>  
 <h3>TABLE 2. COMPONENTS OF RESIDENT POPULATION GROWTH, SINGAPORE, 1947–2008</h3>  
@@ -837,13 +839,13 @@ in the population.
   
   
   
-<hr>  
+<div class="author">  
   
 <h6>ABOUT THE AUTHOR</h6>  
   
 <p class="small-text"><strong>Dr Koh Eng Chuan</strong> is Director of the Income, Expenditure and Population Statistics Division in the Department of Statistics, Ministry of Trade and Industry. He has a PhD in Demography from the Australian National University. His areas of interest are in marriage and fertility studies, as well as population trends and movements. He is also a visiting affiliate of the Asia Research Institute, National University of Singapore. The views expressed in this article are his own. </p>  
   
-<hr>  
+</div>  
   
 <h6><a name="notes"></a>NOTES</h6>  
   
