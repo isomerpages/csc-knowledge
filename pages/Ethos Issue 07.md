@@ -176,8 +176,8 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Singapore: The Apple of Nations—A Conversation with Peter Schwartz</h3>
-		<b><i>ETHOS roundtable with Peter Schwartz</i></b>
-		<p>PETER SCHWARTZ , QUAH LEY HOON and KWEK MEAN LUCK</p>
+		<b><i>ETHOS roundtable with Peter Schwartz, Quah Ley Hoon and Kwek Mean Luck</i></b>
+		<p>The ETHOS Roundtable brings together thought leaders and practitioners to discuss key issues of interest to the public service. In this session, renowned futurist and Global Business Network cofounder Peter Schwartz discusses Singapore’s prospects as a young city-state in a future where talent and innovation will determine success.&gt;</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
