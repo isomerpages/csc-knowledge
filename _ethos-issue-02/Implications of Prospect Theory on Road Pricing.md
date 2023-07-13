@@ -68,19 +68,6 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 	
-.adapted
-{
-border-bottom: 1px solid black;
-margin-top:40px;
-padding-bottom:30px;
-}	
-	
-.adapted p
-{
-	font-size: 0.9em;
-	line-height:24px !important;
-}
-	
 	
 .small-text
 {
