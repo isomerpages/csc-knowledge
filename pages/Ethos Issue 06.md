@@ -57,7 +57,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital06.jpg"></div>
 	<div>
 		<h3><span class="cat">Issue 06, July 2009</span><br>ETHOS Issue 06</h3>
-		<p></p>
+		<p>This issue of ETHOS marks the 10th anniversary of the Asian Financial Crisis in October 2007 and reviews the lessons from the crisis. Featuring Peter Shergold, Bradford Delong, Linda LIm and Manu Bhaskaran.</p>
 		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-06.pdf">Download PDF</a></div>
 	</div>
 </div>
