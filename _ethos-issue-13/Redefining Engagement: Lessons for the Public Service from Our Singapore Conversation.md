@@ -127,7 +127,7 @@ li {
 <p><a name="greybox"></a><strong>Notes</strong></p>  
 <ol>  
 <li class="small-text">  
-    See: http://www.reach.gov.sg/Microsite/osc/index.html and https://www.facebook.com/OurSGConversation  
+    See: http://www.reach.gov.sg/Microsite/osc/index.html and <a href="https://www.facebook.com/OurSGConversation">https://www.facebook.com/OurSGConversation </a> 
     </li>  
 <li class="small-text">  
     Prime Minister Lee Hsien Loong's National Day Message 2012 (English).  
