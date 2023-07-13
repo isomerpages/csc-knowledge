@@ -4,7 +4,7 @@ permalink: /ethos-issue-05/global-talent-the-war-goes-on/
 description: ""
 ---
 <style>
-	.back a
+.back a
 {
 	color: #9f2943;
 	font-weight: bold;
@@ -215,4 +215,3 @@ The fundamental agreement of service between employer and employee is changing.
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
