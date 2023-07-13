@@ -5,7 +5,67 @@ permalink: /ethos-issue-05/the-global-talent-war-why-singapore-needs-to-get-seri
 description: ""
 ---
 <style>
+
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
 	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #ececda;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}	
+.containerbox h3 {
+	color: #b192a4;
+	}
+li {
+	font-size: 15px !important;
+	
+	}		
 	
 </style>	
 
@@ -27,13 +87,13 @@ description: ""
 
 <p>Strategic to these imperatives is a campaign to brand Singapore as a talent destination. A unique brand proposition targeted at global talent would single out Singapore as the unequivocal choice among competitor cities. When graduates from leading universities begin job hunting, or when investors and entrepreneurs are looking for a place to invest and set up their businesses, we want Singapore to be top-of-mind. We want talent to think of Singapore not just as the ideal place for them to be but the only place to be.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We want Singapore to be top-of-mind. We want talent to think of Singapore not just as the ideal place for them to be but the only place to be.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>WHY BRANDING?</h3>
 
@@ -41,13 +101,13 @@ We want Singapore to be top-of-mind. We want talent to think of Singapore not ju
 
 <p>The American Marketing Association defines a brand as a “name, term, sign, symbol or design, or a combination of them intended to <em>identify</em> the goods and services of one seller or group of sellers and to <em>differentiate</em> them from those of other sellers”<a href="../../Knowledge/Ethos/Issue%205%20Nov%202008/Pages/The-Global-Talent-War-Why-Singapore-Needs-to-Get-Serious--about-Branding-Itself.html#notes"><sup>1</sup></a> (italics are author’s own). Branding Singapore as a talent destination is useful and necessary to forming our global identity. It gives a recognisable face to the many opportunities we offer. It is part of cultivating the perception of our status as a global first world city—a necessary prerequisite for attracting the talent that we will need.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Consistency is messaging, experience and perceptions of Singapore as a talent destination is crucial to winning mindshare.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>A strong brand identity differentiates us from the rest of our competitors. Japan is known for its hardworking workforce, China for its abundant, cheap labour and Germany for its science and technology base. Singapore has long cultivated a reputation for an efficient workforce, but that is clearly no longer a sufficiently unique factor. Branding presents an untapped opportunity to distinguish and strengthen our competitive advantages.</p>
 
@@ -71,13 +131,13 @@ Consistency is messaging, experience and perceptions of Singapore as a talent de
 
 <p>What truly sets Singapore apart from other cities is the quality of life found here. The Quality of Living Index survey by Mercer Human Resource Consulting rated Singapore the best place to live in Asia for personal safety.<a href="../../Knowledge/Ethos/Issue%205%20Nov%202008/Pages/The-Global-Talent-War-Why-Singapore-Needs-to-Get-Serious--about-Branding-Itself.html#notes"><sup>3</sup></a> Good and affordable healthcare, education, transportation, safety and security are all positives that influence the decisions of companies and individuals considering a move to Singapore. These attributes should be integral to Singapore’s branding as a talent hub.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Growing the promise of a brand that will attract global talent needs time, but the results are long-lasting and far-reaching.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Beyond being safe, clean and comfortable, we are also becoming an urban playground. The staging of the Formula One Grand Prix Night Race, the impending launch of two Integrated Resorts, the introduction of the Singapore Flyer and a myriad of new lifestyle, dining and entertainment options all contribute to upping the fun factor. This liveability factor lends further credence to the brand proposition that Singapore is a place where global talent and their families can not only work, but also live and play.</p>
 
@@ -87,14 +147,15 @@ Growing the promise of a brand that will attract global talent needs time, but t
 
 <p>However, one agency needs to hold the reins for the entire branding effort to be cohesive. Contact Singapore, whose portfolio promotes Singapore holistically, not just its industry, tourism, healthcare or education, for talent attraction, can play this role. The ultimate objective is greater than the sum of its parts—only when the Singapore brand calls to mind “the place where the best come to work, invest and live”, then we are on the right path to winning the global talent war.</p>
 
-<hr>
+
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Ng Siew Kiang</strong> is the Executive Director at Contact Singapore, an alliance of the Singapore Economic Development Board (EDB) and the Ministry of Manpower. Ms Ng has been with the EDB for 15 years in various key appointments. Her most recent appointments were as Director of Human Resources, and prior to that, as Deputy Director in the Chemicals cluster. Before joining EDB, Ms Ng was with AT Kearney, an international consulting firm. She has a Bachelor in Chemical Engineering from the National University of Singapore and a Masters in Business Administration from the Massachusetts Institute of Technology.</p>
 
-<hr>
-
+</div>
+	
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
@@ -105,4 +166,8 @@ Growing the promise of a brand that will attract global talent needs time, but t
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
