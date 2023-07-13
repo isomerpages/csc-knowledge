@@ -5,6 +5,67 @@ permalink: /ethos-issue-05/how-the-creative-economy/
 description: ""
 ---
 <style>
+
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
+	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #ececda;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}	
+.containerbox h3 {
+	color: #b192a4;
+	}
+li {
+	font-size: 15px !important;
+	
+	}	
 	
 	
 </style>	
@@ -32,13 +93,13 @@ description: ""
 
 <p>"Means migration" describes the re-location of highly educated and skilled people to the small number of metropolitan areas ("means metros") and the corresponding exodus of the lower to middle classes outward from these places. </p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+
+<p class="break1">
 If two talent hubs start off with similar economic conditions and talent clusters, how will they compete such that one (or both) emerges as the winner?
-</em></h5>
-
-<hr>
+</p>
+</div>
 
 <p>The powers of agglomeration and "preferential attachment" (in which creative people attract other inventive people) explain why these peaks continue to ascend, and grow closer together,
 while the "valleys" sink and diverge. In effect, the clustering force sorts   locations into a hierarchy, by concentrating not only talent but also jobs, industries and firms within   regions, on an unprecedented scale. </p>
@@ -53,13 +114,12 @@ while the "valleys" sink and diverge. In effect, the clustering force sorts   lo
 
 <p>But why should happiness be important? Florida draws attention to studies demonstrating that place happiness “activates” people to do more and engage in more creative activities that spur economic growth, in a regenerative cycle. So could the geographical clustering of personality types explain regional growth and innovation? </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
-The global sorting of locations is not just based on jobs, education and skills, but also on basic personality types.
-</em></h5>
+<p class="break1">
+	The global sorting of locations is not just based on jobs, education and skills, but </p>
 
-<hr>
+</div>
 
 <p>
 The answer, according to Florida’s data, is a resounding yes. He finds that not only do personality variables explain a substantial portion of regional variance in innovation, talent, income and even housing values, an “open-to-experience” personality is the most consistently linked to regional economic growth. </p>
@@ -72,13 +132,12 @@ Openness is also associated with curiosity which predicts where creative people 
 
 <p>At the end of the book, Florida attempts to make the book of practical use by including a self-help section to guide people in their decisions on the best places to live, particularly for the three big moves they will face in life: when they graduate from college, when they have children, and when their children leave home. The basic considerations—economic opportunity, basic services, security and aesthetics—are necessary but assumed. Instead, the implication Florida makes is that people will move to places that fit their evolving needs as their life phases change, and that places (including cities) will develop specialisations in the life stage they fit best.</p>
 
-<hr>
-
-<h5><em>
+<div class="break">
+<p class="break1">
 We should seek to understand what Singapore's personality is and how it plays out in the global mindshare.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Whose city is Singapore?</h3>
 
@@ -91,13 +150,13 @@ We should seek to understand what Singapore's personality is and how it plays ou
 <p>
 The answer is probably young people. Florida describes regions in the US which attract young people as not only as emerging winners in the competition for talent, but also gaining a long-term economic and demographic first-mover advantage that is difficult to catch up with. There is only a small window of opportunity. While young people are the most likely to move of any demographic group, their propensity to re-locate declines sharply with age. Taking account of this effect, the Ministry of Manpower introduced the Work Holiday Programme in 2008 to make it easier for young global talent to work and holiday in Singapore. In the long run, we will need to broaden and deepen our outreach to young students and professionals overseas, an effort which agencies such as Contact Singapore are spearheading.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Our talent strategy will have to encompass softer, intangible factors that matter to people.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>
 So will Singapore come to specialise as a place for the young? Probably not. There are several cities which Florida identifies as “generalist places” which not only appeal to people across different life stages but also have thriving economies and societies. Two prime examples of “generalist” locations are the San Francisco Bay area and Boston. On the other hand, Florida and Arizona are “specialised” regions drawing many wealthy retiring baby boomers. </p>
@@ -115,13 +174,14 @@ Talent retention is an issue Florida does not dwell on. However, he does note th
 
 <p><span class="mainTEXT">Florida’s <em>Who’s Your City?</em> delivers a persuasive, well researched and cogent argument for the key importance of location in today’s global economy, albeit one centred mainly on US cities. Nevertheless, it should convince readers to ask themselves the question more often: “Where should I choose to live?” For policymakers, the burning question might be: “How can we become the place where the best talent would choose to live?” </span></p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Cai Shan</strong> is a Manager in the International Manpower Division (Policy), Ministry of Manpower, Singapore. She is currently pursuing postgraduate studies at Harvard University in the US.</p>
 
-<hr>
+</div>
+	
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -129,4 +189,9 @@ Talent retention is an issue Florida does not dwell on. However, he does note th
 <li class="small-text">The Sun Belt is a geographic region commonly perceived to stretch across the south and southwest of the United States, which has seen substantial population growth in recent decades, partly fuelled by a surge in retiring baby boomers who have migrated domestically, as well as the influx of migrant workers.</li>
 </ol>
 
-<p><a href="../ethos.html">Back to Ethos homepage</a></p>
+
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
