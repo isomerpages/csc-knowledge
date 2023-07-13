@@ -15,20 +15,26 @@ description: ""
 	width:100%;
 }
 	
-	
 
-.brown
+.break
 {
-background-color: #663919;	
-padding: 30px;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
 }
 	
-.brown h5	
+.break1
 {
-	color: white;
-	text-align: center;
-	font-size: 24px;
-}	
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+	
+	
+
 
 .boxheader {
 	color: white !important;
@@ -98,12 +104,12 @@ workforce and the world of work. Collectively, powerful global forces—such as 
 
 <p>While some of the above global talent challenges, such as skills shortages and the rising cost of human capital are not new, other challenges such as workforce diversity, changing employment contracts and disengaged workers are becoming more prevalent than ever. In our view, organisations will have to take note of the unique effect these challenges will have on their respective efforts to hire and build organisational capability.</p>
 
-<div class="brown">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The war for talent was deemed to be a strategic business challenge and a critical driver of corporate performance.
-</em></h5>
-
+</p>
+	
 </div>	
 	
 
@@ -122,11 +128,16 @@ The war for talent was deemed to be a strategic business challenge and a critica
 <p>Our research reveals that a shift is occurring in the Asian business context as a result of changing values and culture. In traditional Asian business, a more autocratic rather than democratic, and more paternalistic rather than egalitarian, management style prevails. The emerging Asian workforce, however, is influenced by Western management styles, and tends to be dissatisfied with a more authoritarian style of management, preferring instead an open and independent approach.</p>
 
 
-<div class="brown">
+<div class="break">
+	
+<div class="break1">	
 <h5><em>
 An increase in workforce diversity means that different groups of employees have widely differing expectations and aspirations.
 </em></h5>
+
 </div>
+</div>	
+	
 
 <p>As a result, employers are increasingly struggling to engage their Generation Y employees who are ever more mobile and willing to change jobs. According to our research, building an engaged workforce is a top talent management challenge for all respondents across Singapore, Shanghai, and Bangalore. </p>
 
