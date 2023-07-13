@@ -2,6 +2,7 @@ collections:
   world-cities-summit-issue:
     output: true
     order:
+      - A City in a Garden.md
       - "Transformative Investments:  Remaking American Cities for  a New
         Century.md"
       - The Environment as Capital.md
