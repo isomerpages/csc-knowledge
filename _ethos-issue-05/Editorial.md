@@ -4,7 +4,73 @@ permalink: /ethos-issue-05/editorial/
 description: ""
 ---
 <style>
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
 	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #B7C9E2;
+	border-radius: 10px;
+	padding: 5%;
+	
+	}	
+
+li {
+	font-size: 0.9em !important;
+	
+	}	
+	
+.notestop
+{
+border-top:1px solid black;	
+}
+
+.notestop ol
+{
+font-size: 16px;	
+}	
 	
 </style>	
 
@@ -30,15 +96,19 @@ description: ""
 
 <p>I wish you a productive and enjoyable read.</p>
 
-<h4>Alvin Pang</h4>
 
-<p>Editor
-<br>
-<strong>ETHOS</strong>
-<br>
-<a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>
-</p>
+
+<br>  
+  
+  
+<b>Dr Alvin Pang</b><br>
+Editor-in-Chief, ETHOS
+<br>  
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
