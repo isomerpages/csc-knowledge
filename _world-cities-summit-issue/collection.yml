@@ -2,6 +2,7 @@ collections:
   world-cities-summit-issue:
     output: true
     order:
+      - Achieving Sustainable  Urban Development.md
       - The Twin Pillars of  Estate Rejuvenation.md
       - Designing Urban Journeys.md
       - Waste Management and  Economic Growth.md
