@@ -4,6 +4,68 @@ permalink: /ethos-issue-05/leadership-development-in-the-singapore-public-servic
 description: ""
 ---
 <style>
+
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
+	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #ececda;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}	
+.containerbox h3 {
+	color: #b192a4;
+	}
+li {
+	font-size: 15px !important;
+	
+	}		
+	
 	
 	
 </style>	
@@ -25,13 +87,13 @@ description: ""
 
 <p>The developmental lessons derived from work experience varied according to the type of work assignments. Specifically, experiencing an increase in scope (for example, first supervisory responsibility) enabled a leader to learn more about managing and motivating staff. For leaders who undergo job rotations, they also gained a greater awareness of their abilities, preferences, limitations and preferred leadership styles. It was found that public sector leaders learnt to operate and network effectively across different agencies—a core competency in public sector work by being immersed in boundary-spanning work regardless of whether the boundaries were within the organisation, between organisations, or with external stakeholders.</p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+<p class="break1">
 The developmental lessons derived from work experience varied according to the type of work assignments.
-</em></h5>
+</p>
+</div>
 
-<hr>
 
 <p>The significance of work assignments on leadership learning suggests a degree of initiative and reflection amongst Singapore public sector leaders. The new situations they found themselves in encompassed uncertainty and challenges in which they had to experiment and take risks in trying to adapt and cope with an unfamiliar situation. The more successful leaders were able to rise to the occasion and go on to learn from these experiences.</p>
 
@@ -108,13 +170,13 @@ is likely to be important for the public sector.<span style="display: inline-blo
 
 <p>The findings highlighted that bosses have a significant and lasting impact on their staff’s leadership development. Specifically, critical lessons on accountability, and managing and motivating staff are learnt through developmental relationships with bosses. As such, we need to leverage more on this in our leadership development programmes. This would entail education so that bosses are more aware of their impact and are consequently more deliberate in taking an active role in the leadership development of their direct reports. It would also mean helping bosses develop skills to faster positive relationships that will motivate, inspire, and develop their staff.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Critical lessons on accountability, and managing and motivating staff are learnt through developmental relationships with bosses.
-</em></h5>
+</p>
+</div>
 
-<hr>
 
 <p>From the perspective of leadership development programmes, the findings are compelling and suggest the need to focus more attention on how best to incorporate “challenging assignments” into the programmes so as to raise the effectiveness and relevance of coursework and training. The impact of bosses and the informal but significant roles they play for their subordinates also suggest that a greater emphasis on “leading and developing others” may be required in structured coursework and training. </p>
 
@@ -124,13 +186,13 @@ Critical lessons on accountability, and managing and motivating staff are learnt
 
 <p>The study has provided many insights into the leadership learning process, particularly in highlighting the value of challenging job assignments and the significant impact of bosses and superiors on staff. The challenge now is to structure and deliver these insights as learning experiences for current and future leaders. This will continue to be an on-going field of research, as the Singapore Public Service strives to understand how public sector leaders best learn, develop and perform.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Ong Perng Yih</strong> is a Senior Manager in CSC Consultants, a department within the Civil Service College which provides focused and in-depth consulting services in the areas of talent assessment, organisation, people development and leadership development, and interventions to help public sector agencies on their journey towards people and organisational excellence. Ms Ong was part of the research team which analysed the findings from the study.</p>
-
-<hr>
+	
+</div>	
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -141,4 +203,8 @@ Critical lessons on accountability, and managing and motivating staff are learnt
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
