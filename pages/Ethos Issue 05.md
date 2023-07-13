@@ -57,7 +57,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Images/Ethos_Issue_03/ETHOS03.jpg"></div>
 	<div>
 		<h3><span class="cat">Issue 05, Nov 2008</span><br> ETHOS Issue 05</h3>
-		<p></p>
+		<p>In the global "War for Talent", what more can organisations, cities and even nations do, to win in the attraction, retention, management and harnessing of talent? Featuring Jeffrey R. Immelt, Lynda Gratton, Geoff Armstrong and John Kao.</p>
 <br>		
 <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-05">Download PDF</a></div>
 	</div>
