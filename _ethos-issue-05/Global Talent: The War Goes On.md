@@ -4,7 +4,68 @@ permalink: /ethos-issue-05/global-talent-the-war-goes-on/
 description: ""
 ---
 <style>
+	.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
 	
+	
+
+.brown
+{
+background-color: #663919;	
+padding: 30px;
+}
+	
+.brown h5	
+{
+	color: white;
+	text-align: center;
+	font-size: 24px;
+}	
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #B7C9E2;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}	
+
+li {
+	font-size: 15px !important;
+	
+	}	
+	
+.notestop
+{
+	font-size: 15px;
+	line-height:22px !important;
+}	
+	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}		
 	
 </style>	
 
@@ -12,94 +73,146 @@ description: ""
 <em><small>ETHOS Issue 05, Nov 2008</small></em>
 <img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
-<p>Singapore has been largely discreet in its efforts to attract talent and investments. The Government tends to work through its agencies to establish contacts to bring industry heavy-hitters to our shores. While this approach has served us well in the past, we can no longer afford to be subtle. As competition from our regional and global competitors escalates, we need to leverage on every avenue available to us to promote ourselves as a location of choice for the world’s best talent.</p>
 
-<h3>THE CHALLENGE AT HAND</h3>
+<p>The term “war for talent” was coined by McKinsey &amp; Company in 1997 as part of a research study on how companies manage leadership talent. The war for talent was deemed to be a strategic business challenge and a critical driver of corporate performance. Then, when the dot-com bubble burst and the economy cooled, many assumed the war for talent was over. However, the intense competition for talent persisted.</p>
 
-<p>Talent has been and continues to be a key resource pillar of Singapore’s economic strategy. Without the luxury of land, natural resources or a large indigenous workforce, we rely heavily on the collective brainpower and resources of both our own people and those whom we can attract to work, invest and live here. Now, more than ever, we need to tap the professional skill sets of global talent, including Singaporeans residing overseas, who can help propel emerging sectors in Singapore—such as biomedical sciences, clean technology, interactive digital media and financial services—on to the world map; as well as create new areas of growth for Singapore. </p>
+<p>In today’s global economic environment, it is tempting to reach the same conclusion as was reached at the end of the dot-com era, but we believe that it will be the wrong conclusion to reach, yet again. In this article, we outline major findings from the research and highlight the fact that human resource (HR) and business leaders cannot take it easy—they will continue to face talent challenges, albeit of a newer shape and kind.</p>
 
-<p>This is a challenge because of the nature of skilled talent—there is a limited pool that is highly sought-after and highly mobile. From London to Moscow, Shanghai to Dubai, headhunters are reporting a global shortage as countries aggressively woo professionals to grow emerging sectors in their own economies. </p>
+<h3>GLOBAL TALENT CHALLENGES</h3>
 
-<p>Singapore and its various government agencies, such as the Economic Development Board (EDB), Ministry of Manpower and Contact Singapore, will need to make a concerted effort not just to create favourable conditions for working, investing and living for global talent and their families, but also to showcase why talent should choose Singapore above any of our regional and global competitors. </p>
+<p>Research has confirmed that across the globe, significant demographic, <br>
+economic, socio-political, and technological changes are dramatically altering the <br>
+workforce and the world of work. Collectively, powerful global forces—such as changes in birth rates, retirement trends, technological advances, rising global competition, more liberal trade and migration policies—are radically altering the way we need to think about our workforce and manage our human capital.</p>
 
-<p>Strategic to these imperatives is a campaign to brand Singapore as a talent destination. A unique brand proposition targeted at global talent would single out Singapore as the unequivocal choice among competitor cities. When graduates from leading universities begin job hunting, or when investors and entrepreneurs are looking for a place to invest and set up their businesses, we want Singapore to be top-of-mind. We want talent to think of Singapore not just as the ideal place for them to be but the only place to be.</p>
+<p>Our research shows that the future of work and the next-generation workforce will be characterised by the following themes:</p>
 
-<hr>
+<ol>
+<li><strong>Workforce Diversity</strong>: From compliance to inclusion, managing a workforce that varies in age, gender, race, ehtnicity, nationality, religion, lifestyles and life paths is becoming a top priority.</li>
+<li><strong>Skills Shortages and Surpluses</strong>: An ageing workforce, less experienced and smaller younger generations, downsizing, declines in investment in training and education, and poor workforce and succession planning are some reasons contributing to skill shortages as well as surpluses. </li>
+<li><strong>Global Work and Workforce</strong>: Companies and jobs are being re-located across the globe. There is a proliferation of global nomads and student migrants. Electronic immigration is becoming more common, meaning that more workers are able to and are choosing to take jobs in other nations and work virtually.</li>
+<li><strong> Virtual Work and Workforce</strong>: Technology is re-defining the workday and workplace. Remote working and virtual teaming are on the rise. Workers are switching between work and non-work in new ways—for instance, working through their commutes, through their nights, or through their vacations, thanks to technological advancements in communications and IT.</li>
+<li><strong>Autonomous and Empowered Workers</strong>: Workers are focused on individual employability. They seek to be more powerful in the job market and more influential on the job.</li>
+<li><strong>Changing Employment Contracts and Disengaged Workers</strong>: Increased workloads and work hours, compensation cuts, intense productivity pressures and transactional relationships are some reasons for employee disengagement, calling employers to re-visit the overall employment deal.</li>
+<li><strong>Human Resource Costs and Return on Investment Pressures</strong>: The cost of human capital is increasing, while HR budgets are shrinking. Internal HR is under pressure to become a business partner and faces competition from HR consulting and outsourcing providers.</li>
+</ol>
 
-<h5><em>
-We want Singapore to be top-of-mind. We want talent to think of Singapore not just as the ideal place for them to be but the only place to be.
-</em></h5>
+<p>While some of the above global talent challenges, such as skills shortages and the rising cost of human capital are not new, other challenges such as workforce diversity, changing employment contracts and disengaged workers are becoming more prevalent than ever. In our view, organisations will have to take note of the unique effect these challenges will have on their respective efforts to hire and build organisational capability.</p>
 
-<hr>
-
-<h3>WHY BRANDING?</h3>
-
-<p>We have made the difficult transition from the third world to the first in a matter of decades, but our metamorphosis is far from complete. With the building of a new financial district in Marina Bay, the construction of the Integrated Resorts, the expansion of biomedical facilities and info-comms hub, we need more and more professional talent, with more specialised skill sets to realise the potential of our structural transformation. And in the league of first world cities, this competition for talent is all the more intense. </p>
-
-<p>The American Marketing Association defines a brand as a “name, term, sign, symbol or design, or a combination of them intended to <em>identify</em> the goods and services of one seller or group of sellers and to <em>differentiate</em> them from those of other sellers”<a href="../../Knowledge/Ethos/Issue%205%20Nov%202008/Pages/The-Global-Talent-War-Why-Singapore-Needs-to-Get-Serious--about-Branding-Itself.html#notes"><sup>1</sup></a> (italics are author’s own). Branding Singapore as a talent destination is useful and necessary to forming our global identity. It gives a recognisable face to the many opportunities we offer. It is part of cultivating the perception of our status as a global first world city—a necessary prerequisite for attracting the talent that we will need.</p>
-
-<hr>
-
-<h5><em>
-Consistency is messaging, experience and perceptions of Singapore as a talent destination is crucial to winning mindshare.
-</em></h5>
-
-<hr>
-
-<p>A strong brand identity differentiates us from the rest of our competitors. Japan is known for its hardworking workforce, China for its abundant, cheap labour and Germany for its science and technology base. Singapore has long cultivated a reputation for an efficient workforce, but that is clearly no longer a sufficiently unique factor. Branding presents an untapped opportunity to distinguish and strengthen our competitive advantages.</p>
-
-<p>Putting in place an overarching brand proposition that encapsulates Singapore’s attributes as a talent destination would help align the messages of Singapore’s various government agencies, create opportunities for synergy with other Singapore branding efforts and importantly, would deliver a consistent message to the intended audience. Collectively, consistency in messaging, experience and perceptions of Singapore as a talent destination is crucial to winning mindshare in the long term.</p>
-
-<p>Branding a country as a talent destination is a challenging and long-term undertaking. Singapore’s history is replete with examples of how the foresight of our economic planners has borne fruit over time, for example, the land reclamation of the Jurong Island, the decentralisation of the city centre and the building of satellite towns throughout Singapore. Likewise, growing the promise of a brand that will attract global talent needs time, but the results are long-lasting and far-reaching. Singapore does not have the luxury of allowing market forces to dictate the shape of our economy. Successful branding as a talent destination is one of the ways we can be proactive in shaping how the rest of the world perceives our economic status and viability.</p>
-
-<h3>BUILDING THE BRAND PROMISE: SINGAPORE'S STRENGTH</h3>
-
-<p>As it stands, Singapore already enjoys some competitive advantages to becoming a global talent hub that a branding campaign can capitalise on.</p>
-
-<h4><em>Professional Appeal</em></h4>
-
-<p>Focus group studies of foreigners working in Singapore suggest that global talent is largely motivated by better career prospects. Today, Singapore is home to over 7,000 multinational corporations, about half of whom have regional or global headquarters here. They operate in a pro-business environment with transparent legislation, strong infrastructure, political stability and attractive tax regimes. Key industry sectors are anticipating continued expansion and new investments, leading to rapid job creation at middle to senior levels. </p>
-
-<p>Professionals based here also benefit from Singapore’s Global Schoolhouse programme, which has seen the entry of several internationally renowned educational institutions, offering plenty of opportunities for professional upgrading, executive education as well as networking. From a professional development standpoint, Singapore is a great place to be.</p>
-
-<p>For investors, the Government is rolling out the red carpet as well. A range of programmes, like the Global Investor Programme, Financial Investor Scheme and the Entrepass scheme,<a href="../../Knowledge/Ethos/Issue%205%20Nov%202008/Pages/The-Global-Talent-War-Why-Singapore-Needs-to-Get-Serious--about-Branding-Itself.html#notes"><sup>2</sup></a> is already in place. They demonstrate that the Government is serious in its bid to encourage enterprising and successful foreign businessmen to call Singapore home.</p>
-
-<h4><em>The Liveability Factor</em></h4>
-
-<p>What truly sets Singapore apart from other cities is the quality of life found here. The Quality of Living Index survey by Mercer Human Resource Consulting rated Singapore the best place to live in Asia for personal safety.<a href="../../Knowledge/Ethos/Issue%205%20Nov%202008/Pages/The-Global-Talent-War-Why-Singapore-Needs-to-Get-Serious--about-Branding-Itself.html#notes"><sup>3</sup></a> Good and affordable healthcare, education, transportation, safety and security are all positives that influence the decisions of companies and individuals considering a move to Singapore. These attributes should be integral to Singapore’s branding as a talent hub.</p>
-
-<hr>
+<div class="brown">
 
 <h5><em>
-Growing the promise of a brand that will attract global talent needs time, but the results are long-lasting and far-reaching.
+The war for talent was deemed to be a strategic business challenge and a critical driver of corporate performance.
 </em></h5>
 
-<hr>
+</div>	
+	
 
-<p>Beyond being safe, clean and comfortable, we are also becoming an urban playground. The staging of the Formula One Grand Prix Night Race, the impending launch of two Integrated Resorts, the introduction of the Singapore Flyer and a myriad of new lifestyle, dining and entertainment options all contribute to upping the fun factor. This liveability factor lends further credence to the brand proposition that Singapore is a place where global talent and their families can not only work, but also live and play.</p>
+<h3>ASIAN TALENT CHALLENGES: COMING OF AGE</h3>
 
-<h3>WHAT'S NEXT?</h3>
+<p>Asia is not immune to talent challenges. While the Asian region holds much promise for organisations as far as high growth is concerned, major factors are expected to shape the world of work in this region for years to come. Our research uncovered the top three challenges—capability, culture and contract—facing Asian businesses:</p>
 
-<p>To execute a highly visible and wide-ranging branding exercise involves the efforts of various ministries and statutory boards of the Singapore Government. So, it is imperative to develop a brand proposition that clearly spells out the attributes that make Singapore a talent destination. This will help each government agency to align with and incorporate the branding message while pursuing its own agency goals. For example, trade bodies can publish advertorials about working and investing in Singapore; the education ministry can showcase the facelifts that public schools have undergone; the Singapore Economic Development Board (EDB) can target companies to set up shop in Singapore and Contact Singapore can woo business leaders and entrepreneurs to do business here. </p>
+<h4><em>Capability</em></h4>
 
-<p>However, one agency needs to hold the reins for the entire branding effort to be cohesive. Contact Singapore, whose portfolio promotes Singapore holistically, not just its industry, tourism, healthcare or education, for talent attraction, can play this role. The ultimate objective is greater than the sum of its parts—only when the Singapore brand calls to mind “the place where the best come to work, invest and live”, then we are on the right path to winning the global talent war.</p>
+<p>Demographic drivers such as age, education, gender and migration are contributing to Asia’s capability crisis and causing a tight labour market, especially for skilled professionals and critical talent. This is because across Asia, skills demand is outgrowing education supply; even in countries like India and China where one-third of the world population resides, skilled talent is in short supply because university graduates lack the level of skills needed by global corporations. This is exacerbated by the fact that the skill sets required by organisations are ever-changing and expand even in a rapidly shifting business environment. </p>
 
-<hr>
+<p>Companies are also facing a severe crisis at the leadership level. The ability to develop future leaders is one key concern; our research pointed out that the greatest capability-building challenge is building leadership talent in their respective organisations. The other major issue pertains to the capability of current leaders. For instance, our research suggests that Asian managers tend to be technically sound but are short on communication and people management skills.</p>
+
+<h4><em>Culture</em></h4>
+
+<p>Our research reveals that a shift is occurring in the Asian business context as a result of changing values and culture. In traditional Asian business, a more autocratic rather than democratic, and more paternalistic rather than egalitarian, management style prevails. The emerging Asian workforce, however, is influenced by Western management styles, and tends to be dissatisfied with a more authoritarian style of management, preferring instead an open and independent approach.</p>
+
+
+<div class="brown">
+<h5><em>
+An increase in workforce diversity means that different groups of employees have widely differing expectations and aspirations.
+</em></h5>
+</div>
+
+<p>As a result, employers are increasingly struggling to engage their Generation Y employees who are ever more mobile and willing to change jobs. According to our research, building an engaged workforce is a top talent management challenge for all respondents across Singapore, Shanghai, and Bangalore. </p>
+
+<p>The critical theme for managing engangement in organisations is "Diversity". An increase in workforce diversity means that different groups of employees have widely differing expectations and aspirations. For example, high levels of remuneration, fast-paced growth and open communication are some of the things taken for granted by young employees who are entering the workforce during a time of relative plenty. Conversely, older employees, who constitute a significant proportion of the workforce, are more moderate in their expectations and continue to place value on employment aspects such as job stability and a culture of respect and seniority.</p>
+
+<h4><em>Contract</em></h4>
+
+<p>In Asia, the fundamental agreement of service-the "employment promise" or the "performance contract" between employer and employee-is dramatically changing, and a new employment relationship is evolving. The old deal was simple and universal: it valued experience and loyalty. The players were dependent and worked effectively in a command-and-control environment. </p>
+
+<p>However, the new playing field values performance and customer orientation. Talented Asian workers have an unprecedented ambition for fast-track growth and the willingness to work for it. The players are more independent and desire greater empowerment, challenging work and flexibility.</p>
+
+<div class="brown">
+<h5><em>
+The fundamental agreement of service between employer and employee is changing.
+</em></h5>
+</div>
+
+
+<p>Sustaining satisfaction is therefore a huge challenge. Employees demand genuine and compelling career opportunities as a means to remain employable and ensure professional growth. However, there is a compelling perception among employees that they lack opportunity. In fact, one in every two employees in Asia does not see a future with their current organisation; average employee tenure is low.</p>
+
+<p>Given the current struggle to attract talent in Asia, many employers have no choice but to comply with employee demands for attractive reward packages. Pay is also being used as a retention mechanism, with organisations making counter-offers in order to retain the staff they need, which, in their view, is less costly than having to locate, attract and hire a qualified replacement.</p>
+
+<h3>EMERGING HUMAN CAPITAL IMPERATIVES</h3>
+
+<p>As part of our analysis of key workforce trends, we have identified human capital imperatives critical for future-focused organisations. These themes, appplicable globally, emerged through our extensive research and interviews with leading talent and thought leaders across the globe. Specifically, our research focused on three key questions: </p>
+
+<ol>
+<li>How should companies and organisations today manage their human capital, from both strategic and operational standpoints? What are the talent priorities they must get right?</li>
+<li>What are the most effective and innovative practices by leading companies in managing the talent challenge? </li>
+<li>Looking out at the next five to nineteen years, what can be predicted about the future of work, and how organisations will be managing their workforce? </li>
+</ol>
+
+<p>Emerging from our research, we believe that these represent a global perspective of the most pressing issues impacting future organisations and workforces around the world. We present the identified human capital imperatives under three categories:</p>
+
+<h4><em>Programmes</em></h4>
+
+<p>Organisations need to create high impact solutions for key talent programmes, which include: </p>
+
+<ul>
+<li>strategic sourcing; </li>
+<li>global talent management; </li>
+<li>customised rewards; </li>
+<li>high-value learning; </li>
+<li>and opportunities for growth.
+    </li>
+</ul>
+
+<h4><em>People</em></h4>
+
+<p>Organisations need to develop high performance and engaging cultures by: </p>
+
+<ul>
+<li>developing leaders; </li>
+<li>cultivating sustainable relationships; </li>
+<li>building new manager capabilities; </li>
+<li>supporting work flexibility; </li>
+<li>and facilitating inclusive and unified work environments.</li>
+</ul>
+
+<h4><em>Performance</em></h4>
+
+<p>Organisations need to deploy strategic processes for managing the HR function. These include: </p>
+
+<ul>
+<li>practising evidence-based HR; </li>
+<li>creating an employee value proposition; </li>
+<li>engaging in continuous foresight and planning; </li>
+<li>managing corporate citizenship and stakeholder connections; </li>
+<li>and developing global HR capabilities.</li>
+</ul>
+
+<h3>CONCLUSION </h3>
+
+<p>The workforce is in the midst of an unstoppable and dramatic transformation. These changes will influence how the work is performed, where it is performed and what skills are required. To survive and be ahead of the competition, organisations will need to be aware of their talent challenges and have the right human capital strategies and practices in place.</p>
+
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
-<p class="small-text"><strong>Ng Siew Kiang</strong> is the Executive Director at Contact Singapore, an alliance of the Singapore Economic Development Board (EDB) and the Ministry of Manpower. Ms Ng has been with the EDB for 15 years in various key appointments. Her most recent appointments were as Director of Human Resources, and prior to that, as Deputy Director in the Chemicals cluster. Before joining EDB, Ms Ng was with AT Kearney, an international consulting firm. She has a Bachelor in Chemical Engineering from the National University of Singapore and a Masters in Business Administration from the Massachusetts Institute of Technology.</p>
+<p class="small-text"><strong>Pushp Deep Gupta</strong> is a Regional Consultant in the area of leadership. He has been working with Hewitt Associates for the past nine years in a variety of roles in consulting and internal HR across three countries. He moved from India to Malaysia, and then to Singapore where he was responsible for setting up the HR function for Hewitt Associates. He now leads the "Top Companies for Leaders Study" for the Asia-Pacific region, and teaches courses on consulting and management at the National University of Singapore's Business School.  </p>
 
-<hr>
-
-<h6><a name="notes"></a>NOTES</h6>
-
-<ol>
-<li class="small-text">American Marketing Association, <a>http://www.marketing power.com/</a></li>
-<li class="small-text">The Global Investor Programme and the Financial Investor Scheme are programmes for foreign investors with substantial capital and entrepreneurial track record who wish to apply for permanent resident status in Singapore through making economic contributions. The Entrepass is an Employment Pass for foreign entrepreneurs who would like to start a business in Singapore and be actively involved in its operations. Information on the programmes can be found at <a href="https://www.edb.gov.sg/">https://www.edb.gov.sg/</a></li>
-<li class="small-text">Mercer Human Resource Consulting, Quality of Living Global City Rankings, 2007. </li>
-</ol>
+</div>
 
 <br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
