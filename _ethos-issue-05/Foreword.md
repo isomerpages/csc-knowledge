@@ -4,7 +4,73 @@ permalink: /ethos-issue-05/foreword/
 description: ""
 ---
 <style>
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
 	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #B7C9E2;
+	border-radius: 10px;
+	padding: 5%;
+	
+	}	
+
+li {
+	font-size: 0.9em !important;
+	
+	}	
+	
+.notestop
+{
+border-top:1px solid black;	
+}
+
+.notestop ol
+{
+font-size: 16px;	
+}	
 	
 </style>	
 
@@ -40,10 +106,19 @@ description: ""
 
 <p>In the development of new thinking on Asian human capital strategies, more research needs to be done to generate new knowledge on what works, and how effective approaches can be contextualised for application by companies operating in Asia. This is an area to which Singapore is keen to contribute. </p>
 
-<h4>Leo Yip</h4>
-
-<p>Permanent Secretary,
 <br>
-<strong>Ministry of Manpower</strong></p>
 
-<p><a href="../ethos.html">Back to Ethos homepage</a></p>
+  
+<b>Leo Yip</b><br>
+Permanent Secretary, Ministry of Manpower
+<br>  
+
+
+
+
+
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
