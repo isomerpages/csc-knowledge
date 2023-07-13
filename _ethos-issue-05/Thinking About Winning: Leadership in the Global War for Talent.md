@@ -15,20 +15,23 @@ description: ""
 	width:100%;
 }
 	
-	
-
-.green
+.break
 {
-background-color: #669F53;	
-padding: 30px;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
 }
 	
-.green h5	
+.break1
 {
-	color: white;
-	text-align: center;
-	font-size: 24px;
-}	
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
 
 .boxheader {
 	color: white !important;
@@ -95,11 +98,11 @@ border-top: 1px solid black;
 <p>Considering the ongoing talent war, I would say attracting talent and retaining them continues to be a challenge. Being the seventh largest company in the US, and the 11th in the world, GE is a big target for top talents—companies everywhere want our people. So we invest in our people. We spend around $1.2 billion on training annually, grooming them on various levels at different career bands, and focusing on professional skills. We do classroom training, on-the-job mentoring and coaching. We are also accelerating overseas assignments where employees can further expand their multi-cultural skills and interpersonal relationships. For commercial and sales leadership roles, we provide commercial leadership skills and training in enabling managers to imagine, define and build new businesses across global markets in their primary businesses as well as in alternate new spaces or vertical markets. </p>
 
 
-<div class="green">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The best leaders in the world are good at identifying the vast array of talents and skills that are available to them and understanding how to blend and use all of these very unique skills and resources.
-</em></h5>
+	</p>
 
 </div>
 
@@ -109,11 +112,11 @@ The best leaders in the world are good at identifying the vast array of talents 
 
 <p>In the ASEAN region, there are strong labour protection laws. These can make the market more attractive, as regulations help to make talent pool pricing even more relevant to the market. At the end of the day, it is the government’s and every company’s role to safeguard the welfare of their constituencies and people. The ASEAN Economic Community 2015 integration initiative will be an important enabler to allow the migration of talents in prescribed occupations, for example, design engineers and medical technicians, across international borders within ASEAN. This proposed action by the governments in ASEAN will provide rapid deployment of key talents to high-growth sectors across the region, and support stable economic development, while providing competitive compensation benefits for individuals with special skills.</p>
 
-<div class="green">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Singaporeans are external thinkings who can help bridge economies within ASEAN as well as China and India.
-</em></h5>
+	</p>
 
 </div>
 
@@ -125,11 +128,11 @@ Singaporeans are external thinkings who can help bridge economies within ASEAN a
 
 <p>All I can say is, it will always be tough out there. Managing change and keeping up with change is very important. Strategic thinking requires leaders to think differently—and think ahead. However, the most important thing is perseverance. You need to be able to face matters every day with energy and passion. You also need to be able to motivate employees by giving them jobs that have the possibility of changing the world. There is nothing better than thinking about winning.</p>
 
-<div class="green">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 You need to be able to motivate employees by giving them jobs that have the possibility of changing the world.
-</em></h5>
+</p>
 
 </div>
 
