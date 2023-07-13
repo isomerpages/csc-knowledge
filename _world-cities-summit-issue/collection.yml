@@ -2,6 +2,7 @@ collections:
   world-cities-summit-issue:
     output: true
     order:
+      - The Environment as Capital.md
       - Human Development  and Urbanism.md
       - Diversity Through Migration.md
       - Cities, Culture and Happiness.md
