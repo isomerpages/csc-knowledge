@@ -51,15 +51,18 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #ececda;
+	background-color: #B0043D;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
 	
 	}	
-.containerbox h3 {
-	color: #b192a4;
+	
+.containerbox h3, .containerbox p, .containerbox ul
+{
+	color: white ;
 	}
+	
 li {
 	font-size: 15px !important;
 		
@@ -112,7 +115,7 @@ Distinctive traits of the Asian leader emerged from the study's interviews with 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">THE ASIAN LEADER</h3>
