@@ -83,7 +83,7 @@ margin-top:15px;
 		<h3>Foreword</h3>
 		<b><i>Leon Yip</i></b>
 		<figcaption>Permanent Secretary, Ministry of Manpower</figcaption>
-		<p></p>
+		<p>The Permanent Secretary of the Ministry of Manpower outlines the attributes that enable Singapore the opportunity to share its perspectives and experience in tackling some of the broader Asian human capital challenges.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -166,7 +166,7 @@ challenging work assignments on staff development and performance.</p>
 	<div>
 		<h3>Talent on Demand</h3>
 		<b><i>Review by Toh Boon Kwan</i></b>
-		<p></p>
+		<p>The review of Peter Cappelli’s “Talent on Demand” looks at how the talent management framework might fare in within the context of Singapore.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-argument-for-the-singapore-model/">Read more</a></div>
 	</div>
 </div>
@@ -176,9 +176,9 @@ challenging work assignments on staff development and performance.</p>
 <div class="grid-container">
 	<div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
 	<div>
-		<h3>How the creative economy is making where to live the most important decision of your life</h3>
+		<h3>Who’s your City</h3>
 		<b><i>Review by Cai Shan</i></b>
-		<p></p>
+		<p>The review of Richard Florida’s “Who’s Your City?” explores the importance of location in today’s global economy.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-argument-for-the-singapore-model/">Read more</a></div>
 	</div>
 </div>
