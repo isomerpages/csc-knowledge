@@ -16,20 +16,24 @@ description: ""
 	width:100%;
 }
 	
-	
-
-.green
+.break
 {
-background-color: #44663E;	
-padding: 30px;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	margin-top:50px;
+	text-align: center;
 }
 	
-.green h5	
+.break1
 {
-	color: white;
-	text-align: center;
-	font-size: 24px;
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }	
+
+
 
 .boxheader {
 	color: white !important;
@@ -99,10 +103,10 @@ border-top: 1px solid black;
 
 
 
-<div class="green">
-<h5><em>
+<div class="break">
+<p class="break1">
 Singapore, with one of the most open economies in the world, is particularly vulnerable to these negative trends.
-</em></h5>
+</p>
 </div>
 
 
@@ -111,10 +115,9 @@ Singapore, with one of the most open economies in the world, is particularly vul
 <p>In the long run, this malign combination of median wage stagnation, low wage decline and rising inequality is potentially poisonous for the social compact underpinning globalisation and the bedrock of our virtuous cycle of strong governance.</p>
 
 
-<div class="green">
-<h5><em>
-There is a limit to poverty alleviation through working longer and harder.
-</em></h5>
+<div class="break">
+<p class="break1">
+There is a limit to poverty alleviation through working longer and harder.</p>
 </div>
 
 
@@ -133,10 +136,10 @@ There is a limit to poverty alleviation through working longer and harder.
 <p>What remains in Singapore is to appropriately scale up the relevant magnitudes. Current net workfare payments of around S$80 to S$100 per month are a long way from being able to bridge the poverty gap between bare subsistence and the small surplus needed to invest in human capital at the household level. Yet they remain the fastest way of getting there without compromising work ethic and with relatively low cost.</p>
 
 
-<div class="green">
-<h5><em>
+<div class="break">
+<p class="break1">
 A stronger, direct social safety net may enable policy to take advantage of globalisation more quickly and boldly.
-</em></h5>
+</p>
 </div>
 
 <p>Other measures that should be studied for wider implementation include: social risk pooling for unemployment insurance, medical costs, retirement benefits, education risks or reverse mortgages; an expanded and well-integrated continuing education and training system. Perhaps a more discriminating immigration policy—against unskilled labour in non-traded sectors (for example, in the construction industry)—can also be sought even at the expense of maximising short-term output, in order to achieve a better combination of real wage growth and increased productivity.</p>
