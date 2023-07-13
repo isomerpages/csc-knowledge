@@ -183,4 +183,8 @@ Some companies buy talent by recruiting directly from top universities. The Publ
 
 <br>
 
-<p><a href="../ethos.html">Back to Ethos homepage</a></p>
+<br>
+
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
