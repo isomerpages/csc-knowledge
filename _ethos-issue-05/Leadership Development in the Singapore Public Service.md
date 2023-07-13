@@ -47,20 +47,20 @@ font-family: Georgia;
 	font-weight: bold;
 }
 
-.boxheader {
-	color: white !important;
-	}	
 
-.containerbox {
-	background-color: #ececda;
+.containerbox 
+	{
+	background-color: #C7A008;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
 	}	
-.containerbox h3 {
-	color: #b192a4;
-	}
+
+.containerbox h3, .containerbox ul, .containerbox strong, .containerbox p
+{
+	color: white;
+}
+	
 li {
 	font-size: 15px !important;
 	
@@ -113,10 +113,10 @@ The developmental lessons derived from work experience varied according to the t
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
-<h3 class="title">FOUR ROLES THAT BOSSES AND SUPERIOR CAN PLAY:</h3>
+<h3>FOUR ROLES THAT BOSSES AND SUPERIOR CAN PLAY:</h3>
 <ul>
 <li>
     A <em><strong>catalyst</strong></em> for development: These bosses intentionally challenge their staff while providing trust, autonomy, protection and cheer-leading.
