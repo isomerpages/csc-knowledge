@@ -109,10 +109,9 @@ li {
 <p>Studying this human "need... for niches" in urban settings actually formed a large part of the work of William Whyte, an eclectic intellectual who was, at different times, a planning consultant for major US cities, adviser to Laurence Rockefeller on environmental issues, a Distinguished Professor at Hunter College of the City University of New York and a trustee of the American Conservation Association.</p>
 
 
-<div class="brown">
-<h5>
-Small spaces humanise our cities, bringing life and dynamism to urban landscapes.
-</h5>
+<div class="break">
+<p class="break1">
+Small spaces humanise our cities, bringing life and dynamism to urban landscapes.</p>
 </div>
 
 
