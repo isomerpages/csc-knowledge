@@ -4,7 +4,66 @@ permalink: /ethos-issue-05/talent-on-demand/
 description: ""
 ---
 <style>
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
 	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #ececda;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}	
+.containerbox h3 {
+	color: #b192a4;
+	}
+li {
+	font-size: 15px !important;
+	
+	}		
 	
 </style>	
 
@@ -24,13 +83,13 @@ description: ""
 
 <p>This approach also assumes that there are no leaks from the talent pipelines. However, unpredictable markets dominate the contemporary economic scene. Boom and bust cycles have led to the demise of the life-time employment model. Staff turnover creeps up during tight labour markets. Leaks in the talent pipeline accelerate as employees change jobs with greater frequency and after shorter terms of service. Developing talent internally remains an expensive option and, with rising staff turnover, is an investment that seems mostly to go down the drain—or worse, to the benefit of competitors.</p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+<p class="break1">
 The key to talent management lies in acknowledging uncertainty, responding and adapting to it.
-</em></h5>
+</p>
+</div>
 
-<hr>
 
 <p>The second of these approaches is to rely on outside hiring. Why develop staff internally when you can poach a well-trained hire from another organisation on the cheap? Outside hiring, however, assumes that there is a big pool of well-trained talent waiting to be headhunted. Internal development of talent is a much more attractive proposition, particularly when outside hiring becomes too expensive in a tight labour market and outside hires are not able to meet unique organisational needs. Outside hiring is also a reactive strategy and imposes a time lag before the talent could come on-stream. </p>
 
@@ -48,13 +107,14 @@ The key to talent management lies in acknowledging uncertainty, responding and a
 
 <p>Longer-term forecasting is fraught with inaccuracies in view of rapid changes in business conditions. Succession planning is limited in usefulness, as trying to predict which employee should fill a position (and with which precise skill-sets) many years in advance is fraught with risk under ever more volatile circumstances. Instead of attempting to forecast and plan around uncertainty, Cappelli advices a portfolio approach to manage the risk of uncertain demand for talent in future. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A strategy that includes the making and buying of talent minimises the risk of being wrong in forecasting demand for talent.
-</em></h5>
+</p>
+	
+</div>
 
-<hr>
 
 <p>Instead of having decentralised management development programmes, Cappelli advocates a centralised approach instead. He argues that this is more efficient in allocating talent, since departments that have a surplus of talent may release those talents to departments which are experiencing a shortage. It also reduces costs since duplication of effort is eliminated. Developing talent pools of generalists who can fill a range of jobs rather than training specialists for specific jobs will also help to reduce uncertainty in demand. Skills shortfalls could be met by just-in-time training and coaching. Making shorter forecasts for talent will also reduce uncertainty.</p>
 
@@ -62,13 +122,13 @@ A strategy that includes the making and buying of talent minimises the risk of b
 
 <p>The huge cost of management development could be reduced by shortening the time employees spend on such training. It is important to identify early the employees who have the potential for advancement and provide them with opportunities to quickly advance to positions where they can contribute significantly to the organisation. Getting employees to share the costs of such training would help improve the rate of return. Asking employees to volunteer for important projects led by senior management over and above their normal workload is one way of meeting organisational goals while providing opportunities for these employees to gain access to senior management. Providing tuition funding for employees who read their courses after office hours is also another way of sharing costs.</p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+<p class="break1">
 If we are unable to fill key positions on a consistent basis, it may be timely to review the length of term appointments.
-</em></h5>
+</p>
+</div>
 
-<hr>
 
 <h4>Fourth, balance employee interests by using an internal market.</h4>
 
@@ -82,13 +142,14 @@ If we are unable to fill key positions on a consistent basis, it may be timely t
 
 <p>Similarly, the use of bonded scholarships as a recruitment tool of largely untested fresh recruits into high-potential programmes as distinct from the use of scholarships as a retention tool for high performing serving officers may be contentious. It could in fact undermine morale among serving officers who have not received these scholarships when they were recruited.<a href="#notes"><sup>7</sup></a> Addressing this divide would be one way of building a more cohesive public service. For instance, more emphasis could be placed on the in-service nomination of high-performing serving officers for entry into high-potential programmes and less emphasis given to the automatic placement of scholarship holders on such programmes.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The Public Service may have to leverage on recruiting directly from top universities, going forward.
-</em></h5>
+	</p>
 
-<hr>
+</div>	
+	
 
 <p>How do we go forward from here? Cappelli has already offered some answers. <br>
 Some companies buy talent by recruiting directly from top universities. The Public Service may have to leverage more heavily on this option going forward, in line with the trend of rising numbers of Singaporeans who are able to fund their own education at premier universities independent of government scholarships. Hiring is also immediate, without the need to wait for the inevitable time lag for scholarship holders to graduate. </p>
@@ -97,14 +158,15 @@ Some companies buy talent by recruiting directly from top universities. The Publ
 
 <p>Cappelli’s idea of incorporating the making and buying of talent into corporate human resource strategy may not sound new. In fact, he reminds us that most of the management development practices in use today are of recent vintage. For instance, the first high-potential programme was only introduced in 1926.<a href="#notes"><sup>8</sup></a> Peer assessments and forced ranking was pioneered in the armed services before making its way into industry. Similarly, the use of psychological assessments and selection boards became common practice after their pioneering use in the military. This is not surprising since the armed services had to develop and deploy huge numbers of manpower quickly and efficiently during the Second World War.<a href="#notes"><sup>9</sup></a> However, before we dismiss Cappelli’s ideas as largely common sense with nothing new to offer, it is worth noting that common sense is not common practice. By focusing senior management’s attention on what is inadequate in current talent management approaches, Cappelli has done human resource practitioners a great service. Take heed.</p>
 
-<hr>
+
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Toh Boon Kwan</strong> is the Assistant Director of Training and Development in the Leadership Development Department, Public Service Division, Prime Minister's Office. He holds a history degree from the National University of Singapore, a diploma in human resource management from the Singapore Institute of Management, and a postgraduate degree in strategic studies from Nanyang Technological University. He is also a prize-winning historian whose works on local and regional military history have been published and reprinted in leading international academic journals.</p>
 
-<hr>
-
+</div>
+	
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
