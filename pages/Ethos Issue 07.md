@@ -57,7 +57,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue07.jpg"></div>
 	<div>
 		<h3><span class="cat">Issue 07, January 2010</span><br>ETHOS Issue 07</h3>
-		<p></p>
+		<p>Scenario planning, risk management and horizon scanning — foresight tools in preparing for governance in an ever more complex and turbulent environment. How else can we think about the future? Featuring Jocelyne Bourgon, Gary Klein, Peter Ho, Peter Schwartz and Ang Hak Seng.</p>
 		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-07.pdf">Download PDF</a></div>
 	</div>
 </div>
