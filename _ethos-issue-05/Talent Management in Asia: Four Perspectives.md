@@ -27,6 +27,7 @@ border-top: 1px solid black;
 .author p {
 	font-size: 0.9em;
 	line-height:24px !important;
+	padding-top:20px;
 	}	
 
 .break
@@ -82,9 +83,7 @@ li {
 
 <p class="small-text"><strong><span style="color: #7030a0;">Mr Israel Berman</span></strong>, Managing Director, Asia Region, Hay Group</p>
 
-<hr>
 
-<p>&nbsp;</p>
 
 <p><strong><span style="color: #ff0000;">KAN TRAKULHOON</span>:</strong> I’d like to start by pointing out three key aspects of talent management: selecting the right people, developing them and letting them grow.</p>
 
@@ -102,13 +101,13 @@ li {
 
 <p>Take Banyan Tree as an example: we currently have 8,000 people across 20 countries, and we are expected to grow to about 15,000 to 20,000 in a few years. We are not a very big company but we deal with about 15 nationalities. I have to work with 2,000 young, ambitious people in middle management who only want to work in high-flying companies. In this situation, one of the key challenges is to develop a company culture which is cohesive and dynamic enough to attract and retain these people who have unique aspirations in a globalised Asia environment. I think what is increasingly important isn't technical competencies but soft skills: the ability to communicate your ideas clearly; to act and function effectively in a cross-cultural environment. This again will be one of the defining attributes of young talent in Asia. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 What is increasingly important isn't technical competencies but soft skills: the ability to communicate ideas clearly; to act and function effectively in a cross-cultural environment.
-</em></h5>
+</p>
+</div>
 
-<hr>
 
 <p>In my experience, Asian talent and young Asian people in general are not so quick to show initiative and push themselves to the forefront. If you want to get somebody to push their own ability beyond the defined norms of authority, you cannot just tell people they are “empowered”. You have to structure the empowerment so that they can gradually discover how to take initiative for themselves. We should help them overcome their cultural hesitancy in pushing themselves forward. The capability is there, but culturally, Asians are not as assertive. Therefore, there is a need to train people to be assertive if wewant to groom talent that can rise to the top.</p>
 
@@ -124,13 +123,13 @@ What is increasingly important isn't technical competencies but soft skills: the
 
 <p>The first step begins with recognising uncertainty. We need to step away from forecasts: don't bother to try and project what things will be like in five years, because the forecast can be so wrong it can do more damage than good.</p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+<p class="break1">
 Talent management is about anticipating needs which are going to be in the future and then setting out a plan to deliver on the human capital required.
-</em></h5>
+</p>
+</div>
 
-<hr>
 
 <p>Instead, there are several things you can do. We have a choice between hiring from outside—which has no lag time but is more expensive, or developing talent internally—which can be cheaper and more attractive but it also requires a certain amount of predictability. But we should really be thinking about the <em>mix</em> of “make” and “buy”. Mixing “make” and “buy” allows organisations to leverage uncertainty as narrowly as possible. But what is the right mix to use? </p>
 
@@ -148,21 +147,23 @@ Talent management is about anticipating needs which are going to be in the futur
 
 <p>So what do we do in the downturn? We worked with many companies in the crisis in 2000/2001. Many companies dealt with it by cutting staff and after the downturn, they started recruiting again, but some could no longer afford it and fell behind.</p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+<p class="break1">
 The key to retention is being able to offer better opportunities for advancement inside than some place else.
-</em></h5>
+</p>
+</div>
 
-<hr>
 
 <p>The best people are always wanted. Recruiting in Asia is not easy. But what is good in Asia is that talent management is an issue on the CEO and C-suite table much more than elsewhere in the world and the results show. People are taken better care of and you get more out of the investment. At the end of the day, it’s about aligning people management to what we want to achieve as an organisation. One of the best examples you see in talent management is perhaps the Singapore Government, and how they invest in talent over the long term. </p>
 
 <p>Now is the time to step up and demonstrate courageous leadership. In a downturn, you have to invest in the right people, and you learn to link reward to performance and prepare yourself for the upturn. If in difficult times, the first thing we do is to cut staff, then we will not grow.</p>
 
-<hr>
+<div class="author">
 
-<p class="small-text">This article was adapted from a plenary session on "Leadership Perspectives-Talent Management in Asia: What Works?" held at the Singapore Human Capital Summit on 23 October 2008. The plenary was facilitated by Professor J. Stewart Black, Associate Dean, Executive Development Programs, The Americas, INSEAD and Executive Director, INSEAD Centre for Human Resources in Asia.</p>
+<p>This article was adapted from a plenary session on "Leadership Perspectives-Talent Management in Asia: What Works?" held at the Singapore Human Capital Summit on 23 October 2008. The plenary was facilitated by Professor J. Stewart Black, Associate Dean, Executive Development Programs, The Americas, INSEAD and Executive Director, INSEAD Centre for Human Resources in Asia.</p>
+	
+</div>	
 
 <br>
 
