@@ -4,6 +4,73 @@ permalink: /ethos-issue-05/singapore-as-innovation-nation/
 description: ""
 ---
 <style>
+
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
+	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #ececda;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}	
+	
+.containerbox h3 
+	
+	{
+	color: #b192a4;
+	}
+	
+	
+li
+{
+	font-size: 15px !important;
+}		
+	
 	
 	
 </style>	
@@ -29,13 +96,13 @@ description: ""
 
 <p>The most important but subtle barriers are mindset, ethos and values. If you have on paper the desire to carry out innovation in a big way but the cultural DNA is one of avoiding risks or valuing smooth and efficient career progression, you’re not going to change people’s behaviour. Of course, every society has its own unique set of psychological barriers. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The problem in many otherwise well-run countries is the absence of a big national idea beyond simply trying to maintain a standard of living.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>I think one of the reasons why you don’t seem more entrepreneurial in Singapore—even though there are plenty of people who are capable of being entrepreneurs—is because while there is a rewarding upside of being successful in a public sector or private sector track, the downside is also huge, compared to many other societies. In Silicon Valley, the saying is: if you haven’t gone bankrupt at least a couple of times, you’re not working hard enough. In Singapore, if you have business trouble, everybody knows about it; it is considered bad, a game-ender. I think this mindset will create an interesting cognitive dissonance for Singapore as it aspires towards becoming a centre for innovation, a talent magnet and a global city.</p>
 
@@ -51,13 +118,13 @@ The problem in many otherwise well-run countries is the absence of a big nationa
 
 <p>The kind of innovation that is increasingly important is not about coming up with a new way to design, for example, a teapot, but actually transforming innovation into something that yields broad new streams of opportunities. This scale of innovation requires a great deal of human capital and infrastructural investment. So even if you had a very vibrant venture capital industry as the US does, it is not necessarily going to be enough to ignite an entire industry. You need support in academic research, basic science and so on.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A government's policies are significant enablers of national innovation.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Yet in societies where you only have top-down development of ideas, there is a great potential for getting it wrong because governments are often not very good at the business of picking winners. So every society is going to be a blend of government action complemented by innovative entrepreneurial behaviour on the part of the public. The question is really what the balance between the two should be. </p>
 
@@ -79,13 +146,13 @@ A government's policies are significant enablers of national innovation.
 
 <p>I think there is a need for real clarity about what innovation is: that it’s not just science, technology, creativity or improvement, but that it occupies a spectrum of concerns that many people are engaged with. My sense is that for the public sector to really drive the innovation agenda in Singapore, it needs to move on to a 2.0 conceptualisation of what innovation is and also what skills can manage it.</p>
 
-<hr>
-
-<h5><em>
+<div class="break">
+<p class="break1">
 Because design is an approach to innovation that involves prototyping, visualisation, collaboration and other useful skills, it is also important for a country to invest in design in terms of educational institutions and resources, the arts and so forth.
-</em></h5>
+</p>
+</div>	
 
-<hr>
+
 
 <p>So what do the managers of innovation need to do? It’s not that they need to know about brainstorming. Instead, they have to know how to foster collaboration so that emerging possibilities become visible. They must understand how to create alliances across disciplinary boundaries. They need to be able to craft a vision for their work group, and know which talents to bring in or what activities they should be involved in. They need to make useful exceptions. They need to be conscious about their willingness to encourage risk-taking and exploratory behaviour, and accept that a certain percentage of these ideas is not going to work out. All these are very subtle skills. </p>
 
@@ -99,13 +166,13 @@ Because design is an approach to innovation that involves prototyping, visualisa
 
 <p>I think that if Singapore remains a primarily engineering-oriented culture, it will miss out on opportunities in the future. When I come back, say, in ten years’ time, I’d like to see deep design as a much more ingrained mindset, not only in terms of product development but in terms of how senior policymakers plan and carry out their vision for the country.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text">In Singapore as Senior Visiting Fellow to the Civil Service College from 12 to 14 February 2008, <strong>Dr John Kao</strong> was interviewed by ETHOS Editor, Alvin Pang. He is the Chairman and CEO of Kao &amp; Company, and author of several bestsellers, including Innovation Nation (Free Press, 2007) and Jamming: The Art and Discipline of Business Creativity (Harper Collins, 1996). Dr Kao served as a faculty member of the Harvard Business School from 1982 to 1996, where he developed courses on innovation and entrepreneurship. He was a Visiting Professor at the MIT Media Lab and served as a Distinguished Visiting Professor of Innovation at the US Naval Postgraduate School. The Economist has called him “Mr. Creativity” and a “serial innovator”.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -114,5 +181,8 @@ Because design is an approach to innovation that involves prototyping, visualisa
 </ol>
 
 <br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
