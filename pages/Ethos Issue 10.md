@@ -68,9 +68,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/foreword.jpg"></div>
 	<div>
 		<h3>Foreword</h3>
-		<b><i></i></b>
-		<figcaption></figcaption>
-		<p></p>
+			<p>The Chairman of the Civil Service College encourages the College to capitalize on its many strengths and continue to find new opportunities to develop people for a first-class Public Services.</p>
 		<div class="button1"><a href="/ethos-issue-10/foreword/">Read more</a></div>
 	</div>
 </div>
@@ -82,7 +80,7 @@ margin-top:15px;
 	<div>
 		<h3>Preface</h3>
 		<b><i></i></b>
-		<p></p>
+		<p>The Dean and CEO of the Civil Service College reviews that College's achievements and provides a broad vision for its role in shaping a public sector that can help build a more resilient and successful Singapore.</p>
 		<div class="button1"><a href="/ethos-issue-10/preface/">Read more</a></div>
 	</div>
 </div>
