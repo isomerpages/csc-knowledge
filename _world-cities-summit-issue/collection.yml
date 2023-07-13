@@ -2,5 +2,6 @@ collections:
   world-cities-summit-issue:
     output: true
     order:
+      - Human Development  and Urbanism.md
       - Diversity Through Migration.md
       - Cities, Culture and Happiness.md
