@@ -18,18 +18,18 @@ description: ""
 	
 	
 	
-.greybox
+.containerbox
 {
 background-color: #5d6165;	
 padding: 30px;
 }
 
-.greybox h3, .greybox p, .greybox h4
+.containerbox h3, .containerbox p, .containerbox h4
 {
 	color: white;
 }
 
-.greybox ol li
+.containerbox ol li
 {
 	color: white;
 	font-size: 16px;
@@ -82,7 +82,7 @@ font-size:16px;
 <p class="small-text text">When Singapore attained self-government in 1959, only 9% of Singaporeans resided in public housing. Most of the population was living in squatter colonies and city slums in unhygienic and potentially hazardous conditions.</p>
 
 
-<div class="greybox">
+<div class="containerbox">
 
 
 <h3>SINGAPORE'S APPROACH TO PUBLIC HOUSING</h3>
@@ -131,7 +131,7 @@ font-size:16px;
 
 
 
-<div class="greybox">
+<div class="containerbox">
 
 
 <h3 class="title">PUBLIC HOUSING — A PILLAR OF NATION-BUILDING</h3>
