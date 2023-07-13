@@ -2,4 +2,5 @@ collections:
   world-cities-summit-issue:
     output: true
     order:
+      - Diversity Through Migration.md
       - Cities, Culture and Happiness.md
