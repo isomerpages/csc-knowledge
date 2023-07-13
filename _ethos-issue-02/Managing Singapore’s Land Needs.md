@@ -44,6 +44,7 @@ border-top: 1px solid black;
    border-bottom: 1px solid black;
 	 padding:20px;
 	margin-top:50px;
+	text-align: center;
 }
 	
 .break1
