@@ -2,6 +2,7 @@ collections:
   world-cities-summit-issue:
     output: true
     order:
+      - Editorial.md
       - Planning and Innovation  for City Success.md
       - The Growth of Asian Cities.md
       - Achieving Sustainable  Urban Development.md
