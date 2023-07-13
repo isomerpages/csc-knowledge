@@ -4,7 +4,65 @@ permalink: /ethos-issue-05/accelerating-the-growth-of-the-asian-leader/
 description: ""
 ---
 <style>
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
 	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #ececda;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}	
+.containerbox h3 {
+	color: #b192a4;
+	}
+li {
+	font-size: 15px !important;
+		
 	
 </style>	
 
@@ -34,13 +92,12 @@ description: ""
 <li>because they were a member of the family business or had a strong parent who encouraged them to move into these leadership positions (appointed).</li>
 </ul>
 
-<hr>
 
-<h5><em>
-Leadership development in Asia must be more strategic, intentional and proactive.
-</em></h5>
+<div class="break">
+<p class="break1">
+Leadership development in Asia must be more strategic, intentional and proactive.</p>
+</div>
 
-<hr>
 
 <p>Most of the CEOs said that they had no plan whatsoever to be a leader, let alone a top leader of an organisation. Very few saw it as their destiny to lead in the early part of their careers and were therefore not proactive and intentional in their personal leadership development. "Accidental" leadership transition seems to be the modus operandi in terms of leadership development for many organisations in Asia.</p>
 
@@ -116,13 +173,13 @@ Distinctive traits of the Asian leader emerged from the study's interviews with 
 
 <p>When asked about their organisation’s effectiveness in developing leaders, the CEOs in aggregate gave themselves and their organisations an average rating. Frequently in the interviews, the CEOs would talk about the many informal ways that leadership was being developed in their organisations, while indicating that formal programmes usually lack impact. The exceptions were CEOs coming from very large global enterprises that are well-known for investing a lot of time and resources into formal programmes to develop their leaders.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Organisations need to leverage on Asian leaders' desire to be role models and mentors.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>From our study, we can conclude that Asian leaders are generally more reactive than proactive in their development of their employees as well as their direct reports. We did, however, find that if the employees reach out to the CEOs to request advice or to seek mentorship, Asian leaders are quite willing to provide development support. However, it was also clear from the study that these leaders do not proactively seek out followers to develop, nor excite them to the prospect of assuming leadership roles. Moving forward, for Asia to grow to its projected scale, this reactive style of leadership development, at both the individual leader as well as at the organisational levels, will need to change.</p>
 
@@ -210,9 +267,7 @@ Organisations need to leverage on Asian leaders' desire to be role models and me
 
 
 
-
-
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -220,7 +275,7 @@ Organisations need to leverage on Asian leaders' desire to be role models and me
 
 <p class="small-text"><strong>Peter Ong</strong> is Managing Partner for The Gallup Organization in Singapore, Hong Kong, and South-East Asia. Mr Ong has led many leadership development and behavioural economics type projects with both public and private sector organisations. Mr Ong is exceptionally interested in the concepts of "Soul of the City" and its links to engaged citizenry and brain gain; and the building of successful and sustainable organisations through the employment of behavioural economics approaches. Mr Ong is an executive coach to a dozen C-suite executives leading key enterprises locally and internationally.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -230,4 +285,8 @@ Organisations need to leverage on Asian leaders' desire to be role models and me
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
