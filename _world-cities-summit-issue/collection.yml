@@ -1,4 +1,5 @@
 collections:
   world-cities-summit-issue:
     output: true
-    order: []
+    order:
+      - Cities, Culture and Happiness.md
