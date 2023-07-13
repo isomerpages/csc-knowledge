@@ -57,7 +57,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue09.jpg"></div>
 	<div>
 		<h3><span class="cat">Issue 09, June 2011</span><br>ETHOS Issue 09</h3>
-		<p></p>
+		<p>This issue of ETHOS explores productivity growth and what it means for an advanced economy, an area of increasing concern for Singapore. What potential roles can government play in enhancing and sustaining national productivity growth? Featuring Dani Rodrik, Jesus Felipe, Chan Lai Fung, TDonald Low and Wu Wei Neng.</p>
 		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-09.pdf">Download PDF</a></div>
 	</div>
 </div>
