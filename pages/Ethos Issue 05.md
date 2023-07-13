@@ -70,8 +70,7 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>Dr Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief Ethos</figcaption>
-		<p></p>
+		<p>This thematic issue of Ethos continues the important conversations raised at the inaugural Singapore Human Capital Summit, held in October 2008. It examines more closely some of the many issues that face leaders, developers and observers of human capital today.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/editorial/">Read more</a></div>
 	</div>
 </div>
