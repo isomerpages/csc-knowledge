@@ -77,25 +77,16 @@ li {
 	line-height:22px !important;
 }	
 	
-.purple
-{
-background-color: #573b69;
-padding: 30px;
-margin-top:20px;
-font-family: Georgia;
-font-size:20px;
-font-style: italic;
-text-align:center;
-}
+
 		
-.purple1
+.containerbox
 {
 background-color: #573b69;
 padding: 30px;
 margin-top:20px;
 }
 	
-.purple h5, .purple1 h4, .purple1 p, .purple1 h3, sup, .purple1 h5
+.containerbox h5, .containerbox h4, .containerbox p, .containerbox h3, sup, .containerbox h5
 {
 color: white;	
 }		
@@ -121,9 +112,9 @@ color: white;
 <p>During the recent review of the 2001 Concept Plan, focus groups — comprising academics, interest group representatives, professionals and citizens — were formed as part of a public consultation exercise to gauge public values. Feedback from the general public was also considered. The consultation process highlighted the need to intensify housing and industrial areas, while retaining parks and identity areas as these provided a quality living environment. This exercise provided a clear indication of public aspirations for the future landscape of Singapore.</p>
 
 
-<div class="purple">
-<h5>Public consultations provide a clear indication of public aspirations for the future landsape of Singapore.</h5>
-</div>
+<div class="break">
+<p class="break1">Public consultations provide a clear indication of public aspirations for the future landsape of Singapore.
+</p></div>
 
 
 <h3>FROM PLANNING TO IMPLEMENTATION</h3>
@@ -133,11 +124,11 @@ color: white;
 <p>Zoning of land for specific uses ensures that sufficient land is earmarked for different needs, in line with strategic directions. This is necessary because if left to the market, uses with higher commercial value could price out uses such as healthcare facilities or parks which are needed by the community. By ensuring that retail amenities and facilities such as libraries, sports facilities, schools, community centres and parks are accessible within housing estates, planning enhances the liveability of residential areas and reduces the need to travel.</p>
 
 
-<div class="purple">
-<h5>
+<div class="break">
+<p class="break1">
 Since the release and development of sites is market-led, the pace of implementing new development areas depends on market demand and investor confidence in the real estate sector.
-</h5>
-</div>
+
+</p></div>
 
 
 <p>Stipulating the allowable use and intensity of land parcels provides a degree of certainty for estimating the provision needed for public infrastructure and facilities such as roads, drains, schools and hospitals. It also facilitates planning for the distribution and phasing of these amenities, and for coordinating their implementation. Furthermore, it gives certainty to owners and occupants regarding the land use or activities in their neighbourhood. Zoning also encourages the clustering of compatible uses: for example, sites are identified to meet the demand for hotel rooms in suitable locations such as within vibrant and interesting mixed-use belts along the Singapore River and Orchard Road.</p>
@@ -152,7 +143,7 @@ Since the release and development of sites is market-led, the pace of implementi
 
 
 
-<div class="purple1">
+<div class="containerbox">
 
 
 <h3 class="title">A BALANCING ACT</h3>
@@ -178,7 +169,7 @@ Since the release and development of sites is market-led, the pace of implementi
 
 
 
-<div class="purple1">
+<div class="containerbox">
 
 
 <h3 class="title">LAND USE PLANNING IN SINGAPORE:<br>
