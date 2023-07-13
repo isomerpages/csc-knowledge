@@ -4,6 +4,72 @@ permalink: /ethos-issue-05/sharpening-singapores-edge-insights-from-the-ibm-expe
 description: ""
 ---
 <style>
+
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
+	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #EE4123;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}	
+	
+.containerbox h3, .containerbox p 
+	
+	{
+	color: #ffffff;
+	}
+	
+	
+li
+{
+	font-size: 15px !important;
+}		
 	
 	
 </style>	
@@ -19,13 +85,13 @@ description: ""
 
 <p>Nevertheless, a reputation for excellent execution may have served Singapore well in the past—particularly through the manufacturing era—but the same model is not adequate in today’s rapidly evolving service economy. To ride the wave of change in modern business, we need more innovators and creative thinkers. Critically, we need a culture that thrives on innovation, openness, trust, collaboration and diversity. We also need to nurture a workforce that is well versed in disciplines vital to the service sectors, bringing to the table a strong mix of business, technical and people skills.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Open systems and approaches provide a level playing field which stimulates competition, innovation and the free flow of goods and ideas.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>AN INNOVATIVE AND TRUSTING CULTURE</h3>
 
@@ -43,13 +109,13 @@ Open systems and approaches provide a level playing field which stimulates compe
 
 <p>The IBM Thinkplace is where IBMers around the world come to collaborate. Employees can post ideas and get feedback from colleagues, explore and collaborate with fellow IBMers to find and refine ideas, and join or sponsor a technical team to implement ideas. As a leading advocate for Web 2.0 and collaborative technologies, IBM deploys Web 2.0 tools throughout the company (the InnovationJam being an example). IBMers readily leverage these tools to encourage innovation, communication and resourcefulness. As a result, IBMers are able to form powerful, diverse social and expertise networks within the company, allowing speedy access to subject matter experts in order to resolve client issues. This helps us to live up to our professional commitments as innovators and trusted business advisors.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 For people to embrace innovation and openness, the provision of appropriate platforms and tools is important to get them in the right frame of mind.
-</em></h5>
+	</p>
 
-<hr>
+</div>
 
 <h3>HARMONY IN DIVERSITY</h3>
 
@@ -63,25 +129,27 @@ For people to embrace innovation and openness, the provision of appropriate plat
 
 <p>Generation X may prefer jobs that cater not only to personal growth, but are also flexible in terms of work-life integration, so that they can accommodate their personal interests. Generation Y, which grew up with the Internet, are motivated by peers, and prefer telecommuting for the flexibility it provides. They will readily take time off to travel; they are big on searching for meaning in life, and value broader social awareness and action.<a href="#notes"><sup>2</sup></a></p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+
+<p class="break1">	
 Understanding and appreciating diversity and creating playforms to help different people thrive professionally and personally will position Singapore ahead as a global talent hub.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>This is why IBM provides staff with meaningful challenges outside of the office. Indeed, as a strong supporter of corporate social responsibility, IBM has always focused on the innovative application of volunteerism and technology to address global societal issues. As Samuel J. Palmisano, Chairman, President and CEO of IBM Corporation summarises aptly, “For us at IBM, this is much more than a matter of legal compliance or even giving back to the community. It is and has always been integral to how we conceive of ourselves as a business.”</p>
 
 <p>For example, our recently launched IBM Corporate Service Corps is part of a Global Citizen’s Portfolio initiative to develop leadership skills while addressing socio-economic challenges in the emerging markets. An IBMer in Singapore spent one month alongside a group of eight colleagues from diverse cultures to make a difference to the lives of the people in Davao, Mindanao. At the end of the month-long enriching experience, participating IBMers returned to their respective offices across the globe embracing their professional and personal lives with deeper value and meaning. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
-We need to groom our young, from an early age, to be independent thinkers and exhibit thought leadership.
-</em></h5>
+<p class="break1">
+We need to groom our young, from an early age, to be independent thinkers and exhibit thought leadership.</p>
+	
+</div>
 
-<hr>
+
 
 <p>Singapore in general is a strong advocate in the area of work-life integration initiatives. The Government has been partnering industry to drive policies, incentives and programmes that enable employees to achieve the most out of their working and personal lives. </p>
 
@@ -103,7 +171,7 @@ We need to groom our young, from an early age, to be independent thinkers and ex
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">DEVELOPING T-SHAPED WORKERS FOR THE 21<sup>ST</sup> CENTURY ECONOMY</h3>
@@ -126,13 +194,14 @@ We need to groom our young, from an early age, to be independent thinkers and ex
 
 <p>Singapore has built an excellent workforce, which today has become the nation’s prized asset. To continue to stay ahead in the global economy, we need to harness our strengths and offer local and foreign talents an environment which values key attributes including innovation, openness, trust, collaboration and diversity. We will also need a superior education system that nurtures thinking individuals who are comfortable collaborating across diverse fields of activity. Singapore will then be well placed to become a global human capital hub of the future.</p>
 
-<hr>
+
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Teresa Lim</strong> was named Managing Director of IBM Singapore in January 2007. In this role, she is responsible for the operations of IBM Singapore, including all product and services division, as well as the company’s sales and distribution business. Prior to this appointment, Ms Lim was Vice-President of ibm.com for Asia Pacific. Since joining IBM Singapore in 1989, Ms Lim has held several positions in sales, strategic planning, marketing and human resources. Early in her career, in addition to her skills and training responsibilities, she also led the corporate organisation transformation initiative for IBM Singapore. Ms Lim is an active member of the Board of Directors in the Civil Service College, Singapore.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -142,5 +211,8 @@ We need to groom our young, from an early age, to be independent thinkers and ex
 </ol>
 
 <br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
