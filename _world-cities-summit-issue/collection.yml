@@ -2,6 +2,7 @@ collections:
   world-cities-summit-issue:
     output: true
     order:
+      - The Growth of Asian Cities.md
       - Achieving Sustainable  Urban Development.md
       - The Twin Pillars of  Estate Rejuvenation.md
       - Designing Urban Journeys.md
