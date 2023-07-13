@@ -67,23 +67,7 @@ li {
 {
 	font-size: 15px;
 	line-height:22px !important;
-}	
-	
-.brown
-{
-background-color: #5A4715;
-padding: 30px;
-margin-top:20px;
-font-family: Georgia;
-font-size:20px;
-font-style: italic;
-text-align: center;
-}
-		
-.brown h5
-{
-color: white;	
-}			
+}		
 	
 	
 	
@@ -112,10 +96,10 @@ color: white;
 <p>In a very deep sense, modern globalisation was ultimately a US project that goes back to the years after the Second World War. It is a logical consequence, if not an intended one, of the post-war system. Throughout the 1960s and 1970s, they pushed the idea that developing countries should liberalise and integrate into the world system. So eventually everybody did, including the Chinese, the Russians, and the Indians. In my view, this was incomparably the most successful foreign policy project of the US and, indeed, of any great power.</p>
 
 
-<div class="brown">
-<h5>The argument for globalisation is not an argument against government. It is an argument for sensible and good government.
-</h5>
-</div>
+<div class="break">
+<p class="break1">The argument for globalisation is not an argument against government. It is an argument for sensible and good government.
+
+</p></div>
 
 
 <p>There are many, many American winners from globalisation. The United States continues to possess and is likely to continue to possess for quite some time the world's most innovative companies, the world's centres for innovation. For this reason, it attracts many of the brightest people from all over the world, and it has many of the world's most successful multinational companies, financial centres and businesses. All these winners have a huge interest in making globalisation work in the US, and they are very influential in politics.</p>
