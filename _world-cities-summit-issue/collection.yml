@@ -2,6 +2,8 @@ collections:
   world-cities-summit-issue:
     output: true
     order:
+      - "Transformative Investments:  Remaking American Cities for  a New
+        Century.md"
       - The Environment as Capital.md
       - Human Development  and Urbanism.md
       - Diversity Through Migration.md
