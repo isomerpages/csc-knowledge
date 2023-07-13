@@ -21,7 +21,6 @@ description: ""
    border-top: 1px solid  black;
    border-bottom: 1px solid black;
 	 padding:20px;
-	text-align:center;
 	margin-top:50px;
 }
 	
