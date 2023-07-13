@@ -15,25 +15,24 @@ description: ""
 	font-size:16px;
 }
 	
-.dark-green
+.break
 {
-background-color: #4C6E78;	
-padding: 30px;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 
-.dark-green h5
-{
-	color: white;
-	font-family: Georgia;
-	text-align: center;
-}
 
-.greybox ol li
-{
-	color: white;
-	font-size: 16px;
-	list-style-type: lower-alpha;    
-}	
 	
 .author
 {
@@ -109,10 +108,10 @@ font-size:16px;
 <p>The supply of water has been further expanded by reducing unaccounted for water (UFW), which is defined as actual water loss due to leaks, and apparent water losses arising from meter inaccuracies. Unlike other South and Southeast Asian countries, Singapore simply does not have any illegal connections to its water supply systems.</p>
 
 
-<div class="dark-green">
-<h5>
+<div class="break">
+<p class="break1">
 Only 4.5% of water in Singapore is unaccounted for — this is a level that no other country at present can match.
-</h5>
+</p>
 </div>
 
 <p>In 1990, UFW was 9.5% of the total water production.<a href="#notes"><sup>12</sup></a> Even at that level, it would have been considered to be one of the best examples in the world at the present time. By 2006, PUB had managed to lower UFW to 4.5%. This is a level that no other country can match at present. By comparison, in England and Wales, the only region in the world which has privatised its water more than a decade ago, the best level any of its private sector companies have managed to achieve is more than twice that of Singapore's. Similarly, UFW in most Asian urban centres now range between 40% and 60%.</p>
