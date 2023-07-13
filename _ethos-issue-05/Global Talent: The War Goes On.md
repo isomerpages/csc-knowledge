@@ -130,13 +130,12 @@ The war for talent was deemed to be a strategic business challenge and a critica
 
 <div class="break">
 	
-<div class="break1">	
-<h5><em>
+<p class="break1">	
 An increase in workforce diversity means that different groups of employees have widely differing expectations and aspirations.
-</em></h5>
+</p>
 
 </div>
-</div>	
+
 	
 
 <p>As a result, employers are increasingly struggling to engage their Generation Y employees who are ever more mobile and willing to change jobs. According to our research, building an engaged workforce is a top talent management challenge for all respondents across Singapore, Shanghai, and Bangalore. </p>
@@ -149,10 +148,10 @@ An increase in workforce diversity means that different groups of employees have
 
 <p>However, the new playing field values performance and customer orientation. Talented Asian workers have an unprecedented ambition for fast-track growth and the willingness to work for it. The players are more independent and desire greater empowerment, challenging work and flexibility.</p>
 
-<div class="brown">
-<h5><em>
+<div class="break">
+<p class="break1">
 The fundamental agreement of service between employer and employee is changing.
-</em></h5>
+</p>
 </div>
 
 
