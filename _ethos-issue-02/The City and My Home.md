@@ -16,15 +16,21 @@ description: ""
 	font-size:16px;
 }
 	
-.maroon
+.break
 {
-background-color: #6B3E57;	
-padding: 30px;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
 }
-
-.maroon h3, .maroon p, .maroon sup
+	
+.break1
 {
-	color: white;
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 	
 .maroon h5	
@@ -99,14 +105,11 @@ font-size:16px;
 <p>The unplanned also has its value. All societies have a mainstream that is supported by government plans. But this is not natural and permanent but created and subject to change. The relations between periphery and centre are many and complex. Within a society, habits from a minority can come into the mainstream like fashions and dance forms, from tango to disco. What we consider as peripheral influences and helps shape evolution in the mainstream. The unplanned, the spaces between, are a necessary balance, not in terms of a static and fixed balance, but in a moving and changing balance, like the Yin and Yang.</p>
 
 
-<div class="maroon">
-<h5><em>
+<div class="break">
+<p class="break1">
 The peripheral influences and helps shape evolution in the mainstream.
-</em></h5>
+</p>
 </div>
-
-
-
 
 
 <p>We should allow diversity in our landscape and society. The unplanned provides surprise, texture and serendipity. This can be physical: in a modern city, a conserved building; or in the heart of an old city, a gleaming tower. It can be mental and social: in a busy business day, an hour for coffee with a person with an interesting story or even the prospect of falling in love, like the famous photograph by Robert Doisneau, where amidst the milling, bustling crowd, a couple kisses. Planned schedules are disrupted, put on hold, for something — romance — that no one can really plan for, even if we can hope for it.</p>
