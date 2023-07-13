@@ -4,7 +4,66 @@ permalink: /ethos-issue-05/developing-human-capital-insights-from-the-summit/
 description: ""
 ---
 <style>
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
+
+#banner img
+{
+	width:100%;
+}
 	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #ececda;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}	
+.containerbox h3 {
+	color: #b192a4;
+	}
+li {
+	font-size: 15px !important;
+	
+	}		
 	
 </style>	
 
@@ -19,13 +78,13 @@ description: ""
 
 <p>This is a very different set of skills than those which had been required for success throughout most of the 20th century. When Western models of management—with their emphasis on mass standardisation, economies of scale, hierarchical layering of decision-making from the top and short-term focus on financial returns—were good enough, there seemed to be no reason to change or, for many developing economies, not to imitate them. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Organisations are increasingly dependent on the discretionary contributions of the people who work for them.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Even when firms in Japan showed that customers appreciated the products of a more engaging process—whereby employees at all levels are encouraged and expected to contribute to continuous improvement in quality, innovation and value for money—it was too easy and too common to dismiss such approaches as being culturally particular. When Toyota opened itself to international researchers and described its philosophy of lean management in great detail, few embraced the lessons fully, preferring instead to cherry-pick isolated programmes to emulate, rather than seeing it as a whole new way of working that was more suited to the way the world was moving.</p>
 
@@ -47,13 +106,13 @@ Organisations are increasingly dependent on the discretionary contributions of t
 
 <p>Employers need people who are willing, skilled and equipped to use initiative, innovate and make connections without having to be told what to do. Such behaviour cannot be enforced-it has to come from engaged employees voluntarily contributing to the level of their potential.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Today's employees see their employment as a negotiable and changing relationship, not as a lifelong contract.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>CUSTOMERS ARE FICKLE, DISLOYAL AND IN THE DRIVING SEAT</h3>
 
@@ -95,12 +154,17 @@ Today's employees see their employment as a negotiable and changing relationship
 
 <p>Finally, the Summit reinforced the key notion that human capital management is too important to be left to chance. It needs to be rooted in an evidence-based decision science, many of the components of which are already known, testable and measurable. And it needs to be systematically thought through in every organisation and applied in ways that support and extend its planned business outcomes. </p>
 
-<hr>
+
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Geoff Armstrong</strong>, CBE, is a past President of the World Federation of Personnel Management Association (WFPMA) and a retired Director-General of the United Kingdom’s Chartered Institute of Personnel Development. He was the theme-weaver for the inaugural Human Capital Summit, held in Singapore from 22 to 24 October 2008.</p>
 
-<br>
+</div>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
