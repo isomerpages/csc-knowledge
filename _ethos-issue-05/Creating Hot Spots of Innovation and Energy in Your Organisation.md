@@ -224,4 +224,9 @@ Igniting tasks create a sense of meaning that resonate with employees' sense of 
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+<br>
+<br>
+<br>	
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
