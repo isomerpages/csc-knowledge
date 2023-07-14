@@ -85,7 +85,7 @@ li {
 
 <h4>FIGURE 1. ESTIMATED AND PROJECTED URBANISATION, SOUTHEAST ASIAN COUNTRIES, 1980, 2005 AND 2030. (SOURCE OF DATA: UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS, WORLD URBANISATION PROSPECTS: THE 2005 REVISION<a href="#notes"><sup>5</sup></a>) </h4>
 
-<p style="text-align: center;"><img title="7k1" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7k1.jpg?sfvrsn=6983d2fa_0" data-displaymode="Original" alt="FIGURE 1. ESTIMATED AND PROJECTED URBANISATION, SOUTHEAST ASIAN COUNTRIES, 1980, 2005 AND 2030."></p>
+<p style="text-align: center;"><img title="7k1" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7k1.jpg" data-displaymode="Original" alt="FIGURE 1. ESTIMATED AND PROJECTED URBANISATION, SOUTHEAST ASIAN COUNTRIES, 1980, 2005 AND 2030."></p>
 
 <p>In the past half-century, the less developed countries have begun similar transitions. In both instances, population and economic growth have propelled the urban transition, but the speed and scale of urbanisation today are far greater and the challenges more daunting. Rapidly expanding cities require new infrastructure and communications—including power, water, roads, and commercial and productive facilities—more urgently than cities during the first wave of urbanisation did. Economies must be competitive in terms of infrastructure and technology if they are to succeed in the globalised world of the 21st century.</p>
 
@@ -95,16 +95,16 @@ li {
 
 <p>No country in the modern era has achieved significant economic growth without urbanisation. Southeast Asian cities are playing an ever-increasing role in creating wealth, attracting investment, enhancing social development, and harnessing both human and technical resources for achieving gains in productivity and competitiveness. Urban settlements tend to account for a larger share of national income, outpacing national economic growth. For example, Bangkok, which comprises just over 10% of the total population of Thailand, accounts for more than 40% of the country’s gross domestic product.<a href="#notes"><sup>6</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 It is relatively small cities
 that will absorb the bulk of
 urban population growth in
 the foreseeable future.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Cities are key to globalisation, a state of interconnectedness around the globe that transcends and, for many purposes, largely ignores national boundaries. The shrinking of the globe through the continuing technological revolution makes it possible for business enterprises to utilise services from anywhere in the world. Global urban economies rely on advanced knowledge-based services, such as finance, insurance, management consultancy, education, media and advertising.</p>
 
@@ -124,15 +124,15 @@ the foreseeable future.
 
 <p>UN-Habitat’s <em>State of the World’s Cities 2006/7 Report</em><a href="#notes"><sup>6</sup></a> notes that it is generally assumed that urban populations are healthier, more literate, and more prosperous than rural populations, but in fact the urban poor suffer from ‘an urban penalty’: urban slum dwellers in developing countries are as badly off, if not worse off than their rural relatives.8 Some slums are much worse than others.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Large cities generate creativity
 and solidarity, but also make
 confl icts more acute.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>However, slums in Southeast Asian cities are less deprived, with only 26% of the slum populations living in conditions of extreme shelter deprivation.6 Indeed, the proportion of slum dwellers in Southeast Asian cities has itself declined in recent years.</p>
 
@@ -142,7 +142,7 @@ confl icts more acute.
 
 <h4>FIGURE 2. RELATIONSHIP BETWEEN HUMAN DEVELOPMENT AND THE PROPORTION URBAN, SOUTHEAST ASIAN COUNTRIES. (SOURCES OF DATA: UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS, WORLD URBANIZATION PROSPECTS: THE 2005 REVISION;<a href="#notes"><sup>5</sup></a> UNDP, HUMAN DEVELOPMENT REPORT, 2007/08<a href="#notes"><sup>10</sup></a>)</h4>
 
-<p style="text-align: center;"><img title="7k2" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7k2.jpg?sfvrsn=f5301e6a_0" data-displaymode="Original" alt="FIGURE 2. RELATIONSHIP BETWEEN HUMAN DEVELOPMENT AND THE PROPORTION URBAN, SOUTHEAST ASIAN COUNTRIES."></p>
+<p style="text-align: center;"><img title="7k2" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7k2.jpg" data-displaymode="Original" alt="FIGURE 2. RELATIONSHIP BETWEEN HUMAN DEVELOPMENT AND THE PROPORTION URBAN, SOUTHEAST ASIAN COUNTRIES."></p>
 
 <h3>ACHIEVING THE MILLENNIUM DEVELOPMENT GOALS IN CITIES</h3>
 
@@ -158,7 +158,7 @@ confl icts more acute.
 
 <h4>FIGURE 3. CHILD MORTALITY RATES AND PROPORTIOS URBAN, SOUTHEAST ASIAN COUNTRIES. (SOURCES OF DATA: UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS, WORLD URBANIZATION PROSPECTS: THE 2005 REVISION;<a href="#notes"><sup>5</sup></a> UNITED NATIONS STATISTICS DIVISION<a href="#notes"><sup>12</sup></a>) </h4>
 
-<p style="text-align: center;"><img title="7k3" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7k3.jpg?sfvrsn=cee2c21b_0" data-displaymode="Original" alt="FIGURE 3. CHILD MORTALITY RATES AND PROPORTIOS URBAN, SOUTHEAST ASIAN COUNTRIES."></p>
+<p style="text-align: center;"><img title="7k3" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7k3.jpg" data-displaymode="Original" alt="FIGURE 3. CHILD MORTALITY RATES AND PROPORTIOS URBAN, SOUTHEAST ASIAN COUNTRIES."></p>
 
 <h3>PARTICIPATORY URBAN GOVERNANCE</h3>
 
@@ -176,9 +176,9 @@ confl icts more acute.
 
 <p>Trends supporting localisation and decentralisation are significant because a large proportion of urban demographic growth is occurring in small cities of less than 1 million inhabitants. Local governments have the advantage of flexibility in making decisions on critical issues such as land use, infrastructure and services, and are more amenable to popular participation and political oversight. However, they need significant support from both the public and private sectors as they tend to be under-resourced, under-financed, and lack critical information and the technical capability to utilise it.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 “Urban governance” refers to the
 processes by which local urban
 governments—in partnership with
@@ -187,9 +187,9 @@ segments of civil society—respond
 effectively to local needs in a
 participatory, transparent and
 accountable manner.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>CONCLUSION</h3>
 
@@ -197,13 +197,13 @@ accountable manner.
 
 <p>City growth provides opportunities for modernisation and cultural enrichment, and accelerates social change. Rapidly growing cities, especially the larger ones, will include various generations of migrants, each with a diversity of social and cultural backgrounds. In a diverse global network of vibrant cities, there needs to be continual adjustment and adaptation to the mix of traditional values and contemporary perspectives of communities and governments.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Richard Leete</strong> is Director and Head of the Department of Social Affairs of the General Secretariat for Development, Government of Qatar. Dr Leete was formerly the Resident Representative of the United Nations Development Programme for Malaysia, Singapore and Brunei Darussalam, a position he held from October 2003 to April 2008, during which he concurrently served as the Resident Co-ordinator for the United Nations’ Operational Activities for Development in Malaysia, as well as UNFPA Representative. In June 2007, he was awarded the Darjah Kebesaran Panglima Jasa Negara (PJN) (Honorary) that carries the title “Datuk”.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -232,10 +232,6 @@ accountable manner.
 <ul>
 <li class="small-text">Legrain, Philippe, <em>Immigrants: Your Country Needs Them</em> (London, UK: Little, Brown, 2007).</li>
 </ul>
-
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
