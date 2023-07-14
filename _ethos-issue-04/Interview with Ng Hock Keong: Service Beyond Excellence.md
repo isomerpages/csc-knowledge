@@ -24,6 +24,23 @@ border-top: 1px solid black;
 
 }
 
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 .author p {
 	font-size: 0.9em;
 	line-height:24px !important;
@@ -110,15 +127,15 @@ color: white;
 
 <p>We also have an internal culture where we celebrate success and new ideas. We give out generous awards for successful new projects. And when one department tries out new ideas that work, every other department will want to come on board—the word-of-mouth effect is better than a top-down plan from the QSM office!</p>
 
-<div class="red">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 By freeing up less value-adding
 channels, we can now offer
 different strokes to different
 folks, instead of the traditional
 one-size-fits-all approach.
-</em></h5>
+</p>
 </div>
 
 
@@ -155,13 +172,13 @@ one-size-fits-all approach.
 <p>With information technology, it is relatively cheap to include these things on the website. How do we then draw customers in? We provide short teasers and games, send them text messages, give vouchers for little quizzes. It sets people thinking.</p>
 
 
-<div class="red">
-<h5><em>
+<div class="break">
+<p class="break1">
 Development should be driven
 by business processes and
 customer context, rather than
 technical specifications alone.
-</em></h5>
+</p>
 </div>
 
 <p>So here is another mindset change. Instead of giving them just the facts of their CPF account, we try to bring the bigger message across. CPFB can push out personalised messages because we know your customer profile, and give you prompts, say six months before you hit your CPF balance limit for your housing instalments. We provide online calculators so people can see the bottom line impact on their own pockets instead of reading pages of news reports. We will leverage on new media to further extend our reach in public education in the next two years.</p>
