@@ -79,7 +79,7 @@ li {
 
 <h4>FIGURE 1. A CITY IN A GARDEN—A BUSTLING METROPOLIS NESTLED IN A LUSH MANTLE OF TROPICAL GREENERY</h4>
 
-<p style="text-align: center;"><img title="7h1" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7h1.jpg?sfvrsn=9e3a6d2e_0" data-displaymode="Original" alt="FIGURE 1. A CITY IN A GARDEN—A BUSTLING METROPOLIS NESTLED IN A LUSH MANTLE OF TROPICAL GREENERY"></p>
+<p style="text-align: center;"><img title="7h1" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7h1.jpg" data-displaymode="Original" alt="FIGURE 1. A CITY IN A GARDEN—A BUSTLING METROPOLIS NESTLED IN A LUSH MANTLE OF TROPICAL GREENERY"></p>
 
 <h3>A MORE SOPHISTICATED GREENERY PLAN</h3>
 
@@ -87,7 +87,7 @@ li {
 
 <h4>FIGURE 2. GRADUAL VEGETATION INCREASE FROM 1986 TO 2007. DARK GREEN AREAS: TREE CANOPY COVER; LIGHT GREEN AREAS: SHRUB COVER/GRASSLANDS. BASED ON DATA FROM NORMALISED DIFFERENCE VEGETATION INDEX MAPS </h4>
 
-<p style="text-align: center;"><img title="7h2" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7h2.jpg?sfvrsn=73a3ba10_0" data-displaymode="Original" alt="FIGURE 2. GRADUAL VEGETATION INCREASE FROM 1986 TO 2007. DARK GREEN AREAS: TREE CANOPY COVER; LIGHT GREEN AREAS: SHRUB COVER/GRASSLANDS. BASED ON DATA FROM NORMALISED DIFFERENCE VEGETATION INDEX MAPS"></p>
+<p style="text-align: center;"><img title="7h2" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7h2.jpg" data-displaymode="Original" alt="FIGURE 2. GRADUAL VEGETATION INCREASE FROM 1986 TO 2007. DARK GREEN AREAS: TREE CANOPY COVER; LIGHT GREEN AREAS: SHRUB COVER/GRASSLANDS. BASED ON DATA FROM NORMALISED DIFFERENCE VEGETATION INDEX MAPS"></p>
 
 <p>The importance of greenery for a quality living environment has been underscored in Singapore’s Master Plan 2003. The Master Plan, drawn up by the Urban Redevelopment Authority (URA) to steer Singapore’s urban development in the subsequent 15 years, incorporated a new Parks and Water Bodies Plan with these guiding principles:</p>
 
@@ -104,17 +104,17 @@ li {
 
 <p>Skyrise greenery is another example of how we can add new dimensions to the green space in the city. While roof-top and vertical greenery is not a new architectural phenomenon in Singapore, the increasing adoption of skyrise greenery in new iconic buildings such as the National Library Building, and upcoming projects such as the Eco-Precinct by the Housing Development Board (HDB) and the Integrated Resort in Marina Bay augurs well for the development of skyrise greenery in the city. Ongoing research by the National Parks Board (NParks), to identify plants and planting medium to ease maintenance of skyrise greenery, aims to contribute to developments in this area.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The matrix of park connectors
 as green links and recreational
 corridors among parks is one
 of the ways to expand green
 space in the city.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>As the population’s expectations become more sophisticated, there is a need to develop a wider range of parks and recreational amenities. An important focus of NParks has been to develop our parks into natural gravitational points for play and leisure. While ensuring that ample green space has been set aside to cater to those who seek the pleasure of a simple, idyllic green hideout from the hustle and bustle of the city, we are also selectively developing parks along thematic lines. For instance, the Jacob Ballas Children’s Garden at the Singapore Botanic Gardens which opened in October last year was designed as a haven for children below 12 years old. HortPark was officially opened in May 2008 as a one-stop gardening hub for gardening lovers and aspirants. Other projects such as the Fort Canning Park within the city centre will be better connected to the National Museum and the Bras Basah area to improve its vibrancy as a venue for the arts and culture. The new Sengkang Riverside Park will feature a theme of fruit trees and water recreation, while the upcoming new Admiralty Park will have a nature appreciation and conservation component. There will also be a new extreme skate park for those seeking thrills and excitement within a green setting.</p>
 
@@ -148,13 +148,13 @@ space in the city.
 
 <p>New initiatives to energise Singapore’s green space, balance economic development and environmental conservation, and engage community participation at all levels, will further enhance the vibrancy and soul of our City in a Garden. We can look forward to greener days ahead.<a href="#notes"><sup>2</sup></a></p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Ng Lang</strong> has been Chief Executive Officer of the National Parks Board (NParks) since 2006, where he has led the growth of Singapore’s garden infrastructure and spearheaded developments in nature conservation and biodiversity. Mr Ng has previously served in various capacities in the Singapore diplomatic service and the public healthcare service.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -163,9 +163,6 @@ space in the city.
 <li class="small-text">This article was written in April 2008 and since then, our City in a Garden has been further augmented via the release of the draft Master Plan 2008 on 23 May 2008. The key thrusts look towards a transformation into a City of Gardens and Water, where greenery and blue spaces would be increased, extended and pervasive. As outlined in the new Master Plan, greenery will be significantly increased, with proposed park areas being upped from 3,300 to 4,500 hectares, which include new major parks as well. The park connector network will be increased to 360 kilometres of park connectors, inclusive of a 150-kilometre round-the-island loop. A significant proposal will be the harnessing of rustic farmland areas like Kranji and Lim Chu Kang as nature refuges, featuring nature trails, educational programmes, and even waterway boating.</li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
