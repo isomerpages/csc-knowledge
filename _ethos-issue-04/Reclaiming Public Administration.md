@@ -15,7 +15,23 @@ description: ""
 {
 	width:100%;
 }
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
 	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
 	
 
 .blue
@@ -95,9 +111,9 @@ border-top: 1px solid black;
 <p>An increasing proportion of government services are intangible and knowledge-based. The quality and the nature of the services provided depend on the accumulated knowledge of the organisation and the know-how of the public servant providing the service. Controls do not improve performance and may even forestall innovation.</p>
 
 
-<div class="blue">
-<h5><em>New ways must be found to encourage coordination in a non-hierarchical environment where powers and responsibilities are broadly dispersed.
-</em></h5>
+<div class="break">
+<p class="break1">New ways must be found to encourage coordination in a non-hierarchical environment where powers and responsibilities are broadly dispersed.
+</p>
 </div>
 
 <p>Coordinating complex operations is the new trademark of public administration. On important issues, it is necessary to develop a coordinated response to problems that stretch across boundaries. No government agency or country controls all the tools or has all the levers needed to address these modern issues. One cannot command collaboration (not even among agencies of the same government) or order trust. New ways must be found to encourage coordination in a non-hierarchical environment where powers and responsibilities are broadly dispersed.</p>
@@ -109,10 +125,10 @@ border-top: 1px solid black;
 <p>The hierarchical structure and authority-based public organisations created to meet the challenges of the industrial age are not well-suited to manage a highly dispersed system of relationships and shared responsibilities needed to respond to citizens’ expectations in the 21st century.</p>
 
 
-<div class="blue">
-<h5><em>
+<div class="break">
+<p class="break1">
 An increasing number of public policies require the active participation of citizens, as agents, to achieve the desired policy outcome.
-</em></h5>
+</p>
 </div>
 
 
