@@ -16,17 +16,22 @@ description: ""
 	font-size:16px;
 }
 	
-.brown
+.break
 {
-background-color: #634E41;	
-padding: 30px;
-}
-
-.brown h5,.brown p, .brown h4
-{
-	color: white;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
 }
 	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
 
 
 
@@ -96,12 +101,12 @@ don’t know we don’t know."</em></h4>
 <p>Singapore’s one-size-fits-all, mass-production approach to education in the 1970s was ill-suited to the needs of a country undergoing rapid economic change. So Dr Goh Keng Swee and a group of systems engineers studied this wicked problem and recommended a new efficiency-driven education system where students of different abilities could be developed differently. The education system we have today still bears the imprint of these changes made in the late seventies and early eighties.</p>
 
 
-<div class="brown">
-<h5><em>
+<div class="break">
+<p class="break1">
 We need to be good at
 strategic foresight as well as
 strategic planning.
-</em></h5>
+</p>
 </div>
 
 
@@ -120,13 +125,13 @@ strategic planning.
 <p>Many black swan events and wild card situations offer opportunities even as they present threats and challenges for us. Climate change is potentially a big black swan. We will not escape the wicked problem of its impact. But undoubtedly, there are also opportunities, such as in the area of water management, where Singapore has built up considerable expertise, or in clean technology research and green financing. If we recognise and seize the opportunities early, we will have first-mover advantage. </p>
 
 
-<div class="brown">
-<h5><em>
+<div class="break">
+<p class="break1">
 The approach is to probe,
 sense patterns, and to act,
 even in the absence of
 complete information.
-</em></h5>
+</p>
 </div>
 	
 
@@ -145,14 +150,14 @@ complete information.
 <p>Our Public Service will have to assume new levels of entrepreneurship with its attendant risks and uncertainties. It will need to become expert at conducting bounded experiments. A government that explores will also, at times, have to sacrifice some degree of efficiency in service of discovery. Indeed, the complex issues of the 21st century call for a new paradigm in governance—one that is networked, innovative, exploratory and resilient in the way it confronts the challenges of our time. </p>
 
 
-<div class="brown">
-<h5><em>
+<div class="break">
+<p class="break1">
 A government that
 explores will also, at times,
 have to sacrifice some
 degree of efficiency in
 service of discovery.
-</em></h5>
+</p>
 </div>
 
 
