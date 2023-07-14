@@ -52,13 +52,17 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #820027;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
+.containerbox h3 ,.containerbox h4 {
+	color: white;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -77,12 +81,12 @@ li {
 
 
 
-<p class="small-text text">The Home Ownership Programme is the cornerstone of Singapore's public housing. Started in 1964, the programme aims to give Singaporeans a stake in the country and its future, and promotes rootedness and a sense of belonging among Singaporeans, which contributes to the overall economic, social and political stability of the country. It also provides Singaporeans with an asset and a store of value that can be monetised in times of need.</p>
+<br>
 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">THE HOME OWNERSHIP PROGRAMME</h3>
@@ -111,17 +115,17 @@ li {
 
 <p>Upgrading has inherent advantages as the affected residents are not required to move out and it is less disruptive to the social and economic life of the community. The relatively minimal displacement involved makes upgrading a less costly and more affordable measure. The results of upgrading are also more immediate and highly visible, which significantly improves the quality of life and well-being of the residents.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Without the economic pull
 and dynamism of a younger
 population, the vibrancy
 and sustainability of
 older towns were affected.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>However, upgrading cannot fully address the needs of some older public housing estates. For example, due to their inherent design, some old housing blocks cannot be retrofitted with lifts which stop on every floor. Residents, including the elderly and the handicapped, would still need to climb some flights of stairs to reach their flats. Upgrading also does not help to improve the population make-up in the estate.</p>
 
@@ -137,7 +141,7 @@ older towns were affected.
 
 <h4>FIGURE 1. EXAMPLE OF THE MAIN UPGRADING PROGRAMME</h4>
 
-<p style="text-align: center;"><img title="7e1" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7e1.jpg?sfvrsn=970c52c3_0" data-displaymode="Original" alt="FIGURE 1. EXAMPLE OF THE MAIN UPGRADING PROGRAMME"></p>
+<p style="text-align: center;"><img title="7e1" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7e1.jpg" data-displaymode="Original" alt="FIGURE 1. EXAMPLE OF THE MAIN UPGRADING PROGRAMME"></p>
 
 <p>As of March this year, 137 precincts involving 946 blocks and a total of about 136,800 flats have been announced for MUP. The acceptance rate of the programme has been high. Of the 137 precincts, 129 have already conducted polling exercises, where 127 precincts or 98.4% have opted for the upgrading programme.</p>
 
@@ -147,18 +151,18 @@ older towns were affected.
 
 <p>As upgrading is done with residents continuing to live in their flats, ensuring their comfort and convenience is an important factor in the implementation stage. The latest construction technologies are employed to reduce the negative impact of upgrading works. Pre-cast or dry construction techniques are used wherever possible to hasten construction works and keep noise and dust levels within tolerable ranges. Additional measures are taken to provide alternatives for residents when the upgrading works are done within their flats; for example, temporary air-conditioned study rooms and rest areas, toilets and washing facilities are provided on site for their use.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The Main Upgrading
 Programme is an investment
 in housing infrastructure that
 enhances the environment and
 provides a better quality of
 life for residents.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>At the point of inception, the Government noted that the programme would substantially increase its expenditure on public housing over the next 20 years. Nevertheless, it supported the programme, viewing its share of the upgrading cost as a transfer of its budget surplus to the flat owners. It also recognised that the upgrading programme would enhance the market value of the flats—the single biggest asset for most citizens. The programme is also an investment in housing infrastructure that enhances the environment and provides a better quality of life for residents.</p>
 
@@ -176,21 +180,21 @@ life for residents.
 
 <h4>FIGURE 2. EXAMPLE OF THE SELECTIVE EN BLOC REDEVELOPMENT SCHEME</h4>
 
-<p style="text-align: center;"><img title="7e2" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7e2.jpg?sfvrsn=4ebb73d8_0" data-displaymode="Original" alt="FIGURE 2. EXAMPLE OF THE SELECTIVE EN BLOC REDEVELOPMENT SCHEME"></p>
+<p style="text-align: center;"><img title="7e2" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7e2.jpg" data-displaymode="Original" alt="FIGURE 2. EXAMPLE OF THE SELECTIVE EN BLOC REDEVELOPMENT SCHEME"></p>
 
 <p>Since residents are uprooted under SERS, care is taken to minimise the inconvenience caused and also to share with them the benefits of SERS. A generous benefits package for affected flat owners helps secure better buy-in. Owners are offered compensation for their existing flats based on the full market value of their flats and an assured replacement flat at affordable prices. They only need to move out of their existing flats after the construction of replacement flats has been completed. By trading their old flats with shorter leases for new ones with fresh 99-year leases, SERS residents get to enjoy new flats with the latest designs and amenities and at enhanced market values.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Understanding residents’ needs
 and convincing them of the benefi ts
 of the redevelopment scheme are
 key to gaining their commitment
 and confi dence.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>In many countries, relocation is often met with apprehension and resistance from affected residents because of the uprooting and break-up of existing community ties. Cognisant of such fears, HDB has taken due measures in the planning for SERS to ensure that residents can continue living in familiar neighbourhoods with minimal disruptions to their daily routines. HDB builds a wide range of new replacement flats at nearby sites to re-house the affected residents. Through joint selection exercises, neighbours get to choose flats where they can continue to live close to one another in the new precincts. The assured allocation of new replacement flats within close proximity of their existing flats and neighbours preserves the existing community ties.</p>
 
@@ -212,15 +216,15 @@ and confi dence.
 
 <h4>FIGURE 3. NEW GENERATION PUBLIC HOUSING IN DAWSON ESTATE: HOUSING IN A PARK</h4>
 
-<p style="text-align: center;"><img title="7e3" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7e3.jpg?sfvrsn=fb2e99eb_0" data-displaymode="Original" alt="FIGURE 3. NEW GENERATION PUBLIC HOUSING IN DAWSON ESTATE: HOUSING IN A PARK"></p>
+<p style="text-align: center;"><img title="7e3" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7e3.jpg" data-displaymode="Original" alt="FIGURE 3. NEW GENERATION PUBLIC HOUSING IN DAWSON ESTATE: HOUSING IN A PARK"></p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Tay Kim Poh</strong> is Chief Executive Officer of the Housing and Development Board (HDB). His role is to lead HDB to develop affordable homes, vibrant towns and cohesive communities. Mr Tay joined HDB in 1986 and took on various management positions, including Deputy Chief Executive Officer of HDB’s Estates &amp; Corporate Groups, before he was appointed Chief Executive Officer in 2006. Prior to his current role, Mr Tay was also Deputy Secretary in the Ministry of National Development where he was in charge of housing and strategic planning.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -232,9 +236,6 @@ and confi dence.
 <li class="small-text">The concept of “Housing in a Park” sets public housing within a scenic park-like environment, where residents can enjoy lush greenery close to home. It complements Singapore’s vision of “City in a Garden”. The provision of Sky Gardens enables residents to enjoy greenery at mid-level of residential blocks, and helps to soften the urban built environment.</li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
