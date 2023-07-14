@@ -38,6 +38,23 @@ li {
 	line-height:22px !important;
 }	
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 .green
 {
 background-color: #8DA34D;
@@ -107,11 +124,11 @@ color: white;
 </div>
 
 <br>
-<div class="green">
-<h5><em>
+<div class="break">
+<p class="break1">
 Government projects have started looking into opportunities to collaborate across the public and private sectors in order to deliver a holistic range of services
 with radical improvements and synergies.
-</em></h5>
+</p>
 </div>
 
 
@@ -133,11 +150,11 @@ with radical improvements and synergies.
 
 <p>In the next generation of e-Government, electronic public services must go beyond the merely transactional. They will also involve electronic means for government to more effectively engage citizens in the formulation of public policies. Singapore has already started on this effort. </p>
 
-<div class="green">
-<h5><em>
+<div class="break">
+<p class="break1">
 e-Government has become the primary interface between the Government
 and Singapore’s citizens and businesses.
-</em></h5>
+</p>
 </div>
 
 <p>Since 2005, the Reaching Everyone for Active Citizenry @ Home (REACH) website (<a href="http://www.reach.gov.sg/">http://www.reach.gov.sg</a>) has offered a series of online channels including discussion forums, online chats, blogs and emails, in order to gather public feedback as well as facilitate discussion on government policies. Once a year, REACH also organises an eTownhall discussion (using its online chat facility) to allow citizens to have real-time discussions with politicians upon the release of the Budget Speech. </p>
