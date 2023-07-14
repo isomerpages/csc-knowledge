@@ -16,6 +16,23 @@ description: ""
 	width:100%;
 }
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 .author
 {
 border-bottom: 1px solid black;
@@ -113,13 +130,13 @@ li {
 
 <p>Without an explicit way of determining the ideal state of service provision vis-à-vis public interest, perceptions are being shaped by a vocal few, and agencies are susceptible to pressure applied by this vocal minority. Better service invariably comes at a price (i.e., requiring more resources), and the question often neglected is: who actually benefits, and who is paying for it?</p>
 
-<div class="red">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Customer satisfaction is about
 giving customers what they
 need, when they need it.
-</em></h5>
+</p>
 
 </div>
 
@@ -140,12 +157,12 @@ need, when they need it.
 <p>The size and nature of the Public Service do not lend itself well to rigid standardisation and normalisation. This is a good thing, as we increasingly rely on the creativity, dynamism and boldness of our agencies to carry out their duties in this constantly changing environment. The same goes for service excellence. Agencies should be allowed to improve and improvise at their own pace, governed by a central strategic directive. However, the greatest challenge with that is that perceptions of the Public Service are shaped by the “weakest link”. This has been demonstrated by lapses in the “No Wrong Door” policy,<a href="#notes"><sup>2</sup></a> where customer satisfaction plummets at the point where the policy is disregarded, when the first officer “drops the ball”.</p>
 
 
-<div class="red">
-<h5><em>
+<div class="break">
+<p class="break1">
 Perceptions of the Public
 Service are shaped by the
 “weakest link”.
-</em></h5>
+</p>
 </div>
 
 
