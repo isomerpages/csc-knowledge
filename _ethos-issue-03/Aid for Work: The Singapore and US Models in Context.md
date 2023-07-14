@@ -51,7 +51,22 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 	
-
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
 	
 .small-text
 {
@@ -118,10 +133,10 @@ The Workfare Income Supplement (WIS) announced in the 2007 Budget is a long-term
 
 <p>In contrast, Wisconsin eschewed training and emphasised work instead,<a href="#notes"><sup>9</sup></a> since it was found that work experience proved to be far more valuable than the additional retooling individuals would receive had they chosen instead to receive training first. Furthermore, programmes that focused on work over training were regarded to be a more efficient use of resources.</p>
 
-<div class="purple">
-<h5><em>
+<div class="break">
+<p class="break1">
 Emphasising work over welfare has numerous benefits aside from the financial advantages it accrues.
-</em></h5>
+</p>
 </div>
 
 
@@ -138,10 +153,10 @@ Emphasising work over welfare has numerous benefits aside from the financial adv
 <p>Another area where Workfare policymakers in Singapore are likely to have to grapple with is whether women should be given more attention, since they are more likely than men to face difficulties in achieving financial self-sufficiency. The predicament in which they often find themselves is a consequence of structural, social and cultural factors. As in many parts of the world, Singaporean women generally earn less and, more often than men, find themselves in lower-paying jobs. Even if they have worked, many spend fewer years of their lives in paid employment compared with men, as they are obliged to enter and exit the labour force to provide care for their children and aged parents in keeping with social and cultural demands that posit that they are primary caretakers of their families.<a href="#notes"><sup>12</sup></a> These factors suggest that women end up with less savings than men to sustain themselves in old age. Furthermore, that married women outlive their husbands means that greater numbers would find themselves in dire straits especially if they were low-wage workers during their work life. Finally, the fact that women continue to undertake roles as primary caregivers in the family suggests that some of the assistance offered under Workfare should be extended to caregivers.<a href="#notes"><sup>13</sup></a> Hence, the design of Workfare may also need to take into account the demographic particularities of Singapore rather than subsuming all low-wage workers in a single, undifferentiated category.</p>
 
 
-<div class="purple">
-<h5><em>
+<div class="break">
+<p class="break1">
 Workfare may need to take into account the demographic particularities of Singapore.
-</em></h5>
+</p>
 </div>
 
 
