@@ -85,16 +85,16 @@ li {
 
 <p>In almost all standard economics texts, such as Frank and Bernanke<a href="#notes"><sup>2</sup></a> and Pindyck and Rubinfeld,<a href="#notes"><sup>3</sup></a> production is attributed to the role of labour (L) and manufactured capital (KM). However, early neoclassical economics, such as Jevons,<a href="#notes"><sup>4</sup></a> Marshall<a href="#notes"><sup>5</sup></a> and Fisher,<a href="#notes"><sup>6</sup></a> exposited production in terms of not only L and KM but also KN. Marshall’s explanation on the role of KN was profound: “<em>… man does not create things but only rearranges matter”</em>.<a href="#notes"><sup>5</sup></a> Fisher, who was instrumental in setting the stage for the development of capital theory on stocks and flows, relied on the premise that nature is a capital stock that provides a flow of services.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The survival of cities and
 communities will depend on
 how well the sources and
 the sinks are managed.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The omission of KN from the explanation of production in contemporary economics is perhaps due to two sets of reasons. The first is that the formalisation of a theory of economic growth by economists such as Harrod,<a href="#notes"><sup>7</sup></a> Domar,<a href="#notes"><sup>8</sup></a> Samuelson,<a href="#notes"><sup>9</sup></a> Swan<a href="#notes"><sup>10</sup></a> and Solow,<a href="#notes"><sup>11</sup></a> confined the explanation of growth (expansion of production) to L and KM. This simplification—the omission of KN in the explanation of growth—was perhaps premised on the assumption that KN is infinite. The second set of reasons stem from the belief that technology can persistently offset the scarcity of KN. When the Malthusian notion of “Limits to Growth” surfaced in the 1970s to discuss the consequences of a rapidly growing world population in a world of finite resources, overwhelming counter evidence on the role of technology was presented by the World Bank<a href="#notes"><sup>12</sup></a> and Samuelson and Nordhaus.<a href="#notes"><sup>13</sup></a> For instance, Samuelson and Nordhaus stated that:<strong><em></em></strong></p>
 
@@ -104,18 +104,18 @@ the sinks are managed.
 
 <p>In addition, the Environmental Kuznets Curve (EKC) offers a mistaken premise—namely that continued growth would eventually lead to lower emission loads that demand the sink services of KN. Grossman and Krueger<a href="#notes"><sup>16</sup></a> and Shafik<a href="#notes"><sup>17</sup></a> have observed that the EKC is an inverted U-type relationship between income levels and the emission of specific pollutants. This suggests that environmental damages which tend to increase with the onset of economic growth begin to diminish after a certain threshold level of income—estimated to be a per-capita income of between US$5,000 to US$6,000<a href="#notes"><sup>18</sup></a>—is reached. This gives the misguided idea of growth first and the environment later.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The objective is to prevent
 pollution loads from entering
 environmental sinks so that
 the sinks have suffi cient time
 to heal and re-commence the
 provision of service flows.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Related to the EKC observation is the growing belief that emissions trading markets will reduce pollution levels to acceptable ones, such as those dictated by the Kyoto Protocol. It is certainly desirable, if not essential, to work towards much lower pollution loads compared to present levels. But to contend that emissions trading will resolve global environmental problems and deliver the sustainability of economies is too ambitious and foolhardy. Both the EKC observation and the Kyoto Protocol overlook an important bio-physical reality, which is that the restoration of environmental sinks will not depend on the reduction of marginal pollution loads but a reduction in the cumulative pollution loads. Global warming and climate change are manifestations of the fact that cumulative pollution loads exceeded threshold levels of environment sink capacities. The implication of this is that governance regimes must seek very different types of policies and practices. It is equally important to appropriately train those who will govern.</p>
 
@@ -127,18 +127,19 @@ provision of service flows.
 
 <p>Sanitation and hygiene are not the only issues that surround sewerage treatment. Because this activity eventually relies on a variety of environmental sinks—oceans, lakes, rivers and subterranean ecosystems—efficient methods of sewerage treatment have far reaching implications for sustainability. In this context, Singapore’s Public Utilities Board (PUB) offers a framework which other cities can emulate. In this city-state, every home is connected to a system where the treatment is so advanced that the recovered water is reusable for both industrial and potable purposes.</p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+
+<p class="break1">
 The oceans are the world’s
 largest naturally occurring
 carbon sink. The sink capacity
 of the oceans, when restored,
 could in turn restore balance
 to the carbon cycle.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Besides the issue of water conservation, it is equally important to note that the extent of treatment renders the residues that get deposited into the ocean sink to be inert. Most coastal cities in the world deposit untreated sewage into ocean sinks on the grossly mistaken assumption that the ocean is an infinite sink. For example, Sydney, Australia pumps out at least 12 million litres of untreated raw sewage into the Pacific Ocean each day.<a href="#notes"><sup>19</sup></a> Imagine the cumulative load of pathogenic material that would have accumulated if one tallies all other coastal pumping stations in Australia and the number of years of this activity. Some would argue that the ocean is not a static body of water and that wave actions and oceanic movements will render the deposits harmless. This may be true if the loads of deposition are small and not continuous over time. However, scientific evidence now indicates that the quality of the Pacific Ocean on the Eastern seaboard of Australia could be seriously compromised. It is this type of practice (amongst others) that has rendered nearly half the Baltic Sea (below a certain depth) to be lifeless.</p>
 
@@ -154,9 +155,10 @@ to the carbon cycle.
 
 <p>Greenhouse gas concerns have already ushered in several alternative energy initiatives which range between energy saving devices and the development of alternative energy sources to replace fossil fuels. For example, the Australian firm Oceanlinx has developed a device that converts wave energy into electrical energy; it currently has in place about six urban energy supply projects, each delivering between 5 to 15 megawatts of peak capacity. Entrepreneurs based in the United States (US) are attempting to popularise electric cars that utilise recharging stations on the mobile phone model.</p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+
+<p class="break1">
 Greenhouse gas concerns
 have already ushered in
 several alternative energy
@@ -165,9 +167,9 @@ energy saving devices and the
 development of alternative
 energy sources to replace
 fossil fuels.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The closed loop manufacturing model has already permeated business and is reported to have generated revenues amounting to US$53 billion in 1996 within the US manufacturing industry. There are numerous other examples of environmental innovations. One of the more prominent ones is the Hypercar which uses cheaper and recyclable material for the car exterior and interior, including a combustion system that significantly reduces reliance on fossil fuels and hence reduces toxic emissions. The building industry has also recently proposed the manufacture of building materials from renewable sources (such as making bricks from pulp and paper) and, at the same time, designing buildings that significantly reduce the demand for heating, insulation and lighting.</p>
 
@@ -179,13 +181,13 @@ fossil fuels.
 
 <p>Lastly, the theory of production involving KN must be incorporated within the economics curriculum of training institutions in order to cultivate environmental values and awareness in policymakers.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Dodo J. Thampapillai</strong> is an economist at the Lee Kuan Yew School of Public Policy, National University of Singapore. He also holds a Personal Chair in Environmental Economics at Macquarie University and an Adjunct Professorship in the same field at the Swedish University of Agricultural Sciences at Uppsala. Professor Thampapillai has written over 100 publications, including seven books and nine refereed monographs. His current research focus is on Macroeconomics and the Environment.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -228,9 +230,6 @@ fossil fuels.
 <li class="small-text">Thampapillai, D. J and Ohlmer, B, “Environmental Stewardship and the Firm: Perspectives from Environmental Economics”, Forthcoming in <em>Business Management and Environmental Stewardship</em>, ed. Staib, R., (London: Palgrave MacMillan, 2008).</li>
 </ul>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
