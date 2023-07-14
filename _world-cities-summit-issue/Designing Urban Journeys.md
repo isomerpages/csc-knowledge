@@ -78,17 +78,17 @@ li {
 
 <p>Like most developed cities, the Singapore population is ageing. At the same time, rising affluence means that expectations of people have changed. While public transport has to be fast and efficient to cater to the masses, it also has to remain accessible and affordable to the less privileged. In addition, given the negative impact of transport on the environment, our transport policies should also give due emphasis to protecting the environment. For a city to be liveable, vibrant and attractive to its residents, a well-planned and accessible land transport system is fundamental to the city’s sustained growth in the future.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Public transport in Singapore
 has to be fast and effi cient to
 cater to the masses, and also
 remain accessible and affordable
 to the less privileged.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>As the result of a year-long comprehensive review of the 1996 White Paper on Land Transport and in light of the new challenges ahead, LTA released the <em>Land Transport Master Plan: A People-Centred Land Transport System</em><a href="#notes"><sup>2</sup></a> in January this year. The Master Plan outlines three strategic thrusts which will shape the land transport development and policies over the next 10 to 15 years. These are: Making Public Transport a Choice Mode; Managing Road Usage; and Meeting the Diverse Needs of the People. The objective of the Master Plan is to build a more people-centred land transport system that supports a vibrant and liveable city.</p>
 
@@ -102,13 +102,13 @@ to the less privileged.
 
 <h4>FIGURE 1. IMPRESSION OF ANG MO KIO HUB</h4>
 
-<p style="text-align: center;"><img title="7f1a" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7f1a.jpg?sfvrsn=8c9d7c50_0" data-displaymode="Original" alt="FIGURE 1. IMPRESSION OF ANG MO KIO HUB"></p>
+<p style="text-align: center;"><img title="7f1a" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7f1a.jpg" data-displaymode="Original" alt="FIGURE 1. IMPRESSION OF ANG MO KIO HUB"></p>
 
 <p>In Singapore, we adopted the hub-and-spoke model for our public transport network. This essentially means relying on buses or Light Rapid Transit (LRT) to serve as feeder services, bringing commuters to MRT stations or bus interchanges. The rail network will remain as the backbone of our public transport system given its higher speed and capacity. To increase its coverage and availability, the rail network will be doubled by 2020 where existing lines will be extended, and new lines added (Figure 2). This will benefit commuters in areas currently not served by the MRT.</p>
 
 <h4>FIGURE 2. EXISTING AND FUTURE RAIL LINES BY 2020</h4>
 
-<p style="text-align: center;"><img title="7f1b" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7f1b.jpg?sfvrsn=2ca289f7_0" data-displaymode="Original" alt="FIGURE 2. EXISTING AND FUTURE RAIL LINES BY 2020"></p>
+<p style="text-align: center;"><img title="7f1b" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7f1b.jpg" data-displaymode="Original" alt="FIGURE 2. EXISTING AND FUTURE RAIL LINES BY 2020"></p>
 
 <p>While the hub-and-spoke model is more efficient in land-scarce Singapore compared with direct services for every origin and destination, transfers are inevitable in such a system. Today bus routes are planned by the two public transport operators: the SMRT Corporation Ltd (SMRT) and the SBS Transit Ltd. Being profit-driven companies, their decisions are largely based on commercial considerations. There is little integration between the systems run by the SMRT and SBS Transit as there is no incentive for them to do so. This has led to a situation where buses are less frequent than they should be, and feeder buses run long and circuitous routes before getting to the MRT station or bus interchange. This results in longer waiting and transfer times for commuters. Thus, to enhance the hub-and-spoke model, the LTA has decided to take over the planning of bus routes so that a more commuter-centric approach is taken when bus routes are planned, with due consideration given to other transport infrastructure such as the rail and road network. With better integration between bus and rail, commuters will be able to experience an overall improvement in journey time.</p>
 
@@ -150,13 +150,13 @@ to the less privileged.
 
 <p>Yam Ah Mee is Chief Executive of the Land Transport Authority (LTA). He led the Authority in the Land Transport Review which unveiled major initiatives to enhance the land transport system in Singapore over the next 10 to 15 years. Under his leadership, LTA has embarked on many initiatives to improve public transport, such as the expansion of the rail network, the introduction of wheelchair-accessible buses, barrier-free accessibility around train stations and bus interchanges, and the implementation of real-time bus arrival information. Mr Yam was previously Deputy Secretary (Sea &amp; Air) in the Ministry of Transport.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Yam Ah Mee</strong> is Chief Executive of the Land Transport Authority (LTA). He led the Authority in the Land Transport Review which unveiled major initiatives to enhance the land transport system in Singapore over the next 10 to 15 years. Under his leadership, LTA has embarked on many initiatives to improve public transport, such as the expansion of the rail network, the introduction of wheelchair-accessible buses, barrier-free accessibility around train stations and bus interchanges, and the implementation of real-time bus arrival information. Mr Yam was previously Deputy Secretary (Sea &amp; Air) in the Ministry of Transport.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -171,9 +171,6 @@ to the less privileged.
 <li class="small-text">SPRING Singapore is the agency for enterprise development. It aims to grow competitive and innovative enterprises.</li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
