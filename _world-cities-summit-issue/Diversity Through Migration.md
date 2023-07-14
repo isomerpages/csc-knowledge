@@ -79,17 +79,17 @@ li {
 
 <p>The richness of cities does not derive solely from their location, but also grows from the interaction of the diverse people who live there. Cities are central to economic growth in the way they attract and breed success. This is fuelled by migration to cities, and in turn stimulates further migration. In effect, prosperity in the 21st century derives from the convergence of a diversity of talented people in cities. Creative people are drawn to cities like London and New York because they are exciting and cosmopolitan. According to Richard Florida in The Rise of the Creative Class, “Regional economic growth is powered by creative people, who prefer places that are diverse, tolerant and open to new ideas”.<a href="#notes"><sup>1</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The richness of cities does not
 derive solely from their location,
 but also grows from
 the interaction of the diverse
 people who live there.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Conventional economics makes little allowance for this. Many economic models take no account of location; most derive collective outcomes from aggregating individual attributes which in effect ignore the huge gains from dynamic interactions among diverse people. Mainstream economists attribute the vast majority of productivity growth to a black box called technological change, which they do little to explain. As a result, policymakers underestimate the economic value of diversity, and focus instead on its cultural benefits, or on second-order effects, such as how to foster increased trade with countries with which the diverse population have cultural ties. The main economic impact of spurring productivity-enhancing innovation is often ignored.</p>
 
@@ -103,18 +103,18 @@ people who live there.
 
 <p>As John Stuart Mill rightly wrote this in 1848 in Principles of Political Economy: “It is hardly possible to overrate the value, for the improvement of human beings, of things which bring them into contact with persons dissimilar to themselves, and with modes of thought and action unlike those with which they are familiar… it is indispensable to be perpetually comparing [one’s] own notions and customs with the experience and example of persons in different circumstances… there is no nation which does not need to borrow from others.”<a href="#notes"><sup>3</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Most innovation comes from
 groups of talented people
 sparking off each other—and
 foreigners with different ideas,
 perspectives and experiences
 add something extra to the mix.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>CONCLUSION</h3>
 
@@ -122,13 +122,13 @@ add something extra to the mix.
 
 <p>But in advanced economies during periods of rapid economic change such as we are experiencing now, diversity is vital because of the creativity that is generated—and the benefits of the creativity that it stimulates are mostly generated in cosmopolitan cities where different people interact everyday. The benefits of migration and diversity are significant. Ultimately, they are key factors of why cities are a catalyst for innovation and are so economically successful. Thus, countries—and cities—that do not attract newcomers increasingly risk falling behind. Their priority should be nurturing diversity, not trying to stifle it.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Philippe Legrain</strong> is a visiting fellow at the London School of Economics’ European Institute. His research interests are globalisation, migration and European issues. Previously special adviser to World Trade Organisation’s director-general Mike Moore and trade and economics correspondent for <em>The Economist</em>, Mr Legrain has written for publications, such as the <em>Financial Times</em>, the <em>Guardian</em>, the <em>Wall Street Journal Europe and Foreign Policy</em>. His latest book, <em>Immigrants: Your Country Needs Them</em>, was shortlisted for the 2007 Financial Times Goldman Sachs Business Book of the Year Award.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -146,9 +146,7 @@ add something extra to the mix.
 <li class="small-text">Legrain, Philippe, <em>Immigrants: Your Country Needs Them</em> (London, UK: Little, Brown, 2007).</li>
 </ul>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
