@@ -84,9 +84,9 @@ li {
 
 <p>In all countries, cities have a greater output per capita than other areas. This explains why income is higher in urban areas, the reason for the mass rural-urban migration, which in turn is good for economic development. Workers moving from low productivity rural areas to higher productivity urban areas increase the average productivity of the country and, consequently, its wealth. However, the ratio of city GDP per capita as compared to national GDP per capita could be even higher if cities could be made to function more efficiently. Higher productivity ratios for cities would bring substantial benefits to the national economies and make major inroads against poverty in both urban and rural areas.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Urbanisation enhances
 productivity and countries
 with higher levels of
@@ -94,9 +94,9 @@ urbanisation enjoy higher gross
 domestic product per capita
 than countries with lower
 levels of urbanisation.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>OPPORTUNITIES AND CHALLENGES </h3>
 
@@ -122,13 +122,13 @@ levels of urbanisation.
 
 <p>The above actions are “doable”, if there is a will.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Bindu N. Lohani</strong> is Vice President (Finance and Administration) of the Asian Development Bank (ADB). Prior to this, Dr Lohani was Director General of the Regional and Sustainable Development Department; concurrently, he was ADB's Chief Compliance Officer and Special Advisor to the President on Clean Energy and Environment. Dr Lohani is an elected member of the National Academy of Engineering (NAE) of the United States-the highest professional distinction accorded to an engineer-for his work on an economic-cum-environmental approach to sustainable development. The views expressed in this article are those of the author and do not necessarily reflect the views and policies of the ADB, or its Board of Governors, or the governments they represent.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -150,9 +150,6 @@ levels of urbanisation.
     2007.</li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
