@@ -52,13 +52,18 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #7a8c54;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
+.containerbox h3 , .containerbox h4 {
+	color: white;
+	}	
+	
+	
 li {
 	font-size: 15px !important;
 	
@@ -122,7 +127,7 @@ li {
 <p>Semakau Landfill is one of the few landfills in the world to be located so far away from the mainland. Landfills are usually situated close to the mainland, because it makes transportation easier and less costly. However, due to land scarcity in Singapore, locating a landfill offshore was the only possible option.</p>
 <p>Semakau Landfill covers a total area of 350 hectares and has a landfill capacity of 63 million cubic metres. The bund is lined with a layer of impermeable membrane and marine clay to prevent any leachate within the landfill area from affecting the surrounding environment.</p>
 <h4>FIGURE 2. SEA ROUTE TO SEMAKAU LANDFILL</h4>
-<p style="text-align: center;"><img title="7g3" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7g3.jpg?sfvrsn=1766dd67_0" data-displaymode="Original" alt="FIGURE 2. SEA ROUTE TO SEMAKAU LANDFILL"></p>
+<p style="text-align: center;"><img title="7g3" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7g3.jpg" data-displaymode="Original" alt="FIGURE 2. SEA ROUTE TO SEMAKAU LANDFILL"></p>
 <p>During construction, silt screens were used to prevent the construction activities from contaminating the ecosystem in the vicinity of the landfill. The mangroves of Pulau Semakau which were affected in the construction process were replaced and replanted on two plots of mangroves of about 14 hectares located outside the periphery of the sanitary landfill. Over 400,000 mangrove saplings were replanted in the process.</p>
 <p>Besides helping to preserve the rich mangrove groves around the sanitary landfill facility, the mangroves also act as biological indicators of the water quality around the facility. With all the pollution prevention measures put in place, the mangroves have thrived and so have the biodiversity of the eco-system around the facility.</p>
 <p>Singapore chose to protect the environment as well as create a sanitary landfill out of two islands without impacting the surrounding environment and ecology. The rich biodiversity around the sanitary landfill shows that development and environmental protection can co-exist and need not be mutually exclusive.</p>
@@ -223,13 +228,13 @@ waste minimisation at source.
 
 <p>Through our multi-pronged strategies and sustained efforts, we hope to ensure that Singapore remains as a model of sustainable development in the region.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Lee Yuen Hee</strong> is Chief Executive Officer of the National Environment Agency (NEA). He has led the Agency in major initiatives such as containing the outbreak of the dengue scourge, addressing climate change and promoting energy efficiency. As part of the national drive to improve energy efficiency, NEA led a multi-agency committee known as the Energy Efficiency Programme Office (E2PO) to integrate the overall efforts of the public, private and people sectors to improve energy efficiency. In his previous appointments, Mr Lee was involved in other national projects such as the restructuring of the electricity industry, implementation of Electronic Road Pricing and review of the full-time national service period. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -237,7 +242,7 @@ waste minimisation at source.
 <li class="small-text">The Housing and Development Board is Singapore’s public housing authority and a statutory board under the Ministry of National Development.</li>
 </ol>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
