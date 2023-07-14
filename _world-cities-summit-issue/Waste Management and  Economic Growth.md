@@ -103,7 +103,7 @@ li {
 
 <h4>FIGURE 1. TOTAL WASTE DISPOSED (1970 TO 2007) </h4>
 
-<p style="text-align: center;"><img title="7g1" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7g1.jpg?sfvrsn=9f98e908_0" data-displaymode="Original" alt="FIGURE 1. TOTAL WASTE DISPOSED (1970 TO 2007)"></p>
+<p style="text-align: center;"><img title="7g1" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7g1.jpg" data-displaymode="Original" alt="FIGURE 1. TOTAL WASTE DISPOSED (1970 TO 2007)"></p>
 
 
 
@@ -113,7 +113,7 @@ li {
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">THE SEMAKAU LANDFILL</h3>
@@ -170,7 +170,7 @@ li {
 
 <h4>FIGURE 3. WASTE GENERATION IN SINGAPORE</h4>
 
-<p style="text-align: center;"><img title="7g2" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7g2.jpg?sfvrsn=15263da2_0" data-displaymode="Original" alt="FIGURE 3. WASTE GENERATION IN SINGAPORE"></p>
+<p style="text-align: center;"><img title="7g2" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7g2.jpg" data-displaymode="Original" alt="FIGURE 3. WASTE GENERATION IN SINGAPORE"></p>
 
 <h4>b) Reaching Out to the Community</h4>
 
@@ -206,16 +206,16 @@ li {
 
 <p>Singapore has always placed a strong emphasis on having a clean environment and pollution-free air, land and water, and the challenges facing Singapore ahead are to maintain a clean and green environment amidst rapid economic progress. To overcome these challenges, Singapore must constantly innovate and optimise its resources.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The way forward is to reduce
 the waste disposal rate
 through waste recycling and
 waste minimisation at source.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>As the economy and population continue to grow and consumption patterns change, waste generation is expected to increase. However, NEA is convinced that economic growth need not mean generating more waste. The per capita municipal solid waste disposed of has decreased from 0.94 kg/person/day in 2003 to 0.88 kg/person/day in 2007, suggesting that Singapore is making progress “Towards Zero Landfill” and demonstrating that economic development does not have to mean more waste generated.</p>
 
