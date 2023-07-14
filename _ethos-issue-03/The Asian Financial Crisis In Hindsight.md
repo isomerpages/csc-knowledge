@@ -16,23 +16,24 @@ description: ""
 	font-size:16px;
 }
 	
-.maroon
+.break
 {
-background-color: #702E46;	
-padding: 30px;
-}
-
-.purple h3, .purple p, .purple sup
-{
-	color: white;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
 }
 	
-.maroon h5	
+.break1
 {
-	color: white;
-	text-align: center;
-	font-size: 24px;
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }	
+	
+
 
 .author
 {
@@ -96,11 +97,11 @@ font-size:16px;
 <p>Once the bubble bursts, panic in financial markets played a key role in explaining why the crisis was more severe than weak fundamentals alone might suggest. Domestic investors began to look more critically at weaknesses that had been previously ignored; new information in an environment with poor disclosure further amplified concerns about the quality of investments, the size of foreign borrowings, and the stability of the financial system. As the crisis expanded, domestic residents became less willing to hold assets in domestic financial institutions and foreign creditors became less willing to roll over their loans, causing a liquidity squeeze that led to the bankruptcy of financial institutions as well as private firms that had borrowed from them. Thus the initial loss of confidence turned into a self-reinforcing creditors’ panic.</p>
 
 
-<div class="maroon">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Panic in financial markets explains why the crisis was more severe than weak fundamentals alone might suggest.
-</em></h5>
+</p>
 
 </div>
 
@@ -112,10 +113,10 @@ Panic in financial markets explains why the crisis was more severe than weak fun
 <p>Much of the subsequent debate on the Asian Financial Crisis has revolved around whether the remedial policy prescriptions of the IFIs were largely correct or made the situation worse. The recurrent theme of the criticisms of the IMF is that it should have concentrated on reassuring markets instead of disciplining countries—for instance, in demanding fiscal austerity from countries that did not have budget problems.<a href="#notes"><sup>4</sup></a></p>
 
 
-<div class="maroon">
-<h5><em>
+<div class="break">
+<p class="break">
 IMF failed to understand the panic element in the Asian crisis, and that its response should have bene to focus on providing liquidity, aided possibly by temporary capital controls.
-</em></h5>
+</p>
 
 </div>	
 
@@ -144,11 +145,11 @@ IMF failed to understand the panic element in the Asian crisis, and that its res
 
 <p>To the extent that the severity of the crisis was in large part due to panic, a key policy thrust of the IFIs <em>must be to improve disclosure and transparency in emerging economies</em> before crises occur. In the Asian economies, poor information environments created uncertainty and led to markets over-reacting and assuming the worst when new information—for example, concerning the strength of a particular bank—was revealed. Such over-reactions are less likely if banks, financial institutions and governments comply with international and stricter codes and standards on financial, statistical and fiscal reporting.</p>
 
-<div class="maroon">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The Asian crisis is evidence that economic growth and financial stability are related but separate policy objectives.
-</em></h5>
+</p>
 
 </div>	
 
@@ -157,7 +158,6 @@ The Asian crisis is evidence that economic growth and financial stability are re
 
 <p>Finally, the crisis revealed <em>the need for stronger social safety nets in most emerging economies</em>. Strengthening governments’ capabilities to sustain essential social services to the most vulnerable segments of their populations should become a priority area for development lending and assistance. This in turn requires institutions such as the World Bank and regional development banks to develop the expertise in fiscally sustainable unemployment insurance/assistance programmes that do not undermine work incentives. In many emerging economies, families and local communities have tended to play a bigger role than the state in delivering such assistance. In this context, the IFIs should look to strengthen and build on these existing structures rather than require governments to supplant these traditional institutions of providing assistance.</p>
 
-<hr>
 
 <div class="author">
 
