@@ -16,6 +16,23 @@ description: ""
 	font-size:16px;
 }
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 .brown
 {
 background-color: #975c39;	
@@ -91,11 +108,11 @@ font-size:16px;
 <p>For example, a new management team in the Ontario Ministry of Health and Long Term Care, responsible for healthcare in Canada’s most populous province, recently found that they were measuring more than 2,000 performance indicators and still could not say whether the services for which they were responsible were sustainable and moving in the right direction. The mass of output measurements they routinely gathered, such as numbers of hospital admissions or numbers of surgical procedures for example, did not tell them what they needed to know concerning the health outcomes for individual patients and society as a whole.</p>
 
 
-<div class="brown">
-<h5><em>
+<div class="break">
+<p class="break1">
 We need to be aware that people in society have different and sometimes
 conflicting ways of relating to these services.
-</em></h5>
+</p>
 </div>
 
 
