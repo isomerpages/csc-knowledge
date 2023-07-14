@@ -16,6 +16,23 @@ description: ""
 	font-size:16px;
 }
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 .red
 {
 background-color: #6E2C44;	
@@ -90,8 +107,8 @@ font-size:16px;
 <p>Had nothing untoward happened, most of them would have been richly rewarded. As it turned out, there was a correlation of risks, and the whole chain fell apart with very serious consequences on a system-wide basis, harming even those who have little to do with it. The same could be said of the food production chain, and its potential impact on human health.</p>
 
 
-<div class="red">
-<h5><em>
+<div class="break">
+<p class="break1">
 Most of our current mental
 models assume that with given
 starting conditions, we can
@@ -100,7 +117,7 @@ outcome of management
 actions and therefore choose a
 set of actions or strategy that
 brings us to a desired outcome.
-</em></h5>
+</p>
 </div>
 
 
@@ -122,15 +139,15 @@ brings us to a desired outcome.
 
 <p>Adopting such a way of thinking is not without challenges. Practical leaders seldom want to waste time thinking about low-probability future events. They have their plates full with current problems. Incurring current costs to insure against future events may seem fruitless, particularly if fast and mobile managers would have moved on to new pastures by the time any adverse impact happens, if at all. But for those who have long-term and total responsibilities for the whole organisation, risk management and the associated costs cannot be avoided.</p>
 
-<div class="red">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 If the outcome is uncertain
 and the unexpected has a
 fair chance to happen, we
 need to pay more attention
 to execution.
-</em></h5>
+</p>
 
 </div>
 
