@@ -224,7 +224,7 @@ li {
 
 <p>Singapore’s brand of sustainable development is unique. We have already established a good foundation by institutionalising a planning process that takes a long-term view. Our comprehensive and integrated urban planning framework ensures that all development needs are considered, and the necessary trade-offs are debated and decided upon. A pragmatic approach is taken—one which recognises the need to generate economic growth yet, at the same time, safeguards social and environmental considerations in a balanced way. Planning is not done in isolation but through a consultative process with a Whole-of-Government approach and in collaboration with the private sector. We value public-private sector partnerships in developing our city. Collectively, the Government has started to pursue innovative and state-of-the-art green technologies to deal with issues of environmental protection, energy usage and urban management. All these initiatives will stand us in good stead by giving us more room to manoeuvre within our tight land constraints. We are optimistic that this comprehensive approach can work towards achieving a sustainable Singapore where we can have both economic growth and a high quality environment for all who live here.</p>
 
-<p style="text-align: center;"><img title="7d4" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7d4.jpg?sfvrsn=1de1ab2a_0" data-displaymode="Original" alt="Map: URA"></p>
+<p style="text-align: center;"><img title="7d4" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7d4.jpg" data-displaymode="Original" alt="Map: URA"></p>
 
 <hr>
 
@@ -247,9 +247,7 @@ li {
 <li class="small-text">In 2008, Singapore was listed by the Hub Culture Zeitgeist Cities Ranking as one of the top 20 global vibrant cities and was also voted as the best city to live in for Asian expatriates 10 years running according human resources consultancy ECA International.</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
