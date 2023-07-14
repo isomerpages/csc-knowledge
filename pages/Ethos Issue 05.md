@@ -71,7 +71,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i>Dr Alvin Pang</i></b>
 		<p>This thematic issue of Ethos continues the important conversations raised at the inaugural Singapore Human Capital Summit, held in October 2008. It examines more closely some of the many issues that face leaders, developers and observers of human capital today.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/editorial/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/editorial/">Read more</a></div>
 	</div>
 </div>
 
@@ -84,7 +84,7 @@ margin-top:15px;
 		<b><i>Leon Yip</i></b>
 		<figcaption>Permanent Secretary, Ministry of Manpower</figcaption>
 		<p>The Permanent Secretary of the Ministry of Manpower outlines the attributes that enable Singapore the opportunity to share its perspectives and experience in tackling some of the broader Asian human capital challenges.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/editorial/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/foreword/">Read more</a></div>
 	</div>
 </div>
 
@@ -100,7 +100,7 @@ margin-top:15px;
 		<p>In 2008, Hewitt Associates was commissioned by Singapore’s Ministry 
 of Manpower to conduct wide-ranging research on current and future talent challenges with a special focus on Asia. In this article,  
 they highlight key findings from their research.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/rethinking-a-new-social-compact-for-singapore/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/global-talent-the-war-goes-on//">Read more</a></div>
 	</div>
 </div>
 
@@ -114,7 +114,7 @@ Leadership in the Global War for Talent</h3>
 		<b><i>Interview with Jeffrey R. Immelt</i></b>
 		<p>The Chairman and CEO of GE reflects on the continuing importance of 
 sound leadership in a rapidly changing global business landscape.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/growth-with-equity-the-challenge-of-income-distribution/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/thinking-about-winning-leadership-in-the-global-war-for-talent/">Read more</a></div>
 	</div>
 </div>
 
@@ -128,7 +128,7 @@ sound leadership in a rapidly changing global business landscape.</p>
 
 <p>Experts and business leaders share insights on the 
 challenges of managing talent in Asia today.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/globalisation-and-the-challenges-of-social-policy-in-asia-developed-open-economies/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/talent-management-in-asia-four-perspectives/">Read more</a></div>
 	</div>
 </div>
 
@@ -141,7 +141,7 @@ challenges of managing talent in Asia today.</p>
 		<b><i>Bruce J. Avolio and Peter Ong</i></b>
 		<p>Research from Gallup suggests that the emerging Asian workforce 
 may benefit from a different model of leadership development.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/poverty-capabilities-and-social-justice/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/accelerating-the-growth-of-the-asian-leader/">Read more</a></div>
 	</div>
 </div>
 
@@ -155,7 +155,7 @@ may benefit from a different model of leadership development.</p>
 		<p>A ground-breaking research study on public sector leadership in 
 Singapore highlights the importance of leadership impact and 
 challenging work assignments on staff development and performance.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-nordic-social-security-model-squaring-the-circle/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/leadership-development-in-the-singapore-public-service/">Read more</a></div>
 	</div>
 </div>
 
@@ -167,7 +167,7 @@ challenging work assignments on staff development and performance.</p>
 		<h3>Talent on Demand</h3>
 		<b><i>Review by Toh Boon Kwan</i></b>
 		<p>The review of Peter Cappelli’s “Talent on Demand” looks at how the talent management framework might fare in within the context of Singapore.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-argument-for-the-singapore-model/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/talent-on-demand/">Read more</a></div>
 	</div>
 </div>
 
@@ -179,7 +179,7 @@ challenging work assignments on staff development and performance.</p>
 		<h3>Who’s your City</h3>
 		<b><i>Review by Cai Shan</i></b>
 		<p>The review of Richard Florida’s “Who’s Your City?” explores the importance of location in today’s global economy.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-argument-for-the-singapore-model/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/whos-your-city/">Read more</a></div>
 	</div>
 </div>
 <br>
@@ -192,7 +192,7 @@ Why Singapore Needs to Get Serious
 About Branding Itself</h3>
 		<b><i>Ng Siew Kiang</i></b>
 		<p>Singapore has what it takes to be a global talent magnet: now it needs to make its case clearly, argues Ng Siew Kiang from Contact Singapore.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/wage-inequality-intergenerational-mobility-and-education-in-singapore/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/the-global-talent-war-why-singapore-needs-to-get-serious-about-branding-itself/">Read more</a></div>
 	</div>
 </div>
 
@@ -204,7 +204,7 @@ About Branding Itself</h3>
 		<h3>Developing Human Capital: Insights from the Summit</h3>
 		<b><i>Geoff Armstrong</i></b>
 		<p>The theme-weaver for the inaugural Human Capital Summit reflects on the event’s broader significance and key insights.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-fourth-pillar-of-social-security-in-singapore/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/developing-human-capital-insights-from-the-summit/">Read more</a></div>
 	</div>
 </div>
 
@@ -217,7 +217,7 @@ About Branding Itself</h3>
 		<b><i>Teresa Lim</i></b>
 		<p>Singapore needs to develop T-shaped workers and a culture 
 that favours innovation, collaboration, diversity and values.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-singapore-and-us-models-in-context/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/sharpening-singapores-edge-insights-from-the-ibm-experience/">Read more</a></div>
 	</div>
 </div>
 
@@ -230,7 +230,7 @@ that favours innovation, collaboration, diversity and values.</p>
 		<h3>Singapore as Innovation Nation</h3>
 		<b><i>Conversation with John Kao</i></b>
 		<p>ETHOS speaks to innovation thought leader John Kao who argues that innovative capacity can and should be cultivated as a national strategy.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/making-workfare-work-the-us-experience/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/singapore-as-innovation-nation/">Read more</a></div>
 	</div>
 </div>
 
@@ -243,7 +243,7 @@ that favours innovation, collaboration, diversity and values.</p>
 		<b><i>Lynda Gratton</i></b>
 		<p>Leaders can ignite creative energy by asking incisive questions and nurturing cross-boundary collaboration, writes Lynda Gratton 
 from the London Business School.</p>
-		<div class="button1"><a target="_blank" href="/ethos-issue-03/the-singapore-model-of-workfare-3-suggestions/">Read more</a></div>
+		<div class="button1"><a target="_blank" href="/ethos-issue-05/creating-hot-spots-of-innovation-and-energy-in-your-organisation/">Read more</a></div>
 	</div>
 </div>
 
