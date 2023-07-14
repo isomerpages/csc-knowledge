@@ -16,6 +16,22 @@ description: ""
 	width:100%;
 }
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
 	
 
 .purple
@@ -77,8 +93,8 @@ border-top: 1px solid black;
 <p>Like most Public Services around the world, the Australian Public Service constantly seeks to improve the quality of services it provides to the Australian people. One of the factors behind the establishment of the Department of Human Services was the desire to reinvigorate public administration and improve the delivery of services to the many Australians who have contact with the agencies that comprise the Human Services portfolio. This has led to a culture within Human Services, and its agencies, of always trying to improve the quality of services that are provided. The individual agencies undertake a range of activities to support this approach to excellence, including benchmarking, customer surveys and monitoring against performance standards. Agencies also explore more innovative ways of dealing with customers, such as the use of short message service (SMS) or text messaging, provided these innovations do not conflict with the policy intent of the programmes they are administrating and do not jeopardise the integrity of the payments they administer. If done well, innovative service delivery can result in higher satisfaction amongst customers and can also be more efficient and more cost effective.</p>
 
 
-<div class="purple">
-<h5><em>
+<div class="break">
+<p class="break1">
 There are advantages to
 integration, but it has to be
 managed in such a way that
@@ -87,7 +103,7 @@ expertise that individual
 delivery agencies have built
 up and do not weaken their
 current accessibility.
-</em></h5>
+</p>
 </div>
 
 <p>The search for improvement in service delivery can sometimes logically lead to service integration, but this is not necessarily always the case. If done in an effective manner, integration can lead to more convenient service delivery. In Australia, we have the complication of three different levels of government: local, state and commonwealth. Often, each of these levels of government can have involvement in the same areas, such as childcare.</p>
