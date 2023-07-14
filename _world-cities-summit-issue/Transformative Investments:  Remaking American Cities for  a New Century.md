@@ -95,7 +95,7 @@ li {
 
 <h3>DELIVERING "CITYNESS": THE RISE OF TRANSFORMATIVE INVESTMENTS</h3>
 
-<p>Across the US, a practice of city building is emerging that builds on the re-found value and purpose of the urban physical landscape, and recognises that cities thrive when they fully embrace what Saskia Sassen calls “cityness”.<a href="#notesCentury.aspx#notes"><sup>1</sup></a></p>
+<p>Across the US, a practice of city building is emerging that builds on the re-found value and purpose of the urban physical landscape, and recognises that cities thrive when they fully embrace what Saskia Sassen calls “cityness”.<a href="#notes"><sup>1</sup></a></p>
 
 <p>The move to recapture the American city can be found in all kinds of American cities: global cities like New York, Los Angeles and Chicago that lie at the heart of international trade and finance; innovative cities like Seattle, Austin and San Francisco that are leading the global economic revolution in technology; older industrial cities like Cleveland, Pittsburgh and Rochester that are transitioning to new economies; fast-growing cities like Charlotte, Phoenix and Dallas that are regional hubs and magnets for domestic and international migration.</p>
 
@@ -103,17 +103,17 @@ li {
 
 <p>Yet, as the new city building practice evolves, it is clear that a subset of urban investments are emerging as truly “transformative” in that they have a catalytic, place-defining impact, creating an entirely new logic for portions of the city and a new set of possibilities for economic and social activity.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Across the US, a practice
 of city building is emerging
 that builds on the re-found
 value and purpose of the urban
 physical landscape.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>We define these transformative investments as “discrete public or private development projects that trigger a profound, ripple effect of positive, multi-dimensional change in ways that fundamentally remake the value and/or function of one or more of a city’s physical building blocks”.</p>
 
@@ -164,11 +164,11 @@ HOW AND WHERE TRANSFORMATIVE INVESTMENTS TAKE PLACE</h3>
 
 <p>Across the US, cities are pursuing a variety of strategies to reclaim or augment urban green spaces. Cities like Atlanta, for example, have created transformative parks from outmoded economic uses, such as manufacturing land along urban waterfronts or by converting old railway lines into urban trail-ways.</p>
 
-<p>Cities like Scranton have reclaimed existing urban parks consumed by crime and vandalism. This has required creative physical and programmatic investments, including: redesigning parks (removing physical and visibility barriers such as walls, thinning vegetation, and eliminating “dark corners”); increasing the presence of uniformed personnel; increasing the park amenities (such as evening movies and other events to increase patronage);<a href="#notesCentury.aspx#notes"><sup>3</sup></a> and providing regular maintenance of the park and recreational facilities.<a href="#notesCentury.aspx#notes"><sup>4</sup></a></p>
+<p>Cities like Scranton have reclaimed existing urban parks consumed by crime and vandalism. This has required creative physical and programmatic investments, including: redesigning parks (removing physical and visibility barriers such as walls, thinning vegetation, and eliminating “dark corners”); increasing the presence of uniformed personnel; increasing the park amenities (such as evening movies and other events to increase patronage);<a href="#notes"><sup>3</sup></a> and providing regular maintenance of the park and recreational facilities.<a href="#notes"><sup>4</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 City corridors are the physical
 tissue that knit disparate parts of
 a city together. In the best of
@@ -176,9 +176,9 @@ conditions, corridors are multidimensional
 in purpose, where they
 are destinations as much as
 facilitators of movement.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Conversely, cities like Austin, Albuquerque and San Antonio have prodded private sector developers to create new parks as the prize of new residential development. These development extactions represents a stark departure from past practice where new housing subdivisions and commercial strips were constructed at a rapid pace, with little thought of parks and open space preservation.</p>
 
@@ -194,9 +194,9 @@ facilitators of movement.
 
 <p>Milwaukee, Providence and Portland have demolished the freeways that separated (or hid) the waterfront from the rest of the downtown and city, and unleashed a new wave of private investment and public activities.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Transformative investments are
 reclaiming the true urban identity
 by strengthening aspects of the
@@ -205,9 +205,9 @@ be it density, rehabilitation of a unique
 building or historic row, or
 the incorporation of compelling,
 if not iconic, design.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>WHAT IS THE RECIPE FOR SUCCESS?</h3>
 
@@ -227,9 +227,9 @@ if not iconic, design.
 
 <p>On the public side, it means that transportation agencies must re-channel scarce infrastructure investments to leverage other city building goals beyond facilitating traffic. It means that agencies driving a social agenda, such as schools and libraries, have to re-imagine their existing and new facilities to integrate strong design and move away from isolated projects.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Transformative investments are often
 an act in “connecting the dots”
 between the urban experiences, which
@@ -237,9 +237,9 @@ are inextricably linked in reality but
 separated in action. This requires a
 signifi cant change in how cities are
 both planned and managed.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>In the private sector, it means understanding the broader vision of the city and carefully siting and designing investments to increase successful city-building and not just project-building. It means increasing their own standards by using exemplary design and construction materials. It means finding financially beneficial approaches to mixed income housing projects and mixed use projects instead of just single uses. In all cases, it requires holistic thinking that cuts across the silos and stovepipes of specialised professions and fragmented bureaucracies.</p>
 
@@ -247,7 +247,7 @@ both planned and managed.
 
 <p>For the first time in decades, American cities have a chance to experience a measurable revival. While broader macro forces have handed cities this chance, city builders are also learning from past mistakes. After investing billions of dollars into city revitalisation efforts, the principles underpinning particularly successful and catalytic projects—transformative investments—are beginning to be clarified. The most important lesson for cities, however, is to embrace “cityness”, to maximise what makes them physically and socially unique and distinctive. Only in this way will American cities reach their true greatness.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -257,7 +257,7 @@ both planned and managed.
 
 <p class="small-text">The authors want to thank and acknowledge Andy Altman for his intellectual insights on developing this topic.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -268,9 +268,7 @@ both planned and managed.
 <li class="small-text"> Harnik, Peter, “The Excellent City Park System: What Makes it Great and How to Get There”. San Francisco, CA: The Trust for Public Land, 2003. Available online at <a href="https://www.tpl.org/sites/default/files/cloud.tpl.org/pubs/ccpe_excellentcityparks_2006.pdf">https://www.tpl.org/sites/default/files/cloud.tpl.org/pubs/ccpe_excellentcityparks_2006.pdf</a></li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
