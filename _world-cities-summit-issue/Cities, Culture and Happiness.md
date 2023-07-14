@@ -86,9 +86,9 @@ li {
 
 <p>Museums and art galleries are certainly possible in rural areas but the advantages of agglomeration are nevertheless strong as the most important museums are located in major cities, for example, the Prado in Madrid, the Louvre in Paris, the Kunsthistorisches Museum in Vienna, the Rijksmuseum in Amsterdam, the National Gallery in London, the Metropolitan Museum in New York or the J. Paul Getty Museum in Los Angeles.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Cities provide an intensive
 communication network for the
 meeting of minds; enable easy
@@ -97,9 +97,9 @@ news media; and support creativity
 by facilitating the interaction of
 people with different cultural
 backgrounds and ethnicities.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>For similar reasons, the traditional and the modern media as adduced above also tend to be concentrated in large cities. A study by Stefan Krätke on “Global Media Cities in a Worldwide Urban Network”<a href="#notes"><sup>3</sup></a> analyses the distribution of 33 global media firms with 2,766 enterprise units. The most important media cities in the world turn out to be New York, London, Paris, Los Angeles, Munich, Berlin and Amsterdam; each of these cities is host to between 64 and 185 enterprise units and between 18 and 29 global firms. This set of major “Global Media Cities” is similar to the major cities with respect to the performing arts and museums.</p>
 
@@ -109,18 +109,18 @@ backgrounds and ethnicities.
 
 <p>For many people, consuming art obviously provides a highly satisfactory experience. This opinion is supported by the enormous number of people who visit museums and, above all, special exhibitions, and attend the thousands of festivals that are held all over the world. It has to be remembered that nobody is “forced” to visit such a cultural site (except perhaps school children). Rather, people do it willingly and expect to receive some pleasure from such an activity.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Individuals, who consider
 themselves happy, laugh
 more, have fewer problems
 and absences from their
 workplace, are more sociable
 and more optimistic.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Modern social science can help us to shed light on the relationship between <em>happiness</em> and the arts due to advances in survey research and statistical estimation techniques. In particular, it is possible to answer the question to what extent people derive satisfaction from artistic activities. Over the last few years, it has become possible to capture the subjective well-being of persons in a satisfactory way.<a href="#notes"><sup>17-20</sup></a> One of the ways is through large scale surveys. In the following, the German Socio-Economic Panel, generally considered to be the best data source in the world, was used. It is based on surveying 22,000 comparable persons for their entire lives yielding 125,000 observations. These proceedings allowed changes in life circumstances and preferences of particular persons to be captured over time. To answer the question if and to what extent “art makes people happy”, two survey responses must be combined. It must measure how happy people consider themselves while establishing, at the same time, how often they attend cultural activities.</p>
 
@@ -132,7 +132,7 @@ and more optimistic.
 
 <h4>FIGURE 1. ATTENDANCE FREQUENCY OF CULTURAL EVENTS AND LIFE SATISFACTION, GERMANY 1985–1999 (SOURCE: COMPILED FROM RESEARCH FINDINGS OF THE GERMAN SOCIAL ECONOMIC PANEL)</h4>
 
-<p style="text-align: center;"><img title="7m1" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7m1.jpg?sfvrsn=6d2c4b17_0" data-displaymode="Original" alt="FIGURE 1. ATTENDANCE FREQUENCY OF CULTURAL EVENTS AND LIFE SATISFACTION, GERMANY 1985–1999"></p>
+<p style="text-align: center;"><img title="7m1" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7m1.jpg" data-displaymode="Original" alt="FIGURE 1. ATTENDANCE FREQUENCY OF CULTURAL EVENTS AND LIFE SATISFACTION, GERMANY 1985–1999"></p>
 
 <p>Figure 1 also shows the relationship between artistic consumption and satisfaction with leisure (instead of, as before, with life as a whole). There is again a marked positive correlation between the two. Those who are culturally active consumers are also those more satisfied with how they spend their leisure time.</p>
 
@@ -148,9 +148,9 @@ and more optimistic.
 
 <p>The empirical results have been produced with the help of data from Germany. The situation may be different in other countries. This is certainly true and must be left to future research. On the basis of what is known today, it may, nevertheless, be proposed carefully that similar relationships pertain to different countries and regions of the world: persons with higher income exert a higher demand for culture than do people with low income and, at the same time, people consuming culture tend to be more satisfied with the life they lead.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Countries experiencing successful
 economic development should take into
 account that their population will exert
@@ -158,9 +158,9 @@ an increasing demand for cultural
 activities in the future. The decisive
 question is in what way culture should
 be encouraged by policy.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>These insights are of immediate relevance for policy. Countries experiencing successful economic development should take into account that their population will exert an increasing demand for cultural activities in the future. The decisive question is in what way culture should be encouraged by policy. As has been discussed extensively in the Economics of Art, there are many different ways for the government to support the arts. If the state supports the arts through direct subsidies, it makes a decision at the same time about <em>what kind</em> of art is supported. This would, for example, be the case if the government subsidises or fully finances the establishment of an opera house. In such a case, only this particular form of art benefits. Art can also be supported by granting <em>tax reductions</em> to patrons of the arts. In that case, the preferences of the individual supporter, rather than those of the government, are decisive. For example, a wealthy person donates $10 million to establish a museum for impressionist art. Assuming a marginal tax rate of 60%, the donation would cost 40% or $4 million, but the donor can nevertheless impose his/her preferences on the museum and benefit from the social recognition that comes with having a museum named after oneself. While the loss of tax income to the state of $6 million must be borne by the population as a whole (since the money cannot be used for other purposes), it has no say with regard to the funds that are going to the museum. Strict regulations concerning tax deductibility can change this outcome, but has the disadvantage of an unfortunate bureaucratic interference.</p>
 
@@ -172,13 +172,13 @@ be encouraged by policy.
 
 <p>This essay demonstrates that cities, culture and happiness are closely intertwined. It also suggests direct consequences worth considering as an important element of a visionary public policy.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Bruno S. Frey</strong> is Professor of Economics at the Institute of Empirical Research in Economics at the University of Zurich. He is also a Visiting Professor at ETH-Zurich. Professor Frey co-founded the Centre for Research in Economics, Management and Arts (CREMA) in Switzerland, of which he is Research Director. A leading researcher and thinker in the area of welfare economics, Professor Frey currently researches economics and psychology, economics of art and culture, and political economics. Some of his books include <em>Happiness: A Revolution in Economics</em> (MIT Press, 2008), <em>Economics and Psychology: A Promising New Cross-Disciplinary Field</em> (MIT Press, 2007), <em>Happiness and Economics</em> (Princeton University Press, 2001), <em>Successful Management by Motivation: Balancing Intrinsic and Extrinsic Motivations</em> (Springer, 2001), <em>and Arts &amp; Economics: Analysis &amp; Cultural Policy, 2nd ed</em> (Springer, 2004).</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -207,9 +207,7 @@ be encouraged by policy.
 <li class="small-text">Stutzer, Alois and Bruno S. Frey, “What Happiness Research Can Tell Us about Self-Control and Utility Misprediction”, in Frey, Bruno S. and Alois Stutzer, eds., <em>Economics and Psychology</em> (Cambridge, MA and London: MIT Press, 2007): pp169-95.</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
