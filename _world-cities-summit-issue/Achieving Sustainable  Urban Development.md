@@ -52,13 +52,17 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #346590;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
+	color: white;
 	}	
 
+.containerbox h3 , .containerbox h4 {
+	color: white;
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -113,25 +117,24 @@ li {
 
 <h4>FIGURE 1. AN IMPRESSION OF THE MARINA BAY WATERFRONT</h4>
 
-<p style="text-align: center;"><img title="7d1" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7d1.jpg?sfvrsn=ad47d08a_0" data-displaymode="Original" alt="FIGURE 1. AN IMPRESSION OF THE MARINA BAY WATERFRONT"></p>
-
-<p>&nbsp;</p>
+<p style="text-align: center;"><img title="7d1" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7d1.jpg" data-displaymode="Original" alt="FIGURE 1. AN IMPRESSION OF THE MARINA BAY WATERFRONT"></p>
 
 
 
 
 
-<p style="text-align: center;" class="small-text text"><img title="7d2" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7d2.jpg?sfvrsn=60b91e24_0" data-displaymode="Original" alt="FIGURE 2. AN IMPRESSION OF JURONG LAKE DISTRICT IN THE FUTURE"></p>
+
+
+<br>
 
 
 
-
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">WHY JURONG?</h3>
 <h4>FIGURE 2. AN IMPRESSION OF JURONG LAKE DISTRICT IN THE FUTURE</h4>
-<p style="text-align: center;"><img title="7d2" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7d238a0483a4b2e44a2bb87ace69fac6c2e.jpg?sfvrsn=33abaddd_0" data-displaymode="Original" alt="FIGURE 2. AN IMPRESSION OF JURONG LAKE DISTRICT IN THE FUTURE"></p>
+<p style="text-align: center;"><img title="7d2" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7d2.jpg" data-displaymode="Original" alt="FIGURE 2. AN IMPRESSION OF JURONG LAKE DISTRICT IN THE FUTURE"></p>
 
 <p>To mitigate congestion within the city area and to bring jobs closer to homes, URA proposed a strategy to develop more commercial centres outside of the central area. We had identified several locations that were strategically well-spread throughout the island and well-served by MRT stations. Of these locations, the Tampines Regional Centre in the eastern part of the island and the Novena Fringe Centre nearer the city have already been developed into successful office clusters supported by retail, food and beverage (F&amp;B), and entertainment amenities. As part of the next phase of this development strategy, plans are being rolled out for Paya Lebar sub-regional centre (located between Tampines and the city centre) and the Jurong Regional Centre (a commercial hub around the Jurong East MRT station on the western part of the island).</p>
 <p>Some may ask: Why Jurong? To many people, the Jurong of today is a sub-urban residential area located far away from the city centre. It is also perceived as an industrial area.</p>
@@ -178,12 +181,14 @@ li {
 
 
 
-<p class="small-text text">South Beach and Orchard Turn are two government land sales sites that will feature prominently in Singapore’s urban landscape. The South Beach project which is located along Beach Road, a highly strategic nodal location between Marina Centre and the Civic District, will offer a mix of prime office space, luxury hotels, retail and residences.</p>
+<br>
+<br>
+<br>
 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">WORKING WITH THE PRIVATE SECTOR</h3>
@@ -193,20 +198,18 @@ li {
 <p>In both developments, the URA’s role and objective are to engage the private sector towards achieving a high quality urban environment.</p>
 <div>
 </div>
-<table width="520" style="background-color: #ffffff;" cellspacing="0" cellpadding="0" border="0">
+<table width="520" style="background-color: #346590;" cellspacing="0" cellpadding="0" border="0">
 <tbody>
 <tr valign="top">
-<td style="width: 20px;" class="menuover">&nbsp;</td>
 <td style="width: 210px;" class="menuover" align="left"><br>
             FIGURE 3. AN IMPRESSION OF ORCHARD TURN</td>
-<td style="width: 20px;" class="menuover">&nbsp;</td>
-<td style="width: 240px;" class="menuover"><br>
+
+<td style="width: 210px;" class="menuover"><br>
             FIGURE 4. AN IMPRESSION OF SOUTH BEACH </td>
-<td style="width: 30px;" class="menuover">&nbsp;</td>
-</tr>
-</tbody>
+
+</tr></tbody>
 </table>
-<p style="text-align: center;"><img title="7d3" src="../../images/default-source/ethos-images/ethos-world-cities-summit-issue/7d3.jpg?sfvrsn=367f2661_0" data-displaymode="Original" alt="Figure 3 &amp; Figure 4"></p>
+<p style="text-align: center;"><img title="7d3" src="/images/Ethos_Images/Ethos_World_Cities_SummitIssue/Fig_7d3.jpg" data-displaymode="Original" alt="Figure 3 &amp; Figure 4"></p>
 
 
 
