@@ -57,6 +57,23 @@ text-align: center;
 color: white;	
 }			
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 	
 	
 </style>
@@ -107,15 +124,15 @@ color: white;
 <p>Governments, apart from being regulators, also have to look ahead, see what is on the horizon, and plan for the future.</p>
 
 
-<div class="orange">
-<h5><em>
+<div class="break">
+<p class="break1">
 There is a stronger role than
 ever, in terms of regulation.
 You should be intervening
 at the right time and having
 some sort of leverage over
 the market.
-</em></h5>
+</p>
 </div>
 
 
@@ -128,9 +145,9 @@ the market.
 <p>Governments also get greater value out of taxes from private enterprise, rather than by trying to run businesses themselves. </p>
 
 
-<div class="orange">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The challenge for governments
 is to develop the necessary
 capacity to understand and
@@ -138,7 +155,7 @@ leverage on globalisation for
 national benefit, without
 necessarily increasing the
 bureaucracy to do so.
-</em></h5>
+</p>
 
 </div>
 
@@ -163,16 +180,16 @@ bureaucracy to do so.
 <p><strong><span style="color: #ff0000;">ASHRAF</span>:</strong> I think your social schemes such as housing and CPF (Central Provident Fund) are very important, because it helps social cohesion. Egypt has a pension scheme, but it doesn’t cover housing, for example. So, why don’t we consider housing as a tool to motivate people? I have a house; I work to pay for instalments with a CPF account. We may be able to adapt this to our environment.</p>
 
 
-<div class="orange">
+<div class="break">
 	
-<h5><em>
+<p class="break1">
 When government provides a
 service, it is not always passive.
 Sometimes you have to be very
 active, because globalisation
 can be resource intensive and
 involve a lot of risk.
-</em></h5>
+</p>
 
 </div>
 
