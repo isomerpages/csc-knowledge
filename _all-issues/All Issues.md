@@ -470,7 +470,7 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-	<td><a href="/ethos-issue-05/">Issue 5, Nov 2008,<br>Human Capital Development</a></td>
+	<td><a target="_blank" href="/ethos-issue-05/">Issue 5, Nov 2008,<br>Human Capital Development</a></td>
 	<td><a target="_blank" href="https://go.gov.sg/ethos-world-cities-summit-issue">World Cities Summit<br>Special Edition, Jun 2008</a></td>
 </tr>
 
