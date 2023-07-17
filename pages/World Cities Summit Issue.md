@@ -104,7 +104,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Achieving Sustainable Urban Development</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -116,7 +116,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>The Twin Pillars of Estate Rejuvenation</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -128,7 +128,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Designing Urban Journeys</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -140,7 +140,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Waste Management and Economic Growth</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -152,7 +152,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>A City in a Garden</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -164,7 +164,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Transformative Investments: Remaking American Cities for a New Century</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -176,7 +176,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>The Environment as Capital</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -188,7 +188,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Human Development and Urbanism</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -200,7 +200,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Diversity Through Migration</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -212,7 +212,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Cities, Culture and Happiness</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
