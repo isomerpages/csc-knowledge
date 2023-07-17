@@ -58,7 +58,7 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">World Cities Summit Issue, June 2008</span><br>World Cities Summit Issue</h3>
 		<p></p>
-		<div class="button1"><a target="_blank" href="">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-world-cities-summit-issue.pdf">Download PDF</a></div>
 	</div>
 </div>
 
@@ -67,7 +67,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Editorial</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -79,7 +79,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Planning and Innovation for City Success</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -91,7 +91,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>The Growth of Asian Cities</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
