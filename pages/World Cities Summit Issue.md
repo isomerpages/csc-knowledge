@@ -65,7 +65,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
 		<b><i>by June Gwee</i></b>
@@ -80,8 +80,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Planning and Innovation for City Success</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Alan Altshuler</i></b>
+		<p>In this interview, Professor Alan Altshuler of Harvard University discusses the attributes of a successful city and compares the city success of Singapore with US cities.</p>
 		<div class="button1"><a href="/world-cities-summit-issue/planning-and-innovation-for-city-success/">Read more</a></div>
 	</div>
 </div>
@@ -92,8 +92,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>The Growth of Asian Cities</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Bindu N. Lohani</i></b>
+		<p>As the main economic engines of growth, Asian cities are increasingly challenged to ensure sustainability while reaping the benefi ts of urbanisation.</p>
 		<div class="button1"><a href="/world-cities-summit-issue/the-growth-of-asian-cities/">Read more</a></div>
 	</div>
 </div>
@@ -105,8 +105,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Achieving Sustainable Urban Development</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Cheong Koon Hean</i></b>
+		<p>Singapore’s urban future hinges on making tough choices that seek to balance economic growth with societal well-being and environmental quality</p>
 		<div class="button1"><a href="/world-cities-summit-issue/achieving-sustainable-urban-development/">Read more</a></div>
 	</div>
 </div>
@@ -117,8 +117,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>The Twin Pillars of Estate Rejuvenation</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Tay Kim Poh</i></b>
+		<p>To renew public housing estates in Singapore, upgrading and redevelopment are key strategies in revitalising and remaking the older estates.</p>
 		<div class="button1"><a href="/world-cities-summit-issue/the-twin-pillars-of-estate-rejuvenation/">Read more</a></div>
 	</div>
 </div>
@@ -129,8 +129,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Designing Urban Journeys</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Yam Ah Mee</i></b>
+		<p>Social inclusion, a shift in mindset and a holistic strategy are the necessary ingredients in improving Singapore’s land transport system.</p>
 		<div class="button1"><a href="/world-cities-summit-issue/designing-urban-journeys/">Read more</a></div>
 	</div>
 </div>
@@ -141,8 +141,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Waste Management and Economic Growth</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Lee Yuen Hee</i></b>
+		<p>Cities as the engines of economic growth are also the highest producers of waste and pollution. Find out how economic development does not have to mean more waste generated</p>
 		<div class="button1"><a href="/world-cities-summit-issue/waste-management-and-economic-growth/">Read more</a></div>
 	</div>
 </div>
@@ -153,8 +153,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>A City in a Garden</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Ng Lang</i></b>
+		<p>Singapore’s greenery plan has entered a new phase of development where conserving biodiversity and involving the community will further transform the island.</p>
 		<div class="button1"><a href="/world-cities-summit-issue/a-city-in-a-garden/">Read more</a></div>
 	</div>
 </div>
@@ -165,8 +165,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Transformative Investments: Remaking American Cities for a New Century</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Bruce Katz and Julie Wagner</i></b>
+		<p>Transformative investments” is a class of urban interventions that is making an impact on markets, people, city landscapes and urban possibilities.</p>
 		<div class="button1"><a href="/world-cities-summit-issue/transformative-investments-remaking-american-cities-for-a-new-century/">Read more</a></div>
 	</div>
 </div>
@@ -174,10 +174,10 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>The Environment as Capital</h3>
-		<b><i></i></b>
+		<b><i>by Dodo J. Thampapillai</i></b>
 		<p></p>
 		<div class="button1"><a href="/world-cities-summit-issue/opinion-the-environment-as-capital/">Read more</a></div>
 	</div>
@@ -189,8 +189,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Human Development and Urbanism</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Richard Leete</i></b>
+		<p>A critical difference between past and present urban transitions is the impact of globalisation on city growth patterns.</p>
 		<div class="button1"><a href="/world-cities-summit-issue/human-development-and-urbanisation/">Read more</a></div>
 	</div>
 </div>
