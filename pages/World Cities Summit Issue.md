@@ -70,7 +70,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/editorial/">Read more</a></div>
 	</div>
 </div>
 
@@ -82,7 +82,7 @@ margin-top:15px;
 		<h3>Planning and Innovation for City Success</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/planning-and-innovation-for-city-success/">Read more</a></div>
 	</div>
 </div>
 
@@ -94,7 +94,7 @@ margin-top:15px;
 		<h3>The Growth of Asian Cities</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/the-growth-of-asian-cities/">Read more</a></div>
 	</div>
 </div>
 
@@ -107,7 +107,7 @@ margin-top:15px;
 		<h3>Achieving Sustainable Urban Development</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/achieving-sustainable-urban-development/">Read more</a></div>
 	</div>
 </div>
 
@@ -119,7 +119,7 @@ margin-top:15px;
 		<h3>The Twin Pillars of Estate Rejuvenation</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/the-twin-pillars-of-estate-rejuvenation/">Read more</a></div>
 	</div>
 </div>
 
@@ -131,7 +131,7 @@ margin-top:15px;
 		<h3>Designing Urban Journeys</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/designing-urban-journeys/">Read more</a></div>
 	</div>
 </div>
 
@@ -143,7 +143,7 @@ margin-top:15px;
 		<h3>Waste Management and Economic Growth</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/waste-management-and-economic-growth/">Read more</a></div>
 	</div>
 </div>
 
