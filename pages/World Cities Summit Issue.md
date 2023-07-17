@@ -198,10 +198,10 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Diversity Through Migration</h3>
-		<b><i></i></b>
+		<b><i>by Philippe Legrain</i></b>
 		<p></p>
 		<div class="button1"><a href="/world-cities-summit-issue/diversity-through-migration/">Read more</a></div>
 	</div>
@@ -213,8 +213,8 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Cities, Culture and Happiness</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Bruno S. Frey</i></b>
+		<p>The arts as a means to enhance individual well-being can have an impact on how culture should be encouraged by policy.</p>
 		<div class="button1"><a href="/world-cities-summit-issue/cities-culture-and-happiness/">Read more</a></div>
 	</div>
 </div>
