@@ -155,7 +155,7 @@ margin-top:15px;
 		<h3>A City in a Garden</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/a-city-in-a-garden/">Read more</a></div>
 	</div>
 </div>
 
@@ -167,7 +167,7 @@ margin-top:15px;
 		<h3>Transformative Investments: Remaking American Cities for a New Century</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/transformative-investments-remaking-american-cities-for-a-new-century/">Read more</a></div>
 	</div>
 </div>
 
@@ -179,7 +179,7 @@ margin-top:15px;
 		<h3>The Environment as Capital</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/opinion-the-environment-as-capital/">Read more</a></div>
 	</div>
 </div>
 
@@ -191,7 +191,7 @@ margin-top:15px;
 		<h3>Human Development and Urbanism</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/human-development-and-urbanisation/">Read more</a></div>
 	</div>
 </div>
 
@@ -203,7 +203,7 @@ margin-top:15px;
 		<h3>Diversity Through Migration</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/diversity-through-migration/">Read more</a></div>
 	</div>
 </div>
 
@@ -215,7 +215,7 @@ margin-top:15px;
 		<h3>Cities, Culture and Happiness</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/world-cities-summit-issue/cities-culture-and-happiness/">Read more</a></div>
 	</div>
 </div>
 
