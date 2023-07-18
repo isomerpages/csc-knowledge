@@ -34,8 +34,7 @@ border-top: 1px solid black;
 {
 margin-top:40px;
 border-top: 1px solid black;	
-border-bottom: 1px solid black;	
-padding-bottom:20px;
+
 
 }
 
