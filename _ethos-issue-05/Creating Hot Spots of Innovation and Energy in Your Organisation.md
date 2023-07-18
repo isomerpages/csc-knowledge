@@ -207,6 +207,7 @@ Igniting tasks create a sense of meaning that resonate with employees' sense of 
 <li class="small-text">In this action-based research, the Hot Spots Research Institute was commissioned by MOM to explore ways to support companies in the region to achieve optimum productivity and innovation. The research team is working with 10 companies in Singapore to experiment with a range of state of the art diagnostic profiles and e-learning methods. The study is designed to both support the development of the teams whilst assessing the applicability and performance of the various diagnostics and learning methods. The research began in September 2008 and will be completed by March 2009.</li>
 </ol>
 
+<div class="notestop">
 
 <h6><a name="notes"></a>FURTHER READING ON HOT SPOTS AND RELATED ISSUES</h6>
 
@@ -236,6 +237,8 @@ Igniting tasks create a sense of meaning that resonate with employees' sense of 
 <li class="small-text">Gratton, Lynda, “Working together...when apart”, Wall Street Journal, 16 June 2007.</li>
 </ul>
 
+</div>	
+	
 <br>
 
 <br>
