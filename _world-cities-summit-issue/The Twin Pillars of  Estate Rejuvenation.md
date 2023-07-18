@@ -71,7 +71,7 @@ li {
 </style>
 
 <em><small>World Cities Summit Issue, June 2008</small></em>
-<img src="">
+<img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Banner_thetwintowers.jpg">
 
 
 <p>Soon after Singapore attained self-government in 1959, one of its key challenges was to ease a severe housing shortage. The Housing and Development Board (HDB), which was set up a year later to handle this task, opted to provide small and utilitarian flats, which it was able to build quickly and at low cost to house a fast-growing population. Once the housing shortage eased, the Board's challenge was to keep up with the changing needs and aspirations of the people, who were beginning to seek bigger and better flats, and more comprehensive facilities. This is a critical challenge since living in HDB flats is a way of life for most Singaporeans. Today, some 900,000 HDB flats across the island house 8 out of every 10 Singaporeans, where 95% of all HDB dwellers own the flats they live in (see box story on The Home Ownership Programme).</p>
