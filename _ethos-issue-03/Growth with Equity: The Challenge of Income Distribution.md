@@ -16,18 +16,24 @@ description: ""
 	width:100%;
 }
 	
-.green
+.break
 {
-background-color: #939547;	
-padding: 30px;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	margin-top:50px;
+	text-align: center;
 }
 	
-.green h5	
+.break1
 {
-	color: white;
-	text-align: center;
-	font-size: 24px;
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }	
+	
+
 
 .boxheader {
 	color: white !important;
@@ -93,10 +99,10 @@ border-top: 1px solid black;
 
 
 
-<div class="green">
-<h5><em>
+<div class="break">
+<p class="break1">
 Workers are working harder and smarter, but ending with smaller shares of the growing economic pie.
-</em></h5>
+</p>
 </div>
 
 
@@ -114,10 +120,10 @@ Workers are working harder and smarter, but ending with smaller shares of the gr
 
 <p>If the Government wishes to avoid large social transfers of the Nordic variety, its main alternative would be to invest substantially more in human capital development. This can be done in a variety of ways.</p>
 
-<div class="green">
-<h5><em>
+<div class="break">
+<p class="break1">
 Unemployment insurance helps workers pool their risks to fund key necessary expenditures when faced with sudden loss of income.
-</em></h5>
+	</p>
 </div>
 
 <p>One would be to provide subsidies to the lower-income households for expenditures beyond mere subsistence, so as to allow for human capital formation. Currently, low income households spend about 60% of their income on food, housing and utility bills, leaving them with little for investments in education and education-related areas. Some studies in the US have shown that children from lower income families develop persistent skills gap as early as the age of three compared to those from higher-income families, should they go without effective pre-school programmes.<a href="#notes"><sup>4</sup></a> Perhaps a suitable starting point to address poverty issues in a sustainable way would be to provide for assistance in the form of enhanced subsidies in early childhood education.</p>
@@ -143,7 +149,6 @@ Unemployment insurance helps workers pool their risks to fund key necessary expe
 <li class="small-text">Department of Statistics, <em>Key Household Income Trends</em> (Singapore: Ministry of Trade and Industry, 2006).</li>
 <li class="small-text">The Economist noted that since 2000, real wages for the median US worker rose only about 1.5% even after accounting for health and pension benefits, even though productivity grew by as much as 15%.</li>
 <li class="small-text">Lindert, Peter H., <em>Growing Public: Social Spending and Economic Growth since the Eighteenth Century</em> (UK: Cambridge University Press, 2004).</li>
-<li class="small-text">Barnett, W. Steven and Belfield, Clive R., “Early Childhood Development and Social Mobility,” (National Institute for Early Education Research, NIEER Policy Report, October 2006), <a href="http://nieer.org/docs/?DocID=152">http://nieer.org/docs/?DocID=152</a>.</li>
 </ol>
 
 

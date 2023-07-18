@@ -116,10 +116,10 @@ li {
 
 
 
-<div class="green">
-<h5><em>
+<div class="break">
+<p class="break1">
 Asset-based policies provide dormant but somewhat ready-to-use resources, and can allow greater freedom of choice in life on the part of the holders.
-</em></h5>
+</p>
 </div>
 
 <p>The interesting thing about asset-based policies in an East Asian society like Singapore is this irony: if assets are simply to be redistributed, it becomes simply another form of welfarism. Of course, the mandatory savings and matching principle such as in Singapore may help to overcome this ideological hurdle, but in general, it is in the long-term interest of a government to narrow not only the income gap but also the asset gap in a globalised economy to a level that is in line with core social values. Nevertheless, it seems worthwhile to critically examine the effects of asset-based policies in comparison with traditional income-based policies in terms of alleviating poverty, reducing social inequalities, and enhancing social harmony.</p>
@@ -132,11 +132,6 @@ Asset-based policies provide dormant but somewhat ready-to-use resources, and ca
 
 </div>
 
-<h6><a name="notes"></a>NOTES</h6>
-
-<ol>
-<li class="small-text">Census and Statistics Department, 2006 Population By-census, Thematic Report: Household Income Distribution in Hong Kong (Hong Kong: The Government of the Hong Kong Special Administrative Region, 2007). Available at: <a href="http://www.bycensus2006.gov.hk/FileManager/EN/Content_962/06bc_hhinc.pdf">http://www.bycensus2006.gov.hk/FileManager/EN/Content_962/06bc_hhinc.pdf</a></li>
-</ol>
 
 <br>
 

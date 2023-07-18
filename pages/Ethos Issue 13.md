@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -53,9 +56,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue13.jpg"></div>
 	<div>
-		<h3>Issue 13, June 2014<br>ETHOS Issue 13</h3>
-		<p></p>
-		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-13.pdf">Download PDF</a></div>
+		<h3><span class="cat">Issue 13, June 2014</span><br>ETHOS Issue 13</h3>
+		<p>How can the public service leverage its resources and influence to not only accommodate the varied, restless energies emerging in society, but actively harness them towards the public good? Learn more about the lessons from Our Singapore Conversation and hear from Adam Kahane and Gus O’Donnell.</p>
+<br>	
+<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-13.pdf">Download PDF</a></div>
 	</div>
 </div>
 
@@ -66,7 +70,6 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>Dr Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief Ethos</figcaption>
 		<p>At this critical inflection point in Singapore's development, the Public Service need not be on the defensive, but can instead use its considerable resources and influence in ways which not only accommodate the varied, restless energies emerging in society, but actively harness them towards the public good.</p>
 		<div class="button1"><a href="/ethos-issue-13/editorial/">Read more</a></div>
 	</div>
@@ -210,7 +213,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Inclusive and Iterative Governance</h3>
-		<b><i>Mr Bui The Giang and Mr Abdul Mutalib Pehin Dato Yusof</i></b>
+		<b><i>Ethos roundtable with Mr Bui The Giang and Mr Abdul Mutalib Pehin Dato Yusof</i></b>
 		<p>Two distinguished participants from Singapore’s 6th Leaders in Governance Programme discuss income inequality, talent and governance which balances the needs of the public with the challenges of the future.</p>
 		<div class="button1"><a href="/ethos-issue-13/inclusive-and-iterative-governance/">Read more</a></div>
 	</div>

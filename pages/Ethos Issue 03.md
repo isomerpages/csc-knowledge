@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -53,9 +56,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Images/Ethos_Issue_03/ETHOS03.jpg"></div>
 	<div>
-		<h3>Issue 03, Oct 2007 <br> ETHOS Issue 03</h3>
-		<p></p>
-		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-03.pdf">Download PDF</a></div>
+		<h3><span class="cat">Issue 03, Oct 2007</span><br> ETHOS Issue 03</h3>
+		<p>The phenomenal growth brought about by globalisation has also dramatically widens the gap between the haves and the have-nots, on a worldwide scale. What more can be done to mitigate the impact of wage stagnation and inequality? Featuring thought leaders such as Martha Nussbaum, Lawrence M. Mead and Timothy F. Geithner.</p>
+<br>		
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-03.pdf">Download PDF</a></div>
 	</div>
 </div>
 

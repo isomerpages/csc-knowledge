@@ -60,6 +60,23 @@ border-top: 1px solid black;
 font-size:16px;
 }
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	margin-top:50px;
+	text-align: center;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 	
 	
 </style>
@@ -91,11 +108,11 @@ font-size:16px;
 <p>Hence, Singapore’s Public Assistance Scheme,<a href="#notes"><sup>1</sup></a> which can be seen as social insurance against becoming destitute, has eligibility criteria more stringent than those of most welfare states, and gives a lower amount of benefits.</p>
 
 
-<div class="red">
+<div class="break">
 	
-<h5><em>
+<p class="break">
 Singapore's social assistance policies require people to exhaust their own resources, those of their families, and those of the community, before turning to government help.
-</em></h5>
+</p>
 
 </div>
 
@@ -120,10 +137,10 @@ Singapore's social assistance policies require people to exhaust their own resou
 
 <p>In fact, Work Support has features to help ensure recipients are both willing and able to become self-reliant. Low assistance amounts and strictly-enforced maximum programme lengths help provide incentives for people to help themselves. At the same time, training grants, funded by the Singapore Workforce Development Agency, and case management help ensure that those who want to help themselves are given the resources to improve their own lives.</p>
 
-<div class="red">
-<h5><em>
+<div class="break">
+<p class="break1">
 Training grants funded by the Singapore Workforce Development Agency and case management jelp ensure that those who want to help themselves are given the resources to improve their own lives.
-</em></h5>
+</p>
 </div>
 
 
@@ -153,8 +170,8 @@ Training grants funded by the Singapore Workforce Development Agency and case ma
 
 <ol>
 <li class="small-text">The Public Assistance Scheme is a needs-tested financial assistance schemes for those who are unable to work owing to old age, illness or disability, and who have no means of subsistence and no one to depend on.</li>
-<li class="small-text">The figure is based on two sources from the Department of Statistics, Ministry of Trade and Industry, Singapore: <em>Yearbook of Statistics 2007: Public Finance</em> (<a href="http://www.singstat.gov.sg/pubn/reference/yos/statsT-publicfinance.pdf">http://www.singstat.gov.sg/pubn/reference/yos/statsT-publicfinance.pdf</a>) and the GDP at Current Market Prices (<a href="http://www.singstat.gov.sg/stats/themes/economy/hist/gdp2.html">http://www.singstat.gov.sg/stats/themes/economy/hist/gdp2.html</a>).</li>
-<li class="small-text">2006, StatBank Denmark, <a href="http://www.statbank.dk/">http://www.statbank.dk/</a></li>
+
+<li class="small-text">2006, StatBank Denmark, <a target="_blank" href="http://www.statbank.dk/">http://www.statbank.dk/</a></li>
 <li class="small-text">Manpower Research and Statistics Department. <em>Singapore Yearbook of Manpower Statistics, 2007</em> (Singapore: Ministry of Manpower, 2007).</li>
 </ol>
 

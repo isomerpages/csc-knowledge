@@ -15,25 +15,24 @@ description: ""
 	font-size:16px;
 }
 	
-.dark-green
+.break
 {
-background-color: #4C6E78;	
-padding: 30px;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 
-.dark-green h5
-{
-	color: white;
-	font-family: Georgia;
-	text-align: center;
-}
 
-.greybox ol li
-{
-	color: white;
-	font-size: 16px;
-	list-style-type: lower-alpha;    
-}	
 	
 .author
 {
@@ -109,10 +108,10 @@ font-size:16px;
 <p>The supply of water has been further expanded by reducing unaccounted for water (UFW), which is defined as actual water loss due to leaks, and apparent water losses arising from meter inaccuracies. Unlike other South and Southeast Asian countries, Singapore simply does not have any illegal connections to its water supply systems.</p>
 
 
-<div class="dark-green">
-<h5>
+<div class="break">
+<p class="break1">
 Only 4.5% of water in Singapore is unaccounted for — this is a level that no other country at present can match.
-</h5>
+</p>
 </div>
 
 <p>In 1990, UFW was 9.5% of the total water production.<a href="#notes"><sup>12</sup></a> Even at that level, it would have been considered to be one of the best examples in the world at the present time. By 2006, PUB had managed to lower UFW to 4.5%. This is a level that no other country can match at present. By comparison, in England and Wales, the only region in the world which has privatised its water more than a decade ago, the best level any of its private sector companies have managed to achieve is more than twice that of Singapore's. Similarly, UFW in most Asian urban centres now range between 40% and 60%.</p>
@@ -248,9 +247,7 @@ Only 4.5% of water in Singapore is unaccounted for — this is a level that no o
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">"The Tebrau and Soudai Rivers Agreement between the Government of the State of Johore and the City Council of the State of Singapore signed on 1 September 1962", <a href="http://www.channelnewsasia.com/cna/parliament/relations/documents.htm">http://www.channelnewsasia.com/cna/parliament/relations/documents.htm</a></li>
-<li class="small-text">"The Johore River Water Agreement between the Johore State Government and City Council of Singapore signed on 29 September 1962", <a href="http://www.channelnewsasia.com/cna/parliament/relations/documents.htm">http://www.channelnewsasia.com/cna/parliament/relations/documents.htm</a></li>
-<li class="small-text">Malaysia, Act of Parliament No. 53 of 1965, Constitution of Malaysia (Singapore Amendment) Act, 1965: An Act to amend the Constitution of Malaysia and the Malaysia Act, August 9, 1965.</li>
+
 <li class="small-text">Lee, M. F. and Nazarudeen, H. "Collection of urban storm water for potable water supply in Singapore." Water Quality International, May/June (1996): 36-40.</li>
 <li class="small-text">Appan, A. "A total approach to water quality management in partly-protected catchments." (paper presented at The Singapore Experience, International Workshop on Management and Conservation of Urban Lakes, Hyderabad, India, June 16-18, 2003).</li>
 <li class="small-text">Lee, Poh Onn, "Water management issues in Singapore." (paper presented at Water in Mainland Southeast Asia, Siem Reap, Cambodia, November 29 – December 2, 2005).</li>
@@ -258,9 +255,9 @@ Only 4.5% of water in Singapore is unaccounted for — this is a level that no o
 <li class="small-text">Public Utilities Board, Annual Report 2002, (Singapore: PUB, 2002).</li>
 <li class="small-text">Ministry of the Environment and Water Resources, Key Environmental Statistics 2005, (Singapore: MEWR, 2006).</li>
 <li class="small-text">Public Utilities Board, Annual Report 2003, (Singapore: PUB, 2003).</li>
-<li class="small-text">Editor's Note: With the opening of the latest plant in March 2007, the four NEWater plants can meet more than 15% of Singapore's water demand today, well ahead of the original target date of 2010. PUB will also bring forward the construction of the fifth NEWater Factory at Changi which will produce 50 million gallons per day. Hence by 2011, the NEWater plants will have the combined capacity to meet 30% of Singapore's water needs, double the original target. The ramp-up of NEWater capacity has yielded significant operational efficiencies and economies of scale. From 1 April 2007, PUB will reduce the price of NEWater from S$1.15 to S$1.00/m<sup>3</sup>. This will benefit all NEWater customers, and will translate into lower costs for businesses. [<a href="http://www.channelnewsasia.com/stories/singaporelocalnews/view/264240/1/.html">http://www.channelnewsasia.com/stories/singaporelocalnews/view/264240/1/.html</a>]</li>
+
 <li class="small-text">Khoo, Teng Chye, "Water Resources Management in Singapore." (paper presented at the Second Asian Water Forum, Bali, Indonesia, August 29 – September 3, 2005).</li>
-<li class="small-text">Asian Development Bank, "Country Water Action: Singapore. Technology Turns Water Weakness to Strength, November 2005," <a href="http://www.adb.org/water/actions/SIN/Technology.asp">http://www.adb.org/water/actions/SIN/Technology.asp</a> (accessed March 15, 2007).</li>
+
 </ol>
 
 <br>

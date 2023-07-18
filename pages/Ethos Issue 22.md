@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -65,8 +68,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i>Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief, ETHOS</figcaption>
+		<b><i>by Alvin Pang</i></b>
 		<p>This issue of ETHOS takes stock of the COVID-19 pandemic to date including some of its socioeconimic, governance and geopolitical implications and reflects on how Singapore and other governments have responded to the crisis of a generation.</p>
 	
 <div class="button1"><a target="_blank" href="/ethos-issue-22/editorial/">Read more</a></div>
@@ -75,7 +77,7 @@ margin-top:15px;
 
  <br>	
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Issue_22/ethosissue22-covid19inperspectivebanner.PNG">
+        <div><img src="images/Ethos_Images/Ethos_Issue_22/ethosissue22-covid19inperspectiveteaser.jpg">
 	</div>
         <div><h3>Singapore and COVID-19: In-Perspective</h3>
         
@@ -192,7 +194,7 @@ margin-top:15px;
  <br>	
 <div class="grid-container">
   <div>
-    <img src="">
+    <img src="/images/Cropped_images/Ethos_Issue_22/print22-10.jpg">
   </div>
   <div class="content">
     <h3>Transformation in the Singapore Public Service: Emerging Stronger from the Pandemic</h3>

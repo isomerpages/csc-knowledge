@@ -79,7 +79,7 @@ ol.lower-roman-orderedlist{
 		<p>For courses with Development Grant, departments will be charged the full course fees for any withdrawal/absentees. Development Grant is only given to those who attend the course. In rare cases where CSC has to cancel a course due to unforeseen circumstances, no course fees will be charged.</p>
 		<p>Request for Waiver: Waiver of withdrawal charges will only be approved on a case-by-case basis. A written request for waiver has to be submitted by the participant or the Training Coordinator within 3 days after the course ends.</p>
 		<p>If written notice is submitted after the Course Placement Letter has been sent, 25% of course fees will be charged.</p>
-		<p>These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your argreement.</p>
+		<p>These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.</p>
 		<li>Replacement</li>
 		<p>No penalty charges will be imposed if a replacement is provided for a participant who wishes to withdraw his/her registration for a course.</p>
 		<li>Absenteeism</li>
@@ -129,13 +129,13 @@ ol.lower-roman-orderedlist{
 <h3>Terms and Conditions of Civil Service College (“CSC”) Website Online Registration of Events </h3>
 <h4>Online Registration of Events</h4>
 <ol>
-<li>The CSC Website (“Website”) is not linked to any training systems (e.g. HRP and Workday Learning@Gov). Please seek your Supervisor’s and/or Training Coordinator’s approval before you register online for any events offered at the CSC Website. For Organisations on HRP and Workday Learning@Gov, you are strongly encouraged to use HRP and Workday Learning@Gov instead. For complimentary events, please inform your Training Coordinator of your attendance at the event so as to update your training records.</li>
+<li>The CSC Website (“Website”) is not linked to any training systems (e.g. HRP and Workday). Please seek your Supervisor’s and/or Training Coordinator’s approval before you register online for any events offered at the CSC Website. For Organisations on HRP and Workday, you are strongly encouraged to use HRP and Workday instead. For complimentary events, please inform your Training Coordinator of your attendance at the event so as to update your training records.</li>
 <li>Online registration of events are subject to the following conditions:</li>
 <ol class="alphabetical-orderedlist">
 	<li><b>Paid Events</b></li>
 	<ol class="lower-roman-orderedlist">
 		<li>Withdrawal</li>
-		<p>Only withdrawals through emails or faxes will be acknowledged. Confirmed participants who withdraw after registration has been confirmed by us will be charged the full course of the event. <br> These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your arrangement.</p>
+		<p>Only withdrawals through emails or faxes will be acknowledged. Confirmed participants who withdraw after registration has been confirmed by us will be charged the full course of the event. <br> These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.</p>
 		<li>Replacement</li>
 		<p>No penalty charges will be imposed if a replacement is provided for a participant who wishes to withdraw his/her registration for an event.</p>
 		<li>Notification</li>

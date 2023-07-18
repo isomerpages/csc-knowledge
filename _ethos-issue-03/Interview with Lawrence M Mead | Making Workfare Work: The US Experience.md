@@ -1,5 +1,5 @@
 ---
-title: "Interview with Lawrence M Mead: Making Workfare Work: The US Experience"
+title: "Interview with Lawrence M Mead | Making Workfare Work: The US Experience"
 permalink: /ethos-issue-03/making-workfare-work-the-us-experience/
 description: ""
 ---

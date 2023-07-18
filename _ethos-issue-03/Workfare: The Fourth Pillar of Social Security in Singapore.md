@@ -16,29 +16,29 @@ description: ""
 	font-size:16px;
 }
 	
-.box
+.containerbox
 {
 background-color: #4e7077;	
 padding: 30px;
 }
 
-.box h3,.box p, .box h4
+.containerbox h3,.containerbox p, .containerbox h4
 {
 	color: white;
 }
 	
-.box1
+.containerbox1
 {
 background-color: #62788a;	
 padding: 30px;
 }
 	
-.box1 h3,.box1 p
+.containerbox1 h3,.containerbox1 p
 {
 	color: white;
 }	
 	
- .box1 ol li
+ .containerbox1 ol li
 {
 	color: white;
 	font-size: 17px;
@@ -122,7 +122,7 @@ font-size:16px;
 
 
 
-<div class="box">
+<div class="containerbox">
 
 
 <h3 class="title">WHY WORKFARE?</h3>
@@ -157,7 +157,7 @@ font-size:16px;
 
 
 
-<div class="box1">
+<div class="containerbox1">
 
 
 <h3 class="title">WAGE SUPPLEMENTATION</h3>

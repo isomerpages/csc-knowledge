@@ -12,7 +12,10 @@ image: /images/Ethos_Images/Ethos_Issue_01/ETHOS01.jpg
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -53,10 +56,10 @@ margin-top:15px;
         <div><img src="/images/Ethos_Images/Ethos_Issue_01/ETHOS01.jpg"></div>
         <div><h3><span class="cat">ISSUE 24, OCT 2006</span>
             <br>ETHOS Issue 01</h3>	
-            <p></p>
+            <p>The inaugural issue focuses on a matter of global concern and national: Ageing. What can we expect in the decades to come and what can we do about it today? Learn more from thought leaders Dr Joseph Chamie, Dr Sarah Harper and Professor Norbert Walter.</p>
             
-            
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-01">Download PDF</a></div>
+<br>            
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-01.pdf">Download PDF</a></div>
 	</div>
    </div>
     
@@ -69,7 +72,7 @@ margin-top:15px;
 		<b><i>Peter Ho</i></b>
 		<p>We are at an inflexion point. Globalisation and rapid advances in technology are transforming business, politics and society. The simultaneous rise of China and India are changing trade flows and mapping out new patterns of influence. </p>
 	
-<div class="button1"><a target="_blank" href="/ethos-issue-01/foreword/">Read more</a></div>
+<div class="button1"><a href="/ethos-issue-01/foreword/">Read more</a></div>
 </div>
 </div> 
 

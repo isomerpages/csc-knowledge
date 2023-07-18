@@ -126,7 +126,7 @@ font-size:16px;
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">Bay, P. "Tay Kheng Soon and SPURS: Activism in the early days of Singapore's history," (interview conducted in October 1998), <a href="http://www.newsintercom.org/index.php?itemid=57">http://www.newsintercom.org/index.php?itemid=57</a> (accessed 7 March 2007).</li>
+<li class="small-text">Bay, P. "Tay Kheng Soon and SPURS: Activism in the early days of Singapore's history," (interview conducted in October 1998), <a target="_blank" href="http://www.newsintercom.org/index.php?itemid=57">http://www.newsintercom.org/index.php?itemid=57</a> (accessed 7 March 2007).</li>
 </ol>
 
 <br>

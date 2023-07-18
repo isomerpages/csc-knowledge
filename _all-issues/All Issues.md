@@ -48,10 +48,10 @@ font-size: 16px;
 </tr>
 <tr>
 	<td>
-		<a href="/ethos/">Issue 25, <br>April 2023</a>
+		<a target="_blank" href="/ethos/">Issue 25, April 2023<br>Prioritising Purpose</a>
 	</td>
 	<td>
-		<a href="/digital-issue-10/">Digital Edition Issue 10, <br>Mar 2023</a>
+		<a target="_blank" href="/digital-issue-10/">Digital Edition Issue 10, <br>Mar 2023</a>
 	</td>
 </tr>
 <tr>
@@ -323,7 +323,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-13">Issue 13, May 2014, <br>Public Service Transformation</a></td>
+	<td><a target="_blank" href="/ethos-issue-13/">Issue 13, May 2014, <br>Public Service Transformation</a></td>
 </tr>
 
 
@@ -344,7 +344,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-12">Issue 12, Jun 2013, <br>Listen, Labour and Lead</a></td>
+	<td><a target="_blank" href="/ethos-issue-12/">Issue 12, Jun 2013, <br>Listen, Labour and Lead</a></td>
 </tr>
 
 
@@ -369,7 +369,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-<td><a target="_blank" href="https://go.gov.sg/ethos-issue-11">Issue 11, Aug 2012, Globalisation: Challenges
+<td><a target="_blank" href="/ethos-issue-11/">Issue 11, Aug 2012, Globalisation: Challenges
 and Policy Responses</a></td>
 </tr>
 
@@ -394,9 +394,9 @@ and Policy Responses</a></td>
 </tr>
 	
 <tr>
-<td><a target="_blank" href="https://go.gov.sg/ethos-issue-10">Issue 10, Oct 2011, <br>Preparing Government<br> for
+<td><a target="_blank" href="/ethos-issue-10/">Issue 10, Oct 2011, <br>Preparing Government<br> for
 the Challenges<br> of the 21 st Century</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-09">Issue 9, Jun 2011, National<br>Productivity and
+	<td><a target="_blank" href="/ethos-issue-09/">Issue 9, Jun 2011, National<br>Productivity and
 WOG Collaboration</a></td>
 </tr>
 
@@ -424,8 +424,8 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-08">Issue 8, Aug 2010, The Impact of China</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-07">Issue 7, Jan 2010, <br>Thinking About The Future</a></td>
+	<td><a target="_blank" href="/ethos-issue-08/">Issue 8, Aug 2010, The Impact of China</a></td>
+	<td><a target="_blank" href="/ethos-issue-07/">Issue 7, Jan 2010, <br>Thinking About The Future</a></td>
 </tr>
 
 
@@ -447,7 +447,7 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-<td><a target="_blank" href="https://go.gov.sg/ethos-issue-06">Issue 6, Jul 2009, The Global Financial Crisis</a></td>
+<td><a target="_blank" href="/ethos-issue-06/">Issue 6, Jul 2009, The Global Financial Crisis</a></td>
 </tr>
 
 
@@ -470,8 +470,8 @@ WOG Collaboration</a></td>
 </tr>
 	
 <tr>
-	<td><a href="https://go.gov.sg/ethos-issue-05">Issue 5, Nov 2008,<br>Human Capital Development</a></td>
-	<td><a href="https://go.gov.sg/ethos-world-cities-summit-issue">World Cities Summit<br>Special Edition, Jun 2008</a></td>
+	<td><a target="_blank" href="/ethos-issue-05/">Issue 5, Nov 2008,<br>Human Capital Development</a></td>
+	<td><a target="_blank" href="/world-cities-summit-issue/">World Cities Summit<br>Special Edition, Jun 2008</a></td>
 </tr>
 
 
@@ -509,8 +509,7 @@ Delivery</a></td>
 </tr>
 	
 <tr>
-	<td><a href="/ethos-issue-03/">Issue 3, Oct 2007, <br>Rethinking Social Mobility <br>and
-Social Security</a></td>
+	<td><a target="_blank" href="/ethos-issue-03/">Issue 3, Oct 2007, <br>Rethinking Social Mobility and <br>Social Security</a></td>
 	<td><a target="_blank" href="/ethos-issue-02/">Issue 2, Apr 2007, <br>Urban Planning and
 Management</a></td>
 </tr>

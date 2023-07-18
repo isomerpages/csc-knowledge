@@ -16,13 +16,31 @@ description: ""
 	font-size:16px;
 }
 	
-.purple
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
+	
+.containerbox
 {
 background-color: #6E3A67;	
 padding: 30px;
 }
 
-.purple h3, .purple p, .purple sup
+.containerbox h3, .containerbox p, .containerbox sup
 {
 	color: white;
 }
@@ -48,18 +66,7 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 	
-.adapted
-{
-border-bottom: 1px solid black;
-margin-top:40px;
-padding-bottom:30px;
-}	
-	
-.adapted p
-{
-	font-size: 0.9em;
-	line-height:24px !important;
-}
+
 	
 	
 .small-text
@@ -92,7 +99,7 @@ font-size:16px;
 
 
 
-<div class="purple">
+<div class="containerbox">
 
 
 <h3 class="title">SEOUL'S 2004 BUS SYSTEM REFORMS</h3>
@@ -116,11 +123,11 @@ font-size:16px;
 <p>Infrastructure, such as urban rail systems and Bus Rapid Transit (BRT), is a key aspect of efforts to improve public transport. The most ambitious approaches, however, also involve excellent, highly customer-oriented integration. In an integrated public transport system, the private car — and not other public transport operators — is seen as the primary rival. Highly-integrated public transport systems are planned and marketed as a unified whole and presented as a single brand image to the general public. Stockholm pioneered this approach in the 1960s and Zurich has taken it further.<a href="#notes"><sup>1</sup></a></p>
 
 
-<div class="purple">
-<h5><em>
+<div class="break">
+<p class="break1">
 It is in places where the private car is a real threat and where public transport refuses to accept defeat that we find the most intense public transport innovation efforts.
-</em></h5>
-</div>
+
+</p></div>
 
 <p>If public transport aims to become a comprehensive mobility tool in competition with cars, strenuous efforts are required to ensure that transfers are simple, quick and reliable. Easier transfers are vital if the full range of destinations is to be served beyond just the city centre. This requires either high-frequency, regular service on all provisions or a carefully-coordinated, "timed-pulse" approach to scheduling in lower density areas.</p>
 
@@ -166,7 +173,7 @@ It is in places where the private car is a real threat and where public transpor
 
 
 
-<div class="purple">
+<div class="containerbox">
 
 
 <h3 class="title">THREE FORMS OF COMPETITION FOR THE MARKET IN PUBLIC TRANSPORT</h3>

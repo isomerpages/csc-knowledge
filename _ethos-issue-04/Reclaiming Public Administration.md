@@ -15,15 +15,24 @@ description: ""
 {
 	width:100%;
 }
-	
-	
 
-.blue
+.break
 {
-background-color: #617787;	
-padding: 30px;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
 }
 	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+		
 .blue h5	
 {
 	color: white;
@@ -48,17 +57,13 @@ li {
 	
 	}	
 	
-.notestop
-{
-	font-size: 15px;
-	line-height:22px !important;
-}	
+
 	
 .author
 {
 border-bottom: 1px solid black;
 margin-top:40px;
-padding-bottom:30px;
+padding-bottom:60px;
 border-top: 1px solid black;	
 
 }
@@ -67,6 +72,13 @@ border-top: 1px solid black;
 	font-size: 0.9em;
 	line-height:24px !important;
 	}		
+	
+.notestop
+{
+	margin-top: 50px;
+	border-top: 1px solid black;
+}
+	
 	
 
 </style>
@@ -95,9 +107,9 @@ border-top: 1px solid black;
 <p>An increasing proportion of government services are intangible and knowledge-based. The quality and the nature of the services provided depend on the accumulated knowledge of the organisation and the know-how of the public servant providing the service. Controls do not improve performance and may even forestall innovation.</p>
 
 
-<div class="blue">
-<h5><em>New ways must be found to encourage coordination in a non-hierarchical environment where powers and responsibilities are broadly dispersed.
-</em></h5>
+<div class="break">
+<p class="break1">New ways must be found to encourage coordination in a non-hierarchical environment where powers and responsibilities are broadly dispersed.
+</p>
 </div>
 
 <p>Coordinating complex operations is the new trademark of public administration. On important issues, it is necessary to develop a coordinated response to problems that stretch across boundaries. No government agency or country controls all the tools or has all the levers needed to address these modern issues. One cannot command collaboration (not even among agencies of the same government) or order trust. New ways must be found to encourage coordination in a non-hierarchical environment where powers and responsibilities are broadly dispersed.</p>
@@ -109,10 +121,10 @@ border-top: 1px solid black;
 <p>The hierarchical structure and authority-based public organisations created to meet the challenges of the industrial age are not well-suited to manage a highly dispersed system of relationships and shared responsibilities needed to respond to citizens’ expectations in the 21st century.</p>
 
 
-<div class="blue">
-<h5><em>
+<div class="break">
+<p class="break1">
 An increasing number of public policies require the active participation of citizens, as agents, to achieve the desired policy outcome.
-</em></h5>
+</p>
 </div>
 
 
@@ -146,7 +158,7 @@ An increasing number of public policies require the active participation of citi
 
 </div>
 	
-	
+
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
@@ -156,16 +168,24 @@ An increasing number of public policies require the active participation of citi
 <li class="small-text">Salamon, Lester M., <em>The Tools of Government</em>, USA: Oxford University Press, 2002.</li>
 <li class="small-text">Clinton, Bill and Gore, Al,<em> Putting Customers First: Standards for Serving the American People</em>, Philadelphia, USA: Diane Publishing Co., 1995.</li>
 <li class="small-text">Levin, Martin A. and Sanger, Mary Bryna, <em>Making Government Work: How Entrepreneurial Executives Turn Bright Ideas into Real Results</em>, San Francisco, USA: Jossey-Bass Inc. Publishers, 1994.</li>
-<li class="small-text"><em>"Participative Web and User created Content: Web 2.0, Wikis and Social Networking,"</em> ’ Paris: OECD 2007, <a href="http://www.oecd.org/document/40/0%2c3343%2cen_2649_201185_39428648_1_1_1_1%2c00.html">http://www.oecd.org/document/40/0,3343,en_2649_201185_39428648_1_1_1_1,00.html</a>.</li>
+<li class="small-text"><em>"Participative Web and User created Content: Web 2.0, Wikis and Social Networking,"</em> ’ Paris: OECD 2007, <a target="_blank" href="http://www.oecd.org/document/40/0%2c3343%2cen_2649_201185_39428648_1_1_1_1%2c00.html">http://www.oecd.org/document/40/0,3343,en_2649_201185_39428648_1_1_1_1,00.html</a>.</li>
 <li class="small-text">Kettl, Donald F., <em>The Transformation of Governance: Public Administration for Twenty-First Century America</em>, Baltimore and London: John Hopkins University Press, 2002.</li>
 </ol>
 
-<h6>ADDITIONAL SOURCE:</h6>
+
+<div class="notestop">
+
+<h6>ADDITIONAL SOURCE</h6>
 
 <ul>
 <li class="small-text">Bourgon, Jocelyne, (unpublished), Why Should Governments Engage Citizens in Service Delivery and Policy Making, Paris, October 2007</li>
 </ul>
 
+	
+</div>
+
+
+	
 <br>
 
 

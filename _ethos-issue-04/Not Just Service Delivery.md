@@ -35,21 +35,22 @@ border-top: 1px solid black;
 	color: white !important;
 	}	
 	
-.brown
+.break
 {
-background-color: #634E41;
-padding: 30px;
-margin-top:20px;
-font-family: Georgia;
-font-size:20px;
-font-style: italic;
-text-align: center;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
 }
-		
-.brown h5
+	
+.break1
 {
-color: white;	
-}				
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
 
 .containerbox {
 	background-color: #B7C9E2;
@@ -88,12 +89,12 @@ li {
 
 <p>The stress that has been placed on service delivery has engendered a good deal of measurement of the quality of public services and the performance of the public sector. Again that emphasis on the objective performance of the public sector is welcome and is important for defining the accountability of the public sector. Unfortunately, however, there is less emphasis on the subtler but equally important subjective elements in the contact. To some extent, that is measured through the “customer satisfaction” element of quality, but those measures may leave out important elements about interactions.</p>
 
-<div class="brown">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 How services are delivered is important—just as it is important services are
 delivered.
-</em></h5>
+</p>
 </div>
 
 
@@ -104,12 +105,12 @@ delivered.
 <p>In addition to the creation of images about the public sector, the interactions between public servants and the society can also be an important locus for fostering democracy. Going back at least to the now ancient work of The Civic Culture,<a href="#notes"><sup>2</sup></a> the creation of administrative efficacy was seen as important to building more participatory political cultures. However, the role for the bureaucracy in building democratic participation extends beyond making the public more efficacious. The public service also can be a means of helping to build civil society by providing a locus for the inputs from those social actors. Particularly when the representative dimension of politics is not well-developed, the openness of the bureaucracy to demands and suggestions from society can provide for at least some of that representation.</p>
 
 
-<div class="brown">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The public has more than an economic, customer role for government. They remain
 citizens who are at once the subject and the object of public policy
-</em></h5>
+</p>
 </div>
 
 

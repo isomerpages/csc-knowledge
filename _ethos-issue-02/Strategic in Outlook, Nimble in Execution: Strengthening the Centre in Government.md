@@ -16,19 +16,22 @@ description: ""
 	font-size:16px;
 }
 	
-.capacity
+.break
 {
-background-color: #A58B55;	
-padding: 30px;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
 }
-
 	
-.capacity h5	
+.break1
 {
-	color: white;
-	text-align: center;
-	font-size: 24px;
-}	
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
 
 .author
 {
@@ -81,10 +84,10 @@ font-size:16px;
 <p>This leads to a third problem: trade-offs are better managed if there is sufficient lead time, which is only possible in the developmental arena. In other words, the capacity to make optimal trade-offs is more likely to fail when events are already unfolding by the hour, such as during the SARS crisis, or in the way public communications or information operations were handled during the International Monetary Fund/World Bank meeting. The capacity to make effective trade-offs is further hindered by the proliferation of statutory boards — each with its own priorities and timelines.</p>
 
 
-<div class="capacity">
-<h5><em>
+<div class="break">
+<p class="break1">
 The capacity to make effective trade-offs is hindered by the proliferation of agencies — each with its own priorities and timelines.
-</em></h5>
+</p>
 </div>
 
 <p>A review of governmental structures and processes should address these three bottlenecks. To rediscover our strategic effectiveness, we will need to look at issues holistically beyond the concerns of individual Ministries; we must also have the capacity to implement developmental policies and execute operations nimbly across the whole of Government.</p>

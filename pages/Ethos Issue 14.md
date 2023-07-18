@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -53,9 +56,11 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue14.jpg"></div>
 	<div>
-		<h3>Issue 14, <br></h3>
+		<h3><span class="cat">Issue 14, Feb 2016</span> <br>
+		ETHOS Issue 14
+		</h3>
 		<p>This issue examines evolving notions of merit, competence and reward, as economic and social needs become much more complex and even divergent. We explore ways to further strengthen Singapore's social compact and inclusiveness, even as we continue to pursue excellence and global competitiveness. Contributors to this issue include leading thinkers Professor Gary Solon and Laurence Lien and our own public service leaders such as Peter Ho and Peter Ong.</p>
-		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-14.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-14.pdf">Download PDF</a></div>
 	</div>
 </div>
 
@@ -66,7 +71,6 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p>Singapore's meritocracy is fundamentally pragmatic, but has the relentless pursuit of excellence and merit-based rewards — assumed to inculcate discipline and accrue optimal gains for all — in fact left some in society behind due to factors over which they have little control?</p>
 		<div class="button1"><a href="/ethos-issue-14/editorial/">Read more</a></div>
 	</div>
@@ -91,7 +95,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Striking the Right Balance</h3>
-		<b><i>
+		<b><i>Ethos roundtable with
 			Hamzah Sulaiman and
 		 Filimone Waqabaca and
 		 Mohammed Mosly</i></b>

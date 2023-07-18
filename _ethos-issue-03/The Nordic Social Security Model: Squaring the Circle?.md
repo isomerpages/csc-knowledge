@@ -37,6 +37,7 @@ border-top: 1px solid black;
    border-bottom: 1px solid black;
 	 padding:20px;
 	margin-top:50px;
+	text-align: center;
 }
 	
 .break1
@@ -103,11 +104,11 @@ color: white;
 
 <p>The Nordic social security system is based on the belief that the state should strive to ensure equality of outcomes and social security. Redistribution, through taxes and transfers, is an explicit goal of Nordic social policy. Benefits are universal, and means-testing, to the extent that it is applied, determines only the amount of benefit a person shall receive, not whether he should receive any benefit at all. There are clear, publicly known rules governing how much social security benefits someone may receive and for how long.</p>
 
-<div class="red">
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The Danish "flexicurity" system claims to combine labour market flexibility with employment security.
-</em></h5>
+	</p>
 
 </div>
 
@@ -138,10 +139,10 @@ The “flexicurity” system would not be possible without the cooperation of th
 <p>These strategies have enhanced Nordic competitiveness and contributed to the viability of the Nordic states so far. However, the welfare state still exacts its price. For example, one of Denmark’s research institutes, the Rockwool Foundation Research Unit, recommended eliminating the highest tax bracket as a way to increase tax revenue for Denmark, in view of the strong disincentives for the top earners to work more.<a href="#notes"><sup>7</sup></a> Denmark and Sweden have both sought to strengthen incentives to work by introducing an Earned Income Tax Credit (EITC) scheme in 2004 and 2006 respectively, to make work more attractive, and to distinguish (in a philosophical departure) earned income from transfer income.<a href="#notes"><sup>8</sup></a></p>
 
 
-<div class="red">
-<h5><em>
+<div class="break">
+<p class="break1">
 Our future test for the Nordic model will be whether it is able to sustain an ageing population and the growing number of immigrants.
-</em></h5>
+</p>
 </div>
 
 

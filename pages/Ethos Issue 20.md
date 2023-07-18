@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -56,10 +59,10 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">Issue 20, Jan 2019</span>
 			<br>
-		Ethos Issue 20
+		ETHOS Issue 20
 		</h3>
 		<p>This issue looks at the future of ageing in Singapore, as it seeks to become a city in which citizens of all ages can feel involved, empowered and active.</p>
-		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-20.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-20.pdf">Download PDF</a></div>
 	</div>
 </div>
 <br>
@@ -67,8 +70,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i>Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief, ETHOS</figcaption>
+		<b><i>by Alvin Pang</i></b>
 		<p>Our elders are not the problem, nor should they be passive recipients of society's largesse. How can we ensure seniors remain involved, empowered and active?</p>
 		<div class="button1"><a href="/ethos-issue-20/editorial-issue-20/">Read more</a></div>
 	</div>

@@ -15,6 +15,24 @@ description: ""
 	width:100%;
 }
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
+	
 .author
 {
 border-bottom: 1px solid black;
@@ -113,14 +131,14 @@ color: white;
 <p>However, the heterogeneity of citizens’ expectations (“value pluralism”) means that few would share the same subjective interpretation of happiness or satisfaction. Besides, resource scarcity and environmental constraints mean that the civil service cannot fully satisfy those who adjust their preferences to ever higher levels of consumptions with little or no regard to constraints. Healthcare is a good example of a service type where such behaviour is observed in many countries. </p>
 
 
-<div class="blue">
-<h5><em>
+<div class="break">
+<p class="break1">
 Where should we draw the
 line between meeting the
 demands of citizens and being
 an efficient and effective
 government?
-</em></h5>
+</p>
 </div>
 
 
@@ -146,14 +164,14 @@ government?
 <p>It is clear that with higher service expectations and greater general IT literacy the public will become more demanding of information about their public services, and be more able to access and interpret that information. Already, some private sector organisations (such as Dr Foster, an independent commercial provider of healthcare information <a href="http://www.drfoster.co.uk/">http://www.drfoster.co.uk</a>) have emerged to play an intermediary role in relation to public service information.</p>
 
 
-<div class="blue">
-<h5><em>
+<div class="break">
+<p class="break1">
 The public will become more
 demanding of information
 about their public services, and
 be more able to access and
 interpret that information.
-</em></h5>
+</p>
 </div>
 
 

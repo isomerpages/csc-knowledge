@@ -16,19 +16,22 @@ description: ""
 	font-size:16px;
 }
 	
-.red
+.break
 {
-background-color: #992D33;	
-padding: 30px;
-}
-
-	
-.red h5	
-{
-	color: white;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	margin-top:50px;
 	text-align: center;
-	font-size: 24px;
-}	
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
 
 .author
 {
@@ -90,10 +93,10 @@ font-size:16px;
 <p>This is because those who are very poor are probably not likely to purchase a HDB flat and exercise their entitlement to the grant and discount. While HDB also offers hefty rental subsidies for lower-income households who cannot afford a basic HDB flat, not all of them may choose public housing. Some may opt to stay with their families or relatives to minimise their financial outlay.</p>
 
 
-<div class="red">
-<h5><em>
+<div class="break">
+<p class="break1">
 The current system of social transfers is too heavily skewed towards the purchase of HDB flats.
-</em></h5>
+</p>
 </div>
 
 <p>It is probably not ideal to pressure those very poor to commit to the purchase of a HDB property (even with the subsidy) as these households should probably not assume the debt burden and may face difficulties servicing the HDB loan. But should this group be penalised because they are too poor to exercise their privilege? Should lower income households who do not exercise their right to buy a HDB flat be given the lump sum grant of S$30,000 to S$40,000 instead (perhaps into their Central Provident Fund accounts) upon reaching a certain age? Providing such an option may produce an outcome where the subsidy/entitlement is fairer and more a function of need rather than a decision tied to HDB home ownership or consumption of public housing.</p>
@@ -105,10 +108,10 @@ The current system of social transfers is too heavily skewed towards the purchas
 <p>However, the inherent structural weakness of Workfare is that the income support stops during bad times, when such help is most needed. The low-wage workers are moreover exactly the group most vulnerable to layoffs during downturns. Being retrenched is rarely of their choosing and finding a job is especially difficult during recessions.</p>
 
 
-<div class="red">
-<h5><em>
+<div class="break">
+<p class="break1">
 The inherent structural weakness of Workfare is that the income support stops during bad times, when such help is most needed.
-</em></h5>
+</p>
 </div>
 
 
@@ -127,7 +130,7 @@ The inherent structural weakness of Workfare is that the income support stops du
 <ol>
 <li class="small-text">This was highlighted in an important Department of Statistics General Household Survey 2005. The report showed that the lower income households saw their incomes falling from 2000–2005, while the top income segments saw a more than 2% annual rise. Income inequality appears to be widening.</li>
 <li class="small-text">The Housing and Development Board (HDB) is Singapore’s public housing authority. HDB’s role, as stated on its website, is to provide affordable and quality homes and to support larger national objectives such as social cohesion and strong family ties. As at 2006, 80% of the resident population own the flat they lived in.</li>
-<li class="small-text">See <a href="../www.hdb.gov.html">www.hdb.gov.sg</a> for more details on the complexity of the HDB housing grant scheme.</li>
+<li class="small-text">See <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/homepage">https://www.hdb.gov.sg/cs/infoweb/homepage</a> for more details on the complexity of the HDB housing grant scheme.</li>
 </ol>
 
 <br>

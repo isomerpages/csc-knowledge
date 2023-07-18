@@ -15,15 +15,21 @@ description: ""
 	font-size:16px;
 }
 	
-.maroon
+.break
 {
-background-color: #651A1C;	
-padding: 30px;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	margin-top:50px;
+	text-align: center;
 }
-
-.maroon h3, .maroon p, .maroon sup
+	
+.break1
 {
-	color: white;
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
 }
 	
 .maroon h5	
@@ -47,19 +53,19 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 	
-.upward
+.containerbox
 {
 margin-top:40px;
 padding:30px;
 background-color: #aa4b37;
 }	
 	
-.upward h3, .upward p, .upward h4
+.containerbox h3, .containerbox p, .containerbox h4
 {
 	color: white;
 }
 
-.upward img
+.containerbox img
 {
 width: 70%;
 }
@@ -109,10 +115,10 @@ font-size:16px;
 <p>High upward educational mobility in the past was mainly a result of the expansion of public education. The educational link to employability is important as a higher return to education via public subsidy will lead to higher mobility and higher wage equality.</p>
 
 
-<div class="maroon">
-<h5><em>
+<div class="break">
+<p class="break1">
 The educational link to employability is important as a higher return to education via public subsidy will lead to higher mobility and higher wage equality.
-</em></h5>
+</p>
 
 </div>
 
@@ -134,7 +140,7 @@ The educational link to employability is important as a higher return to educati
 
 
 
-<div class="upward">
+<div class="containerbox">
 
 
 <h3 class="title">UPWARD EDUCATIONAL MOBILITY: A DEMAND AND SUPPLY PERSPECTIVE</h3>

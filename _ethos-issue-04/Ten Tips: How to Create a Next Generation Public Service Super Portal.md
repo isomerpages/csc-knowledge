@@ -16,6 +16,23 @@ description: ""
 	width:100%;
 }
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 .blue
 {
 background-color: #3981B4;	
@@ -86,10 +103,10 @@ border-top: 1px solid black;
 <p>This was a significant departure from traditional government-led initiatives where commercial interests were held at arm’s length in order to maintain public accountability and impartiality. </p>
 
 
-<div class="blue">
-<h5><em>
+<div class="break">
+<p class="break1">
 The richness of collaboration between government, commercial and public entities is precisely what has transformed an otherwise government-centric portal into a vibrant lifestyle hub for the motoring community.
-</em></h5>
+</p>
 </div>
 
 
@@ -123,10 +140,10 @@ The richness of collaboration between government, commercial and public entities
 
 <p>One example is a local company that provides online car mart services. They were initially concerned that ONE.MOTORING would compete with their own portal and dilute business opportunities by drawing eyeballs away. They were assured that ONE.MOTORING was not intended to compete with their services, but on the contrary would provide a gateway to their offerings. In the past 18 months, this company has become the No.1 automotive website in Singapore and they have openly attributed their gains in hit-rates to ONE.MOTORING. </p>
 
-<div class="blue">
-<h5><em>
+<div class="break">
+<p class="break1">
 Land transport is seen not as a way to bring people from point A to point B; it is instead regarded as a vital lifestyle good that affects the quality of life in Singapore.
-</em></h5>
+</p>
 </div>
 
 <p>The LTA Community Network for Partners is another case in point. ONE.MOTORING is linked to more than 820 motor trade industry partners comprising motor dealers, inspection centres, motor trade associations and payment service-providers. This extensive network of business users taps on LTA’s backend system through ONE.MOTORING for various online services. However, the need to link up with LTA was considered an added business cost for small companies. In anticipation of this business concern, LTA aggregated the demand for high-speed leased lines with the telcos through a LTA-initiated tender. This initiative offers a special group discount scheme to business partners connecting with LTA, while providing a trusted environment where fast and secure e-transactions can be performed.</p>
@@ -183,14 +200,14 @@ Land transport is seen not as a way to bring people from point A to point B; it 
 <p>A joint business-development team from LTA and the service provider determines the annual work plan for the portal. Related key performance indicators are used and quarterly reviews conducted to align progress and discuss issues. New initiatives are determined collectively to ensure that these do not conflict with the Authority’s goals, while keeping an open mind to offerings of new ideas and opportunities by partners. </p>
 
 
-<div class="blue">
-<h5><em>
+<div class="break">
+<p class="break1">
 A radical new vision of serviceorientation
 cannot be limited
 to frontline staff; it has to
 permeate an entire
 organisation and its culture.
-</em></h5>
+</p>
 </div>
 
 
@@ -228,7 +245,7 @@ organisation and its culture.
 <ol>
 <li class="small-text">Customer satisfaction rating in 2008 improved over 2007’s rating of 90.4%, which is an achievement, given that significant effort is typically required to maintain satisfaction levels, let alone improve them.</li>
 <li class="small-text">ONE.MOTORING was also a Finalist in the 2006 Commonwealth Association for Public Administration and Management (CAPAM) Awards, and a Winner of the CIO Asia Award in 2003.</li>
-<li class="small-text">TrustSg is a nation-wide trust mark initiative by the National Trust Council (NTC) to boost the electronic commerce environment in Singapore. This is to help build confidence in e-commerce transactions especially in the area of privacy and security. To acquire the TrustSg seal, merchants are required to comply with a stringent code of conduct for online business practice set by the NTC. The code covers the area of disclosure, privacy, fulfilment, best business practices, and protection of minors and the elderly. Consumers will recognise the merchant as a trustworthy e-commerce operator when the website carries the TrustSg seal. For details, see <a href="https://www.imda.gov.sg/-/media/imda/files/inner/archive/news-and-events/news_and_events_level2/trustsgpresspresentation.pdf/">https://www.imda.gov.sg/-/media/imda/files/inner/archive/news-and-events/news_and_events_level2/trustsgpresspresentation.pdf</a>.</li>
+<li class="small-text">TrustSg is a nation-wide trust mark initiative by the National Trust Council (NTC) to boost the electronic commerce environment in Singapore. This is to help build confidence in e-commerce transactions especially in the area of privacy and security. To acquire the TrustSg seal, merchants are required to comply with a stringent code of conduct for online business practice set by the NTC. The code covers the area of disclosure, privacy, fulfilment, best business practices, and protection of minors and the elderly. Consumers will recognise the merchant as a trustworthy e-commerce operator when the website carries the TrustSg seal. For details, see <a target="_blank" href="https://www.imda.gov.sg/-/media/imda/files/inner/archive/news-and-events/news_and_events_level2/trustsgpresspresentation.pdf/">https://www.imda.gov.sg/-/media/imda/files/inner/archive/news-and-events/news_and_events_level2/trustsgpresspresentation.pdf</a>.</li>
 </ol>
 
 

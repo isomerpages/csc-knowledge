@@ -15,6 +15,23 @@ description: ""
 	font-size:16px;
 }
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 .maroon
 {
 background-color: #973330;	
@@ -106,10 +123,10 @@ font-size:16px;
 <p>Next, with regional economies seeking to integrate with the global economy, we can expect these countries to move towards more rule-based systems, greater rule of law and the adoption of international standards. Leveraging on our own experience, Singapore can help these countries to plug into the global economy.</p>
 
 
-<div class="maroon">
-<h5><em>
+<div class="break">
+<p class="break1">
 Several trends work in our favour, namely increasing connectivity, the harmonisation of standards, and the growing ties between Asia and the rest of the world.
-</em></h5>
+</p>
 </div>
 
 

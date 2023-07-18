@@ -159,15 +159,12 @@ Agencies come some way in co- developing solutions with the people. However, the
 
 
 
-
-<p class="small-text text">On 31 January 2013, the National Library Board (NLB) opened its first community-supported Library@Chinatown at Chinatown Point Mall. The library is funded privately by donors and run almost completely by volunteers. The library works with various community groups to organise programmes for library-goers, and this results in programmes which are better tailored for the community and more pertinent to their interests.</p>
-
-<p class="small-text text">The Land Transport Authority (LTA) set up the Community Partnership Network (CPN) in 2007 to engage and co-create ideas with local communities on transport matters. The National Environment Agency (NEA) established a 3P Partnership Strategy to develop environmental programmes with the people and private sectors. </p>
+<br>
 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Partnering the Community</h3>

@@ -131,7 +131,7 @@ li {
   
   
   
-<p class="small-text text">Many complex healthcare issues have no obvious solutions or clear-cut right or wrong answers. The choice to be made is often between two imperfect sets of solutions, each with its own strengths and limitations. How might we approach them? </p>  
+<br>
   
   
   
@@ -220,6 +220,7 @@ li {
 
 <br>
 <br>	
+
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>

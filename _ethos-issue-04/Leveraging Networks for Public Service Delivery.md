@@ -16,6 +16,23 @@ description: ""
 	font-size:16px;
 }
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 .red
 {
 background-color: #7c4664;	
@@ -41,7 +58,7 @@ color:white
 	list-style-type: lower-alpha;    
 }	
 	
-.evolution-of-public-service1
+.containerbox
 {
 background-color: #d8cbd1;
 padding: 50px;
@@ -96,7 +113,7 @@ font-size:16px;
 
 
 
-<div class="evolution-of-public-service1">
+<div class="containerbox">
 
 
 	
@@ -205,11 +222,11 @@ font-size:16px;
 
 <p><strong>Turn Ideas into Reality:</strong> To realise real benefit, we need to encourage agencies with the right expertise to lead and implement good cross-agency ideas. For this to happen, the Ministry of Finance (MOF) is developing a “Centre of Expertise” framework. For each idea, MOF aims to encourage a natural agency to take up a leadership role. These lead agencies will be recognised as Centres of Expertise, and will coordinate with different agencies to provide the expertise necessary to implement the ideas. If required, MOF will be a strategic partner in execution, helping to bring agencies together by providing a Whole-of-Government perspective.</p>
 
-<div class="red">
-<h5><em>
+<div class="break">
+<p class="break1">
 New processes should either increase the efficiency and effectiveness of our public
 services through multiagency collaborations, or address gaps in the Government’s capabilities.
-</em></h5>
+</p>
 </div>
 
 
@@ -217,11 +234,11 @@ services through multiagency collaborations, or address gaps in the Government�
 <p>For instance, the Monetary Authority of Singapore (MAS), the Infocomm Development Authority (IDA) and MOF are working hand-in-hand to bring about the next wave of e-payment innovation and adoption. Each party brings their respective competencies to the table: MAS as the financial regulator, IDA as the technical expert and MOF as the catalyst for innovative public services. Together, the three agencies hope to spur the next wave of payment innovation, such as allowing Singapore residents to pay for purchases with their hand phones, unlocking new opportunities for public services.</p>
 
 
-<div class="red">
-<h5><em>
+<div class="break">
+<p class="break1">
 In the new world of Wikipedia, citizens are not satisfied with just being consumers—they
 can and want to participate and have a say.
-</em></h5>
+</p>
 </div>
 
 
@@ -240,10 +257,10 @@ can and want to participate and have a say.
 <p>In the long term, we envision a government that, instead of being the sole provider of public services, sets and referees the rules in an ecosystem which allows new participants, whether private sector or individuals, to freely innovate and create value-added services on top of or even superseding existing public services. Government services and data will be made available, where possible, in a new way so that businesses and individuals can re-use them to develop innovative “mash-ups”. This cross-sectoral network of “public-private governance” will be empowered to deploy new value-added services to the public, generate ideas on how to solve complex issues and implement creative solutions.</p>
 
 
-<div class="red">
-<h5><em>
+<div class="break">
+<p class="break1">
 How successful we are at leveraging networks will depend on how well we can encourage spontaneous and unplanned “partnerships” to proliferate, and nurture a culture that can tap on it.
-</em></h5>
+</p>
 </div>
 
 <p>However, this path is not without its challenges. We will need to grapple with issues that include information security, accountability and privacy. How do we prevent unauthorised access and usage? How do we ensure that businesses and individuals use government systems and data responsibly? And how do we balance all these against issues such as privacy and economic viability? These are complex issues that will pose immense challenges. However, the potential rewards are so great that we cannot afford to ignore the possibilities.</p>
@@ -267,10 +284,10 @@ How successful we are at leveraging networks will depend on how well we can enco
 
 <ol>
 <li class="small-text">Don Tapscott and Anthony D. Williams, Wikinomics: <em>How Mass Collaboration Changes Everything</em>, 2006</li>
-<li class="small-text">Wikipedia: Size of Wikipedia, <a href="http://en.wikipedia.org/wiki/ Wikipedia:Size_of_Wikipedia">http://en.wikipedia.org/wiki/ Wikipedia:Size_of_Wikipedia</a></li>
-<li class="small-text">Talbot, David, “A Technology Surges”, <em>Technology Review</em>, March/April 2008, <a href="https://www.technologyreview.com/2008/02/19/221545/a-technology-surges/">https://www.technologyreview.com/2008/02/19/221545/a-technology-surges/</a></li>
+<li class="small-text">Wikipedia: Size of Wikipedia, <a target="_blank" href="http://en.wikipedia.org/wiki/ Wikipedia:Size_of_Wikipedia">http://en.wikipedia.org/wiki/ Wikipedia:Size_of_Wikipedia</a></li>
+<li class="small-text">Talbot, David, “A Technology Surges”, <em>Technology Review</em>, March/April 2008, <a target="_blank" href="https://www.technologyreview.com/2008/02/19/221545/a-technology-surges/">https://www.technologyreview.com/2008/02/19/221545/a-technology-surges/</a></li>
 <li class="small-text">While leveraging networks call for partnerships, it is fundamentally different from the cross-agency initiatives and public-private partnerships that we are familiar with. Instead of bringing a few nodes in the network together, it is about tapping on the collective resources of all the nodes in the network. It is about constructing a business model that allows unplanned but effective partnerships to take place spontaneously across the network.</li>
-<li class="small-text">“The World’s Most Innovative Companies”, <em>BusinessWeek</em>, 24 April 2006, <a href="http://www.businessweek.com/magazine/content/06_17/b3981401.htm">http://www.businessweek.com/magazine/content/06_17/b3981401.htm</a></li>
+<li class="small-text">“The World’s Most Innovative Companies”, <em>BusinessWeek</em>, 24 April 2006, <a target="_blank" href="http://www.businessweek.com/magazine/content/06_17/b3981401.htm">http://www.businessweek.com/magazine/content/06_17/b3981401.htm</a></li>
 </ol>
 
 <br>

@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -65,8 +68,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i>Dr Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief, ETHOS</figcaption>
+		<b><i>by Alvin Pang</i></b>
 		<p>With Singapore's ambition to be a Smart Nation, what does it really mean to be "smart" these days? This issue explores the apparent tensions and trade-offs that both underpin and animate Singapore's Smart Nation efforts.</p>
 	
 <div class="button1"><a href="/ethos-issue-21/editorial">Read more</a></div>
@@ -151,7 +153,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_FormSG_Idea_to_Hit_Platform_in_a_Year.jpg"></div>
 	<div>
-		<h3>FORMSG: From Idea to Hit Platform in a Year</h3>
+		<h3>FormSG: From Idea to Hit Platform in a Year</h3>
 		<b><i>by Leonard Loo</i></b>
 		<p>A leading member of the team that created FormSG shares his seven steps to building a breakthrough software application, fast.</p>
 		<div class="button1"><a href="/ethos-issue-21/formsg-from-idea-to-hit-platform-in-a-year/">Read more</a></div>
@@ -161,7 +163,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_Artificial_Intelligence_ImpactOnPublic.jpg"></div>
 	<div>
-		<h3>ARTIFICIAL INTELLIGENCE: Impact on Public Safety &amp; Security</h3>
+		<h3>Artificial Intelligence: Impact on Public Safety &amp; Security</h3>
 		<b><i>by Rahul Daswani and Jevon Tan</i></b>
 		<p>An integrated and nuanced approach, deploying both humans and machines, will be needed to counter the emerging technology’s potential for malicious abuse.</p>
 		<div class="button1"><a href="/ethos-issue-21/artificial-intelligence-impact-on-public-safety-and-security/">Read more</a></div>
@@ -171,7 +173,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_Regulating_Digital_Technology.jpg"></div>
 	<div>
-		<h3>REGULATING DIGITAL TECHNOLOGY: REAL WORLD CHALLENGES AND OPPORTUNITIES</h3>
+		<h3>Regulating Digital Technology: Real World Challenges and Opportunities</h3>
 		<b><i>by David Hardoon and Shameek Kundu</i></b>
 		<p>David Hardoon from MAS and StanChart’s Shameek Kundu offer perspectives on the implications of emerging innovations, on and beyond the financial industry.</p>
 		<div class="button1"><a href="/ethos-issue-21/regulating-digital-technology-real-world-challenges-and-opportunities/">Read more</a></div>
@@ -181,7 +183,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_21/21_Teaser_What_Digital_Success_Looks_Like.jpg"></div>
 	<div>
-		<h3>DIGITAL SUCCESS Looks Like: What Measuring &amp; Evaluating Government Digitalisation </h3>
+		<h3>What Digital Success Looks Like: Measuring &amp; Evaluating Government Digitalisation</h3>
 		<b><i>by Aaron Maniam</i></b>
 		<p>Seven indicators could offer a more comprehensive and useful overview of how well the public sector is doing in going digital.</p>
 		<div class="button1"><a href="/ethos-issue-21/what-digital-success-looks-like-measuring-evaluating-government-digitalisation/">Read more</a></div>

@@ -51,7 +51,22 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 	
-
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
 	
 .small-text
 {
@@ -118,10 +133,10 @@ The Workfare Income Supplement (WIS) announced in the 2007 Budget is a long-term
 
 <p>In contrast, Wisconsin eschewed training and emphasised work instead,<a href="#notes"><sup>9</sup></a> since it was found that work experience proved to be far more valuable than the additional retooling individuals would receive had they chosen instead to receive training first. Furthermore, programmes that focused on work over training were regarded to be a more efficient use of resources.</p>
 
-<div class="purple">
-<h5><em>
+<div class="break">
+<p class="break1">
 Emphasising work over welfare has numerous benefits aside from the financial advantages it accrues.
-</em></h5>
+</p>
 </div>
 
 
@@ -138,10 +153,10 @@ Emphasising work over welfare has numerous benefits aside from the financial adv
 <p>Another area where Workfare policymakers in Singapore are likely to have to grapple with is whether women should be given more attention, since they are more likely than men to face difficulties in achieving financial self-sufficiency. The predicament in which they often find themselves is a consequence of structural, social and cultural factors. As in many parts of the world, Singaporean women generally earn less and, more often than men, find themselves in lower-paying jobs. Even if they have worked, many spend fewer years of their lives in paid employment compared with men, as they are obliged to enter and exit the labour force to provide care for their children and aged parents in keeping with social and cultural demands that posit that they are primary caretakers of their families.<a href="#notes"><sup>12</sup></a> These factors suggest that women end up with less savings than men to sustain themselves in old age. Furthermore, that married women outlive their husbands means that greater numbers would find themselves in dire straits especially if they were low-wage workers during their work life. Finally, the fact that women continue to undertake roles as primary caregivers in the family suggests that some of the assistance offered under Workfare should be extended to caregivers.<a href="#notes"><sup>13</sup></a> Hence, the design of Workfare may also need to take into account the demographic particularities of Singapore rather than subsuming all low-wage workers in a single, undifferentiated category.</p>
 
 
-<div class="purple">
-<h5><em>
+<div class="break">
+<p class="break1">
 Workfare may need to take into account the demographic particularities of Singapore.
-</em></h5>
+</p>
 </div>
 
 
@@ -162,14 +177,13 @@ Workfare may need to take into account the demographic particularities of Singap
 <li class="small-text">The Earned Income Tax Credit (EITC), otherwise called the Earned Income Credit (EIC), is a refundable federal income tax credit for low-income workers and families. The underlying rationale of the EITC is that a tax refund may be claimed if it exceeds the amount of taxes owed.</li>
 <li class="small-text">Blank, Rebecca, “What We Know, What We Don’t Know, and What We Need to Know about Welfare Reform” (paper presented at the “Ten Years After: Evaluating the Long-Term Effects of Welfare Reform on Children, Families, Work and Welfare Conference” organised by the University of Kentucky Center for Poverty Research, Kentucky, USA, 12-13 April, 2007).</li>
 <li class="small-text">Mead, Lawrence M., personal communication, 21 June 2007.</li>
-<li class="small-text">Thompson, Tommy and Bennett, William J., “The Good News about Welfare Reform: Wisconsin’s Success Story,” The Heritage Foundation, 6 March 1997, <a href="http://www.heritage.org/Research/Welfare/HL593.cfm">http://www.heritage.org/Research/Welfare/HL593.cfm</a> (accessed on 6 June 2007).</li>
+
 <li class="small-text">Rebecca Blank has cautioned not to homogenise the welfare recipient group as there are single women who have been found to be worse off after welfare reform particularly in finding and retaining jobs (see Note 2).</li>
 <li class="small-text">Evidently, the welfare system prior to 1996 indirectly encouraged the perpetuation of single-parent households for which the US federal government saw urgency to correct.</li>
 <li class="small-text">Duncan, Greg J. and Brooks-Gunn, Jeanne, <em>Consequences of Growing Up Poor</em> (New York: Russell Sage Foundation, 1997).</li>
 <li class="small-text">Under welfare reform 1996, it was found that few families in reality achieved full financial independence and, as such, most were not able to move away from assistance completely. See Cancian, Mary and Meyer, Daniel R., “Alternative Measures of Economic Success among TANF Participants: Avoiding Poverty, Hardship, and Dependence on Public Assistance,” <em>Journal of Policy Analysis and Management</em> 23 (2004): 531-48.</li>
 <li class="small-text">While the state of California generally mandated education and training in its welfare reform, the county of Riverside was an exception as it emphasised work over education and training. Like Wisconsin, Riverside was characterised by high job placement rates and low rates of engagement in education and training which accounted for its success. Note also that Riverside did not provide financial benefits nor did it impose time limits. See Walker, Robert, et al., “Successful welfare-to-work programs: Were Riverside and Portland really that good?” Focus 22 (2003): 11-18.</li>
 <li class="small-text">Cancian, Maria, et al., “Income and program participation among early TANF recipients: The evidence from New Jersey, Washington, and Wisconsin,” Focus 22 (2003): 2-10.</li>
-<li class="small-text">Lerman, Robert, “Increasing the Employment and Earnings of Welfare Recipients,” Welfare Reform: An Analysis of the Issues (Washington: Urban Institute, 1995). <a href="http://www.urban.org/publications/306620.html">http://www.urban.org/publications/306620.html</a>.</li>
 <li class="small-text">Devasahayam, Theresa D. and Yeoh, Brenda S. A., Working and Mothering in Asia: Images, Ideologies and Identities (Singapore and Denmark: National University of Singapore Press and Nordic Institute of Asian Studies, 2007).</li>
 <li class="small-text">There is evidence demonstrating that poor women in Singapore struggle to negotiate adequate childcare provision, being forced instead to remain in the home or at best seek the services of Family Service Centre. See Davidson, Gillian M., “The Spaces of Coping: Women and ‘Poverty’ in Singapore,” Singapore Journal of Tropical Geography, 17 (1997): 113-31.</li>
 </ol>

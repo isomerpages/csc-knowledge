@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -53,9 +56,9 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue16.jpg"></div>
 	<div>
-		<h3>Issue 16 , Dec 2016<br>ETHOS Issue 16</h3>
+		<h3><span class="cat">Issue 16 , Dec 2016</span><br>ETHOS Issue 16</h3>
 		<p>As the world moves into ever more turbulent waters, the credibility, relevance and impact of the public sector may depend on being able to connect, collaborate and create consensus with the society we serve. How might we strengthen institutions and leadership, invest in technology, while seeking innovative approaches to help us learn to do better? This issue of ETHOS explores some avenues ahead, with contributions from leading thinkers such as Gary Banks and Jean-Francois Manzoni, and veteran public servants Peter Ho and Stephen Sedgwick.</p>
-		<div class="button1"><a href="https://file.go.gov.sg/ethos-issue-16.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-16.pdf">Download PDF</a></div>
 	</div>
 </div>
 
@@ -65,8 +68,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i>Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief, ETHOS</figcaption>
+		<b><i>by Alvin Pang</i></b>
 		<p>The political upheavals of 2016 must have prompted deep introspection in governments the world over.</p>
 		<div class="button1"><a href="/ethos-issue-16/editorial/">Read more</a></div>
 	</div>
@@ -211,7 +213,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>Putting the Public Back in Public Service</h3>
-		<b><i>Hon Christine , Mr Aung Naing Oo and Ms Shazainah Shariffuddin </i></b>
+		<b><i>Ethos roundtable with Hon Christine , Mr Aung Naing Oo and Ms Shazainah Shariffuddin </i></b>
 		<p>In this edition of the ETHOS Roundtable, participants of the 9th Leaders in Governance Programme discuss the challenges of technology, public trust, and the need to nurture strong ties between government and citizens.</p>
 		<div class="button1"><a href="/ethos-issue-16/putting-the-public-back-in-public-service/">Read more</a></div>
 	</div>

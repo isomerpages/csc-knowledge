@@ -16,40 +16,32 @@ description: ""
 	width:100%;
 }
 
-.global-shifts
+.containerbox
 {
 background-color: #a58b56;	
 padding: 20px;
 color: white;
 }
 
-.global-shifts h2
+.containerbox h2, .containerbox h3
 {
 color: white;
 }	
 	
-.global-shifts h3
-{
-color: white;
-}		
 	
-	
-.populations-trends
+.containerbox1
 {
 background-color: #8c5c26;	
 padding: 20px;
 color: white;
 }
 
-.populations-trends h2
+.containerbox1 h2, .containerbox1 h3
 {
 color: white;
 }	
 	
-.populations-trends h3
-{
-color: white;
-}	
+
 	
 .author
 {
@@ -69,7 +61,8 @@ border-top: 1px solid black;
 .break
 {
 
-	background-color: #987D43;
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
 	 padding:20px;
 	text-align:center;
 	margin-top:50px;
@@ -77,23 +70,12 @@ border-top: 1px solid black;
 	
 .break1
 {
-	color: white;
+font-family: Georgia;
 	font-size:20px;
 	font-style: italic;
 	font-weight: bold;
 }
 
-.boxheader {
-	color: white !important;
-	}	
-
-.containerbox {
-	background-color: #B7C9E2;
-	border-radius: 10px;
-	padding: 5%;
-	margin-top: 5%;
-	
-	}	
 
 li {
 	font-size: 15px !important;
@@ -145,7 +127,7 @@ structure of the economy, principally to the benefit of the healthcare sector.
 
 <p>Migration policy should not stop at identifying suitable immigrants, but should also help them integrate well into society. It is of great importance for the host countries to promote harmonious race relations. Singapore is fortunate in this regard as it naturally understands the complexities of a multi-racial nation.</p>
 
-<div class="populations-trends">
+<div class="containerbox1">
 
 <h2>POPULATION TRENDS: LOOKING AHEAD</h2>	
 
@@ -174,7 +156,7 @@ structure of the economy, principally to the benefit of the healthcare sector.
 <p>Yet school education will no longer suffice as the vocational preparation for one’s whole life. Students and workers have to understand that their education and training are their most important investment in life – much bigger than a car or a flat – which will keep them employable in an ever faster changing environment. In this respect, Europe can learn a lot from Asia. Lifelong learning is no longer a choice but a must for workers of the future. However, the onus is not only on workers; management principles and systems have to change too.</p>
 
 
-<div class="populations-trends">
+<div class="containerbox1">
 
 <h2>POPULATION TRENDS WORLDWIDE</h2>
 	
@@ -233,7 +215,7 @@ Privatisation, public-private partnerships and private initiatives will play a k
 
 <p>Europe has generally recognised that pay-as-you-go pension systems alone are not a sustainable solution for retirement income and must therefore be supplemented by funded pension systems. Currently, 80% of an average pensioner’s income is state-financed in Germany, compared with 45% in the US and 65% in the UK. Retirement provision, and thus asset management, will profit most from the ageing process in Europe, as the volumes of institutionally managed assets in many Continental European countries such as Germany, Spain and Italy, are considerably smaller than that in the US and Britain.</p>
 
-<div class="global-shifts">
+<div class="containerbox">
 <h2>GLOBAL SHIFTS IN SAVINGS AND INVESTMENT</h2>
 	
 <p>Population ageing and decline will influence global economic and political power structures as well as international capital flows and exchange rates. Already, there have been endless debates on the current global imbalance and the need for Americans to save more and Asians to spend more. Generally, there is scope for Asians to spend more based on the overall increase in population size between now and 2050, but this will not necessarily apply in countries such as China, South Korea and Singapore, where the domestic population will shrink in a few decades’ time. In the future, savings plans will have to take into account a higher dependency ratio in these countries.</p>	
@@ -262,10 +244,6 @@ Privatisation, public-private partnerships and private initiatives will play a k
 <p>In preparation for a smaller pool of labour in the next few decades, more economically-inactive persons need to be enticed to enter the workforce. These include women and the elderly. However, suitable work arrangements for women must be arranged so as not to depress the birth rate further. Furthermore, stretching the working life will be necessary to reduce the burden on the active population. This must be supported by life-long learning and improvements in the health and recreation sectors. The government must raise public awareness of the implications of an ageing society in addition to thoroughly preparing key sectors such as education and healthcare in the coming decades.</p>
 
 <p>Pension schemes will have to enlist the help of all stakeholders. Priorities must be reviewed in order to make sufficient provision for old age. In addition, expectations for investment returns must be realistic. The scope of investment activity will certainly have to be enlarged, which will necessitate an upgrading of risk management and capital market efficiency in emerging markets.</p>
-
-
-	 
-	 
 	 
   
 <div class="author">  

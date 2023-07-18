@@ -49,6 +49,23 @@ font-family: Georgia;
 .boxheader {
 	color: white !important;
 	}	
+	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
 
 .containerbox {
 	background-color: #B7C9E2;
@@ -104,13 +121,13 @@ color: white;
 <p>This is one of the oldest questions in economics: What is the role of the state and what is the role of the market? We tend to think of the government and the market as substitutes. But if you limit government to those activities where it is uniquely important, then in those key areas, what the government does is a complement to what the market or the private sector does. If the government does its job better, it enhances all the activities of the market. This is where thinking of Singapore as a city rather than a nation helps: you realise that there are many interesting ways in which the government can create value, such as through measures like land use planning.</p>
 
 
-<div class="green">
-<h5><em>
+<div class="break">
+<p class="break1">
 Singapore should consider more
 mission-oriented funding for
 basic research across a whole
 range of agencies.
-</em></h5>
+</p>
 </div>
 
 
@@ -137,13 +154,13 @@ range of agencies.
 <p>The other challenge in good governance lies in dealing with two fundamental problems. The first problem has to do with time horizons. Many political systems create pressure to respond immediately, or the political process deters the adoption of policies which will cause some pain now but gain in the future. So “now-versus-later” is a huge problem in managing politics in governments. We have created some special institutions like independent central banks to address precisely this problem. </p>
 
 
-<div class="green">
-<h5><em>
+<div class="break">
+<p class="break1">
 Growth continues and even
 speeds up when more people
 are innovating and trading
 with each other.
-</em></h5>
+</p>
 
 </div>
 
@@ -170,7 +187,7 @@ with each other.
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">Launched in April 2006, the Commission on Growth and Development (<a href="http://www.growthcommission.org/">www.growthcommission.org</a>) brings together 21 leading practitioners from the government, business, and policymaking arenas, including Singapore’s Senior Minister Goh Chok Tong. The Commission is chaired by Nobel Laureate Professor Emeritus Michael Spence.</li>
+<li class="small-text">Launched in April 2006, the Commission on Growth and Development (<a target="_blank" href="http://www.growthcommission.org/">www.growthcommission.org</a>) brings together 21 leading practitioners from the government, business, and policymaking arenas, including Singapore’s Senior Minister Goh Chok Tong. The Commission is chaired by Nobel Laureate Professor Emeritus Michael Spence.</li>
 </ol>
 
 <br>

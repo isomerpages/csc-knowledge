@@ -11,7 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -53,11 +56,11 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosissue19.jpg"></div>
 	<div>
-		<h3>Issue 19, Jul 2018 <br>
-		Ethos Issue 19
+		<h3><span class="cat">Issue 19, Jul 2018</span><br>
+		ETHOS Issue 19
 		</h3>
 		<p>This issue looks at Singapore's urban development and explores how Singapore's cityscape is set to evolve in the near future, and what it could mean for the way we live, work, connect and play in the 21st century.</p>
-		<div class="button1"><a href="">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-19.pdf">Download PDF</a></div>
 	</div>
 </div>
 <br>
@@ -66,7 +69,6 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief, ETHOS</figcaption>
 		<p>Singapore's urban solutions are the outcome of efforts to address and overcome prevailing complex constraints through unique approaches.</p>
 		<div class="button1"><a href="/ethos-issue-19/editorial/">Read more</a></div>
 	</div>
@@ -87,7 +89,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_Integrity_Fundamentals_for_Singapore's_Governance_Success.jpg"></div>
 	<div>
-		<h3>INTEGRITY: FUNDAMENTALS FOR SINGAPORE’S GOVERNANCE SUCCESS</h3>
+		<h3>Integrity: Fundamentals for Singapore’s Governance Success</h3>
 		<b><i>by Ng Li Sa, Ong Toon Hui and James Wong</i></b>
 		<p>More than just creating honest, clean government, integrity as wholeness and working together as one united Service will ready Singapore for the future.</p>
 		<div class="button1"><a href="/ethos-issue-19/integrity-fundamentals-for-singapores-governance-success/">Read more</a></div>
@@ -123,7 +125,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_The_Future_of_Heartland_Living.jpg"></div>
 	<div>
-		<h3>THE FUTURE OF HEARTLAND LIVING</h3>
+		<h3>The Future of Heartland Living</h3>
 		<b><i>by Cheong Koon Hean</i></b>
 		<p>Innovations in hardware and heartware shape the design of Singapore’s next-generation residential towns.</p>
 		<div class="button1"><a href="/ethos-issue-19/the-future-of-heartland-living/">Read more</a></div>
@@ -147,7 +149,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Cropped_images/Ethos_Issue_19/19_Teaser_Reimagining_Singapore_Placemaking_through_Arts_and_Culture.jpg"></div>
 	<div>
-		<h3>REIMAGINING SINGAPORE: PLACEMAKING THROUGH ARTS AND CULTURE</h3>
+		<h3>Reimagining Singapore: Placemaking through Arts and Culture</h3>
 		<b><i>by Rosa Daniel</i></b>
 		<p>Upgraded infrastructure and creative programming enliven the city’s vibrant neighbourhoods, as it aspires to become a global cultural hub.</p>
 		<div class="button1"><a href="/ethos-issue-19/reimagining-singapore-placemaking-through-arts-and-culture/">Read more</a></div>

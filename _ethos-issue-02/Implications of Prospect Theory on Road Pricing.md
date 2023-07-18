@@ -15,19 +15,37 @@ description: ""
 {
 	font-size:16px;
 }
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
 	
-.road-pricing
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
+	
+.containerbox
 {
 background-color: #512C30;	
 padding: 30px;
 }
 
-.road-pricing h2,.road-pricing p
+.containerbox h2,.containerbox p
 {
 	color: white;
 }
 	
-.road-pricing h5	
+.containerbox h5	
 {
 	color: white;
 	text-align: center;
@@ -50,19 +68,6 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 	
-.adapted
-{
-border-bottom: 1px solid black;
-margin-top:40px;
-padding-bottom:30px;
-}	
-	
-.adapted p
-{
-	font-size: 0.9em;
-	line-height:24px !important;
-}
-	
 	
 .small-text
 {
@@ -83,7 +88,7 @@ font-size:16px;
 
 <p>Prospect Theory<a href="#notes"><sup class="#notes">1</sup></a> observes that individuals tend to be "loss averse": in other words, they are more sensitive to losses than to gains. Indeed, empirical studies suggest that losses are valued at twice that of gains. Furthermore, Prospect Theory demonstrates a Certainty Effect: gains and losses are accorded more psychological value when they are certain than when they are less probable. Certainty increases the pain of losses while increasing the appeal of gains. In the event of loss, this Certainty Effect can lead to more risk-taking behaviour, rather than the risk-averse behaviour predicted by standard economic theory under the same circumstances.</p>
 
-<div class="road-pricing">
+<div class="containerbox">
 <h2>Road Pricing Then and Now</h2>
 
 <p class="small-text text">As of 2005, Singapore has 3,234 kilometres of road and 754,992 motor vehicles, of which automobiles make up about 50%. Road pricing, first introduced with the Area Licensing Scheme in June 1975, has since been extended to major expressways with the Road Pricing Scheme. In 1998, Electronic Road Pricing (ERP) came into effect, with 48 gantries in operation as of 2005. ERP rates are revised every three months to ensure traffic speeds remain within the desired speed limits of 45 to 65 kilometres per hour (kph) for expressways and 20 to 30 kph for arterial roads.</p>
@@ -109,24 +114,23 @@ font-size:16px;
 <p>Finally, even if driving were no longer economically optimal, sunk costs may deter the driver from switching away from private transport. Thus, the driver will continue to drive, resulting in an inelastic demand when faced with road pricing.</p>
 
 
-<div class="road-pricing">
-<h5>
+<div class="break">
+<p class="break1">
 Drivers may value the additional cost of road pricing less than the potential loss of travel time in avoiding peak hour road use.
-</h5>
-</div>
+
+</p></div>
 
 <p>This sunk cost effect is manifested in a greater tendency to continue an endeavour once an investment in money, effort or time has been made. <a href="#notes"><sup class="#notes">4</sup></a> Economic theory postulates that sunk costs ought to be irrelevant in the calculation of utility, since the costs cannot be recovered. Instead, only incremental costs ought to be included. Empirical evidence demonstrates, however, that people do base their decisions on sunk costs. The reluctance of drivers to switch from driving to alternative modes of transport is made worse by the sunk cost effect of "lost" investment in the automobile.</p>
 
 <p>This situation can also be explained in terms of Prospect Theory. Having already made a once-off investment during the purchase of the vehicle, Arkes<a href="#notes"><sup class="#notes">5</sup></a> suggests that additional losses owing to investment will do little to depress the driver's utility, while any potential gain will improve the driver's utility considerably. Furthermore, endowment effects mean that although investments in automobiles may have depreciated on paper, people are unwilling to translate paper losses into real losses. While a consumer would be better off selling his automobile, the effect dictates that the price at which he would be willing to sell his car will be far higher than any buyer's valuation and willingness to pay. In such a context, drivers have an incentive to continue driving despite the negative economic utility, instead of selling their vehicles. This situation may be compounded by a series of rebates on the cost of automobile ownership in response to the government's focus on regulating road usage. While the reduction in taxes and costs were aimed at offsetting the automobile owner's perception of losses with the imposition of road pricing, it inadvertently led to an increase in the demand for automobiles. Prospect Theory would suggest that purchase decisions for automobiles are based on upfront costs while tending to ignore the running costs, since upfront costs are considered as being more salient at the time of automobile purchase while daily usage costs are discounted. The daily costs of road pricing, which tend to be narrowly "bracketed" in daily accounting, seem small in comparison with the huge cost of purchasing the vehicle; this difference discourages drivers from giving up their cars. Drivers are thus more likely to continue driving</p>
 
 
-<div class="road-pricing">
-<h5>
+<div class="break">
+<p class="break1">
 Prospect Theory would suggest that purchase decisions for automobiles are based on upfront costs while ignoring the running costs, since upfront costs are considered as being more salient at the time of automobile purchse while daily usage costs are discounted.
-</h5>
+</p>
 </div>	
 
-<hr>
 
 <h3>CONCLUSION</h3>
 

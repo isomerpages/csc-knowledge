@@ -38,6 +38,23 @@ li {
 	line-height:22px !important;
 }	
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
 .green
 {
 background-color: #8DA34D;
@@ -73,8 +90,7 @@ color: white;
 
 
 <em><small>ETHOS Issue 04, Apr 2008</small></em>
-<img src="/images/Ethos_Images/Ethos_Issue_04/ReinventingSingapore.jpg">
-
+<img src="/images/Ethos_Images/Ethos_Issue_04/4_Banner_Reinventing%20Singapore’s%20Electronic%20Public%20Services.jpg">
 
 <p>In 1997, Singapore took bold steps to make public services available through electronic means. Electronic public services were seen as a strategic initiative to enhance Singapore’s readiness to plug into an increasingly complex and networked global economy, and as a means to achieve dramatic improvements in service delivery standards, by harnessing the efficiencies and synergies of emerging information and communications technology. By the end of 2001, more than 1,600 public services were offered online and made accessible through the Internet 24/7, from anywhere in the world. Guided by three e-Government Master Plans,<a href="#notes"><sup>1</sup></a> Singapore has built up significant understanding and capabilities within the Public Service to leverage electronic service delivery channels to its advantage.</p>
 
@@ -108,11 +124,11 @@ color: white;
 </div>
 
 <br>
-<div class="green">
-<h5><em>
+<div class="break">
+<p class="break1">
 Government projects have started looking into opportunities to collaborate across the public and private sectors in order to deliver a holistic range of services
 with radical improvements and synergies.
-</em></h5>
+</p>
 </div>
 
 
@@ -134,11 +150,11 @@ with radical improvements and synergies.
 
 <p>In the next generation of e-Government, electronic public services must go beyond the merely transactional. They will also involve electronic means for government to more effectively engage citizens in the formulation of public policies. Singapore has already started on this effort. </p>
 
-<div class="green">
-<h5><em>
+<div class="break">
+<p class="break1">
 e-Government has become the primary interface between the Government
 and Singapore’s citizens and businesses.
-</em></h5>
+</p>
 </div>
 
 <p>Since 2005, the Reaching Everyone for Active Citizenry @ Home (REACH) website (<a href="http://www.reach.gov.sg/">http://www.reach.gov.sg</a>) has offered a series of online channels including discussion forums, online chats, blogs and emails, in order to gather public feedback as well as facilitate discussion on government policies. Once a year, REACH also organises an eTownhall discussion (using its online chat facility) to allow citizens to have real-time discussions with politicians upon the release of the Budget Speech. </p>
@@ -202,9 +218,9 @@ and Singapore’s citizens and businesses.
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">The three masterplans are the e-Government Action Plan (2000–2003), the e-Government Action Plan II (2003–2005) and the iGov2010 (2006–2010). For details. refer to <a href="https://www.tech.gov.sg/media/corporate-publications/egov-masterplans">https://www.tech.gov.sg/media/corporate-publications/egov-masterplans</a></li>
-<li class="small-text">For details, refer to the NS Portal at <a href="http://www.ns.sg/">http://www.ns.sg</a></li>
-<li class="small-text">For details, refer to the One.motoring Portal at <a href="http://www.onemotoring.com.sg/">http://www.onemotoring.com.sg</a></li>
+<li class="small-text">The three masterplans are the e-Government Action Plan (2000–2003), the e-Government Action Plan II (2003–2005) and the iGov2010 (2006–2010). For details. refer to <a target="_blank" href="https://www.tech.gov.sg/media/corporate-publications/egov-masterplans">https://www.tech.gov.sg/media/corporate-publications/egov-masterplans</a></li>
+<li class="small-text">For details, refer to the NS Portal at <a target="_blank" href="http://www.ns.sg/">http://www.ns.sg</a></li>
+<li class="small-text">For details, refer to the OneMotoring Portal at <a target="_blank" href="https://onemotoring.lta.gov.sg">https://onemotoring.lta.gov.sg</a></li>
 </ol>
 
 <br>
