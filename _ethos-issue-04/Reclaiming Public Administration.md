@@ -32,14 +32,7 @@ font-family: Georgia;
 	font-style: italic;
 	font-weight: bold;
 }	
-	
-
-.blue
-{
-background-color: #617787;	
-padding: 30px;
-}
-	
+		
 .blue h5	
 {
 	color: white;
