@@ -66,8 +66,7 @@ li {
 	
 .notestop
 {
-	font-size: 15px;
-	line-height:22px !important;
+	border-top: 1px solid black;	
 }	
 	
 .author
@@ -162,7 +161,8 @@ An increasing number of public policies require the active participation of citi
 
 </div>
 	
-	
+<div class="notestop">	
+
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
@@ -176,12 +176,20 @@ An increasing number of public policies require the active participation of citi
 <li class="small-text">Kettl, Donald F., <em>The Transformation of Governance: Public Administration for Twenty-First Century America</em>, Baltimore and London: John Hopkins University Press, 2002.</li>
 </ol>
 
-<h6>ADDITIONAL SOURCE:</h6>
+
+
+
+<h6>ADDITIONAL SOURCE</h6>
 
 <ul>
 <li class="small-text">Bourgon, Jocelyne, (unpublished), Why Should Governments Engage Citizens in Service Delivery and Policy Making, Paris, October 2007</li>
 </ul>
 
+	
+</div>
+
+
+	
 <br>
 
 
