@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>World Cities Summit Issue, June 2008</small></em>
-<img src="">
+<img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Banner_Cities_Designing_Urban_Journeys.jpg">
 
 
 <p>In “Transportation for Livable Cities”,<a href="#notes"><sup>1</sup></a> Vukan R. Vuchic described a liveable city as one that is human-oriented and environmentally friendly; economically viable and efficient; and socially sound. An efficient land transport system plays a critical role in developing a liveable city. Over the next few years, Singapore will see developments such as the Youth Olympic Games, Formula One Grand Prix, the Integrated Resorts and the Singapore Sports Hub. The city’s transport policies have to consider the new demands and anticipate future needs in order to support the sustainable development of the city.</p>
