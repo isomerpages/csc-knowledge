@@ -113,8 +113,8 @@ td
 <br>
 <div class="grid-container">
       <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-02.jpg"></div>
-        <div><h3>Prioritising Work and Letting Go: The Emotional Dimension</h3>
-            <b><i>Aurora De Souza Watters</i></b>
+        <div><h3>Review: The New Synthesis of Public Administration Fieldbook</h3>
+            <b><i>Max Everest-Phillips</i></b>
 <p>	
             We should acknowledge our deep connection to our work and learn from what we have gained from each experience, as we refocus on new challenges.
 </p>	
@@ -125,8 +125,8 @@ td
 <br>    
 <div class="grid-container">
         <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-03.jpg"></div>
-        <div><h3>When Projects Change or End: Practical Steps to Manage Stakeholder Expectations</h3>
-            <b><i>by Khoo Ee Wan</i></b>
+        <div><h3>Opinion: Identities and Institutions—The Needs of a New Era</h3>
+            <b><i>by Catherine Fieschi</i></b>
             
 <p>	
             Effective stakeholder communication can help ease disruption and promote buy-in for new goals if projects have to be modified or deprioritised.
@@ -138,8 +138,8 @@ td
 <br>    
 <div class="grid-container">
         <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-04.jpg"></div>
-        <div><h3>Lifelong Learning through a Global Lens</h3>
-            <b><i>by Patrick Tay</i></b>
+        <div><h3>Roundtable: How Technology is Transforming the Public Sector</h3>
+            <b><i>with Dato Paduka Ahmaddin Haji Abdul Rahman, Ms Anna Roy, and Mr Declan Hughes</i></b>
             
 <p>	
             Around the world, countries have sought to enhance their workers’ prospects with closer partnerships between sectors, greater clarity about learning goals, more flexibility with educational modes, and ensuring access to training for those who need it most.
@@ -148,10 +148,11 @@ td
 <div class="button1"><a href="/digital-issue-10/lifelong-learning-through-a-global-lens/">Read More</a></div><br></div>
     </div>
 <br>
+
 <div class="grid-container">
         <div><img src="/images/Cropped_images/Ethos_Digital_10/review.jpg"></div>
-        <div><h3>Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</h3>
-            <b><i>by Vernie Oliveiro</i></b>
+        <div><h3>Insights: Using Data</h3>
+            <b><i></i></b>
             
 <p>	
             Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich.</p>	
