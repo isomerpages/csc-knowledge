@@ -69,7 +69,7 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
-		<p></p>
+		<p>A naunced and dispassionate perspective is perhaps more sensible than either a triumphalist or alarmist view of what a rising China means for the world.</p>
 		<div class="button1"><a href="/ethos-issue-08/editorial/">Read more</a></div>
 	</div>
 </div>
