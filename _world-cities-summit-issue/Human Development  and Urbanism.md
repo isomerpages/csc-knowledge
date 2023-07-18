@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>World Cities Summit Issue, June 2008</small></em>
-<img src="">
+<img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Banner_Human_Development_And_Urbanisation.jpg">
 
 
 
