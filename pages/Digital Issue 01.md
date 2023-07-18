@@ -101,8 +101,8 @@ td
  <br>   
 <div class="grid-container">
         <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-01.jpg"></div>
-        <div><h3>Prioritisation</h3>
-            <b><i>by Aurora De Souza Watters</i></b>
+        <div><h3>The New Synthesis in the Field: Conversation with Jocelyne Bourgon</h3>
+            <b><i>Jocelyne Bourgon</i></b>
             
 <p>	
             Five key challenges can hinder efforts to put previous time, effort and resources to their best uses. Here's how to identify and address them.
