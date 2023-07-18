@@ -32,7 +32,6 @@ border-top: 1px solid black;
 	
 .notestop
 {
-border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
