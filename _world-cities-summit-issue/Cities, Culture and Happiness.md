@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>World Cities Summit Issue, June 2008</small></em>
-<img src="">
+<img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Banner_Cities_Culture_And_Happiness.jpg">
 
 
 <h3>CITIES AND CULTURE</h3>
