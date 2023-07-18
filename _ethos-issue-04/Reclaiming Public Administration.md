@@ -80,6 +80,13 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}		
 	
+.notestop
+{
+	margin-top: 50px;
+	border-top: 1px solid black;
+}
+	
+	
 
 </style>
 
@@ -158,7 +165,6 @@ An increasing number of public policies require the active participation of citi
 
 </div>
 	
-<div class="notestop">	
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -174,7 +180,7 @@ An increasing number of public policies require the active participation of citi
 </ol>
 
 
-
+<div class="notestop">
 
 <h6>ADDITIONAL SOURCE</h6>
 
