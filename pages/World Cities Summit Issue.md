@@ -77,7 +77,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Teaser_PlanningAndInnovating.jpg"></div>
 	<div>
 		<h3>Planning and Innovation for City Success</h3>
 		<b><i>by Alan Altshuler</i></b>
@@ -89,7 +89,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Teaser_The_Growth_Of_Asian_Cities.jpg"></div>
 	<div>
 		<h3>The Growth of Asian Cities</h3>
 		<b><i>by Bindu N. Lohani</i></b>
@@ -102,7 +102,7 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Teaser_AchievingSustainable.jpg"></div>
 	<div>
 		<h3>Achieving Sustainable Urban Development</h3>
 		<b><i>by Cheong Koon Hean</i></b>
@@ -114,7 +114,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Teaser_thetwintowers.jpg"></div>
 	<div>
 		<h3>The Twin Pillars of Estate Rejuvenation</h3>
 		<b><i>by Tay Kim Poh</i></b>
@@ -126,7 +126,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Teaser_Cities_Designing_Urban_Journeys.jpg"></div>
 	<div>
 		<h3>Designing Urban Journeys</h3>
 		<b><i>by Yam Ah Mee</i></b>
@@ -138,7 +138,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Teaser_waste_management.jpg"></div>
 	<div>
 		<h3>Waste Management and Economic Growth</h3>
 		<b><i>by Lee Yuen Hee</i></b>
@@ -150,7 +150,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Teaser_City_In_A_Garden.jpg"></div>
 	<div>
 		<h3>A City in a Garden</h3>
 		<b><i>by Ng Lang</i></b>
@@ -162,7 +162,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Teaser_Transformative_Investments.jpg"></div>
 	<div>
 		<h3>Transformative Investments: Remaking American Cities for a New Century</h3>
 		<b><i>by Bruce Katz and Julie Wagner</i></b>
@@ -186,7 +186,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Teaser_Human_Development_And_Urbanisation.jpg"></div>
 	<div>
 		<h3>Human Development and Urbanism</h3>
 		<b><i>by Richard Leete</i></b>
@@ -210,7 +210,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Teaser_Cities_Culture_And_Happiness.jpg"></div>
 	<div>
 		<h3>Cities, Culture and Happiness</h3>
 		<b><i>by Bruno S. Frey</i></b>
