@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>World Cities Summit Issue, June 2008</small></em>
-<img src="">
+<img src="/images/Cropped_images/World%20Cities%20Summit%20Issue/WorldSummit_Banner_The_Growth_Of_Asian_Cities.jpg">
 
 
 <p>In Asia, cities are the backbone of economic growth and central to the effective running of the country. Asian cities in particular have achieved remarkable growth in the last couple of decades, by any standard. There have been several connected drivers that have fuelled this growth. For one, urbanisation brought more and better infrastructure that are vital for business and trade. Urbanisation also set the stage for enormous economic growth for Asian cities. Economic growth meant that more opportunities for employment were available for millions of people, thus reducing the absolute levels of poverty in many cities, as well as the developing country as a whole. In Asia, agriculture-based economies like India have transformed into industrial and service-oriented economies within a span of thirty years, which is half the time it took for economies in large western countries.</p>
