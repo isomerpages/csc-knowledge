@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>World Cities Summit Issue, June 2008</small></em>
-<img src="">
+<img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
 
 
