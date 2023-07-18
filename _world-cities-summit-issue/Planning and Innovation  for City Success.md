@@ -165,7 +165,6 @@ when it is put into practice.
 
 <p class="small-text">This is an excerpt of an interview conducted on 18 February 2008 by June Gwee, Senior Researcher at the Centre for Governance and Leadership, Civil Service College Singapore, when Professor Altshuler was visiting the Lee Kuan Yew School of Public Policy, National University of Singapore.</p>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
