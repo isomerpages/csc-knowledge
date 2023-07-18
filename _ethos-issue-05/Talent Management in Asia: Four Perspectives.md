@@ -17,7 +17,6 @@ description: ""
 	
 .author
 {
-border-bottom: 1px solid black;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;	
@@ -27,7 +26,7 @@ border-top: 1px solid black;
 .author p {
 	font-size: 0.9em;
 	line-height:24px !important;
-	padding-top:20px;
+	padding-top:30px;
 	}	
 
 .break
