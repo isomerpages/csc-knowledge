@@ -52,13 +52,23 @@ font-family: Georgia;
 	}	
 
 .containerbox {
-	background-color: #eceedb;
+	background-color: #00b0bd;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
+	color: white;
 	
 	}	
 
+.containerbox h3 {
+	color: white;
+	
+	}	
+	
+.containerbox strong {
+	color: #563c76
+	}	
+	
 li {
 	font-size: 15px !important;
 	
@@ -100,15 +110,15 @@ li {
 
 <p>The US is terrific at generating ideas and private sector innovations, but generally a bit of a laggard among highly developed countries in public sector adoption. Where the US has innovated in public policy, on the other hand, it has most typically been as a result of bottom-up pressure. During the 1960s and 1970s, the US pioneered in the area of citizen participation and environmental protection. Mass motorisation was also a US (and partly urban) innovation, but like many other innovations of great importance for American cities, it was driven mainly by private business and consumer decisions. The government participated, but reactively: by investing in roads and urban renewal schemes to accommodate motorisation, and helping to finance new private housing attractive to the new auto-owning public. If we look back further, the US led the way in developing mass public education, likewise in response to strong grassroots pressures.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A fresh idea or invention
 becomes an innovation only
 when it is put into practice.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Some other important innovations in the US, not purely urban but of great urban significance, have involved a mix of public and private sector initiatives. Think, for example, of America's great non-profit universities, hospitals and cultural institutions, encouraged by the tax system and specific public grants but overwhelmingly the products of private initiative. Similarly, America led the way in the development of air transportation, with a mix of private entrepreneurship, public subsidies and infrastructure investments. More recently, it pioneered the Internet, which started as a public sector project but was later developed mainly by the private sector. We don't normally think of these as urban innovations, but they have had, and still have enormous impacts on urban development.</p>
 
@@ -126,7 +136,7 @@ when it is put into practice.
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">WHAT MAKES A CITY SUCCESSFUL?</h3>
