@@ -29,6 +29,21 @@ border-top: 1px solid black;
 	font-size: 0.9em;
 	line-height:24px !important;
 	}	
+	
+.notestop
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.notestop p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}		
+	
 
 .break
 {
@@ -192,7 +207,6 @@ Igniting tasks create a sense of meaning that resonate with employees' sense of 
 <li class="small-text">In this action-based research, the Hot Spots Research Institute was commissioned by MOM to explore ways to support companies in the region to achieve optimum productivity and innovation. The research team is working with 10 companies in Singapore to experiment with a range of state of the art diagnostic profiles and e-learning methods. The study is designed to both support the development of the teams whilst assessing the applicability and performance of the various diagnostics and learning methods. The research began in September 2008 and will be completed by March 2009.</li>
 </ol>
 
-<hr>
 
 <h6><a name="notes"></a>FURTHER READING ON HOT SPOTS AND RELATED ISSUES</h6>
 
