@@ -136,6 +136,8 @@ You need to be able to motivate employees by giving them jobs that have the poss
 
 </div>
 
+<br>
+
 <p>But you also need to have unyielding integrity, which is something that we take very seriously in GE. Past accomplishments do not guarantee future success. Leaders and companies that seek to continue to lead must perform with unyielding integrity earning the trust of stakeholders—be they governments, customers, suppliers, shareholders, creditors, employees, media or the communities where we live and work.</p>
 
 <div class="author">
