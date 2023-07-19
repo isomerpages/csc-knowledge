@@ -81,13 +81,13 @@ li {
 
 <p>In the private sector, organisational health is emerging as a key pillar of companies’ Environmental, Social and Governance (ESG) goals as they seek to tackle people issues like workforce redundancy, pay inequity, and staff activism. The shift in focus from profits to people is perhaps best encapsulated by the call by Larry Fink,<sup><a href="#notes">5</a></sup>&nbsp; head of the multinational investment management firm BlackRock, for CEOs to link corporate purpose to the benefit of not just shareholders but all stakeholders, including employees. Other business leaders have voiced similar concerns.<sup><a href="#notes">6</a></sup>&nbsp; While some of the rhetoric may be typecast as corporate virtue-signalling,<sup><a href="#notes">7</a></sup>&nbsp; there is no doubt that greater public scrutiny will pressure management to be more accountable for organisational health.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 An organisation's health is its ability to align its members with its mission, deliver high quality execution, and renew itself when the need arises.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 
 
@@ -97,7 +97,7 @@ An organisation's health is its ability to align its members with its mission, d
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Environmental, Social and Governance (ESG) Indicators in the Private Sector</h3>
@@ -138,13 +138,13 @@ An organisation's health is its ability to align its members with its mission, d
 
 <p>Taking care of people’s motivations through the right policies and processes that give due consideration to these emotions—irrational as they may sometimes be—is therefore one important aspect of HR. A healthy organisation is one that engenders feelings of trust and fulfilment amongst its employees by effectively channelling these motivations towards productive aims.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The humanistic approach asserts that, fundamentally, people have intrinsic motivations.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>This approach contrasts with more traditional management methods, rooted in Taylorism,<sup><a href="#notes">9</a></sup>&nbsp; that have tended to view individuals as self-optimising, rational agents who can be incentivised to exhibit productive behaviours simply through carrots and sticks.</p>
 
@@ -152,13 +152,13 @@ The humanistic approach asserts that, fundamentally, people have intrinsic motiv
 
 <p>Below are two concrete examples of how humanistic management might be applied  to improve organisational health.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A healthy organisation is one that engenders feelings of trust and fulfilment amongst its employees by effectively channelling these motivations towards productive aims.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>#1: Diversifying pathways to success</h3>
 
@@ -166,13 +166,13 @@ A healthy organisation is one that engenders feelings of trust and fulfilment am
 
 <p>Seen in this light, promotion exercises and career management in general are not just rules-based procedures: they are levers that directly impact employees’ dignity and sense of self-worth. And when the roads to success are far and few between, employees clamouring for status and validation can become fixated on climbing the corporate ladder, creating unhealthy competition, departmental strife, and unnecessary stress.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 People are driven by the innate need to be accepted as part of a community, and therefore seek rank as validation that they are being valued.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>One humanistic response to this is to diversify the roads to success. Instead of having a single, cookie-cutter career track whereby every individual is evaluated on the same scorecard, having multiple career tracks that reward for different skillsets can prove to be a more realistic way of validating employees. It can take the form of different developmental pathways as an economist, a counsellor, or even a UX/UI designer, spanning entry levels to senior leadership roles. It may entail creating dual career tracks by identifying new specialist roles at every level so that progression need not be only via managerial or generalist roles.  As new niches emerge and as organisational priorities change, new pathways may be added, or existing ones consolidated, to keep a nimble structure that continues to recognise employees’ worth in the various roles that they play.</p>
 
@@ -188,13 +188,13 @@ People are driven by the innate need to be accepted as part of a community, and 
 
 <p>In these regards, the Singapore Public Service is taking steps in the right direction. As more officers serve their postings in the private and people sectors, and as we welcome mid-career entrants, there are now more opportunities to build and formally recognise alternative pathways. Done right, diversifying pathways can bring about greater fulfilment and deeper meaning for employees in their careers, while organisations benefit from a more polyvalent and resilient workforce.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Diversifying the roads to success encourages employees to sort themselves into niches that best suit their capabilities and comparative advantages.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>#2: De-linking fulfilment from vertical mobility</h3>
 
@@ -202,13 +202,13 @@ Diversifying the roads to success encourages employees to sort themselves into n
 
 <p>How do organisations  usually encourage their employees to move laterally? Standard narratives run along the lines of employees being given a chance to acquire new skills in new areas or build new networks across departmental silos. Unfortunately, these benefits are framed from the organisation’s perspective and therefore hardly persuasive to employees themselves. They further gloss over the simple fact that sideways career moves can be disorienting to some, especially if they are uprooted and transplanted into an unfamiliar job function.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 How do organisations usually encourage their employees to move laterally? Standard narratives are framed from the organisation’s perspective and therefore hardly persuasive to employees themselves.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Tempting as it may be to write these effects off as ‘frictional’ and a necessary part of the process, there are real implications for organisational health. Employees in transition—especially those who expected a promotion but who were instead told to move into an adjacent position at the same level—may feel displaced, short-changed, anxious, or inferior. Staff morale and retention are common casualties. In more severe cases, transitioning older employees could raise suspicions of age discrimination and expose organisations to legal risk.</p>
 
@@ -220,13 +220,13 @@ How do organisations usually encourage their employees to move laterally? Standa
 
 <p>The second aspect relates to the longer term: how employees in transition themselves can deal with the disorientating effects in a more positive way and emerge a better version of themselves after the transition.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The crux is to create organic platforms to smoothen the transition, as people tend to be more receptive to guidance from others who have similar lived experiences.
-</em></h5>
+</p><p>
 
-<hr>
+</p></div>
 
 <p>One useful perspective is the model of ‘positive disintegration’, proposed by the psychologist Kazimierz Dabrowski.<sup><a href="#notes">13</a></sup>&nbsp; This model describes personal development as a series of inner conflicts. When faced with stressors like a change in career trajectory, individuals are thrown into disarray and forced to confront uncomfortable narratives that challenge pre-conceived notions of ‘the way things are’—in this case the idea that career progression is always upwards. Deviating from this path through a lateral movement, according to the status quo, represents a fall in social standing and a threat to the individual’s future in the organisation. Their sense of security and self-assuredness collapses.</p>
 
@@ -236,13 +236,13 @@ The crux is to create organic platforms to smoothen the transition, as people te
 
 <p>While this requires a certain degree of discipline and self-management by employees, managers in their new roles can provide an environment that facilitates positive disintegration. Managers can consciously staff their new employees with work of increasing complexity—for example, from filling out mechanical paperwork at a family services centre to handling live cases of family dysfunction that demand a degree of judgement call. Handling more complex work overtime also confers more agency to the individual to formulate solutions and take ownership of his own recommendations, thereby giving the individual a sense of purpose and agency in his new role.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The initial disequilibrium that career transitions may provoke can also generate opportunities for individuals to grow and find new meaning in their second subsequent careers.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Caveats and Some Food for Thought</h3>
 
@@ -254,29 +254,29 @@ The initial disequilibrium that career transitions may provoke can also generate
 
 <p>It is also hard to measure the efficacy of humanistic interventions: we can only find noisy proxies for employees’ sense of fulfilment and self-actualisation,  themselves nebulous concepts to begin with. At best, pursuing the right policies may show up secondarily and with a lag in lower attrition figures and higher employee engagement.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The crux is to create organic platforms to smoothen the transition, as people tend to be more receptive to guidance from others who have similar lived experiences.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>This may be a problem for organisations that pride themselves on making data-driven decisions: interventions with benefits that are intangible—and which fail to move the needle on quantitative dashboards that capture staff sentiment or manpower flows—may not receive management’s buy-in, important as these interventions often are.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 It is hard to measure the efficacy of humanistic interventions: we can only find noisy proxies for employees’ sense of fulfilment and self-actualisation.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>But organisations ignore the humanistic aspect at their own peril. Recent research in several countries, including Singapore, shows that employers often underestimate the importance of relational factors that drive attrition.<sup><a href="#notes">15</a></sup>&nbsp; Such factors include the need for employees to have a sense of belonging and to feel valued by their organisation and manager—all of them basic needs that a more humanistic approach can respond to.</p>
 
 <p>As labour markets adjust to the post-pandemic normal, organisational health will likely be top-of-mind for employers and employees alike. Perhaps it is time to think about how we can better enable individuals to flourish in their best possible selves. And what better time to relook at HR practices in the wake of the pandemic with The Great Resignation in full swing? After all, we should never pass up a good opportunity—the London Underground commuters certainly did not.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -285,7 +285,7 @@ It is hard to measure the efficacy of humanistic interventions: we can only find
 <p class="small-text"><em>This article was written in the author’s personal capacity; the opinions in the article are the author’s own and the article does not reflect the view of the Public Service Division or the Singapore Government.</em>
 </p>
 
-<hr>
+</div>
 
 <h6> <a name="notes"></a>NOTES</h6>
 
@@ -307,9 +307,6 @@ It is hard to measure the efficacy of humanistic interventions: we can only find
 <li class="small-text">McKinsey surveyed 5,774 people of working age in Australia, Canada, Singapore, the United Kingdom, and the United States across multiple industries. See Aaron De Smet, Bonnie Dowling, Marino Mugayar-Baldocchi, and Bill Schaninger, “‘Great Attrition’ or ‘Great Attraction’? The Choice Is Yours”, <em>McKinsey Quarterly</em>, September 2021.</li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
