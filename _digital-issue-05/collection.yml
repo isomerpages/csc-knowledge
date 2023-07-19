@@ -2,6 +2,7 @@ collections:
   digital-issue-05:
     output: true
     order:
+      - Using Behavioural Insights More Effectively in Policy Interventions.md
       - How to Nudge Better in Public Policy.md
       - Editorial.md
       - Nudge and Sludge.md
