@@ -54,9 +54,9 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital08.jpg"></div>
 	<div>
-		<h3><span class="cat"></span><br></h3>
+		<h3><span class="cat">Digital Issue 08, Apr 2022</span><br>Digital Edition Issue 08</h3>
 		<p></p>
 		<div class="button1"><a target="_blank" href="">Download PDF</a></div>
 	</div>
