@@ -57,8 +57,6 @@ border-bottom: 1px solid black;
 	
 </style>
 
-
-
 <h4>How did your latest publication, <em>The New Synthesis of Public Administration Fieldbook</em>, come about?</h4>
 
 <br>
