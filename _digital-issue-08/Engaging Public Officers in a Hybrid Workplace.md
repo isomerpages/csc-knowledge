@@ -218,7 +218,7 @@ Physical time together in the office will become an increasingly valuable resour
 <li class="small-text">M. A. Spilker and J. A. Breaugh, “Potential Ways to Predict and Manage Telecommuters’ Feelings of Professional Isolation”, <em>Journal of Vocational Behavior</em> 131, no. 103646. </li>
 </ol>
 <br>
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
