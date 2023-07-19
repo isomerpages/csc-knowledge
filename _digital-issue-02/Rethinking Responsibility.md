@@ -3,7 +3,6 @@ title: Rethinking Responsibility
 permalink: /digital-issue-02/rethinking-responsibility/
 description: ""
 ---
-
 <style>
 	
 .break
@@ -93,13 +92,14 @@ A Deep-Seated Narrative</h3>
 <p>All this is consistent with a paradigm of citizenship that is seen to confer Singaporeans with responsibilities, not rights. As sociologist Shirley Sun argues, “citizenship is primarily interpreted to confer ‘duties’ by the state”, in the sense that citizens are expected to contribute to the nation in defined ways, like productive or reproductive labour.<a href="#notes"><sup>11</sup></a> The ideal citizen (including the prospective immigrant) is one willing and able to play a part in the national project and can fulfil particular roles.
 </p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+
+<p class="break1">
 A focus on self-reliance exacerbates the crisis of self-worth experienced by many vulnerable persons.
-</em></h5>
+</p>
+</div>
 
-<hr>
 
 <h3>
 When Self-Reliance Is not Enough</h3>
@@ -119,13 +119,14 @@ It depresses self-esteem</h5>
 <p>One study by the Lien Centre for Social Innovation identifies six communities, including foreign workers and the disabled, for whom the approach of self-reliance is “not enough to overcome [the] vulnerabilities” they face. Not only is the resultant labelling “demeaning” and a source of resentment, the authors argue, many also lack stable social protection due to limitations of the Many Helping Hands model,<a href="#notes"><sup>16</sup></a> including poor coordination between stakeholders, the resource constraints faced by front-line staff, and a piecemeal approach to social intervention.<a href="#notes"><sup>17</sup></a> On a related note, because a narrative of self-reliance relegates state assistance to the last resort, it also deepens the stigma already associated with welfare recipients, and discourages the vulnerable from seeking the entitlements they deserve.
 </p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+
+<p class="break1">
 Some vulnerable groups face challenges too intransigent for self-reliance to resolve.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h5>It obscures structural constraints
 </h5>
@@ -139,13 +140,14 @@ Some vulnerable groups face challenges too intransigent for self-reliance to res
 <p>Finally, the sheer pervasiveness of a narrative of personal responsibility has unhealthy effects on our public discourse. Besides entrenching unfair perceptions of the disadvantaged, as described above, the mantra of self-reliance encourages Singaporeans to care primarily about their own welfare, and risks compromising efforts to build structures of mutual trust or aid. Likewise, rhetoric that associates vulnerability with irresponsibility could deepen divisions along socioeconomic lines<a href="#notes"><sup>20</sup></a> in an already diverse city, and foster perceptions of those in truly precarious positions as undeserving of state assistance, or worse, as unworthy citizens.
 </p>
 
-<hr>
 
-<h5><em>
+<div class="break">
+
+<p class="break1">
 Within government, different ministries are examining causes of hardship and poverty in structural terms.
-</em></h5>
+</p></div>
 
-<hr>
+
 
 <h3>What Then?
 </h3>
@@ -159,7 +161,8 @@ Within government, different ministries are examining causes of hardship and pov
 <p>Tackling deep-seated narratives takes hard work (and a healthy dose of self-awareness) both at the levels of public policy and public discourse. And yet the harms we may otherwise perpetuate make it imperative that we do so. By exercising more thoughtful ownership over the stories we tell ourselves and their effects in policy and daily life, we may learn a deeper meaning of responsibility and do better for all Singaporeans, together.
 </p>
 
-<hr>
+
+<div class="author">
 
 <h6>ABOUT THE AUTHORS</h6>
 
@@ -171,9 +174,11 @@ Within government, different ministries are examining causes of hardship and pov
 
 <p class="small-text">The views expressed in this article are their own.</p>
 
-<hr>
+</div>
 
-<h6><a name="notes"></a>NOTES</h6>
+<div class="notestop">
+	
+<h6>NOTES</h6>
 
 <ol>
 <li class="small-text">Prime Minister's Office, "The Straits Times Interview with DPM Tharman: Social Policies, Spending,
@@ -223,6 +228,10 @@ Within government, different ministries are examining causes of hardship and pov
     <em>The Straits Times</em>, March 5, 2018, accessed April 7, 2018, <a href="http://www.straitstimes.com/politics/parliament-    progressive-wage- models-can- be-extended- to-more- sectors-sam- tan">http://www.straitstimes.com/politics/parliament-    progressive-wage- models-can- be-extended- to-more- sectors-sam- tan</a>.</li>
 </ol>
 
+</div>	
+	
+	
 <br>
-
-<a href="../../ethos.html">Back to Ethos homepage</a>
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
