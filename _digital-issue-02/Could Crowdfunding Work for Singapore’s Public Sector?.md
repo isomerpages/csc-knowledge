@@ -144,11 +144,9 @@ Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 <p class="text">Spacehive<sup class="#notes">1</sup> is the United Kingdom’s civic crowdfunding platform. A winner of the Prime Minister’s Big Society Award, Spacehive helps local communities propose and crowdfund neighbourhood improvement projects.<sup class="#notes">2</sup> The aim is to gather ideas and funding widely in order to spur grassroots transformation. Unlike other crowdfunding platforms, the unique feature of Spacehive is that projects are mainly about transforming communities, spaces and places.</p>
 <p class="text">Featuring an All-Or-Nothing funding model, over £1 million worth of projects have been funded to date, with 52% of the projects initiated achieving their funding targets successfully.<sup class="#notes">3</sup> This is significantly higher than other platforms such as Kickstarter which only enjoy a 31% success rate. This may be due to strong local support for community projects on Spacehive.  To ensure feasibility, every Spacehive project is verified by independent partner organisations before funding commences. One such organisation is the Association of Town and City Management (ATCM), which encompasses both public and private sector stakeholders.<sup class="#notes">4</sup></p>
 
-</div>
 
-<br>
 
-<div class="notestop1">
+<div class="notestop">
 <p><strong>Notes</strong></p>
 <ol>
 <li class="small-text">Association of Town and City Management (website), accessed June 7, 2017, <a href="https://www.atcm.org/">https://www.atcm.org/</a>.
@@ -160,11 +158,9 @@ Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 <li class="small-text">Spacehive (website), accessed June 7, 2017, <a href="https://www.spacehive.com/">https://www.spacehive.com/</a>.
     </li>
 </ol>
-
-
-
 </div>
 
+</div>
 
 <p class="small-text text">In the United States, citizens are encouraged to contribute to crowdfunding for local government projects on Citizinvestor, a civic engagement platform. </p>
 
@@ -181,10 +177,8 @@ Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 </p>
 <p class="text">The success rate for projects reaching their funding goals is hugely impressive, reaching some 60%.<sup class="#notes'">2</sup> While the sums raised for public goods such as parks and other urban amenities are relatively small, Citizinvestor has nevertheless been successful in meeting its funding goals. This has been attributed to the high levels of civic engagement that residents of US cities tend to desire.<sup class="#notes'">3</sup>
 </p>
-	
-</div>	
 
-<br>
+
 <br>
 
 <div class="notestop">	
@@ -203,8 +197,9 @@ Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 	</ol>
 
 </div>
+	
+</div>		
 
-<br>
 <br>
 
 
