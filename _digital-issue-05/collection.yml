@@ -2,5 +2,6 @@ collections:
   digital-issue-05:
     output: true
     order:
+      - How to Nudge Better in Public Policy.md
       - Editorial.md
       - Nudge and Sludge.md
