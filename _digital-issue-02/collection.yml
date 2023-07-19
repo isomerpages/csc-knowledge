@@ -2,6 +2,7 @@ collections:
   digital-issue-02:
     output: true
     order:
+      - Could Crowdfunding Work for Singapore’s Public Sector?.md
       - "Sector Based Training that Works: A Conversation with James A Riccio.md"
       - "Defeating Diabetes: A Conversation with Dean Schillinger, MD.md"
       - Editorial.md
