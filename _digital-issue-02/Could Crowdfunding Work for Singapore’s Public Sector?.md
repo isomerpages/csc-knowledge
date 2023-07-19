@@ -46,7 +46,7 @@ line-height:22px;
 margin-top:40px;
 padding-bottom:30px;
 padding-top:30px;	
-border-top: 1px solid black;
+border-bottom: 1px solid black;
 
 }			
 	
@@ -310,4 +310,3 @@ In implementing crowdfunding, the government should also consider whether public
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
