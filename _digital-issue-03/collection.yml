@@ -2,4 +2,5 @@ collections:
   digital-issue-03:
     output: true
     order:
+      - Using Behavioural Insights to Increase Charitable Donations.md
       - Editorial.md
