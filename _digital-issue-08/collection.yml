@@ -2,10 +2,10 @@ collections:
   digital-issue-08:
     output: true
     order:
-      - Good Governance Is Built on Capabilities, Not Ideology.md
+      - Editorial.md
+      - Developing A More Humanistic Approach to Organisational Health.md
+      - Making the Most of Diversity through Inclusive Workplace Practices.md
+      - Engaging Public Officers in a Hybrid Workplace.md
       - How Managers Can Support Staff Mental Wellbeing in the Post Pandemic
         Workplace.md
-      - Engaging Public Officers in a Hybrid Workplace.md
-      - Making the Most of Diversity through Inclusive Workplace Practices.md
-      - Developing A More Humanistic Approach to Organisational Health.md
-      - Editorial.md
+      - Good Governance Is Built on Capabilities, Not Ideology.md
