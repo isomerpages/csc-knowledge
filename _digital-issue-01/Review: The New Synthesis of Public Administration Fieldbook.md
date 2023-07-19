@@ -22,6 +22,11 @@ font-family: Georgia;
 	font-weight: bold;
 }	
 	
+#jocelyn
+{
+margin-top:50px;	
+}
+	
 	
 	
 .author p
@@ -56,6 +61,19 @@ border-top: 1px solid black;
 border-bottom: 1px solid black;
 }		
 	
+.grid-container {
+	display: grid;
+	grid-template-columns: 25% 55%;
+	grid-column-gap: 5%;
+	margin-bottom: 5%;
+	margin-top:5%
+	}	
+	
+@media only screen and (max-width: 600px) {
+	.grid-container {
+		display: block;
+	}	
+	
 </style>
 
 <em><small>ETHOS Digital Issue 01, Oct 2017</small></em>
@@ -64,10 +82,18 @@ border-bottom: 1px solid black;
 </div>
 
 
-<div class="background-image1">
+<div class="grid-container">
 	
-	
+<div>	
+<h6>DETAILS</h6>	
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_01/Article%202/D1_Article_Digital1_fieldbook_Cov.jpg">
+</div>
+		
+<div id="jocelyn">
+<h6> The New Synthesis of Public Administration Fieldbook</h6>
+<p>Jocelyne Bourgon Dansk&nbsp;Psykologisk&nbsp;Forlag&nbsp;A/S, Denmark, 2017.</p>
+</div>	
+	
 </div>
 
 <p>If there was ever a book not to judge by its title or its cover, it is this. Jocelyne Bourgon’s latest book, <em>The New Synthesis of Public Administration Fieldbook</em>, is undoubtedly the best tome to date about public service in the 21st century.</p>
