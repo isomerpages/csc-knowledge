@@ -61,6 +61,10 @@ border-bottom: 1px solid black;
 </style>
 
 
+<em><small>ETHOS Digital Issue 01, Oct 2017</small></em>
+<div class="background-image">
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
+</div>
 
 <h3>1. Why should the public health conversation on diabetes focus more on social determinants without diminishing personal responsibility?&nbsp;</h3>
 
@@ -189,4 +193,3 @@ Exposing individuals to messages about the larger systems that they are subject 
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
