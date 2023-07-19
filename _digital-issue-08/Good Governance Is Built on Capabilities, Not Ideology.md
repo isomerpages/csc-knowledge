@@ -91,13 +91,13 @@ li {
 
 <p>As part of our work for the Chandler Institute of Governance (CIG), a non-governmental non-profit organisation  that partners and works with national and local governments, we spent two years connecting with government practitioners across more than 20 countries. These practitioners’ countries differed widely in ideologies and income levels, yet all were in basic agreement about the core components of good governance. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Capabilities are a practical place to begin a discussion of good governance.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Measuring Government Capabilities</h3>
 
@@ -107,13 +107,13 @@ Capabilities are a practical place to begin a discussion of good governance.
 
 <p>Capabilities are  so crucial because they tend to be more within a government’s control than outcomes alone, which can often be influenced by external forces. In deciding which capabilities to measure and how to capture them, we combined our team’s public sector experience with insights from other governance practitioners. We then validated these findings with an Advisory Panel of <a href="https://chandlergovernmentindex.com/advisory-panel/">eight global governance experts</a>.<sup><a href="#notes">3</a></sup></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Capabilities are crucial because they tend to be more within a government’s control than outcomes alone, which can often be influenced by external forces.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Singapore Ranks Third in Our Index</h3>
 
@@ -121,7 +121,7 @@ Capabilities are crucial because they tend to be more within a government’s co
 
 <br>
 
-<p style="text-align:center;"><img src="../../images/default-source/ethos-images/ethos-digital-issue-8/top-10-countries.jpg" alt="Top 10 Countries"></p>
+<p style="text-align:center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_08/Top10_Countries.jpg" alt="Top 10 Countries"></p>
 
 <p style="text-align: center;" class="small-text"><strong>Figure 1.</strong> Singapore’s strong performance in the Chandler Good Governance Index</p>
 
@@ -133,7 +133,7 @@ Capabilities are crucial because they tend to be more within a government’s co
 
 <br>
 
-<img src="../../images/default-source/ethos-images/ethos-digital-issue-8/how-capabilities-relate-to-outcomes.jpg" alt="Capabilities vs Outcomes">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_08/CountriesWithGoodGovernmentCapabilities_Have_Better_Outcomes.png" alt="Capabilities vs Outcomes">
 
 <br>
 
@@ -143,13 +143,13 @@ Capabilities are crucial because they tend to be more within a government’s co
 
 <p>It is empowering that stronger government capabilities  are linked with better outcomes, because many capabilities can be learnt and improved over time.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Stronger government capabilities are linked with better outcomes.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>No capability is more important in good governance than rule of law</h3>
 
@@ -157,7 +157,7 @@ Stronger government capabilities are linked with better outcomes.
 
 <br>
 
-<img src="../../images/default-source/ethos-images/ethos-digital-issue-8/rule-of-law.jpg" alt="Correlation between CGGI and Rule of Law">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_08/RuleOfLaw.jpg" alt="Correlation between CGGI and Rule of Law">
 <br>
 <p style="text-align: center;" class="small-text"><strong>Figure 3.</strong> Of the 26 governance capabilities analysed by the CGGI, rule of law was most closely associated with good governance. Source: Chandler Good Government Index 2022, Rule of Law Indicator (World Justice Project and Worldwide Governance Indicators)</p>
 <br>
@@ -170,36 +170,40 @@ Stronger government capabilities are linked with better outcomes.
 <p>This starts by discerning a nation’s story, a task that demands a deep appreciation and respect of the nation’s history, its past and current context, and the values, cultures and needs of its constituents. Second, it involves communicating that story effectively, while finding ways to develop policies and programmes aligned with that narrative. Finally, leaders would also need to steer policy in line with the national story, even as it evolves.</p>
 <p>This is not an alien concept in Singapore, even if the term ‘national story’ is not as frequently used. For example, a few core tenets—such as meritocracy, openness to the world, and racial and religious harmony—have defined Singapore’s national story and been prominent considerations in the design of key policies.</p>
 <p>Doing this well will require the right capabilities. For example, leaders need the foresight tools to help them better anticipate risks and changes in the country’s operating environment. They need the ability to conduct meaningful public consultation and engagement exercises to discern public sentiments.</p>
-<hr>
-<h5><em>
+<div class="break">
+
+<p class="break1">
 Governments need leaders who are effective national stewards. By that we mean a leader who safeguards the national story from one generation to the next.
-</em></h5>
-<hr>
+</p>
+</div>
 <p><strong>2. Strong Organisations and Systems</strong></p>
 <p>Second, we believe that the public sector  must have strong organisations and systems: that are united in purpose, values, and culture, and structured in the best way to fulfil their respective missions and mandates. These concepts—values, mission, culture—are all too often treated as plaques on the wall, rather than key responsibilities of senior leaders.</p>
 <p>Strong organisations must also be supported by effective systems, such as HR and performance management systems, resource budgeting and procurement, as well as strategic planning. These are the basic ‘plumbing’ of any effective organisation. System choices matter—just moving from a paper-based procurement system to one that is electronic can yield profound benefits in efficiency, transparency and corruption control.</p>
-<hr>
-<h5><em>
+<div class="break">
+
+<p class="break1">
 The public sector must have strong organisations and systems: that are united in purpose, values, and culture, and structured in the best way to fulfil their respective missions.
-</em></h5>
-<hr>
+</p>
+</div>
 <p><strong>3. Building Skills in Policy and Programme Design, and Implementation</strong></p>
 <p>Finally, we believe that public servants must be skilled  in policy and programme design, and implementation. Policies and programmes are the main products and services that governments provide, and the main vehicle through which governments serve their constituents.</p>
 <p>This involves supporting public servants with technical capabilities to craft policies in line with their intended outcomes, the wisdom to discern whether policies are politically tenable, and the capacity to work together at the whole-of-government level to translate policy on paper to implementation on the ground. Specific capabilities include the use of data in evidence-based policy analysis, policy writing and presentation, internal and external stakeholder engagement and communication, and project management.</p>
-<hr>
-<h5><em>
+<div class="break">
+
+<p class="break1">
 Public servants must be skilled in policy and programme design, and implementation.
-</em></h5>
-<hr>
+</p>
+</div>
 <h3>Investing in Capability Development Is a Recipe for Progress</h3>
 <p>These capabilities may sound familiar, even banal. Yet in our experience, implementing a coherent, structured system  of training for public servants is far from mundane. It requires strong political will and a culture of continual learning. It demands ongoing investments—of money, time, and manpower—and requires thoughtfully designed courses and practitioner-focused learning. Each of these is much easier to write than it is to implement—and so few do it brilliantly.</p>
 <p>But, as Singapore demonstrates, such a training system delivers results that more than justify the effort. By consistently investing in training its public servants, whether through structured training programmes at the Civil Service College, or through rigorous on-the-job learning, Singapore has positioned itself as one of the world’s most respected and efficient governance systems. In the inaugural CGGI, Singapore topped quite a few indicators, including ‘long-term vision’ and ‘quality of bureaucracy’.</p>
 <p>Singapore’s system has benefitted us both professionally and personally, and it continues to inspire and inform our efforts to provide training and support to governance practitioners around the world.</p>
-<hr>
-<h5><em>
+<div class="break">
+
+<p class="break1">
 Implementing a coherent, structured system of training for public servants requires strong political will and a culture of continuous learning.
-</em></h5>
-<hr>
+</p>
+</div>
 <h6>ABOUT THE AUTHORS</h6>
 <p class="small-text"><strong>Wu Wei Neng</strong> is the Executive Director of the Chandler Institute of Governance. He holds adjunct appointments with the Centre for Liveable Cities, Ministry of National Development, and the Singapore Civil Service College. He previously worked in public policy design and implementation in the Singapore Ministry of Trade and Industry and Ministry of Defence, and in training and development work at the Civil Service College.</p>
 <p class="small-text"><strong>Kenneth Sim</strong> is Dean of the Chandler Academy of Governance, and Deputy Executive Director of the Chandler Institute of Governance. Before joining CIG, Kenneth spent over 15 years in the Singapore Public Service, in varied portfolios including industry development, skills development and training, casino regulation, energy policy and environmental sustainability. He was formerly Special Assistant to the Deputy Prime Minister.</p>
@@ -213,7 +217,7 @@ Implementing a coherent, structured system of training for public servants requi
 <li class="small-text">Chandler Good Government Index, <a target="_blank" href="https://chandlergovernmentindex.com/wp-content/uploads/CGGI-2022-Report.pdf">“The Chandler Good Government Index 2022”,</a> accessed April 29, 2022.</li>
 </ol>
 <br>
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
