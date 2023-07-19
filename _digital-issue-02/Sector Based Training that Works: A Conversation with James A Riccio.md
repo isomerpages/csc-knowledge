@@ -59,11 +59,11 @@ border-bottom: 1px solid black;
 
 <p>It depends on what is meant by “effective”. Sector-based training programmes are typically defined as having a “dual customer” focus: they serve <em>employers</em> who need trained workers to fill open positions, and <em>workers</em> who are seeking “middle skill” jobs that pay good wages. From the perspective of workers, sector programmes are seen as a way to provide a path of <em>upward mobility</em> for disadvantaged groups that are otherwise likely to end up in, or stuck in, low-wage jobs. </p>
 
-<hr>
+<div class="break">
+<p class="break1">
+It is possible for a sector-based training programme to supply employers with qualified workers without producing upward mobility.</p>
 
-<h5><em>It is possible for a sector-based training programme to supply employers with qualified workers without producing upward mobility.</em></h5>
-
-<hr>
+</div>
 
 <p>Although these goals are aligned, it is possible to achieve the first (supplying employers with qualified workers) without producing upward mobility. For example, suppose a programme successfully trained and placed workers in entry-level IT jobs. But also suppose that those positions paid no more than jobs the participants may have gotten had they not joined the training programme—say, certain jobs in construction. The programme would not have succeeded in helping its participants advance economically (i.e., attain higher wages), although it would have served employers’ needs for trained IT workers.</p>
 
@@ -75,11 +75,12 @@ border-bottom: 1px solid black;
 
 <p>A given sector programme will focus on a narrow range of occupations and must be selective about whom it enrols. For example, adults with poor reading and math skills and no high school diploma may not qualify for IT training, such as that offered by Per Scholas, or perhaps they will not be interested in jobs in the IT sector. The same would apply to programmes that offer training in other occupations. Many adults who need skills training may not be interested in, or may not qualify for, what a <em>particular</em> training provider has to offer. Thus, it is important to recognise that a sector-based training programme that focuses on just one or two sectors cannot easily substitute for job placement or other programmes that offer personalised workforce coaching services to a target group of disadvantaged individuals—who may vary widely in their interests, skills, and personal circumstances. At the same time, a more diverse target population could be more fully accommodated by a <em>network</em> of strong sector-based programmes that together cover a broad range of sectors, occupations, and entry requirements. </p>
 
-<hr>
+<div class="break">
+<p class="break1">
+A more diverse target population could be more fully accommodated by a network of strong sector-based programmes.</p>
 
-<h5><em>A more diverse target population could be more fully accommodated by a </em>network <em>of strong sector-based programmes.</em></h5>
+</div>
 
-<hr>
 
 <h3>2. Skillsets demanded by the economy are always changing. How does this affect the implementation of sectoral-based training programmes? &nbsp;</h3>
 
@@ -88,11 +89,11 @@ border-bottom: 1px solid black;
 
 <p>One way for programmes to learn which skillsets are in decline and which are in ascendency is to study trends in official labour market data and in online advertising. But also important is gleaning “early warning signs” from employers and industry representatives directly, by talking with them about the ways in which their businesses are changing and where they are beginning to struggle to find enough workers with the “right” skills: what those new “right” skills are, and how they differ from those previously needed.<sup><a href="#notes">5</a></sup> This means, of course, that staff members of sector programmes must maintain regular communication with employers in the sectors they are serving and inquire not just about current job openings but seek to understand how their businesses are evolving or changing, and how their skillset requirements may be changing in turn. </p>
 
-<hr>
+<div class="break">
+<p class="break1">
+Sector programmes should glean early warning signs from employers about how their businesses are changing and where they are beginning to struggle to find enough workers with the "right" skills. &nbsp;</p>
+</div>
 
-<h5><em>Sector programmes should glean early warning signs from employers about how their businesses are changing and where they are beginning to struggle to find enough workers with the "right" skills. &nbsp;</em></h5>
-
-<hr>
 
 <h3>3. What are the most important factors for a successful sector-based training programme?</h3>
 
@@ -106,13 +107,13 @@ Well-run sector programmes carefully screen and select applicants to try to ensu
 
 <p>Ideally, they also continue to offer participants assistance <em>after</em> they are placed in a sector job. Although not common and less fully studied, post-placement assistance through which staff maintain close contact with graduates and the employers they work for may contribute to a programme’s success: by allowing staff to assess the graduates’ performance, help them address complicating life situations that might interfere with their job performance, help them identify next-step job opportunities and skills training to enable movement up career ladders over time, and assist them with rapid re-employment if they lose their jobs.</p>
 
-<hr>
+<div class="break">
+<p class="break1">
 
-<h5><em>
-In well-run sector programmes, staff members are </em>specialists <em>within a sector rather than workforce </em>generalists<em>.
-</em></h5>
+In well-run sector programmes, staff members are specialists <em>within a sector rather than workforce </em>generalists<em>.
+</em></p><em>
+</em></div><em>
 
-<hr>
 
 <p>Operating all these elements of a sector-based programme well is challenging. Not surprisingly, programme maturity matters. It can take a substantial period of time for a workforce provider to build deep relationships with employers in a given sector, and to acquire the pertinent specialised knowledge. More remains to be learned about “best practices” and conditions that can strengthen sector-based programmes and increase their long-term effectiveness. However, the accumulating evidence suggests that, when operated well, they can be a route to greater economic mobility for low-income adults, while helping employers meet their needs for qualified workers for middle-skill jobs. 	</p>
 
@@ -124,7 +125,7 @@ In well-run sector programmes, staff members are </em>specialists <em>within a s
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">SkillsFuture: Earn and Learn Programme</h3>
@@ -169,13 +170,7 @@ In well-run sector programmes, staff members are </em>specialists <em>within a s
 	
 
 <br>
+<br>	
 <div class="back">
-<a href="/all-issues/">Back to All Issues</a>
-</div>
-
-<p>&nbsp;</p>
-
-
-
-
-
+<a href="/ethos/">Back to Ethos Page</a>	
+</div></em>
