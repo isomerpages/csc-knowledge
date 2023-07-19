@@ -51,6 +51,15 @@ border-top: 1px solid black;
 border-bottom: 1px solid black;
 }		
 	
+.containerbox {
+	background-color: #eceedb;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}			
+	
+	
 </style>
 
 
