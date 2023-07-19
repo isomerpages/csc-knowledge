@@ -91,8 +91,8 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
+		<h3>Making the Most of Diversity through Inclusive Workplace Practices</h3>
+		<b><i>by Khoo Ee Wan, Zoey Lew</i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
