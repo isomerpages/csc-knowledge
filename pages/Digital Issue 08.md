@@ -80,7 +80,7 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Developing A More Humanistic Approach to Organisational Health</h3>
-		<b><i></i></b>
+		<b><i>by Soh Zhi Liang</i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
