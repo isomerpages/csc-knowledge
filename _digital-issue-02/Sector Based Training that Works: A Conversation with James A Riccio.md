@@ -109,11 +109,10 @@ Well-run sector programmes carefully screen and select applicants to try to ensu
 
 <div class="break">
 <p class="break1">
-
-In well-run sector programmes, staff members are specialists <em>within a sector rather than workforce </em>generalists<em>.
-</em></p><em>
-</em></div><em>
-
+In well-run sector programmes, staff members are specialists within a sector rather than workforce &gt;generalist.
+	
+</p>
+</div>
 
 <p>Operating all these elements of a sector-based programme well is challenging. Not surprisingly, programme maturity matters. It can take a substantial period of time for a workforce provider to build deep relationships with employers in a given sector, and to acquire the pertinent specialised knowledge. More remains to be learned about “best practices” and conditions that can strengthen sector-based programmes and increase their long-term effectiveness. However, the accumulating evidence suggests that, when operated well, they can be a route to greater economic mobility for low-income adults, while helping employers meet their needs for qualified workers for middle-skill jobs. 	</p>
 
@@ -173,4 +172,4 @@ In well-run sector programmes, staff members are specialists <em>within a sector
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></em>
+</div>
