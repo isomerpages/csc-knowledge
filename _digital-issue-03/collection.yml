@@ -2,6 +2,7 @@ collections:
   digital-issue-03:
     output: true
     order:
+      - Partnering with the Public in the War on Diabetes.md
       - Five Tips for Leadership Transitions.md
       - "Fertility Rebound in the OECD: Insights for Singapore.md"
       - Using Behavioural Insights to Increase Charitable Donations.md
