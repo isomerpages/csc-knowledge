@@ -230,7 +230,7 @@ Within government, different ministries are examining causes of hardship and pov
 
 </div>	
 	
-	
+<br>	
 <br>
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
