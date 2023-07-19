@@ -2,6 +2,7 @@ collections:
   digital-issue-04:
     output: true
     order:
+      - New Challenges, New Horizons.md
       - "Kampung Admiralty: Building for All Ages.md"
       - Community Care Through Collaborative Leadership.md
       - Strategy and Stewardship in a Time of Change.md
