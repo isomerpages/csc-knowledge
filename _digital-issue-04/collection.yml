@@ -2,5 +2,6 @@ collections:
   digital-issue-04:
     output: true
     order:
+      - Strategy and Stewardship in a Time of Change.md
       - Agile, Inclusive, Digital Ready Public Service.md
       - Editorial.md
