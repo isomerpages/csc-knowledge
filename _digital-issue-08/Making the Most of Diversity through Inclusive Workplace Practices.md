@@ -79,13 +79,13 @@ That said, the mere presence of diversity  does not mean that its benefits will 
 
 <p>How then can organisations be more intentional in putting in place inclusive practices at every level of the workplace, to better harness the diversity in the talent pool?</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The mere presence of diversity does not mean that its benefits will actually be harnessed.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Building Inclusion</h3>
 
@@ -137,25 +137,25 @@ The mere presence of diversity does not mean that its benefits will actually be 
 
 <br>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 To build an inclusive workplace, we must first be aware of our own biases, assumptions and mental models of other subgroups.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p><strong>2.	Cultivate a mindset that values diversity</strong></p>
 
 <p>We can learn to acknowledge  both the value of our uniqueness as well as the limits of our own perspectives. In this way, we can be more open in sharing our own points of view, and also to appreciate those of others, preparing ourselves for new ways of seeing that may change our own understandings and assumptions.<a href="#notes"><sup>8, 9, 10</sup></a> We can recognise that there may be challenges in relating to those who are different from us, while being willing to find ways to overcome these by adjusting our own behaviours and building trust.<a href="#notes"><sup>11, 12</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We can learn to acknowledge both the value of our uniqueness as well as the limits of our own perspectives.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Relating to Others in an Inclusive Way</h3>
 
@@ -189,13 +189,13 @@ We can learn to acknowledge both the value of our uniqueness as well as the limi
 
 <p>We can actively reach out to our teammates to build rapport with them, developing mutual trust and getting to know them on a personal, informal level. Over time, work relationships can become personal friendships that can lubricate interactions, reduce conflict,<a href="#notes"><sup>22, 23, 24, 25</sup></a> and be a source of insider information, making team members feel more included in the workplace.<a href="#notes"><sup>26</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We can hold each other in our teams accountable for communicating sensitively, and stand up for others when they face non-inclusive behaviours.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Leading Inclusive Teams</h3>
 
@@ -225,13 +225,13 @@ We can hold each other in our teams accountable for communicating sensitively, a
 
 <p>Such role-modelling helps the team to appreciate the value that diversity brings. It highlights our commitment to inclusion as leaders and inspires others to behave inclusively as well.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 As leaders, we should give sufficient opportunity for all views to be shared, discussed and considered—not only those views that we agree with.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Building Inclusive Organisations</h3>
 
@@ -255,13 +255,13 @@ Clarity about why an organisation needs to pursue diversity will also guide its 
 
 <p>That said, work teams can be purposefully created with diversity in mind, by considering the functional competence, personal and work experiences, and the work preferences of individuals. The intent is to create teams where differences and similarities are evenly and adequately matched.<a href="#notes"><sup>57</sup></a></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Organisations should consider how the broader context of their policies and practices are aligned with promoting inclusion.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p><strong>3.	Provide organisation-wide training to build skills for working inclusively</strong></p>
 
@@ -275,13 +275,13 @@ Organisations should consider how the broader context of their policies and prac
 
 <p>Organisations  tend to focus on increasing the diversity in their talent pool without equal focus on the experience of the minority members once they are in the talent pool. Promoting inclusion can help organisations harness the benefits of diversity in their talent pool, and everyone has a part to play in improving the individual and collective experience of inclusion in organisations. Ultimately, these experiences, behaviours, policies and practices within an organisation all occur in the context of a broader societal framework. Developing a pro-diversity and inclusive organisational climate will help us, as members of a whole Public Service, interface more effectively and harmoniously with an increasingly diverse society.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 An organisation needs to make systemic attempts to build skills for working inclusively.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h6>ABOUT THE AUTHORS</h6>
 
@@ -372,9 +372,7 @@ An organisation needs to make systemic attempts to build skills for working incl
 <li class="small-text">See Note 23.</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
