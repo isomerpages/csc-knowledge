@@ -2,4 +2,5 @@ collections:
   digital-issue-05:
     output: true
     order:
+      - Nudge and Sludge.md
       - Editorial.md
