@@ -150,7 +150,3 @@ result and impact.
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
-
-
-
