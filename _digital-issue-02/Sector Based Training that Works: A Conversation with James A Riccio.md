@@ -63,6 +63,11 @@ border-bottom: 1px solid black;
 </style>
 
 
+<em><small>ETHOS Digital Issue 02, Apr 2018</small></em>
+<div class="background-image">
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
+</div>
+
 
 <h3>1. What does research say about the effectiveness of sector-based training, compared to traditional employment assistance and job placement?&nbsp;</h3>
 
