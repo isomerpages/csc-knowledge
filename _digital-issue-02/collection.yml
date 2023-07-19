@@ -2,5 +2,6 @@ collections:
   digital-issue-02:
     output: true
     order:
+      - "Sector Based Training that Works: A Conversation with James A Riccio.md"
       - "Defeating Diabetes: A Conversation with Dean Schillinger, MD.md"
       - Editorial.md
