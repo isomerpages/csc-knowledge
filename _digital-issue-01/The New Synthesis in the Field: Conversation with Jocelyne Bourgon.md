@@ -57,6 +57,12 @@ border-bottom: 1px solid black;
 	
 </style>
 
+
+<em><small>ETHOS Digital Issue 01, Oct 2017</small></em>
+<div class="background-image">
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
+</div>
+
 <h4>How did your latest publication, <em>The New Synthesis of Public Administration Fieldbook</em>, come about?</h4>
 
 <br>
