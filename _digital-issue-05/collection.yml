@@ -2,9 +2,9 @@ collections:
   digital-issue-05:
     output: true
     order:
-      - "Encouraging Car Lite Travel through Gamification: The Kids Smart Travel
-        Challenge.md"
-      - Using Behavioural Insights More Effectively in Policy Interventions.md
-      - How to Nudge Better in Public Policy.md
       - Editorial.md
       - Nudge and Sludge.md
+      - How to Nudge Better in Public Policy.md
+      - Using Behavioural Insights More Effectively in Policy Interventions.md
+      - "Encouraging Car Lite Travel through Gamification: The Kids Smart Travel
+        Challenge.md"
