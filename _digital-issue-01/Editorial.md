@@ -42,22 +42,20 @@ padding-bottom:30px;
 </div>
 
 
-<p>In this second issue of our <em>ETHOS Digital Edition</em>, we continue to bring you a variety of perspectives of interest to the practice of public sector governance and leadership in Singapore.&nbsp; </p>
+<p>ETHOS is expanding. The print edition will still be published biannually, with a sharper focus on thematic clusters of ideas: our forthcoming December 2017 issue will look at ideas related to the changing future of work.</p>
 
-<p>First, continuing on from our exploration of the future of work, we feature views from <a href="sector-based-training-that-works-a-conversation-with-james-riccio.html">James A. Riccio</a>&nbsp;from New York-based thinktank MDRC, who believes that sector-based training programmes can be designed to better benefit both workers and employers.&nbsp; </p>
+<p>Between print issues, we are introducing a new digital-only edition of ETHOS, with articles of general interest to public policy and governance in Singapore. These will include interviews, reviews, lectures and opinion pieces, as well as more media-rich material to come, as we find fresh ways to present and consider important perspectives.
+</p>
 
-<p>We also hear from veteran doctor and medical researcher Dean Schillinger, who argues that to combat diabetes we cannot rely on personal choices alone, but must look to addressing structural issues and whole-of-society measures.&nbsp; </p>
+<p>Hence, an edition of ETHOS will now be available every quarter, with a broader range of thoughtful and practitioner-focused content presented in a variety of formats.
+</p>
 
-<p>In a similar vein, two young public officers&nbsp;reflect on the national narrative of self-reliance, and how it could be qualified with a greater sense of shared social responsibility. </p>
+<p>For this inaugural issue of our ETHOS Digital Edition, we feature a conversation with the Honourable Jocelyne Bourgon, a distinguished Canadian public servant and Fellow of Singapore’s Civil Service College. Her new publication, <em>The New Synthesis of Public Administration Fieldbook</em>, documents efforts to rethink public sector work as one of enabling greater societal value amidst the challenges and opportunities of the 21st century. Max Everest-Phillips, Director of the UNDP’s Global Centre for Public Service Excellence, reviews its contribution to the field of public administration. Catherine Fieschi reflects on the complex nature of our identities and the institutions needed to support them as they evolve. In the ETHOS Roundtable, a bevy of experienced public servants from three different countries discuss the impact of digital technology on the business of the public sector.</p>
 
-<p>Finally, contributors from our own Institute of Public Administration and Management at Civil Service College investigates the potential of civic crowdfunding&nbsp;as an option for funding small public projects.</p>
+<p>Times change, and we change with them: yet our contributors suggest that as the public sector adapts its methods to new contexts and demands, it must also clarify and deepen its core sense of what it values, and how it can best reposition itself to serve the public good.</p>
 
-<p>As always, we wish you an engaging read and would love to hear from you if you have any comments or suggestions at <a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>.<br>
-<br>
-<strong>Alvin Pang</strong><br>
-Editor-in-Chief<br>
-<br>
-<em>Do also check out our January 2018 full issue of Ethos, which explores issues related to the <a href="/ethos-issue-18/editorial/">future of work</a>.</em> </p>
+<p>Thank you for your continued readership and interest. We hope you find our new offerings engaging and useful. If you have comments or suggestions, please do let us know.</p>
+
 
 <div class="author">
 <b>Dr Alvin Pang</b><br>
