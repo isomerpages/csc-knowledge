@@ -76,6 +76,10 @@ border-bottom: 1px solid black;
 	
 </style>
 
+<em><small>ETHOS Digital Issue 01, Oct 2017</small></em>
+<div class="background-image">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%203/D2_Banner_Crowdfunding.jpg">
+</div>
 
 <p>Like many developed countries, Singapore faces an increasingly challenging economic and political environment, with a tightening fiscal position,<a href="#notes"><sup>1</sup></a> as well as rising public expectations&nbsp; for more citizen involvement in shaping and implementing public policy. While Public Private Partnership (PPP) models have been used to bring innovation, cost-sharing and collaboration to the development of some national assets, they are relatively large-scale and less amenable to unexpected changes such as shifts in public demand.<a href="#notes"><sup>2</sup></a> In a rapidly changing administrative environment, we should explore other funding models that could provide flexible financing options for public sector projects.</p>
 
@@ -133,15 +137,18 @@ Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">United Kingdom</h3>
 <p class="text">Spacehive<sup class="#notes">1</sup> is the United Kingdom’s civic crowdfunding platform. A winner of the Prime Minister’s Big Society Award, Spacehive helps local communities propose and crowdfund neighbourhood improvement projects.<sup class="#notes">2</sup> The aim is to gather ideas and funding widely in order to spur grassroots transformation. Unlike other crowdfunding platforms, the unique feature of Spacehive is that projects are mainly about transforming communities, spaces and places.</p>
 <p class="text">Featuring an All-Or-Nothing funding model, over £1 million worth of projects have been funded to date, with 52% of the projects initiated achieving their funding targets successfully.<sup class="#notes">3</sup> This is significantly higher than other platforms such as Kickstarter which only enjoy a 31% success rate. This may be due to strong local support for community projects on Spacehive.  To ensure feasibility, every Spacehive project is verified by independent partner organisations before funding commences. One such organisation is the Association of Town and City Management (ATCM), which encompasses both public and private sector stakeholders.<sup class="#notes">4</sup></p>
-<p>&nbsp;</p>
 
-<div class="notestop">
+</div>
+
+<br>
+
+<div class="notestop1">
 <p><strong>Notes</strong></p>
 <ol>
 <li class="small-text">Association of Town and City Management (website), accessed June 7, 2017, <a href="https://www.atcm.org/">https://www.atcm.org/</a>.
@@ -159,19 +166,12 @@ Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 </div>
 
 
-
-
-
-
-
-
-
 <p class="small-text text">In the United States, citizens are encouraged to contribute to crowdfunding for local government projects on Citizinvestor, a civic engagement platform. </p>
 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">United States</h3>
@@ -181,6 +181,8 @@ Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 </p>
 <p class="text">The success rate for projects reaching their funding goals is hugely impressive, reaching some 60%.<sup class="#notes'">2</sup> While the sums raised for public goods such as parks and other urban amenities are relatively small, Citizinvestor has nevertheless been successful in meeting its funding goals. This has been attributed to the high levels of civic engagement that residents of US cities tend to desire.<sup class="#notes'">3</sup>
 </p>
+	
+</div>	
 
 <div class="notestop1">	
 	
@@ -240,7 +242,7 @@ Crowdfunding, a tried and tested model in the private sector, is still a novel a
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Opportunities and Challenges in Civic Crowdfunding Projects
@@ -309,4 +311,3 @@ In implementing crowdfunding, the government should also consider whether public
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
 
-</div></div>
