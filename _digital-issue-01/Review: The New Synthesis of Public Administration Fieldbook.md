@@ -91,7 +91,7 @@ border-bottom: 1px solid black;
 		
 <div id="jocelyn">
 <h6> The New Synthesis of Public Administration Fieldbook</h6>
-<p>Jocelyne Bourgon Dansk&nbsp;Psykologisk&nbsp;Forlag&nbsp;A/S, Denmark, 2017.</p>
+<p>Jocelyne Bourgon Dansk Psykologisk Forlag A/S, Denmark, 2017.</p>
 </div>	
 	
 </div>
