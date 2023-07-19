@@ -122,7 +122,7 @@ Civic Crowdfunding</h3>
 <h3>
 Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 
-<p style="text-align: center;"><img title="Figure 2 (cropped)" src="../../images/default-source/default-album/figure-2-(cropped).jpg?sfvrsn=db7386_0" data-displaymode="Original" alt="Types of Collaborative and Crowd-Based Project Models in Singapore’s Public Sector"></p>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%203/D2_Article_Crowdfunding_Figure%202.jpg">
 
 <p class="small-text"><strong>Figure 2.</strong> Types of Collaborative and Crowd-Based Project Models in Singapore’s Public Sector
 </p>
@@ -225,7 +225,7 @@ Crowdfunding, a tried and tested model in the private sector, is still a novel a
 
 <p>Another consideration is that crowdfunding is not meant to replace Public-Private Partnerships (PPP).  The expertise and investment of the private sector will still be needed to drive innovation and attain cost efficiency at scale. A range of factors can help determine whether a project might be better served through PPP approaches, or civic crowdfunding:</p>
 
-<img title="Figure 3 (cropped)" style="vertical-align: middle;" src="../../images/default-source/default-album/figure-3-(cropped)e52aeabc22384154821e4c27e4a85900.jpg?sfvrsn=82b4cec1_0" data-displaymode="Original" alt="Figure 3 (cropped)">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%203/D2_Article_Crowdfunding_Figure%203.jpg">
 
 <p class="small-text"><strong>Figure 3.</strong> Different Objectives, Different Approaches<a href="#notes"><sup>10</sup></a>
 </p>
@@ -246,7 +246,7 @@ Crowdfunding, a tried and tested model in the private sector, is still a novel a
 
 <h3 class="title">Opportunities and Challenges in Civic Crowdfunding Projects
 </h3>
-<img title="Figure 4_pop-up box (EDIss2)" style="vertical-align: middle;" src="../../images/default-source/default-album/figure-4_pop-up-box-(ediss2).jpg?sfvrsn=c1e0e49b_0" data-displaymode="Original" alt="Figure 4_pop-up box (EDIss2)">&nbsp;
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_02/D2_Article_Crowdfunding_Opportunities.jpeg">
 <p class="small-text"><strong>Source:</strong> See page 14 of Alexandra Stiver, Leonor Barroca, Shailey Minocha, Mike Richards and Dave Roberts, “Civic Crowdfunding Research: Challenges, Opportunities, and Future Agenda”, <em>New Media &amp; Society</em>, 2014: 1–23, accessed June 7, 2017,  <a href="https://pdfs.semanticscholar.org/fd27/8ab7e86badb66761484495ea2e525946a723.pdf">https://pdfs.semanticscholar.org/fd27/8ab7e86badb66761484495ea2e525946a723.pdf</a>.
 </p>
 
