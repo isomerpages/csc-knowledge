@@ -193,14 +193,17 @@ In a future where switching between working from home and working onsite will be
 
 
 
-<hr>
-<h5><em>
+<div class="break">
+
+<p class="break1">
 Physical time together in the office will become an increasingly valuable resource for achieving work outcomes that benefit from face-to-face interactions.
-</em></h5>
-<hr>
+</p>
+</div>
+<div class="author">
 <h6>ABOUT THE AUTHOR</h6>
 <p class="small-text"><strong>Amos Law</strong> is Senior Researcher at the Institute of Leadership and Organisation Development, Civil Service College. His applied research aims to improve leadership and organisational development practices to build a first-class public service for Singapore, and his current research interests are teams and team effectiveness, employee engagement, and hybrid work.</p>
-<hr>
+</div>
+
 <h6> <a name="notes"></a>NOTES</h6>
 <ol>
 <li class="small-text">Institute of Leadership and Organisation Development, “Position Paper: Employee Engagement in the Singapore Public Service” (Civil Service College Singapore, 2018).</li>
