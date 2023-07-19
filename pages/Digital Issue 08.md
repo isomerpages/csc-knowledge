@@ -70,7 +70,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
 		<p>This edition of ETHOS Digital features contributions reflecting on the human side of the Public Service as a workplace.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-08/editorial/">Read more</a></div>
 	</div>
 </div>
 
