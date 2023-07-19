@@ -2,4 +2,5 @@ collections:
   digital-issue-08:
     output: true
     order:
+      - Developing A More Humanistic Approach to Organisational Health.md
       - Editorial.md
