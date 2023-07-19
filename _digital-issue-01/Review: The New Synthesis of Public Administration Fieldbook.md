@@ -63,7 +63,7 @@ border-bottom: 1px solid black;
 	
 .grid-container {
 	display: grid;
-	grid-template-columns: 35% 55%;
+	grid-template-columns: 35% 65%;
 	grid-column-gap: 5%;
 	margin-left: 10%;
 	}	
