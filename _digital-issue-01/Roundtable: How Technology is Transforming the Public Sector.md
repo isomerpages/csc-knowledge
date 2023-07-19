@@ -64,7 +64,7 @@ background-color: #eceedb;
 	
 </style>
 
-<em><small>ETHOS Digital Issue 01, Oct 2017</small></em>
+<em><small>ETHOS Digital Issue 02, Apr 2018</small></em>
 <div class="background-image">
 <img src="/images/Landing_Banner_Images/banner_roundtable.jpg">
 </div>
