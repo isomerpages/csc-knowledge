@@ -2,4 +2,5 @@ collections:
   digital-issue-01:
     output: true
     order:
+      - "The New Synthesis in the Field: Conversation with Jocelyne Bourgon.md"
       - Editorial.md
