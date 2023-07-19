@@ -5,6 +5,25 @@ description: ""
 ---
 <style>
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
+	
+	
 .author p
 {
 	font-size: 15px;
@@ -46,18 +65,18 @@ border-bottom: 1px solid black;
 
 <p>The New Synthesis Initiative was launched because a group of very senior people, who had been in government for a reasonably long time, felt that there were significant changes at play; that what it meant to govern a modern society was changing. If this were true, then people in positions of authority in government needed all the help we could give them. So it started as a gesture of support for those in leadership positions in the public sector.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We must never forget that governance is
 about a relationship between the state
 and the citizens; the citizenry is not a
 cost-driver of government services, it is
 the most significant and important public
 value creator in society.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>To begin with, the hypothesis was that there are significant, distinctive differences to serving in a post-industrial era, compared to prior times and that the institutions we have inherited, the conventions of public administration, come from a prior time. The idea was that we are not going to be able to resolve the challenges of the 21st century by relying on the ideas of the 19th, and the practices of the 20th. So we have to rethink public administration, reframe issues from a much broader perspective, and reinvent some of the practices, in order for public organisations to fulfil their mission. That was the beginning of the journey.</p>
 
@@ -65,11 +84,11 @@ value creator in society.
 
 <p>While my expectation was that the project was done by then, a number of colleagues and friends around the world wanted to test the ideas in practice. As a practitioner, I could not resist the appeal of that, so we said, “Yes”. When we grew to 1,000 people, we said “Okay, it’s time to do a new book”. This <em>Fieldbook</em><a href="#notes"><sup class="#notes">2</sup></a> describes what people, in various domains of practice in a diversity of countries, have done with the framework we created; we were in awe at what they were inventing.</p>
 
-<p>&nbsp;</p>
+
 
 <h4>In what ways do these new ideas represent a shift from previous thinking about public sector and administration management?</h4>
 
-<p>&nbsp;</p>
+
 
 <p>There are a number of shifts. One is that classical public administration is based on a mechanical model inherited from an industrial age. Once upon a time, some people earned the right to exercise power. Their decisions were deemed to be serving the collective interest, and once they make decisions, these would be faithfully implemented down a system of hierarchy and delegated authority, and everyone lived happily ever after. Things were expected to work like a well-oiled machine.</p>
 
@@ -77,13 +96,16 @@ value creator in society.
 
 <hr>
 
-<h5><em>
+<div class="break">
+
+<p class="break1">
 A smart government is: one that, with
 the least amount of effort, the least
 amount of energy, the least amount of
 resources, achieves the greatest level of
 result and impact.
-</em></h5>
+</p>
+</div>
 
 <hr>
 
@@ -93,11 +115,9 @@ result and impact.
 
 <p>We must never forget that <em><strong>governance</strong></em> is about a relationship between the state and the citizens; the citizenry is not a cost-driver of government services, it is the most significant and important public value creator in society. The investment and contribution of citizens far exceed the total investment of the public, private and civil sectors combined. Citizens are the driver, the fuel that propels society forward. To forget that, is to reduce their role to being a consumer, or a client of government services. It is to miss the big picture.</p>
 
-<p>&nbsp;</p>
 
 <h4>What insights have emerged from the application of the New Synthesis Framework in practice?</h4>
 
-<p>&nbsp;</p>
 
 <p>I’ve been surprised many times by how people are using and reinventing the NS ideas. I did not know if the framework was going to work better with highly developed societies or developing countries. Some of what appeared to be small shifts were ground-breaking.</p>
 
