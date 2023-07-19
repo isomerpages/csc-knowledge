@@ -2,10 +2,10 @@ collections:
   digital-issue-04:
     output: true
     order:
-      - "Pro Tip: How to Manage a Team for the First Time.md"
-      - New Challenges, New Horizons.md
-      - "Kampung Admiralty: Building for All Ages.md"
-      - Community Care Through Collaborative Leadership.md
-      - Strategy and Stewardship in a Time of Change.md
-      - Agile, Inclusive, Digital Ready Public Service.md
       - Editorial.md
+      - Agile, Inclusive, Digital Ready Public Service.md
+      - Strategy and Stewardship in a Time of Change.md
+      - Community Care Through Collaborative Leadership.md
+      - "Kampung Admiralty: Building for All Ages.md"
+      - New Challenges, New Horizons.md
+      - "Pro Tip: How to Manage a Team for the First Time.md"
