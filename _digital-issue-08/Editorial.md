@@ -83,7 +83,7 @@ li {
 
 <p><a href="/digital-issue-08/making-the-most-of-diversity-through-inclusive-workplace-practices/">When times become challenging, as they must in a crisis, </a><a href="/digital-issue-08/how-managers-can-support-staff-mental-wellbeing-in-the-post-pandemic-workplace/">a wise manager must understand how to support their staff while keeping work goals in view,</a> so that we do right by all our people: the ones we work with, and the ones we serve.</p>
 
-<p>The articles in this issue remind us that in the age of machine learning, the vital work of government is still carried out not by automatons but by people—who deserve the support and nurturing necessary for them to give their best efforts. Aligned with this aspiration, we also hear from <a href="good-governance-is-built-on-capabilities-not-ideology.html">two former Singaporean public officers who now lead a non-governmental outfit helping to strengthen governance capabilities for governments around the world.</a></p>
+<p>The articles in this issue remind us that in the age of machine learning, the vital work of government is still carried out not by automatons but by people—who deserve the support and nurturing necessary for them to give their best efforts. Aligned with this aspiration, we also hear from <a href="/digital-issue-08/good-governance-is-built-on-capabilities-not-ideology/">two former Singaporean public officers who now lead a non-governmental outfit helping to strengthen governance capabilities for governments around the world.</a></p>
 
 <p>I wish you an engaging read. Stay safe and stay well.</p>
 
