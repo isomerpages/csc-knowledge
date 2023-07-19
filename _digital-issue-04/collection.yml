@@ -2,4 +2,5 @@ collections:
   digital-issue-04:
     output: true
     order:
+      - Agile, Inclusive, Digital Ready Public Service.md
       - Editorial.md
