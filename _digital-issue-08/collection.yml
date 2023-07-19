@@ -2,5 +2,6 @@ collections:
   digital-issue-08:
     output: true
     order:
+      - Making the Most of Diversity through Inclusive Workplace Practices.md
       - Developing A More Humanistic Approach to Organisational Health.md
       - Editorial.md
