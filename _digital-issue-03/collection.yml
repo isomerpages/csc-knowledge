@@ -2,5 +2,6 @@ collections:
   digital-issue-03:
     output: true
     order:
+      - "Fertility Rebound in the OECD: Insights for Singapore.md"
       - Using Behavioural Insights to Increase Charitable Donations.md
       - Editorial.md
