@@ -65,8 +65,6 @@ border-bottom: 1px solid black;
 	display: grid;
 	grid-template-columns: 25% 55%;
 	grid-column-gap: 5%;
-	margin-bottom: 5%;
-	margin-top:5%
 	}	
 	
 @media only screen and (max-width: 600px) {
