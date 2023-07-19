@@ -107,7 +107,7 @@ Civic Crowdfunding</h3>
 <p>While civic crowdfunding has both pros and cons (see Figure 1), the concerns most often raised can be refuted on several grounds.
 </p>
 
-<img title="Figure-1-compressor" style="vertical-align: middle;" src="../../images/default-source/default-album/figure-1-compressor.jpg?sfvrsn=58a9a2d8_0" data-displaymode="Original" alt="Figure-1-compressor">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_02/D2_Article_Crowdfunding_Figure%201.jpg">
 
 <p class="small-text"><strong>Figure 1.</strong> Arguments For and Against Civic Crowdfunding<a href="#notes"><sup class="#notes">7</sup></a></p>
 
@@ -246,7 +246,8 @@ Crowdfunding, a tried and tested model in the private sector, is still a novel a
 
 <h3 class="title">Opportunities and Challenges in Civic Crowdfunding Projects
 </h3>
-<img src="/images/Ethos_Images/Ethos_Digital_Issue_02/D2_Article_Crowdfunding_Opportunities.jpeg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%203/Opportunities%20and%20Challenges%20in%20Civic%20Crowdfunding%20Projects/D2_Article_Crowdfunding_Opportunities.jpeg">
+	
 <p class="small-text"><strong>Source:</strong> See page 14 of Alexandra Stiver, Leonor Barroca, Shailey Minocha, Mike Richards and Dave Roberts, “Civic Crowdfunding Research: Challenges, Opportunities, and Future Agenda”, <em>New Media &amp; Society</em>, 2014: 1–23, accessed June 7, 2017,  <a href="https://pdfs.semanticscholar.org/fd27/8ab7e86badb66761484495ea2e525946a723.pdf">https://pdfs.semanticscholar.org/fd27/8ab7e86badb66761484495ea2e525946a723.pdf</a>.
 </p>
 
