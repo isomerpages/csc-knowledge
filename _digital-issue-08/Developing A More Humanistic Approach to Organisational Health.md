@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Edition Issue 8, Apr 2022</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Digital_08/Digital-08-04.jpg">
 
 
 
