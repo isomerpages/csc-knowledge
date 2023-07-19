@@ -76,7 +76,7 @@ border-bottom: 1px solid black;
 	
 </style>
 
-<em><small>ETHOS Digital Issue 01, Oct 2017</small></em>
+<em><small>ETHOS Digital Issue 01, Apr 2018</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%203/D2_Banner_Crowdfunding.jpg">
 </div>
