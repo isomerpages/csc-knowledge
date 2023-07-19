@@ -2,6 +2,7 @@ collections:
   digital-issue-08:
     output: true
     order:
+      - Good Governance Is Built on Capabilities, Not Ideology.md
       - How Managers Can Support Staff Mental Wellbeing in the Post Pandemic
         Workplace.md
       - Engaging Public Officers in a Hybrid Workplace.md
