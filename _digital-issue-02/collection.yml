@@ -2,4 +2,5 @@ collections:
   digital-issue-02:
     output: true
     order:
+      - "Defeating Diabetes: A Conversation with Dean Schillinger, MD.md"
       - Editorial.md
