@@ -42,9 +42,10 @@ line-height:22px;
 	font-weight: bold;
 }
 
-.background-image img
+.background-image1 img
 {
-	width:50%;
+	width:40%;
+	margin-top:50px
 }
 	
 .author
@@ -59,6 +60,13 @@ border-bottom: 1px solid black;
 
 <em><small>ETHOS Digital Issue 01, Oct 2017</small></em>
 <div class="background-image">
+<img src="/images/Landing_Banner_Images/banner_book%20review.jpg">
+</div>
+
+
+<div class="background-image1">
+	
+	
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_01/Article%202/D1_Article_Digital1_fieldbook_Cov.jpg">
 </div>
 
@@ -94,4 +102,3 @@ border-bottom: 1px solid black;
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
