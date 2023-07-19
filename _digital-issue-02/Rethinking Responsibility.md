@@ -4,8 +4,67 @@ permalink: /digital-issue-02/rethinking-responsibility/
 description: ""
 ---
 
+<style>
+	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}	
+	
+	
+.author p
+{
+	font-size: 15px;
+	line-height:24px;
+}
+	
+.notestop ol li
+{
+font-size: 15px;
+line-height:22px;
+}	
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
 
 
+.author
+{
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;
+border-bottom: 1px solid black;
+}		
+	
+.containerbox {
+	background-color: #eceedb;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}		
+	
+</style>
+
+<em><small>ETHOS Digital Issue 02, Apr 2018</small></em>
+<div class="background-image">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%204/D2_Banner_Rethinking%20Responsibility.jpg">
+</div>
 
 <p>In an interview with <em>The Straits Times </em>earlier this year, Deputy Prime Minister Tharman Shanmugaratnam pointed out that Singapore’s social spending structure has changed over the years to account for the fact that people in different life circumstances have different opportunities afforded to them. However, he argued that it is essential to “sustain a culture of personal responsibility”. Calling this “a crucial social ethic” for Singapore, he stressed that welfare policies should not ultimately act just as a safety net, but galvanise those with “a spirit of aspiration” to do well for themselves.<a href="#notes"><sup>1</sup></a></p>
 
@@ -167,4 +226,3 @@ Within government, different ministries are examining causes of hardship and pov
 <br>
 
 <a href="../../ethos.html">Back to Ethos homepage</a>
-
