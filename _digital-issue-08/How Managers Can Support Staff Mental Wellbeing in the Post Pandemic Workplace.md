@@ -95,13 +95,13 @@ li {
 
 <p>As people managers, we should familiarise ourselves with relevant resources that staff can access easily. For example, Civil Service College has a period contract with a wellness centre to provide coaching and counselling services which employees can book, with assurance that all data will be kept confidential. <a href="https://gccprod.sharepoint.com/sites/psd-wellness-at-work">CARE4U</a>,<sup><a href="#notes">5</a></sup>&nbsp; a PSD mental health initiative implemented service-wide, makes accessing mental health services anonymous and convenient. The site also features resources for supervisors about promoting team mental wellbeing, highlighting the important role managers play in supporting a healthy environment for their team.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We must take care of our mental health as intentionally as we do our physical health.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>#2. Be supportive and keep confidentiality, while maintaining the team’s performance</h3>
 
@@ -125,13 +125,13 @@ We must take care of our mental health as intentionally as we do our physical he
 
 <p>Once, I approached a team member for a private conversation to express concern, not knowing what to expect. Later, when the individual felt better, she shared that she trusted that I cared for her as a person, which assured her that she would be supported as she took better care of herself. I believe this shared sense of trust greatly facilitated the conversations with this team member and boosted her energy to continue showing up at work.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Building trust and goodwill with team members can allow potentially sensitive conversations to take place down the road.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>#5. Respect and dignity go a long way</h3>
 
@@ -141,13 +141,13 @@ Building trust and goodwill with team members can allow potentially sensitive co
 
 <p>People bring their whole selves to work:  the personal and professional; the happy and sad. Approach team members with respect and hold space for them to reach out for help with dignity. While it may take time, a manager’s impact can be life changing. These practices can go a long way in nurturing conditions where people feel resilient and energised to bring their best selves to work.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 People bring their whole selves to work. Approach team members with respect and hold space for them to reach out for help with dignity.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -171,7 +171,6 @@ People bring their whole selves to work. Approach team members with respect and 
 <li class="small-text">See Note 7.</li>
 </ol>
 
-<p><a href="../../ethos.html">Back to ETHOS homepage</a></p>
 
 
 
