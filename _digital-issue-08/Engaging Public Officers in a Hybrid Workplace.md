@@ -84,19 +84,19 @@ li {
 
 <p>Organisations are still grappling with these issues, and research on engaging new employees in such an environment is still nascent. However, my own experiences in these circumstances offer some insights into what may help to build social capital, strengthen a sense of community, and ultimately increase engagement, regardless of the mode of work we find ourselves in.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A sense of belonging and community does not emerge spontaneously, nor is it static once it emerges.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Engaging New Staff in a Hybrid Environment: Five Tips</h3>
 
 <h4><span style="color: #c00000;">1. Check in regularly with staff</span></h4>
 
-<img width="200" style="float: right; padding: 15px;" src="../../images/default-source/ethos-images/ethos-digital-issue-8/ethos_check-in.jpg" height="200" alt="Check In with Staff">
+<img width="200" style="float: right; padding: 15px;" src="/images/Ethos_Images/Ethos_Digital_Issue_08/Ethos_CheckIn.jpg" height="200" alt="Check In with Staff">
 
 <p>Having regular check-ins with my supervisor, both virtual and physically where possible, helped give me the support I needed as I slowly acclimatised to the team and my role in it. These sessions were more frequent when I first started work, and gradually tapered off as I got used to the work environment. Such check-ins were a source of stability and reassurance amid the uncertainty and ambiguity that go with every transition into a new role and workplace.</p>
 
@@ -106,7 +106,7 @@ A sense of belonging and community does not emerge spontaneously, nor is it stat
 
 <h4><span style="color: #c00000;">2. Nurture a safe and supportive working culture</span></h4>
 
-<img width="200" style="float: left; padding: 15px;" src="../../images/default-source/ethos-images/ethos-digital-issue-8/ethos_safe-working-culture.jpg" height="200" alt="Working Culture">
+<img width="200" style="float: left; padding: 15px;" src="/images/Ethos_Images/Ethos_Digital_Issue_08/Ethos_SafeWorkingCulture.jpg" height="200" alt="Working Culture">
 
 <p>Culture is an important aspect of any organisation and can play a significant role in its performance. It is the environment in which people work, influencing how they think, act, and experience work, and is something that that can be shaped by leaders.<a href="#notes"><sup>6</sup></a></p>
 
@@ -116,32 +116,33 @@ A sense of belonging and community does not emerge spontaneously, nor is it stat
 
 <h4><span style="color: #c00000;">3. Start a support group for newcomers </span></h4>
 
-<img width="200" style="float: right; padding: 15px;" src="../../images/default-source/ethos-images/ethos-digital-issue-8/ethos_support-group.jpg" height="200" alt="Support Group">
+<img width="200" style="float: right; padding: 15px;" src="/images/Ethos_Images/Ethos_Digital_Issue_08/Ethos_SupportGroup.jpg" height="200" alt="Support Group">
 <p>The amount of social support is inversely related to turnover intention—i.e., those who receive more social support are less likely to report an intention to leave their jobs, even in the face of a higher workload.<a href="#notes"><sup>7</sup></a>&nbsp; In a hybrid work environment, it is all too easy for new hires—who need the most social support at the start—to slip through the cracks and feel out of place.</p>
 <p>In my previous workplaces, I was closest to those who started on the job together with me, and these connections evolved into ongoing friendships. Our shared experiences made it easier for us to build camaraderie and provide support for one another.</p>
 <p>In my current workplace, I was fortunate to come across a fellow new hire who proactively convened a group of us who had started around the same time, thereby creating an unofficial support group. This became a platform for us to discuss our common experiences and help each other out where necessary.</p>
 <p>Extensive telecommuting is correlated with feelings of isolation, which affects performance and job satisfaction.<a href="#notes"><sup>8&nbsp;</sup></a> In a future where switching between working from home and working onsite will be a norm, formalising such support groups for new hires could go a long way to preventing a sense of alienation from taking root.  Another benefit is that these support groups promote connections between officers in different teams and departments, which increases opportunities for the cross pollination of ideas and cross-functional collaborations.</p>
 <br>
 <h4><span style="color: #c00000;">4. Offer online activities to foster better relationships</span></h4>
-<img width="200" style="float: left; padding: 15px;" src="../../images/default-source/ethos-images/ethos-digital-issue-8/ethos_online-activities.jpg" height="200" alt="Online Activities">
+<img width="200" style="float: left; padding: 15px;" src="/images/Ethos_Images/Ethos_Digital_Issue_08/Ethos_OnlineActivities.jpg" height="200" alt="Online Activities">
 <p>A new initiative in my organisation that is open to all staff, “Community Conversations”, is a series of online conversation sessions that encourages staff to connect over common topics of discussion and reflection. These online events also feature breakout groups where attendees can be vulnerable with each other in a more personal setting.</p>
 <p>While I may not remember every single person I met in these Conversations, I did take away a sense of community in which people were not just co-workers but fellow human beings, some of whom had challenges in life. It allowed me to feel more authentically connected with people I had only met virtually.</p>
 <br>
 <h4><span style="color: #c00000;">5. Treat physical time as a valuable resource in hybrid work</span></h4>
-<img width="200" style="float: right; padding: 15px;" src="../../images/default-source/ethos-images/ethos-digital-issue-8/ethos_physical-time.jpg" height="200" alt="Physical Time">
+<img width="200" style="float: right; padding: 15px;" src="/images/Ethos_Images/Ethos_Digital_Issue_08/Ethos_PhysicalTime.jpg" height="200" alt="Physical Time">
 <p>Physical time together in the office will become an increasingly valuable resource for achieving work outcomes that benefit from face-to-face interactions, such as activities that foster a sense of belonging and community, building engagement in the process. Plans for hybrid work arrangements must therefore consider how to spend this resource wisely, to maximise the limited face-to-face time between employees. In an age of hybrid work and productivity optimisation, no employee should be going back to the office merely to perform work that can be carried out just as effectively from a remote location.</p>
-<hr>
-<h5><em>
+<div class="break">
+
+<p class="break1">
 In a future where switching between working from home and working onsite will be a norm, formalising support groups for new hires could go a long way to preventing a sense of alienation from taking root.
-</em></h5>
-<hr>
+</p>
+</div>
 
 
 
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Thinking about the Future of Employee Engagement</h3>
