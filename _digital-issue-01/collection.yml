@@ -2,5 +2,6 @@ collections:
   digital-issue-01:
     output: true
     order:
+      - "Review: The New Synthesis of Public Administration Fieldbook.md"
       - "The New Synthesis in the Field: Conversation with Jocelyne Bourgon.md"
       - Editorial.md
