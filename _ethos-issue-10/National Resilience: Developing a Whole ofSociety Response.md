@@ -1,5 +1,5 @@
 ---
-title: "National Resilience: Developing a Whole ofSociety Response"
+title: "National Resilience: Developing a Whole of-Society Response"
 permalink: /ethos-issue-10/national-resilience-developing-a-whole-of-society-response/
 description: ""
 ---
