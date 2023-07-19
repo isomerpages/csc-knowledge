@@ -184,7 +184,10 @@ Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 	
 </div>	
 
-<div class="notestop1">	
+<br>
+<br>
+
+<div class="notestop">	
 	
 <p><strong>Notes</strong></p>
 <ol>
@@ -201,7 +204,8 @@ Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 
 </div>
 
-
+<br>
+<br>
 
 
 
