@@ -48,7 +48,7 @@ line-height:22px;
 margin-top:40px;
 padding-bottom:30px;
 border-top: 1px solid black;
-border-bottom: 1px solid black;
+
 padding-top: 40px;
 }		
 	
