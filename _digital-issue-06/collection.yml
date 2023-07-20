@@ -1,4 +1,6 @@
 collections:
   digital-issue-06:
     output: true
-    order: []
+    order:
+      - "COVID 19 and Climate Change: A Foretaste of Public Service in the 21st
+        Century.md"
