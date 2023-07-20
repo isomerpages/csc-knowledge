@@ -217,6 +217,8 @@ Nurturing active citizenry surely takes time but we should take bold steps to fa
 </p>
 <p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%204/D3_Article_CJ%20Participants%20Journey.png"></p>
 
+<br>	
+	
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846861403?h=76abfc2706&amp;badge=0&amp;autopause=0&amp;player\_id=0&amp;app\_id=58479](https://player.vimeo.com/video/846861403?h=76abfc2706&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0"></iframe></div>	
 
 	
