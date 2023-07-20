@@ -52,8 +52,8 @@ border-top: 1px solid black;
 	
 .notestop2 ol li
 {
-font-size: 15px;
-line-height:22px;
+font-size: 16px;
+line-height:32px;
 }			
 
 	
@@ -174,14 +174,14 @@ border-bottom: 1px solid black;
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Reciprocity (in a modified form)</h3>
 <p class="text">A picture of SACA staff was used to thank the potential donors for their contributions and support, along with a sign-off message:
 “We, here at SACA, would like to thank you for supporting our work in assisting ex-offenders and their families!"</p>
-<p style="text-align: center;"><img title="Control Letter" src="../../images/default-source/ethos-images/ethos-digital-issue-3/control-letter.png?sfvrsn=52bab36f_0" data-displaymode="Original" alt="Control Letter"></p>
-<p style="text-align: center;"><img title="Reciprocity" src="../../images/default-source/ethos-images/ethos-digital-issue-3/reciprocity.png?sfvrsn=aed137d2_0" data-displaymode="Original" alt="Reciprocity"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/1%20Reciprocity/D3_Article_control-letter.png"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/2%20Anchoring/D3_Article_anchoring.png"></p>
 
 
 
@@ -202,7 +202,7 @@ border-bottom: 1px solid black;
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Anchoring</h3>
@@ -249,7 +249,7 @@ border-bottom: 1px solid black;
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Making Letters More Succinct and Easier to Read</h3>
@@ -288,7 +288,7 @@ border-bottom: 1px solid black;
 
 <h3>What We Learnt</h3>
 
-
+<div class="notestop2">
 <ol>
 <li><strong><span style="text-decoration: underline;">Context Matters</span></strong>
 <br>Many charities in Singapore rely on small groups of regular corporate donors, unlike many overseas charities which rely heavily on individual donors. As in the case of SACA, this precluded the applicability of many nudges in the literature. The trial had to be designed with the corporate donor profile and behaviour in mind. </li>
@@ -336,5 +336,4 @@ border-bottom: 1px solid black;
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div>
-
+</div></div>
