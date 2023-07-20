@@ -181,18 +181,11 @@ border-bottom: 1px solid black;
 <p class="text">A picture of SACA staff was used to thank the potential donors for their contributions and support, along with a sign-off message:
 “We, here at SACA, would like to thank you for supporting our work in assisting ex-offenders and their families!"</p>
 <p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/1%20Reciprocity/D3_Article_control-letter.png"></p>
-<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/2%20Anchoring/D3_Article_anchoring.png"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/1%20Reciprocity/D3_Article_Reciprocity.png"></p>
 
 
 
 </div>
-
-
-
-
-
-
-
 
 
 <p class="small-text text">The anchor donation amount was set at $5,000 (smallest sponsorship option per table). The first line of the letter read:
@@ -209,8 +202,8 @@ border-bottom: 1px solid black;
 <p class="text">The anchor donation amount was set at $5,000 (smallest sponsorship option per table). The first line of the letter read:
 “For a donation of $5,000, your company can make a difference in the lives of ex-offenders and their families.”
 </p>
-<p style="text-align: center;"><img title="Control Letter" src="../../images/default-source/ethos-images/ethos-digital-issue-3/control-letter.png?sfvrsn=52bab36f_0" data-displaymode="Original" alt="Control Letter"></p>
-<p style="text-align: center;"><img title="Anchoring" src="../../images/default-source/ethos-images/ethos-digital-issue-3/anchoring.png?sfvrsn=749ddaf5_0" data-displaymode="Original" alt="Anchoring"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/2%20Anchoring/D3_Article_control-letter.png"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/2%20Anchoring/D3_Article_anchoring.png"></p>
 
 
 
