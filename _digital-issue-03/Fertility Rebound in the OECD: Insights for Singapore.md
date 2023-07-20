@@ -94,7 +94,7 @@ border-bottom: 1px solid black;
 
 <p style="text-align: center;">
 <br>
-<img title="Impact of Singapore’s current low fertility rates and increasing life expectancy" src="../../images/default-source/ethos-images/ethos-digital-issue-3/fertility_rebound_754x556px.jpg?sfvrsn=5c0d74fc_0" data-displaymode="Original" alt="Impact of Singapore’s current low fertility rates and increasing life expectancy"></p>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%202/D3_Article_Fertility%20Rebound%20Figure%201.jpeg"></p>
 
 <p style="text-align: center;" class="small-text"><strong>Figure 1. </strong> Impact of Singapore’s current low fertility rates and increasing life expectancy
 </p>
@@ -105,7 +105,7 @@ border-bottom: 1px solid black;
 </p>
 
 <p style="text-align: center;">
-<img title="Annual budget commitment to M&amp;P package and resident TFR, 2001–2017" src="../../images/default-source/ethos-images/ethos-digital-issue-3/figure-2.jpg?sfvrsn=a50b743a_0" data-displaymode="Original" alt="Annual budget commitment to M&amp;P package and resident TFR, 2001–2017"></p>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%202/D3_Article_Fertility%20Rebound%20Figure%202.jpeg"></p>
 
 <p style="text-align: center;" class="small-text"><strong>Figure 2.</strong> Annual budget commitment to M&amp;P package and resident TFR, 2001–2017<sup><a href="#notes">6</a></sup></p>
 
