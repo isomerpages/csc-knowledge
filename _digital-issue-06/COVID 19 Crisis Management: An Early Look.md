@@ -79,7 +79,7 @@ li {
 <p style="text-align: left;">Singapore’s crisis management capability is the result of continual learning from past crises. The HCEG started out as the Executive Group (EG), which was set up to coordinate responses among security agencies after the Laju ferry hijack in 1974.<sup><a href="#notes">3</a></sup>&nbsp; When Hotel New World collapsed in 1986, the EG oversaw multi-agency rescue efforts. Later, in 1991, the EG led security forces to resolve the hijack of Singapore Airlines Flight SQ117. When the Severe Acute Respiratory Syndrome (SARS) outbreak hit Singapore in 2003, the EG coordinated a government-wide response. SARS showed that crises are by no means restricted to security issues. They are complex with wide-ranging implications on society and the economy. Because of this, the EG was renamed and reorganised into the HCEG in 2004 (see Figure 1).<br>
 <br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-1.png?sfvrsn=d7d81c86_2"><img title="Figure 1" src="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-1.png?sfvrsn=d7d81c86_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 1"></a></p>
+<img title="Figure 1" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure1.png" alt="Figure 1"></p>
 
 <p style="text-align: center;" class="small-text">Figure 1. Homeland Crisis Executive Group (NSCS, 2006)<sup><a href="#notes">4</a></sup></p>
 
@@ -89,13 +89,13 @@ li {
 
 <p>While the HCEG provides the institutional structure, a whole-of-government mindset among public officers is the “software” of cross-agency crisis management. A “shared language and culture” among public sector leaders,<sup><a href="#notes">6</a></sup> up and down the hierarchy and across the Public Service, eases coordination among agencies during crisis management. This service-wide mindset lubricates the machinery of inter-agency coordination, particularly when the number of personnel mobilised scales into the thousands. In ordinary times, this whole-of-government mindset, increasingly tied to engagement with citizens towards whole-of-nation outcomes, is emphasised as being essential for effective public service delivery. Such constant reiteration of cross-agency and whole-of-nation coordination during normalcy also inspires officers to persist during difficult times and to exercise initiative when needed at their respective working levels.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A shared language and culture across the Public Service eases coordination among agencies during crisis management.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Following the 2003 SARS crisis and the 2009 H1N1 influenza crisis, the Singapore Government developed a Disease Outbreak Response System Condition (DORSCON) framework to prepare the country’s healthcare infrastructure, as well as public sector agencies in general, for relevant contingencies (see Figure 2).<sup><a href="#notes">7</a></sup>&nbsp; When DORSCON is elevated to Yellow, the Crisis Management Group for Health is activated to lead the WOG management of disease outbreaks.<sup><a href="#notes">8</a></sup> The DORSCON framework is now being used to coordinate all Public Service agencies in managing COVID-19.</p>
 
@@ -109,7 +109,7 @@ A service-wide mindset lubricates the machinery of inter-agency coordination, pa
 
 <p style="text-align: center;">
 <br>
-&nbsp;<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-2.jpg?sfvrsn=b3719f95_2"><img title="Figure 2" src="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-2.jpg?sfvrsn=b3719f95_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 2"></a>
+&nbsp;<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-2.jpg?sfvrsn=b3719f95_2"><img title="Figure 2" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure2.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 2"></a>
 </p>
 
 <p style="text-align: center;" class="small-text">Figure 2. Disease Outbreak Response System Condition<sup><a href="#notes">9</a>&nbsp;</sup><br>
@@ -127,7 +127,7 @@ Reproduced with permission</p>
 
 <p style="text-align: left;">At the outset of the disease, the Immigration and Checkpoints Authority (ICA) and Maritime Port Authority (MPA) were immediately activated to conduct temperature screening at border checkpoints. They were quickly supported by officers from the Singapore Civil Defence Force (SCDF) and other agencies. After six Chinese tourists tested positive for COVID-19 on 28 January, visitors with travel history to China were refused entry into Singapore. As the outbreak grew into a global pandemic, travellers from more countries were restricted from entering Singapore.<br>
 <br>
-<img title="Figure 3" src="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-3.jpg?sfvrsn=39242309_2" data-displaymode="Original" alt="Figure 3"></p>
+<img title="Figure 3" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure3.jpg" data-displaymode="Original" alt="Figure 3"></p>
 
 <p style="text-align: center;" class="small-text">SCDF officers supporting temperature screening<br>
 Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction</p>
@@ -148,9 +148,9 @@ Transparency builds trust with citizens, and trust undergirds crisis management 
 
 <p style="text-align: left;">When a rumour circulated that Singapore was running out of face masks, the MTF assured Singaporeans that there was sufficient supply of masks “if we use them sensibly and responsibly”.<sup><a href="#notes">12</a></sup>&nbsp; Guided by evidence at that time, people were advised to wear masks only if unwell, to conserve masks for medical personnel. Yet, understanding public anxiety and apprehension, the MTF decided to distribute four surgical masks to each Singapore resident. Within 24 hours, SAF servicemen prepared and packed 5.2 million masks for distribution. Officers from the People’s Association and citizen volunteers set up 1,000 mask collection points across Singapore.<sup><a href="#notes">13,14</a></sup>   Senior citizens and vulnerable segments of society were given priority.<br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-4a.jpg?sfvrsn=ccdb4ddc_2"><img title="Figure 4a" src="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-4a.jpg?sfvrsn=ccdb4ddc_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 4a"></a><br>
+<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-4a.jpg?sfvrsn=ccdb4ddc_2"><img title="Figure 4a" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure4a.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 4a"></a><br>
 <a href="../4c9668b7-9c57-4320-b22e-768368a3d108.html"></a><br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-4b.jpg?sfvrsn=2b99d1a3_2"><img title="Figure 4b" src="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-4b.jpg?sfvrsn=2b99d1a3_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 4b"></a></p>
+<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-4b.jpg?sfvrsn=2b99d1a3_2"><img title="Figure 4b" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure4b.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 4b"></a></p>
 
 <p style="text-align: center;" class="small-text">SAF servicemen and PA staff helping with mask collection for Singaporeans<br>
 Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction</p>
@@ -161,7 +161,7 @@ Source: The Straits Times © Singapore Press Holdings Limited. Permission requir
 
 <p style="text-align: left;">Despite the risks of imported cases, the MTF decided to bring Singaporeans overseas home to safety. As Chinese cities began locking down, the Ministry of Foreign Affairs (MFA) evacuated Singaporeans stranded in China. When Singaporeans abroad risked being stranded as Europe, the United States and countries across the world closed their borders, MFA worked with local authorities to bring Singaporeans home. Returnees were then quarantined to protect their loved ones and mitigate the risk of further community spread.<br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/james-low_covid_timeline_sg_v2-compressed.jpg?sfvrsn=7da5ae94_2"><img title="James Low_Covid_Timeline_SG_V2-compressed" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-digital-issue-6/james-low_covid_timeline_sg_v2-compressed.jpg?sfvrsn=7da5ae94_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="James Low_Covid_Timeline_SG_V2-compressed"></a></p>
+<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/james-low_covid_timeline_sg_v2-compressed.jpg?sfvrsn=7da5ae94_2"><img title="James Low_Covid_Timeline_SG_V2-compressed" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Digital_Issue_06/James_Low_Covid_Timeline_SG_v2_Compressed.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="James Low_Covid_Timeline_SG_V2-compressed"></a></p>
 
 
 
@@ -180,7 +180,7 @@ Source: The Straits Times © Singapore Press Holdings Limited. Permission requir
 <p class="text">On 5 April 2020, DPM Heng added a S$5.1 billion “Solidarity Budget”. This expanded provisions to save jobs, lift businesses and help families. Greater support was catered for senior citizens and lower-income groups. Cumulatively, Singaporeans 50 years and older will receive S$100 each in addition to at least S$900 of “Care and Support” disbursed to all Singaporeans. Citizens with lower incomes will received up to S$1,500 of support each. Altogether, the Government was committing S$55 billion, amounting to more than 10% of the country’s gross domestic product, to support Singaporeans through the crisis.</p>
 <hr>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/box-story-figure.jpg?sfvrsn=4a13e9d5_2"><img title="Box story figure" src="../../images/default-source/ethos-images/ethos-digital-issue-6/box-story-figure.jpg?sfvrsn=4a13e9d5_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Box story figure"></a>&nbsp;
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_06/Box_Story_Figure.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Box story figure">&nbsp;
 <p>&nbsp;</p>
 <p style="text-align: center;" class="small-text">Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction</p>
 <hr>
