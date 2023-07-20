@@ -1,4 +1,6 @@
 collections:
   digital-issue-07:
     output: true
-    order: []
+    order:
+      - "Inviting Possibilities: Review of Margaret Heffernan’s “Uncharted” and
+        Scott Smith’s “How to Future”.md"
