@@ -105,9 +105,7 @@ border-bottom: 1px solid black;
 </p>
 
 
-
-
-<img title="Pro tip" style="vertical-align: middle;" src="../images/default-source/ethos-images/ethos-digital-issue-4/pro-tip57a83f1b446a4659ba551f9a2511d9e0.jpg?sfvrsn=b0f68901_4" data-displaymode="Original" alt="Pro tip">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%206/D4_Article_pro-tip_point%201.jpeg">
 
 <p class="small-text text">The larger the team you lead, the more you should allocate your energy to facilitating the work of those that report to you. Unless absolutely necessary, you should not get drawn into the day-to-day work of the team.</p>
 
@@ -132,14 +130,10 @@ e.	Cultivating relationships with internal and external stakeholders to support 
 
 <p class="small-text text"><strong>Action Step: </strong> Take stock of the work activities you engage in on a regular basis. If you are spending too much time in additive mode (doing the work yourself), or are constantly fighting fires, consider being more deliberate about allocating time to multiplicative activities (supporting others to do the work).</p>
 
-<p>&nbsp;</p>
+<br>
+<br>
 
-
-
-
-
-
-<img title="Pro tip-one" style="float: right;" src="../images/default-source/ethos-images/ethos-digital-issue-4/pro-tip-one.jpg?sfvrsn=ef15625c_4" data-displaymode="Original" alt="Pro tip-one">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%206/D4_Article_pro-tip_point%202.jpeg">
 
 <p class="small-text text">
 Mr J Y Pillay, former chairman of the Council of Presidential Advisors and former chairman of Singapore Airlines once said, “Whenever you embark on anything, please tell me what is your object. And there must be one. I don’t want five.”<sup></sup><sup><a href="#notes">2</a>&nbsp;</sup>In public service, we often find ourselves balancing difficult trade-offs. For example, a grant scheme with a budget constraint has to choose between scale (helping more people) and impact (providing more assistance per person). Trying to have one’s cake and eat it can sometimes work. But if you are not careful, or if the objectives are not clearly defined, incoherence can result. When the time comes to implement the proposal, officers up and down the line may project their own interpretation of how these trade-offs are to be decided.
@@ -149,14 +143,8 @@ Mr J Y Pillay, former chairman of the Council of Presidential Advisors and forme
 
 <p class="small-text text"><strong>Action Step: </strong> When embarking on a new project with multiple goals or stakeholders, be clear about what is absolutely necessary for success, and what is a good-to-have. Communicate this regularly to your team.</p>
 
-<p>&nbsp;</p>
 
-
-
-
-
-
-<img title="Pro tip-Delegate" style="float: right;" src="../images/default-source/ethos-images/ethos-digital-issue-4/pro-tip-delegate.jpg?sfvrsn=67934a0c_4" data-displaymode="Original" alt="Pro tip-Delegate">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%206/D4_Article_pro-tip_point%203.jpeg">
 
 <p class="small-text text">
 One of the hardest things to do as a manager is to know when to let go and how to delegate. Taking everything on by yourself, and insisting on having a say on every issue, just makes it more likely that you become a chokepoint for decisions. It also denies your reports the opportunity to exercise their judgment and to develop their own managerial potential.
@@ -166,13 +154,10 @@ One of the hardest things to do as a manager is to know when to let go and how t
 
 <p class="small-text text"><strong>Action Step: </strong> Don’t get hung up about wanting to own every piece of work that your team does. Find opportunities to give your direct reports more opportunities to exercise their judgment. They will feel that their views are valued, and you will have more time to value-add elsewhere.</p>
 
-<p>&nbsp;</p>
-
 
 
 <h3>Communicate Your Priorities</h3>
 
-<br>
 
 <p>What each of these heuristics has in common is the need to be deliberate and have criteria for prioritising:</p>
 
@@ -185,7 +170,6 @@ c. when to develop staff.&nbsp;</p>
 
 <h3>Enjoy the Ride</h3>
 
-<br>
 
 <p>Finally, know that your feelings of self-doubt are an <em>asset</em>—not a liability. Studies suggest that the most self-critical leaders tend to be the best performing leaders.<sup><a href="#notes">3</a>&nbsp;</sup>This is because they are also the most aware of their shortcomings. </p>
 
