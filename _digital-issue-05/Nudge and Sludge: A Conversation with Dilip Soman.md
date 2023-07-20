@@ -84,7 +84,7 @@ border-bottom: 1px solid black;
 	
 </style>
 
-<em><small>ETHOS Digital Issue 04, Apr 2019</small></em>
+<em><small>ETHOS Digital Issue 05, Nov 2019</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%201/D5_Banner_Nudge%20and%20Sludge.jpg">
 </div>
