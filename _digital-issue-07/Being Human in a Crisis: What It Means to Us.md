@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Edition Issue 07, Sept 2021</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Digital_07/D7_Banner_Being%20Human%20in%20a%20Crisis.jpg">
 
 
 
@@ -123,7 +123,7 @@ fictional city of Omelas.<sup><a href="#note">1</a></sup> Our glittering success
 <p>With limited land and Singaporeans’ “Not In My Backyard” sentiment towards migrant workers, we choose to keep our migrant workers out of sight in dormitories. We track COVID-19 cases residing in dormitories separately from cases
 in the community clearly, transparently. We stay safe in the community, in homes that migrant workers built. We draw our differences and boundaries clearly from them, night and day.</p>
 
-<a href="../../images/default-source/ethos-images/ethos-digital-edition-(aug-2021)/omelas-full.jpg?sfvrsn=47c59da6_2"><img title="omelas full" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-digital-edition-(aug-2021)/omelas-full.jpg?sfvrsn=47c59da6_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="omelas full"></a>
+<img title="omelas full" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Digital_Issue_07/OmelasFull.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="omelas full">
 
 <p style="text-align: left;" class="small-text">Image Credit: @launshae</p>
 
