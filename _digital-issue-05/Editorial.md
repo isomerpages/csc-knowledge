@@ -42,19 +42,20 @@ padding-bottom:30px;
 </div>
 
 
-<p>ETHOS is expanding. The print edition will still be published biannually, with a sharper focus on thematic clusters of ideas: our forthcoming December 2017 issue will look at ideas related to the changing future of work.</p>
-
-<p>Between print issues, we are introducing a new digital-only edition of ETHOS, with articles of general interest to public policy and governance in Singapore. These will include interviews, reviews, lectures and opinion pieces, as well as more media-rich material to come, as we find fresh ways to present and consider important perspectives.
-</p>
-
-<p>Hence, an edition of ETHOS will now be available every quarter, with a broader range of thoughtful and practitioner-focused content presented in a variety of formats.
-</p>
-
-<p>For this inaugural issue of our ETHOS Digital Edition, we feature a conversation with the Honourable Jocelyne Bourgon, a distinguished Canadian public servant and Fellow of Singapore’s Civil Service College. Her new publication, <em>The New Synthesis of Public Administration Fieldbook</em>, documents efforts to rethink public sector work as one of enabling greater societal value amidst the challenges and opportunities of the 21st century. Max Everest-Phillips, Director of the UNDP’s Global Centre for Public Service Excellence, reviews its contribution to the field of public administration. Catherine Fieschi reflects on the complex nature of our identities and the institutions needed to support them as they evolve. In the ETHOS Roundtable, a bevy of experienced public servants from three different countries discuss the impact of digital technology on the business of the public sector.</p>
-
-<p>Times change, and we change with them: yet our contributors suggest that as the public sector adapts its methods to new contexts and demands, it must also clarify and deepen its core sense of what it values, and how it can best reposition itself to serve the public good.</p>
-
-<p>Thank you for your continued readership and interest. We hope you find our new offerings engaging and useful. If you have comments or suggestions, please do let us know.</p>
+<p>The release in 2008 of Cass Sunstein and Richard Thaler’s seminal book <i>Nudge</i> has redoubled interest around the world in applying a deeper understanding of decision-making mindsets and behaviours to public policy goals. As public agencies
+    explore and experiment with subtle behavioural interventions, or nudges, to encourage desirable outcomes among the public, a more nuanced understanding of how they can best be applied is emerging—including a realisation of use cases where they
+    may be less appropriate or less effective, or even counterproductive.</p>
+<p>In this issue of ETHOS Digital Edition, we have brought together perspectives on how behavioural insights can contribute to policymaking and intervention in constructive ways.</p>
+<p><a href="nudge-and-sludge-a-conversation-with-dilip-soman.html" data-sf-ec-immutable="">Expounding on the concept of sludge</a>—procedural, cultural or other impedance to desired behavioural change—Canadian scholar
+    Dilip Soman points out that policymakers should be mindful of unacknowledged factors that could trip up otherwise well-intended programmes and initiatives.</p>
+<p>In a similar vein, researcher Ong Qiyan, from the National University of Singapore’s Social Service Research Centre, offers <a href="how-to-nudge-better-in-public-policy.html" data-sf-ec-immutable="">three key principles that underlie effective behavioural nudges</a>.
+ She argues that opt-out options are an important element in ensuring the effectiveness of behavioural interventions, because they allow individuals to tailor choices to their specific needs. Poor communication of opt-out options could breed confusion
+    and mistrust, while counternudges by the private sector or other players could undercut the impact of nudge measures.</p>
+<p>Economist Lorenz Gotte explains <a href="using-behavioural-insights-more-effectively-in-policy-interventions.html" data-sf-ec-immutable="">how behavioural interventions stack up against more conventional measures</a>, suggesting
+    that the two forms of public policy action could usefully reinforce each other, particularly when individuals are given clear feedback about the impact of their actions.</p>
+<p>Do Hoang Van Khanh from the Civil Service College and Low Weijian from the Land Transport Authority report from a successful <a href="encouraging-car-lite-travel-through-gamification-the-kids-smart-travel-challenge.html" data-sf-ec-immutable="">pilot study to shift student and parental attitudes towards public transport</a>&nbsp;travel
+ to and from school. The initiative exemplifies how nudges, including gamification approaches, can be applied in real world situations to improve attitudes towards public transport.</p>
+<p>As always, we wish you an engaging read and would love to hear from you if you have any comments or suggestions.</p>
 
 
 <div class="author">
