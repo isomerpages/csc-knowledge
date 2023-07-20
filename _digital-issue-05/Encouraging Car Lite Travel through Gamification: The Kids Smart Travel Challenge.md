@@ -125,46 +125,65 @@ b)	Can gamification change students’ and parents’ attitudes towards car-lite
 ii.	<em>Saliency</em>: how people are more likely to respond to stimuli that are novel, simple and accessible, e.g., periodical reminders; and<br>
 iii.	<em>Commitment devices</em>: a tendency to follow through goals once people write down their goals, which also serve as an effective reminder.<br>
 <br>
-<a href="../../images/default-source/default-album/core-and-bi-elements-diagram-(comp).jpg?sfvrsn=2830c41e_0"><img title="Core and BI elements diagram" src="../../images/default-source/default-album/core-and-bi-elements-diagram-(comp).jpg?sfvrsn=2830c41e_0" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Core and BI elements diagram"></a></p>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%204/D5_Article_core-and-bi-elements-diagram-(comp).jpg">
 
-<h3><strong>Playing the Game</strong></h3>
+</p><h3><strong>Playing the Game</strong></h3>
 
-<p style="text-align: left;"><strong>KSTC was carried out in three stages:&nbsp;<br>
+<p style="text-align: left;"><strong>KSTC was carried out in three stages<br>
+
+
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_05/3Stages_Playing_The_Game.jpg">
+
 <br>
-</strong><a href="../../images/default-source/ethos-images/ethos-digital-issue-5/3-stages-playing-the-game.jpg?sfvrsn=a25f29e6_2"><img title="3 stages-playing the game" src="../../images/default-source/ethos-images/ethos-digital-issue-5/3-stages-playing-the-game.jpg?sfvrsn=a25f29e6_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="3 stages-playing the game"></a></p>
+<br>
 
-<p>&nbsp;</p>
-
-<p><img title="Kiosk" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-digital-issue-5/kiosk.jpg?sfvrsn=463539b2_2" data-displaymode="Original" alt="Kiosk">&nbsp;
-</p>
-
+</strong></p><figure><strong>	
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%204/D5_Article_kiosk.jpg">
+<figcaption>
 <p style="text-align: left;" class="small-text">Students get their cards scanned upon arrival in school</p>
-
+</figcaption>
+</strong></figure><strong>	
+	
 <br>
 
-<img title="Prize exchange" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-digital-issue-5/prize-exchange.jpg?sfvrsn=92250375_2" data-displaymode="Original" alt="Prize exchange">
+<figure>	
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%204/D5_Article_Prize%20exchange.jpg">
 
-<br>
-
+<figcaption>	
 <p style="text-align: left;" class="small-text">Students exchange their collected points for prizes</p>
-
+</figcaption>	
+</figure>	
+	
 <h3><strong>What We Found Out from the Game</strong></h3>
 
-<p><strong>1. The game was effective in shifting students towards taking more car-lite trips</strong>.<br>
+</strong><p><strong>1. The game was effective in shifting students towards taking more car-lite trips.</strong><br>
 During the 5 weeks of the game phase, <em>the proportion of car-lite trips increased from 66% to 76%</em>, with clear peaks observed on every “double-point” Wednesday (see Figure 1). After the game ended, we observed students’ travel patterns for another 4 weeks: the proportion of car-lite trips dropped compared to the game period, but stayed higher than the baseline average of 66% (see Figure 2).<br>
 <br>
-<img title="Diagram 1" src="../../images/default-source/ethos-images/ethos-digital-issue-5/diagram-1.jpg?sfvrsn=2d9948f6_2" data-displaymode="Original" alt="Diagram 1"></p>
 
-<p style="text-align: left;" class="small-text">Figure 1. Proportion of Car-Lite Trips Taken during Baseline (2 Weeks) and the Game (5 weeks)<strong><br>
+</p><figure>	
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%204/D5_Article_Diagram%201.jpg">
+
+<figcaption>	
+<p style="text-align: left;" class="small-text">Figure 1. Proportion of Car-Lite Trips Taken during Baseline (2 Weeks) and the Game (5 weeks)<strong>
 </strong>
+	</p></figcaption>	
+</figure>	
+	
+	
 <br>
-<img title="Diagram 2" src="../../images/default-source/ethos-images/ethos-digital-issue-5/diagram-2.jpg?sfvrsn=d88d8604_2" data-displaymode="Original" alt="Diagram 2"></p>
+	
+<figure>	
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%204/D5_Article_Diagram%202.jpg">
 
+<figcaption>	
 <p style="text-align: left;" class="small-text">Figure 2. Proportion of Car-Lite Trips Taken Post-Game (4 weeks)*<br>
-*<em>During the week of 27 March, Primary 5 students were away on camp so the data captured during that week was inaccurate</em>.</p>
+*<em>During the week of 27 March, Primary 5 students were away on camp so the data captured during that week was inaccurate.</em></p>
+</figcaption>	
+</figure>		
+	
 
-<p><strong>2. Parents’ confidence in their child’s ability to take public transport alone was a key factor in students switching from car to car-lite during the game.</strong><br>
-We administered surveys to parents and students before and after the game. Comparing students who did not make the switch from car to car-lite to those who did during the game phase, we found that parents of the latter group <em>had noticeably higher confidence</em> in their children’s ability to take public transport alone.  Answers for other related questions such as “child’s aspiration for car”, “child’s confidence in taking public transport alone”, and “parents’ perceived accessibility of public transport” were similar between both groups</p>
+
+<p><strong>2. Parents’ confidence in their child’s ability to take public transport alone was a key factor in students switching from car to car-lite during the game.</strong><br>We administered surveys to parents and students before and after the game. Comparing students who did not make the switch from car to car-lite to those who did during the game phase, we found that parents of the latter group <em>had noticeably higher confidence</em> in their children’s ability to take public transport alone.  Answers for other related questions such as “child’s aspiration for car”, “child’s confidence in taking public transport alone”, and “parents’ perceived accessibility of public transport” were similar between both groups</p>
 
 <p><strong>3. Attitudes of parents became more positive towards public transport after the game.</strong><br>
 Based on semantic differentials<sup><a href="#notes">4</a>&nbsp;</sup> in the survey administered to the parents, we also found that the <em>game improved parents’ attitudes towards public transport </em>(see Figure 3).<br>
