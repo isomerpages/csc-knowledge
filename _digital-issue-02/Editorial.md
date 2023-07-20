@@ -58,11 +58,10 @@ padding-bottom:30px;
 <strong>Alvin Pang</strong><br>
 Editor-in-Chief<br>
 <br>
-<em>Do also check out our January 2018 full issue of Ethos, which explores issues related to the <a href="/ethos-issue-18/editorial/">future of work</a>.</em> </p>
+<em>Do also check out our January 2018 full issue of Ethos, which explores issues related to the <a href="/ethos-issue-18/">future of work</a>.</em> </p>
 
 <br>
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
