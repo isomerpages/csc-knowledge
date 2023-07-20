@@ -117,7 +117,7 @@ border-bottom: 1px solid black;
 
 <p style="text-align: center;">
 <br>
-<img title="An inverse J-shaped curve emerges when TFR is plotted against GDP per capita (selected countries), 1960–2007" src="../../images/default-source/ethos-images/ethos-digital-issue-3/figure-3.jpg?sfvrsn=90614393_0" data-displaymode="Original" alt="An inverse J-shaped curve emerges when TFR is plotted against GDP per capita (selected countries), 1960–2007"></p>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%202/D3_Article_Fertility%20Rebound%20Figure%203.jpeg"></p>
 
 <p style="text-align: center;" class="small-text"><strong>Figure 3.</strong> An inverse J-shaped curve emerges when TFR is plotted against GDP per capita (selected countries), 1960–2007<sup><a href="#notes">8</a></sup></p>
 
@@ -143,7 +143,7 @@ Couples are less likely to have children if they have to choose between parentho
 
 <p style="text-align: center;">
 <br>
-<img title="Public spending on family benefits as a percentage of GDP, 2013" src="../../images/default-source/ethos-images/ethos-digital-issue-3/figure-4.jpg?sfvrsn=267ccd1c_0" data-displaymode="Original" alt="Public spending on family benefits as a percentage of GDP, 2013"></p>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%202/D3_Article_Fertility%20Rebound%20Figure%204.jpeg"></p>
 
 <p style="text-align: center;" class="small-text"><strong>Figure 4.</strong> Public spending on family benefits as a percentage of GDP, 2013<sup><a href="#notes">13</a></sup></p>
 
