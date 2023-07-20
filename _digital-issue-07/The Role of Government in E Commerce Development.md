@@ -281,17 +281,10 @@ Efforts to find and groom talent for the digital industry will take time to see 
 
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHOR</p>
 
-<table style="border:none;background-color:transparent;">
-<tbody>
-<tr style="border:none;">
-<td style="padding:0;padding-right:32px;border:none;">
+
 <p class="small-text"><strong>Tan Chia Han</strong> spent 16 years with the Singapore Police
             Force, and was Commander of Tanglin Division, before he went for a year-long work attachment with Lazada, Alibaba Group. He was previously Director at Digital Industry Singapore, a joint office of Economic Development Board (EDB), Infocomm Media and Development Authority (IMDA) and Enterprise Singapore (ESG).  </p>
-</td>
-<td style="width:120px;border:none;" class="desktop-only">&nbsp;</td>
-</tr>
-</tbody>
-</table>
+
 
 </div>
 
