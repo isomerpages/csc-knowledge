@@ -206,24 +206,24 @@ We need to instil in all of our officers the idea that longer term thinking is a
 
 <p>At the same time, I'm also looking for people who aren't just book-smart, but who can also talk to large numbers of people. I want our unit's approach to be one of service, rather than of commanding or ordering others about. I don’t want us to be seen in the ministries as somebody who comes and tells you how things are.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Coordination can also be service.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Coordination can also be service. People in different sectors and agencies may be willing to cooperate, but are unable to for various reasons. So we are there to develop and offer frameworks for people in different sectors to work together.
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The workforce of the future requires enterprise skills—effective communication, collaboration, relationship building, digital savviness, and understanding data and analytics.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p><span class="ms-rteThemeForeColor-9-4"><strong><span style="color: #76923c;">FOSTER</span>:</strong></span> I think, more and more, it’s not enough to be sitting at your desk being clever—because the world is so complex and so interlinked. Fifteen years ago it was probably more possible to work in that way than it is now.</p>
 
@@ -237,25 +237,25 @@ The workforce of the future requires enterprise skills—effective communication
 
 <p>What I think keeps organisations alive is the injection of new thinking, and diversity of experience and thinking. We talk a lot about diversity in all our organisations in the sense of demographic diversity. It is important, but what I think is more important is genuine diversity of perspective and thinking.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 What keeps organisations alive is the injection of new thinking, and diversity of experience and thinking.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>And we are not very good at fostering that in organisations like ours. In part because the demands of democratic government drive a lot of focus on the immediate term. The more pressurised environment you are in, the more you need that diversity, and the harder it is to genuinely embrace it.</p>
 
 <p>We have done a lot of research with policy officers across our system, and one of the things they say to us is if we had more time, if we didn’t have all this pressure, we will be able to think longer term. And we are trying to turn it back on them and say, how you use your time is something that you can have more control over. All of our jobs needs to be balancing the short term and the long term.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The key is the incentives; we will get what we reward.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The key to it, from my perspective, is the incentives. We will get what we reward. And if we continue to reward the person who produces the fabulous thing in 12 hours with no collaboration, no consultation, then people will keep doing that.</p>
 
