@@ -2,5 +2,6 @@ collections:
   digital-issue-07:
     output: true
     order:
+      - Growing from Clusters to Ecosystems.md
       - "Inviting Possibilities: Review of Margaret Heffernan’s “Uncharted” and
         Scott Smith’s “How to Future”.md"
