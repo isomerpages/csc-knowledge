@@ -69,7 +69,7 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
-		<p></p>
+		<p>The future remains humanity's most enduring dilemma. The survival and success — or failure and decline — of ventures, organizations and nations have always depended on how present actions might be expected to play out down the road; it is for this reason that those who govern or lead are tasked with the responsibility for foresight.</p>
 		<div class="button1"><a href="/digital-issue-07/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -79,31 +79,45 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Being Human in a Crisis: What It Means to Us</h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="/digital-issue-07/being-human-in-a-crisis-what-it-means-to-us/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>The Role of Government in E-Commerce Development</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="/digital-issue-07/the-role-of-government-in-e-commerce-development/">Read more</a></div>
 	</div>
 </div>
 
+
 <br>
 
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Growing from Clusters to Ecosystems</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="/digital-issue-07/growing-from-clusters-to-ecosystems/">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-07/inviting-possibilities/">Read more</a></div>
 	</div>
 </div>
 
+
 <br>
 
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Inviting Possibilities: Review of Margaret Heffernan’s “Uncharted” and Scott Smith’s “How to Future”</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="/digital-issue-07/inviting-possibilities/">Read more</a></div>
