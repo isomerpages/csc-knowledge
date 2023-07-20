@@ -242,13 +242,13 @@ Reproduced with permission</p>
 
 <p>However, Singapore is not yet out of the woods,<sup><a href="#notes">21&nbsp;</a></sup> as the pandemic continues to develop. It is too early to make a comprehensive assessment of Singapore’s management of the COVID-19 crisis: this article outlines Singapore’s response COVID thus far. The key thrust of this response thus far has been an institutional coordinating structure, combined with a whole-of-government mindset among public officers providing Singapore with strong crisis management capabilities. This readiness has allowed the Government to roll-out comprehensive measures aimed at protecting Singapore, with such measures delivered and calibrated with care to give priority to those most affected by this unprecedented crisis.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>James Low&nbsp;</strong>is Principal Researcher with the Institute of Governance and Policy, Civil Service College, Singapore. His research areas include public governance, particularly whole-of-government coordination, crisis management and international relations. James also teaches case study methodology.</p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -298,9 +298,7 @@ Reproduced with permission</p>
 <li class="small-text">“Ministerial Statement by Mr Gan Kim Yong, Minister for Health, at Parliament, on the Second Update on Whole-of-Government Response to COVID-19”, Ministry of Health, May 4, 2020, accessed May 11, 2020, <a href="https://www.moh.gov.sg/news-highlights/details/ministerial-statement-by-mr-gan-kim-yong-minister-for-health-at-parliament-on-the-second-update-on-whole-of-government-response-to-covid-19-4-may-2020">https://www.moh.gov.sg/news-highlights/details/ministerial-statement-by-mr-gan-kim-yong-minister-for-health-at-parliament-on-the-second-update-on-whole-of-government-response-to-covid-19-4-may-2020</a>.  </li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
