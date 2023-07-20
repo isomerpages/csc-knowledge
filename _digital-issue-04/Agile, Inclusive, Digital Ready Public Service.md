@@ -84,6 +84,11 @@ border-bottom: 1px solid black;
 	
 </style>
 
+<em><small>ETHOS Digital Issue 04, Apr 2019</small></em>
+<div class="background-image">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%201/D4_Banner_Nancy%20Chahwan%20in%20Conversation.jpg">
+</div>
+
 
 <h3>1. How should the public sector gear up to better serve an increasingly digital society?&nbsp;</h3>
 
@@ -113,13 +118,13 @@ border-bottom: 1px solid black;
 
 <p>The <strong>fifth</strong> area is culture, without which all the other areas are insufficient. We need to inculcate the right mind-sets and behaviours at all levels, whether it’s leadership or the front line. We need our public officers to understand that they are being empowered to innovate, that we will be supporting them as they do that, and as they experiment—and that our collective success is predicated upon embracing the digital age in how we serve Canadians and how we function as a public enterprise. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Inculcate the right mindsets and behaviours at all levels, whether it’s leadership or the front line.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>2. Are there different skill sets or competencies that the public sector should develop to fulfil its evolving role in a digital society?&nbsp;</h3>
 
@@ -173,14 +178,16 @@ For the public service to remain relevant, it must go beyond diversity to includ
 
 <p> Our role as senior leaders is to make sure that we are transforming the policies and the structures of work to make sure we are allowing for nimbleness to happen, if we want to enable an empowered, productive and relevant public service today and for the future of work. </p>
 
-<p>&nbsp;</p>
 
-<hr>
+
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text">Nancy Chahwan was appointed as the Chief Human Resources Officer at the Treasury Board of Canada Secretariat (TBS) in August 2018. Prior to this, she served as Assistant Secretary of the Government Operations Sector, TBS from May 2015 to March 2017, at which time she was appointed Deputy Commissioner of the Canada Revenue Agency. Ms Chahwan is passionate about authentic leadership, empathetic service and lasting partnerships, and actively champions youth and executives. She is the recipient of the 2017 Association of Professional Executives of the Public Service of Canada (APEX) award for a respectful and healthy workplace. </p>
 
+</div>	
+	
 <br>
 
 
