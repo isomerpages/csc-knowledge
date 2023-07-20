@@ -137,12 +137,12 @@ of rushing to establish control over the situation when we were in confusion our
 <p>I struggled to make myself heard and understood by those who held positional authority but had little knowledge of the nuances in the migrant worker landscape, and who were therefore blindsided by gaps that I could see. I felt overwhelmed by the influx
 of new faces from different agencies, all raring to do good, yet unclear about how each was expected to work with the other. The system I knew was in shock, I felt ineffective and helpless, and that broke my heart. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>I felt overwhelmed by the influx of new faces from different agencies, all raring to do good, yet unclear about how each was expected to work with the other.
-</em></h5>
+<p class="break1">I felt overwhelmed by the influx of new faces from different agencies, all raring to do good, yet unclear about how each was expected to work with the other.
+</p>
 
-<hr>
+</div>
 
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #7030a0;">DAFFY</span>:</strong></span> I was most affected by the knowledge that friends in Public Service were overwhelmed, overworked, emotionally drained, mentally struggling , and felt ill-equipped by
 the system to cope with a pandemic of this unprecedented nature and scale. </p>
@@ -163,23 +163,23 @@ the message “I see you, and you are enough”. </p>
 <p>I was also re-energised in subsequent redeployments where leaders expressly emphasised the need to do the right things and fight for the little man. I appreciated their reminders to keep our eye on those we were ultimately trying to help—the
 migrant workers, employers and dorm operators. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>I was also re-energised in subsequent redeployments where leaders expressly emphasised the need to do the right things and fight for the little man.
-</em></h5>
+<p class="break1">I was also re-energised in subsequent redeployments where leaders expressly emphasised the need to do the right things and fight for the little man.
+</p>
 
-<hr>
+</div>
 
 <p><span class="ms-rteThemeForeColor-5-4"><strong><span style="color: #76923c;">HEFEN</span>:</strong></span> In Singapore, we don’t give up. Our Public Service chugs on, even when we are under siege and not fully prepared for the work we need to do. In the face
 of public criticism, we turn up every day, striving to do better. We committed to lifting the quarantine for migrant workers as soon as possible, and pulled all stops to raise testing and vaccination capacity. Change comes in 10,000 steps, and
 each day we take a step to make things better. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>In Singapore, we don’t give up. Our Public Service chugs on, even when we are under siege and not fully prepared for the work we need to do. In the face of public criticism, we turn up every day, striving to do better.
-</em></h5>
+<p class="break1">In Singapore, we don’t give up. Our Public Service chugs on, even when we are under siege and not fully prepared for the work we need to do. In the face of public criticism, we turn up every day, striving to do better.
+</p>
 
-<hr>
+</div>
 
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #7030a0;">DAFFY</span>:</strong></span> I remember the three of us bouncing ideas off each other on how we could contribute. Around that time, I came across a call for volunteers for an initiative by a small
 group of people who called themselves Project Providence, to support displaced or soon-to-be displaced migrant workers affected by COVID-19. The sense of agency that came with being a part of this effort to help some migrant workers slowly replaced
@@ -191,12 +191,12 @@ and discovering the truth is important to you… Speedy is your nickname. You do
 <p>After a quick chat with one of the founders, my experience in the civil service made me the ideal candidate to be the point of contact for various government agencies. They have also been happy to work around my everchanging schedule as a full-time
 mother. It has been a dream to contribute to the larger story unfolding in Singapore in such a human-centred organisation, in a way that taps on my strengths and networks while allowing me to continue to put my family first.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>The sense of agency that came with being a part of this effort to help some migrant workers slowly replaced the helplessness I felt earlier.
-</em></h5>
+<p class="break1">The sense of agency that came with being a part of this effort to help some migrant workers slowly replaced the helplessness I felt earlier.
+</p>
 
-<hr>
+</div>
 
 <h3>What insights or shifts has this pandemic brought about for you? </h3>
 
@@ -207,12 +207,12 @@ instructions and timelines with partner agencies, triaging public queries across
 <p>But over time, I realised that I was holding myself and the Public Service to pre-pandemic standards of delivery, when our operating environment had changed dramatically. Bridging and coordinating across departments and agencies’ mandates to
 ensure human centricity involves immense patience, care, and humility. It’s exceptionally hard to do so in a pandemic .</p>
 
-<hr>
+<div class="break">
 
-<h5><em>Bridging and coordinating across departments and agencies’ mandates to ensure human centricity involves immense patience, care, and humility. It’s exceptionally hard to do so in a pandemic.
-</em></h5>
+<p class="break1">Bridging and coordinating across departments and agencies’ mandates to ensure human centricity involves immense patience, care, and humility. It’s exceptionally hard to do so in a pandemic.
+</p>
 
-<hr>
+</div>
 
 <p><span class="ms-rteThemeForeColor-9-4"><strong><span style="color: #4f81bd;">ANASTASIA</span>:</strong></span> I shared about vulnerability and empathy earlier, for others as well as for ourselves. Aside from this, I have a couple of other learnings from this period:</p>
 
@@ -245,12 +245,12 @@ is not the point here. I often tell my daughter that it is okay to make mistakes
 <p>The episode helped me realise my poor relationship with failure: I was crippled by it for months, unable to harness the learning potential from the experience. We lack a fail-culture in our society; instead, we have a blame-culture. How do we build
 a fail-culture in our communities where we are comfortable with our own defeat, eager to admit mistakes and adept at extracting lessons from each episode?</p>
 
-<hr>
+<div class="break">
 
-<h5><em>We lack a fail-culture in our society; instead, we have a blame-culture. How do we build a fail-culture where we are comfortable with our own defeat, eager to admit mistakes and adept at extracting lessons from each episode?
-</em></h5>
+<p class="break1">We lack a fail-culture in our society; instead, we have a blame-culture. How do we build a fail-culture where we are comfortable with our own defeat, eager to admit mistakes and adept at extracting lessons from each episode?
+</p>
 
-<hr>
+</div>
 
 <h3>What can we do to prioritise human centricity: to make sure things actually work for the people we serve?</h3>
 
