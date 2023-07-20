@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Edition Issue 07, Sept 2021</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Digital_07/D7_Banner_eCommerce%20Development.jpg">
 
 
 
