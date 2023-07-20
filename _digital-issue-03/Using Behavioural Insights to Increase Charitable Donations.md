@@ -277,7 +277,7 @@ border-bottom: 1px solid black;
 <li><strong><span style="text-decoration: underline;">Diversification beyond regular donors</span></strong>. While the number of donors from the anchoring group was similar to SACA’s regular donors group (about 7 to 8 each), the anchoring group donated almost $20,000 more than regular donors in 2016. In addition, average donations from the "Anchoring" group were almost double that of regular donors in 2016, and was $3,000 more than the average donation from regular donors in&nbsp; 2015.&nbsp;</li>
 </ul>
 
-<p style="text-align: center;"><img title="Average Donors / Total Amount Donated" src="../../images/default-source/ethos-images/ethos-digital-issue-3/donors.png?sfvrsn=77d5f0c_0" data-displaymode="Original" alt="Average Donors / Total Amount Donated"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/D3_Article_donors.png"></p>
 
 <h3>What We Learnt</h3>
 
