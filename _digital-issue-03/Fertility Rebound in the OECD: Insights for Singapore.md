@@ -215,13 +215,13 @@ The likelihood of a fertility rebound is also contingent on a more family-friend
 <p>Nevertheless, the type of unpaid work each partner does, and how long each spends on it, have different effects on the likelihood of having more children. For example, in Finland, greater male contribution to childcare work boosts TFR but their contribution to housework does not. These findings provide reason for Singapore to work harder towards better gender equity at home. Married working women generally contribute more to caregiving and household chores compared to married working men.<sup><a href="#notes">31</a></sup> Notwithstanding the gender gap in the domestic sphere, a study found that some women (and men) still reported good work-life balance, although they were more likely to have someone in the family to take care of domestic matters, be it grandparents or foreign domestic workers.<sup><a href="#notes">32</a></sup> This suggests that the dual role of women in the paid labour market and unpaid domestic sphere can co-exist and is manageable as long as the conflict is contained. This may call for personalised, private solutions to work-family contradictions, and perhaps trade-offs in the number of children parents decide to have.
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Studies have shown that more gender egalitarian behaviour and sharing of unpaid household work can lead to increases in birth rates.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Changing norms and aspirations surrounding marriage and parenthood</h3>
 
@@ -233,13 +233,13 @@ Studies have shown that more gender egalitarian behaviour and sharing of unpaid 
 
 <p>Social dialogues can, however, address changing norms and aspirations surrounding marriage and parenthood perhaps beyond the limits of government policy. On one hand, by hearing from parents’ perspectives, singles can be better sensitised to the intrinsic and largely invisible rewards of getting married and having children. On the other hand, singles can articulate the inertia and constraints they face when making decisions on marriage and parenthood. These conversations may spark innovative solutions targeted at specific concerns of different strata of society. They may even help the government find the right narrative and messaging to encourage marriage and parenthood, towards the goal of raising Singapore’s TFR. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Social dialogues can, however, address changing norms and aspirations surrounding marriage and parenthood.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Conclusion</h3>
 
