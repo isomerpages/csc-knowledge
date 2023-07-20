@@ -77,13 +77,13 @@ the virus, and possible other variants of concern, means that we have to remain 
 <p>Not all of these impacts have to do directly with clinical illness. Our collective tussle with the pandemic has gone on for more than a year; in big and small ways, we have all experienced the toll of the precautions we’ve taken to stave off the
 virus’s worst harms. Nationally, mental wellbeing has suffered. Families have experienced tragedies and deprivations; those on the frontline of care have had more than their share of fatigue; anxiety has risen and tempers are short.</p>
 
-<p>For <a href="../2021%20Digital%20Issue%2007/being-human-in-a-crisis-what-it-means-to-us.html">a group of young Singaporean public officers</a>&nbsp; who served in the trenches during the early days of the fight against COVID, our experiences
+<p>For <a href="/digital-issue-07/being-human-in-a-crisis-what-it-means-to-us/">a group of young Singaporean public officers</a>&nbsp; who served in the trenches during the early days of the fight against COVID, our experiences
 of the crisis are salient reminders to allow room for uncertainty, vulnerability and human limitations. It is in becoming aware of these realities that we can embrace our interdependence and look past the hubris that may otherwise blind us to the
 need to listen, learn, adapt, and take appropriate care at a time of bewildering change.</p>
 
-<p>We have already seen the pandemic reconfiguring the way we live, work and play, accelerating prior trends towards <a href="../2021%20Digital%20Issue%2007/the-role-of-government-in-e-commerce-development.html">digitalisation</a>&nbsp;
-and new <a href="../2021%20Digital%20Issue%2007/growing-from-clusters-to-ecosystems.html">economic ecosystems</a>&nbsp; and forms of collaboration. Insights into these big picture shifts help us begin to come to terms with the
-future into which we are being thrust at a faster rate than ever before. This is also what resilience means: getting to grips with disruptive change; <a href="../inviting-possibilities.html">mastering the necessary arts of difficult conversation and working across boundaries</a>;
+<p>We have already seen the pandemic reconfiguring the way we live, work and play, accelerating prior trends towards <a href="/digital-issue-07/the-role-of-government-in-e-commerce-development/">digitalisation</a>&nbsp;
+and new <a href="/digital-issue-07/growing-from-clusters-to-ecosystems/">economic ecosystems</a>&nbsp; and forms of collaboration. Insights into these big picture shifts help us begin to come to terms with the
+future into which we are being thrust at a faster rate than ever before. This is also what resilience means: getting to grips with disruptive change; <a href="/digital-issue-07/inviting-possibilities/">mastering the necessary arts of difficult conversation and working across boundaries</a>;
 beginning to learn, unlearn and relearn what is needed to survive and thrive in the uncharted waters we have entered.</p>
 
 <p style="text-align: center;">* * *</p>
@@ -105,7 +105,6 @@ and thought leaders in Singapore and beyond.</p>
 
 <br>
 
-<p><a href="https://www-csc-gov-sg-admin.cwp.sg/ethos">Back to Ethos homepage</a></p>
 
 
 
