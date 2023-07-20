@@ -2,6 +2,7 @@ collections:
   digital-issue-06:
     output: true
     order:
+      - Editorial.md
       - Reshaping Behaviour and Systems in a Post COVID Policy Landscape.md
       - "COVID 19 Crisis Management: An Early Look.md"
       - "Shoulder to Shoulder: Why Partnership Matters in Times of Crisis.md"
