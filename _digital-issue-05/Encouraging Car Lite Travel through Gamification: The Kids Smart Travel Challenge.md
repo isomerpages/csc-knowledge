@@ -129,7 +129,7 @@ iii.	<em>Commitment devices</em>: a tendency to follow through goals once people
 
 </p><h3><strong>Playing the Game</strong></h3>
 
-<p style="text-align: left;"><strong>KSTC was carried out in three stages<br>
+<p style="text-align: left;">KSTC was carried out in three stages<br>
 
 
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_05/3Stages_Playing_The_Game.jpg">
@@ -137,12 +137,12 @@ iii.	<em>Commitment devices</em>: a tendency to follow through goals once people
 <br>
 <br>
 
-</strong></p><figure><strong>	
+</p><figure>
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%204/D5_Article_kiosk.jpg">
 <figcaption>
 <p style="text-align: left;" class="small-text">Students get their cards scanned upon arrival in school</p>
 </figcaption>
-</strong></figure><strong>	
+</figure>
 	
 <br>
 
@@ -156,7 +156,7 @@ iii.	<em>Commitment devices</em>: a tendency to follow through goals once people
 	
 <h3><strong>What We Found Out from the Game</strong></h3>
 
-</strong><p><strong>1. The game was effective in shifting students towards taking more car-lite trips.</strong><br>
+<p><strong>1. The game was effective in shifting students towards taking more car-lite trips.</strong><br>
 During the 5 weeks of the game phase, <em>the proportion of car-lite trips increased from 66% to 76%</em>, with clear peaks observed on every “double-point” Wednesday (see Figure 1). After the game ended, we observed students’ travel patterns for another 4 weeks: the proportion of car-lite trips dropped compared to the game period, but stayed higher than the baseline average of 66% (see Figure 2).<br>
 <br>
 
@@ -164,9 +164,9 @@ During the 5 weeks of the game phase, <em>the proportion of car-lite trips incre
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%204/D5_Article_Diagram%201.jpg">
 
 <figcaption>	
-<p style="text-align: left;" class="small-text">Figure 1. Proportion of Car-Lite Trips Taken during Baseline (2 Weeks) and the Game (5 weeks)<strong>
-</strong>
-	</p></figcaption>	
+<p style="text-align: left;" class="small-text">Figure 1. Proportion of Car-Lite Trips Taken during Baseline (2 Weeks) and the Game (5 weeks)
+
+</p></figcaption>	
 </figure>	
 	
 	
@@ -182,16 +182,21 @@ During the 5 weeks of the game phase, <em>the proportion of car-lite trips incre
 </figure>		
 	
 
-
 <p><strong>2. Parents’ confidence in their child’s ability to take public transport alone was a key factor in students switching from car to car-lite during the game.</strong><br>We administered surveys to parents and students before and after the game. Comparing students who did not make the switch from car to car-lite to those who did during the game phase, we found that parents of the latter group <em>had noticeably higher confidence</em> in their children’s ability to take public transport alone.  Answers for other related questions such as “child’s aspiration for car”, “child’s confidence in taking public transport alone”, and “parents’ perceived accessibility of public transport” were similar between both groups</p>
 
 <p><strong>3. Attitudes of parents became more positive towards public transport after the game.</strong><br>
 Based on semantic differentials<sup><a href="#notes">4</a>&nbsp;</sup> in the survey administered to the parents, we also found that the <em>game improved parents’ attitudes towards public transport </em>(see Figure 3).<br>
 <br>
-<img title="Diagram 3" src="../../images/default-source/ethos-images/ethos-digital-issue-5/diagram-3.jpg?sfvrsn=9725613d_2" data-displaymode="Original" alt="Diagram 3"></p>
 
+</p><figure>	
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%204/D5_Article_Diagram%203.jpg">
+
+<figcaption>
 <p style="text-align: left;" class="small-text">Figure 3. Survey Results from Parents on Their Attitudes towards Public Transport Before (Black Line) and After (Blue Line) the Game</p>
-
+	</figcaption>
+</figure>
+	
+	
 <h3><strong>What We Learnt</strong></h3>
 
 <p>1. <em>Gamification can be effective in changing behaviours. But sustaining the effect over time may require repeated interventions and/or a longer intervention period</em>. Interestingly, the KSTC’s effects went beyond the children who participated: it also positively influenced the attitudes of parents towards public transport. This points to the potential of reaching out to parents on desired social behaviours by engaging their children. However, the effect seems to diminish when the game is stopped. To maintain the effect for long-term, it would be useful to have either a longer intervention or repeated interventions and reminders from time to time to reinforce the desired behaviour. </p>
@@ -206,11 +211,15 @@ Effects went beyond the children who participated: it also positively influenced
 
 <p>2. <em>Careful use of extrinsic incenti</em>ves <em>was essential in bringing students on-board and sustaining their interest in the game</em>. Studies have shown that relying too much on extrinsic incentives can crowd-out intrinsic motivations, causing behaviour to revert to former patterns after incentives are stopped. For this trial, we tried initially to keep the focus on intrinsic motivations and de-emphasise extrinsic incentives: for example, by not revealing the party prizes. We soon realised that the students were very much motivated extrinsically, especially when the behavioural change requires substantial effort. This reiterates the importance of striking a careful balance between extrinsic incentives and intrinsic motivations, and points to the need for a compelling game narrative that activates intrinsic motivations in future iterations of the game.<br>
 <br>
-<img title="Scanning" src="../../images/default-source/ethos-images/ethos-digital-issue-5/scanning.jpg?sfvrsn=75d0a9ea_2" data-displaymode="Original" alt="Scanning">&nbsp;
-</p>
-
+	
+</p><figure>	
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%204/D5_Article_Scanning.JPG">
+<figcaption>
 <p style="text-align: center;" class="small-text">Parent volunteer manning the scanning kiosk</p>
-
+</figcaption>
+	
+</figure>	
+	
 <p>3. In this trial that involved primary school children, <em>a blend of face-to-face and digital elements were important to the success of the game</em>. Scanning and iPads made it fun, while seeing a physical scanning kiosk and familiar faces every day was crucial in building rapport with students to gain valuable feedback and to minimise cheating. This points to a potential trade-off that game designers need to consider when replacing face-to-face elements with technology for efficiency and saving on manpower. </p>
 
 <hr>
@@ -243,17 +252,20 @@ The students who were playing the game gave us practical ideas and ongoing feedb
 
 <br>
 
-<img title="Parent volunteers" src="../../images/default-source/ethos-images/ethos-digital-issue-5/parent-volunteers.jpg?sfvrsn=e0ceabe3_2" data-displaymode="Original" alt="Parent volunteers">
-
-<br>
-
+<figure>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%204/D5_Article_PV.jpg">
+<figcaption>
 <p style="text-align: center;" class="small-text">Parent volunteers</p>
+</figcaption>
+</figure>	
+	
 
-<img title="Appreciation" src="../../images/default-source/ethos-images/ethos-digital-issue-5/appreciation.jpg?sfvrsn=cb7ae771_2" data-displaymode="Original" alt="Appreciation">
-
-<br>
-
+<figure>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Appreciation.jpg">
+<figcaption>
 <p style="text-align: center;" class="small-text">Token of appreciation presentation to the principal of Bukit Panjang Primary School</p>
+</figcaption>	
+</figure>	
 
 <h3><strong>Next Steps?</strong></h3>
 
@@ -286,15 +298,6 @@ The students who were playing the game gave us practical ideas and ongoing feedb
 
 </div>	
 	
-<br>
-
-
-
-
-
-
-
-
 
 <br>	
 <br>
