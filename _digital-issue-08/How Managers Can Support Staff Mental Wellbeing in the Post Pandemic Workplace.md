@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Edition Issue 8, Apr 2022</small></em>
-<img src="/images/Ethos_Images/Ethos_Digital_Issue_08/ManagingEmployee_Wellbeing_BannerTeaser.jpg">
+<img src="/images/Cropped_images/Ethos_Digital_08/D8_Banner_Support%20Staff%20Mental%20Wellbeing.jpg">
 
 
 
