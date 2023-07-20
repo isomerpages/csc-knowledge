@@ -103,8 +103,8 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
+		<h3>Engaging Public Officers in a Hybrid Workplace</h3>
+		<b><i>by Amos Law</i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
@@ -115,8 +115,20 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
+		<h3>How Managers Can Support Staff Mental Wellbeing in the Post-Pandemic Workplace</h3>
+		<b><i>by Sueann Soon</i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Good Governance Is Built on Capabilities, Not Ideology</h3>
+		<b><i>by Wu Wei Neng, Kenneth Sim</i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
