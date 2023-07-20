@@ -77,7 +77,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_08/D8_Teaser_Dev%20A%20More%20Humanistic%20Approach.jpg"></div>
 	<div>
 		<h3>Developing A More Humanistic Approach to Organisational Health</h3>
 		<b><i>by Soh Zhi Liang</i></b>
@@ -89,7 +89,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_08/D8_Teaser_Making%20the%20Most%20of%20Diversity.jpg"></div>
 	<div>
 		<h3>Making the Most of Diversity through Inclusive Workplace Practices</h3>
 		<b><i>by Khoo Ee Wan, Zoey Lew</i></b>
@@ -101,7 +101,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_08/D8_Teaser_Engaging%20Public%20Officers%20in%20a%20Hybrid%20Workplace.jpg"></div>
 	<div>
 		<h3>Engaging Public Officers in a Hybrid Workplace</h3>
 		<b><i>by Amos Law</i></b>
@@ -113,7 +113,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_08/D8_Teaser_Support%20Staff%20Mental%20Wellbeing.jpg"></div>
 	<div>
 		<h3>How Managers Can Support Staff Mental Wellbeing in the Post-Pandemic Workplace</h3>
 		<b><i>by Sueann Soon</i></b>
@@ -125,7 +125,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_08/D8_Teaser_Good%20Governance.jpeg"></div>
 	<div>
 		<h3>Good Governance Is Built on Capabilities, Not Ideology</h3>
 		<b><i>by Wu Wei Neng, Kenneth Sim</i></b>
