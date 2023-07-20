@@ -2,5 +2,6 @@ collections:
   digital-issue-06:
     output: true
     order:
+      - "Shoulder to Shoulder: Why Partnership Matters in Times of Crisis.md"
       - "COVID 19 and Climate Change: A Foretaste of Public Service in the 21st
         Century.md"
