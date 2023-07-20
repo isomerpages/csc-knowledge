@@ -252,8 +252,8 @@ border-bottom: 1px solid black;
 <li class="text">Putting important information upfront, such as the date of the Gala Dinner and tax deduction rate, as well as highlighting the new Patron, the Honourable Chief Justice Sundaresh Menon;</li>
 <li class="text">Reducing the reply slips sent along with the treatment letters from two pages to one, with a clear call for action stating: “<em>Please choose 1 of the sponsorship packages to support SACA</em>”.</li>
 </ul>
-<p style="text-align: center;"><img title="Control Reply Slip" src="../../images/default-source/ethos-images/ethos-digital-issue-3/control-reply-slip.png?sfvrsn=cc97bc83_0" data-displaymode="Original" alt="Control Reply Slip"></p>
-<p style="text-align: center;"><img title="Treatment Reply Slip" src="../../images/default-source/ethos-images/ethos-digital-issue-3/charity-experiment-(last-slide).jpg?sfvrsn=d8e8f706_0" data-displaymode="Original" alt="Treatment Reply Slip"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/3%20Making%20Letters%20More%20Succinct/D3_Article_Control%20Reply%20Slip.png" data-displaymode="Original" alt="Control Reply Slip"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/3%20Making%20Letters%20More%20Succinct/D3_Article_Treatment%20Reply%20Slip%20.png"></p>
 
 
 
