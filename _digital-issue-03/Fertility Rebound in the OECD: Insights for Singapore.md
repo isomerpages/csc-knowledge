@@ -246,15 +246,17 @@ Social dialogues can, however, address changing norms and aspirations surroundin
 <p>Singapore’s demographic shape is changing rapidly, but raising fertility rates is a complex task with no quick fix or instant panacea. In addition to policy instruments that promote better work-life reconciliation, normative dimensions such as workplace culture and practices, gender roles in the paid and unpaid labour market, and norms surrounding marriage and parenthood are also key factors to consider. To achieve a fertility rebound, Singapore has to build a holistic ecosystem that accounts for all these factors.
 </p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"> <strong>Koh Chiu Yee</strong> is Researcher in the Social &amp; Economics Team, Institute for Governance and Policy, Civil Service College. </p>
 
-<hr>
+</div>
 
-<h6><a name="notes"></a>NOTES</h6>
+
+<div class="notestop">
+<h6>NOTES</h6>
 
 <ol>
 <li class="small-text">Strategy Group, “Citizen Population Scenarios”, April 1, 2012, accessed August 23, 2018, <a href="https://www.strategygroup.gov.sg/media-centre/press-releases/article/details/citizen-population-scenarios">https://www.strategygroup.gov.sg/media-centre/press-releases/article/details/citizen-population-scenarios</a>. </li>
@@ -297,6 +299,8 @@ Social dialogues can, however, address changing norms and aspirations surroundin
 <li class="small-text">Yuen Sin, “Young People’s Attitudes towards Other Races and Nationalities Have Improved: Survey”, The Straits Times, July 14, 2017, accessed August 21, 2018, <a href="../www.straitstimes.com/singapore/young-peoples-attitudes-towards-other-races-and-nationalities-have-improved-survey.html">www.straitstimes.com/singapore/young-peoples-attitudes-towards-other-races-and-nationalities-have-improved-survey</a>. </li>
 </ol>
 
+</div>	
+	
 <br>
 
 
@@ -310,12 +314,3 @@ Social dialogues can, however, address changing norms and aspirations surroundin
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
-
-
-
-
-
-
-
-
