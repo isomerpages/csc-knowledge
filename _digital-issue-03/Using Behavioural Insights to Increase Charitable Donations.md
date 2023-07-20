@@ -79,7 +79,6 @@ border-bottom: 1px solid black;
 	border-radius: 10px;
 	padding: 5%;
 	margin-top: 5%;
-	
 	}		
 	
 </style>
