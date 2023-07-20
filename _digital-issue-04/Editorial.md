@@ -36,7 +36,7 @@ padding-bottom:30px;
 	
 </style>
 
-<em><small>ETHOS Digital Issue 03, Apr 2018</small></em>
+<em><small>ETHOS Digital Issue 04, Apr 2019</small></em>
 <div class="background-image">
 <img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 </div>
