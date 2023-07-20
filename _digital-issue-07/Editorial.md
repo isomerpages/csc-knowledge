@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Edition Issue 07, Sept 2021</small></em>
-<img src="">
+<img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
 
 
