@@ -209,23 +209,19 @@ Nurturing active citizenry surely takes time but we should take bold steps to fa
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">CJ Participants' Journey and Video Highlights</h3>
 <p class="text">
 </p>
-<p style="text-align: center;"><img title="CJ Participants' Journey Infographic" src="../../images/default-source/ethos-images/ethos-digital-issue-3/image001.png?sfvrsn=d31ed639_0" data-displaymode="Original" alt="CJ Participants' Journey Infographic"></p>
+<p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%204/D3_Article_CJ%20Participants%20Journey.png"></p>
 <p style="text-align: center;"><video width="640" src="../../videos/default-source/default-video-library/mp4higlight-video-4-final-(moh).mp4?sfvrsn=5b9dea72_0" height="360" controls="true"></video></p>
 <p>&nbsp;</p>
 
 
 
 </div>
-
-
-
-
 
 
 <div class="author">
