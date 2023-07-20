@@ -167,12 +167,12 @@ border-bottom: 1px solid black;
 
 <p>Another way we ensure that this collaboration works is that everybody is still doing their own thing, carrying out their own work in a mutually reinforcing way. But together we address a bigger piece of issue.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
-Collaborative leadership is a leadership of processes.</em></h5>
+<p class="break1">
+Collaborative leadership is a leadership of processes.</p>
 
-<hr>
+</div>
 
 <p><strong><span style="color: #7030a0;">Mei Ling:</span></strong> Our formal commitment sets the context. But it is the needs of the whole which brings the stakeholders together. Through our ongoing communication and sharing, we understand where each other is coming from. We work out our differences. And we also know what the challenges are. And we help one another.</p>
 
@@ -209,12 +209,12 @@ Collaborative leadership is a leadership of processes.</em></h5>
 
 <p>We have reached a stage where everybody can say what they think and feel that is right, and we can then invite other people to have diverse opinions and share them. It makes the process easier.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
-In this networked world, influence goes beyond traditional ideas of leadership.</em></h5>
+<p class="break1">
+In this networked world, influence goes beyond traditional ideas of leadership.</p>
 
-<hr>
+</div>
 
 <p><strong><span style="color: #7030a0;">Mei Ling:</span></strong> In her role, Kar Yee looks ahead, facilitates and guides. And I think that’s important. We at SHINE are good at what we do as a social service organisation, because that’s our bread-and-butter. But we may not necessarily be good at, for example, articulating our work in an understandable manner to other stakeholders. Kar Yee will come in to give guidance on that aspect and we learn from her. And we may not necessarily know what it takes to support a child or youth through life. This is where we look to the Scouts for expertise. This kind of learning from each other is important. A lot of time goes into talking, meeting, understanding one another and working out what it is that we want to do together and how we want to do it.</p>
 
