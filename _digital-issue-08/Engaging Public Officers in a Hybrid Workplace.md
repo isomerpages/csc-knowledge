@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Edition Issue 8, Apr 2022</small></em>
-<img src="/images/Cropped_images/Ethos_Digital_08/Digital-08-03.jpg">
+<img src="/images/Cropped_images/Ethos_Digital_08/D8_Banner_Engaging%20Public%20Officers%20in%20a%20Hybrid%20Workplace.jpg">
 
 
 <h3>Staff Engagement in the New Normal</h3>
