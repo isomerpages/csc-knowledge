@@ -99,17 +99,17 @@ A shared language and culture across the Public Service eases coordination among
 
 <p>Following the 2003 SARS crisis and the 2009 H1N1 influenza crisis, the Singapore Government developed a Disease Outbreak Response System Condition (DORSCON) framework to prepare the country’s healthcare infrastructure, as well as public sector agencies in general, for relevant contingencies (see Figure 2).<sup><a href="#notes">7</a></sup>&nbsp; When DORSCON is elevated to Yellow, the Crisis Management Group for Health is activated to lead the WOG management of disease outbreaks.<sup><a href="#notes">8</a></sup> The DORSCON framework is now being used to coordinate all Public Service agencies in managing COVID-19.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A service-wide mindset lubricates the machinery of inter-agency coordination, particularly personnel mobilised scales into the thousands.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p style="text-align: center;">
 <br>
-&nbsp;<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-2.jpg?sfvrsn=b3719f95_2"><img title="Figure 2" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure2.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 2"></a>
+<img title="Figure 2" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure2.jpg" alt="Figure 2">
 </p>
 
 <p style="text-align: center;" class="small-text">Figure 2. Disease Outbreak Response System Condition<sup><a href="#notes">9</a>&nbsp;</sup><br>
@@ -136,21 +136,21 @@ Source: The Straits Times © Singapore Press Holdings Limited. Permission requir
 
 <p>From the beginning, the MTF was transparent. It hosted daily media briefings and persisted with honest reporting of COVID-19 cases even when these numbers increased. Such transparency builds trust with citizens, and trust undergirds crisis management efforts. The Ministry of Communications and Information (MCI) employed differentiated media to reach specific audiences, beyond traditional print and broadcast media. Crisis response information was customised to engage senior citizens through television programmes featuring popular artistes, fitness workouts and e-getai (street-side variety shows featuring banter and songs) on YouTube. Programmes were also developed to engage migrant workers using popular Singaporean, West Bengal, Bangladeshi and Kollywood artistes to convey important and reassuring messages through the friendsofmw.sg online portal. With the help of the Government Technology Agency (GovTech), Singaporeans were also updated with timely bite-sized information through messaging platforms such as WhatsApp and Telegram as well as a dedicated Info Bot summarising COVID-19 information on government websites. MCI also made use of social media platforms like Facebook, Instagram, Twitter and Tik Tok as well as the Digital Display Panels in HDB lifts and lift lobbies. The Protection from Online Falsehoods and Manipulation Act (POFMA) provided the legal framework to quash fake news—such as of a COVID-19 fatality early in the outbreak, and the closure of Woodlands MRT Station. Altogether these efforts established the Government’s credibility as a trusted source of information amidst the crisis.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Transparency builds trust with citizens, and trust undergirds crisis management efforts.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p style="text-align: left;">The calm manner in which Prime Minister (PM) Lee Hsien Loong addressed Singapore, and in which the MTF conducted daily press conferences, helped to steady the country’s psychological posture amidst the crisis. PM Lee addressed the nation through a live TV and digital media broadcast at key junctures of the crisis, helping to frame Singaporeans’ perspectives towards the situation. His speeches—along with the range of measures introduced in response to the crisis—helped to calm down a rattled population.</p>
 
 <p style="text-align: left;">When a rumour circulated that Singapore was running out of face masks, the MTF assured Singaporeans that there was sufficient supply of masks “if we use them sensibly and responsibly”.<sup><a href="#notes">12</a></sup>&nbsp; Guided by evidence at that time, people were advised to wear masks only if unwell, to conserve masks for medical personnel. Yet, understanding public anxiety and apprehension, the MTF decided to distribute four surgical masks to each Singapore resident. Within 24 hours, SAF servicemen prepared and packed 5.2 million masks for distribution. Officers from the People’s Association and citizen volunteers set up 1,000 mask collection points across Singapore.<sup><a href="#notes">13,14</a></sup>   Senior citizens and vulnerable segments of society were given priority.<br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-4a.jpg?sfvrsn=ccdb4ddc_2"><img title="Figure 4a" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure4a.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 4a"></a><br>
+<img title="Figure 4a" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure4a.jpg" alt="Figure 4a"><br>
 <a href="../4c9668b7-9c57-4320-b22e-768368a3d108.html"></a><br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-4b.jpg?sfvrsn=2b99d1a3_2"><img title="Figure 4b" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure4b.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 4b"></a></p>
+<img title="Figure 4b" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure4b.jpg" alt="Figure 4b"></p>
 
 <p style="text-align: center;" class="small-text">SAF servicemen and PA staff helping with mask collection for Singaporeans<br>
 Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction</p>
@@ -161,7 +161,7 @@ Source: The Straits Times © Singapore Press Holdings Limited. Permission requir
 
 <p style="text-align: left;">Despite the risks of imported cases, the MTF decided to bring Singaporeans overseas home to safety. As Chinese cities began locking down, the Ministry of Foreign Affairs (MFA) evacuated Singaporeans stranded in China. When Singaporeans abroad risked being stranded as Europe, the United States and countries across the world closed their borders, MFA worked with local authorities to bring Singaporeans home. Returnees were then quarantined to protect their loved ones and mitigate the risk of further community spread.<br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/james-low_covid_timeline_sg_v2-compressed.jpg?sfvrsn=7da5ae94_2"><img title="James Low_Covid_Timeline_SG_V2-compressed" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Digital_Issue_06/James_Low_Covid_Timeline_SG_v2_Compressed.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="James Low_Covid_Timeline_SG_V2-compressed"></a></p>
+<img title="James Low_Covid_Timeline_SG_V2-compressed" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Digital_Issue_06/James_Low_Covid_Timeline_SG_v2_Compressed.jpg" alt="James Low_Covid_Timeline_SG_V2-compressed"></p>
 
 
 
@@ -171,7 +171,7 @@ Source: The Straits Times © Singapore Press Holdings Limited. Permission requir
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Fiscal Support Measures</h3>
@@ -199,7 +199,7 @@ Source: The Straits Times © Singapore Press Holdings Limited. Permission requir
 <p>Officers across the Public Service assumed the roles of “ambassadors” to remind Singaporeans to be socially responsible in order to curb the spread of COVID-19. SG Clean Ambassadors from the Ministry of the Environment and Water Resources (MEWR) and National Environment Agency (NEA) took to the streets to explain to Singaporeans the importance of personal hygiene and public cleanliness. Safe Distancing Ambassadors from MEWR, NEA, Land Transport Authority and National Parks Board also fanned out across housing estates, transport hubs, markets and parks. They educated the public on the need to maintain safe distancing, especially in crowded places. Enterprise Singapore and Singapore Tourism Board also recruited 500 Singaporeans whose jobs were displaced by the crisis to help with safe distancing, at the same time providing them with employment.<br>
 <br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-6/figure-5.jpg?sfvrsn=4e8a9801_2"><img title="Figure 5" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure5.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 5"></a></p>
+<img title="Figure 5" src="/images/Ethos_Images/Ethos_Digital_Issue_06/Figure5.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 5"></p>
 
 <p style="text-align: center;" class="small-text">Safe Distancing Ambassadors in action<br>
 Source: The New Paper © Singapore Press Holdings Limited. Permission required for reproduction</p>
@@ -210,13 +210,13 @@ Source: The New Paper © Singapore Press Holdings Limited. Permission required f
 
 <p>Recognising the strong community response to the outbreak, the Ministry of Culture, Community and Youth developed a SGUnited portal. Under the SGUnited banner, the Government rallied Singaporeans and linked volunteers with resources to generate a whole-of-nation approach towards containing the effects of the crisis.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Recognising the strong community response to the outbreak, the Government rallied a whole-of-nation approach towards containing the crisis.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The Sing Together Singapore! was one such idea. Dick Lee, the composer of the popular national song “Home”, thought of gathering local celebrities in singing the heartfelt song over the Internet, to acknowledge the contributions of frontline health workers. The initiative expanded, with artistes like Taufik Batisah, Vernetta Lopez and Mediacorp artistes joined by a 900-strong virtual choir. Eventually, it evolved into a huge sing-along for all Singaporeans. On 25 April 2020, Singaporeans sang “Home” while waving torchlights from their windows and balconies across the country. While some criticised this as an empty gesture distracting from meaningful action, Singaporeans across the country did come together in their show of gratitude towards health workers. And in that moment, Singaporeans demonstrated their unity in weathering this crisis.<br>
 <br>
