@@ -77,7 +77,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_07/D7_Teaser_Being%20Human%20in%20a%20Crisis.jpg"></div>
 	<div>
 		<h3>Being Human in a Crisis: What It Means to Us</h3>
 		<b><i></i></b>
@@ -89,7 +89,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_07/D7_Teaser_eCommerce%20Development.jpg"></div>
 	<div>
 		<h3>The Role of Government in E-Commerce Development</h3>
 		<b><i></i></b>
@@ -102,7 +102,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_07/D7_Teaser_Growing%20from%20Clusters%20to%20Ecosystems.jpg"></div>
 	<div>
 		<h3>Growing from Clusters to Ecosystems</h3>
 		<b><i></i></b>
@@ -115,7 +115,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_07/Digital-07-04.jpg"></div>
 	<div>
 		<h3>Inviting Possibilities: Review of Margaret Heffernan’s “Uncharted” and Scott Smith’s “How to Future”</h3>
 		<b><i></i></b>
