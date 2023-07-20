@@ -167,7 +167,7 @@ border-bottom: 1px solid black;
 <li>Design social communal spaces (such as a community park or 3G playground/fitness corner) to encourage residents to interact daily.</li>
 </ul>
 
-<p>&nbsp;</p>
+
 
 <p>3. <span style="text-decoration: underline;">Offer shared community spaces</span></p>
 
@@ -177,16 +177,12 @@ border-bottom: 1px solid black;
 <li>Include good connectivity to surrounding areas, to help engage other residents in the vicinity.</li>
 </ul>
 
-<p>&nbsp;</p>
-
 <p>4. <span style="text-decoration: underline;">Curate strong co-programming activities </span></p>
 
 <ul>
 <li>Co-programming activities should not be left to chance to be developed organically; instead, they should be curated upstream.</li>
 <li>Close coordination amongst agencies is a must. Bring on board facility operators who can propose and implement cross-programming initiatives that capitalise on the synergy of available facilities, and minimise overlaps that might cause confusion and result in wastage.</li>
 </ul>
-
-<p>&nbsp;</p>
 
 <p>5. <span style="text-decoration: underline;">Establish support from co-locating agencies </span></p>
 
@@ -195,15 +191,14 @@ border-bottom: 1px solid black;
 <li>Kampung Admiralty benefited from a Steering Committee which adopted a whole-of-government approach to oversee development. </li>
 </ul>
 
-<p><img title="Lush greenery (op)" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-digital-issue-4/lush-greenery-(op).jpg?sfvrsn=1356e4b0_4" data-displaymode="Original" alt="Lush greenery (op)"></p>
+<figure>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%204/D4_Article_lush-greenery-(op).jpeg"><p></p>
 
-<br>
-
+<figcaption>
 <p style="text-align: center;" class="small-text">Lush greenery abounds at Kampung Admiralty (Photo credit: Patrick Bingham-Hall)</p>
-
-<br>
-
-
+</figcaption>
+	
+</figure>
 
 
 <p class="small-text text">In Kampung Admiralty, a greener, cleaner and more sustainable living environment is created through a number of incorporated features:</p>
@@ -211,7 +206,7 @@ border-bottom: 1px solid black;
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Kampung Admiralty: Technology and Sustainable Living</h3>
@@ -228,19 +223,17 @@ border-bottom: 1px solid black;
 <li>An integrated building management system track energy consumption and water usage.</li>
 <li>A fully automated underground bicycle parking system, operated by SecureMyBike, offers secure parking for more than 500 bicycles. This system complements existing surface-level bicycle parking at the Admiralty MRT station, and promotes cycling for residents of all ages in the vicinity. </li>
 </ul>
-<img title="Sustainable features (op)" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-digital-issue-4/sustainable-features-(op).jpg?sfvrsn=3dd93c47_8" data-displaymode="Original" alt="Sustainable features (op)">&nbsp;
-<p>&nbsp;</p>
+	
+<figure>	
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%204/D4_Article_sustainable-features-(op).jpeg">
+
+<figcaption>	
 <p style="text-align: center;" class="small-text">Source: HDB</p>
-
-
+</figcaption>
+	
+</figure>
 
 </div>
-
-
-
-
-
-
 
 
 
@@ -249,7 +242,7 @@ border-bottom: 1px solid black;
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Promoting the “Kampung Spirit”</h3>
@@ -263,11 +256,13 @@ border-bottom: 1px solid black;
 <li>Since Kampung Admiralty’s completion in May 2017, more than 190 community activities have been held in the Community Plaza.</li>
 <li>The Active Ageing Hub (AAH) has recruited more than 200 senior volunteers and patrons, with some residents helping to cook daily meals for dementia care seniors. Seniors at the AAH mingle with children from the Child Care Centre through inter-generational activities such as story-telling sessions, and art &amp; craft or music classes. Parents have observed that their children have since become more willing to interact with their grandparents, and more respectful of them.</li>
 </ul>
-<p><img title="CNY event (op)" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-digital-issue-4/cny-event-(op).jpg?sfvrsn=485e0858_4" data-displaymode="Original" alt="CNY event (op)"></p>
-<br>
+
+<figure>	
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%204/D4_Article_CNY2019KA%20(segment%203).jpg">
+<figcaption>
 <p class="small-text">Shared community spaces for residents to meet and mingle (Source: HDB)</p>
-
-
+</figcaption>
+</figure>
 
 </div>
 
