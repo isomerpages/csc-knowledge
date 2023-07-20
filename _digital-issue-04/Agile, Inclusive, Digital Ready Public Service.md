@@ -134,13 +134,13 @@ Inculcate the right mindsets and behaviours at all levels, whether it’s leader
 
 <p>One debate is whether digital or data skills should be developed across the board, no matter what the job is. I am of the school of thought that almost every public servant should acquire a minimum level of data and digital literacy. And then there’s a skill top-up, not generic but very specific training across the spectrum of artificial intelligence—whether in robotics, data mining, analytics, data modelling or even automation.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 While we can reskill in very specific areas of digital competency, we also need to bring in the right skills and expertise.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>It is important to remember that, in our diverse societies, citizen engagement is not just about technology: we are doing ethnographic studies, for example. We need multiple skills at that table, with public servants who are able to reach out, understand and “speak the language” of the diverse stakeholders around the table. This will determine their degree of success. Another area is what I would call execution excellence: strong skills in project management and ITC implementation are two top areas that come to mind.</p>
 
@@ -152,7 +152,7 @@ While we can reskill in very specific areas of digital competency, we also need 
 
 <p>And you need to have leadership whose actions are congruent with the encouragement to innovate. Our survey tells us that most of our public service employees understand that there is encouragement to innovate but a lesser percentage say that they feel they will be supported if the innovation fails. If you don’t work on the risk aversion culture by changing mindsets and behaviours, then you will regress. </p>
 
-<p>&nbsp;</p>
+
 
 <h3>3. What are some considerations in attracting and assembling the new public sector workforce? &nbsp;</h3>
 
@@ -164,13 +164,13 @@ While we can reskill in very specific areas of digital competency, we also need 
 
 <p>This speaks to different mindsets; we also need to rethink the way we organise the work and the way we value the work. We still assess the value of work (and related compensation and level) using organisational design principles that were once relevant but no longer allows us to recognise the value of specialised skills, reward people accordingly, and design nimble organisations. Talent and performance management need to signal that we are serious about the outcomes and behaviours, in addition to attributes such as courage to experiment, resilience to adapt to emerging trends, and determination to constantly progress.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 For the public service to remain relevant, it must go beyond diversity to include permeability at all levels.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>As Chief Human Resources Officer, I want to look at how our policies facilitate the permeability and the mobility of public servants, how we recognise and compensate the value of work, how we deliberately manage talent and performance, and how we organise the work itself. I want to support a clear career path for people who demonstrate the skills we are looking for.&nbsp; </p>
 
