@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Edition Issue 8, Apr 2022</small></em>
-<img src="/images/Cropped_images/Ethos_Digital_08/Digital-08-01.jpg">
+<img src="/images/Cropped_images/Ethos_Digital_08/D8_Banner_Making%20the%20Most%20of%20Diversity.jpg">
 
 
 <h3>Introduction</h3>
