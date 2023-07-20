@@ -58,7 +58,19 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">Digital Issue 07, Sep 2021</span><br>Digital Edition Issue 07</h3>
 		<p></p>
-		<div class="button1"><a target="_blank" href="">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/digital-issue-07.pdf">Download PDF</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Editorial</h3>
+		<b><i>by Alvin Pang</i></b>
+		<p></p>
+		<div class="button1"><a href="/digital-issue-07/editorial/">Read more</a></div>
 	</div>
 </div>
 
@@ -70,7 +82,7 @@ margin-top:15px;
 		<h3></h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-07/the-role-of-government-in-e-commerce-development/">Read more</a></div>
 	</div>
 </div>
 
@@ -82,7 +94,19 @@ margin-top:15px;
 		<h3></h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-07/growing-from-clusters-to-ecosystems/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="/digital-issue-07/inviting-possibilities/">Read more</a></div>
 	</div>
 </div>
 
