@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Edition Issue 06, Jun 2020</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Digital_06/D6_Banner_Shoulder%20to%20Shoulder.jpg">
 
 
 
