@@ -82,7 +82,7 @@ margin-top:15px;
 		<h3>Developing A More Humanistic Approach to Organisational Health</h3>
 		<b><i>by Soh Zhi Liang</i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-08/developing-a-more-humanistic-approach-to-organisational-health/">Read more</a></div>
 	</div>
 </div>
 
@@ -94,7 +94,7 @@ margin-top:15px;
 		<h3>Making the Most of Diversity through Inclusive Workplace Practices</h3>
 		<b><i>by Khoo Ee Wan, Zoey Lew</i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-08/making-the-most-of-diversity-through-inclusive-workplace-practices/">Read more</a></div>
 	</div>
 </div>
 
@@ -106,7 +106,7 @@ margin-top:15px;
 		<h3>Engaging Public Officers in a Hybrid Workplace</h3>
 		<b><i>by Amos Law</i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-08/engaging-public-officers-in-a-hybrid-workplace/">Read more</a></div>
 	</div>
 </div>
 
@@ -118,7 +118,7 @@ margin-top:15px;
 		<h3>How Managers Can Support Staff Mental Wellbeing in the Post-Pandemic Workplace</h3>
 		<b><i>by Sueann Soon</i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-08/how-managers-can-support-staff-mental-wellbeing-in-the-post-pandemic-workplace/">Read more</a></div>
 	</div>
 </div>
 
@@ -130,7 +130,7 @@ margin-top:15px;
 		<h3>Good Governance Is Built on Capabilities, Not Ideology</h3>
 		<b><i>by Wu Wei Neng, Kenneth Sim</i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-08/good-governance-is-built-on-capabilities-not-ideology/">Read more</a></div>
 	</div>
 </div>
 
