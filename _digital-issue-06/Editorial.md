@@ -94,9 +94,7 @@ In the meantime, I wish you an engaging read, wherever you might be. Take care a
 <p>Email: ethos@cscollege.gov.sg
 </p>
 
-<hr>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
