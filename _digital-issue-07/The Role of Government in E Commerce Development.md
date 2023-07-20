@@ -234,13 +234,13 @@ foreign investments.</p>
 
 <p>This presents potential scope for Singapore to play a role to companies seeking to operate in the region. Singapore is a bridge between East and West. Our talent pool offers management expertise that is more international in its approach. These are reasons cited by Ethan Yu, Vice-President of Alicloud, for locating Alicloud’s international business headquarters in Singapore.<sup><a href="#notes">8</a></sup></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 To operate regionally, there is also a need for talents who have international experience and can operate in a multicultural business environment.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>To support e-commerce growth, the government should encourage a diverse mix of international companies to setup their regional business base in Singapore. This will in turn encourage other companies to be based in Singapore and be part of a larger ecosystem of international companies. If we are successful, this can become a powerful enabler for Singapore’s companies, which can then leverage the best globally. For example, Alibaba has developed impressive capabilities in AI, data analytics, speech-to-text, and multilingual translation. Singapore’s companies can tap on the variety of capabilities offered by Alicloud, Amazon web services, or Google and choose the best technology for their needs. For instance Dingtalk, an enterprise chat solution developed by Alibaba, offers certain features that may be better than Skype for Business in meeting particular business needs.</p>
 
@@ -249,13 +249,13 @@ To operate regionally, there is also a need for talents who have international e
 <p>Besides ecosystem building, a key challenge facing the digital industries is talent. This goes beyond coding professionals. As more digital businesses grow towards unicorn status, they begin to require Chief Executive Officers with the maturity and experience to lead and scale up their companies. To operate regionally, there is also a need for talents who have international experience
 and can operate in a multicultural business environment.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Besides ecosystem building, a key challenge facing the digital industries is talent. This goes beyond coding professionals.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Our government has spared no effort in looking for ways to groom our local talent, as well as to attract global talent to relocate to Singapore. The government’s numerous initiatives,
 such as the TechSkills Accelerator (TeSA), partnerships with local tertiary institutions, and recruitment drives overseas to bring tech talents to Singapore, are just some of the efforts to furnish the digital industry with the right people it needs to grow. These have met with some success, but the available talent pool is still not enough to meet the ever-growing demand from digital companies large and small. Many of these efforts will take time to see results. For example, regional exposure trips and internships to tech companies for tertiary-level students will not deliver the next generation of tech talent in the next two years. Given the importance of talent to the success of building our digital ecosystem, we must double down on our efforts to find and groom more talent for the industry.</p>
@@ -267,17 +267,17 @@ such as the TechSkills Accelerator (TeSA), partnerships with local tertiary inst
 <p>This by no means assures our long-term or sustainable success. To stay ahead, we will have to review our policies, programmes and initiatives continually: to help Singapore-based digital companies gain access to talent and regional partners and markets, as well as to attract more international companies to be based in Singapore. This would entail keeping a close eye on regional developments and trends. For example, how would Malaysia’s DFTZ and Thailand’s EEC affect the regional presence of digital companies? Will the growth of the Vietnamese software engineer workforce be a positive development for the region, or a threat to Singapore’s relevance as a hub for digital companies? And might the growth of Indonesia’s digital economy attract more investments away from Singapore, or can we in fact benefit
 from our close proximity to Indonesia?</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Efforts to find and groom talent for the digital industry will take time to see results.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>While we are not in a position to influence these trends, what Singapore needs to do is to continue adapting and responding quickly to seize opportunities as they come along, and ride on positive developments in the region by integrating our digital economy with the regional ecosystem.</p>
 
-<hr>
+<div class="author">
 
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHOR</p>
 
@@ -293,7 +293,7 @@ Efforts to find and groom talent for the digital industry will take time to see 
 </tbody>
 </table>
 
-<hr>
+</div>
 
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTES</p>
 
@@ -317,7 +317,7 @@ Efforts to find and groom talent for the digital industry will take time to see 
 
 <br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
