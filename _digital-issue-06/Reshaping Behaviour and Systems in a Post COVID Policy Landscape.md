@@ -83,13 +83,13 @@ li {
 
 <p>Both sciences are rooted in understanding that change happens in social contexts , and that effective change strategies need to take account of, make use of, and align with the social dynamics of the context in which they happen. For example, they highlight the importance of social norms as an influence on behaviour and the effectiveness of the use of champions as a change strategy: people in organisations who can use their social networks and personal credibility to bridge between the desired change and its sustained implementation.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Implementation science studies methods and strategies to promote the uptake of interventions and innovations into routine practice.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Key Lessons from Implementation Science and Behavioural Science</h3>
 
@@ -104,13 +104,13 @@ Setting out the desired behaviours is not enough on its own. People also need to
 <p><strong>3. Appeal to values and what is “best for all”</strong><br>
 It is difficult to sustain a change that feels at odds with your core beliefs about yourself, and many of the changes we have to make in response to COVID fit this category. Policymakers need to find a way of bridging that gap and, ideally, showing people how the required behaviours <em>are</em> in line with values and self-beliefs. This means reminding people of an aspect of their identity that connects with the required change. For example, once lockdowns are lifted, governments are likely–until acute risk abates—to continue to advise against social interactions with the elderly, given that they are a high-risk population. For many communities, a commitment to family values means commitment to caring for and honouring elderly relatives, which might normally include visiting them. Appeals to values should situate the desired behaviour–avoiding in-person social calls to the elderly—within the values system of the individual. For example, the core message that appeals to values while reinforcing the desired behaviour might be: “You care for your elderly relatives, and the greatest act of care right now is to keep your distance from them”. Effective communication around collective action that situates desired behaviour within the group interest can increase the likelihood of public-spirited actions: as a recent study<sup><a href="#notes">4</a></sup>&nbsp; finds, “it is the articulation of how the behaviour is “best for all”, rather than persuasion to undertake the specific behaviour, that most supports co-operation.”</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 In the end, new behaviours will be observed not just because they are required but because they make sense.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p><strong>4. Implement behavioural nudges</strong><br>
 Nudges are cues and messages that change the choice architecture and support individuals to make beneficial behavioural choices. In the context of a post-COVID policy landscape, the continued use of visual cues in public spaces will be critical. The most obvious of these is the use of tape to mark off the appropriate distance for queuing in public places, now implemented in public spaces from street markets in India<sup><a href="#notes">5</a></sup>&nbsp; to McDonald’s and Tesco in Britain<sup><a href="#notes">6</a></sup>.&nbsp;There are many examples, some of them humorous: in Canada’s Yukon&nbsp;territory, the physical distance is described as one caribou length;<sup><a href="#notes">7</a></sup> at WeWork,<sup><a href="#notes">8</a></sup> washing hands to the tune of Billy Joel or Michael Jackson helped its members hit the recommended 20 seconds’ duration. The study<sup><a href="#notes">9</a></sup>&nbsp; cited above finds good evidence that the prominent placement of alcohol-based hand sanitiser increases use, while a recent online experiment  by the Behavioural Insights Team in the UK found that bright infographics and minimal text on handwashing posters supported retention of key messages.<sup><a href="#notes">10</a></sup></p>
@@ -123,13 +123,13 @@ The clear communication of data is an effective strategy in implementing behavio
 Giving people data and feedback on their performance can improve compliance with desired behaviours. Programme implementation provides clear lessons: if individuals are clear about the desired target and know why it matters, then giving them data on their performance against the target is a key strategy for helping people then meet it. A Cochrane review<sup><a href="#notes">13</a></sup> of 140 randomised trials of audit and feedback in healthcare found that on average they showed a positive effect, with the top quartile having a relatively large effect of up to 16% on patient care. Some key approaches are needed to increase the impact of audit and feedback, including: audit criteria that is credible and in line with population benefit, using comparisons, setting goals that are realistic relative to current performance level, and providing actionable plans for improvement alongside feedback.  In an  example from the pre-COVID era, some hospitals introduced automated systems  for tracking compliance with hand sanitiser usage, through the use of smart tracking devices that registered whether individuals had used hand sanitiser and then gave them warning buzzes if they hadn’t.<sup><a href="#notes">14</a></sup> Such approaches dramatically reduced hospital infections.
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 It is difficult to sustain a change that feels at odds with your core beliefs about yourself.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p><strong>7. Use multiple strategies</strong><br>
 It is clear from the science that one approach alone doesn’t work if you are implementing complex change. A single strategy might be sufficient if the required change is simple and its boundaries clear, but the more complex the behaviour, and the more it involves interactive and negotiated elements, the more a combination of strategies is likely to be needed.<sup><a href="#notes">15</a> </sup>For example, a recent study  showed that supporting therapists via supervision by also using active learning techniques such as role play, corrective feedback, and modelling was more effective than standard supervision alone.<sup><a href="#notes">16 </a></sup>A longstanding review  of teacher professional development revealed that—even when it involves demonstration, practice and feedback—training in a new approach achieves almost no discernible use of the approach in the classroom.<sup><a href="#notes">17</a></sup> It is only when strategies are combined—when training is combined with coaching—that a big difference  is seen.<sup><a href="#notes">18</a></sup></p>
@@ -139,13 +139,13 @@ It is clear from the science that one approach alone doesn’t work if you are i
 <p><strong>8. Be curious</strong><br>
 Governments cannot rely on the blunt instrument of controlling behaviour in the long term through lockdowns and citations, but need to consider how to influence behaviour and systems change. This means that effective systems will be fundamentally curious about and interested in individual behaviour and its drivers—and how and why behaviour and drivers change. This implies a greater focus on using data about “why” things are happening rather than just “what” is happening. Implementation science and behavioural science also emphasise the importance of co-creation of solutions with individuals implementing interventions. For example, approaches such as ethnographic studies<sup><a href="#notes">21</a></sup>&nbsp; and user-centred design<sup><a href="#notes">22</a></sup>&nbsp; are likely to be important tools in post-COVID policymaking, since long-term change will be dependent on richly understanding the drivers of human and social behaviour, and designing aids to behavioural change that are aligned with them.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The more complex the behaviour, and the more it involves interactive and negotiated elements, the more a combination of strategies is likely to be needed.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>These approaches from implementation science and behavioural science can help policymakers to plan beyond the immediate requirements of the lockdown and into the long, important process of sustaining behaviours to support public health outcomes.</p>
 
@@ -155,13 +155,13 @@ The more complex the behaviour, and the more it involves interactive and negotia
 
 <p>Implementation science and behavioural science are critical tools for policymakers’ skills sets in a post-COVID world. Using their lessons to guide approaches to behavioural and systems change can help support our societies in weathering this storm.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHORS</h6>
 
 <p class="small-text">The <a href="https://www.ceiglobal.org/">Centre for Evidence and Implementation </a>(CEI) is an independent, global, not-for-profit team of research, policy and practice experts based in Australia, Singapore and the United Kingdom, working with policymakers, philanthropists, and practitioners to ensure the best evidence is implemented in policy and practice to improve the lives of people facing adversity. <strong>Maryanna Abdo</strong> is Managing Director, <strong>Jane Lewis</strong> is UK and Europe Director, and <strong>Robyn Mildon</strong> is Executive Director. </p>
 
-<hr>
+</div>
 
 <h6><a name="notes"></a>NOTES</h6>
 
@@ -208,9 +208,7 @@ The more complex the behaviour, and the more it involves interactive and negotia
     </li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
