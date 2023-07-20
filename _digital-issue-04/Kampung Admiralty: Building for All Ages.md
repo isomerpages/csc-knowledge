@@ -277,7 +277,7 @@ border-bottom: 1px solid black;
 
 <p class="small-text">
             Yap Chin Beng is Senior Advisor (Estate &amp; Corporate) at the Housing and Development Board (HDB), where he has worked for close to 40 years. Prior to July 2017, he was HDB’s Deputy Chief Executive Officer (Estate &amp; Corporate), overseeing a wide spectrum of functions including public housing policies, special housing programmes, supply of new housing units, planning and management of carparks, industrial and commercial properties, community bonding, corporate strategies, corporate communications, and provision of ICT, legal, audit and financial services. He also shares his expertise in the Centre of Liveable Cities Expert Panel, China-Singapore Tianjin Eco-city, and advanced training courses.
-            </p>
+</p>
 
 </div>
 
