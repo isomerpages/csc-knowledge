@@ -48,9 +48,10 @@ width:1500px;
 
 .grid-container {
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 30% 70%;
     grid-column-gap: 5%;
     margin-bottom: 5%;
+	margin-top: 5%;
 
 }    
 
@@ -98,13 +99,13 @@ width:1500px;
         objectives. Examples from Singapore and other countries are used to
         illustrate key learning points.</p>	
         
-        <div class="button1"><a href="/all-books/evidence-based-policymaking-in-singapore/">Read More</a>
+   <div class="button1"><a href="/all-books/evidence-based-policymaking-in-singapore/">Read More</a>
         </div>
     </div>
 </div>
 <br>
 <div class="grid-container">
-    <div><img src="/images/Books/building%20communities%20cover.jpg"></div>
+   <div><img src="/images/Books/building%20communities%20cover.jpg"></div>
     <div>
         <h3>Case Studies: Building Communities in Singapore</h3>
         <b><i>Edited by June Gwee</i></b>
@@ -115,9 +116,7 @@ width:1500px;
         describe how public officers have been able to think differently, find new
         paths and build resilient communities.
         </p>	           
-        <div class="button1"><a href="/all-books/building-communities-in-singapore/">Read More</a>
+  <div class="button1"><a href="/all-books/building-communities-in-singapore/">Read More</a>
         </div>
     </div>
 </div>
-    
-    
