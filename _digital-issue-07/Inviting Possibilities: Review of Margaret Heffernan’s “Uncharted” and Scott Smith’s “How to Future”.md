@@ -78,13 +78,13 @@ li {
 
 <p>As Margaret Heffernan has argued in <em>Wilful Blindness</em> (2011), an examination of why people ignore obvious dangers within organisations, many challenges and dangers  evident today have occurred not because of unanticipated threats, but because other pressures and circumstances caused them to be overlooked. In contrast, Heffernan’s most recent book, <em>Uncharted</em> (2020), approaches the challenge of how we can think about and navigate a future that is evidently volatile, uncertain, complex and ambiguous.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Many challenges and dangers evident today have occurred not because of unanticipated threats, but because other pressures and circumstances caused them to be overlooked.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Facing an Uncharted Future</h3>
 
@@ -94,13 +94,13 @@ Many challenges and dangers evident today have occurred not because of unanticip
 
 <p>Heffernan points out that the scientific community also has its cathedral projects, such as CERN (the European Organisation for Nuclear Research) which brings together scientists and engineers from across the world to collaborate on building, maintaining and analysing the results that come from unique facilities such as the Large Hadron Collider. The global nature of collaboration and respect for expertise means that other qualities—nationalities, disciplinary boundaries—are rendered secondary.  The work from CERN has created many innovations of societal value, including the World Wide Web— a cornerstone of the modern internet. Another scientific cathedral project is the Svalbard Global Seed Vault project, which maintains an archive of humanity’s cultivated crops, and is designed to withstand catastrophes and last for more than a human generation.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The scientific community also has its cathedral projects… The global nature of collaboration and respect for expertise means that other qualities—nationalities, disciplinary boundaries—are rendered secondary.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The scientific community’s race to address COVID-19—by publishing the genome of SARS-CoV-2, the pivoting of several biomedical companies to use their own technological platforms (Biontech’s work in mRNA vaccines, for instance), the pooling together of resources and capabilities to fund and manufacture vaccines—also represents a cathedral project that has  unfolded before our very eyes. Those of us who have received our COVID-19 vaccine shots should take a moment to reflect on the scientific, manufacturing and logistical achievement they represent.</p>
 
@@ -114,13 +114,13 @@ The scientific community also has its cathedral projects… The global nature of
 
 <p>Bringing diverse groups together and deeply listening to each other may not always throw up immediate solutions—but new possibilities may be teased out where none existed before. Even the establishment of common ground and mutual acknowledgement may be a remarkable basis from which to begin imagining a different, more desirable future, particularly if the community has seemed irrevocably locked in conflict in the past.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Singapore too, might be characterised as an ongoing, unfinished “cathedral project”, for which Singaporeans from all walks of life should see themselves as stewards: each generation building it up in their time and passing it on to the next.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>From Thinking to Doing</h3>
 
@@ -128,13 +128,13 @@ Singapore too, might be characterised as an ongoing, unfinished “cathedral pro
 
 <p>Smith and Ashby have put together a detailed and thorough explanation of the scenarios process, from understanding the context of the organisation, horizon scanning, sensemaking, scenarios to communications and evaluating results. The book’s approach—not just in the “what to do” sense, but “what to think about when you are doing”—is informed by the operational realities of painstaking engagement with clients about strategic foresight and futures work—including questions about what it is, and what it can and cannot do. This distinguishes it from other introductory works, such as Peter Schwartz’s <em>Art of the Long View</em> (1991), which still serves as an important introductory reference.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The book’s approach—not just in the “what to do” sense, but “what to think about when you are doing”—is informed by the operational realities of painstaking engagement with clients about strategic foresight and futures work.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>For Singapore’s public sector foresight community, particularly teams that are just embarking on foresight work, <em>How To Future </em>offers an invaluable, practice-based introduction. Smith and Ashby provide additional context to the scenario planning and related foresight projects that they do, which might be helpful to anyone instigating change within their organisations. Apart from detailing the scenario planning process, they also consider contextual questions: Is the organisation ready for the future? What is their “future culture”? People starting in the foresight teams might find this book familiar, but also refreshing—Smith and Ashby’s gritty layout of the terrain could provide comfort when things in the foresight process become difficult.</p>
 
@@ -152,13 +152,13 @@ The book’s approach—not just in the “what to do” sense, but “what to t
 
 <p>Second, both look to scenarios not just as a way of being prepared for the future. Instead, scenarios  are regarded as a means to bring together a range of people, so they may enter a realm of possibilities together.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Scenarios are a means to bring together a range of people, so they may enter a realm of possibilities together.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Third, both books are striking in their emphasis on possibilities: the future is not closed to us; we might not know about it, but we can enter it with courage.</p>
 
@@ -167,32 +167,26 @@ Scenarios are a means to bring together a range of people, so they may enter a r
 <p>For Singapore, <em>Uncharted </em>and <em>How to Future</em>  explore tools that may come in handy as we seek to thrive in the uncertain post-COVID era to come, and as the next crisis (climate change?) looms.
 In the face of these challenging circumstances, we are not helpless. We can, as we have always done, look ahead with the foresight tools that we have, continue to adapt to changing circumstances, have the readiness to discover things anew, and to have the courage to shape things where we can. That the future is uncertain should give us courage and hope that we can shape the outcomes in our favour, in big or small ways and—as Smith and Ashby put it—“to make the world better, and lead others to do the same.”</p>
 
-<hr>
+<div class="break">
 
-<h5><em>Uncharted and How to Future explore tools that may come in handy as we seek to thrive in the uncertain post-COVID era to come, and as the next crisis (climate change?) looms.
-</em></h5>
+<p class="break1">Uncharted and How to Future explore tools that may come in handy as we seek to thrive in the uncertain post-COVID era to come, and as the next crisis (climate change?) looms.
+</p>
 
-<hr>
+</div>
 
+
+<div class="author">
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHOR</p>
 
-<table style="border:none;background-color:transparent;">
-<tbody>
-<tr style="border:none;">
-<td style="padding:0;padding-right:32px;border:none;">
+
+
 <p class="small-text"><strong>Eddie Choo</strong> is Research Associate at the Lee Kuan Yew School of Public Policy. He has experience working and writing case studies in the Singapore Public Service. His case writing covers topics ranging from the environment to governance and corruption. He also teaches futures thinking and scenario planning at the School. Eddie has a Bachelor of Social Science degree and Master of Social Science degree in Sociology from the National University of Singapore. The views expressed in this article are the author’s own.
             </p>
-</td>
-<td style="width:120px;border:none;" class="desktop-only">&nbsp;</td>
-</tr>
-</tbody>
-</table>
 
-<hr>
 
-<br>
+</div>
 
-<p><a href="../ethos.html">Back to Ethos homepage</a></p>
+
 
 
 
