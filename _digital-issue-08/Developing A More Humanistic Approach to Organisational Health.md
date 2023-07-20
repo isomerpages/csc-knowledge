@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Edition Issue 8, Apr 2022</small></em>
-<img src="/images/Cropped_images/Ethos_Digital_08/Digital-08-04.jpg">
+<img src="/images/Cropped_images/Ethos_Digital_08/D8_Banner_Dev%20A%20More%20Humanistic%20Approach.jpg">
 
 
 
