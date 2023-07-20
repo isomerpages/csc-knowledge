@@ -201,13 +201,13 @@ Based on semantic differentials<sup><a href="#notes">4</a>&nbsp;</sup> in the su
 
 <p>1. <em>Gamification can be effective in changing behaviours. But sustaining the effect over time may require repeated interventions and/or a longer intervention period</em>. Interestingly, the KSTC’s effects went beyond the children who participated: it also positively influenced the attitudes of parents towards public transport. This points to the potential of reaching out to parents on desired social behaviours by engaging their children. However, the effect seems to diminish when the game is stopped. To maintain the effect for long-term, it would be useful to have either a longer intervention or repeated interventions and reminders from time to time to reinforce the desired behaviour. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Effects went beyond the children who participated: it also positively influenced the attitudes of parents towards public transport.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>2. <em>Careful use of extrinsic incenti</em>ves <em>was essential in bringing students on-board and sustaining their interest in the game</em>. Studies have shown that relying too much on extrinsic incentives can crowd-out intrinsic motivations, causing behaviour to revert to former patterns after incentives are stopped. For this trial, we tried initially to keep the focus on intrinsic motivations and de-emphasise extrinsic incentives: for example, by not revealing the party prizes. We soon realised that the students were very much motivated extrinsically, especially when the behavioural change requires substantial effort. This reiterates the importance of striking a careful balance between extrinsic incentives and intrinsic motivations, and points to the need for a compelling game narrative that activates intrinsic motivations in future iterations of the game.<br>
 <br>
@@ -222,33 +222,34 @@ Effects went beyond the children who participated: it also positively influenced
 	
 <p>3. In this trial that involved primary school children, <em>a blend of face-to-face and digital elements were important to the success of the game</em>. Scanning and iPads made it fun, while seeing a physical scanning kiosk and familiar faces every day was crucial in building rapport with students to gain valuable feedback and to minimise cheating. This points to a potential trade-off that game designers need to consider when replacing face-to-face elements with technology for efficiency and saving on manpower. </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A blend of face-to-face and digital elements were important to the success of the game.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>4. Hanging out at the “scanning area” also provided students with opportunities to bond with their friends and classmates before school, including friends whom they had not met in some time.  This <em>social interaction </em>was a positive spinoff that the team had not expected at the game’s conceptualisation stage. It demonstrated the potential of games to encourage more social interactions and mixing in an organic manner, in addition to bringing about the intended behavioural change.</p>
 
-<hr>
 
-<h5><em>
+
+<div class="break">
+
+<p class="break1">
 Games encourage more social interactions, in addition to bringing about the intended behavioural change.
-</em></h5>
+</p>
+</div>
 
-<hr>
+
 
 <p>5. <em>Multiple partners and stakeholders saw to the fruition of the pilot</em>. Each partner and stakeholder played different roles—the school leadership’s go-ahead for the pilot opened the doors, while parents and parent volunteers were essential to the sustainability of the seven-week pilot.  The parent volunteer group in particular helped extensively during the scanning period, which meant that we could minimise teachers’ involvement. The students who were playing the game gave us practical ideas and ongoing feedback on how to address the challenges we faced, most notably, how to generate excitement and sustain interest during the full duration of the game. The pizza party for instance was an idea borne out of such feedback, when we experienced declining participation rates midway through the game. They also challenged our assumptions around what would be considered “attractive prizes” to students, by suggesting alternative prizes. It is common wisdom that partners and stakeholders play an important role in the success of any pilot, but understanding how each can contribute and in what capacity, was key to the success of KSTC.</p>
 
-<hr>
-
-<h5><em>
+<div class="break">
+<p class="break1">
 The students who were playing the game gave us practical ideas and ongoing feedback on how to address the challenges we faced.
-</em></h5>
-
-<hr>
+</p>
+</div>
 
 <br>
 
