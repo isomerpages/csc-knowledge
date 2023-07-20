@@ -74,7 +74,7 @@ li {
 through the concentration of factor endowments and the rivalry among them. For decades, cluster thinking has influenced growth strategies and location decisions. In recent years, however, an “ecosystem” concept has emerged.<sup><a href="#notes">2</a></sup> This updates
 cluster theory in three key ways.<sup><a href="#notes">3</a></sup></p>
 
-<a href="../../images/default-source/ethos-images/ethos-digital-edition-(aug-2021)/framework-diagram.jpg?sfvrsn=52c11f7a_2"><img title="Framework diagram" style="vertical-align: middle;" src="../../images/default-source/ethos-images/ethos-digital-edition-(aug-2021)/framework-diagram.jpg?sfvrsn=52c11f7a_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Framework diagram"></a>
+<img title="Framework diagram" style="vertical-align: middle;" src="/images/Ethos_Images/Ethos_Digital_Issue_07/FrameworkDiagram.jpg" alt="Framework diagram">
 
 <p>&nbsp;</p>
 
@@ -82,13 +82,13 @@ cluster theory in three key ways.<sup><a href="#notes">3</a></sup></p>
 Second, ecosystems are not limited by factor endowments and their control, but are fostered by creating abundance, such as through data—the value of which multiplies with the number of nodes (Metcalfe’s Law).<sup><a href="#notes">4</a></sup> Third, ecosystems do not require
 geographical proximity. This is salient as it points to ecosystems as a strategy for growth, particularly in the context of the COVID-19 pandemic which has driven remote working and the diversification of supply chains.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Ecosystems are not defined by traditional industry boundaries. Innovation and competition emerge from the periphery or outside the industry.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Analysis by Reeves et al. on 57 ecosystems in 11 sectors across geographies has found that only 15% of firms (including the likes of Microsoft Windows and Amazon) sustained a dominant share for more than 20 years.<sup><a href="#notes">5</a></sup> Successful ecosystems,<sup><a href="#notes">6</a></sup> such as the ones
 on which businesses like Netflix<sup><a href="#notes">7</a></sup> and ARM<sup><a href="#notes">8</a></sup> are based, have a compelling use case, a strong user base and partners from a diversity of industries and countries. Ecosystems have low barriers to entry and a modular architecture to easily mix and match
@@ -99,12 +99,12 @@ a common roadmap to coordinate complementary investments.</p>
 
 
 
-<p class="small-text text">Traditionally, the Economic Development Board’s cluster development strategy for Singapore has aimed to concentrate and populate entire value chains in a physical location: </p>
 
 
 
 
-<div class="container">
+
+<div class="containerbox">
 
 
 <h3 class="title">From Centralised Clusters to Dispersed Ecosystems</h3>
@@ -127,13 +127,13 @@ of value.<sup><a href="#notes">11</a></sup> This view essentially extends the le
 thousand Greek soldiers held off 100,000 Persian soldiers by focusing their resources to control a narrow pass, Hannah and Eisenhardt’s inductive study of the US residential solar market suggests that in nascent ecosystems, entrants create value
 by innovating at the bottleneck and freeing the ecosystem of its resource constraints (e.g., consumer finance), then actively cooperating with partners to invest in and improve complementary components, even if it means capturing less value.<sup><a href="#notes">13</a></sup></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Successful ecosystems have a compelling use case, a strong user base and partners from a diversity of industries and countries.
-</em></h5>
+	</p>
 
-<hr>
+</div>
 
 <p>To sustain the support of its partners, the ecosystem orchestrator must maintain an appropriate balance between value creation and value capture. Amazon’s dual roles as operator of the marketplace and a seller in that same marketplace is a negative
 example: its access to third party sellers’ data and information give it an unfair advantage over “competing” products on its platform.<sup><a href="#notes">14</a></sup> The growing concern about unfair competition such as this has prompted a major review of antitrust
@@ -147,18 +147,18 @@ Singapore stayed true to the principle of global humanity and determined to take
 global scientific and pharmaceutical community at the institutional and personal level, gave Singapore the network connections and access to make educated bets and secure the right COVID-19 vaccines for our people at speed to emerge from the crisis.
 As a small country, Singapore may not be the first to come up with an invention, but our cumulative investments and networks enable us to be plugged in to the best and most current around the world, and thereby have the “absorptive capacity”<sup><a href="#notes">17</a></sup> to recognise, assimilate and apply new knowledge.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
-Some aspects of trust, namely ability and reliability, can be built through online collaboration but </em>benevolence <em>can only be sensed through face-to-face interaction.
-</em></h5>
+<p class="break1">
+Some aspects of trust, namely ability and reliability, can be built through online collaboration but benevolence <em>can only be sensed through face-to-face interaction.
+</em></p><em>
 
-<hr>
+</em></div><em>
 
 <p>Collective human endeavour, whether in clusters or ecosystems, requires a spirit of cooperation, built on a sense of shared destiny and common cause. The enduring advantage of clusters may lie not in comparison and competitive rivalry, but in the environment
 of trust and cooperation they can foster.</p>
 
-<hr>
+<div class="author">
 
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHOR</p>
 
@@ -174,7 +174,7 @@ of trust and cooperation they can foster.</p>
 </tbody>
 </table>
 
-<hr>
+</div>
 
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes"></a>NOTES</p>
 
@@ -231,4 +231,4 @@ of trust and cooperation they can foster.</p>
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div>
+</div></em>
