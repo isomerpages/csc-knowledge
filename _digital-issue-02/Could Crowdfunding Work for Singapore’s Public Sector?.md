@@ -46,7 +46,7 @@ line-height:22px;
 margin-top:40px;
 padding-bottom:30px;
 padding-top:30px;	
-border-bottom: 1px solid black;
+border-top: 1px solid black;
 
 }			
 	
@@ -146,7 +146,7 @@ Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 
 
 
-<div class="notestop">
+<div class="notestop1">
 <p><strong>Notes</strong></p>
 <ol>
 <li class="small-text">Association of Town and City Management (website), accessed June 7, 2017, <a href="https://www.atcm.org/">https://www.atcm.org/</a>.
@@ -181,7 +181,7 @@ Civic Crowdfunding in the Singapore Public Sector: Is it Feasible?</h3>
 
 <br>
 
-<div class="notestop">	
+<div class="notestop1">	
 	
 <p><strong>Notes</strong></p>
 <ol>
