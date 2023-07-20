@@ -162,17 +162,10 @@ of trust and cooperation they can foster.</p>
 
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHOR</p>
 
-<table style="border:none;background-color:transparent;">
-<tbody>
-<tr style="border:none;">
-<td style="padding:0;padding-right:32px;border:none;">
+
 <p class="small-text"><strong>Shirley Loo</strong> is Divisional Director for Corporate Development at the Accounting and Corporate Regulatory Authority. She has worked on economic development, R&amp;D, national identity, defence and hawker centre policies, and recently
             completed the Sloan Masters in Leadership and Strategy at London Business School. </p>
-</td>
-<td style="width:120px;border:none;" class="desktop-only">&nbsp;</td>
-</tr>
-</tbody>
-</table>
+
 
 </div>
 
