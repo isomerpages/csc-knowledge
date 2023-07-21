@@ -54,10 +54,10 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital05.jpg"></div>
 	<div>
-		<h3><span class="cat"></span><br></h3>
-		<p></p>
+		<h3><span class="cat">Digital Issue 05, Nov 2019</span><br>Digital Edition Issue 05</h3>
+		<p>In this issue of ETHOS Digital Edition, we bring together perspectives on how behavioural insights can contribute to policymaking and intervention in constructive ways. Featuring: Dilip Soman, Ong Qiyan, Lorenz Gotte, Do Hoang Van Khanh and Low WeiJian</p>
 		<div class="button1"><a target="_blank" href="">Download PDF</a></div>
 	</div>
 </div>
@@ -67,9 +67,9 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
+		<h3>Editorial</h3>
+		<b><i>by Alvin Pang</i></b>
+		<p>As public agencies explore and experiment with subtle behavioural interventions, or nudges, to encourage desirable outcomes among the public,a more naunced understanding of how they can best be applied is emerging—including a realisation of use cases where they may be less appropriate or less effective or even counterproductive.</p>
 		<div class="button1"><a href="">Read more</a></div>
 	</div>
 </div>
