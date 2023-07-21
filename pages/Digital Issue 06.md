@@ -92,7 +92,7 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>COVID-19 Crisis Management: An Early Look</h3>
-		<b><i></i></b>
+		<b><i>by James Low</i></b>
 		<p></p>
 		<div class="button1"><a href="/digital-issue-06/covid-19-crisis-management-an-early-look/">Read more</a></div>
 	</div>
@@ -104,7 +104,7 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>Shoulder to Shoulder: Why Partnership Matters in Times of Crisis</h3>
-		<b><i></i></b>
+		<b><i>by Theophilus Kwek</i></b>
 		<p></p>
 		<div class="button1"><a href="/digital-issue-06/shoulder-to-shoulder-why-partnership-matters-in-times-of-crisis/">Read more</a></div>
 	</div>
@@ -116,7 +116,7 @@ margin-top:15px;
 	<div><img src=""></div>
 	<div>
 		<h3>COVID-19 and Climate Change: A Foretaste of Public Service in the 21st Century</h3>
-		<b><i></i></b>
+		<b><i>by Jocelyne Bourgon</i></b>
 		<p></p>
 		<div class="button1"><a href="/digital-issue-06/covid-19-and-climate-change-a-foretaste-of-public-service-in-the-21st-century/">Read more</a></div>
 	</div>
