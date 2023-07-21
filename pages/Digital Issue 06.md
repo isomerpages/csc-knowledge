@@ -70,7 +70,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
 		<p>In this issue of ETHOS Digital Edition, we want to document and reflect on various responses to the crisis, to make a start on understanding its multifaceted impacts, and the steps that have been taken to address them.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-06/editorial/">Read more</a></div>
 	</div>
 </div>
 
@@ -79,10 +79,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
+		<h3>Reshaping Behaviour and Systems in a Post-COVID Policy Landscape</h3>
+		<b><i>by Robyn Mildon, Maryanna Abdo and Jane Lewis</i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-06/reshaping-behaviour-and-systems-in-a-post-covid-policy-landscape/">Read more</a></div>
 	</div>
 </div>
 
@@ -91,10 +91,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>COVID-19 Crisis Management: An Early Look</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-06/covid-19-crisis-management-an-early-look/">Read more</a></div>
 	</div>
 </div>
 
@@ -103,10 +103,22 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Shoulder to Shoulder: Why Partnership Matters in Times of Crisis</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-06/shoulder-to-shoulder-why-partnership-matters-in-times-of-crisis/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>COVID-19 and Climate Change: A Foretaste of Public Service in the 21st Century</h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="/digital-issue-06/covid-19-and-climate-change-a-foretaste-of-public-service-in-the-21st-century/">Read more</a></div>
 	</div>
 </div>
 
