@@ -82,13 +82,13 @@ li {
 
 <p>Complex issues like climate change and pandemics require holistic and dynamic thinking. NS blends systems theory, adaptive system thinking and complexity theory to invent solutions to complex issues. It argues that the “way we think has a direct impact on the way we frame issues, the solutions that will be found and the results that will be achieved”.<sup><a href="#note">1</a></sup>&nbsp; NS helps public practitioners to re-think, re-frame and invent solutions fit for the time.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 To invent solutions to the complex problems governments face today, we need to see ‘wholes’ instead of approaching issues in terms of component parts or institutional silos.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Why is it so difficult to make progress on climate change?</h3>
 
@@ -104,13 +104,13 @@ To invent solutions to the complex problems governments face today, we need to s
 
 <p>This may be our Copernicus moment. There was a time when people believed that the earth was at the centre of the universe, with the sun and stars circling around it. Copernicus’s work led to a reordering of ideas and concepts. Our “Copernicus moment” requires a reordering of ideas about ecology, biology, economy and  life in society in order to preserve the life-sustaining capacity of the planet.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Pandemics and climate risks are good examples of the increasing complexity of the challenges ahead. Unlike the financial crises or rising inequalities, these are shocks originating from the biological and physical world.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>What can we learn from complex issues such as COVID-19 and climate change?</h3>
 
@@ -135,13 +135,13 @@ Pandemics and climate risks are good examples of the increasing complexity of th
 
 <p>Issues such as climate change and the COVID-19 pandemic call for distributed leadership, increased collective consciousness, and thinking across systems and multiple timelines.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Complex issues like COVID-19 and climate change are not black swans; they are not unexpected events. Experts and scientists have been warning governments of the impacts of these catastrophic events for years.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>What can we learn from COVID-19 to make progress on climate change?</h3>
 
@@ -151,13 +151,13 @@ Complex issues like COVID-19 and climate change are not black swans; they are no
 
 <p>COVID-19 provides an unprecedented opportunity to imagine a new balance to reconcile public, private, and civic interests in creative ways and to craft a coherent set of policies to better position countries in the future.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The current COVID-19 pandemic provides a foretaste of what a climate crisis may look like.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The thinking about challenges emerging from the biological and physical world, including climate changes, must catch up to the holistic nature of the ecological systems we belong to. This is an opportunity to rediscover the “oneness” of life and nature. For instance, NASA images taken on February 10 to 25, 2020, showed a significant reduction in greenhouse gas emission in China where carbon monoxide dropped by 35% to 40% compared to the previous year.  As the world stood still and individuals played their parts to contain the spread of the virus, similar reductions were seen in New York, Seattle, and Los Angeles. We could breathe again!</p>
 
@@ -169,7 +169,7 @@ The current COVID-19 pandemic provides a foretaste of what a climate crisis may 
 
 <p>This is our <em>Copernicus </em>moment.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -179,7 +179,7 @@ The current COVID-19 pandemic provides a foretaste of what a climate crisis may 
             She has published extensively about public administration. She is the author of <em>A New Synthesis of Public Administration: Serving in the 21st Century</em> (2011) and <em>The New Synthesis of Public Administration Fieldbook</em> (2017), among others.
             </p>
 
-<hr>
+</div>
 
 <h6><a name="note"></a>NOTE</h6>
 
@@ -187,9 +187,7 @@ The current COVID-19 pandemic provides a foretaste of what a climate crisis may 
 <li class="small-text"> Jocelyne Bourgon, <em>The New Synthesis of Public Administration Fieldbook</em> (Kopenhagen: Dansk Psykologisk Forlag, 2017).</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
