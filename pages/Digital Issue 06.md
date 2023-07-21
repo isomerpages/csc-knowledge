@@ -57,7 +57,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital06.jpg"></div>
 	<div>
 		<h3><span class="cat">Digital Issue 06, Jun 2020</span><br>Digital Edition Issue 06</h3>
-		<p></p>
+		<p>The COVID-19 pandemic has swept the world with bewildering speed and scale. In this issue of ETHOS Digital Edition, we document and reflecto n various responses to the crisis, presenting views from Maryanna Abdo, Jane Lewis, Robyn Mildon, James Low, Theophilus Kwek and Jocelyne Bourgon.</p>
 		<div class="button1"><a target="_blank" href="">Download PDF</a></div>
 	</div>
 </div>
