@@ -70,7 +70,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
 		<p>As public agencies explore and experiment with subtle behavioural interventions, or nudges, to encourage desirable outcomes among the public,a more naunced understanding of how they can best be applied is emerging—including a realisation of use cases where they may be less appropriate or less effective or even counterproductive.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-05/editorial/">Read more</a></div>
 	</div>
 </div>
 
@@ -79,10 +79,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Nudge and Sludge: A Conversation with Dilip Soman</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-05/nudge-and-sludge/">Read more</a></div>
 	</div>
 </div>
 
@@ -91,10 +91,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>How to Nudge Better in Public Policy</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-05/how-to-nudge-better-in-public-policy/">Read more</a></div>
 	</div>
 </div>
 
@@ -104,10 +104,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Using Behavioural Insights More Effectively in Policy Interventions</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-05/using-behavioural-insights-more-effectively-in-policy-interventions/">Read more</a></div>
 	</div>
 </div>
 
@@ -116,10 +116,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Encouraging Car Lite Travel through Gamification: The Kids Smart Travel Challenge</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-05/encouraging-car-lite-travel-through-gamification-the-kids-smart-travel-challenge/">Read more</a></div>
 	</div>
 </div>
 
