@@ -70,7 +70,7 @@ tasked with the responsibility for foresight.</p>
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
         <div><h3>Defeating Diabetes: A Conversation with Dean Schillinger, MD</h3>
-            <b><i>Dean Schillinger, MD</i></b>
+            <b><i>Interview with Dean Schillinger, MD</i></b>
             
 <p>	
 Dr Dean Schillinger proposes a whole-of-society battle plan for combating one of the most pervasive health issues in modern society.
@@ -82,7 +82,7 @@ Dr Dean Schillinger proposes a whole-of-society battle plan for combating one of
 <div class="grid-container">
       <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
         <div><h3>Sector Based Training that Works: A Conversation with James A Riccio</h3>
-            <b><i> James A. Riccio</i></b>
+            <b><i> Interview with James A. Riccio</i></b>
 <p>	
 MDRC’s James Ricco discusses how sector-based training can be made more relevant to both workers and employers.
 </p>	
