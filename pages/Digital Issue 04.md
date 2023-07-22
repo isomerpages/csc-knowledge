@@ -98,7 +98,7 @@ Speaking with ETHOS on two separate occasions, Australia’s Stephanie Foster an
             
 <p>	Partners in the NEICP reflect on how they have come together to help vulnerable children in their community in an integrated and holistic manner.</p>	
             
-<div class="button1"><a href="/digital-issue-02/could-crowdfunding-work-for-singapores-public-sector/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-04/community-care-through-collaborative-leadership/">Read More</a></div><br></div>
     </div>
     
 <br>    
@@ -111,7 +111,7 @@ Speaking with ETHOS on two separate occasions, Australia’s Stephanie Foster an
 In an interview with ETHOS, Yap Chin Beng, Senior Advisor, HDB, shares his insights on building Singapore's first "Vertical Kampung".
             </p>	
             
-<div class="button1"><a href="/digital-issue-02/rethinking-responsibility/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-04/kampung-admiralty-building-for-all-ages/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
@@ -123,7 +123,7 @@ In an interview with ETHOS, Yap Chin Beng, Senior Advisor, HDB, shares his insig
 In this edition of the Ethos Roundtable, participants of the 11th Leaders in Governance Programme reflect on the challenges of an increasingly diverse citizenry and how a younger generation of public officers must avoid complacency while sustaining trust in government.
             </p>	
             
-<div class="button1"><a href="/digital-issue-02/rethinking-responsibility/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-04/new-challenges-new-horizons/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
@@ -135,7 +135,7 @@ In this edition of the Ethos Roundtable, participants of the 11th Leaders in Gov
 Jason Bay suggests ways to approach the daunting task of becoming a team leader or manager for the first time.
             </p>	
             
-<div class="button1"><a href="/digital-issue-02/rethinking-responsibility/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-04/pro-tip-how-to-manage-a-team-for-the-first-time/">Read More</a></div><br></div>
     </div>
 <br>
 
