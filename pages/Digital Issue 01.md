@@ -34,7 +34,7 @@ description: ""
 </style>
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_01/EthosDigital01.jpg"></div>
-        <div><h3><span class="cat">DIGITAL ISSUE 01, MAR 2023</span>
+        <div><h3><span class="cat">DIGITAL ISSUE 01, NOV 2017</span>
             <br>Ethos Digital Issue 01</h3>	
             <p></p>
             
