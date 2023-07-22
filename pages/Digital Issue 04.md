@@ -63,7 +63,7 @@ have always depended on how present actions might be expected to play
 out down the road; it is for this reason that those who govern or lead are
 tasked with the responsibility for foresight.</p>	
             
-<div class="button1"><a href="/digital-issue-02/editorial/">Read More</a></div> <br></div>
+<div class="button1"><a href="/digital-issue-04/editorial/">Read More</a></div> <br></div>
     </div>
 
  <br>   
@@ -76,7 +76,7 @@ tasked with the responsibility for foresight.</p>
 Nancy Chahwan discusses how the public service can remain nimble and adaptive in a digital society.
 </p>	
             
-<div class="button1"><a href="/digital-issue-02/defeating-diabetes/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-04/agile-inclusive-digital-ready-public-service/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
@@ -87,7 +87,7 @@ Nancy Chahwan discusses how the public service can remain nimble and adaptive in
 Speaking with ETHOS on two separate occasions, Australia’s Stephanie Foster and Finland’s Sirpa Kekkonen reflect on what their governments are doing to be adaptive for the future.
 </p>	
             
-<div class="button1"><a href="/digital-issue-02/sector-based-training-that-works/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-04/strategy-and-stewardship-in-a-time-of-change/">Read More</a></div><br></div>
     </div>
     
 <br>    
