@@ -68,7 +68,7 @@ tasked with the responsibility for foresight.</p>
 
  <br>   
 <div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%201/D4_Teaser_Nancy%20Chahwan%20in%20Conversation.jpg"></div>
         <div><h3>Agile, Inclusive, Digital-Ready Public Service</h3>
             <b><i>Interview with Ms Nancy Chahwan</i></b>
             
@@ -80,7 +80,7 @@ Nancy Chahwan discusses how the public service can remain nimble and adaptive in
     </div>
 <br>
 <div class="grid-container">
-      <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+      <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%202/D4_Teaser_Strategy%20and%20Stewardship%20in%20a%20Time%20of%20Change.jpg"></div>
         <div><h3>Strategy and Stewardship in a Time of Change</h3>
             <b><i> Interview with Ms Stephanie Foster and Ms Sirpa Kekkonen</i></b>
 <p>	
@@ -105,7 +105,7 @@ Speaking with ETHOS on two separate occasions, Australia’s Stephanie Foster an
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%204/D4_Teaser_Kampung%20Admiralty.jpg"></div>
         <div><h3>Kampung Admiralty: Building for All Ages</h3>
-            <b><i>Stephanie Siow and Theophilus Kwek</i></b>
+            <b><i>Interview with Mr Yap Chin Beng</i></b>
             
 <p>	
 In an interview with ETHOS, Yap Chin Beng, Senior Advisor, HDB, shares his insights on building Singapore's first "Vertical Kampung".
@@ -114,7 +114,18 @@ In an interview with ETHOS, Yap Chin Beng, Senior Advisor, HDB, shares his insig
 <div class="button1"><a href="/digital-issue-02/rethinking-responsibility/">Read More</a></div><br></div>
     </div>
 <br>
-
+<div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%205/D4_Teaser_New%20Challenges%20New%20Horizons.jpg"></div>
+        <div><h3>New Challenges, New Horizons</h3>
+            <b><i>Ms Serey Chea, Dr Zamani Saul and Mr Alaa Youssef</i></b>
+            
+<p>	
+In an interview with ETHOS, Yap Chin Beng, Senior Advisor, HDB, shares his insights on building Singapore's first "Vertical Kampung".
+            </p>	
+            
+<div class="button1"><a href="/digital-issue-02/rethinking-responsibility/">Read More</a></div><br></div>
+    </div>
+<br>
 
 
 <br>
