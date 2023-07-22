@@ -11,6 +11,10 @@ description: ""
 	font-weight: bold;
 	}
 	
+.cat
+   {
+   font-size: 15px;
+   }	
 
 .button1 a
 {
@@ -34,9 +38,9 @@ description: ""
 </style>
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_01/EthosDigital01.jpg"></div>
-        <div><h3><span class="cat">DIGITAL ISSUE 01, NOV 2017</span>
-            <br>Ethos Digital Issue 01</h3>	
-            <p></p>
+        <div>
+		<h3><span class="cat">Digital Issue 01, Jun 2020</span><br>Digital Edition Issue 01</h3>
+		<p>The COVID-19 pandemic has swept the world with bewildering speed and scale. In this issue of ETHOS Digital Edition, we document and reflect on various responses to the crisis, presenting views from Maryanna Abdo, Jane Lewis, Robyn Mildon, James Low, Theophilus Kwek and Jocelyne Bourgon.</p>
             
             
    <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-01.pdf">Download PDF</a></div></div>
