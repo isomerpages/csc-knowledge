@@ -4,51 +4,12 @@ permalink: /digital-issue-01/
 description: ""
 ---
 <style>
-table
-{ 
-border-collapse: separate; 
-border-spacing: 30px 10px;
-}	
-	
+
 .back a
 {
 	color: #9f2943;
 	font-weight: bold;
 	}
-	
-
-
-.text
-{
-	width: 50%;
-}	
-	
-.img1 img
-{
-margin-top:25px;	
-}	
-	
-.img img
-{
-margin-top:15px;	
-}		
-	
-	
-.cat
-{
-font-size: 15px;	
-}
-	
-td
-{
-	border-style : hidden!important;
-}
-	
-
-#editorial,#section-1,#section-2,#section-3,#section-4
-{
-	border-bottom: 0.5px solid black;
-}
 	
 
 .button1 a
@@ -62,7 +23,7 @@ td
 	display: grid;
 	grid-template-columns: 50% 50%;
 	grid-column-gap: 5%;
-	margin-bottom: 5%;
+	margin-bottom: 4%;
 	}	
 	
 @media only screen and (max-width: 600px) {
@@ -75,7 +36,7 @@ td
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_01/EthosDigital01.jpg"></div>
         <div><h3><span class="cat">DIGITAL ISSUE 01, MAR 2023</span>
             <br>Ethos Digital Issue 01</h3>	
-            <p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
+            <p></p>
             
             
    <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-01.pdf">Download PDF</a></div></div>
@@ -91,9 +52,10 @@ td
             Editor-in-Chief Ethos
             </figcaption>
                 
-  <p>	
-            This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.
-            </p>	
+  <p>The future remains humanity’s most enduring dilemma. The survival and success — or failure and decline — of ventures, organisations and nations
+have always depended on how present actions might be expected to play
+out down the road; it is for this reason that those who govern or lead are
+tasked with the responsibility for foresight.</p>	
             
 <div class="button1"><a href="/digital-issue-01/editorial/">Read More</a></div> <br></div>
     </div>
