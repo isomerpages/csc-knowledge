@@ -80,8 +80,8 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%201/D5_Teaser_Nudge%20and%20Sludge.jpg"></div>
 	<div>
 		<h3>Nudge and Sludge: A Conversation with Dilip Soman</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>Conversation with Professor Dilip Soman</i></b>
+		<p>Besides nudging positive behavioural change, designers of policies and processes should also think about whether there are hidden frictions that impede change.</p>
 		<div class="button1"><a href="/digital-issue-05/nudge-and-sludge/">Read more</a></div>
 	</div>
 </div>
