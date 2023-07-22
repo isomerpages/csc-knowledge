@@ -10,6 +10,11 @@ description: ""
 	color: #9f2943;
 	font-weight: bold;
 	}
+
+.cat
+   {
+   font-size: 15px;
+   }	
 	
 
 .button1 a
@@ -23,7 +28,7 @@ description: ""
 	display: grid;
 	grid-template-columns: 50% 50%;
 	grid-column-gap: 5%;
-	margin-bottom: 4%;
+	margin-bottom: 5%;
 	}	
 	
 @media only screen and (max-width: 600px) {
