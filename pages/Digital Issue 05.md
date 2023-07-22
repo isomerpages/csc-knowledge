@@ -89,11 +89,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%202/D5_Teaser_Nudge%20Better%20in%20Public%20Policy.jpg"></div>
 	<div>
 		<h3>How to Nudge Better in Public Policy</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>Ong Qiyan</i></b>
+		<p>Behavioural nudges will only improve public outcomes if the principles for their successful use–including individual choice–are followed closely.</p>
 		<div class="button1"><a href="/digital-issue-05/how-to-nudge-better-in-public-policy/">Read more</a></div>
 	</div>
 </div>
@@ -102,11 +102,11 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%203/D5_Teaser_Using%20Behavioural%20Insights.jpg"></div>
 	<div>
 		<h3>Using Behavioural Insights More Effectively in Policy Interventions</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>Lorenz Goette</i></b>
+		<p>Nudges work best when individuals are given feedback on the implications of their actions, and when policymakers weigh the costs and benefits of nudges alongside standard policy measures.</p>
 		<div class="button1"><a href="/digital-issue-05/using-behavioural-insights-more-effectively-in-policy-interventions/">Read more</a></div>
 	</div>
 </div>
@@ -114,11 +114,11 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%204/D5_Teaser_Car-Lite%20Travel%20through%20Gamification.jpg"></div>
 	<div>
 		<h3>Encouraging Car Lite Travel through Gamification: The Kids Smart Travel Challenge</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>Low Weijian, Do Hoang Van Khanh</i></b>
+		<p>Gaming techniques and incentives successfully shifted students towards taking more car-lite trips, and changed parental attitudes towards public transport.</p>
 		<div class="button1"><a href="/digital-issue-05/encouraging-car-lite-travel-through-gamification-the-kids-smart-travel-challenge/">Read more</a></div>
 	</div>
 </div>
