@@ -105,15 +105,15 @@ MDRC’s James Ricco discusses how sector-based training can be made more releva
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
-        <div><h3>Roundtable: How Technology is Transforming the Public Sector</h3>
-            <b><i>with Dato Paduka Ahmaddin Haji Abdul Rahman, Ms Anna Roy, and Mr Declan Hughes</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%204/D2_Teaser_Rethinking%20Responsibility.jpg"></div>
+        <div><h3>Rethinking Responsibilities</h3>
+            <b><i>Stephanie Siow and Theophilus Kwek</i></b>
             
 <p>	
-            Around the world, countries have sought to enhance their workers’ prospects with closer partnerships between sectors, greater clarity about learning goals, more flexibility with educational modes, and ensuring access to training for those who need it most.
+Two young Singaporeans reflect on whether narratives of self-reliance may obscure deeper structural gaps.
             </p>	
             
-<div class="button1"><a href="/digital-issue-01/roundtable-how-technology-is-transforming-the-public-sector//">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-01/roundtable-how-technology-is-transforming-the-public-sector/">Read More</a></div><br></div>
     </div>
 <br>
 
