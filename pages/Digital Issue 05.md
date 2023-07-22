@@ -77,7 +77,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Digital_Issue_05/Article%201/D5_Teaser_Nudge%20and%20Sludge.jpg"></div>
 	<div>
 		<h3>Nudge and Sludge: A Conversation with Dilip Soman</h3>
 		<b><i></i></b>
