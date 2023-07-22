@@ -57,7 +57,8 @@ description: ""
             Editor-in-Chief Ethos
             </figcaption>
                 
-  <p>The future remains humanity’s most enduring dilemma. The survival and success — or failure and decline — of ventures, organisations and nations
+  <p>The future remains humanity’s most enduring dilemma. The survival and
+success — or failure and decline — of ventures, organisations and nations
 have always depended on how present actions might be expected to play
 out down the road; it is for this reason that those who govern or lead are
 tasked with the responsibility for foresight.</p>	
@@ -68,22 +69,22 @@ tasked with the responsibility for foresight.</p>
  <br>   
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
-        <div><h3>The New Synthesis in the Field: Conversation with Jocelyne Bourgon</h3>
-            <b><i>Jocelyne Bourgon</i></b>
+        <div><h3>Defeating Diabetes: A Conversation with Dean Schillinger, MD</h3>
+            <b><i>Dean Schillinger, MD</i></b>
             
 <p>	
-            Five key challenges can hinder efforts to put previous time, effort and resources to their best uses. Here's how to identify and address them.
+Dr Dean Schillinger proposes a whole-of-society battle plan for combating one of the most pervasive health issues in modern society.
 </p>	
             
 <div class="button1"><a href="/digital-issue-01/the-new-synthesis-in-the-field/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
-      <div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
-        <div><h3>Review: The New Synthesis of Public Administration Fieldbook</h3>
-            <b><i>Max Everest-Phillips</i></b>
+      <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+        <div><h3>Sector Based Training that Works: A Conversation with James A Riccio</h3>
+            <b><i> James A. Riccio</i></b>
 <p>	
-            We should acknowledge our deep connection to our work and learn from what we have gained from each experience, as we refocus on new challenges.
+MDRC’s James Ricco discusses how sector-based training can be made more relevant to both workers and employers.
 </p>	
             
 <div class="button1"><a href="/digital-issue-01/the-new-synthesis-in-the-field/">Read More</a></div><br></div>
@@ -91,9 +92,9 @@ tasked with the responsibility for foresight.</p>
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
-        <div><h3>Opinion: Identities and Institutions—The Needs of a New Era</h3>
-            <b><i>by Catherine Fieschi</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%203/D2_Teaser_Crowdfunding.jpg"></div>
+        <div><h3>Could Crowdfunding Work for Singapore’s Public Sector?</h3>
+            <b><i>Jeff Cheah Weng Kiat and Jason Chen Fang Hao</i></b>
             
 <p>	
             Effective stakeholder communication can help ease disruption and promote buy-in for new goals if projects have to be modified or deprioritised.
@@ -116,16 +117,7 @@ tasked with the responsibility for foresight.</p>
     </div>
 <br>
 
-<div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_01/using-data-teaser.jpg"></div>
-        <div><h3>Insights: Using Data</h3>
-            <b><i></i></b>
-            
-<p>	
-            Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich.</p>	
-            
-<div class="button1"><a href="/digital-issue-01/insight-using-data/">Read More</a></div><br></div> 
-</div>
+
 
 <br>
 <br>
