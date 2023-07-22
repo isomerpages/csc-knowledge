@@ -63,7 +63,7 @@ have always depended on how present actions might be expected to play
 out down the road; it is for this reason that those who govern or lead are
 tasked with the responsibility for foresight.</p>	
             
-<div class="button1"><a href="/digital-issue-01/editorial/">Read More</a></div> <br></div>
+<div class="button1"><a href="/digital-issue-02/editorial/">Read More</a></div> <br></div>
     </div>
 
  <br>   
@@ -76,7 +76,7 @@ tasked with the responsibility for foresight.</p>
 Dr Dean Schillinger proposes a whole-of-society battle plan for combating one of the most pervasive health issues in modern society.
 </p>	
             
-<div class="button1"><a href="/digital-issue-01/the-new-synthesis-in-the-field/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-02/defeating-diabetes/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
@@ -87,7 +87,7 @@ Dr Dean Schillinger proposes a whole-of-society battle plan for combating one of
 MDRC’s James Ricco discusses how sector-based training can be made more relevant to both workers and employers.
 </p>	
             
-<div class="button1"><a href="/digital-issue-01/the-new-synthesis-in-the-field/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-02/sector-based-training-that-works/">Read More</a></div><br></div>
     </div>
     
 <br>    
@@ -100,7 +100,7 @@ MDRC’s James Ricco discusses how sector-based training can be made more releva
             Effective stakeholder communication can help ease disruption and promote buy-in for new goals if projects have to be modified or deprioritised.
 </p>	
             
-<div class="button1"><a href="/digital-issue-01/opinion-identities-and-institutions-the-needs-of-a-new-era/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-02/could-crowdfunding-work-for-singapores-public-sector/">Read More</a></div><br></div>
     </div>
     
 <br>    
@@ -113,7 +113,7 @@ MDRC’s James Ricco discusses how sector-based training can be made more releva
 Two young Singaporeans reflect on whether narratives of self-reliance may obscure deeper structural gaps.
             </p>	
             
-<div class="button1"><a href="/digital-issue-01/roundtable-how-technology-is-transforming-the-public-sector/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-02/rethinking-responsibility/">Read More</a></div><br></div>
     </div>
 <br>
 
