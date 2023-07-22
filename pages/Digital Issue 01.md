@@ -39,7 +39,7 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_01/EthosDigital01.jpg"></div>
         <div>
-		<h3><span class="cat">Digital Issue 01, Jun 2020</span><br>Digital Edition Issue 01</h3>
+		<h3><span class="cat">Digital Issue 01, Nov 2017</span><br>Digital Edition Issue 01</h3>
 		<p>The COVID-19 pandemic has swept the world with bewildering speed and scale. In this issue of ETHOS Digital Edition, we document and reflect on various responses to the crisis, presenting views from Maryanna Abdo, Jane Lewis, Robyn Mildon, James Low, Theophilus Kwek and Jocelyne Bourgon.</p>
             
             
