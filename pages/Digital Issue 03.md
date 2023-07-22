@@ -40,7 +40,7 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/EthosDigital_Issuesep18_CoverResized.jpg"></div>
         <div><h3><span class="cat">Digital Issue 03, Sep 2018</span>
-            <br>Ethos Digital Issue 03</h3>	
+            <br>Digital Edition Issue 03</h3>	
             <p></p>
             
             
