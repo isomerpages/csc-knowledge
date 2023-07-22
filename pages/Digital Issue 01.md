@@ -100,7 +100,7 @@ td
 
  <br>   
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-01.jpg"></div>
+        <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
         <div><h3>The New Synthesis in the Field: Conversation with Jocelyne Bourgon</h3>
             <b><i>Jocelyne Bourgon</i></b>
             
@@ -112,7 +112,7 @@ td
     </div>
 <br>
 <div class="grid-container">
-      <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-02.jpg"></div>
+      <div><img src="/images/Landing_Banner_Images/tile_book%20review.jpg"></div>
         <div><h3>Review: The New Synthesis of Public Administration Fieldbook</h3>
             <b><i>Max Everest-Phillips</i></b>
 <p>	
@@ -124,7 +124,7 @@ td
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-03.jpg"></div>
+        <div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
         <div><h3>Opinion: Identities and Institutions—The Needs of a New Era</h3>
             <b><i>by Catherine Fieschi</i></b>
             
@@ -137,7 +137,7 @@ td
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-04.jpg"></div>
+        <div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
         <div><h3>Roundtable: How Technology is Transforming the Public Sector</h3>
             <b><i>with Dato Paduka Ahmaddin Haji Abdul Rahman, Ms Anna Roy, and Mr Declan Hughes</i></b>
             
