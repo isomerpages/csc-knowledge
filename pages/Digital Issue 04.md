@@ -120,12 +120,25 @@ In an interview with ETHOS, Yap Chin Beng, Senior Advisor, HDB, shares his insig
             <b><i>Ms Serey Chea, Dr Zamani Saul and Mr Alaa Youssef</i></b>
             
 <p>	
-In an interview with ETHOS, Yap Chin Beng, Senior Advisor, HDB, shares his insights on building Singapore's first "Vertical Kampung".
+In this edition of the Ethos Roundtable, participants of the 11th Leaders in Governance Programme reflect on the challenges of an increasingly diverse citizenry and how a younger generation of public officers must avoid complacency while sustaining trust in government.
             </p>	
             
 <div class="button1"><a href="/digital-issue-02/rethinking-responsibility/">Read More</a></div><br></div>
     </div>
 <br>
+<div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%206/D4_Teaser_Pro%20Tip.jpg"></div>
+        <div><h3>Pro Tip: How to Manage a Team for the First Time</h3>
+            <b><i>Jason Bay</i></b>
+            
+<p>	
+Jason Bay suggests ways to approach the daunting task of becoming a team leader or manager for the first time.
+            </p>	
+            
+<div class="button1"><a href="/digital-issue-02/rethinking-responsibility/">Read More</a></div><br></div>
+    </div>
+<br>
+
 
 
 <br>
