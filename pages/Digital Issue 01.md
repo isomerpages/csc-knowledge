@@ -150,16 +150,18 @@ td
 <br>
 
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/review.jpg"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_01/using-data-teaser.jpg"></div>
         <div><h3>Insights: Using Data</h3>
             <b><i></i></b>
             
 <p>	
             Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich.</p>	
             
-<div class="button1"><a href="/digital-issue-10/why-people-see-the-same-facts-and-come-to-different-conclusions/">Read More</a></div><br></div>
-    </div>
+<div class="button1"><a href="/digital-issue-10/why-people-see-the-same-facts-and-come-to-different-conclusions/">Read More</a></div><br></div> 
+</div>
 
+<br>
+<br>
 <div class="back">
 <a href="/all-issues/">Back to All Issues</a>
 </div>
