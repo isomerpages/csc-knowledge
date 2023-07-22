@@ -39,7 +39,7 @@ description: ""
 </style>
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_02/EthosDigitalIssue2.jpg"></div>
-        <div><h3><span class="cat">Digital Issue 02, APR 2018</span>
+        <div><h3><span class="cat">Digital Issue 02, Apr 2018</span>
             <br>Ethos Digital Issue 02</h3>	
             <p></p>
             
