@@ -111,7 +111,7 @@ tasked with the responsibility for foresight.</p>
             Around the world, countries have sought to enhance their workers’ prospects with closer partnerships between sectors, greater clarity about learning goals, more flexibility with educational modes, and ensuring access to training for those who need it most.
             </p>	
             
-<div class="button1"><a href="/digital-issue-01/roundtable-how-technology-is-transforming-the-public-sector//">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-01/roundtable-how-technology-is-transforming-the-public-sector/">Read More</a></div><br></div>
     </div>
 <br>
 
