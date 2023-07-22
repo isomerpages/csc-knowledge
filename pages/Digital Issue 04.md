@@ -44,7 +44,7 @@ description: ""
             <p></p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-02.pdf">Download PDF</a></div></div>
+   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-04.pdf">Download PDF</a></div></div>
     </div>
     
    <br>
@@ -69,11 +69,11 @@ tasked with the responsibility for foresight.</p>
  <br>   
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
-        <div><h3>Defeating Diabetes: A Conversation with Dean Schillinger, MD</h3>
-            <b><i>Dean Schillinger, MD</i></b>
+        <div><h3>Agile, Inclusive, Digital-Ready Public Service</h3>
+            <b><i>Interview with Ms Nancy Chahwan</i></b>
             
 <p>	
-Dr Dean Schillinger proposes a whole-of-society battle plan for combating one of the most pervasive health issues in modern society.
+Nancy Chahwan discusses how the public service can remain nimble and adaptive in a digital society.
 </p>	
             
 <div class="button1"><a href="/digital-issue-02/defeating-diabetes/">Read More</a></div><br></div>
@@ -81,10 +81,10 @@ Dr Dean Schillinger proposes a whole-of-society battle plan for combating one of
 <br>
 <div class="grid-container">
       <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
-        <div><h3>Sector Based Training that Works: A Conversation with James A Riccio</h3>
-            <b><i> James A. Riccio</i></b>
+        <div><h3>Strategy and Stewardship in a Time of Change</h3>
+            <b><i> Interview with Ms Stephanie Foster and Ms Sirpa Kekkonen</i></b>
 <p>	
-MDRC’s James Ricco discusses how sector-based training can be made more relevant to both workers and employers.
+Speaking with ETHOS on two separate occasions, Australia’s Stephanie Foster and Finland’s Sirpa Kekkonen reflect on what their governments are doing to be adaptive for the future.
 </p>	
             
 <div class="button1"><a href="/digital-issue-02/sector-based-training-that-works/">Read More</a></div><br></div>
@@ -92,25 +92,23 @@ MDRC’s James Ricco discusses how sector-based training can be made more releva
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%203/D2_Teaser_Crowdfunding.jpg"></div>
-        <div><h3>Could Crowdfunding Work for Singapore’s Public Sector?</h3>
-            <b><i>Jeff Cheah Weng Kiat and Jason Chen Fang Hao</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%203/D4_Teaser_Community%20Care.jpg"></div>
+        <div><h3>Community Care Through Collaborative Leadership</h3>
+            <b><i>Ms Lim Kar Yee, Mr Gary Lim and Ms Tan-Wu Mei Ling</i></b>
             
-<p>	
-            Effective stakeholder communication can help ease disruption and promote buy-in for new goals if projects have to be modified or deprioritised.
-</p>	
+<p>	Partners in the NEICP reflect on how they have come together to help vulnerable children in their community in an integrated and holistic manner.</p>	
             
 <div class="button1"><a href="/digital-issue-02/could-crowdfunding-work-for-singapores-public-sector/">Read More</a></div><br></div>
     </div>
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%204/D2_Teaser_Rethinking%20Responsibility.jpg"></div>
-        <div><h3>Rethinking Responsibilities</h3>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_04/Article%204/D4_Teaser_Kampung%20Admiralty.jpg"></div>
+        <div><h3>Kampung Admiralty: Building for All Ages</h3>
             <b><i>Stephanie Siow and Theophilus Kwek</i></b>
             
 <p>	
-Two young Singaporeans reflect on whether narratives of self-reliance may obscure deeper structural gaps.
+In an interview with ETHOS, Yap Chin Beng, Senior Advisor, HDB, shares his insights on building Singapore's first "Vertical Kampung".
             </p>	
             
 <div class="button1"><a href="/digital-issue-02/rethinking-responsibility/">Read More</a></div><br></div>
