@@ -31,7 +31,8 @@ line-height:22px;
 .author
 {
 margin-top:40px;
-padding-bottom:30px;
+padding-top:30px;
+border-top:1px solid black;	
 }		
 	
 </style>
@@ -58,7 +59,9 @@ padding-bottom:30px;
 <strong>Alvin Pang</strong><br>
 Editor-in-Chief<br>
 <br>
-<em>Do also check out our January 2018 full issue of Ethos, which explores issues related to the <a href="/ethos-issue-18/">future of work</a>.</em> </p>
+</p><div class="author">	
+<em>Do also check out our January 2018 full issue of Ethos, which explores issues related to the <a href="/ethos-issue-18/">future of work</a>.</em>
+</div>
 
 <br>
 <br>	
