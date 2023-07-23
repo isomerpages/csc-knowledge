@@ -162,7 +162,7 @@ In well-run sector programmes, staff members are specialists within a sector rat
 </div>
 
 
-<div class="notestop">
+<div class="notestop" id="notes">
 
 <h6>NOTES</h6>
 
