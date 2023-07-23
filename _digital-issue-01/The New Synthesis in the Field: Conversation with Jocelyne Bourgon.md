@@ -158,7 +158,7 @@ result and impact.
 </div>
 
 
-<div class="notestop">
+<div class="notestop" id="notes">
 <h6>NOTES</h6>
 
 <ol>
