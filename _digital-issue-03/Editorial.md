@@ -45,13 +45,13 @@ padding-bottom:30px;
 
 <p>In this issue of <em>ETHOS Digital Edition</em>, we continue to bring you a variety of perspectives of interest to the practice of public sector governance and leadership in Singapore. </p>
 
-<p>Researcher Koh Chiu Yee from the Institute of Governance and Policy (IGP) looks at how trends in workplace culture, family policy and gender equity in OECD countries could shed light on ways to <a href="fertility-rebound-in-the-oecd-insights-for-singapore.html">improve fertility rates</a> in Singapore. </p>
+<p>Researcher Koh Chiu Yee from the Institute of Governance and Policy (IGP) looks at how trends in workplace culture, family policy and gender equity in OECD countries could shed light on ways to <a href="/digital-issue-03/fertility-rebound-in-the-oecd-insights-for-singapore/"><em>improve fertility rates</em></a> in Singapore. </p>
 
-<p>Sharon Tham and Khanh Do, also from the IGP, report on a trial applying <a href="using-behavioural-insights-to-increase-charitable-donations.html">behavioural nudges to increase charitable donations</a>, with promising results.</p>
+<p>Sharon Tham and Khanh Do, also from the IGP, report on a trial applying <a href="/digital-issue-03/using-behavioural-insights-to-increase-charitable-donations/"><em>behavioural nudges to increase charitable donations</em></a>, with promising results.</p>
 
-<p>When a manager or leader is appointed to a new position, there can be uncertainty for both the individual involved and the department or organisation to which they are posted.  Aaron Maniam offers <a href="five-tips-for-leadership-transitions.html">five tips to ease this transition process</a>. </p>
+<p>When a manager or leader is appointed to a new position, there can be uncertainty for both the individual involved and the department or organisation to which they are posted.  Aaron Maniam offers <a href="/digital-issue-03/5-tips-for-leadership-transitions/"><em>five tips to ease this transition process</em></a>. </p>
 
-<p>Finally, the Ministry of Health highlights the outcomes of their use of a <a href="partnering-with-the-public-in-the-war-on-diabetes.html">Citizen’s Jury</a>&nbsp;to involve members of the public in the war on diabetes, through a deep, active and considered process. </p>
+<p>Finally, the Ministry of Health highlights the outcomes of their use of a <a href="/digital-issue-03/partnering-with-the-public-in-the-war-on-diabetes/"><em>Citizen’s Jury</em></a>&nbsp;to involve members of the public in the war on diabetes, through a deep, active and considered process. </p>
 
 <p>As always, we wish you an engaging read and would love to hear from you if you have any comments or suggestions.  </p>
 
