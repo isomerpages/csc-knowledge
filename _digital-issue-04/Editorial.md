@@ -46,17 +46,17 @@ padding-bottom:30px;
 
 <p>In this issue of <em>ETHOS Digital Edition</em>, we have gathered a number of conversations with public sector veterans who share their insights gleaned from working on areas of interest to not just Singapore but also governments around the world.&nbsp;</p>
 
-<p>Nancy Chahwan, from Canada, reflects on <a href="agile-inclusive-digital-ready-public-service-nancy-chahwan-in-conversation.html">how the public sector can evolve</a>&nbsp;to become more agile, inclusive and ready to serve a digitally-oriented society.</p>
+<p>Nancy Chahwan, from Canada, reflects on <a href="/digital-issue-04/agile-inclusive-digital-ready-public-service/">how the public sector can evolve</a>&nbsp;to become more agile, inclusive and ready to serve a digitally-oriented society.</p>
 
-<p>Australia’s Stephanie Foster and Finland’s Sirpa Kekkonen discuss how their <a href="strategy-and-stewardship-in-a-time-of-change-conversations-with-stephanie-foster-and-sirpa-kekkonen.html">governments are thinking about their work in an era of rapid, uncertain change</a>&nbsp;where the need to pivot is as important as the need to plan for the long term.</p>
+<p>Australia’s Stephanie Foster and Finland’s Sirpa Kekkonen discuss how their <a href="/digital-issue-04/strategy-and-stewardship-in-a-time-of-change/">governments are thinking about their work in an era of rapid, uncertain change</a>&nbsp;where the need to pivot is as important as the need to plan for the long term.</p>
 
-<p>Coming together to care for vulnerable children in their communities, key stakeholders of the <a href="community-care-through-collaborative-leadership.html">North East Integrated Care Programme</a>&nbsp;share how they bring authenticity, passion, and collaborative leadership to their common mission, which cuts across sectoral boundaries.</p>
+<p>Coming together to care for vulnerable children in their communities, key stakeholders of the <a href="/digital-issue-04/community-care-through-collaborative-leadership/">North East Integrated Care Programme</a>&nbsp;share how they bring authenticity, passion, and collaborative leadership to their common mission, which cuts across sectoral boundaries.</p>
 
-<p>Yap Chin Beng, from the Housing and Development Board, shares insights on how the innovative integrated development <a href="kampung-admiralty-building-for-all-ages.html">Kampung Admiralty</a>&nbsp;was designed to cater to the needs of all ages, and to promote more attractive, convenient and inclusive shared living.</p>
+<p>Yap Chin Beng, from the Housing and Development Board, shares insights on how the innovative integrated development <a href="/digital-issue-04/kampung-admiralty-building-for-all-ages/">Kampung Admiralty</a>&nbsp;was designed to cater to the needs of all ages, and to promote more attractive, convenient and inclusive shared living.</p>
 
-<p>We hear from veteran public servants from around the globe, who have attended Singapore’s Leadership in Governance Programme. They offer keen views on <a href="../roundtable-new-challenges-new-horizons.html">the future of governance in a diverse world</a>, and how a new generation of public officers can take their societies forward.&nbsp;</p>
+<p>We hear from veteran public servants from around the globe, who have attended Singapore’s Leadership in Governance Programme. They offer keen views on <a href="/digital-issue-04/new-challenges-new-horizons/">the future of governance in a diverse world</a>, and how a new generation of public officers can take their societies forward.&nbsp;</p>
 
-<p>And finally, we introduce a new feature: PRO TIP, in which experienced public officers share their hard-earned personal tips on how to do better in our daily work. In this edition, Jason Bay suggests <a href="../how-to-manage-a-team-for-the-first-time.html">ways to approach the daunting task of becoming a team leader or manager for the first time</a>.</p>
+<p>And finally, we introduce a new feature: PRO TIP, in which experienced public officers share their hard-earned personal tips on how to do better in our daily work. In this edition, Jason Bay suggests <a href="/digital-issue-04/pro-tip-how-to-manage-a-team-for-the-first-time/">ways to approach the daunting task of becoming a team leader or manager for the first time</a>.</p>
 
 <p>As always, we wish you an engaging read and would love to hear from you if you have any comments or suggestions.&nbsp;</p>
 
