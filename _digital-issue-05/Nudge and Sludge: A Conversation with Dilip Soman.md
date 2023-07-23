@@ -92,7 +92,7 @@ border-bottom: 1px solid black;
 
 <h3>1. In the context of behavioural insights and nudges, what is “sludge”?</h3>
 
-<p>The term “sludge” is new, but the concept goes back almost a hundred years, to psychologist William James, who wrote about how people’s ability to get things done is often either impeded or facilitated by what he called the context or the environment.<a href=".notestop"><sup>1</sup></a> Little things that we don’t see or don’t expect to be relevant can impede or facilitate decision-making. The work done by Richard Thaler and Cass Sunstein on nudge theory had to do with trying to bring down these frictions and constraints.</p>
+<p>The term “sludge” is new, but the concept goes back almost a hundred years, to psychologist William James, who wrote about how people’s ability to get things done is often either impeded or facilitated by what he called the context or the environment.<a href="#notes"><sup>1</sup></a> Little things that we don’t see or don’t expect to be relevant can impede or facilitate decision-making. The work done by Richard Thaler and Cass Sunstein on nudge theory had to do with trying to bring down these frictions and constraints.</p>
 
 <p>Different kinds of impedance get in the way of people achieving their goals. For instance, there are procedural impedance, the way procedures are designed—to purchase products, cancel subscriptions, or apply for a welfare programme—can actually inhibit decision-making. There are also informational or perceptual obstacles—the way information is presented may be confusing, when attributes are shrouded or we don’t truly understand what needs to be done. Sometimes the process itself is efficient, but there are outcomes of the process that make people not want to engage. That is sludge.</p>
 
@@ -113,7 +113,7 @@ border-bottom: 1px solid black;
 
 <p>There are distinctions we need to make. Is there something about the process that facilitates or inhibits decision-making: is there friction or no friction? Is it for a good or bad outcome?</p>
 
-<p>If you are intervening to reduce friction and it’s for the greater good—say to help people file taxes on time, what Thaler and Sunstein were writing about in <em>Nudge</em>,<a href=".notestop" class="notestop"><sup>2</sup></a> in 2008—that is nudging for good. But there’s also nudging for bad. Sometimes we find for-profit coporations using some of these ideas to get people to purchase things that they don’t really need, for instance.</p>
+<p>If you are intervening to reduce friction and it’s for the greater good—say to help people file taxes on time, what Thaler and Sunstein were writing about in <em>Nudge</em>,<a href="#notes"><sup>2</sup></a> in 2008—that is nudging for good. But there’s also nudging for bad. Sometimes we find for-profit coporations using some of these ideas to get people to purchase things that they don’t really need, for instance.</p>
 
 <p>Friction is a lot more interesting. I think a lot of people will say that friction in the system is always a bad thing, but I would actually disagree. There are some cases where friction is good. There are times when we want people to be thoughtful, just like how we often impose a cooling-off period, so people can sleep on a decision before it is finalised.</p>
 
@@ -213,7 +213,7 @@ Information needs to be organised, customisable and highlight its own relevance.
 
 <p>We did an experiment where we divided a big bag of movie popcorn into six smaller packs and it turned out people did not eat as much—because after you finished each bag, you had to make an active choice. The same goes for gambling, with tokens in a bag of 100 or four bags of 25 each. Once the bag of 100 was opened, it was gone, whereas with the smaller bags, there was a pause between bags and nobody gambled everything.</p>
 
-<p>We did a study in India, where there was a problem with savings because people were paid in cash, and they tend to spend it. So we gave people their cash earnings in four envelopes instead of a single bundle. There was a nice catchy slogan: something like “One a day, keep the fourth away” and because there was now a friction cost to opening each envelope, they did keep the fourth away. We also put a photograph of their children on the savings envelope, so every time they try to open it, they experienced the guilt of seeing their children’s savings being used. So this was psychological sludge, introduced to promote a more deliberate mindset.<a href=".notestop"><sup>3</sup></a></p>
+<p>We did a study in India, where there was a problem with savings because people were paid in cash, and they tend to spend it. So we gave people their cash earnings in four envelopes instead of a single bundle. There was a nice catchy slogan: something like “One a day, keep the fourth away” and because there was now a friction cost to opening each envelope, they did keep the fourth away. We also put a photograph of their children on the savings envelope, so every time they try to open it, they experienced the guilt of seeing their children’s savings being used. So this was psychological sludge, introduced to promote a more deliberate mindset.<a href="#notes"><sup>3</sup></a></p>
 
 <h3>9. Might behavioural interventions backfire, if people feel that they are being manipulated? What are some pitfalls to bear in mind with thinking about applying nudges and sludges?</h3>
 
@@ -243,7 +243,7 @@ This is not a message that most practitioners like to hear, but one size does no
 
 <p>The fact is that different populations might require different treatments. Think about investing: the experts know too much, the novices have access to the same information but they don’t read it so they know too little. We have the same problem but the subgroups have different challenges, so for one group we need to simplify, and for the other group convey things in a friendlier format. </p>
 
-<p>The challenge is that because one person’s sludge might not be another person’s sludge; sludge can be hard to detect. We need to develop “sludge googles” (or scorecards): to help us see sludge, and to help us notice how many steps we have to take, where the longest delays, potential liabilities, emotional touchpoints are.<a href=".notestop"><sup>4</sup></a></p>
+<p>The challenge is that because one person’s sludge might not be another person’s sludge; sludge can be hard to detect. We need to develop “sludge googles” (or scorecards): to help us see sludge, and to help us notice how many steps we have to take, where the longest delays, potential liabilities, emotional touchpoints are.<a href="#notes"><sup>4</sup></a></p>
 
 <p>All of us as individuals in society have run into bad customer experiences—but when we ourselves design processes, we tend to undermine our own experiences. I think we need to be more sensitive to that. Everytime you have a problem as a consumer or as a citizen, just ask yourself, might other people have the same problem too? </p>
 
