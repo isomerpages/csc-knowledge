@@ -31,7 +31,8 @@ line-height:22px;
 .author
 {
 margin-top:40px;
-padding-bottom:30px;
+padding-top:30px;
+border-top:1px solid black;	
 }		
 	
 </style>
@@ -59,9 +60,11 @@ padding-bottom:30px;
 Editor-in-Chief<br>
 <br>
 
+<div class="author">
+
 <p class="small-text"><em>Do also check out our <a href="/ethos-issue-19/">July 2018 full issue of Ethos</a>, which looks ahead to what’s in store for Singapore in our continuing development as a liveable and sustainable city.</em></p>
 
-
+</div>
 
 
 <br>
