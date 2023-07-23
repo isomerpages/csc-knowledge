@@ -98,8 +98,6 @@ value creator in society.
 
 <p>This story is true to a degree, but incomplete: what’s missing is that governance isn’t only about making decisions and implementing them, but also about inventing solutions. It’s about co-creating a new future; collective problem-solving; adapting to changing circumstances. It’s about facing issues of increasingly complexity, which means that they don’t fit in the neat boxes of the industrial age. The classical model does what it is doing well and New Public Management is very useful if the issue you’re trying to resolve is managerial, but these two combined do not help to invent solutions to the problems we’re facing in a post-industrial era.</p>
 
-<hr>
-
 <div class="break">
 
 <p class="break1">
