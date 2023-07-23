@@ -187,7 +187,7 @@ c. when to develop staff.&nbsp;</p>
 
 </div>
 
-<div class="notestop">
+<div class="notestop" id="notes">
 <h6>NOTES</h6>
 
 <ol>
