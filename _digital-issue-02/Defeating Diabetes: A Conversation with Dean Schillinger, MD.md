@@ -177,7 +177,7 @@ Exposing individuals to messages about the larger systems that they are subject 
 
 </div>
 
-<div class="notestop">
+<div class="notestop" id="notes">
 
 <h6>NOTE</h6>
 
