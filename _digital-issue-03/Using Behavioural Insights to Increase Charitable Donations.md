@@ -311,7 +311,7 @@ border-bottom: 1px solid black;
 
 <br>
 
-<div class="notestop">
+<div class="notestop" id="notes">
 
 <h6>NOTES</h6>
 
