@@ -255,7 +255,7 @@ This is not a message that most practitioners like to hear, but one size does no
 </div>
 	
 
-<div class="notestop">
+<div class="notestop" id="notes">
 
 <h6>NOTES</h6>
 
