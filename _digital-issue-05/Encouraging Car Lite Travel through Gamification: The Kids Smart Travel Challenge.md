@@ -284,7 +284,7 @@ The students who were playing the game gave us practical ideas and ongoing feedb
 
 </div>
 	
-<div class="notestop">
+<div class="notestop" id="notes">
 
 <h6>NOTES</h6>
 
