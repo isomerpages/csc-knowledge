@@ -176,7 +176,7 @@ Within government, different ministries are examining causes of hardship and pov
 
 </div>
 
-<div class="notestop">
+<div class="notestop" id="notes">
 	
 <h6>NOTES</h6>
 
