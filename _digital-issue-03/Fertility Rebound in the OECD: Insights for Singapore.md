@@ -255,7 +255,7 @@ Social dialogues can, however, address changing norms and aspirations surroundin
 </div>
 
 
-<div class="notestop">
+<div class="notestop" id="notes">
 <h6>NOTES</h6>
 
 <ol>
