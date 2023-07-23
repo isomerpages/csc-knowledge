@@ -113,7 +113,7 @@ border-bottom: 1px solid black;
 
 <p>There are distinctions we need to make. Is there something about the process that facilitates or inhibits decision-making: is there friction or no friction? Is it for a good or bad outcome?</p>
 
-<p>If you are intervening to reduce friction and it’s for the greater good—say to help people file taxes on time, what Thaler and Sunstein were writing about in <em>Nudge</em>,<a href=".notestop"><sup>2</sup></a> in 2008—that is nudging for good. But there’s also nudging for bad. Sometimes we find for-profit coporations using some of these ideas to get people to purchase things that they don’t really need, for instance.</p>
+<p>If you are intervening to reduce friction and it’s for the greater good—say to help people file taxes on time, what Thaler and Sunstein were writing about in <em>Nudge</em>,<a href=".notestop" class="notestop"><sup>2</sup></a> in 2008—that is nudging for good. But there’s also nudging for bad. Sometimes we find for-profit coporations using some of these ideas to get people to purchase things that they don’t really need, for instance.</p>
 
 <p>Friction is a lot more interesting. I think a lot of people will say that friction in the system is always a bad thing, but I would actually disagree. There are some cases where friction is good. There are times when we want people to be thoughtful, just like how we often impose a cooling-off period, so people can sleep on a decision before it is finalised.</p>
 
