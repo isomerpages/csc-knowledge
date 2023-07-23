@@ -143,7 +143,7 @@ BI policy tools are neither generally better, nor worse, than standard economic 
 
 </div>
 
-<div class="notestop">
+<div class="notestop" id="notes">
 <h6>NOTES</h6>
 
 <ol>
