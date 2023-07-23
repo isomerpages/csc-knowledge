@@ -184,7 +184,7 @@ Collaborative leadership is a leadership of processes.</p>
 
 <h3>WHAT DOES COLLABORATIVE LEADERSHIP MEAN IN THE CONTEXT OF ICP, AND HOW CAN IT BE NURTURED?</h3>
 
-<p><strong><span style="color: #4f81bd;">Kar Yee:</span></strong> Collaborative leadership is a leadership of processes. Everyone is a leader but we don’t just look only at individual actions. We look at group action. Collaborative leadership means that we go along with the conversation and process, acknowledging each and everyone’s expertise. A good way to better understand this is through David Chrislip and Carl Larson’s Collaborative Leadershipbook.<sup><a href="#note">1</a>
+<p><strong><span style="color: #4f81bd;">Kar Yee:</span></strong> Collaborative leadership is a leadership of processes. Everyone is a leader but we don’t just look only at individual actions. We look at group action. Collaborative leadership means that we go along with the conversation and process, acknowledging each and everyone’s expertise. A good way to better understand this is through David Chrislip and Carl Larson’s Collaborative Leadershipbook.<sup><a href="#notes">1</a>
 </sup></p>
 
 <p>We don’t force our opinion on others. There’s a need for diversity. There’s a need for us to be able to confront each other in a civilised way and work out the solutions in a collective manner. We must all come to a consensus so that we can bring a strong community of collaborators.</p>
@@ -232,7 +232,7 @@ In this networked world, influence goes beyond traditional ideas of leadership.<
 
 <p><strong><span style="color: #7030a0;">Mei Ling:</span></strong> The question is: how do we build a culture and systems within the social service sector so that this becomes intuitive? Not because this or that person thinks like that, and therefore we come together. Essentially, we must have a lot of people thinking like that. So that in the day-to-day, we eat, breathe and talk this kind of culture, and we encounter it in the way we interact with one another. And the system and structures are also aligned, so it becomes part of the DNA of the social service sector.</p>
 
-<div class="notestop1">
+<div class="notestop1" id="notes">
 
 <h6>NOTE</h6>
 
