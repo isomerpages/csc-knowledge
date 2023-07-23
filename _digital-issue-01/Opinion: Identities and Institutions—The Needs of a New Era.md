@@ -89,7 +89,7 @@ Bauman refers to as “exploding the solid”.
 
 <p>Discussions about identity are not new, but like much else, they seem to have accelerated. We feel that we have entered a new era. Something that was already challenging has become exponentially so under the pressures of what we subsume under the term “globalisation”: accelerated (technological) change and its impact on our selves—individually and collectively; privately and publicly; in the corporate and public sector—but also increased interdependence due to revolutions in transport, communications, trade and finance.</p>
 
-<p>One of the key challenges is that identity has become less and less exclusively defined by a sense of place. Geographical ties have been loosening for a long time: Benedict Anderson pinpoints the beginnings of the shift to the emergence of “print capitalism” and a technological advance (the printing press) that allowed us to bridge distance, and imagine the community that we are a part of as distinct from our immediate community of life, the people with whom we share a space.<a href=".notestop"><sup class=".notestop">2</sup></a></p>
+<p>One of the key challenges is that identity has become less and less exclusively defined by a sense of place. Geographical ties have been loosening for a long time: Benedict Anderson pinpoints the beginnings of the shift to the emergence of “print capitalism” and a technological advance (the printing press) that allowed us to bridge distance, and imagine the community that we are a part of as distinct from our immediate community of life, the people with whom we share a space.<sup class=".notestop"><a href=".notestop">2</a></sup></p>
 
 
 <div class="break">
@@ -115,7 +115,7 @@ exclusively defined by a sense of place.
 
 <p>If we think of the different categories of identity with which we are familiar, they look a little like this.</p>
 
-<p>We have personal identities: biographical detail, our physical selves, an inner life. All these are mediated by others, but there is a sense of individual pursuit. These identities develop against a range of possibilities and a backdrop of, what Bhikhu Parekh<a href=".notestop"><sup class=".notestop">3</sup></a> bundles up into “life specifics”. They also involve choice, because we deliberate and define ourselves purposefully. We attempt to become a particular kind of person, and we are shaped by personal and intimate desires, memories, fantasies, fears and so on.</p>
+<p>We have personal identities: biographical detail, our physical selves, an inner life. All these are mediated by others, but there is a sense of individual pursuit. These identities develop against a range of possibilities and a backdrop of, what Bhikhu Parekh<sup class=".notestop"><a href=".notestop">3</a></sup> bundles up into “life specifics”. They also involve choice, because we deliberate and define ourselves purposefully. We attempt to become a particular kind of person, and we are shaped by personal and intimate desires, memories, fantasies, fears and so on.</p>
 
 <p>We also have a social identity: through socially embedded, ethnic, religious, national and other groups. We define and distinguish ourselves, and are defined and distinguished by others, on the basis of these groupings. These identities are socially significant because they are the basis of structures of power; they apportion privilege and sometimes, rights. They can be imposed or collectively defined—generally a mix of both. Religion, citizenship, race, class are some examples that come to mind.</p>
 
