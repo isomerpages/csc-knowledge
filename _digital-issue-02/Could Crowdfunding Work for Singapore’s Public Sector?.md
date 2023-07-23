@@ -283,7 +283,7 @@ In implementing crowdfunding, the government should also consider whether public
 
 </div>
 
-<div class="notestop">
+<div class="notestop" id="notes">
 	
 <h6>NOTES</h6>
 
