@@ -75,13 +75,13 @@ li {
 
 <p>To better address historical controversies (“history as public policy”) and leverage history for decision-making (“history for public policy”), we need to embark on a whole-of-society journey towards historical literacy. Historical literacy does not simply mean a knowledge of trivia about the past, useful as this might be for pub quizzes. Instead, historical literacy is the capacity for “thinking in time”,<sup><a href="#notes">2</a></sup>&nbsp; and for seeing the multifaceted ways in which the past has shaped the present. This article discusses the place of history in policymaking and suggests some ways in which public agencies can bolster historical literacy.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Historical literacy is the capacity for “thinking in time”, and for seeing the multifaceted ways in which the past has shaped the present.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>History as Public Policy</h3>
 
@@ -89,13 +89,13 @@ Historical literacy is the capacity for “thinking in time”, and for seeing t
 
 <p>Governments have traditionally mobilised history to foster a shared sense of inheritance and destiny.<sup><a href="#notes">4</a></sup>&nbsp; Today, however, orthodox historical narratives are increasingly being contested. Globally, nationalist movements on the political right have wielded idealised visions of the past to reject the modern-day realities of globalisation. In the West, the Far-Right has, for instance, appropriated the imagery of medieval Europe to espouse nostalgia for a racial purity at odds with what scholars agree to be the demographic reality of the European Middle Ages.<sup><a href="#notes">5</a></sup>&nbsp; Conversely, on the global political left, ideas from post-colonialism and post-modernism have sparked fresh debates around historical names, monuments, and symbols. In the United States, for example, the killing of George Floyd in May 2020 led to protests over police brutality, which in turn ignited widespread demands for the removal of Confederate statues. This directly mirrors the 2015 Rhodes Must <sup></sup>Fall movement, where students in Britain and South Africa have called for the removal of statues of the colonialist Cecil Rhodes.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Today, orthodox historical narratives are increasingly being contested.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>While Singapore’s context is unique, we are unlikely to be spared such tremors. Neither is historical controversy unfamiliar to us. For instance, how Stamford Raffles should be remembered was a matter vigorously debated soon after independence.<sup><a href="#notes">6</a></sup>&nbsp; As S. Rajaratnam recalled, there were “well-meaning patriots in Singapore who were all for casting the Raffles statue…into what was then the revoltingly filthy and smelly Singapore River”.<sup><a href="#notes">7</a></sup>&nbsp; The eventual decision to retain the Raffles statue at Victoria Memorial Hall was motivated in no small part by the need to signal Singapore’s continued openness to Western investment. In fact, the retention of the statue was one of the first recommendations by Dutch economist Albert Winsemius when he was appointed technical adviser to the Singapore government.<sup><a href="#notes">8</a></sup></p>
 
@@ -105,33 +105,33 @@ Today, orthodox historical narratives are increasingly being contested.
 
 <p>First, public agencies should begin from the premise that all history is subject to debate and revision. We must remain open to new evidence which challenges prevailing historical interpretations. For example, recent archaeological discoveries have revealed that pre-colonial Singapore was not a sleepy fishing village, but a thriving regional port city. Moreover, the fragmentary nature of historical evidence leads to diverse interpretations, depending on the questions we ask of the past. Not all interpretations may be equally valid, but neither does history lend itself to absolute truths. While there is value to tradition, continuity, and closure, every generation of Singaporeans must also have the opportunity to review prevailing narratives and decide if they remain fit-for-purpose.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Public agencies should begin from the premise that all history is subject to debate and revision. We must remain open to new evidence which challenges prevailing historical interpretations.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Second, public agencies should take into account community input and scholarly expertise when navigating historical controversies. The 2017 public backlash over the naming of the “Syonan Gallery” at the Former Ford Factory (which was later renamed “Surviving the Japanese Occupation: War and its Legacies”) demonstrates that history can evoke repressed emotions and collective trauma.<sup><a href="#notes">10</a></sup>&nbsp; Deliberative platforms such as listening sessions and citizen workgroups can present an opportunity for constructive engagement with the past. Experts from universities and research centres can further inform these discussions by providing a base of context for all participants. Rather than seek consensus, we must accept healthy disagreement as a feature and not a bug of increased engagement with our shared history: to the extent that such conversations present an opportunity for healing and reflection, the process matters as much as the outcome.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 While there is value to tradition, continuity, and closure, every generation of Singaporeans must also have the opportunity to review prevailing narratives and decide if they remain fit-for-purpose.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Finally, public agencies must formulate “first principles” to guide decisions on historical controversies. As custodian of the nation’s corporate memory, public agencies need clear decision-making criteria when confronted with historical dilemmas. Otherwise, their choices might come across as ad hoc and arbitrary. The experience of similarly-situated institutions illustrates the importance of well-articulated principles. In 2015, activists in the US demanded that Yale University change the name of Calhoun College, an undergraduate residence named after a leading pro-slavery advocate. Concerned that this might create a “slippery slope” and lead to the removal of other names and symbols, the university resisted these demands. However, widespread opposition forced the university to re-evaluate its position, and the university eventually established a set of quasi-legal tests to evaluate requests for the renaming of buildings. The use of carefully calibrated criteria enables the relevant authorities to justify the trade-offs which invariable arise when making decisions about the representation of the past in the public sphere.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We must accept healthy disagreement as a feature and not a bug of increased engagement with our shared history: the process matters as much as the outcome.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>History for Public Policy</h3>
 
@@ -141,25 +141,25 @@ We must accept healthy disagreement as a feature and not a bug of increased enga
 
 <p>Second, historical literacy provides essential context about the operating environment. As then-Prime Minister Goh Chok Tong put it at the Administrative Service dinner in 1991, policymakers must contend with how history “has influenced the attitudes and perceptions of the various communities in the population”.<sup><a href="#notes">15</a></sup>&nbsp; History helps us appreciate that society is not a blank slate on which decisions are enacted, and allows us to perceive historical forces which mediate the relationship between the state and its citizens. This function explains why history courses have featured in the training of civil servants in key moments of transition. When Singapore’s newly-elected leaders set up the Political Study Centre in 1959 to sensitise civil servants to the realities of self-governance, the centre offered courses on the history of Western and Asian political thought, with an emphasis on the trajectories of nationalist movements.<sup><a href="#notes">16</a></sup>&nbsp; Twenty-five years later, fears that younger civil servants had no memory of Singapore’s early turmoil led the Civil Service Institute to introduce a course on the post-war history of Singapore’s labour movement.<sup><a href="#notes">17</a></sup></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 History helps us appreciate that society is not a blank slate on which decisions are enacted, and allows us to perceive historical forces which mediate the relationship between the state and its citizen.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Third, historical analysis enables policymakers to establish continuities between current events and longer-term processes. The exigencies of the day frequently consume the business of government, and rightly so. But viewed in their long-term historical context, phenomena frequently described as “unprecedented” or “disruptive” (in the sense of disruptive innovation) often have logical antecedents, which can illuminate the underlying causality at play. Conversely, by understanding the historical specificity of a particular practice or policy, we can come to see proverbial sacred cows as responses to specific circumstances of the day, rather than as pieties to be held valid for all time. In this way, history checks against status quo bias and disarms the seven most dangerous words in government: ‘It has always been done this way’.</p>
 
 <p>Consider the policy of streaming in schools, which is set to be phased out by 2024. For those of us who grew up with streaming, it might appear to reflect a natural hierarchy of students grouped by academic ability. But seen through a historical lens, streaming represents a response to the specific problem of high drop-out rates in the 1970s, as set out in the Goh Keng Swee Report. Even the imagery used in the typewritten 1978 report points to its historical particularity. “If as a result of a world calamity, children in England were taught Russian and Mandarin”, the authors write, in a lyrical reference to prevailing Cold War anxieties, “the British education system would run into some of the problems which have been plaguing the schools in Singapore”.<sup><a href="#notes">18</a></sup></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 History checks against status quo bias and disarms the seven most dangerous words in government: “It has always been done this way”.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Thinking historically about streaming therefore invites us to exercise empathy—to suspend present-day judgements and appreciate that streaming might have been a logical response to past challenges. But it also requires us to think critically—to see educational tracks as naturalised rather than natural, and as constructed rather than self-evident. On its own, history cannot indicate what direction policy should take. But uncovering a policy genealogy can peculiarise the present, highlight alternatives, and prompt us to ask: “What if?”</p>
 
@@ -171,7 +171,7 @@ History checks against status quo bias and disarms the seven most dangerous word
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Pedra Branca: The Uses of History at the International Court of Justice (ICJ)</h3>
@@ -207,7 +207,7 @@ History checks against status quo bias and disarms the seven most dangerous word
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Historian-Policymakers in Singapore's Early Years</h3>
@@ -232,17 +232,17 @@ History checks against status quo bias and disarms the seven most dangerous word
 
 <p>By consolidating responsibilities for commemoration, heritage, record management, and policy advice, the appointment of a Chief Historian would build on existing initiatives such as Ministry of Communication and Information’s Policy History Project, which provides documentary evidence of Singapore’s policy paths. Over time, the hope would be to sensitise public officers to the value of historical methods, much as international comparisons, horizon-scanning, and scenario-planning have become integral tools of the policy toolkit. In recent years, evidence-based policymaking has received considerable attention from the public sector.<sup><a href="#notes">21</a></sup>&nbsp; Like other disciplines, history presents a base of evidence which can inform decision-making, albeit evidence that requires a greater level of interpretation and translation than quantitative methods.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 On its own, history cannot indicate what direction policy should take. But uncovering a policy genealogy can peculiarise the present, highlight alternatives, and prompt us to ask: “What if?”
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>It bears reminding that history is not just the purview of historians and history majors. It is a shared resource which all of us can draw upon, as public officers and as citizens. In an age where “Big Data” promises ever-increasing levels of abstraction, historical reasoning expands our analytic arsenal by highlighting the agency of individuals and the contingency of events. And as history increasingly becomes an object of contestation, historical literacy will enable public agencies to work through historical controversies objectively. We would all do well to remember, as the American writer William Faulkner famously put it, that the past is not dead; it is not even past.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -255,7 +255,7 @@ On its own, history cannot indicate what direction policy should take. But uncov
 
 <p>&nbsp;</p>
 
-<hr>
+</div>
 
 <h6> <a name="notes"></a>NOTES</h6>
 
