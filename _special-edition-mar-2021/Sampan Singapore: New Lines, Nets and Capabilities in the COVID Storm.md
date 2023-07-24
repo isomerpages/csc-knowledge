@@ -145,7 +145,7 @@ Permission required for reproduction. <sup><a href="#notes">10</a><br>
 
 <p>Following this joint statement, on 15 April 2020, Singapore and New Zealand launched a Declaration on Trade in Essential Goods for Combating the COVID-19 Pandemic, facilitating the movement of over 120 different essential goods.<sup><a href="#notes">16</a></sup>&nbsp; &nbsp;The first shipment of essential items arrived in Singapore a week later on 22 April, containing more than 20 tonnes of meat, including beef and lamb.<sup><a href="#notes">17</a></sup></p>
 
-<img title="Figure 5" src="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-5.jpg?sfvrsn=415f52a_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 5">
+<img title="Figure 5" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_5.jpg" alt="Figure 5">
 
 <p>&nbsp;</p>
 
@@ -181,7 +181,7 @@ Singapore must transcend the physical constraints of our circumstances by develo
 
 <p style="text-align: center;">
 <br>
-<img title="Figure 6" src="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-6.jpg?sfvrsn=76de6b58_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 6">&nbsp;</p>
+<img title="Figure 6" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_6.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 6">&nbsp;</p>
 
 <p>&nbsp;</p>
 
