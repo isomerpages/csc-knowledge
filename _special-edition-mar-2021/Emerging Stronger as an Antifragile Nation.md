@@ -91,13 +91,13 @@ li {
 
 <p>This concern is particularly poignant for a nation such as Singapore, where the social fabric consists of a rich tapestry of differences, and is still evolving and in flux. How can Singapore design and implement policies for a population in which communities and worldviews may become increasingly disparate and divergent?</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 As successive new generations enter the social fold, with different life experiences, new narratives and identities proliferate. Over time, this can lead to a divergence of perspectives, even on established policy positions and societal norms that were uncontested or broadly accepted in the past.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>The Antifragile Society</h3>
 
@@ -111,13 +111,13 @@ As successive new generations enter the social fold, with different life experie
 
 <p>While notions of collective responsibility and co-creation are not new to policymakers, this notion of antifragility is particularly pertinent to Singapore—a nation built from a society of differences. Seen through the lens of antifragility, our differences are an asset, not a liability.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 An antifragile nation would be one that survives and thrives in a more complex and adverse future, because every segment of society is autonomously engaged. Seen through the lens of antifragility, our differences are an asset, not a liability.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>COVID-19, and Hints of an Antifragile Singapore</h3>
 
@@ -129,13 +129,13 @@ An antifragile nation would be one that survives and thrives in a more complex a
 
 <p>These and numerous other examples demonstrate how, during a time of crisis, Singaporean residents of different backgrounds have come together to offer compassion and support to those who may hold very different worldviews from themselves. These showcase what antifragile responses look like: different individuals and communities coming together to support one another in adversity.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 During a time of crisis, Singaporean residents of different backgrounds have come together to offer compassion and support to those who may hold very different worldviews from themselves.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>The Path to an Antifragile Nation: Conversations and Emphatic Understanding</h3>
 
@@ -145,13 +145,12 @@ During a time of crisis, Singaporean residents of different backgrounds have com
 
 <p>Greater understanding between groups of people promotes antifragile behaviour: because knowing that others have different beliefs and ideals and act differently under different situations enables us to each play to our strengths, contributing in ways that we understand others may not be willing or able to do. We come to realise that we need to cover for each other’s blind spots. Recent research shows that this is as true of small workplaces as it is for large organisations—and presumably then for even larger structures.<sup><a href="#notes">15</a></sup>&nbsp; What’s crucial is the tacit acknowledgement that despite our differences, we are all building towards a greater future for everyone, not just ourselves. Greater understanding between those with different perspectives paves the path for acceptance and cooperation despite, and even because of, our differences.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Greater understanding between those with different perspectives paves the path for acceptance and cooperation despite, and even because of, our differences.
-</em></h5>
-
-<hr>
+</p>
+</div>
 
 <p>As policymakers, it is important for us to recognise, accept, and indeed internalise that Singapore is a nation that is built on differences. To build an antifragile Singapore, we must bring our differences out into the fold and discuss them respectfully and tactfully, with empathy and understanding. The key is to approach such issues from a human perspective—we should be primed to ask not the what (i.e., that one person might hold a particular view which we may find disagreeable), but the why (i.e., what life experiences might have led to this person have to hold such a view). This paves the path for conversations, understanding, and genuine but respectful disagreement.</p>
 
@@ -160,13 +159,13 @@ Greater understanding between those with different perspectives paves the path f
 <p>Nevertheless, it is important to hold such conversations regardless of whether they produce tangible, measurable outcomes: the process of the conversations themselves, and the willingness of its participants (including the government and public service) to listen to each other, is itself an important aspect of building common ground as a society. Listening deeply to others in this way is the only way we can encounter and appreciate different perspectives and narratives—especially those we do not share or even know about. It helps us better understand why we need each other and what we have to share with one another. It lays the foundation for deeper and more meaningful conversations to come.
 </p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The process of the conversations themselves, and the willingness of its participants to listen to each other, is itself an important aspect of building common ground as a society.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Conclusion</h3>
 
@@ -174,17 +173,17 @@ The process of the conversations themselves, and the willingness of its particip
 
 <p>In this quest for a truly antifragile society, it is imperative to keep in mind that communication must be bi-directional. This is not something we should leave to chance, since it requires substantial investment, training and practice in active listening and other skills needed to facilitate these conversations successfully. These are skills that public agencies and officers would do well to acquire and refine.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Communication must be bi-directional: this is not something we should leave to chance, since it requires substantial investment, training and practice in active listening and other skills.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Stories of Singaporeans stepping up to help each other cope with COVID-19 are a rich source of information to get more conversations going. Ordinary Singaporeans’ extraordinary responses in light of COVID-19 give us hope that Singapore is indeed heading in a hopeful and more antifragile direction: having shown how our differences can be convened as diverse strengths to see us through a time of crisis.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHORS</h6>
 
@@ -199,7 +198,7 @@ Communication must be bi-directional: this is not something we should leave to c
 
 <p>&nbsp;</p>
 
-<hr>
+</div>
 
 <h6> <a name="notes"></a>NOTES</h6>
 
