@@ -89,7 +89,7 @@ li {
 <p>In the for-profit sector, start-up innovation is enabled by an ecosystem that provides the right type of funding and capability building at every stage. Initially, start-ups are backed by individual angel investors, who offer early funding and mentorship to entrepreneurs to establish an initial proof-of-concept. Next, they are backed by professional venture capitalists, who provide systematic support to build up the organisation, create the right business model and optimise the product so that there is a proof-of-value to the market.
 Finally, successful innovations are eventually acquired by the big companies or the public markets, in order to get to the scale they need to mature.<br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-1.jpg?sfvrsn=61e89976_2"><img title="Figure 1" src="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-1.jpg?sfvrsn=61e89976_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 1"></a></p>
+<img title="Figure 1" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_1.jpg" alt="Figure 1"></p>
 
 <p style="text-align: center;" class="small-text">Figure 1. Private Sector Stages of Innovation. <br>
 Source: Tri-Sector, 2019 <sup><a href="#notes">3</a></sup>
@@ -101,7 +101,7 @@ Source: Tri-Sector, 2019 <sup><a href="#notes">3</a></sup>
 
 <p>Traditionally, the social sector has had significant funding, but that funding has been at both ends of the innovation spectrum. On the one hand, philanthropy and individual givers have provided relatively small start-up grants. On the other hand, the government has scaled up mature solutions, hence fulfilling a role analogous to that played by Initial Public Offerings (IPO) in the private sector. There are few, if any, organisations that specialise in helping to build and optimise promising social impact solutions so that they can cross the chasm between initial idea and “IPO-readiness”.<br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-2.jpg?sfvrsn=5b8eccd4_2"><img title="Figure 2" src="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-2.jpg?sfvrsn=5b8eccd4_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 2"></a></p>
+<img title="Figure 2" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_2.jpg" alt="Figure 2"></p>
 
 <p style="text-align: center;" class="small-text">Figure 2. Potential Social Impact Stages of Investment.
 <br>
@@ -110,13 +110,13 @@ Source: Tri-Sector, 2019 <sup><a href="#notes">7</a></sup>
 
 <p>The opportunity for change lies in the assets and capabilities of wealth management. Across the world, a new generation of wealth owners are asking their wealth managers to apply their assets towards more social causes, in what is known as “impact investing”.<sup><a href="#notes">8</a></sup></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Across the world, a new generation of wealth owners are asking their wealth managers to apply their assets towards more social causes, in what is known as “impact investing”.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Singapore is a wealth management hub. There were S$3.4 trillion in assets under management in Singapore in 2018<sup><a href="#notes">9</a></sup>—this is more than 1,000 times the S$2.7 billion of tax-deductible philanthropy given in FY 2017.<sup><a href="#notes">10</a></sup>&nbsp; If we were to encourage even 0.1% of these wealth assets to be deployed for our social causes, it would be tantamount to doubling the amount of philanthropic giving.</p>
 
@@ -135,13 +135,13 @@ Across the world, a new generation of wealth owners are asking their wealth mana
 
 <p>While these value-adding contributions may be less familiar in the social impact world, they are in fact the building blocks of the financial service industry in which Singapore has developed such deep expertise. After all, the premise behind such financial services is that “money is not just money”, and that significant value can be added in how that money is deployed, managed, and applied.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Impact investors can help to nurture a new generation of social impact organisations by contributing their networks and expertise, just as venture capitalists do for start-ups.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Policy Action Is Required To Draw on This Potential</h3>
 
@@ -159,13 +159,13 @@ Impact investors can help to nurture a new generation of social impact organisat
 
 <p>It turns out that a model called Pay For Success (PFS), sometimes known as a Social Impact Bond, has already been used to do just that. There is potential to adapt this tool for Singapore’s needs in several tangible areas.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Like a “reverse carbon tax”,  we need to price in the value of positive social benefits and provide an “impact bonus” for social outcomes.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>There Are Already Several Tangible Areas of Opportunity</h3>
 
@@ -193,23 +193,23 @@ Like a “reverse carbon tax”,  we need to price in the value of positive soci
 
 <p>Counterintuitive as it may seem for government to incentivise civic participation, the reality is that we are already doing so today. Singapore encourages donations by providing a 250% tax deduction for each dollar donated.<sup><a href="#notes">17</a></sup>&nbsp; The government is already paying to build capabilities in the people sector, most recently via the S$350 million Community Capability Trust.<sup><a href="#notes">18</a></sup>&nbsp; Finally, we are already incurring hidden costs in the form of government staff time required to develop and manage solutions, and the cost of failures when pilot trials do not work out as planned.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Counterintuitive as it may seem for government to incentivise civic participation, the reality is that we are already doing so today.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The question should therefore not be whether to pay, but whether the value-add is worth the cost. To mitigate the risk of unfair outcomes and to ensure that the government is in fact stretching its dollar, there needs to be open discussions between the sectors involved, objective cost-benefit analyses, and rigorous evaluations. Fundamentally, given the impact-focused mandates of this new class of investors, most only seek to capture a fraction of the total social benefits generated, so there is usually room for government to get a “good deal” once all risks and benefits are accounted for. For example, Bridges Outcomes Partnerships in the UK has invested in £32 million of PFS projects, which have in turn generated an estimated £84 million of value for the government.<sup><a href="#notes">19</a></sup></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 To mitigate the risk of unfair outcomes and to ensure that the government is in fact stretching its dollar, there needs to be open discussions between the sectors involved, objective cost-benefit analyses, and rigorous evaluations.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>To mitigate the risk of cannibalisation, the government could target more hands-on impact investors rather than traditional donors; it could also ask existing donors to give to PFS projects above and beyond their traditional allocations. The question to then ask is: what is the net effect, even if cannibalisation were to happen? As an analogy, skills-based volunteering has not led to the decline of traditional volunteering—instead, it has helped to draw in new types of volunteers, get more out of existing ones, and raise the profile of volunteering as a whole. Similarly, even if some donors were to switch to impact investing, so long as there is a net gain in benefit, it should be encouraged.<sup><a href="#notes">20</a></sup></p>
 
@@ -217,17 +217,17 @@ To mitigate the risk of unfair outcomes and to ensure that the government is in 
 
 <p>Above all, it is key to match the right tool to the job. We are fortunate in Singapore to have an array of effective policy instruments, allowing us to use tools such as PFS as they are intended: as a complement to a solid core of services, targeted at areas where complex problems need to be solved, in which cross-sector collaboration adds value. In the post-COVID new normal, there will be more and more of such areas to tackle. We will need every tool at our disposal.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 PFS should be used as a complement to a solid core of services, targeted at areas where complex problems need to be solved, in which cross-sector collaboration adds value.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <br>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -237,7 +237,7 @@ PFS should be used as a complement to a solid core of services, targeted at area
 
 <p>&nbsp;</p>
 
-<hr>
+</div>
 
 <h6> <a name="notes"></a>NOTES</h6>
 
