@@ -41,7 +41,7 @@ description: ""
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/EthosDigital_Issuesep18_CoverResized.jpg"></div>
         <div><h3><span class="cat">Digital Issue 03, Sep 2018</span>
             <br>Digital Edition Issue 03</h3>	
-            <p></p>
+            <p>In this issue of ETHOS Digital Edition, we continue to bring you a variety of perspectives of interest to the practice of public sector governance and leadership in Singapore. Featuring: Koh Chiu Yee, Sharon Tham, Khanh Do, Aaron Maniam, and the ministry of health.</p>
             
             
    <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-02.pdf">Download PDF</a></div></div>
@@ -57,7 +57,7 @@ description: ""
             Editor-in-Chief Ethos
             </figcaption>
                 
-  <p></p>	
+  <p>In this issue of ETHOS Digital Edition, we continue to bring you are variety of perspectives of interest to the practice of public sector governance and leadership in Singapore.</p>	
             
 <div class="button1"><a href="/digital-issue-02/editorial/">Read More</a></div> <br></div>
     </div>
