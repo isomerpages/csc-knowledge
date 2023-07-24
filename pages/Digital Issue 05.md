@@ -57,7 +57,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital05.jpg"></div>
 	<div>
 		<h3><span class="cat">Digital Issue 05, Nov 2019</span><br>Digital Edition Issue 05</h3>
-		<p>In this issue of ETHOS Digital Edition, we bring together perspectives on how behavioural insights can contribute to policymaking and intervention in constructive ways. Featuring: Dilip Soman, Ong Qiyan, Lorenz Gotte, Do Hoang Van Khanh and Low WeiJian</p>
+		<p>In this issue of ETHOS Digital Edition, we bring together perspectives on how behavioural insights can contribute to policymaking and intervention in constructive ways. Featuring: Dilip Soman, Ong Qiyan, Lorenz Gotte, Do Hoang Van Khanh and Low WeiJian.</p>
 		<div class="button1"><a target="_blank" href="">Download PDF</a></div>
 	</div>
 </div>
