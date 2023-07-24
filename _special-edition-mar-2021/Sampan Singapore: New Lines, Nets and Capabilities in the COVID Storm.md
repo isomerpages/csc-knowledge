@@ -77,13 +77,13 @@ li {
 
 <p>This COVID-19 storm has put paid to the notion that Singapore can afford to ignore its inherent vulnerabilities. It has highlighted the realities faced by Singapore as a small island nation: that we are scarce on resources and dependent on the rest of the world for essential goods. As a small state, Singapore continues to rely heavily on imports, which have been badly disrupted by the pandemic. To weather the COVID-19 storm, the Singapore sampan has had to tap on both old and new “fishing lines” (bilateral relations) and “fishing nets” (multilateral relations) to mitigate these effects and ensure our very survival.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Singapore has been referred to as a “sampan”, vulnerable to external shocks, which therefore needs to pull together and adapt quickly to the changing environment.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>The Storm</h3>
 
@@ -112,13 +112,13 @@ Permission required for reproduction. <sup><a href="#notes">8</a><br>
 
 <p>In fact, Singaporean planners have long been mindful of our exposure to supply shocks. As a nation, we have taken measures to secure and tap on a variety of “fishing lines” and “fishing nets” in order to minimise trade disruptions and keep our sampan afloat even in a time of crisis.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 COVID-19 has highlighted the realities faced by Singapore: that we are scarce on resources and dependent on the rest of the world for essential goods.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Fishing Lines</h3>
 
@@ -145,7 +145,7 @@ Permission required for reproduction. <sup><a href="#notes">10</a><br>
 
 <p>Following this joint statement, on 15 April 2020, Singapore and New Zealand launched a Declaration on Trade in Essential Goods for Combating the COVID-19 Pandemic, facilitating the movement of over 120 different essential goods.<sup><a href="#notes">16</a></sup>&nbsp; &nbsp;The first shipment of essential items arrived in Singapore a week later on 22 April, containing more than 20 tonnes of meat, including beef and lamb.<sup><a href="#notes">17</a></sup></p>
 
-<a href="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-5.jpg?sfvrsn=415f52a_2"><img title="Figure 5" src="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-5.jpg?sfvrsn=415f52a_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 5"></a>
+<img title="Figure 5" src="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-5.jpg?sfvrsn=415f52a_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 5">
 
 <p>&nbsp;</p>
 
@@ -165,13 +165,13 @@ Source: Ministry of Trade and Industry Singapore <sup><a href="#notes">18</a><br
 
 <p>The argument being made is that it is not enough to have fishing lines and fishing nets in our sampan. Instead, Singapore must transcend the physical constraints of our sampan circumstances by developing and exporting home-grown pioneering technology and know-how to other countries, so we stay relevant and connected even during supply chain shifts.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Singapore must transcend the physical constraints of our circumstances by developing and exporting home-grown pioneering technology and know-how to other countries.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p><em><strong>Inside the Sampan</strong></em></p>
 
@@ -181,7 +181,7 @@ Singapore must transcend the physical constraints of our circumstances by develo
 
 <p style="text-align: center;">
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-6.jpg?sfvrsn=76de6b58_2"><img title="Figure 6" src="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-6.jpg?sfvrsn=76de6b58_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 6"></a>&nbsp;</p>
+<img title="Figure 6" src="../../images/default-source/ethos-images/ethos-digital-special-edition-(mar-2021)/figure-6.jpg?sfvrsn=76de6b58_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 6">&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -194,25 +194,25 @@ Permission required for reproduction. <sup><a href="#notes">22</a><br>
 
 <p>Reiterating the point that Singapore is still a “sampan” and not a “cruise ship”, PM Lee has characterised Singapore as an upgraded  “Sampan 2.0”. In PM’s telling, Singapore had become a stronger and more prosperous nation over time. However, it remained vulnerable to external forces and had to keep striving to do better.<sup><a href="#notes">24</a></sup></p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 A whole-of-nation effort is needed to grow local production, support local produce and innovate to be ready for future storms.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>To me, an improved sampan 2.0 is one with an array of fishing lines, fishing nets, and which is powered by locally-developed, in-demand global technology that improves our connectivity with the world. It should be steered by wise captains, supported by a strong and resilient rowing crew, as it ventures into uncharted waters or weathers stormy seas.</p>
 
 <p>Sampan 2.0 may even look to be a speedboat one day. But it can never be complacent, and must always be on the move. As Aristotle Onassis, a Greek shipping magnate, once said “We must free ourselves from the hope that the sea will ever rest. We must learn to sail in high winds.”</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong> Eleena Tan</strong> is Lead Researcher at the Institute of Governance and Policy, Civil Service College.</p>
 
-<hr>
+</div>
 
 <h6> <a name="notes"></a>NOTES</h6>
 
@@ -247,9 +247,6 @@ A whole-of-nation effort is needed to grow local production, support local produ
 <li class="small-text">See Note 1.</li>
 </ol>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
