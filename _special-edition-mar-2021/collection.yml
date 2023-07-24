@@ -2,6 +2,7 @@ collections:
   special-edition-mar-2021:
     output: true
     order:
+      - "Southeast Asia and Singapore: Prospects in a Post COVID World.md"
       - Making Ours an Uplifting Society.md
       - "Sampan Singapore: New Lines, Nets and Capabilities in the COVID
         Storm.md"
