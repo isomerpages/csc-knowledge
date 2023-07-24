@@ -286,9 +286,7 @@ On its own, history cannot indicate what direction policy should take. But uncov
 <li class="small-text">Civil Service College, “Evidence-based Policymaking in Singapore: A Policymaker’s Toolkit”, accessed November 23, 2020, <a href="../../docs/default-source/resources/evidence-based-policymaking.pdf">https://www.csc.gov.sg/docs/default-source/resources/evidence-based-policymaking.pdf</a>.</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
