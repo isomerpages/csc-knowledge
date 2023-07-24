@@ -81,13 +81,13 @@ li {
 
 <p>So instead of thinking of Southeast Asia as a homogeneous bloc, I think of it as a portfolio. The countries are sufficiently different such that there are different engines of growth. You have the commodity-focused countries; you have manufacturing and export-driven countries; you have countries with large, fast-growing populations of under-served middle-class consumers, like Indonesia and the Philippines. All this diversity provides resilience and strength.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Southeast Asia will never be homogeneous. The question is whether there will always be enough bright spots at any one time to propel the region forward.
-</em></h5>
+</p><p>
 
-<hr>
+</p></div>
 
 <p>Furthermore, COVID has added another positive for Southeast Asia, which is the accelerated need for companies to build resilience into their supply chains, and reduce their dependence on any one source country. To appreciate why Southeast Asia is well placed to catch this shift, we just need to remember that before China opened up to foreign investment, a number of countries in Southeast Asia had been manufacturing hubs for multinational companies (MNCs).</p>
 
@@ -103,13 +103,13 @@ Southeast Asia will never be homogeneous. The question is whether there will alw
 
 <p>The pandemic has also accelerated digitalisation and the growth of the digital economy across the world including Southeast Asia. The players participating in this sector have done very well during this time. But this digitalisation is also driving productivity gains that might otherwise have taken a longer time—including the use of e-wallets, electronic payments, or new areas such as telemedicine and digital health. The accelerated adoption of these advances helps economies become more efficient, which releases resources to be better utilised in other areas.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The pandemic has accelerated digitalisation and the growth of the digital economy across the world including Southeast Asia.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>So if you look broadly at the sectors of our economy that have done well in 2020, you see the semiconductor companies, you see firms involved in providing the tools that enable us to work digitally and to live digitally—including e-commerce, delivery and so on. Pharmaceutical, healthcare, wellness also did very well. As Southeast Asia recovers and resumes its growth trajectory, there will be opportunities in FMCG (Fast-Moving Consumer Goods), F&amp;B, retail, education and so on. Infrastructure development and urbanisation; the movement of goods and people; intra-Asian cross border transactions, investments and business deals.</p>
 
@@ -125,13 +125,13 @@ The pandemic has accelerated digitalisation and the growth of the digital econom
 
 <p>But let’s assume that every country is able to get the COVID-19 situation under control soon enough. At that point, it would be about how we can work together so that Southeast Asia fulfils its potential to be that second source for supply chains. Singapore is comfortable because the types of manufacturing that we can participate in today is quite different from what we were doing 30 years ago, and the spectrum of activities that Southeast Asia can host is very wide. There is more room for cooperation today compared to 30 years ago.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The three thrusts for Singapore’s future economic development—Asia, Digital and Innovation—remain very relevant, despite the pandemic.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>We can also do more to foster and facilitate the growth of the digital economy. For example, putting friction to stop data flows, especially when you have an aspiration to grow the digital economy is not smart. Companies need to achieve economies of scale and to learn from the data that they collect from different countries in the region, which add up to some 600 million consumers.</p>
 
@@ -145,13 +145,13 @@ The three thrusts for Singapore’s future economic development—Asia, Digital 
 
 <p>As we engage Southeast Asia more, one question in my mind is whether our companies can embrace uncertainty more and find a different way to manage risk. Singapore’s firms are very used to operating in an ordered and predictable environment. Their level of risk tolerance and comfort with uncertainty is quite low. The easiest way to avoid risk is not to do anything—but that also means you are not going to grow.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 As we engage Southeast Asia more, one question is whether our companies can embrace uncertainty more and find a different way to manage risk.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>Two to three decades ago, we had some Singaporean businessmen who were bold and went to China when it was a big uncertainty. Of course, you could say there are a billion people in China: if I’m going to take a big risk, my potential upside had better be good enough. But there are also big markets in Southeast Asia where it’s worth the risk: Vietnam, Indonesia, Philippines, Thailand. So, the question is: can our Singapore companies rethink their approach to Southeast Asia?</p>
 
@@ -159,27 +159,25 @@ As we engage Southeast Asia more, one question is whether our companies can embr
 
 <p>When things are humming along, you might be reluctant to rock the boat, but when you are down, there is less to lose. When you have no choice, you have to do something different to generate business—so COVID-19 could make companies less risk averse. If you want to harness the potential for growth, you must be prepared to take a higher risk.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 When things are humming along, you might be reluctant to rock the boat, but when you are down, there is less to lose.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <br>
 
 <hr>
-
+<div class="author">
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Dr Beh Swan Gin</strong> was appointed Chairman of the Singapore Economic Development Board (EDB) in 2014. Dr Beh was Permanent Secretary in the Ministry of Law from 2012 to 2014, prior to which he served as Managing Director of EDB from 2008 to 2012. He has held various portfolios in EDB, A*STAR, MTI well as overseas assignments in EDB’s North American operations.</p>
 
-<hr>
+</div>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
