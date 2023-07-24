@@ -91,19 +91,19 @@ Singapore has been referred to as a “sampan”, vulnerable to external shocks,
 
 <p>Although both the Singapore Food Agency (SFA) and political leaders assured the public that Singapore was not short on essential food or household items, some Singaporeans still feared that the Malaysian lockdown would cut off Singapore’s  main “fishing line”: our bilateral trade link with Malaysia.<br>
 <br>
-<img title="Figure 1" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_1.jpg" alt="Figure 1"></p>
+<img title="Figure 1" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_8.jpg" alt="Figure 1"></p>
 
 <p style="text-align: center;" class="small-text">Figure 1. Singapore’s Major Sources of Supply of Key Food Items<br>
 Source: Singapore Food Agency <sup><a href="#notes">6</a><br>
 <br>
-<img title="Figure 2" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_2.jpg" alt="Figure 2"><br>
+<img style="width:60%;" title="Figure 2" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_7.jpg" alt="Figure 2"><br>
 </sup></p>
 
 <p style="text-align: center;" class="small-text">Figure 2. Empty shelves at Fairprice outlet at White Sands in Pasir Ris, 7 February 2020.<br>
 Source: The Straits Times © Singapore Press Holdings Limited. <br>
 Permission required for reproduction. <sup><a href="#notes">7</a><br>
 <br>
-<img title="Figure 3" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_3.jpg" alt="Figure 3"></sup></p>
+<img style="width:60%;" title="Figure 3" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_3.jpg" alt="Figure 3"></sup></p>
 
 <p style="text-align: center;" class="small-text">Figure 3. A queue forms outside FairPrice Finest at Clementi Mall, 10 April 2020.<br>
 Source: The Straits Times © Singapore Press Holdings Limited. <br>
@@ -126,7 +126,7 @@ COVID-19 has highlighted the realities faced by Singapore: that we are scarce on
 
 <p style="text-align: center;">
 <br>
-<img title="Figure 4" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_4.jpg" alt="Figure 4"></p>
+<img style="width:60%;" title="Figure 4" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_4.jpg" alt="Figure 4"></p>
 
 <p style="text-align: center;" class="small-text">Figure 4. Immigration and Checkpoints Authority officers inspecting items carried by a delivery truck from Malaysia, Singapore Cargo Clearance Centre at Woodlands Checkpoint, 18 March 2020.<br>
 Source: The Straits Times © Singapore Press Holdings Limited. <br>
@@ -181,7 +181,7 @@ Singapore must transcend the physical constraints of our circumstances by develo
 
 <p style="text-align: center;">
 <br>
-<img title="Figure 6" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_6.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Figure 6">&nbsp;</p>
+<img style="width:60%;" title="Figure 6" src="/images/Ethos_Images/Ethos_Digital_Special_Mar2021/Figure_6.jpg" alt="Figure 6">&nbsp;</p>
 
 <p>&nbsp;</p>
 
