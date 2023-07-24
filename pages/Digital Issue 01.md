@@ -40,7 +40,7 @@ description: ""
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_01/EthosDigital01.jpg"></div>
         <div>
 		<h3><span class="cat">Digital Issue 01, Nov 2017</span><br>Digital Edition Issue 01</h3>
-		<p>The COVID-19 pandemic has swept the world with bewildering speed and scale. In this issue of ETHOS Digital Edition, we document and reflect on various responses to the crisis, presenting views from Maryanna Abdo, Jane Lewis, Robyn Mildon, James Low, Theophilus Kwek and Jocelyne Bourgon.</p>
+		<p>For the inaugural issue of our ETHOS Digital Edition, we feature Jocelyne Bourgon, Max Everest-Phillips, Catherine Fieschi, as well as participants of CSC's Leaders in Governance Programme..</p>
             
             
    <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-01.pdf">Download PDF</a></div></div>
@@ -56,10 +56,7 @@ description: ""
             Editor-in-Chief Ethos
             </figcaption>
                 
-  <p>The future remains humanity’s most enduring dilemma. The survival and success — or failure and decline — of ventures, organisations and nations
-have always depended on how present actions might be expected to play
-out down the road; it is for this reason that those who govern or lead are
-tasked with the responsibility for foresight.</p>	
+  <p>Between print issues , we are introducing a new digital-only edition of ETHOS, with articles of general interest to public policy and governance in Singapore. These will include interviews, reviews, lectures and opinion pieces, as well as more media-rich material to come, as we find fresh ways to present and consider important perspectives.</p>	
             
 <div class="button1"><a href="/digital-issue-01/editorial/">Read More</a></div> <br></div>
     </div>
