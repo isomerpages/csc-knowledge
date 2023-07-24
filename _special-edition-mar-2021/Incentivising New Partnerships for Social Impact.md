@@ -267,9 +267,7 @@ PFS should be used as a complement to a solid core of services, targeted at area
 <li class="small-text">Government Outcomes Lab, “UK Government Outcomes Funds for Impact Bonds”, accessed February 1, 2021, <a href="https://golab.bsg.ox.ac.uk/the-basics/outcomesfunds/outcomes-funds/">https://golab.bsg.ox.ac.uk/the-basics/outcomesfunds/outcomes-funds/</a>.</li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
