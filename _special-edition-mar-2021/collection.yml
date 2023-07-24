@@ -2,5 +2,6 @@ collections:
   special-edition-mar-2021:
     output: true
     order:
+      - "History: A Public Service User’s Guide.md"
       - Incentivising New Partnerships for Social Impact.md
       - Rethinking Resilience in the Workplace.md
