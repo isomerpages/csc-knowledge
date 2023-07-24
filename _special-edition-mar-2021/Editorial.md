@@ -84,7 +84,7 @@ lingering and far-reaching effects on the economy and on society. In some cases,
 impact and implications. We have had to make significant changes to the way we live, work and play: some of these will stand us in good stead even after COVID-19 passes. We need to learn from and consolidate what progress we have made, and continue
 to help our fellow Singaporeans cope with a changing world. More than ever, Singapore will need to actively build a more resilient society, continue to think long term and plan for the unexpected.</p>
 
-<p>This Special Edition of ETHOS, building on <a target="_blank" href="../../docs/default-source/ethos/ethos-digital-issue-6/ethosdigital_issue_jun20_editorial_v2.pdf">Digital Edition Issue 6</a>&nbsp;and <a target="_blank" href="../../docs/default-source/ethos/ethosdigital_sed__dec20_editorial-(web).pdf">Digital Special Edition (December 2020)</a>, will be an ongoing project. We will bring you regular updates with new views and perspectives to help
+<p>This Special Edition of ETHOS, building on <a target="_blank" href="https://go.gov.sg/digital-issue-06">Digital Edition Issue 6</a>&nbsp;and <a target="_blank" href="https://go.gov.sg/ethos-digital-special-edition-dec20">Digital Special Edition (December 2020)</a>, will be an ongoing project. We will bring you regular updates with new views and perspectives to help
 record and make better sense of Singapore since COVID—so that we might better gird ourselves for the world that may follow in its wake.</p>
 
 <p>&nbsp;</p>
@@ -98,17 +98,17 @@ record and make better sense of Singapore since COVID—so that we might better 
 
 <p>In a conversation with Ethos, the Chairman of Singapore’s Economic Development Board explains how Singapore could expand, diversify and deepen our economic opportunities by growing with the region in the wake of the pandemic.</p>
 
-<p>In our December update, we shared perspectives on how Singapore’s future prospects could lie in nurturing deeper relations with Asia and Southeast Asia, which have weathered the COVID-19 storm relatively well. <a target="_blank" href="southeast-asia-and-singapore-prospects-in-a-post-covid-world.html">As EDB Chairman Dr Beh Swan Gin puts it</a>,
+<p>In our December update, we shared perspectives on how Singapore’s future prospects could lie in nurturing deeper relations with Asia and Southeast Asia, which have weathered the COVID-19 storm relatively well. <a target="_blank" href="/special-edition-mar-2021/southeast-asia-and-singapore-prospects-in-a-post-covid-world/">As EDB Chairman Dr Beh Swan Gin puts it</a>,
 the tailwinds are still with the region. Once the pandemic comes under control, Singapore has promising roles to play in contributing to our home region’s recovery and resumption of its healthy growth trajectory.</p>
 
-<p>But even as the crisis eases and we rebuild our prosperity, we must watch out for the longer term, systemic challenges that remain. <a target="_blank" href="making-ours-an-uplifting-society.html">As Senior Minister Tharman Shanmugaratnam has cautioned</a>,
+<p>But even as the crisis eases and we rebuild our prosperity, we must watch out for the longer term, systemic challenges that remain. <a target="_blank" href="/special-edition-mar-2021/making-ours-an-uplifting-society/">As Senior Minister Tharman Shanmugaratnam has cautioned</a>,
 we must be mindful not to leave anyone behind, and we should seek to address the fractures, inequalities and tensions that the pandemic has accentuated in societies around the world.</p>
 
-<p>We should not squander the lessons of this historical moment. Crises such as COVID are vivid reminders of how fundamentally vulnerable small states such as Singapore are, despite decades of growth and prosperity—and how much <a target="_blank" href="sampan-singapore-new-lines-nets-and-capabilities-in-the-covid-storm.html">we need to pull together as a nation</a>, and take care of one another. To do so, we need to realise that we depend on one another, across society.
-We must find ways to connect with one another, gathering our different viewpoints and capacities <a target="_blank" href="emerging-stronger-as-an-antifragile-nation.html">to become a stronger, more adaptable society</a>.
-We will need to develop a more nuanced sense of what we can learn from <a target="_blank" href="history-a-public-service-user-s-guide.html">one another’s pasts</a>, present contexts and future aspirations and
-broaden our sense of who the Singaporean is and what Singapore can and should be together. Across different aspects of our lives, we can <a target="_blank" href="incentivising-new-partnerships-for-social-impact.html">find new ways to partner one another for the greater good</a>.
-If a pandemic can teach us anything, it is that we sink or swim together: <a target="_blank" href="rethinking-resilience-in-the-workplace.html">resilience must be collective if it is to be effective</a>. If a social
+<p>We should not squander the lessons of this historical moment. Crises such as COVID are vivid reminders of how fundamentally vulnerable small states such as Singapore are, despite decades of growth and prosperity—and how much <a target="_blank" href="/special-edition-mar-2021/sampan-singapore-new-lines-nets-and-capabilities-in-the-covid-storm/">we need to pull together as a nation</a>, and take care of one another. To do so, we need to realise that we depend on one another, across society.
+We must find ways to connect with one another, gathering our different viewpoints and capacities <a target="_blank" href="/special-edition-mar-2021/emerging-stronger-as-an-antifragile-nation/">to become a stronger, more adaptable society</a>.
+We will need to develop a more nuanced sense of what we can learn from <a target="_blank" href="/special-edition-mar-2021/history-a-public-service-user-s-guide/">one another’s pasts</a>, present contexts and future aspirations and
+broaden our sense of who the Singaporean is and what Singapore can and should be together. Across different aspects of our lives, we can <a target="_blank" href="/special-edition-mar-2021/incentivising-new-partnerships-for-social-impact/">find new ways to partner one another for the greater good</a>.
+If a pandemic can teach us anything, it is that we sink or swim together: <a target="_blank" href="/special-edition-mar-2021/rethinking-resilience-in-the-workplace/">resilience must be collective if it is to be effective</a>. If a social
 "herd immunity” exists, it is founded on the care and commitment we choose to have for one another.
 </p>
 
