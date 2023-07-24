@@ -1,4 +1,5 @@
 collections:
   special-edition-mar-2021:
     output: true
-    order: []
+    order:
+      - Rethinking Resilience in the Workplace.md
