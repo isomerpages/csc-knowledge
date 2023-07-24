@@ -57,11 +57,7 @@ description: ""
             Editor-in-Chief Ethos
             </figcaption>
                 
-  <p>The future remains humanity’s most enduring dilemma. The survival and
-success — or failure and decline — of ventures, organisations and nations
-have always depended on how present actions might be expected to play
-out down the road; it is for this reason that those who govern or lead are
-tasked with the responsibility for foresight.</p>	
+  <p>In this second issue of our ETHOS Digital Edition, we continue to bring you a variety of perspectives of interest to the practice of public sector governance and leadership in Singapore.</p>	
             
 <div class="button1"><a href="/digital-issue-02/editorial/">Read More</a></div> <br></div>
     </div>
