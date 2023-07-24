@@ -41,7 +41,7 @@ description: ""
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_04/ethos_digital_4_cov.jpg"></div>
         <div><h3><span class="cat">Digital Issue 04, Apr 2019</span>
             <br>Digital Edition Issue 04</h3>	
-            <p></p>
+            <p>In this issue of ETHOS Digital Edition, public sector veterans from around the world discuss the future of governance in the digital age. Also , our more experienced colleagues share quick tips on how to do better at work in a new feature: PRO TIP.</p>
             
             
    <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-04.pdf">Download PDF</a></div></div>
@@ -57,7 +57,7 @@ description: ""
             Editor-in-Chief Ethos
             </figcaption>
                 
-  <p></p>	
+  <p>Public service work is complex but also collaborative. We do better by working with others and by learning from their experiences and perspectives. In this issue of ETHOS Digital Edition, we have gathered a number of conversationsd with public sector veterans who share their insights gleanned from working on areas of interest to not just Singapore but also governments around the world.</p>	
             
 <div class="button1"><a href="/digital-issue-04/editorial/">Read More</a></div> <br></div>
     </div>
