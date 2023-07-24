@@ -230,9 +230,7 @@ Communication must be bi-directional: this is not something we should leave to c
     </li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
