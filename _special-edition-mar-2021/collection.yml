@@ -2,6 +2,8 @@ collections:
   special-edition-mar-2021:
     output: true
     order:
+      - "Sampan Singapore: New Lines, Nets and Capabilities in the COVID
+        Storm.md"
       - Emerging Stronger as an Antifragile Nation.md
       - "History: A Public Service User’s Guide.md"
       - Incentivising New Partnerships for Social Impact.md
