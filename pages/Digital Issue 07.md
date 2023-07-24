@@ -80,8 +80,8 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Digital_07/D7_Teaser_Being%20Human%20in%20a%20Crisis.jpg"></div>
 	<div>
 		<h3>Being Human in a Crisis: What It Means to Us</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>ETHOS Roundtable with Anastasia Goh, Wong Hefen and Daphne Yuan</i></b>
+		<p>Three public officers reflect on the personal impact of the COVID-19 crisis to date.</p>
 		<div class="button1"><a href="/digital-issue-07/being-human-in-a-crisis-what-it-means-to-us/">Read more</a></div>
 	</div>
 </div>
@@ -92,8 +92,8 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Digital_07/D7_Teaser_eCommerce%20Development.jpg"></div>
 	<div>
 		<h3>The Role of Government in E-Commerce Development</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Tan Chia Han</i></b>
+		<p>Fresh from a recent attachment to a major e-commerce player in the region, Tan Chia Han shares insights on industry trends and how government can support the burgeoning sector.</p>
 		<div class="button1"><a href="/digital-issue-07/the-role-of-government-in-e-commerce-development/">Read more</a></div>
 	</div>
 </div>
@@ -105,8 +105,8 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Digital_07/D7_Teaser_Growing%20from%20Clusters%20to%20Ecosystems.jpg"></div>
 	<div>
 		<h3>Growing from Clusters to Ecosystems</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>by Shirley Loo</i></b>
+		<p>In a post-pandemic knowledge-based economy, success may lie in distributed ecosystems of complementary firms cooperating for the common good.</p>
 		<div class="button1"><a href="/digital-issue-07/inviting-possibilities/">Read more</a></div>
 	</div>
 </div>
@@ -118,8 +118,8 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Digital_07/Digital-07-04.jpg"></div>
 	<div>
 		<h3>Inviting Possibilities: Review of Margaret Heffernan’s “Uncharted” and Scott Smith’s “How to Future”</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>Reviewed by Eddie Choo</i></b>
+		<p>Two recent books explore hopeful, hands-on approaches to grappling with an uncertain future.</p>
 		<div class="button1"><a href="/digital-issue-07/inviting-possibilities/">Read more</a></div>
 	</div>
 </div>
