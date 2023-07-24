@@ -81,7 +81,7 @@ margin-top:15px;
 	<div>
 		<h3>Developing A More Humanistic Approach to Organisational Health</h3>
 		<b><i>by Soh Zhi Liang</i></b>
-		<p></p>
+		<p>In the wake of the pandemic-induced shake-up of the workplace, organisations must rethink how they can better support the motivational drives and life goals of their people—or risk losing their commitment and energy.</p>
 		<div class="button1"><a href="/digital-issue-08/developing-a-more-humanistic-approach-to-organisational-health/">Read more</a></div>
 	</div>
 </div>
@@ -93,7 +93,7 @@ margin-top:15px;
 	<div>
 		<h3>Making the Most of Diversity through Inclusive Workplace Practices</h3>
 		<b><i>by Khoo Ee Wan, Zoey Lew</i></b>
-		<p></p>
+		<p>For diversity to yield benefits, inclusive practices need to be intentionally established at every level of an organisation.</p>
 		<div class="button1"><a href="/digital-issue-08/making-the-most-of-diversity-through-inclusive-workplace-practices/">Read more</a></div>
 	</div>
 </div>
@@ -105,7 +105,7 @@ margin-top:15px;
 	<div>
 		<h3>Engaging Public Officers in a Hybrid Workplace</h3>
 		<b><i>by Amos Law</i></b>
-		<p></p>
+		<p>The hybrid future of work means more thought and intention must be invested in keeping staff connected and engaged, right from the start.</p>
 		<div class="button1"><a href="/digital-issue-08/engaging-public-officers-in-a-hybrid-workplace/">Read more</a></div>
 	</div>
 </div>
@@ -117,7 +117,7 @@ margin-top:15px;
 	<div>
 		<h3>How Managers Can Support Staff Mental Wellbeing in the Post-Pandemic Workplace</h3>
 		<b><i>by Sueann Soon</i></b>
-		<p></p>
+		<p>A seasoned manager offers five tips for balancing the needs of the team and individual members in times of personal difficulty.</p>
 		<div class="button1"><a href="/digital-issue-08/how-managers-can-support-staff-mental-wellbeing-in-the-post-pandemic-workplace/">Read more</a></div>
 	</div>
 </div>
@@ -129,7 +129,7 @@ margin-top:15px;
 	<div>
 		<h3>Good Governance Is Built on Capabilities, Not Ideology</h3>
 		<b><i>by Wu Wei Neng, Kenneth Sim</i></b>
-		<p></p>
+		<p>Principals at a new non-profit institute draw on data, history and their practitioner experience in Singapore’s public sector, to help governments around the world become more efficient and effective.</p>
 		<div class="button1"><a href="/digital-issue-08/good-governance-is-built-on-capabilities-not-ideology/">Read more</a></div>
 	</div>
 </div>
