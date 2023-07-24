@@ -80,13 +80,13 @@ li {
 
 <p>We must do the utmost to make ours an uplifting society—one that uplifts everyone through opportunities in life, one that uplifts the poor and vulnerable, and one that uplifts the spirit.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Where there was once a strong sense of “we”, there is now “them versus us”. It is not only about the rich or highly educated versus the rest, but also taps into racial or religious antipathies. We have to recognise these changes happening around the world, and prevent them taking root in Singapore.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Keeping Society Fluid</h3>
 
@@ -98,13 +98,13 @@ Where there was once a strong sense of “we”, there is now “them versus us�
 
 <p>Furthermore, in no society can we say that unequal outcomes are entirely to do with ability and effort. They often have something to do with how people started out, and the social networks that give them different scaffoldings in life. For both these reasons, it is only right that we tilt our policies in favour of those with lower incomes, and ensure they have full and fair opportunities in the employment market.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We must do the utmost to make ours an uplifting society—one that uplifts everyone through opportunities in life, one that uplifts the poor and vulnerable, and one that uplifts the spirit.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p>The challenges of social mobility and inequality will get sharper everywhere. We are tackling them in Singapore. But we are not starting from a bad place. We have seen significant increases in real incomes in all segments of the workforce over the last decade. Relative social mobility in Singapore also remains higher than in most nations, although the big solution in the one-off phase after independence, when education and jobs led to a huge wave of mobility, is no longer there.</p>
 
@@ -136,14 +136,14 @@ We must do the utmost to make ours an uplifting society—one that uplifts every
 
 <p>We have to find more opportunities for social mixing as the kids grow up—not just within schools, but across schools. Co-curricular activities (CCAs) are a major and natural opportunity—training with each other a few times a week, winning and losing together, and staying in a network of friends well after leaving school. Respect for others with different social backgrounds cannot be tested or measured, but it must be a key outcome of a Singapore education.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Early Lives Matter: tackling the early gaps in children’s lives is the most important of our strategies to secure a more cohesive society.
-</em></h5>
+</p>
 
-<hr>
-
+</div>
+	
 <h3>Bouncing Back</h3>
 
 <p>We greatly reduced job losses during COVID-19 through the Jobs Support Scheme and other initiatives. Still, even with a smaller increase in unemployment than most other countries, many Singaporeans have been displaced. We have been doing our level best to help people get back into work—into permanent jobs wherever possible, or into short term jobs and traineeships while we wait for the job market to pick up.</p>
@@ -180,22 +180,22 @@ Early Lives Matter: tackling the early gaps in children’s lives is the most im
 
 <p>They form a compact at the heart of how we make ours an uplifting society. Where individuals put effort into learning and improving, and want to contribute what they can in life. Where unions, community organisations and non-governmental organisations look out for those with less, and help them make the most of opportunities. Where employers take the high road, give mature workers fair chances to restart their careers and invest continually in their people. Where the government itself is an activist in support of social mobility, helping people bounce back when they fall, working towards fair rewards at work, and integrating people of different backgrounds in the same, continually upgraded neighbourhoods. And underlying all of these: where we treat each other as equals in the to and fro of daily life, never excluding anyone, regardless of the jobs we do or our social and ethnic backgrounds. It’s how we uplift the spirit.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Tharman Shanmugaratnam</strong> is Senior Minister and Coordinating Minister for Social Policies.</p>
 
-<hr>
+</div>
 
 <p class="small-text"><em>This article is based on talks at the IPS Singapore Perspectives 2021 Conference on January 12 and to public servants at the launch of the Civil Service College’s “Social Economic Nexus Speaking Engagement Series” (SENSES) in October 2020. SENSES features thought leaders of relevant fields who will share their views on key and trending socio-economic topics with our public officers.<br>
 </em></p>
 
 <p class="small-text"><em>A version of this article was first published in The Straits Times on January 16, 2021.</em></p>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
+
+<hr>
 .
 
 
