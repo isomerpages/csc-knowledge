@@ -82,7 +82,7 @@ margin-top:15px;
 		<h3>A New Consensus for Growth in the 21st Century</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-dec-2020/a-new-consensus-for-growth-in-the-21st-century/">Read more</a></div>
 	</div>
 </div>
 
@@ -94,7 +94,7 @@ margin-top:15px;
 		<h3>A New Regionalism: Southeast Asia’s Potential in the 21st Century</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-dec-2020/a-new-regionalism-southeast-asia-s-potential-in-the-21st-century/">Read more</a></div>
 	</div>
 </div>
 
@@ -106,7 +106,7 @@ margin-top:15px;
 		<h3>Singapore, ASEAN, and Cultural Competence</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-dec-2020/singapore-asean-and-cultural-competence/">Read more</a></div>
 	</div>
 </div>
 
@@ -118,7 +118,7 @@ margin-top:15px;
 		<h3>Asia 2035: Five Takes</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-dec-2020/asia-2035-five-takes/">Read more</a></div>
 	</div>
 </div>
 
