@@ -66,7 +66,7 @@ li {
 
 </style>
 
-<em><small>Digital Special Edition (March 2021 Update)</small></em>
+<em><small>Digital Special Edition (Dec 2020)</small></em>
 <img src="">
 
 
