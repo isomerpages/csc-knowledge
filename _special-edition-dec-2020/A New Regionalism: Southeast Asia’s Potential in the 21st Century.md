@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Special Edition (Dec 2020)</small></em>
-<img src="/images/Cropped_images/Ethos_Digital_Special_Dec/ANewRegionalism.jpg">
+<img src="/images/Landing_Banner_Images/banner_roundtable.jpg">
 
 
 
