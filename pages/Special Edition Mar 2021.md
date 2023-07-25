@@ -54,7 +54,7 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Thumbnails_Cover/ethosdigitalmarch2021specialedition.jpg"></div>
 	<div>
 		<h3><span class="cat">Digital Special Edition , Mar 21</span><br>Digital Special Edition Mar 2021 Update</h3>
 		<p>In our ongoing Special Edition of ETHOS, we bring you fresh views and perspectives on the COVID pandemic's far-reaching impact on Singapore's economy, society and prospects for the future. This update features contributions from: Senior Minister Tharman Shanmugaratnam, EDB Chairman Dr Beh Swan Gin. Eleena Tan, Azfer A. Khan, Ang Kheng Kiat, Chua Jun Yan, Kevin Tan and Esther Cheah.</p>
@@ -65,7 +65,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
@@ -77,7 +77,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Southeast Asia and Singapore: Prospects in a Post-COVID World</h3>
 		<b><i></i></b>
@@ -89,7 +89,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Making Ours an Uplifting Society</h3>
 		<b><i></i></b>
@@ -101,7 +101,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Sampan Singapore: New Lines, Nets and Capabilities in the COVID Storm</h3>
 		<b><i></i></b>
@@ -113,7 +113,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
 	<div>
 		<h3>Emerging Stronger as an Antifragile Nation</h3>
 		<b><i></i></b>
