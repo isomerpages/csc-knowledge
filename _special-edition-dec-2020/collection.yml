@@ -1,4 +1,5 @@
 collections:
   special-edition-dec-2020:
     output: true
-    order: []
+    order:
+      - "Asia 2035: Five Takes.md"
