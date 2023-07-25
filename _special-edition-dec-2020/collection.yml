@@ -2,5 +2,6 @@ collections:
   special-edition-dec-2020:
     output: true
     order:
+      - "A New Regionalism: Southeast Asia’s Potential in the 21st Century.md"
       - Singapore, ASEAN, and Cultural Competence.md
       - "Asia 2035: Five Takes.md"
