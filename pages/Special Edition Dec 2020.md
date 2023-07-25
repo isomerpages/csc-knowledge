@@ -92,7 +92,7 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_roundtable.jpg"></div>
 	<div>
 		<h3>A New Regionalism: Southeast Asia’s Potential in the 21st Century</h3>
-		<b><i></i></b>
+		<b><i>ETHOS Roundtable with Tan Lin Teck, Samheng Boros and Kelvin Yii</i></b>
 		<p></p>
 		<div class="button1"><a href="/special-edition-dec-2020/a-new-regionalism-southeast-asia-s-potential-in-the-21st-century/">Read more</a></div>
 	</div>
@@ -104,7 +104,7 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Dec/Cultural_Competence.jpg"></div>
 	<div>
 		<h3>Singapore, ASEAN, and Cultural Competence</h3>
-		<b><i></i></b>
+		<b><i>by Shane Pereira, Mathew Mathews</i></b>
 		<p></p>
 		<div class="button1"><a href="/special-edition-dec-2020/singapore-asean-and-cultural-competence/">Read more</a></div>
 	</div>
@@ -116,7 +116,7 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Dec/Asia2035.jpg"></div>
 	<div>
 		<h3>Asia 2035: Five Takes</h3>
-		<b><i></i></b>
+		<b><i>Insights from Selina Ho, Phred Dvorak, Marina Jose Kaneti, Kanti Bajpai and Adam Yao Liu</i></b>
 		<p></p>
 		<div class="button1"><a href="/special-edition-dec-2020/asia-2035-five-takes/">Read more</a></div>
 	</div>
