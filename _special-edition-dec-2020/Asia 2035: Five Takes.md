@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Special Edition (Dec 2020)</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Digital_Special_Dec/Asia2035.jpg">
 
 
 
