@@ -2,4 +2,5 @@ collections:
   special-edition-dec-2020:
     output: true
     order:
+      - Singapore, ASEAN, and Cultural Competence.md
       - "Asia 2035: Five Takes.md"
