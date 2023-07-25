@@ -75,7 +75,7 @@ li {
 
 <p>We are still some way from getting a full sense of what COVID-19 means for Singapore. Nevertheless, as 2020 draws to a close and a new year looms, ETHOS continues to document and reflect on the ongoing pandemic, and how Singapore has responded to its impact and implications. We have had to make significant changes to the way we live, work and play: some of these will stand us in good stead even after COVID-19 passes. We need to learn from and consolidate what progress we have made, and continue to help our fellow Singaporeans cope with a changing world. More than ever, Singapore will need to actively build a more resilient society, continue to think long term and plan for the unexpected.</p>
 
-<p>This Special Edition of ETHOS, building on <a href="../../docs/default-source/ethos/ethos-digital-issue-6/ethosdigital_issue_jun20_editorial_v2.pdf">Digital Edition Issue 6</a>, will be an ongoing project. We will bring you regular updates with new views and perspectives to help record and make better sense of Singapore since COVID—so that we might better gird ourselves for the world that may follow in its wake.</p>
+<p>This Special Edition of ETHOS, building on <a href="https://go.gov.sg/digital-issue-06">Digital Edition Issue 6</a>, will be an ongoing project. We will bring you regular updates with new views and perspectives to help record and make better sense of Singapore since COVID—so that we might better gird ourselves for the world that may follow in its wake.</p>
 
 <p>&nbsp;</p>
 
@@ -119,9 +119,7 @@ li {
 <li class="small-text">Weizhen Tan, “Southeast Asia Could Gain as Supply Chains Shift During the Pandemic, Singapore Minister Says”, <em>CNBC</em>, November 19, 2020, accessed December 3, 2020, <a href="https://www.cnbc.com/2020/11/19/singapores-trade-minister-on-covid-19-work-from-home-supply-chains.html">https://www.cnbc.com/2020/11/19/singapores-trade-minister-on-covid-19-work-from-home-supply-chains.html</a>. </li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
