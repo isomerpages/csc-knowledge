@@ -65,7 +65,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
@@ -77,7 +77,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Dec/New_Consensus_For_Growth.jpg"></div>
 	<div>
 		<h3>A New Consensus for Growth in the 21st Century</h3>
 		<b><i></i></b>
@@ -89,7 +89,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Dec/ANewRegionalism.jpg"></div>
 	<div>
 		<h3>A New Regionalism: Southeast Asia’s Potential in the 21st Century</h3>
 		<b><i></i></b>
@@ -101,7 +101,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Dec/Cultural_Competence.jpg"></div>
 	<div>
 		<h3>Singapore, ASEAN, and Cultural Competence</h3>
 		<b><i></i></b>
@@ -113,7 +113,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Dec/Asia2035.jpg"></div>
 	<div>
 		<h3>Asia 2035: Five Takes</h3>
 		<b><i></i></b>
