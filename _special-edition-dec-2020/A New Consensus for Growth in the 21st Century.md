@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Special Edition (Dec 2020)</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Digital_Special_Dec/New_Consensus_For_Growth.jpg">
 
 
 <h3>The Need for a New Development Model</h3>
@@ -78,7 +78,7 @@ li {
 
 <p>The WAC originated from a discussion paper by J. Williamson outlining a set of policy reforms by which developing countries could promote economic development (see Figure 1).<sup><a href="#notes">1</a></sup></p>
 
-<a href="../../images/default-source/ethos-images/ethos-digital-special-edition/new-consensus-for-growth_figure-1.jpg?sfvrsn=c6e70ef3_2"><img title="New Consensus for Growth_Figure 1" src="../../images/default-source/ethos-images/ethos-digital-special-edition/new-consensus-for-growth_figure-1.jpg?sfvrsn=c6e70ef3_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="New Consensus for Growth_Figure 1"></a>
+<img title="New Consensus for Growth_Figure 1" src="/images/Ethos_Images/Ethos_Digital_Special_Edition/New_Consensus_For_Growth_Fig1.jpg" alt="New Consensus for Growth_Figure 1">
 
 <p style="text-align: center;" class="small-text">Figure 1. Ten Reform Prescriptions Recommended by the “Washington Consensus” <br>
 Source: J. Williamson (1990)<sup><a href="#notes">2</a></sup>
@@ -87,7 +87,7 @@ Source: J. Williamson (1990)<sup><a href="#notes">2</a></sup>
 <p>The BEC model, on the other hand, is focused on strategic approaches instead of operational prescriptions. Examining China’s historic level of success with economic reforms,
 J. Ramos proposed three guiding principles (or “theorems”) essential for economic development in developing countries: innovation, quality of life, and self-determination (see Figure 2).<sup><a href="#notes">3</a></sup></p>
 
-<a href="../../images/default-source/ethos-images/ethos-digital-special-edition/new-consensus-for-growth_figure-2.jpg?sfvrsn=b8e1e7e4_2"><img title="New Consensus for Growth_Figure 2" src="../../images/default-source/ethos-images/ethos-digital-special-edition/new-consensus-for-growth_figure-2.jpg?sfvrsn=b8e1e7e4_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="New Consensus for Growth_Figure 2"></a>
+<img title="New Consensus for Growth_Figure 2" src="/images/Ethos_Images/Ethos_Digital_Special_Edition/New_Consensus_For_Growth_Fig2.jpg" alt="New Consensus for Growth_Figure 2">
 
 <p style="text-align: center;" class="small-text">Figure 2. Three Theorems Defining the “Beijing Consensus” <br>
 Source: J. Ramos (2004)<sup><a href="#notes">4</a></sup></p>
@@ -100,19 +100,18 @@ Source: J. Ramos (2004)<sup><a href="#notes">4</a></sup></p>
 
 <p>3. The global development environment is constantly shifting, often in profound ways. In particular, the digital revolution and globalisation have generated unprecedented opportunities and challenges for economic development. These new dynamics, however, are not well captured in the WAC and BEC models, which were conceived at a time of much steadier innovation and lower levels of international integration.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>The digital revolution and globalisation have generated unprecedented opportunities and challenges for economic development.
-</em></h5>
+<p class="break1">The digital revolution and globalisation have generated unprecedented opportunities and challenges for economic development.
+</p>
 
-<hr>
+</div>
 
 <h3>Features of the New  Developmental Model</h3>
 
 <p>A new development model for the 21st century should meet at least two criteria. <strong>First</strong>, it should overcome the limitations of existing models. <strong>Second</strong>, it should go beyond questions about “what” and “how”—which respectively characterise the WAC and BEC models—to focus on “why.” In this spirit, we propose a new model based on three core components: synergy, vigour, and sustainability (see Figure 3).<sup><a href="#notes">7</a></sup></p>
 
-<p><span style="color: #953734;"><strong><a href="../../images/default-source/ethos-images/ethos-digital-special-edition/new-consensus-for-growth_figure-3.jpg?sfvrsn=408a772e_2"><img title="New Consensus for Growth_Figure 3" src="../../images/default-source/ethos-images/ethos-digital-special-edition/new-consensus-for-growth_figure-3.jpg?sfvrsn=408a772e_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="New Consensus for Growth_Figure 3"></a><br>
-</strong></span></p>
+<img title="New Consensus for Growth_Figure 3" src="/images/Ethos_Images/Ethos_Digital_Special_Edition/New_Consensus_For_Growth_Fig3.jpg" alt="New Consensus for Growth_Figure 3">
 
 <p style="text-align: center;" class="small-text">Figure 3. Proposed Development Model <br>
 Source: M. K. Vu (2020)<sup><a href="#notes">8</a></sup></p>
@@ -157,12 +156,12 @@ partner in commercial endeavours and a popular model for designing initiatives t
 <p>In terms of vigour, Singapore has become known globally for emphasising elements of good governance, establishing targeted economic positioning and national branding,  leveraging strengths
 such as location, and turning vulnerabilities into strategic advantages. For example, the country has embraced the “City in a Garden” concept, leveraging tropical greenery to  overcome the environmental disadvantages of hot weather and high humidity. Land scarcity has inspired the city-state to become a world leader in innovative urban management solutions, from the integration of land use and transportation planning to public housing and environmental  infrastructure. Furthermore, Singapore’s  shortage of natural resources has made the country highly committed and strategic in investing in their people and boosting their productivity, which have enabled Singapore to boast a world-class education system and a top-notch start-up ecosystem.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>Singapore's shortage of natural resources has made the country highly committed and strategic in investing in their people.
-</em></h5>
+<p class="break1">Singapore's shortage of natural resources has made the country highly committed and strategic in investing in their people.
+</p>
 
-<hr>
+</div>
 
 <p>Regarding sustainability, Singapore has committed considerable levels of resources, research, and policy efforts to improve liveability, fortify key urban assets against the impacts of climate change, and promote diversity and social inclusiveness. Singapore demonstrates how public policies can help cultivate
 a national narrative towards ethnic and religious harmony.</p>
@@ -175,14 +174,14 @@ a national narrative towards ethnic and religious harmony.</p>
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">WAC, BEC and ADC Compared</h3>
 <p class="text">While the United States and China are respectively examples of the WAC and BEC models, Singapore is an example for the ADC model. Although clearly evolved from WAC and BEC, the ADC places its primary focus on the “why” question and thus goes further than both models (which concern the “what” and “how” questions, respectively).</p>
 <p>Furthermore, ADC focuses on value creation as articulated by a comprehensive framework that includes synergy, vigour, and sustainability; by contrast, WAC is preoccupied with efficiency and BEC on coordination effectiveness. Additionally, ADC emphasises ecosystem-building as the primary mechanism to create value, while WAC relies on the market and BEC on government interventions.<br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-special-edition/new-consensus-for-growth_table-1-with-caption.jpg?sfvrsn=9485d8cd_2"><img title="New Consensus for Growth_Table 1 with caption" src="../../images/default-source/ethos-images/ethos-digital-special-edition/new-consensus-for-growth_table-1-with-caption.jpg?sfvrsn=9485d8cd_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="New Consensus for Growth_Table 1 with caption"></a></p>
+<img title="New Consensus for Growth_Table 1 with caption" src="/images/Ethos_Images/Ethos_Digital_Special_Edition/New_Consensus_For_Growth_Table1With_Caption.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="New Consensus for Growth_Table 1 with caption"></p>
 <p>Like Singapore, the other ASEAN countries are characterised by strategic location, diversity, and strong development aspirations. Given these circumstances, the region is well positioned to embrace a new development model that we might term the “ASEAN Development Consensus” (ADC). Adopting such a model would make the region’s development efforts more purposeful, coherent, and mutually reinforcing. It would also provide a signal to the world that the rise of ASEAN is fuelled not only by the rapid growth of individual countries but also, more crucially, by the robust synergy, vigour, and sustainability of its ecosystem, grounded in a sense of shared vision and commitment to the region’s common prosperity. This should bolster ASEAN’s global economic and political position in the decades to come.</p>
 <p>It should be noted that the strength of a country or region comes not only from soft power or hard power but also from its navigating capability. As the world is becoming increasingly volatile, uncertain, and complex while Asia is rapidly rising, an inspiring vision and a clear joint development strategy will avail ASEAN of further global economic strength and political influence in the decades to come.
 </p>
@@ -229,12 +228,12 @@ a national narrative towards ethnic and religious harmony.</p>
 
 <p>These elements could serve as a diagnostic tool for policymakers to determine their country’s performance, indicating areas on which to focus reform and development efforts.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>Enhancing readiness to embrace a new development model is a substantial step for any country.
-</em></h5>
+<p class="break1">Enhancing readiness to embrace a new development model is a substantial step for any country.
+</p>
 
-<hr>
+</div>
 
 <h3>Conclusion</h3>
 
@@ -246,7 +245,7 @@ a national narrative towards ethnic and religious harmony.</p>
 
 <p>In embracing ADC, ASEAN and similarly situated countries can empower themselves to transform their economies, societies, and environments, not merely “catching up” to highly developed countries but charting a new course beyond—one defined by unique perspectives and strengths that have often been overlooked by legacy development models. Singapore has an opportunity, and indeed even a calling, to be a leader in this new thinking for 21st century development.</p>
 
-<hr>
+<div class="author">
 
 <h6>ABOUT THE AUTHORS</h6>
 
@@ -254,7 +253,7 @@ a national narrative towards ethnic and religious harmony.</p>
 
 <p class="small-text"><strong>Kris Hartley</strong> is Assistant Professor in the Department of Asian and Policy Studies at the Education University of Hong Kong.</p>
 
-<hr>
+</div>
 
 <h6> <a name="notes"></a>NOTES</h6>
 
@@ -270,9 +269,7 @@ a national narrative towards ethnic and religious harmony.</p>
 <li class="small-text">M. K. Vu, and K. Hartley, “Promoting Smart Cities in Developing Countries: Policy Insights from Vietnam”, <em>Telecommunications Policy</em>, 42, no. 10 (2017): 845–859, <a href="https://doi.org/10.1016/j.telpol.2017.10.005">https://doi.org/10.1016/j. telpol.2017.10.005</a></li>
 </ol>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
