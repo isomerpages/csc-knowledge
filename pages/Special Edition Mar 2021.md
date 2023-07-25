@@ -70,7 +70,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i>by Alvin Pang</i></b>
 		<p>In this update, we present views that sugest the growing role that our home region might play in Singapore's post-COVID economic prospects, as world economies pivot and supply chains shift.</p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-mar-2021/editorial/">Read more</a></div>
 	</div>
 </div>
 
@@ -82,7 +82,7 @@ margin-top:15px;
 		<h3>Southeast Asia and Singapore: Prospects in a Post-COVID World</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-mar-2021/southeast-asia-and-singapore-prospects-in-a-post-covid-world/">Read more</a></div>
 	</div>
 </div>
 
@@ -94,7 +94,7 @@ margin-top:15px;
 		<h3>Making Ours an Uplifting Society</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-mar-2021/making-ours-an-uplifting-society/">Read more</a></div>
 	</div>
 </div>
 
@@ -106,7 +106,7 @@ margin-top:15px;
 		<h3>Sampan Singapore: New Lines, Nets and Capabilities in the COVID Storm</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-mar-2021/sampan-singapore-new-lines-nets-and-capabilities-in-the-covid-storm/">Read more</a></div>
 	</div>
 </div>
 
@@ -118,7 +118,7 @@ margin-top:15px;
 		<h3>Emerging Stronger as an Antifragile Nation</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-mar-2021/emerging-stronger-as-an-antifragile-nation/">Read more</a></div>
 	</div>
 </div>
 
@@ -130,7 +130,7 @@ margin-top:15px;
 		<h3>History: A Public Service User’s Guide</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-mar-2021/history-a-public-service-user-s-guide/">Read more</a></div>
 	</div>
 </div>
 
@@ -142,7 +142,7 @@ margin-top:15px;
 		<h3>Incentivising New Partnerships for Social Impact</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-mar-2021/incentivising-new-partnerships-for-social-impact/">Read more</a></div>
 	</div>
 </div>
 
@@ -154,7 +154,7 @@ margin-top:15px;
 		<h3>Rethinking Resilience in the Workplace</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/special-edition-mar-2021/rethinking-resilience-in-the-workplace/">Read more</a></div>
 	</div>
 </div>
 
