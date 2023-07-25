@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Special Edition (Dec 2020)</small></em>
-<img src="">
+<img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
 
 
