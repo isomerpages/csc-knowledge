@@ -151,7 +151,7 @@ Last year, Asia accounted for around 40% of the world’s venture finance, nearl
 
 <br>
 
-<a href="../../images/default-source/ethos-images/ethos-digital-special-edition/asia-2035_pie-chart.png?sfvrsn=ebf81df5_2"><img title="Asia 2035_pie chart" src="../../images/default-source/ethos-images/ethos-digital-special-edition/asia-2035_pie-chart.png?sfvrsn=ebf81df5_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Asia 2035_pie chart"></a>
+<img title="Asia 2035_pie chart" src="/images/Ethos_Images/Ethos_Digital_Special_Edition/Asia2035_PieChart.png" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Asia 2035_pie chart">
 
 <hr>
 
