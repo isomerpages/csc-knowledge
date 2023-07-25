@@ -67,7 +67,19 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Editorial</h3>
+		<b><i>by Alvin Pang</i></b>
+		<p>As 2020 draws to a close and a new year looms, ETHOS continues to document and reflect on the ongoing pandemic, and how Singapore has responded to its impact and implications.</p>
+		<div class="button1"><a href="/special-edition-dec-2020/editorial/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>A New Consensus for Growth in the 21st Century</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -79,7 +91,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>A New Regionalism: Southeast Asia’s Potential in the 21st Century</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -91,7 +103,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Singapore, ASEAN, and Cultural Competence</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
@@ -103,19 +115,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
-	</div>
-</div>
-
-<br>
-
-<div class="grid-container">
-	<div><img src=""></div>
-	<div>
-		<h3></h3>
+		<h3>Asia 2035: Five Takes</h3>
 		<b><i></i></b>
 		<p></p>
 		<div class="button1"><a href="">Read more</a></div>
