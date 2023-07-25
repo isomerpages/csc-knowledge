@@ -96,13 +96,13 @@ a stronger economy by themselves. But if we come together, we could be in a much
 
 <p>Some of these issues have to do with our economic frameworks. We only have partial free trade within ASEAN today. While I am in favour of supporting local businesses, there has to be a middle ground if we want to move ASEAN forward as a region. So for instance if there is a trade war going on between world powers, we need to stay neutral in the economic field. Once we start taking sides, even though it may be to our individual national advantage, it will be difficult for us to grow as a single larger bloc.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Once we start taking sides, even though it may be to our individual national advantage, it will be difficult for us to grow as a single larger bloc.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #7030a0;">TAN</span>:</strong> In pursuing Public Sector Transformation in Singapore, we have been talking about the 3As: Ambition, Alignment and Action. Extrapolating from these principles, I think ASEAN has focused a lot on alignment: trying to align interests, align what we want to do together in terms of the shared mission, but we need to move even more into the action part.</span></p>
 
@@ -122,13 +122,13 @@ a sibling might say: don’t worry about me, I can take care of my own. But when
 
 <p>Climate change is one: it will impact everybody. The digital economy is another: everyone is interested and wants to be involved. So I think there are common issues that we can push forward together in, if we can identify them and align everybody behind them. ASEAN involves 10 countries and works by consensus, so it is difficult to get everyone to be aligned. But if we can identify three or four priorities to work on, say over the next five years rather than just one year, then we can build the kind of alignment and achieve the kind of push that will help people see the value of ASEAN.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 ASEAN is very diverse: different countries will be at different stages  on an issue.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>How Can Singapore Contribute to Help ASEAN Work More Closely Together?</h3>
 
@@ -142,13 +142,13 @@ ASEAN is very diverse: different countries will be at different stages  on an is
 
 <p>The third in my view is healthcare. What’s close to my heart is the software of humans, that is to say mental health. With greater digitalisation comes a changing environment in terms of jobs and competition as well as social media, cyberbullying, social isolation and so on. There are not only physical effects but a mental impact, such as the stress of work as well as of social expectations, that you’d have to be prepared for.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Singapore is in a good position to help look for opportunities and challenges, by reaching out  to colleagues who are open.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">BOROS</span>:</strong></span> I raised the idea of ASEAN as a family earlier: if you want a family where trust is strong, you have to help one another out. So we’ve talked about identifying a common challenge. For a family of 10, it might be, say, what to watch on TV together. But what about the brother who does not have enough food on his table? Would he rather think about food or TV?</p>
 
@@ -161,9 +161,7 @@ If you want to have a strong family, you look out for the real needs of each of 
 
 <p class="small-text"><em>The ETHOS Roundtable was conducted in August 2019 with a group of participants in the 12th Leaders in Governance Programme (LGP). Organised annually by the Civil Service College, the LGP draws from Singapore’s development experience to offer practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the seven-day programme, participants interact with thought leaders, and visit key government agencies to understand their operating philosophies and values.</em></p>
 
-<br>
 
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
 
 
 
