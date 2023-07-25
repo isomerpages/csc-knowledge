@@ -81,7 +81,7 @@ margin-top:15px;
 	<div>
 		<h3>Southeast Asia and Singapore: Prospects in a Post-COVID World</h3>
 		<b><i>Interview with Dr Beh Swan Gin</i></b>
-		<p></p>
+		<p>In a conversation with ETHOS, the Chairman of Singapore’s Economic Development Board shares his view on how Singapore could expand and diversify our economy by growing with the region.</p>
 		<div class="button1"><a href="/special-edition-mar-2021/southeast-asia-and-singapore-prospects-in-a-post-covid-world/">Read more</a></div>
 	</div>
 </div>
@@ -93,7 +93,7 @@ margin-top:15px;
 	<div>
 		<h3>Making Ours an Uplifting Society</h3>
 		<b><i>by Tharman Shanmugaratnam</i></b>
-		<p></p>
+		<p>One that uplifts everyone through opportunities in life, uplifts the low-paid, and uplifts the spirit.</p>
 		<div class="button1"><a href="/special-edition-mar-2021/making-ours-an-uplifting-society/">Read more</a></div>
 	</div>
 </div>
@@ -105,7 +105,7 @@ margin-top:15px;
 	<div>
 		<h3>Sampan Singapore: New Lines, Nets and Capabilities in the COVID Storm</h3>
 		<b><i>by Eleena Tan</i></b>
-		<p></p>
+		<p>Despite decades of growth, the global pandemic has shown that Singapore remains a small, vulnerable state in a volatile global environment. How do we stay afloat and thrive in an uncertain future?</p>
 		<div class="button1"><a href="/special-edition-mar-2021/sampan-singapore-new-lines-nets-and-capabilities-in-the-covid-storm/">Read more</a></div>
 	</div>
 </div>
@@ -117,7 +117,7 @@ margin-top:15px;
 	<div>
 		<h3>Emerging Stronger as an Antifragile Nation</h3>
 		<b><i>by Azfer A. Khan, Ang Kheng Kiat</i></b>
-		<p></p>
+		<p>Crises such as the COVID-19 pandemic are an opportunity for Singapore to forge new bonds, by drawing from our different perspectives and capacities to benefit the common good.</p>
 		<div class="button1"><a href="/special-edition-mar-2021/emerging-stronger-as-an-antifragile-nation/">Read more</a></div>
 	</div>
 </div>
@@ -129,7 +129,7 @@ margin-top:15px;
 	<div>
 		<h3>History: A Public Service User’s Guide</h3>
 		<b><i>by Chua Jun Yan</i></b>
-		<p></p>
+		<p>A nuanced approach to history is needed to help policymakers navigate increasingly contested public narratives. It can also deepen their capacity for analysis, reflection, and imagination.</p>
 		<div class="button1"><a href="/special-edition-mar-2021/history-a-public-service-user-s-guide/">Read more</a></div>
 	</div>
 </div>
@@ -141,7 +141,7 @@ margin-top:15px;
 	<div>
 		<h3>Incentivising New Partnerships for Social Impact</h3>
 		<b><i>by Kevin Tan</i></b>
-		<p></p>
+		<p>Tools such as Pay for Success are a timely way to generate innovative cross-sectoral partnerships to deliver greater public value in the New Normal.</p>
 		<div class="button1"><a href="/special-edition-mar-2021/incentivising-new-partnerships-for-social-impact/">Read more</a></div>
 	</div>
 </div>
@@ -153,7 +153,7 @@ margin-top:15px;
 	<div>
 		<h3>Rethinking Resilience in the Workplace</h3>
 		<b><i>by Esther Cheah</i></b>
-		<p></p>
+		<p>A shift in how we view resilience—as a team-based attribute and goal rather than an individual quality—could greatly improve both work performance and staff wellbeing.</p>
 		<div class="button1"><a href="/special-edition-mar-2021/rethinking-resilience-in-the-workplace/">Read more</a></div>
 	</div>
 </div>
