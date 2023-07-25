@@ -132,7 +132,7 @@ font-size: 16px;
 
 <tr>
 	<td><a target="_blank" href="/ethos-issue-22/">Issue 22, Jun 2021, Governing in a Crisis</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-digital-special-edition-mar21">Digital Special Edition, Mar 2021 Update</a></td>
+	<td><a target="_blank" href="/digital-special-edition-mar-2021/">Digital Special Edition, Mar 2021 Update</a></td>
 </tr>	
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/ethosjune2021">Download PDF</a></td>
@@ -157,7 +157,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-digital-special-edition-dec20">Digital Special Edition, Dec 2020</a></td>
+	<td><a target="_blank" href="/digital-special-edition-dec-2020/">Digital Special Edition, Dec 2020</a></td>
 	<td><a target="_blank" href="https://go.gov.sg/digital-issue-06">Digital Edition Issue 6, <br>Jun 2020</a></td>
 </tr>
 
