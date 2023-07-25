@@ -80,10 +80,11 @@ li {
     also gives out prestigious ASEAN scholarships to students from the Philippines, Malaysia, Thailand, Myanmar and Vietnam. The government also provides subsidies under SkillsFuture,<sup><a href="#notes" data-sf-ec-immutable="">3</a></sup> its lifelong-learning
     initiative, for Singaporeans applying for the ASEAN Leadership Programme where candidates are sent for training in various business firms to develop skills for global roles. These initiatives seek to provide opportunities for networking, understanding
     of the burgeoning Southeast Asian markets, as well as cross-cultural learning among Southeast Asian youth.</p>
-<hr>
-<h5><i>To be culturally “competent” is to be able to work effectively across cultures—learning, communicating and working respectfully with people of diverse backgrounds.
-</i></h5>
-<hr>
+<div class="break">
+
+<p class="break1">To be culturally “competent” is to be able to work effectively across cultures—learning, communicating and working respectfully with people of diverse backgrounds.
+</p>
+</div>
 <h3>A Perception Gap among Young Singaporeans</h3>
 <p>Despite such governmental efforts, a 2006 survey of 184 NUS students conducted by anthropologist Eric Thompson showed that although young, educated Singaporeans had a strong sense of Southeast Asia as a region, they were undecided about Singapore’s
     relationship to that region. Most Singaporeans identified with either the “West” or looked to China, Japan, South Korea and Taiwan, rather than their Southeast Asian neighbours.<sup><a href="#notes" data-sf-ec-immutable="">4</a></sup> </p>
@@ -142,23 +143,24 @@ li {
     on racial harmony—provides the basis for which diversity can be seen in positive terms. Hence, unlike in Europe, where xenophobia has accompanied the migration crisis and the effects of globalisation, more frequent interactions with our fellow
     Southeast Asians may expose our population to the rich cultural diversity in Southeast Asian societies. This could foster among Singaporeans an interest in seeking to understand other cultures, as complex as these might be, rather than relying on
     simplistic portrayals of the other.</p>
-<hr>
-<h5><i>Cultural competence is not just about understanding others, but also our own cultural values and how they influence our actions.
-</i></h5>
-<hr>
+<div class="break">
+
+<p class="break1">Cultural competence is not just about understanding others, but also our own cultural values and how they influence our actions.
+</p>
+</div>
 <h3>Conclusion</h3>
 <p>Cultural competence is not just about understanding others, but also our own cultural values and how they influence our actions. To be able to form a community, a people need to share common beliefs, visions, meanings, and values. In turn, this requires
     interpersonal connections and affiliations through which culture can be shared.</p>
 <p>There is a need to foster more willingness to engage with ASEAN cultures—this can begin by changing the perceptions of Singaporeans towards our neighbours. This will have to be followed through with opportunities for our peoples to work together
     on meaningful projects towards common goals, such as addressing climate change or healthcare. Such hands-on efforts will help build up trust and confidence, so Singaporeans can begin to see themselves not as the aloof exceptions but as equal partners
     in a larger regional community that is thriving and rich with opportunity.</p>
-<hr>
+<div class="author">
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text">ABOUT THE AUTHORS</p>
 <table style="border:none;background-color:transparent;"><tbody><tr style="border:none;"><td style="padding:0;padding-right:32px;border:none;"><p class="small-text"><b>Mathew Mathews</b> is Head, Social Lab and Senior Research Fellow at the Institute of Policy Studies, Lee Kuan Yew School of Public Policy, NUS. He has been involved in over 50 research projects, a number of them revolving around culture.
                 </p><p class="small-text"><b>Shane Pereira</b> is Research Associate at the Institute of Policy Studies. His research interests include social and cultural diversity. He is currently working on issues of in-work poverty and youth, and multiculturalism and the use
                     of public space.
                 </p></td><td style="width:120px;border:none;" class="desktop-only">&nbsp;</td></tr></tbody></table>
-<hr>
+</div>
 <p style="font-weight:bold;letter-spacing:1px;" class="small-text"><a name="notes" data-sf-ec-immutable=""></a>NOTES</p>
 <ol><li class="small-text">Association of Southeast Asian Nations, “Chairman’s Statement of the 11th ASEAN Summit ‘One Vision, One Identity, One Community’, Kuala Lumpur”, December 12, 2005, accessed 17 December, 2018, <a href="https://asean.org/chairman-s-statement-of-the-11th-asean-summit-one-vision-one-identity-one-community-kuala-lumpur/?highlight=11th%20asean%20summit">https://asean.org/chairman-s-statement-of-the-11thasean-summit-one-vision-one-identity-onecommunity-kuala-lumpur/</a>.</li><li class="small-text">Curriculum Planning and Development Division, Ministry of Education. <i>Primary Social Studies Syllabus</i>, 2012.</li><li class="small-text">SkillsFuture Programme (website), <a href="https://www.skillsfuture.sg/" data-sf-ec-immutable="">https://www.skillsfuture.sg/</a>.</li><li class="small-text">Eric C. Thompson, “Singaporean Exceptionalism and Its Implications for ASEAN Regionalism”, <i>Contemporary Southeast Asia 28</i>, no. 2 (2006): 183–206.</li><li class="small-text">Louisa Tang, “The Big Read: As ASEAN Economies Take Off, Young Singaporeans Need to Shed Misconceptions about the Region”,&nbsp;<i>CNA</i>, September 25, 2018, accessed December 18, 2019, <a href="https://www.channelnewsasia.com/news/singapore/young-singaporeansasean-southeast-asia-mentality-workoverseas-10751274" data-sf-ec-immutable="">https://www.channelnewsasia.com/news/singapore/young-singaporeansasean-southeast-asia-mentality-workoverseas-10751274</a>.</li><li class="small-text">C. Moloi and Mariette Bam, “Exploring Cultural Competence from a Sociological Point of View”, <i>Mediterranean Journal of Social Sciences</i>&nbsp;5, no. 3 (2014): 332–337.</li><li class="small-text">Anthony Reid, “Singapore between Cosmopolis and Nation”, in <i>Singapore from Temasek to the 21st Century: Reinventing the Global City</i> (Singapore: NUS Press, 2010), 37–54.</li><li class="small-text">Lee Jun Jie, “Colonialism and ASEAN Identity: Inherited “Mental Barriers” Hindering the Formation of a Collective ASEAN Identity”, <i>Kyoto Review of Southeast Asia</i>, 2018, accessed December 16, 2019, <a href="https://kyotoreview.org/trendsetters/colonialism-asean-identity/" data-sf-ec-immutable="">https://kyotoreview.org/trendsetters/colonialism-asean-identity/</a>.</li><li class="small-text">The Singapore Bicentennial Conference, IPS, video file, posted October 6, 2019, accessed December 18, 2019, <a href="https://www.youtube.com/watch?v=Az2FhXAQp6A&amp;feature=youtu.be" data-sf-ec-immutable="">https://www.youtube.com/watch?v=Az2FhXAQp6A&amp;feature=youtu.be</a>.</li><li class="small-text"><i>The Economist</i>, Special Report, “The Singapore Exception”, July 18, 2015, accessed January 22, 2020, <a href="https://www.economist.com/news/ special-report/21657606-continue-flourish-itssecond-half-century-south-east-asias-miraclecity-state" data-sf-ec-immutable="">https://www.economist.com/news/ special-report/21657606-continue-flourish-itssecond-half-century-south-east-asias-miraclecity-state</a>.</li><li class="small-text">Zhaki Abdullah, “Malay Can Serve as a Bridge to the Region: Chan Chun Sing”, <i>The Straits Times</i>, October 24, 2017, accessed December 18, 2019.</li></ol>
 <br>
