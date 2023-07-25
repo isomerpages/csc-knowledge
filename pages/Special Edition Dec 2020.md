@@ -81,7 +81,7 @@ margin-top:15px;
 	<div>
 		<h3>A New Consensus for Growth in the 21st Century</h3>
 		<b><i>by Khuong Minh Vu, Kris Hartley</i></b>
-		<p></p>
+		<p>A new model for development—based on synergy, vigour, and sustainability—may be key to addressing changing needs in an age of globalisation and digital revolution.</p>
 		<div class="button1"><a href="/special-edition-dec-2020/a-new-consensus-for-growth-in-the-21st-century/">Read more</a></div>
 	</div>
 </div>
@@ -93,7 +93,7 @@ margin-top:15px;
 	<div>
 		<h3>A New Regionalism: Southeast Asia’s Potential in the 21st Century</h3>
 		<b><i>ETHOS Roundtable with Tan Lin Teck, Samheng Boros and Kelvin Yii</i></b>
-		<p></p>
+		<p>In this edition of the ETHOS Roundtable, participants of the 12th Leadership in Governance Programme from three ASEAN member countries discuss the opportunities and challenges facing Southeast Asia in the 21st century, and how the region can come together to address them.</p>
 		<div class="button1"><a href="/special-edition-dec-2020/a-new-regionalism-southeast-asia-s-potential-in-the-21st-century/">Read more</a></div>
 	</div>
 </div>
@@ -105,7 +105,7 @@ margin-top:15px;
 	<div>
 		<h3>Singapore, ASEAN, and Cultural Competence</h3>
 		<b><i>by Shane Pereira, Mathew Mathews</i></b>
-		<p></p>
+		<p>Researchers from the Institute of Policy Studies at the Lee Kuan Yew School of Public Policy suggest how Singapore can take the lead in fostering a sense of community with our Southeast Asian neighbours.</p>
 		<div class="button1"><a href="/special-edition-dec-2020/singapore-asean-and-cultural-competence/">Read more</a></div>
 	</div>
 </div>
@@ -117,7 +117,7 @@ margin-top:15px;
 	<div>
 		<h3>Asia 2035: Five Takes</h3>
 		<b><i>Insights from Selina Ho, Phred Dvorak, Marina Jose Kaneti, Kanti Bajpai and Adam Yao Liu</i></b>
-		<p></p>
+		<p>Observers convened by the Lee Kuan Yew School of Public Policy agree China will play a dominant role in Asia’s future, but predict a variety of potential outcomes.</p>
 		<div class="button1"><a href="/special-edition-dec-2020/asia-2035-five-takes/">Read more</a></div>
 	</div>
 </div>
