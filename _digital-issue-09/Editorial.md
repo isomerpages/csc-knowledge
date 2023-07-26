@@ -80,7 +80,7 @@ li {
 
 <p>Seeing an inextricable link between urbanisation and sustainability, city-making expert Anupam Yog believes we should <a href="/digital-issue-09/rethinking-sustainable-urban-governance/">look at urban governance as a whole system to consider healthy human living in the long term</a>—reframing what we value and how we measure and practicably achieve it.</p>
 
-<p>Pointing to the existential challenge of climate change, leadership guru Peter Hawkins argues that <a href="../collaborative-leadership-the-challenge-of-the-future-in-conversation-with-peter-hawkins.html">a new sense of inclusive and collaborative leadership is needed to envision and mobilise people</a>&nbsp; towards a sustainable long-term future.</p>
+<p>Pointing to the existential challenge of climate change, leadership guru Peter Hawkins argues that <a href="/digital-issue-09/in-conversation-with-peter-hawkins">a new sense of inclusive and collaborative leadership is needed to envision and mobilise people</a>&nbsp; towards a sustainable long-term future.</p>
 
 <p>The launch of our print issue saw great interest in this increasingly urgent theme, as cities and their governments grapple with how to take meaningful next steps despite the formidable challenges the world faces today. We hope these insights contribute to their deliberations.</p>
 
