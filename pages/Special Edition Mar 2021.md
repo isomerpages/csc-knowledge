@@ -137,7 +137,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Mar/Incentivising_Partnerships_BannerTeaser.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Mar/D_SEditionMar_Teaser_IncentivisingPartnerships.jpg"></div>
 	<div>
 		<h3>Incentivising New Partnerships for Social Impact</h3>
 		<b><i>by Kevin Tan</i></b>
@@ -149,7 +149,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Mar/RethinkingResilience_BannerTeaser.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Mar/D_SEditionMar__Teaser_Rethinking%20Resilience.jpeg"></div>
 	<div>
 		<h3>Rethinking Resilience in the Workplace</h3>
 		<b><i>by Esther Cheah</i></b>
