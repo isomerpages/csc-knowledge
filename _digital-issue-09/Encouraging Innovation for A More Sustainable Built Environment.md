@@ -107,16 +107,12 @@ Successful pilots help to assuage concerns from the private sector on the viabil
 
 
 
-<p class="small-text text">The HDB partnered with SP Group to implement a CCS for Tengah Town to provide energy-efficient cooling to homes.</p>
 
-
-
-
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Implementing a Centralised Cooling System (CCS)</h3>
-<p style="text-align: left;" class="small-text"><strong><a href="../../images/default-source/ethos-images/ethos-digital-issue-9/encouraging-greater-innovation_tengah-ccs_fig-1.jpg?sfvrsn=32024d42_2"><img title="Encouraging Greater Innovation_Tengah CCS_Fig. 1" src="../../images/default-source/ethos-images/ethos-digital-issue-9/encouraging-greater-innovation_tengah-ccs_fig-1.jpg?sfvrsn=32024d42_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Encouraging Greater Innovation_Tengah CCS_Fig. 1"></a><br>
+<p style="text-align: left;" class="small-text"><strong><img title="Encouraging Greater Innovation_Tengah CCS_Fig. 1" src="/images/Ethos_Images/Ethos_Digital_Issue_09/EncouragingGreaterInnovation_TengahCCS_Fig1.jpg" alt="Encouraging Greater Innovation_Tengah CCS_Fig. 1"><br>
 Figure 1. </strong>Tengah DCS <br>
 Source: SP Group</p>
 <p class="text">
@@ -124,7 +120,7 @@ The HDB partnered with SP Group to implement a CCS for Tengah Town to provide en
 <p class="text">In return for their initial investment and provision of services, SP Group will earn revenue from Tengah residents through fees (such as for installation and servicing) and the sale of cooling services. Since profits are derived from the sale of cooling, SP Group is incentivised to upgrade the equipment and continue innovating to optimise the performance of the CCS.</p>
 <p class="text">Partnering with HDB offered SP Group the opportunity to test the CCS deployment for residential developments. With the CCS as an anchor, SP Group was also able to introduce and test out other energy-related innovations—including solar PV systems, battery energy storage systems, electric vehicle (EV) charging stations, data platforms and digital technologies—to expand beyond its primary remit.<br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-9/encouraging-greater-innovation_tengah-ccs_fig-2.jpg?sfvrsn=a1674e25_2"><img title="Encouraging Greater Innovation_Tengah CCS_Fig. 2" src="../../images/default-source/ethos-images/ethos-digital-issue-9/encouraging-greater-innovation_tengah-ccs_fig-2.jpg?sfvrsn=a1674e25_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Encouraging Greater Innovation_Tengah CCS_Fig. 2"></a></p>
+<img title="Encouraging Greater Innovation_Tengah CCS_Fig. 2" src="/images/Ethos_Images/Ethos_Digital_Issue_09/EncouragingGreaterInnovation_TengahCCS_fig2.jpg" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Encouraging Greater Innovation_Tengah CCS_Fig. 2"></p>
 <p style="text-align: left;" class="small-text"><strong>Figure 2.</strong> Tengah CCS Township App<br>
 Source: SP Group</p>
 <p class="text">The HDB partnered with SP Group to implement a CCS for Tengah Town to provide energy-efficient cooling to homes. SP Group’s role was to finance, design, build and operate the CCS while HDB designed the building infrastructure to support the installation of the CCS. This model greatly reduced the risk to HDB as SP Group was in a better position to operate and maintain the cooling system.</p>
