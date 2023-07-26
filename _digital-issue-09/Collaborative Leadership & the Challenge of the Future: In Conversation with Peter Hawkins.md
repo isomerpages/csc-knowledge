@@ -68,7 +68,7 @@ li {
 </style>
 
 <em><small>Digital Issue 09, Nov 2022</small></em>
-<img src="">
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
 
 
 
