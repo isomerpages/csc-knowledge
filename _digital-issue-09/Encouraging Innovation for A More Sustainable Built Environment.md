@@ -78,13 +78,13 @@ li {
 
 <p>Despite these challenges, a number of projects in Singapore have applied novel approaches to successfully incorporate or scale up sustainable urban solutions.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Innovative technologies are often seen as riskier or more costly to adopt.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Building an Effective Public-Private Partnership for Innovation</h3>
 
@@ -96,13 +96,13 @@ Innovative technologies are often seen as riskier or more costly to adopt.
 
 <p>Financially, the HDB shares business risks with the private sector partners by co-investing in sustainable infrastructures, such as Centralised Cooling Systems (CCSs) and solar photovoltaic (PV) systems. At the same time, partnering with the HDB helps to build market demand and economies of scale for such innovations, which drives down costs for potential technology adopters. Innovations in business models can help to encourage the uptake of sustainability technologies by transferring the risks of innovation from the building owner and consumer to the solution provider, while ensuring financial viability.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Successful pilots help to assuage concerns from the private sector on the viability of sustainability technologies at scale.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 
 
@@ -155,7 +155,7 @@ Source: Sunseap</p>
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Scaling Up Deployment  of Solar PV Systems through a Solar Leasing Model</h3>
@@ -187,13 +187,13 @@ Although Singapore had strategically pushed for solar PV systems since 2007, the
 
 <p>The National University of Singapore (NUS) School of Design and Environment 4 Building (SDE4) is Singapore’s first new-build net-zero energy building. It began operating in January 2019. As a developer-owner-operator, NUS oversaw the conceptualisation, development and operation of its new campus infrastructure. This encouraged it to adopt a holistic lifecycle approach, translating ambitious goals into an optimised design, facilitating sustainable downstream operations and performance.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Innovative approaches in building operations can stimulate the uptake of sustainability technologies and encouraging behavioural change.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 
 
@@ -270,13 +270,13 @@ Source: NUS SDE</p>
 
 <p>6. <strong>Adopting an urban systems approach </strong>will better integrate the planning and design of the built environment with sustainability innovations. For example, the Tengah CCS evolved through HDB’s and SP’s collaboration to implement an integrated energy system that integrates district cooling, renewable energy, waste-to-energy and EV charging systems, with digital dashboards to encourage sustainable behaviour in energy use.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Business models and contracts should be designed to incentivise solution providers to upgrade their infrastructures as technology advances.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h6>ABOUT THE AUTHOR</h6>
 
