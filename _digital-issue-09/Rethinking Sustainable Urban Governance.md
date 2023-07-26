@@ -83,13 +83,13 @@ li {
 
 <p>The final element that I hope will rapidly take hold is <em>humanisation</em>, because ultimately all this work in urban development  is about us humans as a species. This is a force that must be the glue bringing everything together, so that ultimately all these systems are in service of humanity.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Sustainability is not something that can be looked at independent of cities, and we need to look at the relationship between the two.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Measuring and Tracking Urban Sustainability</h3>
 
@@ -101,13 +101,13 @@ Sustainability is not something that can be looked at independent of cities, and
 
 <p>As an urban species, we need to have that capacity to recognise that the way our cities are designed, built, and operated has a very dramatic impact on our lives.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 As an urban species, we need to recognise that the way our cities are designed, built, and operated has a very dramatic impact on our lives.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Singapore as a Knowledge Leader and Hub</h3>
 
@@ -127,13 +127,13 @@ As an urban species, we need to recognise that the way our cities are designed, 
 
 <p>And there are many places where we don’t naturally go to look for examples of innovation. We need to look at and understand what is happening at very local scales where communities have figured out innovative ways to operate in a meaningful way and bring these to the forefront.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 The wealth of a city lies in the development, maintenance, and equitable use of its public spaces that are created for the many, not just the few.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Finding New Insights in Unexplored Connections</h3>
 
@@ -145,13 +145,13 @@ The wealth of a city lies in the development, maintenance, and equitable use of 
 
 <p>Cities must become places that go beyond the notion of economic productivity or talent attraction, to offer something that is whole-of-life, and which caters to different people,  with multiple centres and hubs of activity and mixed uses. This is where the world needs to go.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Cities must become places that go beyond the notion of economic productivity or talent attraction, to offer something that is whole-of-life, and which caters to different people.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>The Challenge for Policymakers</h3>
 
@@ -171,13 +171,13 @@ Cities must become places that go beyond the notion of economic productivity or 
 
 <p>Perhaps Singapore’s future brand should embrace the notion of compassion: going beyond <em>Passion Made Possible</em>, to realise compassion made possible.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 Singapore, with a rapidly ageing population, offers an interesting opportunity to re-envision the city as a healthy, equitable place for all.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h6>ABOUT THE AUTHOR</h6>
 
@@ -185,9 +185,7 @@ Singapore, with a rapidly ageing population, offers an interesting opportunity t
 
 <p>&nbsp;</p>
 
-<hr>
 
-<p><a href="../../ethos.html">Back to ETHOS homepage</a></p>
 
 
 
