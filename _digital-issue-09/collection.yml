@@ -2,6 +2,7 @@ collections:
   digital-issue-09:
     output: true
     order:
+      - Rethinking Sustainable Urban Governance.md
       - Designing for a Human Future.md
       - Encouraging Innovation for A More Sustainable Built Environment.md
       - Editorial.md
