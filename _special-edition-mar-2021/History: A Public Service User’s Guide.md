@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Special Edition (March 2021 Update)</small></em>
-<img src="/images/Cropped_images/Ethos_Digital_Special_Mar/History_Publicservice_Teaser.jpg">
+<img src="/images/Cropped_images/Ethos_Digital_Special_Mar/D_SEditionMar_Banner_History_PublicService.jpg">
 
 
 
