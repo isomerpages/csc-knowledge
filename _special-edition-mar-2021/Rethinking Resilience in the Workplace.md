@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Special Edition (March 2021 Update)</small></em>
-<img src="/images/Cropped_images/Ethos_Digital_Special_Mar/RethinkingResilience_BannerTeaser.jpg">
+<img src="/images/Cropped_images/Ethos_Digital_Special_Mar/D_SEditionMar__Banner_Rethinking%20Resilience.jpeg">
 
 
 <h3>Introduction</h3>
