@@ -138,7 +138,7 @@ Source: SP Group</p>
 
 <p>Such approaches support the industry in developing its capabilities. They were key to the scaling up of HDB’s solar PV system implementation efforts in a financially sustainable manner. The success of the solar leasing model led to the creation of the SolarNova programme in 2014.<br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-9/encouraging-greater-innovation_sunseap.jpg?sfvrsn=325e0c1d_2"><img title="Encouraging Greater Innovation_Sunseap" src="../../images/default-source/ethos-images/ethos-digital-issue-9/encouraging-greater-innovation_sunseap.jpg?sfvrsn=325e0c1d_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Encouraging Greater Innovation_Sunseap"></a></p>
+<img title="Encouraging Greater Innovation_Sunseap" src="/images/Ethos_Images/Ethos_Digital_Issue_09/EncouragingGreater_Innovation_Sunseap.jpg" alt="Encouraging Greater Innovation_Sunseap"></p>
 
 <p style="text-align: left;" class="small-text">Under the SolarNova Programme, Sunseap installs solar panels across Singapore. <br>
 Source: Sunseap</p>
@@ -146,8 +146,9 @@ Source: Sunseap</p>
 
 
 
-<p class="small-text text">Although Singapore had strategically pushed for solar PV systems since 2007, the cost of installing and maintaining solar PV systems remained a significant barrier to scaling up their adoption.</p>
-
+<br>
+<br>
+<br>
 
 
 
@@ -159,7 +160,7 @@ Source: Sunseap</p>
 Although Singapore had strategically pushed for solar PV systems since 2007, the cost of installing and maintaining solar PV systems remained a significant barrier to scaling up their adoption. In response, HDB and the Economic Development Board (EDB) initiated the SolarNova programme in 2014 as a whole-of-government effort to accelerate the deployment of solar PV systems in Singapore.</p>
 <p class="text">The solar leasing model reduces the project’s capital expenditure (CapEx) and operating expenditure (OpEx), and hence the associated financial risks for the customer (i.e., Town Councils or government agencies). The customer does not need to acquire or develop capabilities in maintaining the system, nor bear the costs of retiring solar panels when they have reached end-of-life. In return, solar vendors profit from the sale of solar energy to the customers.<br>
 <br>
-<a href="../../images/default-source/ethos-images/ethos-digital-issue-9/encouraging-greater-innovation_solarnova_fig-1.jpg?sfvrsn=9552e9ca_2"><img title="Encouraging Greater Innovation_SolarNova_Fig. 1" src="../../images/default-source/ethos-images/ethos-digital-issue-9/encouraging-greater-innovation_solarnova_fig-1.jpg?sfvrsn=9552e9ca_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Encouraging Greater Innovation_SolarNova_Fig. 1"></a></p>
+<img title="Encouraging Greater Innovation_SolarNova_Fig. 1" src="/images/Ethos_Images/Ethos_Digital_Issue_09/Encouraging-greater-Innovation_Solarnova_Fig1.jpg" alt="Encouraging Greater Innovation_SolarNova_Fig. 1"></p>
 <p style="text-align: left;" class="small-text"><strong>Figure 1.</strong> Milestones of the SolarNova Programme</p>
 <h3 class="title"><strong>Key Challenges and Learning Points</strong></h3>
 <p class="text">Three key factors contributed to the scaling up of the solar leasing model.</p>
@@ -199,11 +200,11 @@ Innovative approaches in building operations can stimulate the uptake of sustain
 
 
 
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">Singapore’s First New-Build Net-Zero Energy Building </h3>
-<p><a href="../../images/default-source/ethos-images/ethos-digital-issue-9/encouraging-greater-innovation_nus-sde4.jpg?sfvrsn=452bae73_2"><img title="Encouraging Greater Innovation_NUS SDE4" src="../../images/default-source/ethos-images/ethos-digital-issue-9/encouraging-greater-innovation_nus-sde4.jpg?sfvrsn=452bae73_2" data-openoriginalimageonclick="true" data-displaymode="Original" alt="Encouraging Greater Innovation_NUS SDE4"></a></p>
+<p><img title="Encouraging Greater Innovation_NUS SDE4" src="/images/Ethos_Images/Ethos_Digital_Issue_09/EncouragingGreaterInnovation_NUS_SDE4.jpg" alt="Encouraging Greater Innovation_NUS SDE4"></p>
 <p style="text-align: left;" class="small-text">NUS SDE4 <br>
 Credits: Courtesy of NUS College of Design and Engineering and Serie Architects. Photography by Rory Gardiner.</p>
 <p class="text"><strong>Aspirational Target-setting for Sustainability</strong></p>
