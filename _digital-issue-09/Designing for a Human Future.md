@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Issue 09, Nov 2022</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Digital_09/D9_Banner_Designing%20for%20a%20Human%20Future.jpg">
 
 
 
