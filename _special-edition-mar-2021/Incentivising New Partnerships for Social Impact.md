@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Special Edition (March 2021 Update)</small></em>
-<img src="/images/Cropped_images/Ethos_Digital_Special_Mar/Incentivising_Partnerships_BannerTeaser.jpg">
+<img src="/images/Cropped_images/Ethos_Digital_Special_Mar/D_SEditionMar_Banner_IncentivisingPartnerships.jpg">
 
 
 <h3>New Normal, New Needs</h3>
