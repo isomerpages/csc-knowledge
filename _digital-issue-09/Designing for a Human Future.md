@@ -85,12 +85,12 @@ li {
 
 <p>An example of this is the Oasia Hotel Downtown, which is one of the buildings we designed. It uses the skyscraper typology but achieves a green plot ratio of 1100%: which is 11 times the site area. Post-occupation surveys show that it contributes a similar quality of biodiversity as neighbouring parks such as the nearby Duxton linear park. While a building such as this is usually thought of as a glass, steel, and concrete structure, it has the quality of a park, made even more effective when it is adjacent to a park. It performs the equivalent of 30% of a low-land rainforest in terms of regulating temperature, regulating air pollution, and providing oxygen. This proves that a building can function like a forest. An aggregation of buildings of this nature could provide significant ecosystem services in a city.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>The aggregation of buildings can contribute to a city’s overall environmental targets because buildings complement one another in different ways.
-</em></h5>
+<p class="break1">The aggregation of buildings can contribute to a city’s overall environmental targets because buildings complement one another in different ways.
+</p>
 
-<hr>
+</div>
 
 <h3>How can the private and public sectors work together to advance sustainable development?</h3>
 
@@ -102,13 +102,13 @@ li {
 
 <p>We need to work backwards  from our targets rather than assume it cannot be done. Technology changes very quickly. If we put land that is currently being safeguarded for future purposes to use for current clean energy needs, even temporarily, it could tide us over until other clean energy sources (such as green hydrogen or fusion energy) become available.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We need to work backwards from our targets rather than assume it cannot be done.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>Is it possible to pursue sustainable development without compromising liveability and prosperity?</h3>
 
@@ -120,13 +120,13 @@ We need to work backwards from our targets rather than assume it cannot be done.
 
 <p>We cannot keep going in the same direction, with minimal disruptions and marginal changes. We need this major shift in perspective to move forward.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 This is not just about the survival of plants and animals, this is about human survival.
-</em></h5>
+</p>
 
-<hr>
+</div>
 
 <h3>In pursuing a more sustainable and liveable human future, what role can Singapore play as a city?</h3>
 
@@ -136,14 +136,14 @@ This is not just about the survival of plants and animals, this is about human s
 
 <p>Singapore is an important prototype in this regard, and we have the right institutions, talent and setting to be an example for other cities in the world, showing how we can make this future possible.</p>
 
-<hr>
+<div class="break">
 
-<h5><em>
+<p class="break1">
 We can pursue sustainability in tandem with liveability, and they in fact reinforce each other.
-</em></h5>
+</p>
 
-<hr>
-
+</div>
+<div class="author">
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Wong Mun Summ </strong> co-founded the Singapore-based architectural practice WOHA in 1994. He is a Professor-in-Practice at the National University of Singapore’s Department of Architecture, where he co-directs the Integrated Sustainable Design Masters Studio.</p>
@@ -153,9 +153,9 @@ We can pursue sustainability in tandem with liveability, and they in fact reinfo
 
 <p>&nbsp;</p>
 
-<hr>
+</div>
 
-<p><a href="../../ethos.html">Back to ETHOS homepage</a></p>
+
 
 
 
