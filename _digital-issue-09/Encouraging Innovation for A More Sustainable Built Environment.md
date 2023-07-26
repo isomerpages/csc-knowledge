@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>Digital Issue 09, Nov 2022</small></em>
-<img src="">
+<img src="/images/Cropped_images/Ethos_Digital_09/D9_Banner_Innovation%20for%20a%20more%20sustainable%20built%20Env.jpg">
 
 
 <p>In light of climate concerns, there has been a move towards more sustainable development, and growing interest in innovative technologies to help achieve this in the built environment.  However, a number of challenges hinder these innovations from being implemented more broadly on a commercial scale.</p>
