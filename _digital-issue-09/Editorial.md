@@ -70,15 +70,15 @@ li {
 <img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
 
-<p>In our <a href="../editorial-issue-24.html">ETHOS Issue 24 (August) </a>&nbsp;print issue, curated in collaboration with the Centre for Liveable Cities (CLC) and launched at the 2022 World Cities Summit, we explored issues related to sustainable urban development.</p>
+<p>In our <a href="/ethos-issue-24/editorial/">ETHOS Issue 24 (August) </a>&nbsp;print issue, curated in collaboration with the Centre for Liveable Cities (CLC) and launched at the 2022 World Cities Summit, we explored issues related to sustainable urban development.</p>
 
 <p>This issue of ETHOS Digital Edition continues to reflect on this theme and considers how our communities might continue to be thriving places in which we live, work and play, in the face of looming climate challenges and resource constraints.</p>
 
-<p>Livia Tan, writing for CLC, <a href="encouraging-innovation-for-a-more-sustainable-built-environment.html">outlines ways in which Singapore has sought to stimulate sustainability-related innovation at scale in the built environment</a>, through carefully structured private-public sector partnerships and incentives.</p>
+<p>Livia Tan, writing for CLC, <a href="/digital-issue-09/encouraging-innovation-for-a-more-sustainable-built-environment/">outlines ways in which Singapore has sought to stimulate sustainability-related innovation at scale in the built environment</a>, through carefully structured private-public sector partnerships and incentives.</p>
 
-<p>A veteran in the field of environmentally conscious urban design, Wong Mun Summ from renowned architectural firm WOHA <a href="designing-for-a-human-future.html">calls for bolder and more ambitious sustainability targets, citing Singapore’s many successful green ventures</a>, both in the past and in more recent projects.</p>
+<p>A veteran in the field of environmentally conscious urban design, Wong Mun Summ from renowned architectural firm WOHA <a href="/digital-issue-09/designing-for-a-human-future/">calls for bolder and more ambitious sustainability targets, citing Singapore’s many successful green ventures</a>, both in the past and in more recent projects.</p>
 
-<p>Seeing an inextricable link between urbanisation and sustainability, city-making expert Anupam Yog believes we should <a href="rethinking-sustainable-urban-governance.html">look at urban governance as a whole system to consider healthy human living in the long term</a>—reframing what we value and how we measure and practicably achieve it.</p>
+<p>Seeing an inextricable link between urbanisation and sustainability, city-making expert Anupam Yog believes we should <a href="/digital-issue-09/rethinking-sustainable-urban-governance/">look at urban governance as a whole system to consider healthy human living in the long term</a>—reframing what we value and how we measure and practicably achieve it.</p>
 
 <p>Pointing to the existential challenge of climate change, leadership guru Peter Hawkins argues that <a href="../collaborative-leadership-the-challenge-of-the-future-in-conversation-with-peter-hawkins.html">a new sense of inclusive and collaborative leadership is needed to envision and mobilise people</a>&nbsp; towards a sustainable long-term future.</p>
 
