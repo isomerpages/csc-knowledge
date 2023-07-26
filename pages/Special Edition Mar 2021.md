@@ -125,7 +125,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Mar/History_Publicservice_Teaser.jpg"></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_Special_Mar/D_SEditionMar_Teaser_History_PublicService.jpg"></div>
 	<div>
 		<h3>History: A Public Service User’s Guide</h3>
 		<b><i>by Chua Jun Yan</i></b>
