@@ -40,7 +40,7 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_04/ethos_digital_4_cov.jpg"></div>
         <div><h3><span class="cat">Digital Issue 04, Apr 2019</span>
-            <br>Digital Edition Issue 04</h3>	
+            <br>ETHOS Digital Issue 04</h3>	
             <p>In this issue of ETHOS Digital Edition, public sector veterans from around the world discuss the future of governance in the digital age. Also , our more experienced colleagues share quick tips on how to do better at work in a new feature: PRO TIP.</p>
             
             
