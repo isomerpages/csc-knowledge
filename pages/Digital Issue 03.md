@@ -40,7 +40,7 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/EthosDigital_Issuesep18_CoverResized.jpg"></div>
         <div><h3><span class="cat">Digital Issue 03, Sep 2018</span>
-            <br>Digital Edition Issue 03</h3>	
+            <br>ETHOS Digital Issue 03</h3>	
             <p>In this issue of ETHOS Digital Edition, we continue to bring you a variety of perspectives of interest to the practice of public sector governance and leadership in Singapore. Featuring: Koh Chiu Yee, Sharon Tham, Khanh Do, Aaron Maniam, and the ministry of health.</p>
             
             
