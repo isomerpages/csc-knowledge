@@ -2,4 +2,5 @@ collections:
   digital-issue-09:
     output: true
     order:
+      - Encouraging Innovation for A More Sustainable Built Environment.md
       - Editorial.md
