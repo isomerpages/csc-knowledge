@@ -56,7 +56,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital08.jpg"></div>
 	<div>
-		<h3><span class="cat">Digital Issue 08, Apr 2022</span><br>Digital Edition Issue 08</h3>
+		<h3><span class="cat">Digital Issue 08, Apr 2022</span><br>ETHOS Digital Issue 08</h3>
 		<p>In this digital edition of ETHOS, we are reminded that in the age of machine learning, the vital work of government is still carried out not by automatons but by people—who deserve the support and nurturing necessary for them to give their best efforts. Featuring: Amos Law, Soh Zhi Liang, Khoo Ee Wan, Zoey Lew, Sueann Soon, Wu Wei Neng, and Kenneth Sim.</p>
 		<div class="button1"><a target="_blank" href="">Download PDF</a></div>
 	</div>
