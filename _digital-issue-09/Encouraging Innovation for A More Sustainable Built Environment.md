@@ -274,14 +274,14 @@ Business models and contracts should be designed to incentivise solution provide
 </p>
 
 </div>
-
+<div class="author">
 <h6>ABOUT THE AUTHOR</h6>
 
 <p class="small-text"><strong>Livia Tan</strong> has served as Researcher at the Centre for Liveable Cities (CLC), where she focused on topics related to urban planning and design, and sustainability. She also has experience as an urban designer, working on the development of guidelines and comprehensive city masterplans. She graduated from the National University of Singapore with degrees in Architecture and Urban Planning.</p>
 
 <p>&nbsp;</p>
 
-<hr>
+</div>
 
 <h6> <a name="note"></a>NOTE</h6>
 
@@ -289,8 +289,6 @@ Business models and contracts should be designed to incentivise solution provide
 <li class="small-text">
     Richard Wong, Abhineet Kaul and Xiu Wei, “Perception towards Green Buildings in Singapore”, accessed July 1, 2022, <a href="https://www1.bca.gov.sg/docs/default-source/docs-corp-buildsg/sustainability/summary_report_survey_on_bca_green_mark.pdf">https://www1.bca.gov.sg/docs/default-source/docs-corp-buildsg/sustainability/summary_report_survey_on_bca_green_mark.pdf</a>.</li>
 </ol>
-
-<p><a href="../../ethos.html">Back to ETHOS homepage</a></p>
 
 
 
