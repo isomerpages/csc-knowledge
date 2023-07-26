@@ -94,10 +94,6 @@ li {
 <br>
 <a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a></p>
 
-<br>
-
-<p><a href="../../ethos.html">Back to Ethos homepage</a></p>
-
 
 
 
