@@ -65,10 +65,10 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
 	<div>
 		<h3>Editorial</h3>
-		<b><i></i></b>
+		<b><i>by Alvin Pang</i></b>
 		<p>This issue of ETHOS Digital Edition continues to reflect on the theme of sustainable urban development and considers how our communities might continue to be thriving places in which we live, work and play, in the face of looming climate challenges, and resource constraints.</p>
 		<div class="button1"><a href="/digital-issue-09/editorial/">Read more</a></div>
 	</div>
