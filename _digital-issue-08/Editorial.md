@@ -69,7 +69,6 @@ li {
 <em><small>Digital Edition Issue 8, Apr 2022</small></em>
 <img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 
-
 <p>The work of the Public Service is, at heart, about the betterment of people’s lives. Science, technology and economic progress are promising means to that end and have undergone tremendous advances in our lifetimes. However, we are still learning about the impact these systems have on the human beings they are intended to serve. While such concerns have long been with us, the COVID-19 pandemic has brought them sharply to the fore. This edition of ETHOS Digital features contributions reflecting on the human side of the Public Service as a workplace.</p>
 
 <p>For instance, the need for government services does not cease in a pandemic. Technology does allow public officers to continue working from the safety of home, but we are still reckoning with the organisational effects of doing so. We must keep finding ways to master digital technology rather than be mastered by it. <a href="/digital-issue-08/engaging-public-officers-in-a-hybrid-workplace/">Digital platforms, used skilfully, can bridge rather than breed social alienation, and strengthen the human bonds that make for a healthy workplace culture,</a> even when co-workers cannot share the same physical location.</p>
