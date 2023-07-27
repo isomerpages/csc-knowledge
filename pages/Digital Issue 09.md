@@ -89,7 +89,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_09/D9_Teaser_Designing%20for%20a%20Human%20Future.jpg"></div>
 	<div>
 		<h3>Designing for a Human Future</h3>
 		<b><i></i></b>
