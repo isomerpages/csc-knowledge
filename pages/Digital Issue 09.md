@@ -69,7 +69,7 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i></i></b>
-		<p></p>
+		<p>This issue of ETHOS Digital Edition continues to reflect on the theme of sustainable urban development and considers how our communities might continue to be thriving places in which we live, work and play, in the face of looming climate challenges, and resource constraints.</p>
 		<div class="button1"><a href="/digital-issue-09/editorial/">Read more</a></div>
 	</div>
 </div>
