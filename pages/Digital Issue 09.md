@@ -101,7 +101,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_09/D9_Teaser_Rethinking%20Sustainable%20Urban%20Gov.jpg"></div>
 	<div>
 		<h3>Rethinking Sustainable Urban Governance</h3>
 		<b><i></i></b>
