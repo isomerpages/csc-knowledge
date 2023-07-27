@@ -80,7 +80,7 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Digital_09/D9_Teaser_Innovation%20for%20a%20more%20sustainable%20built%20Env.jpg"></div>
 	<div>
 		<h3>Encouraging Innovation for A More Sustainable Built Environment</h3>
-		<b><i></i></b>
+		<b><i>by Livia Tan</i></b>
 		<p>Successful sustainable development demands not just technical innovation but also new models of collaboration between the private and public sectors.</p>
 		<div class="button1"><a href="/digital-issue-09/encouraging-innovation-for-a-more-sustainable-built-environment/">Read more</a></div>
 	</div>
@@ -92,7 +92,7 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Digital_09/D9_Teaser_Designing%20for%20a%20Human%20Future.jpg"></div>
 	<div>
 		<h3>Designing for a Human Future</h3>
-		<b><i></i></b>
+		<b><i>Interview with Wong Mun Summ</i></b>
 		<p>In a conversation with ETHOS, a co-founder of WOHA Architects explains what is needed to realise a sustainable and liveable future in today’s cities.</p>
 		<div class="button1"><a href="/digital-issue-09/designing-for-a-human-future/">Read more</a></div>
 	</div>
@@ -104,7 +104,7 @@ margin-top:15px;
 	<div><img src="/images/Cropped_images/Ethos_Digital_09/D9_Teaser_Rethinking%20Sustainable%20Urban%20Gov.jpg"></div>
 	<div>
 		<h3>Rethinking Sustainable Urban Governance</h3>
-		<b><i></i></b>
+		<b><i>Interview with Anupam Yog </i></b>
 		<p>In conversation with ETHOS, Anupam Yog argues for a reframing of how we define, measure and pursue the way we build our cities to ensure the long term, whole-of-life wellbeing of our people.</p>
 		<div class="button1"><a href="/digital-issue-09/rethinking-sustainable-urban-governance/">Read more</a></div>
 	</div>
