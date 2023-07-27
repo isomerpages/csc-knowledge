@@ -116,8 +116,8 @@ margin-top:15px;
 	<div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
 	<div>
 		<h3>Collaborative Leadership &amp; the Challenge of the Future: In Conversation with Peter Hawkins</h3>
-		<b><i></i></b>
-		<p></p>
+		<b><i>Interview with Peter Hawkins</i></b>
+		<p>The existential crises of our time call for fundamentally different ways of thinking, listening, acting and leading.</p>
 		<div class="button1"><a href="/digital-issue-09/in-conversation-with-peter-hawkins/">Read more</a></div>
 	</div>
 </div>
