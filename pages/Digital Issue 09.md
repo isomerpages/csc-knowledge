@@ -77,7 +77,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Cropped_images/Ethos_Digital_09/D9_Teaser_Innovation%20for%20a%20more%20sustainable%20built%20Env.jpg"></div>
 	<div>
 		<h3>Encouraging Innovation for A More Sustainable Built Environment</h3>
 		<b><i></i></b>
