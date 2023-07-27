@@ -67,10 +67,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Editorial</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-09/editorial/">Read more</a></div>
 	</div>
 </div>
 
@@ -79,10 +79,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Encouraging Innovation for A More Sustainable Built Environment</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-09/encouraging-innovation-for-a-more-sustainable-built-environment/">Read more</a></div>
 	</div>
 </div>
 
@@ -91,10 +91,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Designing for a Human Future</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-09/designing-for-a-human-future/">Read more</a></div>
 	</div>
 </div>
 
@@ -103,10 +103,10 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Rethinking Sustainable Urban Governance</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-09/rethinking-sustainable-urban-governance/">Read more</a></div>
 	</div>
 </div>
 
@@ -115,26 +115,16 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3></h3>
+		<h3>Collaborative Leadership &amp; the Challenge of the Future: In Conversation with Peter Hawkins</h3>
 		<b><i></i></b>
 		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
+		<div class="button1"><a href="/digital-issue-09/in-conversation-with-peter-hawkins/">Read more</a></div>
 	</div>
 </div>
 
 <br>
 
-<div class="grid-container">
-	<div><img src=""></div>
-	<div>
-		<h3></h3>
-		<b><i></i></b>
-		<p></p>
-		<div class="button1"><a href="">Read more</a></div>
-	</div>
-</div>
 
-<br>
 
 <div class="back">
 <a href="/all-issues/">Back to All Issues</a>
