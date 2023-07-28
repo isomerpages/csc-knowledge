@@ -67,7 +67,7 @@ description: ""
             <b><i>by Sharon Tham and Do Hoang Van Khanh</i></b>
             
 <p>	
-
+A trial to nudge donors yields promising results over routine fundraising approaches.
 </p>	
             
 
@@ -80,7 +80,7 @@ description: ""
         <div><h3>Fertility Rebound in the OECD: Insights for Singapore</h3>
             <b><i>by Koh Chiu Yee</i></b>
 <p>	
-
+Evidence suggests that helping parents to combine work and family life is key to raising fertility, but social and workplace norms may mitigate even the best intentioned policies.
 </p>	
             
 <div class="button1"><a href="/digital-issue-03/fertility-rebound-in-the-oecd-insights-for-singapore/">Read More</a></div><br></div>
@@ -93,7 +93,7 @@ description: ""
             <b><i>by Aaron Maniam</i></b>
             
 <p>	
-         
+A smooth transition is vital to a leader’s personal effectiveness and an organisation’s performance. Here’s how to make them work.
 </p>	
             
 <div class="button1"><a href="/digital-issue-03/5-tips-for-leadership-transitions/">Read More</a></div><br></div>
@@ -106,6 +106,7 @@ description: ""
             <b><i>by Communications and Engagement Group (Ministry of Health)</i></b>
             
 <p>	
+A Citizens’ Jury was convened for the first time to help Singapore address a complex health issue, with promising outcomes for more active public involvement in future.	
 </p>	
             
 <div class="button1"><a href="/digital-issue-03/partnering-with-the-public-in-the-war-on-diabetes/">Read More</a></div><br></div>
