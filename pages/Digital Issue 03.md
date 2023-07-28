@@ -52,7 +52,7 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
         <div><h3>Editorial </h3>
-            <b><i>by Dr Alvin Pang</i></b>
+            <b><i>by Alvin Pang</i></b>
 
                 
   <p>In this issue of ETHOS Digital Edition, we continue to bring you are variety of perspectives of interest to the practice of public sector governance and leadership in Singapore.</p>	
@@ -62,7 +62,7 @@ description: ""
 
  <br>   
 <div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/D3_Teaser_Using%20BI%20to%20Increase%20Charitable%20Donations.jpg"></div>
         <div><h3>Using Behavioural Insights to Increase Charitable Donations</h3>
             <b><i></i></b>
             
@@ -70,11 +70,13 @@ description: ""
 
 </p>	
             
+
+					
 <div class="button1"><a href="/digital-issue-03/using-behavioural-insights-to-increase-charitable-donations/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
-      <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
+      <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%202/D3_Teaser_Fertility%20Rebound.jpg"></div>
         <div><h3>Fertility Rebound in the OECD: Insights for Singapore</h3>
             <b><i></i></b>
 <p>	
@@ -99,7 +101,7 @@ description: ""
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%204/D2_Teaser_Rethinking%20Responsibility.jpg"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%203/D3_Teaser_Leadership%20Transitions.jpg"></div>
         <div><h3>Partnering with the Public in the War on Diabetes</h3>
             <b><i></i></b>
             
