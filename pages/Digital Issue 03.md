@@ -88,7 +88,7 @@ description: ""
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%203/D2_Teaser_Crowdfunding.jpg"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%203/D3_Teaser_Leadership%20Transitions.jpg"></div>
         <div><h3>Five Tips for Leadership Transitions</h3>
             <b><i></i></b>
             
@@ -101,7 +101,7 @@ description: ""
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%203/D3_Teaser_Leadership%20Transitions.jpg"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%204/D3_Teaser_War%20on%20Diabetes.jpg"></div>
         <div><h3>Partnering with the Public in the War on Diabetes</h3>
             <b><i></i></b>
             
