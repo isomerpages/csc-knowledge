@@ -64,7 +64,7 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/D3_Teaser_Using%20BI%20to%20Increase%20Charitable%20Donations.jpg"></div>
         <div><h3>Using Behavioural Insights to Increase Charitable Donations</h3>
-            <b><i></i></b>
+            <b><i>by Sharon Tham and Do Hoang Van Khanh</i></b>
             
 <p>	
 
@@ -78,7 +78,7 @@ description: ""
 <div class="grid-container">
       <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%202/D3_Teaser_Fertility%20Rebound.jpg"></div>
         <div><h3>Fertility Rebound in the OECD: Insights for Singapore</h3>
-            <b><i></i></b>
+            <b><i>by Koh Chiu Yee</i></b>
 <p>	
 
 </p>	
@@ -90,7 +90,7 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%203/D3_Teaser_Leadership%20Transitions.jpg"></div>
         <div><h3>Five Tips for Leadership Transitions</h3>
-            <b><i></i></b>
+            <b><i>by Aaron Maniam</i></b>
             
 <p>	
          
@@ -103,7 +103,7 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%204/D3_Teaser_War%20on%20Diabetes.jpg"></div>
         <div><h3>Partnering with the Public in the War on Diabetes</h3>
-            <b><i></i></b>
+            <b><i>by Communications and Engagement Group (Ministry of Health)</i></b>
             
 <p>	
 </p>	
