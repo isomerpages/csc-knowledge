@@ -41,7 +41,7 @@ description: ""
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/EthosDigital_Issuesep18_CoverResized.jpg"></div>
         <div><h3><span class="cat">Digital Issue 03, Sep 2018</span>
             <br>ETHOS Digital Issue 03</h3>	
-            <p>In this issue of ETHOS Digital Edition, we continue to bring you a variety of perspectives of interest to the practice of public sector governance and leadership in Singapore. Featuring: Koh Chiu Yee, Sharon Tham, Khanh Do, Aaron Maniam, and the ministry of health.</p>
+            <p>In this issue of ETHOS Digital Edition, we continue to bring you a variety of perspectives of interest to the practice of public sector governance and leadership in Singapore. Featuring: Koh Chiu Yee, Sharon Tham, Khanh Do, Aaron Maniam, and the Ministry of Health.</p>
             
             
    <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-02.pdf">Download PDF</a></div></div>
@@ -52,64 +52,64 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
         <div><h3>Editorial </h3>
-            <b><i>by Dr Alvin Pang</i></b>
-            <figcaption>
-            Editor-in-Chief Ethos
-            </figcaption>
+            <b><i>by Alvin Pang</i></b>
+
                 
   <p>In this issue of ETHOS Digital Edition, we continue to bring you are variety of perspectives of interest to the practice of public sector governance and leadership in Singapore.</p>	
             
-<div class="button1"><a href="/digital-issue-02/editorial/">Read More</a></div> <br></div>
+<div class="button1"><a href="/digital-issue-03/editorial/">Read More</a></div> <br></div>
     </div>
 
  <br>   
 <div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
-        <div><h3>Defeating Diabetes: A Conversation with Dean Schillinger, MD</h3>
-            <b><i>Interview with Dean Schillinger, MD</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%201/D3_Teaser_Using%20BI%20to%20Increase%20Charitable%20Donations.jpg"></div>
+        <div><h3>Using Behavioural Insights to Increase Charitable Donations</h3>
+            <b><i>by Sharon Tham and Do Hoang Van Khanh</i></b>
             
 <p>	
-Dr Dean Schillinger proposes a whole-of-society battle plan for combating one of the most pervasive health issues in modern society.
+A trial to nudge donors yields promising results over routine fundraising approaches.
 </p>	
             
-<div class="button1"><a href="/digital-issue-02/defeating-diabetes/">Read More</a></div><br></div>
+
+					
+<div class="button1"><a href="/digital-issue-03/using-behavioural-insights-to-increase-charitable-donations/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
-      <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
-        <div><h3>Sector Based Training that Works: A Conversation with James A Riccio</h3>
-            <b><i> Interview with James A. Riccio</i></b>
+      <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%202/D3_Teaser_Fertility%20Rebound.jpg"></div>
+        <div><h3>Fertility Rebound in the OECD: Insights for Singapore</h3>
+            <b><i>by Koh Chiu Yee</i></b>
 <p>	
-MDRC’s James Ricco discusses how sector-based training can be made more relevant to both workers and employers.
+Evidence suggests that helping parents to combine work and family life is key to raising fertility, but social and workplace norms may mitigate even the best intentioned policies.
 </p>	
             
-<div class="button1"><a href="/digital-issue-02/sector-based-training-that-works/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-03/fertility-rebound-in-the-oecd-insights-for-singapore/">Read More</a></div><br></div>
     </div>
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%203/D2_Teaser_Crowdfunding.jpg"></div>
-        <div><h3>Could Crowdfunding Work for Singapore’s Public Sector?</h3>
-            <b><i>Jeff Cheah Weng Kiat and Jason Chen Fang Hao</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%203/D3_Teaser_Leadership%20Transitions.jpg"></div>
+        <div><h3>Five Tips for Leadership Transitions</h3>
+            <b><i>by Aaron Maniam</i></b>
             
 <p>	
-            Effective stakeholder communication can help ease disruption and promote buy-in for new goals if projects have to be modified or deprioritised.
+A smooth transition is vital to a leader’s personal effectiveness and an organisation’s performance. Here’s how to make them work.
 </p>	
             
-<div class="button1"><a href="/digital-issue-02/could-crowdfunding-work-for-singapores-public-sector/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-03/5-tips-for-leadership-transitions/">Read More</a></div><br></div>
     </div>
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_02/Article%204/D2_Teaser_Rethinking%20Responsibility.jpg"></div>
-        <div><h3>Rethinking Responsibilities</h3>
-            <b><i>Stephanie Siow and Theophilus Kwek</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_03/Article%204/D3_Teaser_War%20on%20Diabetes.jpg"></div>
+        <div><h3>Partnering with the Public in the War on Diabetes</h3>
+            <b><i>by Communications and Engagement Group (Ministry of Health)</i></b>
             
 <p>	
-Two young Singaporeans reflect on whether narratives of self-reliance may obscure deeper structural gaps.
-            </p>	
+A Citizens’ Jury was convened for the first time to help Singapore address a complex health issue, with promising outcomes for more active public involvement in future.	
+</p>	
             
-<div class="button1"><a href="/digital-issue-02/rethinking-responsibility/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-03/partnering-with-the-public-in-the-war-on-diabetes/">Read More</a></div><br></div>
     </div>
 <br>
 
