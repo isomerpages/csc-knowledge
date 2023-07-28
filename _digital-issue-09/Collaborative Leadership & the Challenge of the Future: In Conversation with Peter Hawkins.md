@@ -84,6 +84,19 @@ li {
 Here’s the difference: a team of leaders is where you have the team leaders say, “Alright, tell me what’s going on in your function”, and everyone else sits passively. It’s a hub-and-spoke team. A leadership team on the other hand is one where we are clear about what is it we need to achieve together that we cannot achieve by working in parallel. 
 </p>
 
+
+<div class="break">
+	<p class="break1">We need to move from individual leadership to collective and collaborative leadership</p>
+</div>
+
+<p>So this means that we have to take team leaders on a journey from being the managers of teams—the ones trying to keep all the plates spinning—to team leaders and team orchestrators, who are looking at the future where we are going, and at what is needed to  bring a team together and align everyone to be on the same journey.
+
+A team orchestrator is somebody who is managing the connections between the parts, the connections inside the team as well as with those outside the team—across boundaries, with other public agencies, with the private sector, with the voluntary sector, with the citizenry and so on—and getting people to have the right conversations with one another. The fourth and final stage is for the team leader to become a ‘Team Coach’, not just orchestrating what needs to happen today, but also developing the collective capacity to be able to be more future-fit.
+</p>
+
+
+
+
 <br>
 <br>	
 <div class="back">
