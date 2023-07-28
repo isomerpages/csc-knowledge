@@ -72,7 +72,10 @@ li {
 
 
 
-<h3></h3>
+<h3>Three Leadership Shifts We Need</h3>
+
+
+<p>We live in an age of extraordinary crises, from the COVID-19 pandemic to climate challenge, where success depends on collective action with stakeholders that are not necessarily under our direct influence. These circumstances call for three major shifts that we need in thinking about leadership. </p>
 
 
 <br>
