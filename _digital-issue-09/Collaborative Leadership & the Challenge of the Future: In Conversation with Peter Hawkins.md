@@ -94,6 +94,13 @@ Here’s the difference: a team of leaders is where you have the team leaders sa
 A team orchestrator is somebody who is managing the connections between the parts, the connections inside the team as well as with those outside the team—across boundaries, with other public agencies, with the private sector, with the voluntary sector, with the citizenry and so on—and getting people to have the right conversations with one another. The fourth and final stage is for the team leader to become a ‘Team Coach’, not just orchestrating what needs to happen today, but also developing the collective capacity to be able to be more future-fit.
 </p>
 
+<h5>From Service Provider to Partnering Orchestrator</h5>
+
+
+<p>Second, I have talked with Singapore’s public sector leaders about how we shift from the Public Service as a paternalistic provider, to the Public Service as a partnering orchestrator.
+A public agency, facing an increase in demand, was looking to hire many more people. They asked how they could improve their employee branding to attract more recruits. To begin with, I pointed out that they needed to understand the difference between communication, engagement, and partnering. How are they talking with their prospective employees and engaging them? Instead of selling themselves as employers, are they saying: “We need your help with these very important and exciting challenges we are facing?” These are after all great challenges, not just jobs to be done, and the next generation needs to come on board to tackle them along with the public sector. 
+Who is responsible for education, or healthcare, or social welfare, or sustainability? Beyond the number of people on the payroll in a public agency, there are over five million in Singapore—it’s the whole country. To be an orchestrating partner, we must approach an issue by working with the private sector, the voluntary sector, the community, the citizenry; we have to organise around the issue, not around the function. So much of what we are dealing with cannot be put into specialisms or functions because the real challenges are in the connections and interdependencies. 
+</p>
 
 
 
