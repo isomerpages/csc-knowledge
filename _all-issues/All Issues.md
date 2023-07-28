@@ -79,7 +79,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-09">Digital Edition Issue 9, <br>Nov 2022</a></td>
+	<td><a target="_blank" href="/digital-issue-09/">Digital Edition Issue 9, <br>Nov 2022</a></td>
 	<td><a target="_blank" href="/ethos-issue-24/">Issue 24, Aug 2022, <br>Urban Sustainability</a></td>
 </tr>
 
@@ -94,7 +94,7 @@ font-size: 16px;
 </tr>
 
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-08">Digital Edition Issue 8, Apr 2022</a></td>
+	<td><a target="_blank" href="/digital-issue-08/">Digital Edition Issue 8, Apr 2022</a></td>
 </tr>	
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/digital-issue-08">Download PDF</a></td>
@@ -116,7 +116,7 @@ font-size: 16px;
 	
 <tr>
 	<td><a target="_blank" href="/ethos-issue-23/">Issue 23, Oct 2021, Future of Learning</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-07">Digital Edition Issue 7, Sep 2021</a></td>
+	<td><a target="_blank" href="/digital-issue-07/">Digital Edition Issue 7, Sep 2021</a></td>
 </tr>
 
 
@@ -158,7 +158,7 @@ font-size: 16px;
 	
 <tr>
 	<td><a target="_blank" href="/digital-special-edition-dec-2020/">Digital Special Edition, Dec 2020</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-06">Digital Edition Issue 6, <br>Jun 2020</a></td>
+	<td><a target="_blank" href="/digital-issue-06/">Digital Edition Issue 6, <br>Jun 2020</a></td>
 </tr>
 
 
