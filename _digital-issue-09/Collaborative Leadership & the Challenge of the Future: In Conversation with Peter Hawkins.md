@@ -172,7 +172,11 @@ The Welsh Assembly, for instance, has a Minister for the Future, and every new p
 
 
 
+<div class="author">
 
+Peter Hawkins is Chairman of Renewal Associates and Emeritus Professor of Leadership at Henley Business School and a Senior Fellow of the Singapore Civil Service College. He is a global thought leader on Leadership Teams and author of many best-selling books. His global research on “Tomorrow’s Leadership” is available from <a href="www.renewalassociates.co.uk">www.renewalassociates.co.uk</a>.  
+
+</div>
 
 
 
