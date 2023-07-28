@@ -1,0 +1,10 @@
+collections:
+  digital-issue-01:
+    output: true
+    order:
+      - Editorial.md
+      - "The New Synthesis in the Field: Conversation with Jocelyne Bourgon.md"
+      - "Review: The New Synthesis of Public Administration Fieldbook.md"
+      - "Opinion: Identities and Institutions—The Needs of a New Era.md"
+      - "Roundtable: How Technology is Transforming the Public Sector.md"
+      - "Insights: Using Data.md"

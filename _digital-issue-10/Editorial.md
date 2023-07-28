@@ -34,7 +34,7 @@ line-height:22px;
 margin-top:40px;
 padding-bottom:30px;
 }		
-	
+	 
 </style>
 <em><small>ETHOS Digital Issue 10, Mar 2023</small></em>
 <div class="background-image">

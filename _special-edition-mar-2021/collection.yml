@@ -1,0 +1,13 @@
+collections:
+  special-edition-mar-2021:
+    output: true
+    order:
+      - Editorial.md
+      - "Southeast Asia and Singapore: Prospects in a Post COVID World.md"
+      - Making Ours an Uplifting Society.md
+      - "Sampan Singapore: New Lines, Nets and Capabilities in the COVID
+        Storm.md"
+      - Emerging Stronger as an Antifragile Nation.md
+      - "History: A Public Service User’s Guide.md"
+      - Incentivising New Partnerships for Social Impact.md
+      - Rethinking Resilience in the Workplace.md

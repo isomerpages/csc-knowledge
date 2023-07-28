@@ -1,5 +1,5 @@
 ---
-title: Who's your City?
+title: Review of Richard Florida’s Who’s Your City?
 permalink: /ethos-issue-05/whos-your-city/
 description: ""
 ---

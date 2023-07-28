@@ -79,7 +79,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-09">Digital Edition Issue 9, <br>Nov 2022</a></td>
+	<td><a target="_blank" href="/digital-issue-09/">Digital Edition Issue 9, <br>Nov 2022</a></td>
 	<td><a target="_blank" href="/ethos-issue-24/">Issue 24, Aug 2022, <br>Urban Sustainability</a></td>
 </tr>
 
@@ -94,7 +94,7 @@ font-size: 16px;
 </tr>
 
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-08">Digital Edition Issue 8, Apr 2022</a></td>
+	<td><a target="_blank" href="/digital-issue-08/">Digital Edition Issue 8, Apr 2022</a></td>
 </tr>	
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/digital-issue-08">Download PDF</a></td>
@@ -116,7 +116,7 @@ font-size: 16px;
 	
 <tr>
 	<td><a target="_blank" href="/ethos-issue-23/">Issue 23, Oct 2021, Future of Learning</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-07">Digital Edition Issue 7, Sep 2021</a></td>
+	<td><a target="_blank" href="/digital-issue-07/">Digital Edition Issue 7, Sep 2021</a></td>
 </tr>
 
 
@@ -132,7 +132,7 @@ font-size: 16px;
 
 <tr>
 	<td><a target="_blank" href="/ethos-issue-22/">Issue 22, Jun 2021, Governing in a Crisis</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-digital-special-edition-mar21">Digital Special Edition, Mar 2021 Update</a></td>
+	<td><a target="_blank" href="/digital-special-edition-mar-2021/">Digital Special Edition, Mar 2021 Update</a></td>
 </tr>	
 <tr>
 	<td><a target="_blank" href="https://go.gov.sg/ethosjune2021">Download PDF</a></td>
@@ -157,8 +157,8 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-digital-special-edition-dec20">Digital Special Edition, Dec 2020</a></td>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-06">Digital Edition Issue 6, <br>Jun 2020</a></td>
+	<td><a target="_blank" href="/digital-special-edition-dec-2020/">Digital Special Edition, Dec 2020</a></td>
+	<td><a target="_blank" href="/digital-issue-06/">Digital Edition Issue 6, <br>Jun 2020</a></td>
 </tr>
 
 
@@ -183,7 +183,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-05">Digital Edition Issue 5, Nov 2019</a></td>
+	<td><a target="_blank" href="/digital-issue-05/">Digital Edition Issue 5, Nov 2019</a></td>
 	<td><a target="_blank" href="/ethos-issue-21/">Issue 21, Jul 2019, Digital Government</a></td>
 </tr>
 
@@ -199,7 +199,7 @@ font-size: 16px;
 </tr>
 
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-04">Digital Edition Issue 4,<br> Apr 2019</a></td>
+	<td><a target="_blank" href="/digital-issue-04/">Digital Edition Issue 4,<br> Apr 2019</a></td>
 	<td><a target="_blank" href="/ethos-issue-20/">Issue 20, Jan 2019, The Future of Ageing</a></td>
 </tr>	
 <tr>
@@ -224,7 +224,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-<td><a target="_blank" href="https://go.gov.sg/ethos-digital-issue-03">Digital Edition Issue 3, Sep 2018</a></td>
+<td><a target="_blank" href="/digital-issue-03/">Digital Edition Issue 3, Sep 2018</a></td>
 <td><a target="_blank" href="/ethos-issue-19/">Issue 19, Jul 2018, <br>Singapore's Urban: What’s Next</a></td>
 </tr>
 
@@ -240,7 +240,7 @@ font-size: 16px;
 </tr>
 
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-02">Digital Edition Issue 2, Apr 2018</a></td>
+	<td><a target="_blank" href="/digital-issue-02/">Digital Edition Issue 2, Apr 2018</a></td>
 	<td><a target="_blank" href="/ethos-issue-18/">Issue 18, Jan 2018, The Future of Work</a></td>
 </tr>	
 <tr>
@@ -261,7 +261,7 @@ font-size: 16px;
 </tr>
 	
 <tr>
-	<td><a target="_blank" href="https://go.gov.sg/digital-issue-01">Digital Edition Issue 1, Nov 2017</a></td>
+	<td><a target="_blank" href="/digital-issue-01/">Digital Edition Issue 1, Nov 2017</a></td>
 	<td><a target="_blank" href="/ethos-issue-17/">Issue 17, Jun 2017, Behavioural Insights</a></td>
 </tr>
 

@@ -1,0 +1,9 @@
+collections:
+  digital-issue-02:
+    output: true
+    order:
+      - Editorial.md
+      - "Defeating Diabetes: A Conversation with Dean Schillinger, MD.md"
+      - "Sector Based Training that Works: A Conversation with James A Riccio.md"
+      - Could Crowdfunding Work for Singapore’s Public Sector?.md
+      - Rethinking Responsibility.md

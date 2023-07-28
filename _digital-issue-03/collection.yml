@@ -1,0 +1,9 @@
+collections:
+  digital-issue-03:
+    output: true
+    order:
+      - Editorial.md
+      - Using Behavioural Insights to Increase Charitable Donations.md
+      - "Fertility Rebound in the OECD: Insights for Singapore.md"
+      - Five Tips for Leadership Transitions.md
+      - Partnering with the Public in the War on Diabetes.md

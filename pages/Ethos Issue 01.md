@@ -54,7 +54,7 @@ margin-top:15px;
 </style>
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_01/ETHOS01.jpg"></div>
-        <div><h3><span class="cat">ISSUE 24, OCT 2006</span>
+        <div><h3><span class="cat">Issue 01, Oct 2006</span>
             <br>ETHOS Issue 01</h3>	
             <p>The inaugural issue focuses on a matter of global concern and national: Ageing. What can we expect in the decades to come and what can we do about it today? Learn more from thought leaders Dr Joseph Chamie, Dr Sarah Harper and Professor Norbert Walter.</p>
             
