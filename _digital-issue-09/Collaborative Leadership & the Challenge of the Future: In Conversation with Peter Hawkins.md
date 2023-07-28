@@ -78,6 +78,12 @@ li {
 <p>We live in an age of extraordinary crises, from the COVID-19 pandemic to climate challenge, where success depends on collective action with stakeholders that are not necessarily under our direct influence. These circumstances call for three major shifts that we need in thinking about leadership. </p>
 
 
+<h5>From Heroic Leadership to Collaborative Leadership</h5>
+
+<p>First, we have seen for a long time that the days of heroic individual leadership are past and gone. The level of complexity we must deal with today means that if the only point of integration is the CEO, the job is impossible. Instead, we need to move from individual leadership to collective and collaborative leadership. “Collaborative” is important: we want to help teams not to be a team of leaders, but a leadership team.
+Here’s the difference: a team of leaders is where you have the team leaders say, “Alright, tell me what’s going on in your function”, and everyone else sits passively. It’s a hub-and-spoke team. A leadership team on the other hand is one where we are clear about what is it we need to achieve together that we cannot achieve by working in parallel. 
+</p>
+
 <br>
 <br>	
 <div class="back">
