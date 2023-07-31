@@ -195,5 +195,5 @@ Peter Hawkins is Chairman of Renewal Associates and Emeritus Professor of Leader
 <br>
 <br>	
 <div class="back">
-<a href="/ethos/">Back to Ethos Page</a>	
+<a href="/ethos/">Back to Ethos Pages</a>	
 </div>
