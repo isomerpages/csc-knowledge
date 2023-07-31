@@ -58,7 +58,7 @@ font-size: 16px;
 	<td>
 		<a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a>
 	</td>
-	<td><a target="_blank" href="https://go.gov.sg/ethos-issue-10">Download PDF</a>
+	<td><a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a>
 	</td>
 </tr>
 
