@@ -25,7 +25,7 @@ description: ""
 		<i>ISBN: 978-981-09-8379-6 (pbk)</i><br>
 		<i>ISBN: 978-981-09-8380-2 (ebk)</i><br>
 		<b><i>by Bernard Ting, Toh Boon Kwan and Soh Tze Min</i></b>
-		<p>Drawing from lectures delivered at the Civil Service College, Singapore, by leading speakers in governance and policy, economics, public engagement, and leadership and organisation development, this book highlights new pathways and possibilities for governments, along with innovative tools like design thinking and strategic futures. it represents an invitation for policymakers to practise adaptive governance -- more resilient, responsive, collaborative and entrepreneurial -- in a rapidly changing world.</p>
+		<p>This book provides a brief history of the relationship between the Government employers and unions from 1945 to its current state. It also explores the relationship among tripartite parties through the case studies of Singapore Airlines (SIA) and PSA Corporation Ltd; and addresses the future of tripartism and how it may evolve amidst the various social and economic challenges facing Singapore.</p>
 	</div>
 
 </div>
