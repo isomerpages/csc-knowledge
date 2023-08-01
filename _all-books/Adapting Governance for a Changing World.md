@@ -18,7 +18,7 @@ description: ""
 
 
 <div class="grid-container">
-	<div class="grid-child">1</div>
+	<div class="grid-child"><img src=""></div>
 	<div class="grid-child">2</div>
 
 
