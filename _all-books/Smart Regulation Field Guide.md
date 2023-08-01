@@ -24,7 +24,7 @@ description: ""
 		<i>ISBN: 978-981-09-8376-5 (pbk)</i><br>
 		<i>ISBN: 978-981-09-8378-9 (ebk)</i><br>
 		<b><i>by Smart Regulation Committee and CSC</i></b>
-		<p>This book provides a brief history of the relationship between the Government employers and unions from 1945 to its current state. It also explores the relationship among tripartite parties through the case studies of Singapore Airlines (SIA) and PSA Corporation Ltd; and addresses the future of tripartism and how it may evolve amidst the various social and economic challenges facing Singapore.</p>
+		<p>This Smart Regulation Field Guide is meant to guide newer officers, with five years of experience or less through the design, implementation and evaluation stages of regulatory work. It can also serve as a useful reference for seasoned regulators.</p>
 	</div>
 
 </div>
