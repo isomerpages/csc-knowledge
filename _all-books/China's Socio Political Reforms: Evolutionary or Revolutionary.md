@@ -9,7 +9,7 @@ description: ""
 .grid-container {
 	display: grid;
 	grid-template-columns: 50% 50%;
-	
+	grid-column-gap: 5%;
 	}
 	
 
