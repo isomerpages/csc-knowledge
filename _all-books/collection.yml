@@ -2,6 +2,7 @@ collections:
   all-books:
     output: true
     order:
+      - Smart Regulation Field Guide.md
       - "Introduction to Industrial Relations in Singapore: Reflecting on the
         Past, Preparing for the Future.md"
       - Adapting Governance for a Changing World.md
