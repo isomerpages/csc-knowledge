@@ -26,7 +26,25 @@ description: ""
 		<p>Drawing from lectures delivered at the Civil Service College, Singapore, by leading speakers in governance and policy, economics, public engagement, and leadership and organisation development, this book highlights new pathways and possibilities for governments, along with innovative tools like design thinking and strategic futures. it represents an invitation for policymakers to practise adaptive governance -- more resilient, responsive, collaborative and entrepreneurial -- in a rapidly changing world.</p>
 	</div>
 
+</div>
+
+
+
+<div>
+
+
 
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
