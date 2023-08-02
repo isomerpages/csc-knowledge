@@ -64,8 +64,60 @@ Ms Ong Toon Hui
 
 </div>
 	
+<div class="chapter-divider">
+<p><b>CHAPTER 2: HOUSING A NATION, BUILDING A CITY</b></p>
 
+</div>
 
+<div class="chapter-divider">
+<p><b>CHAPTER 3: MAKING A LIVING, ENSURING GROWTH</b></p>
+
+</div>
+
+<div class="chapter-divider">
+<p><b>CHAPTER 4: INVESTING IN OUR PEOPLE</b></p>
+
+</div>
+
+<div class="chapter-divider">
+<p><b>CHAPTER 5: SECURING SINGAPORE: FROM VULNERABILITY TO SELF-RELIANCE</b></p>
+
+</div>
+
+<div class="chapter-divider">
+<p><b>CHAPTER 6: ESTABLISHING OUR PLACE IN THE WORLD</b></p>
+
+</div>
+
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 7: KEEPING THE NATION HEALTHY</b></p>
+
+</div>
+
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 8: SUPPORTING SINGAPOREANS AND ENSURING NO ONE IS LEFT BEHIND</b></p>
+
+</div>
+
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 9: CULTIVATING A HARMONIOUS SOCIETY, BECOMING ONE PEOPLE</b></p>
+
+</div>
+
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 10: OVERCOMING CRISES, BUILDING RESILIENCE</b></p>
+
+</div>
+
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 11: BUILDING A PUBLIC SERVICE READY FOR THE FUTURE</b></p>
+
+</div>
 
 
 
