@@ -42,9 +42,9 @@ img {
 <p><b>ACKNOWLEDGEMENTS</b></p>
 <p><b>CHAPTER 1: OVERVIEW OF THE FIELD GUIDE</b></p>
 <p><b>CHAPTER 2: DEFINE THE PROBLEM</b></p>
-<p><b>Respond to the Problem</b></p>
-<p><b>Evaluate and Enact the Regulation(s)</b></p>
-<p><b>Assess the Regulation(s) - Post-implementation Review</b></p>
-<p><b>Modify the Regulation(s)</b></p>
-<p><b>The ABC of Stakeholder Engagement</b></p>
+<p><b>CHAPTER 3: RESPOND TO THE PROBLEM</b></p>
+<p><b>CHAPTER 4: EVALUATE AND ENACT THE REGULATION(S)</b></p>
+<p><b>CHAPTER 5: ASSESS THE REGULATION(S) - POST-IMPLEMENTATION REVIEW</b></p>
+<p><b>CHAPTER 6: MODIFY THE REGULATION(S)</b></p>
+<p><b>CHAPTER 7: THE ABC OF STAKEHOLDER ENGAGEMENT</b></p>
 </div>
