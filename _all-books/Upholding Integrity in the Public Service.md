@@ -38,7 +38,7 @@ img {
 		<h3>Upholding Integrity in the Public Service</h3>
 		<i>ISBN: 978-981-09-3673-0 (Paperback)</i><br>
 		<i>ISBN: 978-981-09-3674-7 (eBook)</i><br>
-		<b><i></i></b>
+		<b><i>by Civil Service College</i></b>
 		<p></p>
 	</div>
 
