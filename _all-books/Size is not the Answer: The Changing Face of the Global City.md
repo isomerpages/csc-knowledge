@@ -3,3 +3,89 @@ title: "Size is not the Answer: The Changing Face of the Global City"
 permalink: /all-books/size-is-not-the-answer-the-changing-face-of-the-global-city/
 description: ""
 ---
+<style>
+
+
+.grid-container {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-gap: 5%
+	}
+	
+img {
+		object-fit: contain;
+		width: 100%;
+		height: 80%;
+	}	
+
+.chapter-divider {
+	margin-top: 5%;
+	}	
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+	
+}	
+
+
+</style>
+
+<div class="grid-container">
+	<div class="grid-child"><img src=""></div>
+	<div class="grid-child">
+		<h3>Size is not the Answer: The Changing Face of the Global City.</h3>
+		<i></i><br>
+		<i></i><br>
+		<b><i>Prepared by Joel Kotkin, with contributions from Wendell Cox, Ali Modarres and Aaron M. Renn</i></b>
+		<p></p>
+	</div>
+
+</div>
+
+<div>
+
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+		
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<br>
+<br>
+<div class="back">
+<a href="/books/">Back to Books Page</a>	
+
+</div>
