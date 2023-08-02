@@ -36,7 +36,7 @@ img {
 	<div class="grid-child"><img src=""></div>
 	<div class="grid-child">
 		<h3>Size is not the Answer: The Changing Face of the Global City.</h3>
-		<i></i><br>
+		<i>ISBN: 978-981-09-1640-4</i><br>
 		<i></i><br>
 		<b><i>Prepared by Joel Kotkin, with contributions from Wendell Cox, Ali Modarres and Aaron M. Renn</i></b>
 		<p></p>
