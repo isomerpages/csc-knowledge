@@ -39,7 +39,7 @@ img {
 		<i>ISBN: 978-981-09-1640-4</i><br>
 		<i></i><br>
 		<b><i>Prepared by Joel Kotkin, with contributions from Wendell Cox, Ali Modarres and Aaron M. Renn</i></b>
-		<p></p>
+		<p>The research report, stemming from a collaboration between the Civil Service College, Singapore and the Center for Demographics and Policy at the Chapman University, shared the results of a study in which global cities were ranked based on eight categories: air connectivity; diversity; foreign direct investment; corporate headquarters; producer services; financial services; technology and media; and industry domination or hub status.</p>
 	</div>
 
 </div>
