@@ -39,7 +39,7 @@ img {
 		<i>ISBN: 978-981-09-3673-0 (Paperback)</i><br>
 		<i>ISBN: 978-981-09-3674-7 (eBook)</i><br>
 		<b><i>by Civil Service College</i></b>
-		<p></p>
+		<p>Singapore's transformation from a corruption-ridden society to one of the cleanest countries in the world deserves closer scrutiny. This booklet summarises the major factors that have contributed towards Singapore's transformation into a clean country with low levels of corruption, namely strong political will against corruption, an effective anti-corruption agency, an independent judiciary, effective laws, a public service that eschews corruption and a zero tolerance towards corruption.</p>
 	</div>
 
 </div>
