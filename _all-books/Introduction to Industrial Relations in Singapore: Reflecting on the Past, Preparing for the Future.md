@@ -18,7 +18,11 @@ img {
 		width: 100%;
 		height: 80%;
 	}	
-
+	
+.chapter-divider {
+	margin-top: 5%;
+	}	
+	
 
 
 </style>
@@ -39,14 +43,24 @@ img {
 
 
 <div>
-
+<div class="chapter-divider">
 <p><b>PREFACE</b></p>	
+	</div>
+<div class="chapter-divider">
 <p><b>CHAPTER 1: HISTORY OF INDUSTRIAL RELATIONS IN SINGAPORE</b></p>
+</div>
+<div class="chapter-divider">
 <p><b>CHAPTER 2: CASE STUDIES OF TRIPARTITE RELATIONS</b></p>
+</div>
+<div class="chapter-divider">
 <p><b>CHAPTER 3: THE FUTURE OF TRIPARTISM IN SINGAPORE</b></p>
+</div>
+<div class="chapter-divider">	
 <p><b>ABOUT THE AUTHORS</b></p>
+	</div>
+<div class="chapter-divider">
 <p><b>NOTES</b></p>
-
+	</div>
 
 
 </div>
