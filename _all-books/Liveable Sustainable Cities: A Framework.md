@@ -39,7 +39,7 @@ img {
 		<i>ISBN: 978-981-09-0557-6 (Paperbook)</i><br>
 		<i>ISBN: 978-981-09-0558-3 (eBook)</i><br>
 		<b><i>by Centre for Liveable Cities &amp; Civil Service College</i></b>
-		<p></p>
+		<p>Liveable and Sustainable Cities: A Framework examines the roles of Singapore's pioneering leaders and their innovative policies and enabling processes with a view to discerning the broad principles that contributed to their ability to achieve successful transformation and balanced development. Beyond discussing Singapore's experience, this book takes a comparative look at the development journeys of selected international cities and concludes that there are broad universal principles of integrated master planning and dynamic urban governance which underlie successful cities.</p>
 	</div>
 
 </div>
