@@ -32,7 +32,7 @@ img {
 		<i></i><br>
 		<i></i><br>
 		<b><i></i></b>
-		<p></p>
+		<p>Heart of Public Service is a two-volume book-set that honours the institutions and officers of the Singapore Public Service. Touching on key milestones in our history and featuring stellar archival and contemporary images. Heart of Public Service is a testament to the relentless effort to build the best Public Service for Singapore.</p>
 	</div>
 
 </div>
