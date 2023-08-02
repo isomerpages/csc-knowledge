@@ -40,27 +40,27 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>MESSAGE</b></p>
+Mr Teo Chee Hean
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>FOREWORD</b></p>
+Mr Peter Ong
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>INTRODUCTION</b></p>
+Ms Ong Toon Hui
+</div>
+	
+<div class="chapter-divider">
+<p><b>MILESTONES</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
-</div>
-	
-<div class="chapter-divider">
-<p><b></b></p>
+<p><b>CHAPTER 1: UPHOLDING THE RULE OF LAW</b></p>
 
 </div>
 	
