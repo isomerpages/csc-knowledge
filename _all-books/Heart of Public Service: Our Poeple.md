@@ -33,7 +33,7 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/Heart%20of%20Public%20Service%20Our%20People.png"></div>
 	<div class="grid-child">
 		<h3></h3>
 		<i></i><br>
