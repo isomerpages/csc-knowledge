@@ -2,6 +2,7 @@ collections:
   all-books:
     output: true
     order:
+      - "Size is not the Answer: The Changing Face of the Global City.md"
       - "Liveable Sustainable Cities: A Framework.md"
       - Upholding Integrity in the Public Service.md
       - "Heart of Public Service: Our Poeple.md"
