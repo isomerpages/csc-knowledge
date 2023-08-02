@@ -75,11 +75,6 @@ Pablo VAGGIONE and Elyssa LUDHER
 <p><b>EPILOGUE</b></p>
 PETER-HO
 </div>
-	
-<div class="chapter-divider">
-<p><b></b></p>
-
-</div>	
 
 
 
