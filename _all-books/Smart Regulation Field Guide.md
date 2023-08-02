@@ -12,6 +12,11 @@ description: ""
 	grid-gap: 5%
 	}
 	
+img {
+		object-fit: contain;
+		width: 100%;
+		height: 80%;
+	}	
 
 
 </style>
@@ -43,6 +48,3 @@ description: ""
 <p><b>Modify the Regulation(s)</b></p>
 <p><b>The ABC of Stakeholder Engagement</b></p>
 </div>
-
-
-
