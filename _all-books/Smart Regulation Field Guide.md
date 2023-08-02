@@ -42,7 +42,7 @@ img {
 
 <div>
 
-<div>
+<div class="chapter-divider">
 <p><b>FOREWORD</b></p>
 	Chan Heng Kee
 </div>
