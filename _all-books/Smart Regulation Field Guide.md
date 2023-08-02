@@ -38,10 +38,10 @@ img {
 
 <div>
 
-<p><b>Foreword</b></p>
-<p><b>Acknowledgements</b></p>
-<p><b>Overview of the Field Guide</b></p>
-<p><b>Define the Problem</b></p>
+<p><b>FOREWORD</b></p>
+<p><b>ACKNOWLEDGEMENTS</b></p>
+<p><b>CHAPTER 1: OVERVIEW OF THE FIELD GUIDE</b></p>
+<p><b>CHAPTER 2: DEFINE THE PROBLEM</b></p>
 <p><b>Respond to the Problem</b></p>
 <p><b>Evaluate and Enact the Regulation(s)</b></p>
 <p><b>Assess the Regulation(s) - Post-implementation Review</b></p>
