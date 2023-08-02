@@ -10,16 +10,22 @@ description: ""
 .grid-container {
 	display: grid;
 	grid-template-columns: 50% 50%;
-	
+	grid-gap: 5%
 	}
 	
+img {
+		object-fit: contain;
+		width: 100%;
+		height: 80%;
+	}	
+
 
 
 </style>
 
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/Introduction%20to%20Industrial%20Relations%20in%20Singapore.png"></div>
 	<div class="grid-child">
 		<h3>Introduction to Industrial Relations in Singapore: Reflecting on the Past, Preparing for the Future</h3>
 		<i>ISBN: 978-981-09-8379-6 (pbk)</i><br>
