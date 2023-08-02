@@ -33,9 +33,9 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/Liveable%20&amp;%20Sustainable%20Cities.png"></div>
 	<div class="grid-child">
-		<h3></h3>
+		<h3>Liveable Sustainable Cities: A Framework</h3>
 		<i></i><br>
 		<i></i><br>
 		<b><i>by </i></b>
