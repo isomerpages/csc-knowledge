@@ -40,7 +40,11 @@ img {
 
 <div>
 
-
+<p><b>CHAPTER 1: HISTORY OF INDUSTRIAL RELATIONS IN SINGAPORE</b></p>
+<p><b></b></p>
+<p><b></b></p>
+<p><b></b></p>
+<p><b></b></p>
 
 
 
