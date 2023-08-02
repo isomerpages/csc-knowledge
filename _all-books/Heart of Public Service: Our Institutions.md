@@ -32,7 +32,7 @@ img {
 		<i></i><br>
 		<i></i><br>
 		<b><i></i></b>
-		<p>Heart of Public Service is a two-volume book-set that honours the institutions and officers of the Singapore Public Service. Touching on key milestones in our history and featuring stellar archival and contemporary images. Heart of Public Service is a testament to the relentless effort to build the best Public Service for Singapore.</p>
+		<p>Heart of Public Service is a two-volume book-set that honours the institutions and officers of the Singapore Public Service. Touching on key milestones in our history and featuring stellar archival and contemporary images. Heart of Public Service is a testament to the relentless effort to build the best Public Service for Singapore. <br>'Our Institutions' traces the development of the Singapore Public Service through its driving goals and ideals. Written by a team of writers and researchers from the Civil Service College and other agencies, this volume shows how the Public Service has confronted crises, managed complexities and risen to meet our nation's most pressing challenges over the past five decades.</p>
 	</div>
 
 </div>
