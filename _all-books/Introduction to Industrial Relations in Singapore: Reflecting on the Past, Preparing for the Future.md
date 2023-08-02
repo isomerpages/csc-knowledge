@@ -41,8 +41,8 @@ img {
 <div>
 
 <p><b>CHAPTER 1: HISTORY OF INDUSTRIAL RELATIONS IN SINGAPORE</b></p>
-<p><b></b></p>
-<p><b></b></p>
+<p><b>CHAPTER 2: CASE STUDIES OF TRIPARTITE RELATIONS</b></p>
+<p><b>CHAPTER 3: THE FUTURE OF TRIPARTISM IN SINGAPORE</b></p>
 <p><b></b></p>
 <p><b></b></p>
 
