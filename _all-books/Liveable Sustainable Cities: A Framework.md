@@ -38,7 +38,7 @@ img {
 		<h3>Liveable Sustainable Cities: A Framework</h3>
 		<i></i><br>
 		<i></i><br>
-		<b><i>by </i></b>
+		<b><i>by Centre for Liveable Cities &amp; Civil Service College</i></b>
 		<p></p>
 	</div>
 
