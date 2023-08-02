@@ -2,6 +2,7 @@ collections:
   all-books:
     output: true
     order:
+      - "Heart of Public Service: Our Poeple.md"
       - "Heart of Public Service: Our Institutions.md"
       - "Foresight: A Glossary.md"
       - "China's Socio Political Reforms: Evolutionary or Revolutionary.md"
