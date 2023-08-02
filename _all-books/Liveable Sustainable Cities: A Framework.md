@@ -36,8 +36,8 @@ img {
 	<div class="grid-child"><img src="/images/Books/Liveable%20&amp;%20Sustainable%20Cities.png"></div>
 	<div class="grid-child">
 		<h3>Liveable Sustainable Cities: A Framework</h3>
-		<i>ISBN: 978-981-09-0557-6</i><br>
-		<i>ISBN: 978-981-09-0558-3</i><br>
+		<i>ISBN: 978-981-09-0557-6 (Paperbook)</i><br>
+		<i>ISBN: 978-981-09-0558-3 (eBook)</i><br>
 		<b><i>by Centre for Liveable Cities &amp; Civil Service College</i></b>
 		<p></p>
 	</div>
