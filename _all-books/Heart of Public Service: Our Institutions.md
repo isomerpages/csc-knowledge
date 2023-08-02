@@ -22,6 +22,12 @@ img {
 	margin-top: 5%;
 	}	
 	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+	
+}	
 
 </style>
 
@@ -133,5 +139,12 @@ Ms Ong Toon Hui
 <p><b>INDEX</b></p>
 
 </div>
+
+</div>
+
+<br>
+<br>
+<div class="back">
+<a href="/books/">Back to Books Page</a>	
 
 </div>
