@@ -9,16 +9,25 @@ description: ""
 .grid-container {
 	display: grid;
 	grid-template-columns: 50% 50%;
-	
+	grid-gap: 5%
 	}
 	
+img {
+		object-fit: contain;
+		width: 100%;
+		height: 80%;
+	}	
 
+.chapter-divider {
+	margin-top: 5%;
+	}	
+	
 
 </style>
 
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/Adaptive%20Governance%20for%20a%20Changing%20World.png"></div>
 	<div class="grid-child">
 		<h3>Adapting Governance for a Changing World</h3>
 		<i>ISBN: 978-981-09-7879-2</i><br>
@@ -37,14 +46,3 @@ description: ""
 
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
