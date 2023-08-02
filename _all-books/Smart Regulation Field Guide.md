@@ -23,7 +23,7 @@ img {
 
 
 <div class="grid-container">
-	<div class="grid-child"><img src="/images/Books/Case%20Studies%20Building%20Communities%20in%20Singapore.png"></div>
+	<div class="grid-child"><img src="/images/Books/Smart%20Regulation%20Field%20Guide.png"></div>
 	<div class="grid-child">
 		<h3>Smart Regulation Field Guide</h3>
 		<i>ISBN: 978-981-09-8376-5 (pbk)</i><br>
