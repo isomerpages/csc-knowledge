@@ -9,7 +9,7 @@ description: ""
 .grid-container {
 	display: grid;
 	grid-template-columns: 50% 50%;
-	
+	grid-gap: 5%
 	}
 	
 
@@ -18,7 +18,7 @@ description: ""
 
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/Smart%20Regulation%20Field%20Guide.png"></div>
 	<div class="grid-child">
 		<h3>Smart Regulation Field Guide</h3>
 		<i>ISBN: 978-981-09-8376-5 (pbk)</i><br>
