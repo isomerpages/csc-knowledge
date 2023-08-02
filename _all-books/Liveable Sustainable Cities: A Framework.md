@@ -47,31 +47,39 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>Foreword</b></p>
+Liu Thai Ker
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>CHAPTER 1: THE CLC LIVEABILITY FRAMEWORK</b></p>
+KHOO Teng Chye
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>CHAPTER 2: MASTER PLANNING: TRANSFORMING CONCEPTS TO REALITY</b></p>
+Phyllis TEOH
+</div>
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 3: URBAN GOVERNANCE: FORESIGHT AND PRAGMATISM</b></p>
+TOH Boon Kwan , Mark CHEN and Vernie OLIVEIRO
+</div>
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 4: IN GLOBAL PRACTICE: THE CLC LIVEABILITY FRAMEWORK</b></p>
+Pablo VAGGIONE and Elyssa LUDHER
+</div>
+	
+<div class="chapter-divider">
+<p><b>EPILOGUE</b></p>
+PETER-HO
 </div>
 	
 <div class="chapter-divider">
 <p><b></b></p>
 
-</div>
-	
-<div class="chapter-divider">
-<p><b></b></p>
-
-</div>
-	
-
+</div>	
 
 
 
