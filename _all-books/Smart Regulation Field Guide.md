@@ -38,7 +38,11 @@ img {
 
 <div>
 
+<div>
 <p><b>FOREWORD</b></p>
+	Chan Heng Kee
+</div>
+
 <p><b>ACKNOWLEDGEMENTS</b></p>
 <p><b>CHAPTER 1: OVERVIEW OF THE FIELD GUIDE</b></p>
 <p><b>CHAPTER 2: DEFINE THE PROBLEM</b></p>
