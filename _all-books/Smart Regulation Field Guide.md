@@ -18,6 +18,10 @@ img {
 		height: 80%;
 	}	
 
+.chapter-divider {
+	margin-top: 10%;
+	}	
+	
 
 </style>
 
@@ -43,13 +47,26 @@ img {
 	Chan Heng Kee
 </div>
 
-<p><b>ACKNOWLEDGEMENTS</b></p>
-<p><b>CHAPTER 1: OVERVIEW OF THE FIELD GUIDE</b></p>
-<p><b>CHAPTER 2: DEFINE THE PROBLEM</b></p>
-<p><b>CHAPTER 3: RESPOND TO THE PROBLEM</b></p>
+<div class="chapter-divider"><p><b>ACKNOWLEDGEMENTS</b></p></div>
+<div class="chapter-divider"><p><b>CHAPTER 1: OVERVIEW OF THE FIELD GUIDE</b></p></div>
+<div class="chapter-divider"><p><b>CHAPTER 2: DEFINE THE PROBLEM</b></p></div>
+	
+<div class="chapter-divider"><p><b>CHAPTER 3: RESPOND TO THE PROBLEM</b></p>
+	</div>
+	
+<div class="chapter-divider">	
 <p><b>CHAPTER 4: EVALUATE AND ENACT THE REGULATION(S)</b></p>
+	</div>
+<div class="chapter-divider">
 <p><b>CHAPTER 5: ASSESS THE REGULATION(S) - POST-IMPLEMENTATION REVIEW</b></p>
+	</div>
+<div class="chapter-divider">
 <p><b>CHAPTER 6: MODIFY THE REGULATION(S)</b></p>
+	</div>
+<div class="chapter-divider">
 <p><b>CHAPTER 7: THE ABC OF STAKEHOLDER ENGAGEMENT</b></p>
+	</div>
+<div class="chapter-divider">
 <p><b>CONCLUSION</b></p>
+</div>
 </div>
