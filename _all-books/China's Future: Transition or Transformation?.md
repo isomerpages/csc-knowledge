@@ -51,22 +51,22 @@ In this publication, CSC researchers examine key ideas presented by experts from
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>WELCOME REMARKS</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>OPENING REMARKS</b></p>
 
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CONTINUITY AND CHANGE IN CHINA</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CHINA'S AGING POPULATION: RISK OR OPPORTUNITY</b></p>
 
 </div>
 	
