@@ -52,37 +52,48 @@ In this publication, CSC researchers examine key ideas presented by experts from
 
 <div class="chapter-divider">
 <p><b>WELCOME REMARKS</b></p>
-
+KWEK Mean Luck
 </div>
 	
 <div class="chapter-divider">
 <p><b>OPENING REMARKS</b></p>
-
+LOW Yen Ling
 </div>
 		
 <div class="chapter-divider">
 <p><b>CONTINUITY AND CHANGE IN CHINA</b></p>
-
+SIM Hee Juat and WU Wei Neng
 </div>
 	
 <div class="chapter-divider">
 <p><b>CHINA'S AGING POPULATION: RISK OR OPPORTUNITY</b></p>
+SOH Tze Min
+</div>
+	
+<div class="chapter-divider">
+<p><b>HARNESSING PEOPLE POWER IN CHINA</b></p>
+Bernard TING and LIM Chee Kia
+</div>
+	
+<div class="chapter-divider">
+<p><b>AUTHORS</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>SYMPOSIUM PROGRAMME</b></p>
 
-</div>
+</div>	
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>SYMPOSIUM SPEAKERS</b></p>
 
 </div>
-	
 
+<div class="chapter-divider">
+<p><b>SYMPOSIUM ORGANISERS</b></p>
 
-
+</div>
 
 
 
