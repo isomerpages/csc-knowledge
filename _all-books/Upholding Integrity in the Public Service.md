@@ -33,7 +33,7 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src="/images/Books/Upholding%20Integrity%20in%20the%20Public%20Service.png"></div>
+	<div class="grid-child"><img src="/images/Books/Upholding%20Integrity%20in%20the%20Public%20Service.jpg"></div>
 	<div class="grid-child">
 		<h3>Upholding Integrity in the Public Service</h3>
 		<i>ISBN: 978-981-09-3673-0 (Paperback)</i><br>
