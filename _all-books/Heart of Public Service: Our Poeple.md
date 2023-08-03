@@ -33,10 +33,10 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src="/images/Books/Heart%20of%20Public%20Service%20Our%20People.png"></div>
+	<div class="grid-child"><img src="/images/Books/Heart%20of%20Public%20Service%20Our%20People.jpg"></div>
 	<div class="grid-child">
-		<h3></h3>
-		<i></i><br>
+		<h3>Heart of Public Service: Our People</h3>
+		<i>ISBN: 978-981-09-4688-3</i><br>
 		<i></i><br>
 		<b><i>by </i></b>
 		<p>Heart of Public Service is a two-volume book-set that honours the institutions and officers of the Singapore Public Service. Touching on key milestones in our history and featuring stellar archival and contemporary images. Heart of Public Service is a testament to the relentless effort to build the best Public Service for Singapore. <br>'Our People' features 50 stories about public officers who have been a part of the key moments in our history. Featuring vivid and inspiring first-person accounts nad narratives, 'Our People' showcases the values that define the Public Service - integrity , service and excellence - as well as how public officers serve tirelessly and round the clock , from their hearts. </p>
