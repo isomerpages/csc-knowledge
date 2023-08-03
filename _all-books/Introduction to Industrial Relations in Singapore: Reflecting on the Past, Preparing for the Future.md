@@ -29,7 +29,7 @@ img {
 
 
 <div class="grid-container">
-	<div class="grid-child"><img src="/images/Books/Introduction%20to%20Industrial%20Relations%20in%20Singapore.png"></div>
+	<div class="grid-child"><img src="/images/Books/Introduction%20to%20Industrial%20Relations%20in%20Singapore.jpg"></div>
 	<div class="grid-child">
 		<h3>Introduction to Industrial Relations in Singapore: Reflecting on the Past, Preparing for the Future</h3>
 		<i>ISBN: 978-981-09-8379-6 (pbk)</i><br>
