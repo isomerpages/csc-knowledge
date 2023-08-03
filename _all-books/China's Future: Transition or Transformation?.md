@@ -35,10 +35,10 @@ img {
 <div class="grid-container">
 	<div class="grid-child"><img src=""></div>
 	<div class="grid-child">
-		<h3></h3>
-		<i></i><br>
-		<i></i><br>
-		<b><i>by </i></b>
+		<h3>China's Future: Transition or Transformation?</h3>
+		<i>ISBN: 978-981-07-5387-0 (pbk)</i><br>
+		<i>ISBN: 978-981-07-5388-7 (ebook)</i><br>
+		<b><i>by Civil Service College (Various Authors)</i></b>
 		<p></p>
 	</div>
 
