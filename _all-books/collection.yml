@@ -2,6 +2,8 @@ collections:
   all-books:
     output: true
     order:
+      - "Case Studies in Public Governance: Building Institutions in
+        Singapore.md"
       - "A Changing China: Emerging Governance, Economics and Social Trends.md"
       - "China's Future: Transition or Transformation?.md"
       - "Size is not the Answer: The Changing Face of the Global City.md"
