@@ -26,7 +26,7 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src="/images/Books/Foresight%20A%20Glossary.png"></div>
+	<div class="grid-child"><img src="/images/Books/Foresight%20A%20Glossary.jpg"></div>
 	<div class="grid-child">
 		<h3>Foresight: A Glossary</h3>
 		<i></i><br>
