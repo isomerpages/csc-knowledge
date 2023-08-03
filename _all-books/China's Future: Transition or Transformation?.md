@@ -33,7 +33,7 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/China's%20Future.jpg"></div>
 	<div class="grid-child">
 		<h3>China's Future: Transition or Transformation?</h3>
 		<i>ISBN: 978-981-07-5387-0 (pbk)</i><br>
