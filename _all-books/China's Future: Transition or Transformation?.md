@@ -37,7 +37,7 @@ img {
 	<div class="grid-child">
 		<h3>China's Future: Transition or Transformation?</h3>
 		<i>ISBN: 978-981-07-5387-0 (pbk)</i><br>
-		<i>ISBN: 978-981-07-5388-7 (ebook)</i><br>
+		<i>ISBN: 978-981-07-5388-7 (ebk)</i><br>
 		<b><i>by Civil Service College (Various Authors)</i></b>
 		<p>A new political leadership has taken over at the helm of the world's second largest economy. The world is watching intently, as economic, social and political tensions continue to raise questions about China's future. <br>
 
@@ -67,6 +67,11 @@ In this publication, CSC researchers examine key ideas presented by experts from
 	
 <div class="chapter-divider">
 <p><b>CHINA'S AGING POPULATION: RISK OR OPPORTUNITY</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
 
 </div>
 	
