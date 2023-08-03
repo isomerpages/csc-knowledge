@@ -33,7 +33,7 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src="/images/Books/Liveable%20&amp;%20Sustainable%20Cities.png"></div>
+	<div class="grid-child"><img src="/images/Books/Liveable%20&amp;%20Sustainable%20Cities.jpg"></div>
 	<div class="grid-child">
 		<h3>Liveable Sustainable Cities: A Framework</h3>
 		<i>ISBN: 978-981-09-0557-6 (Paperbook)</i><br>
