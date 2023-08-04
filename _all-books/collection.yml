@@ -2,6 +2,7 @@ collections:
   all-books:
     output: true
     order:
+      - "The Rise of Post Familialism: Humanity's Future?.md"
       - "Globalising Skills: Implications for Singapore Edited by Johnny Sung.md"
       - "Case Studies in Public Governance: Building Institutions in
         Singapore.md"
