@@ -36,9 +36,9 @@ img {
 	<div class="grid-child"><img src=""></div>
 	<div class="grid-child">
 		<h3>Globalising Skills: Implications for Singapore Edited by Johnny Sung</h3>
+		<i>ISBN: 978-981-07-3696-5</i><br>
 		<i></i><br>
-		<i></i><br>
-		<b><i>by </i></b>
+		<b><i>by Phillip Brown, Andy Dickerson, David Finegold, High Lauder, Rob Wilson, Wu Wei Neng</i></b>
 		<p></p>
 	</div>
 
