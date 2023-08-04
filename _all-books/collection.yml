@@ -2,6 +2,8 @@ collections:
   all-books:
     output: true
     order:
+      - "Liveable & Sustainable Cities for the Future: World Cities Summit 2010
+        Conference Proceedings.md"
       - "The Rise of Post Familialism: Humanity's Future?.md"
       - "Globalising Skills: Implications for Singapore Edited by Johnny Sung.md"
       - "Case Studies in Public Governance: Building Institutions in
