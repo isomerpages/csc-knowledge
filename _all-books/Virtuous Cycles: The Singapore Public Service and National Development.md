@@ -33,7 +33,7 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/Virtuous%20Cycles%20The%20Singapore%20Public%20Service%20and%20National%20Development.jpg"></div>
 	<div class="grid-child">
 		<h3>Virtuous Cycles: The Singapore Public Service and National Development</h3>
 		<i>ISBN: 978-981-08-8334-8</i><br>
