@@ -2,6 +2,8 @@ collections:
   all-books:
     output: true
     order:
+      - "Virtuous Cycles: The Singapore Public Service and National
+        Development.md"
       - "Liveable & Sustainable Cities for the Future: World Cities Summit 2010
         Conference Proceedings.md"
       - "The Rise of Post Familialism: Humanity's Future?.md"
