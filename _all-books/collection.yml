@@ -2,6 +2,7 @@ collections:
   all-books:
     output: true
     order:
+      - "Globalising Skills: Implications for Singapore Edited by Johnny Sung.md"
       - "Case Studies in Public Governance: Building Institutions in
         Singapore.md"
       - "A Changing China: Emerging Governance, Economics and Social Trends.md"
