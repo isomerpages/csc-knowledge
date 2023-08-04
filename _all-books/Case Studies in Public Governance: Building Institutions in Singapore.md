@@ -33,12 +33,12 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/Case%20Studies%20in%20Public%20Governance.jpg"></div>
 	<div class="grid-child">
-		<h3></h3>
-		<i></i><br>
-		<i></i><br>
-		<b><i>by </i></b>
+		<h3>Case Studies in Public Governance: Building Institutions in Singapore</h3>
+		<i>ISBN: 978-0-415-50671-7 (hbk)</i><br>
+		<i>ISBN: 978-0-203-12484-0 (ebk)</i><br>
+		<b><i>by June Gwee</i></b>
 		<p></p>
 	</div>
 
