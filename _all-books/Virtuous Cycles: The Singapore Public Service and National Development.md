@@ -35,10 +35,10 @@ img {
 <div class="grid-container">
 	<div class="grid-child"><img src=""></div>
 	<div class="grid-child">
-		<h3></h3>
+		<h3>Virtuous Cycles: The Singapore Public Service and National Development</h3>
+		<i>ISBN: 978-981-08-8334-8</i><br>
 		<i></i><br>
-		<i></i><br>
-		<b><i>by </i></b>
+		<b><i>by Dr N.C. Saxena</i></b>
 		<p></p>
 	</div>
 
