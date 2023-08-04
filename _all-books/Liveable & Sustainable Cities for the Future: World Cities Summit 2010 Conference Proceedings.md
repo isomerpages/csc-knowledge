@@ -34,7 +34,7 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/Liveable%20&amp;%20Sustainable%20Cities%20for%20the%20Future.jpg"></div>
 	<div class="grid-child">
 		<h3>Liveable &amp; Sustainable Cities for the Future: World Cities Summit 2010 Conference Proceedings</h3>
 		<i></i><br>
