@@ -39,7 +39,7 @@ img {
 		<i>ISBN: 978-0-415-50671-7 (hbk)</i><br>
 		<i>ISBN: 978-0-203-12484-0 (ebk)</i><br>
 		<b><i>by June Gwee</i></b>
-		<p></p>
+		<p>This book is a collection of case studies on the development of institutions in Singapore. Each has been  carefully selected to profile a particular sector: urban governance, education, social security, and industrial relations. These case studies highlight the importance of culture, leadership, and systems in building institutions. They demonstrate how interactions between people — leaders and employees — and the organizations they belong to may influence institutional culture. </p>
 	</div>
 
 </div>
