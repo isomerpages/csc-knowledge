@@ -35,7 +35,7 @@ img {
 <div class="grid-container">
 	<div class="grid-child"><img src=""></div>
 	<div class="grid-child">
-		<h3></h3>
+		<h3>Globalising Skills: Implications for Singapore Edited by Johnny Sung</h3>
 		<i></i><br>
 		<i></i><br>
 		<b><i>by </i></b>
