@@ -39,7 +39,7 @@ img {
 		<i>ISBN: 978-981-08-8334-8</i><br>
 		<i></i><br>
 		<b><i>by Dr N.C. Saxena</i></b>
-		<p></p>
+		<p>This book addresses what makes Singapore's Government effective and why. What are the policy choices that Singapore has made, the institutional arrangements it has put in place, and the key policy decisions that have allowed Singapore to be an island of excellence in the area of public sector management and public service delivery? How has it created an enabling environment that empowers public service institutions to cope with and manage change? How has the capacity of the civil service been continuously developed to stay at the cutting edge? And finally, what are the lessons that other countries can learn from Singapore?</p>
 	</div>
 
 </div>
