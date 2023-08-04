@@ -33,10 +33,10 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/The%20Rise%20of%20Post-Familialism_%20Humanity's%20Future_.png"></div>
 	<div class="grid-child">
 		<h3>The Rise of Post-Familialism: Humanity's Future?</h3>
-		<i></i><br>
+		<i>ISBN: 978-981-07-3896-9 (pbk)</i><br>
 		<i></i><br>
 		<b><i>by Joel Kotkin, Anuradha Shroff, Ali modarres and Wendell Cox</i></b>
 		<p></p>
