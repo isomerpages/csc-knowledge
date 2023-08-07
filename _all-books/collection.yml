@@ -2,6 +2,7 @@ collections:
   all-books:
     output: true
     order:
+      - "World Cities: Achieving Liveability and Vibrancy.md"
       - Rethinking Poverty and Social Mobility.md
       - "Virtuous Cycles: The Singapore Public Service and National
         Development.md"
