@@ -35,11 +35,11 @@ img {
 <div class="grid-container">
 	<div class="grid-child"><img src=""></div>
 	<div class="grid-child">
-		<h3></h3>
+		<h3>Rethinking Poverty and S</h3>
+		<i>ISBN: 13-978-981-08-3070-0 (pbk)</i><br>
 		<i></i><br>
-		<i></i><br>
-		<b><i>by </i></b>
-		<p></p>
+		<b><i>by Civil Service College &amp; ESRN</i></b>
+		<p>Documenting social development and poverty alleviation programmes in societies such as Singapore, USA and Taiwan, this volume examines the challenges of contemporary social intervention. It also highlights the impact of stagnating social mobility and the interconnected roles of the government, the community and welfare recipients in advancing social and economic goals.</p>
 	</div>
 
 </div>
