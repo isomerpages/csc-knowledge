@@ -39,7 +39,7 @@ img {
 		<i>ISBN: 13--978-981-4280-71-6</i><br>
 		<i>ISBN: 10-981-4280-71-2</i><br>
 		<b><i>by Ooi Giok Ling &amp; Belinda Yuen</i></b>
-		<p></p>
+		<p>How does a city make sound policy decisions on sustainability and governance while simultaneously promoting economic growth and development excellence? This book focuses on the major challenges that world cities are facing in such key areas as governance, social inclusiveness, infrastructural development , financial solvency as well as environmental and ecological sustainability. Based on case studies from cities in North America, Europe, and the Asia-Pacific, this collection of essays brings together some of the top academics, professionals and policymakers from the world over and presents their views on how to best strike the balance between growth and sustainability. The range of perspectives, ideas and depth of information makes this an invaluable resource for researchers, city planning professionals and policymakers in environment, urban development and urban economic planning.</p>
 	</div>
 
 </div>
