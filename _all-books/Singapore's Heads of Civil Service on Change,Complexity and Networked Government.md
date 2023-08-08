@@ -39,8 +39,8 @@ img {
 		<h3></h3>
 		<i>ISBN: 978-981-08-4464-6</i><br>
 		<i></i><br>
-		<b><i>by </i></b>
-		<p></p>
+		<b><i>Speeches by Lim Siong Guan and Peter Ho</i></b>
+		<p>This collection of speeches provides a glimpse into how two Heads of Civil Service have sought to communicate their ideas on change, complexity and networked government to their colleagues in the public sector over the last decade. They share a common conviction: the need for the Singapore Government to continually anticipate, welcome and execute change; and for a public service that is in time for the future. These insights and values underpin the Public Service for the 21st century (PS21) movement that began in 1995, and continue to drive a wide range of critical service-wide initiatives.</p>
 	</div>
 
 </div>
