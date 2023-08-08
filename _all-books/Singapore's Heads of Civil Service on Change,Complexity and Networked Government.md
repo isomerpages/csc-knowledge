@@ -37,7 +37,7 @@ img {
 	<div class="grid-child"><img src=""></div>
 	<div class="grid-child">
 		<h3></h3>
-		<i></i><br>
+		<i>ISBN: 978-981-08-4464-6</i><br>
 		<i></i><br>
 		<b><i>by </i></b>
 		<p></p>
