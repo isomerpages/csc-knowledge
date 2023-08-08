@@ -2,6 +2,7 @@ collections:
   all-books:
     output: true
     order:
+      - 《新加坡治国之道》演讲集：于是并进  新加坡公共服务领袖论述政府推行变革、 政务复杂性与网络化政府.md
       - "World Cities: Achieving Liveability and Vibrancy.md"
       - Rethinking Poverty and Social Mobility.md
       - "Virtuous Cycles: The Singapore Public Service and National
