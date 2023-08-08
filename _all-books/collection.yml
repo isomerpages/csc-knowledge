@@ -2,6 +2,7 @@ collections:
   all-books:
     output: true
     order:
+      - Regulation and the Limits of Competition, 23 Mar 2007.md
       - Singapore's Heads of Civil Service on Change,Complexity and Networked
         Government.md
       - 《新加坡治国之道》演讲集：于是并进  新加坡公共服务领袖论述政府推行变革、 政务复杂性与网络化政府.md
