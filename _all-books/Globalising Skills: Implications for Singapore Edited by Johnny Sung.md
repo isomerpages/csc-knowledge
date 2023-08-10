@@ -47,29 +47,47 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>FOREWORD</b></p>
+Kwek Mean Luck
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>FOREWORD</b></p>
+Gog Soon Joo
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>Introduction</b></p>
+Johnny Sung
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>Human Capital, Productivity and Inclusive Growth: Joining the Dots and Strengthening the Linkages</b></p>
+Wu Wei Neng
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>HOW SHOULD SINGAPORE RESPOND TO THE GLOBAL AUCTION FOR HIGH SKILLS?</b></p>
+Phillip Brown and Hugh Lauder
 </div>
+	
+<div class="chapter-divider">
+<p><b>DISRUPTION IN THE GLOBAL HIGHER EDUCATION MARKETPLACE: KEY TRENDS, NEW ENTRANTS AND IMPLICATIONS FOR SINGAPORE</b></p>
+David Finegold
+</div>
+
+	
+<div class="chapter-divider">
+<p><b>DEVELOPING OCCUPATIONAL SKILLS PROFILES FOR SINGAPORE: A METHODOLOGICAL PROPOSAL</b></p>
+Andy Dickerson and Rob Wilson
+</div>
+
+	
+<div class="chapter-divider">
+<p><b>CONCLUSION</b></p>
+Johnny Sung and Wu Wei Neng
+</div>
+
 	
 
 
