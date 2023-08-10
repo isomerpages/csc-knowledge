@@ -47,12 +47,12 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>FOREWORD</b></p>
+Mah Bow Tan
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CHAPTER 1: INTRODUCTION: WORLD CITIES — CHALLENGES OF LIVEABILITY, SUSTAINABILITY AND VIBRANCY</b></p>
 
 </div>
 		
@@ -72,7 +72,45 @@ img {
 </div>
 	
 
+<div class="chapter-divider">
+<p><b></b></p>
 
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
 
 
 
