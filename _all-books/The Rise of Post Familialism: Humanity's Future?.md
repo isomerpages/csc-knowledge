@@ -47,34 +47,40 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>PREFACE</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CONTRIBUTORS</b></p>
 
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>INTRODUCTION</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>SECTION ONE: THE GREAT SOCIETAL SHIFT</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>SECTION TWO: FUTURE IMPLICATIONS OF POST-FAMILIALISM</b></p>
 
 </div>
 	
 
+<div class="chapter-divider">
+<p><b>SECTION THREE: A BRAVE NEW WORLD?</b></p>
 
+</div>
 
+<div class="chapter-divider">
+<p><b>NOTES</b></p>
 
+</div>
 
 
 
