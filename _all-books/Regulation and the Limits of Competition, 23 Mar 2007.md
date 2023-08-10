@@ -35,10 +35,10 @@ img {
 <div class="grid-container">
 	<div class="grid-child"><img src=""></div>
 	<div class="grid-child">
-		<h3></h3>
-		<i></i><br>
-		<i></i><br>
-		<b><i>by </i></b>
+		<h3>Regulation and the Limits of Competition, 23 Mar 2007</h3>
+		<i>ISBN-13: 978-981-248-175-7</i><br>
+		<i>ISBN-10: 981-248-175-3</i><br>
+		<b><i>by Civil Service College, Institute of Policy Studies &amp; Economic Society of Singapore</i></b>
 		<p></p>
 	</div>
 
