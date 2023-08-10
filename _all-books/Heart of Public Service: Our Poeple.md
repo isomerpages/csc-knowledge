@@ -47,38 +47,69 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>MESSAGE</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>FOREWORD</b></p>
 
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>INTRODUCTION</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>MILESTONES</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CHAPTER 1 — INTEGRITY</b></p>
 
 </div>
 	
 
+<div class="chapter-divider">
+<p><b>CHAPTER 2 — SERVICE</b></p>
+
+</div>
 
 
+<div class="chapter-divider">
+<p><b>CHAPTER 3 — EXCELLENCE</b></p>
+
+</div>
 
 
+<div class="chapter-divider">
+<p><b>CHAPTER 4 — 24/7</b></p>
 
+</div>
+	
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 5 — HEART</b></p>
 
+</div>	
+	
+<div class="chapter-divider">
+<p><b>ACKNOWLEDGEMENTS</b></p>
 
+</div>	
+	
+	
+<div class="chapter-divider">
+<p><b>INDEX</b></p>
+
+</div>	
+	
+	
+
+	
+	
 </div>
 
 
