@@ -39,7 +39,7 @@ img {
 		<i>ISBN: 978-981-07-1242-6 (pbk)</i><br>
 		<i>ISBN: 978-981-07-1243-3 (ebk)</i><br>
 		<b><i>by Civil Service College(Various authors)</i></b>
-		<p></p>
+		<p>This volume, documenting the proceedings of A Changing China: Emerging Governance, Economic and Social Trends in September 2011, examines the factors shaping China's response to these challenges, and the ways in which China's leaders have sought to balance various stakeholder demands. It highlights how the growth and health of China's economy are deeply entwined with the functioning of its social, political, and environmental spheres.</p>
 	</div>
 
 </div>
