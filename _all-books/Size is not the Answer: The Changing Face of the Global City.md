@@ -47,34 +47,34 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>ABOUT THE AUTHORS</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>ENDNOTES</b></p>
 
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>APPENDIX A: HOW WE RANKED GLOBAL CITIES</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>APPENDIX B: METHODOLOGY</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>APPENDIX C: SUMMARY OF FINDINGS</b></p>
 
 </div>
 	
+<div class="chapter-divider">
+<p><b>ENDNOTES</b></p>
 
-
-
-
+</div>
 
 
 
