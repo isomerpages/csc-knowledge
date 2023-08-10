@@ -36,8 +36,8 @@ img {
 	<div class="grid-child"><img src=""></div>
 	<div class="grid-child">
 		<h3>A Changing China: Emerging Governance, Economics and Social Trends</h3>
-		<i></i><br>
-		<i></i><br>
+		<i>ISBN: 978-981-07-1242-6 (pbk)</i><br>
+		<i>ISBN: 978-981-07-1243-3 (ebk)</i><br>
 		<b><i>by </i></b>
 		<p></p>
 	</div>
