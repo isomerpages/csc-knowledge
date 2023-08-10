@@ -60,32 +60,32 @@ img {
 	
 <div class="chapter-divider">
 <p><b>POWER AND RESPONSIBILITY: UNDERSTANDING THE RELATIONSHIPS BETWEEN CENTRAL AND LOCAL GOVERNMENTS</b></p>
-
+John Donaldson
 </div>
 	
 <div class="chapter-divider">
 <p><b>PUBLIC WELFARE 3.0 AND CHINA'S NEW SYSTEM [TRANSLATED] </b></p>
-
+Wang Ming and Wang Chao
 </div>
 	
 <div class="chapter-divider">
 <p><b>CHINA'S URBANISATION AND HUKOU REFORM</b></p>
-
+Zhao Litao
 </div>
 	
 <div class="chapter-divider">
 <p><b>THE ROLE OF NON-GOVERNMENTAL ORGANISATIONS IN CHINA</b></p>
-
+Zhang Zhibin
 </div>
 	
 <div class="chapter-divider">
 <p><b>MOVING FROM BEING A HUGE NETWORK NATION TO BEING A STRONG NETWORK NATION [TRANSLATED]</b></p>
-
+Wang Yukai
 </div>
 	
 <div class="chapter-divider">
 <p><b>THE CHANGING ROLE OF THE PRESS IN CHINA'S POLITCAL COMMUNICATIONS</b></p>
-
+Chua Huiching, Emily
 </div>
 	
 <div class="chapter-divider">
