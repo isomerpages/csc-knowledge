@@ -33,7 +33,7 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/A%20Changing%20China.jpg"></div>
 	<div class="grid-child">
 		<h3>A Changing China: Emerging Governance, Economics and Social Trends</h3>
 		<i>ISBN: 978-981-07-1242-6 (pbk)</i><br>
