@@ -62,16 +62,32 @@ img {
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>AN EFFECTIVE PUBLIC SERVICE THAT ESCHEWS CORRUPTION AND A ZERO TOLERANCE TOWARDS CORRUPTION</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CONCLUSION</b></p>
 
 </div>
 	
+	
+<div class="chapter-divider">
+<p><b>ENDNOTES</b></p>
 
+</div>
+	
+	
+<div class="chapter-divider">
+<p><b>FURTHER READING</b></p>
+
+</div>
+		
+<div class="chapter-divider">
+<p><b>ONLINE RESOURCES</b></p>
+
+</div>
+	
 
 
 
