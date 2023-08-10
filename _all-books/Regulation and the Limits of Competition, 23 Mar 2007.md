@@ -76,16 +76,21 @@ Lam Chuan Leong
 <div class="chapter-divider">
 <p class="bigger"><b>PROMOTING COMPETITION</b></p>
 	<ul>
-		<li>Objectives and Principles of Financial Supervision in Singapore</li>
-		<li>Promoting Competition: The CCS Perspective</li>
-		<li>Commentary on Promoting Competition: The Financial Sector and Competition Policy in Singapore</li>
-	
+		<li>Chapter 4: Objectives and Principles of Financial Supervision in Singapore</li>
+		Chia Der Jiun
+		<li>Chapter 5: Promoting Competition: The CCS Perspective</li>
+		Ong Beng Lee
+		<li>Chapter 6: Commentary on Promoting Competition: The Financial Sector and Competition Policy in Singapore</li>
+		Tan Kim Song
 </ul>
 </div>
 		
 <div class="chapter-divider">
 <p class="bigger"><b>PLENARY SESSION</b></p>
-
+	<ul>
+		<li>Chapter 7: Discussion Session</li>
+			
+</ul>
 </div>
 	
 <div class="chapter-divider">
