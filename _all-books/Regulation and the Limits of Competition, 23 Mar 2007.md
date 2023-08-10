@@ -33,7 +33,7 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/Regulation%20and%20the%20Limits%20of%20Competition.jpg"></div>
 	<div class="grid-child">
 		<h3>Regulation and the Limits of Competition, 23 Mar 2007</h3>
 		<i>ISBN-13: 978-981-248-175-7</i><br>
