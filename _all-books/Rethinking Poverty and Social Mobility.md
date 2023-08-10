@@ -33,9 +33,9 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/Rethinking%20Poverty%20and%20Social%20Mobility.jpg"></div>
 	<div class="grid-child">
-		<h3>Rethinking Poverty and S</h3>
+		<h3>Rethinking Poverty and Social Mobility</h3>
 		<i>ISBN: 13-978-981-08-3070-0 (pbk)</i><br>
 		<i></i><br>
 		<b><i>by Civil Service College &amp; ESRN</i></b>
