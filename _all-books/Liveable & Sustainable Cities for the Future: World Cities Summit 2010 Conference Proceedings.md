@@ -48,16 +48,36 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>FOREWORD</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>PLENARY SESSIONS</b></p>
 
 </div>
 		
 <div class="chapter-divider">
+<p><b>MINISTERS AND MAYORS PROGRAMME</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b>LEE KUAN YEW CITY WORLD CITY PRIZE PROGRAMME</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b>EXPERT PANNEL SESSION 1: PLANNING FOR A WORLD-CLASS</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
 <p><b></b></p>
 
 </div>
@@ -71,6 +91,21 @@ img {
 <p><b></b></p>
 
 </div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
+
+</div>	
 	
 
 
