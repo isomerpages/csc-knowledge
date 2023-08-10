@@ -98,22 +98,12 @@ img {
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>ACKNOWLEDGEMENTS</b></p>
 
 </div>
 	
-<div class="chapter-divider">
-<p><b></b></p>
 
-</div>	
 	
-
-
-
-
-
-
-
 
 </div>
 
