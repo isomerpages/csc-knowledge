@@ -76,7 +76,14 @@ img {
 	
 <div class="chapter-divider">
 <p><b>SPEECHES BY PETER HO</b></p>
-
+	<ul>
+		<li>What Singapore Must Do to Remain a Hub</li>
+		<li>Thriving in a Turbulent World</li>
+		<li>PS21-Empowerment, Experimentation, and Enlightened Leadership</li>
+		<li>Governance at the Leading Edge: Black Swans, Wild Cards, and Wicked Problems</li>
+		<li>Hubs in a Flat and Spiky World</li>
+	
+</ul>
 </div>
 	
 
