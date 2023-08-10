@@ -89,8 +89,21 @@ Johnny Sung and Wu Wei Neng
 </div>
 
 	
+<div class="chapter-divider">
+<p><b>ABOUT THE CONTRIBUTERS</b></p>
 
+</div>
 
+	
+<div class="chapter-divider">
+<p><b>ABOUT THE CIVIL SERVICE COLLEGE</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b>ABOUT THE INSTITUTE FOR ADULT LEARNING</b></p>
+
+</div>	
 
 
 
