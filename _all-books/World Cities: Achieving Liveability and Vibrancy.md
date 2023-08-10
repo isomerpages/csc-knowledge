@@ -88,35 +88,67 @@ Loke Ming Chou
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CHAPTER 8: LIVEABLE CITIES</b></p>
+Andrew Tan
+</div>
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 9: COLLABORATION BETWEEN THE PUBLIC AND PRIVATE SECTORS FOR URBAN DEVELOPMENT</b></p>
+Sock-Yong Phang
+</div>
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 10: SUSTAINABILITY IN THE BUILT ENVIRONMENT</b></p>
+Chye Kiang Heng and Fi Zhang
+</div>
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 11: SUSTAINING CITIES WITH CLIMATE CHANGE: IS THERE A FUTURE FOR HUMAN LIVELIHOODS?</b></p>
+Victor R Savage
+</div>
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 12: FINANCING ENVIRONMENTAL INFRASTRUCTURE</b></p>
+Ursula Schaefer-Preuss
+</div>
+
+<div class="chapter-divider">
+<p><b>CHAPTER 13: ACHIEVING INCLUSIVE AND SUSTAINABLE GROWTH: THE ROLE OF CITIES AND URBANISATION</b></p>
+Emiel A Wegelin and Michael Lindfield
+</div>	
+
+<div class="chapter-divider">
+<p><b>CHAPTER 14: CITIES AND HAPPINESS IN ENVIRONMENTAL GOODS</b></p>
+Euston Quah and Qiyan Ong
+</div>
+
+<div class="chapter-divider">
+<p><b>CHAPTER 15: CONCLUSION: WORLD CITIES  — TOWARDS A LIVEABLE, SUSTAINABLE AND VIBRANT FUTURE?</b></p>
+Giok Ling Ooi and Belinda Yuen
+</div>
+
+<div class="chapter-divider">
+<p><b>ABOUT THE CONTRIBUTORS</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>ABOUT CIVIL SERVICE COLLEGE</b></p>
+
+</div>	
+	
+<div class="chapter-divider">
+<p><b>ABOUT INSTITUTE OF POLICY STUDIES</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>INDEX</b></p>
 
 </div>
 	
-<div class="chapter-divider">
-<p><b></b></p>
-
-</div>
 	
-<div class="chapter-divider">
-<p><b></b></p>
-
-</div>
-
-
-
-
-
-
+	
 </div>
 
 
