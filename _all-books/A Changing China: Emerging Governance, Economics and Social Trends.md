@@ -47,32 +47,35 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>WELCOME REMARKS</b></p>
+Lionel Yeo
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>Opening Remarks</b></p>
+Low Yen Ling
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>Sustaining China's Political Stability: Challenging and Choices</b></p>
+Huang Jing
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>COMMENTARY: SUSTAINING CHINA'S POLITICAL STABILITY, BUILDING UP DAMS OR OPENING UP CHANNELS</b></p>
+Sim Hee Juat
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>XIA YELIANG: THE PENDING ECONOMIC CRISIS FOR CHINA: RISK, PRESSURE, AND CHALLENGE</b></p>
+Reported by Vernie Oliveiro
 </div>
 	
 
-
+<div class="chapter-divider">
+<p><b>COMMENTARY: FOUR QUESTIONS ON THE CHINA ECONOMY</b></p>
+Wu Wei Neng
+</div>
 
 
 
