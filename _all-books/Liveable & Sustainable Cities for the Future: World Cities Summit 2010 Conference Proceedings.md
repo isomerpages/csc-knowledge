@@ -68,32 +68,32 @@ img {
 </div>
 	
 <div class="chapter-divider">
-<p><b>EXPERT PANNEL SESSION 1: PLANNING FOR A WORLD-CLASS</b></p>
+<p><b>EXPERT PANNEL SESSION 1: PLANNING FOR A WORLD-CLASS CITY</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>EXPERT PANEL SESSION 2: MAINTAINING A COMPETITIVE ECONOMY</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>EXPERT PANEL SESSION 3: SHARING A LIVEABLE ENVIRONMENT</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>EXPERT PANEL SESSION 4: WORKING TOWARDS ENVIRONMENTALLY SUSTAINABLE CITIES</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>EXPERT PANEL SESSION 5: BALANCING RESOURCE CONFLICTS AND COMPETING DEMANDS</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>EXPERT PANEL SESSION 6: ENHANCING CITIES BIODIVERSITY</b></p>
 
 </div>
 	
