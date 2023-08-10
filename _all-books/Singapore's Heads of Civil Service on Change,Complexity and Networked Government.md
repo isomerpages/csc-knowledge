@@ -97,6 +97,11 @@ img {
 </div>
 
 
+<p>There is a Chinese Edition of this book</p>
+<p>The Title is 《新加坡治国之道》演讲集：于是并进  新加坡公共服务领袖论述政府推行变革、 政务复杂性与网络化政府</p>
+
+
+
 
 <br>
 <br>
