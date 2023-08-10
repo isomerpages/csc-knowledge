@@ -62,29 +62,29 @@ Giok Ling Ooi
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>CHAPTER 3: WELL-BEING CREATES VIBRANT CITIES</b></p>
+Thai Ker Liu
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>CHAPTER 4: THE AGE OF THE CITY: THE CHALLENGE FOR CREATIVE CITIES</b></p>
+Peter HALL
 </div>
 	
 
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>CHAPTER 5: INTEGRATED SUSTAINABLE WASTE MANAGEMENT</b></p>
+Anne Scheinberg
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>CHAPTER 6: TRANSPORTATION FOR LIVEABLE CITIES: PROBLEMS, OBSTACLES AND SUCCESSFUL SOLUTIONS</b></p>
+Vukan R Vuchic
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>CHAPTER 7: BIODIVERSITY IN SUSTAINABLE CITIES</b></p>
+Loke Ming Chou
 </div>
 	
 <div class="chapter-divider">
