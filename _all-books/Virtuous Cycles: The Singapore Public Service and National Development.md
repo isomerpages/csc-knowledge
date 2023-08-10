@@ -47,17 +47,53 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>FOREWORD</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>PREFACE</b></p>
 
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>ACKNOWLEDGEMENTS</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b>ABBREVIATIONS</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b>INTRODUCTION</b></p>
+
+</div>
+	
+
+<div class="chapter-divider">
+<p><b>CHAPTER 1 - THE FORMATIVE YEARS</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 2 - KEY NATIONAL POLICIES</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 3 - BUILDING INSTITUTIONS FOR CLEAN AND EFFECTIVE GOVERNANCE</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b>PHOTOGRAPHS</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p><b>CHAPTER 4 - FROM SURVIVAL TO SUCCESS: PUBLIC SECTOR CAPACITY DEVELOPMENT AND REFORM</b></p>
 
 </div>
 	
@@ -71,8 +107,15 @@ img {
 
 </div>
 	
+<div class="chapter-divider">
+<p><b></b></p>
 
+</div>
+	
+<div class="chapter-divider">
+<p><b></b></p>
 
+</div>	
 
 
 
