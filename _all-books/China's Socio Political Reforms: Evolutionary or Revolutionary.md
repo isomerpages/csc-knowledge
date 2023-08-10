@@ -9,10 +9,30 @@ description: ""
 .grid-container {
 	display: grid;
 	grid-template-columns: 50% 50%;
-	grid-column-gap: 5%;
+	grid-gap: 5%
 	}
 	
+img {
+		object-fit: contain;
+		width: 100%;
+		height: 80%;
+	}	
 
+.chapter-divider {
+	margin-top: 5%;
+	}	
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+	
+}	
+
+.bigger {
+	font-size: 20px;
+	
+	}	
 
 </style>
 
