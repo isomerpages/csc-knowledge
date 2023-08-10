@@ -47,32 +47,35 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>FOREWORD</b></p>
+Niam Chiang Meng
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>OPENING ADDRESS</b></p>
+Ravi Menon
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>AN OVERVIEW OF THE SINGAPORE SOCIAL SAFETY NET: POLICIES AND CHALLENGES</b></p>
+Choo Lee See
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>THE ECONOMY, PUBLIC POLICY AND POVERTY: THE US EXPERIENCE AND IMPLICATIONS FOR SINGAPORE</b></p>
+Sheldon H.Danziger
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>HOW SHOULD WE IDENTIFY THE POOR IN A RICH SOCIETY</b></p>
+Robert Haveman
 </div>
 	
 
-
+<div class="chapter-divider">
+<p><b>EMERGENCE OF THE POST-DEVELOPMENTAL WELFARE STATE: THE CASE OF SOUTH KOREA</b></p>
+Lee Hye Kyung
+</div>
 
 
 
