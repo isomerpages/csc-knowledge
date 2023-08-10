@@ -48,27 +48,27 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>INTRODUCTION</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>ABOUT LIM SIONG GUAN</b></p>
 
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>ABOUT PETER HO</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>SPEECHES BY LIM SIONG GUAN</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>SPEECHES BY PETER HO</b></p>
 
 </div>
 	
