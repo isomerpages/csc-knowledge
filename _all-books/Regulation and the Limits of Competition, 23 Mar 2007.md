@@ -39,7 +39,7 @@ img {
 		<i>ISBN-13: 978-981-248-175-7</i><br>
 		<i>ISBN-10: 981-248-175-3</i><br>
 		<b><i>by Civil Service College, Institute of Policy Studies &amp; Economic Society of Singapore</i></b>
-		<p></p>
+		<p>This volume documents the proceedings of the Economics Symposium on "Regulation and the Limits of Competition". The Symposium focused on the two topics of Market Liberalisation and Regulation, and Promoting Competition.</p>
 	</div>
 
 </div>
