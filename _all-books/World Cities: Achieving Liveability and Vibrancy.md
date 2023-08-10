@@ -53,12 +53,12 @@ Mah Bow Tan
 	
 <div class="chapter-divider">
 <p><b>CHAPTER 1: INTRODUCTION: WORLD CITIES — CHALLENGES OF LIVEABILITY, SUSTAINABILITY AND VIBRANCY</b></p>
-
+Belinda Yuen and Giok Ling Ooi
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>CHAPTER 2: GOOD GOVERNANCE — SUSTAINABILITY AND THE CITY</b></p>
+Giok Ling Ooi
 </div>
 	
 <div class="chapter-divider">
