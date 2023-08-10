@@ -18,7 +18,7 @@ description: ""
 
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/China's%20Socio-Political%20Reforms.jpg"></div>
 	<div class="grid-child">
 		<h3>China's Socio-Political Reforms: Evolutionary or Revolutionary</h3>
 		<i>ISBN: 978-981-09-7308-7 (pbk)</i><br>
