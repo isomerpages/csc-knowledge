@@ -98,28 +98,34 @@ img {
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CHAPTER 5 - CHALLENGES FACING THE SINGAPORE PUBLIC SERVICE</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CHAPTER 6 - LESSONS FOR OTHER COUNTRIES</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>COMING FULL CIRCLE: THE SINGAPORE COOPERATION PROGRAMME</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>ANNEX A - THE SINGAPORE GOVERNMENT: MINISTRIES, STATUTORY BOARDS AND ORGANS OF STATE</b></p>
 
 </div>	
 
+<div class="chapter-divider">
+<p><b>BIBLIOGRAPHY</b></p>
 
+</div>	
 
+<div class="chapter-divider">
+<p><b>INDEX</b></p>
 
+</div>	
 
 
 </div>
