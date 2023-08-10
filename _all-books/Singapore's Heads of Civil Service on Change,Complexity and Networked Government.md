@@ -64,7 +64,14 @@ img {
 	
 <div class="chapter-divider">
 <p><b>SPEECHES BY LIM SIONG GUAN</b></p>
-
+	<ul>
+		<li>PS21-The Strategic Imperative</li>
+		<li>Entrepreneurial Leadership</li>
+		<li>Many Agencies, One Government</li>
+		<li>Government that Costs Less</li>
+		<li>What Governments Can Do</li>
+	
+</ul>
 </div>
 	
 <div class="chapter-divider">
