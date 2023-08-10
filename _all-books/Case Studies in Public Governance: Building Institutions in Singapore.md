@@ -47,32 +47,58 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
-
+<p><b>INTRODUCTION</b></p>
+June Gwee
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>PART I CULTURE</b></p>
 
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CASE STUDY 1 GROWING A CITY IN A GARDEN</b></p>
+Neo Boon Siong, June Gwee and Candy Mak
+</div>
+	
+<div class="chapter-divider">
+<p><b>PART II LEADERSHIP</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CASE STUDY 2 LEADING CHANGE IN THE MINISTRY OF EDUCATION</b></p>
+June Gwee and Neo Boon Siong
+</div>
+	
 
+<div class="chapter-divider">
+<p><b>CASE STUDY 3 SUSTAINING THE VALUE OF WATER</b></p>
+James Low
+</div>
+	
+	
+	<div class="chapter-divider">
+<p><b>PART III SYSTEMS</b></p>
+
+</div>
+	
+	
+	<div class="chapter-divider">
+<p><b>CASE STUDY 4 DESIGN AND RENEWAL OF THE CENTRAL PROVIDENT FUND</b></p>
+Tan Soo San
+</div>
+	
+	
+<div class="chapter-divider">
+<p><b>CASE STUDY 5 MANAGING INDUSTRIAL RELATIONS THROUGH TRIPARTISM</b></p>
+Gabriel Wong
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>Appendix</b></p>
 
-</div>
-	
-
-
+</div>	
 
 
 
