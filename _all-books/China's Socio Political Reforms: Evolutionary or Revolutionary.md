@@ -90,7 +90,7 @@ img {
 	
 <div class="chapter-divider">
 <p><b>THE ROLE OF SOCIAL MEDIA IN CHINA;S POLITICAL COMMUNICATION [TRANSLATED]</b></p>
-
+Zhou Zhaocheng
 </div>
 
 <div class="chapter-divider">
