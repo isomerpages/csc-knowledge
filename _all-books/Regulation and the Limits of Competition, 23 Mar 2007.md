@@ -47,22 +47,22 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>MARKET LIBERALISATION AND REGULATION</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>PROMOTING COMPETITION</b></p>
 
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>PLENARY SESSION</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>CONCLUSION: KEY THEMES</b></p>
 
 </div>
 	
