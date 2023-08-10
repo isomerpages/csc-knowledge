@@ -78,13 +78,13 @@ James Low
 </div>
 	
 	
-	<div class="chapter-divider">
+<div class="chapter-divider">
 <p><b>PART III SYSTEMS</b></p>
 
 </div>
 	
 	
-	<div class="chapter-divider">
+<div class="chapter-divider">
 <p><b>CASE STUDY 4 DESIGN AND RENEWAL OF THE CENTRAL PROVIDENT FUND</b></p>
 Tan Soo San
 </div>
