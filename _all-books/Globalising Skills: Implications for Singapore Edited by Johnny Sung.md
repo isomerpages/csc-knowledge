@@ -33,7 +33,7 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/Globalising%20Skills_%20Implications%20for%20Singapore.jpg"></div>
 	<div class="grid-child">
 		<h3>Globalising Skills: Implications for Singapore Edited by Johnny Sung</h3>
 		<i>ISBN: 978-981-07-3696-5</i><br>
