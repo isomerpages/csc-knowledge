@@ -62,7 +62,15 @@ Lam Chuan Leong
 	
 <div class="chapter-divider">
 <p class="bigger"><b>MARKET LIBERALISATION AND REGULATION</b></p>
-
+	<ul>
+		<li>Chapter 1: Electricity Market Regulation</li>
+		Khoo Chin Hean
+		<li>Chapter 2: Telecommunications Market Regulation</li>
+		Leong Keng Thai
+		<li>Chapter 3: Commentary on Market Liberalisation and Regulation: The Electricity and Telecommunications Sectors.</li>
+		Phang Sock Yong
+		
+</ul>
 </div>
 	
 <div class="chapter-divider">
