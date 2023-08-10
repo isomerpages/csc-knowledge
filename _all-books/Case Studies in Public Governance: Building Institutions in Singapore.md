@@ -96,7 +96,7 @@ Gabriel Wong
 </div>
 	
 <div class="chapter-divider">
-<p><b>Appendix</b></p>
+<p><b>APPENDIX</b></p>
 
 </div>	
 
