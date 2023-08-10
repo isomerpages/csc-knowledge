@@ -93,6 +93,14 @@ img {
 
 </div>
 
+<div class="chapter-divider">
+<p><b>SYMPOSIUM PROGRAMME</b></p>
 
+</div>
+	
+<div class="chapter-divider">
+<p><b>SYMPOSIUM SPEAKERS</b></p>
+
+</div>	
 
 </div>
