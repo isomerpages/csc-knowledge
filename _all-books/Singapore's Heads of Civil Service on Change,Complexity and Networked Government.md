@@ -34,9 +34,9 @@ img {
 </style>
 
 <div class="grid-container">
-	<div class="grid-child"><img src=""></div>
+	<div class="grid-child"><img src="/images/Books/ETHOS%20Speeches%20In%20Time%20for%20the%20Future.jpg"></div>
 	<div class="grid-child">
-		<h3></h3>
+		<h3>Singapore's Heads of Civil Service on Change, Complexity and Networked Government</h3>
 		<i>ISBN: 978-981-08-4464-6</i><br>
 		<i></i><br>
 		<b><i>Speeches by Lim Siong Guan and Peter Ho</i></b>
