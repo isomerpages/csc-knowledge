@@ -98,10 +98,7 @@ Lam Chuan Leong
 
 </div>
 	
-<div class="chapter-divider">
-<p><b></b></p>
 
-</div>
 	
 
 
