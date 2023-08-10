@@ -29,6 +29,10 @@ img {
 	
 }	
 
+.bigger {
+	font-size: 20px;
+	
+	}	
 
 </style>
 
@@ -47,22 +51,32 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b>MARKET LIBERALISATION AND REGULATION</b></p>
+<p class="bigger"><b>FOREWORD</b></p>
+Lam Chuan Leong
+</div>
+	
+<div class="chapter-divider">
+<p class="bigger"><b>OPENING REMARKS OF THE SYMPOSIUM</b></p>
+Lam Chuan Leong
+</div>	
+	
+<div class="chapter-divider">
+<p class="bigger"><b>MARKET LIBERALISATION AND REGULATION</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b>PROMOTING COMPETITION</b></p>
+<p class="bigger"><b>PROMOTING COMPETITION</b></p>
 
 </div>
 		
 <div class="chapter-divider">
-<p><b>PLENARY SESSION</b></p>
+<p class="bigger"><b>PLENARY SESSION</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b>CONCLUSION: KEY THEMES</b></p>
+<p class="bigger"><b>CONCLUSION: KEY THEMES</b></p>
 
 </div>
 	
