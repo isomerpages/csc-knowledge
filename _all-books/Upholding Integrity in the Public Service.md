@@ -47,17 +47,17 @@ img {
 <div>
 
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>INTRODUCTION</b></p>
 
 </div>
 	
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>STRONG POLITICAL WILL AGAINST CORRUPTION</b></p>
 
 </div>
 		
 <div class="chapter-divider">
-<p><b></b></p>
+<p><b>THE PREVENTION OF CORRUPTION ACT, AN EMPOWERED BUREAU AND AN INDEPENDENT JUDICIARY</b></p>
 
 </div>
 	
