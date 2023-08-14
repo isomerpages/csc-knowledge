@@ -39,7 +39,7 @@ img {
 		<i>ISBN: 978-981-07-3896-9 (pbk)</i><br>
 		<i></i><br>
 		<b><i>by Joel Kotkin, Anuradha Shroff, Ali modarres and Wendell Cox</i></b>
-		<p></p>
+		<p>This research report for the seminar on "The Rise of Post-Familialism: Humanity's Future?" looks into the causes, economic and social implications of childlessness, particularly in high income nations. <br> The research made extensive use of both primary and secondary data, including the landmark work of Wolfgang Lutz, as well as extensive reading on the history and trajectory of the family around the world. This was conducted primarily by Joel Kotkin and Zina Klapper who also relied on extensive interviews of residents of Singapore, and arranged discussions with experts working this field.</p>
 	</div>
 
 </div>
