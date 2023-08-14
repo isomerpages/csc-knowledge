@@ -6,28 +6,29 @@ image: /images/Books/eb toolkit_cover.png
 ---
 <style>
 
-#book1 img	
-{
-width:300px;	
-}
+	
+.grid-container {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-gap: 5%
+	}
+	
+img {
+		object-fit: contain;
+		width: 100%;
+		height: 80%;
+	}	
 
+.chapter-divider {
+	margin-top: 5%;
+	}	
+	
 .back a
 {
 	color: #9f2943;
 	font-weight: bold;
-}	
-
-.button1 a
-{
-	color: #9f2943;
-	font-weight:bold;
-}
-
-#chapter1,#chapter2, #chapter3,#chapter4, #chapter5,#chapter6,#chapter7
-{
-margin-top:30px;	
-}
 	
+}	
 
 	
 </style>
@@ -52,39 +53,39 @@ Download the book <a target="_blank" href="https://go.gov.sg/ebtoolkit">here.</a
 
 
 
-<div id="chapter1">
+<div class="chapter-divider">
 	<p><b>CHAPTER 1: A COMPLEX WORLD: HOW DO WE KNOW WHAT WORKS?</b></p>
 Anuradha SHROFF
 </div>
 
 
-<div id="chapter2">
+<div class="chapter-divider">
 <p><b>CHAPTER 2: CLEAR, IMPACTFUL, ANSWERABLE: THE C.I.A. OF GOOD POLICY RESEARCH</b></p>
 THIA Jang Ping
 </div>
 
-<div id="chapter3">
+<div class="chapter-divider">
 <p><b>CHAPTER 3: DATA ANALYTICS</b></p>
 Elaine TAN
 </div>
 
-<div id="chapter4">
+<div class="chapter-divider">
 <p><b>CHAPTER 4: BEHAVIOURAL INSIGHTS</b></p>
 DO Hoang Van Khanh and Sharon THAM
 </div>
 
 
-<div id="chapter5">
+<div class="chapter-divider">
 <p><b>CHAPTER 5: RANDOMISED CONTROLLED TRIALS AND QUASI-EXPERIMENTS</b></p>
 DO Hoang Van Khanh and Sharon THAM
 </div>
 
-<div id="chapter6">
+<div class="chapter-divider">
 <p><b>CHAPTER 6: COST BENEFIT ANALYSIS</b></p>
 LEONG Wai Yan and LIM Yong Long
 </div>
 
-<div id="chapter7">
+<div class="chapter-divider">
 <p><b>CHAPTER 7: QUALITATIVE RESEARCH AND FEEDBACK</b></p>
 Eugene LIOW
 </div>
