@@ -24,12 +24,30 @@ width:300px;
 	font-weight:bold;
 }
 
-#chapter1,#chapter2, #chapter3,#chapter4, #chapter5
-{
-margin-top:30px;	
-}
-	
 
+
+.grid-container {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-gap: 5%
+	}
+	
+img {
+		object-fit: contain;
+		width: 100%;
+		height: 80%;
+	}	
+
+.chapter-divider {
+	margin-top: 5%;
+	}	
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+	
+}	
 	
 </style>
 
@@ -56,29 +74,29 @@ understanding of complexity across the public service.</p>
 </div>
 
 
-<div id="chapter1">
+<div class="chapter-divider">
 	<p><b>CHAPTER 1: A COMPLEX WORLD</b></p>
 SONG Hsi Ching and Anuradha SHROFF
 </div>
 
 
-<div id="chapter2">
+<div class="chapter-divider">
 <p><b>CHAPTER 2: SCENARIO PLANNING AND SCENARIO PLANNING PLUS</b></p>
 Mohammed JALEES
 </div>
 
-<div id="chapter3">
+<div class="chapter-divider">
 <p><b>CHAPTER 3: DATA-DRIVEN AGENT-BASED MODELLING AND ITS APPLICATIONS</b></p>
 SONG Hsi Ching
 </div>
 
-<div id="chapter4">
+<div class="chapter-divider">
 <p><b>CHAPTER 4: COMPLEXITY IN SOCIAL POLICY</b></p>
 Bernard TING
 </div>
 
 
-<div id="chapter5">
+<div class="chapter-divider">
 <p><b>CHAPTER 5: FUTURE DIRECTIONS</b></p>
 Aaron MANIAM
 </div>
