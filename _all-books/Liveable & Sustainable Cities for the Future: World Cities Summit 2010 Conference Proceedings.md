@@ -40,7 +40,7 @@ img {
 		<i></i><br>
 		<i></i><br>
 		<b><i>by Centre for Liveable Cities &amp; Civil Service College</i></b>
-		<p></p>
+		<p>Conference proceedings of the World Cities Summit 2010.</p>
 	</div>
 
 </div>
