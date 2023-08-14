@@ -39,7 +39,7 @@ img {
 		<i>ISBN: 978-981-07-3696-5</i><br>
 		<i></i><br>
 		<b><i>by Phillip Brown, Andy Dickerson, David Finegold, High Lauder, Rob Wilson, Wu Wei Neng</i></b>
-		<p></p>
+		<p>Comprising selected papers from a series of roundtable discussions and public lectures, the book sheds light on the fundamental and rapid changes that education, training and labour markets worldwide are undergoing, and some of the most important challenges for contemporary workforce development in Singapore.</p>
 	</div>
 
 </div>
