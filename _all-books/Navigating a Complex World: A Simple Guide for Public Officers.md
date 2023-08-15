@@ -51,23 +51,28 @@ img {
 	
 </style>
 
-<div id="book1">
-<img src="/images/Books/complexity_cover.jpg">
-</div>	
 
-<h3>Navigating a Complex World: A Simple Guide for Public Officers</h3>
-<i>ISBN: 978-981-14-2642-1 (pbk) | 2019</i><br>
-<b><i>Edited by Peter Ho and Sheila Pakir</i></b>
 
-<p>This book is intended as a primer for public officers on complexity and its applications to public
+<div class="grid-container">
+	<div class="grid-child"><img src="/images/Books/complexity_cover.jpg"></div>
+	<div class="grid-child">
+		<h3>Navigating a Complex World: A Simple Guide for Public Officers</h3>
+		<i>ISBN: 978-981-14-2642-1 (pbk) | 2019</i><br>
+		<i></i><br>
+		<b><i>Edited by Peter Ho and Sheila Pakir</i></b>
+		<p>This book is intended as a primer for public officers on complexity and its applications to public
 policy. It recounts the steps the Singapore Government has taken to use complexity to better inform
 policymaking, from making long-term strategic planning more robust, to planning public transport
 infrastructure more holistically, to enabling senior citizens to age in place through improved
 community healthcare. It also examines what can be done in the years ahead to infuse an
-understanding of complexity across the public service.</p>	
-<br>
-<p>Please <a target="_blank" href="https://go.gov.sg/csc-knowledge-enquiry">contact</a> the Publishing Team for purchase.</p>
-<br>
+understanding of complexity across the public service.</p>
+	</div>
+
+</div>
+
+
+
+
 
 <div id="introduction">
 	<p><b><a target="_blank" href="/files/csc_navigating%20a%20complex%20world_intro.pdf">INTRODUCTION</a></b></p>	
