@@ -74,7 +74,7 @@ understanding of complexity across the public service.</p>
 
 
 
-<div id="introduction">
+<div class="chapter-divider">
 	<p><b><a target="_blank" href="/files/csc_navigating%20a%20complex%20world_intro.pdf">INTRODUCTION</a></b></p>	
 </div>
 
