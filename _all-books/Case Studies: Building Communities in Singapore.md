@@ -32,22 +32,20 @@ img {
 	
 </style>
 
-<div id="book1">
-<img src="/images/Books/building%20communities%20cover.jpg">
-</div>	
 
-<h3>Case Studies: Building Communities in Singapore</h3>
-<i>ISBN: 978-981-09-5818-3 (pbk) | 2015</i><br>
-<b><i>Edited by June Gwee</i></b>
+<div class="grid-container">
+	<div class="grid-child"><img src="/images/Books/building%20communities%20cover.jpg"></div>
+	<div class="grid-child">
+		<h3>Case Studies: Building Communities in Singapore</h3>
+		<i>ISBN: 978-981-09-5818-3 (pbk) | 2015</i><br>
+		<i></i><br>
+		<b><i>Edited by June Gwee</i></b>
+		<p>This book contains four case studies on how public agencies design solutions to improve the quality of life for individuals and society by listening, observing and being empathetic to the needs of people. They describe how public officers have been able to think differently, find new paths and build resilient communities.</p>
+	</div>
 
-<p>This book contains four case studies on how public agencies design solutions to improve the quality of life for individuals and society by listening, observing and being empathetic to the needs of people. They describe how public officers have been able to think differently, find new paths and build resilient communities.</p>
-<br>
-<p>Please <a target="_blank" href="https://go.gov.sg/csc-knowledge-enquiry">contact</a> the Publishing Team for purchase.</p>
-<br>
-<div class="chapter-divider">
-<p><b>FOREWORD</b></p>
-Jocelyne BOURGON
 </div>
+
+
 
 <div class="chapter-divider">
 	<p><b><a target="_blank" href="/files/csc_case%20studies_building%20communities%20in%20singapore_intro.pdf">INTRODUCTION</a></b></p>
