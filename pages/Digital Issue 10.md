@@ -87,7 +87,7 @@ td
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
         <div><h3>Editorial </h3>
-            <b><i>by Dr Alvin Pang</i></b>
+            <b><i>by Alvin Pang</i></b>
 
                 
   <p>	
