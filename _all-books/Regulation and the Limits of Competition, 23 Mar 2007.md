@@ -16,6 +16,7 @@ img {
 		object-fit: contain;
 		width: 100%;
 		height: 80%;
+		vertical-align: text-top !important;
 	}	
 
 .chapter-divider {
@@ -29,6 +30,12 @@ img {
 	
 }	
 
+@media only screen and (max-width: 600px) {
+	.grid-container {
+		display: block;
+	}
+}		
+	
 
 </style>
 
