@@ -1,5 +1,4 @@
 collections:
   digital-issue-11:
     output: true
-    order:
-      - Addressing Attention.md
+    order: []
