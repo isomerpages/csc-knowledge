@@ -6,26 +6,27 @@ image: /images/Books/building communities cover.jpg
 ---
 <style>
 
-#book1 img	
-{
-width:300px;	
-}
+.grid-container {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-gap: 5%
+	}
+	
+img {
+		object-fit: contain;
+		width: 100%;
+		height: 80%;
+	}	
 
-.button1 a
-{
-	color: #9f2943;
-	font-weight:bold;
-}
-
-#chapter1,#chapter2, #chapter3,#chapter4, #foreword,#introduction
-{
-margin-top:30px;	
-}
+.chapter-divider {
+	margin-top: 5%;
+	}	
 	
 .back a
 {
 	color: #9f2943;
 	font-weight: bold;
+	
 }	
 
 	
@@ -43,34 +44,34 @@ margin-top:30px;
 <br>
 <p>Please <a target="_blank" href="https://go.gov.sg/csc-knowledge-enquiry">contact</a> the Publishing Team for purchase.</p>
 <br>
-<div id="foreword">
+<div class="chapter-divider">
 <p><b>FOREWORD</b></p>
 Jocelyne BOURGON
 </div>
 
-<div id="introduction">
+<div class="chapter-divider">
 	<p><b><a target="_blank" href="/files/csc_case%20studies_building%20communities%20in%20singapore_intro.pdf">INTRODUCTION</a></b></p>
 June GWEE
 </div>
 
 
-<div id="chapter1">
+<div class="chapter-divider">
 <p><b>CHAPTER 1: TOWARDS A SOCIETY WITHOUT RE-OFFENDING</b></p>
 Lena LEONG
 </div>
 
-<div id="chapter2">
+<div class="chapter-divider">
 <p><b>CHAPTER 2: AGEING-IN-PLACE: A COMMUNITY-CENTRIC HEALTH-SOCIAL PROGRAMME</b></p>
 Bernard TING
 </div>
 
-<div id="chapter3">
+<div class="chapter-divider">
 <p><b>CHAPTER 3: COMMUNITY IN BLOOM: CREATING SPACE FOR COMMUNITY OWNERSHIP</b></p>
 Jeanne Louise CONCEICAO
 </div>
 
 
-<div id="chapter4">
+<div class="chapter-divider">
 <p><b><a target="_blank" href="https://vimeo.com/284686764">CHAPTER 4: A LIBRARY BY THE PEOPLE, FOR THE PEOPLE</a></b></p>
 June GWEE
 </div>
