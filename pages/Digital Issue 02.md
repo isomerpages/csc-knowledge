@@ -52,10 +52,8 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
         <div><h3>Editorial </h3>
-            <b><i>by Dr Alvin Pang</i></b>
-            <figcaption>
-            Editor-in-Chief Ethos
-            </figcaption>
+            <b><i>by Alvin Pang</i></b>
+
                 
   <p>In this second issue of our ETHOS Digital Edition, we continue to bring you a variety of perspectives of interest to the practice of public sector governance and leadership in Singapore.</p>	
             
@@ -66,7 +64,7 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
         <div><h3>Defeating Diabetes: A Conversation with Dean Schillinger, MD</h3>
-            <b><i>Dean Schillinger, MD</i></b>
+            <b><i>Dean Schillinger</i></b>
             
 <p>	
 Dr Dean Schillinger proposes a whole-of-society battle plan for combating one of the most pervasive health issues in modern society.
