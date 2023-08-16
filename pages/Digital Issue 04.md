@@ -52,10 +52,7 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
         <div><h3>Editorial </h3>
-            <b><i>by Dr Alvin Pang</i></b>
-            <figcaption>
-            Editor-in-Chief Ethos
-            </figcaption>
+            <b><i>by Alvin Pang</i></b>
                 
   <p>Public service work is complex but also collaborative. We do better by working with others and by learning from their experiences and perspectives. In this issue of ETHOS Digital Edition, we have gathered a number of conversationsd with public sector veterans who share their insights gleanned from working on areas of interest to not just Singapore but also governments around the world.</p>	
             
