@@ -2,47 +2,79 @@
 title: Example Page
 permalink: /example-page/
 ---
-<div class="container-fluid">
+<style>
 
-	
-<div class="row">
-		
-<div class="col-md-6">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">	
-</div>
-		
-<div style="" class="col-md-6">
-PRINT ISSUE 25, MAR 2023
-<h3>Ethos Print Issue 25</h3>	
-<p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
-</div>	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+}
 
-</div>
+#banner img
+{
+	width:100%;
+}
 	
+.author
+{
+border-bottom: 1px solid black;
+margin-top:40px;
+padding-bottom:30px;
+border-top: 1px solid black;	
+
+}
+
+.author p {
+	font-size: 0.9em;
+	line-height:24px !important;
+	}	
+
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.boxheader {
+	color: white !important;
+	}	
+
+.containerbox {
+	background-color: #eceedb;
+	border-radius: 10px;
+	padding: 5%;
+	margin-top: 5%;
+	
+	}	
+
+li {
+	font-size: 15px !important;
+	
+	}	
+
+</style>
+
+<em><small>Digital Issue 09, Nov 2022</small></em>
+<img src="">
+
+
+
+
+
+
+<br>
 <br>	
-	
-<div class="row">
-		
-<div class="col-md-6">
-<img src="/images/Ethos_Images/Ethos_Issue_25/ETHOS_APR2023_Cover.jpg">	
-</div>
-		
-<div style="" class="col-md-6">
-PRINT ISSUE 25, MAR 2023
-<h3>Ethos Print Issue 25</h3>	
-<p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>
-</div>	
-
-</div>	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
 </div>
