@@ -8,73 +8,85 @@ permalink: /example-page/
 {
 	color: #9f2943;
 	font-weight: bold;
-}
+	}
+	
+.cat
+   {
+   font-size: 15px;
+   }
 
-#banner img
+.text
 {
-	width:100%;
+	width: 50%;
+}	
+	
+.img1 img
+{
+margin-top:25px;	
+}	
+	
+.img img
+{
+margin-top:15px;	
+}		
+	
+.button1 a
+{
+	color: #9f2943;
+	font-weight:bold;
 }
 	
-.author
-{
-border-bottom: 1px solid black;
-margin-top:40px;
-padding-bottom:30px;
-border-top: 1px solid black;	
 
-}
-
-.author p {
-	font-size: 0.9em;
-	line-height:24px !important;
+.grid-container {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-column-gap: 5%;
+	margin-bottom: 5%;
 	}	
-
-.break
-{
-   border-top: 1px solid  black;
-   border-bottom: 1px solid black;
-	 padding:20px;
-	text-align:center;
-	margin-top:50px;
-}
 	
-.break1
-{
-font-family: Georgia;
-	font-size:20px;
-	font-style: italic;
-	font-weight: bold;
-}
-
-.boxheader {
-	color: white !important;
-	}	
-
-.containerbox {
-	background-color: #eceedb;
-	border-radius: 10px;
-	padding: 5%;
-	margin-top: 5%;
-	
-	}	
-
-li {
-	font-size: 15px !important;
-	
-	}	
-
+@media only screen and (max-width: 600px) {
+	.grid-container {
+		display: block;
+	}
+}	
 </style>
 
-<em><small>Digital Issue 09, Nov 2022</small></em>
-<img src="">
 
-
-
-
-
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3><span class="cat"></span><br></h3>
+		<p></p>
+		<div class="button1"><a target="_blank" href="">Download PDF</a></div>
+	</div>
+</div>
 
 <br>
-<br>	
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3></h3>
+		<b><i></i></b>
+		<p></p>
+		<div class="button1"><a href="">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
 <div class="back">
-<a href="/ethos/">Back to Ethos Page</a>	
+<a href="/all-issues/">Back to All Issues</a>
 </div>
