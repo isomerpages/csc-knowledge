@@ -70,7 +70,6 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>Dr Alvin Pang</i></b>
-		<figcaption>Editor-in-Chief Ethos</figcaption>
 		<p>The phenomenal growth globalization has generated has also dramatically widened the gap between the haves and the have-nots, on a worldwide scale. Social provisions and national policies formulated a generation ago are struggling to cope with the demands of today’s interconnected marketplaces and accelerated flows of capital and labour.</p>
 		<div class="button1"><a target="_blank" href="/ethos-issue-03/editorial/">Read more</a></div>
 	</div>
