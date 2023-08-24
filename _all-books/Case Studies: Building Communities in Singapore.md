@@ -8,7 +8,7 @@ image: /images/Books/building communities cover.jpg
 
 .grid-container {
 	display: grid;
-	grid-template-columns: 50% 50%;
+	grid-template-columns: 30% 70%;
 	grid-gap: 5%
 	}
 	
