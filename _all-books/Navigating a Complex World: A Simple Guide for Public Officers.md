@@ -28,7 +28,7 @@ width:300px;
 
 .grid-container {
 	display: grid;
-	grid-template-columns: 50% 50%;
+	grid-template-columns: 30% 70%;
 	grid-gap: 5%
 	}
 	
