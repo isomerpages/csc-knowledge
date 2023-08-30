@@ -92,7 +92,7 @@ font-family: Georgia;
 <img src="">
 	
 	
-<figcaption>Source: <a href="">A Leader’s Playbook to Hybrid Work</a></figcaption>
+<figcaption style="text-align: center;">Source: <a href="">A Leader’s Playbook to Hybrid Work</a></figcaption>
 </div>
 
 
