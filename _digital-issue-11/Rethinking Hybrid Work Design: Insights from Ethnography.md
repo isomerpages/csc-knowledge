@@ -83,6 +83,19 @@ li {
 <figcaption>Source: <a href="">A Leader’s Playbook to Hybrid Work</a></figcaption>
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+<h6>Notes</h6>
 <ol>
         <li>J. M. Barrero, N. Bloom, and S. J. Davis, “The Evolution of Working from Home”, Stanford Institute for Economic Policy Research (SIEPR), July, 2023, <a href="https://siepr.stanford.edu/publications/working-paper/evolution-working-home">https://siepr.stanford.edu/publications/working-paper/evolution-working-home</a>.</li>
         
