@@ -137,8 +137,9 @@ li {
 
 <div class="author">
 	<h6>About the Author</h6>
-	<p>Eileen Wong is Principal Consultant at the Institute of Leadership and Organisation Development, Civil Service College. She leads the CSC-ILOD Transformation Team to provide consultancy services to help agencies and senior leaders build and transform their organisations to thrive. Her consultancy scope includes organisation transformation and change, organisation development, leadership team development, employee engagement and hybrid work design. She can be reached at <a href="mailto:Eileen_Wong@cscollege.gov.sg">Eileen_Wong@cscollege.gov.sg.</a> </p>
+	<p>Eileen Wong is Principal Consultant at the Institute of Leadership and Organisation Development, Civil Service College. She leads the CSC-ILOD Transformation Team to provide consultancy services to help agencies and senior leaders build and transform their organisations to thrive. Her consultancy scope includes organisation transformation and change, organisation development, leadership team development, employee engagement and hybrid work design. She can be reached at <a href="mailto:Eileen_Wong@cscollege.gov.sg">Eileen_Wong@cscollege.gov.sg</a>. </p>
 
+<p>Thijs Willems is an organisational ethnographer and generally interested in how people perform their work skilfully. He is currently a Research Fellow at the Lee Kuan Yew Centre for Innovative Cities at Singapore University of Technology and Design, where he works on research projects related to the Future of Work. Specifically, Thijs studies the ways in which digital phenomena, such as AI and automation, transform the work of people and what is required of them in terms of skills, knowledge, and expertise. He can be reached at <a href="mailto:Thijs_Willems@sutd.edu.sg">Thijs_Willems@sutd.edu.sg</a>.</p>
 
 </div>
 
