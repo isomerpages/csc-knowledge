@@ -74,7 +74,7 @@ li {
 
 <h3>Rethinking Hybrid Work Design: Insights from Ethnography</h3>
 
-<p>There is <a href="https://siepr.stanford.edu/publications/working-paper/evolution-working-home">broad acceptance</a> that some form of hybrid work will continue after the pandemic.  Anticipating this trend, CSC’s Institute of Leadership and Organisation Development (ILOD) developed A Leader’s Playbook to Hybrid Work in May 2022 to help public service agencies come to terms with this new form of working and update our ways of working.  More recent research by experts studying work-from-home (WFH) arrangements have since validated this approach.  </p>
+<p>There is <a href="https://siepr.stanford.edu/publications/working-paper/evolution-working-home">broad acceptance</a> that some form of hybrid work will continue after the pandemic.  Anticipating this trend, CSC’s Institute of Leadership and Organisation Development (ILOD) developed <a href="https://gccprod.sharepoint.com/sites/CSC-LnODinsights/SitePages/The-Leader%27s-Playbook-to-Hybrid-Work.aspx?web=1">A Leader’s Playbook to Hybrid Work</a> in May 2022 to help public service agencies come to terms with this new form of working and update our ways of working.  More <a href="https://www.businessinsider.com/hybrid-working-model-wfh-work-from-home-policy-office-trends-2023-7">recent research by experts</a> studying work-from-home (WFH) arrangements have since validated this approach.  </p>
 
 
 
