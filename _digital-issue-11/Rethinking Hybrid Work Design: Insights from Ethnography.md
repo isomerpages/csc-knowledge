@@ -112,11 +112,11 @@ li {
   <tr>
     <td>
       <p>Some studies cited in the Economist have claimed negative effects from WFH, such as reductions in productivity and isolation from professional networks.</p>
-      <p>A study in India citing an 18% drop in productivity for those working at home, and another study citing a 19% drop for those working at home for a big Asian IT firm.</p>
+      <p class="red-color">A study in India citing an 18% drop in productivity for those working at home, and another study citing a 19% drop for those working at home for a big Asian IT firm.</p>
     </td>
     <td>
       <p>A 6-month experiment in a firm—with coders, marketing, finance, and business employees, both recent graduate hires and more senior managers—found that the impact on individual productivity was zero or marginally positive, depending on the metric used.</p>
-      <p>Performance evaluations and promotions showed no impact, while lines-of-code written, and self-assessed productivity increased about 4%.</p>
+      <p class="green-color">Performance evaluations and promotions showed no impact, while lines-of-code written, and self-assessed productivity increased about 4%.</p>
     </td>
   </tr>
   <tr>
