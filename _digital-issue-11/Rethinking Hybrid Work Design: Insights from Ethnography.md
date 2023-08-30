@@ -135,7 +135,12 @@ li {
 
 
 
+<div class="author">
+	<h6>About the Author</h6>
+	<p>Eileen Wong is Principal Consultant at the Institute of Leadership and Organisation Development, Civil Service College. She leads the CSC-ILOD Transformation Team to provide consultancy services to help agencies and senior leaders build and transform their organisations to thrive. Her consultancy scope includes organisation transformation and change, organisation development, leadership team development, employee engagement and hybrid work design. She can be reached at <a href="mailto:Eileen_Wong@cscollege.gov.sg">Eileen_Wong@cscollege.gov.sg.</a> </p>
 
+
+</div>
 
 
 
