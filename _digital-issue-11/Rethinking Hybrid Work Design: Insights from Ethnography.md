@@ -96,17 +96,17 @@ li {
 
 <table>
   <tbody><tr>
-    <td>[A] More Office, Less Work from Home</td>
-    <td>[B] More Work from Home, Less Office</td>
+    <td>More Office, Less Work from Home</td>
+    <td>More Work from Home, Less Office</td>
   </tr>
   <tr>
     <td>
       <p>A recent global survey of working arrangements observed that employers generally want more office time.</p>
-      <p>The benefits of working in an office, as cited by employees, include socializing and collaborating in person with co-workers.</p>
+      <p class="red-color">The benefits of working in an office, as cited by employees, include socializing and collaborating in person with co-workers.</p>
     </td>
     <td>
       <p>The same global survey found that employees want to work from home more often than currently allowed.</p>
-      <p>Employee cited WFH benefits such as savings in commuting time and flexibility in managing work-life balance.</p>
+      <p class="green-color">Employee cited WFH benefits such as savings in commuting time and flexibility in managing work-life balance.</p>
     </td>
   </tr>
   <tr>
