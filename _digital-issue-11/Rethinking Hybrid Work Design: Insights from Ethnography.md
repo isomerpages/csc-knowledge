@@ -130,8 +130,17 @@ li {
 </tbody></table>
 
 
+<div class="break">
 
+<p class="break1">
+A foresight programme should be
+seen as part of a larger endeavour
+to institutionalise and make
+mainstream habits of mind that
+challenge prevailing assumptions.
+</p>
 
+</div>
 
 
 
