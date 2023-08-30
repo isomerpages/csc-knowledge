@@ -74,10 +74,30 @@ li {
 
 <h3>Rethinking Hybrid Work Design: Insights from Ethnography</h3>
 
+<p>There is broad acceptance that some form of hybrid work will continue after the pandemic.  Anticipating this trend, CSC’s Institute of Leadership and Organisation Development (ILOD) developed A Leader’s Playbook to Hybrid Work in May 2022 to help public service agencies come to terms with this new form of working and update our ways of working.  More recent research by experts studying work-from-home (WFH) arrangements have since validated this approach.  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
