@@ -72,7 +72,7 @@ li {
 <em><small>Digital Issue 11, Sept 2023</small></em>
 <img src="[Place Banner Image here]">
 
-
+<h3>Rethinking Hybrid Work Design: Insights from Ethnography</h3>
 
 
 <br>
