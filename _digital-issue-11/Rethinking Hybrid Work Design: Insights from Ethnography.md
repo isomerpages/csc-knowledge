@@ -91,20 +91,20 @@ li {
             <th>More Work from Home, Less Office</th>
         </tr>
         <tr>
-            <td>A recent global survey of working arrangements observed that employers generally want more office time.  
-            The benefits of working in an office, as cited by employees, include socialising and collaborating in person with co-workers.</td>
-            <td>Some studies cited in the Economist have claimed negative effects from WFH, such as reductions in productivity and isolation from professional networks. 
-            A study in India citing a 18% drop in productivity for those working at home, and another study citing a 19% drop for those working at home for a big Asian IT firm.</td>
+            <td><p>A recent global survey of working arrangements observed that employers generally want more office time.</p>  
+            <p class="red-color">The benefits of working in an office, as cited by employees, include socialising and collaborating in person with co-workers.</p></td>
+            <td><p>Some studies cited in the Economist have claimed negative effects from WFH, such as reductions in productivity and isolation from professional networks.</p> 
+            <p>A study in India citing a 18% drop in productivity for those working at home, and another study citing a 19% drop for those working at home for a big Asian IT firm.</p></td>
         </tr>
         <tr>
-            <td>A Stanford study found genuine differences of opinion between employees and managers about the impact of working from home on productivity in 2022 and obtained average effects equal to +7.4% among workers and -3.5% among managers.</td>
-            <td>The same global survey found that employees want to work from home more often than currently allowed. 
-            Employee cited WFH benefits such as savings in commuting time and flexibility in managing work-life balance.</td>
+            <td><p>A Stanford study found genuine differences of opinion between employees and managers about the impact of working from home on productivity in 2022 and obtained average effects equal to +7.4% among workers and -3.5% among managers.</p></td>
+            <td><p>The same global survey found that employees want to work from home more often than currently allowed.</p> 
+            <p>Employee cited WFH benefits such as savings in commuting time and flexibility in managing work-life balance.</p></td>
         </tr>
         <tr>
-            <td>A 6-month experiment in a firm—with coders, marketing, finance, and business employees, both recent graduate hires and more senior managers—found that the impact on individual productivity was zero or marginally positive, depending on the metric used.
-            Performance evaluations and promotions showed no impact, while lines-of-code written, and self-assessed productivity increased about 4%.</td>
-            <td>Several studies of self-assessment by hybrid workers from different countries have found positive results of an increase of 3% to 5% in productivity.</td>
+            <td><p>A 6-month experiment in a firm—with coders, marketing, finance, and business employees, both recent graduate hires and more senior managers—found that the impact on individual productivity was zero or marginally positive, depending on the metric used.</p>
+            <p>Performance evaluations and promotions showed no impact, while lines-of-code written, and self-assessed productivity increased about 4%.</p></td>
+            <td><p>Several studies of self-assessment by hybrid workers from different countries have found positive results of an increase of 3% to 5% in productivity.</p></td>
         </tr>
     </tbody></table>
 
