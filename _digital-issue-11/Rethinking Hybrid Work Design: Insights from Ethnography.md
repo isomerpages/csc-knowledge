@@ -30,22 +30,7 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 
-.break
-{
-   border-top: 1px solid  black;
-   border-bottom: 1px solid black;
-	 padding:20px;
-	text-align:center;
-	margin-top:50px;
-}
-	
-.break1
-{
-font-family: Georgia;
-	font-size:20px;
-	font-style: italic;
-	font-weight: bold;
-}
+
 
 .boxheader {
 	color: white !important;
@@ -67,12 +52,29 @@ li {
 	
 .red-color {
 	color: red;
-	
 	}	
 	
 .green-color {
 	color: green;
 	}	
+	
+	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}
+	
+.break1
+{
+font-family: Georgia;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+}
 </style>
 
 
@@ -89,10 +91,26 @@ li {
 	<p>The Hybrid Pyramid, which is part of ILOD’s Playbook, is a systemic framework highlighting key dimensions of work practices for effective hybrid work. We developed the framework with the Public Service context in mind, based on research and ground feedback from the senior management team and staff of a pilot Ministry. </p>
 <img src="">
 	
+	
 <figcaption>Source: <a href="">A Leader’s Playbook to Hybrid Work</a></figcaption>
 </div>
-<a href="#notes">Click me</a>
 
+
+
+
+<div class="break">
+
+<p class="break1">
+A foresight programme should be
+seen as part of a larger endeavour
+to institutionalise and make
+mainstream habits of mind that
+challenge prevailing assumptions.
+</p>
+
+
+
+</div>
 
 <table>
   <tbody><tr>
@@ -127,20 +145,10 @@ li {
       <p>Several studies of self-assessment by hybrid workers from different countries have found positive results of an increase of 3% to 5% in productivity.</p>
     </td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 
-<div class="break">
-
-<p class="break1">
-A foresight programme should be
-seen as part of a larger endeavour
-to institutionalise and make
-mainstream habits of mind that
-challenge prevailing assumptions.
-</p>
-
-</div>
 
 
 
