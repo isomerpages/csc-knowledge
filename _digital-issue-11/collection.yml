@@ -1,4 +1,5 @@
 collections:
   digital-issue-11:
     output: true
-    order: []
+    order:
+      - "Rethinking Hybrid Work Design: Insights from Ethnography.md"
