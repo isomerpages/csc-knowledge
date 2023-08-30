@@ -4,66 +4,52 @@ permalink: /ethos/
 description: ""
 ---
 <style>
-    table
-    { 
-    border-collapse: separate; 
-    border-spacing: 30px 10px;
-    }	
-    
-    .text
-    {
-        width:50%;
-    }
-    
-    .img1 img
-    {
-    margin-top:25px;	
-    }	
-    
-    .img img
-    {
-    margin-top:15px;	
-    }		
-        
-        
-    .cat
-    {
-        font-size: 15px;
-    }
-        
-    td
-    {
-        border-style : hidden!important;
-    }
-        
-    
-    #editorial,#section-1,#section-2,#section-3,#section-4,#section-5,#section-6,#section-7,#section-8,#section-9
-    {
-        border-bottom: 0.5px solid black;
-    }
-    
-    
-        
-    .button1 a
-    {
-        color: #9f2943;
-        font-weight:bold;
-    }
-        
-    .grid-container {
-        display: grid;
-        grid-template-columns: 50% 50%;
-        grid-column-gap: 5%;
-        margin-bottom: 5%;
 
-    }       
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+	}
+	
+.cat
+   {
+   font-size: 15px;
+   }
 
-    @media only screen and (max-width: 600px) {
-        .grid-container {
-            display: block;
-        }
-    }
-        
+.text
+{
+	width: 50%;
+}	
+	
+.img1 img
+{
+margin-top:25px;	
+}	
+	
+.img img
+{
+margin-top:15px;	
+}		
+	
+.button1 a
+{
+	color: #9f2943;
+	font-weight:bold;
+}
+	
+
+.grid-container {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-column-gap: 5%;
+	margin-bottom: 5%;
+	}	
+	
+@media only screen and (max-width: 600px) {
+	.grid-container {
+		display: block;
+	}
+}	
 </style>
     
     
