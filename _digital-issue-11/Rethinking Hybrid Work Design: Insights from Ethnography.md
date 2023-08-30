@@ -76,7 +76,12 @@ li {
 
 <p>There is <a href="https://siepr.stanford.edu/publications/working-paper/evolution-working-home">broad acceptance</a> that some form of hybrid work will continue after the pandemic.  Anticipating this trend, CSC’s Institute of Leadership and Organisation Development (ILOD) developed <a href="https://gccprod.sharepoint.com/sites/CSC-LnODinsights/SitePages/The-Leader%27s-Playbook-to-Hybrid-Work.aspx?web=1">A Leader’s Playbook to Hybrid Work</a> in May 2022 to help public service agencies come to terms with this new form of working and update our ways of working.  More <a href="https://www.businessinsider.com/hybrid-working-model-wfh-work-from-home-policy-office-trends-2023-7">recent research by experts</a> studying work-from-home (WFH) arrangements have since validated this approach.  </p>
 
-
+<div class="containerbox">
+	<p>The Hybrid Pyramid, which is part of ILOD’s Playbook, is a systemic framework highlighting key dimensions of work practices for effective hybrid work. We developed the framework with the Public Service context in mind, based on research and ground feedback from the senior management team and staff of a pilot Ministry. </p>
+<img src="">
+	
+<figure> Source: <a href="">A Leader’s Playbook to Hybrid Work</a></figure>
+</div>
 
 
 
