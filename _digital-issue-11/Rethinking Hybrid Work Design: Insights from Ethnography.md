@@ -80,7 +80,7 @@ li {
 	<p>The Hybrid Pyramid, which is part of ILOD’s Playbook, is a systemic framework highlighting key dimensions of work practices for effective hybrid work. We developed the framework with the Public Service context in mind, based on research and ground feedback from the senior management team and staff of a pilot Ministry. </p>
 <img src="">
 	
-<figure> Source: <a href="">A Leader’s Playbook to Hybrid Work</a></figure>
+<figcaption>Source: <a href="">A Leader’s Playbook to Hybrid Work</a></figcaption>
 </div>
 
 
