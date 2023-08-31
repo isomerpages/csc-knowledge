@@ -57,11 +57,16 @@ img {
 
 	}	
 	
-.theauthor {
-	margin-top: -100px;
+dt {
+	margin-bottom: 10px;
+	font-size: 1em;
+	}
+
+dd {
+	margin-top: -10px;
+	font-size: 0.9em;
 	}	
-
-
+	
 </style>
 
 
@@ -92,13 +97,14 @@ img {
 
 <details>
 <summary>SECTION 1 GOVERNANCE AND POLICYMAKING IN A COMPLEX WORLD</summary>
-		<p class="Accordion-Paragraph">Overview by Noel Bay
-		</p><p>A NEW GENERATION OF LEADERS</p>
-		<p>EMBRACE COMPLEXITY, HARNESS HUMAN NATURE</p>
-		<p class="theauthor">Lecture by Eric Bonabeau, summary by Anuradha Shroff</p>
-		
-	
-	<p></p>
+		<p class="Accordion-Paragraph">
+	</p><dl>
+		<dt>Overview by Noel Bay</dt>
+		<dt>A NEW GENERATION OF LEADERS</dt>
+		<dt>EMBRACE COMPLEXITY, HARNESS HUMAN NATURE</dt>
+		<dd>Lecture by Eric Bonabeau, summary by Anuradha Shroff</dd>
+	</dl>
+<p></p>
 
 </details>
 
