@@ -103,6 +103,10 @@ dd {
 		<dt>A NEW GENERATION OF LEADERS</dt>
 		<dt>EMBRACE COMPLEXITY, HARNESS HUMAN NATURE</dt>
 		<dd>Lecture by Eric Bonabeau, summary by Anuradha Shroff</dd>
+		<dt>Innovations in Governance and Leadership</dt>
+		<dd>Lecture by Augustine O’Donnell, summary by Vernie Oliveiro</dd>
+		<dt>The Art of Public Strategy</dt>
+		<dd>Lecture by Geoff Mulgan, summary by Celine Lim</dd>
 	</dl>
 <p></p>
 
