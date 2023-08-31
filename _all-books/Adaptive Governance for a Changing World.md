@@ -113,6 +113,28 @@ dd {
 </details>
 
 
+<details>  
+<summary>SECTION 2 STATE-MARKET RELATIONSHIPS AND ECONOMIC POLICY</summary>  
+<p class="Accordion-Paragraph">
+	</p><dt>Overview by Charmaine Tan</dt>
+  
+  <dt>Capitalism 4.0: The Birth of a New Economy</dt>
+  <dd>Lecture by Anatole Kaletsky, summary by Charmaine Tan</dd>
+  
+  <dt>The Return of Industrial Policy</dt>
+  <dd>Lecture by Dani Rodrik, summary by Alisha Gill</dd>
+  
+  <dt>Falling Behind: Income Inequality and Middle Class Disaffection</dt>
+  <dd>Lecture by Robert Frank, summary by Amanda Chan</dd>
+  
+  <dt>Evolution, Economics and the Origin of Wealth: How Complexity Changes the Way We Think about the Economy</dt>
+  <dd>Lecture by Eric Beinhocker, summary by Charmaine Tan</dd>
+	<p></p>  
+  
+</details>
+
+
+
 
 
 </div>
