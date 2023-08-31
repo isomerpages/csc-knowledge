@@ -41,6 +41,17 @@ img {
 
 <div>
 
+<div class="chapter-divider">
+<p class="bigger"><b>FOREWORD</b></p>
+
+</div>
+	
+<div class="chapter-divider">
+<p class="bigger"><b>INTRODUCTION</b></p>
+
+</div>	
+
+
 
 
 
