@@ -99,7 +99,7 @@ dd {
 <summary>SECTION 1 GOVERNANCE AND POLICYMAKING IN A COMPLEX WORLD</summary>
 		<p class="Accordion-Paragraph">
 	</p><dl>
-		<dt>Overview by Noel Bay</dt>
+		<dt>OVERVIEW BY NOEL BAY</dt>
 		<dt>A NEW GENERATION OF LEADERS</dt>
 		<dt>EMBRACE COMPLEXITY, HARNESS HUMAN NATURE</dt>
 		<dd>Lecture by Eric Bonabeau, summary by Anuradha Shroff</dd>
@@ -113,26 +113,73 @@ dd {
 </details>
 
 
-<details>  
-<summary>SECTION 2 STATE-MARKET RELATIONSHIPS AND ECONOMIC POLICY</summary>  
-<p class="Accordion-Paragraph">
-	</p><dt>Overview by Charmaine Tan</dt>
-  
-  <dt>Capitalism 4.0: The Birth of a New Economy</dt>
-  <dd>Lecture by Anatole Kaletsky, summary by Charmaine Tan</dd>
-  
-  <dt>The Return of Industrial Policy</dt>
-  <dd>Lecture by Dani Rodrik, summary by Alisha Gill</dd>
-  
-  <dt>Falling Behind: Income Inequality and Middle Class Disaffection</dt>
-  <dd>Lecture by Robert Frank, summary by Amanda Chan</dd>
-  
-  <dt>Evolution, Economics and the Origin of Wealth: How Complexity Changes the Way We Think about the Economy</dt>
-  <dd>Lecture by Eric Beinhocker, summary by Charmaine Tan</dd>
-	<p></p>  
-  
+<details>
+    <summary>SECTION 2 STATE-MARKET RELATIONSHIPS AND ECONOMIC POLICY</summary>
+    <p class="Accordion-Paragraph">
+        </p><dl>
+            <dt>OVERVIEW BY CHARMAINE TAN</dt>
+            <dd></dd>
+            <dt>CAPITALISM 4.0: THE BIRTH OF A NEW ECONOMY</dt>
+            <dd>Lecture by Anatole Kaletsky, summary by Charmaine Tan</dd>
+            <dt>THE RETURN OF INDUSTRIAL POLICY</dt>
+            <dd>Lecture by Dani Rodrik, summary by Alisha Gill</dd>
+            <dt>FALLING BEHIND: INCOME INEQUALITY AND MIDDLE CLASS DISAFFECTION</dt>
+            <dd>Lecture by Robert Frank, summary by Amanda Chan</dd>
+            <dt>EVOLUTION, ECONOMICS AND THE ORIGIN OF WEALTH: HOW COMPLEXITY CHANGES THE WAY WE THINK ABOUT THE ECONOMY</dt>
+            <dd>Lecture by Eric Beinhocker, summary by Charmaine Tan</dd>
+        </dl>
+    <p></p>
 </details>
 
+<details>
+    <summary>SECTION 3 SOCIAL CHALLENGES, SOCIAL POLICY AND THE EVOLVING SOCIAL COMPACT</summary>
+    <p class="Accordion-Paragraph">
+        </p><dl>
+            <dt>Overview by Alisha Gill</dt>
+            <dd></dd>
+            <dt>E PLURIBUS UNUM: DIVERSITY AND COMMUNITY IN THE 21ST CENTURY</dt>
+            <dd>Lecture by Robert Putnam, summary by Jeanne Conceicao</dd>
+            <dt>ACHIEVING INCLUSIVE GROWTH</dt>
+            <dd>Lecture by David Autor and Alan Manning, summary by Amanda Chan</dd>
+            <dt>ADDRESSING COMPLEX SOCIAL CHALLENGES: WHY WE GET STUCK AND HOW TO GET UNSTUCK</dt>
+            <dd>Lecture by Adam Kahane, summary by Alisha Gill</dd>
+            <dt>CREATING PUBLIC INNOVATION THROUGH COLLABORATION: GOVERNMENT, BUSINESS AND THE SOCIAL SERVICES SECTOR</dt>
+            <dd>Lecture by Peter Shergold, summary by Cheryl Wu</dd>
+        </dl>
+    <p></p>
+</details>
+
+<details>
+    <summary>SECTION 4 ROBUST AND EFFECTIVE PUBLIC POLICY CYCLES</summary>
+    <p class="Accordion-Paragraph">
+        </p><dl>
+            <dt>Overview by Wu Wei Neng</dt>
+            <dd></dd>
+            <dt>INNOVATION IN GOVERNMENT: LEVERAGING DESIGN TO RADICALLY IMPROVE PUBLIC POLICIES AND SERVICES</dt>
+            <dd>Lecture by Christian Bason, summary by Noel Bay</dd>
+            <dt>RECENT DEVELOPMENTS IN THINKING ABOUT THE FUTURE: AN OVERVIEW FOR POLICYMAKERS</dt>
+            <dd>Lecture by Riel Miller, summary by Anuradha Shroff</dd>
+            <dt>APPLYING BEHAVIOURAL INSIGHT</dt>
+            <dd>Lecture by David Halpern, summary by Celine Lim</dd>
+        </dl>
+    <p></p>
+</details>
+
+<details>
+    <summary>SECTION 5 TRANSFORMING INSTITUTIONS: LEADERSHIP AND ORGANISATIONAL DEVELOPMENT</summary>
+    <p class="Accordion-Paragraph">
+        </p><dl>
+            <dt>Overview by Wu Wei Neng</dt>
+            <dd></dd>
+            <dt>LEADERSHIP IN OUR TIME: THE ERA OF “TRUTHINESS” AND TWITTER</dt>
+            <dd>Lecture by Howard Gardner, summary by Kharina Zainal</dd>
+            <dt>A NEW CULTURE OF LEARNING: CULTIVATING THE IMAGINATION FOR A WORLD OF CONSTANT CHANGE</dt>
+            <dd>Lecture by John Seely Brown, summary by Noel Bay</dd>
+            <dt>FORMULATING AN OD PLAN AND IMPACTING ORGANISATION PERFORMANCE FROM A SYSTEMIC PERSPECTIVE</dt>
+            <dd>Lecture by Mee-Yan Cheung-Judge, summary by Anuradha Shroff</dd>
+        </dl>
+    <p></p>
+</details>
 
 
 
