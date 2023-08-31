@@ -181,6 +181,21 @@ dd {
     <p></p>
 </details>
 
+<div class="chapter-divider">
+    <p class="bigger"><b>ACKNOWLEDGEMENTS</b></p>
+</div>
+	
+<div class="chapter-divider">
+    <p class="bigger"><b>ABOUT THE EDITOR</b></p>
+</div>
+	
+<div class="chapter-divider">
+    <p class="bigger"><b>ABOUT THE CONTRIBUTORS</b></p>
+</div>
+	
+<div class="chapter-divider">
+    <p class="bigger"><b>INDEX</b></p>
+</div>
 
 
 
