@@ -77,3 +77,36 @@ font-size: 16px;
 
 
 <h3>2021</h3>
+
+<div class="grid-container">
+
+<div class="grid-item">
+	<img src="/images/Ethos_Thumbnails_Cover/ethosissue23.jpg">
+	
+</div>
+	
+<div class="grid-item">
+	<img src="/images/Ethos_Thumbnails_Cover/ethosdigital07.jpg">
+	
+</div>
+
+
+
+</div>
+
+
+<div class="grid-container">
+
+<div class="grid-item">
+	<img src="/images/Ethos_Thumbnails_Cover/ethosissue22.jpg">
+</div>
+<div class="grid-item">
+	<img src="/images/Ethos_Thumbnails_Cover/ethosdigitalmarch2021specialedition.jpg">
+</div>
+
+
+</div>
+
+
+
+
