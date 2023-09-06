@@ -62,9 +62,16 @@ font-size: 16px;
 <div class="grid-container">
 	<div class="grid-item">
 		<img alt="Image 1" src="/images/Ethos_Thumbnails_Cover/ethosdigital08.jpg">
+		<p>
+</p><p>
+<a target="_blank" href="/digital-issue-08/">Digital Edition Issue 8, Apr 2022</a>
+	<br>
+	<a target="_blank" href="https://go.gov.sg/digital-issue-08">Download PDF</a>
+		</p>				
 	</div>
-	<div class="grid-item">
-	</div>
+	
+		<div class="grid-item">
+		</div>
 
 </div>
 
