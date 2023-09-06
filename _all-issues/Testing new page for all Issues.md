@@ -82,12 +82,12 @@ font-size: 16px;
 
 <div class="grid-item">
 	<img src="/images/Ethos_Thumbnails_Cover/ethosissue23.jpg">
-	<p><br></p>
+	<p><a target="_blank" href="/ethos-issue-23/">Issue 23, Oct 2021, Future of Learning</a><br><a target="_blank" href="https://go.gov.sg/ethos-issue-23">Download PDF</a></p>
 </div>
 	
 <div class="grid-item">
 	<img src="/images/Ethos_Thumbnails_Cover/ethosdigital07.jpg">
-	<p><br></p>
+	<p><a target="_blank" href="/digital-issue-07/">Digital Edition Issue 7, Sep 2021</a><br><a target="_blank" href="https://go.gov.sg/digital-issue-07">Download PDF</a></p>
 </div>
 
 
