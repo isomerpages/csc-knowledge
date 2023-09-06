@@ -70,8 +70,8 @@ font-size: 16px;
 		</p>				
 	</div>
 	
-		<div class="grid-item">
-		</div>
+<div class="grid-item">
+	</div>
 
 </div>
 
