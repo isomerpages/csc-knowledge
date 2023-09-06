@@ -241,3 +241,28 @@ font-size: 16px;
         </p>
     </div>
 </div>
+
+
+<h3>2017</h3>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosdigital01.jpg">
+        <p>
+            <a target="_blank" href="/digital-issue-01/">Digital Edition Issue 1, Nov 2017</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/digital-issue-01">Download PDF</a>
+        </p>
+    </div>
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue17.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-17/">Issue 17, Jun 2017, Behavioural Insights</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethosissue17">Download PDF</a>
+        </p>
+    </div>
+</div>
+
+
+
