@@ -40,8 +40,20 @@ font-size: 16px;
 
 <div class="grid-container">
 
-<div class="grid-item"><img src=""></div>
-<div class="grid-item"><img src=""></div>
+<div class="grid-item"><img src="">
+	<p>
+		<a href=""></a>
+		<br>
+		<a href=""></a>
+	</p>
+	</div>
+<div class="grid-item"><img src="">
+	<p>
+	
+<br>
+	
+ </p>	
+</div>
 
 
 
