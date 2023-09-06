@@ -37,6 +37,33 @@ font-size: 16px;
 
 </style>
 
+
+<h3>2023</h3>
+
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue25.jpg">
+        <p>
+            <a target="_blank" href="/ethos/">Issue 25, April 2023<br>Prioritising Purpose</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a>
+        </p>
+    </div>
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg">
+        <p>
+            <a target="_blank" href="/digital-issue-10/">Digital Edition Issue 10, <br>Mar 2023</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a>
+        </p>
+    </div>
+</div>
+
+
+
+
+
 <h3>2022</h3>
 <div class="grid-container">
   <div class="grid-item">
