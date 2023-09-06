@@ -49,6 +49,11 @@ font-size: 16px;
   </div>
   <div class="grid-item">
     <img alt="Image 2" src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg">
+		<p>
+		<a target="_blank" href="/ethos-issue-24/">Issue 24, Aug 2022, <br>Urban Sustainability</a>
+			<br>
+		<a target="_blank" href="https://go.gov.sg/ethos-issue-24">Download PDF</a>
+		</p>
   </div>
 </div>
 
