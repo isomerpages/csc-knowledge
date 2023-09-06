@@ -43,7 +43,10 @@ description: ""
 
 
 <div class="grid-container">
-	<div class="grid-item"><img alt="Image 1" src="/images/favicon-isomer.ico"></div>
-
+	<div class="grid-item">
+		<img alt="Image 1" src="/images/favicon-isomer.ico">
+	</div>
+	<div class="grid-item">
+	</div>
 
 </div>
