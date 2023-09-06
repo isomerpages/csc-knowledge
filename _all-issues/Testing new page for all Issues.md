@@ -327,3 +327,47 @@ font-size: 16px;
    <!-- Empty grid-item -->
    <div class="grid-item"></div>
 </div>
+
+<h3>2012</h3>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue11.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-11/">Issue 11, Aug 2012, Globalisation: Challenges
+            and Policy Responses</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-11">Download PDF</a>
+        </p>
+    </div>
+    
+   <!-- Empty grid-item -->
+   <div class="grid-item"></div>
+</div>
+
+
+<h3>2011</h3>
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue10.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-10/">Issue 10, Oct 2011, <br>Preparing Government<br> for
+            the Challenges<br> of the 21 st Century</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-10">Download PDF</a>
+        </p>
+    </div>
+    
+   <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue09.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-09/">Issue 9, Jun 2011, National<br>Productivity and
+            WOG Collaboration</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-09">Download PDF</a>
+        </p>
+    </div>
+</div>
+
+
+
