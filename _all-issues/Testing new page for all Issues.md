@@ -135,3 +135,23 @@ font-size: 16px;
 
 
 </div>
+
+
+
+<h3>2020</h3>
+
+<div class="grid-container">
+    <div class="grid-item"><img src="/images/Ethos_Thumbnails_Cover/ethosdigital2020specialedition.jpg"></div>
+    <div class="grid-item"><img src="/images/Ethos_Thumbnails_Cover/ethosdigital06.jpg"></div>
+</div>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <a target="_blank" href="/digital-special-edition-dec-2020/">Digital Special Edition, Dec 2020</a>
+    </div>
+    <div class="grid-item">
+        <a target="_blank" href="/digital-issue-06/">Digital Edition Issue 6, <br>Jun 2020</a>
+    </div>
+</div>
+
+
