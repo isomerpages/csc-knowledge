@@ -153,35 +153,37 @@ dd {
 
 <details>
     <summary>SECTION 4 ROBUST AND EFFECTIVE PUBLIC POLICY CYCLES</summary>
-    <p class="Accordion-Paragraph">
-        </p><dl>
-            <dt>Overview by Wu Wei Neng</dt>
-            <dd></dd>
-            <dt>INNOVATION IN GOVERNMENT: LEVERAGING DESIGN TO RADICALLY IMPROVE PUBLIC POLICIES AND SERVICES</dt>
-            <dd>Lecture by Christian Bason, summary by Noel Bay</dd>
-            <dt>RECENT DEVELOPMENTS IN THINKING ABOUT THE FUTURE: AN OVERVIEW FOR POLICYMAKERS</dt>
-            <dd>Lecture by Riel Miller, summary by Anuradha Shroff</dd>
-            <dt>APPLYING BEHAVIOURAL INSIGHT</dt>
-            <dd>Lecture by David Halpern, summary by Celine Lim</dd>
-        </dl>
+    <p class="Accordion-Paragraph"></p>
+    <dl>
+        <dt><strong>Overview by Wu Wei Neng</strong></dt>
+        <dd></dd>
+        <dt><strong>INNOVATION IN GOVERNMENT: LEVERAGING DESIGN TO RADICALLY IMPROVE PUBLIC POLICIES AND SERVICES</strong></dt>
+        <dd>Lecture by Christian Bason, summary by Noel Bay</dd>
+        <dt><strong>RECENT DEVELOPMENTS IN THINKING ABOUT THE FUTURE: AN OVERVIEW FOR POLICYMAKERS</strong></dt>
+        <dd>Lecture by Riel Miller, summary by Anuradha Shroff</dd>
+        <dt><strong>APPLYING BEHAVIOURAL INSIGHT</strong></dt>
+        <dd>Lecture by David Halpern, summary by Celine Lim</dd>
+    </dl>
     <p></p>
 </details>
 
+
 <details>
     <summary>SECTION 5 TRANSFORMING INSTITUTIONS: LEADERSHIP AND ORGANISATIONAL DEVELOPMENT</summary>
-    <p class="Accordion-Paragraph">
-        </p><dl>
-            <dt>Overview by Wu Wei Neng</dt>
-            <dd></dd>
-            <dt>LEADERSHIP IN OUR TIME: THE ERA OF “TRUTHINESS” AND TWITTER</dt>
-            <dd>Lecture by Howard Gardner, summary by Kharina Zainal</dd>
-            <dt>A NEW CULTURE OF LEARNING: CULTIVATING THE IMAGINATION FOR A WORLD OF CONSTANT CHANGE</dt>
-            <dd>Lecture by John Seely Brown, summary by Noel Bay</dd>
-            <dt>FORMULATING AN OD PLAN AND IMPACTING ORGANISATION PERFORMANCE FROM A SYSTEMIC PERSPECTIVE</dt>
-            <dd>Lecture by Mee-Yan Cheung-Judge, summary by Anuradha Shroff</dd>
-        </dl>
+    <p class="Accordion-Paragraph"></p>
+    <dl>
+        <dt><strong>Overview by Wu Wei Neng</strong></dt>
+        <dd></dd>
+        <dt><strong>LEADERSHIP IN OUR TIME: THE ERA OF “TRUTHINESS” AND TWITTER</strong></dt>
+        <dd>Lecture by Howard Gardner, summary by Kharina Zainal</dd>
+        <dt><strong>A NEW CULTURE OF LEARNING: CULTIVATING THE IMAGINATION FOR A WORLD OF CONSTANT CHANGE</strong></dt>
+        <dd>Lecture by John Seely Brown, summary by Noel Bay</dd>
+        <dt><strong>FORMULATING AN OD PLAN AND IMPACTING ORGANISATION PERFORMANCE FROM A SYSTEMIC PERSPECTIVE</strong></dt>
+        <dd>Lecture by Mee-Yan Cheung-Judge, summary by Anuradha Shroff</dd>
+    </dl>
     <p></p>
 </details>
+
 
 <div class="chapter-divider">
     <p class="bigger"><b>ACKNOWLEDGEMENTS</b></p>
