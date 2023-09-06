@@ -311,3 +311,19 @@ font-size: 16px;
   <!-- Empty grid-item -->
    <div class="grid-item"></div>
 </div>
+
+<h3>2013</h3>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue12.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-12/">Issue 12, Jun 2013,<br>Listen, Labour and Lead</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-12">Download PDF</a>
+        </p>
+    </div>
+    
+   <!-- Empty grid-item -->
+   <div class="grid-item"></div>
+</div>
