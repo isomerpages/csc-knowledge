@@ -371,3 +371,27 @@ font-size: 16px;
 
 
 
+<h3>2010</h3>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue08.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-08/">Issue 8, Aug 2010, The Impact of China</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-08">Download PDF</a>
+        </p>
+    </div>
+    
+   <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue07.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-07/">Issue 7, Jan 2010, <br>Thinking About The Future</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-07">Download PDF</a>
+        </p>
+    </div>
+</div>
+
+
+<h3>2009</h3>
