@@ -33,10 +33,10 @@ description: ""
 <h3>2023</h3>
 <div class="grid-container">
   <div class="grid-item">
-    <img alt="Image 1" src="/images/favicon-isomer.ico">
+    <img alt="Image 1" src="/images/Ethos_Thumbnails_Cover/ethosdigital09.jpg">
   </div>
   <div class="grid-item">
-    <img alt="Image 2" src="/images/favicon-isomer.ico">
+    <img alt="Image 2" src="/images/Ethos_Thumbnails_Cover/ethosissue24.jpg">
   </div>
 </div>
 
@@ -44,7 +44,7 @@ description: ""
 
 <div class="grid-container">
 	<div class="grid-item">
-		<img alt="Image 1" src="/images/favicon-isomer.ico">
+		<img alt="Image 1" src="/images/Ethos_Thumbnails_Cover/ethosdigital08.jpg">
 	</div>
 	<div class="grid-item">
 	</div>
