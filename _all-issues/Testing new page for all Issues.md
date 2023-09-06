@@ -174,6 +174,8 @@ font-size: 16px;
             <a target="_blank" href="https://go.gov.sg/ethos-issue-21">Download PDF</a>
         </p>
     </div>
+</div>
+<div class="grid-container">
     <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital04.jpg">
         <p>
@@ -191,6 +193,7 @@ font-size: 16px;
         </p>
     </div>
 </div>
+
 
 
 
