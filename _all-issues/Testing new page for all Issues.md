@@ -82,12 +82,12 @@ font-size: 16px;
 
 <div class="grid-item">
 	<img src="/images/Ethos_Thumbnails_Cover/ethosissue23.jpg">
-	
+	<p><br></p>
 </div>
 	
 <div class="grid-item">
 	<img src="/images/Ethos_Thumbnails_Cover/ethosdigital07.jpg">
-	
+	<p><br></p>
 </div>
 
 
@@ -99,14 +99,12 @@ font-size: 16px;
 
 <div class="grid-item">
 	<img src="/images/Ethos_Thumbnails_Cover/ethosissue22.jpg">
+	<p><a target="_blank" href="/ethos-issue-22/">Issue 22, Jun 2021, Governing in a Crisis</a><br><a target="_blank" href="https://go.gov.sg/ethosjune2021">Download PDF</a></p>
 </div>
 <div class="grid-item">
 	<img src="/images/Ethos_Thumbnails_Cover/ethosdigitalmarch2021specialedition.jpg">
+	<p><a target="_blank" href="/digital-special-edition-mar-2021/">Digital Special Edition, Mar 2021 Update</a><br><a target="_blank" href="https://go.gov.sg/ethos-digital-special-edition-mar21">Download PDF</a></p>
 </div>
 
 
 </div>
-
-
-
-
