@@ -155,3 +155,46 @@ font-size: 16px;
 </div>
 
 
+<h3>2019</h3>
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosdigital05.jpg">
+        <p>
+            <a target="_blank" href="/digital-issue-05/">Digital Edition Issue 5, Nov 2019</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/digital-issue-05">Download PDF</a>
+        </p>
+    </div>
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue21.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-21/">Issue 21, Jul 2019, Digital Government</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-21">Download PDF</a>
+        </p>
+    </div>
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosdigital04.jpg">
+        <p>
+            <a target="_blank" href="/digital-issue-04/">Digital Edition Issue 4, Apr 2019</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/digital-issue-04">Download PDF</a>
+        </p>
+    </div>
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue20.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-20/">Issue 20, Jan 2019, The Future of Ageing</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-20">Download PDF</a>
+        </p>
+    </div>
+</div>
+
+
+
+
+
+
+
