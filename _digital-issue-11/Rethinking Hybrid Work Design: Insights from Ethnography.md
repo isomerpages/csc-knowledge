@@ -85,15 +85,63 @@ font-family: Georgia;
 
 <h3>Rethinking Hybrid Work Design: Insights from Ethnography</h3>
 
-<p>There is <a href="https://siepr.stanford.edu/publications/working-paper/evolution-working-home">broad acceptance</a> that some form of hybrid work will continue after the pandemic.  Anticipating this trend, CSC’s Institute of Leadership and Organisation Development (ILOD) developed <a href="https://gccprod.sharepoint.com/sites/CSC-LnODinsights/SitePages/The-Leader%27s-Playbook-to-Hybrid-Work.aspx?web=1">A Leader’s Playbook to Hybrid Work</a> in May 2022 to help public service agencies come to terms with this new form of working and update our ways of working.  More <a href="https://www.businessinsider.com/hybrid-working-model-wfh-work-from-home-policy-office-trends-2023-7">recent research by experts</a> studying work-from-home (WFH) arrangements have since validated this approach.  </p>
+<p>There is <a href="https://siepr.stanford.edu/publications/working-paper/evolution-working-home">broad acceptance</a> that some form of hybrid work will continue after the pandemic.<sup>1</sup>  Anticipating this trend, CSC’s Institute of Leadership and Organisation Development (ILOD) developed <a href="https://gccprod.sharepoint.com/sites/CSC-LnODinsights/SitePages/The-Leader%27s-Playbook-to-Hybrid-Work.aspx?web=1">A Leader’s Playbook to Hybrid Work</a> in May 2022 to help public service agencies come to terms with this new form of working and update our ways of working.<sup>2</sup> More <a href="https://www.businessinsider.com/hybrid-working-model-wfh-work-from-home-policy-office-trends-2023-7">recent research by experts</a> studying work-from-home (WFH) arrangements have since validated this approach.<sup>3</sup>  </p>
 
 <div class="containerbox">
 	<p>The Hybrid Pyramid, which is part of ILOD’s Playbook, is a systemic framework highlighting key dimensions of work practices for effective hybrid work. We developed the framework with the Public Service context in mind, based on research and ground feedback from the senior management team and staff of a pilot Ministry. </p>
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_11/hybrid%20pyramid.png">
 	
 	
 <figcaption style="text-align: center;">Source: <a href="">A Leader’s Playbook to Hybrid Work</a></figcaption>
 </div>
+<p>However, despite three years of pandemic-induced working from home and hybrid working arrangements, there seems to be little consensus (and in fact there may be conflicting evidence) on whether these work models are more productive and effective than conventional office-based modes.</p>  
+
+
+
+
+
+
+
+
+<table>
+  <tbody><tr>
+    <td>More Office, Less Work from Home</td>
+    <td>More Work from Home, Less Office</td>
+  </tr>
+  <tr>
+    <td>
+      <p>A recent global survey of working arrangements observed that employers generally want more office time.<sup>4</sup></p>
+      <p class="red-color">The benefits of working in an office, as cited by employees, include socializing and collaborating in person with co-workers.</p>
+    </td>
+    <td>
+      <p>The same global survey found that employees want to work from home more often than currently allowed.<sup>7</sup></p>
+      <p class="green-color">Employee cited WFH benefits such as savings in commuting time and flexibility in managing work-life balance.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Some studies cited in the Economist have claimed negative effects from WFH, such as reductions in productivity and isolation from professional networks.<sup>5</sup></p>
+      <p class="red-color">A study in India citing an 18% drop in productivity for those working at home, and another study citing a 19% drop for those working at home for a big Asian IT firm.</p>
+    </td>
+    <td>
+      <p>A 6-month experiment in a firm—with coders, marketing, finance, and business employees, both recent graduate hires and more senior managers—found that the impact on individual productivity was zero or marginally positive, depending on the metric used.<sup>8</sup></p>
+      <p class="green-color">Performance evaluations and promotions showed no impact, while lines-of-code written, and self-assessed productivity increased about 4%.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>A Stanford study found genuine differences of opinion between employees and managers about the impact of working from home on productivity in 2022 and obtained average effects equal to +7.4% among workers and -3.5% among managers.<sup>6</sup></p>
+    </td>
+    <td>
+      <p>Several studies of self-assessment by hybrid workers from different countries have found positive results of an increase of 3% to 5% in productivity.<sup>9</sup></p>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<p>The issue of hybrid work and its impact on ways of working is bound up with longstanding, implicit assumptions about how work is carried out.</p> 
+<p>Seeking a fresh perspective, ILOD Principal Consultant Eileen Wong spoke with Thijs Willems, an organisational ethnographer and Research Fellow at the Singapore University of Technology and Design, to explore how an ethnographic lens might shed light on and help reframe today’s shifting work cultures.</p>
+ 
 
 
 
@@ -111,46 +159,6 @@ challenge prevailing assumptions.
 
 
 </div>
-
-<table>
-  <tbody><tr>
-    <td>More Office, Less Work from Home</td>
-    <td>More Work from Home, Less Office</td>
-  </tr>
-  <tr>
-    <td>
-      <p>A recent global survey of working arrangements observed that employers generally want more office time.</p>
-      <p class="red-color">The benefits of working in an office, as cited by employees, include socializing and collaborating in person with co-workers.</p>
-    </td>
-    <td>
-      <p>The same global survey found that employees want to work from home more often than currently allowed.</p>
-      <p class="green-color">Employee cited WFH benefits such as savings in commuting time and flexibility in managing work-life balance.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Some studies cited in the Economist have claimed negative effects from WFH, such as reductions in productivity and isolation from professional networks.</p>
-      <p class="red-color">A study in India citing an 18% drop in productivity for those working at home, and another study citing a 19% drop for those working at home for a big Asian IT firm.</p>
-    </td>
-    <td>
-      <p>A 6-month experiment in a firm—with coders, marketing, finance, and business employees, both recent graduate hires and more senior managers—found that the impact on individual productivity was zero or marginally positive, depending on the metric used.</p>
-      <p class="green-color">Performance evaluations and promotions showed no impact, while lines-of-code written, and self-assessed productivity increased about 4%.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>A Stanford study found genuine differences of opinion between employees and managers about the impact of working from home on productivity in 2022 and obtained average effects equal to +7.4% among workers and -3.5% among managers.</p>
-    </td>
-    <td>
-      <p>Several studies of self-assessment by hybrid workers from different countries have found positive results of an increase of 3% to 5% in productivity.</p>
-    </td>
-  </tr>
-</tbody>
-</table>
-
-
-
-
 
 <div class="author">
 	<h6>About the Author</h6>
