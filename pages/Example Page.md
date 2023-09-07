@@ -1,5 +1,5 @@
 ---
-title: Example Page
+title: Example-Page
 permalink: /example-page/
 description: ""
 ---
