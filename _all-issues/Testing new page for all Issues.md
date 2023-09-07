@@ -395,3 +395,21 @@ font-size: 16px;
 
 
 <h3>2009</h3>
+
+
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue06.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-06/">Issue 6, Jul 2009, The Global Financial Crisis</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-06">Download PDF</a>
+        </p>
+    </div>
+	<!-- Empty div grid item. Do not remove.-->
+	<div class="grid-item"></div>
+</div>
+
+
+
+
