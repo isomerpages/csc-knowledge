@@ -33,7 +33,7 @@ font-size: 16px;
 	
 
 	
-@media (max-width: 600px) {
+@media (max-width: 360px) {
   /* Keep two columns layout on smaller screens */
   .grid-container {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjust the minmax values as needed */
