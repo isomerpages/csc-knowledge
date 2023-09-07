@@ -27,10 +27,11 @@ font-size: 16px;
 
 	
 .grid-item img {
-
 	width: 80%;
-	 justify-self: end;
-	}	
+	display: inline-block
+	}
+	
+
 	
 @media (max-width: 600px) {
   /* Keep two columns layout on smaller screens */
