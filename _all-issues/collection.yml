@@ -2,6 +2,5 @@ collections:
   all-issues:
     output: true
     order:
-      - All Issues new page.md
       - Testing new page for all Issues.md
       - All Issues.md
