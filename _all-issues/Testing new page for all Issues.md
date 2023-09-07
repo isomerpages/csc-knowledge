@@ -410,6 +410,37 @@ font-size: 16px;
 	<div class="grid-item"></div>
 </div>
 
+<h3>2008</h3>
 
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue05.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-05/">Issue 5, Nov 2008, Human Capital Development</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-05">Download PDF</a>
+        </p>
+    </div>
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosworldsummitissue.jpg">
+        <p>
+            <a target="_blank" href="/world-cities-summit-issue/">World Cities Summit Special Edition, Jun 2008</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-world-cities-summit-issue">Download PDF</a>
+        </p>
+    </div>
+</div>
 
-
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue04.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-04/">Issue 4, Apr 2008, Beyond Excellent Service Delivery</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-04">Download PDF</a>
+        </p>
+    </div>
+	
+<!-- Empty div grid item. Do not remove.-->
+<div class="grid-item"></div>
+</div>
