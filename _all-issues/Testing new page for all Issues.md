@@ -25,6 +25,12 @@ font-size: 16px;
   height: auto;
 }
 
+	
+.grid-item img {
+	width: 80%;
+	
+	}	
+	
 @media (max-width: 600px) {
   /* Keep two columns layout on smaller screens */
   .grid-container {
@@ -481,6 +487,3 @@ font-size: 16px;
 	<!-- Empty div grid item. Do not delete-->
 	<div class="grid-item"></div>
 </div>
-
-
-
