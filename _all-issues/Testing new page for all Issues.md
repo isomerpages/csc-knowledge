@@ -27,8 +27,9 @@ font-size: 16px;
 
 	
 .grid-item img {
+
 	width: 80%;
-	
+	 justify-self: end;
 	}	
 	
 @media (max-width: 600px) {
