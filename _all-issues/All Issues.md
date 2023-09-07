@@ -44,9 +44,12 @@ font-size: 16px;
 	
 
 </style>
-
+<!-- Use h3 tags to mark the year. -->
 
 <h3>2023</h3>
+
+<!-- Each div class grid container must contain 2 div class grid items. Refer to Isomer guide for HTML/CSS templates.-->
+
 
 
 <div class="grid-container">
