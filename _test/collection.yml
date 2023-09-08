@@ -1,6 +1,0 @@
-collections:
-  test:
-    output: true
-    order:
-      - "Sustainable Urban Development: Espoo, Finland.md"
-      - Testing Modal.md
