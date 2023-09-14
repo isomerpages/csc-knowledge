@@ -53,6 +53,7 @@ li {
 .red-color {
 	color: red;
 	}	
+
 	
 .green-color {
 	color: green;
@@ -75,6 +76,13 @@ font-family: Georgia;
 	font-style: italic;
 	font-weight: bold;
 }
+	
+table
+{
+border: 1px solid black;
+}	
+
+	
 </style>
 
 
@@ -104,11 +112,13 @@ font-family: Georgia;
 
 
 <table>
-  <tbody><tr>
-		<td>More Office, Less Work from Home</td>
-		<td>More Work from Home, Less Office</td>
+  <tbody>
+		<tr>
+		<th>More Office, Less Work from Home</th>
+		<th>More Work from Home, Less Office</th>
   </tr>
-  <tr>
+ 
+<tr>
     <td>
       <p>A recent <a href="wfhresearch.com/wp-content/uploads/2023/06/GSWA-2023.pdf"> global survey of working arrangements</a> observed that employers generally want more office time.<sup>4</sup></p>
       <p class="red-color">The benefits of working in an office, as cited by employees, include socializing and collaborating in person with co-workers.</p>
@@ -118,16 +128,19 @@ font-family: Georgia;
       <p class="green-color">Employee cited WFH benefits such as savings in commuting time and flexibility in managing work-life balance.</p>
     </td>
   </tr>
+
   <tr>
     <td>
       <p>Some <a href="https://www.economist.com/business/2023/07/10/the-fight-over-working-from-home-goes-global">studies cited in the Economist</a> have claimed negative effects from WFH, such as reductions in productivity and isolation from professional networks.<sup>5</sup></p>
       <p class="red-color">A study in India citing an 18% drop in productivity for those working at home, and another study citing a 19% drop for those working at home for a big Asian IT firm.</p>
     </td>
-    <td>
+		
+   <td>
       <p>A <a href="siepr.stanford.edu/publications/working-paper/evolution-working-home">6-month experiment</a> in a firm—with coders, marketing, finance, and business employees, both recent graduate hires and more senior managers—found that the impact on individual productivity was zero or marginally positive, depending on the metric used.<sup>8</sup></p>
       <p class="green-color">Performance evaluations and promotions showed no impact, while lines-of-code written, and self-assessed productivity increased about 4%.</p>
     </td>
   </tr>
+		
   <tr>
     <td>
       <p>A <a href="https://siepr.stanford.edu/publications/working-paper/evolution-working-home">Stanford study</a> found genuine differences of opinion between employees and managers about the impact of working from home on productivity in 2022 and obtained average effects equal to +7.4% among workers and -3.5% among managers.<sup>6</sup></p>
@@ -136,6 +149,7 @@ font-family: Georgia;
       <p><a href="https://siepr.stanford.edu/publications/working-paper/evolution-working-home">Several studies of self-assessment</a> by hybrid workers from different countries have found positive results of an increase of 3% to 5% in productivity.<sup>9</sup></p>
     </td>
   </tr>
+	
 </tbody>
 </table>
 
