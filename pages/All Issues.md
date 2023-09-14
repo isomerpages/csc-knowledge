@@ -82,7 +82,7 @@ font-size: 16px;
 		<p>
 			<a target="_blank" href="/digital-issue-09/">Digital Edition Issue 9, Nov 2022</a>
 		<br>
-			<a target="_blank" href="https://go.gov.sg/digital-issue-09.pdf">Download PDF</a>
+			<a target="_blank" href="https://go.gov.sg/digital-issue-09">Download PDF</a>
 		</p>
   </div>
   <div class="grid-item">
