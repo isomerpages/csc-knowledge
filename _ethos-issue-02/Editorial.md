@@ -114,9 +114,15 @@ Urban planning is about strengthening a city’s capacity to respond to change.
 <p>We look forward to hearing from you and wish you a constructive read.</p>
 
 
-<b>Dr Alvin Pang</b><br>
-Editor-in-Chief, ETHOS
-<br>  
+<h4>Alvin Pang</h4>
+
+<p>Editor
+<br>
+<strong>ETHOS</strong>
+<br>
+<a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>
+</p>
+
 
 <p></p>
 
