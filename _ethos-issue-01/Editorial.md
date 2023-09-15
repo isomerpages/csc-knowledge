@@ -101,9 +101,15 @@ li {
 <p>We look forward to hearing from you.</p>  
   
   
-<b>Dr Alvin Pang</b><br>
-Editor-in-Chief, ETHOS
-<br>  
+<h4>Alvin Pang</h4>
+
+<p>Editor
+<br>
+<strong>ETHOS</strong>
+<br>
+<a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>
+</p>
+
   
 
 
