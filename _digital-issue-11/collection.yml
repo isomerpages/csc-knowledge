@@ -2,5 +2,6 @@ collections:
   digital-issue-11:
     output: true
     order:
+      - "Pro Tips: Mindful Prioritisation.md"
       - Editorial.md
       - "Rethinking Hybrid Work Design: Insights from Ethnography.md"
