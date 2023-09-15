@@ -2,4 +2,5 @@ collections:
   digital-issue-11:
     output: true
     order:
+      - Editorial.md
       - "Rethinking Hybrid Work Design: Insights from Ethnography.md"
