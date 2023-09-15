@@ -98,12 +98,15 @@ font-size: 16px;
 <p>Once again I wish you a constructive read, and welcome you to take advantage of additional web-exclusive resources and articles at <a target="_blank" href="https://knowledge.csc.gov.sg/ethos/">https://knowledge.csc.gov.sg/ethos/</a>.</p>
 
 
-<br>  
-  
-  
-<b>Dr Alvin Pang</b><br>
-Editor-in-Chief, ETHOS
-<br>  
+
+<h4>Alvin Pang</h4>
+
+<p>Editor
+<br>
+<strong>ETHOS</strong>
+<br>
+<a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>
+</p>
 
 
 <div class="notestop">
