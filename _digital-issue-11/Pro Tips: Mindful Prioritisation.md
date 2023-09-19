@@ -27,7 +27,7 @@ description: ""
 .grid-container 
 {
 	display: grid;
-	grid-template-columns: 40% 70%;
+	grid-template-columns: 40% 60%;
 	grid-column-gap: 3%;
 	margin-top:5%;
 }	
