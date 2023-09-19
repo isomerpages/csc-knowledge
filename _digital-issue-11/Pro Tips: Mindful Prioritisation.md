@@ -168,8 +168,21 @@ margin-top: 50px;
 </figcaption>	
 </figure>
 
-<ol>
-	<li></li>
+
+<ul>
+	<li><b>Quadrant 1: Urgent &amp; Important Tasks/Projects—Complete Immediately</b></li>
+<dt> These tasks are time-sensitive and need to be done as soon as possible: they should be tackled first. They are likely to have a palpable deadline, but may also be time-sensitive tasks like preparing to conduct a survey after a specific event.
+
+As you plan your workday or week, make sure you have assigned time to complete these tasks.</dt>
+	
+	
+	
+	
+	
+
+</ul>
+
+
 
 
 
@@ -194,4 +207,4 @@ margin-top: 50px;
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></ol>
+</div>
