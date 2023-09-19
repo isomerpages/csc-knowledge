@@ -13,6 +13,15 @@ description: ""
 	font-weight: bold;
 }
 	
+.break
+{
+   border-top: 1px solid  black;
+   border-bottom: 1px solid black;
+	 padding:20px;
+	text-align:center;
+	margin-top:50px;
+}	
+	
 .back a
 {
 	color: #9f2943;
@@ -59,13 +68,11 @@ font-size: 15px;
 line-height:22px;
 }	
 	
-.break1
+.containerbox
 {
-	font-family: Georgia;
-	font-size:20px;
-	font-style: italic;
-	font-weight: bold;
-}	
+border: 1px solid black;
+padding:20px;	
+}
 	
 </style>
 
@@ -118,8 +125,22 @@ line-height:22px;
 <p>When making resolutions, what’s needed is an actual priority: one item considered more important than the others on the list. This also applies to work: what is really _the most_ important thing? We need to be especially mindful of this when workloads increase and we find our to-do lists getting longer and longer.</p>
 
   
-	
+<h3>How to prioritise</h3>	
 
+<div class="grid-container">
+	
+<p>One tool to help prioritise tasks is the Eisenhower Box, which is featured in Stephen Covey's widely read 7 Habits of Highly Effective People. You might also know it as The Time Management Matrix, The Eisenhower Method, or The Urgent-Important Matrix.</p>
+
+<p>The idea is to focus on what will make you most effective, not just most productive.</p>
+
+<p>According to the framework, all day-to-day tasks and bigger projects fall into one of four quadrants, depending on how urgent and important they are.</p>
+
+
+<p>Urgent tasks are those which are externally driven, usually by deadlines. They require immediate attention but spending too much time on them (also known as ‘firefighting’) can lead to stress and anxiety, causing you to lose sight of the bigger picture.</p>
+
+<p>Tasks are considered important based on what matters to you personally. Such tasks contribute to your long-term goals and call for more thoughtful planning and action. As these tasks may not produce immediate results, they often tend to get neglected when your time is consumed by urgent demands.</p>	
+	
+</div>	
 
 
 <div class="author">
