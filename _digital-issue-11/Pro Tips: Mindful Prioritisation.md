@@ -24,6 +24,12 @@ description: ""
 	width:100%;
 }
 	
+,containerbox
+{
+background-color: #906d2e;	
+}
+
+	
 .author
 {
 border-bottom: 1px solid black;
@@ -39,7 +45,7 @@ border-top: 1px solid black;
 	line-height:24px;
 }
 	
-.notestop ol li
+.notes ol li
 {
 font-size: 15px;
 line-height:22px;
@@ -57,18 +63,54 @@ line-height:22px;
 <em><small>ETHOS Digital Issue, 11 Sep 2023</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/banner_prioritisation.jpg">
-</div>
+</div>	
 
+<h3>Committing to one meaningful change at a time is more effective than trying to accomplish too many things at once.</h3>
+
+
+<p>Do you start the year with a long list of resolutions, only to find yourself sticking to none of them as the weeks go by?</p>
+
+<p>Many of us start our year listing all the things we want to change or start doing. But often, this just leads to a greater chance that we will not accomplish _anything_ on the list.</p>
+
+<p>Trying to make too many big changes at once or in too many areas of our lives (e.g., work, relationships, health, etc.) is usually a recipe for failure.</p>
+
+<p>Instead, you may find it better to aim for one small concrete change and sticking to it. What is most important is to choose and commit to a change that is most aligned to your values and aspirations.</p>
+
+
+<p>Choose and commit to a change that is most aligned to your values and aspirations.</p>
+
+<div class="containerbox">
+<ul>
+	<li>Read more</li>
+<li>Eat healthy</li>
+<li>Drink more water</li>
+<li>Run every day</li>
+<li>Join a gym</li>
+<li>Spend more time with family</li>
+<li>Spend more time with friends</li>
+<li>Meditate every morning</li>
+<li>Save money</li>
+<li>Focus on professional growth</li>
+<li>Sleep early</li>
+</ul>	
+</div>	
 
 
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
 <p><b>Ashley Aw</b> is a Researcher in the Institute of Leadership and Organisation Development, Civil Service College. She is passionate about harnessing diversity (such as generational differences) in organisations and the experience of meaningful work. Her current research interests include understanding the new generation of public officers and enabling speaking up in the Public Service.</p>
-	
-	
-	
 </div>	
+
+<div class="notes">
+	<h6>NOTES</h6>	
+<ol>
+<li>Greg McKeown, _Essentialism: The Disciplined Pursuit of Less_ (Currency, 2014).</li>
+<li>Eisenhower, “Introducing the Eisenhower Matrix”, https://www.eisenhower.me/eisenhower-matrix/.</li>
+</ol>	
+	
+</div>
+
 	
 <br>
 <br>	
