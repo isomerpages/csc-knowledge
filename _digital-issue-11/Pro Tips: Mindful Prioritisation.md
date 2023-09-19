@@ -36,7 +36,7 @@ description: ""
 .grid-container 
 {
 	display: grid;
-	grid-template-columns: 40% 60%;
+	grid-template-columns: 50% 50%;
 	grid-column-gap:3%;
 	margin-top:5%;
 }	
@@ -44,7 +44,8 @@ description: ""
 .item
 {
 border: 1px solid black;	
-height:500px;
+padding:30px;
+
 }
 
 .author
@@ -128,17 +129,25 @@ padding:20px;
 <h3>How to prioritise</h3>	
 
 <div class="grid-container">
-	
+
+<div class="grid-item">
+
 <p>One tool to help prioritise tasks is the Eisenhower Box, which is featured in Stephen Covey's widely read 7 Habits of Highly Effective People. You might also know it as The Time Management Matrix, The Eisenhower Method, or The Urgent-Important Matrix.</p>
 
 <p>The idea is to focus on what will make you most effective, not just most productive.</p>
 
 <p>According to the framework, all day-to-day tasks and bigger projects fall into one of four quadrants, depending on how urgent and important they are.</p>
+	
+</div>
+	
 
+<div class="grid-item item">
 
 <p>Urgent tasks are those which are externally driven, usually by deadlines. They require immediate attention but spending too much time on them (also known as ‘firefighting’) can lead to stress and anxiety, causing you to lose sight of the bigger picture.</p>
 
 <p>Tasks are considered important based on what matters to you personally. Such tasks contribute to your long-term goals and call for more thoughtful planning and action. As these tasks may not produce immediate results, they often tend to get neglected when your time is consumed by urgent demands.</p>	
+	
+</div>	
 	
 </div>	
 
