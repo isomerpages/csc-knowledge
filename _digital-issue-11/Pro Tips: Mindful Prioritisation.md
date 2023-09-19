@@ -184,6 +184,12 @@ margin-top: 50px;
 
 <dl>Another way to manage these tasks is to outsource or automate them (i.e., delegate them to external vendors, or to machines). For instance, AI-driven software such as Otter.Ai or GovTech’s Transcribe has become an attractive option for transcription. We can spend some of our&nbsp;Quadrant 2 time to think about how to use technology to ease such routine processes, saving us time and energy in the longer run.</dl>
 
+<li><b>Not Urgent &amp; Unimportant Tasks/Projects—Delete</b></li>
+
+<dl>Tasks in this quadrant are not absolutely necessary and can usually be dropped.</dl>
+
+<dl>As researchers, we may come across a side topic in our field that piques our interest and tempts us to explore in a different direction from our original aims. We have to be mindful of how important these topics are in the larger context of our work, and whether they have a meaningful impact on our stakeholders and customers. At times, it could be beneficial to document these ideas for future reference instead of outright deleting them. This allows us to shift them to other quadrants to be scheduled again, should they become important in future.</dl>	
+
 </ul>
 
 
