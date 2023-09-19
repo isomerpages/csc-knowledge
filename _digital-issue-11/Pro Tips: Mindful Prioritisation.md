@@ -175,7 +175,8 @@ margin-top: 50px;
 
 As you plan your workday or week, make sure you have assigned time to complete these tasks.</dt>
 	
-	
+<li><b>Quadrant 2: Not Urgent &amp; Important Tasks/Projects—Schedule on Your Calendar</b></li>
+<dt>These tasks don’t demand immediate action but they do contribute to long-term goals. So it is important to include these tasks in longer-term schedules or they may end up becoming urgent and moved into the first quadrant. Tasks related to professional development and upskilling would fall into this quadrant. They are not usually immediate concerns but they do improve effectiveness and efficiency at work in the long run.</dt>	
 	
 	
 	
