@@ -82,12 +82,13 @@ table
 border: 1px solid black;
 }	
 
-	
+
 </style>
 
 <em><small>Digital Issue 11, Sept 2023</small></em>
 <img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
+<h4>  New tech tools and resource discipline can help us free up time and resources for more thoughtful public sector work: but a cultural shift is needed.</h4>
 
 
 
