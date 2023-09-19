@@ -192,8 +192,7 @@ margin-top: 50px;
 
 </ul>
 
-
-
+<p>Tools such as the Eisenhower Box can help us move past the dilemma of what to do or not do, while keeping in mind our longer-term goals. Give it a try before the next time things get crazy!</p>
 
 
 
@@ -204,7 +203,7 @@ margin-top: 50px;
 </div>	
 
 <div class="notes">
-	<h6>NOTES</h6>	
+<h6>NOTES</h6>	
 <ol>
 <li>Greg McKeown, _Essentialism: The Disciplined Pursuit of Less_ (Currency, 2014).</li>
 <li>Eisenhower, “Introducing the Eisenhower Matrix”, https://www.eisenhower.me/eisenhower-matrix/.</li>
