@@ -35,6 +35,7 @@ description: ""
 .item
 {
 border: 1px solid black;	
+height:500px;
 }
 	
 
