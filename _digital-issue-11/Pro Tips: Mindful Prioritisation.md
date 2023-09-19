@@ -36,7 +36,7 @@ description: ""
 .grid-container 
 {
 	display: grid;
-	grid-template-columns: 50% 50%;
+	grid-template-columns: 40% 60%;
 	grid-column-gap:3%;
 	margin-top:5%;
 }	
@@ -170,16 +170,19 @@ margin-top: 50px;
 
 
 <ul>
-	<li><b>Quadrant 1: Urgent &amp; Important Tasks/Projects—Complete Immediately</b></li>
-<dt> These tasks are time-sensitive and need to be done as soon as possible: they should be tackled first. They are likely to have a palpable deadline, but may also be time-sensitive tasks like preparing to conduct a survey after a specific event.
+<li><b>Quadrant 1: Urgent &amp; Important Tasks/Projects—Complete Immediately</b></li>
+<dl> These tasks are time-sensitive and need to be done as soon as possible: they should be tackled first. They are likely to have a palpable deadline, but may also be time-sensitive tasks like preparing to conduct a survey after a specific event.</dl>
 
-As you plan your workday or week, make sure you have assigned time to complete these tasks.</dt>
+<dl>As you plan your workday or week, make sure you have assigned time to complete these tasks.</dl>
 	
 <li><b>Quadrant 2: Not Urgent &amp; Important Tasks/Projects—Schedule on Your Calendar</b></li>
-<dt>These tasks don’t demand immediate action but they do contribute to long-term goals. So it is important to include these tasks in longer-term schedules or they may end up becoming urgent and moved into the first quadrant. Tasks related to professional development and upskilling would fall into this quadrant. They are not usually immediate concerns but they do improve effectiveness and efficiency at work in the long run.</dt>	
+<dl>These tasks don’t demand immediate action but they do contribute to long-term goals. So it is important to include these tasks in longer-term schedules or they may end up becoming urgent and moved into the first quadrant. Tasks related to professional development and upskilling would fall into this quadrant. They are not usually immediate concerns but they do improve effectiveness and efficiency at work in the long run.</dl>	
 	
-	
-	
+<li><b>Quadrant 3: Urgent &amp; Unimportant Tasks/Projects—Delegate to Someone Else</b></li>
+
+<dl>Tasks in this quadrant are time-sensitive but not super important. Such tasks often prevent those in quadrant 1 or 2 from being completed. They could be essential but routine administrative tasks that do not require our specific skillsets. In research work, these could include tasks like transcribing interviews, sending email invites to event participants, or data cleaning. Such tasks are best delegated, although being in a small work team can make this challenging, especially if everyone has their share of such tasks to complete.</dl>
+
+<dl>Another way to manage these tasks is to outsource or automate them (i.e., delegate them to external vendors, or to machines). For instance, AI-driven software such as Otter.Ai or GovTech’s Transcribe has become an attractive option for transcription. We can spend some of our&nbsp;Quadrant 2 time to think about how to use technology to ease such routine processes, saving us time and energy in the longer run.</dl>
 
 </ul>
 
