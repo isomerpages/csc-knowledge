@@ -170,6 +170,3 @@ It is one thing to encourage public agencies to be more purposeful and innovativ
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
-
-
