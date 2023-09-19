@@ -24,10 +24,19 @@ description: ""
 	width:100%;
 }
 	
-,containerbox
+.grid-container 
 {
-background-color: #906d2e;	
+	display: grid;
+	grid-template-columns: 40% 70%;
+	grid-column-gap: 3%;
+	margin-top:5%;
+}	
+	
+.item
+{
+border: 1px solid black;	
 }
+	
 
 	
 .author
@@ -60,6 +69,8 @@ line-height:22px;
 }	
 	
 </style>
+
+
 <em><small>ETHOS Digital Issue, 11 Sep 2023</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/banner_prioritisation.jpg">
@@ -67,19 +78,9 @@ line-height:22px;
 
 <h3>Committing to one meaningful change at a time is more effective than trying to accomplish too many things at once.</h3>
 
+<div class="grid-container">
 
-<p>Do you start the year with a long list of resolutions, only to find yourself sticking to none of them as the weeks go by?</p>
-
-<p>Many of us start our year listing all the things we want to change or start doing. But often, this just leads to a greater chance that we will not accomplish _anything_ on the list.</p>
-
-<p>Trying to make too many big changes at once or in too many areas of our lives (e.g., work, relationships, health, etc.) is usually a recipe for failure.</p>
-
-<p>Instead, you may find it better to aim for one small concrete change and sticking to it. What is most important is to choose and commit to a change that is most aligned to your values and aspirations.</p>
-
-
-<p>Choose and commit to a change that is most aligned to your values and aspirations.</p>
-
-<div class="containerbox">
+<div class="grid-item item">
 <ul>
 	<li>Read more</li>
 <li>Eat healthy</li>
@@ -94,7 +95,20 @@ line-height:22px;
 <li>Sleep early</li>
 </ul>	
 </div>	
+	
+<div class="grid-item">
+<p>Do you start the year with a long list of resolutions, only to find yourself sticking to none of them as the weeks go by?</p>
 
+<p>Many of us start our year listing all the things we want to change or start doing. But often, this just leads to a greater chance that we will not accomplish _anything_ on the list.</p>
+
+<p>Trying to make too many big changes at once or in too many areas of our lives (e.g., work, relationships, health, etc.) is usually a recipe for failure.</p>
+
+<p>Instead, you may find it better to aim for one small concrete change and sticking to it. What is most important is to choose and commit to a change that is most aligned to your values and aspirations.</p>
+	
+<p>Choose and commit to a change that is most aligned to your values and aspirations.</p>
+</div>
+
+</div>
 
 
 <div class="author">
