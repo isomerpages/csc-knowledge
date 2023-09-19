@@ -28,7 +28,7 @@ description: ""
 {
 	display: grid;
 	grid-template-columns: 40% 60%;
-	grid-column-gap: 3%;
+	grid-column-gap:3%;
 	margin-top:5%;
 }	
 	
@@ -37,9 +37,7 @@ description: ""
 border: 1px solid black;	
 height:500px;
 }
-	
 
-	
 .author
 {
 border-bottom: 1px solid black;
