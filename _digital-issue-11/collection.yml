@@ -2,7 +2,7 @@ collections:
   digital-issue-11:
     output: true
     order:
-      - Sharpening the Public Service.md
       - Editorial.md
+      - Sharpening the Public Service.md
       - "Pro Tips: Mindful Prioritisation.md"
       - "Rethinking Hybrid Work Design: Insights from Ethnography.md"
