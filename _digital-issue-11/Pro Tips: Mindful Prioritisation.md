@@ -160,7 +160,7 @@ margin-top: 50px;
 
 <figure class="quadrant">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_11/eisenhower%20box.png">
-<figcaption><b>Figure 1.</b>Eisenhower Box
+<figcaption><b>Figure 1.</b> Eisenhower Box
 <br>	
 	<small>Source: Eisenhower</small>	
 	
@@ -199,7 +199,7 @@ margin-top: 50px;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<p><b>Ashley Aw</b> is a Researcher in the Institute of Leadership and Organisation Development, Civil Service College. She is passionate about harnessing diversity (such as generational differences) in organisations and the experience of meaningful work. Her current research interests include understanding the new generation of public officers and enabling speaking up in the Public Service.</p>
+<p><b>Ashley Aw</b> was  Researcher in the Institute of Leadership and Organisation Development, Civil Service College. She is passionate about harnessing diversity (such as generational differences) in organisations and the experience of meaningful work. Her current research interests include understanding the new generation of public officers and enabling speaking up in the Public Service.</p>
 </div>	
 
 <div class="notes">
