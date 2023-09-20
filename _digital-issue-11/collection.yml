@@ -2,6 +2,7 @@ collections:
   digital-issue-11:
     output: true
     order:
+      - The tension of prioritising my work.md
       - Editorial.md
       - Sharpening the Public Service.md
       - "Pro Tip: Mindfulness in Prioritisation.md"
