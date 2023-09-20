@@ -90,6 +90,8 @@ border: 1px solid black;
 
 <h4>How can we balance the need to refocus work efforts while committing to and persevering on long-term work goals?</h4>
 
+<h3></h3>
+
 
 <p>A perennial challenge governments face is that they grow bloated and more complex over time. With more complexity comes more organisational layers and bureaucracy. Part of this growth comes from governments having to address new needs that they have not been organised for in the past. An example of this is public engagement, which has become much more important in recent years, and—because of the cadence of social media—places more demands on every agency in the Public Service, even on weekends.</p>
 
