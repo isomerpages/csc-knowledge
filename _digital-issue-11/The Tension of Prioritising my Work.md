@@ -86,7 +86,7 @@ border: 1px solid black;
 </style>
 
 <em><small>Digital Issue 11, Sept 2023</small></em>
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_11/banner_addressing%20tensions%20in%20prioritising%20work.jpg">
 
 <h4>How can we balance the need to refocus work efforts while committing to and persevering on long-term work goals?</h4>
 
