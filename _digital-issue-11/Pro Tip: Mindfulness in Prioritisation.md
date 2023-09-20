@@ -43,7 +43,7 @@ description: ""
 	
 .item
 {
-border: 1px solid black;	
+background-color: #f2f2f2;
 padding:30px;
 
 }
