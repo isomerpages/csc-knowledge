@@ -98,6 +98,13 @@ ol li
 font-weight:bold;	
 }
 	
+.notes ol li
+{
+font-size: 15px;
+line-height:22px;
+font-weight: normal;
+}		
+	
 
 </style>
 
@@ -163,6 +170,7 @@ font-weight:bold;
 <p>One of the ways we can deal with work anxieties is to reframe them as more helpful thoughts. There are three steps to this:</p>
 
 
+
 <ol>
 	<li>Notice the thought </li>
 	<dl>Take note of the thoughts that cause you to feel discouraged.</dl>
@@ -174,6 +182,8 @@ font-weight:bold;
 <dl>What are some ways to think about the situation that is also true, but more helpful?</dl>
 	
 </ol>
+	
+
 
 
 <p>Here are some examples of how negative thoughts might be reframed:</p>
@@ -229,10 +239,23 @@ font-weight:bold;
 
 
 <div class="author">
-	<h6>About the Authors</h6>
+	<h6>ABOUT THE AUTHOR</h6>
 	<p><b>Amos Law</b> is Senior Researcher in the Institute of Leadership and Organisation Development, Civil Service College. His applied research helps to build organisations that can thrive in the future of work, and his current work delves into the areas of leadership and employee engagement, team wellbeing, and understanding a new generation of public officers.</p>
 
 </div>
+
+
+<div class="notes">
+<h6>NOTES</h6>	
+<ol>
+<li>My colleague Aurora Watters, has written an article about the emotional dimension letting go of work, which can be found here.</li>
+</ol>	
+	
+</div>
+
+
+
+
 
 
 <br>
