@@ -199,19 +199,21 @@ font-weight:bold;
 </tr>
 		
 <tr>
-    <td><em>“Having projects that get deprioritised means that I was working on unimportant projects.” </em></td>
-    <td><em>“Do only unimportant projects get deprioritised?” </em></td>
-    <td><em>“Having a deprioritised project does not mean it is unimportant, it could just mean that the other project is more time-sensitive.” </em></td>
+    <td><em>“Shifting the focus of my efforts halfway through demonstrates a lack of perseverance and commitment.” </em></td>
+    <td><em>“Is it possible to persevere on the wrong projects? What will be the ensuing negative outcome in that case?” </em></td>
+    <td><em>“Shifting the focus of my efforts halfway through shows that I am flexible and willing to change my goals and objectives to adapt to the circumstances.”</em></td>
+	</tr>
+	
+<tr>
+    <td><em>“If I had planned well, deprioritising any of my projects would not be necessary. Does this imply that I did not plan well at the start?” </em></td>
+    <td><em>“Does prioritising need to happen only because of poor planning? What are some other factors that create the need for prioritising?"</em></td>
+    <td><em>“It is not possible to predict all the contextual shifts that can occur once the project starts. In fact, a good plan would have factored in the possibility of exiting the project at the different review points.” </em></td>
   </tr>
-	  <tr>
-    <td><em>“Having projects that get deprioritised means that I was working on unimportant projects.” </em></td>
-    <td><em>“Do only unimportant projects get deprioritised?” </em></td>
-    <td><em>“Having a deprioritised project does not mean it is unimportant, it could just mean that the other project is more time-sensitive.” </em></td>
-  </tr>
-	  <tr>
-    <td><em>“Having projects that get deprioritised means that I was working on unimportant projects.” </em></td>
-    <td><em>“Do only unimportant projects get deprioritised?” </em></td>
-    <td><em>“Having a deprioritised project does not mean it is unimportant, it could just mean that the other project is more time-sensitive.” </em></td>
+	 
+<tr>
+    <td><em>“Stopping the project after so much effort had been invested is a waste of resources! Am I managing resources as best as I can?”</em></td>
+    <td><em>“If I continue to pour resources into the project and complete it, will it benefit my team or my organisation?”</em></td>
+    <td><em>“Stopping the project may be the best way to ensure that resources are used optimally. If the project carries on when it is no longer relevant to stakeholders or my unit’s mandate, it is an even greater waste of resources.” </em></td>
   </tr>	
   
 </tbody>
