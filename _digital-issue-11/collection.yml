@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Editorial.md
-      - Sharpening the Public Service.md
+      - "Opinion: Sharpening the Public Service.md"
       - "Pro Tip: Mindfulness in Prioritisation.md"
       - The Tension of Prioritising my Work.md
       - "Rethinking Hybrid Work Design: Insights from Ethnography.md"
