@@ -55,7 +55,8 @@ td, th {
 	
 	}	
 
-li,dl {
+li,dl
+{
 	font-size: 15px !important;
 	
 	}	
@@ -93,7 +94,7 @@ table
 border: 1px solid black;
 }	
 
-ol li
+.steps ol li
 {
 font-weight:bold;	
 }
@@ -102,7 +103,6 @@ font-weight:bold;
 {
 font-size: 15px;
 line-height:22px;
-font-weight: normal;
 }		
 	
 
@@ -169,7 +169,7 @@ font-weight: normal;
 
 <p>One of the ways we can deal with work anxieties is to reframe them as more helpful thoughts. There are three steps to this:</p>
 
-
+<div class="steps">
 
 <ol>
 	<li>Notice the thought </li>
@@ -183,7 +183,7 @@ font-weight: normal;
 	
 </ol>
 	
-
+</div>
 
 
 <p>Here are some examples of how negative thoughts might be reframed:</p>
