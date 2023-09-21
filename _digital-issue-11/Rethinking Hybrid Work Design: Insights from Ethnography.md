@@ -88,7 +88,7 @@ border: 1px solid black;
 
 
 <em><small>Digital Issue 11, Oct 2023</small></em>
-<img src="[Place Banner Image here]">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_11/banner_rethinking%20hybrid%20work%20designs.jpg">
 
 <h3>Rethinking Hybrid Work Design: Insights from Ethnography</h3>
 
