@@ -35,7 +35,7 @@ padding-bottom:30px;
 }		
 	 
 </style>
-<em><small>ETHOS Digital Issue 11, Sep 2023</small></em>
+<em><small>ETHOS Digital Issue 11, Oct 2023</small></em>
 <div class="background-image">
 <img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 </div>
