@@ -30,6 +30,17 @@ border-top: 1px solid black;
 	line-height:24px !important;
 	}	
 
+table
+{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 
 
 .boxheader {
@@ -44,7 +55,7 @@ border-top: 1px solid black;
 	
 	}	
 
-li {
+li,dl {
 	font-size: 15px !important;
 	
 	}	
@@ -82,6 +93,11 @@ table
 border: 1px solid black;
 }	
 
+ol li
+{
+font-weight:bold;	
+}
+	
 
 </style>
 
@@ -147,6 +163,41 @@ border: 1px solid black;
 <p>One of the ways we can deal with work anxieties is to reframe them as more helpful thoughts. There are three steps to this:</p>
 
 
+<ol>
+	<li>Notice the thought </li>
+	<dl>Take note of the thoughts that cause you to feel discouraged.</dl>
+	
+<li>Question/challenge the thought </li>
+<dl>What are the assumptions underlying the thought? Are they reasonable? Think of evidence that disproves some of the negative assumptions— these could come from past experiences, or from observing your colleagues.</dl>
+	
+<li>Reframe the thought </li>
+<dl>What are some ways to think about the situation that is also true, but more helpful?</dl>
+	
+</ol>
+
+
+<p>Here are some examples of how negative thoughts might be reframed:</p>
+
+<table>
+  <tbody><tr>
+    <th>Original negative thought </th>
+    <th>Questioning</th>
+    <th>Reframing</th>
+  </tr>
+  <tr>
+    <td><em>“Deprioritising my projects will cast doubt on my capabilities to follow through on projects.”</em></td>
+    <td><em>“Sarah had projects that were deprioritised, but her supervisor still thinks highly of her capabilities!” </em></td>
+    <td><em>“There are other projects that I have worked on that equally demonstrate my capabilities.” </em></td>
+  </tr>
+  <tr>
+    <td><em>“Having projects that get deprioritised means that I was working on unimportant projects.” </em></td>
+    <td><em>“Do only unimportant projects get deprioritised?” </em></td>
+    <td><em>“Having a deprioritised project does not mean it is unimportant, it could just mean that the other project is more time-sensitive.” </em></td>
+  </tr>
+  
+</tbody></table>
+
+	
 
 
 
@@ -156,7 +207,9 @@ border: 1px solid black;
 
 
 
-<p>We in government tend to prefer to change our operations to suit our policies, rather than changing the policies themselves to make operations simpler. There are many good reasons why we may not want to change a policy too readily. But in many cases, the policies can be unnecessarily rigid or specific.&nbsp; Over time, this can lead to tremendous inefficiency in operations.</p>
+
+
+
 
 <p>An example of this is the way we deal with security. We develop a complex set of rules for everyone to follow, and then we create a whole industry to check for compliance. It becomes easier to do an audit rather than to trust the employee. But there are now better ways to ensure security if we adopted a policy of trust, such as with deliberate penetration testing, for example. Tech companies automate a lot of their processes, even using systems to check code for vulnerabilities by default.</p>
 
