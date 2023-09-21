@@ -125,11 +125,11 @@ margin-top: 50px;
 
 <h3>What Prioritising Really Means</h3>
 
-<p>The word _priority_ is derived from the Old French _priorite_, meaning "state of being earlier (than something else), prior occurrence or existence", and the Latin _prioritas_, meaning “first in rank, order, or dignity”. There can only be one first thing—one priority. As Greg McKeown explains in his book _Essentialism,_ the illogical notion that we can have multiple priorities, or more than one ‘first thing’, came about only relatively recently. When many things are given priority, in fact nothing is.</p>
+<p>The word _priority_ is derived from the Old French <em>priorite</em>, meaning "state of being earlier (than something else), prior occurrence or existence", and the Latin <em>prioritas</em>, meaning “first in rank, order, or dignity”. There can only be one first thing—one priority. As Greg McKeown explains in his book <em>Essentialism,</em> the illogical notion that we can have multiple priorities, or more than one ‘first thing’, came about only relatively recently. When many things are given priority, in fact nothing is.</p>
 
 <p>It would be like highlighting all the text in a textbook: which would defeat the purpose of highlighting anything at all.</p>
 
-<p>When making resolutions, what’s needed is an actual priority: one item considered more important than the others on the list. This also applies to work: what is really _the most_ important thing? We need to be especially mindful of this when workloads increase and we find our to-do lists getting longer and longer.</p>
+<p>When making resolutions, what’s needed is an actual priority: one item considered more important than the others on the list. This also applies to work: what is really <em>the most</em> important thing? We need to be especially mindful of this when workloads increase and we find our to-do lists getting longer and longer.</p>
 
   
 <h3>How to prioritise</h3>	
@@ -205,7 +205,7 @@ margin-top: 50px;
 <div class="notes">
 <h6>NOTES</h6>	
 <ol>
-<li>Greg McKeown, _Essentialism: The Disciplined Pursuit of Less_ (Currency, 2014).</li>
+<li>Greg McKeown, Essentialism: The Disciplined Pursuit of Less_ (Currency, 2014).</li>
 <li>Eisenhower, “Introducing the Eisenhower Matrix”, https://www.eisenhower.me/eisenhower-matrix/.</li>
 </ol>	
 	
