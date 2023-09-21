@@ -179,21 +179,40 @@ font-weight:bold;
 <p>Here are some examples of how negative thoughts might be reframed:</p>
 
 <table>
-  <tbody><tr>
-    <th>Original negative thought </th>
+  <tbody>
+		<tr>
+    <th>Original negative thought</th>
     <th>Questioning</th>
     <th>Reframing</th>
   </tr>
-  <tr>
+ 
+<tr>
     <td><em>“Deprioritising my projects will cast doubt on my capabilities to follow through on projects.”</em></td>
     <td><em>“Sarah had projects that were deprioritised, but her supervisor still thinks highly of her capabilities!” </em></td>
     <td><em>“There are other projects that I have worked on that equally demonstrate my capabilities.” </em></td>
   </tr>
-  <tr>
+	
+<tr>
+    <td><em>“Having projects that get deprioritised means that I was working on unimportant projects.” </em></td>
+    <td><em>“Do only unimportant projects get deprioritised?” </em></td>
+    <td><em>“Having a deprioritised project does not mean it is unimportant, it could just mean that the other project is more time-sensitive.” </em></td>
+</tr>
+		
+<tr>
     <td><em>“Having projects that get deprioritised means that I was working on unimportant projects.” </em></td>
     <td><em>“Do only unimportant projects get deprioritised?” </em></td>
     <td><em>“Having a deprioritised project does not mean it is unimportant, it could just mean that the other project is more time-sensitive.” </em></td>
   </tr>
+	  <tr>
+    <td><em>“Having projects that get deprioritised means that I was working on unimportant projects.” </em></td>
+    <td><em>“Do only unimportant projects get deprioritised?” </em></td>
+    <td><em>“Having a deprioritised project does not mean it is unimportant, it could just mean that the other project is more time-sensitive.” </em></td>
+  </tr>
+	  <tr>
+    <td><em>“Having projects that get deprioritised means that I was working on unimportant projects.” </em></td>
+    <td><em>“Do only unimportant projects get deprioritised?” </em></td>
+    <td><em>“Having a deprioritised project does not mean it is unimportant, it could just mean that the other project is more time-sensitive.” </em></td>
+  </tr>	
   
 </tbody>
 </table>
