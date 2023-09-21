@@ -95,7 +95,7 @@ margin-top: 50px;
 
 <div class="grid-item item">
 <ul>
-	<li>Read more</li>
+<li>Read more</li>
 <li>Eat healthy</li>
 <li>Drink more water</li>
 <li>Run every day</li>
@@ -112,7 +112,7 @@ margin-top: 50px;
 <div class="grid-item">
 <p>Do you start the year with a long list of resolutions, only to find yourself sticking to none of them as the weeks go by?</p>
 
-<p>Many of us start our year listing all the things we want to change or start doing. But often, this just leads to a greater chance that we will not accomplish _anything_ on the list.</p>
+<p>Many of us start our year listing all the things we want to change or start doing. But often, this just leads to a greater chance that we will not accomplish <em>anything</em> on the list.</p>
 
 <p>Trying to make too many big changes at once or in too many areas of our lives (e.g., work, relationships, health, etc.) is usually a recipe for failure.</p>
 
@@ -170,7 +170,9 @@ margin-top: 50px;
 
 
 <ul>
+	
 <li><b>Quadrant 1: Urgent &amp; Important Tasks/Projects—Complete Immediately</b></li>
+
 <dl> These tasks are time-sensitive and need to be done as soon as possible: they should be tackled first. They are likely to have a palpable deadline, but may also be time-sensitive tasks like preparing to conduct a survey after a specific event.</dl>
 
 <dl>As you plan your workday or week, make sure you have assigned time to complete these tasks.</dl>
