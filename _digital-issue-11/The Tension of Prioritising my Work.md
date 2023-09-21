@@ -111,10 +111,14 @@ border: 1px solid black;
 <p><em>“Stopping the project after so much effort had been invested is a waste of resources! Am I managing resources as best as I can?”</em></p>
 
 
+<p>For instance, important projects might be halted for many reasons, that have nothing to do with my capabilities, due to factors well outside my control. Had these negative thoughts taken hold, they might have affected attempts to prioritise my workstreams, leading me to sustain efforts that may already be irrelevant at the cost of new, more promising initiatives, or to my overall performance and wellbeing.</p>
+
+<p>Similarly, if supervisors or leaders believe that having to choose between workstreams shows poor planning or incompetence, they may push to deliver on new initiatives while striving to complete past projects. Collectively, this could cascade to hinder whole-of-government (WOG) moves to shift national priorities, as agencies continue to invest resources in outdated projects due to legacy or sunk costs.</p>
 
 
 
-<h3>The challenge of resource discipline</h3>
+
+<h3>Contending with Tension</h3>
 
 <p>One way of thinking about this issue could come from looking outside the public sector, to the tech sector. Both sectors tend to go on a hiring spree when a crisis takes place and there are suddenly new things to be done. Over the past year, there has been news about how the Big Tech giants have been laying off thousands of staff. It is worth noting that despite this shedding, their tech products are still working as usual. The truth is that the big tech companies dramatically overhired during the pandemic—which was also a period of uplift for them. They built up a lot of fat in the system which now they are taking the opportunity to shed, while their competitors are all doing so.</p>
 
