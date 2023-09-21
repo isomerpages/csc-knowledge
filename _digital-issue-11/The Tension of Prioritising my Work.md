@@ -116,23 +116,45 @@ border: 1px solid black;
 <p>Similarly, if supervisors or leaders believe that having to choose between workstreams shows poor planning or incompetence, they may push to deliver on new initiatives while striving to complete past projects. Collectively, this could cascade to hinder whole-of-government (WOG) moves to shift national priorities, as agencies continue to invest resources in outdated projects due to legacy or sunk costs.</p>
 
 
-
-
 <h3>Contending with Tension</h3>
 
-<p>One way of thinking about this issue could come from looking outside the public sector, to the tech sector. Both sectors tend to go on a hiring spree when a crisis takes place and there are suddenly new things to be done. Over the past year, there has been news about how the Big Tech giants have been laying off thousands of staff. It is worth noting that despite this shedding, their tech products are still working as usual. The truth is that the big tech companies dramatically overhired during the pandemic—which was also a period of uplift for them. They built up a lot of fat in the system which now they are taking the opportunity to shed, while their competitors are all doing so.</p>
+<p>The truth is that, given our increasingly dynamic context, it has become nearly impossible to anticipate when the best laid plans may have to be set aside. For example, a project’s scope could have grown larger than anticipated as stakeholders’ interests grew. New and more urgent tasks may have arisen, or unforeseen disruptions (such as a global pandemic) may upend our lives and work.</p>
+
+<p>We must contend with the tension&nbsp;between knowing when we ought to remain committed and persevere on projects and realising it is time to reprioritise.</p>
+
+<p>This may be easier said than done. We may have to manage the expectations of stakeholders—including ourselves and our teams—when letting go of projects that have been invested with much time and effort, and to which we have become attached.</p>
+
+<p>To overcome such personal barriers to reprioritising our work, we might adopt these three approaches: <b>Reflect</b>, <b>Review</b>, and <b>Reframe.</b></p>
 
 
-<p>One exception to this trend has been Apple, which has not laid off as many people but also did not overhire during the pandemic, even though demand was high. They remained steady in aligning with their priorities and continue to do so. Apple has impressive discipline, both in terms of their hiring but also in managing their attrition. Some of their teams are very small, including key design teams, and those handling their supply chain management. I am told only two or three people manage Apple’s entire supply chain, but these figures have over 20 years of experience. Clearly, they are competent, well compensated, and know the market really well. But it is not only a matter of their talent and experience. It is also because Apple has strong relationships with their supply chain ecosystem. What they have done over time is to streamline and simplify their supply chain and also helped build up the capacity of their manufacturing partners.</p>
+<p style="color:#2E5396;font-weight:bold"><b><u>Reflect:</u></b> Take a step back and consider the overall purpose of the team, and where your work fits in</p>
 
-<p>Might this have parallels with what we do in the Public Service? It may be that we will need to move towards a more top-heavy&nbsp;approach, counting on a smaller pool of more specialist expertise and experience, rather than the traditional, bottom-heavy pyramid approach of organising the public sector.</p>
+<p>We can be more intentional and systematic in thinking about how best to achieve our organisational priorities while making the most of available resources.</p>
 
-<p>This not just a simple matter of rethinking our organisation structure and getting experienced people to fill in the blanks. Instead, we should look at our entire value chain and figure out which parts we can simplify, and which parts to automate, so people can function more effectively. With the tools now available, we can streamline many processes to require far less grunt work, which traditionally takes up a lot of time and manpower. We can already use AI tools to transcribe meetings. We can use Chat-GPT to summarise notes. We could have different ways of working so that we do not need so many meetings—which right now in the Public Service can involve dozens or hundreds of people.</p>
-
-<p>As an organisation, Singapore’s military has had to rethink their fundamental way of doing things, because it is an existential problem for them. In the past, armed forces were a brute force game. But given our manpower constraints, they have had to make do with smaller sections and teams. It requires thinking about new weapons, new tactics, and more coordination and complementarity across the different forces, such as through combined arms. Because the armed forces have a singular goal, which is defence, it is able to align everyone to this priority, and innovate towards it. How might we translate this thinking to the public sector?</p>
+<p>To support this thinking, colleagues in the Institute of Leadership and Organisation Development in the Civil Service College have developed a S.C.A.L.E. framework, based on data and insights gleaned through their work on organisational transformation with various public agencies. (Read: how to prioritise using the S.C.A.L.E. framework).</p>
 
 
-<h3>Enabling productivity by changing the rules</h3>
+<p>“S” in the S.C.A.L.E. framework stands for “Strategy”. Being clear about the strategic purpose of our work unit is key to resolving the tension of prioritisation. We each need to go back to what our core purpose and mandate are, and appreciate the unique value that our unit brings. We need to ask ourselves: what is it that our unit can (and should) do, that others cannot?  A team might also ask itself how its work contributes to the whole: where does it fit in? Answering these questions can help a team achieve better clarity of purpose, making it easier to determine whether a given piece of work is essential to achieving its mandate.</p>
+
+
+<p style="color:#2E5396;font-weight:bold"><b><u>Review</u></b> each project’s relevance regularly </p>
+
+<p>Most projects are reviewed at regular intervals. At each of these reviews, make it a point to consider whether the project is meeting stakeholders’ needs, and whether it is still relevant to the current context, which may be starkly different from when the project was conceived. The scope of the project could then be modified to adapt to new circumstances, or even deprioritised altogether, in a timelier manner. </p>
+
+
+<p style="color:#2E5396;font-weight:bold"><b><u>Reframe</u></b> negative thoughts.</p>
+
+<p>One of the ways we can deal with work anxieties is to reframe them as more helpful thoughts. There are three steps to this:</p>
+
+
+
+
+
+
+
+
+
+
 
 <p>We in government tend to prefer to change our operations to suit our policies, rather than changing the policies themselves to make operations simpler. There are many good reasons why we may not want to change a policy too readily. But in many cases, the policies can be unnecessarily rigid or specific.&nbsp; Over time, this can lead to tremendous inefficiency in operations.</p>
 
