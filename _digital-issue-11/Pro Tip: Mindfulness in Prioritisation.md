@@ -84,7 +84,7 @@ margin-top: 50px;
 </style>
 
 
-<em><small>ETHOS Digital Issue 11, OCT 2023</small></em>
+<em><small>ETHOS Digital Issue 11, Oct 2023</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_11/banner_mindful%20prioritisation.jpg">
 </div>	
