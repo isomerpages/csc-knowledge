@@ -90,16 +90,28 @@ border: 1px solid black;
 
 <h4>How can we balance the need to refocus work efforts while committing to and persevering on long-term work goals?</h4>
 
-<h3></h3>
+<h3>The Overthinking Trap</h3>
 
 
-<p>A perennial challenge governments face is that they grow bloated and more complex over time. With more complexity comes more organisational layers and bureaucracy. Part of this growth comes from governments having to address new needs that they have not been organised for in the past. An example of this is public engagement, which has become much more important in recent years, and—because of the cadence of social media—places more demands on every agency in the Public Service, even on weekends.</p>
+<p>In preparing for my year-end Appraisal and Development Plan discussion with my supervisor, I felt apprehensive as I reflected on how I had refocused my efforts away from certain workstreams that I had planned at the start of the year. My supervisor knows about these changes from our frequent check-ins and understood the need for me to reprioritise to stay productive. Yet, having to broach this topic during the discussion was unnerving. Negative thoughts ran through my head:</p>
 
-<p>The public sector has also to deal with issues that have become much more cross-boundary in nature, even as our public agencies are still structured according to prior paradigms. For instance, economics used to be an imperative in itself for governments. Now, economic thinking must take into account other considerations such as sustainability issues, societal concerns, and security issues as well. All this means there are many more trade-offs to be made for any decision. This leads to a greater need to coordinate across conventional Ministry lines, each of which have their own reporting structures and specialised needs.</p>
 
-<p>Organisational bloat renders it increasingly difficult to make good, thoughtful and timely decisions. It also increases the distance between policy and operations: it becomes harder for those in operations to feed back useful changes to those making policies, and for policymakers to understand frontline work, worsening the implementation gap.</p>
+<p><em>“Deprioritising my projects will cast doubt on my capabilities to follow through on projects.”</em></p>
 
-<p>How we have organised ourselves in the past is no longer fit for the future, or even the present. We need to consolidate and reconsider the way we do things.</p>
+
+<p><em>"Having projects that get deprioritised means that I was working on unimportant projects.”</em></p>
+
+
+<p><em>“Shifting the focus of my efforts halfway through demonstrates a lack of perseverance and commitment.”</em></p>
+
+
+<p><em>“If I had planned well, deprioritising any of my projects would not be necessary. Does this imply that I did not plan well at the start?”</em></p>
+
+
+<p><em>“Stopping the project after so much effort had been invested is a waste of resources! Am I managing resources as best as I can?”</em></p>
+
+
+
 
 
 <h3>The challenge of resource discipline</h3>
