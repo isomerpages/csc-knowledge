@@ -195,7 +195,8 @@ font-weight:bold;
     <td><em>“Having a deprioritised project does not mean it is unimportant, it could just mean that the other project is more time-sensitive.” </em></td>
   </tr>
   
-</tbody></table>
+</tbody>
+</table>
 
 	
 
