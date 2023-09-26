@@ -53,7 +53,18 @@ font-size: 16px;
 
 
 <div class="grid-container">
-    <div class="grid-item">
+	
+<div class="grid-item">
+        <img src="/images/Ethos_Images/Ethos_Digital_Issue_11/ethosdigital_oct23_cover.jpg">
+        <p>
+            <a target="_blank" href="/digital-issue-10/">Digital Edition Issue 11, <br>Oct 2023</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a>
+        </p>
+    </div>
+	
+	
+  <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosissue25.jpg">
         <p>
             <a target="_blank" href="/ethos/">Issue 25, April 2023<br>Prioritising Purpose</a>
@@ -61,6 +72,11 @@ font-size: 16px;
             <a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a>
         </p>
     </div>
+   
+</div>
+
+
+<div class="grid-container">
     <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital10.jpg">
         <p>
@@ -69,6 +85,10 @@ font-size: 16px;
             <a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a>
         </p>
     </div>
+	
+<div class="grid-item">
+	</div>
+
 </div>
 
 
@@ -94,7 +114,6 @@ font-size: 16px;
 		</p>
   </div>
 </div>
-
 
 
 <div class="grid-container">
