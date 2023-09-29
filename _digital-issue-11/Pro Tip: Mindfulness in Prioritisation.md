@@ -118,7 +118,6 @@ margin-top: 50px;
 
 <p>Instead, you may find it better to aim for one small concrete change and sticking to it. What is most important is to choose and commit to a change that is most aligned to your values and aspirations.</p>
 	
-<p>Choose and commit to a change that is most aligned to your values and aspirations.</p>
 </div>
 
 </div>
@@ -207,7 +206,7 @@ margin-top: 50px;
 <div class="notes">
 <h6>NOTES</h6>	
 <ol>
-<li>Greg McKeown, Essentialism: The Disciplined Pursuit of Less_ (Currency, 2014).</li>
+<li>Greg McKeown, Essentialism: The Disciplined Pursuit of Less (Currency, 2014).</li>
 <li>Eisenhower, “Introducing the Eisenhower Matrix”, https://www.eisenhower.me/eisenhower-matrix/.</li>
 </ol>	
 	
