@@ -185,25 +185,25 @@ A blanket or top-down implementation would not benefit different needs across an
 
 <h6 id="notes">Notes</h6>
 <ol>
-        <li>J. M. Barrero, N. Bloom, and S. J. Davis, “The Evolution of Working from Home”, Stanford Institute for Economic Policy Research (SIEPR), July, 2023, <a href="https://siepr.stanford.edu/publications/working-paper/evolution-working-home">https://siepr.stanford.edu/publications/working-paper/evolution-working-home</a>.</li>
+        <li>J. M. Barrero, N. Bloom, and S. J. Davis, “The Evolution of Working from Home”, <em>Stanford Institute for Economic Policy Research (SIEPR)</em>, July, 2023, <a href="https://siepr.stanford.edu/publications/working-paper/evolution-working-home">https://siepr.stanford.edu/publications/working-paper/evolution-working-home</a>.</li>
         
  <li>Sueann Soon, “The Leader’s Playbook to Hybrid Work”, May, 2022, <a href="https://gccprod.sharepoint.com/sites/CSC-LnODinsights/SitePages/The-Leader%27s-Playbook-to-Hybrid-Work.aspx?web=1">https://gccprod.sharepoint.com/sites/CSC-LnODinsights/SitePages/The-Leader%27s-Playbook-to-Hybrid-Work.aspx?web=1</a>. <em><br>(Note: This link is only be accessible to public officers with SharePoint access.)</em></li>
         
-<li>Jacob Zinkula, “The RTO Push Is Over. Hybrid Work Has Won Out, Says Nation's Top Remote-Work Expert”, Insider, July 11, 2023, <a href="https://www.businessinsider.com/hybrid-working-model-wfh-work-from-home-policy-office-trends-2023-7">https://www.businessinsider.com/hybrid-working-model-wfh-work-from-home-policy-office-trends-2023-7</a>.</li>
-        <li>C. G. Aksoy, J. M. Barrero, N. Bloom, S. J. Davis, M. Dolls, and P. Zarate, “Working from Home Around the Globe: 2023 Report”, 28 June, 2023, <a href="https://wfhresearch.com/wp-content/uploads/2023/06/GSWA-2023.pdf">https://wfhresearch.com/wp-content/uploads/2023/06/GSWA-2023.pdf</a>.</li>
+<li>Jacob Zinkula, “The RTO Push Is Over. Hybrid Work Has Won Out, Says Nation's Top Remote-Work Expert”, <em>Insider</em>, July 11, 2023, <a href="https://www.businessinsider.com/hybrid-working-model-wfh-work-from-home-policy-office-trends-2023-7">https://www.businessinsider.com/hybrid-working-model-wfh-work-from-home-policy-office-trends-2023-7</a>.</li>
+<li>C. G. Aksoy, J. M. Barrero, N. Bloom, S. J. Davis, M. Dolls, and P. Zarate, “Working from Home Around the Globe: 2023 Report”, 28 June, 2023, <a href="https://wfhresearch.com/wp-content/uploads/2023/06/GSWA-2023.pdf">https://wfhresearch.com/wp-content/uploads/2023/06/GSWA-2023.pdf</a>.</li>
         
-<li>“The Fight Over Working from Home Goes Global”, The Economist, July 10, 2023, <a href="https://www.economist.com/business/2023/07/10/the-fight-over-working-from-home-goes-global">https://www.economist.com/business/2023/07/10/the-fight-over-working-from-home-goes-global</a>.</li>
+<li>“The Fight Over Working from Home Goes Global”, <em>The Economist</em>, July 10, 2023, <a href="https://www.economist.com/business/2023/07/10/the-fight-over-working-from-home-goes-global">https://www.economist.com/business/2023/07/10/the-fight-over-working-from-home-goes-global</a>.</li>
         
 <li>See Note 1.</li>
 <li>See Note 4.</li>
 <li>See Note 1.</li>
 <li>Ibid.</li>
         
-<li>A. L., Fayard and J. Weeks, “Photocopiers and Water-Coolers: The Affordances of Informal Interaction”, Organization Studies 28, no. 5 (2007): 605–634.</li>
+<li>A. L., Fayard and J. Weeks, “Photocopiers and Water-Coolers: The Affordances of Informal Interaction”, <em>Organization Studies</em> 28, no. 5 (2007): 605–634.</li>
         
 <li>T. Willems and A. Marrewijk, “Building Collaboration? Co-location and “Dis-location” in a Railway Control Post”, Revista de Administração de Empresas, 57 (2017): 542-554.</li>
         
-<li>S. B. Ybema and F. H. Kamsteeg, (2009). “Making the Familiar Strange: A Case for Disengaged Organizational Ethnography”, in Organizational Ethnography: Studying the Complexities of Everyday life, eds S.B. Ybema, D. Yanow, H. Wels, and F. H. Kamsteeg (Sage, 2009), 101–119.</li>
+<li>S. B. Ybema and F. H. Kamsteeg, (2009). “Making the Familiar Strange: A Case for Disengaged Organizational Ethnography”, in <em>Organizational Ethnography: Studying the Complexities of Everyday Life</em>, eds S.B. Ybema, D. Yanow, H. Wels, and F. H. Kamsteeg (Sage, 2009), 101–119.</li>
         
 <li>Richard Bernstein Advisors, comment on Twitter, July 24, 2023, 11:12 p.m., <a href="https://twitter.com/rbadvisors/status/1683495376622419970?s=46&amp;t=SrKfTBEHtSfP_IEQ-EjVDg">https://twitter.com/rbadvisors/status/1683495376622419970?s=46&amp;t=SrKfTBEHtSfP_IEQ-EjVDg</a>.</li>
  </ol>
