@@ -99,6 +99,13 @@ border: 1px solid black;
 
 <p>How we have organised ourselves in the past is no longer fit for the future, or even the present. We need to consolidate and reconsider the way we do things.</p>
 
+<div class="break">
+
+<p class="break1">
+How we have organised ourselves in the past is no longer fit for the future, or even the present. 
+</p>
+
+</div>
 
 <h3>The challenge of resource discipline</h3>
 
