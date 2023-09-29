@@ -55,14 +55,11 @@ I wish you an inspiring read.
 
 	
 	
-<h4>Alvin Pang</h4>
+<h6>Dr Alvin Pang</h6>
+<strong>Editor-in-Chief, ETHOS</strong> 
 
-<p>Editor
-<br>
-<strong>ETHOS</strong>
-<br>
-<a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>
-</p>
+
+<p></p>
 
 <br>
 <br>	
