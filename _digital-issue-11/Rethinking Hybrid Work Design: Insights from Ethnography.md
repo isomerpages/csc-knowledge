@@ -98,7 +98,7 @@ border: 1px solid black;
 	<p>The Hybrid Pyramid, which is part of ILOD’s Playbook, is a systemic framework highlighting key dimensions of work practices for effective hybrid work. We developed the framework with the Public Service context in mind, based on research and ground feedback from the senior management team and staff of a pilot Ministry. </p>
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_11/hybrid%20pyramid.png">
 	
-	
+<br>	
 <figcaption style="text-align: center;">Source: <a href="https://gccprod.sharepoint.com/sites/CSC-LnODinsights/SitePages/The-Leader%27s-Playbook-to-Hybrid-Work.aspx?web=1">A Leader’s Playbook to Hybrid Work</a></figcaption>
 </div>
 <p>However, despite three years of pandemic-induced working from home and hybrid working arrangements, there seems to be little consensus (and in fact there may be conflicting evidence) on whether these work models are more productive and effective than conventional office-based modes.</p>  
