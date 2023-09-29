@@ -147,6 +147,13 @@ line-height:22px;
 
 <p>This may be easier said than done. We may have to manage the expectations of stakeholders—including ourselves and our teams—when letting go of projects that have been invested with much time and effort, and to which we have become attached.</p>
 
+<div class="break">
+
+<p class="break1">
+We must contend with the tension between knowing when we ought to remain committed and persevere on projects and realising it is time to reprioritise.
+</p>
+
+</div>
 <p>To overcome such personal barriers to reprioritising our work, we might adopt these three approaches: <b>Reflect</b>, <b>Review</b>, and <b>Reframe.</b></p>
 
 
@@ -229,7 +236,13 @@ line-height:22px;
 </tbody>
 </table>
 
+<div class="break">
 
+<p class="break1">
+We need to ask ourselves: what is it that our unit can (and should) do, that others cannot?
+</p>
+
+</div>
 <p>The Singapore Public Service has to stay agile and adaptable, in order to help our nation thrive in an increasingly complex and unpredictable world. </p>
 
 <p>By learning how to prioritise our work nimbly and well, we can ensure our teams, departments, and organisations stay relevant to our national mission, while being good stewards of our scarce resources. </p>
