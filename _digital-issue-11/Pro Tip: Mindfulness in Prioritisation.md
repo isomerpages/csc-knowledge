@@ -121,7 +121,13 @@ margin-top: 50px;
 </div>
 
 </div>
+<div class="break">
 
+<p class="break1">
+When many things are given priority, in fact nothing is.
+</p>
+
+</div>
 <h3>What Prioritising Really Means</h3>
 
 <p>The word <em>priority</em> is derived from the Old French <em>priorite</em>, meaning "state of being earlier (than something else), prior occurrence or existence", and the Latin <em>prioritas</em>, meaning “first in rank, order, or dignity”. There can only be one first thing—one priority. As Greg McKeown explains in his book <em>Essentialism,</em> the illogical notion that we can have multiple priorities, or more than one ‘first thing’, came about only relatively recently. When many things are given priority, in fact nothing is.<sup>1</sup></p>
@@ -190,6 +196,13 @@ margin-top: 50px;
 <dl>Tasks in this quadrant are not absolutely necessary and can usually be dropped.</dl>
 
 <dl>As researchers, we may come across a side topic in our field that piques our interest and tempts us to explore in a different direction from our original aims. We have to be mindful of how important these topics are in the larger context of our work, and whether they have a meaningful impact on our stakeholders and customers. At times, it could be beneficial to document these ideas for future reference instead of outright deleting them. This allows us to shift them to other quadrants to be scheduled again, should they become important in future.</dl>	
+	<div class="break">
+
+<p class="break1">
+We can spend some of our time to think about how to use technology to ease routine processes, saving time and energy in the longer run. 
+</p>
+
+</div>
 
 </ul>
 
