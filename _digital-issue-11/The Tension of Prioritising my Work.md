@@ -161,7 +161,7 @@ We must contend with the tension between knowing when we ought to remain committ
 
 <p>We can be more intentional and systematic in thinking about how best to achieve our organisational priorities while making the most of available resources.</p>
 
-<p>To support this thinking, colleagues in the Institute of Leadership and Organisation Development in the Civil Service College have developed a S.C.A.L.E. framework, based on data and insights gleaned through their work on organisational transformation with various public agencies. (Read: how to prioritise using the S.C.A.L.E. framework).</p>
+<p>To support this thinking, colleagues in the Institute of Leadership and Organisation Development in the Civil Service College have developed a S.C.A.L.E. framework, based on data and insights gleaned through their work on organisational transformation with various public agencies. (Read: <a href="https://knowledge.csc.gov.sg/ethos-issue-25/prioritising-the-big-small-things-for-scale/">how to prioritise using the S.C.A.L.E. framework</a>).</p>
 
 
 <p>“S” in the S.C.A.L.E. framework stands for “Strategy”. Being clear about the strategic purpose of our work unit is key to resolving the tension of prioritisation. We each need to go back to what our core purpose and mandate are, and appreciate the unique value that our unit brings. We need to ask ourselves: what is it that our unit can (and should) do, that others cannot?  A team might also ask itself how its work contributes to the whole: where does it fit in? Answering these questions can help a team achieve better clarity of purpose, making it easier to determine whether a given piece of work is essential to achieving its mandate.</p>
