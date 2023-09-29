@@ -120,11 +120,11 @@ border: 1px solid black;
 <tr>
     <td>
       <p>A recent <a href="wfhresearch.com/wp-content/uploads/2023/06/GSWA-2023.pdf"> global survey of working arrangements</a> observed that employers generally want more office time.<sup>4</sup></p>
-      <p class="red-color">The benefits of working in an office, as cited by employees, include socializing and collaborating in person with co-workers.</p>
+      <p class="red-color">The benefits of working in an office, as cited by employees, include socialising and collaborating in person with co-workers.</p>
     </td>
     <td>
       <p>The <a href="wfhresearch.com/wp-content/uploads/2023/06/GSWA-2023.pdf">same global survey</a> found that employees want to work from home more often than currently allowed.<sup>7</sup></p>
-      <p class="green-color">Employee cited WFH benefits such as savings in commuting time and flexibility in managing work-life balance.</p>
+      <p class="green-color">Employees cited WFH benefits such as savings in commuting time and flexibility in managing work-life balance.</p>
     </td>
   </tr>
 
