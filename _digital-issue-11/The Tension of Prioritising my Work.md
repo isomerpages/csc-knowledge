@@ -134,7 +134,7 @@ line-height:22px;
 <p><em>“Stopping the project after so much effort had been invested is a waste of resources! Am I managing resources as best as I can?”</em></p>
 
 
-<p>For instance, important projects might be halted for many reasons, that have nothing to do with my capabilities, due to factors well outside my control. Had these negative thoughts taken hold, they might have affected attempts to prioritise my workstreams, leading me to sustain efforts that may already be irrelevant at the cost of new, more promising initiatives, or to my overall performance and wellbeing.</p>
+<p>On reflection, I see that such anxieties were based on mistaken beliefs about my work. For instance, important projects might be halted for many reasons, that have nothing to do with my capabilities, due to factors well outside my control. Had these negative thoughts taken hold, they might have affected attempts to prioritise my workstreams, leading me to sustain efforts that may already be irrelevant at the cost of new, more promising initiatives, or to my overall performance and wellbeing.</p>
 
 <p>Similarly, if supervisors or leaders believe that having to choose between workstreams shows poor planning or incompetence, they may push to deliver on new initiatives while striving to complete past projects. Collectively, this could cascade to hinder whole-of-government (WOG) moves to shift national priorities, as agencies continue to invest resources in outdated projects due to legacy or sunk costs.</p>
 
@@ -246,7 +246,7 @@ line-height:22px;
 
 
 <div class="notes">
-<h6>NOTES</h6>	
+<h6>NOTE</h6>	
 <ol>
 <li>My colleague Aurora Watters, has written an article about the emotional dimension letting go of work, which can be found here.</li>
 </ol>	
