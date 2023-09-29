@@ -156,22 +156,20 @@ border: 1px solid black;
 <p>Seeking a fresh perspective, ILOD Principal Consultant Eileen Wong spoke with Thijs Willems, an organisational ethnographer and Research Fellow at the Singapore University of Technology and Design, to explore how an ethnographic lens might shed light on and help reframe today’s shifting work cultures.</p>
  
 
-
-
-
 <div class="break">
 
 <p class="break1">
-A foresight programme should be
-seen as part of a larger endeavour
-to institutionalise and make
-mainstream habits of mind that
-challenge prevailing assumptions.
+A blanket or top-down implementation would not benefit different needs across an organisation.
 </p>
 
 
 
 </div>
+
+
+
+
+
 
 <div class="author">
 	<h6>About the Authors</h6>
