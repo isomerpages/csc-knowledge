@@ -132,7 +132,7 @@ border: 1px solid black;
 
 <p>In the face of a digital overload and decision deluge, the tendency is to fall back to habit, past experience and instinct in making decisions. There is little time to ask more than shallow questions. In the long run, this leads to suboptimal judgements. Being more efficient in our work processes is not just about spinning our wheels faster. It should also free up more time for us to think about whether we need to do different things.
 
-For instance, now that the Covid situation is allowing us back into our workplaces, we should be mindful that when we bring people back into the office, there has to be a reason other than for formal meetings that could have been resolved by email. These are things we can and should reduce. Nor should we just blindly follow a formula of having three days in and two days out. Instead, we should be deliberate in using that office time to do things that are best done in person, face-to-face, such as brainstorming or team building.
+For instance, now that the COVID situation is allowing us back into our workplaces, we should be mindful that when we bring people back into the office, there has to be a reason other than for formal meetings that could have been resolved by email. These are things we can and should reduce. Nor should we just blindly follow a formula of having three days in and two days out. Instead, we should be deliberate in using that office time to do things that are best done in person, face-to-face, such as brainstorming or team building.
 
 In his book Deep Work, American author and computer scientist Cal Newport writes about a movement in workplaces to have focus days, where staff turn off their computers to think and work. He writes about remote organisations which are good at protecting their staff’s private time. Performance is still judged by outcomes, but there is a cadence to work where say one works two months remotely and then comes together with colleagues for two weeks. We should be thinking about how best to allow our officers the time and space to do deep work.
 
@@ -159,7 +159,7 @@ It is one thing to encourage public agencies to be more purposeful and innovativ
 
 
 <div class="author">
-	<h6>About the Authors</h6>
+	<h6>About the Author</h6>
 	<p><b>Chng Kai Fong</b> is Permanent Secretary (Development), SNDGG, PMO, and concurrently Permanent Secretary (Development), Ministry of Communications and Information (MCI) and Permanent Secretary (Development) (Cybersecurity), PMO.</p>
 
 </div>
