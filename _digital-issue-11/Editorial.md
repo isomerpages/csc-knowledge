@@ -57,12 +57,9 @@ I wish you an inspiring read.
 	
 <h6>Dr Alvin Pang</h6>
 <strong>Editor-in-Chief, ETHOS</strong> 
+<p>
 
-
-<p></p>
-
-<br>
 <br>	
-<div class="back">
+</p><div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
