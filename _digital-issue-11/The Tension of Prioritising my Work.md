@@ -145,7 +145,7 @@ line-height:22px;
 
 <p>We must contend with the tension&nbsp;between knowing when we ought to remain committed and persevere on projects and realising it is time to reprioritise.</p>
 
-<p>This may be easier said than done. We may have to manage the expectations of stakeholders—including ourselves and our teams—when letting go of projects that have been invested with much time and effort, and to which we have become attached.</p>
+<p>This may be easier said than done. We may have to manage the expectations of stakeholders—including ourselves and our teams—when letting go of projects that have been invested with much time and effort, and to which we have become attached.<sup>1</sup></p>
 
 <div class="break">
 
