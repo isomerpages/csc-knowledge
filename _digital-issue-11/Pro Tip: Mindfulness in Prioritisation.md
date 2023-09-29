@@ -124,7 +124,7 @@ margin-top: 50px;
 
 <h3>What Prioritising Really Means</h3>
 
-<p>The word priority is derived from the Old French <em>priorite</em>, meaning "state of being earlier (than something else), prior occurrence or existence", and the Latin <em>prioritas</em>, meaning “first in rank, order, or dignity”. There can only be one first thing—one priority. As Greg McKeown explains in his book <em>Essentialism,</em> the illogical notion that we can have multiple priorities, or more than one ‘first thing’, came about only relatively recently. When many things are given priority, in fact nothing is.</p>
+<p>The word <em>priority</em> is derived from the Old French <em>priorite</em>, meaning "state of being earlier (than something else), prior occurrence or existence", and the Latin <em>prioritas</em>, meaning “first in rank, order, or dignity”. There can only be one first thing—one priority. As Greg McKeown explains in his book <em>Essentialism,</em> the illogical notion that we can have multiple priorities, or more than one ‘first thing’, came about only relatively recently. When many things are given priority, in fact nothing is.<sup>1</sup></p>
 
 <p>It would be like highlighting all the text in a textbook: which would defeat the purpose of highlighting anything at all.</p>
 
