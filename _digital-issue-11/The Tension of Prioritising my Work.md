@@ -261,7 +261,8 @@ We need to ask ourselves: what is it that our unit can (and should) do, that oth
 <div class="notes">
 <h6>NOTE</h6>	
 <ol>
-<li>My colleague Aurora Watters, has written an article about the emotional dimension letting go of work, which can be found here.</li>
+<li>My colleague Aurora Watters, has written an article about the emotional dimension letting go of work, which can be found <a href="https://knowledge.csc.gov.sg/digital-issue-10/prioritising-work-and-letting-go-the-emotional-dimensio">here</a>.
+</li>
 </ol>	
 	
 </div>
