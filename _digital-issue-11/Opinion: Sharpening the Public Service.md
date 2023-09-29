@@ -120,6 +120,13 @@ How we have organised ourselves in the past is no longer fit for the future, or 
 
 <p>As an organisation, Singapore’s military has had to rethink their fundamental way of doing things, because it is an existential problem for them. In the past, armed forces were a brute force game. But given our manpower constraints, they have had to make do with smaller sections and teams. It requires thinking about new weapons, new tactics, and more coordination and complementarity across the different forces, such as through combined arms. Because the armed forces have a singular goal, which is defence, it is able to align everyone to this priority, and innovate towards it. How might we translate this thinking to the public sector?</p>
 
+<div class="break">
+
+<p class="break1">
+It may be that we will need to move towards a more top-heavy approach rather than the traditional, bottom-heavy pyramid approach of organising the public sector.
+</p>
+
+</div>
 
 <h3>Enabling productivity by changing the rules</h3>
 
@@ -146,7 +153,15 @@ In his book <em>Deep Work</em>, American author and computer scientist Cal Newpo
 Workload bloat and organisational complexity create bottlenecks, imposes costs, and diffuses responsibility. All these take time and effort away from other important priorities. The benefit of having a lean and mean yet dedicated outfit is that you can do a lot more of what matters.
 
 
-</p><h3>Getting the balance right while delivering great service</h3>
+</p><div class="break">
+
+<p class="break1">
+Being more efficient in our work processes is not just about spinning our wheels faster. It should also free up more time for us to think.
+</p>
+
+</div>	
+
+<p></p><h3>Getting the balance right while delivering great service</h3>
 
 <p>
 It is one thing to encourage public agencies to be more purposeful and innovative in their uses of resources, including their officers’ time. It is quite another when changing priorities mean we may have to start dropping programmes and taking away resources. This will be a difficult but necessary pill to swallow.</p>
@@ -156,6 +171,13 @@ It is one thing to encourage public agencies to be more purposeful and innovativ
 <p>The irony is that in wanting to overprovide for important&nbsp;needs, such as caring for the elderly or vulnerable, we sometimes fall back on the easy but high-cost solutions (such as having many more physical counters) that turn out to be less sustainable in the long run. In fact, there could be more efficient ways to do the job, using technology or more simplified processes, that result in better services—if only we sought out the opportunities to do so.</p>
 
 
+<div class="break">
+
+<p class="break1">
+In wanting to overprovide for important needs, we sometimes fall back on solutions that turn out to be less sustainable in the long run.
+</p>
+
+</div>
 <h3>Staying agile in leaner times</h3>
 
 <p>We no longer operate in an era of plenty. But even if we had all the resources in the world, organisational and workload growth can lead to bloat that actually holds us back from doing as well as we otherwise could have.</p>
