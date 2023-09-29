@@ -137,9 +137,9 @@ margin-top: 50px;
 
 <div class="grid-item">
 
-<p>One tool to help prioritise tasks is the Eisenhower Box, which is featured in Stephen Covey's widely read 7 Habits of Highly Effective People. You might also know it as The Time Management Matrix, The Eisenhower Method, or The Urgent-Important Matrix.</p>
+<p>One tool to help prioritise tasks is the Eisenhower Box, which is featured in Stephen Covey's widely read <em>7 Habits of Highly Effective People</em>. You might also know it as The Time Management Matrix, The Eisenhower Method, or The Urgent-Important Matrix.</p>
 
-<p>The idea is to focus on what will make you most effective, not just most productive.</p>
+<p>The idea is to focus on what will make you most <em>effective</em>, not just most productive.</p>
 
 <p>According to the framework, all day-to-day tasks and bigger projects fall into one of four quadrants, depending on how urgent and important they are.</p>
 	
@@ -159,7 +159,7 @@ margin-top: 50px;
 
 <figure class="quadrant">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_11/eisenhower%20box.png">
-<figcaption><b>Figure 1.</b> Eisenhower Box
+	<figcaption><b>Figure 1.</b> Eisenhower Box<sup>2</sup>
 <br>	
 	<small>Source: Eisenhower</small>	
 	
