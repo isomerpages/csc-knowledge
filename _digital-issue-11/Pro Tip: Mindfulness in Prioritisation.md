@@ -116,7 +116,7 @@ margin-top: 50px;
 
 <p>Trying to make too many big changes at once or in too many areas of our lives (e.g., work, relationships, health, etc.) is usually a recipe for failure.</p>
 
-<p>Instead, you may find it better to aim for one small concrete change and sticking to it. What is most important is to choose and commit to a change that is most aligned to your values and aspirations.</p>
+<p>Instead, you may find it better to aim for <b>one small concrete change</b> and sticking to it. What is most important is to choose and commit to a change that is most aligned to your values and aspirations.</p>
 	
 </div>
 
@@ -137,7 +137,7 @@ margin-top: 50px;
 
 <div class="grid-item">
 
-<p>One tool to help prioritise tasks is the Eisenhower Box, which is featured in Stephen Covey's widely read <em>7 Habits of Highly Effective People</em>. You might also know it as The Time Management Matrix, The Eisenhower Method, or The Urgent-Important Matrix.</p>
+<p>One tool to help prioritise tasks is the <b>Eisenhower Box</b>, which is featured in Stephen Covey's widely read <em>7 Habits of Highly Effective People</em>. You might also know it as The Time Management Matrix, The Eisenhower Method, or The Urgent-Important Matrix.</p>
 
 <p>The idea is to focus on what will make you most <em>effective</em>, not just most productive.</p>
 
@@ -148,9 +148,9 @@ margin-top: 50px;
 
 <div class="grid-item item">
 
-<p>Urgent tasks are those which are externally driven, usually by deadlines. They require immediate attention but spending too much time on them (also known as ‘firefighting’) can lead to stress and anxiety, causing you to lose sight of the bigger picture.</p>
+<p><b>Urgent</b> tasks are those which are externally driven, usually by deadlines. They require immediate attention but spending too much time on them (also known as ‘firefighting’) can lead to stress and anxiety, causing you to lose sight of the bigger picture.</p>
 
-<p>Tasks are considered important based on what matters to you personally. Such tasks contribute to your long-term goals and call for more thoughtful planning and action. As these tasks may not produce immediate results, they often tend to get neglected when your time is consumed by urgent demands.</p>	
+<p>Tasks are considered <b>important</b> based on what matters to you personally. Such tasks contribute to your long-term goals and call for more thoughtful planning and action. As these tasks may not produce immediate results, they often tend to get neglected when your time is consumed by urgent demands.</p>	
 	
 </div>	
 	
