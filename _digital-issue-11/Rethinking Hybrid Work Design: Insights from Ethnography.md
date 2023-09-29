@@ -99,7 +99,7 @@ border: 1px solid black;
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_11/hybrid%20pyramid.png">
 	
 	
-<figcaption style="text-align: center;">Source: <a href="">A Leader’s Playbook to Hybrid Work</a></figcaption>
+<figcaption style="text-align: center;">Source: <a href="https://gccprod.sharepoint.com/sites/CSC-LnODinsights/SitePages/The-Leader%27s-Playbook-to-Hybrid-Work.aspx?web=1">A Leader’s Playbook to Hybrid Work</a></figcaption>
 </div>
 <p>However, despite three years of pandemic-induced working from home and hybrid working arrangements, there seems to be little consensus (and in fact there may be conflicting evidence) on whether these work models are more productive and effective than conventional office-based modes.</p>  
 
