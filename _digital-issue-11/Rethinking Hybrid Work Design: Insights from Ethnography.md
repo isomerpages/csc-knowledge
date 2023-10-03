@@ -154,15 +154,6 @@ border: 1px solid black;
 <p>Seeking a fresh perspective, ILOD Principal Consultant Eileen Wong spoke with Thijs Willems, an organisational ethnographer and Research Fellow at the Singapore University of Technology and Design, to explore how an ethnographic lens might shed light on and help reframe today’s shifting work cultures.</p>
  
 
-<!---<div class="break">
-
-<p class="break1">
-A blanket or top-down implementation would not benefit different needs across an organisation.
-</p>
-
-
-
-</div>--->
 
 <h3>The Ethnography of Hybrid Work Culture: A Conversation</h3>
 
@@ -223,6 +214,14 @@ Understanding this became one of the main motivations for the rest of our study,
 	
 <p>In practice, however, I found not just inter-organisational collaboration but also—and much stronger so—resistance to this, that I have described as territorial practices. The kitchen, for instance, was meant to become a space where people of different organisations would meet and share meals. But in the first weeks, fridges and cabinets were earmarked and name-tagged: this common fridge became that department’s fridge; these shared cabinets became their cabinets.</p> 
 <p>The study shows the limits of organisational design done in a top-down matter. You need to know what is going on in the daily lives of the employees on which you ‘force’—no matter how good the intentions—a different way of working.</p>
+
+<div class="break">
+
+<p class="break1">
+A blanket or top-down implementation would not benefit different needs across an organisation.
+</p>
+
+</div>
 
 
 <p><b>Eileen:</b> If organisations were to carry out organisational ethnography, what do they need to watch out for? </p>
