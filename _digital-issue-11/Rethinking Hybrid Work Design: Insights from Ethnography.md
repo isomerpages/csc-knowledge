@@ -176,12 +176,12 @@ Ethnography relies primarily on participant-observation: seeing how individuals 
 
 <p><b>Eileen:</b> How can ethnography tell us more about organisational culture than other available research methods?</p>
 
-<p><span style="color:blue;font-weight:bold;">Thijs:</span>Rather than taking surveys or studying people from concepts the researcher is familiar with (which are inherently ‘biased’ because they are created from the culture one is familiar with rather than based on local ground knowledge), ethnography is based on observing how people actually live and work. &nbsp;This helps to understand and describe things from the inside out, rather than from the outside in as most research methods would approach their subjects</p>
+<p><span style="color:blue;font-weight:bold;">Thijs:</span> Rather than taking surveys or studying people from concepts the researcher is familiar with (which are inherently ‘biased’ because they are created from the culture one is familiar with rather than based on local ground knowledge), ethnography is based on observing how people actually live and work. &nbsp;This helps them to understand and describe things from the inside out, rather than from the outside in as most research methods would approach their subjects.</p>
 
 
 <p>Applied to the workplace, this means understanding how people organise their work and their tasks themselves and why they organise it in such a way. Ethnography, unlike many other research methodologies, is particularly concerned with the actual practices of people. If you want to know what administrative work entails, for instance, you must talk to the administrative workers. This often means venturing out into what may feel counter-intuitive.</p>
 
-<p>For example, if you want to study innovation in a specific organisation, the most conventional way might be to read an organisation’s mission statement, their guidelines and espoused values, and talk to the Chief Innovation Officer or some other high-ranked managers. But ethnographers would not stop there. They would try to see how innovation can also be seen as a more bottom-up process. They might hang out at the photocopiers and watercoolers where most informal interaction happens.</p>
+<p>For example, if you want to study innovation in a specific organisation, the most conventional way might be to read an organisation’s mission statement, their guidelines and espoused values, and talk to the Chief Innovation Officer or some other high-ranked managers. But ethnographers would not stop there. They would try to see how innovation can also be seen as a more bottom-up process. They might hang out at the photocopiers and watercoolers where most informal interaction happens.<sup>10</sup></p>
 
 <p>Or they would focus on the interactions between people in ‘corridor-talk’ or when they meet outside the office for a coffee or other beverage. Ethnography is about looking at cultural phenomena not just from one perspective but taking different environments into account.</p>
 
@@ -193,7 +193,7 @@ Ethnography relies primarily on participant-observation: seeing how individuals 
 
 In one of the Future of Work projects at the Lee Kuan Yew Centre for Innovative Cities at SUTD, we did an ethnographic study with technicians and engineers in the Energy &amp; Chemical industry. Specifically, we wanted to know what expertise is in this work environment, thinking that it would be a good proxy to understand digitalisation of the industry.
 
-When we asked technicians how they know what they know, and how they assess the state of a chemical process, they would often shrug the question away claiming that we should ask the decision-makers instead. But we kept digging, and technicians came up with really interesting explanations. For example, they would claim they could “smell” the problem by just being there. Or by “simply knocking on the pipes” they would know “exactly what is going on”.
+When we asked technicians how they know what they know, and how they assess the state of a chemical process, they would often shrug the question away claiming that we should ask the decision-makers instead. But we kept digging, and technicians came up with really interesting explanations. For example, they would claim they could "smell" the problem by just being there. Or by “simply knocking on the pipes” they would know “exactly what is going on”.
 
 Understanding this became one of the main motivations for the rest of our study, especially because it stands in stark contrast to uber-rational accounts of digital technology that often assume that everything can be captured in data, and that messy, intuitive processes—such as smelling or knocking the pipes—can be automated. It gave us tremendous alternative insights into how we should think about the future of work.
 
@@ -201,7 +201,7 @@ Understanding this became one of the main motivations for the rest of our study,
 
 <ol>
 
-<li>K. W. Poon, T. Willems, W. S. Y. Liu, (2023). “The Future of Expertise: From Stepwise Domain Upskilling to Multifaceted Mastery”, in _International Handbook on Education Development in Asia-Pacific_, eds W. O. Lee, P. Brown, A. L. Goodwin, and A. Green (Springer, Singapore, 2023), https://doi.org/10.1007/978-981-16-2327-1\_42-1</li>
+<li>K. W. Poon, T. Willems, and W. S. Y. Liu, “The Future of Expertise: From Stepwise Domain Upskilling to Multifaceted Mastery”, in <em>International Handbook on Education Development in Asia-Pacific</em>, eds W. O. Lee, P. Brown, A. L. Goodwin, and A. Green (Singapore: Springer, 2023), https://doi.org/10.1007/978-981-16-2327-1_42-1.</li>
 
 </ol>
 	
