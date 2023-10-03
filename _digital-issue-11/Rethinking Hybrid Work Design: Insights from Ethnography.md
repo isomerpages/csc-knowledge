@@ -168,17 +168,17 @@ A blanket or top-down implementation would not benefit different needs across an
 
 <h3>The ethnography of hybrid work culture: A conversation</h3>
 
-Eileen: What is an organisational ethnographic approach?
+<p><b>Eileen:</b> What is an organisational ethnographic approach?</p>
 
-Thijs:  Ethnography is a systematic methodology used to study and describe different cultures. A specific way of looking at the world, it was initially developed and primarily used in the domain of anthropology—the study of human societies, cultures and behaviours. Anthropologists found that the most effective method to intimately understand unfamiliar cultures and societies was to literally live among the people they were seeking to learn about.
+<p><span style="color:blue;font-weight:bold;">Thijs:</span>  Ethnography is a systematic methodology used to study and describe different cultures. A specific way of looking at the world, it was initially developed and primarily used in the domain of anthropology—the study of human societies, cultures and behaviours. Anthropologists found that the most effective method to intimately understand unfamiliar cultures and societies was to literally live among the people they were seeking to learn about.
 
 Organisational ethnography is built on the same idea, but it looks at work settings and other sites that one is usually more familiar with. It can be quite useful to think about work settings through an anthropological lens. This is because becoming a member of an organisation entails learning the lingo and habits of its people, and how they use concepts in contextually specific ways. We can also understand organisations by treating different departments as different cultural ‘tribes’, e.g., the day-to-day tussles between an innovation department and an audit department.
 
-Ethnography relies primarily on participant-observation: seeing how individuals actually go about their day-to-day business in a particular context. In practice, participant-observation is the art of “hanging out”: learning to become a part of the culture you are studying so you can describe things from an inside perspective.
+Ethnography relies primarily on participant-observation: seeing how individuals actually go about their day-to-day business in a particular context. In practice, participant-observation is the art of “hanging out”: learning to become a part of the culture you are studying so you can describe things from an inside perspective. </p>
 
-Eileen: How can ethnography tell us more about organisational culture than other available research methods?
+<p><b>Eileen:</b> How can ethnography tell us more about organisational culture than other available research methods?</p>
 
-Thijs:  Rather than taking surveys or studying people from concepts the researcher is familiar with (which are inherently ‘biased’ because they are created from the culture one is familiar with rather than based on local ground knowledge), ethnography is based on observing how people actually live and work. &nbsp;This helps to understand and describe things from the inside out, rather than from the outside in as most research methods would approach their subjects
+<p><span style="color:blue;font-weight:bold;">Thijs:</span>  Rather than taking surveys or studying people from concepts the researcher is familiar with (which are inherently ‘biased’ because they are created from the culture one is familiar with rather than based on local ground knowledge), ethnography is based on observing how people actually live and work. &nbsp;This helps to understand and describe things from the inside out, rather than from the outside in as most research methods would approach their subjects</p>
 
 
 
