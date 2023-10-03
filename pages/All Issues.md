@@ -59,7 +59,7 @@ font-size: 16px;
         <p>
             <a target="_blank" href="/ethos/">Digital Edition Issue 11,  Oct 2023</a>
             <br>
-            <a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a>
+            <a target="_blank" href="https://go.gov.sg/digital-issue-11">Download PDF</a>
         </p>
     </div>
 	
@@ -67,7 +67,7 @@ font-size: 16px;
   <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosissue25.jpg">
         <p>
-            <a target="_blank" href="/ethos/">Issue 25, April 2023<br>Prioritising Purpose</a>
+            <a target="_blank" href="/ethos-issue-25/">Issue 25, April 2023<br>Prioritising Purpose</a>
             <br>
             <a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a>
         </p>
