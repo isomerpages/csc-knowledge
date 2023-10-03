@@ -178,7 +178,16 @@ Ethnography relies primarily on participant-observation: seeing how individuals 
 
 <p><b>Eileen:</b> How can ethnography tell us more about organisational culture than other available research methods?</p>
 
-<p><span style="color:blue;font-weight:bold;">Thijs:</span>  Rather than taking surveys or studying people from concepts the researcher is familiar with (which are inherently ‘biased’ because they are created from the culture one is familiar with rather than based on local ground knowledge), ethnography is based on observing how people actually live and work. &nbsp;This helps to understand and describe things from the inside out, rather than from the outside in as most research methods would approach their subjects</p>
+<p><span style="color:blue;font-weight:bold;">Thijs:</span>Rather than taking surveys or studying people from concepts the researcher is familiar with (which are inherently ‘biased’ because they are created from the culture one is familiar with rather than based on local ground knowledge), ethnography is based on observing how people actually live and work. &nbsp;This helps to understand and describe things from the inside out, rather than from the outside in as most research methods would approach their subjects</p>
+
+
+<p>Applied to the workplace, this means understanding how people organise their work and their tasks themselves and why they organise it in such a way. Ethnography, unlike many other research methodologies, is particularly concerned with the actual practices of people. If you want to know what administrative work entails, for instance, you must talk to the administrative workers. This often means venturing out into what may feel counter-intuitive.</p>
+
+<p>For example, if you want to study innovation in a specific organisation, the most conventional way might be to read an organisation’s mission statement, their guidelines and espoused values, and talk to the Chief Innovation Officer or some other high-ranked managers. But ethnographers would not stop there. They would try to see how innovation can also be seen as a more bottom-up process. They might hang out at the photocopiers and watercoolers where most informal interaction happens.</p>
+
+<p>Or they would focus on the interactions between people in ‘corridor-talk’ or when they meet outside the office for a coffee or other beverage. Ethnography is about looking at cultural phenomena not just from one perspective but taking different environments into account.</p>
+
+<p>Too often, we look at work in a much too abstract way. Of course, managers have to do this because that is what managing is about: they handle many pieces of a complex puzzle in order to manage a bigger picture. But this also requires them to often have to gloss over important details. But if we take the approach of considering workers as the experts in how they actually do work, we can better recognise small but significant details.</p>
 
 <div class="containerbox">
 
@@ -188,7 +197,7 @@ In one of the Future of Work projects at the Lee Kuan Yew Centre for Innovative 
 
 When we asked technicians how they know what they know, and how they assess the state of a chemical process, they would often shrug the question away claiming that we should ask the decision-makers instead. But we kept digging, and technicians came up with really interesting explanations. For example, they would claim they could “smell” the problem by just being there. Or by “simply knocking on the pipes” they would know “exactly what is going on”.
 
-Understanding this became one of the main motivations for the rest of our study, especially because it stands in stark contrast to uber-rational accounts of digital technology that often assume that everything can be captured in data, and that messy, intuitive processes—such as smelling or knocking the pipes—can be automated. It gave us tremendous alternative insights into how we should think about the future of work.1
+Understanding this became one of the main motivations for the rest of our study, especially because it stands in stark contrast to uber-rational accounts of digital technology that often assume that everything can be captured in data, and that messy, intuitive processes—such as smelling or knocking the pipes—can be automated. It gave us tremendous alternative insights into how we should think about the future of work.
 
 <h6>Note</h6>
 
@@ -197,9 +206,31 @@ Understanding this became one of the main motivations for the rest of our study,
 <li>K. W. Poon, T. Willems, W. S. Y. Liu, (2023). “The Future of Expertise: From Stepwise Domain Upskilling to Multifaceted Mastery”, in _International Handbook on Education Development in Asia-Pacific_, eds W. O. Lee, P. Brown, A. L. Goodwin, and A. Green (Springer, Singapore, 2023), https://doi.org/10.1007/978-981-16-2327-1\_42-1</li>
 
 </ol>
-
-
+	
 </div>
+
+
+<p><b>Eileen:</b> How can ethnography help us design better working cultures, including for hybrid work? </p>
+
+<p><span style="color:blue;font-weight:bold;">Thijs:</span> The clearest way would be to apply it so organisations can go beyond the pure design perspective on how hybrid ways of working must be organised. Often, design is done in a top-down matter. It takes a helicopter view—or a ‘snapshot’—of the organisation and makes decisions based on that. And these decisions can often lead to disappointing results: new spaces are rarely used, people find workarounds around new procedures, the new talent development programme is received cynically and so on.</p>
+
+<p>An ethnographic approach—i.e., trying to study the issue through the eyes of the staff themselves—can complement or refine design. This often entails talking to people from a blank slate as much as that is possible, instead of observing people through our own or preconceived value systems. So, rather than asking “Why do these people work so inefficiently?” when observing them, a more ethnographic stance would be asking “How do these people do their work exactly, and why do they do what they do?”.</p>
+
+<p>So wanting to know how, say, hybrid ways of working need to be organised in a company requires going back to basics. Workers could for instance, be involved in the design and decision-making process of new ways of working. Not as an afterthought, or as a ‘check-the-boxes’ exercise to show you listened to staff, but from the very beginning.</p>
+
+
+<p><b>Eileen:</b> This brings to mind how the Hybrid Pyramid was applied in an agency. ILOD was supporting various divisions in discussing their hybrid working norms. While there were organisational-level principles to guide the norms, it was clear that the nature of work and work needs varied across divisions. The leadership recognised this early on and gave each Director discretion to decide on their division-level norms. There were divisions where staff wanted to meet together more frequently to discuss work, for example, in designing outreach sessions. In other divisions, such as the finance team, staff appreciated the ability to work remotely to do deep work. Even when we compared the research team in one agency to the research unit in another agency, we found different practices in the mode and frequency of interactions. The former found they could be as productive working virtually as in person, while the latter opted to return to the office on some fixed days. In these real-life cases, a blanket or top-down implementation would not have benefited different needs across the organisation. Understanding the views of people on the ground whose perspectives, needs and optimal working styles may be less visible to senior management can indeed make a difference.</p>
+
+<p><span style="color:blue;font-weight:bold;">Thijs:</span> To add a further example, in my own work  on inter-organisational collaboration, I studied a newly established multimillion-dollar coordination centre where employees from different organisations were located in one office to facilitate collaboration.  A lot of manpower and money was spent on the design of the centre, with even the design and layout of the furniture aiming to direct lines of sight so that each employee would constantly have the people of other organisations in the corner of their eyes. 
+In practice, however, I found not just inter-organisational collaboration but also—and much stronger so—resistance to this, that I have described as territorial practices. The kitchen, for instance, was meant to become a space where people of different organisations would meet and share meals. But in the first weeks the fridges and cabinets were earmarked and name-tagged: this common fridge became that department’s fridge; these shared cabinets became their cabinets. 
+The study shows the limits of organisational design done in a top-down matter. You need to know what is going on in the daily lives of the employees on which you ‘force’—no matter how good the intentions—a different way of working.</p>
+
+
+
+
+
+
+
 
 
 
