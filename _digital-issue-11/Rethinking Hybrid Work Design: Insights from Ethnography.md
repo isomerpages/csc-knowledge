@@ -180,9 +180,21 @@ Ethnography relies primarily on participant-observation: seeing how individuals 
 
 <p><span style="color:blue;font-weight:bold;">Thijs:</span>  Rather than taking surveys or studying people from concepts the researcher is familiar with (which are inherently ‘biased’ because they are created from the culture one is familiar with rather than based on local ground knowledge), ethnography is based on observing how people actually live and work. &nbsp;This helps to understand and describe things from the inside out, rather than from the outside in as most research methods would approach their subjects</p>
 
+<h5>Counter-intuitive Insights</h5>
 
+In one of the Future of Work projects at the Lee Kuan Yew Centre for Innovative Cities at SUTD, we did an ethnographic study with technicians and engineers in the Energy &amp; Chemical industry. Specifically, we wanted to know what expertise is in this work environment, thinking that it would be a good proxy to understand digitalisation of the industry.
 
+When we asked technicians how they know what they know, and how they assess the state of a chemical process, they would often shrug the question away claiming that we should ask the decision-makers instead. But we kept digging, and technicians came up with really interesting explanations. For example, they would claim they could “smell” the problem by just being there. Or by “simply knocking on the pipes” they would know “exactly what is going on”.
 
+Understanding this became one of the main motivations for the rest of our study, especially because it stands in stark contrast to uber-rational accounts of digital technology that often assume that everything can be captured in data, and that messy, intuitive processes—such as smelling or knocking the pipes—can be automated. It gave us tremendous alternative insights into how we should think about the future of work.1
+
+<b>Note</b>
+
+<ol>
+
+<li>K. W. Poon, T. Willems, W. S. Y. Liu, (2023). “The Future of Expertise: From Stepwise Domain Upskilling to Multifaceted Mastery”, in _International Handbook on Education Development in Asia-Pacific_, eds W. O. Lee, P. Brown, A. L. Goodwin, and A. Green (Springer, Singapore, 2023), https://doi.org/10.1007/978-981-16-2327-1\_42-1</li>
+
+</ol>
 
 
 
