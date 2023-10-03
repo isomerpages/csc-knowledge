@@ -75,7 +75,7 @@ td
         <div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital11.jpg"></div>
         <div><h3><span class="cat">Digital Issue 25, Oct 2023</span>
             <br>ETHOS Digital Issue 11</h3>	
-            <p>.</p>
+            <p> How can the Public Service respond to the constraints of a challenging global environment? What can we do to reprioritise our work and make better use of limited resources, including our officers’ time, energies and commitment? Find out more in this digital edition of ETHOS, featuring views from Permanent Secretary Chng Kai Fong, as well as ILOD researchers Ashley Aw, Amos Law and Eileen Wong, with Thijs Willems in conversation.</p>
             
             
    <div class="button1"><a target="_blank" href="">Download PDF</a></div></div>
@@ -105,7 +105,7 @@ td
 <p>New tech tools and resource discipline can help us free up time and resources for more thoughtful public sector work: but a cultural shift is needed.
 </p>	
             
-<div class="button1"><a href="/digital-issue-11//">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-11/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
@@ -128,32 +128,22 @@ td
 <p>How can we balance the need to refocus work efforts while committing to and persevering on long-term work goals?
 </p>	
             
-<div class="button1"><a href="/digital-issue-10/when-projects-change-or-end-practical-steps-to-manage-stakeholder-expectations/">Read More</a></div><br></div>
+<div class="button1"><a href="">Read More</a></div><br></div>
     </div>
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-04.jpg"></div>
-        <div><h3>Lifelong Learning through a Global Lens</h3>
-            <b><i>by Patrick Tay</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_11/teaser_rethinking%20hybrid%20work%20designs.jpg"></div>
+        <div><h3>Rethinking Hybrid Work Design: Insights from Ethnography</h3>
+            <b><i>by Eileen Wong and Thijs Willems</i></b>
             
 <p>	
-            Around the world, countries have sought to enhance their workers’ prospects with closer partnerships between sectors, greater clarity about learning goals, more flexibility with educational modes, and ensuring access to training for those who need it most.
-            </p>	
+Closer study of how people actually behave in different organisational contexts could shed light on better ways to navigate—and shape—today’s fast-changing work cultures.         
+</p>	
             
-<div class="button1"><a href="/digital-issue-10/lifelong-learning-through-a-global-lens/">Read More</a></div><br></div>
+<div class="button1"><a href="">Read More</a></div><br></div>
     </div>
 <br>
-<div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/review.jpg"></div>
-        <div><h3>Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich</h3>
-            <b><i>by Vernie Oliveiro</i></b>
-            
-<p>	
-            Book Review: The Bias That Divides Us: The Science and Politics of Myside Thinking by Keith Stanovich.</p>	
-            
-<div class="button1"><a href="/digital-issue-10/why-people-see-the-same-facts-and-come-to-different-conclusions/">Read More</a></div><br></div>
-    </div>
 
 <div class="back">
 <a href="/all-issues/">Back to All Issues</a>
