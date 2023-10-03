@@ -240,14 +240,14 @@ Ethnographers in general believe that our worlds are socially constructed and, t
 
 <p><b>Eileen:</b>&nbsp;By focusing on what people actually do in the workplace and why, ethnography re-establishes people-centricity in organisations. Organisations are made up of people, but people’s needs are sometimes forgotten in work processes and deliverables imposed centrally or from the top down.</p>
 
-<p>Recently, I ran a discussion session for a division who was embarking on a shared desk office set-up in their hybrid working norms. To ensure parity, the management had demarcated sitting zones in the office for different teams. During the session, an officer raised a question about sitting in a zone for another team if the seat was not occupied that day. Everyone chimed in with similar observations and concerns for fear of encroaching on others’ space. The conclusion was that people could sit anywhere unoccupied. While this might appear to be common sense to someone on the outside, the discussion allowed real-world needs to be voiced, leading to the explicit permission implicitly sought by staff. This example shows how in marrying an ethnographic, people-centric lens with analytical thinking, we could be more effective and successful to achieve the intended outcomes of a hybrid work design.</p>
+<p>Recently, I ran a discussion session for a division who was embarking on a shared desk office set-up in their hybrid working norms. To ensure parity, the management had demarcated sitting zones in the office for different teams. During the session, an officer raised a question about sitting in a zone for another team if the seat was not occupied that day. Everyone chimed in with similar observations and concerns for fear of encroaching on others’ space. The conclusion was that people could sit anywhere unoccupied. While this might appear to be common sense to someone on the outside, the discussion allowed real-world needs to be voiced, leading to explicit permission implicitly sought by staff. This example shows how in marrying an ethnographic, people-centric lens with analytical thinking, we could be more effective and successful to achieve the intended outcomes of a hybrid work design.</p>
 
 
 <h3>Taking a Practical Step Forward</h3>
 
 <p>Conversations on hybrid work tend to revolve about the number of days staff are required to be back in office or allowed to be working from home. The deeper underlying question to this is about the degree of flexibility and autonomy staff members get in deciding when and where to meet work deliverables. Establishing what flexibility and autonomy will look like depends on how well we understand people’s needs and situations. This will vary across teams and across organisations. That is where ethnography can play an important role.</p>
 
-<p>For example, in the dimension of “well-designed structure and interactions” in the Hybrid Pyramid, we can ask the 5W1H questions to the people on the ground:</p>
+<p>For example, in the dimension of “well-designed structure and interactions” in the Hybrid Pyramid, we can ask the 5W1H questions to  people on the ground:</p>
 
 <ol>
 	<li>Who do you talk to get your work done?</li>
@@ -259,11 +259,11 @@ Ethnographers in general believe that our worlds are socially constructed and, t
 	
 </ol>	
 
-<p>Their responses can tell us how they work within and across structural levels. We can also probe how often they refer to an organisational chart or internal directory. Comparing these data with the design intentions for the organisation structure can help us improve the hybrid work design. It allows us to make a tangible reference to ground reality versus abstract drawings of boxes and lines determined centrally or imposed from the top.</p>
+<p>Their responses can tell us how they work within and across structural levels. We can also probe how often do they refer to an organisational chart or internal directory. Comparing these data with the design intentions for the organisation structure can help us improve the hybrid work design. It allows us to make a tangible reference to ground reality versus abstract drawings of boxes and lines determined centrally or imposed from the top.</p>
 
 <p>Ethnography encourages us to step back, suspend our assumptions and judgements, and observe how our people actually get their work done. Such an approach can help organisations assess how effective their hybrid work practices really are, so the right adjustments can be made to grow and sustain effective and productive results.</p>
 
-<p>For example, a recent article&nbsp;highlighted a survey finding of remote workers spending their break times to run errands, exercise, and do chores besides being on their mobile devices.</p>
+<p>For example, a recent article&nbsp;highlighted a survey finding of remote workers spending their break times to run errands, exercise, and do chores besides being on their mobile devices.<sup>13</sup></p>
 
 <p>In-office workers spend more time on computer games for their mental breaks—likely because they can’t accomplish much else in the office!</p>
 
