@@ -93,7 +93,7 @@ td
  How can the Public Service respond to the constraints of a challenging global environment? What can we do to reprioritise our work and make better use of limited resources, including our officers’ time, energies and commitment? Find out more in this digital edition of ETHOS, featuring views from Permanent Secretary Chng Kai Fong, as well as ILOD researchers Ashley Aw, Amos Law and Eileen Wong, with Thijs Willems in conversation.
             </p>	
             
-<div class="button1"><a href="/digital-issue-10/editorial/">Read More</a></div> <br></div>
+<div class="button1"><a href="/digital-issue-11/editorial/">Read More</a></div> <br></div>
     </div>
 
  <br>   
@@ -105,28 +105,27 @@ td
 <p>New tech tools and resource discipline can help us free up time and resources for more thoughtful public sector work: but a cultural shift is needed.
 </p>	
             
-<div class="button1"><a href="/digital-issue-10/prioritisation/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-11//">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
-      <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-02.jpg"></div>
-        <div><h3>Prioritising Work and Letting Go: The Emotional Dimension</h3>
-            <b><i>Aurora De Souza Watters</i></b>
+      <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_11/teaser_mindful%20prioritisation.jpg"></div>
+        <div><h3>Pro Tips: Mindful Prioritisation</h3>
+            <b><i>by Ashley Aw</i></b>
 <p>	
-            We should acknowledge our deep connection to our work and learn from what we have gained from each experience, as we refocus on new challenges.
+ Committing to one meaningful change  at a time is more effective than trying to accomplish too many things at once.
 </p>	
             
-<div class="button1"><a href="/digital-issue-10/prioritising-work-and-letting-go-the-emotional-dimensio/">Read More</a></div><br></div>
+<div class="button1"><a href="">Read More</a></div><br></div>
     </div>
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/Cropped_images/Ethos_Digital_10/Digital10-03.jpg"></div>
-        <div><h3>When Projects Change or End: Practical Steps to Manage Stakeholder Expectations</h3>
-            <b><i>by Khoo Ee Wan</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_11/teaser_addressing%20tensions%20in%20prioritising%20work.jpg"></div>
+        <div><h3>Addressing Tensions in Prioritising Work</h3>
+            <b><i>by Amos Law</i></b>
             
-<p>	
-            Effective stakeholder communication can help ease disruption and promote buy-in for new goals if projects have to be modified or deprioritised.
+<p>How can we balance the need to refocus work efforts while committing to and persevering on long-term work goals?
 </p>	
             
 <div class="button1"><a href="/digital-issue-10/when-projects-change-or-end-practical-steps-to-manage-stakeholder-expectations/">Read More</a></div><br></div>
