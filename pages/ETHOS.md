@@ -113,7 +113,7 @@ td
  Committing to one meaningful change  at a time is more effective than trying to accomplish too many things at once.
 </p>	
             
-<div class="button1"><a href="">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-11/pro-tips-mindful-prioritisation/">Read More</a></div><br></div>
     </div>
     
 <br>    
@@ -125,20 +125,20 @@ td
 <p>How can we balance the need to refocus work efforts while committing to and persevering on long-term work goals?
 </p>	
             
-<div class="button1"><a href="">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-11/addressing-tensions-in-prioritising-work/">Read More</a></div><br></div>
     </div>
     
 <br>    
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_11/teaser_rethinking%20hybrid%20work%20designs.jpg"></div>
         <div><h3>Rethinking Hybrid Work Design: Insights from Ethnography</h3>
-            <b><i>by Eileen Wong and Thijs Willems</i></b>
+          <b><i>by Eileen Wong and Thijs Willems</i></b>
             
 <p>	
 Closer study of how people actually behave in different organisational contexts could shed light on better ways to navigate—and shape—today’s fast-changing work cultures.         
 </p>	
             
-<div class="button1"><a href="">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-11/rethinking-hybrid-work-design-insights-from-ethnography/">Read More</a></div><br></div>
     </div>
 <br>
 
