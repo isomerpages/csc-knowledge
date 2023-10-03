@@ -156,7 +156,7 @@ border: 1px solid black;
 <p>Seeking a fresh perspective, ILOD Principal Consultant Eileen Wong spoke with Thijs Willems, an organisational ethnographer and Research Fellow at the Singapore University of Technology and Design, to explore how an ethnographic lens might shed light on and help reframe today’s shifting work cultures.</p>
  
 
-<div class="break">
+<!---<div class="break">
 
 <p class="break1">
 A blanket or top-down implementation would not benefit different needs across an organisation.
@@ -164,7 +164,12 @@ A blanket or top-down implementation would not benefit different needs across an
 
 
 
-</div>
+</div>--->
+
+
+
+
+
 
 
 
