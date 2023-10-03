@@ -164,7 +164,7 @@ A blanket or top-down implementation would not benefit different needs across an
 
 </div>--->
 
-<h3>The ethnography of hybrid work culture: A conversation</h3>
+<h3>The Ethnography of Hybrid Work Culture: A Conversation</h3>
 
 <p><b>Eileen:</b> What is an organisational ethnographic approach?</p>
 
