@@ -89,7 +89,7 @@ margin-top: 50px;
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_11/banner_mindful%20prioritisation.jpg">
 </div>	
 
-<h3>Committing to one meaningful change at a time is more effective than trying to accomplish too many things at once.</h3>
+
 
 <div class="grid-container">
 
