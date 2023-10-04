@@ -88,9 +88,6 @@ border: 1px solid black;
 <em><small>Digital Issue 11, Oct 2023</small></em>
 <img src="/images/Landing_Banner_Images/banner_opinion.jpg">
 
-<h4>  New tech tools and resource discipline can help us free up time and resources for more thoughtful public sector work: but a cultural shift is needed.</h4>
-
-
 <p>A perennial challenge governments face is that they grow bloated and more complex over time. With more complexity comes more organisational layers and bureaucracy. Part of this growth comes from governments having to address new needs that they have not been organised for in the past. An example of this is public engagement, which has become much more important in recent years, and—because of the cadence of social media—places more demands on every agency in the Public Service, even on weekends.</p>
 
 <p>The public sector has also to deal with issues that have become much more cross-boundary in nature, even as our public agencies are still structured according to prior paradigms. For instance, economics used to be an imperative in itself for governments. Now, economic thinking must take into account other considerations such as sustainability issues, societal concerns, and security issues as well. All this means there are many more trade-offs to be made for any decision. This leads to a greater need to coordinate across conventional Ministry lines, each of which have their own reporting structures and specialised needs.</p>
