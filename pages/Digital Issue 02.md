@@ -44,7 +44,7 @@ description: ""
             <p>In this second issue of ETHOS Digital Edition, we continue to bring you a variety of perspectives of interest to the practice of public sector governance and leadershgip in Singapore. Featuring: James A. Riccio, Dean Schilinger, Stephanie Siow, Theophilus Kwek, Jeff Cheah and Jason Chen.</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-02.pdf">Download PDF</a></div></div>
+   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-02">Download PDF</a></div></div>
     </div>
     
    <br>
