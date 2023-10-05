@@ -58,7 +58,7 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">World Cities Summit Issue, June 2008</span><br>World Cities Summit Issue</h3>
 		<p>What are the considerations of policymakers and urban developers in designing the future of cities? How should governments balance the demands of a economy, community and nation?  This special World Cities Summit edition features leading thinkers such as Alan A. Altshuler, Cheong Koon Hean, Bruno Frey, Bruce J. Katz and Julie Wagner.</p>
-		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-world-cities-summit-issue.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-world-cities-summit-issue">Download PDF</a></div>
 	</div>
 </div>
 
