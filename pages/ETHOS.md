@@ -76,9 +76,8 @@ td
         <div><h3><span class="cat">Digital Issue 11, Oct 2023</span>
             <br>ETHOS Digital Issue 11</h3>	
             <p> How can the Public Service respond to the constraints of a challenging global environment? What can we do to reprioritise our work and make better use of limited resources, including our officers’ time, energies and commitment? Find out more in this digital edition of ETHOS, featuring views from Permanent Secretary Chng Kai Fong, as well as ILOD researchers Ashley Aw, Amos Law and Eileen Wong, with Thijs Willems in conversation.</p>
-            
-            
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-11">Download PDF</a></div></div>
+                    
+   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-11.pdf">Download PDF</a></div></div>
     </div>
     
    <br>
