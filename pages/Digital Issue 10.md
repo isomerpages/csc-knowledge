@@ -79,7 +79,7 @@ td
             <p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a></div></div>
+   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-10.pdf">Download PDF</a></div></div>
     </div>
     
    <br>
