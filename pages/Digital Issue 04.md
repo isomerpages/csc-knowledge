@@ -44,7 +44,7 @@ description: ""
             <p>In this issue of ETHOS Digital Edition, public sector veterans from around the world discuss the future of governance in the digital age. Also , our more experienced colleagues share quick tips on how to do better at work in a new feature: PRO TIP.</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-04.pdf">Download PDF</a></div></div>
+   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-04">Download PDF</a></div></div>
     </div>
     
    <br>
