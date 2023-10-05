@@ -58,7 +58,7 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">Special Edition Dec 2020</span><br>Digital Special Edition Dec 2020</h3>
 		<p>In our ongoing Special Edition of ETHOS, we bring you fresh views and perspectives on the COVID pandemic's far-reaching impact on Singapore's economy, society and prospects for the future. In this update, we present views that suggest the growing role that our home region might play in Singapore's post-COVID economic prospects, as world economies pivot and supply chains shift. Featuring: Kanti Bajpai, Phred Dvorak, Selina Ho, Marina Jose Kaneti, Adam Yao Liu, Samheng Boros, Tan Lin Teck, Kelvin Yii, Mathew Mathews, Shane Pereira, Khoung Minh Vu and Kris Hartley.</p>
-		<div class="button1"><a target="_blank" href="">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-digital-special-edition-dec20">Download PDF</a></div>
 	</div>
 </div>
 
