@@ -59,7 +59,7 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">Issue 23 , Oct 2021</span><br>ETHOS Issue 23</h3>
 		<p>In this issue, ETHOS commemorates two decades since CSC's formation as a statutory board and our dedication to continuous learning and capability building in the Singapore Public Service. Gathering insights from a range of practitioners and thought leaders from both within and outside the Service, this issue explores what and how we should learn to be ready for the future.</p>
-		<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-23.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-23">Download PDF</a></div>
 	</div>
 </div>
 

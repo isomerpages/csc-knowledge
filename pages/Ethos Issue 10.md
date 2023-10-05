@@ -58,7 +58,7 @@ margin-top:15px;
 	<div>
 		<h3>Issue 10 , Oct 2011<br>ETHOS Issue 10</h3>
 		<p>This special issue of ETHOS commemorates the 10th Anniversary of the Civil Service College's establishment as a statutory board. Looking ahead, what must we do to build up our collective capacity as a nation to anticipate, cope and thrive in the face of change and uncertainty? Featuring Peter Ong, Jocelyne Bourgon, Laurence Lien David Chan and Aaron Maniam.</p>
-		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-10.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-10">Download PDF</a></div>
 	</div>
 </div>
 

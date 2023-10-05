@@ -57,10 +57,15 @@ padding-bottom:30px;
 <p>Thank you for your continued readership and interest. We hope you find our new offerings engaging and useful. If you have comments or suggestions, please do let us know.</p>
 
 
-<div class="author">
-<b>Dr Alvin Pang</b><br>
-Editor-in-Chief, ETHOS
-</div>	
+<h4>Alvin Pang</h4>
+
+<p>Editor
+<br>
+<strong>ETHOS</strong>
+<br>
+<a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>
+</p>
+
 	
 <br>
 <br>	

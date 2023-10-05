@@ -43,7 +43,7 @@ description: ""
 		<p>For the inaugural issue of our ETHOS Digital Edition, we feature Jocelyne Bourgon, Max Everest-Phillips, Catherine Fieschi, as well as participants of CSC's Leaders in Governance Programme..</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-01.pdf">Download PDF</a></div></div>
+   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-01">Download PDF</a></div></div>
     </div>
     
    <br>
@@ -51,10 +51,7 @@ description: ""
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
         <div><h3>Editorial </h3>
-            <b><i>by Dr Alvin Pang</i></b>
-            <figcaption>
-            Editor-in-Chief Ethos
-            </figcaption>
+            <b><i>by Alvin Pang</i></b>
                 
   <p>Between print issues , we are introducing a new digital-only edition of ETHOS, with articles of general interest to public policy and governance in Singapore. These will include interviews, reviews, lectures and opinion pieces, as well as more media-rich material to come, as we find fresh ways to present and consider important perspectives.</p>	
             

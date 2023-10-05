@@ -62,9 +62,15 @@ border-top:1px solid black;
 
 <p>As always, we wish you an engaging read and would love to hear from you if you have any comments or suggestions.&nbsp;</p>
 
-<strong>Alvin Pang</strong><br>
-Editor-in-Chief<br>
+<h4>Alvin Pang</h4>
+
+<p>Editor
 <br>
+<strong>ETHOS</strong>
+<br>
+<a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>
+</p>
+
 
 
 <div class="author">

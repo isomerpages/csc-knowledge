@@ -55,11 +55,15 @@ Two researchers from CSC’s Institute of Leadership and Organsiation Developmen
 
 <p>I wish you an insightful read.</p>
 
-<div class="author">
-<b>Dr Alvin Pang</b><br>
-Editor-in-Chief, ETHOS
-</div>	
-	
+<h4>Alvin Pang</h4>
+
+<p>Editor
+<br>
+<strong>ETHOS</strong>
+<br>
+<a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>
+</p>
+
 <br>
 <br>	
 <div class="back">

@@ -54,14 +54,17 @@ border-top:1px solid black;
 <p>Finally, contributors from our own Institute of Public Administration and Management at Civil Service College investigates the <a href="/digital-issue-02/could-crowdfunding-work-for-singapores-public-sector/"><em>potential of civic crowdfunding</em></a>&nbsp;as an option for funding small public projects.</p>
 
 <p>As always, we wish you an engaging read and would love to hear from you if you have any comments or suggestions at <a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>.<br>
-<br>
+
 	
-<strong>Alvin Pang</strong><br>
-Editor-in-Chief<br>
+</p><h4>Alvin Pang</h4>
+
+<p>Editor
 <br>
-</p><div class="author">	
-<em>Do also check out our January 2018 full issue of Ethos, which explores issues related to the <a href="/ethos-issue-18/">future of work</a>.</em>
-</div>
+<strong>ETHOS</strong>
+<br>
+<a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>
+</p>
+
 
 <br>
 <br>	

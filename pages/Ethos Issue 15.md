@@ -58,7 +58,7 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">Issue 15 June 2016</span><br> ETHOS Issue 15</h3>
 		<p>This issue explores the increasingly complex and diverse online and offline communities the public sector has to navigate and operate in; the challenges and possible pitfalls the public sector should be aware of even as it takes firmer steps towards more purposeful engagement and collaboration. Contributors to this issue including leading thinkers Professor Paul C. Light and Dr Catherine Dieschi, and veteran social commentators Professor Paulin Straughan and Ms Bertha Henson.</p>
-		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-15.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-15">Download PDF</a></div>
 	</div>
 </div>
 

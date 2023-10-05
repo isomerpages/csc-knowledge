@@ -58,7 +58,7 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">Issue 16 , Dec 2016</span><br>ETHOS Issue 16</h3>
 		<p>As the world moves into ever more turbulent waters, the credibility, relevance and impact of the public sector may depend on being able to connect, collaborate and create consensus with the society we serve. How might we strengthen institutions and leadership, invest in technology, while seeking innovative approaches to help us learn to do better? This issue of ETHOS explores some avenues ahead, with contributions from leading thinkers such as Gary Banks and Jean-Francois Manzoni, and veteran public servants Peter Ho and Stephen Sedgwick.</p>
-		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-16.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-16">Download PDF</a></div>
 	</div>
 </div>
 

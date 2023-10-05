@@ -1,5 +1,0 @@
-collections:
-  all-issues:
-    output: true
-    order:
-      - All Issues.md

@@ -58,7 +58,7 @@ margin-top:15px;
             <p>This issue looks at Singapore's ambition to be a smart Nation, and explores the apparent tensions and trade-offs that both underpin and animate Singapore's Smart Nation efforts.</p>
             
             
-   <div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-21.pdf">Download PDF</a></div>
+   <div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-21">Download PDF</a></div>
 	</div>
    </div>
     

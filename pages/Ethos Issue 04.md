@@ -60,7 +60,7 @@ margin-top:15px;
 		<h3><span class="cat">Issue 04, April 2008</span><br> ETHOS Issue 04</h3>
 		<p>What is the next phase of development for public service delivery? What are the new key capabilities that the public service will have to develop, to thrive in a challenging operating environment? Featuring thought leaders such as Jocelyne Bourgon, B. Guy Peters, Peter Ho and Lam Chuan Leong.</p>
 <br>
-<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-04.pdf">Download PDF</a></div>
+<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-04">Download PDF</a></div>
 	</div>
 </div>
 

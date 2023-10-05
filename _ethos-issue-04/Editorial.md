@@ -94,13 +94,16 @@ font-size: 16px;
 <p>I wish you a productive read.</p>
 
 
+  
+<h4>Alvin Pang</h4>
 
-<br>  
-  
-  
-<b>Dr Alvin Pang</b><br>
-Editor-in-Chief, ETHOS
-<br>  
+<p>Editor
+<br>
+<strong>ETHOS</strong>
+<br>
+<a href="mailto:ethos@cscollege.gov.sg">ethos@cscollege.gov.sg</a>
+</p>
+
 
 
 
