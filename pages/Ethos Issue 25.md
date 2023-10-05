@@ -60,7 +60,7 @@ margin-top:15px;
     <div><h3><span class="cat">ISSUE 25, APR 2023</span>
         <br>ETHOS Issue 25</h3>	
         <p>This issue explores the theme of Rethinking Resourcing in the Public Service. Our distinguished contributors share insights on how the public sector can harness new technology, methods and approaches to address new priorities in an environment of greater resource constraints.</p>   
-         <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25">Download PDF</a></div>
+         <div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-25.pdf">Download PDF</a></div>
     </div>
 </div>
 <br>
