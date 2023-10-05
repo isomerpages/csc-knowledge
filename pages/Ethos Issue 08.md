@@ -58,7 +58,7 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">Issue 08, August 2010</span><br>ETHOS Issue 08</h3>
 		<p>This issue of ETHOS explores the nuances of China's development as well as Singapore's and ASEAN's emerging relationships. Featuring Shaun Breslin, Kenneth Lieberthal, Lye Liang Fook and Zheng Yongnian.</p>
-		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-08.pdf">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-08">Download PDF</a></div>
 	</div>
 </div>
 
