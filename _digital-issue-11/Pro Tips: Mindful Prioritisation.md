@@ -1,6 +1,6 @@
 ---
 title: "Pro Tips: Mindful Prioritisation"
-permalink: /digital-issue-11/pro-tips-mindful-prioritisation/
+permalink: /digital-issue-11/pro-tips-mindfulness-in-prioritisation/
 description: ""
 ---
 <style>

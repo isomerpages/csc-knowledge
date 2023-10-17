@@ -112,7 +112,7 @@ td
  Committing to one meaningful change  at a time is more effective than trying to accomplish too many things at once.
 </p>	
             
-<div class="button1"><a href="/digital-issue-11/pro-tips-mindful-prioritisation/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-11/pro-tips-mindfulness-in-prioritisation/">Read More</a></div><br></div>
     </div>
     
 <br>    
