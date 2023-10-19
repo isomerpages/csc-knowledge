@@ -254,13 +254,7 @@ font-size: 16px;
 </div>
 
 <div class="grid-container">
-    <div class="grid-item">
-        <img src="/images/Ethos_Thumbnails_Cover/ethosdigital2020specialedition.jpg">
-        <p>
-            <a target="_blank" href="/digital-special-edition-dec-2020/">Digital Special Edition, Dec 2020</a>
-            <br>
-            <a target="_blank" href="https://go.gov.sg/ethos-digital-special-edition-dec20">Download PDF</a>
-        </p>
+   
     </div>
     <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital06.jpg">
@@ -270,7 +264,7 @@ font-size: 16px;
             <a target="_blank" href="https://go.gov.sg/digital-issue-06">Download PDF</a>
         </p>
     </div>
-</div>
+
 
 
 <h3>2017</h3>
