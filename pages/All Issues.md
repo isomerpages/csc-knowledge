@@ -376,7 +376,7 @@ font-size: 16px;
     <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosissue10.jpg">
         <p>
-            <a target="_blank" href="/ethos-issue-10/">Issue 10, Oct 2011, <br>Preparing Government<br> for
+            <a target="_blank" href="/ethos-issue-10/">Issue 10, Oct 2011, <br>Preparing Government for
             the Challenges<br> of the 21 st Century</a>
             <br>
             <a target="_blank" href="https://go.gov.sg/ethos-issue-10">Download PDF</a>
