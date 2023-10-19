@@ -251,7 +251,7 @@ font-size: 16px;
             <br>
  <a target="_blank" href="https://go.gov.sg/ethos-issue-18">Download PDF</a>
         </p>
-    </div>
+</div>
 </div>
 
 <div class="grid-container">
