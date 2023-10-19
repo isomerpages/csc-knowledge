@@ -196,8 +196,9 @@ font-size: 16px;
 <div class="grid-container">
     <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital05.jpg">
-        <p>
-            <a target="_blank" href="/digital-issue-05/">Digital Edition Issue 5, Nov 2019</a>
+        
+			<p>
+<a target="_blank" href="/digital-issue-05/">Digital Edition Issue 5, Nov 2019</a>
             <br>
             <a target="_blank" href="https://go.gov.sg/digital-issue-05">Download PDF</a>
         </p>
@@ -244,18 +245,16 @@ font-size: 16px;
         </p>
     </div>
     <div class="grid-item">
-        <img src="/images/Ethos_Thumbnails_Cover/ethosissue18.jpg">
+      <img src="/images/Ethos_Thumbnails_Cover/ethosissue18.jpg">
         <p>
-            <a target="_blank" href="/ethos-issue-18/">Issue 18, Jan 2018, The Future of Work</a>
+       <a target="_blank" href="/ethos-issue-18/">Issue 18, Jan 2018, The Future of Work</a>
             <br>
-            <a target="_blank" href="https://go.gov.sg/ethos-issue-18">Download PDF</a>
+ <a target="_blank" href="https://go.gov.sg/ethos-issue-18">Download PDF</a>
         </p>
     </div>
 </div>
 
 <div class="grid-container">
-   
-    </div>
     <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital06.jpg">
         <p>
@@ -264,7 +263,7 @@ font-size: 16px;
             <a target="_blank" href="https://go.gov.sg/digital-issue-06">Download PDF</a>
         </p>
     </div>
-
+</div>
 
 
 <h3>2017</h3>
@@ -274,11 +273,16 @@ font-size: 16px;
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital01.jpg">
         <p>
             <a target="_blank" href="/digital-issue-01/">Digital Edition Issue 1, Nov 2017</a>
-            <br>
-            <a target="_blank" href="https://go.gov.sg/digital-issue-01">Download PDF</a>
+            
+<br>
+ <a target="_blank" href="https://go.gov.sg/digital-issue-01">Download PDF</a>
         </p>
     </div>
-    <div class="grid-item">
+<!--	
+	
+	
+	
+ <div class="grid-item"-->
         <img src="/images/Ethos_Thumbnails_Cover/ethosissue17.jpg">
         <p>
             <a target="_blank" href="/ethos-issue-17/">Issue 17, Jun 2017, Behavioural Insights</a>
@@ -286,7 +290,7 @@ font-size: 16px;
             <a target="_blank" href="https://go.gov.sg/ethosissue17">Download PDF</a>
         </p>
     </div>
-</div>
+
 
 
 <h3>2016</h3>
