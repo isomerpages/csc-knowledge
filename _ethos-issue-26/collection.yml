@@ -2,4 +2,5 @@ collections:
   ethos-issue-26:
     output: true
     order:
+      - The Next Bound of Health and Healthcare.md
       - Editorial.md
