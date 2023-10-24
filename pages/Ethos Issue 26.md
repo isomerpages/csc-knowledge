@@ -115,8 +115,8 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3>Title</h3>
-		<b><i>by ____________</i></b>
+		<h3>Getting Ready for Precision Public Health</h3>
+		<b><i>by Clive Tan and Jeremy Lim</i></b>
 		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
@@ -127,8 +127,8 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3>Title</h3>
-		<b><i>by ____________</i></b>
+		<h3>Realising the Promise of Health Information</h3>
+		<b><i>by Raymond Chua</i></b>
 		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
@@ -139,8 +139,32 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3>Title</h3>
-		<b><i>by ____________</i></b>
+		<h3>Keeping It Real: Outcomes-Based Contracting for Mental and Social Health</h3>
+		<b><i>by Richard Johnson</i></b>
+		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Humanising the Future of Care</h3>
+		<b><i>by Leong Choon Kit</i></b>
+		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Encouraging Healthier Choices: Helping People Take Better Care of Themselves</h3>
+		<b><i>by Rory Gallagher and Serene Koh</i></b>
 		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
@@ -149,10 +173,54 @@ margin-top:15px;
 <br>
 
 
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Social Norm Nudges and Social Sensemaking: Lessons for Policymakers</h3>
+		<b><i>by Do Hoang Van Khanh</i></b>
+		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Building an Age-Inclusive Healthcare System in Singapore</h3>
+		<b><i>by Reuben Ng &amp; Nicole Indran</i></b>
+		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Health is Social: The Future of Care in Singapore</h3>
+		<b><i>by Eugene Fidelis Soh</i></b>
+		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Nurturing&nbsp;Leaders for the Future Healthcare</h3>
+		<b><i>by Pang Weng Sun &amp; Lee Shiao Wei</i></b>
+		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+	</div>
+</div>
 
 
-
-
+<br>
 
 
 <div class="back">
