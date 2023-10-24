@@ -81,7 +81,7 @@ margin-top:15px;
 	<div>
 		<h3>The Next Bound of Health and Healthcare</h3>
 		<b><i>by Ng How Yue</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p>Strong community relationships, cross-sector partnerships and informed personal agency pave the way for a healthier Singapore for the future.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
