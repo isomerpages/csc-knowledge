@@ -73,12 +73,13 @@ line-height:22px;
 </div>	
 	
 
-<p>Health extends beyond our hospitals 
-and clinics and into homes and communities. All of us have an interest in creating a healthy society for all.</p>
+<p>Health extends beyond our hospitals and clinics and into homes and communities. All of us have an interest in creating a healthy society for all.</p>
 
-<p>There is a pressing need for us to improve our population’s health. Most of us are familiar with the oft-quoted statistic, that in 2030 approximately one in four Singaporeans would be aged 65 and above, up from about one in six today.2 For those 65 and above, the likelihood of being hospitalised quadruples.3 Furthermore, Singaporeans are already losing up to a decade of healthy life largely due to chronic conditions.4 Cardiovascular diseases, cancers, and diabetes account for about 35% of our total disease burden.5 Living with one or more of these conditions compromises our quality of life and increases caregiving needs. On a broader scale, they impose additional strain on our healthcare resources.</p>
+<p>There is a pressing need for us to improve our population’s health. Most of us are familiar with the oft-quoted statistic, that in 2030 approximately one in four Singaporeans would be aged 65 and above, up from about one in six today.<sup>2</sup> For those 65 and above, the likelihood of being hospitalised quadruples.<sup>3</sup> Furthermore, Singaporeans are already losing up to a decade of healthy life largely due to chronic conditions.<sup>4</sup> Cardiovascular diseases, cancers, and diabetes account for about 35% of our total disease burden.<sup>5</sup> Living with one or more of these conditions compromises our quality of life and increases caregiving needs. On a broader scale, they impose additional strain on our healthcare resources.</p>
 
 <p>The good news is that our health is not fixed and can be improved, both individually and as a population. We know that an unhealthy diet, physical inactivity, obesity, and tobacco use are major contributors to cardiovascular disease, cancers, and diabetes. And now, more than ever before, we have information and sophisticated tools at our fingertips to help prevent or delay the deterioration of these conditions.</p>
+
+
 
 
 
