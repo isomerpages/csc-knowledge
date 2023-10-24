@@ -82,6 +82,9 @@ line-height:22px;
 
 
 <figure>  
+<img src="/images/Ethos_Images/Ethos_Issue_26/polyclinic.jpg">
+	<figcaption><b>Figure 1.</b> Healthcare clusters, as regional health managers, will organise community partners in support of better health outcomes.</figcaption>	
+	
 </figure>
 
 
