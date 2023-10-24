@@ -2,6 +2,8 @@ collections:
   ethos-issue-26:
     output: true
     order:
+      - "Keeping It Real: Outcomes Based Contracting for Mental and Social
+        Health.md"
       - Editorial.md
       - The Next Bound of Health and Healthcare.md
       - "Creating the Future of Healthcare: A Conversation with Prof Tan Chorh
