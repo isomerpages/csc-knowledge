@@ -5,6 +5,7 @@ description: ""
 ---
 <style>
 
+
 		
 .back a
 {
@@ -30,48 +31,6 @@ description: ""
 	font-weight: bold;
 }
 
-#public-sector
-{
-background-color:#12143b;
-padding: 20px;
-margin-top: 30px;
-}
-	
-#public-sector p
-{
-color: #ffffff;
-}	
-	
-#public-sector h4
-{
-color: #3DB984;	
-}
-	
-#text
-{
-background-color:#12143b;
-padding: 20px;
-margin-top: 30px;
-}
-	
-#text p
-{
-color: #ffffff;
-}		
-	
-#for-more-info
-{
-	background-color:#12143b;
-	color:white;
-	margin-top:45px;
-	padding:20px;
-}
-	
-#for-more-info a
-{
-color: #3DB984;
-font-weight:bold;
-}	
 	
 .author
 {
@@ -92,21 +51,13 @@ line-height: 22px;
 font-size: 15px;
 line-height:22px;
 }		
-	
-.next-steps
-{
-background-color:#12143b;
-padding: 20px;
-color: white;
-}
-	
-.next-steps h3
-{
-	color:#3DB984;
-}
+
+
+
 	
 
 
+	
 	
 </style>
 <em><small>ETHOS Issue number, month year</small></em>
