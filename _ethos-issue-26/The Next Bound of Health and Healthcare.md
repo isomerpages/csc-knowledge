@@ -63,7 +63,7 @@ line-height:22px;
 <em><small>ETHOS Issue 26, Dec 2023</small></em>
 <div class="background-image">
 <img src="">
-</div>
+
 
 
 <div class="break">
@@ -82,7 +82,7 @@ line-height:22px;
 
 
 <figure>  
-&nbsp;&nbsp;</figure>
+</figure>
 
 
 
@@ -91,7 +91,7 @@ line-height:22px;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
+<p></p>
 </div>
 
 
@@ -99,14 +99,7 @@ line-height:22px;
 <h6>NOTES</h6>
 <ol>
 	
-<li id="num1">See: “Digital Government Blueprint”, accessed January 6, 2023, <a href="https://www.tech.gov.sg/digital-government-blueprint/" target="_blank">https://www.tech.gov.sg/digital-government-blueprint/.</a></li>
-	
-	
-<li id="num2">For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, 
-<a href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" target="_blank">https://www.developer.tech.gov.sg/singapore-government-tech-stack/</a></li>
-	
-	
-<li id="num3">Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, <a href="https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science" target="_blank">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
+
 </ol>	
 </div>
 
@@ -117,4 +110,4 @@ line-height:22px;
 <br><br>
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div>
+</div></div>
