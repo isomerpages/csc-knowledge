@@ -79,8 +79,8 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3>Title</h3>
-		<b><i>by ____________</i></b>
+		<h3>The Next Bound of Health and Healthcare</h3>
+		<b><i>by Ng How Yue</i></b>
 		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
@@ -91,8 +91,8 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3>Title</h3>
-		<b><i>by ____________</i></b>
+		<h3>Creating the Future of Healthcare: A Conversation with Prof Tan Chorh Chuan</h3>
+		<b><i>by Tan Chorh Chuan</i></b>
 		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
@@ -103,8 +103,8 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
-		<h3>Title</h3>
-		<b><i>by ____________</i></b>
+		<h3>Designing a Healthier City</h3>
+		<b><i>by Tai Lee Siang</i></b>
 		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
