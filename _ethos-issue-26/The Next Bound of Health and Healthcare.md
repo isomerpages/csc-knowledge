@@ -87,8 +87,29 @@ line-height:22px;
 	
 </figure>
 
+<p>Primary and community care providers are also crucial in supporting mental health needs. Mental health and wellbeing came to the fore during the last few years, when the COVID-19 pandemic exacerbated existing stressors and brought about new ones. On top of ongoing efforts by community outreach and intervention teams, MOH is working with partners in primary and community care to increase mental health literacy across the population.</p>
+	
+<p>Our three healthcare clusters—SingHealth, National University Health System (NUHS), and National Healthcare Group (NHG)—who have traditionally built up strong capabilities in specialist medical care, acute care, and primary care—will do more in the prevention space. A big part of this involves working with community providers to integrate services and deliver more comprehensive care to residents. Over the last few years, clusters have put in place geographical-based community nursing teams, so residents can consult community nurses and receive health advice at health posts located conveniently within Active Ageing Centres (AACs), Community Centres (CCs), Residents’ Corners (RCs), and Social Service Offices (SSOs). Since 2022, we have also worked with the Ministry of Social and Family Development (MSF) to pilot Family Nexus, which provides children and their families with a “one-stop shop” near their homes to access services across different domains. With Family Nexus, couples and families with young children can receive health and social support in a single session. </p>
+	
+<p>To facilitate the transition of patients back into the community after hospital episodes, the clusters have also been implementing the “Hospital-to-Home” programme. Post-discharge patients with complex needs are managed by a multidisciplinary care team who helps to assess their health and psychosocial needs, and follows up accordingly. </p>	
+	
+	
+<h3>ADDRESSING UNDERLYING SOCIAL AND ENVIRONMENTAL 
+CONDITIONS</h3>	
+	
+<p>Beyond preventive care, MOH is broadening our view on what factors contribute to poor health. Many of them are underlying social or environmental conditions that are much harder to address, and require concerted and coordinated efforts beyond MOH. The World Health Organisation states that health inequities are greatly influenced by “non-medical factors that influence health outcomes…the conditions in which people are born, grow, work, live, and age”. We are grateful that different Ministries across the public sector are working alongside us, to shape a Healthier Singapore for the benefit of all our residents.</p>
+	
+<p>Schools have been strong partners for us in laying the foundations of health literacy. Through the years, the Ministry of Education (MOE) has worked with MOH to incorporate health education in its curriculum, from early childhood all the way to tertiary education. School health programmes started being rolled out in as early as the 1930s, and have evolved over the years to stay relevant to each new generation of students. Research findings show that good health habits such as proper diet, sleep, and device use, if inculcated from young, could have a profound impact on one’s cognitive development and wellbeing later on in life. We are working with MOE and the Early Childhood Development Agency (ECDA) to roll out a more holistic school health package that will give every child a good start in fostering lifelong health habits from young. This will encompass evidence-based programmes and interventions that promote good health and address key health issues—such as obesity, screen and device usage, as well as smoking and vaping—among youth.</p>
+	
+<div class="break">
 
+<p class="break1">"Health inequities are greatly influenced by ‘non-medical factors that influence health outcomes… the conditions in which people are born, grow, work, live, and age.”</p>
 
+</div>	
+	
+	
+	
+	
 
 
 
