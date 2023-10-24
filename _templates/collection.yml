@@ -1,4 +1,5 @@
 collections:
   templates:
     output: true
-    order: []
+    order:
+      - Table of Content template.md
