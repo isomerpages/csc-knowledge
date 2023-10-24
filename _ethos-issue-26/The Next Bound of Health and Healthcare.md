@@ -80,6 +80,23 @@ line-height:22px;
 <p>The good news is that our health is not fixed and can be improved, both individually and as a population. We know that an unhealthy diet, physical inactivity, obesity, and tobacco use are major contributors to cardiovascular disease, cancers, and diabetes. And now, more than ever before, we have information and sophisticated tools at our fingertips to help prevent or delay the deterioration of these conditions.</p>
 
 
+<h3>PREVENTION ON ALL LEVELS, WITH ALL PARTNERS</h3>
+
+<p>At the Ministry of Health (MOH), we are shifting the centre of gravity of healthcare towards prevention on all levels: keeping healthy individuals well; early detection and intervention; and mitigating health deterioration. On this journey of transformation, MOH recognises that we cannot do everything on our own. We are making a conscious effort to work across silos, and build trust and confidence with partners.</p>
+	
+<p>To strengthen preventive measures, we are partnering General Practitioners (GPs) and polyclinics to engage more Singaporeans through Healthier SG. Most patients today visit doctors on an ad-hoc basis only when a concern arises or if they need a medical certificate. But the research has shown that those who have a regular family doctor are generally healthier and require fewer visits to emergency departments and hospitals. Under Healthier SG, we aim to strengthen the regular doctor-patient relationship and increase the emphasis on maintaining or improving the individual’s health.</p>
+
+<p>Family doctors are trained to care for individuals of all ages across a range of healthcare needs and be their main care provider. We can expect to see an increasing number of ageing patients with multiple chronic conditions. They will benefit from more support to live well and improve their health in the community, which is preferable to providing them with more and more healthcare services after their health deteriorates. To build a high-quality primary care sector capable of meeting these growing care needs, we need our primary care doctors to be trained in Family Medicine. MOH is working with the family medicine training committees, College of Family Physicians Singapore, and other partners involved in Family Medicine training to ensure there is sufficient training capacity and strong support for GPs to upskill and attain the relevant postgraduate qualifications for Family Physician accreditation.</p>
+
+
+<div class="break">
+
+<p class="break1">"We aim to strengthen the regular doctor-patient relationship and increase the emphasis on maintaining or improving the individual’s health.”</p>
+
+</div>	
+
+
+
 
 
 
