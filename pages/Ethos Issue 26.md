@@ -141,7 +141,13 @@ margin-top:15px;
 	<div>
 		<h3>Keeping It Real: Outcomes-Based Contracting for Mental and Social Health</h3>
 		<b><i>by Richard Johnson</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p>Clear definitions of success,  
+co-determined with stakeholders 
+and supported by robust 
+performance management, are  
+key to delivering results 
+meaningful to the people 
+programmes seek to serve.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
