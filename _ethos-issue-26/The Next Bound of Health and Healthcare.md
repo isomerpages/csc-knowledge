@@ -150,8 +150,18 @@ In the coming years, we are keen to do more to lower barriers to health and heal
 	
 </figure>	
 		
+<p>During our public consultations for the Healthier SG White Paper in 2022, we heard from many residents that peer and family influence were key factors in motivating them to exercise regularly and eat healthily. We also saw that partners could help to introduce more variety into the types of activities that are organised on the ground. One example is the Live Well Age Well programme that HPB and the People’s Association (PA) jointly organise at various community touchpoints, which aims to empower seniors to continue doing what they love, while improving their physical, mental, and social health. In future, HPB will look at how to incorporate programmes from other public sector agencies to rejuvenate our healthy lifestyle offerings under Healthier SG and Age Well SG.</p>	
+	
+<p>The Silver Generation Office (SGO) will keep up its efforts to identify socially isolated seniors, and can now connect them to nearby AACs for follow-up. Over time, AACs can augment their manpower and extend their reach by broadening their volunteer pool through SG Cares, and leveraging Residents’ Networks to establish satellite locations. AIC is even working on an “Adopt-an-AAC” initiative with corporate partners, where staff can contribute to building up a more sustainable pool of volunteers for an AAC which they have adopted.</p>	
 	
 	
+<p>Beyond the public sector, we have been actively engaging organisations in the private sector to be part of our health ecosystem. MOH and HPB adopt a tripartite approach to encouraging workplace safety and health through collaborations with corporates, unions, associations, and other public sector organisations. In July this year, we worked with the Ministry of Manpower (MOM), NTUC, and Singapore National Employers Federation (SNEF) to publish a Tripartite Statement that outlines recommendations for employers to promote employee health and wellbeing in support of Healthier SG. We are now working together to develop Tripartite Standards to guide employers in implementing practices that enhance workplace health and wellness. Today, employees can benefit from HPB’s programmes like the aforementioned Healthy Workplace Ecosystems (HWE), Mature Workers Programme (MWP), and Workplace Outreach Wellness (WOW) Programme, or the Workplace Safety and Health (WSH) Council’s Total WSH Programme. The Tripartite Oversight Committee on WSH oversees the scaling up and sustained adoption of these programmes, to support partners' and employers’ efforts in promoting healthier lifestyles at  the workplace.</p>	
+	
+<p>Over the past years, HPB has also been actively engaging industry partners and steering them towards the provision of healthier options, such as reformulating their products to develop healthier food and beverages. For instance, as part of the nationwide sodium reduction strategy that was announced in 2022, HPB has been working with major suppliers to expand the range of lower-sodium salt, sauces, and seasonings. HPB also extended its Healthier Ingredient Development Scheme (HIDS) to support the development and commercialisation of lower-sodium ingredients.</p>	
+
+<p>As a government, how we design and implement national policy is evolving. With public issues that are ever more complex and interlinked, we need the cooperation and support of many players, all doing their part to shift residents, households, and organisations in the right direction. In creating space within our policies for community and private sector partners to contribute, the public sector can become more effective as a whole in serving the needs of all Singaporeans.</p>	
+	
+<p>Ultimately, our initiatives must inspire individuals to themselves adopt a mindset of personal ownership, and influence others around them to do the same. This I believe is the next bound of work for us. Even with the best efforts of government and community, the agency and willingness to change lies with the individual. The design of our policies and programmes must take this into account, in order to drive lasting changes in society. </p>	
 	
 	
 	
@@ -162,14 +172,18 @@ In the coming years, we are keen to do more to lower barriers to health and heal
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p></p>
+	<p><b>Ng How Yue</b> is Permanent Secretary (Health Development), Ministry of Health (MOH). He was previously Permanent Secretary, Ministry of Law. He has also served as Principal Private Secretary to the Prime Minister and as Chairman of the Energy Market Authority, among other senior positions in the Singapore Public Service.</p>
 </div>
 
 
 <div class="notestop">
 <h6>NOTES</h6>
 <ol>
-	
+<li>Scott L. Greer, Michelle Falkenbach, Luigi Siciliani, Martin McKee, Matthias Wismar, and Josep Figueras, “From Health in All Policies to Health for All Policies”, The Lancet Public Health 7, no. 8 (2022): E718–E720, doi: https://doi.org/10.1016/S2468-2667(22)00155-4.</li>
+<li>Source: Population in Brief 2022. The proportion of citizens aged 65 and above is estimated to be 23.8%in 2030, up from 18.4% in 2022.</li>
+<li>Based on admissions data in 2019.</li>
+<li>Based on National Health Survey 2010, National Health Surveillance Survey 2013, and National Population Health Survey 2019/2020.</li><li>Based on Global Burden of Disease Study 2019.</li>
+<li>As of end-December 2022.</li>
 
 </ol>	
 </div>
