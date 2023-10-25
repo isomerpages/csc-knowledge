@@ -37,6 +37,14 @@ padding:20px;
 color:white;	
 }
 	
+.break2 q
+{
+font-family: Georgia;	
+font-size:20px;
+	font-style: italic;
+	font-weight: bold;	
+}
+	
 .author
 {
 border-bottom: 1px solid black;
