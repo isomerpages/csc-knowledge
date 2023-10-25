@@ -128,6 +128,32 @@ One example is the Active Health Labs by Sport Singapore, which provides afforda
 </figure>	
 	
 	
+<div class="break">
+
+<p class="break1">"We are keen to do more to lower barriers to health and healthcare, and to be more targeted in supporting not just seniors, but other vulnerable population segments.”</p>
+
+</div>			
+	
+	
+<p>In tandem, MOH will work with the Ministry of National Development (MND), Housing and Development Board (HDB), and Ministry of Transport (MOT) to continually upgrade homes and residential estates, as well as offer more housing options, for seniors to age independently in the community. An example of a new senior housing typology is the Community Care Apartments, which are integrated with care services. MND will also be expanding their Enhancement for Active Seniors (EASE) programme. EASE 2.0 will offer more subsidised fittings within homes so that seniors can go about their daily activities literally with greater EASE! At the same time, our HDB estates are becoming increasingly senior-friendly, with more shelters, rest points, barrier-free access ramps, pedestrian crossings, and even green man signals that last longer. </p>
+	
+In the coming years, we are keen to do more to lower barriers to health and healthcare, and to be more targeted in supporting not just seniors, but other vulnerable population segments. We have begun partnering with MSF in making healthcare services more accessible for lower-income households. Close to two-thirds of families under MSF’s ComLink programme have indicated having at least one family member with a chronic health condition, with a quarter of them not compliant in adhering to medical appointments or medication. ComLink family coaches and SSO coordinators will thus be working more closely with the clusters to address ComLink families’ health needs. Besides equipping the ComLink family coaches with tools to support these families through health nudges and navigation support, the respective cluster will also assign a team to provide joint case management for families with complex needs.
+	
+<h3>WHAT IS OUR ROLE AS A PUBLIC SERVICE?	</h3>
+	
+<p>The Public Service is well placed to provide the enabling infrastructure through which stakeholders from across different sectors—government, private sector, community space—can work together towards common goals. With both Healthier SG and Age Well SG, MOH is bringing in partners outside of healthcare, recognising the important roles they play in the population’s health. </p>
+	
+	
+<figure>  
+<img src="/images/Ethos_Images/Ethos_Issue_26/3circles.jpg">
+	<figcaption><b>Figure 3.</b> An ecosystem of support helps individuals to form and sustain healthy habits.</figcaption>	
+	
+</figure>	
+		
+	
+	
+	
+	
 	
 	
 	
