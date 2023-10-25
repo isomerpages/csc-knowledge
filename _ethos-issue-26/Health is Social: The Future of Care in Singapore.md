@@ -81,6 +81,20 @@ background-color: orange;
 
 <p>Singapore leads the world on the health-related Sustainable Development Goals, according to research published in The Lancet in 2017 and part of the Global Burden of Diseases Study. The 2019 edition of the Study reported Singaporeans as living longest in the world, with a life expectancy at birth of 84.9 years and a Healthy Life Expectancy of 73.9 years, with the lowest Disability-Adjusted Life Years (DALY) of 15,045 per 100,000 population. The study also indicated that 35% of our DALY burden could potentially be reduced by early intervention on risk factors contributed by our lifestyles.</p>	
 	
+	
+<p>With the launch of Healthier SG, Singapore embarks on the largest ever transformation of our care system. We are encouraging residents to enrol with their primary care doctor and establish health plans to keep them well. This is an important first step towards the health of our population. Given that 80% of our total disease burden is from chronic diseases, Preventive Care is the bedrock of our Population Health Strategy.</p>
+	
+	
+<h3>HEALTH IS FOR ALL</h3>	
+	
+<p>Population Health is not just about better outcomes for individuals but the distribution of those outcomes. Health is not just for the healthy or activated or those who access care. Health is for all. Health is not just for those we can see but those we cannot see. Population Health moves us from the “Story of Me” to the “Story of Us”. In doing so, we expose our vulnerabilities as a population.</p>
+	
+
+	
+	
+	
+	
+	
 <div class="break">
 
 <p class="break1">"THERE IS NO PHYSICAL HEALTH WITHOUT MENTAL HEALTH, AND THERE IS NO SOCIAL HEALTH WITHOUT MENTAL HEALTH”</p>
