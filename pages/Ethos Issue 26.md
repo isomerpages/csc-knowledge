@@ -208,7 +208,9 @@ programmes seek to serve.</p>
 	<div>
 		<h3>Health is Social: The Future of Care in Singapore</h3>
 		<b><i>by Eugene Fidelis Soh</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p>By taking responsibility not  
+only individually but collectively  
+for our health, Singaporeans can build  the capacities and relationships needed to thrive well into the future.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
