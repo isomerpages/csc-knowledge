@@ -4,7 +4,6 @@ permalink: /ethos-issue-26/the-next-bound-of-health-and-healthcare/
 description: ""
 ---
 <style>
-
 		
 .back a
 {
@@ -30,6 +29,13 @@ description: ""
 	font-weight: bold;
 }
 
+.break2
+{
+background-color: #F7943E;
+margin-top:30px;
+padding:20px;
+color:white;	
+}
 	
 .author
 {
@@ -51,7 +57,10 @@ font-size: 15px;
 line-height:22px;
 }		
 
-
+blockquote
+{
+background-color: orange;	
+}	
 
 
 
@@ -65,12 +74,15 @@ line-height:22px;
 <img src="">
 
 
+<div class="break2">
+	
 
-<div class="break">
+<q>Everything affects health, but not everybody thinks health is their problem. Yet, maybe this point of view is changing as the COVID-19 pandemic has shown how a health threat can cause massive disruption and affect most aspects of life… Through [H]ealth for All Policies, health is put at the forefront, highlighting what the health sector can do for other sectors while simultaneously attaining co-benefits for its own sector.
+</q>	
 
-<p style="color:#F69341" class="break1">"Everything affects health, but not everybody thinks health is their problem. Yet, maybe this point of view is changing as the COVID-19 pandemic has shown how a health threat can cause massive disruption and affect most aspects of life… Through [H]ealth for All Policies, health is put at the forefront, highlighting what the health sector can do for other sectors while simultaneously attaining co-benefits for its own sector.”</p>
+<cite>- The Lancet Public Health, 2022<sup>1</sup></cite>	
 
-</div>	
+</div>
 	
 
 <p>Health extends beyond our hospitals and clinics and into homes and communities. All of us have an interest in creating a healthy society for all.</p>
