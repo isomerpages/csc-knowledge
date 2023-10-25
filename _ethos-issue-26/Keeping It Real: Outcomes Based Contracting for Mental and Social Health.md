@@ -29,6 +29,13 @@ description: ""
 	font-weight: bold;
 }
 
+.containerbox
+{
+background-color: #2BBFB3;
+padding:20px;	
+color: white;
+border-radius:20px;
+}
 
 	
 .author
@@ -92,55 +99,72 @@ background-color: orange;
 	
 <div class="break">
 
-<p class="break1">"We want to strengthen Singapore’s “social infrastructure” to make our environment more conducive for taking up healthier lifestyles.”</p>
+<p class="break1">"MENTAL HEALTH VARIES FROM CULTURE TO CULTURE IN THE WAY IT'S PERCEIVED, DESCRIBED OR EXPERIENCED. YOU NEED TO CREATE A SERVICE THAT CAN REFLECT AND RESPOND TO THAT.”</p>
 
 </div>		
 	
-<p>Another example is the Health Promotion Board’s (HPB) Healthy Workplace Ecosystems. Through partnerships with landlords, developers, and business associations, HPB has been bringing initiatives such as mass workouts and health talks to workers in various precincts and workplace clusters, tailored to suit their needs and demographics. Today, over 80 Healthy Workplace Ecosystems have been established throughout Singapore.<sup><a href="#notestop">6</a></sup></p>	
+	
+<h3>Enabling and evaluating success</h3>	
+	
+<p>In outcomes contracts, there is always a question around the metrics: or what it is we are going to pay for. We need the outcomes, as far as possible, to be very clear, tangible and concrete. It should be relevant to the individual in their life, and also something that we can measure and verify, because we want to attach a payment to it.</p>	
 
-<p>We are making an extra effort to tackle social isolation amongst seniors through Age Well SG. Social isolation, a key driver of frailty and a threat to seniors’ physical and mental health, often goes overlooked. Without the companionship of family members, friends, and the wider community, loss of function is expected to hasten. Thus, a key thrust of Age Well SG is to expand and enhance the network of AACs as nodes for seniors to remain both physically active and socially engaged. AACs create more opportunities for seniors to make friends, volunteer, and take part in active ageing programmes. For those who are enrolled into Healthier SG, AACs would be an additional supporting arm for GPs, to help seniors follow through with their health plans.</p>
+<p>There are a number of established and internationally accepted measures of mental health and mental wellbeing, but these are generally self-reported. And they may not get to the heart of what mental health means to an individual and their ability to function and engage with their social life. We have seen during the COVID pandemic how social isolation can lead to a breakdown in the social network, which in turn leads to a deterioration of mental health. We have seen on the back of COVID, a range of social impacts that are clearly related to mental health, such as among young people an increase in self-harm, an increase in suicide, an increase in failure at school, and so on.</p>
 	
-<figure>  
-<img src="/images/Ethos_Images/Ethos_Issue_26/clusters.jpg">
-	<figcaption><b>Figure 2.</b> Community assets, such as Active Ageing Centres, help keep seniors meaningfully engaged and socially connected.</figcaption>	
+<p>So we need to recognise that socialisation—enabling individuals to return to their social environments—is in itself going to be part of the desired outcome of such programmes. We can measure this in some ways: such as whether or not they return to school, work or social activities. On many of our programmes, we look to define these real-life outcomes, and then measure mental health alongside it, and over time learn a little bit more about their interplay. This will help in other ways: preventing further deterioration or further harm, for instance, lends itself clearly to outcomes-based models.</p>
 	
-</figure>	
+<p>One way to approach evaluation is to look at measuring outcomes across a population. We can start with a baseline, say of current levels of school attendance, self-harm, suicide ideation and how  children are behaving and performing in schools. And then against these baselines, we can determine what outcomes we  might be looking to achieve—what difference we might be looking to make—over a 12-, 24- or 36-month period—and then attach payments to these goals. In the particular context of a school population, you have a captive group and could introduce some regular measurement processes to assess social wellbeing within that environment over time, which we can attach payment to.</p>
+	
+<p>We talk about ‘incentivising’, but such programmes do oblige the service provider who is aiming to achieve the outcomes to go in and listen to the young people, engage with them, and try to understand exactly what the core issues are. We might then find them starting to innovate around youth mentors, for instance, to enable engagement and real outcomes for the young people, such as coming up with appropriate warning signs to identify when an individual is  in distress. </p>	
+
+	
+<div class="containerbox">	
+	
+<h4>Letting Beneficiaries Choose Their Desired Contracted Outcomes</h4>	
+	
+<p>An impact bond in Greater Manchester, in the UK, sought to prevent homelessness among high-risk young people. The associated contract had two fixed outcomes, with a unit price attached for each, as well as three more variable outcomes—A, B and C—each also with a price attached. The young person themselves decide what those outcomes are. From a menu of options, they choose the three that are important to them, and how to prioritise them.</p> 
+	
+	
+<p>The actual individual beneficiaries on the  programme determine what outcomes they want from the service delivered to  
+them. This empowers them in the process, returning to young people a sense of agency over their circumstances.</p>
+
+</div>	
+	
+	
+<p>But you cannot design a programme in Geneva and impose that in Ghana to address such issues. Solutions have to be developed on the ground, around the individuals one is trying to help and their social circumstances. The challenge is how to do this and at the same time ensure that that intervention is actually going to deliver an outcome for them. </p>
+	
+<p>We should not fall into the trap of coming up with one model, such as for warning signs of distress, that is then imposed across different schools or other contexts. Instead, we must create the conditions for communities, such as schools, to identify within their population what it would mean to increase their wellbeing over the next 12, 24 or 36 months. It could look like increased social cohesion and social strength, better communication and so on: then we can have other sub-measures, such as warning signs, that could then be implemented according to what has been identified as important to them.</p>
 	
 	
 <div class="break">
 
-<p class="break1">"We are keen to do more to lower barriers to health and healthcare, and to be more targeted in supporting not just seniors, but other vulnerable population segments.”</p>
+<p class="break1">"BOTTOM UP APPROACHES AND PERSONALISED, CONTEXT SENSITIVE SOLUTIONS REQUIRE A STRUCTURE, TO ENSURE THAT THE PERFORMANCE IS REAL, ACCOUNTABLE AND DELIVERS WHAT WE WANT”</p>
 
 </div>			
 	
-	
-<p>In tandem, MOH will work with the Ministry of National Development (MND), Housing and Development Board (HDB), and Ministry of Transport (MOT) to continually upgrade homes and residential estates, as well as offer more housing options, for seniors to age independently in the community. An example of a new senior housing typology is the Community Care Apartments, which are integrated with care services. MND will also be expanding their Enhancement for Active Seniors (EASE) programme. EASE 2.0 will offer more subsidised fittings within homes so that seniors can go about their daily activities literally with greater EASE! At the same time, our HDB estates are becoming increasingly senior-friendly, with more shelters, rest points, barrier-free access ramps, pedestrian crossings, and even green man signals that last longer. </p>
-	
-In the coming years, we are keen to do more to lower barriers to health and healthcare, and to be more targeted in supporting not just seniors, but other vulnerable population segments. We have begun partnering with MSF in making healthcare services more accessible for lower-income households. Close to two-thirds of families under MSF’s ComLink programme have indicated having at least one family member with a chronic health condition, with a quarter of them not compliant in adhering to medical appointments or medication. ComLink family coaches and SSO coordinators will thus be working more closely with the clusters to address ComLink families’ health needs. Besides equipping the ComLink family coaches with tools to support these families through health nudges and navigation support, the respective cluster will also assign a team to provide joint case management for families with complex needs.
-	
-<h3>WHAT IS OUR ROLE AS A PUBLIC SERVICE?	</h3>
-	
-<p>The Public Service is well placed to provide the enabling infrastructure through which stakeholders from across different sectors—government, private sector, community space—can work together towards common goals. With both Healthier SG and Age Well SG, MOH is bringing in partners outside of healthcare, recognising the important roles they play in the population’s health. </p>
+<p>That said, bottom-up approaches and personalised, context-sensitive solutions require a structure, to ensure that the performance is real, accountable, and delivers what we want; that the funds are spent in the right way, with clear metrics tied to what it is we are looking to pay for. These will be a mix of outputs and outcomes. There will also need to be strong performance management systems in place. We need to ensure that we have visibility over what is being delivered, and have a way of tracking, reporting on and reviewing what is going on, on an ongoing basis.</p>
 	
 	
-<figure>  
-<img src="/images/Ethos_Images/Ethos_Issue_26/3circles.jpg">
-	<figcaption><b>Figure 3.</b> An ecosystem of support helps individuals to form and sustain healthy habits.</figcaption>	
+<h3>Getting good at outcomes contracting and performance management
+</h3>	
 	
-</figure>	
-		
-<p>During our public consultations for the Healthier SG White Paper in 2022, we heard from many residents that peer and family influence were key factors in motivating them to exercise regularly and eat healthily. We also saw that partners could help to introduce more variety into the types of activities that are organised on the ground. One example is the Live Well Age Well programme that HPB and the People’s Association (PA) jointly organise at various community touchpoints, which aims to empower seniors to continue doing what they love, while improving their physical, mental, and social health. In future, HPB will look at how to incorporate programmes from other public sector agencies to rejuvenate our healthy lifestyle offerings under Healthier SG and Age Well SG.</p>	
+<p>Performance management is not contract management. It is not a bureaucratic process of counting pieces of paper, but an ongoing engagement with the programme, and with the experiences of the community one is trying to help, to ensure that as many of them as possible achieve the outcomes we want.</p>	
 	
-<p>The Silver Generation Office (SGO) will keep up its efforts to identify socially isolated seniors, and can now connect them to nearby AACs for follow-up. Over time, AACs can augment their manpower and extend their reach by broadening their volunteer pool through SG Cares, and leveraging Residents’ Networks to establish satellite locations. AIC is even working on an “Adopt-an-AAC” initiative with corporate partners, where staff can contribute to building up a more sustainable pool of volunteers for an AAC which they have adopted.</p>	
+<p>the basic essential health services were contracted out to international NGOs, who were on budget reimbursement contracts with a very tight specification of what they had to deliver per clinic. When I started working there in 2017, we looked to shift all these services to performance-based contracts. To begin with, I engaged with 50 different stakeholders across government and funders and asked them what success looked like—and received 50 different answers. There was no cohesive definition of success. The crucial intervention was to pull them back and get everyone to agree on what successful performance would look like—such as better health services delivered to more people—which we could then use to drive the design of the performance contracts and how these programmes would be performance managed.</p>
 	
+<p>This is what we need to get public servants better at: developing a good definition of what success looks like. To ensure that the definition is relevant, we need to move from bureaucratic definitions to ones that are real for the individuals concerned. Indeed, let’s engage those individuals in developing those definitions. We need to determine what success looks like, and engage the people to whom it matters, from a range of different disciplines, in defining that success. Then we use that to cohere efforts around and structure the response that comes after: if that is what success looks like, then what are the steps we need to take to achieve that? And if those are the steps, what are the skillsets that we currently have, mapped against what we need? And then how do we upskill towards that?  We build capacity in this way. </p>
 	
-<p>Beyond the public sector, we have been actively engaging organisations in the private sector to be part of our health ecosystem. MOH and HPB adopt a tripartite approach to encouraging workplace safety and health through collaborations with corporates, unions, associations, and other public sector organisations. In July this year, we worked with the Ministry of Manpower (MOM), NTUC, and Singapore National Employers Federation (SNEF) to publish a Tripartite Statement that outlines recommendations for employers to promote employee health and wellbeing in support of Healthier SG. We are now working together to develop Tripartite Standards to guide employers in implementing practices that enhance workplace health and wellness. Today, employees can benefit from HPB’s programmes like the aforementioned Healthy Workplace Ecosystems (HWE), Mature Workers Programme (MWP), and Workplace Outreach Wellness (WOW) Programme, or the Workplace Safety and Health (WSH) Council’s Total WSH Programme. The Tripartite Oversight Committee on WSH oversees the scaling up and sustained adoption of these programmes, to support partners' and employers’ efforts in promoting healthier lifestyles at  the workplace.</p>	
+<p>If you can shift the conversation to one around a clear definition of success, you can shift a culture within a system to one of performance, because everyone then begins talking about the achievement of that success. Within a properly implemented outcomes contracting environment, you also generate a lot of rich data, because you are constantly tracking, recording and reviewing what's going on. So rather than doing impact evaluation, which is disconnected from delivery, you embed a regular ongoing activity to review what's going on. You focus on how you are on track to achieve this given level of success, based on what has been collectively defined, and you change the language that people use.</p>
 	
-<p>Over the past years, HPB has also been actively engaging industry partners and steering them towards the provision of healthier options, such as reformulating their products to develop healthier food and beverages. For instance, as part of the nationwide sodium reduction strategy that was announced in 2022, HPB has been working with major suppliers to expand the range of lower-sodium salt, sauces, and seasonings. HPB also extended its Healthier Ingredient Development Scheme (HIDS) to support the development and commercialisation of lower-sodium ingredients.</p>	
+<div class="containerbox">	
+	
+<h4>Success Determined by Those Who Live It</h4>	
+	
+<p>HBGI has a very active Lived Experience Council—a group of people with intimate lived experience of poor mental health—whom we seek input from each time we reach a relevant touchpoint. </p> 
 
-<p>As a government, how we design and implement national policy is evolving. With public issues that are ever more complex and interlinked, we need the cooperation and support of many players, all doing their part to shift residents, households, and organisations in the right direction. In creating space within our policies for community and private sector partners to contribute, the public sector can become more effective as a whole in serving the needs of all Singaporeans.</p>	
+<p>Likewise, we are about to start a project with YMCA Global, where we will spend 18 months training a group of young people to speak to other young people, to ask: What is concerning you right now and what would be a meaningful outcome? These findings can then be used to inform future definitions of success as young people see it.</p>
+
+</div>	
 	
-<p>Ultimately, our initiatives must inspire individuals to themselves adopt a mindset of personal ownership, and influence others around them to do the same. This I believe is the next bound of work for us. Even with the best efforts of government and community, the agency and willingness to change lies with the individual. The design of our policies and programmes must take this into account, in order to drive lasting changes in society. </p>	
 	
 	
 	
