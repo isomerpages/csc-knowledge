@@ -165,8 +165,18 @@ them. This empowers them in the process, returning to young people a sense of ag
 
 </div>	
 	
+<p>Some well-meaning service providers may have been delivering a service for decades in a particular way. They push through a fixed process with a paternalistic view of the people they are supposed to be serving or working with, considering themselves the experts who know what’s best. Many of these organisations do not even know how many people they are working with at any one time, because they have not been tracking the data, nor their progress towards the outcomes that the individuals need to achieve. But once they are led to think about these questions, they begin to change their mindsets away from one-off performance measures. Most organisations feel empowered by this and change the way they operate within their contract. They begin to step back from their paternalistic view and to recognise the people they are working with as assets.</p>
+	
+<p>Several factors underlie success in using an outcomes-based approach. First, do not do outcomes contracting just for the sake of it. Instead, you need to start off with an understanding of what you are looking to achieve, and then find the best tool to get you there. Second, it is important not to overcomplicate this. Often, when everybody weighs in, you can end up with a very complex beast of a solution. Make sure to keep it real for the individuals you are trying to achieve success for. Keep that definition of success as clear and simple as possible. Keep bringing everybody back to that simple definition and strip out the complications, so you can have lean solutions.</p>	
 	
 	
+<div class="break">
+
+<p class="break1">"WITHIN A PROPERLY IMPLEMENTED OUTCOMES CONTRACTING ENVIRONMENT, YOU ALSO GENERATE A LOT OF RICH DATA, BECAUSE YOU ARE CONSTANTLY TRACKING, RECORDING AND REVIEWING WHAT'S GOING ON.”</p>
+
+</div>				
+	
+<p>If you have people talking and thinking about performance and success, and about what's important for the person on the frontline, then you are taking a step in the right direction. </p>	
 	
 	
 	
@@ -175,22 +185,8 @@ them. This empowers them in the process, returning to young people a sense of ag
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-	<p><b>Ng How Yue</b> is Permanent Secretary (Health Development), Ministry of Health (MOH). He was previously Permanent Secretary, Ministry of Law. He has also served as Principal Private Secretary to the Prime Minister and as Chairman of the Energy Market Authority, among other senior positions in the Singapore Public Service.</p>
+<p><b>Richard Johnson</b> is Chief Executive of the Healthy Brains Global Initiative (HBGI), which looks to address the global gap in mental health services and understanding by pooling philanthropy to contract and pay for outcomes, and to provide technical assistance to governments and other organisations. He has chaired eleven Social Impact Bonds, including a Development Impact Bond in Palestine, and has a new youth employment programme starting soon in South Africa. He has run for-profit organisations delivering large scale outcomes contracts in the UK, and has served as a World Bank Senior Consultant, and a Senior Advisor at the Global Fund.</p>
 </div>
-
-
-<div class="notestop" id="notestop">
-<h6>NOTES</h6>
-<ol>
-<li>Scott L. Greer, Michelle Falkenbach, Luigi Siciliani, Martin McKee, Matthias Wismar, and Josep Figueras, “From Health in All Policies to Health for All Policies”, The Lancet Public Health 7, no. 8 (2022): E718–E720, doi: https://doi.org/10.1016/S2468-2667(22)00155-4.</li>
-<li>Source: Population in Brief 2022. The proportion of citizens aged 65 and above is estimated to be 23.8%in 2030, up from 18.4% in 2022.</li>
-<li>Based on admissions data in 2019.</li>
-<li>Based on National Health Survey 2010, National Health Surveillance Survey 2013, and National Population Health Survey 2019/2020.</li><li>Based on Global Burden of Disease Study 2019.</li>
-<li>As of end-December 2022.</li>
-
-</ol>	
-</div>
-
 
 
 
