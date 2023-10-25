@@ -88,7 +88,7 @@ background-color: orange;
 <q>Everything affects health, but not everybody thinks health is their problem. Yet, maybe this point of view is changing as the COVID-19 pandemic has shown how a health threat can cause massive disruption and affect most aspects of life… Through [H]ealth for All Policies, health is put at the forefront, highlighting what the health sector can do for other sectors while simultaneously attaining co-benefits for its own sector.
 </q>	
 
-<cite>- The Lancet Public Health, 2022<sup>1</sup></cite>	
+<cite>- The Lancet Public Health, 2022<sup><a href="#notestop">1</a></sup></cite>	
 
 </div>
 	
@@ -196,7 +196,7 @@ In the coming years, we are keen to do more to lower barriers to health and heal
 </div>
 
 
-<div class="notestop">
+<div class="notestop" id="notestop">
 <h6>NOTES</h6>
 <ol>
 <li>Scott L. Greer, Michelle Falkenbach, Luigi Siciliani, Martin McKee, Matthias Wismar, and Josep Figueras, “From Health in All Policies to Health for All Policies”, The Lancet Public Health 7, no. 8 (2022): E718–E720, doi: https://doi.org/10.1016/S2468-2667(22)00155-4.</li>
