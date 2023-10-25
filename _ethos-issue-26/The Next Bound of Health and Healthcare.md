@@ -107,6 +107,27 @@ CONDITIONS</h3>
 
 </div>	
 	
+<p>We are also harnessing the power of social connectedness in improving health and wellbeing. On top of our well-established physical infrastructure of green spaces and fitness amenities, we want to strengthen Singapore’s “social infrastructure” to make our environment more conducive for taking up healthier lifestyles.</p>	
+	
+One example is the Active Health Labs by Sport Singapore, which provides affordable and accessible health and wellness coaching by trained coaches. As part of Healthier SG, we are encouraging primary care doctors to refer their patients to these sorts of programmes, so that residents can get active and form new habits in a safe and supportive context.
+	
+<div class="break">
+
+<p class="break1">"We want to strengthen Singapore’s “social infrastructure” to make our environment more conducive for taking up healthier lifestyles.”</p>
+
+</div>		
+	
+<p>Another example is the Health Promotion Board’s (HPB) Healthy Workplace Ecosystems. Through partnerships with landlords, developers, and business associations, HPB has been bringing initiatives such as mass workouts and health talks to workers in various precincts and workplace clusters, tailored to suit their needs and demographics. Today, over 80 Healthy Workplace Ecosystems have been established throughout Singapore.<sup>6</sup></p>	
+
+<p>We are making an extra effort to tackle social isolation amongst seniors through Age Well SG. Social isolation, a key driver of frailty and a threat to seniors’ physical and mental health, often goes overlooked. Without the companionship of family members, friends, and the wider community, loss of function is expected to hasten. Thus, a key thrust of Age Well SG is to expand and enhance the network of AACs as nodes for seniors to remain both physically active and socially engaged. AACs create more opportunities for seniors to make friends, volunteer, and take part in active ageing programmes. For those who are enrolled into Healthier SG, AACs would be an additional supporting arm for GPs, to help seniors follow through with their health plans.</p>
+	
+<figure>  
+<img src="/images/Ethos_Images/Ethos_Issue_26/clusters.jpg">
+	<figcaption><b>Figure 2.</b> Community assets, such as Active Ageing Centres, help keep seniors meaningfully engaged and socially connected.</figcaption>	
+	
+</figure>	
+	
+	
 	
 	
 	
