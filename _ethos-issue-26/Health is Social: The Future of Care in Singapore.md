@@ -31,7 +31,7 @@ description: ""
 
 .containerbox
 {
-background-color: #2BBFB3;
+background-color: #A8CBEA;
 padding:20px;	
 color: white;
 border-radius:20px;
@@ -90,6 +90,23 @@ background-color: orange;
 <p>Population Health is not just about better outcomes for individuals but the distribution of those outcomes. Health is not just for the healthy or activated or those who access care. Health is for all. Health is not just for those we can see but those we cannot see. Population Health moves us from the “Story of Me” to the “Story of Us”. In doing so, we expose our vulnerabilities as a population.</p>
 	
 <p>Singapore has done well in addressing the social determinants of health like education, transportation, sanitation, housing and so on. With ageing, we see “new” social drivers of health, with an increase in prevalence of dementia, disabilities, frailty, and social isolation. In our centres of healthcare, we often fail to reach those we do not see until they arrive in crisis at our emergency departments. We must do better if we are to change healthcare. Our hospitals are filling up and patients are coming in more ill and with more complex conditions. There are more long stayers. They decondition during their prolonged hospital stay and most are unfit for discharge because they have greater care needs that their homes and communities cannot support. Are more beds then the solution?</p>
+	
+	
+<div class="containerbox">
+
+	
+	
+	
+</div>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 <h3>HEALTHCARE ALONE IS NOT ENOUGH</h3>	
 	
