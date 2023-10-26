@@ -33,7 +33,6 @@ description: ""
 {
 background-color: #A8CBEA;
 padding:20px;	
-color: white;
 border-radius:20px;
 }
 
@@ -58,11 +57,13 @@ font-size: 15px;
 line-height:22px;
 }		
 
-blockquote
+#emotionalside
 {
-background-color: orange;	
+border: 8px solid white;
 }	
 
+
+	
 
 
 	
@@ -94,6 +95,20 @@ background-color: orange;
 	
 <div class="containerbox">
 
+<h4>The Emotional Side to Activating Senior Health</h4>	
+	
+<p>A community nurse told the story of how TOUCH Community Services sought to encourage more seniors to keep fit by collaborating with ActiveSG to offer weekly aqua aerobics for the seniors. While this seemed like a great idea, not all the seniors owned swimwear. So TOUCH staff worked with donors to sponsor swimwear for the seniors and organised a shopping trip for the seniors to buy swimwear of their choice. This incentive, coupled with encouragement from TOUCH staff and friends, motivated more seniors to sign up for aqua aerobics. They also paired up with one another as buddies to keep a lookout for one another during the sessions. Soon, word of mouth on the positive experience and peer support led to the aqua aerobics class being oversubscribed with a waiting list.</p>	
+	
+<p>Reflecting on this amazing story of health activation, I suspect that there were deeper feelings at work. Having or buying a swimwear may nudge the early adopters. However, it might not have changed the minds of those who felt vulnerable swimming or wearing swimwear; be it due to their scars from an operation, skin conditions, or anxieties about their body image. But the opportunity to go along with a buddy and as a group let them see each other’s vulnerabilities and therefore gain courage to participate together. </p>	
+	
+	
+<figure>	
+	
+<img src="/images/Ethos_Images/Ethos_Issue_26/emotionalside.jpg" id="emotionalside">
+	
+<figcaption>Seniors from TOUCHpoint @ Geylang Bahru at aqua aerobics, in partnership with ActiveSG. </figcaption>	
+	
+</figure>	
 	
 	
 	
