@@ -61,8 +61,23 @@ line-height:22px;
 {
 border: 8px solid white;
 }	
+	
+#points
+{
+font-size: 16px;	
+}
 
-
+.containerbox2
+{
+background-color:#9E4579;	
+padding:20px;
+border-radius: 10px;
+}	
+	
+.containerbox2 h4
+{
+color:white;	
+}
 	
 
 
@@ -113,15 +128,7 @@ border: 8px solid white;
 	
 	
 </div>	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		
 	
 <h3>HEALTHCARE ALONE IS NOT ENOUGH</h3>	
 	
@@ -140,7 +147,8 @@ border: 8px solid white;
 
 <p>To transform our current healthcare system to a population health system, I see three core philosophies taking hold:</p>
 	
-<ol style="font-weight:bold;">
+	
+<ol style="font-weight:bold;" id="points">
 	
 <li>Ownership of Health for All</li>
 <dl style="font-weight:normal;">Our residents own their health, not just as individuals but as communities. As an engineered blue zone, we can engineer health in our communities and in doing so, activate communities for health.</dl>	
@@ -153,6 +161,12 @@ border: 8px solid white;
 <dl style="font-weight:normal;">The stewardship of a population health system requires a mindset shift from Healthcare being a cost to Health being our best investment for the future. The longer game in healthcare sustainability is not just cost containment, but commitment to grow our health as a nation.</dl>			
 	
 </ol>	
+	
+<div class="containerbox2">	
+<h4>According to the Ministry of Health (MOH):</h4>
+	
+</div>	
+	
 	
 	
 	
