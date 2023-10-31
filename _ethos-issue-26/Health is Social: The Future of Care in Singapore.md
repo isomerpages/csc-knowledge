@@ -80,6 +80,10 @@ color:white;
 color:white;	
 }
 	
+#icon1
+{
+width: 80px;	
+}	
 
 
 	
@@ -168,7 +172,7 @@ color:white;
 
 <table>
 <tbody><tr>	
-<td><img src="/images/Ethos_Images/Ethos_Issue_26/icon1-1.png"></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/asset%201-8.png" id="icon1"></td>	
 
 <td>In 2019, the number of elderly living alone increased to 67,600, up from 47,000 in 2016. This increase represents 11.9% of our elderly population</td>		
 	
