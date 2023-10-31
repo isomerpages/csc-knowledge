@@ -80,9 +80,9 @@ color:white;
 color:white;	
 }
 	
-#icon1
+.icons img
 {
-width: 80px;	
+width: 100px;	
 }	
 	
 .number
@@ -180,11 +180,11 @@ border: none;
 <div class="containerbox2">	
 <h4>According to the Ministry of Health (MOH):</h4>
 
-<table cellpadding="0" cellspacing="0">
+<table class="icons">
 <tbody>
 	
 <tr>	
-<td><img src="/images/Ethos_Images/Ethos_Issue_26/asset%201-8.png" id="icon1"></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/asset%201-8.png"></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
@@ -192,14 +192,14 @@ border: none;
 	
 	
 <tr>	
-<td><img src="/images/Ethos_Images/Ethos_Issue_26/asset%201-8.png" id="icon1"></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/asset%202-8.png"></td>	
 
-<td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
+<td><span class="number">1,000</span> attemped suicides.</td>		
 	
 </tr>		
 	
 <tr>	
-<td><img src="/images/Ethos_Images/Ethos_Issue_26/asset%201-8.png" id="icon1"></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/asset%201-8.png"></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
