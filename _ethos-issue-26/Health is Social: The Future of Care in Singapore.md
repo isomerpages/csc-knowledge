@@ -72,6 +72,7 @@ font-size: 16px;
 background-color:#9E4579;	
 padding:20px;
 border-radius: 10px;
+color:white;
 }	
 	
 .containerbox2 h4
@@ -164,6 +165,20 @@ color:white;
 	
 <div class="containerbox2">	
 <h4>According to the Ministry of Health (MOH):</h4>
+
+<table>
+<tbody><tr>	
+<td>ertt</td>	
+
+<td>In 2019, the number of elderly living alone increased to 67,600, up from 47,000 in 2016. This increase represents 11.9% of our elderly population</td>		
+	
+</tr>	
+	
+	
+	
+	
+</tbody></table>
+	
 	
 </div>	
 	
