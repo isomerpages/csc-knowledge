@@ -91,7 +91,10 @@ font-weight: bold;
 color: #A9C3E4;
 }	
 
-
+table 
+{
+border: none;
+}
 
 	
 </style>
@@ -177,14 +180,31 @@ color: #A9C3E4;
 <div class="containerbox2">	
 <h4>According to the Ministry of Health (MOH):</h4>
 
-<table>
-<tbody><tr>	
+<table cellpadding="0" cellspacing="0">
+<tbody>
+	
+<tr>	
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/asset%201-8.png" id="icon1"></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
 </tr>	
 	
+	
+<tr>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/asset%201-8.png" id="icon1"></td>	
+
+<td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
+	
+</tr>		
+	
+<tr>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/asset%201-8.png" id="icon1"></td>	
+
+<td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
+	
+</tr>		
+		
 	
 	
 	
