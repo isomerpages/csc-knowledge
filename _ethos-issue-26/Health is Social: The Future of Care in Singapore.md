@@ -140,11 +140,19 @@ border: 8px solid white;
 
 <p>To transform our current healthcare system to a population health system, I see three core philosophies taking hold:</p>
 	
-<ol>
+<ol style="font-weight:bold;">
 	
-<li></li>
+<li>Ownership of Health for All</li>
+<dl style="font-weight:normal;">Our residents own their health, not just as individuals but as communities. As an engineered blue zone, we can engineer health in our communities and in doing so, activate communities for health.</dl>	
+	
+<li>Relationships to Care Together</li>
+<dl style="font-weight:normal;">Care should shift from transactional care encounters to building trusting care relationships that span the life course. These relationships wrap around care for our residents.</dl>		
 	
 	
+<li>Stewardship to Invest in Health</li>
+<dl style="font-weight:normal;">The stewardship of a population health system requires a mindset shift from Healthcare being a cost to Health being our best investment for the future. The longer game in healthcare sustainability is not just cost containment, but commitment to grow our health as a nation.</dl>			
+	
+</ol>	
 	
 	
 	
@@ -171,4 +179,4 @@ border: 8px solid white;
 <br><br>
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></ol></div>
+</div></div>
