@@ -157,7 +157,7 @@ them. This empowers them in the process, returning to young people a sense of ag
 	
 <div class="containerbox">	
 	
-<h4>Success Determined by Those Who Live It</h4>	
+<h4 style="color:white;">Success Determined by Those Who Live It</h4>	
 	
 <p>HBGI has a very active Lived Experience Council—a group of people with intimate lived experience of poor mental health—whom we seek input from each time we reach a relevant touchpoint. </p> 
 
