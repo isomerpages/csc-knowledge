@@ -96,7 +96,6 @@ text-align: center;
 	
 .containerbox2 tr td
 {
-border-bottom: none;
 border: 1px solid white;	
 }	
 	
@@ -104,8 +103,8 @@ border: 1px solid white;
 {
 border-bottom: none;
 }	
-	
-	
+
+
 	
 .number
 {
@@ -282,19 +281,17 @@ color: black;
 </tr>	
 		
 	
+<tr>
+<td colspan="2">	
+The impact of ageing on the elderly stirs us because it is also what we can all look forward to in time to come.	
+</td>
+</tr>	
 	
-	
+<tr></tr>	
 
-<tr><td colspan="2">	
-The impact of ageing on the elderly stirs us because it is also what we can all look forward to in time to come.
-</td>	
-
-	
-
-</tr></tbody>
 
 	
-	
+</tbody>	
 </table>
 	
 	
