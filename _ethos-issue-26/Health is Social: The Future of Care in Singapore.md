@@ -176,23 +176,22 @@ table
 	
 <div class="containerbox2">	
 	
-<table>
+<table width="50%">
 <tbody>
 
-</tbody><colgroup>
-           <col style="width: 50%;" span="1">
-           <col style="width: 70%;" span="1">
- </colgroup>
+</tbody>
 	
 	
-<tbody><tr>
+<tbody>
+	
+<tr>
 <th>	
 <h4>According to the Ministry of Health (MOH):</h4>	
 </th>	
 </tr>	
 	
 <tr>	
-<td class="icons"><img src=""></td>	
+<td><img src=""></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
@@ -226,6 +225,13 @@ table
 <th>	
 <h4>According to the National Healthcare Group (NHG):</h4>	
 </th>	
+</tr>	
+	
+<tr>	
+<td><img src=""></td>	
+
+<td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
+	
 </tr>	
 	
 	
