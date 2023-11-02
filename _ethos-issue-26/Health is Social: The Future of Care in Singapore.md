@@ -284,7 +284,7 @@ The impact of ageing on the elderly stirs us because it is also what we can all 
 </div>	
 	
 <br>
-<br>	
+
 <div class="containerbox">
 
 <h4>Building a Community of Care: Madam Amy's Story</h4>	
