@@ -81,7 +81,11 @@ border-radius: 10px;
 color:white;
 padding:40px;
 }	
-	
+
+figcaption
+{
+	color:#9E4579;
+}
 	
 	
 .containerbox2 h4
@@ -304,9 +308,9 @@ The impact of ageing on the elderly stirs us because it is also what we can all 
 	
 <figure>	
 	
-<img src="/images/Ethos_Images/Ethos_Issue_26/emotionalside.jpg" id="emotionalside">
+<img src="/images/Ethos_Images/Ethos_Issue_26/building-community.jpg" id="emotionalside">
 	
-<figcaption>Seniors from TOUCHpoint @ Geylang Bahru at aqua aerobics, in partnership with ActiveSG. </figcaption>	
+<figcaption>Adopting a person-centred approach: Visuals of Madam Amy’s favourite animals, cats, were created to encourage her to take her medication on time.</figcaption>	
 	
 </figure>	
 	
