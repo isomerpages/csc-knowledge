@@ -70,20 +70,16 @@ font-size: 16px;
 .containerbox2
 {
 background-color:#9E4579;	
-padding:20px;
 border-radius: 10px;
 color:white;
+padding:50px;
 }	
 	
 .containerbox2 h4
 {
 color:#A9C3E4;	
 }
-	
-.icon1 img
-{
-width: 50px;	
-}
+
 	
 .number
 {
@@ -95,6 +91,7 @@ color: #A9C3E4;
 table
 {
   border-collapse: collapse;
+	border-bottom: none;
 }
 	
 </style>
