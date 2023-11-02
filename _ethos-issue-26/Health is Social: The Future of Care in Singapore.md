@@ -327,9 +327,9 @@ By bringing together national and social agencies, family doctors, community hea
 
 <p>The Centre for Healthcare Innovation’s (CHI) Health &amp; Social Change Academy was launched on 28 July 2023 by Minister for Health Ong Ye Kung. </p>	
 	
-<p>It aims to build the capabilities of health and social care professionals to work together in developing programmes and initiatives to engage the population </p>	
+<p>It aims to build the capabilities of health and social care professionals to work together in developing programmes and initiatives to engage the population on health issues collaboratively. The Academy is supported by strategic partners from across agencies, academia, healthcare, and community partners, including the AWWA, Care Corner Singapore, Methodist Welfare Services (MWS), and  TOUCH Community Services. These partnerships and programmes will grow as it expands as a movement to launch initiatives for health and social change.</p>	
 	
-	
+	<p></p>	
 	
 	
 	
