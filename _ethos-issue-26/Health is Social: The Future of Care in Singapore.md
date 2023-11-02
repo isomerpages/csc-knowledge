@@ -177,9 +177,11 @@ table
 <div class="containerbox2">	
 	
 <table>
-<tbody>
-
-</tbody>
+	
+<colgroup>
+           <col style="width: 20%;" span="1">
+           <col style="width: 80%;" span="1"> 
+</colgroup>	
 	
 	
 <tbody>
@@ -191,7 +193,7 @@ table
 </tr>	
 	
 <tr>	
-<td style="width: 10px;"><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%201-8.png"></td>	
+<td style="width: px;"><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%201-8.png"></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
