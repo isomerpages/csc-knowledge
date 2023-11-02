@@ -359,9 +359,35 @@ By bringing together national and social agencies, family doctors, community hea
 </figcaption>	
 </figure>	
 	
+<h3> BUILDING DIGITAL HEALTH COMMUNITIES</h3>
+
+<p>Alongside the academy, a digital sandbox called the Digital CoC Playground has been set up to facilitate collaborations, specifically on digital solutions that will more easily engage and activate residents to adopt healthy behaviour. These innovative solutions will be introduced and tested in real-world settings and, where appropriate, be scaled up to keep residents healthy and engaged.</p>
 	
+<p>The Digital CoC Playground will enable key stakeholders in the CoCs to identify and discuss everyday health and social care issues that residents face and develop personalised digital solutions to meet their needs. When community partners bring their problem statements into the Playground, CHI will help match them with like-minded organisations, sponsors, technology experts and funders to pursue the creation of a digital CoC solution together. This collaborative Playground will serve as a test bed for the digital solutions to be piloted in the community before they are adopted or expanded to benefit more residents. Such digital solutions will complement existing programmes and services at a physical CoC. They will address three key aspects: Care to follow the Resident; Outreach to a wider Resident Population; and Integration to enable Resident-centricity so that they may own their health with the care and support needed.</p>	
+	
+	
+<p>By leveraging digital technology, we aim to overcome the limitations associated with resource-intensive care support work and introduce new ways to serve and empower a more significant number of residents towards healthy living that may not be possible with physical CoCs alone. Our elderly accounts for 20% or more of residents living in established neighbourhoods. A place-based care 
+strategy works best for the elderly, while the young seniors above 50 years of  
+age and the younger population are more mobile. The Digital CoC presents opportunities to engage and activate more residents to adopt healthy behaviours, regardless of their age, health status and location. </p>	
+	
+<p>By providing care where residents live, work and play, we anticipate that these Digital CoCs can better integrate health-social initiatives that bring about happier and healthier communities across various settings, including the neighbourhood, schools, and workplaces. This integrated approach will form a comprehensive support system that addresses residents’ diverse needs and aspirations.</p>
+	
+<div class="break">
 
+<p class="break1">"Building healthier, happier communities requires a collective commitement and effort"</p>
+	
+</div>	
+	
+	
+<h3>DEEPENING THE RELATIONSHIPS THAT MATTER</h3>	
 
+<p>As we organise for Health &amp; Social Change, we need a collective leadership beyond the walls of our healthcare system. Working closely with partners and residents, we can transform our future Health &amp; Social Care to ensure that Health is for All. </p>
+	
+<p>Working in the National Healthcare Group, I am immensely proud of our vision of Adding Years of Healthy Life. It is not enough that we add Years to Life: we must also add Life to our Years. This is an ambitious vision, but Singapore can become a deep Blue Zone: not just living longer lives, but living better, and more fully, together.</p>
+	
+	
+	
+	
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
