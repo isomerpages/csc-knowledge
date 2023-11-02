@@ -77,7 +77,7 @@ color:white;
 	
 .containerbox2 h4
 {
-color:white;	
+color:#A9C3E4;	
 }
 	
 .icons
