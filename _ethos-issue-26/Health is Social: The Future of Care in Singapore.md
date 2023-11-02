@@ -88,9 +88,9 @@ font-weight: bold;
 color: #A9C3E4;
 }	
 
-table 
+ 
 {
-border-collapse: collapse;
+width: 100%;
 }
 	
 	
