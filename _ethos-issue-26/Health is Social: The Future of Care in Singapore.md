@@ -329,8 +329,7 @@ By bringing together national and social agencies, family doctors, community hea
 	
 <p>It aims to build the capabilities of health and social care professionals to work together in developing programmes and initiatives to engage the population on health issues collaboratively. The Academy is supported by strategic partners from across agencies, academia, healthcare, and community partners, including the AWWA, Care Corner Singapore, Methodist Welfare Services (MWS), and  TOUCH Community Services. These partnerships and programmes will grow as it expands as a movement to launch initiatives for health and social change.</p>	
 	
-	<p></p>	
-	
+<p>The academy features four strategic programmes to build Communities of Care through PACT—Population Health Management, Health Activation, Leading as a Collective and Transformation for Health &amp; Social Impact.</p>	
 	
 	
 	
