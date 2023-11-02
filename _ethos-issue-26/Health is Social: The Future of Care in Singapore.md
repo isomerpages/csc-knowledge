@@ -75,11 +75,11 @@ font-size: 16px;
 
 .containerbox2
 {
-border-collapse: collapse;
 background-color:#9E4579;	
-border-radius: 10px;
+border-radius: 50px;
 color:white;
 padding:40px;
+	
 }	
 
 figcaption
@@ -91,12 +91,7 @@ figcaption
 .containerbox2 h4
 {
 color:#A9C3E4;	
-}
-
-.containerbox2 tr
-{
-border-bottom: none;	
-border-collapse: collapse;
+text-align: center;
 }
 	
 	
