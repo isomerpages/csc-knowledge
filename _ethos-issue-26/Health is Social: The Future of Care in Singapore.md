@@ -70,7 +70,6 @@ font-size: 16px;
 .containerbox2
 {
 border-collapse: collapse;
-	
 background-color:#9E4579;	
 border-radius: 10px;
 color:white;
@@ -84,7 +83,7 @@ padding:40px;
 color:#A9C3E4;	
 }
 
-.containerbox2 table tr
+.containerbox2 tr
 {
 border-bottom: none;	
 border-collapse: collapse;
@@ -277,6 +276,43 @@ The impact of ageing on the elderly stirs us because it is also what we can all 
 	
 	
 </div>	
+	
+<br>
+<br>	
+<div class="containerbox">
+
+<h4>Building a Community of Care: Madam Amy's Story</h4>	
+<h5>by Karthikeyan J.R, CEO, Asian Women's Welfacre Association (AWWA)</h5>
+	
+<p>Amid the landscape of an ageing population within the Ang Mo Kio vicinity, the collaborative efforts of healthcare institutions and social service agencies are critical in providing holistic care for seniors. With this shared aspiration in mind, AWWA, Tan Tock Seng Hospital (TTSH), National Healthcare Group Polyclinics (NHGP), the Agency for Integrated Care-Silver Generation Office (AIC-SGO), and PanCare Medical Clinic came together to actualise it with Community of Care (CoC). 
+</p>	
+	
+<p>With CoC, Ang Mo Kio resident Madam Amy’s memory and health issues have not stopped her from participating actively within the community. To build trust and a genuine connection, the team at AWWA initiated befriending visits, and soon learned that Madam Amy was hesitant to seek the medical assistance she required. Working with TTSH’s Community Health Team (CHT) to assess her condition, the team worked out her unique needs and relevant care goals, while respecting her desire to remain independent.</p>	
+	
+<p>For continued support, the AWWA team conducted regular checks to monitor Madam Amy’s medication administration and vital signs. In addition, they created a personalised visual schedule with her favourite cat photos and voice-recorded reminders to encourage Madam Amy to take her medication on time. The team at PanCare Medical Clinic, which sits within the Ang Mo Kio vicinity, added to the network of support through home consultations, to ensure that her chronic conditions were comprehensively managed.</p>	
+	
+<p>The community also rallied around Madam Amy, with neighbours and local shop owners keeping a lookout for her and her brother staying in close contact to ensure her wellbeing.</p>		
+	
+<p>The CoC model of collaborative care reflects a deep commitment to supporting seniors through strong partnerships so that they are empowered to take control of their health, thrive, and age well throughout their golden years. .</p>			
+	
+	
+<figure>	
+	
+<img src="/images/Ethos_Images/Ethos_Issue_26/emotionalside.jpg" id="emotionalside">
+	
+<figcaption>Seniors from TOUCHpoint @ Geylang Bahru at aqua aerobics, in partnership with ActiveSG. </figcaption>	
+	
+</figure>	
+	
+	
+	
+</div>	
+	
+	
+	
+	
+	
+	
 	
 	
 	
