@@ -84,6 +84,12 @@ padding:40px;
 color:#A9C3E4;	
 }
 
+.containerbox2 table tr
+{
+border-bottom: none;	
+border-collapse: collapse;
+}
+	
 	
 .number
 {
