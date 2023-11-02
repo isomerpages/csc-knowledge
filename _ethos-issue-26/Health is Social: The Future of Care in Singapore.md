@@ -88,11 +88,10 @@ font-weight: bold;
 color: #A9C3E4;
 }	
 
- 
+td
 {
-width: 100%;
+	width: 10%;
 }
-	
 	
 
 	
