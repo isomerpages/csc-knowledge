@@ -111,6 +111,10 @@ color: #A9C3E4;
 margin-top: 30px;
 }	
 
+.black
+{
+color: black;
+}
 
 	
 </style>
@@ -339,9 +343,16 @@ By bringing together national and social agencies, family doctors, community hea
 	
 <p>The academy features four strategic programmes to build Communities of Care through PACT—Population Health Management, Health Activation, Leading as a Collective and Transformation for Health &amp; Social Impact.</p>	
 	
+<p>The Academy will host more than 30 local and international experts from academia, health and social care, and government agencies under the CHI Co-Learning Network. The Academy’s curriculum is designed around the premise that building healthier, happier communities requires a collective commitment and effort. Hence, it aims to nurture the environment for various stakeholders to come together to understand one another’s roles in the community, learn new skills and concepts, and take collective action to design care that will keep our people and future generations healthier and happier.
 	
+<br>
 	
-	
+</p><figure>	
+<img src="/images/Ethos_Images/Ethos_Issue_26/commpact.png">	
+<figcaption class="black">
+<b>Figure 1.</b> Diagram illustrating the four strategic programmes under the CHI Health &amp; Social Change Academy_
+</figcaption>	
+</figure>	
 	
 	
 
