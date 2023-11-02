@@ -80,7 +80,10 @@ color:white;
 color:#A9C3E4;	
 }
 	
-
+.icon1 img
+{
+width: 50px;	
+}
 	
 .number
 {
@@ -193,7 +196,7 @@ table
 </tr>	
 	
 <tr>	
-<td style="width: px;"><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%201-8.png"></td>	
+<td class="icon1"><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%201-8.png"></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
@@ -201,14 +204,14 @@ table
 	
 	
 <tr>	
-<td style="width: 100px;"><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%202-8.png"></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%202-8.png"></td>	
 
 <td><span class="number">1,000</span> attemped suicides.</td>		
 	
 </tr>		
 	
 <tr>	
-<td><img src=""></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%203-8.png"></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
@@ -216,7 +219,7 @@ table
 		
 
 <tr>	
-<td><img src=""></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%204-8.png"></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
@@ -230,7 +233,7 @@ table
 </tr>	
 	
 <tr>	
-<td><img src=""></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%205-8.png"></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
@@ -245,7 +248,7 @@ table
 </tr>	
 	
 <tr>	
-<td><img src=""></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%206-8.png"></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
