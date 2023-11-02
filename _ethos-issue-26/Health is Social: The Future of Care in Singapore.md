@@ -323,6 +323,14 @@ Healthier SG and Age Well SG to our population. Every CoC is anchored by an Acti
 By bringing together national and social agencies, family doctors, community health teams and  residents, CoCs can bridge health and social care for the elderly in their communities and empower residents to proactively manage their health and embrace healthier living.
 </p>	
 	
+<div class="break">
+
+<p class="break1">"Our Residents own their health, not just as individuals but as communities."</p>
+	
+</div>	
+	
+	
+	
 <h3>BUILDING CAPABILITIES FOR HEALTH AND SOCIAL CHANGE </h3>		
 
 <p>The Centre for Healthcare Innovation’s (CHI) Health &amp; Social Change Academy was launched on 28 July 2023 by Minister for Health Ong Ye Kung. </p>	
