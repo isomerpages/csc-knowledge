@@ -207,7 +207,7 @@ color: #A9C3E4;
 <tr>	
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%203-8.png"></td>	
 
-<td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
+<td>400 reported suicides, with 122 being above 60 years of age.</td>		
 	
 </tr>		
 		
@@ -215,7 +215,7 @@ color: #A9C3E4;
 <tr>	
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%204-8.png"></td>	
 
-<td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
+<td>1 in 10 seniors above 60 years of age has dementia.</td>		
 	
 </tr>
 	
@@ -229,7 +229,7 @@ color: #A9C3E4;
 <tr>	
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%205-8.png"></td>	
 
-<td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
+<td>15% of our elderly residents are living with frailty.</td>		
 	
 </tr>	
 	
@@ -244,7 +244,7 @@ color: #A9C3E4;
 <tr>	
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%206-8.png"></td>	
 
-<td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
+<td>In 2020, 100,000 residents were unable to perform or had a lot of difficulty performing one basic activity.</td>		
 	
 </tr>	
 		
