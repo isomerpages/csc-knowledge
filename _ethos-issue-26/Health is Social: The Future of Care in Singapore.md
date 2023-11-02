@@ -69,6 +69,8 @@ font-size: 16px;
 
 .containerbox2
 {
+border-collapse: collapse;
+border-bottom: none;	
 background-color:#9E4579;	
 border-radius: 10px;
 color:white;
@@ -88,11 +90,6 @@ color: #A9C3E4;
 }	
 
 
-table
-{
-  border-collapse: collapse;
-	border-bottom: none;
-}
 	
 </style>
 
