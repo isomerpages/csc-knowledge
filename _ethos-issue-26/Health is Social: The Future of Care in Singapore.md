@@ -89,6 +89,11 @@ font-weight: bold;
 color: #A9C3E4;
 }	
 
+#text
+{
+margin-top: 30px;
+}	
+
 
 	
 </style>
@@ -207,7 +212,7 @@ color: #A9C3E4;
 <tr>	
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%203-8.png"></td>	
 
-<td>400 reported suicides, with 122 being above 60 years of age.</td>		
+<td><span class="number">400</span> reported suicides, with 122 being above 60 years of age.</td>		
 	
 </tr>		
 		
@@ -215,7 +220,7 @@ color: #A9C3E4;
 <tr>	
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%204-8.png"></td>	
 
-<td>1 in 10 seniors above 60 years of age has dementia.</td>		
+<td><span class="number">1 in 10</span> seniors above 60 years of age has dementia.</td>		
 	
 </tr>
 	
@@ -229,7 +234,7 @@ color: #A9C3E4;
 <tr>	
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%205-8.png"></td>	
 
-<td>15% of our elderly residents are living with frailty.</td>		
+<td><span class="number">15%</span> of our elderly residents are living with frailty.</td>		
 	
 </tr>	
 	
@@ -244,14 +249,18 @@ color: #A9C3E4;
 <tr>	
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%206-8.png"></td>	
 
-<td>In 2020, 100,000 residents were unable to perform or had a lot of difficulty performing one basic activity.</td>		
+<td>In 2020, <span class="number">100,000</span> residents were unable to perform or had a lot of difficulty performing one basic activity.</td>		
 	
 </tr>	
 		
 	
 	
 	
-	
+<tr>
+<td colspan="2">	
+The impact of ageing on the elderly stirs us because it is also what we can all look forward to in time to come.
+</td>	
+</tr>	
 	
 
 </tbody>
