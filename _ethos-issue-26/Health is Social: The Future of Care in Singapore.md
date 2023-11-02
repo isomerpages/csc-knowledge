@@ -238,6 +238,22 @@ table
 	
 	
 	
+<tr>
+<th colspan="2">	
+<h4>According to a Department of Statistics Population Census Report:</h4>	
+</th>	
+</tr>	
+	
+<tr>	
+<td><img src=""></td>	
+
+<td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
+	
+</tr>	
+		
+	
+	
+	
 	
 	
 
