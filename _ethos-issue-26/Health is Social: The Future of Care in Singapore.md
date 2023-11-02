@@ -35,6 +35,12 @@ background-color: #A8CBEA;
 padding:20px;	
 border-radius:20px;
 }
+	
+.containerbox h4
+{
+	color: #9E4579;
+	text-align: center;
+}
 
 	
 .author
@@ -282,7 +288,7 @@ The impact of ageing on the elderly stirs us because it is also what we can all 
 <div class="containerbox">
 
 <h4>Building a Community of Care: Madam Amy's Story</h4>	
-<h5>by Karthikeyan J.R, CEO, Asian Women's Welfacre Association (AWWA)</h5>
+<p style="color: #9E4579; text-align: center;">by Karthikeyan J.R, CEO, Asian Women's Welfacre Association (AWWA)</p>
 	
 <p>Amid the landscape of an ageing population within the Ang Mo Kio vicinity, the collaborative efforts of healthcare institutions and social service agencies are critical in providing holistic care for seniors. With this shared aspiration in mind, AWWA, Tan Tock Seng Hospital (TTSH), National Healthcare Group Polyclinics (NHGP), the Agency for Integrated Care-Silver Generation Office (AIC-SGO), and PanCare Medical Clinic came together to actualise it with Community of Care (CoC). 
 </p>	
