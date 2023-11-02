@@ -391,7 +391,15 @@ age and the younger population are more mobile. The Digital CoC presents opportu
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Richard Johnson</b> is Chief Executive of the Healthy Brains Global Initiative (HBGI), which looks to address the global gap in mental health services and understanding by pooling philanthropy to contract and pay for outcomes, and to provide technical assistance to governments and other organisations. He has chaired eleven Social Impact Bonds, including a Development Impact Bond in Palestine, and has a new youth employment programme starting soon in South Africa. He has run for-profit organisations delivering large scale outcomes contracts in the UK, and has served as a World Bank Senior Consultant, and a Senior Advisor at the Global Fund.</p>
+	<p><b>Professor Eugene Fidelis Soh</b> is Deputy Group CEO for Integrated Care at the National Healthcare Group. Concurrently, he serves as CEO of Tan Tock Seng Hospital &amp; Central Health, Chairman of the Centre for Healthcare Innovation, and Adjunct Professor at Lee Kong Chian School of Medicine. His passion is in building population health systems, driving healthcare innovation for systems change, and deep learning through leadership and organisational development. </p>
+</div>
+
+
+<div class="notestop" id="notestop">
+<h6>NOTES</h6>
+<ol>
+<li>See: Meredith Clark, “What Are Blue Zones and Why Do Some Suggest They Are the Secret to Living Longer?” <a href="https://www.independent.co.uk/life-style/health-and-families/blue-zones-netflix-diet-documentary-b2408185.html">https://www.independent.co.uk/life-style/health-and-families/blue-zones-netflix-diet-documentary-b2408185.html.</a>.</li>
+</ol>	
 </div>
 
 
