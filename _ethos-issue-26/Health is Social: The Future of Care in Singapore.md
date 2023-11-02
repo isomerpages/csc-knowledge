@@ -70,11 +70,11 @@ font-size: 16px;
 .containerbox2
 {
 border-collapse: collapse;
-border-bottom: none;	
+	
 background-color:#9E4579;	
 border-radius: 10px;
 color:white;
-padding:50px;
+padding:40px;
 }	
 	
 .containerbox2 h4
