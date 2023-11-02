@@ -315,12 +315,19 @@ The impact of ageing on the elderly stirs us because it is also what we can all 
 </figure>	
 	
 	
-	
 </div>	
 	
 	
+<p>We are building a Community of Care (CoC) in every neighbourhood to bring 
+Healthier SG and Age Well SG to our population. Every CoC is anchored by an Active Ageing Centre (AAC) catering to elderly residents in that neighbourhood.  
+By bringing together national and social agencies, family doctors, community health teams and  residents, CoCs can bridge health and social care for the elderly in their communities and empower residents to proactively manage their health and embrace healthier living.
+</p>	
 	
+<h3>BUILDING CAPABILITIES FOR HEALTH AND SOCIAL CHANGE </h3>		
+
+<p>The Centre for Healthcare Innovation’s (CHI) Health &amp; Social Change Academy was launched on 28 July 2023 by Minister for Health Ong Ye Kung. </p>	
 	
+<p>It aims to build the capabilities of health and social care professionals to work together in developing programmes and initiatives to engage the population </p>	
 	
 	
 	
