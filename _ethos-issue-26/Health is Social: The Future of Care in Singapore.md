@@ -94,12 +94,15 @@ color:#A9C3E4;
 text-align: center;
 }
 	
-.containerbox2 tr
+.containerbox2 tr td
 {
-border: 1px solid white;
-text-align: center;
-
+border-bottom: none;
+border: 1px solid white;	
+}	
 	
+.containerbox2 tr th
+{
+border-bottom: none;
 }	
 	
 	
