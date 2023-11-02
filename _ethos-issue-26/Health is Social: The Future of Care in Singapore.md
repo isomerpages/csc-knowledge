@@ -176,7 +176,7 @@ table
 	
 <div class="containerbox2">	
 	
-<table width="50%">
+<table>
 <tbody>
 
 </tbody>
@@ -185,13 +185,13 @@ table
 <tbody>
 	
 <tr>
-<th>	
+<th colspan="3">	
 <h4>According to the Ministry of Health (MOH):</h4>	
 </th>	
 </tr>	
 	
 <tr>	
-<td><img src=""></td>	
+<td style="width: 70px;"><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%201-8.png"></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
@@ -199,7 +199,7 @@ table
 	
 	
 <tr>	
-<td><img src=""></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/Asset%202-8.png"></td>	
 
 <td><span class="number">1,000</span> attemped suicides.</td>		
 	
@@ -222,7 +222,7 @@ table
 	
 	
 <tr>
-<th>	
+<th colspan="2">	
 <h4>According to the National Healthcare Group (NHG):</h4>	
 </th>	
 </tr>	
