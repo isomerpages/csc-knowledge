@@ -89,18 +89,10 @@ color: #A9C3E4;
 }	
 
 
-table, th, td 
+table
 {
   border-collapse: collapse;
 }
-
-th, td {
-  padding: 5px;
-  text-align: left;
-}	
-
-
-	
 	
 </style>
 
@@ -187,14 +179,20 @@ th, td {
 <table>
 <tbody>
 
-<tr>
+</tbody><colgroup>
+           <col style="width: 50%;" span="1">
+           <col style="width: 70%;" span="1">
+ </colgroup>
+	
+	
+<tbody><tr>
 <th>	
 <h4>According to the Ministry of Health (MOH):</h4>	
 </th>	
 </tr>	
 	
 <tr>	
-<td class="icons"><img src="![](/images/Ethos_Images/Ethos_Issue_26/Asset%201-8.png)"></td>	
+<td class="icons"><img src=""></td>	
 
 <td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
 	
@@ -202,7 +200,7 @@ th, td {
 	
 	
 <tr>	
-<td><img src="![](/images/Ethos_Images/Ethos_Issue_26/Asset%201-8.png)"></td>	
+<td><img src=""></td>	
 
 <td><span class="number">1,000</span> attemped suicides.</td>		
 	
@@ -226,9 +224,13 @@ th, td {
 	
 <tr>
 <th>	
-<h4>According to the Ministry of Health (MOH):</h4>	
+<h4>According to the National Healthcare Group (NHG):</h4>	
 </th>	
 </tr>	
+	
+	
+	
+	
 	
 
 </tbody>
