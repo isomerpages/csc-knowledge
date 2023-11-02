@@ -281,11 +281,7 @@ color: black;
 </tr>	
 		
 	
-<tr>
-<td colspan="2">	
-The impact of ageing on the elderly stirs us because it is also what we can all look forward to in time to come.	
-</td>
-</tr>	
+
 	
 <tr></tr>	
 
@@ -294,6 +290,9 @@ The impact of ageing on the elderly stirs us because it is also what we can all 
 </tbody>	
 </table>
 	
+
+<p>The impact of ageing on the elderly stirs us because it is also what we can all look forward to in time to come.</p>
+
 	
 </div>	
 	
