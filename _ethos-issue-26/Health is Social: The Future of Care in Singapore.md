@@ -342,12 +342,6 @@ By bringing together national and social agencies, family doctors, community hea
 	
 	
 	
-<div class="break">
-
-<p class="break1">"THERE IS NO PHYSICAL HEALTH WITHOUT MENTAL HEALTH, AND THERE IS NO SOCIAL HEALTH WITHOUT MENTAL HEALTH”</p>
-
-</div>	
-
 	
 	
 
