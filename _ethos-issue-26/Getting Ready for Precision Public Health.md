@@ -139,13 +139,12 @@ A useful way to think about this transition is to compare it with how Digital Ma
 </tr>		
 	
 	
+		
 	
+</tbody>
+</table>		
 	
-	
-	
-</tbody></table>		
-	
-	
+<p>The healthcare industry believes that harnessing this wealth of health data can lead to numerous benefits. At the individual and provider level, it can improve patient care through connected health data for care coordination, and timely health insights that are actionable by the individual and providers. This data can also enhance health services research, research for product development, and understanding of the health needs of the population—all of which could lead to insights on how we might build better health systems.</p>	
 	
 	
 	
