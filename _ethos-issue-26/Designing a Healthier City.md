@@ -105,21 +105,21 @@ line-height:22px;
 	
 <tbody><tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/healthier-city-icon1.png"></td>	
-<td><b>Data science</b><br>Unravelling correlations between environmental attributes, sustainable planning, and physical, mental and social wellbeing.</td>	
+<td><b><span style="color:#2E3D6B;">Data Science</span></b><br>Unravelling correlations between environmental attributes, sustainable planning, and physical, mental and social wellbeing.</td>	
 	
 </tr>
 	
 	
 <tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/healthier-city-icon2.png"></td>	
-<td><b>Citizen Science</b><br>Engaging in design ethnography to assess communities practising climate positive actions and their wellbeing impacts.</td>	
+<td><b><span style="color:#2E3D6B;">Citizen Science</span></b><br>Engaging in design ethnography to assess communities practising climate positive actions and their wellbeing impacts.</td>	
 	
 </tr>		
 	
 
 <tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/healthier-city-icon3.png"></td>	
-<td><b>Generative Design</b><br>Crafting radical design proposals and future scenarios planning embodying Positive Urbanism, informed by insights from the data and citizen science. </td>	
+<td><b><span style="color:#2E3D6B;">Generative Design</span></b><br>Crafting radical design proposals and future scenarios planning embodying Positive Urbanism, informed by insights from the data and citizen science. </td>	
 	
 </tr>		
 	
