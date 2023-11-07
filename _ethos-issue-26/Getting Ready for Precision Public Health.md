@@ -126,7 +126,7 @@ A useful way to think about this transition is to compare it with how Digital Ma
 
 <tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/precision-public-health-3.png"></td>	
-<td><span style="color:#ED5E2A; font-weight: bold;">Big Data</span>is the lifeblood of Precision Public Health. Collectively, Precision Medicine and Digital Health generate a vast amount of health data that is useful at both the health systems and population level, and at the individual, personal level. 
+<td><span style="color:#ED5E2A; font-weight: bold;">Big Data</span> is the lifeblood of Precision Public Health. Collectively, Precision Medicine and Digital Health generate a vast amount of health data that is useful at both the health systems and population level, and at the individual, personal level. 
 	
 </td>	
 	
