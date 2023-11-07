@@ -108,7 +108,22 @@ color: white;
 <p>In considering nudges as policy tool options, policymakers in Singapore  should understand how social sense-making works in our context, since it could influence how citizens react to such measures.</p> 	
 
 
+<h3>A study of social norm nudges and social sensemaking in Singapore</h3>
 
+<p>A recent study by a Civil Service College (CSC) team has examined social sensemaking and its effect on social norm nudges, a common intervention used by public agencies in Singapore.</p>
+
+<p>In late 2021, CSC, with support from the Central Provident Fund Board, the Ministry of Sustainability and the Environment, the National Environment Agency, and the Ministry of Health, conducted an online survey with 2,000 Singapore citizens and permanent residents, aged 21 and above. The survey aimed to identify whether individuals engage in social sensemaking when presented with social nudges for health, environment, and finance public  policies. In addition, the study also sought to understand the factors that can trigger social sensemaking and influence the effectiveness of social norm nudges in these policy domains.</p> 
+
+<p>In the survey, each participant was presented with five hypothetical scenarios to do with:</p>
+
+
+
+
+
+
+
+
+<p>The scenarios were presented in a random sequence. For each scenario, participants were randomly shown either the control or treatment message. All treatment messages contained a social norm nudge (see Figure 1). </p>
 
 
 
