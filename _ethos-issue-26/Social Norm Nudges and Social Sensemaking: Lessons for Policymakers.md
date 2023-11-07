@@ -91,10 +91,17 @@ color: white;
 	
 </div>
 	
+<p>Nevertheless, some behavioural researchers argue that social sensemaking, when used correctly, can increase the effectiveness of nudges.2 They cite the example of defaults, which always reveal the intent of the choice architect, yet are one of the most effective nudges available in most contexts.  
 	
+	
+In considering nudges as policy tool options, policymakers in Singapore  should understand how social sense-making works in our context, since it could influence how citizens react to such measures. 	
 
 
-<div class="break">
+
+
+
+
+</p><div class="break">
 <p class="break1">"Content for breaking"</p>
 </div>
 
