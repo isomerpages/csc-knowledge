@@ -120,16 +120,16 @@ color: white;
    <ol>
     <table>
     <tbody><tr>
-    <td><img src=""></td>
     <td><li>Lorem Ipsum</li></td>
+		<td><img src=""></td>	
     </tr>
     <tr>
-    <td><img src=""></td>
     <td><li>Lorem Ipsum</li></td>
+		<td><img src=""></td>	
     </tr>
     <tr>
-    <td><img src=""></td>
     <td><li>Lorem Ipsum</li></td>
+		 <td><img src=""></td>	
     </tr>
     </tbody></table>
     </ol>
