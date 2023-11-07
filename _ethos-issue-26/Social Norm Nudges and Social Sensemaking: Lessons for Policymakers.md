@@ -61,8 +61,15 @@ padding: 50px;
 color: white;
 }
 	
-
-
+#icons-text ol li
+{
+	font-size: 15px;
+}
+	
+#icons-text td
+{
+	font-size: 15px;
+}
 	
 	
 </style>
@@ -116,7 +123,10 @@ color: white;
 
 <p>In the survey, each participant was presented with five hypothetical scenarios to do with:</p>
 
-<ol id="icons-text">
+
+<div id="icons-text">
+
+<ol>
 <table>
 <tbody><tr>
 <td><li><img src=""></li></td>
@@ -148,7 +158,7 @@ color: white;
 </tbody></table>
 </ol>
 
-
+</div>
 
 
 
