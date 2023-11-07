@@ -133,6 +133,8 @@ line-height:22px;
 </div>	
 	
 	
+<p>We cannot talk about environment wellness without first addressing the issue of sustainability, which is more urgent and complex than just trying to create a beautiful urban setting. We can no longer discuss development as an output that costs how many billion dollars to build, because we also have to consider the carbon emissions involved in building. Ultimately, we would want to lower emissions for people’s good. So, we have to address sustainability at the same time as trying to talk about enhancing our urban environment. In the past, we built non-stop to achieve development in a short time, and also built up our carbon footprint rapidly. Today, we have to balance that. </p>	
+	
 	
 	
 	
