@@ -214,7 +214,7 @@ how best to ensure we  function optimally in them.”</p>
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-	<p><b>Ng How Yue</b> is Permanent Secretary (Health Development), Ministry of Health (MOH). He was previously Permanent Secretary, Ministry of Law. He has also served as Principal Private Secretary to the Prime Minister and as Chairman of the Energy Market Authority, among other senior positions in the Singapore Public Service.</p>
+	<p><b>Professor Tai Lee Siang</b> is Head of Pillar, Architecture and Sustainable Design at the Singapore University of Technology and Design (SUTD). He is also Programme Director, Design and Artificial Intelligence, and the Centre Director of DesignZ, SUTD’s design centre. A practicing architect and urban planner since 1990, he has served as President of the Singapore Institute of Architects, the Singapore Green Building Council, and Design Business Chamber Singapore. He was also Chair of the World Green Building Council (2016 to 2018) where he spearheaded the Advancing Net Zero movement, resulting in increased adoption of Net Zero Buildings worldwide.</p>
 </div>
 
 
