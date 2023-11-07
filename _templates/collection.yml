@@ -2,5 +2,5 @@ collections:
   templates:
     output: true
     order:
-      - Table of Content template.md
       - Page Content Template.md
+      - Table of Content template.md
