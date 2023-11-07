@@ -197,48 +197,17 @@ how best to ensure we  function optimally in them.”</p>
 </div>				
 	
 	
+<p>There are many possibilities in urban innovation, but many are challenging for a number of reasons. For example, the concept of car-free or car-light cities requires drastic change in transport behaviour connected to zoning. I personally favour firstly a significant improvement of human spaces or the pedestrian realm. Despite the value of nature, not many cities have embarked on total greening of their physical environment. Successful partial examples are usually found in first world economies. But for cities that do not have the financial means to transform themselves, greening pedestrian spaces is a good place to start.</p>
 	
 	
+<p>For instance, in Singapore, the successful implementation of Park Connectors by NParks demonstrates a simple and yet effective way to achieve a few objectives synergistically. It combines under-utilised remnant spaces in a linear fashion to join different parts of the city, resulting in hundreds of kilometres of park spaces. Today, many use the park connectors as alternative ways to commute between home and work. If we can extend the same concept to dramatically improve all walking spaces in a city by turning them into park-like settings, it will fundamentally alter urban ambience and behavioural patterns. Spaces that could be connected in a park-like fashion include sidewalks, tunnels, overhead bridges and any spaces likely to be used by people. As more people are enticed to walk, run or cycle, human health is likely to improve significantly. The urban environment will be more conducive for human beings to live, work and play.</p>
+	
+<p>To further improve health and wellbeing, the park-like concept could be extended to buildings, which are microcosms of cities.  Buildings comprise occupied spaces and movement spaces such as corridors and stairs. At present, most of these spaces are sparsely utilitarian. Without compromising on function, we could create healthier buildings by making these neutral spaces greener. Such initiatives could start with public sector buildings such as schools, hospitals, transport hubs and public housing. I would go so far to say that environments that are conducive for plants are also conducive for human wellbeing.</p>	
 	
 	
+<p>The above are suggestions on how we could, in small ways, revolutionise our built environment. These efforts do not require excessive budget increases or fundamental alterations of urban structure. Such efforts are more often held back by legacy mindsets. It is time to set aside the outmoded notion that cities are most vibrant when there is no nature in sight. Instead, nature should be seen as a force multiplier for the growth of a city in terms of the three aspects of sustainability:  social, economic and environmental.</p>
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+<p>It may be a stretch to try for holistically human-centric cities overnight. Hence, I propose small, fast and effective changes at a system level like what Singapore’s pioneers have opted for—integrating the city with nature, with a range of immediate and longer-term benefits, and ultimately happier, healthier inhabitants. </p>
 	
 
 
@@ -252,11 +221,8 @@ how best to ensure we  function optimally in them.”</p>
 <div class="notestop" id="notestop">
 <h6>NOTES</h6>
 <ol>
-<li>Scott L. Greer, Michelle Falkenbach, Luigi Siciliani, Martin McKee, Matthias Wismar, and Josep Figueras, “From Health in All Policies to Health for All Policies”, The Lancet Public Health 7, no. 8 (2022): E718–E720, doi: https://doi.org/10.1016/S2468-2667(22)00155-4.</li>
-<li>Source: Population in Brief 2022. The proportion of citizens aged 65 and above is estimated to be 23.8%in 2030, up from 18.4% in 2022.</li>
-<li>Based on admissions data in 2019.</li>
-<li>Based on National Health Survey 2010, National Health Surveillance Survey 2013, and National Population Health Survey 2019/2020.</li><li>Based on Global Burden of Disease Study 2019.</li>
-<li>As of end-December 2022.</li>
+<li>Piers MacNaughton, Usha Satish, Jose Guillermo Cedeno Laurent, Skye Flanigan, Jose Vallarino, Brent Coull, John D. Spengler, and Joseph G. Allen, “The Impact of Working in a Green Certified Building on Cognitive Function and Health”, Building and Environment 114 (2017): 178–186, https://www. sciencedirect.com/science/article/pii/S0360132316304723.</li>
+
 
 </ol>	
 </div>
