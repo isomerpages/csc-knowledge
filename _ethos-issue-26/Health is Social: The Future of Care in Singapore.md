@@ -2,6 +2,7 @@
 title: "Health is Social: The Future of Care in Singapore"
 permalink: /ethos-issue-26/health-is-social-the-future-of-care-in-singapore/
 description: ""
+variant: markdown
 ---
 <style>
 		
@@ -96,7 +97,7 @@ text-align: center;
 	
 .containerbox2 tr td
 {
-border: 1px solid white;	
+border-bottom:none ;	
 }	
 	
 .containerbox2 tr th
