@@ -138,90 +138,80 @@ line-height:22px;
 	
 	
 	
+<h3>DESIGNING FOR HUMAN
+WELLBEING AT DIFFERENT SCALES</h3>	
 	
-	
-	
-<figure>  
-<img src="/images/Ethos_Images/Ethos_Issue_26/polyclinic.jpg">
-	<figcaption><b>Figure 1.</b> Healthcare clusters, as regional health managers, will organise community partners in support of better health outcomes.</figcaption>	
-	
-</figure>
 
-<p>Primary and community care providers are also crucial in supporting mental health needs. Mental health and wellbeing came to the fore during the last few years, when the COVID-19 pandemic exacerbated existing stressors and brought about new ones. On top of ongoing efforts by community outreach and intervention teams, MOH is working with partners in primary and community care to increase mental health literacy across the population.</p>
+<p>How might we apply urban design to enhance human wellbeing and health?  We can think of it as a series of challenges to work on at different scales.</p> 
 	
-<p>Our three healthcare clusters—SingHealth, National University Health System (NUHS), and National Healthcare Group (NHG)—who have traditionally built up strong capabilities in specialist medical care, acute care, and primary care—will do more in the prevention space. A big part of this involves working with community providers to integrate services and deliver more comprehensive care to residents. Over the last few years, clusters have put in place geographical-based community nursing teams, so residents can consult community nurses and receive health advice at health posts located conveniently within Active Ageing Centres (AACs), Community Centres (CCs), Residents’ Corners (RCs), and Social Service Offices (SSOs). Since 2022, we have also worked with the Ministry of Social and Family Development (MSF) to pilot Family Nexus, which provides children and their families with a “one-stop shop” near their homes to access services across different domains. With Family Nexus, couples and families with young children can receive health and social support in a single session. </p>
+<p>First, the overall city scale. In the past, it was all well and good to separate our urban functions based on zoning, with industry separate from housing and so on. But one outcome of this separation was also to create more carbon emissions from road traffic and transport. So urban planners, including private sector developers who handle large tracts of land, should think about what new paradigm or model can be created to strike a balance between the separation of functions or users and lowering the carbon emissions from the movement of goods and services.</p>
 	
-<p>To facilitate the transition of patients back into the community after hospital episodes, the clusters have also been implementing the “Hospital-to-Home” programme. Post-discharge patients with complex needs are managed by a multidisciplinary care team who helps to assess their health and psychosocial needs, and follows up accordingly. </p>	
-	
-	
-<h3>ADDRESSING UNDERLYING SOCIAL AND ENVIRONMENTAL 
-CONDITIONS</h3>	
-	
-<p>Beyond preventive care, MOH is broadening our view on what factors contribute to poor health. Many of them are underlying social or environmental conditions that are much harder to address, and require concerted and coordinated efforts beyond MOH. The World Health Organisation states that health inequities are greatly influenced by “non-medical factors that influence health outcomes…the conditions in which people are born, grow, work, live, and age”. We are grateful that different Ministries across the public sector are working alongside us, to shape a Healthier Singapore for the benefit of all our residents.</p>
-	
-<p>Schools have been strong partners for us in laying the foundations of health literacy. Through the years, the Ministry of Education (MOE) has worked with MOH to incorporate health education in its curriculum, from early childhood all the way to tertiary education. School health programmes started being rolled out in as early as the 1930s, and have evolved over the years to stay relevant to each new generation of students. Research findings show that good health habits such as proper diet, sleep, and device use, if inculcated from young, could have a profound impact on one’s cognitive development and wellbeing later on in life. We are working with MOE and the Early Childhood Development Agency (ECDA) to roll out a more holistic school health package that will give every child a good start in fostering lifelong health habits from young. This will encompass evidence-based programmes and interventions that promote good health and address key health issues—such as obesity, screen and device usage, as well as smoking and vaping—among youth.</p>
 	
 <div class="break">
 
-<p class="break1">"Health inequities are greatly influenced by ‘non-medical factors that influence health outcomes… the conditions in which people are born, grow, work, live, and age.”</p>
-
-</div>	
-	
-<p>We are also harnessing the power of social connectedness in improving health and wellbeing. On top of our well-established physical infrastructure of green spaces and fitness amenities, we want to strengthen Singapore’s “social infrastructure” to make our environment more conducive for taking up healthier lifestyles.</p>	
-	
-<p>One example is the Active Health Labs by Sport Singapore, which provides affordable and accessible health and wellness coaching by trained coaches. As part of Healthier SG, we are encouraging primary care doctors to refer their patients to these sorts of programmes, so that residents can get active and form new habits in a safe and supportive context.</p>
-	
-<div class="break">
-
-<p class="break1">"We want to strengthen Singapore’s “social infrastructure” to make our environment more conducive for taking up healthier lifestyles.”</p>
+<p class="break1">"We spend over 90% of  our time inside buildings:  we should consider  
+how best to ensure we  function optimally in them.”</p>
 
 </div>		
 	
-<p>Another example is the Health Promotion Board’s (HPB) Healthy Workplace Ecosystems. Through partnerships with landlords, developers, and business associations, HPB has been bringing initiatives such as mass workouts and health talks to workers in various precincts and workplace clusters, tailored to suit their needs and demographics. Today, over 80 Healthy Workplace Ecosystems have been established throughout Singapore.<sup><a href="#notestop">6</a></sup></p>	
+<p>Next, we can look at design at the building scale. In 2017, Harvard T. H. Chan School of Public Health did a study on the impact of green buildings' indoor environment on cognitive function.1  The study found that those working in high performing certified green buildings had 26.4% higher cognitive test scores. There were also other significant benefits: including better sleep, thermal comfort and lower sickness symptoms. Since my transition from industry to the Singapore University of Technology and Design, I have seen the great potential of using science-based approaches to evaluate the outcome of sustainability features in a building on its human occupants. It would be timely to resume such studies now, particularly with the development of better, smarter environmental sensors and better ways with which to measure human performance in spaces. We could look at the impact of factors such as lighting, ventilation, air-conditioning and so on, on human performance and wellbeing. This is paramount because we spend over 90% of our time inside buildings: we should consider how best to ensure we function optimally in them.</p>
+	
 
-<p>We are making an extra effort to tackle social isolation amongst seniors through Age Well SG. Social isolation, a key driver of frailty and a threat to seniors’ physical and mental health, often goes overlooked. Without the companionship of family members, friends, and the wider community, loss of function is expected to hasten. Thus, a key thrust of Age Well SG is to expand and enhance the network of AACs as nodes for seniors to remain both physically active and socially engaged. AACs create more opportunities for seniors to make friends, volunteer, and take part in active ageing programmes. For those who are enrolled into Healthier SG, AACs would be an additional supporting arm for GPs, to help seniors follow through with their health plans.</p>
+<p>Finally, we can go down to the product scale. There are many things we can do to improve health and performance with innovation. For example, you have phone accessibility functions to increase the legible size of text, or to support hearing. There could be devices to help people struggling to bring strollers or wheelchairs up stairs, sidewalks or buses. The list goes on.</p>
 	
-<figure>  
-<img src="/images/Ethos_Images/Ethos_Issue_26/clusters.jpg">
-	<figcaption><b>Figure 2.</b> Community assets, such as Active Ageing Centres, help keep seniors meaningfully engaged and socially connected.</figcaption>	
 	
-</figure>	
+
+<h3>DESIGNING FOR HEALTH: KEY PRINCIPLES</h3>	
+	
+<p>One general principle we need to bear in mind in our innovations is human centricity. In other words, we start with the human needs to be met, instead of with the cost in mind. Thinking about cost is a common mindset, especially where profit is a key driver. That is not to say that it is not an important consideration. But without having human centricity at the core of whatever we are trying to achieve, our reasoning becomes lopsided.</p>	
 	
 	
 <div class="break">
 
-<p class="break1">"We are keen to do more to lower barriers to health and healthcare, and to be more targeted in supporting not just seniors, but other vulnerable population segments.”</p>
+<p class="break1">"We start with the human needs to be met, instead of with the cost in mind.</p>
 
 </div>			
 	
 	
-<p>In tandem, MOH will work with the Ministry of National Development (MND), Housing and Development Board (HDB), and Ministry of Transport (MOT) to continually upgrade homes and residential estates, as well as offer more housing options, for seniors to age independently in the community. An example of a new senior housing typology is the Community Care Apartments, which are integrated with care services. MND will also be expanding their Enhancement for Active Seniors (EASE) programme. EASE 2.0 will offer more subsidised fittings within homes so that seniors can go about their daily activities literally with greater EASE! At the same time, our HDB estates are becoming increasingly senior-friendly, with more shelters, rest points, barrier-free access ramps, pedestrian crossings, and even green man signals that last longer. </p>
-	
-<p>In the coming years, we are keen to do more to lower barriers to health and healthcare, and to be more targeted in supporting not just seniors, but other vulnerable population segments. We have begun partnering with MSF in making healthcare services more accessible for lower-income households. Close to two-thirds of families under MSF’s ComLink programme have indicated having at least one family member with a chronic health condition, with a quarter of them not compliant in adhering to medical appointments or medication. ComLink family coaches and SSO coordinators will thus be working more closely with the clusters to address ComLink families’ health needs. Besides equipping the ComLink family coaches with tools to support these families through health nudges and navigation support, the respective cluster will also assign a team to provide joint case management for families with complex needs.</p>
-	
-<h3>WHAT IS OUR ROLE AS A PUBLIC SERVICE?	</h3>
-	
-<p>The Public Service is well placed to provide the enabling infrastructure through which stakeholders from across different sectors—government, private sector, community space—can work together towards common goals. With both Healthier SG and Age Well SG, MOH is bringing in partners outside of healthcare, recognising the important roles they play in the population’s health. </p>
+<p>We often also forget there are alternative paradigms to the status quo. For instance, the COVID pandemic taught us that we can in fact abandon the city and work from home on a massive scale. Since that is the case, we should perhaps take stock of our actual office space needs. We may save a lot of resources instead of building offices unnecessarily.</p>
 	
 	
-<figure>  
-<img src="/images/Ethos_Images/Ethos_Issue_26/3circles.jpg">
-	<figcaption><b>Figure 3.</b> An ecosystem of support helps individuals to form and sustain healthy habits.</figcaption>	
-	
-</figure>	
-		
-<p>During our public consultations for the Healthier SG White Paper in 2022, we heard from many residents that peer and family influence were key factors in motivating them to exercise regularly and eat healthily. We also saw that partners could help to introduce more variety into the types of activities that are organised on the ground. One example is the Live Well Age Well programme that HPB and the People’s Association (PA) jointly organise at various community touchpoints, which aims to empower seniors to continue doing what they love, while improving their physical, mental, and social health. In future, HPB will look at how to incorporate programmes from other public sector agencies to rejuvenate our healthy lifestyle offerings under Healthier SG and Age Well SG.</p>	
-	
-<p>The Silver Generation Office (SGO) will keep up its efforts to identify socially isolated seniors, and can now connect them to nearby AACs for follow-up. Over time, AACs can augment their manpower and extend their reach by broadening their volunteer pool through SG Cares, and leveraging Residents’ Networks to establish satellite locations. AIC is even working on an “Adopt-an-AAC” initiative with corporate partners, where staff can contribute to building up a more sustainable pool of volunteers for an AAC which they have adopted.</p>	
+<p>A third principle is that being human centric could bring benefits across the board, because people are healthier and work more optimally if their unique individual needs are catered to, rather than making them adopt a one-size-fits-all model of living or working. The problem has been that the technology to viably meet all these different needs at scale was not available in the past.</p>
 	
 	
-<p>Beyond the public sector, we have been actively engaging organisations in the private sector to be part of our health ecosystem. MOH and HPB adopt a tripartite approach to encouraging workplace safety and health through collaborations with corporates, unions, associations, and other public sector organisations. In July this year, we worked with the Ministry of Manpower (MOM), NTUC, and Singapore National Employers Federation (SNEF) to publish a Tripartite Statement that outlines recommendations for employers to promote employee health and wellbeing in support of Healthier SG. We are now working together to develop Tripartite Standards to guide employers in implementing practices that enhance workplace health and wellness. Today, employees can benefit from HPB’s programmes like the aforementioned Healthy Workplace Ecosystems (HWE), Mature Workers Programme (MWP), and Workplace Outreach Wellness (WOW) Programme, or the Workplace Safety and Health (WSH) Council’s Total WSH Programme. The Tripartite Oversight Committee on WSH oversees the scaling up and sustained adoption of these programmes, to support partners' and employers’ efforts in promoting healthier lifestyles at  the workplace.</p>	
+<p>We should look carefully at how to harness the potential of powerful new tools, such as artificial intelligence, to meet these diverse needs more readily. This means that instead of adopting human centricity for a small, select group of people, we could use AI to provide very detailed mass customisation, so that the system as a whole is efficient and less wasteful. For example, with the right use of AI, we might now be able to generate hundreds or thousands of design possibilities quickly, that could be coupled with robotics and rapid prototyping to make personalised products—say, shoes or furniture—that are tailored to the specific needs of thousands of different users. </p>	
 	
-<p>Over the past years, HPB has also been actively engaging industry partners and steering them towards the provision of healthier options, such as reformulating their products to develop healthier food and beverages. For instance, as part of the nationwide sodium reduction strategy that was announced in 2022, HPB has been working with major suppliers to expand the range of lower-sodium salt, sauces, and seasonings. HPB also extended its Healthier Ingredient Development Scheme (HIDS) to support the development and commercialisation of lower-sodium ingredients.</p>	
-
-<p>As a government, how we design and implement national policy is evolving. With public issues that are ever more complex and interlinked, we need the cooperation and support of many players, all doing their part to shift residents, households, and organisations in the right direction. In creating space within our policies for community and private sector partners to contribute, the public sector can become more effective as a whole in serving the needs of all Singaporeans.</p>	
 	
-<p>Ultimately, our initiatives must inspire individuals to themselves adopt a mindset of personal ownership, and influence others around them to do the same. This I believe is the next bound of work for us. Even with the best efforts of government and community, the agency and willingness to change lies with the individual. The design of our policies and programmes must take this into account, in order to drive lasting changes in society. </p>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
