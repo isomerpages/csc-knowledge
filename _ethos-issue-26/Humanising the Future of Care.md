@@ -91,7 +91,7 @@ SYSTEM TODAY?</h3>
 
 <p>There are also good reasons for preferring that patients be looked after by primary care rather than by acute care. In Belize, GPs are being encouraged to look after patients who are stable after cancer treatment. Because of modern medical developments, most cancer patients survive to have a decent quality of life. But they are still vulnerable: if they aren’t seen by their primary care doctors close by, they risk ending up in the hospital emergency ward each time they have a fever or even influenza that worsens.</p>
 
-<p>In Australia, where my children practise as doctors, it can be difficult to refer patients to specialists in a city which could be hundreds of kilometres away. So primary care practitioners in smaller towns must manage on their own. They form groups of fellow GPs, each with special interests. These “GPwSI”<sup>1</sup> groups are supported by specialists in main hospitals, through telemedicine as well as regular programmes where they are brought back every three to four months to familiarise themselves with the latest specialised medical developments and advances in management. So they are semi-specialists—or rather, they are specialists in family medicine, working together to support their rural or suburban communities. This is something we hope to see happen in Singapore in future. </p>
+<p>In Australia, where my children practise as doctors, it can be difficult to refer patients to specialists in a city which could be hundreds of kilometres away. So primary care practitioners in smaller towns must manage on their own. They form groups of fellow GPs, each with special interests. These “GPwSI”<sup><a href="#notestop">1</a></sup> groups are supported by specialists in main hospitals, through telemedicine as well as regular programmes where they are brought back every three to four months to familiarise themselves with the latest specialised medical developments and advances in management. So they are semi-specialists—or rather, they are specialists in family medicine, working together to support their rural or suburban communities. This is something we hope to see happen in Singapore in future. </p>
 
 <p>We are persuading GPs that they should and are able to take care of most patients; we are setting up systems, and we will have systems to support and renumerate them for doing so.</p>
 
@@ -103,7 +103,7 @@ SYSTEM TODAY?</h3>
 <p class="break1"> Through the Primary Care Network and  Healthier SG, we hope to transform primary care to match the demands and opportunities of the future.</p>
 </div>
 
-<p>One of the things we want to do is to give GPs support for their clinics. Most GPs are solo practitioners. If we expect them to perform more healthcare services in future, they will need staff help. It is not efficient to see a patient and also carry out scans, tests, and other checks, all of which take time. It is better to employ a nurse to perform these tasks. They can spend an extended period talking to the patient, whereas a doctor may only be able to spare a few minutes before focusing on other areas such as prescriptions. We could also support family clinics to be multi-doctor practices, so that we can accommodate GPwSI practices and hence offer a better one-stop service. The space allocated to clinics in newer housing estates may also have to be much larger to accommodate entire primary care teams and the expanded role expected of family clinics.<sup>2</sup> 
+<p>One of the things we want to do is to give GPs support for their clinics. Most GPs are solo practitioners. If we expect them to perform more healthcare services in future, they will need staff help. It is not efficient to see a patient and also carry out scans, tests, and other checks, all of which take time. It is better to employ a nurse to perform these tasks. They can spend an extended period talking to the patient, whereas a doctor may only be able to spare a few minutes before focusing on other areas such as prescriptions. We could also support family clinics to be multi-doctor practices, so that we can accommodate GPwSI practices and hence offer a better one-stop service. The space allocated to clinics in newer housing estates may also have to be much larger to accommodate entire primary care teams and the expanded role expected of family clinics.<sup><a href="#notestop">2</a></sup> 
 </p>
 
 <p>This is where the Primary Care Network (PCN) approach makes a difference. Each PCN is a virtual group of GP clinics, supported by a HQ. The HQ has a team of nurses and what we call primary care coordinators. These coordinators manage the software that helps keep track of patients who are lost to follow-up (say they had been prescribed three months of regular medication but have not come back for more after that period). The coordinators contact these patients and remind them to follow up. If these patients do not follow up regularly, their conditions could worsen and lead to complications that may land them in hospital or worse: which is bad for them and for the healthcare system.</p>
@@ -173,7 +173,7 @@ TO SUPPORT OTHER ASPECTS OF WELLBEING?</h3>
 </div>
 
 
-<div class="notestop">
+<div class="notestop" id="notestop">
 <h6>NOTES</h6>
 <ol>
 	
