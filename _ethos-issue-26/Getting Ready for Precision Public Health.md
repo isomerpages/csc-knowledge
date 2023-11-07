@@ -57,15 +57,21 @@ line-height:22px;
 .containerbox
 {
 background-color: #1C2D4F;	
-padding: 20px;
+padding: 40px;
 color: white;
 }
+
+.containerbox tr td
+{
+border-bottom: none;	
+}	
 	
 
 
 	
 	
 </style>
+
 <em><small>ETHOS Issue number, month year</small></em>
 <div class="background-image">
 <img src="">
