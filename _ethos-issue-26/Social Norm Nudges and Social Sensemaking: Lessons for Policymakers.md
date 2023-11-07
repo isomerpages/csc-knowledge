@@ -89,19 +89,30 @@ color: white;
 	
 <img src="/images/Ethos_Images/Ethos_Issue_26/social-sensemaking-1.png">
 	
+	
+<div class="notestop">
+<h6>NOTES</h6>
+<ol>
+	
+<li>J. M. T. Krijnen, D. Tannenbaum, and C. R. Fox, (2017). “Choice Architecture 2.0: Behavioral Policy as an Implicit Social Interaction”, Behavioral Science &amp; Policy 3, no. 2 (2017): 1–18.</li>
+	
+</ol>	
 </div>
 	
-<p>Nevertheless, some behavioural researchers argue that social sensemaking, when used correctly, can increase the effectiveness of nudges.2 They cite the example of defaults, which always reveal the intent of the choice architect, yet are one of the most effective nudges available in most contexts.  
 	
 	
-In considering nudges as policy tool options, policymakers in Singapore  should understand how social sense-making works in our context, since it could influence how citizens react to such measures. 	
+</div>
+	
+<p>Nevertheless, some behavioural researchers argue that social sensemaking, when used correctly, can increase the effectiveness of nudges.2 They cite the example of defaults, which always reveal the intent of the choice architect, yet are one of the most effective nudges available in most contexts.</p>
+	
+<p>In considering nudges as policy tool options, policymakers in Singapore  should understand how social sense-making works in our context, since it could influence how citizens react to such measures.</p> 	
 
 
 
 
 
 
-</p><div class="break">
+<div class="break">
 <p class="break1">"Content for breaking"</p>
 </div>
 
