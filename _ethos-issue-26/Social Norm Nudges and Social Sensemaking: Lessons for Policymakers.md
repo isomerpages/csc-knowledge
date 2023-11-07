@@ -117,20 +117,35 @@ color: white;
 <p>In the survey, each participant was presented with five hypothetical scenarios to do with:</p>
 
 <ol id="icons-text">
-    <table>
-    <tbody><tr>
-    <td><li><img src=""></li></td>
-    <td>Lorem Ipsum</td>
-    </tr>
-    <tr>
-    <td><li><img src=""></li></td>
-    <td>Lorem Ipsum</td>
-    </tr>
-    <tr>
-    <td><li><img src=""></li></td>
-    <td>Lorem Ipsum</td>
-    </tr>
-    </tbody></table>
+<table>
+<tbody><tr>
+<td><li><img src=""></li></td>
+<td>Lorem Ipsum</td>
+</tr>	
+
+<tr>
+<td><li><img src=""></li></td>
+<td>Lorem Ipsum</td>
+</tr>	
+	
+<tr>
+<td><li><img src=""></li></td>
+<td>Lorem Ipsum</td>
+</tr>		
+    
+<tr>
+<td><li><img src=""></li></td>
+<td>Lorem Ipsum</td>
+</tr>		
+	
+<tr>
+<td><li><img src=""></li></td>
+<td>Lorem Ipsum</td>
+</tr>	
+			
+			
+			
+</tbody></table>
 </ol>
 
 
