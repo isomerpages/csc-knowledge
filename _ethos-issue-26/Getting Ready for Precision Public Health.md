@@ -152,10 +152,41 @@ A useful way to think about this transition is to compare it with how Digital Ma
 </div>
 
 
+<h3>GOVERNMENTS NEED A BLUEPRINT AND  STRATEGY FOR PRECISION 
+PUBLIC HEALTH</h3>
+
+<p>A healthy population is a form of economic and social capital, and governments have been the traditional payer and investor in public health services and functions.  Historically, most of these investments have been borne out of necessity (e.g., water and sanitation, vaccinations, workplace safety regulations) or because they are low-cost, high-value and efficient investments (e.g., health education campaigns, tobacco taxation and regulation, operating public primary care and maternal and child health clinics).</p>
+
+<p>With economic progress, greater  affluence and a more educated  populace, a society comes to expect higher quality public services. The public also expects the government to play a more central role for public health services, especially when it comes to infrastructure investments, health ecosystem development and regulation for safe and accessible  quality health services. In this regard, we find it useful to draw parallels with how governments and the private sector both invest in transportation infrastructure  and services.</p>
+
+<p>With Precision Public Health, we are moving from building ‘roads’ in the healthcare system to the next step of building the equivalent of expressways, flyovers and underground tunnels. The fruits of infrastructural investments made by a previous generation are clearly visible: Singapore’s health system is a high-performing system providing accessible and affordable primary healthcare services to the population. The new healthcare infrastructure that we next need to build include elements such as shared health data, investments in digital health and precision medicine, and a population health approach in which Precision Public Health will serve an important foundational role.</p>
+
+
 
 <div class="break">
-<p class="break1">Content for breaking</p>
+<p class="break1">With Precision  Public Health, we are moving from building ‘roads’ in the healthcare system to building the equivalent of expressways, flyovers  and underground  tunnels.   </p>
 </div>
+
+<p>To understand Precision Public Health in action, look no further than the example of Singapore’s National Steps challenge. This was started in 2015 by the Health Promotion Board (HPB) and is a population-level digital health intervention that leverages wearable technology to track physical activity and incentivise healthy behaviour through gamification. It has provided health sector planners with insights into health behaviours and allowed data analysis, health advice and interventions to be personalised to each individual. When connected with a digital health App such as HPB’s Healthy 365, the individual is able to get personalised recommendations on suitable activities that are located close by. This programme embodies the Precision Public Health approach and principles, and is designed to be simple to adopt and personalised  for participants.</p>
+
+<p>Another forerunner in Precision Public Health is the national research entity PRECISE (Precision Health Research Singapore), which aims to transform health in Singapore through Precision Medicine. In 2019, it completed whole-genome sequencing of 10,000 Singaporeans, and has moved on to target to reach 100,000 Singaporeans. Such Asia-based genetic research allows us to better understand why certain diseases, such as ALDH2 deficiency (Asian Flush) and peanut allergy, are more or less common in Asians. PRECISE is currently researching how genetics can affect our responses to certain medications, and our risks of having certain side effects to these medications. Such efforts contribute towards a Precision Public Health strategy that intersects at both the individual and population level—helping the health system, provider and patients use medicines more safely and effectively.
+</p>
+
+<div class="break">
+<p class="break1">A future-ready  
+health system positioned to make the most of precision public health approaches will attract more investments in digital health, big data and precision medicine  to Singapore.</p>
+</div>
+
+
+<p>Just as a good transport system serves the whole nation, so too will these infrastructural investments in Precision Public Health benefit everyone, increasing the health capital of our population, and leading to positive health states and more productivity. A future-ready health system positioned to make the most of precision public health approaches will also attract more investments in digital health, big data and precision medicine to Singapore.</p>
+
+<p>At the same time, in a free and open market, there will be those who can more readily afford some of the most sophisticated new health services, just as there are road users who own and drive luxury cars. The more innovative services are likely to be offered to private healthcare patients initially, while over time the costs of making these new services and products to a wider market will decrease, and more will be able to benefit from them. To avoid a situation where investments in Precision Public Health only benefit the wealthy and amplify health disparities, our healthcare ecosystem must have mechanisms in place to ensure that efficiency benefits from privately offered health services are transferred to support resources in the public sector health system to promote equity in the long term. These may include redistributive processes, stronger needs-based resourcing, ethical safeguards and other system-level balancing loops.</p>
+
+<h3>WE ARE IN A POSITION TO 
+BE A GLOBAL LEADER FOR 
+PRECISION PUBLIC HEALTH</h3>
+
+<p>The performance of the health sector will be an issue of growing importance to the population and ageing electorate in the next decades. In terms of digitalisation and data sharing, the health sector is already a laggard compared to finance, logistics and education.1, 2 Countries fortunate to have a strong digital service ecosystem and a robust health sector are well-placed to make a strong case to invest strategically into the field of precision public health as a public good. It is a fast-growing field that, like what digitalisation did for maps, has tremendous potential to change how we see, think and work to improve the health of our population and ourselves. While we are not (yet) the world leaders in Precision Public Health, we have the necessary foundation, infrastructure, ambition, capability to be a leader in this space, especially as our health system pivots to a population  health approach. </p>
 
 
 
@@ -171,15 +202,15 @@ A useful way to think about this transition is to compare it with how Digital Ma
 <h6>NOTES</h6>
 <ol>
 	
-<li id="num1">See: “Digital Government Blueprint”, accessed January 6, 2023, <a target="_blank" href="https://www.tech.gov.sg/digital-government-blueprint/">https://www.tech.gov.sg/digital-government-blueprint/.</a></li>
+<li>See: Martin McKee, May C. I. van Schalkwyk, and David Stuckler, “The Second Information Revolution: Digitalization Brings Opportunities and Concerns for Public Health”, European Journal of Public Health 29, no. 3 (October 2019): 3–6, https://academic.oup.com/eurpub/article/29/Supplement_3/3/5628047.</li>
+	
+<li>See: Roberta Pastorino, Corrado De Vito, Giuseppe Migliara, Katrin Glocker, Ilona Binenbaum, Walter Ricciardi, and Stefania Boccia, “Benefits and Challenges of Big Data in Healthcare: An Overview of the European Initiatives”, Euro J Public Health 29, no.3 (October 2019): 23–27, https://www.ncbi.nlm.nih. gov/pmc/articles/PMC6859509/.</li>
+
 	
 	
-<li id="num2">For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, 
-<a target="_blank" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/">https://www.developer.tech.gov.sg/singapore-government-tech-stack/</a></li>
-	
-	
-<li id="num3">Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, <a target="_blank" href="https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
 </ol>	
+	
+	
 </div>
 
 
