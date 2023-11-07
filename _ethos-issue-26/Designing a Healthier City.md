@@ -90,7 +90,7 @@ line-height:22px;
 
 <div class="containerbox">	
 	
-<h4>TOWARDS A POSITIVE CITY LAB</h4>	
+<h4 style="color: white;">TOWARDS A POSITIVE CITY LAB</h4>	
 
 <p>Our lab's research encompasses three domains:</p> 	
 	
