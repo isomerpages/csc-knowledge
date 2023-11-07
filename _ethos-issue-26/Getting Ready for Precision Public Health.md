@@ -194,11 +194,19 @@ PRECISION PUBLIC HEALTH</h3>
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
+<p><b>Clive Tan</b> is a public health physician working on population health and integrated care at the National Healthcare Group, to add years of healthy life to our population. He was the Organising Chairman of the Precision Public Health Asia Conference, which was held in Singapore in July 2023.
+</p>
+	
+<p><b>Jeremy Lim</b> is Director of the Leadership Institute for Global Health Transformation (LIGHT) at the National University of Singapore’s Saw Swee Hock School of Public Health. He is the current President of the Precision Public Health Asia Society.
+</p>
+		
+	
+	
+	
 </div>
 
 
-<div class="notestop">
+<div class="notestop" id="notestop">
 <h6>NOTES</h6>
 <ol>
 	
