@@ -61,7 +61,7 @@ line-height:22px;
 	
 	
 </style>
-<em><small>ETHOS Issue number, month year</small></em>
+<em><small>ETHOS 26, Dec 2023</small></em>
 <div class="background-image">
 <img src="">
 </div>
