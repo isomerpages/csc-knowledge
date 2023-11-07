@@ -111,21 +111,21 @@ A useful way to think about this transition is to compare it with how Digital Ma
 	
 	
 <tbody><tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_26/healthier-city-icon1.png"></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/precision-public-health-1.png"></td>	
 <td><b>Data science</b><br>Unravelling correlations between environmental attributes, sustainable planning, and physical, mental and social wellbeing.</td>	
 	
 </tr>
 	
 	
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_26/healthier-city-icon2.png"></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/precision-public-health-2.png"></td>	
 <td><b>Citizen Science</b><br>Engaging in design ethnography to assess communities practising climate positive actions and their wellbeing impacts.</td>	
 	
 </tr>		
 	
 
 <tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_26/healthier-city-icon3.png"></td>	
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/precision-public-health-3.png"></td>	
 <td><b>Generative Design</b><br>Crafting radical design proposals and future scenarios planning embodying Positive Urbanism, informed by insights from the data and citizen science. </td>	
 	
 </tr>		
