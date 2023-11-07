@@ -221,7 +221,7 @@ how best to ensure we  function optimally in them.”</p>
 <div class="notestop" id="notestop">
 <h6>NOTES</h6>
 <ol>
-<li>Piers MacNaughton, Usha Satish, Jose Guillermo Cedeno Laurent, Skye Flanigan, Jose Vallarino, Brent Coull, John D. Spengler, and Joseph G. Allen, “The Impact of Working in a Green Certified Building on Cognitive Function and Health”, Building and Environment 114 (2017): 178–186, https://www. sciencedirect.com/science/article/pii/S0360132316304723.</li>
+<li>Piers MacNaughton, Usha Satish, Jose Guillermo Cedeno Laurent, Skye Flanigan, Jose Vallarino, Brent Coull, John D. Spengler, and Joseph G. Allen, “The Impact of Working in a Green Certified Building on Cognitive Function and Health”, Building and Environment 114 (2017): 178–186, <a href="https://www. sciencedirect.com/science/article/pii/S0360132316304723">https://www. sciencedirect.com/science/article/pii/S0360132316304723.</a></li>
 
 
 </ol>	
