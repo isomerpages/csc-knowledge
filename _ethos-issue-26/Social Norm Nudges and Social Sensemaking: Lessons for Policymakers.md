@@ -116,8 +116,7 @@ color: white;
 
 <p>In the survey, each participant was presented with five hypothetical scenarios to do with:</p>
 
-
-   <ol>
+<ol id="icons-text">
     <table>
     <tbody><tr>
     <td><li><img src=""></li></td>
@@ -132,7 +131,7 @@ color: white;
     <td>Lorem Ipsum</td>
     </tr>
     </tbody></table>
-    </ol>
+</ol>
 
 
 
