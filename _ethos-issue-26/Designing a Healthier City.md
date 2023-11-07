@@ -9,10 +9,16 @@ variant: markdown
 .containerbox
 {
 background-color: #2BB678;
-padding: 20px;
+padding: 40px;
 color: white;	
 	
 }
+	
+.containerbox tr td
+{
+border-bottom: none;	
+}
+	
 	
 	
 .back a
