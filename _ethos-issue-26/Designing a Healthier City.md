@@ -168,7 +168,7 @@ how best to ensure we  function optimally in them.”</p>
 	
 <div class="break">
 
-<p class="break1">"We start with the human needs to be met, instead of with the cost in mind.</p>
+<p class="break1">"We start with the human needs to be met, instead of with the cost in mind."</p>
 
 </div>			
 	
@@ -180,6 +180,29 @@ how best to ensure we  function optimally in them.”</p>
 	
 	
 <p>We should look carefully at how to harness the potential of powerful new tools, such as artificial intelligence, to meet these diverse needs more readily. This means that instead of adopting human centricity for a small, select group of people, we could use AI to provide very detailed mass customisation, so that the system as a whole is efficient and less wasteful. For example, with the right use of AI, we might now be able to generate hundreds or thousands of design possibilities quickly, that could be coupled with robotics and rapid prototyping to make personalised products—say, shoes or furniture—that are tailored to the specific needs of thousands of different users. </p>	
+	
+	
+<p>In terms of urban design, we are accustomed to thinking of buildings in terms of fixed and moveable assets—but what if we could apply AI and robotics so buildings themselves adapt to human needs? It is now possible to consider how we might thus make buildings safer, more comfortable, and more supportive of human health, wellbeing and performance. Indeed, SUTD started a degree course called Design &amp; AI two years ago, and while the batch has yet to graduate, we are starting to see experiments to use AI to help achieve better sustainability and health outcomes. For example, some students designed an app powered by AI that lets users self-examine their posture when lifting weights in order to make corrections for better health. In another project, students will be using AI to design more sustainable and better performance indoor spaces for a human-centric outcome.</p>
+	
+	
+<h3>INNOVATING URBAN DESIGN FOR HUMAN WELLBEING IN THE PUBLIC SECTOR</h3>	
+	
+<p>Today, there are thousands of cities in the world, with potentially 60% to 70% of the global population living in them. While the prospect of creating brand new cities as testbeds for new ideas is exciting, the more practical and meaningful move is to innovate within existing urban environments. 
+	
+	
+</p><div class="break">
+
+<p class="break1">"As more people are  enticed to walk, run or cycle, human health is likely to  improve significantly."</p>
+
+</div>				
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
