@@ -2,6 +2,7 @@
 title: Ethos Issue 26
 permalink: /ethos-issue-26/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -105,7 +106,7 @@ margin-top:15px;
 	<div>
 		<h3>Designing a Healthier City</h3>
 		<b><i>by Tai Lee Siang</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p>Urban environments can be designed at different scales to support healthier ways to live, work and play, with tangible benefits for productivity, sustainability and human wellbeing.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -117,7 +118,7 @@ margin-top:15px;
 	<div>
 		<h3>Getting Ready for Precision Public Health</h3>
 		<b><i>by Clive Tan and Jeremy Lim</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p>Digital and data-centred approaches to personalised medicine may soon revolutionalise care and open up new opportunities for Singapore.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -141,13 +142,7 @@ margin-top:15px;
 	<div>
 		<h3>Keeping It Real: Outcomes-Based Contracting for Mental and Social Health</h3>
 		<b><i>by Richard Johnson</i></b>
-		<p>Clear definitions of success,  
-co-determined with stakeholders 
-and supported by robust 
-performance management, are  
-key to delivering results 
-meaningful to the people 
-programmes seek to serve.</p>
+		<p>Clear definitions of success, co-determined with stakeholders and supported by robust performance management, are key to delivering results meaningful to the people programmes seek to serve.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -159,7 +154,7 @@ programmes seek to serve.</p>
 	<div>
 		<h3>Humanising the Future of Care</h3>
 		<b><i>by Leong Choon Kit</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p>Singapore’s primary care sector is evolving into a sophisticated web of care, with the whole wellbeing of citizens at its heart.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -184,7 +179,7 @@ programmes seek to serve.</p>
 	<div>
 		<h3>Social Norm Nudges and Social Sensemaking: Lessons for Policymakers</h3>
 		<b><i>by Do Hoang Van Khanh</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p>Do people make decisions based on what their peer group does or believes? Ground reality may complicate public policies based on this assumption.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -222,7 +217,7 @@ for our health, Singaporeans can build  the capacities and relationships needed 
 	<div>
 		<h3>Nurturing&nbsp;Leaders for the Future Healthcare</h3>
 		<b><i>by Pang Weng Sun &amp; Lee Shiao Wei</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p>Singapore’s changing healthcare priorities mean that a new generation of leaders must learn to collaborate, communicate and think collectively, both within and across the sector.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
