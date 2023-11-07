@@ -112,14 +112,14 @@ A useful way to think about this transition is to compare it with how Digital Ma
 	
 <tbody><tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/precision-public-health-1.png"></td>	
-<td><b>Data science</b><br>Unravelling correlations between environmental attributes, sustainable planning, and physical, mental and social wellbeing.</td>	
+<td><span style="color:#ED5E2A; font-weight: bold;">Precision Medicine</span> builds on the technological advances and development of new approaches for treating and preventing disease in a way that is tailored to the individual. Examples include tailored disease management in specific patient populations, targeted disease prevention and early diagnosis for certain at-risk groups, and ongoing research and development for personalised medical treatments.  </td>	
 	
 </tr>
 	
 	
 <tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/precision-public-health-2.png"></td>	
-<td><b>Citizen Science</b><br>Engaging in design ethnography to assess communities practising climate positive actions and their wellbeing impacts.</td>	
+<td><span style="color:#ED5E2A; font-weight: bold;">Digital Health</span> is the use of digital technologies to improve health. It is a multidisciplinary field at the intersection of healthcare, technology, and information management. Types of digital health technologies that most people are familiar with include telemedicine, remote health monitoring devices, healthcare related mobile phone applications, electronic health records, and patient health portals.</td>	
 	
 </tr>		
 	
