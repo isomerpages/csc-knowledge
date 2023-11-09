@@ -192,6 +192,8 @@ background-color: white;
 <div class="containerbox">
 
 <h4 style="color:white;">EXAMPLE - SCENARIO 1 TOP UP TO CPF SPECIAL ACCOUNT OR RETIREMENT ACCOUNT</h4>
+	
+<p>A social norm nudge was added to all treatment letters.</p>	
 
 <img src="/images/Ethos_Images/Ethos_Issue_26/dohoangvankhanh.jpg">	
 	
