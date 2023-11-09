@@ -2,7 +2,6 @@ collections:
   ethos-issue-26:
     output: true
     order:
-      - Getting Ready for Precision Public Health.md
       - Realising the Promise of Health Information.md
       - Keeping It Real Outcomes Based Contracting for Mental and Social
         Health.md
