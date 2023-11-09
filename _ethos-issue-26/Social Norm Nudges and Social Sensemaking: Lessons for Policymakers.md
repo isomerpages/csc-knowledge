@@ -195,8 +195,16 @@ background-color: white;
 	
 <p>A social norm nudge was added to all treatment letters.</p>	
 
+<figure>	
 <img src="/images/Ethos_Images/Ethos_Issue_26/dohoangvankhanh.jpg">	
+<figcaption>Figure 1. Example of Control and Treatment Message </figcaption>
+</figure>	
 	
+<p>After viewing the message, participants were asked to indicate their intended decision and answer ten questions on factors that might have influenced their social sensemaking and decision-making. These questions were designed to tease out information about participants’ ease, importance, and certainty of their decisions, as well as their trust in the choice architect, who in this case was the government.</p>
+	
+<p>Additionally, these questions also asked about aspects of social sensemaking: specifically, if the participants thought of the government’s intentions as well as other people’s decisions when they made their decision, as well as if they were concerned how the government and other people around them would perceive their own decision. </p>	
+	
+<p>These questions were intended to shed light on factors that might have affected their decision-making as well as to show if social sensemaking had been triggered. </p>
 	
 	
 </div>
