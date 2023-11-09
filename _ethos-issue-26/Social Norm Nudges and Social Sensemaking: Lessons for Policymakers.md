@@ -67,6 +67,14 @@ color: white;
 	font-size: 15px;
 }
 
+.top img 
+{
+      float: left;
+      width: 100px;
+}
+    
+	
+	
 	
 	
 </style>
@@ -171,6 +179,26 @@ color: white;
 
 
 <p>The scenarios were presented in a random sequence. For each scenario, participants were randomly shown either the control or treatment message. All treatment messages contained a social norm nudge (see Figure 1). </p>
+
+
+<div class="containerbox">
+
+<div class="top">
+	
+<img src="/images/Ethos_Images/Ethos_Issue_26/ss1-11.png">
+	
+<h4 style="color:white;">EXAMPLE - SCENARIO 1
+TOP UP TO CPF SPECIAL ACCOUNT OR RETIREMENT ACCOUNT</h4>	
+</div>
+
+</div>
+
+
+
+
+
+
+
 
 
 
