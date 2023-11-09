@@ -6,7 +6,6 @@ variant: markdown
 ---
 <style>
 
-
 		
 .back a
 {
@@ -125,31 +124,35 @@ color: white;
 
 
 <div id="icons-text">
-
+	
 <ol>
 <table>
-<tbody><tr>
-<td><li><img src=""></li></td>
+<tbody>
+	
+	
+	
+<tr>
+<td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-1.png"></li></td>
 <td>Lorem Ipsum</td>
 </tr>	
 
 <tr>
-<td><li><img src=""></li></td>
+<td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-2.png"></li></td>
 <td>Lorem Ipsum</td>
 </tr>	
 	
 <tr>
-<td><li><img src=""></li></td>
+<td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-3.png"></li></td>
 <td>Lorem Ipsum</td>
 </tr>		
     
 <tr>
-<td><li><img src=""></li></td>
+<td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-4.png"></li></td>
 <td>Lorem Ipsum</td>
 </tr>		
 	
 <tr>
-<td><li><img src=""></li></td>
+<td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-5.png"></li></td>
 <td>Lorem Ipsum</td>
 </tr>	
 			
