@@ -210,16 +210,29 @@ background-color: white;
 </div>
 
 
+<h3>What did the study find? Lessons for policymakers</h3>
+
+<div class="containerbox">
+	
+<h5 style="color:white;"><span style="font-size: 38px">1.</span> Social norm nudges alone do not work. Instead, people are influenced by the importance of the decision and trust in the government.</h5>
+</div>
+
+<p>The study found that social norm nudges had no statistically significant impact on the respondents’ intended decisions for four out of the five scenarios. For the scenario on buying local vegetables, the treatment message with social norm performed statistically worse than the control message.3 Instead, we found that participants’ decisions were influenced by the perceived importance of their decision, if they agreed with the government’s intention, and whether they believed that the government was more likely to succeed in their policy objective. </p>	
 
 
 
+	
+<p>These results suggest policymakers  should avoid relying solely on social norm nudges to elicit behavioural change. Instead, we could consider using other nudges in combination to trigger a stronger positive response. Additionally, policymakers may achieve greater results by helping citizens understand the importance of their decision as well as increasing their trust in government agencies. Public agencies could do this by being more transparent about the intention of the policy and communicate clearly with the public about the reasoning behind policy decisions. </p>	
+	
 
-
+<div class="break">
+<p class="break1">Content for breaking</p>
+</div>
 
 
 
 <div class="break">
-<p class="break1">"Content for breaking"</p>
+<p class="break1">"Policymakers may achieve greater results by helping citizens understand the importance of their decision as well as increasing their trust in government agencies."</p>
 </div>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
