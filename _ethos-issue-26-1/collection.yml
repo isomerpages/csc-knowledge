@@ -2,5 +2,7 @@ collections:
   ethos-issue-26-1:
     output: true
     order:
+      - "Creating the Future of Healthcare: A Conversation with Prof Tan Chorh
+        Chuan.md"
       - The Next Bound of Health and Healthcare.md
       - Editorial.md
