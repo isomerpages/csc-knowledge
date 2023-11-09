@@ -54,6 +54,13 @@ line-height:22px;
 }		
 
 
+.containerbox
+{
+background-color:#F4FAFD;	
+padding: 40px;	
+margin-top: 30px;	
+	
+}
 
 	
 
@@ -81,7 +88,18 @@ all have different medical record systems. As a result, clinical investigations 
 </div>
 
 
-
+<div class="containerbox">
+<h4>Regulatory shifts for a  
+new healthcare paradigm</h4>	
+	
+<p>The Health Information Bill has three broad objectives:</p>	
+	
+<p>1. The Bill mandates that any licensed healthcare provider, whether public or private, must contribute selected patient health information into the NEHR. Any Singaporean, Permanent Resident or Long-Term Pass holder who is seen by a healthcare practitioner in any part of the Singapore healthcare system—be it a hospital, private clinic, dental clinic, dialysis centre or nursing home—will have a set of their health information entered into the national NEHR database. Correspondingly, healthcare providers will be able to access this key information when required to ensure patients receive holistic, seamless, safer and more informed care. The type of data to be contributed will be tailored depending on who the licensed providers are and what information is useful for care. We are also looking into whether other providers, such as retail pharmacies and home nursing services, could also contribute useful information. </p>	
+	
+<img src="/images/Ethos_Images/Ethos_Issue_26/medical-care-2.png">	
+	
+	
+</div>	
 
 
 
