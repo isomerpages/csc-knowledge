@@ -220,31 +220,43 @@ background-color: white;
 <p>The study found that social norm nudges had no statistically significant impact on the respondents’ intended decisions for four out of the five scenarios. For the scenario on buying local vegetables, the treatment message with social norm performed statistically worse than the control message.3 Instead, we found that participants’ decisions were influenced by the perceived importance of their decision, if they agreed with the government’s intention, and whether they believed that the government was more likely to succeed in their policy objective. </p>	
 
 
+<div class="break">
+<p class="break1">"Policymakers may achieve greater results by helping citizens understand the importance of their decision as well as increasing their trust in government agencies."</p>
+</div>
+
 
 	
 <p>These results suggest policymakers  should avoid relying solely on social norm nudges to elicit behavioural change. Instead, we could consider using other nudges in combination to trigger a stronger positive response. Additionally, policymakers may achieve greater results by helping citizens understand the importance of their decision as well as increasing their trust in government agencies. Public agencies could do this by being more transparent about the intention of the policy and communicate clearly with the public about the reasoning behind policy decisions. </p>	
 	
 
+
+<div class="containerbox">
+	
+<h5 style="color:white;"><span style="font-size: 38px">2.</span> Social sensemaking made very little impact, at least in the online environment.</h5>
+</div>
+
+<p>Based on the results of this study, respondents engaged in some degree of social sensemaking, but it was not consistent across all scenarios. They only thought sporadically about the government’s intentions, other people’s decisions, and if they were concerned about how the government and other people would perceive their decisions. In addition, these factors  seemed to have only a small effect on people’s decision-making. Hence, there may be little practical value for policymakers to specifically target social sensemaking for behavioural change. It is worth noting that the online environment of the study could have contributed to the small effect of social sensemaking as respondents made decisions in their own environment alone. Social sensemaking may have a greater impact in a physical environment where decisions are more public and hence people might be more concerned about what others think of their choices. </p>
+
 <div class="break">
-<p class="break1">Content for breaking</p>
+<p class="break1">"Social sensemaking may have a greater impact in a physical environment where decisions are more public."</p>
+</div>
+
+
+<div class="containerbox">
+	
+<h5 style="color:white;"><span style="font-size: 38px">3.</span> Framing of benefits and costs of policies in public communications is essential. </h5>
+</div>
+
+<p>From the qualitative responses, the study found that another important factor that played a role in respondents’ decision-making in all scenarios was how they perceived the costs and benefits of the policy to both themselves as well as to the whole society. Hence, policymakers may get more buy-in from the public by highlighting and better framing the personal as well as societal costs and benefits of certain policies. By changing how the costs and benefits are communicated to citizens, policymakers may be able to sway people’s perceptions of the policy. </p>
+
+<div class="break">
+<p class="break1">"Policymakers may get more buy-in from the public by highlighting and better framing the personal as well as societal costs and benefits of certain policies."</p>
 </div>
 
 
 
-<div class="break">
-<p class="break1">"Policymakers may achieve greater results by helping citizens understand the importance of their decision as well as increasing their trust in government agencies."</p>
-</div>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
 
 
-
-
-
-
-<div class="break">
-<p class="break1">Content for breaking</p>
-</div>
 
 
 
