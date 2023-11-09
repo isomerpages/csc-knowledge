@@ -191,38 +191,9 @@ background-color: white;
 
 <div class="containerbox">
 
-<div class="top">
-	
-<img src="/images/Ethos_Images/Ethos_Issue_26/ss1-11.png">
-	
-<h4 style="color:white;">EXAMPLE - SCENARIO 1
-TOP UP TO CPF SPECIAL ACCOUNT OR RETIREMENT ACCOUNT</h4>	
-	
-<p>A social norm nudge was added to all treatment letters.</p>	
-</div>
+<h4 style="color:white;">EXAMPLE - SCENARIO 1 TOP UP TO CPF SPECIAL ACCOUNT OR RETIREMENT ACCOUNT</h4>
 
-<div class="screen">	
-
-<h5 style="color:white;">CONTROL MESSAGE</h5>	
-<div class="control-message">
-<p>
-Each attractive and risk-free interest rates of up to 5% per annum when you top up the Special Account (before age 55), or up to 6% per annum on the Retirement Account (from age 55).
-With more CPF savings, you can enjoy higher payouts in retirement!</p>	
-</div>	
-	
-
-<h5 style="color:white;">TREATMENT MESSAGE</h5>		
-<div class="treatment-message">
-
-<p>Each attractive and risk-free interest rates of up to 5% per annum when you top up the Special Account (before age 55), or up to 6% per annum on the Retirement Account (from age 55).
-With more CPF savings, you can enjoy higher payouts in retirement!</p>	
-
-</div>	
-	
-	
-	
-</div>	
-	
+<img src="/images/Ethos_Images/Ethos_Issue_26/dohoangvankhanh.jpg">	
 	
 	
 	
