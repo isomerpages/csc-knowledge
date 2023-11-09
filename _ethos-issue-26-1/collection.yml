@@ -2,6 +2,8 @@ collections:
   ethos-issue-26-1:
     output: true
     order:
+      - "Encouraging Healthier Choices: Helping People Take Better Care of
+        Themselves.md"
       - Humanising the Future of Care.md
       - "Keeping It Real: Outcomes Based Contracting for Mental and Social
         Health.md"
