@@ -253,9 +253,18 @@ background-color: white;
 <p class="break1">"Policymakers may get more buy-in from the public by highlighting and better framing the personal as well as societal costs and benefits of certain policies."</p>
 </div>
 
+<div class="containerbox">
+	
+<h5 style="color:white;"><span style="font-size: 38px">4.</span> The importance of testing potential policy interventions.</h5>
+</div>
 
+<p>This study highlights the importance of testing potential policy interventions for specific contexts. Some limitations of the study were that it was conducted as an online survey, conducted in only English and with a sample that was underrepresented for certain demographics. Hence, the findings might not be generalisable to the behaviours and decision-making considerations of the general population. In addition, the study relied on self-reported answers, which might not accurately reflect actual behaviours in real life.</p>
 
+<p>The study’s findings were unexpected, as social norm nudges have long been held as an effective nudge for behavioural change. However, this study showed that in the scenarios tested, social norm nudges alone as well as social sensemaking had very limited effect on people's decision-making and could even have backfired in the local produce scenario (see scenario 3 for buying locally produced vegetables). What the study did highlight is the importance of testing out potential policy interventions for specific contexts to better understand their effects before introducing them to the public. </p>
 
+<div class="break">
+<p class="break1">"Testing out potential policy interventions for specific contexts to better   understand their effects before  introducing them to the public."</p>
+</div>
 
 
 
