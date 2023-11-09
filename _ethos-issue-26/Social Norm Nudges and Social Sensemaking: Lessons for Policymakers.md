@@ -139,27 +139,27 @@ color: white;
 	
 <tr>
 <td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-1.png"></li></td>
-<td>Lorem Ipsum</td>
+<td>Central Provident Fund (CPF) top-up</td>
 </tr>	
 
 <tr>
 <td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-2.png"></li></td>
-<td>Lorem Ipsum</td>
+<td>CPF refund used for housing</td>
 </tr>	
 	
 <tr>
 <td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-3.png"></li></td>
-<td>Lorem Ipsum</td>
+<td>Buying locally produced vegetables</td>
 </tr>		
     
 <tr>
 <td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-4.png"></li></td>
-<td>Lorem Ipsum</td>
+<td>Bring your own bag for grocery shopping</td>
 </tr>		
 	
 <tr>
 <td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-5.png"></li></td>
-<td>Lorem Ipsum</td>
+<td>Long-term health insurance scheme</td>
 </tr>	
 			
 			
