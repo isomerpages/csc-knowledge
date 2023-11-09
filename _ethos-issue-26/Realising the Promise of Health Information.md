@@ -89,14 +89,30 @@ all have different medical record systems. As a result, clinical investigations 
 
 
 <div class="containerbox">
+	
 <h4>Regulatory shifts for a  
 new healthcare paradigm</h4>	
 	
 <p>The Health Information Bill has three broad objectives:</p>	
 	
-<p>1. The Bill mandates that any licensed healthcare provider, whether public or private, must contribute selected patient health information into the NEHR. Any Singaporean, Permanent Resident or Long-Term Pass holder who is seen by a healthcare practitioner in any part of the Singapore healthcare system—be it a hospital, private clinic, dental clinic, dialysis centre or nursing home—will have a set of their health information entered into the national NEHR database. Correspondingly, healthcare providers will be able to access this key information when required to ensure patients receive holistic, seamless, safer and more informed care. The type of data to be contributed will be tailored depending on who the licensed providers are and what information is useful for care. We are also looking into whether other providers, such as retail pharmacies and home nursing services, could also contribute useful information. </p>	
+<p><b>1.</b> The Bill mandates that any licensed healthcare provider, whether public or private, must contribute selected patient health information into the NEHR. Any Singaporean, Permanent Resident or Long-Term Pass holder who is seen by a healthcare practitioner in any part of the Singapore healthcare system—be it a hospital, private clinic, dental clinic, dialysis centre or nursing home—will have a set of their health information entered into the national NEHR database. Correspondingly, healthcare providers will be able to access this key information when required to ensure patients receive holistic, seamless, safer and more informed care. The type of data to be contributed will be tailored depending on who the licensed providers are and what information is useful for care. We are also looking into whether other providers, such as retail pharmacies and home nursing services, could also contribute useful information. </p>	
 	
 <img src="/images/Ethos_Images/Ethos_Issue_26/medical-care-2.png">	
+	
+	
+<p><b>2.</b> The Bill facilitates the sharing of certain patient health information among MOH, speciﬁc care providers and partners for approved purposes such as ensuring seamless continuity of care, enabling assessment of eligibility for ﬁnancial schemes and reaching out to residents for national healthcare programmes such as Healthier SG.</p>		
+	
+<p><b>3.</b> The Bill stipulates data security and cybersecurity standards to safeguard health information. This is vital to assure the public that their personal health information is safe. Healthcare 
+providers will be required to put in place appropriate cybersecurity measures to ensure that their systems for collecting, storing, and sharing health data are secure. For example, healthcare providers will need to implement firewalls in their network, install antivirus  software , institute two-factor  authentication features on their computer systems containing sensitive information, and ensure that their  staff are well-trained in cybersecurity practices. Proper data access controls will also be required, so that staff are granted access to the health information only if their role requires it. We will also stipulate that healthcare providers use IT vendors with appropriate security safeguards built in their products and services, and have a proper incident escalation plan to notify the authorities in the event of any suspected data or cybersecurity breaches. </p>	
+	
+<p>These three broad provisions facilitate the safe storage and appropriate  sharing of health data across the healthcare system, to assure continuity of care for patients, in a trustworthy and secure manner.</p>
+	
+<p>Underlying all of these objectives is patient autonomy. Individuals will be able to block all healthcare providers from accessing their records on NEHR and limit the sharing of their healthcare information, if they so wish. The health information generated from interactions will still be contributed to NEHR to ensure continuity of care should patients decide to allow access again in future, with no gaps or disruption to their NEHR records. </p>	
+	
+<p>The existing ethical code for all doctors states that disclosure of medical information without patient consent is acceptable in a medical emergency where patients are unable to provide consent, if the doctor deems that the actions taken is in the patient's best interest. To this end, the Bill will contain a <b>safeguard</b> where a doctor may initiate ‘emergency access’ to a patient’s NEHR. The doctor will have to professionally justify the need for such access, and may be subject to penalties if this is later found to be unjustiﬁed.</p>	
+	
+	
+<img src="/images/Ethos_Images/Ethos_Issue_26/newtwo.png">		
 	
 	
 </div>	
