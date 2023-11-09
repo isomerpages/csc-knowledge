@@ -2,6 +2,7 @@ collections:
   ethos-issue-26-1:
     output: true
     order:
+      - Nurturing Leaders for the Future Healthcare.md
       - "Health is Social: The Future of Care in Singapore.md"
       - Building an Age Inclusive Healthcare System in Singapore.md
       - "Social Norm Nudges and Social Sensemaking: Lessons for Policymakers.md"
