@@ -286,7 +286,7 @@ padding: 30px;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
+<p><b>Do Hoang Van Khanh</b> is Lead Researcher at the Institute of Governance &amp; Policy, Civil Service College. Her research interests include applications of behavioural insights and evaluation tools in public policy. </p>
 </div>
 
 
@@ -294,14 +294,14 @@ padding: 30px;
 <h6>NOTES</h6>
 <ol>
 	
-<li id="num1">See: “Digital Government Blueprint”, accessed January 6, 2023, <a target="_blank" href="https://www.tech.gov.sg/digital-government-blueprint/">https://www.tech.gov.sg/digital-government-blueprint/.</a></li>
+<li id="num1">J. M. T. Krijnen, D. Tannenbaum, and C. R. Fox, “Choice Architecture 2.0: Behavioral Policy as an Implicit Social Interaction”, Behavioral Science &amp; Policy 3, no. 2 (2017): 1–18, <a href="https://www.google.com/search?q=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;oq=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;aqs=chr">https://www.google.com/search?q=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;oq=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;aqs=chr ome..69i57.598j0j7&amp;sourceid=chrome&amp;ie=UTF-8.
+</a></li>
 	
 	
-<li id="num2">For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, 
-<a target="_blank" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/">https://www.developer.tech.gov.sg/singapore-government-tech-stack/</a></li>
+<li id="num2">R. H.Thaler,  and C. R.  Sunstein, Nudge: Improving Decisions about Health, Wealth, and Happiness (New Haven, CT: Yale University Press, 2008).</li>
 	
 	
-<li id="num3">Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, <a target="_blank" href="https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
+<li id="num3">The treatment message used for scenario 3 was different than those of other scenarios. Specifically, the messages for other scenarios added a social norm nudge on top of the message used in the control message, but scenario's 3 treatment message only included a social norm alone. Thus, the results of scenario 3 is not comparable to other scenarios.</li>
 </ol>	
 </div>
 
