@@ -60,15 +60,13 @@ padding: 50px;
 color: white;
 }
 	
-#icons-text ol li
-{
-	font-size: 15px;
-}
+
 	
 #icons-text td
 {
 	font-size: 15px;
 }
+
 	
 	
 </style>
@@ -139,27 +137,27 @@ color: white;
 	
 <tr>
 <td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-1.png"></li></td>
-<td>Central Provident Fund (CPF) top-up</td>
+<td class="description">Central Provident Fund (CPF) top-up</td>
 </tr>	
 
 <tr>
 <td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-2.png"></li></td>
-<td>CPF refund used for housing</td>
+<td class="description">CPF refund used for housing</td>
 </tr>	
 	
 <tr>
 <td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-3.png"></li></td>
-<td>Buying locally produced vegetables</td>
+<td class="description">Buying locally produced vegetables</td>
 </tr>		
     
 <tr>
 <td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-4.png"></li></td>
-<td>Bring your own bag for grocery shopping</td>
+<td class="description">Bring your own bag for grocery shopping</td>
 </tr>		
 	
 <tr>
 <td><li><img src="/images/Ethos_Images/Ethos_Issue_26/ss-5.png"></li></td>
-<td>Long-term health insurance scheme</td>
+<td class="description">Long-term health insurance scheme</td>
 </tr>	
 			
 			
