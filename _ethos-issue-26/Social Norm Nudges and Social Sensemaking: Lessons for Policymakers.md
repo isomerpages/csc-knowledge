@@ -83,9 +83,19 @@ padding: 20px;
 background-color: white;	
 }
 	
+.bottom	
+{
+background-color: #243A73;	
+color: white;
+padding: 30px;	
+	
+}	
 	
 	
 </style>
+
+
+
 <em><small>ETHOS Issue 26, Dec 2023</small></em>
 <div class="background-image">
 <img src="">
@@ -267,7 +277,10 @@ background-color: white;
 </div>
 
 
-
+<div class="bottom">
+<p>This is a summary of a research project done by Do Hoang Van Khanh and Charmaine Lim. For the full research report “Social Sensemaking in Public Policies”, please access <a href="https://www.learn.gov.sg/d2l/home#/course/400886?app=dlp">https://www.learn.gov.sg/d2l/home#/course/400886?app=dlp</a>.</p>	
+	
+</div>	
 
 
 
