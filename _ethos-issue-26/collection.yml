@@ -2,8 +2,6 @@ collections:
   ethos-issue-26:
     output: true
     order:
-      - "Creating the Future of Healthcare: A Conversation with Prof Tan Chorh
-        Chuan.md"
       - Designing a Healthier City.md
       - Getting Ready for Precision Public Health.md
       - Realising the Promise of Health Information.md
