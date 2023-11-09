@@ -118,6 +118,24 @@ providers will be required to put in place appropriate cybersecurity measures to
 </div>	
 
 
+<h3>Getting ready for the bill</h3>
+
+<p>MOH will be conducting a public consultation on the Bill in December 2023, before ﬁnalising it and then bringing it to Parliament in the ﬁrst half of 2024. Enacting the Bill is only the start: it is to signal the need for us to digitalise the healthcare system and enhance continuity of care for patients. We are also developing guidelines and other support mechanisms to help the healthcare sector get ready for this change, which may take one or two more years. It is best to wait for most people to be ready, nudge them along the way, before beginning to enforce the new requirements. This will give us time to get everyone on board and avoid disrupting care and services. </p>
+
+<p>This Bill will have both upstream and downstream implications for other public agencies. There are medical or related records in  different Ministries— such as the Ministry of Defence, for instance. We are engaging with these Ministries to ensure that the sharing, access and use of any health data within NEHR will be in accordance with the prescribed use cases, and to address any further concerns that may arise. </p>
+
+
+<div class="break">
+<p class="break1">"Digital systems are helpful tools but not replacements for the doctor-patient relationships."</p>
+</div>
+
+<p>In addition, there are several groups that we have been engaging and must continue to. For the general public, we will communicate the beneﬁts of sharing health information, and to assure them that their privacy, conﬁdentiality, and security concerns will be looked after. They need to know that not just anyone can go in to access healthcare data, and that we will also take serious action against anyone who breaches our information or cybersecurity regulations.</p>
+
+
+
+
+
+
 
 
 
