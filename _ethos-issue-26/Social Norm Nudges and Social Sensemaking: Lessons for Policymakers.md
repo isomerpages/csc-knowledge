@@ -69,19 +69,13 @@ color: white;
 
 .top img 
 {
-      float: left;
-      width: 100px;
+      width: 25%;
 }
-    
-.top h4 
+
+.screen
 {
-			position: relative;
-
-      left: 20px;
-
-	
-}		
-	
+border: 2px solid white;		
+}	
 	
 	
 	
@@ -197,8 +191,31 @@ color: white;
 	
 <h4 style="color:white;">EXAMPLE - SCENARIO 1
 TOP UP TO CPF SPECIAL ACCOUNT OR RETIREMENT ACCOUNT</h4>	
+	
+<p>A social norm nudge was added to all treatment letters.</p>	
 </div>
 
+<div class="screen">	
+
+<h5 style="color:white;">Control Message</h5>	
+<div class="control-message">
+	
+</div>	
+	
+
+<h5 style="color:white;">Treatment Message</h5>		
+<div class="treatment-message">
+	
+
+</div>	
+	
+	
+	
+</div>	
+	
+	
+	
+	
 </div>
 
 
