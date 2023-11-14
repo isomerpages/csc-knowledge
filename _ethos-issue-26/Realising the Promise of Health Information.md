@@ -159,35 +159,11 @@ providers will be required to put in place appropriate cybersecurity measures to
 
 
 
-<div class="break">
-<p class="break1">Content for breaking</p>
-</div>
-
-
-
-
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
+<p><b>Associate Professor (Dr) Raymond Chua</b> is Deputy Director-General of Health (Health Regulation), Ministry of Health, overseeing the regulation of healthcare services and health digitalisation in Singapore. He is concurrently Assistant Commissioner for Cybersecurity (Healthcare), tasked to track and enhance cybersecurity policies relating to medical devices and Singapore’s Critical Information Infrastructures in healthcare. From 2012 to 2016, he was the Group Director of the Health Products Regulation Group with the Health Sciences Authority. He has also previously served in roles in the public healthcare sector as well as the private pharmaceutical industry. </p>
 </div>
-
-
-<div class="notestop">
-<h6>NOTES</h6>
-<ol>
-	
-<li id="num1">See: “Digital Government Blueprint”, accessed January 6, 2023, <a target="_blank" href="https://www.tech.gov.sg/digital-government-blueprint/">https://www.tech.gov.sg/digital-government-blueprint/.</a></li>
-	
-	
-<li id="num2">For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, 
-<a target="_blank" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/">https://www.developer.tech.gov.sg/singapore-government-tech-stack/</a></li>
-	
-	
-<li id="num3">Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, <a target="_blank" href="https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
-</ol>	
-</div>
-
 
 
 
