@@ -69,10 +69,17 @@ background-color: #323952;
 color: white;
 }	
 
-
+.containerbox2 a
+{
+	
+	color: white;
+}	
+	
 	
 	
 </style>
+
+
 <em><small>ETHOS Issue 26, Nov 2023</small></em>
 <div class="background-image">
 <img src="">
