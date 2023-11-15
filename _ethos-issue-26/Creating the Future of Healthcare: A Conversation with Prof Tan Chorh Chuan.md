@@ -234,7 +234,7 @@ most critical uncertainties?</h3>
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
+<p><b>Professor Tan Chorh Chuan</b> is Chairman of the MOH Office for Healthcare Transformation (MOHT). He set up MOHT in 2018, and was concurrently MOHT’s founding Executive Director and MOH’s Chief Health Scientist till September 2023. Professor Tan is currently Permanent Secretary (National Research and Development), Permanent Secretary (Public Sector Science &amp; Technology Policy &amp; Plans Office) as well as Chairman (Agency for Science, Technology and Research). He continues to lead healthcare transformation as Chairman of the MOHT Board and Chair of the Healthier SG Implementation Office.</p>
 </div>
 
 
