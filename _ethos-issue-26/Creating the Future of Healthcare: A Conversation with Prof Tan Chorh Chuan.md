@@ -169,8 +169,34 @@ and paradigm shift?</h3>
 <p>All this will take time, and different players are at different levels of readiness. So we need to do this in phases. We are starting in Healthier SG by looking at common health conditions like diabetes, high blood pressure, and basic preventative measures such as vaccinations, screening and weight management. We are creating platforms to make it simpler to perform these basic interventions, such as streamlined care protocols and IT and data systems to help the GPs do these things efficiently. This lays a actually help themselves. Digital mental health solutions, with human specialists offering further help when necessary, are a promising way to provide this type of support at scale.</p>
 
 <div class="break">
-<p class="break1">Activating community participation will be important for sustained cultural and behavioural change.</p>
+<p class="break1">"Activating community participation will be important for sustained cultural and behavioural change."</p>
 </div>
+
+<p>One example of such tools comes from a study we recently completed with the Institute of Mental Health (IMH) involving patients with schizophrenia.2 There is no objective marker of when someone on treatment for the condition is going to get worse, and it is difficult to ascertain how patients are doing at any given point in time. MOHT worked with IMH to develop a platform to collect digital data, with the patients’ consent, through wearables and smartphones. This data was then analysed using AI. Based on these digital signals, we were able to tell the care team which patients were more likely to relapse. This is now being adopted as a mainstream service in IMH, for psychosis and for mood disorders.</p>
+
+
+<div class="break">
+<p class="break1">"In future there  
+will be more conditions  that we will be able to  predict and monitor using digital technologies."</p>
+</div>
+
+<p>While this is an example from a severe mental health condition, we are looking into how the same technology might be applied to moderate or mild disorders as well. Such digital markers could provide doctors with more objective and regular indicators, which could help ascertain if a patient is getting better or worse or might need further intervention. In time, it might also possibly facilitate self-help. If we are able to engender better awareness and better self management, then we reduce the risk of over-medicalising, where we see a therapist for any minor issue, which is neither sustainable nor helpful in the long run.</p>
+
+<h3>We have just been through the 
+COVID-19 pandemic. If Healthier 
+SG and its related reforms were 
+in place, would Singapore fare 
+better in a similar crisis?</h3>
+
+<p>The pandemic had three big lessons for the health system. First is the importance of governance—of the health system and more generally. Second is the advantage of integration. In general, health systems which were fragmented did more poorly, mainly because they could not coordinate their actions, </p>
+
+
+
+
+
+
+
+
 
 
 
