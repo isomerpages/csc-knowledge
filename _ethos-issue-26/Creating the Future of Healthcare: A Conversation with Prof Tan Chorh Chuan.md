@@ -188,11 +188,39 @@ SG and its related reforms were
 in place, would Singapore fare 
 better in a similar crisis?</h3>
 
-<p>The pandemic had three big lessons for the health system. First is the importance of governance—of the health system and more generally. Second is the advantage of integration. In general, health systems which were fragmented did more poorly, mainly because they could not coordinate their actions, </p>
+<p>The pandemic had three big lessons for the health system. First is the importance of governance—of the health system and more generally. Second is the advantage of integration. In general, health systems which were fragmented did more poorly, mainly because they could not coordinate their actions, whereas health systems with a high level of integration were better able to deliver. The third is the value of data. </p>
+
+<p>If we had another major event after  Healthier SG is fully implemented, we are likely to be better off in several ways:</p>
+
+<p>For one thing, we will have <b>better data flows.</b> We have good data from the public system, but we have significant gaps from the private system, including GPs. With Healthier SG, this will be improved. We will have channels by which better and additional data could be collected if needed. </p>
+
+<p>We will also have <b>more trusted channels of communication</b>—with residents above 40 years of age enrolled to a primary care doctor, we have a powerful means to reach out to residents, including those who tend to be more vulnerable in a pandemic. </p>
+
+<p>We will also have a <b>delivery system</b> which can be readily mounted as the mainstream way to deliver vaccines or drugs to a large segment of the population. </p>
+
+<p>We are also extending <b>telehealth</b> into primary care, although it will take a few years to fully roll out. An established, well-f unc tioning  telehealth system  would be invaluable  in a crisis in which physical presence in a clinic were difficult or risky. It would also be a major advantage if extended into the community care sector: during the pandemic, many older people were socially isolated with restrictions on physical gatherings, and many services for them had to stop. </p>
+
+<p>Of course, such technologies rest on <b>established relationships</b> that have to be regularly exercised in normal times. So it is not as if residents have to interact with someone they have never met before over a digital channel rather than face-to-face. If we had a hybrid system of both physical and digital provision, even during normal periods, we would have better options in a crisis.</p>
 
 
+<h3>As Singapore builds towards
+its vision of future healthcare, 
+what in your view are our 
+most critical uncertainties?</h3>
 
+<p>There are a number of milestones critical to the success of Healthier SG:</p>
 
+<div class="num">
+<ol>
+
+<li>The first milestone is having <b>enough GP clinics</b> embrace it and come on board as partners, which means they can see that the programme is good for their patients and makes clinical and business sense to them as well. So far, with about 1,000 (out of 1,300) clinics on the programme,<sup>2</sup> we are doing well here.</li>
+
+	<li>The next milestone is the <b>value proposition to patients</b>: whether residents can see a clear and compelling reason to enrol in Healthier SG. Again, with over 400,000 residents enrolled in Healthier SG since July 2023,<sup>3</sup> we are off to a good start.</li>
+	
+<li>The third milestone will be critical, and that is the delivery outcomes. Whether patients stay with their enrolled GPs, whether preventative care—as indicated, for example, by screening and vaccination rates; by better control of common chronic conditions like diabetes, high blood pressure—are all trending in the right direction. That would provide good evidence that the intent of Healthier SG is being achieved.</li>
+	
+</ol>
+</div>
 
 
 
