@@ -164,18 +164,12 @@ and paradigm shift?</h3>
 
 <p>We have spoken about working with individuals to facilitate long-term  behavioural changes. Another way to  think about this is at the provider level. The thesis of Healthier SG is that we connect residents with general practitioners (GPs) so that they have a trusted primary care doctor, who will get them to do their screenings and vaccinations on time and give them timely advice to motivate them into taking action. But we also need to make sure that the providers, the GPs, are able and enabled to play these roles.</p>
 
-<p>We can do this by improving data flows, so GPs can work better with their residents </p>
+<p>We can do this by improving data flows, so GPs can work better with their residents and patients: they can more easily identify who has not taken their shots or gone for screenings and so on, and then nudge them in a timely manner. We will also want to provide training and streamline processes to make it easier for the providers to carry out these interventions. We can also extend this to many more providers—such as to community-based services, or to organisations and initiatives helping residents to age well in place—enabling all of them to work more effectively in encouraging their clients to adopt healthier behaviours.</p>
 
-
-
-
-
-
-
-
+<p>All this will take time, and different players are at different levels of readiness. So we need to do this in phases. We are starting in Healthier SG by looking at common health conditions like diabetes, high blood pressure, and basic preventative measures such as vaccinations, screening and weight management. We are creating platforms to make it simpler to perform these basic interventions, such as streamlined care protocols and IT and data systems to help the GPs do these things efficiently. This lays a actually help themselves. Digital mental health solutions, with human specialists offering further help when necessary, are a promising way to provide this type of support at scale.</p>
 
 <div class="break">
-<p class="break1">Content for breaking</p>
+<p class="break1">Activating community participation will be important for sustained cultural and behavioural change.</p>
 </div>
 
 
