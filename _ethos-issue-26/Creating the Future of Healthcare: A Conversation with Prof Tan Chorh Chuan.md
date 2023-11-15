@@ -166,19 +166,40 @@ and paradigm shift?</h3>
 
 <p>We can do this by improving data flows, so GPs can work better with their residents and patients: they can more easily identify who has not taken their shots or gone for screenings and so on, and then nudge them in a timely manner. We will also want to provide training and streamline processes to make it easier for the providers to carry out these interventions. We can also extend this to many more providers—such as to community-based services, or to organisations and initiatives helping residents to age well in place—enabling all of them to work more effectively in encouraging their clients to adopt healthier behaviours.</p>
 
-<p>All this will take time, and different players are at different levels of readiness. So we need to do this in phases. We are starting in Healthier SG by looking at common health conditions like diabetes, high blood pressure, and basic preventative measures such as vaccinations, screening and weight management. We are creating platforms to make it simpler to perform these basic interventions, such as streamlined care protocols and IT and data systems to help the GPs do these things efficiently. This lays a actually help themselves. Digital mental health solutions, with human specialists offering further help when necessary, are a promising way to provide this type of support at scale.</p>
+<p>All this will take time, and different players are at different levels of readiness. So we need to do this in phases. We are starting in Healthier SG by looking at common health conditions like diabetes, high blood pressure, and basic preventative measures such as vaccinations, screening and weight management. We are creating platforms to make it simpler to perform these basic interventions, such as streamlined care protocols and IT and data systems to help the GPs do these things efficiently. This lays a foundation and ensures the system is robust before moving on to the next set of reforms. It also gives us more time to build up systems and learn reiteratively with each new tranche of measures.</p>
 
 <div class="break">
 <p class="break1">"Activating community participation will be important for sustained cultural and behavioural change."</p>
 </div>
 
-<p>One example of such tools comes from a study we recently completed with the Institute of Mental Health (IMH) involving patients with schizophrenia.<sup><a href="#notestop">2</a></sup> There is no objective marker of when someone on treatment for the condition is going to get worse, and it is difficult to ascertain how patients are doing at any given point in time. MOHT worked with IMH to develop a platform to collect digital data, with the patients’ consent, through wearables and smartphones. This data was then analysed using AI. Based on these digital signals, we were able to tell the care team which patients were more likely to relapse. This is now being adopted as a mainstream service in IMH, for psychosis and for mood disorders.</p>
+
+<h3>You work at the frontier  
+of health technology and  
+other advances. What are  
+some opportunities that lie 
+ahead for transforming  
+public health, and how might 
+these build on Healthier SG?</h3>
+
+<p>Healthier SG lays an important foundation. We are developing a more integrated and effective delivery model, upon which we can then implement elements of the healthcare of the future.</p>
+
+<p>I think precision medicine, and especially precision public health, will become much more salient. The data revolution will enable us to identify groups who have a higher susceptibility to important diseases, allowing us to intervene early. We should be able to target high-burden diseases in a more effective and efficient way: rather than trying to screen everyone, we target high-risk groups. A GP for example may have a patient whose family member had a heart attack at a young age. The patient and his family can be advised to undergo screening for genetic mutations that could predispose them to early heart attacks. By screening the whole family, we can identify and treat those who need it very early in a targeted way. With many conditions, including cancers, this could change the trajectory of the condition for both the affected individuals and the population.</p>
+
+<p>Precision public health could also be applied to engage individuals for behaviour change, or more personalised intervention, using data specific to them. For instance, wearables, which can continually monitor a patient, could also be used to titrate medication, while measuring side effects continuously. In future there will be more conditions that we will be able to predict and monitor using digital technologies—including behavioural aspects that have been difficult to measure in the past. </p>
+
+
+<p>For example, MOHT is looking into using digital tools to address mental health, which is a particularly challenging area to address. Mental health issues carry a stigma; we also need scalable solutions, because how many counsellors can we have? We need to find effective and scalable ways in which the majority with relatively minor issues, such as coping or adjustment problems, can actually help themselves. Digital mental health solutions, with human specialists offering further help when necessary, are a promising way to provide this type of support at scale.</p>
 
 
 <div class="break">
 <p class="break1">"In future there  
 will be more conditions  that we will be able to  predict and monitor using digital technologies."</p>
 </div>
+
+
+
+<p>One example of such tools comes from a study we recently completed with the Institute of Mental Health (IMH) involving patients with schizophrenia.<sup><a href="#notestop">2</a></sup> There is no objective marker of when someone on treatment for the condition is going to get worse, and it is difficult to ascertain how patients are doing at any given point in time. MOHT worked with IMH to develop a platform to collect digital data, with the patients’ consent, through wearables and smartphones. This data was then analysed using AI. Based on these digital signals, we were able to tell the care team which patients were more likely to relapse. This is now being adopted as a mainstream service in IMH, for psychosis and for mood disorders.</p>
+
 
 <p>While this is an example from a severe mental health condition, we are looking into how the same technology might be applied to moderate or mild disorders as well. Such digital markers could provide doctors with more objective and regular indicators, which could help ascertain if a patient is getting better or worse or might need further intervention. In time, it might also possibly facilitate self-help. If we are able to engender better awareness and better self management, then we reduce the risk of over-medicalising, where we see a therapist for any minor issue, which is neither sustainable nor helpful in the long run.</p>
 
