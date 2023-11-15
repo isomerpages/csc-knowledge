@@ -118,7 +118,7 @@ You need leadership as well as a whole change management system for the professi
 <p>So there are many things we can do to shape the physical and built environment—including reducing noise , light and a ir po ll ution to improve sleep and promote health. We could also do more about the food environment—if we were to promote more healthy options within high density traffic areas where people pick up a meal on the way home, then they are more likely to default to healthier food options without having to actively make the choice all the time. Upon this foundation of a health-promoting environment, we could then add on other elements, such as technology, education and programming, to further enhance participation and ownership.</p>
 
 
-<p>There are a number of initiatives to do exactly this in Singapore, such as MOHT’s Healthy Precinct programme.1 We are also looking to see how we can incorporate health as a policy outcome in our planning—the way we now think about environmental sustainability as an outcome. From the ground up, we are also validating tools to help communities to come up with health promoting programmes, in a more design-focused manner. Activating community participation will be important for sustained cultural and behavioural change.</p>
+<p>There are a number of initiatives to do exactly this in Singapore, such as MOHT’s Healthy Precinct programme.<sup>1</sup> We are also looking to see how we can incorporate health as a policy outcome in our planning—the way we now think about environmental sustainability as an outcome. From the ground up, we are also validating tools to help communities to come up with health promoting programmes, in a more design-focused manner. Activating community participation will be important for sustained cultural and behavioural change.</p>
 
 <div class="break">
 <p class="break1">We can shape 
@@ -172,7 +172,7 @@ and paradigm shift?</h3>
 <p class="break1">"Activating community participation will be important for sustained cultural and behavioural change."</p>
 </div>
 
-<p>One example of such tools comes from a study we recently completed with the Institute of Mental Health (IMH) involving patients with schizophrenia.2 There is no objective marker of when someone on treatment for the condition is going to get worse, and it is difficult to ascertain how patients are doing at any given point in time. MOHT worked with IMH to develop a platform to collect digital data, with the patients’ consent, through wearables and smartphones. This data was then analysed using AI. Based on these digital signals, we were able to tell the care team which patients were more likely to relapse. This is now being adopted as a mainstream service in IMH, for psychosis and for mood disorders.</p>
+<p>One example of such tools comes from a study we recently completed with the Institute of Mental Health (IMH) involving patients with schizophrenia.<sup>2</sup> There is no objective marker of when someone on treatment for the condition is going to get worse, and it is difficult to ascertain how patients are doing at any given point in time. MOHT worked with IMH to develop a platform to collect digital data, with the patients’ consent, through wearables and smartphones. This data was then analysed using AI. Based on these digital signals, we were able to tell the care team which patients were more likely to relapse. This is now being adopted as a mainstream service in IMH, for psychosis and for mood disorders.</p>
 
 
 <div class="break">
@@ -215,14 +215,16 @@ most critical uncertainties?</h3>
 
 <li>The first milestone is having <b>enough GP clinics</b> embrace it and come on board as partners, which means they can see that the programme is good for their patients and makes clinical and business sense to them as well. So far, with about 1,000 (out of 1,300) clinics on the programme,<sup>2</sup> we are doing well here.</li>
 
-	<li>The next milestone is the <b>value proposition to patients</b>: whether residents can see a clear and compelling reason to enrol in Healthier SG. Again, with over 400,000 residents enrolled in Healthier SG since July 2023,<sup>3</sup> we are off to a good start.</li>
+<li>The next milestone is the <b>value proposition to patients</b>: whether residents can see a clear and compelling reason to enrol in Healthier SG. Again, with over 400,000 residents enrolled in Healthier SG since July 2023,<sup>3</sup> we are off to a good start.</li>
 	
 <li>The third milestone will be critical, and that is the delivery outcomes. Whether patients stay with their enrolled GPs, whether preventative care—as indicated, for example, by screening and vaccination rates; by better control of common chronic conditions like diabetes, high blood pressure—are all trending in the right direction. That would provide good evidence that the intent of Healthier SG is being achieved.</li>
 	
 </ol>
 </div>
 
+<p>In the further future, once we have the framework in place, we will be able to introduce precision public health, digital health and other interventions. All these will ride on the foundations that are being built today. </p>
 
+<p>All of this will rest critically on public trust and support: both at the individual level, but also the sense that this is creating public good; that even if it does not benefit me directly, it is good for the health of the Singapore population as a whole. We want people to see and believe that what we are doing will result in the broader good, which means we must demonstrate and report the progress that is being made, in ways that are relatable to the general public. </p>
 
 
 
@@ -240,14 +242,14 @@ most critical uncertainties?</h3>
 <h6>NOTES</h6>
 <ol>
 	
-<li id="num1">See: “Digital Government Blueprint”, accessed January 6, 2023, <a target="_blank" href="https://www.tech.gov.sg/digital-government-blueprint/">https://www.tech.gov.sg/digital-government-blueprint/.</a></li>
+<li id="num1">See: Salma Khalik, "Good Healthcare with Less Manpower Is Possible with New Technology: S'pore Chief Health Scientist", The Straits Times, August 28, 2023,<a href="https://www.straitstimes.com/singapore/good-healthcare-with-less-manpower-is-possible-with-new-technology-s-pore-chief-health-scientist">https://www.straitstimes.com/singapore/good-healthcare-with-less-manpower-is-possible-with-new-technology-s-pore-chief-health-scientist</a>
+</li>
 	
 	
-<li id="num2">For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, 
-<a target="_blank" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/">https://www.developer.tech.gov.sg/singapore-government-tech-stack/</a></li>
+<li id="num2">Figures to date, as of October 23, 2023.</li>
 	
 	
-<li id="num3">Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, <a target="_blank" href="https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
+<li id="num3">Figures to date, as of October 23, 2023.</li>
 </ol>	
 </div>
 
