@@ -118,7 +118,7 @@ You need leadership as well as a whole change management system for the professi
 <p>So there are many things we can do to shape the physical and built environment—including reducing noise , light and a ir po ll ution to improve sleep and promote health. We could also do more about the food environment—if we were to promote more healthy options within high density traffic areas where people pick up a meal on the way home, then they are more likely to default to healthier food options without having to actively make the choice all the time. Upon this foundation of a health-promoting environment, we could then add on other elements, such as technology, education and programming, to further enhance participation and ownership.</p>
 
 
-<p>There are a number of initiatives to do exactly this in Singapore, such as MOHT’s Healthy Precinct programme.<sup>1</sup> We are also looking to see how we can incorporate health as a policy outcome in our planning—the way we now think about environmental sustainability as an outcome. From the ground up, we are also validating tools to help communities to come up with health promoting programmes, in a more design-focused manner. Activating community participation will be important for sustained cultural and behavioural change.</p>
+<p>There are a number of initiatives to do exactly this in Singapore, such as MOHT’s Healthy Precinct programme.<sup><a href="#notestop">1</a></sup> We are also looking to see how we can incorporate health as a policy outcome in our planning—the way we now think about environmental sustainability as an outcome. From the ground up, we are also validating tools to help communities to come up with health promoting programmes, in a more design-focused manner. Activating community participation will be important for sustained cultural and behavioural change.</p>
 
 <div class="break">
 <p class="break1">We can shape 
@@ -172,7 +172,7 @@ and paradigm shift?</h3>
 <p class="break1">"Activating community participation will be important for sustained cultural and behavioural change."</p>
 </div>
 
-<p>One example of such tools comes from a study we recently completed with the Institute of Mental Health (IMH) involving patients with schizophrenia.<sup>2</sup> There is no objective marker of when someone on treatment for the condition is going to get worse, and it is difficult to ascertain how patients are doing at any given point in time. MOHT worked with IMH to develop a platform to collect digital data, with the patients’ consent, through wearables and smartphones. This data was then analysed using AI. Based on these digital signals, we were able to tell the care team which patients were more likely to relapse. This is now being adopted as a mainstream service in IMH, for psychosis and for mood disorders.</p>
+<p>One example of such tools comes from a study we recently completed with the Institute of Mental Health (IMH) involving patients with schizophrenia.<sup><a href="#notestop">2</a></sup> There is no objective marker of when someone on treatment for the condition is going to get worse, and it is difficult to ascertain how patients are doing at any given point in time. MOHT worked with IMH to develop a platform to collect digital data, with the patients’ consent, through wearables and smartphones. This data was then analysed using AI. Based on these digital signals, we were able to tell the care team which patients were more likely to relapse. This is now being adopted as a mainstream service in IMH, for psychosis and for mood disorders.</p>
 
 
 <div class="break">
@@ -213,9 +213,9 @@ most critical uncertainties?</h3>
 <div class="num">
 <ol>
 
-<li>The first milestone is having <b>enough GP clinics</b> embrace it and come on board as partners, which means they can see that the programme is good for their patients and makes clinical and business sense to them as well. So far, with about 1,000 (out of 1,300) clinics on the programme,<sup>2</sup> we are doing well here.</li>
+<li>The first milestone is having <b>enough GP clinics</b> embrace it and come on board as partners, which means they can see that the programme is good for their patients and makes clinical and business sense to them as well. So far, with about 1,000 (out of 1,300) clinics on the programme,<sup><a href="#notestop">2</a></sup> we are doing well here.</li>
 
-<li>The next milestone is the <b>value proposition to patients</b>: whether residents can see a clear and compelling reason to enrol in Healthier SG. Again, with over 400,000 residents enrolled in Healthier SG since July 2023,<sup>3</sup> we are off to a good start.</li>
+<li>The next milestone is the <b>value proposition to patients</b>: whether residents can see a clear and compelling reason to enrol in Healthier SG. Again, with over 400,000 residents enrolled in Healthier SG since July 2023,<sup><a href="#notestop">3</a></sup> we are off to a good start.</li>
 	
 <li>The third milestone will be critical, and that is the <b>delivery outcomes.</b> Whether patients stay with their enrolled GPs, whether preventative care—as indicated, for example, by screening and vaccination rates; by better control of common chronic conditions like diabetes, high blood pressure—are all trending in the right direction. That would provide good evidence that the intent of Healthier SG is being achieved.</li>
 	
