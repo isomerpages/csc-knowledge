@@ -217,7 +217,7 @@ most critical uncertainties?</h3>
 
 <li>The next milestone is the <b>value proposition to patients</b>: whether residents can see a clear and compelling reason to enrol in Healthier SG. Again, with over 400,000 residents enrolled in Healthier SG since July 2023,<sup>3</sup> we are off to a good start.</li>
 	
-<li>The third milestone will be critical, and that is the delivery outcomes. Whether patients stay with their enrolled GPs, whether preventative care—as indicated, for example, by screening and vaccination rates; by better control of common chronic conditions like diabetes, high blood pressure—are all trending in the right direction. That would provide good evidence that the intent of Healthier SG is being achieved.</li>
+<li>The third milestone will be critical, and that is the <b>delivery outcomes.</b> Whether patients stay with their enrolled GPs, whether preventative care—as indicated, for example, by screening and vaccination rates; by better control of common chronic conditions like diabetes, high blood pressure—are all trending in the right direction. That would provide good evidence that the intent of Healthier SG is being achieved.</li>
 	
 </ol>
 </div>
@@ -238,7 +238,7 @@ most critical uncertainties?</h3>
 </div>
 
 
-<div class="notestop">
+<div class="notestop" id="notestop">
 <h6>NOTES</h6>
 <ol>
 	
