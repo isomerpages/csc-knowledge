@@ -94,7 +94,9 @@ margin-top:15px;
 	<div>
 		<h3>Creating the Future of Healthcare: A Conversation with Prof Tan Chorh Chuan</h3>
 		<b><i>by Tan Chorh Chuan</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p>The veteran clinician and Chairman of MOH Office for  
+Healthcare Transformation envisions how new data frameworks, digital tools and cross-sectoral partnerships will revolutionise  
+the way we stay healthier for life, on a national scale.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -130,19 +132,7 @@ margin-top:15px;
 	<div>
 		<h3>Realising the Promise of Health Information</h3>
 		<b><i>by Raymond Chua</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
-	</div>
-</div>
-
-<br>
-
-<div class="grid-container">
-	<div><img src=""></div>
-	<div>
-		<h3>Keeping It Real: Outcomes-Based Contracting for Mental and Social Health</h3>
-		<b><i>by Richard Johnson</i></b>
-		<p>Clear definitions of success, co-determined with stakeholders and supported by robust performance management, are key to delivering results meaningful to the people programmes seek to serve.</p>
+		<p>Singapore is introducing a regulatory framework to collect and share health records across the healthcare sector, easing continuity  of care for patients and unlocking new potential for public health advances.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -161,12 +151,29 @@ margin-top:15px;
 
 <br>
 
+
+<div class="grid-container">
+	<div><img src=""></div>
+	<div>
+		<h3>Keeping It Real: Outcomes-Based Contracting for Mental and Social Health</h3>
+		<b><i>by Richard Johnson</i></b>
+		<p>Clear definitions of success, co-determined with stakeholders and supported by robust performance management, are key to delivering results meaningful to the people programmes seek to serve.</p>
+		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+	</div>
+</div>
+
+
+<br>
+
+
 <div class="grid-container">
 	<div><img src=""></div>
 	<div>
 		<h3>Encouraging Healthier Choices: Helping People Take Better Care of Themselves</h3>
 		<b><i>by Rory Gallagher and Serene Koh</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p>Recent work in behavioural insights at both individual and 
+systemic scales could help advance Singapore’s preventative 
+healthcare paradigm.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -191,7 +198,7 @@ margin-top:15px;
 	<div>
 		<h3>Building an Age-Inclusive Healthcare System in Singapore</h3>
 		<b><i>by Reuben Ng &amp; Nicole Indran</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p>An important part of creating a successful ageing society entails reframing the narratives around ageing  and involving more seniors in policymaking.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
 </div>
@@ -203,8 +210,7 @@ margin-top:15px;
 	<div>
 		<h3>Health is Social: The Future of Care in Singapore</h3>
 		<b><i>by Eugene Fidelis Soh</i></b>
-		<p>By taking responsibility not  
-only individually but collectively  
+		<p>By taking responsibility not  only individually but collectively  
 for our health, Singaporeans can build  the capacities and relationships needed to thrive well into the future.</p>
 		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
 	</div>
