@@ -154,7 +154,7 @@ CONDITIONS</h3>
 	
 <div class="break">
 
-<p class="break1">"Health inequities are greatly influenced by ‘non-medical factors that influence health outcomes… the conditions in which people are born, grow, work, live, and age.”</p>
+<p class="break1">Health inequities are greatly influenced by "non-medical factors that influence health outcomes… the conditions in which people are born, grow, work, live, and age".</p>
 
 </div>	
 	
