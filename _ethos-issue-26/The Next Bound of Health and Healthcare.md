@@ -164,7 +164,7 @@ CONDITIONS</h3>
 	
 <div class="break">
 
-<p class="break1">"We want to strengthen Singapore’s “social infrastructure” to make our environment more conducive for taking up healthier lifestyles.”</p>
+<p class="break1">We want to strengthen Singapore’s “social infrastructure” to make our environment more conducive for taking up healthier lifestyles.</p>
 
 </div>		
 	
@@ -181,7 +181,7 @@ CONDITIONS</h3>
 	
 <div class="break">
 
-<p class="break1">"We are keen to do more to lower barriers to health and healthcare, and to be more targeted in supporting not just seniors, but other vulnerable population segments.”</p>
+<p class="break1">We are keen to do more to lower barriers to health and healthcare, and to be more targeted in supporting not just seniors, but other vulnerable population segments.</p>
 
 </div>			
 	
