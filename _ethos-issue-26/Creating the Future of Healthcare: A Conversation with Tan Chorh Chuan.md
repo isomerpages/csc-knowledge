@@ -108,7 +108,7 @@ You need leadership as well as a whole change management system for the professi
 <p>One area is in enabling and sustaining behaviour change. In considering behaviour, we quite often think in terms of individuals: our mental model is to educate, nag and nudge individuals, say to exercise, one person at a time. This is important, but it is hard; it would take a long time to have an impact on the whole population this way. But there are other behavioural drivers, such as environmental or cultural factors, that could have a broader impact at the population level.</p>
 
 <div class="break">
-<p class="break1">"Behavioural drivers, such as environmental or cultural factors, could have a broader impact at the population level."</p>
+<p class="break1">Behavioural drivers, such as environmental or cultural factors, could have a broader impact  at the population level.</p>
 </div>
 
 <p>A good example is cigarette smoking, which has perhaps seen the most successful public health intervention. Smoking is expensive because we have put taxes on it. And we have made cigarettes difficult to access, because we have all kinds of restrictions on its sale. Smoking is prohibited in most public spaces. The nett effect of these non-health measures is that it is not easy to smoke. Overall, some 90% of our people do not smoke. Over time, the cultural and social norm is to not smoke, except perhaps among certain limited groups. So a combination of these environmental changes engenders a social norm towards desirable behaviours. In fact, a few behaviours—lack of physical activity, poor diet, and smoking—contribute disproportionately to bad health outcomes, accounting for more than 40% of mortality.</p>
@@ -140,11 +140,11 @@ healthcare transformation?</h3>
 <div class="num">
 <ol>
 
-<li>There is <b>data for understanding and planning,</b> which can be anonymised and aggregated.</li>
+<li>There is <b>data for understanding and planning</b>, which can be anonymised and aggregated.</li>
 
-<li>There is <b>data for intervention,</b> where you need sophisticated analytics to understand how and when to encourage different groups, say to exercise, and how best to continue to dynamically motivate them over time so that their behavioural change becomes sustained in the long term</li>
+<li>There is <b>data for intervention</b>, where you need sophisticated analytics to understand how and when to encourage different groups, say to exercise, and how best to continue to dynamically motivate them over time so that their behavioural change becomes sustained in the long term</li>
 	
-<li>Next, there is <b>data for monitoring results,</b> to determine whether the interventions have worked, and whether they have reached the right groups. We know for instance that disparities in participation and outcomes are important drivers for overall outcomes at the system level in many health systems, so we want to see, for instance, more exercising among people who are not just those who are already self-motivated to do so.</li>
+<li>Next, there is <b>data for monitoring results</b>, to determine whether the interventions have worked, and whether they have reached the right groups. We know for instance that disparities in participation and outcomes are important drivers for overall outcomes at the system level in many health systems, so we want to see, for instance, more exercising among people who are not just those who are already self-motivated to do so.</li>
 	
 </ol>
 </div>
@@ -169,7 +169,7 @@ and paradigm shift?</h3>
 <p>All this will take time, and different players are at different levels of readiness. So we need to do this in phases. We are starting in Healthier SG by looking at common health conditions like diabetes, high blood pressure, and basic preventative measures such as vaccinations, screening and weight management. We are creating platforms to make it simpler to perform these basic interventions, such as streamlined care protocols and IT and data systems to help the GPs do these things efficiently. This lays a foundation and ensures the system is robust before moving on to the next set of reforms. It also gives us more time to build up systems and learn reiteratively with each new tranche of measures.</p>
 
 <div class="break">
-<p class="break1">"Activating community participation will be important for sustained cultural and behavioural change."</p>
+<p class="break1">Activating community participation will be important for sustained cultural and behavioural change.</p>
 </div>
 
 
@@ -192,8 +192,8 @@ these build on Healthier SG?</h3>
 
 
 <div class="break">
-<p class="break1">"In future there  
-will be more conditions  that we will be able to  predict and monitor using digital technologies."</p>
+<p class="break1">In future there  
+will be more conditions  that we will be able to  predict and monitor using digital technologies.</p>
 </div>
 
 
@@ -263,7 +263,7 @@ most critical uncertainties?</h3>
 <h6>NOTES</h6>
 <ol>
 	
-<li id="num1">See: Salma Khalik, "Good Healthcare with Less Manpower Is Possible with New Technology: S'pore Chief Health Scientist", The Straits Times, August 28, 2023,<a href="https://www.straitstimes.com/singapore/good-healthcare-with-less-manpower-is-possible-with-new-technology-s-pore-chief-health-scientist">https://www.straitstimes.com/singapore/good-healthcare-with-less-manpower-is-possible-with-new-technology-s-pore-chief-health-scientist</a>
+<li id="num1">See: Salma Khalik, "Good Healthcare with Less Manpower Is Possible with New Technology: S'pore Chief Health Scientist", <em>The Straits Times</em>, August 28, 2023,<a href="https://www.straitstimes.com/singapore/good-healthcare-with-less-manpower-is-possible-with-new-technology-s-pore-chief-health-scientist">https://www.straitstimes.com/singapore/good-healthcare-with-less-manpower-is-possible-with-new-technology-s-pore-chief-health-scientist</a>
 </li>
 	
 	
