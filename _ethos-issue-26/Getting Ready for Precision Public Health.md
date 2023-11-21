@@ -94,7 +94,7 @@ A useful way to think about this transition is to compare it with how Digital Ma
 
 
 <div class="break">
-<p class="break1">"Precision Public Health is the use of technology and the principles of public health to advance the health system and population health goals. "</p>
+<p class="break1">Precision Public Health is the use of technology and the principles of public health to advance the health system and population health goals. </p>
 </div>
 
 <p>Public health has and will play an important role in promoting and improving health outcomes for countries, health systems and populations. It has a strong emphasis on prevention of diseases, health promotion, advocacy for health access and coverage, enhancing people’s overall wellbeing and the many facets of public health research and evaluation. The COVID-19 pandemic, while devastating, has led to many positive changes in how health systems, researchers, providers and industry think about public health transformation. Catalysed by the pandemic, public health is experiencing a radical rethinking that is being fuelled by these three enablers that have changed the practice of public health  in many positive ways. </p>
@@ -193,11 +193,11 @@ PRECISION PUBLIC HEALTH</h3>
 
 
 <div class="author">
-<h6>ABOUT THE AUTHOR</h6>	
-<p><b>Clive Tan</b> is a public health physician working on population health and integrated care at the National Healthcare Group, to add years of healthy life to our population. He was the Organising Chairman of the Precision Public Health Asia Conference, which was held in Singapore in July 2023.
+<h6>ABOUT THE AUTHORS</h6>	
+<p><b>Dr Clive Tan</b> is a public health physician working on population health and integrated care at the National Healthcare Group, to add years of healthy life to our population. He was the Organising Chairman of the Precision Public Health Asia Conference, which was held in Singapore in July 2023.
 </p>
 	
-<p><b>Jeremy Lim</b> is Director of the Leadership Institute for Global Health Transformation (LIGHT) at the National University of Singapore’s Saw Swee Hock School of Public Health. He is the current President of the Precision Public Health Asia Society.
+<p><b>Dr Jeremy Lim</b> is Director of the Leadership Institute for Global Health Transformation (LIGHT) at the National University of Singapore’s Saw Swee Hock School of Public Health. He is the current President of the Precision Public Health Asia Society.
 </p>
 		
 	
