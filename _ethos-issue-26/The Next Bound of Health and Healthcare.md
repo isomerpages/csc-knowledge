@@ -36,6 +36,7 @@ background-color: #F7943E;
 margin-top:30px;
 padding:20px;
 color:white;	
+border-radius: 20px;	
 }
 	
 .break2 q
