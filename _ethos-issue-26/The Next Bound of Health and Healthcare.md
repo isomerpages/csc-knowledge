@@ -18,7 +18,7 @@ variant: markdown
    border-bottom: 1px solid black;
 	 padding:20px;
 	text-align:center;
-	font-size:30px;
+
 	margin-top:50px;
 }
 	
@@ -87,13 +87,13 @@ background-color: orange;
 <img src="">
 
 
-<div class="break2">
+<div class="break">
 	
 
-<q>Everything affects health, but not everybody thinks health is their problem. Yet, maybe this point of view is changing as the COVID-19 pandemic has shown how a health threat can cause massive disruption and affect most aspects of life… Through [H]ealth for All Policies, health is put at the forefront, highlighting what the health sector can do for other sectors while simultaneously attaining co-benefits for its own sector.
-</q>	
+<p class="break1">"Everything affects health, but not everybody thinks health is their problem. Yet, maybe this point of view is changing as the COVID-19 pandemic has shown how a health threat can cause massive disruption and affect most aspects of life… Through [H]ealth for All Policies, health is put at the forefront, highlighting what the health sector can do for other sectors while simultaneously attaining co-benefits for its own sector."
+</p>	
 
-<cite>- The Lancet Public Health, 2022<sup><a href="#notestop">1</a></sup></cite>	
+<p>- The Lancet Public Health, 2022<sup><a href="#notestop">1</a></sup></p>
 
 </div>
 	
@@ -138,7 +138,7 @@ relevant postgraduate qualifications for Family Physician accreditation.</p>
 	
 <figure>  
 <img src="/images/Ethos_Images/Ethos_Issue_26/polyclinic.jpg">
-	<figcaption><b>Figure 1.</b> Healthcare clusters, as regional health managers, will organise community partners in support of better health outcomes.</figcaption>	
+<figcaption><b>Figure 1.</b> Healthcare clusters, as regional health managers, will organise community partners in support of better health outcomes.</figcaption>	
 	
 </figure>
 
@@ -158,7 +158,7 @@ CONDITIONS</h3>
 	
 <div class="break">
 
-<p class="break1">Health inequities are greatly influenced by "non-medical factors that influence health outcomes… the conditions in which people are born, grow, work, live, and age".</p>
+<p class="break1">"Health inequities are greatly influenced by "non-medical factors that influence health outcomes… the conditions in which people are born, grow, work, live, and age".</p>
 
 </div>	
 	
@@ -168,7 +168,7 @@ CONDITIONS</h3>
 	
 <div class="break">
 
-<p class="break1">We want to strengthen Singapore’s “social infrastructure” to make our environment more conducive for taking up healthier lifestyles.</p>
+<p class="break1">"We want to strengthen Singapore’s “social infrastructure” to make our environment more conducive for taking up healthier lifestyles."</p>
 
 </div>		
 	
