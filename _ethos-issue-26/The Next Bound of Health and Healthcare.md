@@ -42,9 +42,14 @@ color:white;
 {
 font-family: Georgia;	
 font-size:20px;
-	font-style: italic;
-	font-weight: bold;	
+font-style: italic;
+font-weight: bold;	
 }
+	
+.break2 a
+{
+	color: white;
+}	
 	
 .author
 {
@@ -70,9 +75,7 @@ blockquote
 {
 background-color: orange;	
 }	
-
-
-
+	
 	
 </style>
 
