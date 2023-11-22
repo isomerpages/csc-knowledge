@@ -162,16 +162,74 @@ opportunities.</p>
 
 <p>Research on the theory of stereotype embodiment indicates that the internalisation of negative age stereotypes into one’s self-concept is associated with adverse health outcomes such as a reduced sense of self-efficacy and a higher risk of depression.12 On the flipside, positive age stereotypes are linked to favourable health outcomes such as increased longevity and better functional health. This means that reframing ageing can be a powerful tool in promoting preventive care and healthy ageing.</p>
 
+<p>In Singapore, much like in other countries, the ageing population is often depicted using catastrophic terms like 'silver tsunami', 'age quake' and 'demographic time bomb'. These depictions invariably lead to discussions about population ageing as a phenomenon that will precipitate a surge in chronic diseases and strain an already stretched healthcare system. Such counterproductive narratives need to be unlearned. Reframing ageing in the healthcare context does not mean denying the challenges posed by an ageing population, but rather adopting a more balanced perspective that considers the potential opportunities it brings.</p>
+
+<p>To this end, it is vital to cultivate a healthcare environment that upholds the inherent dignity of older adults. Rather than fixate on the limitations of older adults, healthcare providers can pay attention to their strengths and abilities. Rather than assume all older adults require the same level of care, healthcare providers can assess each individual's needs and tailor interventions accordingly. By reframing ageing, we set the stage for a healthcare future that embraces the unique needs and strengths of an older cohort.</p>
 
 
+<h3>Designing Grey Jobs</h3>
 
+<p>As the population ages, it becomes increasingly important to cater to the unique needs of older adults through specialised healthcare interventions. This presents an excellent opportunity to expand and create more ‘grey jobs’ in the healthcare sector. These are jobs that provide specialised care, support and services to older adults, ensuring their wellbeing and enhancing their quality of life.</p>
+
+<div class="break">
+<p class="break1">"Rather than fixate on the limitations of older adults, healthcare providers can pay attention to their strengths and abilities."</p>
+</div>
+
+<p>Among potential grey jobs are eldercare navigators, who can assist older adults and their families in manoeuvring the complex healthcare system. These navigators can help them access relevant services and understand available resources to ensure a more efficient healthcare experience. Elder-specific technology advisors can offer older adults guidance on adopting and utilising various digital health technologies. Elder health educators can focus on promoting preventive care among older adults. Specifically, they can educate both older adults and caregivers on age-related health conditions, lifestyle modifications and strategies to maintain optimal health.</p>
+
+<p>Increasing the number of geriatric care specialists, eldercare counsellors and home aides are also paramount to ensure older adults receive the specialised care and support that they need. By creating and ramping up these grey jobs, the healthcare sector will be well poised to meet the needs of an ageing population.</p>
+
+<div class="break">
+<p class="break1">"Engaging older adults in decision-making 
+processes ensures 
+that healthcare policies  can be better aligned with the needs and 
+preferences of a diverse older population."</p>
+</div>
+
+
+<h3>Activating Older Adults in 
+Policy Implementation</h3>
+
+<p>Granting older adults positions of leadership in the policy implementation space is a key part of fostering a more age-inclusive healthcare system. With their wealth of experience and knowledge, older adults are uniquely positioned to contribute to the development of healthcare policies and programmes.
+</p>
+
+<p>Leveraging this collective wisdom is especially critical in light of the prevalence of ageism among healthcare professionals.<sup>13</sup> Engaging older adults in decision-making processes ensures that healthcare policies can be better aligned with the needs and preferences of a diverse older population. Their first-hand experiences as healthcare recipients enable them to provide valuable insights into the challenges they confront, the services they require and the improvements they wish to see in the healthcare system. Policymakers and healthcare professionals would then be equipped with a more comprehensive understanding of the real-life impact of their decisions, leading in turn to  more effective and patient-centric healthcare solutions.</p>
+
+
+<p>Thus, healthcare providers should actively engage older adults in the co-design of healthcare services and programmes. This can be done through focus group discussions, surveys and town hall meetings, where older adults could share their perspectives on how healthcare initiatives could be improved. Additionally, healthcare organisations and institutions should make a concerted effort to appoint older adults to decision-making roles. This can involve creating leadership roles dedicated to representing the interests of older adults, or including older adults in existing committees and boards that oversee the design of healthcare policies.</p>
+
+
+<div class="break">
+<p class="break1">"Healthcare providers should actively engage older adults in the co-design of healthcare services and programmes."</p>
+</div>
+
+
+<h3>Conclusions</h3>
+
+<p>In order that its world-class healthcare system continues to flourish, Singapore needs to capitalise on its ageing population. The four strategies delineated above pave the way for a more inclusive and sustainable healthcare landscape. However, Singapore's journey towards building an age-inclusive healthcare system is but just one facet of a broader cultural transformation necessary for reframing ageing. </p>
+
+<p>With its unique blend of strong governance, first-rate infrastructure and predisposition towards filial piety, Singapore possesses the right ingredients to nurture an age-inclusive culture. Against this backdrop, Singapore can lead the way in pioneering age-friendly solutions, not only in healthcare, but also in other areas. This will position Singapore as a shining example of a society with an ageing population not disdained as a burden, but rather celebrated as a source of strength.</p>
 
 
 
 <div class="author">
+	
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
+
+<p><b>Reuben Ng</b> is Assistant Professor at the Lee Kuan Yew School of Public Policy and Lead Scientist at the Lloyd's Register Foundation Institute for the Public Understanding of Risk. He is a 2023–24 Harkness Fellow in Health Care Policy and Practice, serving as the inaugural Singaporean fellow and the first from Asia since the inception of the programme in 1925. A behavioural and data scientist, Ng spent 16 years in government, consulting and research. In government, he was in the Prime Minister’s Office driving evidence-based policymaking through data analytics and Smart Nation strategies. In consulting, he co-built the advanced analytics practice and implemented complex analytics capabilities across the healthcare value chain. He is an expert in ageism, social gerontology and quantitative social sciences, and has been credited with creating innovative techniques to measure health narratives that are applied to strategic policy communications. He is the first Singaporean and Oxonian to win the International Fulbright Science and Technology Award and was ranked in the top two percent of scientists globally by Stanford in 2022.
+	He can be contacted at <a href="https://lkyspp.nus.edu.sg/our-people/faculty/reuben-ng">https://lkyspp.nus.edu.sg/our-people/faculty/reuben-ng</a>.
+	
+</p>
+	
+<p><b>Nicole Indran</b> is Research Associate at the Lee Kuan Yew School of Public Policy. Her research interests lie in the field of social gerontology. She has published in several peer-reviewed journals, including JAMA, the Journal of the American Geriatrics Society, The Gerontologist and the Journal of Social Issues.</p>	
+	
+	
+	
+	
 </div>
+
+
+
 
 
 <div class="notestop">
