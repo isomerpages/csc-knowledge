@@ -47,6 +47,12 @@ font-size: 15px;
 line-height: 22px;
 }
 	
+.chatbot ol li
+{
+font-size: 15px;
+
+}
+	
 .notestop ol li
 {
 font-size: 15px;
@@ -92,7 +98,7 @@ width: 300px;
 <p>One area of prevention in which upstream interventions have been explored is tackling obesity. The Behavioural Insights Team (BIT) and our sister organisation, Nesta, are undertaking a major programme of work that seeks to help redesign food systems. Behavioural approaches have often focused on downstream changes, for example, by encouraging people to eat more healthily through information on calories and public education campaigns. However, we believe that this must be complemented by a much stronger focus on upstream changes, such as by shifting the behaviour of businesses and regulators. This includes everything from product reformulation to the changing landscape of how we all consume food in supermarkets, online, via delivery apps, and so on.</p>
 
 
-<p>A prominent example of an upstream intervention that continues to reap benefits is the UK’s sugar sweetened beverage levy.2 We often describe this as a 'double nudge'—since while it was intended to shift consumer behaviour towards less sugary drinks, it was also explicitly designed to shift the behaviours of manufacturers and retailers. The levy was first announced in 2016 and two of its design features are important to flag. First, the levy would not come into force until April 2018, meaning that producers had two years to make changes to their drinks. Second, the levy was divided into two tiers: drinks with more than 8 g of sugar per 100 ml would face a higher levy than those with more than 5 g of sugar (see Figure 1).</p>
+<p>A prominent example of an upstream intervention that continues to reap benefits is the UK’s sugar sweetened beverage levy.<sup>2</sup> We often describe this as a 'double nudge'—since while it was intended to shift consumer behaviour towards less sugary drinks, it was also explicitly designed to shift the behaviours of manufacturers and retailers. The levy was first announced in 2016 and two of its design features are important to flag. First, the levy would not come into force until April 2018, meaning that producers had two years to make changes to their drinks. Second, the levy was divided into two tiers: drinks with more than 8 g of sugar per 100 ml would face a higher levy than those with more than 5 g of sugar (see Figure 1).</p>
 
 
 <figure>
@@ -101,16 +107,16 @@ width: 300px;
 </figure>
 
 
-<p>These tiers meant producers had a clear incentive to reformulate their products to avoid higher levies. Eight months after the announcement and more than a year before the levy came into effect, major beverage companies announced that they were reformulating their drinks so that they were exempt from the levy.3 In other words, consumers benefited from this intervention without changing  their behaviour and purchasing decisions. The levy had successfully nudged providers to reduce sugar in their drinks; this system change was doing the heavy lifting rather than individuals.</p>
+<p>These tiers meant producers had a clear incentive to reformulate their products to avoid higher levies. Eight months after the announcement and more than a year before the levy came into effect, major beverage companies announced that they were reformulating their drinks so that they were exempt from the levy.<sup>3</sup> In other words, consumers benefited from this intervention without changing  their behaviour and purchasing decisions. The levy had successfully nudged providers to reduce sugar in their drinks; this system change was doing the heavy lifting rather than individuals.</p>
 
 
-<p>In Singapore, efforts such as the Nutri-Grade initiative are setting similar goals;4 Nutri-Grade hopes to spur companies to reformulate their products by reducing sugar content. Following the announcement of the measures in 2020, the median sugar level of pre-packaged beverages fell from around 7% to 4% the following year. The Health Promotion Board is hoping to build on this momentum by working with food and beverage  operators to make kopi 'siew dai' (with  less sugar) the default for local coffee orders. This would mean that, like the UK sugar sweetened beverage levy, individuals are supported to make healthier choices by changes to the choice architecture of the food system.</p>
+<p>In Singapore, efforts such as the Nutri-Grade initiative are setting similar goals;<sup>4</sup> Nutri-Grade hopes to spur companies to reformulate their products by reducing sugar content. Following the announcement of the measures in 2020, the median sugar level of pre-packaged beverages fell from around 7% to 4% the following year. The Health Promotion Board is hoping to build on this momentum by working with food and beverage  operators to make kopi 'siew dai' (with  less sugar) the default for local coffee orders. This would mean that, like the UK sugar sweetened beverage levy, individuals are supported to make healthier choices by changes to the choice architecture of the food system.</p>
 
-<p>Similar approaches can also be applied to growing online environments.5 The pandemic has led to a huge uptick in the use of food delivery apps, which presents an opportunity to influence the design of these online platforms to help people make healthier decisions. BIT’s online studies have demonstrated that repositioning lower energy options more prominently has the potential to encourage lower energy food choices in online delivery platforms.</p>
+<p>Similar approaches can also be applied to growing online environments.<sup>5</sup> The pandemic has led to a huge uptick in the use of food delivery apps, which presents an opportunity to influence the design of these online platforms to help people make healthier decisions. BIT’s online studies have demonstrated that repositioning lower energy options more prominently has the potential to encourage lower energy food choices in online delivery platforms.</p>
 
 <h3>Aligning incentives and interventions</h3>
 
-<p>Our research has shown that these types of healthy nudges can be implemented within a sustainable business model. We believe that the economic impacts of these upstream nudges are critical to understand and address. For example, BIT Australia worked with the Alfred Hospital and VicHealth, on trials to explore the impact of reducing the visibility and increasing the cost of sugary drinks in hospital canteens and vending machines.6 Retailers were understandably worried that these interventions would decrease their overall sales, but in fact, our trials demonstrated that this was not the case in practice. Consumers did not stop purchasing drinks altogether but shifted from purchasing sugary ‘red’ drinks to buying healthier ‘amber’ and ‘green’ drinks. Highlighting that these interventions do not hurt retailers’ bottom line is critical to scaling the uptake of these approaches. </p>
+<p>Our research has shown that these types of healthy nudges can be implemented within a sustainable business model. We believe that the economic impacts of these upstream nudges are critical to understand and address. For example, BIT Australia worked with the Alfred Hospital and VicHealth, on trials to explore the impact of reducing the visibility and increasing the cost of sugary drinks in hospital canteens and vending machines.<sup>6</sup> Retailers were understandably worried that these interventions would decrease their overall sales, but in fact, our trials demonstrated that this was not the case in practice. Consumers did not stop purchasing drinks altogether but shifted from purchasing sugary ‘red’ drinks to buying healthier ‘amber’ and ‘green’ drinks. Highlighting that these interventions do not hurt retailers’ bottom line is critical to scaling the uptake of these approaches. </p>
 
 <p>Another approach to engage and align incentives with retailers is through signifiers like health ratings. If there is competition and comparison between retailers and delivery platforms in terms of healthier ratings, then there is an incentive for them to shift towards healthier options to improve their market positioning.</p>
 
@@ -130,6 +136,25 @@ width: 300px;
 <div class="break">
 <p class="break1">"Simple but effective messaging has been shown to be highly effective nudges."</p>
 </div>
+
+
+<p>Chatbots have also shown effectiveness in increasing attendance and uptake. AI-powered healthcare chatbots can now handle simple inquiries with ease and provide a convenient way for users to research information. In many cases, these self-service tools are also a more personal way of interacting with healthcare services than browsing a website or communicating with an outsourced call centre. In fact, according to Salesforce, 86% of customers would rather get answers from a chatbot than fill out a website form.</p>
+
+
+<p>One notable area that has benefited from the advent of chatbots is mental health management. Healthcare chatbots can provide mental health assistance 24/7. This can be critical to those living in rural areas where mental health resources are scarce or for people experiencing a crisis in the middle of the night when 'human help' is not available. For example, a chatbot could quickly:</p>
+
+
+<div class="chatbot">
+<ol>
+<li>Offer self-help tips like meditation, relaxation exercises, and positive affirmations.</li>	
+<li>Connect people with mental health experts who can help them with specific challenges related to living with a mental illness.</li>		
+<li>Connect patients with other people who are going through similar struggles, offering peer support and a community.</li>		
+</ol>	
+</div>
+	
+	
+<p>Technology may also help us to better connect with our future selves. If GPs were to take up Hershfield’s recommendation to help people make a stronger connection with their future selves, they may, for instance, be able to draw on apps that enable us to create ‘filters’ that visibly age us, often realistically. Obviously, there will be a delicate balance to be struck about how these tools and data should be used, but we see opportunities to work with GPs on how they can harness the power of technology to help people make healthier choices. For example, the research of Susan Jebb has highlighted that technology can make it easier for GPs to bring up, address and monitor sensitive issues like obesity and loneliness.<sup>8</sup></p>
+
 
 
 
