@@ -240,7 +240,7 @@ Policy Implementation</h3>
 	
 <li>D. Whitman and L. Walker, "Singapore: An Island Nation with a Big Vision for Aging", AARP International, doi:10.26419/int.00045.007.</li>
 	
-<li>M. Mathews and P. T. Straughan, "Results from the Perception and Attitudes towards Ageing and Seniors Survey (2013/2014)", Institute of Policy Studies, October, 2014, https://ink.library.smu.edu.sg/soss_research/2220.</li>
+<li>M. Mathews and P. T. Straughan, "Results from the Perception and Attitudes towards Ageing and Seniors Survey (2013/2014)", Institute of Policy Studies, October, 2014, <a href="https://ink.library.smu.edu.sg/soss_research/2220">https://ink.library.smu.edu.sg/soss_research/2220</a>.</li>
 	
 <li>R. Ng, H. G. Allore, M. Trentalange, J. K. Monin, and B. R. Levy, "Increasing Negativity of Age Stereotypes across 200 Years: Evidence from a Database of 400 Million Words", PLOS ONE 10, no. 2
 (2015): e0117086, doi:10.1371/journal.pone.0117086.</li>
