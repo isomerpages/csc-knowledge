@@ -117,9 +117,9 @@ color: white;
 
 <h3>Introduction</h3>
 
-<p>The COVID-19 crisis has thrown into sharp relief the importance of having a resilient and adaptable healthcare system. Among the trends that will profoundly shape the future of healthcare in Singapore is the rapid ageing of the population. Going by projections, the country is on track to join the ranks of super-aged societies by 2030. In 2019, 14.4% of the population was aged 65 and above. By 2030, this figure is anticipated to rise to 25%.<sup>1</sup></p>
+<p>The COVID-19 crisis has thrown into sharp relief the importance of having a resilient and adaptable healthcare system. Among the trends that will profoundly shape the future of healthcare in Singapore is the rapid ageing of the population. Going by projections, the country is on track to join the ranks of super-aged societies by 2030. In 2019, 14.4% of the population was aged 65 and above. By 2030, this figure is anticipated to rise to 25%.<sup><a href="#notestop">1</a></sup></p>
 
-<p>The Singapore Government has received international plaudits for its proactive approach in preparing for an ageing population.<sup>2</sup> The groundwork for these preparations can be traced back to the 1980s when the Committee on the Problems of the Aged was formed.<sup>3</sup> Several more committees and initiatives have since been established as part of a nationwide blueprint to enhance the wellbeing of Singaporeans as they age. The recently introduced Healthier SG strategy marks a paradigm shift towards preventive care, underscoring the government’s commitment to building a more sustainable healthcare system.</p>
+<p>The Singapore Government has received international plaudits for its proactive approach in preparing for an ageing population.<sup><a href="#notestop">2</a></sup> The groundwork for these preparations can be traced back to the 1980s when the Committee on the Problems of the Aged was formed.<sup><a href="#notestop">3</a></sup> Several more committees and initiatives have since been established as part of a nationwide blueprint to enhance the wellbeing of Singaporeans as they age. The recently introduced Healthier SG strategy marks a paradigm shift towards preventive care, underscoring the government’s commitment to building a more sustainable healthcare system.</p>
 
 <p>While Singapore is ahead of the curve in terms of preparations for an ageing population, efforts should also be directed at harnessing its benefits through large systemic shifts. We propose four strategies to cultivate a more age-inclusive healthcare model:  (1) demedicalising ageing, (2) reframing ageing, (3) designing ‘grey jobs’ and (4) activating older adults in policy implementation.</p>
 
@@ -135,16 +135,16 @@ older adults."</p>
 
 <h3>Demedicalising Ageing</h3>
 
-<p>A crucial step to make the healthcare model more age-inclusive is to demedicalise the ageing process. For far too long, ageing has been unfairly stigmatised as an ailment that needs curing rather than a natural part of life.<sup>4</sup> Demedicalising ageing will facilitate a more holistic approach to healthcare for older adults. Instead of focusing merely on treating age-related conditions, healthcare providers can encourage older patients to adopt preventive measures in order to stay healthier for longer.</p>
+<p>A crucial step to make the healthcare model more age-inclusive is to demedicalise the ageing process. For far too long, ageing has been unfairly stigmatised as an ailment that needs curing rather than a natural part of life.<sup><a href="#notestop">4</a></sup> Demedicalising ageing will facilitate a more holistic approach to healthcare for older adults. Instead of focusing merely on treating age-related conditions, healthcare providers can encourage older patients to adopt preventive measures in order to stay healthier for longer.</p>
 
 <p>Importantly, healthcare providers and policymakers must be vigilant in their communication strategies when implementing initiatives aimed at the older populace. The way policies are framed and conveyed can measurably affect public perceptions of old age.</p>
 
-<p>An illustrative example of the importance of careful policy implementation is seen in the launch of the Pioneer Generation Package in 2014. Even though the package was introduced with the intention of supporting older Singaporeans, it may have unfortunately worsened the medicalisation of ageing by reinforcing perceptions of later life as a period of decrepitude.<sup>5</sup> This emphasises the need for policymakers to be cognisant of the repercussions of well-intentioned policies, and to strive towards developing  greater age inclusivity.</p>
+<p>An illustrative example of the importance of careful policy implementation is seen in the launch of the Pioneer Generation Package in 2014. Even though the package was introduced with the intention of supporting older Singaporeans, it may have unfortunately worsened the medicalisation of ageing by reinforcing perceptions of later life as a period of decrepitude.<sup><a href="#notestop">5</a></sup> This emphasises the need for policymakers to be cognisant of the repercussions of well-intentioned policies, and to strive towards developing  greater age inclusivity.</p>
 
 
 <h3>Reframing Ageing</h3>
 
-<p>A fundamental shift in how ageing is viewed is needed. Gerontologists have discovered that negative age stereotypes proliferate in a sea of domains, including mainstream media like television programmes<sup>6</sup> and movies,<sup>7</sup> as well as social media platforms like Twitter<sup>8</sup> and TikTok,<sup>9</sup> among others. The movement to combat ageism—stereotyping, discrimination and prejudice on the grounds of age—is slowly gathering pace in developed countries like the United States. However, the issue remains very much under the radar in Singapore. Contrary to folk wisdom, ageism is as much of a problem in Asia as it is in the Western world;<sup>10</sup> evidence of this has also come to light in the Singapore context.<sup>11</sup></p>
+<p>A fundamental shift in how ageing is viewed is needed. Gerontologists have discovered that negative age stereotypes proliferate in a sea of domains, including mainstream media like television programmes<sup><a href="#notestop">6</a></sup> and movies,<sup><a href="#notestop">7</a></sup> as well as social media platforms like Twitter<sup><a href="#notestop">8</a></sup> and TikTok,<sup><a href="#notestop">9</a></sup> among others. The movement to combat ageism—stereotyping, discrimination and prejudice on the grounds of age—is slowly gathering pace in developed countries like the United States. However, the issue remains very much under the radar in Singapore. Contrary to folk wisdom, ageism is as much of a problem in Asia as it is in the Western world;<sup><a href="#notestop">10</a></sup> evidence of this has also come to light in the Singapore context.<sup><a href="#notestop">11</a></sup></p>
 
 <div class="break">
 <p class="break1">Reframing 
@@ -160,7 +160,7 @@ considers potential
 opportunities.</p>
 </div>
 
-<p>Research on the theory of stereotype embodiment indicates that the internalisation of negative age stereotypes into one’s self-concept is associated with adverse health outcomes such as a reduced sense of self-efficacy and a higher risk of depression.12 On the flipside, positive age stereotypes are linked to favourable health outcomes such as increased longevity and better functional health. This means that reframing ageing can be a powerful tool in promoting preventive care and healthy ageing.</p>
+<p>Research on the theory of stereotype embodiment indicates that the internalisation of negative age stereotypes into one’s self-concept is associated with adverse health outcomes such as a reduced sense of self-efficacy and a higher risk of depression.<sup><a href="#notestop">12</a></sup> On the flipside, positive age stereotypes are linked to favourable health outcomes such as increased longevity and better functional health. This means that reframing ageing can be a powerful tool in promoting preventive care and healthy ageing.</p>
 
 <p>In Singapore, much like in other countries, the ageing population is often depicted using catastrophic terms like 'silver tsunami', 'age quake' and 'demographic time bomb'. These depictions invariably lead to discussions about population ageing as a phenomenon that will precipitate a surge in chronic diseases and strain an already stretched healthcare system. Such counterproductive narratives need to be unlearned. Reframing ageing in the healthcare context does not mean denying the challenges posed by an ageing population, but rather adopting a more balanced perspective that considers the potential opportunities it brings.</p>
 
@@ -193,7 +193,7 @@ Policy Implementation</h3>
 <p>Granting older adults positions of leadership in the policy implementation space is a key part of fostering a more age-inclusive healthcare system. With their wealth of experience and knowledge, older adults are uniquely positioned to contribute to the development of healthcare policies and programmes.
 </p>
 
-<p>Leveraging this collective wisdom is especially critical in light of the prevalence of ageism among healthcare professionals.<sup>13</sup> Engaging older adults in decision-making processes ensures that healthcare policies can be better aligned with the needs and preferences of a diverse older population. Their first-hand experiences as healthcare recipients enable them to provide valuable insights into the challenges they confront, the services they require and the improvements they wish to see in the healthcare system. Policymakers and healthcare professionals would then be equipped with a more comprehensive understanding of the real-life impact of their decisions, leading in turn to  more effective and patient-centric healthcare solutions.</p>
+<p>Leveraging this collective wisdom is especially critical in light of the prevalence of ageism among healthcare professionals.<sup><a href="#notestop">13</a></sup> Engaging older adults in decision-making processes ensures that healthcare policies can be better aligned with the needs and preferences of a diverse older population. Their first-hand experiences as healthcare recipients enable them to provide valuable insights into the challenges they confront, the services they require and the improvements they wish to see in the healthcare system. Policymakers and healthcare professionals would then be equipped with a more comprehensive understanding of the real-life impact of their decisions, leading in turn to  more effective and patient-centric healthcare solutions.</p>
 
 
 <p>Thus, healthcare providers should actively engage older adults in the co-design of healthcare services and programmes. This can be done through focus group discussions, surveys and town hall meetings, where older adults could share their perspectives on how healthcare initiatives could be improved. Additionally, healthcare organisations and institutions should make a concerted effort to appoint older adults to decision-making roles. This can involve creating leadership roles dedicated to representing the interests of older adults, or including older adults in existing committees and boards that oversee the design of healthcare policies.</p>
@@ -232,7 +232,7 @@ Policy Implementation</h3>
 
 
 
-<div class="notestop">
+<div class="notestop" id="notestop">
 <h6>NOTES</h6>
 <ol>
 	
