@@ -49,7 +49,7 @@ line-height: 22px;
 	
 .chatbot ol li
 {
-font-size: 15px;
+font-size: 16px;
 
 }
 	
