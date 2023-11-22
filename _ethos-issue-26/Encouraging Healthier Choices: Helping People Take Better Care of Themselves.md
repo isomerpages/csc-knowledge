@@ -53,7 +53,10 @@ font-size: 15px;
 line-height:22px;
 }		
 
-
+#nutri img
+{
+width: 300px;	
+}
 
 	
 
@@ -105,19 +108,28 @@ line-height:22px;
 
 <p>Similar approaches can also be applied to growing online environments.5 The pandemic has led to a huge uptick in the use of food delivery apps, which presents an opportunity to influence the design of these online platforms to help people make healthier decisions. BIT’s online studies have demonstrated that repositioning lower energy options more prominently has the potential to encourage lower energy food choices in online delivery platforms.</p>
 
-<h3>Aligning incentives
-and interventions</h3>
+<h3>Aligning incentives and interventions</h3>
 
+<p>Our research has shown that these types of healthy nudges can be implemented within a sustainable business model. We believe that the economic impacts of these upstream nudges are critical to understand and address. For example, BIT Australia worked with the Alfred Hospital and VicHealth, on trials to explore the impact of reducing the visibility and increasing the cost of sugary drinks in hospital canteens and vending machines.6 Retailers were understandably worried that these interventions would decrease their overall sales, but in fact, our trials demonstrated that this was not the case in practice. Consumers did not stop purchasing drinks altogether but shifted from purchasing sugary ‘red’ drinks to buying healthier ‘amber’ and ‘green’ drinks. Highlighting that these interventions do not hurt retailers’ bottom line is critical to scaling the uptake of these approaches. </p>
 
+<p>Another approach to engage and align incentives with retailers is through signifiers like health ratings. If there is competition and comparison between retailers and delivery platforms in terms of healthier ratings, then there is an incentive for them to shift towards healthier options to improve their market positioning.</p>
 
+<p>However, where there is evidence of misalignment between profits and public health objectives, we need to use harder levers, such as regulations. For instance, in Singapore and many countries around the world, we know that unhealthy snacks and sweets are often positioned at retail checkouts. These impulsive food purchases are money spinners for retailers, so the economic and health objectives are clearly misaligned. In October 2022, the Department of Health and Social Care in the UK set limits on where unhealthy food can be placed in shops. These restrictions directed that products high in fat, salt, or sugar can no longer be displayed in prominent locations such as at store entrances, aisle ends, and checkouts. The rules apply to equivalent high-traffic spots on food shopping websites. At BIT, we are supportive of these types of regulatory interventions and continue to run trials and collect evidence to explore how we can work together with industry when incentives align and how to intervene when they do not.</p>
 
-
-
-
-
-<div class="break">
-<p class="break1">Content for breaking</p>
+<div id="nutri">
+<img src="/images/Ethos_Images/Ethos_Issue_26/Screenshot_2023_11_22_at_10_40_19_AM.png">
 </div>
+	
+	
+<div class="break">
+<p class="break1">"Healthy nudges can be implemented within a sustainable business model."</p>
+</div>
+
+
+
+
+
+
 
 
 
