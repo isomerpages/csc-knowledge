@@ -66,7 +66,7 @@ width: 300px;
 
 .containerbox
 {
-padding: 13px;
+padding: 20px;
 background-color: #BEE0BB;
 }
 
@@ -207,7 +207,7 @@ markets, and platforms around this—from the food production angle and/or to ra
 <h6><b>NOTE</b></h6>
 <ol>
 	
-<li>See: <a href="https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K">https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K</a></li>	
+<li>See:<a href="https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K">https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K</a></li>	
 	
 </ol>	
 	
@@ -217,7 +217,9 @@ markets, and platforms around this—from the food production angle and/or to ra
 </div>
 
 
-
+<div class="break">
+<p class="break1">"Personalisation does not automatically mean individualisation. People's decisions are often strongly shaped by their social context and group dynamics."</p>
+</div>
 
 
 
