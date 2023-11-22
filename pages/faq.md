@@ -387,8 +387,6 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p>We’ll respond within 3 – 5 working days. </p>
 	
-<p>Who is your Agency Engagement Manager? Find out <a target="_blank" href="https://go.gov.sg/aemanagers">here</a>. This file can only be viewed on the Government Intranet.
-</p>
 	
 	
 		
