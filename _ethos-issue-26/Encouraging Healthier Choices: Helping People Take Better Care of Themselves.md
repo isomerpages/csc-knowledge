@@ -156,8 +156,18 @@ width: 300px;
 <p>Technology may also help us to better connect with our future selves. If GPs were to take up Hershfield’s recommendation to help people make a stronger connection with their future selves, they may, for instance, be able to draw on apps that enable us to create ‘filters’ that visibly age us, often realistically. Obviously, there will be a delicate balance to be struck about how these tools and data should be used, but we see opportunities to work with GPs on how they can harness the power of technology to help people make healthier choices. For example, the research of Susan Jebb has highlighted that technology can make it easier for GPs to bring up, address and monitor sensitive issues like obesity and loneliness.<sup>8</sup></p>
 
 
+<h3>Beyond mass messaging: 
+personalisation 
+and targeting </h3>
+
+<p>Governments around the world often rely on running mass information campaigns to raise health awareness. While these mass efforts have their place in promoting health behaviours, too many campaigns are run without being tested for effectiveness (particularly in terms of actual behaviour change rather than engagement metrics) or an assessment of return on investment. As with many organisations, the pandemic spurred methodological advancements at BIT in terms of our ability to test communications online at speed and scale. For instance, we can now test different campaign messaging through online experiments with panels of people in matters of days, rather than weeks or months. </p>
+
+<p>While there is a role for mass campaigns, we believe we need to shift away from trying to target the entire population at once to thinking more deeply about personalisation and targeting. How do we get the right messages to the right people at the right time, rather than always to the largest number of people?</p>
+
+<p>We also need to combine these  campaigns with service delivery. In Healthier SG, as we move to pair each household with a GP practice, we can consider how to leverage this relationship to individualise health messaging. By designing good care plan templates, we can help all GPs have targeted discussions with their patients about the kind of tailored solutions that will work best for them.</p>
 
 
+<p>It is important to note while we underline the importance of personalisation, this does not automatically mean individualisation. People’s decisions are often strongly shaped by their social context and group dynamics. For instance, we saw through the pandemic that social networks were extremely powerful in influencing vaccination behaviours—messages about protecting your family and community were more effective for many people than simply reminding them about vaccinating to protect their own health. As such, we believe that a huge driver of positive health outcomes will be one’s immediate family. As GPs implement care plans with their patients, how you personalise that by household and how you engage next-of-kin in conversations becomes very important as well.</p>
 
 
 
