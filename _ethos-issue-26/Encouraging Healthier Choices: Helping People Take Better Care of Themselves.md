@@ -64,8 +64,16 @@ line-height:22px;
 width: 300px;	
 }
 
-	
+.containerbox
+{
+padding: 13px;
+background-color: #BEE0BB;
+}
 
+.containerbox ol li
+{
+	font-size: 16px;
+}
 
 	
 	
@@ -168,6 +176,50 @@ and targeting </h3>
 
 
 <p>It is important to note while we underline the importance of personalisation, this does not automatically mean individualisation. People’s decisions are often strongly shaped by their social context and group dynamics. For instance, we saw through the pandemic that social networks were extremely powerful in influencing vaccination behaviours—messages about protecting your family and community were more effective for many people than simply reminding them about vaccinating to protect their own health. As such, we believe that a huge driver of positive health outcomes will be one’s immediate family. As GPs implement care plans with their patients, how you personalise that by household and how you engage next-of-kin in conversations becomes very important as well.</p>
+
+
+
+<div class="containerbox">
+<h4>Exploring the next frontier of health behaviours and choices</h4>
+
+<p>A few things continue to animate discussion in the “What next in health behaviours?” space:</p>	
+
+<ol>
+	
+<li>As we consider the behaviours of individuals in response to various types of levers, we must also consider the context within which these interactions are taking place, i.e., the healthcare institutions themselves. <b>Health delivery systems</b> are an area of huge interest in Singapore and across the world. In the UK, BIT is doing critical work on redistributing hospital load and demand,1 which may well have resonance for Singapore. We are also exploring the evidence on organisational behaviour and systems to tackle productivity issues, such as how we get health staff to procure more effectively and how we attract and retain health professionals.</li>
+	
+<li>From a cohort perspective, we are expanding our attention on <b>ageing.</b> For example, we are undertaking exciting work with the UK’s Centre for Ageing Better that looks at debiasing recruitment of older workers. This is an area that should also be of interest in Singapore in terms of how we can help our seniors continue to live productive and fulfilling lives in later life. More broadly, we are asking how we might shift from talking about ageing to talking about longevity.</li>
+	
+<li>Adjacent to health but very much associated with longer term wellbeing
+	is <b>food sustainability</b>. One of the lessons Singapore learned from COVID
+is how vulnerable we are to disruptions in the global food supply chain.
+The Singapore Food Agency has announced that as part of the Singapore 
+Green Plan 2030, Singapore will build up our agri-food industry’s capability 
+and capacity to sustainably produce 30% of our nutritional needs by
+2030. Behavioural Insights could help shape the design of incentives,
+markets, and platforms around this—from the food production angle and/or to raise consumer acceptance (e.g., of plant-based protein).	</li>
+	
+	
+	
+</ol>	
+
+<div class="note">
+<h6><b>NOTE</b></h6>
+<ol>
+	
+<li>See: <a href="https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K">https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K</a></li>	
+	
+</ol>	
+	
+	
+</div>
+
+</div>
+
+
+
+
+
 
 
 
