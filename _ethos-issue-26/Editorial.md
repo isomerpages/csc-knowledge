@@ -53,12 +53,15 @@ border-top: 1px solid black;
 
 
 
-<b>Dr Alvin Pang</b><br>
-Editor-in-Chief, ETHOS
+<p><b>Dr Alvin Pang</b><br>
+Editor-in-Chief, ETHOS</p>
+<i><b>with</b></i>
 
-<p><b>Dr Clive Tan</b></p>
-Guest Editor
+<p><b>Dr Clive Tan</b><br>
+Guest Editor</p>
 
+
+	
 	
 <br>
 <br>	
