@@ -225,29 +225,38 @@ markets, and platforms around this—from the food production angle and/or to ra
 
 
 
-
-
-
-
-
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
+<p><b>Dr Rory Gallagher</b> is the Behavioural Insights Team’s (BIT) Managing Director across Australia and the Asia-Pacific, and has been with BIT since its inception in 2010. Based in Sydney since 2012, Rory led the establishment of the New South Wales Department of Premier and Cabinet’s Behavioural Insights Unit—the first Australian agency dedicated to applying BI to public policy—as well as the development of the inaugural Behavioural Exchange Conference (BX2014 Sydney). Rory holds a PhD in health and behaviour change from Cambridge University and has been a Visiting Fellow with Singapore’s Civil Service College since 2014. Before joining BIT, Rory worked in the UK Prime Minister’s Strategy Unit and the UK Department of Education. He is the co-author of Think Small: The Surprisingly Simple Ways to Reach Big Goals (2017).</p>
+	
+	
+<p><b>Dr Serene Koh</b> heads BIT’s Singapore office and leads domestic consultancy work as well as capability building across the region. She has been with the Singapore office since it was founded in 2016. Before joining BIT, Serene was a researcher with the Ministry of Communications and Information, where she led the department’s work in behavioural and social research. Serene holds a Masters in Research Methodology and a PhD in Education from the University of Michigan.</p>	
+	
+	
 </div>
 
 
-<div class="notestop">
+<div class="notestop" id="notestop">
 <h6>NOTES</h6>
 <ol>
 	
-<li id="num1">See: “Digital Government Blueprint”, accessed January 6, 2023, <a target="_blank" href="https://www.tech.gov.sg/digital-government-blueprint/">https://www.tech.gov.sg/digital-government-blueprint/.</a></li>
+<li>Hal Herschfield, Your Future Self: How to Make Tomorrow Better Today (Little Brown Spark, 2023), <a href="https://www.halhershfield.com/yourfutureself">https://www.halhershfield.com/yourfutureself.</a></li>
 	
+<li>Tom Sasse and Sophie Metcalfe, “Sugar Tax”, Institute for Government, November 14, 2022, <a href="https://www.instituteforgovernment.org.uk/article/explainer/sugar-tax">https://www.instituteforgovernment.org.uk/article/explainer/sugar-tax</a>.
 	
-<li id="num2">For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, 
-<a target="_blank" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/">https://www.developer.tech.gov.sg/singapore-government-tech-stack/</a></li>
+</li><li>Michael Hallsworth, “The Soft Drinks Levy Is Working before It Has Even Been Applied”, The Behavioural Insights Team, November 11, 2016, <a href="https://www.bi.team/blogs/the-soft-drinks-levy-is-working-before-it-has-even-been-applied/">https://www.bi.team/blogs/the-soft-drinks-levy-is-working-before-it-has-even-been-applied/</a>.</li>
+
+<li>Lee Li Ying, “‘Siew Dai’ Could Be Default Option for Your Morning Kopi or Teh”, The Straits Times, September 27, 2023, <a href="https://www.straitstimes.com/singapore/siew-dai-could-be-default-option-for-your-morning-kopi-or-teh">https://www.straitstimes.com/singapore/siew-dai-could-be-default-option-for-your-morning-kopi-or-teh</a>.</li>
 	
+<li>Filippo B., Jovita L., Filip M., James, F., Abigail M., and Hugo H., “The Impact of Altering Restaurant and Menu Option Position on Food Selected from an Experimental Food Delivery Platform: A Randomised Controlled Trial”, The Behavioural Insights Team, May 19, 2023,<a href="https://www.bi.team/publications/the-impact-of-altering-restaurant-and-menu-option-position-on-food-selected-from-an-experimental-food-delivery-platform-a-randomised-controlled-trial/"> https://www.bi.team/publications/the-impact-of-altering-restaurant-and-menu-option-position-on-food-selected-from-an-experimental-food-delivery-platform-a-randomised-controlled-trial/</a>.</li>
 	
-<li id="num3">Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, <a target="_blank" href="https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
+<li>Healthy Eating Advisory Service, “Alfred Health—Sugary Drinks Trials”, March, 2023, https://heas. health.vic.gov.au/case-studies/alfred-health-sugary-drink-trials/.</li>
+	
+<li>Helen B., Jovita L., Giulia T., and Morgan G., “Beyond Tech: The Role of Behavioural Science in Digital Health Apps”, The Behavioural Insights Team, June 27, 2016, <a href="https://www.bi.team/blogs/beyond-tech-the-role-of-behavioural-science-in-digital-health-apps/">https://www.bi.team/blogs/beyond-tech-the-role-of-behavioural-science-in-digital-health-apps/</a>.</li>
+	
+<li>Susan Jebb, “Knowledge, Nudge and Nanny: Opportunities to Improve the Nation's Diet”, March 17, 2015, <a href="https://www.ox.ac.uk/research/research-in-conversation/healthy-body-healthy-mind/susan-jebb">https://www.ox.ac.uk/research/research-in-conversation/healthy-body-healthy-mind/susan-jebb</a>.
+</li>	
+	
 </ol>	
 </div>
 
