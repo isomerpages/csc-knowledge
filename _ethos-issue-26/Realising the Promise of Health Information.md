@@ -100,7 +100,7 @@ all have different medical record systems. As a result, clinical investigations 
 </div>
 
 
-<div class="containerbox">
+
 	
 <h4>Regulatory shifts for a  
 new healthcare paradigm</h4>	
@@ -109,7 +109,19 @@ new healthcare paradigm</h4>
 	
 <p><b>1.</b> The Bill mandates that any licensed healthcare provider, whether public or private, must contribute selected patient health information into the NEHR. Any Singaporean, Permanent Resident or Long-Term Pass holder who is seen by a healthcare practitioner in any part of the Singapore healthcare system—be it a hospital, private clinic, dental clinic, dialysis centre or nursing home—will have a set of their health information entered into the national NEHR database. Correspondingly, healthcare providers will be able to access this key information when required to ensure patients receive holistic, seamless, safer and more informed care. The type of data to be contributed will be tailored depending on who the licensed providers are and what information is useful for care. We are also looking into whether other providers, such as retail pharmacies and home nursing services, could also contribute useful information. </p>	
 	
-<img src="/images/Ethos_Images/Ethos_Issue_26/medical-care-2.png">	
+<div class="containerbox">		
+	
+<h4>More comprehensive information for better medical care</h4>
+
+<p><b>The National Electronic Health Record (NEHR)</b> serves as a one-stop repository of key patient health information, so that our public and private healthcare providers can offer more informed, complete care.  NEHR helps ensure seamless care transitions are maintained, even as a patient moves across different care providers in Singapore’s healthcare system.</p>
+
+<p>Take the example of an elderly patient, Mr X:</p>
+
+<p>Mr X, who has suffered a fall, hitting his head and hurting his knees, is admitted to hospital. Upon admission, he feels dizzy and cannot respond clearly to doctors’ questions about whether he has any prior medical conditions or drug allergies. So Mr X’s doctors decide to check his NEHR entry, which has <b>documented the relevant information from previous visits</b> to his GP as well as past admissions to hospital, to help them determine the proper care he should be given.</p>
+
+<p>After a few days, Mr X is well and is discharged. He must continue rehabilitation, as well as receive home medical services from his GP for his wounds. To provide <b>better follow-up care</b> for Mr X, his care providers access the NEHR to better understand his hospitalisation episode. It has a record of his hospital discharge summary, which includes helpful information such as the radiological tests performed and medications prescribed.</p>
+
+</div>	
 	
 	
 <p><b>2.</b> The Bill facilitates the sharing of certain patient health information among MOH, speciﬁc care providers and partners for approved purposes such as ensuring seamless continuity of care, enabling assessment of eligibility for ﬁnancial schemes and reaching out to residents for national healthcare programmes such as Healthier SG.</p>		
@@ -127,7 +139,7 @@ providers will be required to put in place appropriate cybersecurity measures to
 <img src="/images/Ethos_Images/Ethos_Issue_26/newtwo.png">		
 	
 	
-</div>	
+
 
 
 <h3>Getting ready for the bill</h3>
