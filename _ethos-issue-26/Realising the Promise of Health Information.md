@@ -136,7 +136,31 @@ providers will be required to put in place appropriate cybersecurity measures to
 <p>The existing ethical code for all doctors states that disclosure of medical information without patient consent is acceptable in a medical emergency where patients are unable to provide consent, if the doctor deems that the actions taken is in the patient's best interest. To this end, the Bill will contain a <b>safeguard</b> where a doctor may initiate ‘emergency access’ to a patient’s NEHR. The doctor will have to professionally justify the need for such access, and may be subject to penalties if this is later found to be unjustiﬁed.</p>	
 	
 	
-<img src="/images/Ethos_Images/Ethos_Issue_26/newtwo.png">		
+<div class="containerbox">		
+	
+<h4>Assuring the security of patient data in clinics
+</h4>
+
+<p>Since medical clinics can access patient records through NEHR, they need to have safeguards in managing this sensitive data.</p>
+
+<p>To illustrate, say we have a family doctor’s Clinic Z:</p>
+
+<p>Clinic Z understands that its <b>employees serve as the ﬁrst line of defence</b> in data security, and can also be the weak link. The clinic ensures that its employees undergo periodic cyber and data security awareness training. This is supported by publicly available cybersecurity toolkits from the Cyber Security Agency of Singapore (CSA)’s website. The clinic’s employees can stay up-to-date on the latest security best practices and behaviours, through self-learning materials on basic cyber and data security hygiene practices, structured training conducted by external vendors, and internal simulated phishing exercises.</p>
+	
+<p>Clinic Z also uses a Clinic Management System (CMS) to support their patient care. It ensures, through the IT vendors it employs, that the CMS includes <b>appropriate technical measures</b> to protect the sensitive patient data on record. Such measures include anti-malware scans, appropriate ﬁrewalls and audit logs.</p>
+	
+<p>Like many offices, Clinic Z uses various IT assets such as desktops, laptops, or mobile devices in their day-to-day operations. The clinic keeps an <b>up-to-date inventory of all IT assets.</b> This helps it to track what needs to be protected, including all hardware, software and connected medical devices, and where these assets are at all times.</p>
+
+<p>Clinic Z has also developed and implemented <b>policies and processes</b> to ensure that access to relevant patient data is regulated and only accorded to the staff who needs access for their work, depending on their role in the clinic.</p>
+
+<p>Nonetheless, clinic Z acknowledges that cyber attacks and data loss is a matter of when and not if it happens. As such, Clinic Z establishes a proper <b>cyber and data incident response plan</b> to clarify how it will mitigate the impact of an incident, recover from it quickly and ensure business-critical services     can continue, so that patient care is not compromised.</p>
+	
+	
+
+</div>	
+
+
+
 	
 	
 
