@@ -2,6 +2,7 @@
 title: Building an Age-Inclusive Healthcare System in Singapore
 permalink: /ethos-issue-26/building-an-age-inclusive-healthcare-system-in-singapore/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -109,33 +110,59 @@ color: white;
 
 	
 </style>
-<em><small>ETHOS Issue 26, Dec 2023</small></em>
+<em><small>ETHOS Issue 26, Nov 2023</small></em>
 <div class="background-image">
 <img src="">
 </div>
 
-<h3>Title</h3>
+<h3>Introduction</h3>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+<p>The COVID-19 crisis has thrown into sharp relief the importance of having a resilient and adaptable healthcare system. Among the trends that will profoundly shape the future of healthcare in Singapore is the rapid ageing of the population. Going by projections, the country is on track to join the ranks of super-aged societies by 2030. In 2019, 14.4% of the population was aged 65 and above. By 2030, this figure is anticipated to rise to 25%.<sup>1</sup></p>
 
-<p>Under Future of Work, we are leveraging data, and data analytics, to relook at how the public sector should be working in the future, including how public officers interact with, ﬁeld enquiries from, and work alongside citizens. The pandemic has changed how we work; it has made us realise that a lot of what we do can be digitalised and carried out online for an enhanced experience.</p>
+<p>The Singapore Government has received international plaudits for its proactive approach in preparing for an ageing population.<sup>2</sup> The groundwork for these preparations can be traced back to the 1980s when the Committee on the Problems of the Aged was formed.<sup>3</sup> Several more committees and initiatives have since been established as part of a nationwide blueprint to enhance the wellbeing of Singaporeans as they age. The recently introduced Healthier SG strategy marks a paradigm shift towards preventive care, underscoring the government’s commitment to building a more sustainable healthcare system.</p>
 
-
-
-<div class="break">
-<p class="break1">"Content for breaking"</p>
-</div>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-
-
-
-
+<p>While Singapore is ahead of the curve in terms of preparations for an ageing population, efforts should also be directed at harnessing its benefits through large systemic shifts. We propose four strategies to cultivate a more age-inclusive healthcare model:  (1) demedicalising ageing, (2) reframing ageing, (3) designing ‘grey jobs’ and (4) activating older adults in policy implementation.</p>
 
 
 <div class="break">
-<p class="break1">Content for breaking</p>
+<p class="break1">"Demedicalising 
+ageing will facilitate a 
+more holistic approach 
+to healthcare for 
+older adults."</p>
 </div>
+
+
+<h3>Demedicalising Ageing</h3>
+
+<p>A crucial step to make the healthcare model more age-inclusive is to demedicalise the ageing process. For far too long, ageing has been unfairly stigmatised as an ailment that needs curing rather than a natural part of life.<sup>4</sup> Demedicalising ageing will facilitate a more holistic approach to healthcare for older adults. Instead of focusing merely on treating age-related conditions, healthcare providers can encourage older patients to adopt preventive measures in order to stay healthier for longer.</p>
+
+<p>Importantly, healthcare providers and policymakers must be vigilant in their communication strategies when implementing initiatives aimed at the older populace. The way policies are framed and conveyed can measurably affect public perceptions of old age.</p>
+
+<p>An illustrative example of the importance of careful policy implementation is seen in the launch of the Pioneer Generation Package in 2014. Even though the package was introduced with the intention of supporting older Singaporeans, it may have unfortunately worsened the medicalisation of ageing by reinforcing perceptions of later life as a period of decrepitude.<sup>5</sup> This emphasises the need for policymakers to be cognisant of the repercussions of well-intentioned policies, and to strive towards developing  greater age inclusivity.</p>
+
+
+<h3>Reframing Ageing</h3>
+
+<p>A fundamental shift in how ageing is viewed is needed. Gerontologists have discovered that negative age stereotypes proliferate in a sea of domains, including mainstream media like television programmes<sup>6</sup> and movies,<sup>7</sup> as well as social media platforms like Twitter<sup>8</sup> and TikTok,<sup>9</sup> among others. The movement to combat ageism—stereotyping, discrimination and prejudice on the grounds of age—is slowly gathering pace in developed countries like the United States. However, the issue remains very much under the radar in Singapore. Contrary to folk wisdom, ageism is as much of a problem in Asia as it is in the Western world;<sup>10</sup> evidence of this has also come to light in the Singapore context.<sup>11</sup></p>
+
+<div class="break">
+<p class="break1">Reframing 
+ageing does not 
+mean denying the 
+challenges posed 
+by an ageing 
+population, but 
+rather adopting 
+a more balanced 
+perspective that 
+considers potential 
+opportunities.</p>
+</div>
+
+<p>Research on the theory of stereotype embodiment indicates that the internalisation of negative age stereotypes into one’s self-concept is associated with adverse health outcomes such as a reduced sense of self-efficacy and a higher risk of depression.12 On the flipside, positive age stereotypes are linked to favourable health outcomes such as increased longevity and better functional health. This means that reframing ageing can be a powerful tool in promoting preventive care and healthy ageing.</p>
+
+
 
 
 
