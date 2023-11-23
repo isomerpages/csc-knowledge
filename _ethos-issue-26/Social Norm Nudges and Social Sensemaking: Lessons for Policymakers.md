@@ -64,12 +64,12 @@ color: white;
 	
 #icons-text td
 {
-	font-size: 15px;
+	font-size: 16px;
 }
 
 .top img 
 {
-      width: 25%;
+ width: 25%;
 }
 
 .screen
@@ -96,6 +96,8 @@ margin-top: 50px;
 {
 color: white;
 }		
+	
+
 	
 	
 	
