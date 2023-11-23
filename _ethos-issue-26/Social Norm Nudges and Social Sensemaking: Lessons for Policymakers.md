@@ -247,7 +247,7 @@ padding: 30px;
 <p>Based on the results of this study, respondents engaged in some degree of social sensemaking, but it was not consistent across all scenarios. They only thought sporadically about the government’s intentions, other people’s decisions, and if they were concerned about how the government and other people would perceive their decisions. In addition, these factors  seemed to have only a small effect on people’s decision-making. Hence, there may be little practical value for policymakers to specifically target social sensemaking for behavioural change. It is worth noting that the online environment of the study could have contributed to the small effect of social sensemaking as respondents made decisions in their own environment alone. Social sensemaking may have a greater impact in a physical environment where decisions are more public and hence people might be more concerned about what others think of their choices. </p>
 
 <div class="break">
-<p class="break1">Social sensemaking may have a greater impact in a physical environment where decisions aremore public."</p>
+<p class="break1">Social sensemaking may have a greater impact in a physical environment where decisions are more public.</p>
 </div>
 
 
