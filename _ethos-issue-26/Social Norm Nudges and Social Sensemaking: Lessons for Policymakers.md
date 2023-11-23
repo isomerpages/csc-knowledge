@@ -212,7 +212,7 @@ color: white;
 </p><p>A social norm nudge was added to all treatment letters.</p>	
 
 <figure>	
-<img src="/images/Ethos_Images/Ethos_Issue_26/dohoangvankhanh.jpg">	
+<img src="/images/Ethos_Images/Ethos_Issue_26/DoHoangVanKhanh.jpg">
 <figcaption>Figure 1. Example of Control and Treatment Message </figcaption>
 </figure>	
 	
