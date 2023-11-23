@@ -90,9 +90,9 @@ line-height:22px;
 
 <div class="containerbox">	
 	
-<h4 style="color: white;">TOWARDS A POSITIVE CITY LAB</h4>	
+<p style="color: white;font-weight:bold; font-size:25px;">TOWARDS A POSITIVE CITY LAB	
 
-<p>Our lab's research encompasses three domains:</p> 	
+</p><p>Our lab's research encompasses three domains:</p> 	
 	
 <table>
 <tbody>
