@@ -52,16 +52,35 @@ border-top: 1px solid black;
 <p>We wish you an inspiring and illuminating read. </p>
 
 
+<table>
+<tbody><tr>
 
-<p><b>Dr Alvin Pang</b><br>
-Editor-in-Chief, ETHOS</p>
-<i><b>with</b></i>
+<td>	
+<p><b>Dr Alvin Pang </b><br>
+</p></td>	
 
+<td>	
 <p><b>Dr Clive Tan</b><br>
-Guest Editor</p>
-
-
+</p></td>		
 	
+
+</tr>	
+	
+<tr>	
+<td>	
+Editor-in-Chief, ETHOS
+</td>
+
+<td>	
+Guest Editor	
+	</td>
+	
+</tr>
+
+
+
+</tbody></table>	
+
 	
 <br>
 <br>	
