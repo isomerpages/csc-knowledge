@@ -52,6 +52,8 @@ border-top: 1px solid black;
 <p>We wish you an inspiring and illuminating read. </p>
 
 
+<br>
+
 <table>
 <tbody><tr>
 
