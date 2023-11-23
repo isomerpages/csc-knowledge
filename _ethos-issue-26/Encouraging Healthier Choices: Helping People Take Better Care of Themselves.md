@@ -98,7 +98,7 @@ background-color: #BEE0BB;
 <p>However, we cannot rely solely on individuals and conversations with doctors to turn the tide. If we want to support preventive approaches and help people to live more healthily, behavioural science shows that we need to pull a number of systemic levers to change the environments in which people make these decisions. </p>
 
 <div class="break">
-<p class="break1">"Behavioural science shows that we need to pull a number of systemic levers to change the environments in which people make decisions."</p>
+<p class="break1">Behavioural science shows that we need to pull a number of systemic levers to change the environments in which people make decisions.</p>
 </div>
 
 <h3>Nudging upstream as well as downstream</h3>
