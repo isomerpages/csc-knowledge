@@ -82,7 +82,7 @@ SYSTEM TODAY?</h3>
 
 
 <div class="break">
-<p class="break1">"Many healthcare needs can in fact be met well and cost-effectively at the primary care level"</p>
+<p class="break1">Many healthcare needs can in fact be met well and cost-effectively at the primary care level.</p>
 </div>
 
 <p>Another factor is the change in societal expectations. In the past, patients hardly ever saw specialists; the polyclinics handled conditions that today would be referred to a hospital or a specialist. The quality of medical care was just as good—but today, patients have different perceptions of what the healthcare system can deliver. Indeed, in the past GPs used to carry out routine procedures, such as childhood vaccinations, that today are often done by specialist paediatricians. Over time, GPs can feel that there is no longer demand for them to provide these services. GPs are generalists. If they lose some part of their clinical practice because of lack of demand, they can go into other areas to survive. The fear is that they might then lose touch with important skills or lack the confidence in these aspects of care, even though it is part of their medical training.</p>
