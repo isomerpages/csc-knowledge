@@ -123,13 +123,8 @@ color: white;
 
 <p>While Singapore is ahead of the curve in terms of preparations for an ageing population, efforts should also be directed at harnessing its benefits through large systemic shifts. We propose four strategies to cultivate a more age-inclusive healthcare model:  (1) demedicalising ageing, (2) reframing ageing, (3) designing ‘grey jobs’ and (4) activating older adults in policy implementation.</p>
 
-
 <div class="break">
-<p class="break1">"Demedicalising 
-ageing will facilitate a 
-more holistic approach 
-to healthcare for 
-older adults."</p>
+<p class="break1">Demedicalising ageing will facilitate a more holistic approach to healthcare for older adults.</p>
 </div>
 
 
@@ -172,7 +167,7 @@ opportunities.</p>
 <p>As the population ages, it becomes increasingly important to cater to the unique needs of older adults through specialised healthcare interventions. This presents an excellent opportunity to expand and create more ‘grey jobs’ in the healthcare sector. These are jobs that provide specialised care, support and services to older adults, ensuring their wellbeing and enhancing their quality of life.</p>
 
 <div class="break">
-<p class="break1">"Rather than fixate on the limitations of older adults, healthcare providers can pay attention to their strengths and abilities."</p>
+<p class="break1">Rather than fixate on the limitations of older adults, healthcare providers can pay attention to their strengths and abilities.</p>
 </div>
 
 <p>Among potential grey jobs are eldercare navigators, who can assist older adults and their families in manoeuvring the complex healthcare system. These navigators can help them access relevant services and understand available resources to ensure a more efficient healthcare experience. Elder-specific technology advisors can offer older adults guidance on adopting and utilising various digital health technologies. Elder health educators can focus on promoting preventive care among older adults. Specifically, they can educate both older adults and caregivers on age-related health conditions, lifestyle modifications and strategies to maintain optimal health.</p>
@@ -180,10 +175,10 @@ opportunities.</p>
 <p>Increasing the number of geriatric care specialists, eldercare counsellors and home aides are also paramount to ensure older adults receive the specialised care and support that they need. By creating and ramping up these grey jobs, the healthcare sector will be well poised to meet the needs of an ageing population.</p>
 
 <div class="break">
-<p class="break1">"Engaging older adults in decision-making 
+<p class="break1">Engaging older adults in decision-making 
 processes ensures 
 that healthcare policies  can be better aligned with the needs and 
-preferences of a diverse older population."</p>
+preferences of a diverse older population.</p>
 </div>
 
 
@@ -200,11 +195,11 @@ Policy Implementation</h3>
 
 
 <div class="break">
-<p class="break1">"Healthcare providers should actively engage older adults in the co-design of healthcare services and programmes."</p>
+<p class="break1">Healthcare providers should actively engage older adults in the co-design of healthcare services and programmes.</p>
 </div>
 
 
-<h3>Conclusions</h3>
+<h3>Conclusion</h3>
 
 <p>In order that its world-class healthcare system continues to flourish, Singapore needs to capitalise on its ageing population. The four strategies delineated above pave the way for a more inclusive and sustainable healthcare landscape. However, Singapore's journey towards building an age-inclusive healthcare system is but just one facet of a broader cultural transformation necessary for reframing ageing. </p>
 
@@ -214,7 +209,7 @@ Policy Implementation</h3>
 
 <div class="author">
 	
-<h6>ABOUT THE AUTHOR</h6>	
+<h6>ABOUT THE AUTHORS</h6>	
 
 <p><b>Reuben Ng</b> is Assistant Professor at the Lee Kuan Yew School of Public Policy and Lead Scientist at the Lloyd's Register Foundation Institute for the Public Understanding of Risk. He is a 2023–24 Harkness Fellow in Health Care Policy and Practice, serving as the inaugural Singaporean fellow and the first from Asia since the inception of the programme in 1925. A behavioural and data scientist, Ng spent 16 years in government, consulting and research. In government, he was in the Prime Minister’s Office driving evidence-based policymaking through data analytics and Smart Nation strategies. In consulting, he co-built the advanced analytics practice and implemented complex analytics capabilities across the healthcare value chain. He is an expert in ageism, social gerontology and quantitative social sciences, and has been credited with creating innovative techniques to measure health narratives that are applied to strategic policy communications. He is the first Singaporean and Oxonian to win the International Fulbright Science and Technology Award and was ranked in the top two percent of scientists globally by Stanford in 2022.
 	He can be contacted at <a href="https://lkyspp.nus.edu.sg/our-people/faculty/reuben-ng">https://lkyspp.nus.edu.sg/our-people/faculty/reuben-ng</a>.
