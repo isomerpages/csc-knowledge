@@ -33,7 +33,7 @@ variant: markdown
 .containerbox
 {
 background-color: #2BBFB3;
-padding:20px;	
+padding:30px;	
 color: white;
 border-radius:20px;
 }
@@ -120,7 +120,7 @@ background-color: orange;
 	
 <div class="containerbox">	
 	
-<h4>Letting Beneficiaries Choose Their Desired Contracted Outcomes</h4>	
+<p style="color:white;font-weight:bold;font-size:25px;">Letting Beneficiaries Choose Their Desired Contracted Outcomes</p>	
 	
 <p>An impact bond in Greater Manchester, in the UK, sought to prevent homelessness among high-risk young people. The associated contract had two fixed outcomes, with a unit price attached for each, as well as three more variable outcomes—A, B and C—each also with a price attached. The young person themselves decide what those outcomes are. From a menu of options, they choose the three that are important to them, and how to prioritise them.</p> 
 	
@@ -181,9 +181,9 @@ performance managed.</p>
 	
 <div class="containerbox">	
 	
-<h4 style="color:white;">Success Determined by Those Who Live It</h4>	
+<p style="color:white;font-weight:bold;font-size:25px;">Success Determined by Those Who Live It	
 	
-<p>HBGI has a very active Lived Experience Council—a group of people with intimate lived experience of poor mental health—whom we seek input from each time we reach a relevant touchpoint. </p> 
+</p><p>HBGI has a very active Lived Experience Council—a group of people with intimate lived experience of poor mental health—whom we seek input from each time we reach a relevant touchpoint. </p> 
 
 <p>Likewise, we are about to start a project with YMCA Global, where we will spend 18 months training a group of young people to speak to other young people, to ask: <em>What is concerning you right now and what would be a meaningful outcome</em>? These findings can then be used to inform future definitions of success as young people see it.</p>
 
