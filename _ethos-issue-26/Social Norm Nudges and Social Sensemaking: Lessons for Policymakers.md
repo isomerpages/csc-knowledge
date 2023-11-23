@@ -58,9 +58,13 @@ line-height:22px;
 background-color:	#A83E4E;
 padding: 50px;
 color: white;
+margin-top: 30px;	
 }
 	
-
+.description
+{
+ 	
+}
 	
 #icons-text td
 {
