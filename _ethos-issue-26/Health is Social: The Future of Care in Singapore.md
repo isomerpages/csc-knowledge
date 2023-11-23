@@ -123,6 +123,14 @@ margin-top: 30px;
 color: black;
 }
 
+.containerbox2 table 
+	
+{
+      border-collapse:separate; 
+      border-spacing: 0 1.2em;
+    }	
+	
+	
 	
 </style>
 
@@ -218,7 +226,7 @@ color: black;
 	
 <tr>
 <th colspan="3">	
-<h4>According to the Ministry of Health (MOH):</h4>	
+<p style="color:white; font-size:25px; font-weight: bold;text-align:center;">According to the Ministry of Health (MOH):</p>	
 </th>	
 </tr>	
 	
@@ -255,7 +263,7 @@ color: black;
 	
 <tr>
 <th colspan="2">	
-<h4>According to the National Healthcare Group (NHG):</h4>	
+<p style="color:white; font-size:25px; font-weight: bold;text-align:center;">According to the National Healthcare Group (NHG):</p>	
 </th>	
 </tr>	
 	
@@ -270,7 +278,7 @@ color: black;
 	
 <tr>
 <th colspan="2">	
-<h4>According to a Department of Statistics Population Census Report:</h4>	
+<p style="color:white; font-size:25px; font-weight: bold;text-align:center;">According to a Department of Statistics Population Census Report:</p>	
 </th>	
 </tr>	
 	
@@ -301,7 +309,7 @@ color: black;
 
 <div class="containerbox">
 
-<h4>Building a Community of Care: Madam Amy's Story</h4>	
+<h4><b>Building a Community of Care: Madam Amy's Story</b></h4>	
 <p style="color: #9E4579; text-align: center;">by Karthikeyan J.R, CEO, Asian Women's Welfacre Association (AWWA)</p>
 	
 <p>Amid the landscape of an ageing population within the Ang Mo Kio vicinity, the collaborative efforts of healthcare institutions and social service agencies are critical in providing holistic care for seniors. With this shared aspiration in mind, AWWA, Tan Tock Seng Hospital (TTSH), National Healthcare Group Polyclinics (NHGP), the Agency for Integrated Care-Silver Generation Office (AIC-SGO), and PanCare Medical Clinic came together to actualise it with Community of Care (CoC). 
@@ -360,7 +368,7 @@ By bringing together national and social agencies, family doctors, community hea
 </figcaption>	
 </figure>	
 	
-<h3> BUILDING DIGITAL HEALTH COMMUNITIES</h3>
+<h3>BUILDING DIGITAL HEALTH COMMUNITIES</h3>
 
 <p>Alongside the academy, a digital sandbox called the Digital CoC Playground has been set up to facilitate collaborations, specifically on digital solutions that will more easily engage and activate residents to adopt healthy behaviour. These innovative solutions will be introduced and tested in real-world settings and, where appropriate, be scaled up to keep residents healthy and engaged.</p>
 	
