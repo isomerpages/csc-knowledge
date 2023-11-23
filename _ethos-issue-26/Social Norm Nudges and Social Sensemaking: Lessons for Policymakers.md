@@ -301,14 +301,14 @@ color: white;
 <h6>NOTES</h6>
 <ol>
 	
-<li id="num1">J. M. T. Krijnen, D. Tannenbaum, and C. R. Fox, “Choice Architecture 2.0: Behavioral Policy as an Implicit Social Interaction”, <em>Behavioral Science &amp; Policy</em> 3, no. 2 (2017): 1–18, <a href="https://www.google.com/search?q=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;oq=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;aqs=chr">https://www.google.com/search?q=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;oq=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;aqs=chr ome..69i57.598j0j7&amp;sourceid=chrome&amp;ie=UTF-8.
+<li>J. M. T. Krijnen, D. Tannenbaum, and C. R. Fox, “Choice Architecture 2.0: Behavioral Policy as an Implicit Social Interaction”, <em>Behavioral Science &amp; Policy</em> 3, no. 2 (2017): 1–18, <a href="https://www.google.com/search?q=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;oq=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;aqs=chr">https://www.google.com/search?q=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;oq=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;aqs=chr ome..69i57.598j0j7&amp;sourceid=chrome&amp;ie=UTF-8.
 </a></li>
 	
 	
-<li id="num2">R. H.Thaler,  and C. R.  Sunstein, <em>Nudge: Improving Decisions about Health, Wealth, and Happiness</em> (New Haven, CT: Yale University Press, 2008).</li>
+<li>R. H.Thaler,  and C. R.  Sunstein, <em>Nudge: Improving Decisions about Health, Wealth, and Happiness</em> (New Haven, CT: Yale University Press, 2008).</li>
 	
 	
-<li id="num3">The treatment message used for scenario 3 was different than those of other scenarios. Specifically, the messages for other scenarios added a social norm nudge on top of the message used in the control message, but scenario's 3 treatment message only included a social norm alone. Thus, the results of scenario 3 is not comparable to other scenarios.</li>
+<li>The treatment message used for scenario 3 was different than those of other scenarios. Specifically, the messages for other scenarios added a social norm nudge on top of the message used in the control message, but scenario's 3 treatment message only included a social norm alone. Thus, the results of scenario 3 is not comparable to other scenarios.</li>
 </ol>	
 </div>
 
