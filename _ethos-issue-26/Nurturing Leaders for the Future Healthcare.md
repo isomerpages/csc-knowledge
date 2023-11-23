@@ -53,6 +53,13 @@ font-size: 15px;
 line-height:22px;
 }		
 
+.containerbox
+{
+	margin-top: 30px;
+	background-color: #78CDD1;
+	padding: 20px;
+	color: white;
+}
 
 
 	
@@ -61,10 +68,45 @@ line-height:22px;
 	
 	
 </style>
+
+
 <em><small>ETHOS Issue 26, Nov 2023</small></em>
 <div class="background-image">
 <img src="">
 </div>
+
+
+<div class="containerbox">
+
+<h4>The Healthcare Leadership College Story</h4>	
+	
+<p>Singapore’s healthcare system has undergone rapid and massive change over the past few decades to meet the challenges of an ageing population and increasing complexity in healthcare delivery.  In the past 20 years, we have seen major restructuring of the public healthcare clusters and institutions. Two new medical schools have been set up and nursing and allied health education pathways and career options have been greatly expanded. Huge investments have been made in research, new technologies and digital capabilities. Most recently, we have seen the launch of Healthier SG as a major strategic push towards preventive health and upstream intervention.</p>	
+	
+<p>In 2010, Ms Yong Ying-I, then Permanent Secretary (Health), saw the need for healthcare leaders to “think across” healthcare clusters, systems and professions and also “think ahead” in anticipation of new challenges in healthcare on the national front. With the healthcare clusters reaching out to their respective communities and healthcare services in private and voluntary welfare sectors, it was recognised that at a national level there was also a need to build bridges and develop leadership capabilities on a wider scale, both within professional groups and across clusters.  This led to the establishment of the Healthcare Leadership College (HLC) in 2012 to lead efforts in nurturing and developing healthcare leaders for the nation.</p>
+	
+	
+<p>HLC’s mission is to support the building of strong leadership capacity and capabilities for our national healthcare system, in line with the Ministry of Health’s vision and strategic priorities. We aspire to be a keystone and trusted partner in developing leaders of and for Singapore healthcare, and in building bridges and growing community across agencies, clusters, institutions and professions in the Singapore healthcare ecosystem.</p>
+	
+<p>Our goal is to bring leaders together from across the healthcare sector, to sensitise them to key national issues and strategic priorities, so that they would not focus only on their specialised clinical knowledge or their own institutional agendas. Over the past decade, we have sought to bridge the healthcare clusters which had been developing separately: the different professions—doctors, nurses, allied health professionals, administrators and so on—as well as the different sectors involved in health and social care—including the acute care, primary care, long-term care, and people sectors.</p>
+
+	
+<p>HLC designs and delivers a suite of milestone programmes, continuing development programmes, and other learning and engagement platforms. We also publish a quarterly newsletter, Leading Healthcare,<sup>1</sup> which aims to connect with and inspire leaders in healthcare.</p>	
+		
+<div class="notestop">
+<h6>NOTES</h6>
+<ol>
+	
+<li id="num1">See  <a href="https://www.hlc.mohh.com.sg/resources/news-letter">https://www.hlc.mohh.com.sg/resources/news-letter.</a></li>
+	
+</ol>	
+	
+</div>	
+	
+</div>	
+
+
+
+
 
 <h3>Title</h3>
 
