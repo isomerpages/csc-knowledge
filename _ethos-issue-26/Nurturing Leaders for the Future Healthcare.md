@@ -94,7 +94,7 @@ padding: 20px;
 <p>Our goal is to bring leaders together from across the healthcare sector, to sensitise them to key national issues and strategic priorities, so that they would not focus only on their specialised clinical knowledge or their own institutional agendas. Over the past decade, we have sought to bridge the healthcare clusters which had been developing separately: the different professions—doctors, nurses, allied health professionals, administrators and so on—as well as the different sectors involved in health and social care—including the acute care, primary care, long-term care, and people sectors.</p>
 
 	
-<p>HLC designs and delivers a suite of milestone programmes, continuing development programmes, and other learning and engagement platforms. We also publish a quarterly newsletter, Leading Healthcare,<sup>1</sup> which aims to connect with and inspire leaders in healthcare.</p>	
+<p>HLC designs and delivers a suite of milestone programmes, continuing development programmes, and other learning and engagement platforms. We also publish a quarterly newsletter, Leading Healthcare,<sup><a href="#notestop">1</a></sup> which aims to connect with and inspire leaders in healthcare.</p>	
 		
 <div class="notestop">
 <h6>NOTES</h6>
@@ -110,7 +110,7 @@ padding: 20px;
 
 <h3>Developing new Competencies, Capabilities and Cultures to support Healthier SG and Singapore’s healthcare transformation</h3>
 
-<p>Healthier SG, the new national health initiative, builds on earlier shifts to meet Singapore’s healthcare needs in a sustainable manner.  A central pillar of the Healthier SG strategy is the role of primary care practitioners, working closely and jointly with the clusters, polyclinics, hospitals, specialists, and allied health professionals, to holistically support the health and care needs of Singaporeans.  The call for strong healthcare leadership is all the more important as we recognise the complexities of healthcare and the major structural and mindset changes that are required throughout our healthcare organisations and institutions, healthcare policies and frameworks, and the ways that healthcare professionals work and organise themselves. </p>
+<p>Healthier SG, the new national health initiative, builds on earlier shifts to meet Singapore’s healthcare needs in a sustainable manner. A central pillar of the Healthier SG strategy is the role of primary care practitioners, working closely and jointly with the clusters, polyclinics, hospitals, specialists, and allied health professionals, to holistically support the health and care needs of Singaporeans.  The call for strong healthcare leadership is all the more important as we recognise the complexities of healthcare and the major structural and mindset changes that are required throughout our healthcare organisations and institutions, healthcare policies and frameworks, and the ways that healthcare professionals work and organise themselves. </p>
 
 <div class="healthcare-leadership">
 
