@@ -133,7 +133,7 @@ color: black;
 <img src="">
 
 <p>In his latest Netflix documentary 
-“Live to 100”, author and longevity expert Dan Buettner added Singapore as a sixth ‘Blue Zone’: a region in the world with residents who are known to live long and healthy lives. In his 2020 master class at the Global Wellness Summit,1 Buettner had argued that “the big epiphany of all these Blue Zones is that long-lasting health is very rarely successfully pursued; it ensues”. It is not genetics or willpower that boosts longevity in Blue Zones. It is a lifestyle. Then came Singapore, a Blue Zone that has been engineered, instead of emerging organically like the first five.</p>
+“Live to 100”, author and longevity expert Dan Buettner added Singapore as a sixth ‘Blue Zone’: a region in the world with residents who are known to live long and healthy lives. In his 2020 master class at the Global Wellness Summit,<sup>1</sup> Buettner had argued that “the big epiphany of all these Blue Zones is that long-lasting health is very rarely successfully pursued; it ensues”. It is not genetics or willpower that boosts longevity in Blue Zones. It is a lifestyle. Then came Singapore, a Blue Zone that has been engineered, instead of emerging organically like the first five.</p>
 
 <p>Singapore’s life expectancy at birth has been increasing and the number of centenarians has more than doubled from 700 in 2010 to 1,500 in 2020. Its healthy longevity has come from its history, culture and tradition. It has been brought about over time because of its excellent access to healthy food, good healthcare, excellent public infrastructure and social practices that mitigate loneliness, such as intergenerational gatherings. In his documentary, Buettner cited Kampung Admiralty as a feat of engineered health: it houses an indoor park, amenities, apartments, healthcare facilities, and eldercare and preschool centres next to each other. </p>
 
@@ -225,7 +225,7 @@ color: black;
 <tr>	
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/asset%208-8.png"></td>	
 
-<td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population</td>		
+<td>In 2019, the number of elderly living alone increased to <span class="number">67,600</span>, up from 47,000 in 2016. This increase represents <span class="number">11.9%</span> of our elderly population.</td>		
 	
 </tr>	
 	
@@ -313,7 +313,7 @@ color: black;
 	
 <p>The community also rallied around Madam Amy, with neighbours and local shop owners keeping a lookout for her and her brother staying in close contact to ensure her wellbeing.</p>		
 	
-<p>The CoC model of collaborative care reflects a deep commitment to supporting seniors through strong partnerships so that they are empowered to take control of their health, thrive, and age well throughout their golden years. .</p>			
+<p>The CoC model of collaborative care reflects a deep commitment to supporting seniors through strong partnerships so that they are empowered to take control of their health, thrive, and age well throughout their golden years. </p>			
 	
 	
 <figure>	
@@ -335,7 +335,7 @@ By bringing together national and social agencies, family doctors, community hea
 	
 <div class="break">
 
-<p class="break1">"Our Residents own their health, not just as individuals but as communities."</p>
+<p class="break1">Our residents own their health, not just as individuals but as communities.</p>
 	
 </div>	
 	
@@ -356,7 +356,7 @@ By bringing together national and social agencies, family doctors, community hea
 </p><figure>	
 <img src="/images/Ethos_Images/Ethos_Issue_26/commpact.png">	
 <figcaption class="black">
-<b>Figure 1.</b> Diagram illustrating the four strategic programmes under the CHI Health &amp; Social Change Academy_
+<b>Figure 1.</b> Diagram illustrating the four strategic programmes under the CHI Health &amp; Social Change Academy.
 </figcaption>	
 </figure>	
 	
