@@ -186,4 +186,70 @@ While clinical excellence remains important, we also need to recognise other for
 
 <h3>Leadership for innovation in healthcare</h3>
 
+<p>Singapore has made major innovations in many areas of social and economic policy and practice over the past decades. In healthcare, the introduction of the MediSave scheme in 1983 was a singularly innovative and visionary move. It allowed the implementation of the key philosophy of emphasis on personal responsibility, for the purpose of carefully husbanding our limited healthcare resources and expenses, by supporting Singaporeans to save up in advance for their future healthcare expenses. The MediSave scheme has itself become a critical enabler allowing for further new innovations. Almost every major patient financing scheme that has been introduced in the intervening 40 years has been built upon MediSave, including MediShield Life, CareShield Life, and Medisave for the Chronic Disease Management Programme. </p>
+
+<p>Today, technological advances, e.g., in drug advancements, surgical techniques, use of robotics etc., are commonly cited as examples of innovation. One recent push has been for artificial intelligence and how it might be applied to medical practice. Beyond technological advances, innovation can also be seen in changes to processes and from different ways of working. For example, the introduction of systems such as the National Electronic Health Record will offer our practitioners, including primary care doctors, a greater wealth of information on patients that they previously could not access. This means that they do not have to spend time finding out these details of a patient’s medical history that are already in the broader healthcare system and can invest their time and energy into providing more targeted care. Another example of this is the way the healthcare system has recently freed up 7,000 inpatient beds a year through the mobile inpatient initiative, where patients receive hospital level care but not in hospitals themselves. This is a form of innovation through re-engineering processes.</p>
+
+<p>On a more radically innovative level that goes beyond continuous improvement to existing processes, Healthier SG—and more crucially, the larger mindset and strategy shift which it sits within, i.e., a pivot away from the traditional acute and specialist-centred healthcare model—may be one of the more transformative innovative answers for healthcare of the future.</p>
+
+<p>But when radical innovations come about, they can meet with resistance. It may disrupt some people’s routines. People can be uncomfortable about a new way of looking at a particular healthcare situation, and there may be detractors or regulatory hurdles to cross. </p>
+
+<p>Some doctors and healthcare  professionals are more receptive and open to applying new ways of working and technologies, particularly if these have strong and clear benefits to patients or the healthcare system. We can help shape the future by encouraging and nurturing this new generation of practitioners.</p>
+
+<div class="break">
+<p class="break1">"We need to develop communities of leaders like strong forests, providing mutual support and capable of weathering any storms collectively."</p>
+</div>
+
+<h3>Growing leaders for healthcare: the next lap</h3>
+
+<p>The current cohort of top healthcare leaders have built up strong trust and understanding with one another; many of them trained in the same medical school and practised in the same institutions. This trust and understanding has served us well through difficult situations such as SARS and the recent COVID-19 pandemic, where our healthcare colleagues had to rally together and work towards larger national objectives. </p>
+
+<p>As our healthcare system evolves and becomes increasingly diverse, our challenge is ensuring that the next generation of leaders, who have trained in separate medical schools and worked within their own clusters and institutions, will be able to share the same level of camaraderie and trust as today’s leaders, and collaborate well. </p>
+
+<p>We need to build up reservoirs of mutual trust, so that it will be there when called upon, not just for times of crisis, but even more so as the healthcare ecosystem becomes more complex and interdependent. Healthcare leaders will need to build strong bonds and networks: firstly across their professional and institutional boundaries, and secondly with partners from the community and different agencies. We need to offer people a common platform so that they have opportunities to get to know one another and develop a better appreciation of each other’s perspectives as well as a common understanding of Singapore’s challenges and priorities.</p>
+
+<p>In the last 10 years, HLC looked at developing leaders like strong trees—deeply rooted and sturdy. Today we need to develop communities of leaders like strong forests, providing mutual support and capable of weathering any storms collectively. The survival and healthy thriving of the forest ecosystem is dependent on not just one tree or one single species of tree, but the symbiotic interdependency and relationships between all the forest flora and fauna.  So too, we hope to see a strong, thriving and diverse healthcare ecosystem that continues to sustain the growth of new leaders. </p>
+
+
+
+
+<div class="author">
+<h6>ABOUT THE AUTHOR</h6>	
+<p><b>Professor Pang Weng Sun</b> is Dean of the Healthcare Leadership College, MOH Holdings. He has been Vice-Dean (Clinical Affairs) at the Lee Kong Chian School of Medicine since 2011, and has also held leadership positions in the National Healthcare Group, the Geriatric Education and Research Institute among other senior engagements in the medical field. Professor Pang has contributed geriatric expertise to many community services and worked with the Ministry of Health and various voluntary agencies in eldercare and palliative care. He was a recipient of the Healthcare Humanity Award in 2005. He continues clinical practice as a senior consultant geriatrician in Khoo Teck Puat Hospital and Yishun Community Hospital.</p>
+	
+	
+<p><b>Lee Shiao Wei</b> is Director at the Healthcare Leadership College, MOH Holdings. Prior to her current role, she was with the Ministry of Health and was heavily involved in the review and implementation of MediShield Life, the national healthcare insurance scheme. She has held various appointments in the Singapore Public Service. Shiao Wei counts her experiences in MOH, during the 2003 SARS crisis and the implementation of MediShield Life, as being among the most meaningful of her career to date. She is now energised and inspired by the work she does in the Healthcare Leadership College to grow future generations of public healthcare leaders for Singapore.</p>	
+	
+	
+	
+</div>
+
+
+<div class="notestop" id="notestop">
+<h6>NOTES</h6>
+<ol>
+<li>For this fable and other stories that further reflect this important leadership theme, see: <a href="https://www.hlc.mohh.com.sg/NewsLetters/leading-healthcare-issue-23.pdf">https://www.hlc.mohh.com.sg/NewsLetters/leading-healthcare-issue-23.pdf</a>.</li>
+
+</ol>	
+</div>
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>	
+</div>
+
+
+
+
+
+
 
