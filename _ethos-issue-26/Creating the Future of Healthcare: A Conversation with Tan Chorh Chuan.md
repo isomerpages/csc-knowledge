@@ -62,7 +62,7 @@ line-height:22px;
 .containerbox
 {
 background-color: #101F42;
-padding: 20px;
+padding: 30px;
 color: white;	
 }
 	
@@ -88,7 +88,7 @@ in advancing the future of healthcare in Singapore?</h3>
 
 <div class="containerbox">
 
-<h4 style="color: white;">WHY IT IS DIFFICULT TO SCALE UP IN A HEALTH SYSTEM</h4>	
+<p style="color: white; font-size:25px; font-weight:bold;">WHY IT IS DIFFICULT TO SCALE UP IN A HEALTH SYSTEM</p>	
 
 	
 <p>Healthcare innovations do not scale easily because many elements have to be brought together at the same time in order for them to be adopted widely. 
