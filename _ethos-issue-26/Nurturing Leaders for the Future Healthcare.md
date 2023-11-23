@@ -94,9 +94,9 @@ padding: 20px;
 <p>Our goal is to bring leaders together from across the healthcare sector, to sensitise them to key national issues and strategic priorities, so that they would not focus only on their specialised clinical knowledge or their own institutional agendas. Over the past decade, we have sought to bridge the healthcare clusters which had been developing separately: the different professions—doctors, nurses, allied health professionals, administrators and so on—as well as the different sectors involved in health and social care—including the acute care, primary care, long-term care, and people sectors.</p>
 
 	
-<p>HLC designs and delivers a suite of milestone programmes, continuing development programmes, and other learning and engagement platforms. We also publish a quarterly newsletter, Leading Healthcare,<sup><a href="#notestop">1</a></sup> which aims to connect with and inspire leaders in healthcare.</p>	
+<p>HLC designs and delivers a suite of milestone programmes, continuing development programmes, and other learning and engagement platforms. We also publish a quarterly newsletter, Leading Healthcare,<sup><a href="#notestop1">1</a></sup> which aims to connect with and inspire leaders in healthcare.</p>	
 		
-<div class="notestop">
+<div class="notestop" id="notestop1">
 <h6>NOTES</h6>
 <ol>
 	
@@ -177,7 +177,7 @@ While clinical excellence remains important, we also need to recognise other for
 
 <p>While collaboration is easy to talk about, it is not so easy to practise. Addressing personal barriers to collaboration is the first and best place we can intervene. We will have to step beyond our comfort zone in making the effort to invest in relationships and form diverse and open networks. It is hard to collaborate with someone you do not trust, you cannot trust someone you do not know, and you cannot know a person without interacting with them. The greater the human connectivity and trusted relationships, the higher the chance for successful collaboration. HLC is a bridge where those first connections are made, but leaders must continue to sustain those ties and continue to build up these relationships over time. These conditions are necessary in fostering a healthy culture of collaboration and collective leadership that spans clusters, institutions, and professions.</p>
 
-<p>There is a leadership fable about a farmer who grew prize-winning corn and how one of his practices was to share his prize-winning seed with his neighbours, as he realised that if his neighbours grew inferior corn, cross-pollination would eventually degrade the quality of his corn.1 Just like the farmer in this fable, in an interconnected and porous system, greater benefits are realised through generous sharing and collaboration. What we do impacts one another: if we want to do well, we must share our expertise and align our efforts.</p>
+<p>There is a leadership fable about a farmer who grew prize-winning corn and how one of his practices was to share his prize-winning seed with his neighbours, as he realised that if his neighbours grew inferior corn, cross-pollination would eventually degrade the quality of his corn.<sup><a href="#notestop">1</a></sup> Just like the farmer in this fable, in an interconnected and porous system, greater benefits are realised through generous sharing and collaboration. What we do impacts one another: if we want to do well, we must share our expertise and align our efforts.</p>
 
 
 <div class="break">
@@ -246,10 +246,3 @@ While clinical excellence remains important, we also need to recognise other for
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
-
-
-
-
-
-
