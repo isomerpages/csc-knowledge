@@ -207,7 +207,7 @@ markets, and platforms around this—from the food production angle and/or to ra
 <h6><b>NOTE</b></h6>
 <ol>
 	
-<li>See:<a href="https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K">https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K</a></li>	
+<li>See:<a href="https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K">https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K</a>.</li>	
 	
 </ol>	
 	
@@ -218,15 +218,17 @@ markets, and platforms around this—from the food production angle and/or to ra
 
 
 <div class="break">
-<p class="break1">"Personalisation does not automatically mean individualisation. People's decisions are often strongly shaped by their social context and group dynamics."</p>
+<p class="break1">Personalisation does not automatically mean individualisation. People's decisions are often strongly shaped by their social context and group dynamics.</p>
 </div>
 
 
-
+<p> As we approach a decade of applying behavioural insights in Singapore, behavioural tools become more critical than ever to help us make the right decisions in order to live healthier lives. But we should not limit ourselves to focusing on individual behaviours
+and mass campaigns: behavioural levers can help us redesign our health systems and environments, working closely with industry, regulators, GPs and communities whilst unlocking the potential of technology. And this should be done with an experimental,
+iterative and human-centred mindset. If we do this, we may better achieve the exciting ambitions set out in Healthier SG. </p>
 
 
 <div class="author">
-<h6>ABOUT THE AUTHOR</h6>	
+<h6>ABOUT THE AUTHORS</h6>	
 <p><b>Dr Rory Gallagher</b> is the Behavioural Insights Team’s (BIT) Managing Director across Australia and the Asia-Pacific, and has been with BIT since its inception in 2010. Based in Sydney since 2012, Rory led the establishment of the New South Wales Department of Premier and Cabinet’s Behavioural Insights Unit—the first Australian agency dedicated to applying BI to public policy—as well as the development of the inaugural Behavioural Exchange Conference (BX2014 Sydney). Rory holds a PhD in health and behaviour change from Cambridge University and has been a Visiting Fellow with Singapore’s Civil Service College since 2014. Before joining BIT, Rory worked in the UK Prime Minister’s Strategy Unit and the UK Department of Education. He is the co-author of Think Small: The Surprisingly Simple Ways to Reach Big Goals (2017).</p>
 	
 	
@@ -240,19 +242,19 @@ markets, and platforms around this—from the food production angle and/or to ra
 <h6>NOTES</h6>
 <ol>
 	
-<li>Hal Herschfield, Your Future Self: How to Make Tomorrow Better Today (Little Brown Spark, 2023), <a href="https://www.halhershfield.com/yourfutureself">https://www.halhershfield.com/yourfutureself.</a></li>
+<li>Hal Herschfield, <em>Your Future Self: How to Make Tomorrow Better Today</em> (Little Brown Spark, 2023), <a href="https://www.halhershfield.com/yourfutureself">https://www.halhershfield.com/yourfutureself.</a></li>
 	
-<li>Tom Sasse and Sophie Metcalfe, “Sugar Tax”, Institute for Government, November 14, 2022, <a href="https://www.instituteforgovernment.org.uk/article/explainer/sugar-tax">https://www.instituteforgovernment.org.uk/article/explainer/sugar-tax</a>.
+<li>Tom Sasse and Sophie Metcalfe, “Sugar Tax”, <em>Institute for Government</em>, November 14, 2022, <a href="https://www.instituteforgovernment.org.uk/article/explainer/sugar-tax">https://www.instituteforgovernment.org.uk/article/explainer/sugar-tax</a>.
 	
-</li><li>Michael Hallsworth, “The Soft Drinks Levy Is Working before It Has Even Been Applied”, The Behavioural Insights Team, November 11, 2016, <a href="https://www.bi.team/blogs/the-soft-drinks-levy-is-working-before-it-has-even-been-applied/">https://www.bi.team/blogs/the-soft-drinks-levy-is-working-before-it-has-even-been-applied/</a>.</li>
+</li><li>Michael Hallsworth, “The Soft Drinks Levy Is Working before It Has Even Been Applied”, <em>The Behavioural Insights Team</em>, November 11, 2016, <a href="https://www.bi.team/blogs/the-soft-drinks-levy-is-working-before-it-has-even-been-applied/">https://www.bi.team/blogs/the-soft-drinks-levy-is-working-before-it-has-even-been-applied/</a>.</li>
 
-<li>Lee Li Ying, “‘Siew Dai’ Could Be Default Option for Your Morning Kopi or Teh”, The Straits Times, September 27, 2023, <a href="https://www.straitstimes.com/singapore/siew-dai-could-be-default-option-for-your-morning-kopi-or-teh">https://www.straitstimes.com/singapore/siew-dai-could-be-default-option-for-your-morning-kopi-or-teh</a>.</li>
+<li>Lee Li Ying, “‘Siew Dai’ Could Be Default Option for Your Morning Kopi or Teh”, <em>The Straits Times</em>, September 27, 2023, <a href="https://www.straitstimes.com/singapore/siew-dai-could-be-default-option-for-your-morning-kopi-or-teh">https://www.straitstimes.com/singapore/siew-dai-could-be-default-option-for-your-morning-kopi-or-teh</a>.</li>
 	
-<li>Filippo B., Jovita L., Filip M., James, F., Abigail M., and Hugo H., “The Impact of Altering Restaurant and Menu Option Position on Food Selected from an Experimental Food Delivery Platform: A Randomised Controlled Trial”, The Behavioural Insights Team, May 19, 2023,<a href="https://www.bi.team/publications/the-impact-of-altering-restaurant-and-menu-option-position-on-food-selected-from-an-experimental-food-delivery-platform-a-randomised-controlled-trial/"> https://www.bi.team/publications/the-impact-of-altering-restaurant-and-menu-option-position-on-food-selected-from-an-experimental-food-delivery-platform-a-randomised-controlled-trial/</a>.</li>
+<li>Filippo B., Jovita L., Filip M., James, F., Abigail M., and Hugo H., “The Impact of Altering Restaurant and Menu Option Position on Food Selected from an Experimental Food Delivery Platform: A Randomised Controlled Trial”, <em>The Behavioural Insights Team</em>, May 19, 2023,<a href="https://www.bi.team/publications/the-impact-of-altering-restaurant-and-menu-option-position-on-food-selected-from-an-experimental-food-delivery-platform-a-randomised-controlled-trial/"> https://www.bi.team/publications/the-impact-of-altering-restaurant-and-menu-option-position-on-food-selected-from-an-experimental-food-delivery-platform-a-randomised-controlled-trial/</a>.</li>
 	
 <li>Healthy Eating Advisory Service, “Alfred Health—Sugary Drinks Trials”, March, 2023, https://heas. health.vic.gov.au/case-studies/alfred-health-sugary-drink-trials/.</li>
 	
-<li>Helen B., Jovita L., Giulia T., and Morgan G., “Beyond Tech: The Role of Behavioural Science in Digital Health Apps”, The Behavioural Insights Team, June 27, 2016, <a href="https://www.bi.team/blogs/beyond-tech-the-role-of-behavioural-science-in-digital-health-apps/">https://www.bi.team/blogs/beyond-tech-the-role-of-behavioural-science-in-digital-health-apps/</a>.</li>
+<li>Helen B., Jovita L., Giulia T., and Morgan G., “Beyond Tech: The Role of Behavioural Science in Digital Health Apps”, <em>The Behavioural Insights Team</em>, June 27, 2016, <a href="https://www.bi.team/blogs/beyond-tech-the-role-of-behavioural-science-in-digital-health-apps/">https://www.bi.team/blogs/beyond-tech-the-role-of-behavioural-science-in-digital-health-apps/</a>.</li>
 	
 <li>Susan Jebb, “Knowledge, Nudge and Nanny: Opportunities to Improve the Nation's Diet”, March 17, 2015, <a href="https://www.ox.ac.uk/research/research-in-conversation/healthy-body-healthy-mind/susan-jebb">https://www.ox.ac.uk/research/research-in-conversation/healthy-body-healthy-mind/susan-jebb</a>.
 </li>	
