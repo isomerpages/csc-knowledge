@@ -28,6 +28,13 @@ border-top: 1px solid black;
 
 }	
 	
+table tr td
+{
+	border: none;
+}
+	
+	
+	
 </style>
 <em><small>ETHOS Issue 26, Nov 2023</small></em>
 <div class="background-image">
