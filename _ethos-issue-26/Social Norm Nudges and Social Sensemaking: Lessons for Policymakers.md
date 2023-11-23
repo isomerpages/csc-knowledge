@@ -109,7 +109,7 @@ padding: 30px;
 
 <div class="containerbox">
 
-<h4 style="color:white;">A BACKFIRED NUDGE </h4>
+<p style="color:white; font-size:25px; font-weight: bold;">A BACKFIRED NUDGE </p>
 
 <p>In 2016, the Dutch government—encouraged by the success of opt-out organ donation systems in many countries where residents are automatically considered organ donors unless they explicitly state their non-consent—passed a bill to switch their organ donation system from an opt-in to an opt-out scheme.</p>	
 	
@@ -200,9 +200,9 @@ padding: 30px;
 
 <div class="containerbox">
 
-<h4 style="color:white;">EXAMPLE - SCENARIO 1 <br>TOP UP TO CPF SPECIAL ACCOUNT OR RETIREMENT ACCOUNT</h4>
+<p style="color:white; font-size:25px; font-weight: bold;">EXAMPLE - SCENARIO 1 <br>TOP UP TO CPF SPECIAL ACCOUNT OR RETIREMENT ACCOUNT
 	
-<p>A social norm nudge was added to all treatment letters.</p>	
+</p><p>A social norm nudge was added to all treatment letters.</p>	
 
 <figure>	
 <img src="/images/Ethos_Images/Ethos_Issue_26/dohoangvankhanh.jpg">	
@@ -223,7 +223,7 @@ padding: 30px;
 
 <div class="containerbox">
 	
-<h5 style="color:white;"><span style="font-size: 38px">1.</span> Social norm nudges alone do not work. Instead, people are influenced by the importance of the decision and trust in the government.</h5>
+<p style="color:white; font-size:25px; font-weight: bold;"><span style="font-size: 38px">1.</span> Social norm nudges alone do not work. Instead, people are influenced by the importance of the decision and trust in the government.</p>
 </div>
 
 <p>The study found that social norm nudges had no statistically significant impact on the respondents’ intended decisions for four out of the five scenarios. For the scenario on buying local vegetables, the treatment message with social norm performed statistically worse than the control message.<sup>3</sup> Instead, we found that participants’ decisions were influenced by the perceived importance of their decision, if they agreed with the government’s intention, and whether they believed that the government was more likely to succeed in their policy objective. </p>	
@@ -241,7 +241,7 @@ padding: 30px;
 
 <div class="containerbox">
 	
-<h5 style="color:white;"><span style="font-size: 38px">2.</span> Social sensemaking made very little impact, at least in the online environment.</h5>
+<p style="color:white; font-size:25px; font-weight: bold;"><span style="font-size: 38px">2.</span> Social sensemaking made very little impact, at least in the online environment.</p>
 </div>
 
 <p>Based on the results of this study, respondents engaged in some degree of social sensemaking, but it was not consistent across all scenarios. They only thought sporadically about the government’s intentions, other people’s decisions, and if they were concerned about how the government and other people would perceive their decisions. In addition, these factors  seemed to have only a small effect on people’s decision-making. Hence, there may be little practical value for policymakers to specifically target social sensemaking for behavioural change. It is worth noting that the online environment of the study could have contributed to the small effect of social sensemaking as respondents made decisions in their own environment alone. Social sensemaking may have a greater impact in a physical environment where decisions are more public and hence people might be more concerned about what others think of their choices. </p>
@@ -253,7 +253,7 @@ padding: 30px;
 
 <div class="containerbox">
 	
-<h5 style="color:white;"><span style="font-size: 38px">3.</span> Framing of benefits and costs of policies in public communications is essential. </h5>
+<p style="color:white; font-size:25px; font-weight: bold;"><span style="font-size: 38px">3.</span> Framing of benefits and costs of policies in public communications is essential. </p>
 </div>
 
 <p>From the qualitative responses, the study found that another important factor that played a role in respondents’ decision-making in all scenarios was how they perceived the costs and benefits of the policy to both themselves as well as to the whole society. Hence, policymakers may get more buy-in from the public by highlighting and better framing the personal as well as societal costs and benefits of certain policies. By changing how the costs and benefits are communicated to citizens, policymakers may be able to sway people’s perceptions of the policy. </p>
@@ -265,7 +265,7 @@ padding: 30px;
 
 <div class="containerbox">
 	
-<h5 style="color:white;"><span style="font-size: 38px">4.</span> The importance of testing potential policy interventions.</h5>
+<p style="color:white; font-size:25px; font-weight: bold;"><span style="font-size: 38px">4.</span> The importance of testing potential policy interventions.</p>
 </div>
 
 <p>This study highlights the importance of testing potential policy interventions for specific contexts. Some limitations of the study were that it was conducted as an online survey, conducted in only English and with a sample that was underrepresented for certain demographics. Hence, the findings might not be generalisable to the behaviours and decision-making considerations of the general population. In addition, the study relied on self-reported answers, which might not accurately reflect actual behaviours in real life.</p>
