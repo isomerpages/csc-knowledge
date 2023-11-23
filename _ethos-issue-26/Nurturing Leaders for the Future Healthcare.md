@@ -160,6 +160,30 @@ While clinical excellence remains important, we also need to recognise other for
 </div>
 
 
+<div class="break">
+<p class="break1">We purposefully approach development from a broad-based understanding of leadership— not only in an institution but in  the ecosystem as a whole.</p>
+</div>
 
 	
-	
+<p>For instance, we want to facilitate and create opportunities for some of our healthcare leaders, who are used to working as individual experts relying on their own specialised skills and clinical intuition, to develop closer links with a wider group of partners beyond the acute hospitals, such as providers in primary care, community care, and social care. In fact, the healthcare sector has had connections with the wider community for many years, and many institutions do work in ways that flow into the community. But this relationship has been given much stronger prominence and impetus with the launch of Healthier SG. The pieces are in place to strengthen this partnership. There is greater scope to, for instance, for clusters and institutions to work with the community and other partners upstream, to enhance health promotion and preventive care.</p>
+
+
+<p>Broadening the idea of leadership in healthcare can be of great benefit. The boards of the public healthcare clusters and agencies include many eminent individuals with expertise and experience beyond healthcare, such as in business and finance. They see things from a different perspective, which can be very useful. Over time, they gain a good appreciation of our challenges, and are able to bring their perspectives to advise and to steer the healthcare clusters and institutions. </p>
+
+
+<p>Across our HLC programmes, we bring different individuals together to promote interaction and better mutual understanding, which is vital. The programmes are intentionally designed  to be interprofessional, to encourage mingling across professional and institutional boundaries.  Participants get to meet fellow healthcare leaders from other clusters and professions; most would not have had interactions with other healthcare professionals outside of their immediate area of work and institutions. We even go one step further to invite participants who are not from public healthcare institutions, but who work in areas with a connection to healthcare. For instance, our programmes invite participants from the community care sector, SAF medical corps, CPF Board, Singapore Prisons Service, the Ministry of Finance, and so on. We make it a point to also include general practitioners (GPs) who are involved in national primary care initiatives, including Healthier SG.  This mix enriches classroom diversity and learning.</p>
+
+<p>HLC programmes place emphasis on collective leadership: working collaboratively to achieve good outcomes. We purposefully approach development from a broad-based understanding of leadership—of healthcare leadership not only in an institution but in the healthcare ecosystem as a whole. </p> 
+
+<p>While collaboration is easy to talk about, it is not so easy to practise. Addressing personal barriers to collaboration is the first and best place we can intervene. We will have to step beyond our comfort zone in making the effort to invest in relationships and form diverse and open networks. It is hard to collaborate with someone you do not trust, you cannot trust someone you do not know, and you cannot know a person without interacting with them. The greater the human connectivity and trusted relationships, the higher the chance for successful collaboration. HLC is a bridge where those first connections are made, but leaders must continue to sustain those ties and continue to build up these relationships over time. These conditions are necessary in fostering a healthy culture of collaboration and collective leadership that spans clusters, institutions, and professions.</p>
+
+<p>There is a leadership fable about a farmer who grew prize-winning corn and how one of his practices was to share his prize-winning seed with his neighbours, as he realised that if his neighbours grew inferior corn, cross-pollination would eventually degrade the quality of his corn.1 Just like the farmer in this fable, in an interconnected and porous system, greater benefits are realised through generous sharing and collaboration. What we do impacts one another: if we want to do well, we must share our expertise and align our efforts.</p>
+
+
+<div class="break">
+<p class="break1">"The greater the human connectivity and trusted relationships, the higher the chance for successful collaboration."</p>
+</div>
+
+<h3>Leadership for innovation in healthcare</h3>
+
+
