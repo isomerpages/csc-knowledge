@@ -90,7 +90,7 @@ background-color: orange;
 	
 <div class="break">
 
-<p class="break1">"THERE IS NO PHYSICAL HEALTH WITHOUT MENTAL HEALTH, AND THERE IS NO SOCIAL HEALTH WITHOUT MENTAL HEALTH”</p>
+<p class="break1">THERE IS NO PHYSICAL HEALTH WITHOUT MENTAL HEALTH, AND THERE IS NO SOCIAL HEALTH WITHOUT MENTAL HEALTH.</p>
 
 </div>	
 	
@@ -100,7 +100,7 @@ background-color: orange;
 	
 <div class="break">
 
-<p class="break1">"MENTAL HEALTH VARIES FROM CULTURE TO CULTURE IN THE WAY IT'S PERCEIVED, DESCRIBED OR EXPERIENCED. YOU NEED TO CREATE A SERVICE THAT CAN REFLECT AND RESPOND TO THAT.”</p>
+<p class="break1">MENTAL HEALTH VARIES FROM CULTURE TO CULTURE IN THE WAY IT'S PERCEIVED, DESCRIBED OR EXPERIENCED. YOU NEED TO CREATE A SERVICE THAT CAN REFLECT AND RESPOND TO THAT.</p>
 
 </div>		
 	
@@ -125,7 +125,7 @@ background-color: orange;
 <p>An impact bond in Greater Manchester, in the UK, sought to prevent homelessness among high-risk young people. The associated contract had two fixed outcomes, with a unit price attached for each, as well as three more variable outcomes—A, B and C—each also with a price attached. The young person themselves decide what those outcomes are. From a menu of options, they choose the three that are important to them, and how to prioritise them.</p> 
 	
 	
-<p>The actual individual beneficiaries on the  programme determine what outcomes they want from the service delivered to  
+<p>The actual individual beneficiaries on the programme determine what outcomes they want from the service delivered to  
 them. This empowers them in the process, returning to young people a sense of agency over their circumstances.</p>
 
 </div>	
@@ -138,7 +138,7 @@ them. This empowers them in the process, returning to young people a sense of ag
 	
 <div class="break">
 
-<p class="break1">"BOTTOM UP APPROACHES AND PERSONALISED, CONTEXT SENSITIVE SOLUTIONS REQUIRE A STRUCTURE, TO ENSURE THAT THE PERFORMANCE IS REAL, ACCOUNTABLE AND DELIVERS WHAT WE WANT”</p>
+<p class="break1">BOTTOM-UP APPROACHES AND PERSONALISED, CONTEXT SENSITIVE SOLUTIONS REQUIRE A STRUCTURE, TO ENSURE THAT THE PERFORMANCE IS REAL, ACCOUNTABLE AND DELIVERS WHAT WE WANT.</p>
 
 </div>			
 	
@@ -150,7 +150,30 @@ them. This empowers them in the process, returning to young people a sense of ag
 	
 <p>Performance management is not contract management. It is not a bureaucratic process of counting pieces of paper, but an ongoing engagement with the programme, and with the experiences of the community one is trying to help, to ensure that as many of them as possible achieve the outcomes we want.</p>	
 	
-<p>the basic essential health services were contracted out to international NGOs, who were on budget reimbursement contracts with a very tight specification of what they had to deliver per clinic. When I started working there in 2017, we looked to shift all these services to performance-based contracts. To begin with, I engaged with 50 different stakeholders across government and funders and asked them what success looked like—and received 50 different answers. There was no cohesive definition of success. The crucial intervention was to pull them back and get everyone to agree on what successful performance would look like—such as better health services delivered to more people—which we could then use to drive the design of the performance contracts and how these programmes would be performance managed.</p>
+<p>In Afghanistan after 2001, there were
+no health services in the country. All
+the basic essential health services were
+contracted out to international NGOs,
+who were on budget reimbursement
+contracts with a very tight specification
+of what they had to deliver per clinic.
+When I started working there in 2017,
+we looked to shift all these services
+to performance-based contracts. To
+begin with, I engaged with 50 different
+stakeholders across government and
+funders and asked them what success
+looked like—and received 50 different
+answers. There was no cohesive definition
+of success. The crucial intervention was
+to pull them back and get everyone to
+agree on what successful performance
+would look like—such as better health
+services delivered to more people—
+which we could then use to drive the
+design of the performance contracts
+and how these programmes would be
+performance managed.</p>
 	
 <p>This is what we need to get public servants better at: developing a good definition of what success looks like. To ensure that the definition is relevant, we need to move from bureaucratic definitions to ones that are real for the individuals concerned. Indeed, let’s engage those individuals in developing those definitions. We need to determine what success looks like, and engage the people to whom it matters, from a range of different disciplines, in defining that success. Then we use that to cohere efforts around and structure the response that comes after: if that is what success looks like, then what are the steps we need to take to achieve that? And if those are the steps, what are the skillsets that we currently have, mapped against what we need? And then how do we upskill towards that?  We build capacity in this way. </p>
 	
@@ -162,24 +185,23 @@ them. This empowers them in the process, returning to young people a sense of ag
 	
 <p>HBGI has a very active Lived Experience Council—a group of people with intimate lived experience of poor mental health—whom we seek input from each time we reach a relevant touchpoint. </p> 
 
-<p>Likewise, we are about to start a project with YMCA Global, where we will spend 18 months training a group of young people to speak to other young people, to ask: What is concerning you right now and what would be a meaningful outcome? These findings can then be used to inform future definitions of success as young people see it.</p>
+<p>Likewise, we are about to start a project with YMCA Global, where we will spend 18 months training a group of young people to speak to other young people, to ask: <em>What is concerning you right now and what would be a meaningful outcome</em>? These findings can then be used to inform future definitions of success as young people see it.</p>
 
 </div>	
 	
 <p>Some well-meaning service providers may have been delivering a service for decades in a particular way. They push through a fixed process with a paternalistic view of the people they are supposed to be serving or working with, considering themselves the experts who know what’s best. Many of these organisations do not even know how many people they are working with at any one time, because they have not been tracking the data, nor their progress towards the outcomes that the individuals need to achieve. But once they are led to think about these questions, they begin to change their mindsets away from one-off performance measures. Most organisations feel empowered by this and change the way they operate within their contract. They begin to step back from their paternalistic view and to recognise the people they are working with as assets.</p>
 	
-<p>Several factors underlie success in using an outcomes-based approach. First, do not do outcomes contracting just for the sake of it. Instead, you need to start off with an understanding of what you are looking to achieve, and then find the best tool to get you there. Second, it is important not to overcomplicate this. Often, when everybody weighs in, you can end up with a very complex beast of a solution. Make sure to keep it real for the individuals you are trying to achieve success for. Keep that definition of success as clear and simple as possible. Keep bringing everybody back to that simple definition and strip out the complications, so you can have lean solutions.</p>	
-	
 	
 <div class="break">
 
-<p class="break1">"WITHIN A PROPERLY IMPLEMENTED OUTCOMES CONTRACTING ENVIRONMENT, YOU ALSO GENERATE A LOT OF RICH DATA, BECAUSE YOU ARE CONSTANTLY TRACKING, RECORDING AND REVIEWING WHAT'S GOING ON.”</p>
+<p class="break1">WITHIN A PROPERLY IMPLEMENTED OUTCOMES CONTRACTING ENVIRONMENT, YOU ALSO GENERATE A LOT OF RICH DATA, BECAUSE YOU ARE CONSTANTLY TRACKING, RECORDING AND REVIEWING WHAT'S GOING ON.</p>
 
 </div>				
 	
+<p>Several factors underlie success in using an outcomes-based approach. First, do not do outcomes contracting just for the sake of it. Instead, you need to start off with an understanding of what you are looking to achieve, and then find the best tool to get you there. Second, it is important not to overcomplicate this. Often, when everybody weighs in, you can end up with a very complex beast of a solution. Make sure to keep it real for the individuals you are trying to achieve success for. Keep that definition of success as clear and simple as possible. Keep bringing everybody back to that simple definition and strip out the complications, so you can have lean solutions.</p>	
+	
+	
 <p>If you have people talking and thinking about performance and success, and about what's important for the person on the frontline, then you are taking a step in the right direction. </p>	
-	
-	
 	
 
 
