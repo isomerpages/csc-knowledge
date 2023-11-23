@@ -153,8 +153,16 @@ While clinical excellence remains important, we also need to recognise other for
 </tr>	
 
 
+<tr>
+<td>At the Healthcare Leadership College (HLC), we see our role as helping to bring about these shifts in healthcare leadership. </td>
+</tr>	
 
 </tbody></table>
+
+
+
+
+
 
 </div>
 
