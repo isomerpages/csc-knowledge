@@ -103,7 +103,7 @@ A useful way to think about this transition is to compare it with how Digital Ma
 
 <div class="containerbox">
 
-<h4 style="color:#ED5E2A;">THREE CRITICAL ENABLERS</h4>
+<p style="color:#ED5E2A;font-size:25px;font-weight:bold;">THREE CRITICAL ENABLERS</p>
 <p>Just as Digital Maps use large amounts of data and analytics to connect the dots, create value and be personalised to users, Precision Public Health calls for our big health data sets to be connected, analysed with advanced data science techniques, and personalised through precision medicine and personalised health. </p>	
 	
 	
