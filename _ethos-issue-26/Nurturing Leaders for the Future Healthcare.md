@@ -61,7 +61,11 @@ line-height:22px;
 	color: white;
 }
 
-
+.healthcare-leadership
+{
+border: 2px solid darkblue;	
+padding: 20px;
+}	
 	
 
 
@@ -104,63 +108,57 @@ line-height:22px;
 	
 </div>	
 
+<h3>Developing new Competencies, Capabilities and Cultures to support Healthier SG and Singapore’s healthcare transformation</h3>
 
+<p>Healthier SG, the new national health initiative, builds on earlier shifts to meet Singapore’s healthcare needs in a sustainable manner.  A central pillar of the Healthier SG strategy is the role of primary care practitioners, working closely and jointly with the clusters, polyclinics, hospitals, specialists, and allied health professionals, to holistically support the health and care needs of Singaporeans.  The call for strong healthcare leadership is all the more important as we recognise the complexities of healthcare and the major structural and mindset changes that are required throughout our healthcare organisations and institutions, healthcare policies and frameworks, and the ways that healthcare professionals work and organise themselves. </p>
 
+<div class="healthcare-leadership">
 
-
-<h3>Title</h3>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-
-<p>Under Future of Work, we are leveraging data, and data analytics, to relook at how the public sector should be working in the future, including how public officers interact with, ﬁeld enquiries from, and work alongside citizens. The pandemic has changed how we work; it has made us realise that a lot of what we do can be digitalised and carried out online for an enhanced experience.</p>
-
-
-
-<div class="break">
-<p class="break1">"Content for breaking"</p>
-</div>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-
-
-
-
-
-
-<div class="break">
-<p class="break1">Content for breaking</p>
-</div>
-
-
-
-
-
-<div class="author">
-<h6>ABOUT THE AUTHOR</h6>	
-<p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
-</div>
-
-
-<div class="notestop">
-<h6>NOTES</h6>
-<ol>
+<h4>ONE Healthcare Leadership Framework</h4>	
 	
-<li id="num1">See: “Digital Government Blueprint”, accessed January 6, 2023, <a target="_blank" href="https://www.tech.gov.sg/digital-government-blueprint/">https://www.tech.gov.sg/digital-government-blueprint/.</a></li>
+<p>To support Singapore's healthcare transformation, we need a corresponding evolution in healthcare leadership, which we call the ONE Healthcare Leadership Framework. We see this as involving three  paradigm shifts:</p>
 	
 	
-<li id="num2">For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, 
-<a target="_blank" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/">https://www.developer.tech.gov.sg/singapore-government-tech-stack/</a></li>
+<table>
+
+<colgroup>
+           <col style="width:30%;" span="1">
+           <col style="width: 70%;" span="1"> 
+</colgroup>		
 	
 	
-<li id="num3">Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, <a target="_blank" href="https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
-</ol>	
+<tbody><tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/expert%20leader.png"></td>	
+<td>
+	<p><b>1. Shifting from Expert as Leader to Expert Leader</b></p>
+While clinical excellence remains important, we also need to recognise other forms of leadership vital to the practice of healthcare.<p></p>	
+</td>	
+</tr>	
+
+
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/developing%20collective%20leadership.png"></td>	
+<td>
+<p><b>2. Going beyond Developing Leaders to Developing Collective Leadership</b>
+<br>As healthcare becomes increasingly multidisciplinary in nature, we must begin to regard healthcare leadership as a collaborative process that benefits from different perspectives and forms of expertise.</p>	
+</td>	
+</tr>	
+	
+<tr>
+<td><img src="/images/Ethos_Images/Ethos_Issue_26/leading%20in%20ecosystems.png"></td>	
+<td>
+<p><b>3. Shifting from Expert as Leader to Expert Leader</b>
+<br>We want our leaders, who are accustomed to advancing their own healthcare specialties and institutions, to increasingly think in terms of, and work across, our national health ecosystem as a whole, to benefit all of Singapore.</p>	
+</td>	
+</tr>	
+
+
+
+</tbody></table>
+
 </div>
 
 
 
-
-
-<br><br>
-<div class="back">
-<a href="/ethos/">Back to Ethos Page</a>	
-</div>
+	
+	
