@@ -92,6 +92,12 @@ margin-top: 50px;
 	
 }	
 	
+.bottom	a
+{
+color: white;
+}		
+	
+	
 	
 </style>
 
@@ -104,7 +110,7 @@ margin-top: 50px;
 
 <h3>What is social sensemaking and why does it matter?</h3>
 
-<p>Behavioural nudging is a popular tool for policymakers, but research suggests that social sensemaking may reduce their effectiveness.<sup>1</sup> Social sensemaking is when individuals try to infer the intent behind the choice architect's decision and what their decision would signal to the choice architect and/or other people around them. This can forestall the automatic cognitive biases that make nudges effective. In some cases, questioning the motives of the choice architect can even lead to backfiring on the intended outcome of  the nudge.</p>
+<p>Behavioural nudging is a popular tool for policymakers, but research suggests that social sensemaking may reduce their effectiveness.<sup><a href="notestop">1</a></sup> Social sensemaking is when individuals try to infer the intent behind the choice architect's decision and what their decision would signal to the choice architect and/or other people around them. This can forestall the automatic cognitive biases that make nudges effective. In some cases, questioning the motives of the choice architect can even lead to backfiring on the intended outcome of  the nudge.</p>
 
 
 
@@ -115,12 +121,12 @@ margin-top: 50px;
 <p>In 2016, the Dutch government—encouraged by the success of opt-out organ donation systems in many countries where residents are automatically considered organ donors unless they explicitly state their non-consent—passed a bill to switch their organ donation system from an opt-in to an opt-out scheme.</p>	
 	
 	
-<p>However, unlike in other countries, this change resulted in a 40-times increase of opt-out requests in the Netherlands. This dramatic jump in active rejections occurred not only among newly registered donors but also among those who had previously consented to donate but now deliberately revoked their consent. One explanation for this backlash is that some Dutch residents may have interpreted the change in choice architecture as an attempt by the government to limit their freedom of choice, prompting them to explicitly exercise their opt-outs in protest.<sup>1</sup> </p>	
+<p>However, unlike in other countries, this change resulted in a 40-times increase of opt-out requests in the Netherlands. This dramatic jump in active rejections occurred not only among newly registered donors but also among those who had previously consented to donate but now deliberately revoked their consent. One explanation for this backlash is that some Dutch residents may have interpreted the change in choice architecture as an attempt by the government to limit their freedom of choice, prompting them to explicitly exercise their opt-outs in protest.<sup><a href="notestop2">1</a></sup> </p>	
 	
 <img src="/images/Ethos_Images/Ethos_Issue_26/social-sensemaking-1.png">
 	
 	
-<div class="notestop">
+<div class="notestop" id="notestop2">
 <h6>NOTE</h6>
 <ol>
 	
@@ -133,7 +139,7 @@ margin-top: 50px;
 	
 </div>
 	
-<p>Nevertheless, some behavioural researchers argue that social sensemaking, when used correctly, can increase the effectiveness of nudges.<sup>2</sup> They cite the example of defaults, which always reveal the intent of the choice architect, yet are one of the most effective nudges available in most contexts.</p>
+<p>Nevertheless, some behavioural researchers argue that social sensemaking, when used correctly, can increase the effectiveness of nudges.<sup><a href="notestop">2</a></sup> They cite the example of defaults, which always reveal the intent of the choice architect, yet are one of the most effective nudges available in most contexts.</p>
 	
 <p>In considering nudges as policy tool options, policymakers in Singapore  should understand how social sense-making works in our context, since it could influence how citizens react to such measures.</p> 	
 
@@ -214,7 +220,7 @@ margin-top: 50px;
 	
 <p>Additionally, these questions also asked about aspects of social sensemaking: specifically, if the participants thought of the government’s intentions as well as other people’s decisions when they made their decision, as well as if they were concerned how the government and other people around them would perceive their own decision. </p>	
 	
-<p>These questions were intended to shed light on factors that might have affected their decision-making as well as to show if social sensemaking had been triggered. </p>
+<p>These questions were intended to shed light on factors that might have affected their decision-making as well as to show if social sensemaking had been triggered.</p>
 	
 	
 </div>
@@ -227,7 +233,7 @@ margin-top: 50px;
 <p style="color:white; font-size:25px; font-weight: bold;"><span style="font-size: 38px">1.</span> Social norm nudges alone do not work. Instead, people are influenced by the importance of the decision and trust in the government.</p>
 </div>
 
-<p>The study found that social norm nudges had no statistically significant impact on the respondents’ intended decisions for four out of the five scenarios. For the scenario on buying local vegetables, the treatment message with social norm performed statistically worse than the control message.<sup>3</sup> Instead, we found that participants’ decisions were influenced by the perceived importance of their decision, if they agreed with the government’s intention, and whether they believed that the government was more likely to succeed in their policy objective. </p>	
+<p>The study found that social norm nudges had no statistically significant impact on the respondents’ intended decisions for four out of the five scenarios. For the scenario on buying local vegetables, the treatment message with social norm performed statistically worse than the control message.<sup><a href="notestop">3</a></sup> Instead, we found that participants’ decisions were influenced by the perceived importance of their decision, if they agreed with the government’s intention, and whether they believed that the government was more likely to succeed in their policy objective. </p>	
 
 
 <div class="break">
