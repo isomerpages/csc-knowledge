@@ -301,7 +301,7 @@ color: white;
 <h6>NOTES</h6>
 <ol>
 	
-<li>J. M. T. Krijnen, D. Tannenbaum, and C. R. Fox, “Choice Architecture 2.0: Behavioral Policy as an Implicit Social Interaction”, <em>Behavioral Science &amp; Policy</em> 3, no. 2 (2017): 1–18, <a href="https://www.google.com/search?q=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;oq=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;aqs=chr">https://www.google.com/search?q=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;oq=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;aqs=chr ome..69i57.598j0j7&amp;sourceid=chrome&amp;ie=UTF-8.
+<li>J. M. T. Krijnen, D. Tannenbaum, and C. R. Fox, “Choice Architecture 2.0: Behavioral Policy as an Implicit Social Interaction”, <em>Behavioral Science &amp; Policy</em> 3, no. 2 (2017): 1–18, <a href="https://www.google.com/search?q=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;oq=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;aqs=chr">https://www.google.com/search?q=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;oq=Krijnen%2C+Tannenbaum+%26+Fox+2017&amp;aqs=chrome..69i57.598j0j7&amp;sourceid=chrome&amp;ie=UTF-8.
 </a></li>
 	
 	
