@@ -72,7 +72,7 @@ border-bottom: none;
 	
 </style>
 
-<em><small>ETHOS 26, Dec 2023</small></em>
+<em><small>ETHOS 26, Nov 2023</small></em>
 <div class="background-image">
 <img src="">
 </div>
