@@ -237,26 +237,26 @@ Policy Implementation</h3>
 	
 <li>M. Mathews and P. T. Straughan, "Results from the Perception and Attitudes towards Ageing and Seniors Survey (2013/2014)", Institute of Policy Studies, October, 2014, <a href="https://ink.library.smu.edu.sg/soss_research/2220">https://ink.library.smu.edu.sg/soss_research/2220</a>.</li>
 	
-<li>R. Ng, H. G. Allore, M. Trentalange, J. K. Monin, and B. R. Levy, "Increasing Negativity of Age Stereotypes across 200 Years: Evidence from a Database of 400 Million Words", PLOS ONE 10, no. 2
+<li>R. Ng, H. G. Allore, M. Trentalange, J. K. Monin, and B. R. Levy, "Increasing Negativity of Age Stereotypes across 200 Years: Evidence from a Database of 400 Million Words", <em>PLOS ONE</em> 10, no. 2
 (2015): e0117086, doi:10.1371/journal.pone.0117086.</li>
 	
-<li>R. Ng, T. Y. J. Chow, and W. Yang, "The Impact of Aging Policy on Societal Age Stereotypes and Ageism", The Gerontologist 62, no. 4 (2022): 598–606, doi:10.1093/geront/gnab151.</li>
+<li>R. Ng, T. Y. J. Chow, and W. Yang, "The Impact of Aging Policy on Societal Age Stereotypes and Ageism", <em>The Gerontologist</em> 62, no. 4 (2022): 598–606, doi:10.1093/geront/gnab151.</li>
 	
-<li>E. Palmore, "Ageism Comes of Age", The Journals of Gerontology: Series B  70, no. 6 (2015): 873–875, doi:10.1093/geronb/gbv079.</li>
+<li>E. Palmore, "Ageism Comes of Age", <em>The Journals of Gerontology: Series B</em>  70, no. 6 (2015): 873–875, doi:10.1093/geronb/gbv079.</li>
 	
 <li>R. Ng, N. Indran, and W. Yang, "Portrayals of Older Adults in over 3000 Films around the World", Journal of the American Geriatrics Society, doi:10.1111/jgs.18400.</li>
 	
-<li>R. Ng, N. Indran, and L. Liu, "Ageism on Twitter during the COVID-19 Pandemic", Journal of Social Issues 78, no. 4 (2022): 842–859, doi:10.1111/josi.12535.</li>
+<li>R. Ng, N. Indran, and L. Liu, "Ageism on Twitter during the COVID-19 Pandemic", <em>Journal of Social Issues</em> 78, no. 4 (2022): 842–859, doi:10.1111/josi.12535.</li>
 	
-<li>R. Ng and N. Indran, "Hostility toward Baby Boomers on TikTok", The Gerontologist 62, no. 8 (2022): 1196–1206, doi:10.1093/geront/gnac020.</li>
+<li>R. Ng and N. Indran, "Hostility toward Baby Boomers on TikTok", <em>The Gerontologist</em> 62, no. 8 (2022): 1196–1206, doi:10.1093/geront/gnac020.</li>
 	
-<li>C. E. Löckenhoff, F. De Fruyt, A. Terracciano et al., "Perceptions of Aging across 26 Cultures and their Culture-Level Associates", Psychol Aging 24, no. 4 (2009): 941–954, doi:10.1037/a0016901.</li>
+<li>C. E. Löckenhoff, F. De Fruyt, A. Terracciano et al., "Perceptions of Aging across 26 Cultures and their Culture-Level Associates", <em>Psychol Aging</em> 24, no. 4 (2009): 941–954, doi:10.1037/a0016901.</li>
 	
-<li>S. Y. Lee and J. W. Hoh, "A Critical Examination of Ageism in Memes and the Role of Meme Factories", New Media &amp; Society, October 7, 2021, doi:10.1177/14614448211047845.</li>
+<li>S. Y. Lee and J. W. Hoh, "A Critical Examination of Ageism in Memes and the Role of Meme Factories", <em>New Media &amp; Society</em>, October 7, 2021, doi:10.1177/14614448211047845.</li>
 	
-<li>B. Levy, "Stereotype Embodiment: A Psychosocial Approach to Aging", Curr Dir Psychol Sci 18, no. 6 (2009): 332–336. doi:10.1111/j.1467-8721.2009.01662.x.</li>
-	
-<li>A. Ben-Harush, S. Shiovitz-Ezra, I. Doron, et al., "Ageism among Physicians, Nurses, and Social Workers: Findings from a Qualitative Study", Eur J Ageing 14, no. 1 (2016): 39–48, doi:10.1007/s10433-016-0389-9.</li>
+<li>B. Levy, "Stereotype Embodiment: A Psychosocial Approach to Aging", <em>Curr Dir Psychol Sci</em> 18, no. 6 (2009): 332–336. doi:10.1111/j.1467-8721.2009.01662.x.</li>
+
+<li>A. Ben-Harush, S. Shiovitz-Ezra, I. Doron, et al., "Ageism among Physicians, Nurses, and Social Workers: Findings from a Qualitative Study", <em>Eur J Ageing</em> 14, no. 1 (2016): 39–48, doi:10.1007/s10433-016-0389-9.</li>
 	
 	
 </ol>	
