@@ -375,7 +375,7 @@ age and the younger population are more mobile. The Digital CoC presents opportu
 	
 <div class="break">
 
-<p class="break1">"Building healthier, happier communities requires a collective commitement and effort"</p>
+<p class="break1">Building healthier, happier communities requires a collective commitement and effort.</p>
 	
 </div>	
 	
