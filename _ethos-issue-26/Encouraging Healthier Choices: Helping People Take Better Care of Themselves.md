@@ -131,7 +131,7 @@ background-color: #BEE0BB;
 <p>However, where there is evidence of misalignment between profits and public health objectives, we need to use harder levers, such as regulations. For instance, in Singapore and many countries around the world, we know that unhealthy snacks and sweets are often positioned at retail checkouts. These impulsive food purchases are money spinners for retailers, so the economic and health objectives are clearly misaligned. In October 2022, the Department of Health and Social Care in the UK set limits on where unhealthy food can be placed in shops. These restrictions directed that products high in fat, salt, or sugar can no longer be displayed in prominent locations such as at store entrances, aisle ends, and checkouts. The rules apply to equivalent high-traffic spots on food shopping websites. At BIT, we are supportive of these types of regulatory interventions and continue to run trials and collect evidence to explore how we can work together with industry when incentives align and how to intervene when they do not.</p>
 
 <div class="break">
-<p class="break1">"Healthy nudges can be implemented within a sustainable business model."</p>
+<p class="break1">Healthy nudges can be implemented within a sustainable business model.</p>
 </div>
 
 
@@ -142,7 +142,7 @@ background-color: #BEE0BB;
 <p>Technology solutions go beyond apps, of course. For instance, good old-fashioned text or SMS message reminders can be effective at encouraging attendance and engagement with health interventions, especially as messaging systems enable these prompts to become more tailored. In the past, we might have had to send the same text message encouraging people to attend their medical appointments to all recipients. Today, it is much easier to make these messages much more personalised. For instance, we can provide specific details like individual names, dates, clinics' addresses and directions from home. Such simple but effective messaging has been shown to be highly effective nudges for tasks such as vaccinations and follow-ups for boosters. </p>
 
 <div class="break">
-<p class="break1">"Simple but effective messaging has been shown to be highly effective nudges."</p>
+<p class="break1">Simple but effective messaging has been shown to be highly effective nudges.</p>
 </div>
 
 
