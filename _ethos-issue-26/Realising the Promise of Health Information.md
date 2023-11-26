@@ -153,7 +153,7 @@ providers will be required to put in place appropriate cybersecurity measures to
 
 <p>Clinic Z has also developed and implemented <b>policies and processes</b> to ensure that access to relevant patient data is regulated and only accorded to the staff who needs access for their work, depending on their role in the clinic.</p>
 
-<p>Nonetheless, clinic Z acknowledges that cyber attacks and data loss is a matter of when and not if it happens. As such, Clinic Z establishes a proper <b>cyber and data incident response plan</b> to clarify how it will mitigate the impact of an incident, recover from it quickly and ensure business-critical services     can continue, so that patient care is not compromised.</p>
+<p>Nonetheless, Clinic Z acknowledges that cyber attacks and data loss is a matter of when and not if it happens. As such, Clinic Z establishes a proper <b>cyber and data incident response plan</b> to clarify how it will mitigate the impact of an incident, recover from it quickly and ensure business-critical services     can continue, so that patient care is not compromised.</p>
 	
 	
 
