@@ -97,7 +97,7 @@ padding: 20px;
 <p>HLC designs and delivers a suite of milestone programmes, continuing development programmes, and other learning and engagement platforms. We also publish a quarterly newsletter, Leading Healthcare,<sup><a href="#notestop1">1</a></sup> which aims to connect with and inspire leaders in healthcare.</p>	
 		
 <div class="notestop" id="notestop1">
-<h6>NOTES</h6>
+<h6>NOTE</h6>
 <ol>
 	
 <li id="num1">See  <a href="https://www.hlc.mohh.com.sg/resources/news-letter">https://www.hlc.mohh.com.sg/resources/news-letter.</a></li>
@@ -130,7 +130,7 @@ padding: 20px;
 <tbody><tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/expert%20leader.png"></td>	
 <td>
-	<p><b>1. Shifting from Expert as Leader to Expert Leader</b></p>
+	<p><b>1. Shifting from Expert as Leader to <em>Expert Leader</em></b></p>
 While clinical excellence remains important, we also need to recognise other forms of leadership vital to the practice of healthcare.<p></p>	
 </td>	
 </tr>	
@@ -139,7 +139,7 @@ While clinical excellence remains important, we also need to recognise other for
 <tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/developing%20collective%20leadership.png"></td>	
 <td>
-<p><b>2. Going beyond Developing Leaders to Developing Collective Leadership</b>
+	<p><b>2. Going beyond Developing Leaders to <em>Developing Collective Leadership</em></b>
 <br>As healthcare becomes increasingly multidisciplinary in nature, we must begin to regard healthcare leadership as a collaborative process that benefits from different perspectives and forms of expertise.</p>	
 </td>	
 </tr>	
@@ -147,7 +147,7 @@ While clinical excellence remains important, we also need to recognise other for
 <tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/leading%20in%20ecosystems.png"></td>	
 <td>
-<p><b>3. Shifting from Expert as Leader to Expert Leader</b>
+	<p><b>3. Moving from Leading Institutions to <em>Leading in Ecosystems</em></b>
 <br>We want our leaders, who are accustomed to advancing their own healthcare specialties and institutions, to increasingly think in terms of, and work across, our national health ecosystem as a whole, to benefit all of Singapore.</p>	
 </td>	
 </tr>	
