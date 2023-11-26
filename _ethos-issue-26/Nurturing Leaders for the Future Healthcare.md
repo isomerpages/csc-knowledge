@@ -181,7 +181,7 @@ While clinical excellence remains important, we also need to recognise other for
 
 
 <div class="break">
-<p class="break1">"The greater the human connectivity and trusted relationships, the higher the chance for successful collaboration."</p>
+<p class="break1">The greater the human connectivity and trusted relationships, the higher the chance for successful collaboration.</p>
 </div>
 
 <h3>Leadership for innovation in healthcare</h3>
@@ -197,7 +197,7 @@ While clinical excellence remains important, we also need to recognise other for
 <p>Some doctors and healthcare  professionals are more receptive and open to applying new ways of working and technologies, particularly if these have strong and clear benefits to patients or the healthcare system. We can help shape the future by encouraging and nurturing this new generation of practitioners.</p>
 
 <div class="break">
-<p class="break1">"We need to develop communities of leaders like strong forests, providing mutual support and capable of weathering any storms collectively."</p>
+<p class="break1">We need to develop communities of leaders like strong forests, providing mutual support and capable of weathering any storms collectively.</p>
 </div>
 
 <h3>Growing leaders for healthcare: the next lap</h3>
@@ -214,7 +214,7 @@ While clinical excellence remains important, we also need to recognise other for
 
 
 <div class="author">
-<h6>ABOUT THE AUTHOR</h6>	
+<h6>ABOUT THE AUTHORS</h6>	
 <p><b>Professor Pang Weng Sun</b> is Dean of the Healthcare Leadership College, MOH Holdings. He has been Vice-Dean (Clinical Affairs) at the Lee Kong Chian School of Medicine since 2011, and has also held leadership positions in the National Healthcare Group, the Geriatric Education and Research Institute among other senior engagements in the medical field. Professor Pang has contributed geriatric expertise to many community services and worked with the Ministry of Health and various voluntary agencies in eldercare and palliative care. He was a recipient of the Healthcare Humanity Award in 2005. He continues clinical practice as a senior consultant geriatrician in Khoo Teck Puat Hospital and Yishun Community Hospital.</p>
 	
 	
@@ -226,7 +226,7 @@ While clinical excellence remains important, we also need to recognise other for
 
 
 <div class="notestop" id="notestop">
-<h6>NOTES</h6>
+<h6>NOTE</h6>
 <ol>
 <li>For this fable and other stories that further reflect this important leadership theme, see: <a href="https://www.hlc.mohh.com.sg/NewsLetters/leading-healthcare-issue-23.pdf">https://www.hlc.mohh.com.sg/NewsLetters/leading-healthcare-issue-23.pdf</a>.</li>
 
