@@ -55,11 +55,11 @@ margin-top:15px;
 
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/covers.jpg"></div>
 	<div>
 		<h3><span class="cat">Issue 26 , Dec 2023</span><br> ETHOS Issue 26</h3>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/ethos-issue-15">Download PDF</a></div>
+		<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-26">Download PDF</a></div>
 	</div>
 </div>
 
