@@ -77,11 +77,11 @@ table tr td
 	
 <tr>	
 <td>	
-Editor-in-Chief, ETHOS
+	<b>Editor-in-Chief, ETHOS</b>
 </td>
 
-<td>	
-Guest Editor	
+<td><b>	
+	Guest Editor	</b>
 </td>
 	
 </tr>
