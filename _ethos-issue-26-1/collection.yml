@@ -2,6 +2,7 @@ collections:
   ethos-issue-26-1:
     output: true
     order:
+      - Getting Ready for Precision Public Health.md
       - Realising the Promise of Health Information.md
       - "Humanising the Future of Care: A Conversation with Leong Choon Kit.md"
       - "Encouraging Healthier Choices: Helping People Take Better Care of
