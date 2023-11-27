@@ -2,8 +2,6 @@ collections:
   ethos-issue-26:
     output: true
     order:
-      - Keeping it Real Outcomes Based Contracting for Mental And Social
-        Health.md
       - Editorial.md
       - The Next Bound of Health and Healthcare.md
       - "Creating the Future of Healthcare: A Conversation with Tan Chorh
@@ -11,6 +9,8 @@ collections:
       - Designing a Healthier City.md
       - Getting Ready for Precision Public Health.md
       - Realising the Promise of Health Information.md
+      - Keeping it Real Outcomes Based Contracting for Mental And Social
+        Health.md
       - "Humanising the Future of Care: A Conversation with Leong Choon Kit.md"
       - "Encouraging Healthier Choices: Helping People Take Better Care of
         Themselves.md"
