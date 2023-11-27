@@ -2,6 +2,8 @@ collections:
   ethos-issue-26-1:
     output: true
     order:
+      - "Encouraging Healthier Choices: Helping People Take Better Care of
+        Themselves.md"
       - "Social Norm Nudges and Social Sensemaking: Lessons for Policymakers.md"
       - Building an Age Inclusive Healthcare System in Singapore.md
       - "Health is Social: The Future of Care in Singapore.md"
