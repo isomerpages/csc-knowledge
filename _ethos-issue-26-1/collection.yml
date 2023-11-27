@@ -2,4 +2,5 @@ collections:
   ethos-issue-26-1:
     output: true
     order:
+      - Nurturing Leaders for the Future Healthcare.md
       - Editorial.md
