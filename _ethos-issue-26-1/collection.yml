@@ -2,6 +2,7 @@ collections:
   ethos-issue-26-1:
     output: true
     order:
+      - Example Title.md
       - Editorial.md
       - The Next Bound of Health and Healthcare.md
       - "Creating the Future of Healthcare: A Conversation with Tan Chorh
