@@ -71,7 +71,7 @@ margin-top:15px;
 		<h3>Editorial</h3>
 		<b><i>by Dr Alvin Pang</i></b>
 		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/editorial/">Read more</a></div>
 	</div>
 </div>
 
@@ -83,7 +83,7 @@ margin-top:15px;
 		<h3>The Next Bound of Health and Healthcare</h3>
 		<b><i>by Ng How Yue</i></b>
 		<p>Strong community relationships, cross-sector partnerships and informed personal agency pave the way for a healthier Singapore for the future.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/the-next-bound-of-health-and-healthcare/">Read more</a></div>
 	</div>
 </div>
 
@@ -97,7 +97,7 @@ margin-top:15px;
 		<p>The veteran clinician and Chairman of MOH Office for  
 Healthcare Transformation envisions how new data frameworks, digital tools and cross-sectoral partnerships will revolutionise  
 the way we stay healthier for life, on a national scale.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/creating-the-future-of-healthcare/">Read more</a></div>
 	</div>
 </div>
 
@@ -109,7 +109,7 @@ the way we stay healthier for life, on a national scale.</p>
 		<h3>Designing a Healthier City</h3>
 		<b><i>by Tai Lee Siang</i></b>
 		<p>Urban environments can be designed at different scales to support healthier ways to live, work and play, with tangible benefits for productivity, sustainability and human wellbeing.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/designing-a-healthier-city/">Read more</a></div>
 	</div>
 </div>
 
@@ -121,7 +121,7 @@ the way we stay healthier for life, on a national scale.</p>
 		<h3>Getting Ready for Precision Public Health</h3>
 		<b><i>by Clive Tan and Jeremy Lim</i></b>
 		<p>Digital and data-centred approaches to personalised medicine may soon revolutionalise care and open up new opportunities for Singapore.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/getting-ready-for-precision-public-health/">Read more</a></div>
 	</div>
 </div>
 
@@ -133,7 +133,7 @@ the way we stay healthier for life, on a national scale.</p>
 		<h3>Realising the Promise of Health Information</h3>
 		<b><i>by Raymond Chua</i></b>
 		<p>Singapore is introducing a regulatory framework to collect and share health records across the healthcare sector, easing continuity  of care for patients and unlocking new potential for public health advances.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/realising-the-promise-of-health-information/">Read more</a></div>
 	</div>
 </div>
 
@@ -145,7 +145,7 @@ the way we stay healthier for life, on a national scale.</p>
 		<h3>Humanising the Future of Care</h3>
 		<b><i>by Leong Choon Kit</i></b>
 		<p>Singapore’s primary care sector is evolving into a sophisticated web of care, with the whole wellbeing of citizens at its heart.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/humanising-the-future-of-care/">Read more</a></div>
 	</div>
 </div>
 
@@ -158,7 +158,7 @@ the way we stay healthier for life, on a national scale.</p>
 		<h3>Keeping It Real: Outcomes-Based Contracting for Mental and Social Health</h3>
 		<b><i>by Richard Johnson</i></b>
 		<p>Clear definitions of success, co-determined with stakeholders and supported by robust performance management, are key to delivering results meaningful to the people programmes seek to serve.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/keeping-it-real/">Read more</a></div>
 	</div>
 </div>
 
@@ -174,7 +174,7 @@ the way we stay healthier for life, on a national scale.</p>
 		<p>Recent work in behavioural insights at both individual and 
 systemic scales could help advance Singapore’s preventative 
 healthcare paradigm.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/encouraging-healthier-choices-helping-people-take-better-care-of-themselves/">Read more</a></div>
 	</div>
 </div>
 
@@ -187,7 +187,7 @@ healthcare paradigm.</p>
 		<h3>Social Norm Nudges and Social Sensemaking: Lessons for Policymakers</h3>
 		<b><i>by Do Hoang Van Khanh</i></b>
 		<p>Do people make decisions based on what their peer group does or believes? Ground reality may complicate public policies based on this assumption.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/social-norm-nudges-and-social-sensemaking-lessons-for-policymakers/">Read more</a></div>
 	</div>
 </div>
 
@@ -199,7 +199,7 @@ healthcare paradigm.</p>
 		<h3>Building an Age-Inclusive Healthcare System in Singapore</h3>
 		<b><i>by Reuben Ng &amp; Nicole Indran</i></b>
 		<p>An important part of creating a successful ageing society entails reframing the narratives around ageing  and involving more seniors in policymaking.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/building-an-age-inclusive-healthcare-system-in-singapore/">Read more</a></div>
 	</div>
 </div>
 
@@ -212,7 +212,7 @@ healthcare paradigm.</p>
 		<b><i>by Eugene Fidelis Soh</i></b>
 		<p>By taking responsibility not  only individually but collectively  
 for our health, Singaporeans can build  the capacities and relationships needed to thrive well into the future.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/health-is-social-the-future-of-care-in-singapore/">Read more</a></div>
 	</div>
 </div>
 
@@ -224,7 +224,7 @@ for our health, Singaporeans can build  the capacities and relationships needed 
 		<h3>Nurturing&nbsp;Leaders for the Future Healthcare</h3>
 		<b><i>by Pang Weng Sun &amp; Lee Shiao Wei</i></b>
 		<p>Singapore’s changing healthcare priorities mean that a new generation of leaders must learn to collaborate, communicate and think collectively, both within and across the sector.</p>
-		<div class="button1"><a href="/ethos-issue-15/editorial/">Read more</a></div>
+		<div class="button1"><a href="/ethos-issue-26/nurturing-leaders-for-the-future-healthcare/">Read more</a></div>
 	</div>
 </div>
 
