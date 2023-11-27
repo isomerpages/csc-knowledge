@@ -64,12 +64,13 @@ table tr td
 <table>
 <tbody><tr>
 
-<td>	
-<h5><b>Dr Alvin Pang </b></h5></td>	
+	
+<th>	
+<h5>by <b>Dr Alvin Pang </b></h5></th>	
 
-<td>	
-<h5><b>Dr Clive Tan</b></h5>
-</td>		
+<th>	
+<h5>with <b>Dr Clive Tan</b></h5>
+</th>		
 	
 
 </tr>	
@@ -81,7 +82,7 @@ Editor-in-Chief, ETHOS
 
 <td>	
 Guest Editor	
-	</td>
+</td>
 	
 </tr>
 
