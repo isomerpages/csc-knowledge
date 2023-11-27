@@ -2,6 +2,7 @@ collections:
   ethos-issue-26-1:
     output: true
     order:
+      - Editorial.md
       - The Next Bound of Health and Healthcare.md
       - "Creating the Future of Healthcare: A Conversation with Tan Chorh
         Chuan.md"
@@ -15,4 +16,3 @@ collections:
       - Building an Age Inclusive Healthcare System in Singapore.md
       - "Health is Social: The Future of Care in Singapore.md"
       - Nurturing Leaders for the Future Healthcare.md
-      - Editorial.md
