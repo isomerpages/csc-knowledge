@@ -2,5 +2,6 @@ collections:
   ethos-issue-26-1:
     output: true
     order:
+      - "Health is Social: The Future of Care in Singapore.md"
       - Nurturing Leaders for the Future Healthcare.md
       - Editorial.md
