@@ -1,5 +1,5 @@
 ---
-title: Keeping it Real Outcomes Based Contracting for Mental And Social Health
+title: Keeping it Real: Outcomes-Based Contracting for Mental And Social Health
 permalink: /ethos-issue-26/keeping-it-real/
 variant: markdown
 description: ""
