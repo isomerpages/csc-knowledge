@@ -65,12 +65,11 @@ table tr td
 <tbody><tr>
 
 <td>	
-<p><b>Dr Alvin Pang </b><br>
-</p></td>	
+<h5><b>Dr Alvin Pang </b></h5></td>	
 
 <td>	
-<p><b>Dr Clive Tan</b><br>
-</p></td>		
+<h5><b>Dr Clive Tan</b></h5>
+</td>		
 	
 
 </tr>	
