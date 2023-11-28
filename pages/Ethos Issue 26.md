@@ -58,7 +58,7 @@ margin-top:15px;
 	<div><img src="/images/Ethos_Images/Ethos_Issue_26/covers.jpg"></div>
 	<div>
 		<h3><span class="cat">Issue 26 , Dec 2023</span><br> ETHOS Issue 26</h3>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+		<p>This issue looks at the future of healthcare in Singapore. Ensuring a people’s health is a task vital to a society’s wellbeing, and a responsibility that goes beyond the ambit of healthcare professionals. A critical aspect of governing well, it rests on a whole-of-society will to take care of one another and ourselves. Gathering insights from a range of practitioners and thought leaders from both within and outside the Public Service, we explore how we can look after the health of Singaporeans–both holistically and for the long term.</p>
 		<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-26">Download PDF</a></div>
 	</div>
 </div>
@@ -70,7 +70,7 @@ margin-top:15px;
 	<div>
 		<h3>Editorial</h3>
 		<b><i>by Dr Alvin Pang</i></b>
-		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		<p> The COVID-19 crisis is the starkest recent reminder that ensuring a people’s health is a task vital to a society’s wellbeing, and a responsibility that extends well beyond the ambit of healthcare professionals: it is a critical aspect of governing well, and rests on a whole-of-society will to take care of one another and ourselves.</p>
 		<div class="button1"><a href="/ethos-issue-26/editorial/">Read more</a></div>
 	</div>
 </div>
