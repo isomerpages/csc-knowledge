@@ -69,9 +69,8 @@ padding: 20px;
 	
 .containerbox figure img
 {	
-	width:300px;
-	border-radius:70px;
-	
+	width:210px;
+	align: left;
 }
 
 	
@@ -81,7 +80,7 @@ padding: 20px;
 
 <em><small>ETHOS Issue 26, Nov 2023</small></em>
 <div class="background-image">
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_NurturingLeaders_Pang_Weng_Sun_and_Lee_Shiao_Wei.jpg">
 </div>
 
 
