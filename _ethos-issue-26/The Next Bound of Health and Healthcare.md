@@ -83,8 +83,10 @@ background-color: orange;
 
 
 <em><small>ETHOS Issue 26, Nov 2023</small></em>
+<div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_TheNextBoundforHealthAndHealthcare_Ng_How_Yue.jpg">
-
+</div>
+	
 
 <div class="break">
 	
