@@ -138,7 +138,8 @@ color: black;
 
 <em><small>ETHOS Issue 26, Dec 2023</small></em>
 <div class="background-image">
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_HealthIsSocial_Eugene_Fidelis_Soh.jpg">
+</div>	
 
 <p>In his latest Netflix documentary 
 “Live to 100”, author and longevity expert Dan Buettner added Singapore as a sixth ‘Blue Zone’: a region in the world with residents who are known to live long and healthy lives. In his 2020 master class at the Global Wellness Summit,<sup><a href="#notestop">1</a></sup> Buettner had argued that “the big epiphany of all these Blue Zones is that long-lasting health is very rarely successfully pursued; it ensues”. It is not genetics or willpower that boosts longevity in Blue Zones. It is a lifestyle. Then came Singapore, a Blue Zone that has been engineered, instead of emerging organically like the first five.</p>
@@ -426,4 +427,4 @@ age and the younger population are more mobile. The Digital CoC presents opportu
 <br><br>
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></div>
+</div>
