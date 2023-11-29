@@ -73,7 +73,7 @@ background-color: orange;
 
 <em><small>ETHOS Issue 26, Nov 2023</small></em>
 <div class="background-image">
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_KeepingItReal_MentalAndSocialHealth_Richard_Johnson.jpg">
 
 
 <h3>An outcomes-based approach to addressing mental health </h3>	
