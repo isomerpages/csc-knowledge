@@ -111,7 +111,7 @@ color: white;
 
 <em><small>ETHOS Issue 26, Dec 2023</small></em>
 <div class="background-image">
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_Social_Norm_Nudges_and_Social_Sensemaking_Do_Hoang_Van_Khanh.jpg">
 </div>
 
 <h3>What is social sensemaking and why does it matter?</h3>
