@@ -112,7 +112,7 @@ color: white;
 </style>
 <em><small>ETHOS Issue 26, Nov 2023</small></em>
 <div class="background-image">
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_BuildingAgeInclusiveHealthcareSystem_Reuben_Ng_and_Nicole_Indran.jpg">
 </div>
 
 <h3>Introduction</h3>
