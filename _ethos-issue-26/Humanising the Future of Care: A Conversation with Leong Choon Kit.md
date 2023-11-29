@@ -63,7 +63,7 @@ line-height:22px;
 </style>
 <em><small>ETHOS 26, Nov 2023</small></em>
 <div class="background-image">
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_HumanisingTheFutureOfCare_Leong_Choon_Kit.jpg">
 </div>
 
 <h3>WHY IS THERE A FOCUS ON PRIMARY CARE IN SINGAPORE’S HEALTHCARE 
