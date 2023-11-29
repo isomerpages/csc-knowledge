@@ -80,7 +80,7 @@ background-color: #BEE0BB;
 </style>
 <em><small>ETHOS Issue 26, Nov 2023</small></em>
 <div class="background-image">
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_EncouragingHealthierChoices_Rory_Gallagher_and_Serene_Koh.jpg">
 </div>
 
 <p>It is clear that in Singapore, as with health systems around the world, we can no longer afford to keep focusing healthcare on treating those who are ill; we have to shift focus upstream and help people make healthier choices in their daily lives. This is why Healthier SG’s increased focus on prevention and healthier living is an encouraging and exciting development. We believe that behavioural approaches will be key to achieving this shift at individual, community, service, and system levels.  
