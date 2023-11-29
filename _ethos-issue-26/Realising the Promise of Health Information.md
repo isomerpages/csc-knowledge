@@ -82,7 +82,7 @@ color: white;
 
 <em><small>ETHOS Issue 26, Nov 2023</small></em>
 <div class="background-image">
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_RealisingThePromiseOfHealthInformation__Raymond_Chua.jpg">
 </div>
 
 <h3>The need for timely quality health information</h3>
