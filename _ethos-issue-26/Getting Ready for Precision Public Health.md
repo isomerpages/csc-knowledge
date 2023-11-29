@@ -74,7 +74,7 @@ border-bottom: none;
 
 <em><small>ETHOS 26, Nov 2023</small></em>
 <div class="background-image">
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_PrecisionPublicHealth__Clive_Tan_and_Jeremy_Lim.jpg">
 </div>
 
 <h3>NAVIGATING A CHANGING WORLD</h3>
