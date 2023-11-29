@@ -78,7 +78,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_TheNextBoundforHealthAndHealthcare_Ng_How_Yue.jpg"></div>
 	<div>
 		<h3>The Next Bound of Health and Healthcare</h3>
 		<b><i>by Ng How Yue</i></b>
@@ -90,7 +90,7 @@ margin-top:15px;
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_CreatingTheFutureOfHealthcare__Tan_Chorh_Chuan.jpg"></div>
 	<div>
 		<h3>Creating the Future of Healthcare: A Conversation with Prof Tan Chorh Chuan</h3>
 		<b><i>by Tan Chorh Chuan</i></b>
@@ -104,7 +104,7 @@ the way we stay healthier for life, on a national scale.</p>
 <br>
 
 <div class="grid-container">
-	<div><img src=""></div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_DesigningAHealthierCity_Tai_Lee_Siang.jpg"></div>
 	<div>
 		<h3>Designing a Healthier City</h3>
 		<b><i>by Tai Lee Siang</i></b>
