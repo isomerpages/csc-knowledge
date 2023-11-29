@@ -71,7 +71,7 @@ color: white;
 
 <em><small>ETHOS Issue 26, Nov 2023</small></em>
 <div class="background-image">
-<img src="">
+<img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_CreatingTheFutureOfHealthcare__Tan_Chorh_Chuan.jpg">
 </div>
 
 <h3>You wear several hats in the healthcare sector. How do your different roles help 
