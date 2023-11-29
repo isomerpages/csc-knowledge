@@ -111,8 +111,8 @@ A useful way to think about this transition is to compare it with how Digital Ma
 <tbody>
 	
 </tbody><colgroup>
-           <col style="width: 25%;" span="1">
-           <col style="width: 75%;" span="1"> 
+           <col style="width: 20%;" span="1">
+           <col style="width: 80%;" span="1"> 
 </colgroup>	
 	
 	
