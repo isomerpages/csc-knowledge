@@ -108,7 +108,7 @@ You need leadership as well as a whole change management system for the professi
 <p>One area is in enabling and sustaining behaviour change. In considering behaviour, we quite often think in terms of individuals: our mental model is to educate, nag and nudge individuals, say to exercise, one person at a time. This is important, but it is hard; it would take a long time to have an impact on the whole population this way. But there are other behavioural drivers, such as environmental or cultural factors, that could have a broader impact at the population level.</p>
 
 <div class="break">
-<p class="break1">Behavioural drivers, such as environmental or cultural factors, could have a broader impact  at the population level.</p>
+<p class="break1">"Behavioural drivers, such as environmental or cultural factors, could have a broader impact  at the population level."</p>
 </div>
 
 <p>A good example is cigarette smoking, which has perhaps seen the most successful public health intervention. Smoking is expensive because we have put taxes on it. And we have made cigarettes difficult to access, because we have all kinds of restrictions on its sale. Smoking is prohibited in most public spaces. The nett effect of these non-health measures is that it is not easy to smoke. Overall, some 90% of our people do not smoke. Over time, the cultural and social norm is to not smoke, except perhaps among certain limited groups. So a combination of these environmental changes engenders a social norm towards desirable behaviours. In fact, a few behaviours—lack of physical activity, poor diet, and smoking—contribute disproportionately to bad health outcomes, accounting for more than 40% of mortality.</p>
@@ -121,8 +121,8 @@ You need leadership as well as a whole change management system for the professi
 <p>There are a number of initiatives to do exactly this in Singapore, such as MOHT’s Healthy Precinct programme.<sup><a href="#notestop">1</a></sup> We are also looking to see how we can incorporate health as a policy outcome in our planning—the way we now think about environmental sustainability as an outcome. From the ground up, we are also validating tools to help communities to come up with health promoting programmes, in a more design-focused manner. Activating community participation will be important for sustained cultural and behavioural change.</p>
 
 <div class="break">
-<p class="break1">We can shape 
-the physical and built environment to promote health. We could then add on other elements to enhance participation and ownership.</p>
+<p class="break1">"We can shape 
+the physical and built environment to promote health. We could then add on other elements to enhance participation and ownership."</p>
 </div>
 
 <p>Indeed, artificial intelligence can be used in health not only at the level of nudging individuals, but also in helping us to design better environments; to see how foot traffic flows and assess whether our interventions are working. The use of data, collected in a trustworthy and confidential manner, can provide very useful insights.</p>
@@ -192,8 +192,8 @@ these build on Healthier SG?</h3>
 
 
 <div class="break">
-<p class="break1">In future there  
-will be more conditions  that we will be able to  predict and monitor using digital technologies.</p>
+<p class="break1">"In future there  
+will be more conditions  that we will be able to  predict and monitor using digital technologies."</p>
 </div>
 
 
