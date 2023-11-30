@@ -2,6 +2,7 @@
 title: Page Content Template
 permalink: /page-content-template/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -69,7 +70,7 @@ line-height:22px;
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
 
-<p>Under Future of Work, we are leveraging data, and data analytics, to relook at how the public sector should be working in the future, including how public officers interact with, ﬁeld enquiries from, and work alongside citizens. The pandemic has changed how we work; it has made us realise that a lot of what we do can be digitalised and carried out online for an enhanced experience.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
 
 
 
@@ -94,7 +95,7 @@ line-height:22px;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Jordan Tan</b> is Director (Digital Workplace) at the Government Technology Agency (GovTech).</p>
+<p><b>Author Name</b> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
 </div>
 
 
