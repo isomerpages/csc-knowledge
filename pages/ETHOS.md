@@ -221,7 +221,7 @@ for our health, Singaporeans can build  the capacities and relationships needed 
 <div class="grid-container">
 	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_NurturingLeaders_Pang_Weng_Sun_and_Lee_Shiao_Wei.jpg"></div>
 	<div>
-		<h3>Nurturing&nbsp;Leaders for the Future Healthcare</h3>
+		<h3>Nurturing&nbsp;Leaders for the Future of Healthcare</h3>
 		<b><i>by Pang Weng Sun &amp; Lee Shiao Wei</i></b>
 		<p>Singapore’s changing healthcare priorities mean that a new generation of leaders must learn to collaborate, communicate and think collectively, both within and across the sector.</p>
 		<div class="button1"><a href="/ethos-issue-26/nurturing-leaders-for-the-future-healthcare/">Read more</a></div>
