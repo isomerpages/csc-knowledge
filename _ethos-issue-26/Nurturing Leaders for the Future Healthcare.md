@@ -72,6 +72,11 @@ padding: 30px;
 }
 
 	
+.text-blue
+{
+color: #469CD5;	
+}
+	
 	
 </style>
 
@@ -136,8 +141,8 @@ padding: 30px;
 <tbody><tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/expert%20leader.png"></td>	
 <td>
-	<p><b>1. Shifting from Expert as Leader to <em>Expert Leader</em></b></p>
-While clinical excellence remains important, we also need to recognise other forms of leadership vital to the practice of healthcare.<p></p>	
+<p><b>1. Shifting from Expert as Leader to <span class="text-blue">Expert Leader</span></b></p>
+<p>While clinical excellence remains important, we also need to recognise other forms of leadership vital to the practice of healthcare.</p>	
 </td>	
 </tr>	
 
@@ -145,16 +150,17 @@ While clinical excellence remains important, we also need to recognise other for
 <tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/developing%20collective%20leadership.png"></td>	
 <td>
-	<p><b>2. Going beyond Developing Leaders to <em>Developing Collective Leadership</em></b>
-<br>As healthcare becomes increasingly multidisciplinary in nature, we must begin to regard healthcare leadership as a collaborative process that benefits from different perspectives and forms of expertise.</p>	
+<p><b>2. Going beyond Developing Leaders to <span class="text-blue">Developing Collective Leadership</span></b>
+</p><p>As healthcare becomes increasingly multidisciplinary in nature, we must begin to regard healthcare leadership as a collaborative process that benefits from different perspectives and forms of expertise.</p>	
 </td>	
 </tr>	
 	
 <tr>
 <td><img src="/images/Ethos_Images/Ethos_Issue_26/leading%20in%20ecosystems.png"></td>	
 <td>
-	<p><b>3. Moving from Leading Institutions to <em>Leading in Ecosystems</em></b>
-<br>We want our leaders, who are accustomed to advancing their own healthcare specialties and institutions, to increasingly think in terms of, and work across, our national health ecosystem as a whole, to benefit all of Singapore.</p>	
+<p><b>3. Moving from Leading Institutions to <span class="text-blue">Leading in Ecosystems</span></b></p>
+
+<p>We want our leaders, who are accustomed to advancing their own healthcare specialties and institutions, to increasingly think in terms of, and work across, our national health ecosystem as a whole, to benefit all of Singapore.</p>	
 </td>	
 </tr>	
 
