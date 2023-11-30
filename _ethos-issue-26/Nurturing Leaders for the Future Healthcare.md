@@ -65,6 +65,12 @@ line-height:22px;
 border: 2px solid darkblue;	
 padding: 30px;
 }	
+
+.healthcare-leadership ol li
+{
+	font-size: 16px;
+	font-weight:bold;
+}		
 	
 
 .containerbox figure img
@@ -132,40 +138,44 @@ color: #469CD5;
 	
 	
 <table>
-
-<colgroup>
-           <col style="width:20%;" span="1">
-           <col style="width: 80%;" span="1"> 
-</colgroup>		
-	
-	
-<tbody><tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_26/expert%20leader.png"></td>	
+  <colgroup>
+    <col style="width:20%;" span="1">
+    <col style="width: 80%;" span="1">
+  </colgroup>
+  <tbody>
+ <tr>
+ <td><img src="/images/Ethos_Images/Ethos_Issue_26/expert%20leader.png"></td>
+      
 <td>
-<p><b>1. Shifting from Expert as Leader to <span class="text-blue">Expert Leader</span></b></p>
-<p>While clinical excellence remains important, we also need to recognise other forms of leadership vital to the practice of healthcare.</p>	
-</td>	
-</tr>	
+        <ol>
+          <li><b>Shifting from Expert as Leader to <span class="text-blue">Expert Leader</span></b></li>
+        </ol>
+        <p>While clinical excellence remains important, we also need to recognize other forms of leadership vital to the practice of healthcare.</p>
+      </td>
+    </tr>
 
+ <tr>
+      <td><img src="/images/Ethos_Images/Ethos_Issue_26/developing%20collective%20leadership.png"></td>
+      <td>
+        <ol start="2">
+          <li><b>Going beyond Developing Leaders to <span class="text-blue">Developing Collective Leadership</span></b></li>
+        </ol>
+        <p>As healthcare becomes increasingly multidisciplinary in nature, we must begin to regard healthcare leadership as a collaborative process that benefits from different perspectives and forms of expertise.</p>
+      </td>
+    </tr>
 
-<tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_26/developing%20collective%20leadership.png"></td>	
-<td>
-<p><b>2. Going beyond Developing Leaders to <span class="text-blue">Developing Collective Leadership</span></b>
-</p><p>As healthcare becomes increasingly multidisciplinary in nature, we must begin to regard healthcare leadership as a collaborative process that benefits from different perspectives and forms of expertise.</p>	
-</td>	
-</tr>	
-	
-<tr>
-<td><img src="/images/Ethos_Images/Ethos_Issue_26/leading%20in%20ecosystems.png"></td>	
-<td>
-<p><b>3. Moving from Leading Institutions to <span class="text-blue">Leading in Ecosystems</span></b></p>
+ <tr>
+      <td><img src="/images/Ethos_Images/Ethos_Issue_26/leading%20in%20ecosystems.png"></td>
+      <td>
+        <ol start="3">
+          <li><b>Moving from Leading Institutions to <span class="text-blue">Leading in Ecosystems</span></b></li>
+        </ol>
+        <p>We want our leaders, who are accustomed to advancing their own healthcare specialties and institutions, to increasingly think in terms of, and work across, our national health ecosystem as a whole, to benefit all of Singapore.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<p>We want our leaders, who are accustomed to advancing their own healthcare specialties and institutions, to increasingly think in terms of, and work across, our national health ecosystem as a whole, to benefit all of Singapore.</p>	
-</td>	
-</tr>	
-
-</tbody></table>
 
 <p>At the Healthcare Leadership College (HLC), we see our role as helping to bring about these shifts in healthcare leadership.</p>
 
