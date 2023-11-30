@@ -69,7 +69,7 @@ padding: 20px;
 	
 .containerbox figure img
 {	
-	width:210px;
+	width:100px;
 	align: left;
 }
 
@@ -90,7 +90,7 @@ padding: 20px;
 <img src="/images/Ethos_Images/Ethos_Issue_26/HLC_logo__high_res_.jpg">
 </figure>
 	
-<h4>The Healthcare Leadership College Story</h4>	
+<h4 style="text-align:center;">The Healthcare Leadership College Story</h4>	
 	
 <p>Singapore’s healthcare system has undergone rapid and massive change over the past few decades to meet the challenges of an ageing population and increasing complexity in healthcare delivery.  In the past 20 years, we have seen major restructuring of the public healthcare clusters and institutions. Two new medical schools have been set up and nursing and allied health education pathways and career options have been greatly expanded. Huge investments have been made in research, new technologies and digital capabilities. Most recently, we have seen the launch of Healthier SG as a major strategic push towards preventive health and upstream intervention.</p>	
 	
