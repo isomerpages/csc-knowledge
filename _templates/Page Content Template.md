@@ -103,14 +103,14 @@ line-height:22px;
 <h6>NOTES</h6>
 <ol>
 	
-<li id="num1">See: “Digital Government Blueprint”, accessed January 6, 2023, <a target="_blank" href="https://www.tech.gov.sg/digital-government-blueprint/">https://www.tech.gov.sg/digital-government-blueprint/.</a></li>
+<li id="num1">Teque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.<a target="_blank" href="LINK">https://www.tech.gov.sg/digital-government-blueprint/.</a></li>
 	
 	
-<li id="num2">For more information on the Singapore Government Tech Stack, see: “Singapore Government Tech Stack”,  December 16, 2022, accessed January 6, 2023, 
-<a target="_blank" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/">https://www.developer.tech.gov.sg/singapore-government-tech-stack/</a></li>
+<li id="num2">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam
+<a target="_blank" href="LINK">https://www.developer.tech.gov.sg/singapore-government-tech-stack/</a></li>
 	
 	
-<li id="num3">Example of such initiatives include: Cloud hosting on the Government on Commercial Cloud, Smart Facility management and Speech-to-text transcription. For more information, see: Rei Kurohi, “Govt to Spend $3.8b on Infocomm, Tech in 2022; More Projects to use AI, Data Science”, June 10, 2022, accessed January 6, 2023, <a target="_blank" href="https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
+<li id="num3">Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur, <a target="_blank" href="LINK">https://www.straitstimes.com/tech/tech-news/govt-to-spend-38b-on-infocomm-tech-in-2022-more-projects-to-use-ai-data-science</a>.</li>
 </ol>	
 </div>
 
