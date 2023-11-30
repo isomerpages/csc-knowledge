@@ -72,9 +72,12 @@ font-size: 15px;
 line-height:22px;
 }		
 
-blockquote
+.containerbox
 {
-background-color: orange;	
+background-color: orange;
+padding: 20px;
+margin-top: 30px;
+color: white;
 }	
 	
 	
@@ -88,7 +91,7 @@ background-color: orange;
 </div>
 	
 
-<div class="break">
+<div class="containerbox">
 	
 
 <p class="break1">"Everything affects health, but not everybody thinks health is their problem. Yet, maybe this point of view is changing as the COVID-19 pandemic has shown how a health threat can cause massive disruption and affect most aspects of life… Through [H]ealth for All Policies, health is put at the forefront, highlighting what the health sector can do for other sectors while simultaneously attaining co-benefits for its own sector."
@@ -158,7 +161,7 @@ CONDITIONS</h3>
 <p>Schools have been strong partners for us in laying the foundations of health literacy. Through the years, the Ministry of Education (MOE) has worked with MOH to incorporate health education in its curriculum, from early childhood all the way to tertiary education. School health programmes started being rolled out in as early as the 1930s, and have evolved over the years to stay relevant to each new generation of students. Research findings show that good health habits such as proper diet, sleep, and device use, if inculcated from young, could have a profound impact on one’s cognitive development and wellbeing later on in life. We are working with MOE and the Early Childhood Development Agency (ECDA) to roll out a more holistic school health package that will give every child a good start in fostering lifelong health habits from young. This will encompass evidence-based programmes and interventions that promote good health and address key health issues—such as obesity, screen and device usage, as well as smoking and vaping—among youth.</p>
 	
 <div class="break">
-<p class="break1">Health inequities are greatly influenced by "non-medical factors that influence health outcomes… the conditions in which people are born, grow, work, live, and age".</p>
+<p class="break1">"Health inequities are greatly influenced by "non-medical factors that influence health outcomes… the conditions in which people are born, grow, work, live, and age".</p>
 
 </div>	
 	
@@ -168,7 +171,7 @@ CONDITIONS</h3>
 	
 <div class="break">
 
-<p class="break1">We want to strengthen Singapore’s “social infrastructure” to make our environment more conducive for taking up healthier lifestyles.</p>
+<p class="break1">"We want to strengthen Singapore’s “social infrastructure” to make our environment more conducive for taking up healthier lifestyles."</p>
 
 </div>		
 	
@@ -185,7 +188,7 @@ CONDITIONS</h3>
 	
 <div class="break">
 
-<p class="break1">We are keen to do more to lower barriers to health and healthcare, and to be more targeted in supporting not just seniors, but other vulnerable population segments.</p>
+<p class="break1">"We are keen to do more to lower barriers to health and healthcare, and to be more targeted in supporting not just seniors, but other vulnerable population segments."</p>
 
 </div>			
 	
