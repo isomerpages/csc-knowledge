@@ -66,6 +66,7 @@ border: 2px solid darkblue;
 padding: 30px;
 }	
 	
+
 .containerbox figure img
 {	
 	width:90px;
