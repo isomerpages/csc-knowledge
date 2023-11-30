@@ -133,8 +133,8 @@ color: #469CD5;
 <table>
 
 <colgroup>
-           <col style="width:30%;" span="1">
-           <col style="width: 70%;" span="1"> 
+           <col style="width:20%;" span="1">
+           <col style="width: 80%;" span="1"> 
 </colgroup>		
 	
 	
