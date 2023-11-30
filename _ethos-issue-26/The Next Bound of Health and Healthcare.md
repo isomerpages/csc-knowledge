@@ -103,7 +103,7 @@ color: white;
 <p class="break1">"Everything affects health, but not everybody thinks health is their problem. Yet, maybe this point of view is changing as the COVID-19 pandemic has shown how a health threat can cause massive disruption and affect most aspects of life… Through [H]ealth for All Policies, health is put at the forefront, highlighting what the health sector can do for other sectors while simultaneously attaining co-benefits for its own sector."
 </p>	
 
-<p>- The Lancet Public Health, 2022<sup><a href="#notestop">1</a></sup></p>
+<figcaption>- The Lancet Public Health, 2022<sup><a href="#notestop">1</a></sup></figcaption>
 
 </div>
 	
