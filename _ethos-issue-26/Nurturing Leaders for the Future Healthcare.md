@@ -68,7 +68,7 @@ padding: 30px;
 
 .healthcare-leadership ol li
 {
-	font-size: 16px;
+	font-size: 18px;
 	font-weight:bold;
 }		
 	
