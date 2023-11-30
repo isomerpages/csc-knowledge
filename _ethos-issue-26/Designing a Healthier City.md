@@ -149,8 +149,8 @@ WELLBEING AT DIFFERENT SCALES</h3>
 	
 <div class="break">
 
-<p class="break1">We spend over 90% of  our time inside buildings:  we should consider  
-how best to ensure we  function optimally in them.</p>
+<p class="break1">"We spend over 90% of  our time inside buildings:  we should consider  
+how best to ensure we  function optimally in them."</p>
 
 </div>		
 	
@@ -168,7 +168,7 @@ how best to ensure we  function optimally in them.</p>
 	
 <div class="break">
 
-<p class="break1">We start with the human needs to be met, instead of with the cost in mind.</p>
+<p class="break1">"We start with the human needs to be met, instead of with the cost in mind."</p>
 
 </div>			
 	
@@ -192,7 +192,7 @@ how best to ensure we  function optimally in them.</p>
 	
 </p><div class="break">
 
-<p class="break1">As more people are  enticed to walk, run or cycle, human health is likely to  improve significantly.</p>
+<p class="break1">"As more people are  enticed to walk, run or cycle, human health is likely to  improve significantly."</p>
 
 </div>				
 	
