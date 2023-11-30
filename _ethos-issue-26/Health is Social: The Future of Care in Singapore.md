@@ -136,7 +136,7 @@ color: black;
 
 
 
-<em><small>ETHOS Issue 26, Dec 2023</small></em>
+<em><small>ETHOS Issue 26, Nov 2023</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_26/26_Banner_HealthIsSocial_Eugene_Fidelis_Soh.jpg">
 </div>	
@@ -344,7 +344,7 @@ By bringing together national and social agencies, family doctors, community hea
 	
 <div class="break">
 
-<p class="break1">Our residents own their health, not just as individuals but as communities.</p>
+<p class="break1">"Our residents own their health, not just as individuals but as communities."</p>
 	
 </div>	
 	
@@ -393,7 +393,7 @@ age and the younger population are more mobile. The Digital CoC presents opportu
 	
 <div class="break">
 
-<p class="break1">Building healthier, happier communities requires a collective commitement and effort.</p>
+<p class="break1">"Building healthier, happier communities requires a collective commitement and effort."</p>
 	
 </div>	
 	
