@@ -80,6 +80,12 @@ margin-top: 30px;
 color: white;
 }	
 	
+.containerbox a
+{
+	text-decoration: none;
+	color:white;
+}
+	
 	
 </style>
 
