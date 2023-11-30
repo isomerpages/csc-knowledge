@@ -2,21 +2,20 @@
 title: ETHOS
 permalink: /ethos/
 description: ""
+variant: markdown
 ---
 <style>
-table
-{ 
-border-collapse: separate; 
-border-spacing: 30px 10px;
-}	
-	
+
 .back a
 {
 	color: #9f2943;
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -33,24 +32,6 @@ margin-top:25px;
 margin-top:15px;	
 }		
 	
-	
-.cat
-{
-font-size: 15px;	
-}
-	
-td
-{
-	border-style : hidden!important;
-}
-	
-
-#editorial,#section-1,#section-2,#section-3,#section-4
-{
-	border-bottom: 0.5px solid black;
-}
-	
-
 .button1 a
 {
 	color: #9f2943;
@@ -71,75 +52,185 @@ td
 	}
 }	
 </style>
-<div class="grid-container">
-        <div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital11.jpg"></div>
-        <div><h3><span class="cat">Digital Issue 11, Oct 2023</span>
-            <br>ETHOS Digital Issue 11</h3>	
-            <p>How can the Public Service respond to the constraints of a challenging global environment? What can we do to reprioritise our work and make better use of limited resources, including our officers’ time, energies and commitment? Find out more in this digital edition of ETHOS, featuring views from Permanent Secretary Chng Kai Fong, ILOD researchers Ashley Aw and Amos Law, and ILOD principal consultant Eileen Wong, with Thijs Willems in conversation.</p>
-                    
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-11">Download PDF</a></div></div>
-    </div>
-    
-   <br>
-    
-<div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
-        <div><h3>Editorial </h3>
-            <b><i>by Alvin Pang</i></b>
-               
- <p>How can the Public Service respond to the constraints of a challenging global environment? What can we do to reprioritise our work and make better use of limited resources, including our officers’ time, energies and commitment? Find out more in this digital edition of ETHOS, featuring views from Permanent Secretary Chng Kai Fong, as well as ILOD researchers Ashley Aw, Amos Law and Eileen Wong, with Thijs Willems in conversation.</p>	
-            
-<div class="button1"><a href="/digital-issue-11/editorial/">Read More</a></div> <br></div>
-    </div>
 
- <br>   
+
 <div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_opinion.jpg"></div>
-        <div><h3>Opinion: Sharpening the Public Service</h3>
-            <b><i>by Chng Kai Fong</i></b>
-            
-<p>New tech tools and resource discipline can help us free up time and resources for more thoughtful public sector work: but a cultural shift is needed.
-</p>	
-            
-<div class="button1"><a href="/digital-issue-11/sharpening-the-public-service/">Read More</a></div><br></div>
-    </div>
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/covers.jpg"></div>
+	<div>
+		<h3><span class="cat">Issue 26 , Nov 2023</span><br> ETHOS Issue 26</h3>
+		<p>This issue looks at the future of healthcare in Singapore. Ensuring a people’s health is a task vital to a society’s wellbeing, and a responsibility that goes beyond the ambit of healthcare professionals. A critical aspect of governing well, it rests on a whole-of-society will to take care of one another and ourselves. Gathering insights from a range of practitioners and thought leaders from both within and outside the Public Service, we explore how we can look after the health of Singaporeans–both holistically and for the long term.</p>
+		<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-26">Download PDF</a></div>
+	</div>
+</div>
+
 <br>
+
 <div class="grid-container">
-      <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_11/teaser_mindful%20prioritisation.jpg"></div>
-        <div><h3>Pro Tips: Mindful Prioritisation</h3>
-            <b><i>by Ashley Aw</i></b>
-<p>	
- Committing to one meaningful change  at a time is more effective than trying to accomplish too many things at once.
-</p>	
-            
-<div class="button1"><a href="/digital-issue-11/pro-tips-mindfulness-in-prioritisation/">Read More</a></div><br></div>
-    </div>
-    
-<br>    
-<div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_11/teaser_addressing%20tensions%20in%20prioritising%20work.jpg"></div>
-        <div><h3>Addressing Tensions in Prioritising Work</h3>
-            <b><i>by Amos Law</i></b>
-            
-<p>How can we balance the need to refocus work efforts while committing to and persevering on long-term work goals?
-</p>	
-            
-<div class="button1"><a href="/digital-issue-11/addressing-tensions-in-prioritising-work/">Read More</a></div><br></div>
-    </div>
-    
-<br>    
-<div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_11/teaser_rethinking%20hybrid%20work%20designs.jpg"></div>
-        <div><h3>Rethinking Hybrid Work Design: Insights from Ethnography</h3>
-          <b><i>by Eileen Wong and Thijs Willems</i></b>
-            
-<p>	
-Closer study of how people actually behave in different organisational contexts could shed light on better ways to navigate—and shape—today’s fast-changing work cultures.         
-</p>	
-            
-<div class="button1"><a href="/digital-issue-11/rethinking-hybrid-work-design-insights-from-ethnography/">Read More</a></div><br></div>
-    </div>
+	<div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
+	<div>
+		<h3>Editorial</h3>
+		<b><i>by Dr Alvin Pang</i></b>
+		<p> The COVID-19 crisis is the starkest recent reminder that ensuring a people’s health is a task vital to a society’s wellbeing, and a responsibility that extends well beyond the ambit of healthcare professionals: it is a critical aspect of governing well, and rests on a whole-of-society will to take care of one another and ourselves.</p>
+		<div class="button1"><a href="/ethos-issue-26/editorial/">Read more</a></div>
+	</div>
+</div>
+
 <br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_TheNextBoundforHealthAndHealthcare_Ng_How_Yue.jpg"></div>
+	<div>
+		<h3>The Next Bound of Health and Healthcare</h3>
+		<b><i>by Ng How Yue</i></b>
+		<p>Strong community relationships, cross-sector partnerships and informed personal agency pave the way for a healthier Singapore for the future.</p>
+		<div class="button1"><a href="/ethos-issue-26/the-next-bound-of-health-and-healthcare/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_CreatingTheFutureOfHealthcare__Tan_Chorh_Chuan.jpg"></div>
+	<div>
+		<h3>Creating the Future of Healthcare: A Conversation with Prof Tan Chorh Chuan</h3>
+		<b><i>by Tan Chorh Chuan</i></b>
+		<p>The veteran clinician and Chairman of MOH Office for  
+Healthcare Transformation envisions how new data frameworks, digital tools and cross-sectoral partnerships will revolutionise  
+the way we stay healthier for life, on a national scale.</p>
+		<div class="button1"><a href="/ethos-issue-26/creating-the-future-of-healthcare/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_DesigningAHealthierCity_Tai_Lee_Siang.jpg"></div>
+	<div>
+		<h3>Designing a Healthier City</h3>
+		<b><i>by Tai Lee Siang</i></b>
+		<p>Urban environments can be designed at different scales to support healthier ways to live, work and play, with tangible benefits for productivity, sustainability and human wellbeing.</p>
+		<div class="button1"><a href="/ethos-issue-26/designing-a-healthier-city/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_PrecisionPublicHealth__Clive_Tan_and_Jeremy_Lim.jpg"></div>
+	<div>
+		<h3>Getting Ready for Precision Public Health</h3>
+		<b><i>by Clive Tan and Jeremy Lim</i></b>
+		<p>Digital and data-centred approaches to personalised medicine may soon revolutionalise care and open up new opportunities for Singapore.</p>
+		<div class="button1"><a href="/ethos-issue-26/getting-ready-for-precision-public-health/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_RealisingThePromiseOfHealthInformation__Raymond_Chua.jpg"></div>
+	<div>
+		<h3>Realising the Promise of Health Information</h3>
+		<b><i>by Raymond Chua</i></b>
+		<p>Singapore is introducing a regulatory framework to collect and share health records across the healthcare sector, easing continuity  of care for patients and unlocking new potential for public health advances.</p>
+		<div class="button1"><a href="/ethos-issue-26/realising-the-promise-of-health-information/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_HumanisingTheFutureOfCare_Leong_Choon_Kit.jpg"></div>
+	<div>
+		<h3>Humanising the Future of Care</h3>
+		<b><i>by Leong Choon Kit</i></b>
+		<p>Singapore’s primary care sector is evolving into a sophisticated web of care, with the whole wellbeing of citizens at its heart.</p>
+		<div class="button1"><a href="/ethos-issue-26/humanising-the-future-of-care/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_KeepingItReal_MentalAndSocialHealth_Richard_Johnson.jpg"></div>
+	<div>
+		<h3>Keeping It Real: Outcomes-Based Contracting for Mental and Social Health</h3>
+		<b><i>by Richard Johnson</i></b>
+		<p>Clear definitions of success, co-determined with stakeholders and supported by robust performance management, are key to delivering results meaningful to the people programmes seek to serve.</p>
+		<div class="button1"><a href="/ethos-issue-26/keeping-it-real/">Read more</a></div>
+	</div>
+</div>
+
+
+<br>
+
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_EncouragingHealthierChoices_Rory_Gallagher_and_Serene_Koh.jpg"></div>
+	<div>
+		<h3>Encouraging Healthier Choices: Helping People Take Better Care of Themselves</h3>
+		<b><i>by Rory Gallagher and Serene Koh</i></b>
+		<p>Recent work in behavioural insights at both individual and 
+systemic scales could help advance Singapore’s preventative 
+healthcare paradigm.</p>
+		<div class="button1"><a href="/ethos-issue-26/encouraging-healthier-choices-helping-people-take-better-care-of-themselves/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_Social_Norm_Nudges_and_Social_Sensemaking_Do_Hoang_Van_Khanh.jpg"></div>
+	<div>
+		<h3>Social Norm Nudges and Social Sensemaking: Lessons for Policymakers</h3>
+		<b><i>by Do Hoang Van Khanh</i></b>
+		<p>Do people make decisions based on what their peer group does or believes? Ground reality may complicate public policies based on this assumption.</p>
+		<div class="button1"><a href="/ethos-issue-26/social-norm-nudges-and-social-sensemaking-lessons-for-policymakers/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_BuildingAgeInclusiveHealthcareSystem_Reuben_Ng_and_Nicole_Indran.jpg"></div>
+	<div>
+		<h3>Building an Age-Inclusive Healthcare System in Singapore</h3>
+		<b><i>by Reuben Ng &amp; Nicole Indran</i></b>
+		<p>An important part of creating a successful ageing society entails reframing the narratives around ageing  and involving more seniors in policymaking.</p>
+		<div class="button1"><a href="/ethos-issue-26/building-an-age-inclusive-healthcare-system-in-singapore/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_HealthIsSocial_Eugene_Fidelis_Soh.jpg"></div>
+	<div>
+		<h3>Health is Social: The Future of Care in Singapore</h3>
+		<b><i>by Eugene Fidelis Soh</i></b>
+		<p>By taking responsibility not  only individually but collectively  
+for our health, Singaporeans can build  the capacities and relationships needed to thrive well into the future.</p>
+		<div class="button1"><a href="/ethos-issue-26/health-is-social-the-future-of-care-in-singapore/">Read more</a></div>
+	</div>
+</div>
+
+<br>
+
+<div class="grid-container">
+	<div><img src="/images/Ethos_Images/Ethos_Issue_26/26_Teaser_NurturingLeaders_Pang_Weng_Sun_and_Lee_Shiao_Wei.jpg"></div>
+	<div>
+		<h3>Nurturing&nbsp;Leaders for the Future of Healthcare</h3>
+		<b><i>by Pang Weng Sun &amp; Lee Shiao Wei</i></b>
+		<p>Singapore’s changing healthcare priorities mean that a new generation of leaders must learn to collaborate, communicate and think collectively, both within and across the sector.</p>
+		<div class="button1"><a href="/ethos-issue-26/nurturing-leaders-for-the-future-healthcare/">Read more</a></div>
+	</div>
+</div>
+
+
+<br>
+
 
 <div class="back">
 <a href="/all-issues/">Back to All Issues</a>
