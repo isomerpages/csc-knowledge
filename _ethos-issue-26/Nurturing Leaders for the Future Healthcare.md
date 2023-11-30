@@ -148,7 +148,7 @@ color: #469CD5;
       
 <td>
         <ol>
-          <li><b>Shifting from Expert as Leader to <span class="text-blue">Expert Leader</span></b></li>
+          <li>Shifting from Expert as Leader to <span class="text-blue">Expert Leader</span></li>
         </ol>
         <p>While clinical excellence remains important, we also need to recognize other forms of leadership vital to the practice of healthcare.</p>
       </td>
@@ -158,7 +158,7 @@ color: #469CD5;
       <td><img src="/images/Ethos_Images/Ethos_Issue_26/developing%20collective%20leadership.png"></td>
       <td>
         <ol start="2">
-          <li><b>Going beyond Developing Leaders to <span class="text-blue">Developing Collective Leadership</span></b></li>
+          <li>Going beyond Developing Leaders to <span class="text-blue">Developing Collective Leadership</span></li>
         </ol>
         <p>As healthcare becomes increasingly multidisciplinary in nature, we must begin to regard healthcare leadership as a collaborative process that benefits from different perspectives and forms of expertise.</p>
       </td>
@@ -168,7 +168,7 @@ color: #469CD5;
       <td><img src="/images/Ethos_Images/Ethos_Issue_26/leading%20in%20ecosystems.png"></td>
       <td>
         <ol start="3">
-          <li><b>Moving from Leading Institutions to <span class="text-blue">Leading in Ecosystems</span></b></li>
+          <li>Moving from Leading Institutions to <span class="text-blue">Leading in Ecosystems</span></li>
         </ol>
         <p>We want our leaders, who are accustomed to advancing their own healthcare specialties and institutions, to increasingly think in terms of, and work across, our national health ecosystem as a whole, to benefit all of Singapore.</p>
       </td>
