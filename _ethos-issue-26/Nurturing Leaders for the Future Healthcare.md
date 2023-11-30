@@ -63,7 +63,7 @@ line-height:22px;
 .healthcare-leadership
 {
 border: 2px solid darkblue;	
-padding: 20px;
+padding: 30px;
 }	
 	
 .containerbox figure img
