@@ -415,7 +415,7 @@ age and the younger population are more mobile. The Digital CoC presents opportu
 
 
 <div class="notestop" id="notestop">
-<h6>NOTES</h6>
+<h6>NOTE</h6>
 <ol>
 <li>See: Meredith Clark, “What Are Blue Zones and Why Do Some Suggest They Are the Secret to Living Longer?” <a href="https://www.independent.co.uk/life-style/health-and-families/blue-zones-netflix-diet-documentary-b2408185.html">https://www.independent.co.uk/life-style/health-and-families/blue-zones-netflix-diet-documentary-b2408185.html.</a>.</li>
 </ol>	
