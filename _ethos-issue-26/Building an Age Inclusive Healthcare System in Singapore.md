@@ -142,7 +142,7 @@ color: white;
 <p>A fundamental shift in how ageing is viewed is needed. Gerontologists have discovered that negative age stereotypes proliferate in a sea of domains, including mainstream media like television programmes<sup><a href="#notestop">6</a></sup> and movies,<sup><a href="#notestop">7</a></sup> as well as social media platforms like Twitter<sup><a href="#notestop">8</a></sup> and TikTok,<sup><a href="#notestop">9</a></sup> among others. The movement to combat ageism—stereotyping, discrimination and prejudice on the grounds of age—is slowly gathering pace in developed countries like the United States. However, the issue remains very much under the radar in Singapore. Contrary to folk wisdom, ageism is as much of a problem in Asia as it is in the Western world;<sup><a href="#notestop">10</a></sup> evidence of this has also come to light in the Singapore context.<sup><a href="#notestop">11</a></sup></p>
 
 <div class="break">
-<p class="break1">Reframing 
+<p class="break1">"Reframing 
 ageing does not 
 mean denying the 
 challenges posed 
@@ -152,7 +152,7 @@ rather adopting
 a more balanced 
 perspective that 
 considers potential 
-opportunities.</p>
+opportunities."</p>
 </div>
 
 <p>Research on the theory of stereotype embodiment indicates that the internalisation of negative age stereotypes into one’s self-concept is associated with adverse health outcomes such as a reduced sense of self-efficacy and a higher risk of depression.<sup><a href="#notestop">12</a></sup> On the flipside, positive age stereotypes are linked to favourable health outcomes such as increased longevity and better functional health. This means that reframing ageing can be a powerful tool in promoting preventive care and healthy ageing.</p>
@@ -167,7 +167,7 @@ opportunities.</p>
 <p>As the population ages, it becomes increasingly important to cater to the unique needs of older adults through specialised healthcare interventions. This presents an excellent opportunity to expand and create more ‘grey jobs’ in the healthcare sector. These are jobs that provide specialised care, support and services to older adults, ensuring their wellbeing and enhancing their quality of life.</p>
 
 <div class="break">
-<p class="break1">Rather than fixate on the limitations of older adults, healthcare providers can pay attention to their strengths and abilities.</p>
+<p class="break1">"Rather than fixate on the limitations of older adults, healthcare providers can pay attention to their strengths and abilities."</p>
 </div>
 
 <p>Among potential grey jobs are eldercare navigators, who can assist older adults and their families in manoeuvring the complex healthcare system. These navigators can help them access relevant services and understand available resources to ensure a more efficient healthcare experience. Elder-specific technology advisors can offer older adults guidance on adopting and utilising various digital health technologies. Elder health educators can focus on promoting preventive care among older adults. Specifically, they can educate both older adults and caregivers on age-related health conditions, lifestyle modifications and strategies to maintain optimal health.</p>
@@ -175,10 +175,10 @@ opportunities.</p>
 <p>Increasing the number of geriatric care specialists, eldercare counsellors and home aides are also paramount to ensure older adults receive the specialised care and support that they need. By creating and ramping up these grey jobs, the healthcare sector will be well poised to meet the needs of an ageing population.</p>
 
 <div class="break">
-<p class="break1">Engaging older adults in decision-making 
+<p class="break1">"Engaging older adults in decision-making 
 processes ensures 
 that healthcare policies  can be better aligned with the needs and 
-preferences of a diverse older population.</p>
+preferences of a diverse older population."</p>
 </div>
 
 
@@ -195,7 +195,7 @@ Policy Implementation</h3>
 
 
 <div class="break">
-<p class="break1">Healthcare providers should actively engage older adults in the co-design of healthcare services and programmes.</p>
+<p class="break1">"Healthcare providers should actively engage older adults in the co-design of healthcare services and programmes."</p>
 </div>
 
 
