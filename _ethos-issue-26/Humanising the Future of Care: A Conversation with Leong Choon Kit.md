@@ -82,7 +82,7 @@ SYSTEM TODAY?</h3>
 
 
 <div class="break">
-<p class="break1">Many healthcare needs can in fact be met well and cost-effectively at the primary care level.</p>
+<p class="break1">"Many healthcare needs can in fact be met well and cost-effectively at the primary care level."</p>
 </div>
 
 <p>Another factor is the change in societal expectations. In the past, patients hardly ever saw specialists; the polyclinics handled conditions that today would be referred to a hospital or a specialist. The quality of medical care was just as good—but today, patients have different perceptions of what the healthcare system can deliver. Indeed, in the past GPs used to carry out routine procedures, such as childhood vaccinations, that today are often done by specialist paediatricians. Over time, GPs can feel that there is no longer demand for them to provide these services. GPs are generalists. If they lose some part of their clinical practice because of lack of demand, they can go into other areas to survive. The fear is that they might then lose touch with important skills or lack the confidence in these aspects of care, even though it is part of their medical training.</p>
@@ -100,7 +100,7 @@ SYSTEM TODAY?</h3>
 <p>What we hope to achieve, through the Primary Care Networks and the latest developments in Healthier SG, is to transform primary care and shape it to match the demands and opportunities of the future. This is a long-term strategy that will take many years to achieve, but we are now moving a step closer. </p>
 
 <div class="break">
-<p class="break1"> Through the Primary Care Network and  Healthier SG, we hope to transform primary care to match the demands and opportunities of the future.</p>
+<p class="break1">"Through the Primary Care Network and  Healthier SG, we hope to transform primary care to match the demands and opportunities of the future."</p>
 </div>
 
 <p>One of the things we want to do is to give GPs support for their clinics. Most GPs are solo practitioners. If we expect them to perform more healthcare services in future, they will need staff help. It is not efficient to see a patient and also carry out scans, tests, and other checks, all of which take time. It is better to employ a nurse to perform these tasks. They can spend an extended period talking to the patient, whereas a doctor may only be able to spare a few minutes before focusing on other areas such as prescriptions. We could also support family clinics to be multi-doctor practices, so that we can accommodate GPwSI practices and hence offer a better one-stop service. The space allocated to clinics in newer housing estates may also have to be much larger to accommodate entire primary care teams and the expanded role expected of family clinics.<sup><a href="#notestop">2</a></sup> 
@@ -117,7 +117,7 @@ SYSTEM TODAY?</h3>
 
 
 <div class="break">
-<p class="break1">Our vision is not  just to advance GPs and family medicine, but to upgrade the  whole primary care system.</p>
+<p class="break1">"Our vision is not  just to advance GPs and family medicine, but to upgrade the  whole primary care system."</p>
 </div>
 
 
@@ -143,7 +143,7 @@ TO SUPPORT OTHER ASPECTS OF WELLBEING?</h3>
 <p>Today, we have a Referral Management System (RMS), based in our Primary Care Network HQs, that can help connect patients with important services such as social services, palliative care, homecare, and even community funding. While in the past it was difficult to find information on these services, the RMS now consolidates these into a single portal. It is currently underused because many GPs are not aware of it. But we want to expand this. Voluntary Welfare Organisations are being funded and trained to be the extended arms and legs of our GPs, helping to monitor blood pressure and sugar levels of the elderly, for instance. In this way, the broader community, not just medical personnel, can contribute to primary care for Singaporeans.</p>
 
 <div class="break">
-<p class="break1">We want to remind our physicians that they are responsible for their patients not just in clinical terms, but for the whole being of the person.</p>
+<p class="break1">"We want to remind our physicians that they are responsible for their patients not just in clinical terms, but for the whole being of the person."</p>
 </div>
 
 <p>There is synergy between the development of the healthcare system and other sectors, with the new focus on not just disease prevention and treatment but overall wellness. In fact, in some countries, such as Malaysia, the Ministry of Health also has responsibility for Social Services. The work we do to take care of Singaporeans in different ways could involve all aspects of service provision, across the whole public sector and community ecosystem.</p>
