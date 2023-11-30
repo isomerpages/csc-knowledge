@@ -311,7 +311,7 @@ color: black;
 <div class="containerbox">
 
 <h4><b>Building a Community of Care: Madam Amy's Story</b></h4>	
-<p style="color: #9E4579; text-align: center;">by Karthikeyan J.R, CEO, Asian Women's Welfacre Association (AWWA)</p>
+<p style="color: #9E4579; text-align: center;font-weight:bold;">by Karthikeyan J.R, CEO, Asian Women's Welfacre Association (AWWA)</p>
 	
 <p>Amid the landscape of an ageing population within the Ang Mo Kio vicinity, the collaborative efforts of healthcare institutions and social service agencies are critical in providing holistic care for seniors. With this shared aspiration in mind, AWWA, Tan Tock Seng Hospital (TTSH), National Healthcare Group Polyclinics (NHGP), the Agency for Integrated Care-Silver Generation Office (AIC-SGO), and PanCare Medical Clinic came together to actualise it with Community of Care (CoC). 
 </p>	
