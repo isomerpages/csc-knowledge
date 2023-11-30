@@ -192,8 +192,8 @@ these build on Healthier SG?</h3>
 
 
 <div class="break">
-<p class="break1">"In future there  
-will be more conditions  that we will be able to  predict and monitor using digital technologies."</p>
+<p class="break1">In future there  
+will be more conditions  that we will be able to  predict and monitor using digital technologies.</p>
 </div>
 
 
