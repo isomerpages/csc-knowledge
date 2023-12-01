@@ -93,7 +93,7 @@ SYSTEM TODAY?</h3>
 
 <p>In Australia, where my children practise as doctors, it can be difficult to refer patients to specialists in a city which could be hundreds of kilometres away. So primary care practitioners in smaller towns must manage on their own. They form groups of fellow GPs, each with special interests. These “GPwSI”<sup><a href="#notestop">1</a></sup> groups are supported by specialists in main hospitals, through telemedicine as well as regular programmes where they are brought back every three to four months to familiarise themselves with the latest specialised medical developments and advances in management. So they are semi-specialists—or rather, they are specialists in family medicine, working together to support their rural or suburban communities. This is something we hope to see happen in Singapore in future. </p>
 
-<p>We are persuading GPs that they should and are able to take care of most patients; we are setting up systems, and we will have systems to support and renumerate them for doing so.</p>
+<p>We are persuading GPs that they should and are able to take care of most patients; we are setting up systems, and we will have systems to support and remunerate them for doing so.</p>
 
 <h3>HOW IS PRIMARY CARE  IN SINGAPORE EVOLVING?</h3>
 
