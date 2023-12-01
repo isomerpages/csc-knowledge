@@ -217,7 +217,7 @@ markets, and platforms around this—from the food production angle and/or to ra
 
 
 <div class="break">
-<p class="break1">"Personalisation does not automatically mean individualisation. People's decisions are often strongly shaped by their social context and group dynamics."</p>
+<p class="break1">Personalisation does not automatically mean individualisation. People's decisions are often strongly shaped by their social context and group dynamics.</p>
 </div>
 
 
