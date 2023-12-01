@@ -344,7 +344,7 @@ By bringing together national and social agencies, family doctors, community hea
 	
 <div class="break">
 
-<p class="break1">"Our residents own their health, not just as individuals but as communities."</p>
+<p class="break1">Our residents own their health, not just as individuals but as communities.</p>
 	
 </div>	
 	
@@ -393,7 +393,7 @@ age and the younger population are more mobile. The Digital CoC presents opportu
 	
 <div class="break">
 
-<p class="break1">"Building healthier, happier communities requires a collective commitement and effort."</p>
+<p class="break1">Building healthier, happier communities requires a collective commitement and effort.</p>
 	
 </div>	
 	
