@@ -90,7 +90,7 @@ background-color: orange;
 	
 <div class="break">
 
-<p class="break1">THERE IS NO PHYSICAL HEALTH WITHOUT MENTAL HEALTH, AND THERE IS NO SOCIAL HEALTH WITHOUT MENTAL HEALTH.</p>
+<p class="break1">There is no physical health without mental health, and there is no social health without mental health.</p>
 
 </div>	
 	
@@ -100,7 +100,7 @@ background-color: orange;
 	
 <div class="break">
 
-<p class="break1">MENTAL HEALTH VARIES FROM CULTURE TO CULTURE IN THE WAY IT'S PERCEIVED, DESCRIBED OR EXPERIENCED. YOU NEED TO CREATE A SERVICE THAT CAN REFLECT AND RESPOND TO THAT.</p>
+<p class="break1">Mental health varies from culture to culture in the way it's perceived, described or experienced. You need to create a service that can reflect and respond to that.</p>
 
 </div>		
 	
@@ -138,7 +138,7 @@ them. This empowers them in the process, returning to young people a sense of ag
 	
 <div class="break">
 
-<p class="break1">BOTTOM-UP APPROACHES AND PERSONALISED, CONTEXT SENSITIVE SOLUTIONS REQUIRE A STRUCTURE, TO ENSURE THAT THE PERFORMANCE IS REAL, ACCOUNTABLE AND DELIVERS WHAT WE WANT.</p>
+<p class="break1">Bottom-up approaches and personalised, context sensitive solutions require a structure, to ensure that the performance is real, accountable and delivers what we want. </p>
 
 </div>			
 	
@@ -194,7 +194,7 @@ performance managed.</p>
 	
 <div class="break">
 
-<p class="break1">WITHIN A PROPERLY IMPLEMENTED OUTCOMES CONTRACTING ENVIRONMENT, YOU ALSO GENERATE A LOT OF RICH DATA, BECAUSE YOU ARE CONSTANTLY TRACKING, RECORDING AND REVIEWING WHAT'S GOING ON.</p>
+<p class="break1">Within a properly implemented outcomes contracting environment, you will also generate a lot of rich data, because you are constantly tracking, recording and reviewing what's going on. </p>
 
 </div>				
 	
