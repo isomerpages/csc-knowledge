@@ -184,7 +184,7 @@ color: #469CD5;
 
 
 <div class="break">
-<p class="break1">"We purposefully approach development from a broad-based understanding of leadership— not only in an institution but in  the ecosystem as a whole."</p>
+<p class="break1">We purposefully approach development from a broad-based understanding of leadership— not only in an institution but in  the ecosystem as a whole.</p>
 </div>
 
 	
@@ -204,7 +204,7 @@ color: #469CD5;
 
 
 <div class="break">
-<p class="break1">"The greater the human connectivity and trusted relationships, the higher the chance for successful collaboration."</p>
+<p class="break1">The greater the human connectivity and trusted relationships, the higher the chance for successful collaboration.</p>
 </div>
 
 <h3>Leadership for innovation in healthcare</h3>
@@ -220,7 +220,7 @@ color: #469CD5;
 <p>Some doctors and healthcare  professionals are more receptive and open to applying new ways of working and technologies, particularly if these have strong and clear benefits to patients or the healthcare system. We can help shape the future by encouraging and nurturing this new generation of practitioners.</p>
 
 <div class="break">
-<p class="break1">"We need to develop communities of leaders like strong forests, providing mutual support and capable of weathering any storms collectively."</p>
+<p class="break1">We need to develop communities of leaders like strong forests, providing mutual support and capable of weathering any storms collectively.</p>
 </div>
 
 <h3>Growing leaders for healthcare: the next lap</h3>

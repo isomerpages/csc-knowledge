@@ -94,7 +94,7 @@ A useful way to think about this transition is to compare it with how Digital Ma
 
 
 <div class="break">
-<p class="break1">"Precision Public Health is the use of technology and the principles of public health to advance the health system and population health goals."</p>
+<p class="break1">Precision Public Health is the use of technology and the principles of public health to advance the health system and population health goals.</p>
 </div>
 
 <p>Public health has and will play an important role in promoting and improving health outcomes for countries, health systems and populations. It has a strong emphasis on prevention of diseases, health promotion, advocacy for health access and coverage, enhancing people’s overall wellbeing and the many facets of public health research and evaluation. The COVID-19 pandemic, while devastating, has led to many positive changes in how health systems, researchers, providers and industry think about public health transformation. Catalysed by the pandemic, public health is experiencing a radical rethinking that is being fuelled by these three enablers that have changed the practice of public health  in many positive ways. </p>
@@ -164,7 +164,7 @@ PUBLIC HEALTH</h3>
 
 
 <div class="break">
-<p class="break1">"With Precision  Public Health, we are moving from building ‘roads’ in the healthcare system to building the equivalent of expressways, flyovers  and underground  tunnels."</p>
+<p class="break1">With Precision  Public Health, we are moving from building ‘roads’ in the healthcare system to building the equivalent of expressways, flyovers  and underground  tunnels.</p>
 </div>
 
 <p>To understand Precision Public Health in action, look no further than the example of Singapore’s National Steps challenge. This was started in 2015 by the Health Promotion Board (HPB) and is a population-level digital health intervention that leverages wearable technology to track physical activity and incentivise healthy behaviour through gamification. It has provided health sector planners with insights into health behaviours and allowed data analysis, health advice and interventions to be personalised to each individual. When connected with a digital health App such as HPB’s Healthy 365, the individual is able to get personalised recommendations on suitable activities that are located close by. This programme embodies the Precision Public Health approach and principles, and is designed to be simple to adopt and personalised  for participants.</p>
@@ -173,7 +173,7 @@ PUBLIC HEALTH</h3>
 </p>
 
 <div class="break">
-<p class="break1">"A future-ready health system positioned to make the most of precision public health approaches will attract more investments in digital health, big data and precision medicine to Singapore."</p>
+<p class="break1">A future-ready health system positioned to make the most of precision public health approaches will attract more investments in digital health, big data and precision medicine to Singapore.</p>
 </div>
 
 

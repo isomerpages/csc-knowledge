@@ -96,7 +96,7 @@ all have different medical record systems. As a result, clinical investigations 
 <p>MOH had planned to extend the use of this system to the entire healthcare sector. However, the 2018 SingHealth cybersecurity incident, which resulted in 1.5 million individuals’ personal particulars being stolen, put a halt to these plans while MOH worked on further strengthening cybersecurity measures. While we were doing this, the COVID pandemic hit us, which pushed many healthcare providers to go digital. This made it more urgent to improve the collection and use of health information. We thus revived our plans and started conceptualising the Health Information Bill, an important regulatory framework to enable and support the digitalisation of our healthcare system. This was ﬁrst announced in March 2022 and is still under development: the Bill is set to undergo public consultation by end of the year, and targeted to be read and ratiﬁed in Parliament in the ﬁrst half of 2024.</p>
 
 <div class="break">
-<p class="break1">"It can take a significant amount of time for doctors to obtain information from other practitioners."</p>
+<p class="break1">It can take a significant amount of time for doctors to obtain information from other practitioners.</p>
 </div>
 
 
@@ -174,7 +174,7 @@ providers will be required to put in place appropriate cybersecurity measures to
 
 
 <div class="break">
-<p class="break1">"Digital systems are helpful tools but not replacements for the doctor-patient relationships."</p>
+<p class="break1">Digital systems are helpful tools but not replacements for the doctor-patient relationships.</p>
 </div>
 
 <p>In addition, there are several groups that we have been engaging and must continue to. <b>For the general public,</b> we will communicate the beneﬁts of sharing health information, and to assure them that their privacy, conﬁdentiality, and security concerns will be looked after. They need to know that not just anyone can go in to access healthcare data, and that we will also take serious action against anyone who breaches our information or cybersecurity regulations.</p>
