@@ -196,7 +196,7 @@ providers will be required to put in place appropriate cybersecurity measures to
 
 <div class="containerbox2">
 
-<p>Details on public consultation for the Bill will be made known soon. To share your views, write to us at <a href="HIA_enquiries@moh.gov.sg">HIA_enquiries@moh.gov.sg</a></p>	
+<p>Details on public consultation for the Bill will be made known soon. To share your views, write to us at <a href="mailto:HIA_enquiries@moh.gov.sg">HIA_enquiries@moh.gov.sg</a></p>	
 	
 </div>
 
