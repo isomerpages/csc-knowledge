@@ -1,0 +1,19 @@
+collections:
+  ethos-issue-05:
+    output: true
+    order:
+      - Editorial.md
+      - Foreword.md
+      - "Global Talent: The War Goes On.md"
+      - "Thinking About Winning: Leadership in the Global War for Talent.md"
+      - "Talent Management in Asia: Four Perspectives.md"
+      - Accelerating the Growth of the Asian Leader.md
+      - Leadership Development in the Singapore Public Service.md
+      - "Talent on Demand: Managing Talent in an Age of Uncertainty.md"
+      - Review of Richard Florida’s Who’s Your City?.md
+      - "The Global Talent War: Why Singapore Needs to Get Serious About
+        Branding Itself.md"
+      - "Developing Human Capital: Insights from the Summit.md"
+      - "Sharpening Singapore’s Edge: Insights from the IBM Experience.md"
+      - Singapore as Innovation Nation.md
+      - Creating Hot Spots of Innovation and Energy in Your Organisation.md

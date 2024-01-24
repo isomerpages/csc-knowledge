@@ -1,0 +1,18 @@
+logo: /images/csc_logo.png
+links:
+  - title: Ethos
+    url: /ethos/
+    sublinks:
+      - title: Latest Issue
+        url: /ethos/
+      - title: All Issues
+        url: /all-issues/
+  - title: Books
+    url: /books/
+    sublinks:
+      - title: Full Catalogue
+        url: /catalogue/
+  - title: Contact Us
+    url: /contact-us/
+  - title: CSC Website
+    url: https://www.csc.gov.sg/

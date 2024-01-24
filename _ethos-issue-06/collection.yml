@@ -1,0 +1,18 @@
+collections:
+  ethos-issue-06:
+    output: true
+    order:
+      - Editorial.md
+      - Leadership at a Time of Crisis.md
+      - "Book Review: Krugman, Wolf and the Roots of the Financial Crisis.md"
+      - "Opinion: It’s Not Over Yet.md"
+      - The 2009 Budget and the Ministry of Finance’s Approach to
+        Countercyclical Economic Strategy.md
+      - Thinking Beyond the Crisis.md
+      - Crisis proof Governance.md
+      - "Singapore’s Economic Growth Model: Too Much or Too Little?.md"
+      - Staying Ahead of the Game.md
+      - The End of the World (Economy) as We Know It.md
+      - Auctions, Market Experiments and Public Policy.md
+      - Rethinking Incentives for the Downturn.md
+      - "Singapore’s Political Economy: Two Paradoxes.md"

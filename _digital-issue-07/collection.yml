@@ -1,0 +1,10 @@
+collections:
+  digital-issue-07:
+    output: true
+    order:
+      - Editorial.md
+      - "Being Human in a Crisis: What It Means to Us.md"
+      - The Role of Government in E Commerce Development.md
+      - Growing from Clusters to Ecosystems.md
+      - "Inviting Possibilities: Review of Margaret Heffernan’s “Uncharted” and
+        Scott Smith’s “How to Future”.md"

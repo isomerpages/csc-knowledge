@@ -1,0 +1,10 @@
+collections:
+  digital-issue-09:
+    output: true
+    order:
+      - Editorial.md
+      - Encouraging Innovation for A More Sustainable Built Environment.md
+      - Designing for a Human Future.md
+      - Rethinking Sustainable Urban Governance.md
+      - "Collaborative Leadership & the Challenge of the Future: In Conversation
+        with Peter Hawkins.md"

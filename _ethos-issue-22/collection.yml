@@ -1,0 +1,20 @@
+collections:
+  ethos-issue-22:
+    output: true
+    order:
+      - Editorial.md
+      - "Singapore and COVID 19: In Perspective.md"
+      - Taking Stock of an Unprecedented Pandemic.md
+      - Learning from Crisis.md
+      - Fiscal Responses to COVID 19 in Singapore and Hong Kong.md
+      - Supporting Jobs and Livelihoods during the Pandemic.md
+      - Strengthening Mental Wellbeing in a Pandemic.md
+      - Can We Nudge the Pandemic Away?.md
+      - Contact Tracing Tech Across the Data Life Cycle.md
+      - The Role of Public Communications and Engagement in a Pandemic.md
+      - Leadership at a Time of (Another) Crisis.md
+      - "Transformation in the Singapore Public Service: Emerging Stronger from
+        the Pandemic.md"
+      - COVID 19 and Singapore’s Health Diplomacy.md
+      - The Global Pandemic, US China Relations, and Implications for Singapore
+        and ASEAN.md

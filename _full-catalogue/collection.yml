@@ -1,0 +1,4 @@
+collections:
+  full-catalogue:
+    output: true
+    order: []

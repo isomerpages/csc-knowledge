@@ -1,0 +1,23 @@
+collections:
+  ethos-issue-10:
+    output: true
+    order:
+      - Foreword.md
+      - Preface.md
+      - Editorial.md
+      - "Public Governance: Challenges in a Changing Landscape.md"
+      - "The New Synthesis: Preparing Government for the Challenges of the 21st
+        Century.md"
+      - "National Resilience: Developing a Whole ofSociety Response.md"
+      - "Opinion: Singapore’s Non Profit Sector: What Should its Role Be?.md"
+      - Open Government and Public Crowdsourcing in Practice.md
+      - Developing Our Approach to Public Engagement.md
+      - Perceptions of Fairness.md
+      - Adaptive Government.md
+      - "Opinion: Preparing Public Officers for New Modes of Governance.md"
+      - "Opinion: Frontiers, Sovereignty and Cyberspace.md"
+      - Triumph of the Lion City Review of Edward Glaeser’s Triumph of the
+        City.md
+      - "Opinion: Futures Literacy — Embracing Complexity and Using the
+        Future.md"
+      - Leadership Across Generations.md

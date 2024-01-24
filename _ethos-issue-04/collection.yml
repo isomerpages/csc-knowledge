@@ -1,0 +1,24 @@
+collections:
+  ethos-issue-04:
+    output: true
+    order:
+      - Editorial.md
+      - Reclaiming Public Administration.md
+      - Not Just Service Delivery.md
+      - Creating and Measuring Public Service Value.md
+      - Leveraging Networks for Public Service Delivery.md
+      - Reinventing Singapore’s Electronic Public Services.md
+      - "Better, Faster, Cheaper: Service Transformation and Channel Migration
+        at the Ministry of Manpower.md"
+      - "Ten Tips: How to Create a Next Generation Public Service Super
+        Portal.md"
+      - "Interview with Ng Hock Keong: Service Beyond Excellence.md"
+      - "Integrated Service Delivery: The Australian Department of Human
+        Services.md"
+      - What Does It Mean to Optimise Public Service Delivery?.md
+      - "Book Review: Public Services at the Crossroads.md"
+      - "Governance at the Leading Edge: Black Swans, Wild Cards, and Wicked
+        Problems.md"
+      - Managing Complexity and Uncertainties.md
+      - "Interview with Paul Romer: The Challenge of Growth.md"
+      - The Changing Face of Government.md

@@ -1,0 +1,17 @@
+collections:
+  ethos-issue-14:
+    output: true
+    order:
+      - Editorial.md
+      - "Meritocracy: Time for an Update?.md"
+      - Striking the Right Balance.md
+      - What We Didn’t Know About Multigenerational Mobility.md
+      - "Economic Development and Social Integration: Singapore’s Evolving
+        Social Compact.md"
+      - Ownership, Opportunity and Outcomes.md
+      - New Strategic Capabilities and Partnership Paradigms for Singapore’s
+        Social Sector.md
+      - Governance in an Age of Uncertainty.md
+      - Embracing Complexity in Healthcare.md
+      - Simulations, Exercises and Games in the Civil Service.md
+      - Gearing the Public Service for SG100.md

@@ -1,0 +1,6 @@
+collections:
+  templates:
+    output: true
+    order:
+      - Page Content Template.md
+      - Table of Content template.md
