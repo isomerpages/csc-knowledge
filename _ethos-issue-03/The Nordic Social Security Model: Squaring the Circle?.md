@@ -162,34 +162,26 @@ Our future test for the Nordic model will be whether it is able to sustain an ag
 
 <p>In terms of policy directions or programmes, it would difficult to import most features of the Nordic model into the Singapore system as it is premised on an entirely different social philosophy, and each component of the social security system is integrated with and dependent on the others. The question, at the end of the day, could simply be: what do we believe in? It starts there.</p>
 
-
-
-
-<p class="small-text text">The “Nordic model” can be broadly characterised as a high-tax, high-expenditure social democratic welfare state — except with the labour market flexibility and economic competitiveness of a liberal welfare state.</p>
-
-
-<div class="container">
+<div class="containerbox">
 
 
 <h3 class="title">WHAT IS THE NORDIC MODEL?</h3>
 <p class="text">The “Nordic model” can be broadly characterised as a high-tax, high-expenditure social democratic welfare state — except with the labour market flexibility and economic competitiveness of a liberal welfare state.</p>
 <p class="text">Table 1 provides a simplified characterisation of different European social models.</p>
-<h4>TABLE 1: CHARACTERISATION OF SOCIAL MODELS<sup><a href="#notes">11</a></sup></h4>
+<h5>TABLE 1: CHARACTERISATION OF SOCIAL MODELS<sup><a href="#notes">11</a></sup></h5>
 <p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_03/Nordictable01.jpg"></p>
 <p class="text">The Nordic states appear to have done well both on measures of competitiveness and social outcomes (Table 2).</p>
-<h4>TABLE 2: COMPARISON OF ECONOMICAL AND SOCIAL OUTCOMES<sup><a href="#notes">12</a></sup></h4>
+<h5>TABLE 2: COMPARISON OF ECONOMICAL AND SOCIAL OUTCOMES<sup><a href="#notes">12</a></sup></h5>
 <p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_03/Nordictable02.jpg"></p>
 
-<p class="text">As indicated in Table 2, the
-high emphasis on social welfare is paid for by some of the highest tax
-rates in the world (Table 3).</p>
-<h4>TABLE 3: TAX RATES AND COLLECTIONS IN SWEDEN, DENMARK AND SINGAPORE<sup><a href="#notes">13</a></sup></h4>
+<p class="text">As indicated in Table 2, the high emphasis on social welfare is paid for by some of the highest tax rates in the world (Table 3).</p>
+<h5>TABLE 3: TAX RATES AND COLLECTIONS IN SWEDEN, DENMARK AND SINGAPORE<sup><a href="#notes">13</a></sup></h5>
 
 <p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_03/Nordictable03.jpg"></p>
 	
 <p class="text">Tax revenues have averaged at about 50% of GDP over the past five years. Although taxes on labour income are arguably high enough to be on the wrong side of the Laffer curve,<a href="#notes"><sup>20</sup></a> this is as efficient a tax mix as can be expected given their revenue needs, with higher taxes on labour income and consumption, and regionally comparable taxes on corporate and capital income.</p>
 <p class="text">Table 4 outlines the benefits enjoyed in the Nordic states, relative to comparable social measures in Singapore.</p>
-<h4>TABLE 4: COMPARISON OF BENEFITS IN SWEDEN, DENMARK AND SINGAPORE</h4>
+<h5>TABLE 4: COMPARISON OF BENEFITS IN SWEDEN, DENMARK AND SINGAPORE</h5>
 	
 <p style="text-align: center;"><img src="/images/Ethos_Images/Ethos_Issue_03/Nordictable0401.jpg"></p>
 
