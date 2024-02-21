@@ -2,6 +2,7 @@
 title: "The Nordic Social Security Model: Squaring the Circle?"
 permalink: /ethos-issue-03/the-nordic-social-security-model-squaring-the-circle/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -100,7 +101,7 @@ color: white;
 
 <p>There has been some attention of late on the Nordic states (Sweden, Denmark, Finland and Norway), who appear to have found a virtuous compromise between staying competitive and ensuring social security for their citizens. In December 2006, an inter-ministry team from Singapore made a study trip to Denmark and Sweden to study their social security system. This article highlights some of our findings.</p>
 
-<h3>MAKING IT WORK</h3>
+<h4>MAKING IT WORK</h4>
 
 <p>The Nordic social security system is based on the belief that the state should strive to ensure equality of outcomes and social security. Redistribution, through taxes and transfers, is an explicit goal of Nordic social policy. Benefits are universal, and means-testing, to the extent that it is applied, determines only the amount of benefit a person shall receive, not whether he should receive any benefit at all. There are clear, publicly known rules governing how much social security benefits someone may receive and for how long.</p>
 
@@ -120,17 +121,17 @@ The Danish "flexicurity" system claims to combine labour market flexibility with
 
 <p>All three are necessary to balance one another. A flexible labour market, for example in terms of hiring and firing workers, lowers the cost of labour for employers and enhances economic competitiveness. The uncertainty and volatility it creates for workers is mitigated by generous UI benefits, which are partly funded by worker contributions and mostly by the state.</p>
 
-<p><strong>Work-based Criteria</strong><br>
-To reduce the disincentive to work created by the UI scheme, unemployed workers have to register at the state public employment offices and undertake to accept the first suitable job offered in order to receive their UI benefits. To help unemployed workers return to the workforce as quickly as possible, they can take part in ALMPs, which fall into four broad categories: adult training (encompassing both formal and informal training, work-related education and personal development programmes), job search services (such as job matching and counselling) and sanctions on UI benefits if the work conditions are not complied with, incentive programmes for private sector employers (e.g., wage subsidies), and direct employment programmes in the public sector.</p>
+<h5>Work-based Criteria</h5>
+<p>To reduce the disincentive to work created by the UI scheme, unemployed workers have to register at the state public employment offices and undertake to accept the first suitable job offered in order to receive their UI benefits. To help unemployed workers return to the workforce as quickly as possible, they can take part in ALMPs, which fall into four broad categories: adult training (encompassing both formal and informal training, work-related education and personal development programmes), job search services (such as job matching and counselling) and sanctions on UI benefits if the work conditions are not complied with, incentive programmes for private sector employers (e.g., wage subsidies), and direct employment programmes in the public sector.</p>
 
 <p>Consequently, employment churn is high: in Denmark, for instance, worker turnover is estimated to be about 30% in any given year, and it is considered normal to have five or six jobs over one’s career with unemployment spells lasting about three to five weeks. About 60% of registered unemployed people find jobs after two months;<a href="#notes"><sup>1</sup></a> 22.6% of the total unemployed are considered long-term unemployed (generally more than one year of unemployment).<a href="#notes"><sup>2</sup></a> At the same time, at least 80% of workers are members in a UI fund (85% to 90% in Sweden), even though membership is voluntary, which is remarkable in a scheme that in theory should be too susceptible to adverse selection to be viable without mandatory participation.<a href="#notes"><sup>3</sup></a></p>
 
-<p><strong>Partnership with Unions</strong><br>
-The “flexicurity” system would not be possible without the cooperation of the “social partners”, namely the trade unions and employers’ organisations. However, unions are a double-edged sword: they both enable and lock in the present labour market policy. Having the unions on their side, for example, makes it difficult for the government to scale back on UI benefits, as the new Swedish government was trying to do. The union-negotiated wage forms the de facto minimum wage, as it applies to all workers in the industry, union member or not, citizen or foreigner.</p>
+<h5>Partnership with Unions</h5>
+<p>The “flexicurity” system would not be possible without the cooperation of the “social partners”, namely the trade unions and employers’ organisations. However, unions are a double-edged sword: they both enable and lock in the present labour market policy. Having the unions on their side, for example, makes it difficult for the government to scale back on UI benefits, as the new Swedish government was trying to do. The union-negotiated wage forms the de facto minimum wage, as it applies to all workers in the industry, union member or not, citizen or foreigner.</p>
 
 <p>The relationship between the government and the unions may be changing: Although unionisation rates are still very high, union membership is falling, in part because the young are less interested in the unions, especially when faced with a strong labour market, and in part because of the growing trend in part-time and informal work. At the time of our visit, the new Swedish government was considering making UI fund membership compulsory, to sever the historical link between UI fund and union membership, which would weaken the unions.<a href="#notes"><sup>4</sup></a></p>
 
-<h4>The Cost of Welfare </h4>
+<h5>The Cost of Welfare </h5>
 
 <p>The Nordic competitive strategy is familiar to Singapore, with its focus on rising above labour costs and moving up the value chain into more productive and knowledge-intensive industries. Strong economic fundamentals in the Nordic states present a stable and attractive environment for business. Sweden and Denmark, for example, have enjoyed budget surpluses of about 2.3% GDP over the past five years. Domestic inflationary pressures have also been kept in check, averaging at about 1% to 2%. Strong international competition has also spilled over to industries competing in the domestic market and restrained cost inflation through higher productivity growth and lower wage growth. For both countries, low inflation reflects high productivity growth.</p>
 
@@ -146,8 +147,8 @@ Our future test for the Nordic model will be whether it is able to sustain an ag
 </div>
 
 
-<p><strong>Changing Demographics and Social Norms</strong><br>
-One future test for the Nordic model will be a demographic one—whether the state is able to sustain its ageing population and growing number of immigrants. Preliminary estimates by the Swedish government suggest that they will be able to sustain their social security system in the face of an ageing population, as long as they do not need to raise the level or quality of existing services. They will do so in part by maintaining a budget surplus of 2% GDP over the business cycle until 2015, which can be used to reduce public debt roughly to the 2005 debt level.</p>
+<h5>Changing Demographics and Social Norms</h5>
+<p>One future test for the Nordic model will be a demographic one—whether the state is able to sustain its ageing population and growing number of immigrants. Preliminary estimates by the Swedish government suggest that they will be able to sustain their social security system in the face of an ageing population, as long as they do not need to raise the level or quality of existing services. They will do so in part by maintaining a budget surplus of 2% GDP over the business cycle until 2015, which can be used to reduce public debt roughly to the 2005 debt level.</p>
 
 <p>In response to this trend, the key strategy of the new Swedish government is to strengthen the labour market: increase the demand for labour by reducing payroll taxes for older and younger workers, and increase the supply of labour by maintaining a high level of employment. Denmark, on the other hand, is projected to be in the red from 2016 onwards, with a total public deficit of about 8% by 2029. Nonetheless, the Danes are optimistic that the new Welfare Agreement cemented between all the major parties in 2006 will enhance the fiscal sustainability of their model, primarily by raising the retirement age for voluntary early retirement pensions and public old-age pensions from 2019, and by indexing the retirement age thresholds to the life expectancy of 60-year-olds, which is about 19.5 years, so that the government can reduce its outlay on old-age pensions and stabilise outlay even as life expectancies increase.</p>
 
@@ -155,7 +156,7 @@ One future test for the Nordic model will be a demographic one—whether the sta
 
 <p>The worry is not only with immigrants; some feel that the young seem to be more materialistic than in the past and less willing to pay top tax rates in exchange for social security.<a href="#notes"><sup>9</sup></a> Critics of the Nordic model point out that in some aspects, it is too good to be true: the official unemployment figures, for example, hide high public sector employment (about 30% of the total work force), participation in labour market programmes, including wage-subsidised jobs, and withdrawals from the workforce due to sick leave or early retirement. A McKinsey article in June 2006 estimated that the actual unemployment rate in Sweden was 17% (11% more than the official rate). This 17% included people on labour market programmes, latent job candidates, the under-employed and those excluded from the workforce but able to work (for example, on early retirement or sick leave beyond Sweden’s normal historic levels from the 1970s).<a href="#notes"><sup>10</sup></a></p>
 
-<h3>A QUESTION OF VALUES</h3>
+<h4>A QUESTION OF VALUES</h4>
 
 <p>It is tempting to talk about social security systems in abstraction, but a social security system depends, first and foremost, on the social values of the people who depend on it and who pay for it with their tax dollars. The Nordic model is an interesting way of incorporating work into the heart of a welfare system—if a welfare system is what is needed. Citizens encountered in the course of the study trip seemed to be genuinely proud of their social security system; although aware of its faults, they seemed to feel that the social values embedded into the system were worth preserving, even at the cost of high taxes.</p>
 
