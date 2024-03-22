@@ -94,7 +94,7 @@ border-bottom: 1px solid black;
 
 <p>Postings and job rotations are common in the Singapore government—within an agency or family of agencies, within a sector, even government-wide. These experiences are invariably stressful for the individuals, teams and organisations involved, but can also catalyse deep learning and powerful transformation.</p>
 
-<p>Here are five ideas to help navigate and optimise such transitions, based on the collective wisdom of leaders at all levels of the Singapore public service. (<a target="_blank" href="https://go.gov.sg/leading-moves-guide">You’ll find more details and elaboration here</a>)</p>
+<p>Here are five ideas to help navigate and optimise such transitions, based on the collective wisdom of leaders at all levels of the Singapore public service. (<a target="_blank" href="https://go.gov.sg/leading-moves-guide">You’ll find more details and elaboration here.</a>)</p>
 
 <h3>1. Transition is a leadership process</h3>
 
