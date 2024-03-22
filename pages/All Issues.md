@@ -45,11 +45,11 @@ font-size: 16px;
 	
 
 </style>
-<!-- Use h3 tags to mark the year. -->
+
 
 <h3>2023</h3>
 
-<!-- Each div class grid container must contain 2 div class grid items. Refer to Isomer guide for HTML/CSS templates.-->
+
 
 
 
@@ -246,9 +246,16 @@ font-size: 16px;
 
 <h3>2018</h3>
 
-
 <div class="grid-container">
     <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosdigital03.jpg">
+        <p>
+            <a target="_blank" href="/digital-issue-06/">Digital Edition Issue 3, Sept 2018</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-digital-issue-03">Download PDF</a>
+        </p>
+    </div>
+ <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital02.jpg">
         <p>
             <a target="_blank" href="/digital-issue-02/">Digital Edition Issue 2, Apr 2018</a>
@@ -256,7 +263,11 @@ font-size: 16px;
             <a target="_blank" href="https://go.gov.sg/digital-issue-02">Download PDF</a>
         </p>
     </div>
-    <div class="grid-item">
+</div>
+
+
+<div class="grid-container">
+       <div class="grid-item">
       <img src="/images/Ethos_Thumbnails_Cover/ethosissue18.jpg">
         <p>
        <a target="_blank" href="/ethos-issue-18/">Issue 18, Jan 2018, The Future of Work</a>
@@ -264,17 +275,6 @@ font-size: 16px;
  <a target="_blank" href="https://go.gov.sg/ethos-issue-18">Download PDF</a>
         </p>
 </div>
-</div>
-
-<div class="grid-container">
-    <div class="grid-item">
-        <img src="/images/Ethos_Thumbnails_Cover/ethosdigital06.jpg">
-        <p>
-            <a target="_blank" href="/digital-issue-06/">Digital Edition Issue 6, Jun 2020</a>
-            <br>
-            <a target="_blank" href="https://go.gov.sg/digital-issue-06">Download PDF</a>
-        </p>
-    </div>
 </div>
 
 
@@ -330,7 +330,7 @@ font-size: 16px;
             <a target="_blank" href="https://go.gov.sg/ethos-issue-14">Download PDF</a>
         </p>
     </div>
-    <div class="grid-item"></div> <!-- Empty grid-item -->
+    <div class="grid-item"></div> 
 </div>
 
 
@@ -346,7 +346,7 @@ font-size: 16px;
         </p>
     </div>
     
-  <!-- Empty grid-item -->
+  
    <div class="grid-item"></div>
 </div>
 
@@ -362,7 +362,7 @@ font-size: 16px;
         </p>
     </div>
     
-   <!-- Empty grid-item -->
+   
    <div class="grid-item"></div>
 </div>
 
@@ -379,7 +379,7 @@ font-size: 16px;
         </p>
     </div>
     
-   <!-- Empty grid-item -->
+   
    <div class="grid-item"></div>
 </div>
 
@@ -444,7 +444,7 @@ font-size: 16px;
             <a target="_blank" href="https://go.gov.sg/ethos-issue-06">Download PDF</a>
         </p>
     </div>
-	<!-- Empty div grid item. Do not remove.-->
+	
 	<div class="grid-item"></div>
 </div>
 
@@ -479,7 +479,7 @@ font-size: 16px;
         </p>
     </div>
 	
-<!-- Empty div grid item. Do not remove.-->
+
 <div class="grid-item"></div>
 </div>
 
@@ -516,6 +516,6 @@ font-size: 16px;
             <a target="_blank" href="https://go.gov.sg/ethos-issue-01">Download PDF</a>
         </p>
     </div>
-	<!-- Empty div grid item. Do not delete-->
+	
 	<div class="grid-item"></div>
 </div>
