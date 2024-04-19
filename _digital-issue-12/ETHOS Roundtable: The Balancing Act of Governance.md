@@ -132,39 +132,46 @@ We want to make sure the use of AI is ethical, beneficial and people-centred.</p
 <div class="break">
 
 <p class="break1">
-Singapore is in a good position to help look for opportunities and challenges, by reaching out  to colleagues who are open.
-</p>
+We are not attending enough to the empathetic side of governance. </p>
 
 </div>
 
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">YII</span>:</strong></span> I think there are several challenges that Singapore faces in a changing world. How Singapore prepares itself to meet these challenges will be something others can learn from. </p>
-
-<p>The first is of course the economy. While meritocracy has led to good results, it may also have led to inequality. The global economy has become a bit sluggish and Singapore may be impacted. Once people start losing jobs and comparing their lot with their neighbours, there may be a human tendency to fall back on communitarian politics. If we are not careful, this can end up dominating the conversation. Singapore has been hitting above its weight class—a testament to good leadership—but has it peaked, given the competition all around, particularly with the digital economy? This is where Singapore has to be creative and innovate. </p>
-
-<p>Second is the leadership transition. Given changing public expectations, can the next generation of leadership steer Singapore in the new direction that it will need to go remains to be seen.</p>
-
-<p>The future is a whole different ball game, and—this applies not just to Singapore but every country—you may want to keep doing what you are already good at, but the world may be moving on to a different ballgame, that you can’t dictate, as a small country.</p>
-
-<p>The third in my view is healthcare. What’s close to my heart is the software of humans, that is to say mental health. With greater digitalisation comes a changing environment in terms of jobs and competition as well as social media, cyberbullying, social isolation and so on. There are not only physical effects but a mental impact, such as the stress of work as well as of social expectations, that you’d have to be prepared for.</p>
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">MULLIGAN</span>:</strong></span> I have been thinking about the difference between managers and leaders. Managers make sure things are done right, while leaders make sure we are doing the right things. But I also think that in leading us into the future, leaders should make sure we are doing the right thing, as well as the right things. And then looking to do things right to get us there. All of these are important from a governance point of view.</p>
+<p>As the pace of change and pace of decision-making accelerates, we should remember to take time to consult with people; to listen so that we know to do things better and to do the right thing even as we need to make decisions faster. </p>
+<p>We also need systems and processes to make sure we take care of all of these aspects of governance. As was pointed out recently, there is no such thing as an evil civil servant. It is usually a system or process that has failed, rather than an individual. </p>
+<p>As leaders, we are responsible for charting new paths that may require us to do things differently, in a way that has never been done before, because there is no playbook for the new. This may mean disrupting established processes. But those processes are also important to protect our staff and the public interest. As a leader, there is a tension in having to do new things while also needing to have appropriate processes and safeguards in place.</p>
+<p>We need to be empowering people to take risks because we cannot innovate otherwise. But we also need to be managing the risks. How might we resolve this balancing act as we move deeper into uncharted territory?</p>
 
 <div class="break">
 
 <p class="break1">
-Singapore is in a good position to help look for opportunities and challenges, by reaching out  to colleagues who are open.
+In leading us into the future, leaders should make sure we are doing the right thing, as well as the right things. And then looking to do things right to get us there.
 </p>
 
 </div>
 
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">BOROS</span>:</strong></span> I raised the idea of ASEAN as a family earlier: if you want a family where trust is strong, you have to help one another out. So we’ve talked about identifying a common challenge. For a family of 10, it might be, say, what to watch on TV together. But what about the brother who does not have enough food on his table? Would he rather think about food or TV?</p>
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">HUOT</span>:</strong></span> Having systems and processes in place is important, but we also need to pay attention to mindsets and culture. We must remember that people do not all think the same way in a society. People with different backgrounds may have different understandings of any change, for instance. </p>
+<p>This is also why Cambodia is trying to strengthen the capability of our people. In government, we are planning to train and upskill some 1.5 million of youth from poor and vulnerable families through training programmes, so that they can better support the coming reforms. Our human resources are the starting point for meaningful change.</p>
 
-<p>So for me, it’s not so much about the common challenge as the real needs.
-If you want to have a strong family, you look out for the real needs of each of your family members. Then they don’t have to look elsewhere for help.</p>
+<div class="break">
 
-<p>I think Singapore is already a hub for the world: so you can see where the transition of our region is going. Singapore is in a good position to help look for opportunities and challenges, by reaching out to colleagues who are open. It is not the ASEAN way to come and ask for help. But in a strong family, you go ahead and help—you don’t wait for your family members to ask. You say: “We are family, I see what you need, this is what I can offer, think about it.”</p>
+<p class="break1">
+Having systems and processes in place is important, but we also need to pay attention to mindsets and culture.</p>
+</div>
 
+<h3>What did you find noteworthy during your time in Singapore for the LGP?</h3>
+
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #ff2324;">SUHARTI</span>:</strong> In Singapore, a much smaller country than Indonesia, the government plays a relatively larger role. But I have noticed a strong alignment among government leaders, which means programmes can be executed more effectively. </span></p>
+<p>Having worked in the Indonesian government for over 32 years, I have had many interactions with Singaporean officials. I also notice that there has been a change over time: they are now much more open, and more prepared to share information and to collaborate across boundaries.</p>
+
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">MULLIGAN</span>:</strong></span> I have been struck by the alignment across government, in terms of the direction, ambition and determination to deliver. There has been a very strong focus on evidence-based policymaking, measurable results and performance indicators. It points to the need to continually sense check the outcomes of what we do—to look at what the evidence is really telling us.</p>
+<p>At the same time, my impression is that all of these are informed by a sense of compassionate empathy: that all this is for and about the people. We are building up our economy, and our infrastructure, for the good of society.</p>
+
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">HUOT</span>:</strong></span> In Cambodia, we also want to be regarded as a government that takes care of its people. Singapore does this in a whole-of-nation way, by involving different stakeholders and society at large. While we also work towards this in my country, not all actors are actively involved in the processes of governance. </p>
+<p>My time in Singapore has been a reminder to better engage more stakeholders, so that our government policies can be more tangible for and applicable to people with different needs. </p>
 <hr>
 
-<p class="small-text"><em>The ETHOS Roundtable was conducted in August 2019 with a group of participants in the 12th Leaders in Governance Programme (LGP). Organised annually by the Civil Service College, the LGP draws from Singapore’s development experience to offer practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the seven-day programme, participants interact with thought leaders, and visit key government agencies to understand their operating philosophies and values.</em></p>
+<p class="small-text"><em>The ETHOS Roundtable was conducted in August 2023 with a group of participants in the 15th Leaders in Governance Programme (LGP). Organised annually by the Civil Service College, the LGP draws from Singapore’s development experience to offer practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the seven-day programme, participants interact with thought leaders, and visit key government agencies to understand their operating philosophies and values.</em></p>
 
 
 
