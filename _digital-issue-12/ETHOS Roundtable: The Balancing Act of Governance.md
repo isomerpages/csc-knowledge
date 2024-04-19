@@ -76,7 +76,7 @@ li {
 
 <p class="small-text"><strong><span style="color: #4f81bd;">Mr Huot Synead</span></strong>, then Secretary of State, Ministry of Civil Service, Cambodia</p>
 
-<p class="small-text"><strong><span style="color: #7030a0;">Dr Suharti</span></strong>, Secretary General, Ministry of Education, Culture, Research and Technology, Indonesia</p>
+<p class="small-text"><strong><span style="color: #ff2324;">Dr Suharti</span></strong>, Secretary General, Ministry of Education, Culture, Research and Technology, Indonesia</p>
 
 <p class="small-text"><strong><span style="color: #76923c;">Ms Pauline Mulligan</span></strong>, Assistant Secretary General, Indigenous Enterprise Development, Ministry of Enterprise, Trade and Employment, Ireland</p>
 
@@ -94,11 +94,17 @@ li {
 <p>Cambodia elected a new government in 2023. The people have high expectations of public service delivery from the new administration. To meet these expectations, the government is taking a collaborative approach, working together with other stakeholders to meet these goals. This means that managing and improving public trust in government has become a key concern for us.</p> 
 <p>We are also looking to digital technology to help us improve service delivery and transform our public sector. But we are also keeping a close eye on its risks, such as the impact on privacy and cybersecurity.</p>
 
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #7030a0;">SUHARTI</span>:</strong> In Indonesia, our challenge is to make sure that our children have access to good quality schooling. One of our priorities at the Ministry of Education, Culture, Research and Technology is to help our young people do well, not only academically, but also in terms of character building to prepare them for the future.</span></p> 
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #ff2324;">SUHARTI</span>:</strong> In Indonesia, our challenge is to make sure that our children have access to good quality schooling. One of our priorities at the Ministry of Education, Culture, Research and Technology is to help our young people do well, not only academically, but also in terms of character building to prepare them for the future.</span></p> 
 <p>At the end of 2019, analysis showed that up to half of all Indonesian students had failed to reach minimum competence in numeracy and many also did not reach minimum literacy, based on international PISA standards.<sup>1</sup> Our Minister declared this an emergency, prompting us to accelerate efforts to ensure our young people develop these fundamental competencies. Apart from basic skill problem, we also have some issues with bully, sexual abuse, and intolerance, which is what we are trying to address through character building programmes in schools.</p>
 <p>A related challenge is to improve the quality of our teachers. With more than four million teachers in Indonesia, it is impossible, with our limited resources, to provide regular training for all of them. So, we need to find alternative ways to support them, such as digital platforms for teacher training and professional development. </p>
 
-<h3>How Can ASEAN Work Together to Address Common Challenges, Such As Climate Change?</h3>
+<h3>How are you adopting digitalisation to address the challenges you face?</h3>
+
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #ff2324;">SUHARTI</span>:</strong> In general, digitalisation is a central priority for the Indonesian government. We have set up units to provide dedicated support for digitalisation strategies across the public sector. </span></p>
+<p>For education, we have developed a digital platform to provide materials for our teachers, including training videos, and to enable them to learn from one another. Some two million teachers are already on the platform. The rapid adoption of online methods by teachers as well as students has been very encouraging.</p>
+<p>We have also computerised our assessments, including its reporting system, that enables schools to compare their performance with other schools in the area. Through the assessment data, we hope we can help schools and local governments in planning and prioritising challenges. The data provided includes data on literacy, numeracy, statistics on bullying risks and so on.</p>
+<p>Digital systems will also make it easier for our schools to prepare their reports to the Ministry, and to manage their financial resources. Not all schools have good access to the internet, so our computerised systems are also available both online and offline. We have also set up an e-commerce system to help schools procure supplies they need, and it has already attracted thousands of business partners.</p>
+<p>Looking forward, we have been thinking about how we can use artificial intelligence (AI) to help teachers prepare their lesson plans and teaching materials, which will save them time. We have been in talks with Open AI on these possibilities. We are also working with leading companies, such as Google, and have established internship programmes so that our young people can benefit from the experience and grow into the digital talent Indonesia will need in future. We hope to groom over one million digital talents in the next few years.</p>
 
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">YII</span>:</strong> It’s not just having a commitment or having an agreement or arrangement within the ASEAN countries—we need an enforcement mechanism. We need to strengthen the Secretariat because we know climate change and environmental issues are transboundary. I can name one environmental issue that has been talked over for many years and nothing has been done: the Transboundary Haze.</span></p>
 
@@ -108,9 +114,7 @@ a common, urgent purpose?</p>
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">BOROS</span>:</strong></span> I want to point out something here. If you’re looking to build a family,
 a sibling might say: don’t worry about me, I can take care of my own. But when you care about the family you want everyone to do well, and to have strong bonds between members. But if we don’t understand the problems that each other is facing, and neglect the needs that we ourselves don’t face in our own situation, then it will be harder to understand and support one another. So we may want to have a research centre where we highlight our problems and address them together, rather than to have a central body where we go to ask for help.</p>
 
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #7030a0;">TAN</span>:</strong>The challenge remains that ASEAN is very diverse: different countries will be at different stages on an issue, and with their own domestic concerns to consider. Perhaps the way to think about it is that ASEAN really needs to come together to think about issues that affect all of us in common and that we all need to address. So just like a family, we all have different priorities, different jobs and so on, but at some point, there are certain shared matters that all of us will think about, will have to think about, and we can work together on that.</span></p>
-
-<p>Climate change is one: it will impact everybody. The digital economy is another: everyone is interested and wants to be involved. So I think there are common issues that we can push forward together in, if we can identify them and align everybody behind them. ASEAN involves 10 countries and works by consensus, so it is difficult to get everyone to be aligned. But if we can identify three or four priorities to work on, say over the next five years rather than just one year, then we can build the kind of alignment and achieve the kind of push that will help people see the value of ASEAN.</p>
+SEAN.<p></p>
 
 <div class="break">
 
