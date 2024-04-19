@@ -67,18 +67,18 @@ li {
 
 </style>
 
-<em><small>Digital Issue 12</small></em>
+<em><small>ETHOS Digital Issue 12, Apr 2024</small></em>
 <img src="/images/Landing_Banner_Images/banner_roundtable.jpg">
 
 
 
 <h6>PARTICIPANTS:</h6>
 
-<p class="small-text"><strong><span style="color: #4f81bd;">His Excellency Mr Samheng Boros</span></strong>, Secretary of State of Ministry of Social Affairs, Veterans and Youth Rehabilitation, Cambodia</p>
+<p class="small-text"><strong><span style="color: #4f81bd;">Mr Huot Synead</span></strong>, then Secretary of State, Ministry of Civil Service, Cambodia</p>
 
-<p class="small-text"><strong><span style="color: #7030a0;">Mr Tan Lin Teck</span></strong>, Director, Future Economy Planning Office, Ministry of Trade and Industry, Singapore</p>
+<p class="small-text"><strong><span style="color: #7030a0;">Dr Suharti</span></strong>, Secretary General, Ministry of Education, Culture, Research and Technology, Indonesia</p>
 
-<p class="small-text"><strong><span style="color: #76923c;">Mr Kelvin Yii</span></strong>, Member of Parliament for Bandar Kuching, Sarawak, Malaysia</p>
+<p class="small-text"><strong><span style="color: #76923c;">Ms Pauline Mulligan</span></strong>, Assistant Secretary General, Indigenous Enterprise Development, Ministry of Enterprise, Trade and Employment, Ireland</p>
 
 <hr>
 
