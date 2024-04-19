@@ -2,6 +2,7 @@
 title: Ethos Issue 25
 permalink: /ethos-issue-25/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -54,7 +55,7 @@ margin-top:15px;
     
     
     
-<h2>Latest Issue</h2>
+
 <div class="grid-container">
     <div><img src="/images/Ethos_Images/Ethos_Issue_25/ethosissue25.jpg"></div>
     <div><h3><span class="cat">ISSUE 25, APR 2023</span>
