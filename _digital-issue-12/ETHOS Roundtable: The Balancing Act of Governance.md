@@ -176,15 +176,15 @@ Having systems and processes in place is important, but we also need to pay atte
 <h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
-<li class="small-text">The OECD’s <a target="_blank" href="https://www.oecd.org/pisa/"> &gt;Programme for International Student Assessment (PISA)</a> is widely used as an international benchmark for assessing the outcomes of different education systems. </li>
+<li class="small-text">The OECD’s <a target="_blank" href="https://www.oecd.org/pisa/"> Programme for International Student Assessment (PISA)</a> is widely used as an international benchmark for assessing the outcomes of different education systems. </li>
 
+<li class="small-text"><a target="_blank" href="https://enterprise.gov.ie/en/publications/national-ai-strategy.html">AI—Here for Good</a>.</li>
 
-
-
+</ol>
 
 
 <br>
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></ol>
+</div>
