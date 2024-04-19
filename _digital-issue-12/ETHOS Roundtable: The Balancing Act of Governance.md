@@ -106,23 +106,22 @@ li {
 <p>Digital systems will also make it easier for our schools to prepare their reports to the Ministry, and to manage their financial resources. Not all schools have good access to the internet, so our computerised systems are also available both online and offline. We have also set up an e-commerce system to help schools procure supplies they need, and it has already attracted thousands of business partners.</p>
 <p>Looking forward, we have been thinking about how we can use artificial intelligence (AI) to help teachers prepare their lesson plans and teaching materials, which will save them time. We have been in talks with Open AI on these possibilities. We are also working with leading companies, such as Google, and have established internship programmes so that our young people can benefit from the experience and grow into the digital talent Indonesia will need in future. We hope to groom over one million digital talents in the next few years.</p>
 
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">YII</span>:</strong> It’s not just having a commitment or having an agreement or arrangement within the ASEAN countries—we need an enforcement mechanism. We need to strengthen the Secretariat because we know climate change and environmental issues are transboundary. I can name one environmental issue that has been talked over for many years and nothing has been done: the Transboundary Haze.</span></p>
-
-<p>So, we can talk about climate change, we can have an agreement to ban plastics and so on, but if there is no enforcement it will be only talk. That’s where the tire hits the road. I think countries need to allow a certain level of dispute resolution and enforcement at the level of ASEAN as a whole. I think we need to drive home the fact that climate change is real, that ASEAN is made up of a lot of islands so we are going to be affected by it. Can we therefore set aside our differences and work for
-a common, urgent purpose?</p>
-
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">BOROS</span>:</strong></span> I want to point out something here. If you’re looking to build a family,
-a sibling might say: don’t worry about me, I can take care of my own. But when you care about the family you want everyone to do well, and to have strong bonds between members. But if we don’t understand the problems that each other is facing, and neglect the needs that we ourselves don’t face in our own situation, then it will be harder to understand and support one another. So we may want to have a research centre where we highlight our problems and address them together, rather than to have a central body where we go to ask for help.</p>
-
-SEAN.<p></p>
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">MULLIGAN</span>:</strong> Ireland has a comprehensive national digital strategy which sets out what we are doing: in terms of building infrastructure, the skills we need to have, digitalising public services, and supporting enterprise. It is about putting the systems and processes in place.</span></p>
+<p>For AI, one of our priorities is to build trust, given public concern about the technology. Our national AI strategy is called “AI—Here For Good”,<sup>2</sup> which has a double meaning: AI is going to be here to stay, and it is here to do good. We want to make sure the use of AI is ethical, beneficial and people-centred. We have also appointed an AI Ambassador, a youth council, and an advisory board to advise government on related issues. Our AI strategies are about a year old, and we should be getting our first progress reports on how the implementation has proceeded. Our priority is to establish facts about the technology, and to hear from informed voices, in order to reassure people about the use of this new technology.</p>
+<p>Ireland, and especially Dublin, has done well in terms of attracting major high-tech companies. They have been anchored in the business ecosystem for many years now, and we have seen a transfer of knowledge to Irish companies. We now have our own Irish startups, entrepreneurs, research centres and so on, who are becoming part of the supply chain for the multinationals.</p>
+<p>All these developments reinforce our sense of responsibility for regulation—both because of the concern about public trust, and because we host so many large tech companies involved in this work on our own turf, so to speak. We are putting in place the pieces of the digital regulation jigsaw, so that we have a strong foundation for the future.</p> 
+<p>In the past, an attractive tax regime might have been an important aspect of our competitive advantage, but now the multinationals have said that regulation is vital. Businesses like to know what the rules are, and that they will be enforced. That clarity is part of what makes us an attractive business environment.</p>
 
 <div class="break">
 
 <p class="break1">
-ASEAN is very diverse: different countries will be at different stages  on an issue.
-</p>
+We want to make sure the use of AI is ethical, beneficial and people-centred.</p>
 
 </div>
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">HUOT</span>:</strong></span> I want to point out something here. If you’re looking to build a family,
+a sibling might say: don’t worry about me, I can take care of my own. But when you care about the family you want everyone to do well, and to have strong bonds between members. But if we don’t understand the problems that each other is facing, and neglect the needs that we ourselves don’t face in our own situation, then it will be harder to understand and support one another. So we may want to have a research centre where we highlight our problems and address them together, rather than to have a central body where we go to ask for help.</p>
+
+
 
 <h3>How Can Singapore Contribute to Help ASEAN Work More Closely Together?</h3>
 
