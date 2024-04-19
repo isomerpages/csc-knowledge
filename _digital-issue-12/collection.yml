@@ -2,5 +2,7 @@ collections:
   digital-issue-12:
     output: true
     order:
+      - "Data x Policy x Outcomes: A Conversation with Aaron Maniam, Eleanor
+        Carter and Leon Lim.md"
       - Editorial.md
       - "ETHOS Roundtable: The Balancing Act of Governance.md"
