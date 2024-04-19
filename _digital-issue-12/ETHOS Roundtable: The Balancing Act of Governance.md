@@ -106,24 +106,36 @@ li {
 <p>Digital systems will also make it easier for our schools to prepare their reports to the Ministry, and to manage their financial resources. Not all schools have good access to the internet, so our computerised systems are also available both online and offline. We have also set up an e-commerce system to help schools procure supplies they need, and it has already attracted thousands of business partners.</p>
 <p>Looking forward, we have been thinking about how we can use artificial intelligence (AI) to help teachers prepare their lesson plans and teaching materials, which will save them time. We have been in talks with Open AI on these possibilities. We are also working with leading companies, such as Google, and have established internship programmes so that our young people can benefit from the experience and grow into the digital talent Indonesia will need in future. We hope to groom over one million digital talents in the next few years.</p>
 
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">MULLIGAN</span>:</strong> Ireland has a comprehensive national digital strategy which sets out what we are doing: in terms of building infrastructure, the skills we need to have, digitalising public services, and supporting enterprise. It is about putting the systems and processes in place.</span></p>
-<p>For AI, one of our priorities is to build trust, given public concern about the technology. Our national AI strategy is called “AI—Here For Good”,<sup>2</sup> which has a double meaning: AI is going to be here to stay, and it is here to do good. We want to make sure the use of AI is ethical, beneficial and people-centred. We have also appointed an AI Ambassador, a youth council, and an advisory board to advise government on related issues. Our AI strategies are about a year old, and we should be getting our first progress reports on how the implementation has proceeded. Our priority is to establish facts about the technology, and to hear from informed voices, in order to reassure people about the use of this new technology.</p>
-<p>Ireland, and especially Dublin, has done well in terms of attracting major high-tech companies. They have been anchored in the business ecosystem for many years now, and we have seen a transfer of knowledge to Irish companies. We now have our own Irish startups, entrepreneurs, research centres and so on, who are becoming part of the supply chain for the multinationals.</p>
-<p>All these developments reinforce our sense of responsibility for regulation—both because of the concern about public trust, and because we host so many large tech companies involved in this work on our own turf, so to speak. We are putting in place the pieces of the digital regulation jigsaw, so that we have a strong foundation for the future.</p> 
-<p>In the past, an attractive tax regime might have been an important aspect of our competitive advantage, but now the multinationals have said that regulation is vital. Businesses like to know what the rules are, and that they will be enforced. That clarity is part of what makes us an attractive business environment.</p>
-
 <div class="break">
 
 <p class="break1">
 We want to make sure the use of AI is ethical, beneficial and people-centred.</p>
 
 </div>
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">HUOT</span>:</strong></span> I want to point out something here. If you’re looking to build a family,
-a sibling might say: don’t worry about me, I can take care of my own. But when you care about the family you want everyone to do well, and to have strong bonds between members. But if we don’t understand the problems that each other is facing, and neglect the needs that we ourselves don’t face in our own situation, then it will be harder to understand and support one another. So we may want to have a research centre where we highlight our problems and address them together, rather than to have a central body where we go to ask for help.</p>
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">MULLIGAN</span>:</strong> Ireland has a comprehensive national digital strategy which sets out what we are doing: in terms of building infrastructure, the skills we need to have, digitalising public services, and supporting enterprise. It is about putting the systems and processes in place.</span></p>
+<p>For AI, one of our priorities is to build trust, given public concern about the technology. Our national AI strategy is called “AI—Here For Good”,<sup>2</sup> which has a double meaning: AI is going to be here to stay, and it is here to do good. We want to make sure the use of AI is ethical, beneficial and people-centred. We have also appointed an AI Ambassador, a youth council, and an advisory board to advise government on related issues. Our AI strategies are about a year old, and we should be getting our first progress reports on how the implementation has proceeded. Our priority is to establish facts about the technology, and to hear from informed voices, in order to reassure people about the use of this new technology.</p>
+<p>Ireland, and especially Dublin, has done well in terms of attracting major high-tech companies. They have been anchored in the business ecosystem for many years now, and we have seen a transfer of knowledge to Irish companies. We now have our own Irish startups, entrepreneurs, research centres and so on, who are becoming part of the supply chain for the multinationals.</p>
+<p>All these developments reinforce our sense of responsibility for regulation—both because of the concern about public trust, and because we host so many large tech companies involved in this work on our own turf, so to speak. We are putting in place the pieces of the digital regulation jigsaw, so that we have a strong foundation for the future.</p> 
+<p>In the past, an attractive tax regime might have been an important aspect of our competitive advantage, but now the multinationals have said that regulation is vital. Businesses like to know what the rules are, and that they will be enforced. That clarity is part of what makes us an attractive business environment.</p>
 
 
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">HUOT</span>:</strong></span> In 2021, Cambodia put in place a policy framework to develop a digital economy and society. As part of this initiative, we have been laying the foundations for our digital transformation in government. We have set up an interministerial working group as a collaborative approach, including government and private sector stakeholders, to pursue this. We feel this is a good way to build trust in government as well as to advance our national goals.</p>
+<p>Even as we improve public service delivery, we are also using technology to improve business and other systems. For instance, we are looking into data policies that will allow us to use personalised data, such as what banks already have access to, to improve services, while protecting data ownership, security and privacy.</p>
+<p>We are also working to assess the implications for AI, because we are concerned about its impact on society. One worry is that AI may replace humans in certain jobs, which could impact the many people in the Cambodian workforce who are still dependent on paper-based methods. We need to support and stand up for these people, even as we embrace new digital opportunities.</p>
 
-<h3>How Can Singapore Contribute to Help ASEAN Work More Closely Together?</h3>
+
+<h3>In your view, what are some aspects of governance we should all be thinking more about?</h3>
+
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #ff2324;">SUHARTI</span>:</strong> I think we are not attending enough to the empathetic side of governance. Sometimes we want to make change quickly, without taking enough into account other stakeholders’ feelings or needs. We need to do more to help people see that changes will be truly beneficial for them, not just for the government, or for senior management. </span></p>
+<p>We must also not forget those who are left behind, especially as we pursue these technological developments. We cannot just roll out the infrastructure and expect everyone to come on board. We need to mitigate the risks and help to bridge inequality of access. We must also bear in mind those who may have difficulty using the new systems.</p>
+
+<div class="break">
+
+<p class="break1">
+Singapore is in a good position to help look for opportunities and challenges, by reaching out  to colleagues who are open.
+</p>
+
+</div>
 
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">YII</span>:</strong></span> I think there are several challenges that Singapore faces in a changing world. How Singapore prepares itself to meet these challenges will be something others can learn from. </p>
 
