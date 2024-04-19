@@ -170,9 +170,10 @@ Having systems and processes in place is important, but we also need to pay atte
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">HUOT</span>:</strong></span> In Cambodia, we also want to be regarded as a government that takes care of its people. Singapore does this in a whole-of-nation way, by involving different stakeholders and society at large. While we also work towards this in my country, not all actors are actively involved in the processes of governance. </p>
 <p>My time in Singapore has been a reminder to better engage more stakeholders, so that our government policies can be more tangible for and applicable to people with different needs. </p>
 <hr>
-
+<div class="author">
+<hr>
 <p class="small-text"><em>The ETHOS Roundtable was conducted in August 2023 with a group of participants in the 15th Leaders in Governance Programme (LGP). Organised annually by the Civil Service College, the LGP draws from Singapore’s development experience to offer practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the seven-day programme, participants interact with thought leaders, and visit key government agencies to understand their operating philosophies and values.</em></p>
-
+</div>
 <h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
