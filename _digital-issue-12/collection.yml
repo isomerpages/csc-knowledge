@@ -2,4 +2,5 @@ collections:
   digital-issue-12:
     output: true
     order:
+      - "ETHOS Roundtable: The Balancing Act of Governance.md"
       - Editorial.md
