@@ -113,7 +113,7 @@ We want to make sure the use of AI is ethical, beneficial and people-centred.</p
 
 </div>
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">MULLIGAN</span>:</strong> Ireland has a comprehensive national digital strategy which sets out what we are doing: in terms of building infrastructure, the skills we need to have, digitalising public services, and supporting enterprise. It is about putting the systems and processes in place.</span></p>
-<p>For AI, one of our priorities is to build trust, given public concern about the technology. Our national AI strategy is called “AI—Here For Good”,<sup>2</sup> which has a double meaning: AI is going to be here to stay, and it is here to do good. We want to make sure the use of AI is ethical, beneficial and people-centred. We have also appointed an AI Ambassador, a youth council, and an advisory board to advise government on related issues. Our AI strategies are about a year old, and we should be getting our first progress reports on how the implementation has proceeded. Our priority is to establish facts about the technology, and to hear from informed voices, in order to reassure people about the use of this new technology.</p>
+<p>For AI, one of our priorities is to build trust, given public concern about the technology. Our national AI strategy is called “AI—Here For Good”,<sup><a href="#notes">2</a></sup> which has a double meaning: AI is going to be here to stay, and it is here to do good. We want to make sure the use of AI is ethical, beneficial and people-centred. We have also appointed an AI Ambassador, a youth council, and an advisory board to advise government on related issues. Our AI strategies are about a year old, and we should be getting our first progress reports on how the implementation has proceeded. Our priority is to establish facts about the technology, and to hear from informed voices, in order to reassure people about the use of this new technology.</p>
 <p>Ireland, and especially Dublin, has done well in terms of attracting major high-tech companies. They have been anchored in the business ecosystem for many years now, and we have seen a transfer of knowledge to Irish companies. We now have our own Irish startups, entrepreneurs, research centres and so on, who are becoming part of the supply chain for the multinationals.</p>
 <p>All these developments reinforce our sense of responsibility for regulation—both because of the concern about public trust, and because we host so many large tech companies involved in this work on our own turf, so to speak. We are putting in place the pieces of the digital regulation jigsaw, so that we have a strong foundation for the future.</p> 
 <p>In the past, an attractive tax regime might have been an important aspect of our competitive advantage, but now the multinationals have said that regulation is vital. Businesses like to know what the rules are, and that they will be enforced. That clarity is part of what makes us an attractive business environment.</p>
@@ -173,6 +173,10 @@ Having systems and processes in place is important, but we also need to pay atte
 
 <p class="small-text"><em>The ETHOS Roundtable was conducted in August 2023 with a group of participants in the 15th Leaders in Governance Programme (LGP). Organised annually by the Civil Service College, the LGP draws from Singapore’s development experience to offer practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the seven-day programme, participants interact with thought leaders, and visit key government agencies to understand their operating philosophies and values.</em></p>
 
+<h6> <a name="notes"></a>NOTES</h6>  
+  
+<ol>  
+<li class="small-text">The OECD’s Programme for International Student Assessment (PISA) is widely used as an international benchmark for assessing the outcomes of different education systems. https://www.oecd.org/pisa/ </li>
 
 
 
@@ -183,4 +187,4 @@ Having systems and processes in place is important, but we also need to pay atte
 <br>	
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div>
+</div></ol>
