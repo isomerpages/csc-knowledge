@@ -2,6 +2,7 @@ collections:
   digital-issue-12:
     output: true
     order:
+      - Enhancing Representation in Collaborative Governance.md
       - Editorial.md
       - "Data x Policy x Outcomes: A Conversation with Aaron Maniam, Eleanor
         Carter and Leon Lim.md"
