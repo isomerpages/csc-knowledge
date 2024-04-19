@@ -82,32 +82,21 @@ li {
 
 <hr>
 
-<h3>How Can ASEAN and Its  Member Governments Cultivate a New, Dynamic Sense of Regionalism within Southeast Asia, and What Challenges Must Be Overcome?</h3>
+<h3>In your context, what are some of the most significant challenges facing government today, and how are you addressing them?</h3>
 
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">BOROS</span>:</strong></span> One thing is clear: we are all stronger together. Projections suggest that ASEAN collectively may become the fourth or the fifth largest economy in the world. Individually, some countries may have
-a stronger economy by themselves. But if we come together, we could be in a much stronger position together, especially given the geopolitical interests of world powers in our region. So for me our role as governments is important in helping to prevent the fragmentation of the region.</p>
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">MULLIGAN</span>:</strong> At the Department of Enterprise, Trade and Employment in Ireland, we face four main challenges that have become more acute in recent years, especially since the Covid-19 pandemic.</span></p>
+<p>The first is our labour supply and the international competition for talent. Ireland’s enterprise base includes a large cohort of multinational companies many of which come from foreign direct investment. One of our priorities is to develop indigenous Irish-owned companies to rebalance the economy. In this context competition for talent is a challenge but we find there is a lot of movement of workers between these cohorts with many workers from MNCs starting up their own companies so we have a big focus on helping business to start and scale.</p>
+<p>The second challenge is what we call the twin transition—the need to pursue digitalisation as well as decarbonisation in light of climate change. We are working to address these goals with businesses and the public at large. To some degree, the pandemic gave us a terrific platform for more businesses to go online.</p>
+<p>A third challenge has to do with the global trend towards deglobalisation and protectionism. Like Singapore, we are a small open economy that is heavily reliant on trade for our economic prosperity. On the other hand, the shortening of global supply chains could also present an opportunity for us that we could harness.</p>
 
-<p>It is good that we have not been making decisions that push things too quickly. It is an achievement that we have not had a regional conflict but have instead been moving forward steadily year by year.  The question is, what’s next? What can we do to bring our relationship even closer together?</p>
 
-<p>&nbsp;</p>
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">HUOT</span>:</strong></span>  Since the pandemic, many countries, including Cambodia, have experienced slower economic growth, and prospects remain uncertain. People are concerned about their living standards. This is why the government has focused on how to bring back growth. Before the pandemic, Cambodia’s GDP would grow 7% to 10% a year; now we are looking at around 5% annual growth.</p> 
+<p>Cambodia elected a new government in 2023. The people have high expectations of public service delivery from the new administration. To meet these expectations, the government is taking a collaborative approach, working together with other stakeholders to meet these goals. This means that managing and improving public trust in government has become a key concern for us.</p> 
+<p>We are also looking to digital technology to help us improve service delivery and transform our public sector. But we are also keeping a close eye on its risks, such as the impact on privacy and cybersecurity.</p>
 
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">YII</span>:</strong> I fully agree that we are better together. As individual countries, our domestic markets are simply not big enough. But if we look to ASEAN as a region, that’s a huge market. Collectively, at that scale, we can start to compete with other bigger countries, and with the bigger powers. So we cannot afford to look inward: we must look at the bigger picture as a region. </span></p>
-
-<p>However, in order to do that, we need to address some elephants in the room. First, there is a certain level of protectionism. There are some issues that are regarded as matters of sovereignty. But in order to have a common framework for partnership and prosperity in the region, I think certain barriers will have to be removed, and certain tough discussions will have to be had. Of course we should respect our local contexts, but we have to address these issues in order for ASEAN to fulfil its greater potential.</p>
-
-<p>Some of these issues have to do with our economic frameworks. We only have partial free trade within ASEAN today. While I am in favour of supporting local businesses, there has to be a middle ground if we want to move ASEAN forward as a region. So for instance if there is a trade war going on between world powers, we need to stay neutral in the economic field. Once we start taking sides, even though it may be to our individual national advantage, it will be difficult for us to grow as a single larger bloc.</p>
-
-<div class="break">
-
-<p class="break1">
-Once we start taking sides, even though it may be to our individual national advantage, it will be difficult for us to grow as a single larger bloc.
-</p>
-
-</div>
-
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #7030a0;">TAN</span>:</strong> In pursuing Public Sector Transformation in Singapore, we have been talking about the 3As: Ambition, Alignment and Action. Extrapolating from these principles, I think ASEAN has focused a lot on alignment: trying to align interests, align what we want to do together in terms of the shared mission, but we need to move even more into the action part.</span></p>
-
-<p>And it’s becoming even more critical now because things change so fast in the world today. In the past, you can take five, 10 years to negotiate an FTA (Free Trade Agreement), but now if you take five or 10 years to negotiate anything, it’s already game over: you have to act fast or the digital economy would have changed. I think the action part is the one that will make people feel the salience of ASEAN: how it impacts their lives or businesses. That is how people will start to see collectively what ASEAN is. If we are talking about buy-in and belief for ASEAN as an identity and a community, action is what’s important. </p>
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #7030a0;">SUHARTI</span>:</strong> In Indonesia, our challenge is to make sure that our children have access to good quality schooling. One of our priorities at the Ministry of Education, Culture, Research and Technology is to help our young people do well, not only academically, but also in terms of character building to prepare them for the future.</span></p> 
+<p>At the end of 2019, analysis showed that up to half of all Indonesian students had failed to reach minimum competence in numeracy and many also did not reach minimum literacy, based on international PISA standards.<sup>1</sup> Our Minister declared this an emergency, prompting us to accelerate efforts to ensure our young people develop these fundamental competencies. Apart from basic skill problem, we also have some issues with bully, sexual abuse, and intolerance, which is what we are trying to address through character building programmes in schools.</p>
+<p>A related challenge is to improve the quality of our teachers. With more than four million teachers in Indonesia, it is impossible, with our limited resources, to provide regular training for all of them. So, we need to find alternative ways to support them, such as digital platforms for teacher training and professional development. </p>
 
 <h3>How Can ASEAN Work Together to Address Common Challenges, Such As Climate Change?</h3>
 
