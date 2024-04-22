@@ -148,13 +148,20 @@ li {
 <h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
-<li class="small-text">P. Freire, <em>Pedagogy of the Oppressed</em> (London: Penguin Books Ltd, 1968). </li>  
-<li class="small-text">J. M. Keynes, <em>The General Theory of Income, Interest and Money</em> (Hinsdale: Dryden Press, 2016). </li>  
-<li class="small-text">M. Goldsmith, <em>What Got You Here Won’t Get You There</em> (London: Profile Books Ltd, 2012). </li>  
-<li class="small-text">C. Dweck, <em>Mindset: Changing the Way You Think to Fulfil Your Potential</em> (updated edition) (London: Little Brown Book Group, 2017). </li>  
-<li class="small-text">Video available at https://eleducation.org/resources/austins-butterfly, accessed September 25, 2021. </li>  
-<li class="small-text">Ibid. </li>  
-<li class="small-text">Such approaches might draw from Daniel Kim’s Core Theory of Success, which sees a dynamic and mutually reinforcing relationship between the quality of relationships, collective thinking, actions and results in an organisation. Details at: D. H. Kim, <em>Introduction to Systems Thinking</em> (Massachusetts: Pegasus Communications, 1999). </li>  
+<li class="small-text">Soon, Carol, 12 September 2020. <a target="_blank" href="https://www.straitstimes.com/opinion/conversations-that-make-a-difference"> “Conversations that make a difference”</a>. <em>The Straits Times</em>. </li>
+<li class="small-text">See Ansell, Chris, and Alison Gash, (2007). “Collaborative Governance in Theory and Practice.” <em>Journal of Public Administration Research and Theory</em>, vol. 18, no. 4, pp. 543–571. </li>
+<li class="small-text">Heng Swee Kiat, 15 June 2019, <a target="_blank" href="https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-Building-Our-Future-Singapore-Together-Dialogue">Building Our Future Singapore Together Speech.</a> </li>
+<li class="small-text">Singapore Government Partnerships Office, 19 January 2024, <a target="_blank" href="https://www.sgpo.gov.sg/files/News%20PDFs/Singapore_Government_Partnerships_Office_Launched_to_Strengthen_Partnerships_Between_Citizens_and_the_Government___19_Jan_2024.pdf">Singapore Government Partnerships Office Launched to Strengthen Partnerships between Citizens and the Government</a>.</li>
+<li class="small-text">Sin, Yuen, 19 May 2021, <a target="_blank" href="https://www.straitstimes.com/singapore/citizens-panels-have-improved-perceptions-of-govt-engagement-efforts-ips-study">“Citizens’ panels have improved perceptions of govt engagement efforts: IPS study”</a>. <em>The Straits Times</em>. </li>
+<li class="small-text">Soon, Carol and Jui Liang, Sim, (2021) <a target="_blank" href="https://lkyspp.nus.edu.sg/docs/default-source/ips/ips-report-on-citizen-engagement-in-singapore-applications-of-the-citizens-panel.pdf">Citizen Engagement in Singapore: Applications of the Citizens’ Panel</a>. Institute of Policy Studies. </li>
+<li class="small-text">The three citizen panels are: the Citizens’ Jury on War on Diabetes (2017) by the Ministry of Health, Recycle Right Citizens’ Workgroup (2019) by the Ministry of Sustainability and Environment, and Citizens’ Panel on Work-Life Harmony (2019) by the Ministry of Manpower. </li>
+<li class="small-text">See note 6, p33. </li>
+<li class="small-text">Greenwood, S., Singer, L. and Willis, W. (2021) <em>Collaborative Governance: Principles, Processes, and Practical Tools</em>. Routledge. </li>
+<li class="small-text">Young, Iris Marion (2000). <em>Inclusion and Democracy</em>. Oxford. </li>
+<li class="small-text">See Fishkin, James (2018). <em>Democracy When the People are Thinking: Revitalizing Our Politics through Public Deliberation</em>. Oxford University Press. </li>
+<li class="small-text">Ran, B., &amp; Qi, H. (2018). “Contingencies of Power Sharing in Collaborative Governance,” <em>The American Review of Public Administration,</em> 48(8), 836–851. </li>
+<li class="small-text">See Purdy, Jill (2012). “A Framework for Assessing Power in Collaborative Governance Processes,” <em>Public Administration Review</em> 72(3), 409–418. </li>
+<li class="small-text">See note 12.</li>
 </ol>  
 
 
