@@ -150,6 +150,26 @@ Some people must be doing this work all the time. And all the people must be doi
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">LEON</span>:</strong></span> The hunger for data resonates with me, and I relate this to our earlier points about bringing different people in the ecosystem together. First-order discussions should be about building relationships and trust. These elements also encourage people to think about what they really want to know, which then leads to discussions about how to go about collecting data to meet those needs.</p> 
 <p>Once we establish common goals, it would be easier to have second-order discussions about who should resource it, who should house it and so on. It’s too easy to get distracted by these. If we skip the first-order discussions, we end up centring discussions around the second-order questions, and then collaboration dies.</p>
 
+<h3>How do you hope to see evidence-based policymaking evolve in future?</h3>
+
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #ff2324;">ELEANOR</span>:</strong> There is always a risk when we are talking about data and evidence that we centre on the technical aspects, and not the more relational and personal issues. Yet so much of whether data is trusted, or evidence is seen as credible, is informed by these relational aspects. It is also incredibly subtle work to determine if and how we can use particular data sets, whether we can read across them, or mash them together for analysis. </span></p>
+<p>This is why it will be important to have data stewards: people who can translate and navigate this space. But we need to think hard about where the capability for this is, both in government and also spanning outside government. </p>
+<p>It is also not enough to see more evidence being generated. What is key is people coming together around it. So I would like to see more spaces for people to convene, and to have these conversations about evidence; to think about evidence, not in a straight line way, but acknowledging the messiness and the need to keep revisiting the conversations. </p>
+<p>The risk, if we do not do this, is that we overlook how to improve. Not only is this damaging to a government trying to do the best it can, but it is also potentially corrosive to trust in government. If citizens do not feel that a range of good perspectives and bodies of evidence have been considered in policymaking, it will affect confidence in the way policy decisions are made, and public services deployed.</p> 
+
+<div class="break">
+
+<p class="break1">
+There is always a risk when we are talking about data and evidence that we centre on the technical aspects, and not the more relational and personal issues. </p>
+
+</div>	
+
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">LEON</span>:</strong></span> What I hope to see are pilot initiatives where policymakers, ops people, and researchers come together to tackle a problem, start working out the processes and building relationships for collaboration, collecting the necessary data and evidence, and communicating findings in ways that are relevant for policy and operations teams.</p> 
+
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #4f81bd;">AARON</span>:</strong></span>  A lot of this work will boil down to a number of success factors. We will need the right <em>compact</em>—the trust that government has to cultivate. This work needs to be seen as part of a broader political and social compact, which also demands that the centre and periphery have a better-defined set of relationships. </p>
+<p>Then different types of <em>capabilities</em> need to be developed, both at the centre of government and in the other agencies. While they may share some capabilities, they all need to develop different overall sets of expertise. For this to happen, we also need better <em>convening capacity</em>, and better <em>conversations</em> within that convening. </p>
+<p>As has been discussed, we need to cultivate a <em>craving</em>—a hunger—for data.</p> 
+<p>The hope I have is that we also build this up as a community, in a collaborative way. If governments try to do all of this by themselves, they will fall prey to new sets of biases. There will just be a big echo chamber across government instead of a small echo chamber in one agency. The more we broaden the lens when we start to frame the questions by bringing different people on board, the better our questions become. And we will not be starting the policy learning cycle from zero. </p> 
 
 <hr>
 <div class="author">
