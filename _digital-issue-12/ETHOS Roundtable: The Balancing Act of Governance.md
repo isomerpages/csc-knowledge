@@ -68,7 +68,7 @@ li {
 </style>
 
 <em><small>ETHOS Digital Issue 12, Apr 2024</small></em>
-<img src="/images/Landing_Banner_Images/banner_roundtable.jpg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_12/D12_Banner_Resize__1.jpg">
 
 
 
