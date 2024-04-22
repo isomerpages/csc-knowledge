@@ -187,10 +187,10 @@ If governments try to do all of this by themselves, they will fall prey to new s
 <h6> <a name="notes"></a>NOTES</h6>  
   
 <ol>  
-<li class="small-text">The OECD’s <a target="_blank" href="https://www.oecd.org/pisa/"> Programme for International Student Assessment (PISA)</a> is widely used as an international benchmark for assessing the outcomes of different education systems. </li>
+<li class="small-text">For more information on the Maryland Scale, see: <a target="_blank" href="https://whatworksgrowth.org/resource-library/the-maryland-scientific-methods-scale-sms/">https://whatworksgrowth.org/resource-library/the-maryland-scientific-methods-scale-sms/</a>.</li>
 
-<li class="small-text"><a target="_blank" href="https://enterprise.gov.ie/en/publications/national-ai-strategy.html">AI—Here for Good</a>.</li>
-
+<li class="small-text"><a target="_blank" href="https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/syrocco-ml-tool/">https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/syrocco-ml-tool/</a>.</li>
+<li class="small-text"><a target="_blank" href="https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/fund-directory/INDIGO-FUND-0012/">https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/fund-directory/INDIGO-FUND-0012/</a>.</li>
 </ol>
 
 
