@@ -67,7 +67,7 @@ li {
 </style>
 
 <em><small>ETHOS Digital Issue 12, Apr 2024</small></em>
-<img src="/images/Cropped_images/Ethos_Issue_23/23_Banner_Metaphors_And_Mental_Models.jpg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_12/D12_Banner_Resize__2.jpg">
 
 
   
@@ -237,9 +237,8 @@ li {
 <h6>ABOUT THE AUTHOR</h6>  
   
 
-<p class="small-text"><strong> Aaron Maniam</strong> is currently Deputy Secretary (Industry &amp; Information) at the Ministry of Communications and Information, coordinating digitalisation policy, and concurrently Chief of the inter-agency Global Positioning Strategy Office. He was the first Head of the Centre for Strategic Futures (2009–2011) and Institute Director of CSC's Institute of Public Sector Leadership (2011–2013), where he started CSC's Applied Simulation Training Laboratory.</p>  
-<p>&nbsp;</p>  
-  
+<p class="small-text"><strong>Bernard Ting</strong>  is Lead Researcher at the Institute of Governance and Policy. His works in collaborative governance include “Collaboration, Co-production, Networks: A Convergence of Theories” in <em>Public Management Review</em> (Taylor and Francis, 2015) and “Complexity in Social Policy” in <em>Navigating a Complex World</em> (Civil Service College, 2019).</p>  
+
 </div>  
   
 <h6> <a name="notes"></a>NOTES</h6>  
