@@ -69,19 +69,19 @@ li {
 </style>
 
 <em><small>ETHOS Digital Issue 12, Apr 2024</small></em>
-<img src="/images/Ethos_Images/Ethos_Digital_Issue_12/D12_Banner_Resize__1.jpg">
+<img src="/images/Landing_Banner_Images/banner_interview.jpg">
 
 
 
 <h6>PARTICIPANTS:</h6>
 
-<p class="small-text"><strong><span style="color: #4f81bd;">Mr Huot Synead</span></strong>, then Secretary of State, Ministry of Civil Service, Cambodia</p>
+<p class="small-text"><strong><span style="color: #4f81bd;">Dr Aaron Maniam</span></strong> is Fellow of Practice and Director, Digital Transformation Education at Oxford’s Blavatnik School of Government</p>
 
-<p class="small-text"><strong><span style="color: #ff2324;">Dr Suharti</span></strong>, Secretary General, Ministry of Education, Culture, Research and Technology, Indonesia</p>
+<p class="small-text"><strong><span style="color: #ff2324;">Dr Eleanor Carter</span></strong> is Research Director for the Government Outcomes Lab (GO Lab) in Oxford’s Blavatnik School of Government</p>
 
-<p class="small-text"><strong><span style="color: #76923c;">Ms Pauline Mulligan</span></strong>, Assistant Secretary General, Indigenous Enterprise Development, Ministry of Enterprise, Trade and Employment, Ireland</p>
-
-<hr>
+<p class="small-text"><strong><span style="color: #76923c;">Leon Lim</span></strong> is a Research Fellow in the Governance &amp; Economy department at the Institute of Policy Studies</p>
+<p>[see full bios <a href="#author">below</a>]
+</p><hr>
 
 <h3>In your context, what are some of the most significant challenges facing government today, and how are you addressing them?</h3>
 
