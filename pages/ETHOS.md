@@ -110,7 +110,7 @@ td
     </div>
 <br>
 <div class="grid-container">
-      <div><img src="/images/ethos_images/ethos_digital_issue_12/D12_Teaser_Resize__1.jpg"></div>
+      <div><img src="/images/ethos_images/ethos_digital_issue_12/D12TeaserResize1.jpg"></div>
         <div><h3>ETHOS Roundtable: The Balancing Act of Governance</h3>
             <b><i>with Huot Synead, Suharti and Pauline Mulligan</i></b>
 <p>	
@@ -122,7 +122,7 @@ td
     
 <br>    
 <div class="grid-container">
-        <div><img src="/images/ethos_images/ethos_digital_issue_12/D12_Teaser_Resize__2.jpg"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_12/d12teaserresize2.jpg"></div>
         <div><h3>Enhancing Representation in Collaboration Governance</h3>
             <b><i>by Bernard Ting</i></b>
             
