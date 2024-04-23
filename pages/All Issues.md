@@ -58,7 +58,7 @@ font-size: 16px;
   <div class="grid-item">
         <img src="/images/Ethos_Images/Ethos_Issue_26/covers.jpg">
         <p>
-       <a target="_blank" href="/ethos/">Issue 26, Nov 2023<br>The Next Bound <br>for Health and Healthcare</a>
+       <a target="_blank" href="/ethos-issue-26/&quot;">Issue 26, Nov 2023<br>The Next Bound <br>for Health and Healthcare</a>
             <br>
             <a target="_blank" href="https://go.gov.sg/ethos-issue-26">Download PDF</a>
         </p>
