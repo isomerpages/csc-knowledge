@@ -57,7 +57,7 @@ font-size: 16px;
 <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital12v2.jpg">
         <p>
-            <a target="_blank" href="/ethos/">Digital Edition Issue 12, Apr 202</a>
+            <a target="_blank" href="/ethos/">Digital Edition Issue 12, Apr 2024</a>
             <br>
             <a target="_blank" href="https://go.gov.sg/digital-issue-12">Download PDF</a>
         </p>
