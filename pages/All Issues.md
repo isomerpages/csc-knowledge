@@ -45,6 +45,26 @@ font-size: 16px;
 	
 
 </style>
+<h3>2024</h3>
+
+
+
+
+
+<div class="grid-container">
+	
+
+<div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosdigital12v2.jpg">
+        <p>
+            <a target="_blank" href="/ethos/">Digital Edition Issue 12, Apr 202</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/digital-issue-12">Download PDF</a>
+        </p>
+    </div>
+	
+   
+</div>
 
 
 <h3>2023</h3>
