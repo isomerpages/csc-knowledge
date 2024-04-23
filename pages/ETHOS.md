@@ -99,7 +99,7 @@ td
 
  <br>   
 <div class="grid-container">
-        <div><img src="/images/landing_banner_images/tile_interviews.jpg"></div>
+        <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
         <div><h3>Data x Policy x Outcomes</h3>
             <b><i>A Conversation with Aaron Maniam, Eleanor Carter and Leon Lim</i></b>
             
@@ -110,7 +110,7 @@ td
     </div>
 <br>
 <div class="grid-container">
-      <div><img src="/images/ethos_images/ethos_digital_issue_12/D12TeaserResize1.jpg"></div>
+      <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_12/d12teaserresize1.jpg"></div>
         <div><h3>ETHOS Roundtable: The Balancing Act of Governance</h3>
             <b><i>with Huot Synead, Suharti and Pauline Mulligan</i></b>
 <p>	
