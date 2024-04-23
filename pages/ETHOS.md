@@ -94,7 +94,7 @@ td
             This issue of ETHOS Digital Edition draws together a number of themes that have recurred in our coverage of public policy and governance issues.
             </p>	
             
-<div class="button1"><a href="/digital-issue-12/editorial/">Read More</a></div> <br></div>
+<div class="button1"><a href="/editorial/">Read More</a></div> <br></div>
     </div>
 
  <br>   
@@ -106,7 +106,7 @@ td
 <p>
             Three researchers with deep public sector expertise discuss the uses and value of evidence in today’s policy environment.</p>	
             
-<div class="button1"><a href="/digital-issue-12/data-x-policy-x-outcomes/">Read More</a></div><br></div>
+<div class="button1"><a href="/data-x-policy-x-outcomes/">Read More</a></div><br></div>
     </div>
 <br>
 <div class="grid-container">
@@ -117,7 +117,7 @@ td
             Participants from the 15th Leadership in Governance Programme discuss digitalisation in the public sector, underlining the need for consultation and compassion in a technology-driven world.
 </p>	
             
-<div class="button1"><a href="/digital-issue-12/ethos-roundtable-the-balancing-act-of-governance/">Read More</a></div><br></div>
+<div class="button1"><a href="/ethos-roundtable-the-balancing-act-of-governance/">Read More</a></div><br></div>
     </div>
     
 <br>    
@@ -129,7 +129,7 @@ td
 <p>	
             Here’s how citizen-government engagements can be designed to yield more inclusive, credible and better quality deliberations.</p>	
             
-<div class="button1"><a href="/digital-issue-12/enhancing-representation-in-collaborative-governance/">Read More</a></div><br></div>
+<div class="button1"><a href="/enhancing-representation-in-collaborative-governance/">Read More</a></div><br></div>
     </div>
     
 <br>    
