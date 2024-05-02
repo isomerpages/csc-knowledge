@@ -38,7 +38,7 @@ sections:
       button: Go to LEARN
       url: https://www.learn.gov.sg
   - infobar:
-      title: ODex Resource Portal
+      title: ODEx Resource Portal
       subtitle: Organisation Development
       description: A self-help platform with resources developed and curated for
         Organisation Development Practitioners.
