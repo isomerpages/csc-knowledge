@@ -40,8 +40,8 @@ sections:
   - infobar:
       title: ODEx Resource Portal
       subtitle: Organisation Development
-      description: A self-help platform with resources developed and curated for
-        Organisation Development Practitioners.
+      description: A self-help platform with resources developed and curated specially
+        for Organisation Development Practitioners.
       button: Go to ODex
       url: https://odex.csc.gov.sg/
 ---
