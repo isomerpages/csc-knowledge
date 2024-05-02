@@ -38,9 +38,10 @@ sections:
       button: Go to LEARN
       url: https://www.learn.gov.sg
   - infobar:
-      title: ODex
-      subtitle: Community of Practice
-      description: Resources for Organisation Development Practitioners
+      title: ODex Resource Portal
+      subtitle: Organisation Development
+      description: A self-help platform with resources developed and curated for
+        Organisation Development Practitioners
       button: Go to ODex
       url: https://odex.csc.gov.sg/
 ---
