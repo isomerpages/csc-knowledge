@@ -123,7 +123,7 @@ td
 <br>    
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_12/d12teaserresize2.jpg"></div>
-        <div><h3>Enhancing Representation in Collaboration Governance</h3>
+        <div><h3>Enhancing Representation in Collaborative Governance</h3>
             <b><i>by Bernard Ting</i></b>
             
 <p>	
