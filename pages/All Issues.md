@@ -276,6 +276,18 @@ font-size: 16px;
         </p>
     </div>
  <div class="grid-item">
+        <img src="/images/Ethos_Thumbnails_Cover/ethosissue19.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-19/">Issue 19, Jul 2018, Urban Governance and Sustainability</a>
+            <br>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-19">Download PDF</a>
+        </p>
+    </div>
+</div>
+
+
+<div class="grid-container">
+<div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital02.jpg">
         <p>
             <a target="_blank" href="/digital-issue-02/">Digital Edition Issue 2, Apr 2018</a>
@@ -283,11 +295,7 @@ font-size: 16px;
             <a target="_blank" href="https://go.gov.sg/digital-issue-02">Download PDF</a>
         </p>
     </div>
-</div>
-
-
-<div class="grid-container">
-       <div class="grid-item">
+	<div class="grid-item">
       <img src="/images/Ethos_Thumbnails_Cover/ethosissue18.jpg">
         <p>
        <a target="_blank" href="/ethos-issue-18/">Issue 18, Jan 2018, The Future of Work</a>
