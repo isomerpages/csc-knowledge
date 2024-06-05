@@ -114,8 +114,7 @@ color: white;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Colin Lim is the Chief Information Officer and Chief Data Officer of the Singapore Ministry of Health (MOH). He is also Group Director, InfoComm, Technology and Data Group. Prior to MOH, he was the founder and CEO of mobilityX, a start-up that received funding from SMRT and Toyota Tsusho. His previous experience includes the private (IBM UK and SMRT) and public (Singapore Administrative Service—Ministries of Home Affairs, Manpower and Transport, as well as the Land Transport Authority) sectors.</b></p><b>
-</b></div><b>
+	<p><b>Colin Lim</b> is the Chief Information Officer and Chief Data Officer of the Singapore Ministry of Health (MOH). He is also Group Director, InfoComm, Technology and Data Group. Prior to MOH, he was the founder and CEO of mobilityX, a start-up that received funding from SMRT and Toyota Tsusho. His previous experience includes the private (IBM UK and SMRT) and public (Singapore Administrative Service—Ministries of Home Affairs, Manpower and Transport, as well as the Land Transport Authority) sectors.</p></div>
 
 
 <div class="notestop" id="notestop">
@@ -136,4 +135,4 @@ color: white;
 <br><br>
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></b>
+</div>
