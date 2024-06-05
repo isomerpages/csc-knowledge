@@ -136,5 +136,4 @@ color: white;
 <br><br>
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div>
-</b>
+</div></b>
