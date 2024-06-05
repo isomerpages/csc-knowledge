@@ -2,6 +2,7 @@ collections:
   digital-issue-12:
     output: true
     order:
+      - "Designing for Data: A Healthcare Perspective.md"
       - Editorial.md
       - "Data x Policy x Outcomes: A Conversation with Aaron Maniam, Eleanor
         Carter and Leon Lim.md"
