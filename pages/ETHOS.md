@@ -73,7 +73,7 @@ td
 }	
 </style>
 <div class="grid-container">
-        <div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital12v2.jpg"></div>
+        <div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital12v1.jpg"></div>
 	<div><h3><span class="cat">Digital Issue 12, Apr 2024</span>
             <br>ETHOS Digital Issue 12</h3>	
             <p>In this digital issue of ETHOS, our contributors discuss the value of evidence in policymaking, the confluence of data, digital technology and diverse engagement in the practice of good governance.</p>
@@ -108,6 +108,18 @@ td
             
 <div class="button1"><a href="/data-x-policy-x-outcomes/">Read More</a></div><br></div>
     </div>
+		
+ <br>   
+<div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_12/D12_Teaser_Resize__3.jpg"></div>
+        <div><h3>Designing for Data: A Healthcare Perspective</h3>
+            <b><i>A Conversation with Colin Lim</i></b>
+            
+<p>The Chief Information Officer and Chief Data Officer at the Ministry of Health explains how his work is helping to shape the future of healthcare in Singapore.</p>	
+            
+<div class="button1"><a href="/designing-for-data-a-healthcare-perspective/">Read More</a></div><br></div>
+    </div>
+
 <br>
 <div class="grid-container">
       <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_12/d12teaserresize1.jpg"></div>
