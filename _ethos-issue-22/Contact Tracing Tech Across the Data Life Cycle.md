@@ -2,6 +2,7 @@
 title: Contact Tracing Tech Across the Data Life Cycle
 permalink: /ethos-issue-22/contact-tracing-tech-across-the-data-life-cycle/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -149,7 +150,7 @@ li {
 
 
 
-<!-- <p class="small-text text">What are the privacy concerns in Israel, Australia and the United Kingdom?</p> -->
+
 
 
 
@@ -168,7 +169,7 @@ li {
 <li class="small-text">Tehilla Schwartz Altshuler and Rachel Aridor Hershkowitz, <a target="_blank" href="https://www.brookings.edu/techstream/how-israels-covid-19-mass-surveillance-operation-works/">“How Israel’s Covid-19 Mass Surveillance Operation Works”</a>, Brookings: Tech Stream, July 6, 2020, accessed March 31, 2021. </li>
 <li class="small-text">Zoe Kleinman, <a target="_blank" href="https://www.bbc.com/news/technology-54599320">“Covid Contact-Tracing App Not Sharing Data with Police”</a>, <em>BBC</em>, October 19, 2020, accessed March 31, 2021.
     </li>
-<li class="small-text">Byron Kaye, <a target="_blank" href="https://www.reuters.com/article/ushealth-coronavirus-australia-idUSKCN2253UA">“Australia Will Make It a Crime to Use Coronavirus Tracing Data for Non-Health Purposes”</a>, <em>Reuters</em>, April 24, 2020, accessed March 31, 2021.
+<li class="small-text">Byron Kaye, “Australia Will Make It a Crime to Use Coronavirus Tracing Data for Non-Health Purposes”, <em>Reuters</em>, April 24, 2020, accessed March 31, 2021.
     </li>
 </ol>
 
