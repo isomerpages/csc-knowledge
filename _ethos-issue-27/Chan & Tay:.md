@@ -89,17 +89,13 @@ background-color:black;
 color:black;	
 font-size: 15px;
 }	
+	
+.numbered-squares:before
+{
+background-color:black;
+padding:5px;
 
-.numbered-squares li:before {
-        content: "";
-        position:absolute;
-        background-color:red;
-        z-index:-1;
-        display:inline-block;
-        width:16px;
-        height:16px;
-        border-radius:5px;	
-
+}
 	
 </style>
 
@@ -123,3 +119,14 @@ font-size: 15px;
 	
 </ol>
 </div>
+
+<br>
+
+<div class="img">
+<img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_2.jpg">
+<br>	
+<img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_1.jpg">
+</div>	
+
+
+
