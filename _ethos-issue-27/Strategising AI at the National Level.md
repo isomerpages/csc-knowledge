@@ -255,10 +255,3 @@ and certainly do not leave policymakers short of practical solutions. For instan
 
 
 <p>However, the current landscape is fragmented, and global AI governance is often clustered with its thematic cousin—global digital governance—despite being distinct from it.31 To date, there are more than 10 global AI governance initiatives and over 25 sets of AI principles in circulation worldwide. The proliferation of AI governance principles could make it more challenging for resource-poor countries to meaningfully participate in AI development and adoption, deepening the global digital divide.32</p>
-
-
-
-
-
-
-
