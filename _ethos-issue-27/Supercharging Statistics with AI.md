@@ -74,11 +74,25 @@ line-height:22px;
 
 .containerbox
 {
-background-color: #eff0e9;
-padding: 30px;
+background-color: #101c44;
+padding: 40px;
 margin-top: 30px;
 color: black;
 }	
+	
+.dice  {
+color: white;
+font-size: 32px;
+}
+	
+.dices  {
+color: white;
+font-size: 24px;
+}	
+	
+.containerbox p {
+color:white	
+}
 	
 
 	
@@ -187,36 +201,54 @@ color:#049c8c;
 <p>None of these projects used AI for its own sake; the methods were employed only where they adhered to statistical concepts and were deemed most suitable in meeting user needs. Only after the value of an AI/ML method has been established through proof-of-concept experiments, and the model rigorously tested, will the solution be implemented organisation-wide at DOS or offered to the RSUs and the rest of the government.</p>
 
 
-
-
-
-
 <div class="containerbox">
 
-<ol class="numbered-squares">
+<span class="dice">DICE—Simplifying Standard Classification Coding</span>	
 
-<li>In the <b>socio-economic landscape</b>, AI will drive productivity and faster critical innovations in the fields of education, healthcare and public services. At the same time, there are concerns that such change will come at the cost of increased job insecurity for some, as well as a growing digital divide</li>
+<p>The Singapore Standard Classification (SSXC) is used in the collection, compilation, and dissemination of national statistics. It facilitates data sharing and ensures consistency and comparability of data.</p>
+	
 
-  
+<p>For instance, the Singapore Standard Industrial Classification (SSIC) is used to classify firms according to their principal economic activity. Incorrect classification can adversely affect statistical compilation (e.g., GDP reporting), research studies (e.g., sectoral heterogeneity analysis), and policy implementation (e.g., level of support to promote a sector’s growth). However, users—whether business firms or public officers—might find it challenging to choose the most appropriate SSIC code from a range of possible codes without clear knowledge of their nuanced differences. Similarly, the Singapore Standard Occupational Classification (SSOC) is used to classify occupations; incorrect classifications can affect population censuses, household surveys, and administrative databases.</p>
 
-<li>AI's <b>socio-political Impact</b> will be felt most keenly through its ability to transform decision-making processes across all levels of society. Here are two areas of critical concern: the integrity and security of our information systems and the biases inherent in AI-driven decisions.</li>
+<p>The DOS Intelligent Classification Engine (DICE) was developed to automatically identify the most relevant SSXC code through machine learning, thus improving consistency and reducing manual effort in the process. DICE processes textual inputs (e.g., a firm’s economic activity or a job’s title and description) and recommends suitable SSXC codes as an output, along with the engine’s confidence score.</p>
 
-  
+<span class="dices">HOW DICE WORKS</span>	
+	
+<img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_1.jpg">
+	
+<img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_2.jpg">	
+	
+<p>DOS has used ML for coding SSOC/ SSIC since Census 2020.<sup><a href="#notestop">9</a></sup> The model has been continually improved through research and collaboration with RSUs, leading to the development of DICE today.</p>	
+	
 
-<li>Approcaches to <b>governance and regulation</b> will need to be multidisciplinary, to balance the vast potential of AI for public good with its inherent risks.</li>
+<p>DOS works closely with partner agencies, such as the Ministry of Manpower, Economic Development Board, Maritime and Port Authority of Singapore, as well as the Accounting and Corporate Regulatory Authority, to ensure that DICE’s performance and functionality meets their operational requirements.</p>	
+	
+	
+	
+<p>Moving forward, DICE is envisioned to be a comprehensive productivity tool for whole-of-government use, extending beyond industry and occupation codes to cover areas such as expenditure and commodities.</p>		
+	
+</div>
 
-</ol>
+
+<div class="break">
+<p class="break1">Successful AI adoption and digital transformation demand more than just technological advancements.</p>
 
 </div>
 
 
-<p>National AI strategies and policies commonly outline how countries plan to invest in AI to <b>leverage their comparative advantages</b>, with some prioritising industry applications, such as in logistics and transportation, energy, health, and agriculture.<sup><a href="#notestop">7</a></sup></p> 
+<h3>Conclusion</h3>
+
+<p>Successful AI adoption and digital transformation demand more than just technological advancements. DOS has taken a multi-pronged approach to harnessing the full potential of AI and digital technologies. This includes instituting rigorous data management protocols, comprehensive security measures, and privacy safeguards to ensure the integrity and security of DOS’s data. In addition, DOS focuses on enhancing officers’ capabilities through curated training, as they are best positioned to grasp the business challenges and identify impactful ways for AI implementation. By strengthening internal and external engagements, as well as collaborating on digitalisation projects, DOS has enabled knowledge sharing on AI developments and fostered a culture of continuous improvement. These strategies have allowed DOS to harness AI productively, which in turn enhances DOS’s data products and statistical services.</p>
+
+
+<p>DOS is currently exploring new AI initiatives that focus on data collection, such as expanding our in-house web-scraping capabilities and utilising optical character recognition technology to extract information and code directly from files and records. Additionally, efforts are being made to improve the user experience in searching for relevant information and data as part of data dissemination. These initiatives are aimed at continually enhancing the collection, production, and consumption of statistical data in Singapore. As AI evolves with better capabilities and greater proficiency, DOS expects to discover more statistical use cases for this promising technology in future.</p> 
 
 
 
 
-<div class="break">
-<p class="break1">Governments must act swiftly to harness the potential of AI as a social-levelling tool to narrow the digital divide.</p>
 
-</div>	
+
+
+
+
 
