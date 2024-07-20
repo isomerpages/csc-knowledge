@@ -251,6 +251,13 @@ and certainly do not leave policymakers short of practical solutions. For instan
 
 <h3>Pathways Toward a Global Consensus</h3>
 
+<p>AI’s effects are not limited to national borders. AI services deployed by multinational companies are already global in reach. International collaboration will inform a large part of national AI strategy setting. Countries can benefit massively from the exchange of information and sharing best practices with each other, which will in turn enable them to better align with international norms and standards. This could increase the interoperability of national AI ecosystems, affording governments better risk management options.</p>
+
+
+<p>However, the current landscape is fragmented, and global AI governance is often clustered with its thematic cousin—global digital governance—despite being distinct from it.31 To date, there are more than 10 global AI governance initiatives and over 25 sets of AI principles in circulation worldwide. The proliferation of AI governance principles could make it more challenging for resource-poor countries to meaningfully participate in AI development and adoption, deepening the global digital divide.32</p>
+
+
+
 
 
 
