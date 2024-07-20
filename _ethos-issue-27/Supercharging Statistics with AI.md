@@ -241,14 +241,26 @@ color:#049c8c;
 <p>Successful AI adoption and digital transformation demand more than just technological advancements. DOS has taken a multi-pronged approach to harnessing the full potential of AI and digital technologies. This includes instituting rigorous data management protocols, comprehensive security measures, and privacy safeguards to ensure the integrity and security of DOS’s data. In addition, DOS focuses on enhancing officers’ capabilities through curated training, as they are best positioned to grasp the business challenges and identify impactful ways for AI implementation. By strengthening internal and external engagements, as well as collaborating on digitalisation projects, DOS has enabled knowledge sharing on AI developments and fostered a culture of continuous improvement. These strategies have allowed DOS to harness AI productively, which in turn enhances DOS’s data products and statistical services.</p>
 
 
-<p>DOS is currently exploring new AI initiatives that focus on data collection, such as expanding our in-house web-scraping capabilities and utilising optical character recognition technology to extract information and code directly from files and records. Additionally, efforts are being made to improve the user experience in searching for relevant information and data as part of data dissemination. These initiatives are aimed at continually enhancing the collection, production, and consumption of statistical data in Singapore. As AI evolves with better capabilities and greater proficiency, DOS expects to discover more statistical use cases for this promising technology in future.</p> 
+<p>DOS is currently exploring new AI initiatives that focus on data collection, such as expanding our in-house web-scraping capabilities and utilising optical character recognition technology to extract information and code directly from files and records. Additionally, efforts are being made to improve the user experience in searching for relevant information and data as part of data dissemination. These initiatives are aimed at continually enhancing the collection, production, and consumption of statistical data in Singapore. As AI evolves with better capabilities and greater proficiency, DOS expects to discover more statistical use cases for this promising technology in future.</p>
 
 
+<div class="notestop" id="notestop">
+<h6>NOTES</h6>
+
+<ol>
+    <li>DOS (2023), “The Retirement and Health Study - Management of a Large-Scale Longitudinal Study in Singapore” in Statistics Singapore Newsletter (SSN), Issue 1, 2023</li>
+    <li><a href="https://www.mnd.gov.sg/urbansustainability/resource/resilient-infrastructure">https://www.mnd.gov.sg/urbansustainability/resource/resilient-infrastructure</a></li>
+    <li>DOS (2023), “Data Stewardship and Governance in the Singapore Department of Statistics” in Statistics Singapore Newsletter, Issue 2, 2023.</li>
+    <li>Core data is administrative data frequently used by multiple government agencies for policy analysis, operations, or service delivery.</li>
+    <li><a href="https://www.smartnation.gov.sg/files/publications/dgb-public-document_30dec20.pdf">https://www.smartnation.gov.sg/files/publications/dgb-public-document_30dec20.pdf</a></li>
+    <li>DOS (2023), “Experimental Uses of Machine Learning and New Data Sources in Updating the Statistical Business Register” in Statistics Singapore Newsletter (SSN), Issue 1, 2023.</li>
+    <li>DOS (2022), “Using Big Data to Profile Singapore’s Internet Economy” in Statistics Singapore Newsletter (SSN), Issue 2, 2022.</li>
+    <li>AI Trailblazers is a joint initiative by Ministry of Communications and Information, Digital Industry Singapore, Smart Nation and Digital Government Office, and Google Cloud. It helps organisations in Singapore identify real-world challenges that can be addressed with generative AI, build generative AI solution prototypes, and bring these prototypes to production.</li>
+    <li>DOS (2021), “Coding of SSOC/ SSIC in Census 2020 using Machine Learning” in Statistics Singapore Newsletter (SSN), Issue 2, 2021.</li>
+</ol>
 
 
-
-
-
-
-
-
+	
+	
+	
+</div>
