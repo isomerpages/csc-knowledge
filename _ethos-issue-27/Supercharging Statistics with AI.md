@@ -244,6 +244,22 @@ color:#049c8c;
 <p>DOS is currently exploring new AI initiatives that focus on data collection, such as expanding our in-house web-scraping capabilities and utilising optical character recognition technology to extract information and code directly from files and records. Additionally, efforts are being made to improve the user experience in searching for relevant information and data as part of data dissemination. These initiatives are aimed at continually enhancing the collection, production, and consumption of statistical data in Singapore. As AI evolves with better capabilities and greater proficiency, DOS expects to discover more statistical use cases for this promising technology in future.</p>
 
 
+<div class="author">
+<h6>ABOUT THE AUTHORS</h6>	
+
+<p><b>Malcolm Cai</b> is Director of the Longitudinal Data Analytics (LDA) division, and concurrently Director of the Digital Transformation Unit (DTU), in the Singapore Department of Statistics.</p>
+
+<p><b>Jun Wen Tay</b> is Deputy Director of DTU in the Singapore Department of Statistics.</p>
+
+<p><b>Nicholas Chin</b> is Senior Statistician with DTU in the Singapore Department of Statistics.</p>
+	
+
+	
+</div>
+
+
+
+
 <div class="notestop" id="notestop">
 <h6>NOTES</h6>
 
