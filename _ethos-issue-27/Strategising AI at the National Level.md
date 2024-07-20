@@ -164,7 +164,7 @@ Many national AI strategies are placing a strong emphasis on empowering individu
 
 
 
-<p>Alongside the use of AI to enable socio-economic development, there is also a growing interest in using AI to tackle <b>societal, developmental, and environmental challenges.</b> The innovative use of AI promises to help advance Sustainable Development Goals:17 from using cognitive digital technologies to improve diagnostic capabilities in health, to improving financial inclusion for women, to enhancing disaster response with more accurate forecasting and real-time date analysis, among many other applications.</p>
+<p>Alongside the use of AI to enable socio-economic development, there is also a growing interest in using AI to tackle <b>societal, developmental, and environmental challenges.</b> The innovative use of AI promises to help advance Sustainable Development Goals:<sup><a href="#notestop">17</a></sup> from using cognitive digital technologies to improve diagnostic capabilities in health, to improving financial inclusion for women, to enhancing disaster response with more accurate forecasting and real-time date analysis, among many other applications.</p>
 	
 <p>The adoption of <b>AI in the public sector</b> to improve service delivery for citizens, deliver greater public value and promote societal inclusion is high on the agenda of some governments. For example: </p>
 
@@ -183,7 +183,7 @@ Many national AI strategies are placing a strong emphasis on empowering individu
 	
 </li></ul>	
 
-<p>Nevertheless, AI use has yet to become mainstream in many governments. A good  first step would be to equip civil servants with the right tools and environment for responsible experimentation, to help build institutional knowledge and practical understanding to better inform AI governance. Consider the example of ChatGPT: in its early days, countries like Italy banned it outright; schools in several countries prohibited its use. But the city of Boston chose to embrace it instead. They issued guidelines encouraging staff to experiment with generative AI to understand its potential, emphasising privacy, security, and public purpose. By shifting the focus from just governing the technology to using the technology for governance, Boston eventually reduced the initial alarmism and highlighted AI’s potential for social good. <a href="#notestop"><sup>18</sup></a></p>
+<p>Nevertheless, AI use has yet to become mainstream in many governments. A good  first step would be to equip civil servants with the right tools and environment for responsible experimentation, to help build institutional knowledge and practical understanding to better inform AI governance. Consider the example of ChatGPT: in its early days, countries like Italy banned it outright; schools in several countries prohibited its use. But the city of Boston chose to embrace it instead. They issued guidelines encouraging staff to experiment with generative AI to understand its potential, emphasising privacy, security, and public purpose. By shifting the focus from just governing the technology to using the technology for governance, Boston eventually reduced the initial alarmism and highlighted AI’s potential for social good. <sup><a href="#notestop">18</a></sup></p>
 
 
 <h3>AI's Socio-Political Dimension</h3>
@@ -191,7 +191,65 @@ Many national AI strategies are placing a strong emphasis on empowering individu
 <p>AI is reshaping decision-making processes across different verticals in society and is thus increasingly becoming a focal point for political and security considerations. Two main concerns arise from this: the first is to do with <b>integrity of the information ecosystem,</b> and the second involves <b>biases that accompany AI-enabled decision-making.</b></p>
 
 
-<p>With the capacity to reveal hidden variables and suggest potential correlations or causal relationships, AIdriven analytics can aid fraud detection, optimise resource allocation, and support more informed decision-making across different government functions. To support this, the Canadian government, for instance, has implemented a ‘Directive on Automated Decision-MakingSystems’ <a href="#notestop"><sup>19</sup></a> and created a ‘Pre-qualified AI Vendor Procurement Program’ <a href="#notestop"><sup>20</sup></a> to improve the accountability of AI tools utilised by government agencies.</p>
+<p>With the capacity to reveal hidden variables and suggest potential correlations or causal relationships, AIdriven analytics can aid fraud detection, optimise resource allocation, and support more informed decision-making across different government functions. To support this, the Canadian government, for instance, has implemented a ‘Directive on Automated Decision-MakingSystems’ <sup><a href="#notestop">19</a></sup> and created a ‘Pre-qualified AI Vendor Procurement Program’ <sup><a href="#notestop">20</a></sup>to improve the accountability of AI tools utilised by government agencies.</p>
+
+
+<p>However, the same AI capabilities that streamline information processing could be misused to corrupt the decision-making process, particularly by manipulating public opinion or spreading disinformation. While disinformation is not a new phenomenon, the application of AI has greatly increased the scale and speed of its spread, surpassing the pace at which policymakers can effectively cope. AI-generated fake news and deepfakes are becoming increasingly sophisticated, complicating the ability of individuals to differentiate between authentic and disingenuous content. The rapid creation and dissemination of AI generated
+disinformation exploits preexisting societal fault-lines, each of which presents bad actors with an opportunity to accentuate differences and minimise similarities, thereby deepening divisions and eroding trust.<sup><a href="#notestop">21</a></sup>
+	
+</p><p>While AI can indeed enhance decisionmaking, such capabilities also carry significant risk of biases that stem from skewed data sets and algorithms. Consider the example of COMPAS, an AI tool used to make decisions in the American criminal justice system which has been shown to exhibit racial biases, leading claims that its victims _have been ‘set up for a lifetime of biased assessment’.<sup><a href="#notestop">22</a></sup> Biased AI might not be immediately apparent, but its impacts are profound: it can skew the perceived problem and solutions, leading to outcomes that are suboptimal. For policymakers, biases within AI could mean wrongly perceiving the needs and concerns of the populace, leading to policies that miss their mark—thereby eroding trust in public institutions or policy processes.</p>
+
+
+
+<div class="break">
+<p class="break1">Biases within AI could mean wrongly perceiving the needs and concerns of the populace, leading to policies that miss their mark.</p>
+
+</div>	
+
+
+<p>Faced with these challenges, policymakers must not only respond to present challenges but also anticipate the future implications of integrating AI more deeply within the sociopolitical sphere. National AI strategies should be conceptualised as dynamic frameworks that evolve with the operational milieu rather than remain static in the context in which they were originally formulated. As information ecosystems evolve, so too must the strategies and policy frameworks that support them</p>
+
+
+<div class="break">
+<p class="break1">
+National AI strategies should be conceptualised as dynamic frameworks that evolve with the operational milieu rather than remain static.</p>
+</div>	
+
+
+<h3> AI Governance and Regulation </h3>
+
+<p> As governments race to harness AI’s power, they must also establish clear guidelines to manage the dual-use nature of AI—both its vast potential for public good and its capacity to amplify negative outcomes—to ensure that its capabilities are directed towards societal benefit. Good AI governance should not be perceived as a handbrake on the path to progress. Instead, it is the opposite: a steering wheel that enables us to drive digital transformation at speed and scale, while supporting the development of appropriate guardrails.</p>
+
+<p>Developing such oversight mechanisms can be tricky. Policymakers are not wrong to see the need to balance innovation with regulation, but it is not a question of what but how. Approaches to AI oversight commonly reference the need for ‘adaptable frameworks that keep pace with the rapid pace of AI development’ (e.g. the UK <sup><a href="#notestop">23</a></sup> and Singapore <sup><a href="#notestop">24</a></sup>), or to embed AI models with certain 'values' or ethical considerations (e.g. the United States<sup><a href="#notestop">25</a></sup> and the Netherlands<sup><a href="#notestop">26</a></sup>), or to ensure that AI-based decision-making is 'transparent' and auditable (e.g. Spain <sup><a href="#notestop">27</a></sup> and Canada<sup><a href="#notestop">28</a></sup>)</p>
+
+<p>As any experienced policymaker can attest, the distinction between acting as a gatekeeper and serving as a facilitator is often a subtle yet profoundly significant one. Broader regulations can encompass a wide range of issues but may lack necessary precision, while narrower regulations can address specific problems more effectively but risk being outdated quickly or missing broader implications. Most AI regulation at present tends to be sector-specific and often voluntary in nature—leading to questions about their actual efficacy.</p>
+
+
+<p>The current impulse of AI governance and regulation involves commitment_
+to high-level ‘motherhood’ principles: virtually nobody will disagree with the need to ensure that AI is ‘fair’, or that it must respect ‘human privacy and dignity’. While such principles may easily fetch consensus, efforts to embed them into AI development beg the question: whose values? Most people will agree on the sanctity of human life (a high-level principle), yet such consensus does not resolve implementation-level dilemmas such as: ‘Should a self-driving car kill the baby or the grandma’?<sup><a href="#notestop">29</a></sup> Modern societies, even culturally homogenous ones, are rarely of a singular mind.</p>
+
+<p>Although the challenges posed by AI are complex, they are not insurmountable,_
+and certainly do not leave policymakers short of practical solutions. For instance, although it does not constitute an AI strategy itself, the European Union's General Data Protection Regulation(GDPR) sets a precedent for data privacy and protection and offers a foundation for ensuring that AI systems operate transparently and ethically.</p>
+
+
+<div class="break">
+<p class="break1">The distinction between acting as a gatekeeper and serving as a facilitator is often a subtle yet profoundly significant one.</p>
+</div>	
+
+
+
+<p>At its core, the AI governance and regulation challenge is a multidisciplinary one, and any proposed approach should reflect this. A robust starting point for AI governance and regulation harnesses the collective expertise of government, academia, and industry— what is sometimes called a 'triple-helix partnership'.<sup><a href="#notestop">30</a></sup> Policymakers provide regulatory insights, scholars from both the natural and social sciences offer technical knowledge and societal perspectives, and industry leaders contribute innovation and practical experience. To be clear, this collaborative synergy is not a panacea for the challenges associated with AI governance and regulation. It does, however, help to ensures that policies are more comprehensive, balanced, and equipped to address the multifaceted impacts of AI across all sectors of society.</p>
+
+
+
+<div class="break">
+<p class="break1"> The AI governance and regulation challenge is a multidisciplinary one, and any proposed approach should reflect this.</p>
+</div>	
+
+
+<p>We must acknowledge that human decision-making also has its own set of limitations. Cognitive bias, opacity, and inconsistency plague decision-making at the individual level, while challenges such as groupthink exist at the group level. In many cases, the yardstick for evaluating an AI system should move beyond a ‘good vs. bad’ dichotomy, to consider whether it improves existing decision-making processes along relevant dimensions such as efficiency, transparency, and fairness. The integration of AI should be viewed as an opportunity to enhance and refine decision-making, where technology is leveraged to fill the gaps left by human limitation, while still maintaining ethical and equitable standards aligned with the values of those impacted by AI.</p>
+
+<h3>Pathways Toward a Global Consensus</h3>
 
 
 
