@@ -267,18 +267,54 @@ and certainly do not leave policymakers short of practical solutions. For instan
 
 <div class="break">
 <p class="break1">The yardstick for evaluating an AI system should move beyond a ‘good vs. bad’ dichotomy, to consider whether it improves existing decision-making processes.</p>
-</div>	
+</div>
 
 
+<div class="notestop" id="notestop">
+<h6>NOTES</h6>
 
+<ol>
+<li><a href="https://www.cnbc.com/2017/07/21/china-ai-world-leader-by-2030.html#:~:text=China%20laid%20out%20plans%20to,the%20military%20to%20smart%20cities.">https://www.cnbc.com/2017/07/21/china-ai-world-leader-by-2030.html#:~:text=China%20laid%20out%20plans%20to,the%20military%20to%20smart%20cities.</a></li>
+    <li><a href="https://ai.gov.ae/wp-content/uploads/2021/07/UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf">https://ai.gov.ae/wp-content/uploads/2021/07/UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf</a></li>
+    <li><a href="https://mission-ki.de/en/">https://mission-ki.de/en/</a></li>
+    <li><a href="https://www.nordicinnovation.org/news/new-expert-group-will-make-nordics-leading-region-ethical-ai">https://www.nordicinnovation.org/news/new-expert-group-will-make-nordics-leading-region-ethical-ai</a></li>
+    <li><a href="https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-letsmake-sure-it-benefits-humanity">https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-letsmake-sure-it-benefits-humanity</a></li>
+    <li><a href="https://oecd.ai/en/dashboards/overview">https://oecd.ai/en/dashboards/overview</a></li>
+    <li><a href="https://goingdigital.oecd.org/data/notes/No14_ToolkitNote_AIStrategies.pdf">https://goingdigital.oecd.org/data/notes/No14_ToolkitNote_AIStrategies.pdf</a></li>
+    <li><a href="https://www.institute.global/insights/tech-and-digitalisation/from-strategy-to-synergy-what-can-we-learn-from-singapores-ai-journey#footnote_list_item_9">https://www.institute.global/insights/tech-and-digitalisation/from-strategy-to-synergy-what-can-we-learn-from-singapores-ai-journey#footnote_list_item_9</a></li>
+    <li><a href="https://www.institute.global/insights/economic-prosperity/accelerating-the-future-industrialstrategy-in-the-era-of-ai">https://www.institute.global/insights/economic-prosperity/accelerating-the-future-industrialstrategy-in-the-era-of-ai</a></li>
+    <li><a href="https://www.imf.org/en/Publications/fandd/issues/2023/12/Macroeconomics-of-artificialintelligence-Brynjolfsson-Unger">https://www.imf.org/en/Publications/fandd/issues/2023/12/Macroeconomics-of-artificialintelligence-Brynjolfsson-Unger</a></li>
+<li><a href="https://www.nber.org/papers/w31161">https://www.nber.org/papers/w31161</a></li>
+<li>Pair Chatbot is an experimental AI bot that will allow the secure and efficient use of large language models as a writing assistant within the government space.</li>
+   <li>Transcribe is a secured Speech-to-Text (STT) platform with auto-transcription technologies that can be used to produce transcripts of interviews, speeches and meeting minutes, and was developed for the Singapore government.</li>
+    <li><a href="https://www.ft.com/content/8f7b9b52-9243-4c34-af80-223522273ab4">https://www.ft.com/content/8f7b9b52-9243-4c34-af80-223522273ab4</a></li>
+    <li><a href="https://www.khanmigo.ai/">https://www.khanmigo.ai/</a></li>
+    <li><a href="https://www.weforum.org/agenda/2023/05/ai-skills-gaps-future-jobs/">https://www.weforum.org/agenda/2023/05/ai-skills-gaps-future-jobs/</a></li>
+    <li><a href="https://repository.unescap.org/bitstream/handle/20.500.12870/6810/ESCAP-2024-FS-Seizing-Opportunity.pdf?sequence=3&amp;isAllowed=y">https://repository.unescap.org/bitstream/handle/20.500.12870/6810/ESCAP-2024-FS-Seizing-Opportunity.pdf?sequence=3&amp;isAllowed=y</a></li>
+    <li><a href="https://www.wired.com/story/boston-generative-ai-policy/">https://www.wired.com/story/boston-generative-ai-policy/</a></li>
+    <li><a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592">https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592</a></li>
+    <li><a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html">https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html</a></li>
+    <li>Several countries have implemented counter-disinformation initiatives to combat the spread of online disinformation in areas of public interest, such as the UK government’s National Security Online Information Team (NSOIT) unit.</li>
+    <li><a href="https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/">https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/</a></li>
+    <li><a href="https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals/outcome/a-pro-innovation-approach-to-ai-regulation-government-response">https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals/outcome/a-pro-innovation-approach-to-ai-regulation-government-response</a></li>
+    <li><a href="https://file.go.gov.sg/nais2023.pdf">https://file.go.gov.sg/nais2023.pdf</a></li>
+    <li><a href="https://asiatimes.com/2023/11/us-stresses-ethical-ai-use-in-its-latest-strategy">https://asiatimes.com/2023/11/us-stresses-ethical-ai-use-in-its-latest-strategy</a></li>
+    <li><a href="https://data-en-maatschappij.ai/en/policy-monitor/nederland-impact-assessment-mensenrechtenen-algoritmes">https://data-en-maatschappij.ai/en/policy-monitor/nederland-impact-assessment-mensenrechtenen-algoritmes</a></li>
+    <li><a href="https://www.dataguidance.com/opinion/spain-agency-supervision-ai-overview">https://www.dataguidance.com/opinion/spain-agency-supervision-ai-overview</a></li>
+    <li><a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592">https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592</a></li>
+    <li><a href="https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/">https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/</a></li>
+    <li>For instance, Singapore has adopted a model, with the Government as ecosystem enabler, that convenes the research community, industry and public agencies to facilitate research collaborations, quickly commercialise fundamental AI research, and rapidly deploy AI solutions.</li>
+    <li><a href="https://eprints.lse.ac.uk/119637/1/Chan_multilateralism_in_the_digital_age_published.pdf">https://eprints.lse.ac.uk/119637/1/Chan_multilateralism_in_the_digital_age_published.pdf</a></li>
+    <li><a href="https://www.institute.global/insights/tech-and-digitalisation/state-of-compute-access-how-to-bridge-the-new-digital-divide">https://www.institute.global/insights/tech-and-digitalisation/state-of-compute-access-how-to-bridge-the-new-digital-divide</a></li>
+    <li><a href="https://www.orfonline.org/wp-content/uploads/2023/08/TF7_InternetInternationalism.pdf">https://www.orfonline.org/wp-content/uploads/2023/08/TF7_InternetInternationalism.pdf</a></li>
+    <li><a href="https://www.smehorizon.com/singapore-sets-her-sights-on-being-a-global-hub-for-ai-solutions/">https://www.smehorizon.com/singapore-sets-her-sights-on-being-a-global-hub-for-ai-solutions/</a></li>
+    <li><a href="https://eprints.lse.ac.uk/121603/1/Alden_et_al_Global_Digital_Governance_policy_brief.pdf">https://eprints.lse.ac.uk/121603/1/Alden_et_al_Global_Digital_Governance_policy_brief.pdf</a></li>
+</ol>
 
-
-
-
-
-
-
-
+	
+	
+	
+</div>
 
 
 
