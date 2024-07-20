@@ -191,8 +191,7 @@ Many national AI strategies are placing a strong emphasis on empowering individu
 <p>AI is reshaping decision-making processes across different verticals in society and is thus increasingly becoming a focal point for political and security considerations. Two main concerns arise from this: the first is to do with <b>integrity of the information ecosystem,</b> and the second involves <b>biases that accompany AI-enabled decision-making.</b></p>
 
 
-
-
+<p>With the capacity to reveal hidden variables and suggest potential correlations or causal relationships, AIdriven analytics can aid fraud detection, optimise resource allocation, and support more informed decision-making across different government functions. To support this, the Canadian government, for instance, has implemented a ‘Directive on Automated Decision-MakingSystems’ <a href="#notestop"><sup>19</sup></a> and created a ‘Pre-qualified AI Vendor Procurement Program’ <a href="#notestop"><sup>20</sup></a> to improve the accountability of AI tools utilised by government agencies.</p>
 
 
 
