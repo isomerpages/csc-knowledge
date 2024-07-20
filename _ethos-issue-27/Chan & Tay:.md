@@ -77,33 +77,18 @@ body {
     text-decoration: none;
     color: white;
 }
-
-.numbered-squares {
-    list-style: none; /* Remove default numbering */
-    padding: 0;
-    counter-reset: item;
+	
+.numbered-squares ol
+{
+background-color:black;
 }
 
-.numbered-squares li {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-}
 
-.numbered-squares li::before {
-    content: counter(item) ".";
-    counter-increment: item;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 30px;
-    height: 30px;
-    margin-right: 10px;
-    background-color: black;
-    color: white;
-    border-radius: 4px;
-    font-weight: bold;
-}
+.numbered-squares li
+{
+color:black;	
+font-size: 15px;
+}	
 
 	
 </style>
@@ -120,26 +105,13 @@ body {
 <div class="containerbox">
 <ol class="numbered-squares">
 
-<li></li>	
-<li></li>	
-<li></li>	
+<li>In the <b>socio-economic landscape</b>, AI will drive productivity and faster critical innovations in the fields of education, healthcare and public services. At the same time, there are concerns that such change will come at the cost of increased job insecurity for some, as well as a growing digital divide</li>	
+
+<li>AI's <b>socio-political Impact</b> will be felt most keenly through its ability to transform decision-making processes across all levels of society. Here are two areas of critical concern: the integrity and security of our information systems and the biases inherent in AI-driven decisions.</li>	
+
+	<li>Approcaches to <b>governance and regulation</b> will need to be multidisciplinary, to balance the vast potential of AI for public good with its inherent risks.</li>	
 	
 </ol>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
