@@ -126,7 +126,4 @@ padding:5px;
 <img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_2.jpg">
 <br>	
 <img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_1.jpg">
-</div>	
-
-
-
+</div>
