@@ -90,6 +90,16 @@ color:black;
 font-size: 15px;
 }	
 
+.numbered-squares li:before {
+        content: "";
+        position:absolute;
+        background-color:red;
+        z-index:-1;
+        display:inline-block;
+        width:16px;
+        height:16px;
+        border-radius:5px;	
+
 	
 </style>
 
