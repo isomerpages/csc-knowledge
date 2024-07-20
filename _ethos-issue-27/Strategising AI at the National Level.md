@@ -270,6 +270,18 @@ and certainly do not leave policymakers short of practical solutions. For instan
 </div>
 
 
+<div class="author">
+<h6>ABOUT THE AUTHORS</h6>	
+<p><b>Kenddrick Chan</b> is Senior Policy Analyst at the Tony Blair Institute for Global Change, where he conducts policy-relevant research on the intersection of technology, geopolitics, and international development. He is also a member of the United Nations ESCAP Informal Working Group on sustainable digital transformation in the Asia-Pacific region and was previously a G20 delegate at the Think20 for India's G20 presidency.</p>
+	
+	
+<p><b>PeiChin Tay</b> specialises in the fields of future of work, AI and public sector transformation at the Tony Blair Institute for Global Change. Prior to this, PeiChin led and delivered multi-million-dollar national and regional programmes, such as the flagship London Mayor's Digital Talent programme, a pan-European consortium on design innovation at Design Council UK, and an entrepreneurship project in the Government of Singapore. She contributes regularly to high-level working groups (UN), conferences and events (OECD, World Bank, Asia Tech X, IGF).</p>	
+	
+	
+</div>
+
+
+
 <div class="notestop" id="notestop">
 <h6>NOTES</h6>
 
@@ -315,8 +327,3 @@ and certainly do not leave policymakers short of practical solutions. For instan
 	
 	
 </div>
-
-
-
-
-
