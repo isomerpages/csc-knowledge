@@ -100,30 +100,3 @@ padding:5px;
 </style>
 
 
-
-<em><small>ETHOS Issue 27, July 2024</small></em>
-<div class="background-image">
-<img src="">
-</div>
-
-
-
-<div class="containerbox">
-<ol class="numbered-squares">
-
-<li>In the <b>socio-economic landscape</b>, AI will drive productivity and faster critical innovations in the fields of education, healthcare and public services. At the same time, there are concerns that such change will come at the cost of increased job insecurity for some, as well as a growing digital divide</li>	
-
-<li>AI's <b>socio-political Impact</b> will be felt most keenly through its ability to transform decision-making processes across all levels of society. Here are two areas of critical concern: the integrity and security of our information systems and the biases inherent in AI-driven decisions.</li>	
-
-<li>Approcaches to <b>governance and regulation</b> will need to be multidisciplinary, to balance the vast potential of AI for public good with its inherent risks.</li>	
-	
-</ol>
-</div>
-
-<br>
-
-<div class="img">
-<img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_2.jpg">
-<br>	
-<img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_1.jpg">
-</div>
