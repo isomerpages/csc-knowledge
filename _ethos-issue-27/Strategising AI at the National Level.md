@@ -258,16 +258,14 @@ and certainly do not leave policymakers short of practical solutions. For instan
 
 
 <p>To be clear, it is highly unlikely that a unified global model of AI governance will be achieved anytime soon. That said, it may be possible to achieve some degree of harmonisation for global AI governance—a new form of ‘integrated internet internationalism’.<sup><a href="#notestop">33</a></sup> A multipartite partnership approach could foster greater coherence in AI policies among countries worldwide and also amplify the collective global capacity to manage AI’s far-reaching implications.<sup><a href="#notestop">34</a></sup> The private sector could leverage their technical expertise to help governments worldwide collectively navigate and address the ethical, operational, and strategic challenges posed by AI, strengthening global AI governance efforts.<sup><a href="#notestop">35</a></sup>
-	
-	
-</p><h3>Conclusion</h3>
 
-<p>AI is a multi-faceted domain, yet this need not deter policymakers. Effective interventions in each of the three dimensions—socio-economic impact, socio-political considerations, and governance and regulation—can help ensure AI delivers on its promise of innovation and societal benefit. The challenge now lies in transforming the strategic ingredients into a cohesive and successful AI ecosystem—proving the value of AI by realising its implementation in thoughtful and inclusive ways.</p>
-
-
-<div class="break">
+	</p><div class="break">
 <p class="break1">The yardstick for evaluating an AI system should move beyond a ‘good vs. bad’ dichotomy, to consider whether it improves existing decision-making processes.</p>
 </div>
+	
+<p></p><h3>Conclusion</h3>
+
+<p>AI is a multi-faceted domain, yet this need not deter policymakers. Effective interventions in each of the three dimensions—socio-economic impact, socio-political considerations, and governance and regulation—can help ensure AI delivers on its promise of innovation and societal benefit. The challenge now lies in transforming the strategic ingredients into a cohesive and successful AI ecosystem—proving the value of AI by realising its implementation in thoughtful and inclusive ways.</p>
 
 
 <div class="author">
