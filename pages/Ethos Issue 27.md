@@ -85,7 +85,7 @@ td
    <br>
     
 <div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/AI_in_the_Public_Service_Teaser.jpg/images/Landing_Banner_Images/tile_editorial.jpg"></div>
         <div><h3>AI in the Public Service: Here for Goo </h3>
             <b><i>by Joseph Leong</i></b>
 
