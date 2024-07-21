@@ -96,7 +96,15 @@ td
 <div class="button1"><a href="/ai-in-the-public-service-here-for-good/">Read More</a></div> <br></div></div>
 
  <br>   
- 
+ <div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Strategising_AI_at_the_National_Level_Teaser.jpg"></div>
+        <div><h3>Strategising AI at the national level</h3>
+            <b><i>by Kenddrick Chan and PeiChin Tay</i></b>
+            
+<p>Effective national approaches to AI governance account for the technology’s multifaceted and dynamic nature. The Tony Blair Institute for Global Change outlines key dimensions and emerging best practices.</p>	
+            
+<div class="button1"><a href="/strategising-ai-at-the-national-level/">Read More</a></div><br></div>
+    </div>
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_Teaser.jpg"></div>
         <div><h3>Supercharging Statistics with AI  </h3>
@@ -110,15 +118,7 @@ td
 		
 		
  <br>   
-<div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Strategising_AI_at_the_National_Level_Teaser.jpg"></div>
-        <div><h3>Strategising AI at the national level</h3>
-            <b><i>by Kenddrick Chan and PeiChin Tay</i></b>
-            
-<p>Effective national approaches to AI governance account for the technology’s multifaceted and dynamic nature. The Tony Blair Institute for Global Change outlines key dimensions and emerging best practices.</p>	
-            
-<div class="button1"><a href="/strategising-ai-at-the-national-level/">Read More</a></div><br></div>
-    </div>
+
 
 
 
