@@ -81,7 +81,7 @@ td
 <p> Here are three articles, published ahead in support of the Public Service Week Learning Festival. The full issue will be available soon!</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-12"></a></div></div>
+   <div class="button1"><a href=""></a></div></div>
     </div>
     
    <br>
