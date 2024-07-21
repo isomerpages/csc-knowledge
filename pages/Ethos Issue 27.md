@@ -93,7 +93,7 @@ td
                
 <p>The AI revolution is an opportunity—and responsibility—for the Public Service to harness technological progress in pursuit of a better Singapore.</p>	
             
-<div class="button1"><a href="/editorial/">Read More</a></div> <br></div></div>
+<div class="button1"><a href="/ai-in-the-public-service-here-for-good/">Read More</a></div> <br></div></div>
 
  <br>   
  
