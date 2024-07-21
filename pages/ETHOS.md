@@ -72,79 +72,55 @@ td
 	}
 }	
 </style>
+<h2>FORTHCOMING EDITION</h2>
 <div class="grid-container">
-        <div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital12v1.jpg"></div>
-	<div><h3><span class="cat">Digital Issue 12, Apr 2024</span>
-            <br>ETHOS Digital Issue 12</h3>	
-            <p>In this digital issue of ETHOS, our contributors discuss the value of evidence in policymaking, the confluence of data, digital technology and diverse engagement in the practice of good governance.</p>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Ethos_Issue_27.jpg"></div>
+	<div>
+		<h4>ETHOS Issue 27</h4>	
+            <p>Artificial intelligence tools are become ever more pervasive and capable, with an impact that is quickly being felt across all sectors of society. This edition of ETHOS examines how the Public Service is readying itself to thrive, and to help Singapore succeed, in the age of AI, and considers what else can be done to fully harness its potential for the public good, while mitigating its excesses. The full line-up will feature contributions from colleagues across the Ministry of Digital Development and Information and the Department of Statistics, as well as external experts from Accenture, Harvard and the Tony Blair Institute.</p>
+<p> Here are three articles, published ahead in support of the Public Service Week Learning Festival. The full issue will be available soon!</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-12">Download PDF</a></div></div>
+   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-12"></a></div></div>
     </div>
     
    <br>
     
 <div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
-        <div><h3>Editorial </h3>
-            <b><i>by Alvin Pang</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/AI_in_the_Public_Service_Teaser.jpg"></div>
+        <div><h3>AI in the Public Service: Here for Good</h3>
+            <b><i>by Joseph Leong</i></b>
 
-                
-  <p>	
-            This issue of ETHOS Digital Edition draws together a number of themes that have recurred in our coverage of public policy and governance issues.
-            </p>	
+               
+<p>The AI revolution is an opportunity—and responsibility—for the Public Service to harness technological progress in pursuit of a better Singapore.</p>	
             
-<div class="button1"><a href="/editorial/">Read More</a></div> <br></div>
-    </div>
+<div class="button1"><a href="/ai-in-the-public-service-here-for-good/">Read More</a></div> <br></div></div>
 
  <br>   
+ <div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Strategising_AI_at_the_National_Level_Teaser.jpg"></div>
+        <div><h3>Strategising AI at the national level</h3>
+            <b><i>by Kenddrick Chan and PeiChin Tay</i></b>
+            
+<p>Effective national approaches to AI governance account for the technology’s multifaceted and dynamic nature. The Tony Blair Institute for Global Change outlines key dimensions and emerging best practices.</p>	
+            
+<div class="button1"><a href="/strategising-ai-at-the-national-level/">Read More</a></div><br></div>
+    </div>
 <div class="grid-container">
-        <div><img src="/images/Landing_Banner_Images/tile_interviews.jpg"></div>
-        <div><h3>Data x Policy x Outcomes</h3>
-            <b><i>A Conversation with Aaron Maniam, Eleanor Carter and Leon Lim</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_Teaser.jpg"></div>
+        <div><h3>Supercharging Statistics with AI  </h3>
+            <b><i>by Malcolm Cai, Jun Wen Tay and Nicholas Chin</i></b>
             
-<p>
-            Three researchers with deep public sector expertise discuss the uses and value of evidence in today’s policy environment.</p>	
+<p>The Singapore Department of Statistics (DOS) is pairing (generative) artificial intelligence and machine learning technologies with analytical rigour to boost its data products and statistical services.</p>	
             
-<div class="button1"><a href="/data-x-policy-x-outcomes/">Read More</a></div><br></div>
+<div class="button1"><a href="/supercharging-statistics-with-ai/">Read More</a></div><br></div>
     </div>
 		
+		
+		
  <br>   
-<div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_12/D12_Teaser_Resize__3.jpg"></div>
-        <div><h3>Designing for Data: A Healthcare Perspective</h3>
-            <b><i>A Conversation with Colin Lim</i></b>
-            
-<p>The Chief Information Officer and Chief Data Officer at the Ministry of Health explains how his work is helping to shape the future of healthcare in Singapore.</p>	
-            
-<div class="button1"><a href="/designing-for-data-a-healthcare-perspective/">Read More</a></div><br></div>
-    </div>
 
-<br>
-<div class="grid-container">
-      <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_12/d12teaserresize1.jpg"></div>
-        <div><h3>ETHOS Roundtable: The Balancing Act of Governance</h3>
-            <b><i>with Huot Synead, Suharti and Pauline Mulligan</i></b>
-<p>	
-            Participants from the 15th Leadership in Governance Programme discuss digitalisation in the public sector, underlining the need for consultation and compassion in a technology-driven world.
-</p>	
-            
-<div class="button1"><a href="/ethos-roundtable-the-balancing-act-of-governance/">Read More</a></div><br></div>
-    </div>
-    
-<br>    
-<div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_12/d12teaserresize2.jpg"></div>
-        <div><h3>Enhancing Representation in Collaborative Governance</h3>
-            <b><i>by Bernard Ting</i></b>
-            
-<p>	
-            Here’s how citizen-government engagements can be designed to yield more inclusive, credible and better quality deliberations.</p>	
-            
-<div class="button1"><a href="/enhancing-representation-in-collaborative-governance/">Read More</a></div><br></div>
-    </div>
-    
-<br>    
+
 
 
 <div class="back">
