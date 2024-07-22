@@ -83,7 +83,7 @@ border-bottom: none;
 
 <p>Singapore has been keeping abreast of Artificial Intelligence (AI) developments for some time. In the early 2010s, we observed a number of breakthroughs in computer vision, neutral networks, natural language processing and other emerging technologies that had machine algorithms trying to emulate what the human brain can do in recognising and processing information. These advances prompted us to unveil our first National AI Strategy in 2019. Our focus then was on laying foundations for our ecosystem, in terms of research, talent and infrastructure, with a focus on catalysing innovation through specific and specialised use cases in identified sectors. </p>
 
-<p>But the advent of transformers and large language models (LLMs) underlying ChatGPT and other forms of generative AI meant a paradigm shift in what AI means for us. AI is now more generalised, accessible, and applicable, offering significant capabilities without requiring as much specialist knowledge. This has opened up opportunities for us to reap new gains, as well as address problems we could not realistically solve before. But we needed to set new ambitions and create the broad-based conditions to seize these opportunities. This is what prompted our second National AI Strategy (NAIS 2.0). </p>
+<p>However, the advent of transformers and large language models (LLMs) underlying ChatGPT and other forms of generative AI meant a paradigm shift in what AI means for us. AI is now more generalised, accessible, and applicable, offering significant capabilities without requiring as much specialist knowledge. This opened up opportunities for us to reap new gains, as well as address problems we could not realistically solve before, but we needed to set new ambitions and create the broad-based conditions to seize these opportunities. This is what prompted our second National AI Strategy (NAIS 2.0). </p>
 
 <div class="break">
 <p class="break1"> AI is now more generalised, accessible, and applicable, offering significant capabilities without requiring as much specialist knowledge.</p>
@@ -103,7 +103,11 @@ border-bottom: none;
 
 <p>For example, we have seen how AI and automation have transformed language translation, software engineering, identity verification and border clearance. This is just the beginning and much more is possible in many other domains. </p>
 
-<p>Ultimately, beyond technological readiness, we need to re-imagine business and operating models if we are to truly realise the gains. And this means being prepared to question and change the mental models behind them, including fundamental assumptions about how things are done. The real challenge is therefore how we manage change, at both the individual and institutional levels. </p>
+<div class="break">
+<p class="break1">We need to re-imagine business and operating models if we are to truly realise the gains—this means being prepared to question and change the mental models behind them, including fundamental assumptions about how things are done.</p>
+</div>
+
+<p>Ultimately, beyond technological readiness, we need to re-imagine business and operating models if we are to truly realise the gains—this means being prepared to question and change the mental models behind them, including fundamental assumptions about how things are done. The real challenge is therefore how we manage change, at both the individual and institutional levels. </p>
 
 <h3>Encouraging Innovation while Managing Risks</h3>
 
