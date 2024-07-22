@@ -167,12 +167,12 @@ border-bottom: none;
 <h6>NOTES</h6>
 <ol>
 
-<li><a href="https://www.open.gov.sg/products/pair/">https://www.open.gov.sg/products/pair/</a></li>
+<li><a target="_blank" href="https://www.open.gov.sg/products/pair/">https://www.open.gov.sg/products/pair/</a></li>
 	
 <li>SmartCompose is an AI writing assistant that helps public officers communicate with the public in a faster and more empathetic manner.</li>
-<li>AIBots</li>
-<li>AI Wednesdays</li>
-<li><a href="https://www.scai.gov.sg/">https://www.scai.gov.sg/</a></li>
+<li><a target="_blank" href="https://uat.aibots.gov.sg/">AIBots</a> is a platform where agencies can create customised Generative AI chatbots.</li>
+<li><a target="_blank" href="https://go.gov.sg/aiweds-upcoming/">AI Wednesdays</a> is a dynamic series of community meetups dedicated to exploring the latest advancements, trends and applications in artificial intelligence. Organised for the whole of government, these sessions aim to foster collaboration, knowledge sharing and innovation.</li>
+<li><a target="_blank" href="https://www.scai.gov.sg/">https://www.scai.gov.sg/</a></li>
 
 </ol>
 </div>
