@@ -113,9 +113,7 @@ border-bottom: none;
 
 <p>Some worry that AI, being dependent on vast quantities of data, may carry inherent risks to privacy and security that will hinder its adoption in government work, where sensitive information may be involved. </p>
 
-<p>This is real, but we can tier the risks and manage them accordingly. </p>
-
-<p>Most of our tasks are not high risk: indeed, we have just reviewed our Government Instruction Manual 8 (IM8) rules to significantly reduce the IT compliance burden and increase space to innovate solutions for lower risk applications, which are the majority. Basic internet safety measures still apply: being mindful about data protection, basic cybersecurity, or redundancy in case of service disruption. </p>
+<p>This is real, but we can tier the risks and manage them accordingly. Most of our tasks are not high risk: indeed, we have just reviewed our Government Instruction Manual 8 (IM8) rules to significantly reduce the IT compliance burden and increase space to innovate solutions for lower risk applications, which are the majority. Basic internet safety measures still apply: being mindful about data protection, basic cybersecurity, or redundancy in case of service disruption. </p>
 
 <p>We are similarly making moves to ensure that as many public agencies and officers as possible can benefit from AI tools. We want everyone to be connected and using the different online tools they need, within a network which ensures sufficient trust and security. Sensitive content will be separated and worked in a different environment. This network separation will be happening over the next 1 to 2 years. </p>
 
