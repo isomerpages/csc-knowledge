@@ -53,6 +53,17 @@ font-size: 16px;
 
 <div class="grid-container">
 	
+<div class="grid-item">
+        <img src="/images/Ethos_Images/Ethos_Issue_27/Ethos_Issue_27.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-27/"> Issue 27, July 2024</a>
+            <br>
+            <a href=""></a>
+        </p>
+    </div>
+	
+	
+	
 
 <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital12v2.jpg">
