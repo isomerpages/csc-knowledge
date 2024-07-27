@@ -2,6 +2,7 @@
 title: Reclaiming Public Administration
 permalink: /ethos-issue-04/reclaiming-public-administration/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -168,7 +169,6 @@ An increasing number of public policies require the active participation of citi
 <li class="small-text">Salamon, Lester M., <em>The Tools of Government</em>, USA: Oxford University Press, 2002.</li>
 <li class="small-text">Clinton, Bill and Gore, Al,<em> Putting Customers First: Standards for Serving the American People</em>, Philadelphia, USA: Diane Publishing Co., 1995.</li>
 <li class="small-text">Levin, Martin A. and Sanger, Mary Bryna, <em>Making Government Work: How Entrepreneurial Executives Turn Bright Ideas into Real Results</em>, San Francisco, USA: Jossey-Bass Inc. Publishers, 1994.</li>
-<li class="small-text"><em>"Participative Web and User created Content: Web 2.0, Wikis and Social Networking,"</em> ’ Paris: OECD 2007, <a target="_blank" href="http://www.oecd.org/document/40/0%2c3343%2cen_2649_201185_39428648_1_1_1_1%2c00.html">http://www.oecd.org/document/40/0,3343,en_2649_201185_39428648_1_1_1_1,00.html</a>.</li>
 <li class="small-text">Kettl, Donald F., <em>The Transformation of Governance: Public Administration for Twenty-First Century America</em>, Baltimore and London: John Hopkins University Press, 2002.</li>
 </ol>
 
