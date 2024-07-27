@@ -2,6 +2,7 @@
 title: Can We Nudge the Pandemic Away?
 permalink: /ethos-issue-22/can-we-nudge-the-pandemic-away/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -352,7 +353,7 @@ public, and avoid going out.</p>
 
 <ol>
 <li class="small-text">Anja Bauer and Enzo Weber, “COVID-19: How Much Unemployment Was Caused by the Shutdown in Germany?” <em>Applied Economics Letters</em>, (2020), doi: 10.1080/13504851. 2020.1789544. </li>
-<li class="small-text">Holly Ellyatt, <a target="_blank" href="https://www.cnbc. com/2020/09/15/uk-unemployment-rate- rose-to-4point1percent-in-july-as-lockdown- impact-hit-home.html">“UK Unemployment Rose in July despite Lockdown Lifting, with More Job Losses Likely”</a>, <em>CNBC</em>, September 15, 2020, accessed April 17, 2021. </li>
+<li class="small-text">Holly Ellyatt, <a target="_blank" href="https://www.cnbc.com/2020/09/15/uk-unemployment-rate-rose-to-4point1percent-in-july-as-lockdown-impact-hit-home.html">“UK Unemployment Rose in July despite Lockdown Lifting, with More Job Losses Likely”</a>, <em>CNBC</em>, September 15, 2020, accessed April 17, 2021. </li>
 <li class="small-text">Ministry of Trade and Industry, <a target="_blank" href="https://www.singstat.gov.sg/-/media/files/ news/gdp2q2020.pdf">“MTI Narrows 2020 GDP Growth Forecast to ‘-7.0 to -5.0 Per Cent’”</a>, August 11, 2020, accessed April 17, 2021. </li>
 <li class="small-text">Elke Van Hoof, <a target="_blank" href="https:// www.weforum.org/agenda/2020/04/this-is-the-psychological-side-of-the-covid-19-pandemic-that-were-ignoring/">“Lockdown Is the World’s Biggest Psychological Experiment—and We Will Pay the Price”</a>, <em>World Economic Forum</em>, April 9, 2020, accessed April 17, 2021.</li>
 <li class="small-text">Yi-Ling Liu, <a target="_blank" href="https://www.bbc.com/future/ article/20200601-how-is-covid-19-is- affecting-relationships">“Is Covid-19 Changing Our Relationships?”</a> <em>BBC</em>, June 5, 2020, accessed April 17, 2021. </li>
@@ -363,7 +364,7 @@ public, and avoid going out.</p>
 <li class="small-text">Ben Butcher, <a target="_blank" href="https://www. bbc.com/news/55626008">“Lockdown: Are People Breaking Covid Rules?”</a> <em>BBC</em>, January 13, 2021, accessed April 17, 2021. </li>
 <li class="small-text">Linette Lai, <a target="_blank" href="https://www.straitstimes.com/singapore/covid-19-pandemic-could-last-four-or-five-years-lawrence-wong">“Covid-19 Pandemic Could Last Four or Five Years: Lawrence Wong”</a>, <em>The Straits Times</em>, January 25, 2021, accessed April 17, 2021. </li>
 <li class="small-text">Kok Ping Soon, <a target="_blank" href="../2017%20Issue%2017/nudges-why-how-what-next.html">“Nudges: Why, How and What Next?”</a> <em>Ethos</em>, June 30, 2017, accessed April 17, 2021. </li>
-<li class="small-text">Behavioural Insights Team, <a target="_blank" href="https:// www.bi.team/publications/east-four-simple- ways-to-apply-behavioural-insights/">“EAST:  Four Simple Ways to Apply Behavioural Insights”</a>, April 11, 2014, accessed April 17, 2021.</li>
+<li class="small-text">Behavioural Insights Team, <a target="_blank" href="https:// www.bi.team/publications/east-four-simple-ways-to-apply-behavioural-insights/">“EAST:  Four Simple Ways to Apply Behavioural Insights”</a>, April 11, 2014, accessed April 17, 2021.</li>
 <li class="small-text">Gov.sg, <a target="_blank" href="https://www.gov.sg/article/additional- restrictions-under-phase-2--heightened-alert">“Additional Restrictions under Phase 2 (Heightened Alert) to Minimise Transmission”</a>, May 14, 2021, accessed May 20, 2021. </li>
 <li class="small-text">Ministry of Health, <a target="_blank" href="https:// www.moh.gov.sg/covid-19/vaccination">"COVID-19 Vaccination", June 8, 2021, accessed June 9, 2021. </a></li>
 <a target="_blank" href="https:// www.moh.gov.sg/covid-19/vaccination">
@@ -384,7 +385,7 @@ public, and avoid going out.</p>
 <li class="small-text">See Note 6. </li>
 <li class="small-text">Joyce Teo, <a target="_blank" href="https://www.straitstimes.com/Singapore/health/covid-19-will-have-a-long-tail-effect-on-mental-health-experts-predict">“Covid-19 Will Have a Long-Tail Effect on Mental Health, Experts Predict”</a>, <em>The Straits Times</em>, August 19, 2020, accessed April 18, 2021. </li>
 <li class="small-text">A. C. Krendl and B. A. Pescosolido (2020) found that individuals in Eastern countries who are diagnosed with depression and/ or schizophrenia reported more mental illness stigma—in the areas of prejudice and discriminatory potential—than their Western counterparts. This finding was consistent with prior work. </li>
-<li class="small-text">Gunhild Berg and Bilal Husnain Zia, <a target="_blank" href="http://documents.worldbank.org/curated/en/550641468163145018/Harnessing-emotional-connections-to-improve-financial- decisions-evaluating-the-impact-of-financial-education-in-mainstream-media">“Harnessing Emotional Connections to Improve Financial Decisions: Evaluating the Impact of Financial Education in Mainstream Media (English)”</a>, Impact Evaluation Series, no. IE 89, policy research working paper, no. WPS 6407, 2013. </li>
+<li class="small-text">Gunhild Berg and Bilal Husnain Zia, <a target="_blank" href="http://documents.worldbank.org/curated/en/550641468163145018/Harnessing-emotional-connections-to-improve-financial-decisions-evaluating-the-impact-of-financial-education-in-mainstream-media">“Harnessing Emotional Connections to Improve Financial Decisions: Evaluating the Impact of Financial Education in Mainstream Media (English)”</a>, Impact Evaluation Series, no. IE 89, policy research working paper, no. WPS 6407, 2013. </li>
 <li class="small-text">Joyce Teo, <a target="_blank" href="https://www.straitstimes.com/singapore/health/no-need-to-rely-on-one-covid-19-vaccine-0">“S’pore Has No Need to Rely on One Covid-19 Vaccine with Several Promising Candidates in the Race”</a>, <em>The Straits Times</em>, November 28, 2020, accessed April 18, 2021. </li>
 <li class="small-text">Cheryl Tan, <a target="_blank" href="https://www.straitstimes.com/singapore/spore-cant-rely-on-herd-immunity-will-use-vaccines-among-other-measures-gan-kim-yong">“S’pore Can’t Rely on Herd Immunity, Will Use Covid-19 Vaccines among Other Measures: Gan Kim Yong”</a>, <em>The Straits Times</em>, May 14, 2021, accessed May 24, 2021. </li>
 </ol>
