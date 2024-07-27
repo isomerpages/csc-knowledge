@@ -309,11 +309,11 @@ li {
 <li class="small-text"><a target="_blank" href="http://www.ssc.govt.nz/four-year-plans">http://www.ssc.govt.nz/four-year-plans</a>.</li>
 <li class="small-text"><a target="_blank" href="http://www.ssc.govt.nz/performance-improvement-framework-reviews">http://www.ssc.govt.nz/performance-improvement-framework-reviews</a>.</li>
 <li class="small-text"><em><a target="_blank" href="https://www.publicservice.govt.nz/">Better Public Services Paper 2: Better System Leadership (PDF,96KB)</a></em> [SEC (12) 22] (4 May 2012).</li>
-<li class="small-text"><a target="_blank" href="https://www.ssc.govt.nz/bps-functional-leadership">https://www.ssc.govt.nz/bps-functional-leadership</a>; <a target="_blank" href="https://www.ict.govt.nz/governance-and-leadership/providing-ict-functional-leadership/">https://www.ict.govt.nz/governance-and-leadership/providing-ict-functional-leadership/</a>; <a target="_blank" href="http://www.mbie.govt.nz/">http://www.mbie.govt.nz/</a>.</li>
+<li class="small-text"><a target="_blank" href="https://www.ssc.govt.nz/bps-functional-leadership">https://www.ssc.govt.nz/bps-functional-leadership</a><a target="_blank" href="http://www.mbie.govt.nz/">http://www.mbie.govt.nz/</a>.</li>
 <li class="small-text">Allen Schick, <a target="_blank" href="https://www.publicservice.govt.nz/">The Spirit of Reform: Managing the New Zealand State Sector in a Time of Change</a> (New Zealand State Services Commission, 1996).</li>
 <li class="small-text">For example see: Bill English, <a target="_blank" href="https://www.beehive.govt.nz/speech/speech-ipanz-institute-public-administration-new-zealand">Speech to IPANZ</a> (New Zealand Government. 21 February 2013).</li>
 <li class="small-text">A significant part of working on the New Zealand reforms was the opportunity to review and exchange information with reform efforts in a range of other jurisdictions. My general observation from these interactions and subsequent international advisory work is that the challenges are universal while the context in which those challenges occur demands solutions that are unique.</li>
-<li class="small-text">See endnote 5.</li>
+<li class="small-text">See end note 5.</li>
 <li class="small-text">Ryan Orange, <em><a target="_blank" href="http://www.undp.org/content/dam/undp/library/capacity-development/English/Singapore Centre/NotesPSE1_PublicPassion.pdf">New Public Passion: Reflections from New Zealand on Public Service Reform (PDF,
     591KB)</a>
 </em> (UNDP Global Centre for Public Service Excellence, November 2016).</li>
