@@ -182,33 +182,30 @@ Within government, different ministries are examining causes of hardship and pov
 <h6>NOTES</h6>
 
 <ol>
-<li class="small-text">Prime Minister's Office, "The Straits Times Interview with DPM Tharman: Social Policies, Spending,
-    and Taxes", January 11, 2018, accessed April 17, 2018,&nbsp;<a href="http://www.pmo.gov.sg/newsroom/straits-times-    interview-dpm- tharman-shanmugaratnam">http://www.pmo.gov.sg/newsroom/straits-times-    interview-dpm- tharman-shanmugaratnam</a>.&nbsp;</li>
+<li class="small-text">Prime Minister's Office, "The Straits Times Interview with DPM Tharman: Social Policies, Spending, and Taxes", January 11, 2018, accessed April 17, 2018,&nbsp;<a href="http://www.pmo.gov.sg/newsroom/straits-times-interview-dpm-tharman-shanmugaratnam">http://www.pmo.gov.sg/newsroom/straits-times-interview-dpm- tharman-shanmugaratnam</a>.&nbsp;</li>
 <li class="small-text">“National Education Programme”, NUS High School of Math &amp; Science, accessed April 7, 2018,
     <a href="http://www.nushigh.edu.sg/student-development/national- education-programme">http://www.nushigh.edu.sg/student-development/national- education-programme</a>.</li>
 <li class="small-text">Ministry of Education, <em>2014 Syllabus Character and Citizenship Education Primary</em>, 2012, accessed
-    April 7, 2018, <a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/character-    citizenship-education/files/2014- character-citizenship- education-eng.pdf">https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/character-    citizenship-education/files/2014- character-citizenship- education-eng.pdf</a>.</li>
-<li class="small-text">Workforce Singapore (website), accessed April 7, 2018, <a href="http://www.wsg.gov.sg/adapt-and-    grow.html?gclid=EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEAAYASAAEgIi6vD_BwE">http://www.wsg.gov.sg/adapt-and-    grow.html?gclid=EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEAAYASAAEgIi6vD_BwE</a>.</li>
-<li class="small-text">SkillsFuture Singapore and Workforce Singapore (website), accessed April 7, 2018, <a href="http://www.ssg-    wsg.gov.sg/about.html?_ga=2.237454848.1460083303.1523066789-%20%20%20%2094431159.1523066789&amp;amp;_gac=1.11665920.1523066835.EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEA%20%20%20%20AYASAAEgIi6vD_BwE">http://www.ssg-    wsg.gov.sg/about.html?_ga=2.237454848.1460083303.1523066789-    94431159.1523066789&amp;_gac=1.11665920.1523066835.EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEA    AYASAAEgIi6vD_BwE</a>.</li>
-<li class="small-text">Ron Haskins, “Social Policy in Singapore: A Crucible of Individual Responsibility”, June 1, 2011, accessed April 7, 2018, <a href="https://www.brookings.edu/articles/social-policy- in-singapore- a-crucible- of-individual-responsibility/">https://www.brookings.edu/articles/social-policy- in-singapore- a-crucible- of-individual-responsibility/</a>.</li>
+    April 7, 2018, <a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/character-citizenship-education/files/2014-character-citizenship-education-eng.pdf">https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/character-citizenship-education/files/2014-character-citizenship- education-eng.pdf</a>.</li>
+<li class="small-text">SkillsFuture Singapore and Workforce Singapore (website), accessed April 7, 2018, <a href="http://www.ssg-wsg.gov.sg/about.html?_ga=2.237454848.1460083303.1523066789-%20%20%20%2094431159.1523066789&amp;amp;_gac=1.11665920.1523066835.EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEA%20%20%20%20AYASAAEgIi6vD_BwE">http://www.ssg-    wsg.gov.sg/about.html?_ga=2.237454848.1460083303.1523066789-94431159.1523066789&amp;_gac=1.11665920.1523066835.EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEAAYASAAEgIi6vD_BwE</a>.</li>
+<li class="small-text">Ron Haskins, “Social Policy in Singapore: A Crucible of Individual Responsibility”, June 1, 2011, accessed April 7, 2018, <a href="https://www.brookings.edu/articles/social-policy-in-singapore-a-crucible-of-individual-responsibility/">https://www.brookings.edu/articles/social-policy- in-singapore- a-crucible- of-individual-responsibility/</a>.</li>
 <li class="small-text">Janice Tai, “All Hands on Deck Needed for Social Good”, <em>The Straits Times</em>, April 11, 2016, accessed April 7, 2018, <a href="https://www.straitstimes.com/opinion/all-hands-on-deck-needed-for-social-good">https://www.straitstimes.com/opinion/all-hands-on-deck-needed-for-social-good</a>.</li>
-<li class="small-text">Philip A. Rozario and Amanda Leigh Rosetti, “Many Helping Hands: A Review and Analysis of Long-
-    Term Care Policies, Programs, and Practices in Singapore”, accessed April 7, 2018,
-    <a href="https://www.researchgate.net/publication/230827771_Many_Helping_Hands_A_Review_and_Analysis_of    _Long-term_Care_Policies_Programs_and_Practices_in_Singapore">https://www.researchgate.net/publication/230827771_Many_Helping_Hands_A_Review_and_Analysis_of    _Long-term_Care_Policies_Programs_and_Practices_in_Singapore</a>.</li>
+<li class="small-text">Philip A. Rozario and Amanda Leigh Rosetti, “Many Helping Hands: A Review and Analysis of Long-Term Care Policies, Programs, and Practices in Singapore”, accessed April 7, 2018,
+    <a href="https://www.researchgate.net/publication/230827771_Many_Helping_Hands_A_Review_and_Analysis_of_Longterm_Care_Policies_Programs_and_Practices_in_Singapore">https://www.researchgate.net/publication/230827771_Many_Helping_Hands_A_Review_and_Analysis_of_Long-term_Care_Policies_Programs_and_Practices_in_Singapore</a>.</li>
 
 <li class="small-text">Shirley Hsiao-Li Sun, <em>Population Policy and Reproduction in Singapore: Making Future Citizens</em>
     (Abingdon: Routledge, 2012), 16–17.</li>
 <li class="small-text">Public Service Division, Prime Minister’s Office, “Supporting Singaporeans and Ensuring No One Is
-    Left Behind”, accessed April 7, 2018, <a href="https://www.psd.gov.sg/heartofpublicservice/our- institutions/supporting-singaporeans- and-ensuring- no-one- is-left- behind/">https://www.psd.gov.sg/heartofpublicservice/our-    institutions/supporting-singaporeans- and-ensuring- no-one- is-left- behind/</a>.</li>
+    Left Behind”, accessed April 7, 2018, <a href="https://www.psd.gov.sg/heartofpublicservice/our-institutions/supporting-singaporeans-and-ensuring-no-one-is-left-behind/">https://www.psd.gov.sg/heartofpublicservice/our-institutions/supporting-singaporeans-and-ensuring-no-one-is-left-behind/</a>.</li>
 <li class="small-text">In her recent book, <em>This Is What Inequality Looks Like </em>(Ethos Books 2018) sociologist Teo You Yenn
     argues that framing upward mobility as a question of individual responsibility ignores the constraints
     created by inequality on individual aspirations, and unfairly characterises as “lazy” or “incompetent” those
     who are the victims of their circumstances.</li>
 <li class="small-text">Kane Cunico, Yvonne Lim, and Jade Han,”Ploughing On: The Faces and Insecurities of Singapore’s
     Elderly Working Poor”, Channel NewsAsia, May 15, 2017, accessed April 7, 2018,
-    <a href="https://www.channelnewsasia.com/news/cnainsider/ploughing-on- the-faces- and-insecurities- of- singapore-s- elderly-8824490">https://www.channelnewsasia.com/news/cnainsider/ploughing-on- the-faces- and-insecurities- of-    singapore-s- elderly-8824490</a>.</li>
+    <a href="https://www.channelnewsasia.com/news/cnainsider/ploughing-on- the-faces- and-insecurities- of- singapore-s-elderly-8824490">https://www.channelnewsasia.com/news/cnainsider/ploughing-on-the-faces-and-insecurities-of-singapore-s-elderly-8824490</a>.</li>
 <li class="small-text">Teo You Yenn, “Why Low-Income Parents May Make ‘Poor Choices’”, <em>The Straits Times</em>, March 10,
-    2016, accessed April 7, 2018, <a href="http://www.straitstimes.com/opinion/why-low- income-parents- may-make-    poor-choices">http://www.straitstimes.com/opinion/why-low- income-parents- may-make-    poor-choices</a>.</li>
+    2016, accessed April 7, 2018, <a href="https://www.straitstimes.com/opinion/why-low-income-parents-may-make-poor-choices">http://www.straitstimes.com/opinion/why-low-income-parents-may-make-poor-choices</a>.</li>
 <li class="small-text">Braema Mathi and Sharifah Mohamed, <em>Unmet Social Needs in Singapore</em>, October 2011, accessed
     April 7, 2018, <a href="https://lcsi.smu.edu.sg/sites/lcsi.smu.edu.sg/files/Unmet_Social_Needs_in_Singapore.pdf">https://lcsi.smu.edu.sg/sites/lcsi.smu.edu.sg/files/Unmet_Social_Needs_in_Singapore.pdf</a>,
     38–41. &nbsp;</li>
@@ -217,8 +214,7 @@ Within government, different ministries are examining causes of hardship and pov
     2012, accessed April 7, 2018, <a href="http://scholarbank.nus.edu.sg/bitstream/10635/118934/1/2013-    social_welfare_singapore-postprint.pdf">http://scholarbank.nus.edu.sg/bitstream/10635/118934/1/2013-    social_welfare_singapore-postprint.pdf</a>.</li>
 <li class="small-text">Janice Tai, “Social Welfare: Pressure on Family Mounting”, <em>The Straits Times</em>, October 25, 2015,
     accessed April 7, 2018, <a href="http://www.straitstimes.com/singapore/social-welfare- pressure-on- family-    mounting">http://www.straitstimes.com/singapore/social-welfare- pressure-on- family-    mounting</a>.</li>
-<li class="small-text">Charissa Yong, “New Study Finds Clear Divide among Social Classes in Singapore”, <em>The Straits
-    Times</em>, December 28, 2017, accessed April 7, 2018, <a href="http://www.straitstimes.com/singapore/new-study-    finds-class- divide-in- singapore">http://www.straitstimes.com/singapore/new-study-    finds-class- divide-in- singapore</a>.</li>
+<li class="small-text">Charissa Yong, “New Study Finds Clear Divide among Social Classes in Singapore”, <em>The Straits Times</em>, December 28, 2017, accessed April 7, 2018, <a href="https://www.straitstimes.com/singapore/new-study-finds-class-divide-in-singapore">http://www.straitstimes.com/singapore/new-study-finds-class-divide-in-singapore</a>.</li>
 <li class="small-text">Yuen Sin, “Parliament: Progressive Wage Models Can Be Extended to More Sectors, Says Sam Tan”,
     <em>The Straits Times</em>, March 5, 2018, accessed April 7, 2018, <a href="https://www.straitstimes.com/politics/parliament-progressive-wage-models-can-be-extended-to-more-sectors-sam-tan">https://www.straitstimes.com/politics/parliament-progressive-wage-models-can-be-extended-to-more-sectors-sam-tan</a>.</li>
 </ol>
