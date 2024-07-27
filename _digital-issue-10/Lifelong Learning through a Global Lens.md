@@ -118,7 +118,7 @@ line-height:22px;
 
 <p>Singapore’s latest labour market report indicates that there are more job vacancies than there are job seekers. The number of job vacancies has increased over the past two years, hitting a new high of 128,100 in March 2022.<sup><a href="#num1">1</a></sup> This may have been an outcome of the ‘Great Resignation’: a global trend of people quitting their jobs since the start of the COVID-19 pandemic to seek better work-life balance after a prolonged period of working remotely without commuting.<sup><a href="#num2">2</a></sup> Anecdotally, I have found, from LinkedIn, that many of my connections have been moving to new jobs recently.</p>
 
-<p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see <b>Table 1</b>).<sup><a href="#num3">3</a></sup></p>	
+<p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see <b>Table 1</b>).<sup>3</sup></p>	
 
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table1.JPG">
 
