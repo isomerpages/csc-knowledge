@@ -2,6 +2,7 @@
 title: Crisis-proof Governance
 permalink: /ethos-issue-06/crisis-proof-governance/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -208,11 +209,7 @@ When looking at policy issues, you need to have a broad enough mind to see from 
   
 <hr>  
   
-<h6><a name="notes"></a>NOTES</h6>  
-  
-<ol>  
-<li class="small-text">Developed by the Brunei Economic Development Board, the 271-hectare site is positioned to be a world class petrochemical hub, drawing an estimated US$1.3 billion in investment and creating up to 1,065 permanent jobs. For more details, see <a href="http://www.bedb.com.bn/bisop\_spark.htm">http://www.bedb.com.bn/bisop\_spark.htm</a></li>  
-</ol>  
+
 
 
 
