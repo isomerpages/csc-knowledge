@@ -127,8 +127,8 @@ public, and avoid going out.</p>
 <li class="small-text">Marta Paterlini, <a target="_blank" href="https://www.nature.com/articles/d41586-020-01098-x">“‘Closing Borders Is Ridiculous’: The Epidemiologist behind Sweden’s Controversial Coronavirus Strategy”</a>, <em>Nature</em>, April 21, 2020, accessed April 18, 2021. </li>
 <li class="small-text">Charlie Duxbury, <a target="_blank" href="https://www.politico.eu/article/swedencoronavirus-local-lockdown-uppsala/">“Sweden’s hands-off approach to local lockdown”</a>, <em>Politico</em>, October 24, 2020, accessed April 17, 2021.</li>
 <li class="small-text"> <a target="_blank" href="https://www.bbc.com/news/uk-england-51823214">“Coronavirus: The Boy behind the Wash Your Lyrics Site”</a>, <em>BBC</em>, March 11, 2020, accessed April 17, 2021. </li>
-<li class="small-text">Sarah Boseley, <a target="_blank" href="https://www.theguardian.com/society/2020/mar/24/nhs-hospitals-could-run-outof-coronavirus-beds-in-a-fortnight">“NHS Hospitals Could Run Out of Coronavirus Beds in a Fortnight”</a>, <em>The Guardian</em>, March 24, 2020, accessed April 17, 2021. </li>
-<li class="small-text">Reuters, <a target="_blank" href="https://www.reuters.com/article/uk-factcheck-prageru-sweden-herdimmunit-idUSKBN28C2R7">"Fact Check: Sweden Has Not Achieved Herd Immunity, Is Not Proof that Lockdowns Are Useless"</a>, December 3, 2020, accessed May 25, 2021. </li>
+<li class="small-text">Sarah Boseley, <a target="_blank" href="https://www.theguardian.com/society/2020/mar/24/nhs-hospitals-could-run-out-of-coronavirus-beds-in-a-fortnight">“NHS Hospitals Could Run Out of Coronavirus Beds in a Fortnight”</a>, <em>The Guardian</em>, March 24, 2020, accessed April 17, 2021. </li>
+<li class="small-text">Reuters, <a target="_blank" href="https://www.reuters.com/article/uk-factcheck-prageru-sweden-herdimmunit-idUSKBN28C2R7/">"Fact Check: Sweden Has Not Achieved Herd Immunity, Is Not Proof that Lockdowns Are Useless"</a>, December 3, 2020, accessed May 25, 2021. </li>
 <li class="small-text">Sophia Ankel, <a target="_blank" href="https://www.businessinsider.com/sweden-facing-its-first-lockdown-as-covid-19-restrictionstightened-2021-2">“Sweden Has U-turned on Several of Its Coronavirus Measures and Is Now Facing Its First Lockdown, Warns PM”</a>, <em>Business Insider</em>, February 27, 2021, accessed April 17, 2021. </li>
 </ol>
 
@@ -188,7 +188,7 @@ public, and avoid going out.</p>
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text">NOTES</p>
 <ol>
 <li class="small-text"> University of Bayreuth, <a target="_blank" href="https://idw-online.de/en/news748198">“How Nudging Can Help Ensure Physical Distancing”</a>, May 28, 2020, accessed April 17, 2021. </li>
-<li class="small-text">Julia Rosenbaum, <a target="_blank" href="https://globalhandwashing.org/incorporating-nudges-into-covid-19-communication-and-preventionstrategies/">“Incorporating Nudges into COVID-19 Communication and Prevention Strategies”</a>, Global Handwashing Partnership, March 31, 2020, accessed April 17, 2021. </li>
+<li class="small-text">Julia Rosenbaum, <a target="_blank" href="https://globalhandwashing.org/incorporating-nudges-%20into-covid-19-communication-and-preventionstrategies/">“Incorporating Nudges into COVID-19 Communication and Prevention Strategies”</a>, Global Handwashing Partnership, March 31, 2020, accessed April 17, 2021. </li>
 <li class="small-text">Mark Egan, Abigail Mottershaw, Giulia Tagliaferri, Yihan Xu, and Vivek Roy-Chowdhury, <a target="_blank" href="https://www.bi.team/blogs/bright-infographics-and-minimal-text-makehandwashing-posters-most-effective/">“Bright Infographics &amp; Minimal Text Make Handwashing Posters Most Effective—Result from An Online Experiment”</a>, Behavioural Insights Team, March 23, 2020, accessed April 17, 2021. </li>
 </ol>
 
