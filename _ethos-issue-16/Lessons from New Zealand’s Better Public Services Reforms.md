@@ -255,9 +255,6 @@ li {
 <ol>
 <li>The Service Innovation Working Group, comprising the Chief Executives of eight agencies supporting the Government Chief Information Officer (who is also the Chief Executive of the Department of Internal Affairs), leads the delivery of Result 10.</li>
 <li><a target="_blank" href="https://www.dia.govt.nz/Better-Public-Services">https://www.dia.govt.nz/Better-Public-Services</a></li>
-<a target="_blank" href="https://www.dia.govt.nz/Better-Public-Services">
-</a>
-<li><a target="_blank" href="https://www.dia.govt.nz/Better-Public-Services"></a><a target="_blank" href="http://www.ssc.govt.nz/bps-interaction-with-govt">http://www.ssc.govt.nz/bps-interaction-with-govt</a></li>
 <li>Allen Schick, <em>The Spirit of Reform: Managing the New Zealand State Sector in a Time of Change</em> (New Zealand State Services Commission, 1996), <a target="_blank" href="https://www.ssc.govt.nz/spirit-of-reform">https://www.ssc.govt.nz/spirit-of-reform</a>; <a target="_blank" href="https://www.dia.govt.nz/Measuring-Results-Archive#July-Sept2012">https://www.dia.govt.nz/Measuring-Results-Archive#July-Sept2012</a>.</li>
 </ol>
 
@@ -306,7 +303,7 @@ li {
 <li class="small-text"><em><a target="_blank" href="https://www.publicservice.govt.nz/">Better Public Services Paper 5: Amendments to the Public Finance Act 1989 (PDF, 117KB)</a></em> [SEC (12) 25] (4 May 2012).</li>
 <li class="small-text"><em><a target="_blank" href="https://www.publicservice.govt.nz/'">Better Public Services Paper 7: Amendments to the Crown Entities Act 2004 (PDF,135KB)</a></em>[SEC (12) 27] (4 May 2012).</li>
 <li class="small-text"><a target="_blank" href="http://www.treasury.govt.nz/statesector/betterpublicservices/crossagencyfunding">http://www.treasury.govt.nz/statesector/betterpublicservices/crossagencyfunding</a>.</li>
-<li class="small-text"><a target="_blank" href="http://www.stats.govt.nz/browse_for_stats/snapshots-of-nz/integrated-data-infrastructure.aspx">http://www.stats.govt.nz/browse_for_stats/snapshots-of-nz/integrated-data-infrastructure.aspx</a>.</li>
+<li class="small-text"><a target="_blank" href="https://www.stats.govt.nz/integrated-data/integrated-data-infrastructure/">https://www.stats.govt.nz/integrated-data/integrated-data-infrastructure/</a>.</li>
 <li class="small-text">Core public Service agencies in New Zealand are led by a Chief Executive. The Chief Executive is appointed on a fixed term contract (typically 5 years) by the State Services Commissioner.</li>
 <li class="small-text">See endnote 6; paragraphs 54 to 74.</li>
 <li class="small-text"><a target="_blank" href="http://www.ssc.govt.nz/four-year-plans">http://www.ssc.govt.nz/four-year-plans</a>.</li>
