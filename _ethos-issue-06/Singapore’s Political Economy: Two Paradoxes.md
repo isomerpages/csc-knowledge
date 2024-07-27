@@ -2,6 +2,7 @@
 title: "Singapore’s Political Economy: Two Paradoxes"
 permalink: /ethos-issue-06/singapores-political-economy-two-paradoxes/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -203,9 +204,9 @@ economic reasoning seriously.
 <li class="small-text">Only 4% of Singaporeans favour open borders, and just 24% are willing to admit immigrants “as long as jobs \[are\] available”; the comparable numbers in the United States are 12.4% and 44.8% according to World Values Survey variable identifier E143. Mauzy and Milne confirm this pattern: see Mauzy and Milne (2002: 152 and 2002:191).</li>  
 <li class="small-text">World Values Survey variable identifier E001.</li>  
 <li class="small-text">World Values Survey variable identifier E014.</li>  
-<li class="small-text"><a href="http://en.wikipedia.org/wiki/William\_Hale\_Thompson">http://en.wikipedia.org/wiki/William\_Hale\_Thompson</a></li>  
-<li class="small-text"><a href="http://en.wikipedia.org/wiki/List\_of\_Mayors\_of\_San\_Francisco">http://en.wikipedia.org/wiki/List\_of\_Mayors\_of\_San\_Francisco</a></li>  
-<li class="small-text"><a href="http://en.wikipedia.org/wiki/New\_York\_City\_Council">http://en.wikipedia.org/wiki/New\_York\_City\_Council</a></li>  
+<li class="small-text"><a href="https://en.wikipedia.org/wiki/William_Hale_Thompson">https://en.wikipedia.org/wiki/William_Hale_Thompson</a></li>  
+<li class="small-text"><a href="https://en.wikipedia.org/wiki/Mayor_of_San_Francisco#List_of_mayors">https://en.wikipedia.org/wiki/Mayor_of_San_Francisco#List_of_mayors</a></li>  
+<li class="small-text"><a href="https://en.wikipedia.org/wiki/New_York_City_Council">https://en.wikipedia.org/wiki/New_York_City_Council</a></li>  
 <li class="small-text">See generally Schleicher, D., “Why is There No Partisan Competition in City Council Elections?: The Role of Election Law”, <em>Journal of Law and Politics</em> 23 (2007): 419-473.</li>  
 <li class="small-text">Lindbeck, A., and Weibull, J. W., “Balanced-Budget Redistribution as the Outcome of Political Competition”, Public Choice 54 (1987): 273-297; Caplan, B., “When Is Two Better Than One? How Federalism Amplifies and Mitigates Imperfect Political Competition”, <em>Journal of Public Economics</em> 80 (2001): 99-119.</li>  
 <li class="small-text">Why then is one-party democracy so much more common in cities than countries? The most plausible explanation is that small, dense populations tend to be less heterogeneous—not only in their policy preferences, but in their party preferences as well. As Mutalib (2004: 272) suggests, “A larger land area and population base would allow greater avenues and wider opportunities for political dissension and other sectional or geographical interests to be articulated.”</li>  
