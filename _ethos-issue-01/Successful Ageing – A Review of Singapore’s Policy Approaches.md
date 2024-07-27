@@ -2,6 +2,7 @@
 title: Successful Ageing – A Review of Singapore’s Policy Approaches
 permalink: /ethos-issue-01/successful-ageing-a-review-of-singapores-policy-approaches/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -172,10 +173,7 @@ An example of opportunities to help seniors stay active, this community-based le
 <p>The programme includes core subjects, project work, volunteer and community activities, and electives such as line dancing, yoga and creative painting. Participants graduate with a “Certificate on Life Long Learning”. Student Seniors are then be recruited as Active Seniors Ambassadors in various areas of volunteer work.</p>
 
 <p>-Olivia Goh</p>
-he YAH! Community College:
-	
-<a href="http://www.mpfsc.org.sg/yah/yah-index.htm">http://www.mpfsc.org.sg/yah/yah-index.htm</a>
-
+he YAH! Community College
 </div>
 
 
