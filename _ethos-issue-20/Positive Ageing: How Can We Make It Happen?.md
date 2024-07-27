@@ -2,6 +2,7 @@
 title: "Positive Ageing: How Can We Make It Happen?"
 permalink: /ethos-issue-20/positive-ageing-how-can-we-make-it-happen/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -228,7 +229,6 @@ to switch careers.
 <li class="small-text">Ministry of Social and Family Development, <em>Report of the IMC Workgroup on Cohesion and Conflict in an Ageing Society</em> (Singapore: Ministry of Social and Family Development, 1999), 36.</li>  
 <li class="small-text">The SRC comprised representatives from the Ministry of Health, the National Council of Social Service and the People’s Association.</li>  
 <li class="small-text">Ministry of Health, <em>Committee on Ageing Issues: Report on the Ageing Population</em> (Singapore: Ministry of Health, 2006).</li>  
-<li class="small-text">World Health Organization, <em>Global Age-friendly Cities: A Guide</em> (Geneva: World Health Organization, 2007), July 12, 2018, <a href="http://www.who.int/ageing/publications/Global\_age\_friendly\_cities\_Guide\_English.pdf">http://www.who.int/ageing/publications/Global\_age\_friendly\_cities\_Guide\_English.pdf</a>.</li>  
 <li class="small-text">Ministry of Health, <em>Creating Senior-friendly Communities: Tips and Tools from the City for All Ages Project</em> (Singapore: Ministry of Health).</li>  
 <li class="small-text">Ministry of Health, <em>Report of the National Dementia Strategy</em> (Singapore: Ministry of Health, 2009).</li>  
 <li class="small-text">Forget Us Not: Building a Dementia-Friendly Community (website), <a href="http://www.forgetusnot.sg/">http://www.forgetusnot.sg/</a>.</li>  
