@@ -3,6 +3,7 @@ title: "COVID 19 and Climate Change: A Foretaste of Public Service in the 21st
   Century"
 permalink: /digital-issue-06/covid-19-and-climate-change-a-foretaste-of-public-service-in-the-21st-century/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -173,7 +174,7 @@ The current COVID-19 pandemic provides a foretaste of what a climate crisis may 
 
 <h6>ABOUT THE AUTHOR</h6>
 
-<p class="small-text"><strong>Jocelyne Bourgon</strong>&nbsp;is the Founding President of Public Governance International (<a href="http://www.pgionline.com/">PGI</a>), President Emeritus of the Canada School of Public Service, Project Leader of the <a href="http://www.pgionline.com/ns-initiative-history/">New Synthesis Initiative</a>,
+<p class="small-text"><strong>Jocelyne Bourgon</strong>&nbsp;is the Founding President of Public Governance International (PGI), President Emeritus of the Canada School of Public Service, Project Leader of the New Synthesis Initiative,
             and a <a href="../../who-we-are/fellowships.html">Senior Visiting Fellow</a>&nbsp;at the Civil Service College Singapore.
             Madame Bourgon had a distinguished career in the Canadian Public Service where she led the Public Service of Canada through some of its most important reforms in the 1990’s.
             She has published extensively about public administration. She is the author of <em>A New Synthesis of Public Administration: Serving in the 21st Century</em> (2011) and <em>The New Synthesis of Public Administration Fieldbook</em> (2017), among others.
