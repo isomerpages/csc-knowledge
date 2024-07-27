@@ -2,6 +2,7 @@
 title: "Shoulder to Shoulder: Why Partnership Matters in Times of Crisis"
 permalink: /digital-issue-06/shoulder-to-shoulder-why-partnership-matters-in-times-of-crisis/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -158,7 +159,6 @@ and stronger for it—this will be a triumph that we can all share.</p>
 <h6><a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">Y. C. Chee, “Heroes and Heroines of the War on SARS”, <em>Singapore Med J</em> 44, no. 5 (2003): 221–228, <a href="http://www.smj.org.sg/sites/default/files/4405/4405e1.pdf">http://www.smj.org.sg/sites/default/files/4405/4405e1.pdf</a>.</li>
 <li class="small-text">“What You Can and Cannot Do during the Circuit Breaker Period”, April 11, 2020, accessed May 11, 2020, <a href="https://www.gov.sg/article/what-you-can-and-cannot-do-during-the-circuit-breaker-period">https://www.gov.sg/article/what-you-can-and-cannot-do-during-the-circuit-breaker-period</a>. </li>
 <li class="small-text">“Time-limited Extension of CHAS Subsidy and Use of MediSave for Follow Up of Chronic Conditions through Video Consultations in View of COVID-19”, Ministry of Health, May  5, 2020, accessed May 11, 2020, <a href="https://www.moh.gov.sg/covid-19/vc">https://www.moh.gov.sg/covid-19/vc</a>.
     </li>
@@ -180,9 +180,7 @@ and stronger for it—this will be a triumph that we can all share.</p>
 <li class="small-text">Quoted in K. S. Loh and L. Y. Hsu, “Tuberculosis in Singapore: Past and Future”, <em>Annals of the Academy of Medicine Singapore</em> 48, no. 3 (2019): 72–74, <a href="http://www.annals.edu.sg/pdf/48VolNo3Mar2019/V48N3p72.pdf">http://www.annals.edu.sg/pdf/48VolNo3Mar2019/V48N3p72.pdf</a>.
     </li>
 <li class="small-text">Tee Zhuo, “Parliament: 300 Homeless Seek Help from MSF Peers Network during Covid-19 Circuit Breaker”, <em>The Straits Times</em>, May 4, 2020, accessed May 11, 2020, <a href="https://www.straitstimes.com/politics/parliament-300-homeless-seek-help-from-msf-peers-network-during-covid-19-circuit-breaker">https://www.straitstimes.com/politics/parliament-300-homeless-seek-help-from-msf-peers-network-during-covid-19-circuit-breaker</a>.
-    </li>
-<li class="small-text">Nigel Chin, “How Society Staples and Debra Lam Ensure Vulnerable Communities Are Not Forgotten during Circuit Breaker Period”, Youth.SG, May  6, 2020, accessed May 11, 2020, <a href="https://www.youth.sg/Spotted/People/2020/5/How-Society-Staples-Debra-Lam-ensure-vulnerable-communities-are-not-forgotten-during-circuit-breaker">https://www.youth.sg/Spotted/People/2020/5/How-Society-Staples-Debra-Lam-ensure-vulnerable-communities-are-not-forgotten-during-circuit-breaker</a>.
-    </li>
+</li>
 </ol>
 
 
