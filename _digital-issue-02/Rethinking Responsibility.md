@@ -2,6 +2,7 @@
 title: Rethinking Responsibility
 permalink: /digital-issue-02/rethinking-responsibility/
 description: ""
+variant: markdown
 ---
 <style>
 	
@@ -191,16 +192,12 @@ Within government, different ministries are examining causes of hardship and pov
 <li class="small-text">SkillsFuture Singapore and Workforce Singapore (website), accessed April 7, 2018, <a href="http://www.ssg-    wsg.gov.sg/about.html?_ga=2.237454848.1460083303.1523066789-%20%20%20%2094431159.1523066789&amp;amp;_gac=1.11665920.1523066835.EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEA%20%20%20%20AYASAAEgIi6vD_BwE">http://www.ssg-    wsg.gov.sg/about.html?_ga=2.237454848.1460083303.1523066789-    94431159.1523066789&amp;_gac=1.11665920.1523066835.EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEA    AYASAAEgIi6vD_BwE</a>.</li>
 <li class="small-text">Ron Haskins, “Social Policy in Singapore: A Crucible of Individual Responsibility”, June 1, 2011,
     accessed April 7, 2018, <a href="https://www.brookings.edu/articles/social-policy- in-singapore- a-crucible- of-    individual-responsibility/">https://www.brookings.edu/articles/social-policy- in-singapore- a-crucible- of-    individual-responsibility/</a>.</li>
-<li class="small-text">John C. Goodman, “Singapore: A Fascinating Alternative to the Welfare State”, Forbes, March 31,
-    2015, accessed April 7, 2018, <a href="https://www.forbes.com/sites/johngoodman/2015/03/31/singapore-a-    fascinating-alternative- to-the- welfare-state/#3c1af67676c0">https://www.forbes.com/sites/johngoodman/2015/03/31/singapore-a-    fascinating-alternative- to-the- welfare-state/#3c1af67676c0</a>.</li>
 <li class="small-text">Janice Tai, “All Hands on Deck Needed for Social Good”, <em>The Straits Times</em>, April 11, 2016, accessed
     April 7, 2018, <a href="http://www.straitstimes.com/opinion/all-hands- on-deck- needed-for- social-good">http://www.straitstimes.com/opinion/all-hands- on-deck- needed-for- social-good</a>.</li>
 <li class="small-text">Philip A. Rozario and Amanda Leigh Rosetti, “Many Helping Hands: A Review and Analysis of Long-
     Term Care Policies, Programs, and Practices in Singapore”, accessed April 7, 2018,
     <a href="https://www.researchgate.net/publication/230827771_Many_Helping_Hands_A_Review_and_Analysis_of    _Long-term_Care_Policies_Programs_and_Practices_in_Singapore">https://www.researchgate.net/publication/230827771_Many_Helping_Hands_A_Review_and_Analysis_of    _Long-term_Care_Policies_Programs_and_Practices_in_Singapore</a>.</li>
-<li class="small-text">Ministry of Communications and Information, “Why Doesn’t the Government Increase Social
-    Spending“, August 13, 2015, accessed April 7, 2018,
-    <a href="https://www.gov.sg/factually/content/whydoesntthegovernmentincreasesocialspending">https://www.gov.sg/factually/content/whydoesntthegovernmentincreasesocialspending</a>.</li>
+
 <li class="small-text">Shirley Hsiao-Li Sun, <em>Population Policy and Reproduction in Singapore: Making Future Citizens</em>
     (Abingdon: Routledge, 2012), 16–17.</li>
 <li class="small-text">Public Service Division, Prime Minister’s Office, “Supporting Singaporeans and Ensuring No One Is
