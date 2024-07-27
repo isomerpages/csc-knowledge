@@ -2,6 +2,7 @@
 title: Promoting Active Ageing through Virtual & Augmented Reality
 permalink: /ethos-issue-20/promoting-active-ageing-through-virtual-augmented-reality/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -178,13 +179,9 @@ empower the elderly to live independently—would be more aligned with active ag
 <li class="small-text">Janice Tai, <em>“More Seniors in Singapore Taking Own Lives”</em>, <em>The Straits Times</em>, December 17, 2015, accessed April 20, 2016, <a href="https://www.straitstimes.com/singapore/more-seniors-in-singapore-taking-own-lives">https://www.straitstimes.com/singapore/more-seniors-in-singapore-taking-own-lives</a>.</li>  
 <li class="small-text">Chia Ying, Sheng Yee Zher, and Johnny Sung, <em>Lifelong Learning and Ageing: Evidence from Singapore</em> (Singapore: Institute for Adult Learning, 2017).</li>  
 <li class="small-text">Prime Minister’s Office, “PM on Re-employment of Older Workers”, January 8, 2009, accessed April 20, 2016, <a href="http://www.pmo.gov.sg/mediacentre/pm-re-employment-older-workers">http://www.pmo.gov.sg/mediacentre/pm-re-employment-older-workers</a>.</li>  
-<li class="small-text">Rachel Au-Yong, “Vision of a Smart Nation Is&nbsp;to Make Life Better: PM Lee”, <em>The Straits Times</em>, November 25, 2014, accessed April 20, 2016, <a href="https://www.straitstimes.com/singapore/vision-of-a-smart-nation-is-to-make-life-better-pm-lee">https://www.straitstimes.com/singapore/vision-of-a-smart-nation-is-to-make-life-better-pm-lee</a>.</li>  
-<li class="small-text">Asiaone, ”Smart Nation Must Benefit Elderly, Mobility and Data Security: PM Lee”, April 20, 2015, <a href="https://www.asiaone.com/singapore/smart-nation-must-benefit-elderly-mobility-and-data-security-pm-lee">https://www.asiaone.com/singapore/smart-nation-must-benefit-elderly-mobility-and-data-security-pm-lee</a>.</li>  
-<li class="small-text">DesignSingapore Council, <em>Design for Ageing Gracefully—Rethinking Health &amp; Wellness for the Elderly: Public Services</em> (Singapore:DesignSingapore Council, 2014), <a href="https://www.designsingapore.org/for\_enterprises/Design\_Research/DesignforAgeingGracefully.aspx">https://www.designsingapore.org/for\_enterprises/Design\_Research/DesignforAgeingGracefully.aspx</a>.</li>  
-<li class="small-text">DesignSingapore Council,<em> Empathetic Technology for Ageing—Rethinking Health and Wellness for the Elderly in Singapore: Infocomm Technology Sector</em> (Singapore: DesignSingapore Council, 2014), <a href="https://www.designsingapore.org/for\_enterprises/Design\_Research/EmpatheticTechnologyforAgeing.aspx">https://www.designsingapore.org/for\_enterprises/Design\_Research/EmpatheticTechnologyforAgeing.aspx</a>.</li>  
+<li class="small-text">Rachel Au-Yong, “Vision of a Smart Nation Is&nbsp;to Make Life Better: PM Lee”, <em>The Straits Times</em>, November 25, 2014, accessed April 20, 2016, <a href="https://www.straitstimes.com/singapore/vision-of-a-smart-nation-is-to-make-life-better-pm-lee">https://www.straitstimes.com/singapore/vision-of-a-smart-nation-is-to-make-life-better-pm-lee</a>.</li>   
 <li class="small-text">Ministry of Communications and Information, <em>Rethinking Design in an Ageing Singapore.</em> (Singapore: Ministry of Communications and Information, 2016), <a href="https://www.mci.gov.sg/pressroom/news-and-stories/stories/2016/2/rethinking-design-in-an-ageing-singapore?pagesize=6&amp;page=59">https://www.mci.gov.sg/pressroom/news-and-stories/stories/2016/2/rethinking-design-in-an-ageing-singapore?pagesize=6&amp;page=59</a>.</li>  
 <li class="small-text">Chia Ying, Sheng Yee Zher, and Johnny Sung,&nbsp;<em>Lifelong Learning and Ageing.</em></li>  
-<li class="small-text">Ministry of Social and Family Development, <em>ComCare Trends Report: FY2012–FY2014</em> (Singapore: Ministry of Social and Family Development, 2014), <a href="https://www.msf.gov.sg/media-room/Documents/ComCare Trends Report FY2012-2014.pdf">https://www.msf.gov.sg/media-room/Documents/ComCare%20Trends%20Report%20FY2012-2014.pdf</a>.</li>  
 <li class="small-text">Ministry of Social and Family Development, <em>Ageing Families in Singapore</em> (Singapore: Ministry of Social and Family Development), <a href="https://www.msf.gov.sg/research-and-data/Research-and-Data-Series/Documents/Ageing Families Report Insight Series 20151124.pdf">https://www.msf.gov.sg/research-and-data/Research-and-Data-Series/Documents/Ageing%20Families%20Report%20Insight%20Series%2020151124.pdf</a>.</li>  
 </ol>  
   
