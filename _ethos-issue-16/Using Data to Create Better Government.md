@@ -2,6 +2,7 @@
 title: Using Data to Create Better Government
 permalink: /ethos-issue-16/using-data-to-create-better-government/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -324,12 +325,9 @@ As more meaningful big data sources become available, new ways of improving peop
 <li class="small-text">World Economic Forum, “Is this the future of the Internet of Things?”, <a target="_blank" href="http://www.weforum.org/">http://www.weforum.org</a>.
     </li>
 <li class="small-text">Cisco Global Cloud Index: Forecast and Methodology, 2014–2019 White Paper, <a target="_blank" href="http://www.cisco.com/">http://www.cisco.com</a>.
-    </li>
-<li class="small-text">“<a target="_blank" href="http://www.predpol.com/about/">About</a><span> PredPol</span>”</li>
+</li>
 <li class="small-text">City A.M., “<a target="_blank" href="http://www.cityam.com/240951/open-data-london-is-streets-ahead-when-it-comes-to-helping-commuters-plan-their-journey-but-we-mustnt-become-complacent">Open data: London is streets ahead when it comes to helping commuters plan their journey — but we mustn’t become complacent”.</a>
 </li>
-<li class="small-text">Source: <a target="_blank" href="http://techplan.cityofchicago.org/wp-content/uploads/2013/09/cityofchicago-techplan.pdf">The City of Chicago Technology Plan (PDF,3.0MB)</a>.
-    </li>
 <li class="small-text">Source: Housing &amp; Development Board, “<a target="_blank" href="http://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/hdb-smart-home-exhibition">My Smart HDB Home @ Yuhua</a>”
     </li>
 <li class="small-text">Source: UK Government, “<a href="https://www.gov.uk/government/publications/government-security-classifications">Government Security Classifications, April 2014</a>”
