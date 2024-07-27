@@ -2,6 +2,7 @@
 title: Could Crowdfunding Work for Singapore’s Public Sector?
 permalink: /digital-issue-02/could-crowdfunding-work-for-singapores-public-sector/
 description: ""
+variant: markdown
 ---
 <style>
 	
@@ -289,7 +290,6 @@ In implementing crowdfunding, the government should also consider whether public
 
 <ol>
 <li class="small-text">Public expenditure is expected to outweigh revenue in the long term. The Singapore Government has also recently lowered budget caps permanently across all ministries by 2%.  See: Rachel Au-Yong, “Singapore Budget 2017: Budgets to Grow at A Slower Pace, Future Tax Raises Being Considered”,<em> The Straits Times</em>,  February 20, 2017, accessed June 7, 2017, <a href="http://www.straitstimes.com/singapore/singapore-budget-2017-budgets-to-grow-at-a-slower-pace-future-tax-raises-being-considered">http://www.straitstimes.com/singapore/singapore-budget-2017-budgets-to-grow-at-a-slower-pace-future-tax-raises-being-considered</a>; Ann Williams, “2016 Singapore Budget Will Have Surplus of $3.45 Billion”, <em>The Straits Times</em>, March 24, 2016, accessed June 7, 2017, <a href="http://www.straitstimes.com/business/economy/2016-budget-will-have-surplus-of-345-billion">http://www.straitstimes.com/business/economy/2016-budget-will-have-surplus-of-345-billion</a>.</li>
-<li class="small-text">Ministry of Finance, <em>Public Private Partnership Handbook</em> (Version 2, March 2012), pages 6–8, accessed June 7, 2017, <a href="http://www.mof.gov.sg/Portals/0/Policies/ProcurementProcess/PPPHandbook2012.pdf">http://www.mof.gov.sg/Portals/0/Policies/ProcurementProcess/PPPHandbook2012.pdf</a>.</li>
 <li class="small-text">Kickstarter (website), accessed June 7, 2017,<a href="https://www.kickstarter.com/about?ref=nav"> https://www.kickstarter.com/about?ref=nav</a>.</li>
 <li class="small-text">Indiegogo (website), accessed June 7, 2017, <a href="https://www.indiegogo.com/about/what-we-do">https://www.indiegogo.com/about/what-we-do</a>.</li>
 <li class="small-text">See Fintechnews Singapore, “Top 11 Donation and Reward-Based Crowdfunding Platforms in Asia”, June 24, 2017, accessed June 7, 2017,&nbsp; <a href="http://fintechnews.sg/10112/crowdfunding/top-donation-reward-based-crowdfunding-platforms-asia/">http://fintechnews.sg/10112/crowdfunding/top-donation-reward-based-crowdfunding-platforms-asia/</a>.</li>
