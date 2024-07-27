@@ -2,6 +2,7 @@
 title: "Artificial Intelligence: Impact on Public Safety & Security"
 permalink: /ethos-issue-21/artificial-intelligence-impact-on-public-safety-and-security/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -463,7 +464,7 @@ have entered a brave new world.</p>
 <li class="small-text">Remarks by Mr S Iswaran, Minister for Communications and Information, at
     the Media Literacy Council’s Launch of the Fake News Campaign, November 2, 2018, accessed December 26, 2018, <a target="_blank" href="https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2018/11/remarks-by-minister-s-iswaran-at-the-media-literacy-council-launch-of-the-fake-news-campaign">https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2018/11/remarks-by-minister-s-iswaran-at-the-media-literacy-council-launch-of-the-fake-news-campaign</a>.</li>
 <li class="small-text">Lianne Chia, “National Framework to Build Information and Media Literacy to be Launched in 2019: S Iswaran”, <em>CNA</em>, November 2, 2018, accessed December 26, 2018, <a target="_blank" href="https://www.channelnewsasia.com/news/singapore/framework-build-information-media-literacy-launched-2019-iswaran-10890438">https://www.channelnewsasia.com/news/singapore/framework-build-information-media-literacy-launched-2019-iswaran-10890438</a>.</li>
-<li class="small-text">Infocomm Media Development Authority (IMDA), “New Council to Oversee Cyber Wellness, Media Literacy Initiatives”, November 3, 2017, accessed 26 December 2018, <a target="_blank" href="https://www.imda.gov.sg/about/newsroom/archived/mda/media-releases/2012/new-council-to-oversee-cyber-wellness-media-literacy-initiatives">https://www.imda.gov.sg/about/newsroom/archived/mda/media-releases/2012/new-council-to-oversee-cyber-wellness-media-literacy-initiatives</a>.</li>
+<li class="small-text">Infocomm Media Development Authority (IMDA), “New Council to Oversee Cyber Wellness, Media Literacy Initiatives”, November 3, 2017, accessed 26 December 2018, <a target="_blank" href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/archived/mda/press-releases/2012/new-council-to-oversee-cyber-wellness-media-literacy-initiatives">https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/archived/mda/press-releases/2012/new-council-to-oversee-cyber-wellness-media-literacy-initiatives</a>.</li>
 </ol>
 
 
