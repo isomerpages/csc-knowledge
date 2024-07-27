@@ -2,6 +2,7 @@
 title: "COVID 19 Crisis Management: An Early Look"
 permalink: /digital-issue-06/covid-19-crisis-management-an-early-look/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -273,8 +274,6 @@ Reproduced with permission</p>
 <li class="small-text">Ibid.
     </li>
 <li class="small-text">See Note 2.
-    </li>
-<li class="small-text">Michael Yong and Jalelah Abu Baker, “‘No Magic Solution’: Lawrence Wong on Why Singapore Is Not Locked Down amid COVID-19 Outbreak”,<em> CNA</em>, March 31, 2020, accessed May 7, 2020, <a href="https://www.channelnewsasia.com/news/singapore/lockdown-singapore-covid-19-coronavirus-lawrence-wong-12594484">https://www.channelnewsasia.com/news/singapore/lockdown-singapore-covid-19-coronavirus-lawrence-wong-12594484</a>.
     </li>
 <li class="small-text">“Corrections and Clarifications Regarding Falsehoods Published by States Times Review on Availability of Face Masks”, Gov.sg., January 30, 2020, accessed May 12, 2020, <a href="https://www.gov.sg/article/factually-clarifications-on-falsehoods-posted-by-str-on-availability-of-face-masks">https://www.gov.sg/article/factually-clarifications-on-falsehoods-posted-by-str-on-availability-of-face-masks</a>.
     </li>
