@@ -221,7 +221,7 @@ Within government, different ministries are examining causes of hardship and pov
 <li class="small-text">Charissa Yong, “New Study Finds Clear Divide among Social Classes in Singapore”, <em>The Straits
     Times</em>, December 28, 2017, accessed April 7, 2018, <a href="http://www.straitstimes.com/singapore/new-study-    finds-class- divide-in- singapore">http://www.straitstimes.com/singapore/new-study-    finds-class- divide-in- singapore</a>.</li>
 <li class="small-text">Yuen Sin, “Parliament: Progressive Wage Models Can Be Extended to More Sectors, Says Sam Tan”,
-    <em>The Straits Times</em>, March 5, 2018, accessed April 7, 2018, <a href="http://www.straitstimes.com/politics/parliament-    progressive-wage- models-can- be-extended- to-more- sectors-sam- tan">http://www.straitstimes.com/politics/parliament-    progressive-wage- models-can- be-extended- to-more- sectors-sam- tan</a>.</li>
+    <em>The Straits Times</em>, March 5, 2018, accessed April 7, 2018, <a href="http://www.straitstimes.com/politics/parliament-    progressive-wage- models-can- be-extended- to-more- sectors-sam- tan">http://www.straitstimes.com/politics/parliament-progressive-wage-models-can-be-extended-to-more-sectors-sam-tan</a>.</li>
 </ol>
 
 </div>	
