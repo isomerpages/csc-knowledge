@@ -188,7 +188,7 @@ public, and avoid going out.</p>
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text">NOTES</p>
 <ol>
 <li class="small-text"> University of Bayreuth, <a target="_blank" href="https://idw-online.de/en/news748198">“How Nudging Can Help Ensure Physical Distancing”</a>, May 28, 2020, accessed April 17, 2021. </li>
-<li class="small-text">Julia Rosenbaum, <a target="_blank" href="https://globalhandwashing.org/incorporating-nudges- into-covid-19-communication-and-preventionstrategies/">“Incorporating Nudges into COVID-19 Communication and Prevention Strategies”</a>, Global Handwashing Partnership, March 31, 2020, accessed April 17, 2021. </li>
+<li class="small-text">Julia Rosenbaum, <a target="_blank" href="https://globalhandwashing.org/incorporating-nudges-into-covid-19-communication-and-preventionstrategies/">“Incorporating Nudges into COVID-19 Communication and Prevention Strategies”</a>, Global Handwashing Partnership, March 31, 2020, accessed April 17, 2021. </li>
 <li class="small-text">Mark Egan, Abigail Mottershaw, Giulia Tagliaferri, Yihan Xu, and Vivek Roy-Chowdhury, <a target="_blank" href="https://www.bi.team/blogs/bright-infographics-and-minimal-text-makehandwashing-posters-most-effective/">“Bright Infographics &amp; Minimal Text Make Handwashing Posters Most Effective—Result from An Online Experiment”</a>, Behavioural Insights Team, March 23, 2020, accessed April 17, 2021. </li>
 </ol>
 
@@ -365,7 +365,7 @@ public, and avoid going out.</p>
 <li class="small-text">Linette Lai, <a target="_blank" href="https://www.straitstimes.com/singapore/covid-19-pandemic-could-last-four-or-five-years-lawrence-wong">“Covid-19 Pandemic Could Last Four or Five Years: Lawrence Wong”</a>, <em>The Straits Times</em>, January 25, 2021, accessed April 17, 2021. </li>
 <li class="small-text">Kok Ping Soon, <a target="_blank" href="../2017%20Issue%2017/nudges-why-how-what-next.html">“Nudges: Why, How and What Next?”</a> <em>Ethos</em>, June 30, 2017, accessed April 17, 2021. </li>
 <li class="small-text">Behavioural Insights Team, <a target="_blank" href="https:// www.bi.team/publications/east-four-simple-ways-to-apply-behavioural-insights/">“EAST:  Four Simple Ways to Apply Behavioural Insights”</a>, April 11, 2014, accessed April 17, 2021.</li>
-<li class="small-text">Gov.sg, <a target="_blank" href="https://www.gov.sg/article/additional- restrictions-under-phase-2--heightened-alert">“Additional Restrictions under Phase 2 (Heightened Alert) to Minimise Transmission”</a>, May 14, 2021, accessed May 20, 2021. </li>
+<li class="small-text">Gov.sg, <a target="_blank" href="https://www.gov.sg/article/additional-restrictions-under-phase-2--heightened-alert">“Additional Restrictions under Phase 2 (Heightened Alert) to Minimise Transmission”</a>, May 14, 2021, accessed May 20, 2021. </li>
 <li class="small-text">Ministry of Health, <a target="_blank" href="https:// www.moh.gov.sg/covid-19/vaccination">"COVID-19 Vaccination", June 8, 2021, accessed June 9, 2021. </a></li>
 <a target="_blank" href="https:// www.moh.gov.sg/covid-19/vaccination">
 </a>
