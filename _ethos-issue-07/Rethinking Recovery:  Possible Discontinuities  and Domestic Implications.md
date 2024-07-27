@@ -2,6 +2,7 @@
 title: "Rethinking Recovery:  Possible Discontinuities  and Domestic Implications"
 permalink: /ethos-issue-07/rethinking-recovery-possible-discontinuities-and-domestic-implications/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -194,7 +195,7 @@ Following the severity of the financial crisis, the world is likely to become in
 <li class="small-text">"Decoupling 2.0", The Economist, May 2009.</li>  
 <li class="small-text">"Uncoupling Asia: Myth and Reality", Asian Development Outlook 2007 (Philippines: Asian Development Bank, 2007).</li>  
 <li class="small-text">"Searching for a new source of global demand growth", Deutsche Bank Global Markets Research, December 2008.</li>  
-<li class="small-text">MENA economies are rich with capital and feedstock (oil, gas, petrochemicals and basic inputs for heavy industry) but lack labour, whereas Asian economies have abundant labour, less capital and scarce feedstock. In addition, Gulf States have also been slowly developing state-owned multinational enterprises aimed at Asian markets in sectors such as logistics, heavy industry and telecommunications. See Hertog S., "Secular Trends in Gulf Geo-Economics", presented at the Second Franco-Singapore Conference on the Impact of the Middle East on Southeast Asia and Europe, December 2008. <a href="http://www.mei.nus.edu.sg/">http://www.mei.nus.edu.sg</a></li>  
+<li class="small-text">MENA economies are rich with capital and feedstock (oil, gas, petrochemicals and basic inputs for heavy industry) but lack labour, whereas Asian economies have abundant labour, less capital and scarce feedstock. In addition, Gulf States have also been slowly developing state-owned multinational enterprises aimed at Asian markets in sectors such as logistics, heavy industry and telecommunications. See Hertog S., "Secular Trends in Gulf Geo-Economics", presented at the Second Franco-Singapore Conference on the Impact of the Middle East on Southeast Asia and Europe, December 2008. <a href="https://mei.nus.edu.sg/">https://mei.nus.edu.sg/</a></li>  
 <li class="small-text">Bhaskaran, M., "The Crisis and Beyond", Asian Economic Outlook, December 2008.</li>  
 <li class="small-text">The risk of protectionism, albeit in the guise of environmental or other well-meaning laws, is also likely due to projected higher energy costs and scarce strategic resources.</li>  
 <li class="small-text">Notwithstanding the dominance of free-market capitalism, privatisation had been practised unevenly across developed and emerging economies. While developed economies such as the US and Europe had been much more aggressive in adopting free-market capitalism, emerging economies such as China, Russia and India were operating economies which had relatively more direct state influence alongside privatisation efforts.</li>  
