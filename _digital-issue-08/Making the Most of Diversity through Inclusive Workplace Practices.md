@@ -2,6 +2,7 @@
 title: Making the Most of Diversity through Inclusive Workplace Practices
 permalink: /digital-issue-08/making-the-most-of-diversity-through-inclusive-workplace-practices/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -304,8 +305,6 @@ An organisation needs to make systemic attempts to build skills for working incl
 <li class="small-text">I. Wasserman, “Strengthening Interpersonal Awareness and Fostering Relational Eloquence”, in <em>Diversity at Work: The Practice of Inclusion</em>, eds Bernardo M. Ferdman and Barbara R. Deane (Wiley, 2014): 128-154, accessed July 30, 2021, <a target="_blank" href="https://doi.org/10.1002/9781118764282.ch4">https://doi.org/10.1002/9781118764282.ch4</a>.
     </li>
 <li class="small-text">P. Allen, (2017). “D&amp;I and Leadership in Organizations”, in <em>Diversity and Inclusion in the Global Workplace</em>, eds C. Aquino and R. Robertson (2017): 153–170, accessed July 30, 2021, <a target="_blank" href="https://doi.org/10.1007/978-3-319-54993-4_9">https://doi.org/10.1007/978-3-319-54993-4_9</a>.</li>
-<li class="small-text">N. Nair and N. Vohra, <em>Diversity and Inclusion at the Workplace: A Review of Research and Perspectives</em> (Indian Institute of Management, 2015), ebook, accessed July 30, 2021, <a target="_blank" href="https://web.iima.ac.in/assets/snippets/workingpaperpdf/8631467072015-03-34.pdf">https://web.iima.ac.in/assets/snippets/workingpaperpdf/8631467072015-03-34.pdf</a>.
-    </li>
 <li class="small-text">See Note 2.</li>
 <li class="small-text">See Note 9.</li>
 <li class="small-text">See Note 2.</li>
