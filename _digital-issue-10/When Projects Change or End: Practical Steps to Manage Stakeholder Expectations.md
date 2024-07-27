@@ -4,6 +4,7 @@ title: "When Projects Change or End: Practical Steps to Manage Stakeholder
 permalink: /digital-issue-10/when-projects-change-or-end-practical-steps-to-manage-stakeholder-expectations/
 description: ""
 image: /images/Ethos_Images/Ethos_Digital_Issue_10/when_projects_change_or_end_bannerteaser.jpeg
+variant: markdown
 ---
 <style>
 
@@ -204,7 +205,7 @@ margin:20px;
 <ol>
 <li id="num1">Tip #1: Engaging Stakeholders, Harvard Business Review, video file, <a target="_blank" href="https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders">https://hbr.org/video/3390395863001/tip-1-engaging-stakeholders</a>.</li>
 <li id="num2">The Prosci ADKAR Model, <a target="_blank" href="https://www.prosci.com/methodology/adkar">https://www.prosci.com/methodology/adkar</a>.</li>
-<li id="num3">Adapted from: Aurangzeab Butt, Marja Naaranoja and Jussi Savolainen, “Project Change Stakeholder Communication”, <em>International Journal of Project Management</em> 34 (2016): 1579–95, 10.1016/j.ijproman.2016.08.010, accessed March 1, 2023, <a target="_blank" href="https://www.researchgate.net/publication/308352652\_Project\_change\_stakeholder\_communication">https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication</a>.</li>
+<li id="num3">Adapted from: Aurangzeab Butt, Marja Naaranoja and Jussi Savolainen, “Project Change Stakeholder Communication”, <em>International Journal of Project Management</em> 34 (2016): 1579–95, 10.1016/j.ijproman.2016.08.010, accessed March 1, 2023, <a target="_blank" href="https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication">https://www.researchgate.net/publication/308352652_Project_change_stakeholder_communication</a>.</li>
 </ol>	
 </div>	
 	
