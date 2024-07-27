@@ -2,6 +2,7 @@
 title: Public Engagement That Works
 permalink: /ethos-issue-12/public-engagement-that-works/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -204,7 +205,7 @@ Discerning when it is appropriate to engage with the public is an important skil
 <p><strong>Notes</strong></p>
 <ol>
 <li class="small-text">
-<a href="http://www.ted.com/talks/david_brooks_the_social_animal.html">http://www.ted.com/talks/david_brooks_the_social_animal.html</a> (posted March 2011).
+<a href="https://www.ted.com/talks/david_brooks_the_social_animal?subtitle=en">https://www.ted.com/talks/david_brooks_the_social_animal?subtitle=en</a> (posted March 2011).
     </li>
 </ol>
 
