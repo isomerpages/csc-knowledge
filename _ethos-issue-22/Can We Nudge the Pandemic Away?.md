@@ -187,7 +187,7 @@ public, and avoid going out.</p>
 <hr>
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text">NOTES</p>
 <ol>
-<li class="small-text"> University of Bayreuth, <a target="_blank" href="https://www.uni-bayreuth.de/en/university/press/press-releases/2020/086-expertinterview-germelmann-nudging-social-distancing/index.html">“How Nudging Can Help Ensure Physical Distancing”</a>, May 28, 2020, accessed April 17, 2021. </li>
+<li class="small-text"> University of Bayreuth, <a target="_blank" href="https://idw-online.de/en/news748198">“How Nudging Can Help Ensure Physical Distancing”</a>, May 28, 2020, accessed April 17, 2021. </li>
 <li class="small-text">Julia Rosenbaum, <a target="_blank" href="https://globalhandwashing.org/incorporating-nudges- into-covid-19-communication-and-preventionstrategies/">“Incorporating Nudges into COVID-19 Communication and Prevention Strategies”</a>, Global Handwashing Partnership, March 31, 2020, accessed April 17, 2021. </li>
 <li class="small-text">Mark Egan, Abigail Mottershaw, Giulia Tagliaferri, Yihan Xu, and Vivek Roy-Chowdhury, <a target="_blank" href="https://www.bi.team/blogs/bright-infographics-and-minimal-text-makehandwashing-posters-most-effective/">“Bright Infographics &amp; Minimal Text Make Handwashing Posters Most Effective—Result from An Online Experiment”</a>, Behavioural Insights Team, March 23, 2020, accessed April 17, 2021. </li>
 </ol>
