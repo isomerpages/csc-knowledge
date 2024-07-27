@@ -184,9 +184,7 @@ Within government, different ministries are examining causes of hardship and pov
 <ol>
 <li class="small-text">Prime Minister's Office, "The Straits Times Interview with DPM Tharman: Social Policies, Spending, and Taxes", January 11, 2018, accessed April 17, 2018,&nbsp;<a href="http://www.pmo.gov.sg/newsroom/straits-times-interview-dpm-tharman-shanmugaratnam">http://www.pmo.gov.sg/newsroom/straits-times-interview-dpm- tharman-shanmugaratnam</a>.&nbsp;</li>
 <li class="small-text">“National Education Programme”, NUS High School of Math &amp; Science, accessed April 7, 2018,
-    <a href="http://www.nushigh.edu.sg/student-development/national- education-programme">http://www.nushigh.edu.sg/student-development/national- education-programme</a>.</li>
-<li class="small-text">Ministry of Education, <em>2014 Syllabus Character and Citizenship Education Primary</em>, 2012, accessed
-    April 7, 2018, <a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/character-citizenship-education/files/2014-character-citizenship-education-eng.pdf">https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/character-citizenship-education/files/2014-character-citizenship- education-eng.pdf</a>.</li>
+    <a href="http://www.nushigh.edu.sg/student-development/national-education-programme">http://www.nushigh.edu.sg/student-development/national- education-programme</a>.</li>
 <li class="small-text">SkillsFuture Singapore and Workforce Singapore (website), accessed April 7, 2018, <a href="http://www.ssg-wsg.gov.sg/about.html?_ga=2.237454848.1460083303.1523066789-%20%20%20%2094431159.1523066789&amp;amp;_gac=1.11665920.1523066835.EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEA%20%20%20%20AYASAAEgIi6vD_BwE">http://www.ssg-wsg.gov.sg/about.html?_ga=2.237454848.1460083303.1523066789-94431159.1523066789&amp;_gac=1.11665920.1523066835.EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEAAYASAAEgIi6vD_BwE</a>.</li>
 <li class="small-text">Ron Haskins, “Social Policy in Singapore: A Crucible of Individual Responsibility”, June 1, 2011, accessed April 7, 2018, <a href="https://www.brookings.edu/articles/social-policy-in-singapore-a-crucible-of-individual-responsibility/">https://www.brookings.edu/articles/social-policy-in-singapore-a-crucible-of-individual-responsibility/</a>.</li>
 <li class="small-text">Janice Tai, “All Hands on Deck Needed for Social Good”, <em>The Straits Times</em>, April 11, 2016, accessed April 7, 2018, <a href="https://www.straitstimes.com/opinion/all-hands-on-deck-needed-for-social-good">https://www.straitstimes.com/opinion/all-hands-on-deck-needed-for-social-good</a>.</li>
@@ -206,9 +204,6 @@ Within government, different ministries are examining causes of hardship and pov
     <a href="https://www.channelnewsasia.com/news/cnainsider/ploughing-on-the-faces-and-insecurities-of-singapore-s-elderly-8824490">https://www.channelnewsasia.com/news/cnainsider/ploughing-on-the-faces-and-insecurities-of-singapore-s-elderly-8824490</a>.</li>
 <li class="small-text">Teo You Yenn, “Why Low-Income Parents May Make ‘Poor Choices’”, <em>The Straits Times</em>, March 10,
     2016, accessed April 7, 2018, <a href="https://www.straitstimes.com/opinion/why-low-income-parents-may-make-poor-choices">http://www.straitstimes.com/opinion/why-low-income-parents-may-make-poor-choices</a>.</li>
-<li class="small-text">Braema Mathi and Sharifah Mohamed, <em>Unmet Social Needs in Singapore</em>, October 2011, accessed
-    April 7, 2018, <a href="https://lcsi.smu.edu.sg/sites/lcsi.smu.edu.sg/files/Unmet_Social_Needs_in_Singapore.pdf">https://lcsi.smu.edu.sg/sites/lcsi.smu.edu.sg/files/Unmet_Social_Needs_in_Singapore.pdf</a>,
-    38–41. &nbsp;</li>
 <li class="small-text">Mathi and Mohamed, <em>Unmet Social Needs in Singapore</em>.</li>
 <li class="small-text">Irene Y. H. Ng, “Social Welfare in Singapore: Rediscovering Poverty, Reshaping Policy”, January 25,
     2012, accessed April 7, 2018, <a href="http://scholarbank.nus.edu.sg/bitstream/10635/118934/1/2013-social_welfare_singapore-postprint.pdf">http://scholarbank.nus.edu.sg/bitstream/10635/118934/1/2013-    social_welfare_singapore-postprint.pdf</a>.</li>
