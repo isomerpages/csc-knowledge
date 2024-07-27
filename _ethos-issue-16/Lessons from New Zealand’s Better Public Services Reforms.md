@@ -318,7 +318,7 @@ li {
     591KB)</a>
 </em> (UNDP Global Centre for Public Service Excellence, November 2016).</li>
 <li class="small-text">For examples of agencies working together to deliver change, see <a target="_blank" href="http://www.ssc.govt.nz/better-public-services">http://www.ssc.govt.nz/better-public-services</a></li>
-<li class="small-text">See endnote 5.</li>
+<li class="small-text">See end note 5.</li>
 </ol>
 
 
