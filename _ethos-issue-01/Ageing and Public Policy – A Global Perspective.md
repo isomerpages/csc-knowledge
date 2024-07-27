@@ -2,6 +2,7 @@
 title: Ageing and Public Policy – A Global Perspective
 permalink: /ethos-issue-01/ageing-and-public-policy-aglobal-perspective/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -168,7 +169,7 @@ li {
 	
 <li id="num16">Lim, Lydia, “How to bank on a pretty pension,” Straits Times, October 8, 2005.</li>	
 		
-<li id="num18">Human Resource and Social Development Canada.. “About Human Resource and Social Development Canada” (2006),<a target="_blank" href="http://www.hrsdc.gc.ca/en/cs/comm/about_us.shtml"> http://www.hrsdc.gc.ca/en/cs/comm/about_us.shtml</a> (accessed August 15, 2006).</li>			
+<li id="num18">Human Resource and Social Development Canada.. “About Human Resource and Social Development Canada” (2006),<a target="_blank" href="https://www.canada.ca/en/employment-social-development.html"> https://www.canada.ca/en/employment-social-development.html</a> (accessed August 15, 2006).</li>			
 
 	
 	
