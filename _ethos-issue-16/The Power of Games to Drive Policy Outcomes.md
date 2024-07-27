@@ -2,6 +2,7 @@
 title: The Power of Games to Drive Policy Outcomes
 permalink: /ethos-issue-16/the-power-of-games-to-drive-policy-outcomes/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -205,8 +206,7 @@ li {
 <hr>
 <h6>NOTE</h6>
 <ol>
-<li class="small-text">This game can be played at <a target="_blank" href="http://sffededucation.org/chairthefed/WebGamePlay.html">http://sffededucation.org/chairthefed/WebGamePlay.html</a>.
-    </li>
+
 <li class="small-text">Glenn Rudebusch, Executive Vice President at the Federal Reserve Bank of San Francisco.</li>
 <li class="small-text">More information can be found at <a target="_blank" href="https://hackerone.com/resources/hack-the-pentagon">https://hackerone.com/resources/hack-the-pentagon</a>.</li>
 <li class="small-text">More information can be found at <a target="_blank" href="https://www.wired.com/2016/03/uber-bug-bounties/">https://www.wired.com/2016/03/uber-bug-bounties/</a></li>
