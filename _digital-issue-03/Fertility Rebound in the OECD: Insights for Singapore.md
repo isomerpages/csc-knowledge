@@ -2,6 +2,7 @@
 title: "Fertility Rebound in the OECD: Insights for Singapore"
 permalink: /digital-issue-03/fertility-rebound-in-the-oecd-insights-for-singapore/
 description: ""
+variant: markdown
 ---
 <style>
 	
@@ -292,7 +293,6 @@ Social dialogues can, however, address changing norms and aspirations surroundin
 <li class="small-text">Compared to married working men, the proportion of married working women who were equally or primarily responsible for caregiving and household chores were 43 and 38 percentage points higher respectively. See Ministry of Social and Family Development, “Family and Work”, Insight Series, paper no. 4, 2017. </li>
 <li class="small-text">Over 90% of women surveyed reported that they were happy with the division of domestic labour. As reported in Paulin Straughan and Mathew Mathews, “Singapore’s Population Challenges” (presentation for New Insight Series: Perspectives on Family and Fertility Policies, Civil Service College, Singapore, March 29, 2017).</li>
 <li class="small-text">Angela Luci and Olivier Thevenon, “ The Impact of Family Policy Packages on Fertility Trends in Developed Countries”.</li>
-<li class="small-text">Joseph Chamie, “Out-of-Wedlock Births Rise WorldWide”, <em>YaleGlobal Online</em>, March 16, 2017, accessed August 21, 2018, <a href="https://yaleglobal.yale.edu/content/out-wedlock-births-rise-worldwide">https://yaleglobal.yale.edu/content/out-wedlock-births-rise-worldwide</a>.</li>
 <li class="small-text">OECD, “SF2.4: Share of Births Outside of Marriage”, 2016, accessed August 21, 2018,  <a href="https://www.oecd.org/els/family/SF_2_4_Share_births_outside_marriage.pdf">https://www.oecd.org/els/family/SF_2_4_Share_births_outside_marriage.pdf</a>.</li>
 <li class="small-text">The proportion of out-of-marriage childbirths in Singapore has remained low over the years—an indication that having children outside of marriage is not the norm. </li>
 <li class="small-text">Singapore Parliamentary Debates,<em> Committee of Supply—Head</em> <em>I</em> (<em>Ministry of Social and Family Development</em>), Vol. 94, Sitting No. 17 (April 12, 2016).</li>
