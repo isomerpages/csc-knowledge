@@ -2,6 +2,7 @@
 title: Lessons from New Zealand’s Better Public Services Reforms
 permalink: /ethos-issue-16/lessons-from-new-zealands-better-public-services-reforms/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -195,7 +196,7 @@ li {
 <li><strong>Reform leadership — </strong>Bill English, the Deputy Prime Minister and Minister of Finance, had experienced the non-sustainable impact of severe cost-cutting as a Government Minister in the early 1990s. He was well positioned to lead change with a deep understanding of the role and value of the State services and a relentless appetite for innovation and experimentation. He secured the support of the Prime Minister and Cabinet for reform and routinely spoke to senior public servants of t<span style="font-weight: normal;">he importance of their roles and the clear expectation that they deliver differently.</span><a style="font-weight: normal;" href="#notes"><sup class="#notes">19</sup></a></li>
 </ol>
 
-<p>Reform is difficult and expensive and more often than not fails. If you do not have a Reform Moment then do not attempt reform.<!--[-->
+<p>Reform is difficult and expensive and more often than not fails. If you do not have a Reform Moment then do not attempt reform.
 </p>
 
 <h3>The importance of focus</h3>
