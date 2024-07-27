@@ -2,6 +2,7 @@
 title: "Thinking About the Future:  What the Public Service Can Do"
 permalink: /ethos-issue-07/thinking-about-the-future-what-the-public-service-can-do/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -257,16 +258,7 @@ building resilience.
   
 </div>  
   
-<h6><a name="notes"></a>NOTES</h6>  
-  
-<ol>  
-<li class="small-text"><span style="font-size: 14px;">RAHS incorporates into a  
-    computer-based platform a suite of methods and software designed to help  
-    analysts detect and investigate emerging strategic threats and  
-    opportunities. For more information, see <a href="https://www.dsta.gov.sg/latest-news/news-releases/news-releases-2007/risk-assessment-and-horizon-scanning-rahs-system-rahs-experimentation-centre">https://www.dsta.gov.sg/latest-news/news-releases/news-releases-2007/risk-assessment-and-horizon-scanning-rahs-system-rahs-experimentation-centre</a></span></li>  
-<li class="small-text">Dearlove, D., "The Thought Leadership Series Peter Schwartz Thinking the Unthinkable: an interview with Peter Schwartz, scenario planning futurist," The Business, September 2002:22-23.</li>  
-<li class="small-text">Wack, P., "Scenarios: Uncharted Waters Ahead," Harvard Business Review, 63 (1985):72-79.</li>  
-</ol>  
+
   
 
 
