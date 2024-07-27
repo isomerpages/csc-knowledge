@@ -191,8 +191,7 @@ Within government, different ministries are examining causes of hardship and pov
 <li class="small-text">Workforce Singapore (website), accessed April 7, 2018, <a href="http://www.wsg.gov.sg/adapt-and-    grow.html?gclid=EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEAAYASAAEgIi6vD_BwE">http://www.wsg.gov.sg/adapt-and-    grow.html?gclid=EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEAAYASAAEgIi6vD_BwE</a>.</li>
 <li class="small-text">SkillsFuture Singapore and Workforce Singapore (website), accessed April 7, 2018, <a href="http://www.ssg-    wsg.gov.sg/about.html?_ga=2.237454848.1460083303.1523066789-%20%20%20%2094431159.1523066789&amp;amp;_gac=1.11665920.1523066835.EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEA%20%20%20%20AYASAAEgIi6vD_BwE">http://www.ssg-    wsg.gov.sg/about.html?_ga=2.237454848.1460083303.1523066789-    94431159.1523066789&amp;_gac=1.11665920.1523066835.EAIaIQobChMIlsrF9omn2gIV0gorCh1oDAxSEA    AYASAAEgIi6vD_BwE</a>.</li>
 <li class="small-text">Ron Haskins, “Social Policy in Singapore: A Crucible of Individual Responsibility”, June 1, 2011, accessed April 7, 2018, <a href="https://www.brookings.edu/articles/social-policy- in-singapore- a-crucible- of-individual-responsibility/">https://www.brookings.edu/articles/social-policy- in-singapore- a-crucible- of-individual-responsibility/</a>.</li>
-<li class="small-text">Janice Tai, “All Hands on Deck Needed for Social Good”, <em>The Straits Times</em>, April 11, 2016, accessed
-    April 7, 2018, <a href="http://www.straitstimes.com/opinion/all-hands- on-deck- needed-for- social-good">http://www.straitstimes.com/opinion/all-hands- on-deck- needed-for- social-good</a>.</li>
+<li class="small-text">Janice Tai, “All Hands on Deck Needed for Social Good”, <em>The Straits Times</em>, April 11, 2016, accessed April 7, 2018, <a href="https://www.straitstimes.com/opinion/all-hands-on-deck-needed-for-social-good">https://www.straitstimes.com/opinion/all-hands-on-deck-needed-for-social-good</a>.</li>
 <li class="small-text">Philip A. Rozario and Amanda Leigh Rosetti, “Many Helping Hands: A Review and Analysis of Long-
     Term Care Policies, Programs, and Practices in Singapore”, accessed April 7, 2018,
     <a href="https://www.researchgate.net/publication/230827771_Many_Helping_Hands_A_Review_and_Analysis_of    _Long-term_Care_Policies_Programs_and_Practices_in_Singapore">https://www.researchgate.net/publication/230827771_Many_Helping_Hands_A_Review_and_Analysis_of    _Long-term_Care_Policies_Programs_and_Practices_in_Singapore</a>.</li>
@@ -221,7 +220,7 @@ Within government, different ministries are examining causes of hardship and pov
 <li class="small-text">Charissa Yong, “New Study Finds Clear Divide among Social Classes in Singapore”, <em>The Straits
     Times</em>, December 28, 2017, accessed April 7, 2018, <a href="http://www.straitstimes.com/singapore/new-study-    finds-class- divide-in- singapore">http://www.straitstimes.com/singapore/new-study-    finds-class- divide-in- singapore</a>.</li>
 <li class="small-text">Yuen Sin, “Parliament: Progressive Wage Models Can Be Extended to More Sectors, Says Sam Tan”,
-    <em>The Straits Times</em>, March 5, 2018, accessed April 7, 2018, <a href="http://www.straitstimes.com/politics/parliament-    progressive-wage- models-can- be-extended- to-more- sectors-sam- tan">http://www.straitstimes.com/politics/parliament-progressive-wage-models-can-be-extended-to-more-sectors-sam-tan</a>.</li>
+    <em>The Straits Times</em>, March 5, 2018, accessed April 7, 2018, <a href="https://www.straitstimes.com/politics/parliament-progressive-wage-models-can-be-extended-to-more-sectors-sam-tan">https://www.straitstimes.com/politics/parliament-progressive-wage-models-can-be-extended-to-more-sectors-sam-tan</a>.</li>
 </ol>
 
 </div>	
