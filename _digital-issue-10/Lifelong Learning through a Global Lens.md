@@ -3,6 +3,7 @@ title: Lifelong Learning through a Global Lens
 permalink: /digital-issue-10/lifelong-learning-through-a-global-lens/
 description: ""
 image: /images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_BannerTeaser.jpeg
+variant: markdown
 ---
 <style>
 
@@ -235,7 +236,6 @@ line-height:22px;
 <ol>
 <li id="num1">Ministry of Manpower, “Labour Market Report First Quarter 2022”, June 17, 2022, <a target="_blank" href="https://www.mom.gov.sg/newsroom/press-releases/2022/0617-labour-market-report-1q-2022"> https://www.mom.gov.sg/newsroom/press-releases/2022/0617-labour-market-report-1q-2022.</a></li>
 <li id="num2">S. Ellerbeck, “The Great Resignation Is not Over: A Fifth of Workers Plan to Quit in 2022”, World Economic Forum, June 24, 2022, <a target="_blank" href="https://www.weforum.org/agenda/2022/06/the-great-resignation-is-not-over">https://www.weforum.org/agenda/2022/06/the-great-resignation-is-not-over/</a>.</li>
-<li id="num3"><a target="_blank" href="https://ntuc.org.sg/Research-CET">"Continuing Education and Training: Now and What Could be Next"</a>, Singapore: National Trades Union Congress, 2022.</li>
 <li id="num4">Chew Hui Min, “10 Quotes from Mr Lee Kuan Yew's 'awesome' 1977 speech in Parliament”, <em>The Straits Times</em>, March 26, 2015, <a target="_blank" href="https://www.straitstimes.com/singapore/10-quotes-from-mr-lee-kuan-yews-awesome-1977-speech-in-parliament">https://www.straitstimes.com/singapore/10-quotes-from-mr-lee-kuan-yews-awesome-1977-speech-in-parliament.</a></li>
 <li id="num5">A. Lim, “Singapore Can Be World Leader in Cultivating Lifelong Learning, Says Tharman Shanmugaratnam”, <em>The Straits Times</em>, April 25, 2019, <a target="_blank" href="https://www.straitstimes.com/politics/singapore-can-be-world-leader-in-cultivating-life-long-learning-says-tharman-shanmugaratnam">https://www.straitstimes.com/politics/singapore-can-be-world-leader-in-cultivating-life-long-learning-says-tharman-shanmugaratnam.</a></li>
 <li id="num6">S. Tan, “Firms that Send Workers for Training See Revenue Rise, Higher Productivity: SkillsFuture-MTI Study”, <em>The Straits Times</em>, July 8, 2021, <a target="_blank" href="https://www.straitstimes.com/singapore/jobs/firms-that-send-workers-for-training-see-revenue-rise-higher-productivity">https://www.straitstimes.com/singapore/jobs/firms-that-send-workers-for-training-see-revenue-rise-higher-productivity.</a></li>
