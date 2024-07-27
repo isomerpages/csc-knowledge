@@ -203,7 +203,7 @@ Within government, different ministries are examining causes of hardship and pov
     who are the victims of their circumstances.</li>
 <li class="small-text">Kane Cunico, Yvonne Lim, and Jade Han,”Ploughing On: The Faces and Insecurities of Singapore’s
     Elderly Working Poor”, Channel NewsAsia, May 15, 2017, accessed April 7, 2018,
-    <a href="https://www.channelnewsasia.com/news/cnainsider/ploughing-on- the-faces- and-insecurities- of- singapore-s-elderly-8824490">https://www.channelnewsasia.com/news/cnainsider/ploughing-on-the-faces-and-insecurities-of-singapore-s-elderly-8824490</a>.</li>
+    <a href="https://www.channelnewsasia.com/news/cnainsider/ploughing-on-the-faces-and-insecurities-of-singapore-s-elderly-8824490">https://www.channelnewsasia.com/news/cnainsider/ploughing-on-the-faces-and-insecurities-of-singapore-s-elderly-8824490</a>.</li>
 <li class="small-text">Teo You Yenn, “Why Low-Income Parents May Make ‘Poor Choices’”, <em>The Straits Times</em>, March 10,
     2016, accessed April 7, 2018, <a href="https://www.straitstimes.com/opinion/why-low-income-parents-may-make-poor-choices">http://www.straitstimes.com/opinion/why-low-income-parents-may-make-poor-choices</a>.</li>
 <li class="small-text">Braema Mathi and Sharifah Mohamed, <em>Unmet Social Needs in Singapore</em>, October 2011, accessed
@@ -211,9 +211,9 @@ Within government, different ministries are examining causes of hardship and pov
     38–41. &nbsp;</li>
 <li class="small-text">Mathi and Mohamed, <em>Unmet Social Needs in Singapore</em>.</li>
 <li class="small-text">Irene Y. H. Ng, “Social Welfare in Singapore: Rediscovering Poverty, Reshaping Policy”, January 25,
-    2012, accessed April 7, 2018, <a href="http://scholarbank.nus.edu.sg/bitstream/10635/118934/1/2013-    social_welfare_singapore-postprint.pdf">http://scholarbank.nus.edu.sg/bitstream/10635/118934/1/2013-    social_welfare_singapore-postprint.pdf</a>.</li>
+    2012, accessed April 7, 2018, <a href="http://scholarbank.nus.edu.sg/bitstream/10635/118934/1/2013-social_welfare_singapore-postprint.pdf">http://scholarbank.nus.edu.sg/bitstream/10635/118934/1/2013-    social_welfare_singapore-postprint.pdf</a>.</li>
 <li class="small-text">Janice Tai, “Social Welfare: Pressure on Family Mounting”, <em>The Straits Times</em>, October 25, 2015,
-    accessed April 7, 2018, <a href="http://www.straitstimes.com/singapore/social-welfare- pressure-on- family-    mounting">http://www.straitstimes.com/singapore/social-welfare- pressure-on- family-    mounting</a>.</li>
+    accessed April 7, 2018, <a href="http://www.straitstimes.com/singapore/social-welfare-pressure-on-family-mounting">http://www.straitstimes.com/singapore/social-welfare- pressure-on- family-    mounting</a>.</li>
 <li class="small-text">Charissa Yong, “New Study Finds Clear Divide among Social Classes in Singapore”, <em>The Straits Times</em>, December 28, 2017, accessed April 7, 2018, <a href="https://www.straitstimes.com/singapore/new-study-finds-class-divide-in-singapore">http://www.straitstimes.com/singapore/new-study-finds-class-divide-in-singapore</a>.</li>
 <li class="small-text">Yuen Sin, “Parliament: Progressive Wage Models Can Be Extended to More Sectors, Says Sam Tan”,
     <em>The Straits Times</em>, March 5, 2018, accessed April 7, 2018, <a href="https://www.straitstimes.com/politics/parliament-progressive-wage-models-can-be-extended-to-more-sectors-sam-tan">https://www.straitstimes.com/politics/parliament-progressive-wage-models-can-be-extended-to-more-sectors-sam-tan</a>.</li>
