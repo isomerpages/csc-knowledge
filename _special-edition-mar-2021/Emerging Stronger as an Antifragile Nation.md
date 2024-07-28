@@ -2,6 +2,7 @@
 title: Emerging Stronger as an Antifragile Nation
 permalink: /special-edition-mar-2021/emerging-stronger-as-an-antifragile-nation/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -203,7 +204,7 @@ Communication must be bi-directional: this is not something we should leave to c
 <h6> <a name="notes"></a>NOTES</h6>
 
 <ol>
-<li class="small-text">Grant Duncan, “Commentary: The Decline of Trust in Governments around the World”, <em>CNA</em>, November 28, 2018, accessed January 21, 2021, <a href="https://www.channelnewsasia.com/news/commentary/the-decline-of-trust-in-governments-around-the-world-10954030">https://www.channelnewsasia.com/news/commentary/the-decline-of-trust-in-governments-around-the-world-10954030</a>.</li>
+<li class="small-text">Grant Duncan, “Commentary: The Decline of Trust in Governments around the World”, <em>CNA</em>, November 28, 2018, accessed January 21, 2021, <a href="https://www.channelnewsasia.com/commentary">https://www.channelnewsasia.com/commentary</a></li>
 <li class="small-text">Rahel Philipose, “Covid-19: A Look at Anti-Mask Rallies Held around the World amid the Pandemic”, <em>The Indian Express</em>, September 6, 2020, accessed January 21, 2021, <a href="https://indianexpress.com/article/world/covid-19-a-look-at-anti-mask-rallies-held-around-the-world-amid-the-pandemic-6585722/">https://indianexpress.com/article/world/covid-19-a-look-at-anti-mask-rallies-held-around-the-world-amid-the-pandemic-6585722/</a>.</li>
 <li class="small-text">Julia Jones and Sara Sidner, “MAGA March Brings Together Trump Voters, Far-Right Leaders and Counterprotesters, Ending In Some Clashes”, <em>CNN</em>, November 15, 2020, accessed January 21, 2021, <a href="https://edition.cnn.com/2020/11/14/us/trump-washington-voters-rally-far-right/index.html">https://edition.cnn.com/2020/11/14/us/trump-washington-voters-rally-far-right/index.html</a>.</li>
 <li class="small-text">Mike Wendling, “US Election 2020: Who Are the Proud Boys—and Who Are Antifa?”, <em>BBC</em>, September 30, 2020, accessed January 21, 2021, <a href="https://www.bbc.com/news/election-us-2020-54352635">https://www.bbc.com/news/election-us-2020-54352635</a>.</li>
