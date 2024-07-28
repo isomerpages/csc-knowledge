@@ -2,6 +2,7 @@
 title: Supporting Job Growth and Worker Prosperity in a New Era of Automation
 permalink: /ethos-issue-18/supporting-job-growth-and-worker-prosperity-in-a-new-era-of-automation/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -146,7 +147,7 @@ It will be incumbent on governments to introduce policies and practices that can
 <h6>NOTE</h6>  
   
 <ol>  
-<li class="small-text"> McKinsey Global Institute, “Jobs Lost, Jobs Gained: Workforce Transitions in a Time of Automation”, December 2017, <a href="https://www.mckinsey.com/~/media/mckinsey/featured insights/future of organizations/what the future of work will mean for jobs skills and wages/mgi jobs lost-jobs gained\_report\_december 2017.pdf">https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/what%20the%20future%20of%20work%20will%20mean%20for%20jobs%20skills%20and%20wages/mgi%20jobs%20lost-jobs%20gained\_report\_december%202017.pdf</a>.</li>  
+<li class="small-text"> McKinsey Global Institute, “Jobs Lost, Jobs Gained: Workforce Transitions in a Time of Automation”, December 2017, <a href="https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/what%20the%20future%20of%20work%20will%20mean%20for%20jobs%20skills%20and%20wages/mgi%20jobs%20lost-jobs%20gained_report_december%202017.pdf">https://www.mckinsey.com/~/media/mckinsey/featured%20insights/future%20of%20organizations/what%20the%20future%20of%20work%20will%20mean%20for%20jobs%20skills%20and%20wages/mgi%20jobs%20lost-jobs%20gained_report_december%202017.pdf</a>.</li>  
 </ol>  
   
 
