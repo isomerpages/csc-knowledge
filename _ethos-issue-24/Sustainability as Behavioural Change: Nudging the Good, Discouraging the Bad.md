@@ -2,6 +2,7 @@
 title: "Sustainability as Behavioural Change: Nudging the Good, Discouraging the Bad"
 permalink: /ethos-issue-24/sustainability-as-behavioural-change-nudging-the-good-discouraging-the-bad/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -372,7 +373,7 @@ li {
 <li class="small-text">Michaela Barnett, <a target="\_blank" href="https://behavioralscientist.org/good-habits-bad-habits-a-conversation-with-wendy-wood/">“Good Habits, Bad Habits: A Conversation with Wendy Wood”</a>, October 14, 2019, <em>Behavioral Scientist</em>, accessed May 24, 2022.</li>  
 <li class="small-text">W. Wood, and D. T. Neal, <a target="\_blank" href="https://doi.org/10.1353/bsp.2016.0008">“Healthy through Habit: Interventions for Initiating and Maintaining Health Behaviour Change”</a>, <em>Behavioral Science &amp; Policy</em> 2, no. 1 (2016): 71-83. </li>  
 <li class="small-text">Ibid. </li>  
-<li class="small-text"><a target="\_blank" href="https://www.towardszerowaste.gov.sg/recycle/how-to-recycle/">“How to Recycle,”</a> last modified April 19, 2022, accessed May 24, 2022.</li>  
+<li class="small-text">“How to Recycle."</li>  
 <li class="small-text">Audrey Tan and Mark Cheong, <a target="\_blank" href="https://www.straitstimes.com/multimedia/graphics/2022/04/recycle-me-not/index.html">“Recycle-Me-Not: What Happens When the Wrong Things Get Recycled”</a>, <em>The Straits Times</em>, April 18, 2022, accessed May 24, 2022. </li>  
 <li class="small-text">See Note 3. </li>  
 <li class="small-text">S. Reijula, and R. Hertwig, <a target="\_blank" href="http://dx.doi.org/10.1017/bpp.2020.5">“Self-Nudging and the Citizen Choice Architect”</a>, <em>Behavioural Public Policy</em> 6, no. 1 (2020): 119-149. </li>  
