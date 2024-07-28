@@ -2,6 +2,7 @@
 title: "Nudging: Why, How, What Next?"
 permalink: /ethos-issue-17/nudges-why-how-what-next/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -231,7 +232,7 @@ broad consultation and an open mind.</p>
 <a target="\_blank" href="http://www.telegraph.co.uk/news/politics/9853384/Inside-the-Coalitions-controversial-Nudge-Unit.html">http://www.telegraph.co.uk/news/politics/9853384/Inside-the-Coalitions-controversial-Nudge-Unit.html</a>.  
     </li>  
 <li id="endnotes-4" class="small-text">  
-<a target="\_blank" href="http://www.behaviouralinsights.co.uk/people/">http://www.behaviouralinsights.co.uk/people/</a>.  
+<a target="\_blank" href="https://www.bi.team/">https://www.bi.team/</a>.  
     </li>  
 <li id="endnotes-5" class="small-text">  
     Presentation by UK Behavioural Insights Team at the 2016 Behavioural Exchange Conference (BX2016), Harvard.  
