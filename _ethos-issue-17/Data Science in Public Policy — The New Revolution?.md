@@ -259,8 +259,7 @@ li {
     Artificial intelligence is a broad term that refers to applying to any technique that enables computers to mimic human intelligence, using logic, if-then rules, decision trees, and machine learning.  
     </li>  
 <li id="endnotes-5" class="small-text">  
-    Executive Office of the President National Science and Technology Council Committee on Technology, “Preparing for the Future of Artificial Intelligence,” October 2016, accessed 7 January 2017, <a target="\_blank" href="https://obamawhitehouse.archives.gov/sites/default/files/whitehouse\_files/microsites/ostp/NSTC/preparing\_for\_the\_future\_of\_ai.pdf">https://obamawhitehouse.archives.gov/sites/default/files/whitehouse\_files/microsites/ostp/NSTC/preparing\_for\_the\_future\_of\_ai.pdf (PDF,  
-    1.2MB)</a>.  
+    Executive Office of the President National Science and Technology Council Committee on Technology, “Preparing for the Future of Artificial Intelligence,” October 2016, accessed 7 January 2017, <a target="\_blank" href="https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf">https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf (PDF, 1.2MB)</a>.  
     </li>  
 <li id="endnotes-6" class="small-text">  
     Ibid.  
