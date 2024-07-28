@@ -232,7 +232,7 @@ A whole-of-nation effort is needed to grow local production, support local produ
 <li class="small-text">Ibid.</li>
 <li class="small-text">Ministry of Trade and Industry Singapore, “Singapore and Japan Agree to Deepen Bilateral Cooperation to Combat Covid-19”, 1 May, 2020,  accessed October 1, 2020, <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/05/Press-Release---Singapore-and-Japan-Agree-to-Deepen-Bilateral-Cooperation-to-Combat-COVID-19.pdf">https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/05/Press-Release---Singapore-and-Japan-Agree-to-Deepen-Bilateral-Cooperation-to-Combat-COVID-19.pdf</a>.
     </li>
-<li class="small-text">“China Donates More than 500,000 Face Masks to Singapore’s National Stockpile”, <em>CNA</em>, May 5, 2020, ,  accessed October 1, 2020, <a href="https://www.channelnewsasia.com/news/singapore/covid-19-china-donates-500-000-face-masks-singapore-12703300">https://www.channelnewsasia.com/news/singapore/covid-19-china-donates-500-000-face-masks-singapore-12703300.
+<li class="small-text">“China Donates More than 500,000 Face Masks to Singapore’s National Stockpile”, <em>CNA</em>, May 5, 2020, ,  accessed October 1, 2020, <a href="https://www.channelnewsasia.com/singapore">https://www.channelnewsasia.com/singapore.
     </a></li>
 <li class="small-text">Kayla Wong, “China Slams Countries that Ban Chinese Travellers, Says Travel Restrictions an ‘Overreaction’”, <em>Mothership</em>, February 2, 2020, accessed October 1, 2020, <a href="https://mothership.sg/2020/02/china-travel-restrictions-overreaction/">https://mothership.sg/2020/02/china-travel-restrictions-overreaction/</a>.</li>
 <li class="small-text">See Note 12.</li>
