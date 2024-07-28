@@ -2,6 +2,7 @@
 title: Taking Stock of an Unprecedented Pandemic
 permalink: /ethos-issue-22/taking-stock-of-an-unprecedented-pandemic/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -271,11 +272,13 @@ its best to contain COVID-19, stabilise the economy, and ready ourselves for a v
 <ol>  
 <li class="small-text">World Health Organization, <a href="https://www.who.int/news-room/detail/29-06-2020-covidtimeline" target="_blank">“Listing of WHO’s Response to COVID-19”</a>, June 29, 2020, accessed March 8, 2021.</li>  
 <li class="small-text"><a href="https://www.straitstimes.com/singapore/who-declares-covid-19-outbreak-a-pandemic" target="_blank">“WHO Declares Covid-19 Outbreak a Pandemic”</a>, <em>The Straits Times</em>, March 12, 2020, accessed March 8, 2021.</li>  
-<li class="small-text">Dasl Yoon and Miho Inada, <a href="https://www.wsj.com/articles/covid-19-surgehits-parts-of-asia-seen-as-pandemic-success-stories-11607523625" target="_blank">“Covid-19 Surge Hits South Korea and Japan, after They Had Contained Virus”</a>, <em>The Wall Street Journal</em>, December 9, 2020, accessed March 8, 2021.</li>  
+<li class="small-text">Dasl Yoon and Miho Inada, “Covid-19 Surge Hits South Korea and Japan, after They Had Contained Virus”, <em>The Wall Street Journal</em>, December 9, 2020, accessed March 8, 2021.</li>  
+
 <li class="small-text"> World Health Organization, <a href="https://www.who.int/publications/m/item/weekly-epidemiological-update---27-january-2021" target="_blank">“Weekly Epidemiological Update—27 January 2021”</a>, January 27, 2021, accessed March 8, 2021.</li>  
+	
 <li class="small-text"><a href="https://www.channelnewsasia.com/news/world/covid-19-pandemic-reaches-antarctica-last-untouchedcontinent-13828128" target="_blank">“COVID-19 Pandemic Reaches Antarctica, Last Untouched Continent”</a>, <em>CNA</em>, December 23, 2020, accessed March 8, 2021. </li>  
 <li class="small-text">World Bank, <a target="_blank" href="https://www.worldbank.org/en/news/press-release/2021/01/05/global-economyto-expand-by-4-percent-in-2021-vaccine-deployment-and-investment-key-to-sustaining-the-recovery">“Global Economy to Expand by 4% in 2021; Vaccine Deployment and Investment Key to Sustaining the Recovery”</a>, January 5, 2021, accessed March 8, 2021. </li>  
-<li class="small-text">International Labour Organization, <a target="_blank" href="https://www.ilo.org/global/topics/coronavirus/impacts-and-responses/WCMS\_767028/lang--en/index.html"> “ILO Monitor: COVID-19 and the World of Work. Seventh Edition”</a>, January 25, 2021, accessed April 13, 2021. </li>  
+<li class="small-text">International Labour Organization, <a target="_blank" href="https://www.ilo.org/resource/brief/ilo-monitor-covid-19-and-world-work-7th-edition"> “ILO Monitor: COVID-19 and the World of Work. Seventh Edition”</a>, January 25, 2021, accessed April 13, 2021. </li>  
 <li class="small-text">Ayhan Kose and Naotaka Sugawara, <a href="https://blogs.worldbank.org/opendata/understanding-depth-2020-global-recession-5-charts" target="_blank">“Understanding the Depth of the 2020 Global Recession in 5 Charts”</a>, World Bank Blogs, June 15, 2020, accessed March 8, 2021. </li>  
 <li class="small-text">Martin Crutsinger, <a href="https://apnews.com/article/us-economy-shrink-in-2020-b59f9be06dcf1da924f64afde2ce094c" target="_blank">“US Economy Shrank by 3.5% in 2020 after Growing 4% Last Quarter”</a>, <em>AP News</em>, January 28, 2021, accessed June 1, 2021. </li>  
 <li class="small-text">See Note 6. </li>  
@@ -284,9 +287,9 @@ its best to contain COVID-19, stabilise the economy, and ready ourselves for a v
 <li class="small-text">Joanne Seow and Charmaine Ng, <a href="https://www.straitstimes.com/singapore/jobs/lower-incomes-in-2020-with-employment-rate-in-singapore-at-6-year-lowdue-to-covid-19" target="_blank">“Median Income of Singapore Residents Fell for First Time since 2004 Due to Covid-19: MOM”</a>, <em>The Straits Times</em>, December 4, 2020, accessed March 8, 2021. </li>  
 <li class="small-text">Ibid. </li>  
 <li class="small-text">Ibid. </li>  
-<li class="small-text">Venessa Lee and Stephanie Yeo, <a href="https://www.straitstimes.com/lifestyle/how-home-based-learning-hbl-shows-upinequality-in-singapore-a-look-at-three-homes" target="_blank">“How Home-based Learning Shows Up Inequality in Singapore—A Look at Three Homes”</a>, <em>The Straits Times</em>, April 18, 2020, accessed March 8, 2021. </li>  
+<li class="small-text">Venessa Lee and Stephanie Yeo, <a href="https://www.straitstimes.com/lifestyle/how-home-based-learning-hbl-shows-up-inequality-in-singapore-a-look-at-three-homes" target="_blank">“How Home-based Learning Shows Up Inequality in Singapore—A Look at Three Homes”</a>, <em>The Straits Times</em>, April 18, 2020, accessed March 8, 2021. </li>  
 <li class="small-text">Richard Adams, <a href="https://www.theguardian.com/education/2020/jul/24/uk-children-could-lose-3-of-lifetime-earnings-due-to-lockdown-school-closures" target="_blank">“UK Children Could ‘Lose 3% of Lifetime Earnings’ Due to Lockdown School Closures”</a>, <em>The Guardian</em>, July 24, 2020, accessed March 8, 2021. </li>  
-<li class="small-text">Eric A. Hanushek and Ludger Woessmann, <a href="https://www.oecd.org/education/The-economic-impacts-of-coronavirus-covid-19-learning-losses.pdf" target="_blank">“The Economic Impacts of Learning Losses”</a>, OECD, September 2020, accessed March 8, 2021. </li>  
+<li class="small-text">Eric A. Hanushek and Ludger Woessmann, The Economic Impacts of Learning Losses”, OECD, September 2020, accessed March 8, 2021. </li>  
 <li class="small-text">Maddy Savage, <a href="https://www.bbc.com/worklife/article/20201021-coronavirus-the-possible-long-term-mental-health-impacts" target="_blank">“Coronavirus: The Possible Long-Term Mental Health Impacts”</a>, <em>BBC</em>, October 29, 2020, accessed March 8, 2021. </li>  
 <li class="small-text">N. S. Tzeng, C. H. Chung, C. C. Chang et al., <a href="https://doi.org/10.1038/s41398-020-01021-y" target="_blank">“What Could We Learn from SARS When Facing the Mental Health Issues Related to the COVID-19 Outbreak? A Nationwide Cohort Study in Taiwan”</a>, <em>Transl Psychiatry</em> 10, no. 339 (2020), accessed May 28, 2021. </li>  
 <li class="small-text">Anna Collinson, <a href="https://www.bbc.com/news/health-54616688" target="_blank">“Covid: Lockdown Had ‘Major Impact’ on Mental Health”</a>, <em>BBC</em>, October 21, 2020, accessed March 8, 2021. </li>  
