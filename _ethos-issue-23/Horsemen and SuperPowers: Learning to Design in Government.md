@@ -715,7 +715,7 @@ along the way.
 <li class="small-text"> DesignSingapore Council, “A Design Innovation Culture to Elevate Singapore’s Defence Science Game”, January 17, 2020, accessed April 21, 2021, <a target="_blank" href="https://www.designsingapore.org/stories/a-design-innovation-culture-to-elevate-singapores-defence-science-game.html">https://www.designsingapore.org/stories/a-design-innovation-culture-to-elevate-singapores-defence-science-game.html</a>.</li>  
 <li class="small-text">CNA, “Moments of Life App Rebranded as LifeSG, Providing ‘One-Stop, Personalised Access’ to More than 40 Services”, August 19, 2020, accessed April 21, 2021, <a target="_blank" href="https://www.channelnewsasia.com/singapore">https://www.channelnewsasia.com/singapore</a>.</li>  
 <li class="small-text">Design Kit, “Explore Your Theory of Change”,  
-    accessed April 21, 2021, <a target="_blank" href="https://www.designkit.org/methods/explore-your-theory-of-change">https://www.designkit.org/methods/explore-your-theory-of-change</a>.  
+    accessed April 21, 2021, <a target="_blank" href="https://www.designkit.org/">https://www.designkit.org/</a>.  
     </li>  
 <li class="small-text">Tham Yuen-C, “Singapore's New Collaborative Approach to Reignite Economic Growth in a Post-Covid-19 World”, <em>The Straits Times</em>, November 20, 2020, accessed April 21, 2021,  
     <a target="_blank" href="https://www.straitstimes.com/singapore/politics/emerging-stronger-taskforce-outlines-new-collaborative-approach-to-drive-economic">https://www.straitstimes.com/singapore/politics/emerging-stronger-taskforce-outlines-new-collaborative-approach-to-drive-economic</a>.</li>  
