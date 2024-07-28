@@ -211,7 +211,7 @@ PRECISION PUBLIC HEALTH</h3>
 	
 <li>See: Martin McKee, May C. I. van Schalkwyk, and David Stuckler, “The Second Information Revolution: Digitalization Brings Opportunities and Concerns for Public Health”, <em>European Journal of Public Health</em> 29, no. 3 (October 2019): 3–6, <a href="https://academic.oup.com/eurpub/article/29/Supplement_3/3/5628047">https://academic.oup.com/eurpub/article/29/Supplement_3/3/5628047</a>.</li>
 	
-<li>See: Roberta Pastorino, Corrado De Vito, Giuseppe Migliara, Katrin Glocker, Ilona Binenbaum, Walter Ricciardi, and Stefania Boccia, “Benefits and Challenges of Big Data in Healthcare: An Overview of the European Initiatives”, <em>Euro J Public Health</em> 29, no.3 (October 2019): 23–27, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6859509/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6859509/</a>.</li>
+<li>See: Roberta Pastorino, Corrado De Vito, Giuseppe Migliara, Katrin Glocker, Ilona Binenbaum, Walter Ricciardi, and Stefania Boccia, “Benefits and Challenges of Big Data in Healthcare: An Overview of the European Initiatives”, <em>Euro J Public Health</em> 29, no.3 (October 2019): 23–27, <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6859509/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6859509/</a>.</li>
 
 	
 	
