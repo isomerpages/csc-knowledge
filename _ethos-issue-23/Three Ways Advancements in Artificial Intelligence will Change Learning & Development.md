@@ -634,7 +634,7 @@ need to be worked through.</p>
 <li class="small-text">Cengage, “The Benefits of Adaptive Learning Technology”, April 30, 2021, accessed August 18, 2021, <a target="_blank" href="https://latam.cengage.com/the-benefits-of-adaptive-learning-technology/">https://latam.cengage.com/the-benefits-of-adaptive-learning-technology/</a>;  
     Dorrit Billman and Evan Heit, “Observational Learning from Internal Feedback: A Simulation  
     of an Adaptive Learning Method”, <em>Cognitive Science</em> 12 (1988): 587–625, accessed August  
-    18, 2021, <a target="_blank" href="https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1204\_4">https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1204\_4</a>; N. Sharma,  
+    18, 2021 ; N. Sharma,  
     I. Doherty, and C. Dong, “Adaptive Learning in Medical Education: The Final Piece of  
     Technology Enhanced Learning?” <em>Ulster Med J.</em> 86, no. 3 (September 2017): 198-200, accessed  
     August 18, 2021, <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5849979/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5849979/</a>.  
