@@ -3,6 +3,7 @@ title: Three Ways Advancements in Artificial Intelligence will Change Learning &
   Development
 permalink: /ethos-issue-23/three-ways-advancements-in-artificial-intelligence-will-change-learning-development/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -629,7 +630,7 @@ need to be worked through.</p>
     </li>  
 <li class="small-text">D. Heaven, “Why Faces Don’t Always Tell the Truth About Feelings”, <em>Nature </em>578 (2020): 502-504, accessed August 18, 2021, <a target="_blank" href="https://www.nature.com/articles/d41586-020-00507-5">https://www.nature.com/articles/d41586-020-00507-5</a>.</li>  
 <li class="small-text">MINDEF Singapore, “Fact Sheet: Murai Urban Live Firing Facility (MULFAC)”, August 14, 2014, accessed August 18, 2021, <a target="_blank" href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/august/2014aug14-News-Releases-00058">https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/august/2014aug14-News-Releases-00058</a>. </li>  
-<li class="small-text">ST Engineering, “Advanced Driver Assistance Systems”, accessed August 18, 2021, <a target="_blank" href="https://www.stengg.com/advanced-driver-assist-solutions">https://www.stengg.com/advanced-driver-assist-solutions</a>. </li>  
+<li class="small-text">ST Engineering, “Advanced Driver Assistance Systems”, accessed August 18, 2021, <a target="_blank" href="https://www.stengg.com/en/smart-city/urban-solutions/smart-mobility-road/mobility-services/agil-drivesafeplus/">https://www.stengg.com/en/smart-city/urban-solutions/smart-mobility-road/mobility-services/agil-drivesafeplus/</a>. </li>  
 <li class="small-text">Cengage, “The Benefits of Adaptive Learning Technology”, April 30, 2021, accessed August 18, 2021, <a target="_blank" href="https://latam.cengage.com/the-benefits-of-adaptive-learning-technology/">https://latam.cengage.com/the-benefits-of-adaptive-learning-technology/</a>;  
     Dorrit Billman and Evan Heit, “Observational Learning from Internal Feedback: A Simulation  
     of an Adaptive Learning Method”, <em>Cognitive Science</em> 12 (1988): 587–625, accessed August  
