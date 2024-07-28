@@ -2,6 +2,7 @@
 title: Making Policies More Effective, Scalable, Customised and Sustainable
 permalink: /ethos-issue-17/making-policies-more-effective-scalable-customised-and-sustainable/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -161,7 +162,7 @@ li {
     From <a target="\_blank" href="https://opower.com/">https://opower.com/</a>. As this data is updated continuously, the figures would have changed since this piece was written.  
     </li>  
 <li id="endnotes-4" class="small-text">  
-    From <a target="\_blank" href="http://www.behaviouralinsights.co.uk/wp-content/uploads/2015/07/BIT-Publication-EAST\_FA\_WEB.pdf">http://www.behaviouralinsights.co.uk/wp-content/uploads/2015/07/BIT-Publication-EAST\_FA\_WEB.pdf (PDF, 574KB)</a>.  
+    From <a target="\_blank" href="https://www.bi.team/">https://www.bi.team/</a>.  
     </li>  
 </ol>  
   
