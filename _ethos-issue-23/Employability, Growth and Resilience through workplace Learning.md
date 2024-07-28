@@ -608,7 +608,7 @@ gain of all.</p>
     </li>  
 <li class="small-text">Randstad Singapore, “The 2020 COVID-19 Labour Pulse Survey”, August 12, 2020,  
     accessed July 10, 2021, <a target="_blank" href="https://www.randstad.com.sg/hr-trends/talent-management/86-per-cent-motivated-to-upskill-and-re-skill-in-12-months/">https://www.randstad.com.sg/hr-trends/talent-management/86-per-cent-motivated-to-upskill-and-re-skill-in-12-months/</a>.</li>  
-<li class="small-text">Liz Fealy, “How Employers and Employees are Envisioning the Reimaged Workplace”, <em>EY</em>, April 22, 2021, accessed July 10, 2021, <a target="_blank" href="https://www.ey.com/en\_sg/workforce/how-employers-and-employees-are-envisioning-the-reimagined-workplace">https://www.ey.com/en\_sg/workforce/how-employers-and-employees-are-envisioning-the-reimagined-workplace</a>.</li>  
+<li class="small-text">Liz Fealy, “How Employers and Employees are Envisioning the Reimaged Workplace”, <em>EY</em>, April 22, 2021, accessed July 10, 2021, <a target="_blank" href="https://www.ey.com/en_sg/workforce/how-employers-and-employees-are-envisioning-the-reimagined-workplace">https://www.ey.com/en_sg/workforce/how-employers-and-employees-are-envisioning-the-reimagined-workplace</a>.</li>  
 <li class="small-text">PwC, <em>PricewaterhouseCoopers (PwC) 24th Annual Global CEO Survey</em>, accessed July 10, 2021.</li>  
 <li class="small-text">Ministry of Education, “Speech by Mr Lawrence  
     Wong, Minister for Education, at the Nus115 Distinguished Speaker Series—Shaping the  
