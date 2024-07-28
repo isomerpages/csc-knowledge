@@ -2,6 +2,7 @@
 title: The Future of Learning and Development in the Singapore Public Service
 permalink: /ethos-issue-23/the-future-of-learning-and-development-in-the-singapore-public-service/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -565,7 +566,7 @@ organisations through a complex and fast-changing future.</p>
   
 <ol>  
 <li class="small-text">‘Build, buy, borrow, and bot’ is a phrase that has become popular in the HR field within the last 3 years. One example of its usage and meaning can be found here: <a target="\_blank" href="https://www.howardgray.net/build-buy-borrow-or/">https://www.howardgray.net/build-buy-borrow-or/</a>.</li>  
-<li class="small-text">Ong Pang Thye and Yap Kwong Weng, “Reimagining a Post-COVID World with Agility and Resilience”, <em>KPMG Insights</em> 19, May 2020, accessed August 31, 2021, <a target="\_blank" href="https://home.kpmg/sg/en/home/insights/2020/05/thriving-in-a-post-covid-19-world.html">https://home.kpmg/sg/en/home/insights/2020/05/thriving-in-a-post-covid-19-world.html</a>.</li>  
+<li class="small-text">Ong Pang Thye and Yap Kwong Weng, “Reimagining a Post-COVID World with Agility and Resilience”, <em>KPMG Insights</em> 19, May 2020, accessed August 31, 2021.</li>  
 <li class="small-text">World Bank Group, “The Changing Nature of Work”, 2019, accessed August 31, 2021, <a target="\_blank" href="https://documents1.worldbank.org/curated/en/816281518818814423/pdf/2019-WDR-Report.pdf">https://documents1.worldbank.org/curated/en/816281518818814423/pdf/2019-WDR-Report.pdf</a>.</li>  
 <li class="small-text">Holly Muscolino et al., “IDC FutureScape:  
     Worldwide Future of Work 2020 Predictions”, International Data Corporation, October, 2019.</li>  
