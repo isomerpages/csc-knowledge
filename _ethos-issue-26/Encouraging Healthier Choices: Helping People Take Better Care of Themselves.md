@@ -202,18 +202,12 @@ markets, and platforms around this—from the food production angle and/or to ra
 	
 </ol>	
 
-<div class="note">
-<h6><b>NOTE</b></h6>
-<ol>
-	
-<li>See:<a href="https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K">https://docs.google.com/document/u/0/d/123IGpK0r_Z7zJWYSFLeD2okdHv9US9K</a>.</li>	
-	
-</ol>	
+
 	
 	
 </div>
 
-</div>
+
 
 
 <div class="break">
