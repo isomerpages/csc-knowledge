@@ -2,6 +2,7 @@
 title: Data Science in Public Policy — The New Revolution?
 permalink: /ethos-issue-17/data-science-in-public-policy-the-new-revolution/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -268,7 +269,7 @@ li {
     The text analytics platform &lt;www.govtext.com&gt; is available to all public officers with a .gov.sg email.  
     </li>  
 <li id="endnotes-8" class="small-text">  
-    On how economists can use machine learning to improve policy, see: Susan Athey, Stanford Institute for Economic Policy Research, accessed 6 December 2016, <a target="\_blank" href="http://siepr.stanford.edu/highlights/susan-athey-how-economists-can-use-machine-learning-improve-policy">http://siepr.stanford.edu/highlights/susan-athey-how-economists-can-use-machine-learning-improve-policy</a>.  
+    On how economists can use machine learning to improve policy, see: Susan Athey, Stanford Institute for Economic Policy Research, accessed 6 December 2016, <a target="\_blank" href="https://siepr.stanford.edu/">https://siepr.stanford.edu/</a>.  
     </li>  
 <li id="endnotes-9" class="small-text">  
     “Of prediction and policy,” <em>The Economist,</em> 20 August 2016, accessed 6 December 2016, <a target="\_blank" href="http://www.economist.com/news/finance-and-economics/21705329-governments-have-much-gain-applying-algorithms-public-policy">http://www.economist.com/news/finance-and-economics/21705329-governments-have-much-gain-applying-algorithms-public-policy</a>.  
