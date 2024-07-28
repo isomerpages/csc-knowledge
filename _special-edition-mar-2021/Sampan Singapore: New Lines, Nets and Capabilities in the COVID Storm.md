@@ -2,6 +2,7 @@
 title: "Sampan Singapore: New Lines, Nets and Capabilities in the COVID Storm"
 permalink: /special-edition-mar-2021/sampan-singapore-new-lines-nets-and-capabilities-in-the-covid-storm/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -241,7 +242,7 @@ A whole-of-nation effort is needed to grow local production, support local produ
 <li class="small-text">Ministry of Trade and Industry Singapore, “Singapore Receives Essential Supplies from New Zealand”, April 22, 2020, accessed October 1, 2020, <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/04/Photo-release-of-first-shipment-of-essential-supplies-from-New-Zealand-to-Singapore.pdf">https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/04/Photo-release-of-first-shipment-of-essential-supplies-from-New-Zealand-to-Singapore.pdf</a>.</li>
 <li class="small-text">Chan Chun Sing, “Speech by Minister for Trade and Industry Chan Chun Sing in Parliament at the Debate on President’s Address”, May 14, 2018, accessed October 1, 2020, <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Speeches/2018/05/Speech-By-Minister-For-Trade-And-Industry-Chan-Chun-Sing-In-Parliament-at-the-Debate-On-Presidents-A/speech-by-minister-for-trade-and-industry-chan-chun-sing-debate-on-presidents-address--checked-again.PDF">https://www.mti.gov.sg/-/media/MTI/Newsroom/Speeches/2018/05/Speech-By-Minister-For-Trade-And-Industry-Chan-Chun-Sing-In-Parliament-at-the-Debate-On-Presidents-A/speech-by-minister-for-trade-and-industry-chan-chun-sing-debate-on-presidents-address--checked-again.PDF</a>.</li>
 <li class="small-text">Calvin Yang, “Coronavirus: Singapore Boosting Production of Masks since February”, <em>The Straits Times</em>, May 7, 2020,  accessed October 1, 2020, <a href="https://www.straitstimes.com/singapore/singapore-boosting-production-of-masks-since-feb">https://www.straitstimes.com/singapore/singapore-boosting-production-of-masks-since-feb</a>.</li>
-<li class="small-text">Cara Wong, “Demand for Local Produce Must Complement Supply in Local Food Production: Amy Khor”, <em>The Straits Times</em>, July 18, 2020, accessed October 1, 2020, <a href="https://www.straitstimes.com/singapore/environment/demand-for-local-produce-must-complement-supply-in-local-food-production-homegrown pramy">https://www.straitstimes.com/singapore/environment/demand-for-local-produce-must-complement-supply-in-local-food-production-amy</a></li>
+<li class="small-text">Cara Wong, “Demand for Local Produce Must Complement Supply in Local Food Production: Amy Khor”, <em>The Straits Times</em>, July 18, 2020, accessed October 1, 2020, <a href="https://www.straitstimes.com/singapore/environment/demand-for-local-produce-must-complement-supply-in-local-food-production-amy">https://www.straitstimes.com/singapore/environment/demand-for-local-produce-must-complement-supply-in-local-food-production-amy</a></li>
 <li class="small-text">Ibid.</li>
 <li class="small-text">See Note 2.</li>
 <li class="small-text">See Note 1.</li>
