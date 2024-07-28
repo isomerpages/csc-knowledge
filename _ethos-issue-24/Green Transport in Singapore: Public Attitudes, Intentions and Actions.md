@@ -148,7 +148,7 @@ Source: Land Transport Authority Singapore</p>
 <li>Ministry of Transport, “Speech by Minister for Transport,  
     Mr S Iswaran at the Committee of Supply Joint Segment on  
     Singapore Green Plan 2030”, accessed May 3, 2022, <a target="\_blank" href="https://www.mot.gov.sg/news/in-parliament/Details/speech-by-minister-for-transport-mr-s-iswaranat-the-committee-of-supply-joint-segment-onsingapore-green-plan-2030">https://www.mot.gov.sg/news/in-parliament/Details/speech-by-minister-for-transport-mr-s-iswaranat-the-committee-of-supply-joint-segment-onsingapore-green-plan-2030</a>.</li>  
-<li>Land Transport Authority, “Growing Singapore’s Land Transport Network”, accessed accessed May 3, 2022, <a target="\_blank" href="https://www.lta.gov.sg/content/ltagov/en/upcoming\_projects.html">https://www.lta.gov.sg/content/ltagov/en/upcoming\_projects.html</a>.  
+<li>Land Transport Authority, “Growing Singapore’s Land Transport Network”, accessed accessed May 3, 2022, <a target="\_blank" href="https://www.lta.gov.sg/content/ltagov/en.html">https://www.lta.gov.sg/content/ltagov/en.html</a>.  
     </li>  
 </ol>  
 </div>
