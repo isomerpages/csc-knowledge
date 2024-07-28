@@ -2,6 +2,7 @@
 title: Breaking Down Barriers in Blended Learning
 permalink: /ethos-issue-23/breaking-down-barriers-in-blended-learning/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -750,7 +751,7 @@ interventions could make a difference.</p>
 <li class="small-text">95% of the respondents were Singapore public officers and 5% were overseas participants.</li>  
 <li class="small-text">This poll was set up on OPPi, a platform that uses Artificial Intelligence to analyse the results. OPPi uses machine learning and advanced statistical techniques to identify and cluster  
     opinion groups based on how similar or different respondents vote. More information on their  
-    methodology can be found on their website: <a target="_blank" href="https://www.oppi.live/faq">https://www.oppi.live/faq</a>.  
+    methodology can be found on their website: <a target="_blank" href="https://www.oppi.live/faqs">https://www.oppi.live/faqs</a>.  
     </li>  
 <li class="small-text">S. Michie, M. M. van Stralen, and R. West, “The Behaviour Change Wheel: A New Method for Characterising and Designing Behaviour Change Interventions”, <em>Implementation Science</em> 6, no. 42 (2011), <a target="_blank" href="https://doi.org/10.1186/1748-5908-6-42">https://doi.org/10.1186/1748-5908-6-42</a>.</li>  
 <li class="small-text">The Behavioural Insights Team, “Barrier Identification Tool”, <a target="_blank" href="https://www.bitbarriertool.com/">https://www.bitbarriertool.com</a>, n.d., accessed August 4, 2021.</li>  
