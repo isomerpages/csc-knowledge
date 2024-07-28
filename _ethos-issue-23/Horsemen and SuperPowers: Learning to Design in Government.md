@@ -2,6 +2,7 @@
 title: "Horsemen and Super-Powers: Learning to Design in Government"
 permalink: /ethos-issue-23/horsemen-and-superpowers-learning-to-design-in-government/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -712,7 +713,7 @@ along the way.
   
 <ol>  
 <li class="small-text"> DesignSingapore Council, “A Design Innovation Culture to Elevate Singapore’s Defence Science Game”, January 17, 2020, accessed April 21, 2021, <a target="_blank" href="https://www.designsingapore.org/stories/a-design-innovation-culture-to-elevate-singapores-defence-science-game.html">https://www.designsingapore.org/stories/a-design-innovation-culture-to-elevate-singapores-defence-science-game.html</a>.</li>  
-<li class="small-text">CNA, “Moments of Life App Rebranded as LifeSG, Providing ‘One-Stop, Personalised Access’ to More than 40 Services”, August 19, 2020, accessed April 21, 2021, <a target="_blank" href="https://www.channelnewsasia.com/singapore/lifesg-moments-of-life-mobile-app-government-service-624736">https://www.channelnewsasia.com/singapore/lifesg-moments-of-life-mobile-app-government-service-624736</a>.</li>  
+<li class="small-text">CNA, “Moments of Life App Rebranded as LifeSG, Providing ‘One-Stop, Personalised Access’ to More than 40 Services”, August 19, 2020, accessed April 21, 2021, <a target="_blank" href="https://www.channelnewsasia.com/singapore">https://www.channelnewsasia.com/singapore</a>.</li>  
 <li class="small-text">Design Kit, “Explore Your Theory of Change”,  
     accessed April 21, 2021, <a target="_blank" href="https://www.designkit.org/methods/explore-your-theory-of-change">https://www.designkit.org/methods/explore-your-theory-of-change</a>.  
     </li>  
