@@ -2,6 +2,7 @@
 title: "Trends and Shifts in Employment: Singapore’s Workforce"
 permalink: /ethos-issue-18/trends-and-shifts-in-employment-singapore-s-workforce/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -262,7 +263,7 @@ Freelancers should also be allowed to benefit from the collective representation
 <li class="small-text">Sarah A. Donovan, David H. Bradley, and Jon O. Shimabukuru, “What Does the Gig Economy Mean for Workers?”, Congressional Research Service, February 5, 2016, accessed November 22, 2017, <a href="https://www.fas.org/sgp/crs/misc/R44365.pdf">https://www.fas.org/sgp/crs/misc/R44365.pdf</a>.</li>  
 <li class="small-text">Euro Freelancers, “EU Affairs Freelancers Association”, accessed November 22, 2017,  <a href="http://www.euro-freelancers.eu/eu-affairs-freelancers-association/">http://www.euro-freelancers.eu/eu-affairs-freelancers-association/</a>.</li>  
 <li class="small-text">Upwork and Freelancers Union, “Freelancing in America: 2015”, accessed November 22, 2017,  <a href="https://www.upwork.com/i/freelancing-in-america/2015/">https://www.upwork.com/i/freelancing-in-america/2015/</a>.</li>  
-<li class="small-text">Eurofound, Recent Developments in Temporary Employment: Employment Growth, Wages and Transitions (Luxembourg: Publications Office of the European Union, 2015), accessed November 22, 2017,  <a href="https://www.eurofound.europa.eu/sites/default/files/ef\_publication/field\_ef\_document/ef1557en.pdf">https://www.eurofound.europa.eu/sites/default/files/ef\_publication/field\_ef\_document/ef1557en.pdf</a>.</li>  
+<li class="small-text">Eurofound, Recent Developments in Temporary Employment: Employment Growth, Wages and Transitions (Luxembourg: Publications Office of the European Union, 2015), accessed November 22, 2017,  <a href="https://www.eurofound.europa.eu/en/home">https://www.eurofound.europa.eu/en/homef</a>.</li>  
 <li class="small-text">COEURE, “EU Dual Labour Markets: Consequences and Potential Reforms”, June 8, 2015, accessed November 22, 2017,<a href="http://www.coeure.eu/wp-content/uploads/EU-Dual-Labour-Markets1.pdf"> http://www.coeure.eu/wp-content/uploads/EU-Dual-Labour-Markets1.pdf</a>.</li>  
 <li class="small-text">Secondary freelancers include regular employees who moonlight on the side, or students, housewives or retirees who may wish to fill idle hours and supplement their income. Secondary freelancers constitute only 17% of all freelancers in Singapore. But their numbers may grow if fluid work arrangements become more prevalent. </li>  
 <li class="small-text">Sunil Johal and Jordann Thirgood, “Working without a Net: Rethinking Canada’s Social Policy in the New Age of Work”, Mowat Centre, accessed November 22, 2017,  <a href="https://mowatcentre.ca/working-without-a-net/">https://mowatcentre.ca/working-without-a-net/</a>.</li>  
