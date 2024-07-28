@@ -625,8 +625,7 @@ need to be worked through.</p>
 <li class="small-text">Smart Nation Singapore, “National AI Strategy: The Next Key Frontier of Singapore’s Smart Nation Journey”, accessed August 18, 2021,  
     <a target="_blank" href="https://www.smartnation.gov.sg/initiatives/artificial-intelligence">https://www.smartnation.gov.sg/why-Smart-Nation/NationalAIStrategy</a>.</li>  
 <li class="small-text">H. Bound, S. C. Tan, M. Y. Kan, and X. F. Bi, “Charting the Future of Adult Learning Research Agenda in Singapore: A Consultative Paper by the Subgroup on Innovative  
-    Technologies for Adult Learning Research”, March 31, 2020, accessed August 18, 2021,  
-    <a target="_blank" href="http://www.ial.edu.sg/content/dam/projects/tms/ial/Research-publications/future-of-adult-learning-research/ANNEX 3 - Innovative technologies for adult learning research.pdf">http://www.ial.edu.sg/content/dam/projects/tms/ial/Research-publications/future-of-adult-learning-research/ANNEX%203%20-%20Innovative%20technologies%20for%20adult%20learning%20research.pdf</a>.  
+    Technologies for Adult Learning Research”, March 31, 2020, accessed August 18, 2021,   
     </li>  
 <li class="small-text">D. Heaven, “Why Faces Don’t Always Tell the Truth About Feelings”, <em>Nature </em>578 (2020): 502-504, accessed August 18, 2021, <a target="_blank" href="https://www.nature.com/articles/d41586-020-00507-5">https://www.nature.com/articles/d41586-020-00507-5</a>.</li>  
 <li class="small-text">MINDEF Singapore, “Fact Sheet: Murai Urban Live Firing Facility (MULFAC)”, August 14, 2014, accessed August 18, 2021, <a target="_blank" href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/august/2014aug14-News-Releases-00058">https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2014/august/2014aug14-News-Releases-00058</a>. </li>  
