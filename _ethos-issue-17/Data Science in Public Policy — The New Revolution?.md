@@ -151,7 +151,7 @@ li {
 <hr>  
 <p>NOTE</p>  
 <ol>  
-<li id="notes-2-1">UN Global Pulse, “Feasibility Study: Supporting Forest and Peat Fire Management Using Social Media”, Global Pulse Project Series, No. 10, 2014, <a target="\_blank" href="http://www.unglobalpulse.org/sites/default/files/UNGP\_ProjectSeries\_Peat\_Haze\_2014\_0.pdf">http://www.unglobalpulse.org/sites/default/files/UNGP\_ProjectSeries\_Peat\_Haze\_2014\_0.pdf</a>, accessed 3 January 2017.</li>  
+<li id="notes-2-1">UN Global Pulse, “Feasibility Study: Supporting Forest and Peat Fire Management Using Social Media”, Global Pulse Project Series, No. 10, 2014, <a target="\_blank" href="https://www.unglobalpulse.org/">https://www.unglobalpulse.org/</a>, accessed 3 January 2017.</li>  
 </ol>  
   
   
