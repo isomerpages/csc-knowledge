@@ -2,6 +2,7 @@
 title: Preface
 permalink: /ethos-issue-24/preface/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -76,7 +77,6 @@ Centre for Liveable Cities, Ministry of National Development Singapore.
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text"> <a name="note"></a>NOTE</p>
 <ol>
     <li class="small-text">New Climate Economy, <em>Unlocking the Inclusive Growth Story of the 21st Century:
-    Accelerating Climate Action in Urgent Times</em> (Washington DC: New Climate Economy, 2018).
-    See <a target="_blank" href="https://newclimateeconomy.report/2018/">https://newclimateeconomy.report/2018/</a>.</li>
+    Accelerating Climate Action in Urgent Times</em> (Washington DC: New Climate Economy, 2018).</li>
 </ol>
 <p></p>

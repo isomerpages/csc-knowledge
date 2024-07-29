@@ -2,6 +2,7 @@
 title: "Nudging: Why, How, What Next?"
 permalink: /ethos-issue-17/nudges-why-how-what-next/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -231,13 +232,13 @@ broad consultation and an open mind.</p>
 <a target="\_blank" href="http://www.telegraph.co.uk/news/politics/9853384/Inside-the-Coalitions-controversial-Nudge-Unit.html">http://www.telegraph.co.uk/news/politics/9853384/Inside-the-Coalitions-controversial-Nudge-Unit.html</a>.  
     </li>  
 <li id="endnotes-4" class="small-text">  
-<a target="\_blank" href="http://www.behaviouralinsights.co.uk/people/">http://www.behaviouralinsights.co.uk/people/</a>.  
+<a target="\_blank" href="https://www.bi.team/">https://www.bi.team/</a>.  
     </li>  
 <li id="endnotes-5" class="small-text">  
     Presentation by UK Behavioural Insights Team at the 2016 Behavioural Exchange Conference (BX2016), Harvard.  
     </li>  
 <li id="endnotes-6" class="small-text">  
-    Rory Gallagher, “Our Work with Other Governments” in <em>The Behavioural Insights Team: Update Report 2013 -2015</em>, 15 September 2016, accessed 23 December 2016, <a target="\_blank" href="http://www.behaviouralinsights.co.uk/publications/the-behavioural-insights-teams-update-report-2015-16/">http://www.behaviouralinsights.co.uk/publications/the-behavioural-insights-teams-update-report-2015-16/</a>.  
+    Rory Gallagher, “Our Work with Other Governments” in <em>The Behavioural Insights Team: Update Report 2013 -2015</em>, 15 September 2016, accessed 23 December 2016, <a target="\_blank" href="https://www.bi.team/">https://www.bi.team/</a>.  
     </li>  
 </ol>  
 </div>  

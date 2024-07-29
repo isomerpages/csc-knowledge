@@ -2,6 +2,7 @@
 title: Lessons from New Zealand’s Better Public Services Reforms
 permalink: /ethos-issue-16/lessons-from-new-zealands-better-public-services-reforms/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -195,7 +196,7 @@ li {
 <li><strong>Reform leadership — </strong>Bill English, the Deputy Prime Minister and Minister of Finance, had experienced the non-sustainable impact of severe cost-cutting as a Government Minister in the early 1990s. He was well positioned to lead change with a deep understanding of the role and value of the State services and a relentless appetite for innovation and experimentation. He secured the support of the Prime Minister and Cabinet for reform and routinely spoke to senior public servants of t<span style="font-weight: normal;">he importance of their roles and the clear expectation that they deliver differently.</span><a style="font-weight: normal;" href="#notes"><sup class="#notes">19</sup></a></li>
 </ol>
 
-<p>Reform is difficult and expensive and more often than not fails. If you do not have a Reform Moment then do not attempt reform.<!--[-->
+<p>Reform is difficult and expensive and more often than not fails. If you do not have a Reform Moment then do not attempt reform.
 </p>
 
 <h3>The importance of focus</h3>
@@ -254,9 +255,6 @@ li {
 <ol>
 <li>The Service Innovation Working Group, comprising the Chief Executives of eight agencies supporting the Government Chief Information Officer (who is also the Chief Executive of the Department of Internal Affairs), leads the delivery of Result 10.</li>
 <li><a target="_blank" href="https://www.dia.govt.nz/Better-Public-Services">https://www.dia.govt.nz/Better-Public-Services</a></li>
-<a target="_blank" href="https://www.dia.govt.nz/Better-Public-Services">
-</a>
-<li><a target="_blank" href="https://www.dia.govt.nz/Better-Public-Services"></a><a target="_blank" href="http://www.ssc.govt.nz/bps-interaction-with-govt">http://www.ssc.govt.nz/bps-interaction-with-govt</a></li>
 <li>Allen Schick, <em>The Spirit of Reform: Managing the New Zealand State Sector in a Time of Change</em> (New Zealand State Services Commission, 1996), <a target="_blank" href="https://www.ssc.govt.nz/spirit-of-reform">https://www.ssc.govt.nz/spirit-of-reform</a>; <a target="_blank" href="https://www.dia.govt.nz/Measuring-Results-Archive#July-Sept2012">https://www.dia.govt.nz/Measuring-Results-Archive#July-Sept2012</a>.</li>
 </ol>
 
@@ -300,27 +298,24 @@ li {
 <li class="small-text">Judy Whitcombe, “<a target="_blank" href="http://ips.ac.nz/publications/files/1143e464d37.pdf">Contributions and Challenges of “New Public Management”: New Zealand since 1984" (PDF,268KB)</a>, <em>Policy Quarterly</em> 4 (September 2006).</li>
 <li class="small-text">On New Public Governance see: Stephen P. Osborne, <em>The New Public Governance? Emerging perspectives on the theory and practice of public governance</em> (Abingdon, Oxon: Routledge, 2010) and Jocelyne Bourgon, <em>A New Synthesis of Public Administration: Serving in the 21st Century</em> (Canada: McGill University Press, 2011).</li>
 <li class="small-text">The Treasury, <em><a href="https://www.treasury.govt.nz/">Government Management: Brief to the Incoming Government 1987 Volume I</a></em> (1987).</li>
-<li class="small-text"><a target="_blank" href="https://www.ssc.govt.nz/better-public-services">https://www.ssc.govt.nz/better-public-services</a>.</li>
+<li class="small-text"><a target="_blank" href="https://www.ssc.govt.nz/">https://www.ssc.govt.nz/better-public-services</a>.</li>
 <li class="small-text"><em><a target="_blank" href="https://www.publicservice.govt.nz/">Better Public Services Paper 6: Amendments to the State Sector Act 1988 (PDF, 185KB)</a> </em>[SEC (12) 26] (4 May 2012).</li>
 <li class="small-text"><em><a target="_blank" href="https://www.publicservice.govt.nz/">Better Public Services Paper 5: Amendments to the Public Finance Act 1989 (PDF, 117KB)</a></em> [SEC (12) 25] (4 May 2012).</li>
 <li class="small-text"><em><a target="_blank" href="https://www.publicservice.govt.nz/'">Better Public Services Paper 7: Amendments to the Crown Entities Act 2004 (PDF,135KB)</a></em>[SEC (12) 27] (4 May 2012).</li>
 <li class="small-text"><a target="_blank" href="http://www.treasury.govt.nz/statesector/betterpublicservices/crossagencyfunding">http://www.treasury.govt.nz/statesector/betterpublicservices/crossagencyfunding</a>.</li>
-<li class="small-text"><a target="_blank" href="http://www.stats.govt.nz/browse_for_stats/snapshots-of-nz/integrated-data-infrastructure.aspx">http://www.stats.govt.nz/browse_for_stats/snapshots-of-nz/integrated-data-infrastructure.aspx</a>.</li>
+<li class="small-text"><a target="_blank" href="https://www.stats.govt.nz/integrated-data/integrated-data-infrastructure/">https://www.stats.govt.nz/integrated-data/integrated-data-infrastructure/</a>.</li>
 <li class="small-text">Core public Service agencies in New Zealand are led by a Chief Executive. The Chief Executive is appointed on a fixed term contract (typically 5 years) by the State Services Commissioner.</li>
 <li class="small-text">See endnote 6; paragraphs 54 to 74.</li>
 <li class="small-text"><a target="_blank" href="http://www.ssc.govt.nz/four-year-plans">http://www.ssc.govt.nz/four-year-plans</a>.</li>
 <li class="small-text"><a target="_blank" href="http://www.ssc.govt.nz/performance-improvement-framework-reviews">http://www.ssc.govt.nz/performance-improvement-framework-reviews</a>.</li>
 <li class="small-text"><em><a target="_blank" href="https://www.publicservice.govt.nz/">Better Public Services Paper 2: Better System Leadership (PDF,96KB)</a></em> [SEC (12) 22] (4 May 2012).</li>
-<li class="small-text"><a target="_blank" href="https://www.ssc.govt.nz/bps-functional-leadership">https://www.ssc.govt.nz/bps-functional-leadership</a>; <a target="_blank" href="https://www.ict.govt.nz/governance-and-leadership/providing-ict-functional-leadership/">https://www.ict.govt.nz/governance-and-leadership/providing-ict-functional-leadership/</a>; <a target="_blank" href="http://www.mbie.govt.nz/">http://www.mbie.govt.nz/</a>.</li>
-<li class="small-text">Allen Schick, <a target="_blank" href="https://www.ssc.govt.nz/spirit-of-reform">The Spirit of Reform: Managing the New Zealand State Sector in a Time of Change</a> (New Zealand State Services Commission, 1996).</li>
+<li class="small-text"><a target="_blank" href="https://www.ssc.govt.nz/bps-functional-leadership">https://www.ssc.govt.nz/bps-functional-leadership</a><a target="_blank" href="http://www.mbie.govt.nz/">http://www.mbie.govt.nz/</a>.</li>
+<li class="small-text">Allen Schick, <a target="_blank" href="https://www.publicservice.govt.nz/">The Spirit of Reform: Managing the New Zealand State Sector in a Time of Change</a> (New Zealand State Services Commission, 1996).</li>
 <li class="small-text">For example see: Bill English, <a target="_blank" href="https://www.beehive.govt.nz/speech/speech-ipanz-institute-public-administration-new-zealand">Speech to IPANZ</a> (New Zealand Government. 21 February 2013).</li>
 <li class="small-text">A significant part of working on the New Zealand reforms was the opportunity to review and exchange information with reform efforts in a range of other jurisdictions. My general observation from these interactions and subsequent international advisory work is that the challenges are universal while the context in which those challenges occur demands solutions that are unique.</li>
-<li class="small-text">See endnote 5.</li>
-<li class="small-text">Ryan Orange, <em><a target="_blank" href="http://www.undp.org/content/dam/undp/library/capacity-development/English/Singapore Centre/NotesPSE1_PublicPassion.pdf">New Public Passion: Reflections from New Zealand on Public Service Reform (PDF,
-    591KB)</a>
-</em> (UNDP Global Centre for Public Service Excellence, November 2016).</li>
+<li class="small-text">See end note 5.</li>
 <li class="small-text">For examples of agencies working together to deliver change, see <a target="_blank" href="http://www.ssc.govt.nz/better-public-services">http://www.ssc.govt.nz/better-public-services</a></li>
-<li class="small-text">See endnote 5.</li>
+<li class="small-text">See end note 5.</li>
 </ol>
 
 

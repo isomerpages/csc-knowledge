@@ -2,6 +2,7 @@
 title: Reshaping Behaviour and Systems in a Post COVID Policy Landscape
 permalink: /digital-issue-06/reshaping-behaviour-and-systems-in-a-post-covid-policy-landscape/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -199,7 +200,7 @@ The more complex the behaviour, and the more it involves interactive and negotia
     </li>
 <li class="small-text">J. Showers, Training Components and Participant Outcomes, <a href="../../../addictionhelp.org/wp-content/uploads/2015/01/JoyceShowers-sm.html">https://addictionhelp.org/wp-content/uploads/2015/01/JoyceShowers-sm.png</a>.
     </li>
-<li class="small-text">S. W. Stirman, C. A. Gutner, K. Langdon and J. R. Graham, “Bridging the Gap between Research and Practice in Mental Health Service Settings: An Overview of Developments in Implementation Theory and Research”, <em>Behavior Therapy</em> 47, no. 6 (2016): 920–936, <a href="https://doi.org/10.1016/j.beth.2015.12.001">https://doi.org/10.1016/j.beth.2015.12.001</a>.
+<li class="small-text">S. W. Stirman, C. A. Gutner, K. Langdon and J. R. Graham, “Bridging the Gap between Research and Practice in Mental Health Service Settings: An Overview of Developments in Implementation Theory and Research”, <em>Behavior Therapy</em> 47, no. 6 (2016): 920–936, <a href="https://www.journal-bpa.org/index.php/jbpa/article/view/147">https://www.journal-bpa.org/index.php/jbpa/article/view/147</a>.
     </li>
 <li class="small-text">S. Michie, H. L. Gainforth, and L. Atkins, “Changing Behaviour to Improve Clinical Practice and Policy”, in <em>Novos Desafios, Novas Competências: Contributos Atuais da Psicologia</em>, eds. C. P. Dias, A. Gonçalves, A. Azevedo, and F. Lobo (Braga: Axioma - Publicações da Faculdade de Filosofia, 2016), 41–60.
     </li>

@@ -2,6 +2,7 @@
 title: "Ten Tips: How to Create a Next Generation Public Service Super Portal"
 permalink: /ethos-issue-04/ten-tips-how-to-create-a-next-generation-public-service-super-portal/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -92,7 +93,7 @@ border-top: 1px solid black;
 
 
 
-<p>Since its inception in 2000, the Land Transport Authority’s ONE.MOTORING (<a href="http://www.onemotoring.com.sg/">http://www.onemotoring.com.sg</a>) portal has become an indispensable online destination for the motor trade industry, vehicle owners and the general public. With more than 8 million monthly page views, this comprehensive information, service and community portal polled user satisfaction ratings of 93% in 2008.<a href="#notes"><sup>1</sup></a> It was also awarded the 2006 National Infocomm Award (Merit) for the most innovative use of infocomm technology (ICT) in the public sector, among a number of international accolades.<a href="#notes"><sup>2</sup></a></p>
+<p>Since its inception in 2000, the Land Transport Authority’s ONE.MOTORING (<a href="https://onemotoring.lta.gov.sg/content/onemotoring/home.html">https://onemotoring.lta.gov.sg/content/onemotoring/home.html</a>) portal has become an indispensable online destination for the motor trade industry, vehicle owners and the general public. With more than 8 million monthly page views, this comprehensive information, service and community portal polled user satisfaction ratings of 93% in 2008.<a href="#notes"><sup>1</sup></a> It was also awarded the 2006 National Infocomm Award (Merit) for the most innovative use of infocomm technology (ICT) in the public sector, among a number of international accolades.<a href="#notes"><sup>2</sup></a></p>
 
 <p>A pioneering effort in integrated e-services and public-private collaboration, the developers of ONE.MOTORING encountered many challenges common to the radical adoption of electronic service delivery by public sector agencies. The management team behind this revolutionary portal offers 10 hard-earned lessons from their experience in developing next-generation e-Government services.</p>
 

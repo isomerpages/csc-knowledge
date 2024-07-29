@@ -2,6 +2,7 @@
 title: "Meritocracy: Time for an Update?"
 permalink: /ethos-issue-14/meritocracy-time-for-an-update/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -250,7 +251,6 @@ While we still value self-reliance and hard work, there has been a greater ackno
   
 <ol>  
 <li class="small-text">Inequality in Singapore — as measured by the Gini coefficient — grew significantly beginning in the mid-1990s, before plateauing in the mid-2000s. See: Tharman Shanmugaratnam, “ESS SG50 Special Distinguished Lecture” (annual lecture of the Economic Society of Singapore, August 14, 2015).</li>  
-<li class="small-text">Diana Rahim, “Meritocracy as Myth”, 4 April 2014, accessed 14 August 2015, <a target="\_blank" href="http://poskod.sg/Posts/2014/4/4/Meritocracy-as-Myth">http://poskod.sg/Posts/2014/4/4/Meritocracy-as-Myth</a>.</li>  
 <li class="small-text">Department of Statistics, “Report on the Household Expenditure Survey, 2012-13”, September 2014.</li>  
 <li class="small-text">Figures cited in Tharman Shanmugaratnam, "SG50 Distinguished Lecture". See Note 1.</li>  
 <li class="small-text">Tharman Shanmugaratnam, “Budget 2015: Building Our Future, Strengthening Social Security” (budget speech to Parliament), February 23, 2015.</li>  

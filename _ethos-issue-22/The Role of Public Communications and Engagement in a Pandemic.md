@@ -2,6 +2,7 @@
 title: The Role of Public Communications and Engagement in a Pandemic
 permalink: /ethos-issue-22/the-role-of-public-communications-and-engagement-in-a-pandemic/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -341,7 +342,6 @@ li {
 <li class="small-text">Ang Qing, <a target="_blank" href="https://www.straitstimes.com/singapore/around-one-in-four-singapore-residents-surveyed-believe-false-claim-about-COVID-19-vaccine">“Around 1 in 4 Singapore residents surveyed believe false claim that COVID-19 vaccine alters DNA”</a>, <em>The Straits Times</em>, December 24, 2020, accessed February 5, 2021. </li>
 <li class="small-text">Ministry of Communications and Information, <a target="_blank" href="https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2021/2/mci-response-to-pq-on-actions-in-regard-to-misinformation-about-COVID-19-and-COVID-19-vaccination">“MCI’s Response to PQ on POFMA Office’s Actions in Regard to Misinformation about COVID-19 and COVID-19 Vaccination”</a>, Parliament QAs, February 2, 2021, accessed February 5, 2021. </li>
 <li class="small-text">Chen Lin and Aradhana Aravindan, <a target="_blank">“COVID-19 Vaccine Stirs Rare Hesitation in Nearly Virus-Free Singapore”</a>, <em>Reuters</em>, December 23, 2020, accessed February 5, 2021. </li>
-<li class="small-text">World Health Organization, <a target="_blank" href="https://www.who.int/mediacentre/communication-framework.pdf?ua=1">WHO Strategic Communications Framework for Effective Communications</a> (World Health Organization, 2017), accessed October 19, 2020. </li>
 <li class="small-text">Gareth Tan, <a target="_blank" href="https://www.todayonline.com/commentary/tracetogether-covid-19-chance-singapore-restore-track-record-data-privacy-and-security">“TraceTogether Presents Chance for Singapore to Restore Track Record on Data Privacy and Security”</a>, <em>Today</em>, May 22, 2020, accessed February 5, 2021. </li>
 <li class="small-text">Smart Nation and Digital Government Office, <a target="_blank" href="https://www.smartnation.gov.sg/whats-new/speeches/parliamentary-sitting-on-5-june-2020">“Parliamentary Sitting on 5 June 2020”</a>, June 5, 2020, accessed February 5, 2021. </li>
 <li class="small-text">Kenny Chee, <a target="_blank" href="https://www.straitstimes.com/singapore/politics/bill-limiting-use-of-tracetogether-for-serious-crimes-passed-with-govt-assurances">“Bill Limiting Police Use of TraceTogether Data to Serious Crimes Passed”</a>, <em>The Straits Times</em>, February 2, 2021, accessed February 5, 2021. </li>
@@ -363,7 +363,6 @@ li {
 <li class="small-text">Fabian Koh, <a target="_blank" href="https://www.straitstimes.com/singapore/emerging-stronger-conversations-first-mandarin-session-held-and-tamil-and-malay-ones-will">“Emerging Stronger Conversations: First Mandarin Session Held; Tamil, Malay Ones Will Follow”</a>, <em>The Straits Times</em>, October 24, 2020, accessed November 20, 2020. </li>
 <li class="small-text">Goh Yan Han, <a target="_blank" href="https://www.straitstimes.com/singapore/120-from-disability-community-discuss-future-beyond-COVID-19">“120 from Disability Community Discuss Future beyond COVID-19”</a>, The Straits Times, November 12, 2020, accessed November 20, 2020. </li>
 <li class="small-text">“The SG Together Pullout Guide To Citizen Engagement”, Challenge, January 23, 2020, accessed November 20, 2020, https://www.psd.gov.sg/challenge/ideas/deep-dive/singapore-together-pullout-guide-to-citizen-engagement. </li>
-<li class="small-text">See <a target="_blank" href="https://www.singaporetogether.gov.sg/speak/">SG Together</a>. </li>
 <li class="small-text">Saki Kumagai and Federica Iorio, <a target="_blank" href="https://www.doi.org/10.1596/33346"> Building Trust in Government through Citizen Engagement</a> (Washington, DC: World Bank, 2020), accessed November 20, 2020. </li>
 <li class="small-text">Shefali Rekhi, <a target="_blank" href="https://www.straitstimes.com/asia/trust-in-singapore-government-up-edelman-poll"> “Trust in Singapore Government up: Edelman Poll”</a>, <em>The Straits Times</em>, June 22, 2020, accessed October 19, 2020. </li>
 <li class="small-text">See Note 43. </li>

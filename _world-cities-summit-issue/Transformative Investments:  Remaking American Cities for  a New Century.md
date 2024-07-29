@@ -2,6 +2,7 @@
 title: "Transformative Investments:  Remaking American Cities for  a New Century"
 permalink: /world-cities-summit-issue/transformative-investments-remaking-american-cities-for-a-new-century/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -265,7 +266,7 @@ both planned and managed.
 <li class="small-text">Saskia Sassen defined the term “cityness” to be the concept of embracing the characteristics, attributes, and dynamics that embody “city”: complexity, the convergence of the physical environment at multiple scales, the intersection of differences, the diversity of populations and culture, the distinctively varied designs and the layering of the old and the new. Sassen, S., <em>“Cityness in the Urban Age”</em>, Urban Age Bulletin 2 (Autumn 2005).</li>
 <li class="small-text">Strauss, Valerie, “Pollin Says He’ll Pay for Sports Complex District, Awaits Economic Boost, Upgraded Image”, <em>Washington Post</em>, Thursday, 29 December 1994.</li>
 <li class="small-text">Personal communication from Peter Harnik, Director, Center for City Park Excellence, Trust for Public Land, 6 June 2005.</li>
-<li class="small-text"> Harnik, Peter, “The Excellent City Park System: What Makes it Great and How to Get There”. San Francisco, CA: The Trust for Public Land, 2003. Available online at <a href="https://www.tpl.org/sites/default/files/cloud.tpl.org/pubs/ccpe_excellentcityparks_2006.pdf">https://www.tpl.org/sites/default/files/cloud.tpl.org/pubs/ccpe_excellentcityparks_2006.pdf</a></li>
+<li class="small-text"> Harnik, Peter, “The Excellent City Park System: What Makes it Great and How to Get There”. San Francisco, CA: The Trust for Public Land, 2003. Available online at <a target="_blank" href="http://cloud.tpl.org/pubs/ccpe_excellentcityparks_2006.pdf">http://cloud.tpl.org/pubs/ccpe_excellentcityparks_2006.pdf</a></li>
 </ol>
 
 

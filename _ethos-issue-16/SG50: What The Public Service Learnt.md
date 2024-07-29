@@ -2,6 +2,7 @@
 title: "SG50: What The Public Service Learnt"
 permalink: /ethos-issue-16/sg50-what-the-public-service-learnt/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -255,10 +256,10 @@ Singapore: Inside Out was a travelling showcase celebrating Singapore’s spectr
     Singapore (Tan Quee Lan Street, Bugis) 27 November to 6 December 2015; <a href="https://www.stb.gov.sg/content/stb/en.html">https://www.stb.gov.sg/content/stb/en.html</a>
 </li>
 <li class="small-text">
-<a href="https://www.msf.gov.sg/Pages/default.aspx">https://www.msf.gov.sg/Pages/default.aspx</a>
+<a href="https://www.msf.gov.sg/">https://www.msf.gov.sg/</a>
 </li>
 <li class="small-text">
-    Companies and associations were invited to participate in the following ways: <a href="https://www.msf.gov.sg/Pages/default.aspx">https://www.msf.gov.sg/Pages/default.aspx</a>
+    Companies and associations were invited to participate in the following ways: <a href="https://www.msf.gov.sg/">https://www.msf.gov.sg/</a>
 </li>
 <li class="small-text">
     B. Ryan, et al, “Managing for joint outcomes: Connecting up the horizontal and the vertical,” <em>Policy Quarterly</em> 4(2008): 14–21.

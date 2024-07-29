@@ -2,6 +2,7 @@
 title: "Green Transport in Singapore: Public Attitudes, Intentions and Actions"
 permalink: /ethos-issue-24/green-transport-in-singapore-public-attitudes-intention-and-actions/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -147,7 +148,7 @@ Source: Land Transport Authority Singapore</p>
 <li>Ministry of Transport, “Speech by Minister for Transport,  
     Mr S Iswaran at the Committee of Supply Joint Segment on  
     Singapore Green Plan 2030”, accessed May 3, 2022, <a target="\_blank" href="https://www.mot.gov.sg/news/in-parliament/Details/speech-by-minister-for-transport-mr-s-iswaranat-the-committee-of-supply-joint-segment-onsingapore-green-plan-2030">https://www.mot.gov.sg/news/in-parliament/Details/speech-by-minister-for-transport-mr-s-iswaranat-the-committee-of-supply-joint-segment-onsingapore-green-plan-2030</a>.</li>  
-<li>Land Transport Authority, “Growing Singapore’s Land Transport Network”, accessed accessed May 3, 2022, <a target="\_blank" href="https://www.lta.gov.sg/content/ltagov/en/upcoming\_projects.html">https://www.lta.gov.sg/content/ltagov/en/upcoming\_projects.html</a>.  
+<li>Land Transport Authority, “Growing Singapore’s Land Transport Network”, accessed accessed May 3, 2022, <a target="\_blank" href="https://www.lta.gov.sg/content/ltagov/en.html">https://www.lta.gov.sg/content/ltagov/en.html</a>.  
     </li>  
 </ol>  
 </div>
@@ -425,7 +426,7 @@ who still plan to own a car.
 <ol>  
 <li>Hengchen Dai, Katherine L. Milkman, and Jason Riis, “The Fresh Start Effect: Temporal Landmarks Motivate  
     Aspirational Behavior”, <em>Management Science </em>60, no. 10 (June 2014), <a target="\_blank" href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.1901">https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.1901</a>.</li>  
-<li>“Tokyo Metro—The Underground Mysteries 2019” Puzzle-Solving &amp; City Exploration Game event, <a target="\_blank" href="https://www.tokyometro.jp/lang\_en/news/202971.html?width=816&amp;height=650">https://www.tokyometro.jp/lang\_en/news/202971.html?width=816&amp;height=650</a>.</li>  
+<li>“Tokyo Metro—The Underground Mysteries 2019” Puzzle-Solving &amp; City Exploration Game event, <a target="\_blank" href="https://www.tokyometro.jp/lang_en/news/202971.html?width=816&amp;height=650">https://www.tokyometro.jp/lang_en/news/202971.html?width=816&amp;height=650</a>.</li>  
 <li>Do Hoang Van Khanh and Low Weijian, “Encouraging Car-Lite Travel through Gamification: The Kids Smart Travel Challenge”, <em>Ethos Digital </em>5 (November 2019), <a target="\_blank" href="../encouraging-car-lite-travel-through-gamification-the-kids-smart-travel-challenge.html">https://www.csc.gov.sg/articles/encouraging-car-lite-travel-through-gamification-the-kids-smart-travel-challenge</a>.</li>  
 </ol>  
   

@@ -2,6 +2,7 @@
 title: The Environment as Capital
 permalink: /world-cities-summit-issue/opinion-the-environment-as-capital/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -206,7 +207,6 @@ fossil fuels.
 <li class="small-text">The World Bank, <em>2005 World Development Indicators</em>, <a href="https://documents1.worldbank.org/curated/en/947951468140975423/pdf/343970PAPER0WDI0200501OFFICIAL0USE0ONLY1.pdf">https://documents1.worldbank.org/curated/en/947951468140975423/pdf/343970PAPER0WDI0200501OFFICIAL0USE0ONLY1.pdf</a></li>
 <li class="small-text">Samuelson, P. A. and Nordhaus, W., <em>Economics</em> (New York: McGraw Hill, 1948).</li>
 <li class="small-text">This paragraph has been removed from more recent editions of this book.</li>
-<li class="small-text"><a href="http://www.whisperedmedia.org/wbforests.html">http://www.whisperedmedia.org/wbforests.html</a></li>
 <li class="small-text">Grossman, G. M. and Krueger, A. B., <em>Environmental Impact of a North American Free Trade Agreement</em>, Working Paper 3914 (Cambridge, MA: National Bureau of Economic Research, 1991).</li>
 <li class="small-text">Shafik, N., “Economic Growth and Environmental Quality: An Econometric Analysis”, <em>Oxford Economic Papers</em> 46 (1994): 162-78.</li>
 <li class="small-text">Thampapillai, D. J., <em>Environmental Economics: Concepts, Methods and Policies</em> (Melbourne: Oxford University Press, 2002).</li>

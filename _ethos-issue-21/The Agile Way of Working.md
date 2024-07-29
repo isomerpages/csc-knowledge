@@ -2,6 +2,7 @@
 title: The Agile Way of Working
 permalink: /ethos-issue-21/the-agile-way-of-working/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -235,7 +236,7 @@ One serious challenge is how to make Agile work when the wider organisation is s
 
 <ol>
 <li class="small-text">Manifesto for Agile Software Development (website), accessed July 1, 2019,
-    <a target="_blank" href="https://www.agilemanifesto.org/">https://agilemanifesto.org/iso/en/manifesto.html</a>.</li>
+    <a target="_blank" href="https://agilemanifesto.org/iso/en/manifesto.html/">https://agilemanifesto.org/iso/en/manifesto.html</a>.</li>
 <li class="small-text">Wouter Aghina et al., “The Five Trademarks of Agile Organizations”, <em>McKinsey Quarterly</em>, December 2017.</li>
 <li class="small-text">Michael Bazigos, Aaron De Smet and Chris Gagnon, “Why Agility Pays”, <em>McKinsey Quarterly</em>, December 2015.</li>
 <li class="small-text">Jeff Sutherland, <em>Scrum: The Art of Doing Twice the Work in Half the Time</em> (London: Random House, 2014).</li>

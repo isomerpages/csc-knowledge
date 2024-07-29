@@ -2,6 +2,7 @@
 title: The Digital Social Contract and e-Legitimacy
 permalink: /ethos-issue-18/the-digital-social-contract-and-e-legitimacy/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -252,8 +253,8 @@ Privacy, Big Data and AI lie at the shifting and contested intersection of comme
 <p><strong>Notes</strong></p>  
 <ol>  
 <li>An international movement to establish transparency and effective use of private sector payments to governments for the right to extract non-renewable resources.</li>  
-<li>United Nations, <em>United Nations Universal Declaration of Human Rights 1948</em>, 1948, Article 29, 8, accessed October 7, 2017, <a href="http://www.jus.uio.no/lm/en/pdf/un.universal.declaration.of.human.rights.1948.portrait.letter.pdf">http://www.jus.uio.no/lm/en/pdf/un.universal.declaration.of.human.rights.1948.portrait.letter.pdf</a>.</li>  
-</ol>  
+<li>United Nations, <em>United Nations Universal Declaration of Human Rights 1948</em>, 1948, Article 29, 8, accessed October 7, 2017
+</li></ol>  
   
   
   

@@ -3,6 +3,7 @@ title: New Strategic Capabilities and Partnership Paradigms for Singapore’s
   Social Sector
 permalink: /ethos-issue-14/new-strategic-capabilities-and-partnership-paradigms-for-singapore-s-social-sector/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -176,13 +177,7 @@ Capable leadership will be called for in key areas of corporate governance — b
     Poole Partnership, “Poole Partnership”, <a target="\_blank" href="http://www.poolepartnership.info/">http://www.poolepartnership.info/</a>, accessed October 21, 2013.  
     </li>  
 <li class="small-text">  
-    OECD LEED Programme Forum on Partnerships and Local Development. “Forum Partnerships 2006 United Kingdom (England) Local Strategic Partnerships (LSPs),” <a target="\_blank" href="http://www.oecd.org/cfe/leed/37728868.pdf">http://www.oecd.org/cfe/leed/37728868.pdf (63KB)</a>, accessed&nbsp;October&nbsp;14,&nbsp;2013.  
-    </li>  
-<li class="small-text">  
-    Voluntary Sector Initiative, “Voluntary Sector Initiative,” <a target="\_blank" href="http://www.vsi-isbc.org/eng/index.cfm">http://www.vsi-isbc.org/eng/index.cfm</a>, accessed October&nbsp;16,&nbsp;2013.  
-    </li>  
-<li class="small-text">  
-    Employment and Social Development Canada, “Homelessness Strategy,” <a target="\_blank" href="http://www.esdc.gc.ca/eng/communities/homelessness/index.shtml">http://www.esdc.gc.ca/eng/communities/homelessness/index.shtml</a>, accessed October 16, 2013.  
+    Employment and Social Development Canada, “Homelessness Strategy,” <a target="\_blank" href="https://www.canada.ca/en/employment-social-development.html">https://www.canada.ca/en/employment-social-development.html</a>, accessed October 16, 2013.  
     </li>  
 </ol>  
   

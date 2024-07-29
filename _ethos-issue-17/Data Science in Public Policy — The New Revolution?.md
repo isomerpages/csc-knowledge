@@ -2,6 +2,7 @@
 title: Data Science in Public Policy — The New Revolution?
 permalink: /ethos-issue-17/data-science-in-public-policy-the-new-revolution/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -150,7 +151,7 @@ li {
 <hr>  
 <p>NOTE</p>  
 <ol>  
-<li id="notes-2-1">UN Global Pulse, “Feasibility Study: Supporting Forest and Peat Fire Management Using Social Media”, Global Pulse Project Series, No. 10, 2014, <a target="\_blank" href="http://www.unglobalpulse.org/sites/default/files/UNGP\_ProjectSeries\_Peat\_Haze\_2014\_0.pdf">http://www.unglobalpulse.org/sites/default/files/UNGP\_ProjectSeries\_Peat\_Haze\_2014\_0.pdf</a>, accessed 3 January 2017.</li>  
+<li id="notes-2-1">UN Global Pulse, “Feasibility Study: Supporting Forest and Peat Fire Management Using Social Media”, Global Pulse Project Series, No. 10, 2014, <a target="\_blank" href="https://www.unglobalpulse.org/">https://www.unglobalpulse.org/</a>, accessed 3 January 2017.</li>  
 </ol>  
   
   
@@ -258,8 +259,7 @@ li {
     Artificial intelligence is a broad term that refers to applying to any technique that enables computers to mimic human intelligence, using logic, if-then rules, decision trees, and machine learning.  
     </li>  
 <li id="endnotes-5" class="small-text">  
-    Executive Office of the President National Science and Technology Council Committee on Technology, “Preparing for the Future of Artificial Intelligence,” October 2016, accessed 7 January 2017, <a target="\_blank" href="https://obamawhitehouse.archives.gov/sites/default/files/whitehouse\_files/microsites/ostp/NSTC/preparing\_for\_the\_future\_of\_ai.pdf">https://obamawhitehouse.archives.gov/sites/default/files/whitehouse\_files/microsites/ostp/NSTC/preparing\_for\_the\_future\_of\_ai.pdf (PDF,  
-    1.2MB)</a>.  
+    Executive Office of the President National Science and Technology Council Committee on Technology, “Preparing for the Future of Artificial Intelligence,” October 2016, accessed 7 January 2017, <a target="\_blank" href="https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf"> https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf (PDF, 1.2MB)</a>.  
     </li>  
 <li id="endnotes-6" class="small-text">  
     Ibid.  
@@ -268,7 +268,7 @@ li {
     The text analytics platform &lt;www.govtext.com&gt; is available to all public officers with a .gov.sg email.  
     </li>  
 <li id="endnotes-8" class="small-text">  
-    On how economists can use machine learning to improve policy, see: Susan Athey, Stanford Institute for Economic Policy Research, accessed 6 December 2016, <a target="\_blank" href="http://siepr.stanford.edu/highlights/susan-athey-how-economists-can-use-machine-learning-improve-policy">http://siepr.stanford.edu/highlights/susan-athey-how-economists-can-use-machine-learning-improve-policy</a>.  
+    On how economists can use machine learning to improve policy, see: Susan Athey, Stanford Institute for Economic Policy Research, accessed 6 December 2016, <a target="\_blank" href="https://siepr.stanford.edu/">https://siepr.stanford.edu/</a>.  
     </li>  
 <li id="endnotes-9" class="small-text">  
     “Of prediction and policy,” <em>The Economist,</em> 20 August 2016, accessed 6 December 2016, <a target="\_blank" href="http://www.economist.com/news/finance-and-economics/21705329-governments-have-much-gain-applying-algorithms-public-policy">http://www.economist.com/news/finance-and-economics/21705329-governments-have-much-gain-applying-algorithms-public-policy</a>.  

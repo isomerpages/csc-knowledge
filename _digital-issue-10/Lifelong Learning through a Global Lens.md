@@ -3,6 +3,7 @@ title: Lifelong Learning through a Global Lens
 permalink: /digital-issue-10/lifelong-learning-through-a-global-lens/
 description: ""
 image: /images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_BannerTeaser.jpeg
+variant: markdown
 ---
 <style>
 
@@ -117,7 +118,7 @@ line-height:22px;
 
 <p>Singapore’s latest labour market report indicates that there are more job vacancies than there are job seekers. The number of job vacancies has increased over the past two years, hitting a new high of 128,100 in March 2022.<sup><a href="#num1">1</a></sup> This may have been an outcome of the ‘Great Resignation’: a global trend of people quitting their jobs since the start of the COVID-19 pandemic to seek better work-life balance after a prolonged period of working remotely without commuting.<sup><a href="#num2">2</a></sup> Anecdotally, I have found, from LinkedIn, that many of my connections have been moving to new jobs recently.</p>
 
-<p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see <b>Table 1</b>).<sup><a href="#num3">3</a></sup></p>	
+<p>But there are also accounts of people who have been displaced but have yet to find new employment, due to a mismatch in their skills. In NTUC’s recent study “Continuing Education and Training (CET): Now and What Could be Next” with 564 business leaders, 63.1% of business leaders are concerned about skills mismatch (see <b>Table 1</b>).<sup>3</sup></p>	
 
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_10/LifelongLearning_Table1.JPG">
 
@@ -144,7 +145,7 @@ line-height:22px;
 
 <p>However, only 50.9% of business leaders had sent their workers for training in the past six months. Out of those who did send workers for training, on average only 33.6% of their workforce in the company attended the training. This suggests that 66.4% of workers in the company were missing out on training. Employers must find the appropriate balance between training and work for their workers, tilting towards greater workforce readiness, relevance, and resilience.</p>
 
-<p>Notably, European governments have set a legal minimum requirement for training for all workers. For example, the Flexible and Workable Work Act in Belgium mandates that firms give every employee at least five days of training annually; Portugal’s legal requirement for paid training hours per year is 35 and the legal minimum is five days annually in Switzerland.<sup><a href="#num9">9</a></sup></p>
+<p>Notably, European governments have set a legal minimum requirement for training for all workers. For example, the Flexible and Workable Work Act in Belgium mandates that firms give every employee at least five days of training annually; Portugal’s legal requirement for paid training hours per year is 35 and the legal minimum is five days annually in Switzerland.<sup>9</sup></p>
 
 <div class="break">
 <p class="break1">The least likely to train are those who most need it in order to get or keep a job.</p>
@@ -235,13 +236,11 @@ line-height:22px;
 <ol>
 <li id="num1">Ministry of Manpower, “Labour Market Report First Quarter 2022”, June 17, 2022, <a target="_blank" href="https://www.mom.gov.sg/newsroom/press-releases/2022/0617-labour-market-report-1q-2022"> https://www.mom.gov.sg/newsroom/press-releases/2022/0617-labour-market-report-1q-2022.</a></li>
 <li id="num2">S. Ellerbeck, “The Great Resignation Is not Over: A Fifth of Workers Plan to Quit in 2022”, World Economic Forum, June 24, 2022, <a target="_blank" href="https://www.weforum.org/agenda/2022/06/the-great-resignation-is-not-over">https://www.weforum.org/agenda/2022/06/the-great-resignation-is-not-over/</a>.</li>
-<li id="num3"><a target="_blank" href="https://ntuc.org.sg/Research-CET">"Continuing Education and Training: Now and What Could be Next"</a>, Singapore: National Trades Union Congress, 2022.</li>
 <li id="num4">Chew Hui Min, “10 Quotes from Mr Lee Kuan Yew's 'awesome' 1977 speech in Parliament”, <em>The Straits Times</em>, March 26, 2015, <a target="_blank" href="https://www.straitstimes.com/singapore/10-quotes-from-mr-lee-kuan-yews-awesome-1977-speech-in-parliament">https://www.straitstimes.com/singapore/10-quotes-from-mr-lee-kuan-yews-awesome-1977-speech-in-parliament.</a></li>
 <li id="num5">A. Lim, “Singapore Can Be World Leader in Cultivating Lifelong Learning, Says Tharman Shanmugaratnam”, <em>The Straits Times</em>, April 25, 2019, <a target="_blank" href="https://www.straitstimes.com/politics/singapore-can-be-world-leader-in-cultivating-life-long-learning-says-tharman-shanmugaratnam">https://www.straitstimes.com/politics/singapore-can-be-world-leader-in-cultivating-life-long-learning-says-tharman-shanmugaratnam.</a></li>
 <li id="num6">S. Tan, “Firms that Send Workers for Training See Revenue Rise, Higher Productivity: SkillsFuture-MTI Study”, <em>The Straits Times</em>, July 8, 2021, <a target="_blank" href="https://www.straitstimes.com/singapore/jobs/firms-that-send-workers-for-training-see-revenue-rise-higher-productivity">https://www.straitstimes.com/singapore/jobs/firms-that-send-workers-for-training-see-revenue-rise-higher-productivity.</a></li>
 <li id="num7">Ibid.</li>
 <li id="num8">See Note 3.</li>
-<li id="num9">M. Simons, L. V. Loenen, and J. W. V. Gelder, “Trade Union Activities on Life-Long Learning: Shaping the Future of Work in a Digitalised Services Industry”, UNI Europa, July 11, 2020, <a target="_blank" href="https://unieuropaconference.org/wp-content/uploads/sites/2/Lifelong-learning-EN-light.pdf">https://unieuropaconference.org/wp-content/uploads/sites/2/Lifelong-learning-EN-light.pdf".</a></li>
 <li id="num10">OECD, “Enhancing Employability Report Prepared for the G20 Employment Working Group”, 2016, <a target="_blank" href="https://www.oecd.org/els/emp/Enhancing-Employability-G20-Report-2016.pdf">https://www.oecd.org/els/emp/Enhancing-Employability-G20-Report-2016.pdf.</a></li>
 <li id="num11">OECD, “Getting Skills Right: Future-Ready Adult Learning Systems” 2019, <a target="_blank" href="https://www.oecd.org/els/emp/skills-and-work/adult-learning/Policy-Brief-Future-ready-adult-learning-2019-EN.pdf">https://www.oecd.org/els/emp/skills-and-work/adult-learning/Policy-Brief-Future-ready-adult-learning-2019-EN.pdf."</a></li>
 <li id="num12">Cedefop, “Inventory of Lifelong Guidance Systems and Practices—Norway”, CareersNet national records, 2020, <a target="_blank" href="https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway">https://www.cedefop.europa.eu/en/publications-and-resources/country-reports/inventory-lifelong-guidance-systems-and-practices-norway.</a></li>

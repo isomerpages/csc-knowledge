@@ -2,6 +2,7 @@
 title: Good Governance Is Built on Capabilities, Not Ideology
 permalink: /digital-issue-08/good-governance-is-built-on-capabilities-not-ideology/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -210,7 +211,7 @@ Implementing a coherent, structured system of training for public servants requi
 <hr>
 <h6> <a name="notes"></a>NOTES</h6>
 <ol>
-<li class="small-text">Jonathan Perry, “Trust in Public Institutions: Trends and Implications for Economic Security”, July 20, 2021, United Nations, accessed February 12, 2022, <a target="_blank" href="https://www.un.org/development/desa/dspd/2021/07/trust-public-institutions/">https://www.un.org/development/desa/dspd/2021/07/trust-public-institutions/</a>.</li>
+<li class="small-text">Jonathan Perry, “Trust in Public Institutions: Trends and Implications for Economic Security”, July 20, 2021, United Nations, accessed February 12, 2022, <a target="_blank" href="https://www.un.org/development/desa/dpad/publication/un-desa-policy-brief-108-trust-in-public-institutions-trends-and-implications-for-economic-security//">https://www.un.org/development/desa/dpad/publication/un-desa-policy-brief-108-trust-in-public-institutions-trends-and-implications-for-economic-security//</a>.</li>
 <li class="small-text">Ibid.</li>
 <li class="small-text"> Chandler Good Government Index, “Advisory Panel”, accessed February 11, 2022, <a target="_blank" href="https://chandlergovernmentindex.com/advisory-panel/">https://chandlergovernmentindex.com/advisory-panel/</a>.
     </li>

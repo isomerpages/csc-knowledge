@@ -2,6 +2,7 @@
 title: The Future of Learning and Development in the Singapore Public Service
 permalink: /ethos-issue-23/the-future-of-learning-and-development-in-the-singapore-public-service/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -565,7 +566,7 @@ organisations through a complex and fast-changing future.</p>
   
 <ol>  
 <li class="small-text">‘Build, buy, borrow, and bot’ is a phrase that has become popular in the HR field within the last 3 years. One example of its usage and meaning can be found here: <a target="\_blank" href="https://www.howardgray.net/build-buy-borrow-or/">https://www.howardgray.net/build-buy-borrow-or/</a>.</li>  
-<li class="small-text">Ong Pang Thye and Yap Kwong Weng, “Reimagining a Post-COVID World with Agility and Resilience”, <em>KPMG Insights</em> 19, May 2020, accessed August 31, 2021, <a target="\_blank" href="https://home.kpmg/sg/en/home/insights/2020/05/thriving-in-a-post-covid-19-world.html">https://home.kpmg/sg/en/home/insights/2020/05/thriving-in-a-post-covid-19-world.html</a>.</li>  
+<li class="small-text">Ong Pang Thye and Yap Kwong Weng, “Reimagining a Post-COVID World with Agility and Resilience”, <em>KPMG Insights</em> 19, May 2020, accessed August 31, 2021.</li>  
 <li class="small-text">World Bank Group, “The Changing Nature of Work”, 2019, accessed August 31, 2021, <a target="\_blank" href="https://documents1.worldbank.org/curated/en/816281518818814423/pdf/2019-WDR-Report.pdf">https://documents1.worldbank.org/curated/en/816281518818814423/pdf/2019-WDR-Report.pdf</a>.</li>  
 <li class="small-text">Holly Muscolino et al., “IDC FutureScape:  
     Worldwide Future of Work 2020 Predictions”, International Data Corporation, October, 2019.</li>  
@@ -573,7 +574,7 @@ organisations through a complex and fast-changing future.</p>
 <li class="small-text">Gia Nardini et al., “Together We Rise: How Social  
     Movements Succeed”, <em>Journal of Consumer Psychology </em>31, no. 1 (2021): 112–145, accessed August 31, 2021, <a target="\_blank" href="https://doi.org/10.1002/jcpy.1201">https://doi.org/10.1002/jcpy.1201</a>.</li>  
 <li class="small-text">One report suggests that by 2022, a third of major companies will offer agile, dynamic, and AI-driven learning pathways as primary approaches to career development and succession planning. See Note 4.</li>  
-<li class="small-text">Lizzie Crowley, “What’s Happened to L&amp;D during the COVID-19 Pandemic and What Does It Mean for the Future? Share Your Views”, <em>CIPD Community</em>, January 15, 2021, accessed August 31, 2021, <a target="\_blank" href="https://community.cipd.co.uk/cipd-blogs/b/voice\_on/posts/what-s-happened-to-l-d-during-the-covid-19-pandemic-and-what-does-it-mean-for-the-future-share-your-views">https://community.cipd.co.uk/cipd-blogs/b/voice\_on/posts/what-s-happened-to-l-d-during-the-covid-19-pandemic-and-what-does-it-mean-for-the-future-share-your-views</a>.</li>  
+<li class="small-text">Lizzie Crowley, “What’s Happened to L&amp;D during the COVID-19 Pandemic and What Does It Mean for the Future? Share Your Views”, <em>CIPD Community</em>, January 15, 2021, accessed August 31, 2021.</li>  
 <li class="small-text">Elizabeth Howlett, “Has Covid-19 Sparked an L&amp;D Revolution?” <em>People Management</em>, June 4, 2020, accessed August 31, 2021, <a target="\_blank" href="https://www.peoplemanagement.co.uk/long-reads/articles/covid-19-caused-learning-development-revolution#gref">https://www.peoplemanagement.co.uk/long-reads/articles/covid-19-caused-learning-development-revolution#gref</a>.</li>  
 <li class="small-text">The authors engaged with 20 expert practitioners and authorities in the L&amp;D field identified as forward-thinking and open-minded. These ranged from Directors to CEOs from the Public Service, private sector, NGOs, institutes of higher learning, and forums. Subsequently, the authors engaged another group of 16 Public Service L&amp;D practitioners in positions of leadership and influence over both senior management and the working level to discuss and validate the insights and conclusions drawn from the first engagement. These ranged from Directors to Senior Directors across different sectors.</li>  
 <li class="small-text">Matthew Smith, “Building a Learning Culture That Drives Business Forward”, <em>The McKinsey Podcast</em>, April 16, 2021, accessed August 31, 2021, <a target="\_blank" href="https://www.mckinsey.com/business-functions/mckinsey-accelerate/our-insights/building-a-learning-culture-that-drives-business-forward">https://www.mckinsey.com/business-functions/mckinsey-accelerate/our-insights/building-a-learning-culture-that-drives-business-forward</a>.  

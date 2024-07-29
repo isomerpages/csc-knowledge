@@ -2,6 +2,7 @@
 title: Can We Nudge the Pandemic Away?
 permalink: /ethos-issue-22/can-we-nudge-the-pandemic-away/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -124,11 +125,9 @@ public, and avoid going out.</p>
 <ol>
 <li class="small-text">A. L. Sibony, <a target="_blank" href="https://doi.org/10.1017/err.2020.22">“The UK COVID-19 Response: A Behavioural Irony?”</a> <em>European Journal of Risk Regulation</em>, (2020): 1–8. </li>
 <li class="small-text">Marta Paterlini, <a target="_blank" href="https://www.nature.com/articles/d41586-020-01098-x">“‘Closing Borders Is Ridiculous’: The Epidemiologist behind Sweden’s Controversial Coronavirus Strategy”</a>, <em>Nature</em>, April 21, 2020, accessed April 18, 2021. </li>
-<li class="small-text">Charlie Duxbury, <a target="_blank" href="https://www.politico.eu/article/swedencoronavirus-local-lockdown-uppsala/">“Sweden’s hands-off approach to local lockdown”</a>, <em>Politico</em>, October 24, 2020, accessed April 17, 2021.</li>
 <li class="small-text"> <a target="_blank" href="https://www.bbc.com/news/uk-england-51823214">“Coronavirus: The Boy behind the Wash Your Lyrics Site”</a>, <em>BBC</em>, March 11, 2020, accessed April 17, 2021. </li>
-<li class="small-text">Sarah Boseley, <a target="_blank" href="https://www.theguardian.com/society/2020/mar/24/nhs-hospitals-could-run-outof-coronavirus-beds-in-a-fortnight">“NHS Hospitals Could Run Out of Coronavirus Beds in a Fortnight”</a>, <em>The Guardian</em>, March 24, 2020, accessed April 17, 2021. </li>
-<li class="small-text">Reuters, <a target="_blank" href="https://www.reuters.com/article/uk-factcheck-prageru-sweden-herdimmunit-idUSKBN28C2R7">"Fact Check: Sweden Has Not Achieved Herd Immunity, Is Not Proof that Lockdowns Are Useless"</a>, December 3, 2020, accessed May 25, 2021. </li>
-<li class="small-text">Sophia Ankel, <a target="_blank" href="https://www.businessinsider.com/sweden-facing-its-first-lockdown-as-covid-19-restrictionstightened-2021-2">“Sweden Has U-turned on Several of Its Coronavirus Measures and Is Now Facing Its First Lockdown, Warns PM”</a>, <em>Business Insider</em>, February 27, 2021, accessed April 17, 2021. </li>
+<li class="small-text">Sarah Boseley, <a target="_blank" href="https://www.theguardian.com/society/2020/mar/24/nhs-hospitals-could-run-out-of-coronavirus-beds-in-a-fortnight">“NHS Hospitals Could Run Out of Coronavirus Beds in a Fortnight”</a>, <em>The Guardian</em>, March 24, 2020, accessed April 17, 2021. </li>
+<li class="small-text">Reuters, <a target="_blank" href="https://www.reuters.com/article/uk-factcheck-prageru-sweden-herdimmunit-idUSKBN28C2R7/">"Fact Check: Sweden Has Not Achieved Herd Immunity, Is Not Proof that Lockdowns Are Useless"</a>, December 3, 2020, accessed May 25, 2021. </li>
 </ol>
 
 
@@ -186,8 +185,8 @@ public, and avoid going out.</p>
 <hr>
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text">NOTES</p>
 <ol>
-<li class="small-text"> University of Bayreuth, <a target="_blank" href="https://www.uni-bayreuth.de/en/university/press/press-releases/2020/086-expertinterview-germelmann-nudging-social-distancing/index.html">“How Nudging Can Help Ensure Physical Distancing”</a>, May 28, 2020, accessed April 17, 2021. </li>
-<li class="small-text">Julia Rosenbaum, <a target="_blank" href="https://globalhandwashing.org/incorporating-nudges- into-covid-19-communication-and-preventionstrategies/">“Incorporating Nudges into COVID-19 Communication and Prevention Strategies”</a>, Global Handwashing Partnership, March 31, 2020, accessed April 17, 2021. </li>
+<li class="small-text"> University of Bayreuth, <a target="_blank" href="https://idw-online.de/en/news748198">“How Nudging Can Help Ensure Physical Distancing”</a>, May 28, 2020, accessed April 17, 2021. </li>
+<li class="small-text">Julia Rosenbaum, <a target="_blank" href="https://globalhandwashing.org/incorporating-nudges-%20into-covid-19-communication-and-preventionstrategies/">“Incorporating Nudges into COVID-19 Communication and Prevention Strategies”</a>, Global Handwashing Partnership, March 31, 2020, accessed April 17, 2021. </li>
 <li class="small-text">Mark Egan, Abigail Mottershaw, Giulia Tagliaferri, Yihan Xu, and Vivek Roy-Chowdhury, <a target="_blank" href="https://www.bi.team/blogs/bright-infographics-and-minimal-text-makehandwashing-posters-most-effective/">“Bright Infographics &amp; Minimal Text Make Handwashing Posters Most Effective—Result from An Online Experiment”</a>, Behavioural Insights Team, March 23, 2020, accessed April 17, 2021. </li>
 </ol>
 
@@ -239,7 +238,7 @@ public, and avoid going out.</p>
 <hr>
 <p style="font-weight: bold; letter-spacing: 1px;" class="small-text">NOTES</p>
 <ol>
-<li class="small-text">Mark Egan, Dr Yihan Xu, Tania Loke, and Dr Abigail Mottershaw, <a target="_blank" href="https://www.bi.team/blogs/do-you-understand-the-guidance-four-findingsfrom-an-experiment-with-3702-adults-in-england/">“Do You Understand the Guidance? Four Findings from An Experiment with 3,702 Adults in England”</a>, Behavioural Insights Team, November 3, 2020, accessed April 17, 2021. </li>
+	
 <li class="small-text">Dan Brown, Stewart Kettle, and Dilhan Perera, <a target="_blank" href="https://www.bi.team/blogs/covid-19-prevention-too-much-information/">“COVID-19 Prevention: Too Much Information?”</a> Behavioural Insights Team, August 7, 2020, accessed April 17, 2021. </li>
 </ol>
 
@@ -352,27 +351,24 @@ public, and avoid going out.</p>
 
 <ol>
 <li class="small-text">Anja Bauer and Enzo Weber, “COVID-19: How Much Unemployment Was Caused by the Shutdown in Germany?” <em>Applied Economics Letters</em>, (2020), doi: 10.1080/13504851. 2020.1789544. </li>
-<li class="small-text">Holly Ellyatt, <a target="_blank" href="https://www.cnbc. com/2020/09/15/uk-unemployment-rate- rose-to-4point1percent-in-july-as-lockdown- impact-hit-home.html">“UK Unemployment Rose in July despite Lockdown Lifting, with More Job Losses Likely”</a>, <em>CNBC</em>, September 15, 2020, accessed April 17, 2021. </li>
-<li class="small-text">Ministry of Trade and Industry, <a target="_blank" href="https://www.singstat.gov.sg/-/media/files/ news/gdp2q2020.pdf">“MTI Narrows 2020 GDP Growth Forecast to ‘-7.0 to -5.0 Per Cent’”</a>, August 11, 2020, accessed April 17, 2021. </li>
+<li class="small-text">Holly Ellyatt, <a target="_blank" href="https://www.cnbc.com/2020/09/15/uk-unemployment-rate-rose-to-4point1percent-in-july-as-lockdown-impact-hit-home.html">“UK Unemployment Rose in July despite Lockdown Lifting, with More Job Losses Likely”</a>, <em>CNBC</em>, September 15, 2020, accessed April 17, 2021. </li>
+<li class="small-text">Ministry of Trade and Industry, <a target="_blank" href="https://www.singstat.gov.sg/-/media/files/news/gdp2q2020.pdf">“MTI Narrows 2020 GDP Growth Forecast to ‘-7.0 to -5.0 Per Cent’”</a>, August 11, 2020, accessed April 17, 2021. </li>
 <li class="small-text">Elke Van Hoof, <a target="_blank" href="https:// www.weforum.org/agenda/2020/04/this-is-the-psychological-side-of-the-covid-19-pandemic-that-were-ignoring/">“Lockdown Is the World’s Biggest Psychological Experiment—and We Will Pay the Price”</a>, <em>World Economic Forum</em>, April 9, 2020, accessed April 17, 2021.</li>
-<li class="small-text">Yi-Ling Liu, <a target="_blank" href="https://www.bbc.com/future/ article/20200601-how-is-covid-19-is- affecting-relationships">“Is Covid-19 Changing Our Relationships?”</a> <em>BBC</em>, June 5, 2020, accessed April 17, 2021. </li>
+<li class="small-text">Yi-Ling Liu, <a target="_blank" href="https://www.bbc.com/future/article/20200601-how-is-covid-19-is-affecting-relationships">“Is Covid-19 Changing Our Relationships?”</a> <em>BBC</em>, June 5, 2020, accessed April 17, 2021. </li>
 <li class="small-text">M. Pierce, H. Hope, T. Ford, S. Hatch, M. Hotopf, A. John et al., “Mental Health Before and During the COVID-19 Pandemic: A Longitudinal Probability Sample Survey of the UK Population”, <em>Lancet Psychiatry</em> 7 (2020): 883–892. </li>
-<li class="small-text">Simon Denyer, <a target="_blank" href="https://www.washingtonpost.com/world/asia_pacific/coronavirus-wave-asia-japan-korea-hongkong/2020/11/24/ed41f17c-2e06-11eb- 9dd6-2d0179981719_story.html">“Coronavirus Is Roaring Back in Parts of Asia, Capitalizing on Pandemic Fatigue”</a>, <em>The Washington Post</em>, November 24, 2020, accessed April 17, 2021. </li>
+<li class="small-text">Simon Denyer, <a target="_blank" href="https://www.washingtonpost.com/world/asia_pacific/coronavirus-wave-asia-japan-korea-hongkong/2020/11/24/ed41f17c-2e06-11eb-9dd6-2d0179981719_story.html">“Coronavirus Is Roaring Back in Parts of Asia, Capitalizing on Pandemic Fatigue”</a>, <em>The Washington Post</em>, November 24, 2020, accessed April 17, 2021. </li>
 <li class="small-text">Ibid. </li>
 <li class="small-text">Erin Hale, <a target="_blank" href="https://www.aljazeera.com/news/2021/6/9/prevention-fatigue-fuelled-sudden-covid-surge-in-taiwan-expert">"'Prevention Fatigue' Driving Sudden COVID Surge in Taiwan: Expert"</a>, <em>Aljazeera</em>, June 9, 2021, accessed June 9, 2021. </li>
 <li class="small-text">Ben Butcher, <a target="_blank" href="https://www. bbc.com/news/55626008">“Lockdown: Are People Breaking Covid Rules?”</a> <em>BBC</em>, January 13, 2021, accessed April 17, 2021. </li>
 <li class="small-text">Linette Lai, <a target="_blank" href="https://www.straitstimes.com/singapore/covid-19-pandemic-could-last-four-or-five-years-lawrence-wong">“Covid-19 Pandemic Could Last Four or Five Years: Lawrence Wong”</a>, <em>The Straits Times</em>, January 25, 2021, accessed April 17, 2021. </li>
 <li class="small-text">Kok Ping Soon, <a target="_blank" href="../2017%20Issue%2017/nudges-why-how-what-next.html">“Nudges: Why, How and What Next?”</a> <em>Ethos</em>, June 30, 2017, accessed April 17, 2021. </li>
-<li class="small-text">Behavioural Insights Team, <a target="_blank" href="https:// www.bi.team/publications/east-four-simple- ways-to-apply-behavioural-insights/">“EAST:  Four Simple Ways to Apply Behavioural Insights”</a>, April 11, 2014, accessed April 17, 2021.</li>
-<li class="small-text">Gov.sg, <a target="_blank" href="https://www.gov.sg/article/additional- restrictions-under-phase-2--heightened-alert">“Additional Restrictions under Phase 2 (Heightened Alert) to Minimise Transmission”</a>, May 14, 2021, accessed May 20, 2021. </li>
+<li class="small-text">Behavioural Insights Team, <a target="_blank" href="https:// www.bi.team/publications/east-four-simple-ways-to-apply-behavioural-insights/">“EAST:  Four Simple Ways to Apply Behavioural Insights”</a>, April 11, 2014, accessed April 17, 2021.</li>
+<li class="small-text">Gov.sg, <a target="_blank" href="https://www.gov.sg/article/additional-restrictions-under-phase-2--heightened-alert">“Additional Restrictions under Phase 2 (Heightened Alert) to Minimise Transmission”</a>, May 14, 2021, accessed May 20, 2021. </li>
 <li class="small-text">Ministry of Health, <a target="_blank" href="https:// www.moh.gov.sg/covid-19/vaccination">"COVID-19 Vaccination", June 8, 2021, accessed June 9, 2021. </a></li>
 <a target="_blank" href="https:// www.moh.gov.sg/covid-19/vaccination">
 </a>
-<li class="small-text"><a target="_blank" href="https:// www.moh.gov.sg/covid-19/vaccination">Ang Hwee Min, </a><a target="_blank" href="https://www.channelnewsasia.com/news/singapore/covid-19-vaccinations-singapore-students-pfizer-biontech-14940000">"COVID-19 Vaccinations  for Singapore Students Aged 12 and above Begin"</a>, <em>CAN</em>, June 3, 2021, accessed June 9, 2021. </li>
 <li class="small-text">N. T. Brewer, G. B. Chapman, A. J. Rothman, J. Leask, and A. Kempe, “Increasing Vaccination: Putting Psychological Science into Action”, <em>Psychological Science in the Public Interest</em> 18, no. 3 (April: 2018), pmid:29611455. </li>
 <li class="small-text">Mathew Mathews, Syafiq Suhaini, Mike Hou, and Alex Tan, <a target="_blank" href="https://lkyspp.nus.edu.sg/docs/default-source/ips/working-paper-40_the-covid-19-pandemic-in-singapore-one-year-on-population-attitudes-and-sentiments.pdf">“The COVID-19 Pandemic in Singapore, One Year On: Population Attitudes and Sentiments”</a>, IPS Working Papers No. 40, April 2021, accessed May 24, 2021. </li>
-<li class="small-text">Gov.sg, <a target="_blank" href="https://www.gov.sg/article/update-on-covid-19-vaccination-programme-and-guidance-on-the-use-of-masks">"Update on COVID-19 Vaccination Programme and Guidance on the Use of Masks"</a>, May 18, 2021, accessed June 9, 2021. </li>
-<li class="small-text">See Note 18. </li>
 <li class="small-text">Connor Perrett, <a target="_blank" href="https://www.businessinsider.com/fauci-covid-19-booster-shot-pfizer-and-moderna-2021-4">“Fauci Says a COVID-19 Booster Shot Is a ‘Public Health Decision’ and Not Up to Companies like Pfizer and Moderna”</a>, <em>Business Insider</em>, April 18, 2021, accessed April 19, 2021. </li>
 <li class="small-text">Berkeley Lovelace Jr., <a target="_blank" href="https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html">“Pfizer CEO Says Third Covid Vaccine Dose Likely Needed within 12 Months”</a>, <em>CNBC</em>, April 15, 2021, accessed May 24, 2021. </li>
 <li class="small-text">Alex Gyani and Rory Gallagher, <a target="_blank" href="https://www.bi.team/blogs/how-can-we-support-physical-distancing-in-the-office/">“How Can We Support Physical Distancing in the Office?”</a> Behavioural Insights Team, October 13, 2020, accessed April 17, 2021.</li>
@@ -384,7 +380,7 @@ public, and avoid going out.</p>
 <li class="small-text">See Note 6. </li>
 <li class="small-text">Joyce Teo, <a target="_blank" href="https://www.straitstimes.com/Singapore/health/covid-19-will-have-a-long-tail-effect-on-mental-health-experts-predict">“Covid-19 Will Have a Long-Tail Effect on Mental Health, Experts Predict”</a>, <em>The Straits Times</em>, August 19, 2020, accessed April 18, 2021. </li>
 <li class="small-text">A. C. Krendl and B. A. Pescosolido (2020) found that individuals in Eastern countries who are diagnosed with depression and/ or schizophrenia reported more mental illness stigma—in the areas of prejudice and discriminatory potential—than their Western counterparts. This finding was consistent with prior work. </li>
-<li class="small-text">Gunhild Berg and Bilal Husnain Zia, <a target="_blank" href="http://documents.worldbank.org/curated/en/550641468163145018/Harnessing-emotional-connections-to-improve-financial- decisions-evaluating-the-impact-of-financial-education-in-mainstream-media">“Harnessing Emotional Connections to Improve Financial Decisions: Evaluating the Impact of Financial Education in Mainstream Media (English)”</a>, Impact Evaluation Series, no. IE 89, policy research working paper, no. WPS 6407, 2013. </li>
+<li class="small-text">Gunhild Berg and Bilal Husnain Zia, <a target="_blank" href="http://documents.worldbank.org/curated/en/550641468163145018/Harnessing-emotional-connections-to-improve-financial-decisions-evaluating-the-impact-of-financial-education-in-mainstream-media">“Harnessing Emotional Connections to Improve Financial Decisions: Evaluating the Impact of Financial Education in Mainstream Media (English)”</a>, Impact Evaluation Series, no. IE 89, policy research working paper, no. WPS 6407, 2013. </li>
 <li class="small-text">Joyce Teo, <a target="_blank" href="https://www.straitstimes.com/singapore/health/no-need-to-rely-on-one-covid-19-vaccine-0">“S’pore Has No Need to Rely on One Covid-19 Vaccine with Several Promising Candidates in the Race”</a>, <em>The Straits Times</em>, November 28, 2020, accessed April 18, 2021. </li>
 <li class="small-text">Cheryl Tan, <a target="_blank" href="https://www.straitstimes.com/singapore/spore-cant-rely-on-herd-immunity-will-use-vaccines-among-other-measures-gan-kim-yong">“S’pore Can’t Rely on Herd Immunity, Will Use Covid-19 Vaccines among Other Measures: Gan Kim Yong”</a>, <em>The Straits Times</em>, May 14, 2021, accessed May 24, 2021. </li>
 </ol>
