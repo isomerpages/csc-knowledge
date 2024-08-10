@@ -120,6 +120,49 @@ td
  <br>   
 
 
+<div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/LLMS_int_the_Public_Sector_teaser.jpg"></div>
+        <div><h3>LLMs In The Public Sector: MINDING WHAT'S MISSING</h3>
+            <b><i>by Finale Doshi-Velez and Elena L. Glassman</i></b>
+            
+<p>Leading researchers argue that users must be able to evaluate and tune AI outputs for their specific needs while using the technology, in order to mitigate some of its key limitations.</p>	
+            
+<div class="button1"><a href="//">Read More</a></div><br></div>
+    </div>
+		
+		
+		
+<div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Ai_Technology_Singapore_teaser.jpg"></div>
+        <div><h3> AI, TECHNOLOGY &amp; SINGAPORE: Preparing for the Future</h3>
+            <b><i>by Liana Tang</i></b>
+            
+<p>Given economic, societal andvgeopolitical trends, the rise of AI mayvhave complex aftershocks that could challenge prevailing policy positions and assumptions.</p>	
+            
+<div class="button1"><a href="//">Read More</a></div><br></div>
+    </div>	
+
+		
+ <br>   
+
+
+<div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/putting_our_feet_teaser.jpg"></div>
+        <div><h3>PUTTING OUR FEET TO THE FIRE: The Challenge of Nurturing an AI-Ready Culture in the Public Service_</h3>
+            <b><i>by He Ruimin &amp; Andrea Phua</i></b>
+            
+<p>Two leaders of Singapore’s AI push want public officers to be talking, tinkering and trying more to make things better using the new digital opportunities now available.</p>	
+            
+<div class="button1"><a href="//">Read More</a></div><br></div>
+    </div>	
+
+
+
+
+
+
+
+
 
 
 <div class="back">
