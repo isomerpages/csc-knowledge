@@ -128,7 +128,10 @@ color:#049c8c;
 <p>The second major category of government use cases involves the organisation and summarisation of unstructured data. Sometimes the goal may simply be data cleaning: for example, identifying and removing duplicates. In many others, however, the goal is to synthesise large amounts of unstructured information. One may want to understand the main themes from public comments,<sup><a href="#notestop">2</a></sup> key ideas from qualitative research data,<sup><a href="#notestop">3</a></sup> trends from court case documents,<sup><a href="#notestop">4</a></sup> or summarise the main points from a recorded online meeting.<sup><a href="#notestop">5</a></sup> A close cousin of summarisation is ideation: given some inputs, the LLM may provide ideas for initiatives or solutions as a starting point for further thinking and brainstorming. Unlike information retrieval, ideation is more open-ended.</p>
 
 
+<div class="break">
+<p class="break1">Determining what is relevant or salient involves some form of judgement.</p>
 
+</div>	
 
 
 
