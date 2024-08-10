@@ -2,6 +2,7 @@ collections:
   ethos-issue-27:
     output: true
     order:
+      - "LLMs In The Public Sector: Minding What's Missing.md"
       - "AI in the Public Service: Here for Good.md"
       - Strategising AI at the National Level.md
       - Supercharging Statistics with AI.md
