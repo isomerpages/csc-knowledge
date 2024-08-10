@@ -148,7 +148,7 @@ td
 
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_27/putting_our_feet_teaser.jpg"></div>
-        <div><h3>PUTTING OUR FEET TO THE FIRE: The Challenge of Nurturing an AI-Ready Culture in the Public Service_</h3>
+        <div><h3>PUTTING OUR FEET TO THE FIRE: The Challenge of Nurturing an AI-Ready Culture in the Public Service</h3>
             <b><i>by He Ruimin &amp; Andrea Phua</i></b>
             
 <p>Two leaders of Singapore’s AI push want public officers to be talking, tinkering and trying more to make things better using the new digital opportunities now available.</p>	
