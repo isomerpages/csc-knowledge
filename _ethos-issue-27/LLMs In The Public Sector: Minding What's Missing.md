@@ -135,6 +135,38 @@ color:#049c8c;
 
 
 
+<p>The summarisation (and ideation) functions of LLMs can enable the large amount of unstructured data in the public sector to be leveraged for the public good. Unlike for information retrieval, however, much less attention has been given to the risks associated with using LLMs for summarisation and how to mitigate them. The challenge of summarisation is that one inherently loses information in the process: the entire point is to highlight the most salient points and remove what is redundant or irrelevant.</p>
+
+
+
+<p>However, determining what is relevant or salient involves some form of judgement. Information essential for one downstream task may not be essential for another. For example, a meeting summary that synthesises the final consensus and action items may leave out dissenting opinions and concerns, which may be important to retain. A summary may also elevate certain perspectives over others. For example, a summary of public discussions may inadvertently privilege comments made by a particular ethnic group or from a certain perspective, e.g. comments focused on convenience over comments highlighting environmental risks.</p>
+
+
+<p>How can we check if a summarisation system is failing in these ways? While the field of natural language processing has been studying summarisation for some time, the main difference between earlier works and LLM-based summarisation is that prior work tended to focus on much more specific settings. For example, a pre-LLM summarisation system may have been trained specifically to summarise only short news articles. Such a system would have been trained on human-generated bullet points or tags and validated against humangenerated summaries.</p>
+
+
+<div class="break">
+<p class="break1">LLMs are being applied
+to many more settings
+than for which quality
+benchmarks exist.</p>
+
+</div>	
+
+
+
+<p>However, the ease with which LLMs summarise many different kinds of documents means that they are being applied to many more settings than for which quality benchmarks exist. Indeed, from a machine learning perspective, even use cases that look similar—such as summarising meetings for one agency versus another, or comments regarding one law or another—are actually quite different.</p>
+
+<p>As the use contexts for LLM summarisation increase, it is highly unlikely that we will be able to keep up in terms of validating the quality of the summarisation system in advance. We need a paradigm shift in thinking about validation: while we should always check as much as we can about a system in advance, we must prepare for a reality where users of LLM-based summarisation will need to validate the summaries at task-time, for their context and their specific set of inputs. We must develop interface design that supports task-time human inspection, especially at scale.<sup><a href="#notestop">6</a></sup></p>
+
+
+
+
+
+
+
+
+
 
 
 
