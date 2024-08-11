@@ -2,6 +2,7 @@ collections:
   ethos-issue-27:
     output: true
     order:
+      - "AI, TECHNOLOGY & SINGAPORE: Preparing for the Future.md"
       - "LLMs In The Public Sector: Minding What's Missing.md"
       - "AI in the Public Service: Here for Good.md"
       - Strategising AI at the National Level.md
