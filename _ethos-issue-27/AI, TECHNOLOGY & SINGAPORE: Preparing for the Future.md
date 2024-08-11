@@ -307,164 +307,81 @@ Many thrive: innovators improving productivity in typically labour scarce sector
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h3>AI and Data: Twin Engines of Growth</h3>
-
-
-<p>In recent years, traditional structure data sources have been supplemented with large and unstructured new data sources, such as social media data, online data, and data from smart devices. The proliferation of these data has enhanced the capabilities of AI and other technologies that thrive on information. In turn, these technologies have amplified the volume and variety of data—both structured and unstructured—by enabling the mass collection and analysis of information from diverse sources, further fuelling developments in AI. This has resulted in a self-reinforcing cycle of technological advancement and data expansion.</p>
-
-<p>AI—a key component of this cycle—is adept at processing vast amounts of information, learning from data patterns, and performing complex tasks with increasing proficiency. This offers PublicService agencies numerous opportunities to enhance their operations and service delivery.</p>
-
-<p>For instance, to enhance the efficiency of fieldwork operations, the Central Provident Fund Board’s Retirement Health Study Office developed a machine learning model to identify optimal time slots for interviewers to call on respondents without prior appointments.<sup><a href="#notestop">1</a></sup> In another example, the Housing Development Board collaborated with the Building and Construction Authority, Enterprise Singapore, and National Research Foundation to develop capabilities in drone façade inspection and visual analytics technologies, enabling safer and more efficient building inspections.<sup><a href="#notestop">2</a></sup>
-
-
-</p><h3>Data Stewardship and Governance: A Cornerstone for Successful AI Adoption</h3>
-
-
-<p> Successful adoption of AI involves more than just technological upgrades. Data quality, quantity and privacy are critical components of successful AI deployment. Each comes with its own challenges. Poor data quality can lead to subpar model performance, while insufficient data may lead to an under-representation of real world scenarios and skewed prediction outcomes. Inadequate governance and lack of privacy assurance undermine trust in data management, making people feel less confident in entrusting their data to organisations for AI learning. It is imperative to have a robust framework to address these challenges.</p>	
-	
-	
-<div class="break">
-<p class="break1">Data quality, quantity and privacy are critical components of successful AI deployment.</p>
-
-</div>		
-	
-
-<p>As the National Statistical Office (NSO),DOS has extensive experience in the statistical domain, allowing it to establish a robust data governance framework<sup><a href="#notestop">3</a></sup> that comprehensively covers the entire data lifecycle (i.e., from planning, survey design, data collection, data processing, data analysis, and dissemination). This framework complies with Government-set guidelines, benchmarked against standards set by internationally recognised organisations and advanced NSOs, and is regularly updated to ensure its relevance. The framework thus serves as a good knowledge base for adopting key principles of responsible and ethicaln AI use, such as data confidentiality, model transparency and interpretability, and accountability.</p>
-
-
-<p> Advocacy of statistical best practices and a track record of good data governance has ensured a high level of data quality produced within DOS and across the whole of government. This contributes to the building of a digital government through the Government Data Architecture initiative. In 2019, DOS was designated by the Smart Nation and Digital Government Office as the Trusted Centre for Individual and Business Data to support the implementation of Singapore’s Government Data Strategy. DOS shares core individual and business administrative data within the government under the Public Sector (Governance) Act,<sup><a href="#notestop">4</a></sup> facilitating the use of data for policy analysis and service delivery.
-	
-
-</p><p>Through engagements with stakeholders such as the local Research and Statistics Units (RSUs), Single Source of Truths<sup><a href="#notestop">5</a></sup> which are custodians of core data, as well as other data producers in public agencies, a collaborative environment is fostered to uplift data stewardship practices and ensure that these are not just understood but actively applied. As data and AI practices are intertwined, the same engagement channels are used to identify and address common challenges. For instance, data privacy is a critical concern for government agencies due to the handling of vast amounts of sensitive information; DOS has thus engaged with agencies such asthe Ministry of Education and Ministry of Health to harness privacy-preserving technologies and other measures to safeguard data privacy.</p>
-
-<h3>Continuous Upskilling: From Passive Learning to Active Practice</h3>
-	
-<p>To effectively leverage AI in the work of DOS officers, continuous upskilling is imperative, given the rapidly evolving technological landscape. Fortunately, statisticians’ traditional expertise in statistical theory and computer programming has already placed them in a good position to pick up advanced AI and Machine Learning (ML) skillsets.</p>	
-
-
-<div class="break">
-<p class="break1">DOS is nurturing a community of practice with an inclusive culture that empowers practitioners to align AI/ML initiatives with their personal interests.</p>
-</div>		
-
-<p>Tailored training workshops and an AI playbook help DOS officers stay up to date with the latest statistical and technological advancements as well as practical AI applications in the statistical and data analytical fields. Additionally, an in-house ML Toolkit supports DOS officers in their AI journey by making it easier for those with limited ML knowledge to build ML models from their data, as well as to appreciate key ethical considerations.</p>
-
-<p>Apart from comprehensive training and tools, it is equally vital for staff to apply their knowledge to real-world scenarios. DOS is nurturing a community of practice with an inclusive culture that empowers practitioners to align AI/ML initiatives with their personal interests, thereby boosting their motivation and commitment to achieving successful outcomes. This strategy is similar to Public Service Division’s Gig Work Opportunities, where officers can apply to participate in posted projects that allow them to contribute their expertise and experience. For instance, the DOS Intelligent Classification Engine (DICE) project team was augmented with officers who were keen to leverage ML to streamline manual classification tasks. This strategy also ensures a variety of perspectives and experiences from diverse backgrounds, fostering innovation, creativity, and peer-to-peer learning.</p>
-
-
-<p>DOS seconds selected officers to private companies with strong data science and AI/ML capabilities, allowing DOS to glean best practices and innovation from the private sector and benchmark itself against industry standards. Thematic sharing sessions on data science and analytics with other RSUs further enhance efficiency and encourage knowledge sharing across the statistical community. Such approaches can benefit all employees, not only those with technical expertise. Every officer has the opportunity to contribute valuable insights to enhance operations and productivity. Their comprehension of business processes and operational challenges aids in identifying areas where AI can make a substantial impact. Dedicated team channels facilitate these exchanges and encourage all to contribute to the conversations. This promotes a more inclusive learning environment where no officer feels left out from the rapid development of AI.</p>
-
-
-<h3>Digital Transformation of Statistical Processes</h3>
-
-<p>Due to budget and manpower constraints, coupled with the need to continue delivering core statistics, DOS has adopted a focused and agile approach to embedding AI/ML and automation technologies into business processes. DOS selects use cases strategically, based on key metrics such as the potential scale of impact, projected benefit, required effort, and the availability of related data.</p>
-
-
-<p> In 2022, DOS established a Digital Transformation Unit (DTU) to work closely with various Divisions in DOS, serving as a coordinator to identify synergies between AI/ML projects. Operating under a hub-and-spoke model, DTU acts as the central hub, responsible for gathering, refining, and sharing AI use cases and knowhows, to minimise duplicative efforts. Meanwhile, the Divisions, or spokes, leverage their specialised expertise to apply AI/ML in ways that are most relevant to their specific areas of statistical work. The DTU also helps channel relevant talents to ensure that collaborative endeavours have the necessary expertise to kick-start the development of AI solutions and accelerate the time-to-market.</p>
-
-
-<p>Over time, numerous internal solutions have been deployed to enhance statistical operations in DOS, covering tasks such as data collection, compilation, analysis, and distribution. For example, DOS is going beyond conventional business surveys for data collection by incorporating AI-extracted data from unstructured financial accounts. This reduces respondent burden and increases the scalability of data collection for more comprehensive data of businesses in the economy.</p>
-
-
-<p>DOS has also used AI to find a novel way of updating the Statistical Business Register,<sup><a href="#notestop">6</a></sup> to improve the quality and efficiency of classification coding through the development of DICE, and to uncover statistical insights with Big Data.<sup><a href="#notestop">7</a></sup></p>
-
-<p>In addition, DOS has participated in the Singapore Government’s AI Trailblazers programme,<sup><a href="#notestop">8</a></sup> which aims to accelerate the development of generative AI solutions that address real-world challenges for organisations. The programme enabled DOS to build and test their own generative AI solutions in a controlled and dedicated cloud-based environment, while identifying potential use cases.</p>
-
-
-<p>None of these projects used AI for its own sake; the methods were employed only where they adhered to statistical concepts and were deemed most suitable in meeting user needs. Only after the value of an AI/ML method has been established through proof-of-concept experiments, and the model rigorously tested, will the solution be implemented organisation-wide at DOS or offered to the RSUs and the rest of the government.</p>
+<br>
 
 
 <div class="containerbox">
 
-<span class="dice">DICE—Simplifying Standard Classification Coding</span>	
+<span class="scenario">SCENARIO 3</span>
+	<p class="title">Tribal World</p>
+	
+	
+<img src="/images/Ethos_Images/Ethos_Issue_27/Ai__Technology_and_Singapore3.png">
 
-<p>The Singapore Standard Classification (SSXC) is used in the collection, compilation, and dissemination of national statistics. It facilitates data sharing and ensures consistency and comparability of data.</p>
-	
 
-<p>For instance, the Singapore Standard Industrial Classification (SSIC) is used to classify firms according to their principal economic activity. Incorrect classification can adversely affect statistical compilation (e.g., GDP reporting), research studies (e.g., sectoral heterogeneity analysis), and policy implementation (e.g., level of support to promote a sector’s growth). However, users—whether business firms or public officers—might find it challenging to choose the most appropriate SSIC code from a range of possible codes without clear knowledge of their nuanced differences. Similarly, the Singapore Standard Occupational Classification (SSOC) is used to classify occupations; incorrect classifications can affect population censuses, household surveys, and administrative databases.</p>
+<p>In 2024, global chipmaking players support US efforts to contain China’s technological growth. However, Chinese EVs and airplanes show growing potential, boosting confidence in Chinese tech. Singapore capitalises on the precarity of people flows early. Special AI visas for AI businesses and scientists facilitate a boom in a burgeoning AI sector. Pundits tout the move as an attempt at building a Singapore “silicon shield”. Local AI hub Kampong AI incubates start-ups that pique international interest.
+<br><span class="sub"> Global powers agitate for bifurcation, but it takes time. Singapore capitalises on this and wins early.</span>	
+</p>
 
-<p>The DOS Intelligent Classification Engine (DICE) was developed to automatically identify the most relevant SSXC code through machine learning, thus improving consistency and reducing manual effort in the process. DICE processes textual inputs (e.g., a firm’s economic activity or a job’s title and description) and recommends suitable SSXC codes as an output, along with the engine’s confidence score.</p>
+	
+	
+<p>But as the years go by, talent flows become uncertain as the US and Chinese ecosystems grow further apart. Established pioneers in Singapore’s AI space withdraw, hedging their bets on access to bigger markets or are poached by big MNCs. The high-profile "disappearance" of a Singapore-based foreign CEO of an AI company while on holiday sends a chilling effect across the industry.
+<br><span class="sub">As inevitable bifurcation catches up, Singapore still ends up in the crossfire.</span>	
+</p> 
+	
+	
+	
+	
+<p>Major cloud service providers limit cloud services access to unaligned countries, presenting challenges to major enterprises operating in Singapore, including the government. The US introduces blanket visa restrictions on visitors from countries seen as "unaligned" in the decoupling effort. Singapore is reluctant to make any big moves given its neutrality, and Singaporeans living and working abroad worry about whether foreign and trade policy pivots could see them deported overnight. </p>
+	
+<p>It becomes difficult to keep up with the talent flows needed, as Chinese and Indians who used to find Singapore attractive are going to the US instead. Some companies seek workers from unconventional sources like Central Asia.
+</p>
+	
+<p>Procurement for major projects like smart cyber-physical systems see protracted delays due to decoupled supply chains. Singapore’s Smart City ambitions threaten to be set back as tech upgrades to Tampines and Punggol have been delayed for several years.</p>
 
-<span class="dices">HOW DICE WORKS</span>	
 	
-<img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_1.jpg">
-	
-<img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_2.jpg">	
-	
-<p>DOS has used ML for coding SSOC/ SSIC since Census 2020.<sup><a href="#notestop">9</a></sup> The model has been continually improved through research and collaboration with RSUs, leading to the development of DICE today.</p>	
-	
+<p>Domestically, Singaporeans are divided on the geopolitical situation; this causes new social rifts to form and Singapore begins to lose its foreigner-friendly reputation. In a shock move, a neighbouring government stops the flow of its workers to Singapore, on the grounds of protecting them from human trafficking. While authorities clarify the move amid public outcry, public speculation on the leanings of our regional neighbours following the announcement of big infrastructural investments from the US further stoke social divides.<br><span class="sub">There are unexpected impacts to Singapore society; precarity of employment, nationality-based tensions are some examples.</span> </p>
 
-<p>DOS works closely with partner agencies, such as the Ministry of Manpower, Economic Development Board, Maritime and Port Authority of Singapore, as well as the Accounting and Corporate Regulatory Authority, to ensure that DICE’s performance and functionality meets their operational requirements.</p>	
 	
 	
 	
-<p>Moving forward, DICE is envisioned to be a comprehensive productivity tool for whole-of-government use, extending beyond industry and occupation codes to cover areas such as expenditure and commodities.</p>		
+	
+	
+<p> In early 2025, a high-profile tragedy strikes Singapore. A man receives a phone call from his young daughter crying in pain, accompanied by photos of her abuse. Her abductors want money, she says. He speeds home in a panic, and as he pulls into the carpark, he drives into his daughter, killing her instantly. It was a deepfake scam. <br><span class="sub"> Domestic pressure causes Singapore to react quickly, but the people and private sectors present a solution first. This has pros and cons.</span></p>
+	
+	
+	
+	
+	
+<div class="policy">
+	
+<span>POLICY QUESTIONS</span>	
+	
+<ol style="list-style-type: upper-alpha;">
+    <li>  In the event of decoupling, what critical supply chain components and services would Singapore experience vulnerabilities in, and what is our resilience plan?</li>
+	
+   <li> What might flows of people, capital and knowledge look like in Singapore as we continue to navigate a potential decoupling?</li>
+
+<li>What are potential implications to social cohesion that could result from bifurcation, and how might we mitigate them?</li>
+	
+</ol>
+	
+	
+	
+</div>	
+	
 	
 </div>
 
 
-<div class="break">
-<p class="break1">Successful AI adoption and digital transformation demand more than just technological advancements.</p>
 
-</div>
-
-
-<h3>Conclusion</h3>
-
-<p>Successful AI adoption and digital transformation demand more than just technological advancements. DOS has taken a multi-pronged approach to harnessing the full potential of AI and digital technologies. This includes instituting rigorous data management protocols, comprehensive security measures, and privacy safeguards to ensure the integrity and security of DOS’s data. In addition, DOS focuses on enhancing officers’ capabilities through curated training, as they are best positioned to grasp the business challenges and identify impactful ways for AI implementation. By strengthening internal and external engagements, as well as collaborating on digitalisation projects, DOS has enabled knowledge sharing on AI developments and fostered a culture of continuous improvement. These strategies have allowed DOS to harness AI productively, which in turn enhances DOS’s data products and statistical services.</p>
-
-
-<p>DOS is currently exploring new AI initiatives that focus on data collection, such as expanding our in-house web-scraping capabilities and utilising optical character recognition technology to extract information and code directly from files and records. Additionally, efforts are being made to improve the user experience in searching for relevant information and data as part of data dissemination. These initiatives are aimed at continually enhancing the collection, production, and consumption of statistical data in Singapore. As AI evolves with better capabilities and greater proficiency, DOS expects to discover more statistical use cases for this promising technology in future.</p>
 
 
 <div class="author">
 <h6>ABOUT THE AUTHORS</h6>	
 
-<p><b>Malcolm Cai</b> is Director of the Longitudinal Data Analytics (LDA) division, and concurrently Director of the Digital Transformation Unit (DTU), in the Singapore Department of Statistics.</p>
+<p><b>Liana Tang</b> is Second Director of Smart Nation Strategy Office, Ministry of Communications and Information. Her current role covers Futures and Strategy in the digital domain: exploring emerging issues and plausible futures, and translating insights into strategy to inform and transform Singapore’s Smart Nation ambitions. A biologist by training, her academic and policy interests lie in the intersection of science, society and technology.</p>
 
-<p><b>Jun Wen Tay</b> is Deputy Director of DTU in the Singapore Department of Statistics.</p>
-
-<p><b>Nicholas Chin</b> is Senior Statistician with DTU in the Singapore Department of Statistics.</p>
-	
-
-	
 </div>
 
 
@@ -474,19 +391,23 @@ Many thrive: innovators improving productivity in typically labour scarce sector
 <h6>NOTES</h6>
 
 <ol>
-    <li>DOS (2023), “The Retirement and Health Study - Management of a Large-Scale Longitudinal Study in Singapore” in Statistics Singapore Newsletter (SSN), Issue 1, 2023</li>
-    <li><a href="https://www.mnd.gov.sg/urbansustainability/resource/resilient-infrastructure">https://www.mnd.gov.sg/urbansustainability/resource/resilient-infrastructure</a></li>
-    <li>DOS (2023), “Data Stewardship and Governance in the Singapore Department of Statistics” in Statistics Singapore Newsletter, Issue 2, 2023.</li>
-    <li>Core data is administrative data frequently used by multiple government agencies for policy analysis, operations, or service delivery.</li>
-    <li><a href="https://www.smartnation.gov.sg/files/publications/dgb-public-document_30dec20.pdf">https://www.smartnation.gov.sg/files/publications/dgb-public-document_30dec20.pdf</a></li>
-    <li>DOS (2023), “Experimental Uses of Machine Learning and New Data Sources in Updating the Statistical Business Register” in Statistics Singapore Newsletter (SSN), Issue 1, 2023.</li>
-    <li>DOS (2022), “Using Big Data to Profile Singapore’s Internet Economy” in Statistics Singapore Newsletter (SSN), Issue 2, 2022.</li>
-    <li>AI Trailblazers is a joint initiative by Ministry of Communications and Information, Digital Industry Singapore, Smart Nation and Digital Government Office, and Google Cloud. It helps organisations in Singapore identify real-world challenges that can be addressed with generative AI, build generative AI solution prototypes, and bring these prototypes to production.</li>
-    <li>DOS (2021), “Coding of SSOC/ SSIC in Census 2020 using Machine Learning” in Statistics Singapore Newsletter (SSN), Issue 2, 2021.</li>
+    <li>Employment Trends During the COVID-19 Pandemic, Box Article 1.1, Economic Survey of Singapore Third Quarter 2021, Ministry of Trade and Industry, Singapore.</li>
+    <li>Michelle Toh, “300 million jobs could be affected by latest wave of AI, says Goldman Sachs”, CNN, 29 March 2023.</li>
+    <li>The term "zero trust" is borrowed from the cybersecurity paradigm that assumes that an attacker is present in the computing environment. "Zero trust" in the info ecosystem assumes that all actors, information, networks etc in an information environment are hostile.</li>
 </ol>
 
 
+
 	
 	
 	
+</div>
+
+
+
+
+
+<br><br>
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>
 </div>
