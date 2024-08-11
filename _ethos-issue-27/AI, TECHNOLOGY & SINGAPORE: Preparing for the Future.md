@@ -74,27 +74,15 @@ line-height:22px;
 
 .containerbox
 {
-background-color: #101c44;
+background-color: #abe1fa;
 padding: 40px;
-margin-top: 30px;
-color: black;
 }	
 	
-.dice  {
-color: white;
-font-size: 32px;
+	
+.containerbox {
+color:black;	
 }
 	
-.dices  {
-color: white;
-font-size: 24px;
-}	
-	
-.containerbox p {
-color:white	
-}
-	
-
 	
 .containerbox a
 {
@@ -108,9 +96,25 @@ color:white
 	line-height:20px;
 }
 	
-h3 {
-color:#049c8c;
+
+.scenario {
+font-weight:bold;	
+color: #008dae;
+}	
+	
+.title {
+font-weight:bold;	
+color: #008dae;
 }
+	
+.sub {
+font-weight:bold;
+border-left: 3px solid #008dae;
+padding-left:0.5vw;
+}	
+	
+
+	
 	
 	
 </style>
@@ -165,7 +169,7 @@ color:#049c8c;
 
 <p>This is particularly worrying for Singapore as a small player. The geopolitical playing field in the digital domain often maps onto global military might, yet players such as the Lazarus Group of hackers show that there is power in pure digital sophistication. Non-state actors that dominate the digital realm add complexity as they are less bound to international laws and norms.</p>
 
-<p>With security concerns at the core, global powers have strongly exerted economic influence on each other in the technology domain. The US effort to contain China’s growth will continue, as international moves to decouple supply chains accelerates. The world recognises the risk of concentrating advanced chip manufacturing in Taiwan’s TSMC; the US CHIPS Act and other moves to contain China have been met without much international protest, with some US allies like Japan and the Netherlands announcing their own export controls. Singapore may have to compromise on its geopolitical wiggle room to maintain access to technology and capabilities.</p>
+<p><b>With security concerns at the core, global powers have strongly exerted economic influence on each other in the technology domain.</b> The US effort to contain China’s growth will continue, as international moves to decouple supply chains accelerates. The world recognises the risk of concentrating advanced chip manufacturing in Taiwan’s TSMC; the US CHIPS Act and other moves to contain China have been met without much international protest, with some US allies like Japan and the Netherlands announcing their own export controls. <b>Singapore may have to compromise on its geopolitical wiggle room to maintain access to technology and capabilities.</b></p>
 
 <h3>Three Scenarios for Singapore Tomorrow</h3>
 
@@ -179,23 +183,37 @@ color:#049c8c;
 
 
 
+<div class="containerbox">
+
+<span class="scenario">SCENARIO 1</span>
+<p class="title">People Interrupted</p>
 
 
+<p>2024 is the year things really start to change. One by one, states embark on ambitious AI strategies, Singapore among them. But the world moves faster than these strategies anticipate.
+<br><span class="sub">Internationally, Singapore is seen as a beacon of AI ambition.</span>	
+</p>
 
+<p>By 2025, knowledge workers across domains have been significantly displaced due to AI augmentation. Professionals from lawyers and brokers to management consultants face pay-cuts or layoffs. “Job redesign” becomes shorthand for being paid less to do less because of GenAI. Parents move their children to cheaper preschools, and new homeowners appeal for mortgage relief. Lower middle-income groups mock the newly displaced as complaining about “first world problems”. Consumer spending plummets.</p>
 
+<p>The Treasury finds it difficult to scope relief because employers are not fully transparent about job downsizing, and practices across the private sector are uneven. In the creative industry, well-established players become even more sought after while average creative workers compete with free GenAI output. Creatives regret never organising, like the American Writers Guild did in 2023. Some suggest providing universal support, but the system is internally conflicted about this move.</p>
 
-
-
-
-
-
-
-
-
-
-
+<p>Skills development agencies ramp up upskilling opportunities, introducing more subsidies and facilitating job-matching. But those that can afford to upskill find it difficult to enrol in the limited courses available, and many courses cannot keep up with the breakneck speed of AI innovation. Skills in new growth areas like AI, cybersecurity and data science are so specialised and require such deep knowledge and rapid upskilling that the majority cannot keep up.</p>
 	
-<p>In Singapore, the Department of Statistics (DOS) has adopted an approach towards AI that focuses on robust data governance, engages the workforce to upskill and harness AI effectively, and transforms statistical processes digitally to better address evolving needs for data.</p>
+	
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
