@@ -137,7 +137,7 @@ td
         <div><h3> AI, TECHNOLOGY &amp; SINGAPORE: Preparing for the Future</h3>
             <b><i>by Liana Tang</i></b>
             
-<p>Given economic, societal andvgeopolitical trends, the rise of AI mayvhave complex aftershocks that could challenge prevailing policy positions and assumptions.</p>	
+<p>Given economic, societal andvgeopolitical trends, the rise of AI may have complex aftershocks that could challenge prevailing policy positions and assumptions.</p>	
             
 <div class="button1"><a href="//">Read More</a></div><br></div>
     </div>	
