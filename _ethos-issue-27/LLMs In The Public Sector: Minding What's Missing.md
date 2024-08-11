@@ -160,175 +160,159 @@ benchmarks exist.</p>
 <p>As the use contexts for LLM summarisation increase, it is highly unlikely that we will be able to keep up in terms of validating the quality of the summarisation system in advance. We need a paradigm shift in thinking about validation: while we should always check as much as we can about a system in advance, we must prepare for a reality where users of LLM-based summarisation will need to validate the summaries at task-time, for their context and their specific set of inputs. We must develop interface design that supports task-time human inspection, especially at scale.<sup><a href="#notestop">6</a></sup></p>
 
 
+<h3>The Need for Task-Time Evaluation</h3>
 
+<p>The standard way to validate AI systems has been to test the system on some held-out data with gold-standard answers. The logic is that if an AI system performs well on these unseen queries, then it will likely perform well in real settings. When acquiring a new AI-based system, a government agency can and should run the system on some of its data to determine how well it performs. For example, in the context of information retrieval, one could create a test set of questions and answers drawn from a public agency’s specific intended purpose (for example, questions about policies for food and safety inspections). Next, one would check how well the LLM performs on these. This evaluation prior to deployment can tell us whether the system is likely to perform well on similar questions if put into use.</p>
+	
+	
+<p>That said, LLMs and other foundation models have ushered in a new era of challenges for vetting machine learning models. There are two key reasons for this.</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>Desire to participate in the AI revolution is not limited to high-income countries. Lower and middle-income countries are increasingly looking to bridge the digital divide and reap the benefits that AI promises. To date, more than 60 countries have launched their respective national AI strategies, with over 1,000 AI policy initiatives being curated by the OECD.<sup><a href="#notestop">6</a></sup></p>
-
-<p>Policymakers are coming to grips with AI’s revolutionary possibilities—from its versatility as a general-purpose technology to its potential to disrupt existing norms and forge new ‘operational logics’ guiding our societies. The challenge is to reimagine the state by steering AI development and adoption along multiple, concurrent dimensions vital to both present and future governance contexts: </p>
-
-
-
-<div class="containerbox">
-
-<ol class="numbered-squares">
-
-<li>In the <b>socio-economic landscape</b>, AI will drive productivity and faster critical innovations in the fields of education, healthcare and public services. At the same time, there are concerns that such change will come at the cost of increased job insecurity for some, as well as a growing digital divide</li>
-
-  
-
-<li>AI's <b>socio-political impact</b> will be felt most keenly through its ability to transform decision-making processes across all levels of society. Here are two areas of critical concern: the integrity and security of our information systems and the biases inherent in AI-driven decisions.</li>
-
-  
-
-<li>Approaches to <b>governance and regulation</b> will need to be multidisciplinary, to balance the vast potential of AI for public good with its inherent risks.</li>
-
-</ol>
-
-</div>
-
-
-
-
-
-
-
-
-
+<p>The first is due to the large surface of both their inputs and outputs. For example, a task like counting types of traffic through an intersection in video footage may seem complex because of the many appearances of people and their modes of locomotion, but there are still sensible ways to describe errors and predict a system’s responses ahead of deployment. When it comes to LLMs, however, it is likely impossible to describe all the types of documents a system may be asked to summarise, or all the kinds of ideas it may be asked to generate, in a way that would meaningfully anticipate its future performance. These models are also too big to interpret for global qualities (e.g., overall relying on the right features). Thus, our toolkit of ways to vet these models prior to deployment, including those involving human inspection of models and data, will fall short.</p>
+	
+	
+	
+<p>The second reason is the expansion of tasks that LLMs and other foundation models can support. Indeed, one of the draws of LLMs for public sector uses is that they often do not require much fine-tuning or additional training. With a bit of prompt engineering, LLMs seem to be able to summarise meeting minutes for any kind of meeting, synthesise documents from any unit, identify the common themes in any set of reports or comments. We can apply them to many tasks, much more easily than other AI systems.</p>
 
 
 <div class="break">
-<p class="break1">Governments must act swiftly to harness the potential of AI as a social-levelling tool to narrow the digital divide.</p>
+<p class="break1">There will be many more
+situations for which
+the correctness of a
+summarisation output is
+dominated by user and task
+specific considerations.</p>
+
+</div>	
+
+
+<p>However, this also means that there will be many more situations for which the correctness of a summarisation output is dominated by user and task specific considerations, making it difficult to validate the system in advance. What a specific user considers a useful response will depend on their values, perspectives, contexts, goals, and preferences.<sup><a href="#notestop">7</a></sup>Just because one user believes that an input-output pair is of high quality does not mean another user will agree.</p>
+
+<p>This issue is further compounded because it may be difficult for a user to specify exactly what type of summary they want in a way that is sufficiently precise to the LLM. The user may also not know exactly what they require in advance. Their goals may be evolving as they learn more about the context and the data.<sup><a href="#notestop">8</a></sup> For example, a government official may first use an LLM to identify common patterns in traffic incidents, then refine their investigation to whether the types of incidents that occur around rush hour are different than those that occur late at night.</p>
+	
+	
+	
+<p>These challenges call for a fundamental shift in how government officials approach validation in LLMs and other foundation models. While prior testing of these models will continue to be important—for example, one might test to see if an LLM produces reasonable summaries of case notes for a social worker—such tests can only be used to flag problems. If a model does poorly on these initial tests, we should be concerned about its performance if deployed. But if it passes these tests, we cannot then be confident in its performance once deployed.</p>
+
+	
+<p>How then do we use LLMs with confidence? We need ways to vet these systems at task-time, while users are working in their own contexts on tasks that matter to them. A small group of engineers and domain experts can no longer vet the system for most errors in advance. Instead, workflows and interfaces must be designed and built that empower users to efficiently and accurately determine whether the output created in response to their specific input is in accordance with their needs and values.<sup><a href="#notestop">9</a></sup></p>
+
+
+<div class="break">
+<p class="break1">It may be difficult for a user to specify exactly what type of summary they want in a way that is sufficiently precise to the LLM.</p>
 
 </div>	
 
 
 
-<p>Alongside the use of AI to enable socio-economic development, there is also a growing interest in using AI to tackle <b>societal, developmental, and environmental challenges.</b> The innovative use of AI promises to help advance Sustainable Development Goals:<sup><a href="#notestop">17</a></sup> from using cognitive digital technologies to improve diagnostic capabilities in health, to improving financial inclusion for women, to enhancing disaster response with more accurate forecasting and real-time date analysis, among many other applications.</p>
-	
-<p>The adoption of <b>AI in the public sector</b> to improve service delivery for citizens, deliver greater public value and promote societal inclusion is high on the agenda of some governments. For example: </p>
+<p>Users will need to play a part in contextually evaluating responses—not on behalf of the system designer, but for their own benefit.<sup><a href="#notestop">10</a></sup> At the same time, system and evaluation designers must work to ensure that the system (1) has minimal negative impact on users if it outputs information or summaries that do not match the user’s contexts, preferences, and goals and (2) supports user in creating an accurate mental modelling of what the AI system is doing for their context.</p>
 
 
-<ul>
-	
-<li>Singapore’s National AI Strategy 2.0 (2023) aims to improve public service productivity with new value propositions for citizens_</li>	
-
-	
-<li>Canada’s AI Strategy (2017) ambition is to advance equity, diversity and inclusion in the Canadian AI ecosystem and globally, and to ensure that AI is developed and deployed to the benefit of all citizens of the world</li>	
-	
-
-<li>South Korea’s AI Strategy (2019) seeks to improve happiness of people and quality of life, and to respond proactively to social changes including job markets</li>	
-	
-<li>The United Kingdom’s National AI Strategy (2021) wants to ensure that AI benefits all sectors and regions, and to establish the public sector as an exemplar for AI procurement and ethics, in order to deliver greater public value for money
-	
-</li></ul>	
-
-<p>Nevertheless, AI use has yet to become mainstream in many governments. A good  first step would be to equip civil servants with the right tools and environment for responsible experimentation, to help build institutional knowledge and practical understanding to better inform AI governance. Consider the example of ChatGPT: in its early days, countries like Italy banned it outright; schools in several countries prohibited its use. But the city of Boston chose to embrace it instead. They issued guidelines encouraging staff to experiment with generative AI to understand its potential, emphasising privacy, security, and public purpose. By shifting the focus from just governing the technology to using the technology for governance, Boston eventually reduced the initial alarmism and highlighted AI’s potential for social good. <sup><a href="#notestop">18</a></sup></p>
 
 
-<h3>AI's Socio-Political Dimension</h3>
 
-<p>AI is reshaping decision-making processes across different verticals in society and is thus increasingly becoming a focal point for political and security considerations. Two main concerns arise from this: the first is to do with <b>integrity of the information ecosystem,</b> and the second involves <b>biases that accompany AI-enabled decision-making.</b></p>
-
-
-<p>With the capacity to reveal hidden variables and suggest potential correlations or causal relationships, AIdriven analytics can aid fraud detection, optimise resource allocation, and support more informed decision-making across different government functions. To support this, the Canadian government, for instance, has implemented a ‘Directive on Automated Decision-MakingSystems’ <sup><a href="#notestop">19</a></sup> and created a ‘Pre-qualified AI Vendor Procurement Program’ <sup><a href="#notestop">20</a></sup>to improve the accountability of AI tools utilised by government agencies.</p>
+<p>The idea of having to validate a system at task time is not new. For example, consider how we currently handle suspicious emails, text messages, or phone calls. While some messages may automatically go to a spam folder, others are tagged as potentially spam. This encourages the user to pay more attention to that specific message or call—a form of tasktime facilitation—but leaves the final decision of how to treat the message up to the user. This approach acknowledges that spam-detection systems cannot be fully vetted in advance. In the same way, spell and grammar checking systems do not automatically change potentially incorrect text for you; they highlight potential errors and posit suggestions</p>
 
 
-<p>However, the same AI capabilities that streamline information processing could be misused to corrupt the decision-making process, particularly by manipulating public opinion or spreading disinformation. While disinformation is not a new phenomenon, the application of AI has greatly increased the scale and speed of its spread, surpassing the pace at which policymakers can effectively cope. AI-generated fake news and deepfakes are becoming increasingly sophisticated, complicating the ability of individuals to differentiate between authentic and disingenuous content. The rapid creation and dissemination of AI generated
-disinformation exploits preexisting societal fault-lines, each of which presents bad actors with an opportunity to accentuate differences and minimise similarities, thereby deepening divisions and eroding trust.<sup><a href="#notestop">21</a></sup>
-	
-</p><p>While AI can indeed enhance decisionmaking, such capabilities also carry significant risk of biases that stem from skewed data sets and algorithms. Consider the example of COMPAS, an AI tool used to make decisions in the American criminal justice system which has been shown to exhibit racial biases, leading claims that its victims _have been ‘set up for a lifetime of biased assessment’.<sup><a href="#notestop">22</a></sup> Biased AI might not be immediately apparent, but its impacts are profound: it can skew the perceived problem and solutions, leading to outcomes that are suboptimal. For policymakers, biases within AI could mean wrongly perceiving the needs and concerns of the populace, leading to policies that miss their mark—thereby eroding trust in public institutions or policy processes.</p>
+<p>The core challenge, when it comes to applying these ideas to using LLMs for summarisation, is how to make this process of task-time validation sufficiently easy. Underlining a supposedly misspelled word adds very little burden for great benefit. What is the equivalent of that for LLMs?</p>
 
+
+<h3>Mitigating the Risks of the Missing</h3>
+
+
+<p>In general, irrelevant information or poorly aligned ideas that are surfaced by the LLM might be an annoyance but are easily disregarded.11 However, what is not surfaced by the LLM can cause much larger issues. For instance, if a case worker uses a summary to quickly check for a person’s relevant history, and the summary excludes the fact they are supporting a relative with a severe chronic condition, then incorrect presumptions might be made about the person’s available time and finances. Automated meeting minutes may leave out important minority viewpoints, and then those viewpoints will be lost to everyone who only looks at the summary. To effectively use LLMs for summarisation and ideation, we need ways of identifying the missing, at task-time.</p>
 
 
 <div class="break">
-<p class="break1">Biases within AI could mean wrongly perceiving the needs and concerns of the populace, leading to policies that miss their mark.</p>
+<p class="break1">Irrelevant information or poorly aligned ideas are easily disregarded. What is not surfaced by an LLM can cause much larger issues.</p>
 
 </div>	
 
 
-<p>Faced with these challenges, policymakers must not only respond to present challenges but also anticipate the future implications of integrating AI more deeply within the sociopolitical sphere. National AI strategies should be conceptualised as dynamic frameworks that evolve with the operational milieu rather than remain static in the context in which they were originally formulated. As information ecosystems evolve, so too must the strategies and policy frameworks that support them</p>
+
+<h4><i>Addressing what’s missing in summarisation</i></h4>
+
+<p>For summarisation, we do know exactly what the complete information is: it is everything the user has provided to the LLM to summarise. Thus, defining what has been left out is relatively clear: it is all the information that is in the documents but not in the summary.</p>
+
+<p>The question is, of all the things that we know have been left out by the summary, what may have been left out inappropriately? Only the human user during task time can fully answer that question, given their context and goals, and yet the full information is too large for someone to go through and check.<sup><a href="#notestop">12</a></sup></p>
 
 
-<div class="break">
-<p class="break1">
-National AI strategies should be conceptualised as dynamic frameworks that evolve with the operational milieu rather than remain static.</p>
-</div>	
+<p>One approach to resolve this could be to <b>summarise what has been left out</b>, with the goal of helping the user efficiently identify information that they might have wanted but the original summary did not include. However, the designer must then consider how to help the user notice and recover when the system is confidently wrong about what it left out.<sup><a href="#notestop">13</a></sup></p>
 
 
-<h3> AI Governance and Regulation </h3>
-
-<p> As governments race to harness AI’s power, they must also establish clear guidelines to manage the dual-use nature of AI—both its vast potential for public good and its capacity to amplify negative outcomes—to ensure that its capabilities are directed towards societal benefit. Good AI governance should not be perceived as a handbrake on the path to progress. Instead, it is the opposite: a steering wheel that enables us to drive digital transformation at speed and scale, while supporting the development of appropriate guardrails.</p>
-
-<p>Developing such oversight mechanisms can be tricky. Policymakers are not wrong to see the need to balance innovation with regulation, but it is not a question of what but how. Approaches to AI oversight commonly reference the need for ‘adaptable frameworks that keep pace with the rapid pace of AI development’ (e.g. the UK <sup><a href="#notestop">23</a></sup> and Singapore <sup><a href="#notestop">24</a></sup>), or to embed AI models with certain 'values' or ethical considerations (e.g. the United States<sup><a href="#notestop">25</a></sup> and the Netherlands<sup><a href="#notestop">26</a></sup>), or to ensure that AI-based decision-making is 'transparent' and auditable (e.g. Spain <sup><a href="#notestop">27</a></sup> and Canada<sup><a href="#notestop">28</a></sup>)</p>
-
-<p>As any experienced policymaker can attest, the distinction between acting as a gatekeeper and serving as a facilitator is often a subtle yet profoundly significant one. Broader regulations can encompass a wide range of issues but may lack necessary precision, while narrower regulations can address specific problems more effectively but risk being outdated quickly or missing broader implications. Most AI regulation at present tends to be sector-specific and often voluntary in nature—leading to questions about their actual efficacy.</p>
+<p>A possibly more robust approach could be <b>to organise and render the excluded information so that users are more likely to notice and discern patterns in the left-out data</b>. To do this, we might use tools and techniques from data visualisation, clustering, and theories of human concept learning<sup><a href="#notestop">14</a></sup> to enable a user to quickly skim large amounts of data. For example, clustering parts of public comments that an LLM did not include in a summary might help a government official quickly realise that many clusters are indeed irrelevant (e.g. variants of salutation text) but some should not have been excluded (e.g. a pattern around issues caretakers face that seemed too disparate for the LLM to correctly synthesise).</p>
 
 
-<p>The current impulse of AI governance and regulation involves commitment_
-to high-level ‘motherhood’ principles: virtually nobody will disagree with the need to ensure that AI is ‘fair’, or that it must respect ‘human privacy and dignity’. While such principles may easily fetch consensus, efforts to embed them into AI development beg the question: whose values? Most people will agree on the sanctity of human life (a high-level principle), yet such consensus does not resolve implementation-level dilemmas such as: ‘Should a self-driving car kill the baby or the grandma’?<sup><a href="#notestop">29</a></sup> Modern societies, even culturally homogenous ones, are rarely of a singular mind.</p>
-
-<p>Although the challenges posed by AI are complex, they are not insurmountable,_
-and certainly do not leave policymakers short of practical solutions. For instance, although it does not constitute an AI strategy itself, the European Union's General Data Protection Regulation(GDPR) sets a precedent for data privacy and protection and offers a foundation for ensuring that AI systems operate transparently and ethically.</p>
-
-
-<div class="break">
-<p class="break1">The distinction between acting as a gatekeeper and serving as a facilitator is often a subtle yet profoundly significant one.</p>
-</div>	
-
-
-
-<p>At its core, the AI governance and regulation challenge is a multidisciplinary one, and any proposed approach should reflect this. A robust starting point for AI governance and regulation harnesses the collective expertise of government, academia, and industry— what is sometimes called a 'triple-helix partnership'.<sup><a href="#notestop">30</a></sup> Policymakers provide regulatory insights, scholars from both the natural and social sciences offer technical knowledge and societal perspectives, and industry leaders contribute innovation and practical experience. To be clear, this collaborative synergy is not a panacea for the challenges associated with AI governance and regulation. It does, however, help to ensures that policies are more comprehensive, balanced, and equipped to address the multifaceted impacts of AI across all sectors of society.</p>
+<p>The user could also interact with this rendering to ask for the missing to be sliced in certain ways, e.g. to show all information deemed irrelevant that referenced a particular aspect of a regulation, to specifically check if the original summary was sufficiently complete. These tools for rendering missing information can be built in-house by the government unit or requested when an LLM-based tool is purchased. Either way, such tools are needed for government officials and citizens to use LLMs responsibly.</p>
 
 
 
 <div class="break">
-<p class="break1"> The AI governance and regulation challenge is a multidisciplinary one, and any proposed approach should reflect this.</p>
+<p class="break1">The question is, of all
+the things that we know
+have been left out by
+the summary, what
+may have been left out
+inappropriately?</p>
+
 </div>	
 
 
-<p>We must acknowledge that human decision-making also has its own set of limitations. Cognitive bias, opacity, and inconsistency plague decision-making at the individual level, while challenges such as groupthink exist at the group level. In many cases, the yardstick for evaluating an AI system should move beyond a ‘good vs. bad’ dichotomy, to consider whether it improves existing decision-making processes along relevant dimensions such as efficiency, transparency, and fairness. The integration of AI should be viewed as an opportunity to enhance and refine decision-making, where technology is leveraged to fill the gaps left by human limitation, while still maintaining ethical and equitable standards aligned with the values of those impacted by AI.</p>
-
-<h3>Pathways Toward a Global Consensus</h3>
-
-<p>AI’s effects are not limited to national borders. AI services deployed by multinational companies are already global in reach. International collaboration will inform a large part of national AI strategy setting. Countries can benefit massively from the exchange of information and sharing best practices with each other, which will in turn enable them to better align with international norms and standards. This could increase the interoperability of national AI ecosystems, affording governments better risk management options.</p>
 
 
-<p>However, the current landscape is fragmented, and global AI governance is often clustered with its thematic cousin—global digital governance—despite being distinct from it.<sup><a href="#notestop">31</a></sup> To date, there are more than 10 global AI governance initiatives and over 25 sets of AI principles in circulation worldwide. The proliferation of AI governance principles could make it more challenging for resource-poor countries to meaningfully participate in AI development and adoption, deepening the global digital divide.<sup><a href="#notestop">32</a></sup></p>
+
+<h4><i>Addressing what’s missing in ideation</i></h4>
+
+<p>While in summarisation we have a clear sense of what is being left out, for ideation it is less clear how to imagine what ideas are being excluded. Particularly when LLMs are trained with data largely from non-local contexts, there may be gaps in the kinds of suggestions it may provide. Nevertheless, there are still some concrete ways forward.</p>
 
 
-<p>To be clear, it is highly unlikely that a unified global model of AI governance will be achieved anytime soon. That said, it may be possible to achieve some degree of harmonisation for global AI governance—a new form of ‘integrated internet internationalism’.<sup><a href="#notestop">33</a></sup> A multipartite partnership approach could foster greater coherence in AI policies among countries worldwide and also amplify the collective global capacity to manage AI’s far-reaching implications.<sup><a href="#notestop">34</a></sup> The private sector could leverage their technical expertise to help governments worldwide collectively navigate and address the ethical, operational, and strategic challenges posed by AI, strengthening global AI governance efforts.<sup><a href="#notestop">35</a></sup>
 
-	</p><div class="break">
-<p class="break1">The yardstick for evaluating an AI system should move beyond a ‘good vs. bad’ dichotomy, to consider whether it improves existing decision-making processes.</p>
-</div>
-	
-<p></p><h3>Conclusion</h3>
+<p>For example, one can <b>group the different ideas generated</b> to help the user (1) recognise additional ideas within existing clusters and (2) imagine ideas that go beyond the existing clusters. If an LLM is used to imagine ways to improve the efficiency of services, and the generated ideas cluster around streamlining forms and processing payments, then that may help a user realise that LLM is not outputting ideas related to other aspects that may matter, such as access to transport for physical meetings.</p>
 
-<p>AI is a multi-faceted domain, yet this need not deter policymakers. Effective interventions in each of the three dimensions—socio-economic impact, socio-political considerations, and governance and regulation—can help ensure AI delivers on its promise of innovation and societal benefit. The challenge now lies in transforming the strategic ingredients into a cohesive and successful AI ecosystem—proving the value of AI by realising its implementation in thoughtful and inclusive ways.</p>
+
+<div class="break">
+<p class="break1">When LLMs are trained with data largely from non-local contexts, there may be gaps in the kinds of suggestions it may provide.</p>
+
+</div>	
+
+
+
+<p>Ideas can also be <b>clustered along known factors</b> (e.g. risk, cost, fun, or value to certain constituencies) to reveal what types of ideas are more or less common. This process could help a user realise that all the ideas for improving traffic safety are very costly or are relevant only for certain parts of the city, providing the opportunity to prompt the LLM or consider independently less costly solutions or solutions for other parts of the city.</p>
+
+<p>Finally, as these systems evolve, there may be more technical solutions <b>for the LLM to itself expose what parts of representation space it is and is not surfacing</b> in a way that aligns with what the user’s way of thinking about the problem.</p>
+
+
+
+
+<h4><i>Accounting for missing voices</i></h4>
+
+
+
+<p>Beyond focusing on what is missing from a summary or set of ideas in terms of content, an important category to consider in government work is that of missing voices. This is especially important in the context of leaving out information or opportunities that are relevant to marginalised communities.</p>
+
+
+<p>For certain common types of categories, such as culture or political leaning, we may be able to use other text to at least classify the ideas and information. In doing so, we could highlight if a summary includes voices from a certain group and not others, or that the ideas all share a certain political perspective.</p>
+
+
+<p>That said, such approach may still be imperfect. Even when subgroups of interest are reasonably clearly defined, such as by gender or ethnicity, it may not be possible to accurately make those determinations based on just the text provided. Not everyone from one community writes in a particular way, and the relevant communities may vary significantly between settings. Clustering-type approaches that can help identify the missing in ideation may also be useful. Ultimately, there may need to be checks by diverse teams and different stakeholders to ensure that certain voices are not being systematically left out.</p>
+
+
+
+<h3>Conclusion</h3>
+
+<p>The need for task-time human evaluation (and possible corrective feedback or tuning in the moment) has always existed with AI systems. However, with prior AI systems significant evaluation could be done in advance. At present, large-surface AI systems, including versatile LLMs, are increasingly being applied to tasks in which user context is a dominant factor. In the case of both summarisation and ideation, the tasks are not completely specified (e.g., what exactly is the summary or set of ideas for?) nor can the user’s particular context, preferences, and values ever be fully transparent to the system. For very specific use cases, such as using LLMs to produce summaries of highly procedural court proceedings, the output could become trustworthy given enough testing and design iteration. However, for the many general situations in which LLMs are being used—even case reports, public comments and meeting minutes change across time and context—it is highly unlikely that we will be able to certify an LLM as being a “good” summariser or idea generator ahead of actual use. Therefore, we must presume that the system will be imperfect and provide the user with the tools to vet the quality of LLM output at task-time.15 As LLM technologies mature, more categories of use cases will appear. These use cases may have different qualities but will share this quality of needing tools to help the user evaluate the output in the context of their specific task.</p>
+
+<p>Accurate references—that is, making sure that the LLM is not hallucinating information—will remain important, but attention must also be given to what the LLM output leaves out. Through a better understanding of what the LLM output is missing, a user will be able to leverage the imperfect system to get farther still towards what they want as a final outcome than they could have on their own.</p>
+
+
+
 
 
 <div class="author">
 <h6>ABOUT THE AUTHORS</h6>	
-<p><b>Kenddrick Chan</b> is Senior Policy Analyst at the Tony Blair Institute for Global Change, where he conducts policy-relevant research on the intersection of technology, geopolitics, and international development. He is also a member of the United Nations ESCAP Informal Working Group on sustainable digital transformation in the Asia-Pacific region and was previously a G20 delegate at the Think20 for India's G20 presidency.</p>
+	<p><b>Finale Doshi-Velez</b> is Herchel Smith Professor in Computer Science at the Harvard Paulson School of Engineering and Applied Sciences. Her work focuses on interpretability, probabilistic modelling, and decision-making for effective human+AI teaming in health applications and beyond..</p>
 	
 	
-<p><b>PeiChin Tay</b> specialises in the fields of future of work, AI and public sector transformation at the Tony Blair Institute for Global Change. Prior to this, PeiChin led and delivered multi-million-dollar national and regional programmes, such as the flagship London Mayor's Digital Talent programme, a pan-European consortium on design innovation at Design Council UK, and an entrepreneurship project in the Government of Singapore. She contributes regularly to high-level working groups (UN), conferences and events (OECD, World Bank, Asia Tech X, IGF).</p>	
+<p><b>Elena L. Glassman</b> is an Assistant Professor in Computer Science at the Harvard Paulson School of Engineering and Applied Sciences. Her work focuses on creating tools that augment human sensemaking and human- computer collaboration, including for outputs of large language models.</p>	
 	
 	
 </div>
@@ -339,41 +323,32 @@ and certainly do not leave policymakers short of practical solutions. For instan
 <h6>NOTES</h6>
 
 <ol>
-<li><a href="https://www.cnbc.com/2017/07/21/china-ai-world-leader-by-2030.html#:~:text=China%20laid%20out%20plans%20to,the%20military%20to%20smart%20cities.">https://www.cnbc.com/2017/07/21/china-ai-world-leader-by-2030.html#:~:text=China%20laid%20out%20plans%20to,the%20military%20to%20smart%20cities.</a></li>
-    <li><a href="https://ai.gov.ae/wp-content/uploads/2021/07/UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf">https://ai.gov.ae/wp-content/uploads/2021/07/UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf</a></li>
-    <li><a href="https://mission-ki.de/en/">https://mission-ki.de/en/</a></li>
-    <li><a href="https://www.nordicinnovation.org/news/new-expert-group-will-make-nordics-leading-region-ethical-ai">https://www.nordicinnovation.org/news/new-expert-group-will-make-nordics-leading-region-ethical-ai</a></li>
-    <li><a href="https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-letsmake-sure-it-benefits-humanity">https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-letsmake-sure-it-benefits-humanity</a></li>
-    <li><a href="https://oecd.ai/en/dashboards/overview">https://oecd.ai/en/dashboards/overview</a></li>
-    <li><a href="https://goingdigital.oecd.org/data/notes/No14_ToolkitNote_AIStrategies.pdf">https://goingdigital.oecd.org/data/notes/No14_ToolkitNote_AIStrategies.pdf</a></li>
-    <li><a href="https://www.institute.global/insights/tech-and-digitalisation/from-strategy-to-synergy-what-can-we-learn-from-singapores-ai-journey#footnote_list_item_9">https://www.institute.global/insights/tech-and-digitalisation/from-strategy-to-synergy-what-can-we-learn-from-singapores-ai-journey#footnote_list_item_9</a></li>
-    <li><a href="https://www.institute.global/insights/economic-prosperity/accelerating-the-future-industrialstrategy-in-the-era-of-ai">https://www.institute.global/insights/economic-prosperity/accelerating-the-future-industrialstrategy-in-the-era-of-ai</a></li>
-    <li><a href="https://www.imf.org/en/Publications/fandd/issues/2023/12/Macroeconomics-of-artificialintelligence-Brynjolfsson-Unger">https://www.imf.org/en/Publications/fandd/issues/2023/12/Macroeconomics-of-artificialintelligence-Brynjolfsson-Unger</a></li>
-<li><a href="https://www.nber.org/papers/w31161">https://www.nber.org/papers/w31161</a></li>
-<li>Pair Chatbot is an experimental AI bot that will allow the secure and efficient use of large language models as a writing assistant within the government space.</li>
-   <li>Transcribe is a secured Speech-to-Text (STT) platform with auto-transcription technologies that can be used to produce transcripts of interviews, speeches and meeting minutes, and was developed for the Singapore government.</li>
-    <li><a href="https://www.ft.com/content/8f7b9b52-9243-4c34-af80-223522273ab4">https://www.ft.com/content/8f7b9b52-9243-4c34-af80-223522273ab4</a></li>
-    <li><a href="https://www.khanmigo.ai/">https://www.khanmigo.ai/</a></li>
-    <li><a href="https://www.weforum.org/agenda/2023/05/ai-skills-gaps-future-jobs/">https://www.weforum.org/agenda/2023/05/ai-skills-gaps-future-jobs/</a></li>
-    <li><a href="https://repository.unescap.org/bitstream/handle/20.500.12870/6810/ESCAP-2024-FS-Seizing-Opportunity.pdf?sequence=3&amp;isAllowed=y">https://repository.unescap.org/bitstream/handle/20.500.12870/6810/ESCAP-2024-FS-Seizing-Opportunity.pdf?sequence=3&amp;isAllowed=y</a></li>
-    <li><a href="https://www.wired.com/story/boston-generative-ai-policy/">https://www.wired.com/story/boston-generative-ai-policy/</a></li>
-    <li><a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592">https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592</a></li>
-    <li><a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html">https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/list-interested-artificial-intelligence-ai-suppliers.html</a></li>
-    <li>Several countries have implemented counter-disinformation initiatives to combat the spread of online disinformation in areas of public interest, such as the UK government’s National Security Online Information Team (NSOIT) unit.</li>
-    <li><a href="https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/">https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/</a></li>
-    <li><a href="https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals/outcome/a-pro-innovation-approach-to-ai-regulation-government-response">https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals/outcome/a-pro-innovation-approach-to-ai-regulation-government-response</a></li>
-    <li><a href="https://file.go.gov.sg/nais2023.pdf">https://file.go.gov.sg/nais2023.pdf</a></li>
-    <li><a href="https://asiatimes.com/2023/11/us-stresses-ethical-ai-use-in-its-latest-strategy">https://asiatimes.com/2023/11/us-stresses-ethical-ai-use-in-its-latest-strategy</a></li>
-    <li><a href="https://data-en-maatschappij.ai/en/policy-monitor/nederland-impact-assessment-mensenrechtenen-algoritmes">https://data-en-maatschappij.ai/en/policy-monitor/nederland-impact-assessment-mensenrechtenen-algoritmes</a></li>
-    <li><a href="https://www.dataguidance.com/opinion/spain-agency-supervision-ai-overview">https://www.dataguidance.com/opinion/spain-agency-supervision-ai-overview</a></li>
-    <li><a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592">https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592</a></li>
-    <li><a href="https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/">https://www.technologyreview.com/2018/10/24/139313/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/</a></li>
-    <li>For instance, Singapore has adopted a model, with the Government as ecosystem enabler, that convenes the research community, industry and public agencies to facilitate research collaborations, quickly commercialise fundamental AI research, and rapidly deploy AI solutions.</li>
-    <li><a href="https://eprints.lse.ac.uk/119637/1/Chan_multilateralism_in_the_digital_age_published.pdf">https://eprints.lse.ac.uk/119637/1/Chan_multilateralism_in_the_digital_age_published.pdf</a></li>
-    <li><a href="https://www.institute.global/insights/tech-and-digitalisation/state-of-compute-access-how-to-bridge-the-new-digital-divide">https://www.institute.global/insights/tech-and-digitalisation/state-of-compute-access-how-to-bridge-the-new-digital-divide</a></li>
-    <li><a href="https://www.orfonline.org/wp-content/uploads/2023/08/TF7_InternetInternationalism.pdf">https://www.orfonline.org/wp-content/uploads/2023/08/TF7_InternetInternationalism.pdf</a></li>
-    <li><a href="https://www.smehorizon.com/singapore-sets-her-sights-on-being-a-global-hub-for-ai-solutions/">https://www.smehorizon.com/singapore-sets-her-sights-on-being-a-global-hub-for-ai-solutions/</a></li>
-    <li><a href="https://eprints.lse.ac.uk/121603/1/Alden_et_al_Global_Digital_Governance_policy_brief.pdf">https://eprints.lse.ac.uk/121603/1/Alden_et_al_Global_Digital_Governance_policy_brief.pdf</a></li>
+    <li>For example, Singapore’s Pairsearch; see: 
+        <a href="https://hack.gov.sg/hack-for-public-good-2024/2024-projects/pairsearch/">https://hack.gov.sg/hack-for-public-good-2024/2024-projects/pairsearch/</a>
+    </li>
+    <li>For example, CommunityPulse; see: Mahmood Jasim, Enamul Hoque, Ali Sarvghad, and Narges Mahyar. 2021. Community-Pulse: Facilitating Community Input Analysis by Surfacing Hidden Insights, Reflections, and Priorities. In Proceedings of the 2021 ACM Designing Interactive Systems Conference (Virtual Event, USA) (DIS ’21). Association for Computing Machinery, New York, NY, USA, 846–863. 
+        <a href="https://doi.org/10.1145/3461778.3462132">https://doi.org/10.1145/3461778.3462132</a>
+    </li>
+    <li>For example, PaTAT; see: Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, Yihao Meng, Elena L. Glassman, and Toby Jia-Jun Li. 2023. PaTAT: Human-AI Collaborative Qualitative Coding with Explainable Interactive Rule Synthesis. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23). Association for Computing Machinery, New York, NY, USA, Article 362, 19 pages. 
+        <a href="https://doi.org/10.1145/3544548.3581352">https://doi.org/10.1145/3544548.3581352</a>
+    </li>
+    <li>Also for example, Cody; see: Tim Rietz and Alexander Maedche. 2021. Cody: An AI-Based System to Semi-Automate Coding for Qualitative Research. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21). Association for Computing Machinery, New York, NY, USA, Article 394, 14 pages. 
+        <a href="https://doi.org/10.1145/3411764.3445591">https://doi.org/10.1145/3411764.3445591</a>
+    </li>
+    <li>For example, CaseText’s CoCounsel.</li>
+    <li>For example, MeetScript; see: Xinyue Chen, Shuo Li, Shipeng Liu, Robin Fowler, and Xu Wang. 2023. MeetScript: Designing Transcript-Based Interactions to Support Active Participation in Group Video Meetings. Proc. ACM Hum Comput Interact 7, CSCW2, Article 347 (Oct 2023), 32 pages. 
+        <a href="https://doi.org/10.1145/3610196">https://doi.org/10.1145/3610196</a>
+    </li>
+    <li>Katy Ilonka Gero, Chelse Swoopes, Ziwei Gu, Jonathan K Kummerfeld, and Elena L Glassman. 2024. Supporting Sensemaking of Large Language Model Outputs at Scale. ACM CHI (2024).</li>
+    <li>Glassman. 2023. Designing Interfaces for Human-Computer Communication: An On-Going Collection of Considerations. arXiv preprint arXiv:2309.02257 (2023).</li>
+    <li>Ibid.</li>
+    <li>Ziwei Gu, Ian Arawjo, Kenneth Li, Jonathan K. Kummerfeld, and Elena L. Glassman. 2024. An AI-Resilient Text Rendering Technique for Reading and Skimming Documents.</li>
+    <li>Perhaps but not necessarily captured for the training of a personalised version of the system.</li>
+    <li>Assuming that when summarising, the LLM can provide accurate references to where its output came from, that is, it is not hallucinating information. Many methods are being developed to trace the sources of LLM outputs.</li>
+    <li>See note 9.</li>
+    <li>Elena L Glassman and Jonathan K Kummerfeld. 2024. AI-Resilient Interfaces [Working Draft]. (2024).</li>
+    <li>Ference Marton. 2014. Necessary conditions of learning. Routledge.</li>
+    <li>See note 13.</li>
 </ol>
 
 	
