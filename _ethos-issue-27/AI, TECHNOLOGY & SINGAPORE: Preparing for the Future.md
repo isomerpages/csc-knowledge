@@ -87,7 +87,7 @@ color:black;
 .containerbox a
 {
 	text-decoration: none;
-	color:white;
+	color:#008dae;
 }	
 	
 .containerbox ol li
@@ -128,6 +128,8 @@ font-weight: bold;
 padding:10px;
 border-radius:10px;
 	}
+	
+
 	
 	
 	
@@ -232,7 +234,7 @@ Many thrive: innovators improving productivity in typically labour scarce sector
 	
 <span>POLICY QUESTIONS</span>	
 	
-<ol type="a">
+<ol style="list-style-type: upper-alpha;">
     <li>In the event of displacements or “job down-sizing,” how might employers be incentivised to cushion the negative impact on employees?</li>
     <li>Are our social safety nets resilient against prolonged job displacement, or mass job-downsizing, of white-collar workers?</li>
     <li>What traits and skills will help people thrive in such a future? How do we create the conditions for these traits to flourish among Singaporeans?</li>
@@ -245,6 +247,72 @@ Many thrive: innovators improving productivity in typically labour scarce sector
 	
 	
 </div>
+
+
+
+
+<br>
+
+
+<div class="containerbox">
+
+<span class="scenario">SCENARIO 2</span>
+	<p class="title">Zero Trust<sup><a href="#notestop">3</a></sup></p>
+	
+	
+<img src="/images/Ethos_Images/Ethos_Issue_27/Ai__Technology_and_Singapore1.png">	
+
+
+<p>2024 is the year things really start to change. One by one, states embark on ambitious AI strategies, Singapore among them. But the world moves faster than these strategies anticipate.
+<br><span class="sub">Internationally, Singapore is seen as a beacon of AI ambition.</span>	
+</p>
+
+<p>By 2025, knowledge workers across domains have been significantly displaced due to AI augmentation. Professionals from lawyers and brokers to management consultants face pay-cuts or layoffs. “Job redesign” becomes shorthand for being paid less to do less because of GenAI. Parents move their children to cheaper preschools, and new homeowners appeal for mortgage relief. Lower middle-income groups mock the newly displaced as complaining about “first world problems”. Consumer spending plummets. <br>
+<span class="sub">A new vulnerable group emerges: upper middle-class professionals </span><br> 
+<span class="sub">“Job redesign” means being paid less to do less</span></p>
+
+<p>The Treasury finds it difficult to scope relief because employers are not fully transparent about job downsizing, and practices across the private sector are uneven. In the creative industry, well-established players become even more sought after while average creative workers compete with free GenAI output. Creatives regret never organising, like the American Writers Guild did in 2023. Some suggest providing universal support, but the system is internally conflicted about this move. <br><span class="sub">New job “winners” emerge, often with no skills to do with AI; winner-takes-all dynamics play out across industries</span> </p>
+
+<p>Skills development agencies ramp up upskilling opportunities, introducing more subsidies and facilitating job-matching. But those that can afford to upskill find it difficult to enrol in the limited courses available, and many courses cannot keep up with the breakneck speed of AI innovation. Skills in new growth areas like AI, cybersecurity and data science are so specialised and require such deep knowledge and rapid upskilling that the majority cannot keep up. <br><span class="sub">Reskilling becomes more niche, but also too slow.</span></p>
+	
+<p> Some groups thrive. Employers value people who can understand and manipulate AI tools while managing human stakeholders. Surprisingly such people include graduates from all fields: STEM disciplines, the humanities, communications and the liberal arts. Educators attribute it to critical thinking, inter-personal skills, grit and creativity. The Education ministry embarks on a transformation effort. Independent schools with motivated teachers capitalise on GenAI tools to improve teaching and significantly enhance productivity. Healthcare experiences a boom in innovation, as do cyber-defence capabilities. <br><span class="sub"> 
+Many thrive: innovators improving productivity in typically labour scarce sectors such as healthcare, critical thinkers and relationship-builders, are among the winners.</span></p>
+	
+	
+<p>But the transformations in economy, skills and jobs come too slow for some. Many go without steady employment for months, even years. This group, with lofty aspirations and degrees, organise themselves politically; the opposition sees membership growth. Many of those displaced agitate for Universal Basic Income and Unemployment Insurance. Those with family abroad leave Singapore for good. Many struggle with competing caregiving demands, with both aged parents and young children. New forms of exploitation targeting the newly vulnerable emerge.<br><span class="sub"> People are exhausted from protracted financial precarity. Demands for new kinds of employment support emerge: unemployment insurance, universal basic income.</span></p>	
+	
+	
+<p>Civil service and political leadership are divided: no policy solutions, however improved, manage to address the aspirational needs of the broad middle. Government is increasingly criticised as being out of touch, especially as the Public Service remains one of the few job-secure sectors. Trust in government hits an all-time low.<br><span class="sub">Trust in government falls, and there is growing disdain for public servants and political leadership.</span></p>		
+	
+	
+<div class="policy">
+	
+<span>POLICY QUESTIONS</span>	
+	
+<ol style="list-style-type: upper-alpha;">
+    <li>In the event of displacements or “job down-sizing,” how might employers be incentivised to cushion the negative impact on employees?</li>
+    <li>Are our social safety nets resilient against prolonged job displacement, or mass job-downsizing, of white-collar workers?</li>
+    <li>What traits and skills will help people thrive in such a future? How do we create the conditions for these traits to flourish among Singaporeans?</li>
+    <li>As public servants continue to enjoy job security, how do we maintain the legitimacy of the public service if the general public faces a precarious employment outlook?</li>
+</ol>
+	
+	
+	
+</div>	
+	
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
