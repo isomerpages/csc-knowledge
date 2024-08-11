@@ -127,7 +127,7 @@ td
             
 <p>Leading researchers argue that users must be able to evaluate and tune AI outputs for their specific needs while using the technology, in order to mitigate some of its key limitations.</p>	
             
-<div class="button1"><a href="//">Read More</a></div><br></div>
+<div class="button1"><a href="/llms-in-the-public-sector-minding-what-s-missing/">Read More</a></div><br></div>
     </div>
 		
 		
@@ -139,7 +139,7 @@ td
             
 <p>Given economic, societal andvgeopolitical trends, the rise of AI may have complex aftershocks that could challenge prevailing policy positions and assumptions.</p>	
             
-<div class="button1"><a href="//">Read More</a></div><br></div>
+<div class="button1"><a href="/ai-technology-singapore-preparing-for-the-future/">Read More</a></div><br></div>
     </div>	
 
 		
@@ -153,7 +153,7 @@ td
             
 <p>Two leaders of Singapore’s AI push want public officers to be talking, tinkering and trying more to make things better using the new digital opportunities now available.</p>	
             
-<div class="button1"><a href="//">Read More</a></div><br></div>
+<div class="button1"><a href="/putting-our-feet-to-the-fire-the-challenge-of-nurturing-an-ai-ready-culture-in-the-public-service/">Read More</a></div><br></div>
     </div>	
 
 
