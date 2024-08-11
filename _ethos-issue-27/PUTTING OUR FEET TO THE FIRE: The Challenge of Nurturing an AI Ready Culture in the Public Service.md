@@ -297,17 +297,10 @@ border-radius:20px;
 
 <p>We also need to be sharing what we are tinkering with a lot better. This is both within the civil service as well as with our counterparts elsewhere. We also need to be much more collaborative, with industry and researchers inside Singapore, and like-minded partners around the world.</p>
 
-<p>Systemic impact will only come with time: this is a long-term and whole-of nation effort that we need to sustain across hype cycles. As a central agency,
+<p>Systemic impact will only come with time: this is a long-term and whole-of nation effort that we need to sustain across hype cycles. As a central agency, we see ourselves as conveners and enablers, helping to solve the common pain points and to bring people together to make it much easier to make meaningful progress.</p>
 
-_we see ourselves as conveners and_
 
-_enablers, helping to solve the common_
 
-_pain points and to bring people together_
-
-_to make it much easier to make_
-
-_meaningful progress._</p>
 
 
 
@@ -389,6 +382,13 @@ _meaningful progress._</p>
 <br>
 
 
+<p><b>Andrea Phua:</b> Because of our central role in this endeavour, we constantly see what other people are doing and feel anxious that we are not moving fast or far enough. Our concern is inertia within the system: that people take it for granted the old ways of doing things simply cannot or should not be changed. We then have a hunger problem and an imagination problem.</p> 
+	
+<p>AI and the digital world is a space where you cannot just look around your immediate surroundings and feel comfortable. You need to feel like you are about to get displaced or disrupted at any time. And that is not the typical mental model of government. So how do we put our collective feet to the fire and help us all understand the window of opportunity we have before us? </p>
+	
+<p>If I were to say one thing to our fellow public officers, it would be: don't dismiss it. It is easy to think that you’re fine just doing what you have always done, but the fact is that the impact of AI is coming: it is a matter of when, not if. And there is a lot of good that could be achieved with it.</p> 
+
+<p>The question then becomes what you will do with it. Any technology is a means to an end. This is an area where you have agency, and it is up to you to decide what to use AI for. We do not have to be afraid of this, and we do not need to be technologists to find meaningful ways to make things better using these new tools.</p>
 
 	
 
@@ -415,9 +415,7 @@ _meaningful progress._</p>
 <h6>NOTES</h6>
 
 <ol>
-    <li>Employment Trends During the COVID-19 Pandemic, Box Article 1.1, Economic Survey of Singapore Third Quarter 2021, Ministry of Trade and Industry, Singapore.</li>
-    <li>Michelle Toh, “300 million jobs could be affected by latest wave of AI, says Goldman Sachs”, CNN, 29 March 2023.</li>
-    <li>The term "zero trust" is borrowed from the cybersecurity paradigm that assumes that an attacker is present in the computing environment. "Zero trust" in the info ecosystem assumes that all actors, information, networks etc in an information environment are hostile.</li>
+	<li><a href="https://www.open.gov.sg/products/pair/">https://www.open.gov.sg/products/pair/</a></li>
 </ol>
 
 
