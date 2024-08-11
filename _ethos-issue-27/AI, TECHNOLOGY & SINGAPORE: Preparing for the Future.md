@@ -159,6 +159,29 @@ color:#049c8c;
 <p>We may soon operate in <b>an information ecosystem where most information is false or contains falsehood. Bad actors in this ecosystem can operate at scale, leading to a significant loss of trust in transacting online.</b> What do we need to do to ensure timely and accurate dissemination of important information? What new harms may emerge from GenAI and how should we protect people from them?</p>
 
 
+<h3>Driving Force 3: Superpowers in Motion</h3>
+
+<p>In the past decade, countries at the forefront of technological development or those controlling critical supply chains have been exerting greater international influence and leverage, accelerating economic competition and widening inequality between states. International cooperation has become ever more vital on many levels, from standards-setting to cybersecurity and regulating emerging technologies that often transcend national borders. At the same time, the digital domain remains a battlefield, from information and psychological warfare to state-sponsored hacking: now augmented by AI.</p>
+
+<p>This is particularly worrying for Singapore as a small player. The geopolitical playing field in the digital domain often maps onto global military might, yet players such as the Lazarus Group of hackers show that there is power in pure digital sophistication. Non-state actors that dominate the digital realm add complexity as they are less bound to international laws and norms.</p>
+
+<p>With security concerns at the core, global powers have strongly exerted economic influence on each other in the technology domain. The US effort to contain China’s growth will continue, as international moves to decouple supply chains accelerates. The world recognises the risk of concentrating advanced chip manufacturing in Taiwan’s TSMC; the US CHIPS Act and other moves to contain China have been met without much international protest, with some US allies like Japan and the Netherlands announcing their own export controls. Singapore may have to compromise on its geopolitical wiggle room to maintain access to technology and capabilities.</p>
+
+<h3>Three Scenarios for Singapore Tomorrow</h3>
+
+<p>The following three future scenarios illustrate the interplay of these driving forces and their inherent uncertainties as they could unfold in Singapore. They are meant to surface policy implications and questions that are less discussed, particularly in the social domain.</p>
+
+<p>Our current approaches to unemployment, income security, and social support may not be resilient against mass, protracted job displacement. A broad, educated middle, made newly vulnerable, could present unique challenges. The ongoing technology war could impact our access to capabilities, markets, and even present social implications in our multicultural context.</p>
+
+<p>We hope these scenarios will prompt deeper discussion of the underlying driving forces at work, in order to better prepare for rapid tech-driven disruptions to our lives.</p>
+
+
+
+
+
+
+
+
 
 
 
