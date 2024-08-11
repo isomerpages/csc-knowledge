@@ -285,7 +285,7 @@ Many thrive: innovators improving productivity in typically labour scarce sector
 	
 <p>Academics and former tech moguls moot a walled garden internet for online living called IGW, or InternetGoWhere. Only accredited players in news, finance, e-commerce, social media and public services are allowed into IGW, guaranteeing authentic information, legitimate transactions, and safe online environments. Singaporeans, used to the conveniences of transacting online, take to IGW. Besides, those who want to take the risk can always override IGW, at their own peril. By 2027, every smartphone sold in Singapore comes pre-set as an IGW device.</p>	
 	
-<p>Yet, scams operate with greater frequency and sophistication. A bizarre trend of “ghouling” scams emerge; they threaten to remove all digital traces of deceased loved ones as a form of blackmail. Some look to turn threat into opportunity with lucrative scam insurance schemes. In a panic caused by a convincing online report, thousands of depositors withdraw their money from a major bank for fear of a new scam, and MAS tries to contain the ripple effects of the bank run.<br><span class="sub">Trust in government falls, and there is growing disdain for public serv .</span></p>		
+<p>Yet, scams operate with greater frequency and sophistication. A bizarre trend of “ghouling” scams emerge; they threaten to remove all digital traces of deceased loved ones as a form of blackmail. Some look to turn threat into opportunity with lucrative scam insurance schemes. In a panic caused by a convincing online report, thousands of depositors withdraw their money from a major bank for fear of a new scam, and MAS tries to contain the ripple effects of the bank run.<br><span class="sub">Even in walled gardens, harms can perpetuate, and human folly can still occur with devastating impacts.</span></p>		
 	
 	
 <div class="policy">
@@ -293,10 +293,9 @@ Many thrive: innovators improving productivity in typically labour scarce sector
 <span>POLICY QUESTIONS</span>	
 	
 <ol style="list-style-type: upper-alpha;">
-    <li>In the event of displacements or “job down-sizing,” how might employers be incentivised to cushion the negative impact on employees?</li>
-    <li>Are our social safety nets resilient against prolonged job displacement, or mass job-downsizing, of white-collar workers?</li>
-    <li>What traits and skills will help people thrive in such a future? How do we create the conditions for these traits to flourish among Singaporeans?</li>
-    <li>As public servants continue to enjoy job security, how do we maintain the legitimacy of the public service if the general public faces a precarious employment outlook?</li>
+    <li>  How can we guard GenAI against online harms in an environment where most things are false, or where accuracy of information is very difficult to discern?</li>
+	
+   <li> How can government continue to disseminate important information to citizens in ways that are secure and trusted?</li>
 </ol>
 	
 	
