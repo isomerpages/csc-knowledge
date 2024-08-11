@@ -260,29 +260,32 @@ Many thrive: innovators improving productivity in typically labour scarce sector
 	<p class="title">Zero Trust<sup><a href="#notestop">3</a></sup></p>
 	
 	
-<img src="/images/Ethos_Images/Ethos_Issue_27/Ai__Technology_and_Singapore1.png">	
+<img src="/images/Ethos_Images/Ethos_Issue_27/Ai__Technology_and_Singapore2.png">
 
 
-<p>2024 is the year things really start to change. One by one, states embark on ambitious AI strategies, Singapore among them. But the world moves faster than these strategies anticipate.
-<br><span class="sub">Internationally, Singapore is seen as a beacon of AI ambition.</span>	
+<p>The world watches, numb, as Donald Trump steps to the podium to deliver his acceptance speech. “Truth is stranger than fiction, especially when it comes to US politics”. In 2024, the internet has become so untrustworthy that people cannot real from fake. Immersed in extreme online discourse, Singaporeans tolerate growing nationalist and racist rhetoric in the public sphere.
+<br><span class="sub">  Far right rhetoric infects democracies worldwide; Singapore not immune.</span>	
 </p>
 
-<p>By 2025, knowledge workers across domains have been significantly displaced due to AI augmentation. Professionals from lawyers and brokers to management consultants face pay-cuts or layoffs. “Job redesign” becomes shorthand for being paid less to do less because of GenAI. Parents move their children to cheaper preschools, and new homeowners appeal for mortgage relief. Lower middle-income groups mock the newly displaced as complaining about “first world problems”. Consumer spending plummets. <br>
-<span class="sub">A new vulnerable group emerges: upper middle-class professionals </span><br> 
-<span class="sub">“Job redesign” means being paid less to do less</span></p>
+<p>Meta and X, under intense public scrutiny, clamp down hard on malicious actors, fake news and foreign interference in the lead up to the US elections. But pundits point to smaller platforms like Telegram, TruthSocial and Parler for content stoking divides in the US. <br>
+<span class="sub"> Tech giants play ball, but small players don’t.</span><br> 
+</p>
 
-<p>The Treasury finds it difficult to scope relief because employers are not fully transparent about job downsizing, and practices across the private sector are uneven. In the creative industry, well-established players become even more sought after while average creative workers compete with free GenAI output. Creatives regret never organising, like the American Writers Guild did in 2023. Some suggest providing universal support, but the system is internally conflicted about this move. <br><span class="sub">New job “winners” emerge, often with no skills to do with AI; winner-takes-all dynamics play out across industries</span> </p>
+<p>In Singapore, existing policy levers prove ineffectua as sophisticated falsehoods are created rapidly and at scale. States struggle to reestablish institutional trust while protecting information and privacy. Some consider only allowing accredited institutions to operate on protected channels; others suggest extending accreditation requirements to any online user through verifiable, biometric identification. <br><span class="sub">Regulators worldwide are sluggish to react, divided on approach to tackling an increasingly malicious info space.</span> </p>
 
-<p>Skills development agencies ramp up upskilling opportunities, introducing more subsidies and facilitating job-matching. But those that can afford to upskill find it difficult to enrol in the limited courses available, and many courses cannot keep up with the breakneck speed of AI innovation. Skills in new growth areas like AI, cybersecurity and data science are so specialised and require such deep knowledge and rapid upskilling that the majority cannot keep up. <br><span class="sub">Reskilling becomes more niche, but also too slow.</span></p>
-	
-<p> Some groups thrive. Employers value people who can understand and manipulate AI tools while managing human stakeholders. Surprisingly such people include graduates from all fields: STEM disciplines, the humanities, communications and the liberal arts. Educators attribute it to critical thinking, inter-personal skills, grit and creativity. The Education ministry embarks on a transformation effort. Independent schools with motivated teachers capitalise on GenAI tools to improve teaching and significantly enhance productivity. Healthcare experiences a boom in innovation, as do cyber-defence capabilities. <br><span class="sub"> 
-Many thrive: innovators improving productivity in typically labour scarce sectors such as healthcare, critical thinkers and relationship-builders, are among the winners.</span></p>
+<p> In early 2025, a high-profile tragedy strikes Singapore. A man receives a phone call from his young daughter crying in pain, accompanied by photos of her abuse. Her abductors want money, she says. He speeds home in a panic, and as he pulls into the carpark, he drives into his daughter, killing her instantly. It was a deepfake scam. <br><span class="sub"> Domestic pressure causes Singapore to react quickly, but the people and private sectors present a solution first. This has pros and cons.</span></p>
 	
 	
-<p>But the transformations in economy, skills and jobs come too slow for some. Many go without steady employment for months, even years. This group, with lofty aspirations and degrees, organise themselves politically; the opposition sees membership growth. Many of those displaced agitate for Universal Basic Income and Unemployment Insurance. Those with family abroad leave Singapore for good. Many struggle with competing caregiving demands, with both aged parents and young children. New forms of exploitation targeting the newly vulnerable emerge.<br><span class="sub"> People are exhausted from protracted financial precarity. Demands for new kinds of employment support emerge: unemployment insurance, universal basic income.</span></p>	
+	
+<p>Singapore moves quickly. High trust and early investments into public education have mitigated many harms other countries seem to be experiencing.</p>
 	
 	
-<p>Civil service and political leadership are divided: no policy solutions, however improved, manage to address the aspirational needs of the broad middle. Government is increasingly criticised as being out of touch, especially as the Public Service remains one of the few job-secure sectors. Trust in government hits an all-time low.<br><span class="sub">Trust in government falls, and there is growing disdain for public servants and political leadership.</span></p>		
+<p> Successes in the development of deepfake detection tools offer optimism, and a digitally literate society sees most Singaporeans transacting online despite the risks. A spate of malfunctioning last-mile service delivery bots and near-fatal accidents involving allegedly hacked Teslas have not dampened a collective desire to make the “digireal” safer.</p>	
+	
+	
+<p>Academics and former tech moguls moot a walled garden internet for online living called IGW, or InternetGoWhere. Only accredited players in news, finance, e-commerce, social media and public services are allowed into IGW, guaranteeing authentic information, legitimate transactions, and safe online environments. Singaporeans, used to the conveniences of transacting online, take to IGW. Besides, those who want to take the risk can always override IGW, at their own peril. By 2027, every smartphone sold in Singapore comes pre-set as an IGW device.</p>	
+	
+<p>Yet, scams operate with greater frequency and sophistication. A bizarre trend of “ghouling” scams emerge; they threaten to remove all digital traces of deceased loved ones as a form of blackmail. Some look to turn threat into opportunity with lucrative scam insurance schemes. In a panic caused by a convincing online report, thousands of depositors withdraw their money from a major bank for fear of a new scam, and MAS tries to contain the ripple effects of the bank run.<br><span class="sub">Trust in government falls, and there is growing disdain for public serv .</span></p>		
 	
 	
 <div class="policy">
