@@ -325,3 +325,8 @@ and certainly do not leave policymakers short of practical solutions. For instan
 	
 	
 </div>
+
+<br><br>
+<div class="back">
+<a href="/ethos/">Back to Ethos Page</a>
+</div>
