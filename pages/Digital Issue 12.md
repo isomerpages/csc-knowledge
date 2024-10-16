@@ -79,9 +79,9 @@ td
             <p>In this digital issue of ETHOS, our contributors discuss the value of evidence in policymaking, the confluence of data, digital technology and diverse engagement in the practice of good governance.</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-12">Download PDF</a></div></div>
+   <div class="button1"><a href=""></a></div></div>
     </div>
-    
+    <br>
    <br>
     
 <div class="grid-container">
