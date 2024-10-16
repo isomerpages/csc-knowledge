@@ -2,6 +2,7 @@
 title: Digital Issue 07
 permalink: /digital-issue-07/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -58,7 +59,7 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">Digital Issue 07, Sep 2021</span><br>ETHOS Digital Issue 07</h3>
 		<p>In this digital edition of ETHOS, we bring you fresh views and perspectives on Singapore's economy, society and prospects for the future, in the light of the COVID-19 pandemic's far-reaching impact and its related challenges. Featuring: Anastasia Goh, Wong Hefen, Daphne Yuan, Shirley Loo, Tan Chia Han, and Eddie Choo.</p>
-		<div class="button1"><a target="_blank" href="https://file.go.gov.sg/digital-issue-07">Download PDF</a></div>
+		<div class="button1"><a href=""></a></div>
 	</div>
 </div>
 
