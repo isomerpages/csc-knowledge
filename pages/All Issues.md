@@ -70,7 +70,7 @@ font-size: 16px;
         <p>
             <a target="_blank" href="/digital-issue-12/">Digital Edition Issue 12, Apr 2024</a>
             <br>
-            <a target="_blank" href=""></a>
+            <a href=""></a>
         </p>
     </div>
 	
