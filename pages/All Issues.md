@@ -54,9 +54,9 @@ font-size: 16px;
 <div class="grid-container">
 	
 <div class="grid-item">
-        <img src="/images/Ethos_Images/Ethos_Issue_27/Ethos_Issue_27.jpg">
+        <img src="/images/Ethos_Images/Ethos_Issue_27/Ethos_Issue_27_b.jpg">
         <p>
-            <a target="_blank" href="/ethos-issue-27/"> Issue 27, July 2024</a>
+            <a target="_blank" href="/ethos-issue-27/"> Issue 27,  Forthcoming</a>
             <br>
             <a href=""></a>
         </p>
@@ -68,9 +68,9 @@ font-size: 16px;
 <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital12v2.jpg">
         <p>
-            <a target="_blank" href="/ethos/">Digital Edition Issue 12, Apr 2024</a>
+            <a target="_blank" href="/digital-issue-12/">Digital Edition Issue 12, Apr 2024</a>
             <br>
-            <a target="_blank" href="https://go.gov.sg/digital-issue-12">Download PDF</a>
+            <a target="_blank" href=""></a>
         </p>
     </div>
 	
@@ -102,7 +102,7 @@ font-size: 16px;
         <p>
             <a target="_blank" href="/digital-issue-11/">Digital Edition Issue 11,  Oct 2023</a>
             <br>
-            <a target="_blank" href="https://go.gov.sg/digital-issue-11">Download PDF</a>
+            <a target="_blank" href=""></a>
         </p>
     </div>
 	
@@ -128,7 +128,7 @@ font-size: 16px;
         <p>
             <a target="_blank" href="/digital-issue-10/">Digital Edition Issue 10, <br>Mar 2023</a>
             <br>
-            <a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a>
+            <a target="_blank" href=""></a>
         </p>
     </div>
 	
@@ -146,7 +146,7 @@ font-size: 16px;
 		<p>
 			<a target="_blank" href="/digital-issue-09/">Digital Edition Issue 9, Nov 2022</a>
 		<br>
-			<a target="_blank" href="https://go.gov.sg/digital-issue-09">Download PDF</a>
+			<a target="_blank" href=""></a>
 		</p>
   </div>
   <div class="grid-item">
@@ -167,7 +167,7 @@ font-size: 16px;
 </p><p>
 <a target="_blank" href="/digital-issue-08/">Digital Edition Issue 8, Apr 2022</a>
 	<br>
-	<a target="_blank" href="https://go.gov.sg/digital-issue-08">Download PDF</a>
+	<a target="_blank" href=""></a>
 		</p>				
 	</div>
 	
@@ -188,7 +188,7 @@ font-size: 16px;
 	
 <div class="grid-item">
 	<img src="/images/Ethos_Thumbnails_Cover/ethosdigital07.jpg">
-	<p><a target="_blank" href="/digital-issue-07/">Digital Edition Issue 7, Sep 2021</a><br><a target="_blank" href="https://go.gov.sg/digital-issue-07">Download PDF</a></p>
+	<p><a target="_blank" href="/digital-issue-07/">Digital Edition Issue 7, Sep 2021</a><br><a target="_blank" href=""></a></p>
 </div>
 
 
@@ -204,7 +204,7 @@ font-size: 16px;
 </div>
 <div class="grid-item">
 	<img src="/images/Ethos_Thumbnails_Cover/ethosdigitalmarch2021specialedition.jpg">
-	<p><a target="_blank" href="/digital-special-edition-mar-2021/">Digital Special Edition, Mar 2021 Update</a><br><a target="_blank" href="https://go.gov.sg/ethos-digital-special-edition-mar21">Download PDF</a></p>
+	<p><a target="_blank" href="/digital-special-edition-mar-2021/">Digital Special Edition, Mar 2021 Update</a><br><a target="_blank" href=""></a></p>
 </div>
 
 
@@ -220,7 +220,7 @@ font-size: 16px;
         <p>
             <a target="_blank" href="/digital-special-edition-dec-2020/">Digital Special Edition, Dec 2020</a>
             <br>
-            <a target="_blank" href="https://go.gov.sg/ethos-digital-special-edition-dec20">Download PDF</a>
+            <a target="_blank" href=""></a>
         </p>
     </div>
     <div class="grid-item">
@@ -228,7 +228,7 @@ font-size: 16px;
         <p>
             <a target="_blank" href="/digital-issue-06/">Digital Edition Issue 6, Jun 2020</a>
             <br>
-            <a target="_blank" href="https://go.gov.sg/digital-issue-06">Download PDF</a>
+            <a target="_blank" href=""></a>
         </p>
     </div>
 </div>
@@ -244,7 +244,7 @@ font-size: 16px;
 <p>
 <a target="_blank" href="/digital-issue-05/">Digital Edition Issue 5, Nov 2019</a>
             <br>
-            <a target="_blank" href="https://go.gov.sg/digital-issue-05">Download PDF</a>
+            <a target="_blank" href=""></a>
         </p>
     </div>
     <div class="grid-item">
@@ -261,7 +261,7 @@ font-size: 16px;
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital04.jpg"><p>
             <a target="_blank" href="/digital-issue-04/">Digital Edition Issue 4, Apr 2019</a>
             <br>
-            <a target="_blank" href="https://go.gov.sg/digital-issue-04">Download PDF</a>
+            <a target="_blank" href=""></a>
         </p>
     </div>
     <div class="grid-item">
@@ -281,9 +281,9 @@ font-size: 16px;
     <div class="grid-item">
         <img src="/images/Ethos_Thumbnails_Cover/ethosdigital03.jpg">
         <p>
-            <a target="_blank" href="/digital-issue-06/">Digital Edition Issue 3, Sept 2018</a>
+            <a target="_blank" href="/digital-issue-03/">Digital Edition Issue 3, Sept 2018</a>
             <br>
-            <a target="_blank" href="https://go.gov.sg/ethos-digital-issue-03">Download PDF</a>
+            <a target="_blank" href=""></a>
         </p>
     </div>
  <div class="grid-item">
@@ -303,7 +303,7 @@ font-size: 16px;
         <p>
             <a target="_blank" href="/digital-issue-02/">Digital Edition Issue 2, Apr 2018</a>
             <br>
-            <a target="_blank" href="https://go.gov.sg/digital-issue-02">Download PDF</a>
+            <a target="_blank" href=""></a>
         </p>
     </div>
 	<div class="grid-item">
@@ -326,7 +326,7 @@ font-size: 16px;
             <a target="_blank" href="/digital-issue-01/">Digital Edition Issue 1, Nov 2017</a>
             
 <br>
- <a target="_blank" href="https://go.gov.sg/digital-issue-01">Download PDF</a>
+ <a target="_blank" href=""></a>
         </p>
     </div>
 
