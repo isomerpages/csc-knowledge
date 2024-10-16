@@ -2,10 +2,10 @@ collections:
   ethos-issue-27:
     output: true
     order:
+      - "AI in the Public Service: Here for Good.md"
+      - "AI, Technology & Singapore: Preparing for the Future.md"
       - "Putting Our Feet to The Fire: The Challenge of Nurturing an AI Ready
         Culture in the Public Service.md"
-      - "AI, Technology & Singapore: Preparing for the Future.md"
-      - "LLMs In The Public Sector: Minding What's Missing.md"
-      - "AI in the Public Service: Here for Good.md"
-      - Strategising AI at the National Level.md
       - Supercharging Statistics with AI.md
+      - "LLMs In The Public Sector: Minding What's Missing.md"
+      - Strategising AI at the National Level.md
