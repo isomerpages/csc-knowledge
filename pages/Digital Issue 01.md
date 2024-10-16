@@ -41,7 +41,7 @@ variant: markdown
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_01/EthosDigital01.jpg"></div>
         <div>
 		<h3><span class="cat">Digital Issue 01, Nov 2017</span><br>ETHOS Digital Issue 01</h3>
-		<p>For the inaugural issue of our ETHOS Digital Edition, we feature Jocelyne Bourgon, Max Everest-Phillips, Catherine Fieschi, as well as participants of CSC's Leaders in Governance Programme..</p>
+		<p>For the inaugural issue of our ETHOS Digital Edition, we feature Jocelyne Bourgon, Max Everest-Phillips, Catherine Fieschi, as well as participants of CSC's Leaders in Governance Programme.</p>
             
             
    <div class="button1"><a href=""></a></div></div>
