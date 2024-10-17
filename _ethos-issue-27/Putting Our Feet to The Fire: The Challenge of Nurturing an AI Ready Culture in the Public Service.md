@@ -412,7 +412,7 @@ border-radius:20px;
 
 
 <div class="notestop" id="notestop">
-<h6>NOTES</h6>
+<h6>NOTE</h6>
 
 <ol>
 	<li><a href="https://www.open.gov.sg/products/pair/">https://www.open.gov.sg/products/pair/</a></li>
