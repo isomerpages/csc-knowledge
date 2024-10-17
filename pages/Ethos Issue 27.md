@@ -73,14 +73,14 @@ td
 }	
 </style>
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Ethos_Issue_27.jpg"></div>
-	<div><h3><span class="cat">Ethos Issue 27, July 2024</span>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Ethos_Issue_27_b.jpg"></div>
+	<div><h3><span class="cat">Ethos Issue 27, Forthcoming</span>
             <br>ETHOS Issue 27</h3>	
             <p>Artificial intelligence tools are become ever more pervasive and capable, with an impact that is quickly being felt across all sectors of society. This edition of ETHOS examines how the Public Service is readying itself to thrive, and to help Singapore succeed, in the age of AI, and considers what else can be done to fully harness its potential for the public good, while mitigating its excesses. The full line-up will feature contributions from colleagues across the Ministry of Digital Development and Information and the Department of Statistics, as well as external experts from Accenture, Harvard and the Tony Blair Institute.</p>
-<p> Here are three articles, published ahead in support of the Public Service Week Learning Festival. The full issue will be available soon!</p>
+<p> Here are some of the pre-published articles for your reading pleasure. The full issue and the print edition will be available soon!</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-12"></a></div></div>
+   <div class="button1"><a href=""></a></div></div>
     </div>
     
    <br>
