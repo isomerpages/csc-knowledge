@@ -158,7 +158,7 @@ border-radius:20px;
 
 
 
-<em><small>ETHOS Issue 27, July 2024</small></em>
+<em><small>ETHOS Issue 27, Forthcoming</small></em>
 
 <div class="background-image">
 
@@ -319,7 +319,7 @@ border-radius:20px;
 	
 	
 	
-<span class="title-1">Using Ai to Better Lives</span>		
+<span class="title-1">Using AI to Better Lives</span>		
 
 	
 <div class="box1">		
