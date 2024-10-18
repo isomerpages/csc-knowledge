@@ -3,5 +3,9 @@ collections:
     output: true
     order:
       - "AI in the Public Service: Here for Good.md"
-      - Strategising AI at the National Level.md
+      - "AI, Technology & Singapore: Preparing for the Future.md"
+      - "Putting Our Feet to The Fire: The Challenge of Nurturing an AI Ready
+        Culture in the Public Service.md"
       - Supercharging Statistics with AI.md
+      - "LLMs In The Public Sector: Minding What's Missing.md"
+      - Strategising AI at the National Level.md

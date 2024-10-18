@@ -73,14 +73,14 @@ td
 }	
 </style>
 <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Ethos_Issue_27.jpg"></div>
-	<div><h3><span class="cat">Ethos Issue 27, July 2024</span>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Ethos_Issue_27_b.jpg"></div>
+	<div><h3><span class="cat">Ethos Issue 27, Forthcoming</span>
             <br>ETHOS Issue 27</h3>	
             <p>Artificial intelligence tools are become ever more pervasive and capable, with an impact that is quickly being felt across all sectors of society. This edition of ETHOS examines how the Public Service is readying itself to thrive, and to help Singapore succeed, in the age of AI, and considers what else can be done to fully harness its potential for the public good, while mitigating its excesses. The full line-up will feature contributions from colleagues across the Ministry of Digital Development and Information and the Department of Statistics, as well as external experts from Accenture, Harvard and the Tony Blair Institute.</p>
-<p> Here are three articles, published ahead in support of the Public Service Week Learning Festival. The full issue will be available soon!</p>
+<p> Here are some of the pre-published articles for your reading pleasure. The full issue and the print edition will be available soon!</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-12"></a></div></div>
+   <div class="button1"><a href=""></a></div></div>
     </div>
     
    <br>
@@ -95,16 +95,29 @@ td
             
 <div class="button1"><a href="/ai-in-the-public-service-here-for-good/">Read More</a></div> <br></div></div>
 
- <br>   
+ <br> 
  <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Strategising_AI_at_the_National_Level_Teaser.jpg"></div>
-        <div><h3>Strategising AI at the national level</h3>
-            <b><i>by Kenddrick Chan and PeiChin Tay</i></b>
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Ai_Technology_Singapore_teaser.jpg"></div>
+        <div><h3> AI, Technology &amp; Singapore: Preparing for the Future</h3>
+            <b><i>by Liana Tang</i></b>
             
-<p>Effective national approaches to AI governance account for the technology’s multifaceted and dynamic nature. The Tony Blair Institute for Global Change outlines key dimensions and emerging best practices.</p>	
+<p>Given economic, societal andvgeopolitical trends, the rise of AI may have complex aftershocks that could challenge prevailing policy positions and assumptions.</p>	
             
-<div class="button1"><a href="/strategising-ai-at-the-national-level/">Read More</a></div><br></div>
-    </div>
+<div class="button1"><a href="/ai-technology-singapore-preparing-for-the-future/">Read More</a></div><br></div>
+    </div>	
+
+		
+ <br> 
+<div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/putting_our_feet_teaser.jpg"></div>
+        <div><h3>Putting Our Feet to the Fire: The Challenge of Nurturing an AI-Ready Culture in the Public Service</h3>
+            <b><i>by He Ruimin &amp; Andrea Phua</i></b>
+            
+<p>Two leaders of Singapore’s AI push want public officers to be talking, tinkering and trying more to make things better using the new digital opportunities now available.</p>	
+            
+<div class="button1"><a href="/putting-our-feet-to-the-fire-the-challenge-of-nurturing-an-ai-ready-culture-in-the-public-service/">Read More</a></div><br></div>
+    </div>	
+<br>
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_Teaser.jpg"></div>
         <div><h3>Supercharging Statistics with AI  </h3>
@@ -115,9 +128,32 @@ td
 <div class="button1"><a href="/supercharging-statistics-with-ai/">Read More</a></div><br></div>
     </div>
 		
-		
-		
+		  
+<br>
+<div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/LLMS_int_the_Public_Sector_teaser.jpg"></div>
+        <div><h3>LLMs In The Public Sector: Minding What's Missing</h3>
+            <b><i>by Finale Doshi-Velez and Elena L. Glassman</i></b>
+            
+<p>Leading researchers argue that users must be able to evaluate and tune AI outputs for their specific needs while using the technology, in order to mitigate some of its key limitations.</p>	
+            
+<div class="button1"><a href="/llms-in-the-public-sector-minding-what-s-missing/">Read More</a></div><br></div>
+    </div>
+			
+
  <br>   
+
+ <div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Strategising_AI_at_the_National_Level_Teaser.jpg"></div>
+        <div><h3>Strategising AI at the National Level</h3>
+            <b><i>by Kenddrick Chan and PeiChin Tay</i></b>
+            
+<p>Effective national approaches to AI governance account for the technology’s multifaceted and dynamic nature. The Tony Blair Institute for Global Change outlines key dimensions and emerging best practices.</p>	
+            
+<div class="button1"><a href="/strategising-ai-at-the-national-level/">Read More</a></div><br></div>
+    </div>
+
+
 
 
 

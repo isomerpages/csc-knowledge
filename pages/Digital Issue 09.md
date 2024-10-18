@@ -2,6 +2,7 @@
 title: Digital Issue 09
 permalink: /digital-issue-09/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -58,7 +59,7 @@ margin-top:15px;
 	<div>
 		<h3><span class="cat">Issue 09, Nov 2022</span><br>ETHOS Digital Issue 09</h3>
 		<p>In this digital edition ETHOS, we continue to explore issues related to sustainable urban development. How might our communities continue to be thriving places in which we live, work and play, in the face of looming climate challenges and resources constraints? Featuring: Livia Tan , Wong Mun Summ, Anupam Yog, and Peter Hawkins.</p>
-		<div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-09">Download PDF</a></div>
+		<div class="button1"><a href=""></a></div>
 	</div>
 </div>
 

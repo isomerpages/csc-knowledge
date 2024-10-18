@@ -3,6 +3,7 @@ title: Digital Issue 10
 permalink: /digital-issue-10/
 description: ""
 image: /images/Ethos_Images/Ethos_Digital_Issue_10/EthosDigital_Issue_Mar23_Cov.jpg
+variant: markdown
 ---
 <style>
 table
@@ -79,7 +80,7 @@ td
             <p>This digital edition of ETHOS features a spread of articles exploring different ways to help our people manage change and volatility, in an environment where long-held assumptions and ways of doing things are being challenged daily. Featuring: Aurora de Souza Watters, Khoo Ee Wan, Patrick Tay, and Vernie Oliveiro.</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-10">Download PDF</a></div></div>
+   <div class="button1"><a href=""></a></div></div>
     </div>
     
    <br>

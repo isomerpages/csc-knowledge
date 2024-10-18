@@ -2,6 +2,7 @@
 title: Digital Issue 01
 permalink: /digital-issue-01/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -40,10 +41,10 @@ description: ""
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_01/EthosDigital01.jpg"></div>
         <div>
 		<h3><span class="cat">Digital Issue 01, Nov 2017</span><br>ETHOS Digital Issue 01</h3>
-		<p>For the inaugural issue of our ETHOS Digital Edition, we feature Jocelyne Bourgon, Max Everest-Phillips, Catherine Fieschi, as well as participants of CSC's Leaders in Governance Programme..</p>
+		<p>For the inaugural issue of our ETHOS Digital Edition, we feature Jocelyne Bourgon, Max Everest-Phillips, Catherine Fieschi, as well as participants of CSC's Leaders in Governance Programme.</p>
             
             
-   <div class="button1"><a target="_blank" href="https://go.gov.sg/digital-issue-01">Download PDF</a></div></div>
+   <div class="button1"><a href=""></a></div></div>
     </div>
     
    <br>
