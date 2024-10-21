@@ -81,8 +81,7 @@ td
             
    <div class="button1"><a href=""></a></div></div>
     </div>
-    <br>
-   <br>
+  
     
 <div class="grid-container">
         <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
