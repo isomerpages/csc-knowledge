@@ -2,12 +2,12 @@ collections:
   ethos-issue-27:
     output: true
     order:
-      - HOW GENERATIVE AI CAN OPEN NEW FRONTIERS IN PUBLIC SERVICE DELIVERY and
-        What’s Needed to Get There.md
       - "AI in the Public Service: Here for Good.md"
       - "AI, Technology & Singapore: Preparing for the Future.md"
       - "Putting Our Feet to The Fire: The Challenge of Nurturing an AI Ready
         Culture in the Public Service.md"
+      - HOW GENERATIVE AI CAN OPEN NEW FRONTIERS IN PUBLIC SERVICE DELIVERY and
+        What’s Needed to Get There.md
       - Supercharging Statistics with AI.md
       - "LLMs In The Public Sector: Minding What's Missing.md"
       - Strategising AI at the National Level.md
