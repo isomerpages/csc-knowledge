@@ -117,7 +117,7 @@ color:#049c8c;
 
 
 
-<em><small>ETHOS Issue 27</small></em>
+<em><small>ETHOS Issue 27, Forthcoming</small></em>
 
 <div class="background-image">
 
