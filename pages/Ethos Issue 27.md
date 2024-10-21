@@ -119,6 +119,17 @@ td
     </div>	
 <br>
 <div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/GenAI_in_public_service_delivery_Teaser.jpg"></div>
+        <div><h3>How Generative AI Can Open New Frontiers in Public Service Delivery and What’s Needed to Get There</h3>
+            <b><i>by Ng Wee Wei</i></b>
+            
+<p>To realise the promise of this bold new technology, public agencies must reimagine their workflows and reinvigorate their people.</p>	
+            
+<div class="button1"><a href="/how-generative-ai-can-open-new-frontiers-in-public-service-delivery-and-what-s-needed-to-get-there/">Read More</a></div><br></div>
+    </div>	
+<br>
+
+<div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_Teaser.jpg"></div>
         <div><h3>Supercharging Statistics with AI  </h3>
             <b><i>by Malcolm Cai, Jun Wen Tay and Nicholas Chin</i></b>
