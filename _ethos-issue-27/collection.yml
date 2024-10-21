@@ -2,6 +2,7 @@ collections:
   ethos-issue-27:
     output: true
     order:
+      - Example Title.md
       - HOW GENERATIVE AI CAN OPEN NEW FRONTIERS IN PUBLIC SERVICE DELIVERY and
         What’s Needed to Get There.md
       - "AI in the Public Service: Here for Good.md"
