@@ -76,8 +76,8 @@ td
         <div><img src="/images/Ethos_Thumbnails_Cover/ethosdigital12v1.jpg"></div>
 	<div><h3><span class="cat">Digital Issue 12, Apr 2024</span>
             <br>ETHOS Digital Issue 12</h3>	
-            <p>In this digital issue of ETHOS, our contributors discuss the value of evidence in policymaking, the confluence of data, digital technology and diverse engagement in the practice of good governance.</p>
-            
+            <p>In this digital issue of ETHOS, our contributors discuss the value of evidence in policymaking, the confluence of data, digital technology and diverse engagement in the practice of good governance.</p><br>
+	          
             
    <div class="button1"><a href=""></a></div></div>
     </div>
