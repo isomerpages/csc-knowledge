@@ -416,6 +416,3 @@ Many thrive: innovators improving productivity in typically labour scarce sector
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>
 </div>
-
-
-
