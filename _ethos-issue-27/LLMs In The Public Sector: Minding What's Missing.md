@@ -103,7 +103,7 @@ color:#049c8c;
 
 
 
-<em><small>ETHOS Issue 27, July 2024</small></em>
+<em><small>ETHOS Issue 27, Forthcoming</small></em>
 
 <div class="background-image">
 
