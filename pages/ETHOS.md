@@ -173,22 +173,7 @@ td
 		
  <br>   
  
-  <div class="grid-container">
-        <div><img src="/images/Ethos_Images/Ethos_Issue_27/AI_Adoption_Teaser.jpg"></div>
-        <div><h3>How Generative AI Can Open New Frontiers in Public Service Delivery and What’s Needed</h3>
-            <b><i>by Ng Wei Wei</i></b>
-            
-<p>To realise the promise
-of this bold new
-technology, public
-agencies must reimagine
-their workflows and
-reinvigorate their people.</p>	
-            
-<div class="button1"><a href="/how-generative-ai-can-open-new-frontiers-in-public-service-delivery-and-what-s-needed-to-get-there/">Read More</a></div><br></div>
-    </div>
-		
-
+  
 
 
 
