@@ -161,6 +161,18 @@ td
 		
 		
  <br>   
+ 
+  <div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/AI_Adoption_Teaser.jpg"></div>
+        <div><h3>Strategising AI at the National Level</h3>
+            <b><i>by Kenddrick Chan and PeiChin Tay</i></b>
+            
+<p>To realise the promise of this bold new technology, public agencies must reimagine their workflows and
+reinvigorate their people.</p>	
+            
+<div class="button1"><a href="/strategising-ai-at-the-national-level/">Read More</a></div><br></div>
+    </div>
+		
 
 
 
