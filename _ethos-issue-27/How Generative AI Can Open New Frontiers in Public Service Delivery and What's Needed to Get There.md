@@ -250,20 +250,17 @@ border-radius:10px;
 
 <p>This may be daunting for some workers, leading them to resist the changes brought about by GenAI. Some may feel they lack the skills and confidence to fully benefit from using the technology.</p>
 
-
-
-
-<div class="break">
-<p class="break1"> Success with GenAI demands asmuch attention to people and training as it does to technology.
-</p>
-</div>
-
-
 <p>Others, feeling the pressure to rapidly acquire new expertise in their redesigned roles to avoid being displaced by GenAI, may view it as a threat rather than a tool.</p> 
 
 <p>To boost employees’ confidence in GenAI, leaders need to take a people-first approach. Success with GenAI demands as much attention to people and training as it does to technology. Therefore, the public sector should significantly increase investment in talent to tackle two distinct challenges: creating AI and using AI.</p>
 
 <p>Creating an AI-empowered public service will certainly entail developing expertise in technical domains such as AI engineering and enterprise architecture. But beyond building technical proficiency, leaders must also train personnel across the organisation to operate effectively within AI-integrated processes. While AI is unlikely to bring about the full automation of jobs, many tasks are set to evolve. The competitive edge will come from investing in task-oriented training and collaborative work between humans and machines.</p>
+
+
+<div class="break">
+<p class="break1"> Success with GenAI demands as much attention to people and training as it does to technology.
+</p>
+</div>
 
 <p>This training should encompass not just technical know-how, but human-centric skills as well. Higher-level cognitive thinking and empathetic problem-solving will become increasingly important for public officers looking to effectively apply AI to serving citizens’ needs in more intuitive and relevant ways.</p>
 
