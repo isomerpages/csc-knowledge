@@ -175,7 +175,7 @@ td
  
   <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_27/AI_Adoption_Teaser.jpg"></div>
-        <div><h3>HOW GENERATIVE AI CAN OPEN NEW FRONTIERS IN PUBLIC SERVICE DELIVERY and What’s Needed to Get There</h3>
+        <div><h3>How Generative AI Can Open New Frontiers in Public Service Delivery and What’s Needed</h3>
             <b><i>by Ng Wei Wei</i></b>
             
 <p>To realise the promise
