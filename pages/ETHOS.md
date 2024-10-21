@@ -175,13 +175,17 @@ td
  
   <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_27/AI_Adoption_Teaser.jpg"></div>
-        <div><h3>Strategising AI at the National Level</h3>
-            <b><i>by Kenddrick Chan and PeiChin Tay</i></b>
+        <div><h3>HOW GENERATIVE AI CAN OPEN NEW FRONTIERS IN PUBLIC SERVICE DELIVERY and What’s Needed to Get There</h3>
+            <b><i>by Ng Wei Wei</i></b>
             
-<p>To realise the promise of this bold new technology, public agencies must reimagine their workflows and
+<p>To realise the promise
+of this bold new
+technology, public
+agencies must reimagine
+their workflows and
 reinvigorate their people.</p>	
             
-<div class="button1"><a href="/strategising-ai-at-the-national-level/">Read More</a></div><br></div>
+<div class="button1"><a href="/how-generative-ai-can-open-new-frontiers-in-public-service-delivery-and-what-s-needed-to-get-there/">Read More</a></div><br></div>
     </div>
 		
 
