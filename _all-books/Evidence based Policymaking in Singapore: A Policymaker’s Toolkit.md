@@ -3,6 +3,7 @@ title: "Evidence-based Policymaking in Singapore: A Policymaker’s Toolkit"
 permalink: /all-books/evidence-based-policymaking-in-singapore/
 description: ""
 image: /images/Books/eb toolkit_cover.png
+variant: markdown
 ---
 <style>
 
@@ -53,39 +54,39 @@ other countries are featured to illustrate key learning points.</p>
 
 
 <div class="chapter-divider">
-	<p><b>CHAPTER 1: A COMPLEX WORLD: HOW DO WE KNOW WHAT WORKS?</b></p>
+	<p><b><a target="_blank" href="/files/Evidence_based_Policymaking_Toolkit_Chapter_1.pdf">CHAPTER 1: A COMPLEX WORLD: HOW DO WE KNOW WHAT WORKS?</a></b></p>
 Anuradha SHROFF
 </div>
 
 
 <div class="chapter-divider">
-<p><b>CHAPTER 2: CLEAR, IMPACTFUL, ANSWERABLE: THE C.I.A. OF GOOD POLICY RESEARCH</b></p>
+<p><b><a target="_blank" href="/files/Evidence_based_Policymaking_Toolkit_Chapter_2.pdf">CHAPTER 2: CLEAR, IMPACTFUL, ANSWERABLE: THE C.I.A. OF GOOD POLICY RESEARCH</a></b></p>
 THIA Jang Ping
 </div>
 
 <div class="chapter-divider">
-<p><b>CHAPTER 3: DATA ANALYTICS</b></p>
+<p><b><a target="_blank" href="/files/Evidence_based_Policymaking_Toolkit_Chapter_3.pdf">CHAPTER 3: DATA ANALYTICS</a></b></p>
 Elaine TAN
 </div>
 
 <div class="chapter-divider">
-<p><b>CHAPTER 4: BEHAVIOURAL INSIGHTS</b></p>
+<p><b><a target="_blank" href="/files/Evidence_based_Policymaking_Toolkit_Chapter_4.pdf">CHAPTER 4: BEHAVIOURAL INSIGHTS</a></b></p>
 DO Hoang Van Khanh and Sharon THAM
 </div>
 
 
 <div class="chapter-divider">
-<p><b>CHAPTER 5: RANDOMISED CONTROLLED TRIALS AND QUASI-EXPERIMENTS</b></p>
+<p><b><a target="_blank" href="/files/Evidence_based_Policymaking_Toolkit_Chapter_5.pdf">CHAPTER 5: RANDOMISED CONTROLLED TRIALS AND QUASI-EXPERIMENTS</a></b></p>
 DO Hoang Van Khanh and Sharon THAM
 </div>
 
 <div class="chapter-divider">
-<p><b>CHAPTER 6: COST BENEFIT ANALYSIS</b></p>
+<p><b><a target="_blank" href="/files/Evidence_based_Policymaking_Toolkit_Chapter_6.pdf">CHAPTER 6: COST BENEFIT ANALYSIS</a></b></p>
 LEONG Wai Yan and LIM Yong Long
 </div>
 
 <div class="chapter-divider">
-<p><b>CHAPTER 7: QUALITATIVE RESEARCH AND FEEDBACK</b></p>
+<p><b><a target="_blank" href="/files/Evidence_based_Policymaking_Toolkit_Chapter_7.pdf">CHAPTER 7: QUALITATIVE RESEARCH AND FEEDBACK</a></b></p>
 Eugene LIOW
 </div>
 
