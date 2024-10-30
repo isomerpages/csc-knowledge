@@ -9,9 +9,7 @@ links:
         url: /all-issues/
   - title: Books
     url: /books/
-    sublinks:
-      - title: Full Catalogue
-        url: /catalogue/
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
   - title: CSC Website
