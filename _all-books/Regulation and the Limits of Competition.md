@@ -4,6 +4,37 @@ permalink: /all-books/regulation-and-the-limits-of-competition/
 description: ""
 variant: markdown
 ---
+<style>
+
+.grid-container {
+	display: grid;
+	grid-template-columns: 30% 70%;
+	grid-gap: 5%
+	}
+	
+img {
+		object-fit: contain;
+		width: 100%;
+		height: 80%;
+	}	
+
+.chapter-divider {
+	margin-top: 5%;
+	}	
+	
+.back a
+{
+	color: #9f2943;
+	font-weight: bold;
+	
+}	
+
+	
+</style>
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Books/Regulation%20and%20the%20Limits%20of%20Competition.jpg">
 </div>
