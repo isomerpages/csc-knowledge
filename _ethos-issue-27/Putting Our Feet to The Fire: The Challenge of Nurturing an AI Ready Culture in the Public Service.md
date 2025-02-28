@@ -194,7 +194,7 @@ border-radius:20px;
 </div>		
 
 
-<p><b>He Ruimin:</b> The short-term low-hanging fruits are easy to motivate: AI could automate intensive, time-consuming processes from transcribing to drafting customer replies and knowledge management. ICA has a bot that allows the public to conduct some low-risk administrative transactions like changing addresses on their identity cards, GovTech is experimenting with code assistants to aid developer productivity. A recent Open Government Products (OGP) hackathon featured the automatic identification of bird species from their chirps—helping with environmental impact assessments.</p> 
+<p><b>He Ruimin:</b> The short-term low-hanging fruits are easy to motivate: AI could automate intensive, time-consuming processes from transcribing to drafting customer replies and knowledge management. A recent Open Government Products (OGP) hackathon featured the automatic identification of bird species from their chirps—helping with environmental impact assessments.</p> 
 
 <p>But the real potential of AI will be unlocked only when we fundamentally reimagine policies, processes, and workflows. In my conversations with companies, I urge them to imagine how a new competitor would organise themselves if they were not constrained by current legacies. Similarly, we should reimagine how citizens and businesses interact with government if we could start afresh.</p>
 
