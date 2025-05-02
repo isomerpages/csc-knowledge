@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 <style>
 ol.alphabetical-orderedlist {
@@ -51,20 +52,28 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 </ol>
 
 <li>Without prejudice to the generality of Clause 2, you agree not to reproduce, display or otherwise provide access to LEARN, LEARN Digital Classroom (LEARN-DC), CSC Content, or Third Party User Content on another website or server, for example through framing, mirroring, linking, spidering, scraping or any other technological means (including any technology available in the future), without the prior written permission of CSC.</li>	
+	<br>
 	
 <li>All CSC Content are copyrighted work of CSC or its Content or software providers, and CSC reserves and retains all rights in the CSC Content. Use of some CSC Content may be governed by the terms of an accompanying end user license agreement.</li>	
+	<br>
 	
 <li>CSC grants you non-exclusive, non-transferable, limited permission to access and display programme related content, on your Computer and for your non-commercial use.</li>	
+	<br>
 	
 <li>You may download any Content for which a downloading option is offered. Unless otherwise specifically stated, you shall not copy, reproduce, transmit, publish, distribute, display or make available to the public, sell, or otherwise exploit any of the downloaded Content for any purposes without the prior written consent of CSC or the respective licensors of the Content. For the avoidance of doubt, you may not alter or modify any of the downloaded Content.</li>
+	<br>
 	
 <li>Notwithstanding the foregoing, any software and other Content that are made available for downloading, access, or other use from LEARN and LEARN -DC with their own license terms, conditions, and notices will be governed by such terms, conditions, and notices.</li>
+	<br>
 	
 <li>You agree not to circumvent, disable or otherwise interfere with the security-related features or features that prevent or restrict use or copying of any Content or enforce limitations on use of the Website, LEARN and LEARN-DC or the Content therein.</li>
+	<br>
 	
 <li>In the event of your failure to comply with the Agreement, CSC reserves the right to terminate any rights granted to you, without prior notice to you, and you must immediately destroy all copies of downloaded Content in your possession or control.</li>
+	<br>
 	
 <li>Modification of any of the Content or use of the Contents for any other purpose will be a violation of CSC’s and/or third party’s copyright and other intellectual property rights. Graphics and images on the Website, LEARN and LEARN-DC are protected by copyright and may not be reproduced or appropriated in any manner without the prior written permission of CSC.</li>
+	<br>
 	
 <li>Any unauthorised use of LEARN, LEARN-DC CSC Content, and/or Third Party User Content may give rise to a claim for damages and/or be a criminal offence.</li>
 	
@@ -110,25 +119,30 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 
 <ol start="16">
 	<li>The CSC Website (“Website”) and CSC-related and CSC-owned digital platforms are not linked to any training systems (e.g. HRP and Workday). Please seek your Supervisor’s and/or Training Coordinator’s approval before you register for any programmes offered on CSC’s Digital platforms. For Organisations on HRP and Workday, you are strongly encouraged to use HRP and Workday instead. For attendance at complimentary programmes, please note that you or your Training Coordinator will have to manually update your training records in HRP and Workday. </li>
-
+<br>
 <li>Online application of programmes on any of CSC’s Digital platforms are subject to the following conditions:</li>
 	<ol class="alphabetical-orderedlist">
 		<li style="font-weight:bold;">Paid Synchronous (instructor-led programmes taking place in real-time) Programmes </li>
 		 <ol class="lower-roman-orderedlist">
         <li>Confirmation and Notification of Emplacement<br>
             Participants will be notified of their emplacement in the programme 3 weeks before the class commences in the form of the Programme Placement Letter.</li>
+			 <br>
         <li>Withdrawal and/or Replacement<br>
             For programmes with Development Grant, departments will be charged the full programme fees for any withdrawal/absentees. Development Grant is only given to learners who have fully attended the programme. No fees will be charged should CSC cancel a programme due to unforeseen circumstances.<br>
             <br>
-            All requests for withdrawal and/or replacement should be submitted by the Training Coordinator (TC) via a Withdrawal/Replacement/Transfer Form on the CSC Programme Portal (https://register.csc.gov.sg). The TC may indicate the reasons for withdrawal/or replacement/or transfer in the form. The request will be assessed by CSC and an email to inform of the outcome of the request will be sent within 3 working days.<br>
+            All requests for withdrawal and/or replacement should be submitted by the Training Coordinator (TC) via a Withdrawal/Replacement/Transfer Form on the CSC Programme Portal <a href="https://register.csc.gov.sg">(https://register.csc.gov.sg)</a>. The TC may indicate the reasons for withdrawal/or replacement/or transfer in the form. The request will be assessed by CSC and an email to inform of the outcome of the request will be sent within 5 working days.<br>
             <br>
             If the withdrawal/replacement/transfer request is submitted 3 weeks before class commencement date, or after the Programme Placement Letter has been issued (whichever is later), a penalty of 25% of programme fee will be charged. For programmes with additional course materials purchased prior to the withdrawal, 25% of the programme fee or additional course material fee will be charged, whichever is higher.<br>
             <br>
             These terms may be subject to change from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.</li>
+			 <br>
         <li>Replacement and Transfer<br>
-            Replacement requests should be submitted at least 5 working days before class starts. Transfer requests should be submitted before the class commencement date, and at least 5 working days before the new class commencement date.<br>
+            Replacement requests should be submitted at least 5 working days before class starts. <br>
+				<br>
+					Transfer requests should be submitted at least 5 working days before the class commencement date, and at least 5 working days before the new class commencement date.<br>
             <br>
             No penalty charges will be imposed if a replacement or transfer is provided and accepted for a participant who wishes to withdraw his/her registration for a programme.</li>
+			 <br>
 				<li>Absenteeism<br>
             The full programme fee will be charged for the absentee, regardless of provision of Development Grant. The Development Grant, if any, is only given to those who fulfil the attendance of the programme.</li>
 		</ol>
@@ -136,48 +150,53 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 		<ol class="lower-roman-orderedlist">
         <li>Confirmation and Notification of Emplacement<br>
             Participants will be notified of their emplacement in the complimentary programme 1 week before the class commences in the form of a Confirmation Note.</li>
+			<br>
         <li>Withdrawal<br>
             Only withdrawals through emails will be acknowledged.<br>
             <br>
-            In the event that you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
+            If you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
             <br>
             Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</li>
     </ol>
 		<li style="font-weight: bold;">Paid E-learning (Asynchronous) Programmes</li>
 		<ol class="lower-roman-orderedlist">
-        <li>Confirmation and Notification of Emplacement<br>
-            Participants will be notified of their emplacement in the complimentary programme 1 week before the class commences in the form of a Confirmation Note.</li>
-        <li>Withdrawal<br>
-            Only withdrawals through emails will be acknowledged.<br>
-            <br>
-            In the event that you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
-            <br>
-            Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</li>
+        <li>Confirmation and Notification of Enrolment<br>
+            Learners can expect to receive a welcome email (which includes login details and link, with link to any programme materials) within 5 days of training coordinators (TC) approving the registration. Only registered learners will receive the welcome email. <br>
+					<br>
+			An invoice will be issued to the agency after CSC issues the Enrolment Confirmation email to the learner.</li>
+			<br>
+        <li>Withdrawal and Replacement<br>
+            Withdrawal and replacement for e-Learning programmes are only allowed before the training coordinator (TC) has approved the registration in CSC programme portal. Once the TC has approved the registration in the programme portal, any request to withdraw and/or replace learners will not be accepted.</li>
+			<br>
+        <li>Access Period<br>
+            Learner will have up to 90 days (or 120 days for ELFUS13) to complete each e-learning programme. Thereafter, the access will expire and learner will have to re-register for the e-learning programme to gain access for another 90 days (or 120 days for ELFUS13).</li>
+        <br>
     </ol>
 		<li style="font-weight: bold;">Paid Events</li>
 		<ol class="lower-roman-orderedlist">
         <li>Confirmation and Notification of Emplacement<br>
-            Participants will be notified of their emplacement in the complimentary programme 1 week before the class commences in the form of a Confirmation Note.</li>
+            Participants will be notified of their emplacement in the event 1 week before the event commences in the form of a Confirmation Note.</li>
+			<br>
         <li>Withdrawal<br>
-            Only withdrawals through emails will be acknowledged.<br>
-            <br>
-            In the event that you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
-            <br>
-            Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</li>
+            Only withdrawals through emails will be acknowledged. Confirmed participants who withdraw after registration has been confirmed will be charged the full fee of the event.</li>
+						<br>
+        <li>Replacement<br>
+            No penalty charges will be imposed if a replacement is provided and accepted for a participant who wishes to withdraw his/her registration for an event.</li>
     </ol>
 		<li style="font-weight: bold;">Complimentary Events</li>
 		<ol class="lower-roman-orderedlist">
         <li>Confirmation and Notification of Emplacement<br>
             Participants will be notified of their emplacement in the complimentary event 1 week before the event commences in the form of a Confirmation Note.</li>
+			<br>
         <li>Withdrawal<br>
             Only withdrawals through emails will be acknowledged.<br>
             <br>
-            In the event that you are unable to attend, you are to inform the Civil Service College before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
+            If you are unable to attend, you are to inform the Civil Service College before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
             <br>
             Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</li>
     </ol>
 </ol>
-	<li>These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.</li>
+These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.
 </ol>
 
 
@@ -185,6 +204,7 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 <h4>Online User Behaviour (Acceptable Use)</h4>
 <ol start="19">
 	<li>All CSC-related Digital Platforms (LEARN, LEARN-DC and CSC Programme Portal) are intended for use by Singapore Public Service Officers and/or Singapore Public Service Agencies (“Agency”). You shall only access and/or use these platforms by an authorised account and your Account can only be used by you and must not be shared with any other third party (within the Singapore Public Service or otherwise). Your access and/or usage shall be in accordance with your Agency’s instructions.</li>
+	<br>
 	<li>You further adhere to refrain from posting and/or engaging in the following on our digital platforms:</li>
 	<ol class="alphabetical-orderedlist">
         <li>Action that defames, harasses or threatens others;</li>
@@ -201,6 +221,7 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 <h4>Terms of Use</h4>
 <ol start="22">
 	<li>By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</li>
+	<br>
 	<li>You further agree to allow CSC use of any and all photographs and/or videos for publicity that may have been taken during your programme/event. </li>
 	
 </ol>
