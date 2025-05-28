@@ -23,8 +23,8 @@ contacts:
       - email: ""
       - other: Please use this <a href="https://go.gov.sg/csc-feedback">Online Form</a>
           to get in touch with us. <br> Alternatively, you may wish to visit <a
-          href="www.csc.gov.sg">www.csc.gov.sg</a> to find out more about CSC's
-          products and services.
+          href="https://www.csc.gov.sg">www.csc.gov.sg</a> to find out more
+          about CSC's products and services.
     title: General Enquiries
 feedback: https://go.gov.sg/csc-knowledge-enquiry
 ---
