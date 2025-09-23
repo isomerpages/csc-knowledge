@@ -287,7 +287,7 @@ Many thrive: innovators improving productivity in typically labour scarce sector
 <span class="sub"> Tech giants play ball, but small players don’t.</span><br> 
 </p>
 
-<p>In Singapore, existing policy levers prove ineffectua as sophisticated falsehoods are created rapidly and at scale. States struggle to reestablish institutional trust while protecting information and privacy. Some consider only allowing accredited institutions to operate on protected channels; others suggest extending accreditation requirements to any online user through verifiable, biometric identification. <br><span class="sub">Regulators worldwide are sluggish to react, divided on approach to tackling an increasingly malicious info space.</span> </p>
+<p>In Singapore, existing policy levers prove ineffectual as sophisticated falsehoods are created rapidly and at scale. States struggle to reestablish institutional trust while protecting information and privacy. Some consider only allowing accredited institutions to operate on protected channels; others suggest extending accreditation requirements to any online user through verifiable, biometric identification. <br><span class="sub">Regulators worldwide are sluggish to react, divided on approach to tackling an increasingly malicious info space.</span> </p>
 
 <p> In early 2025, a high-profile tragedy strikes Singapore. A man receives a phone call from his young daughter crying in pain, accompanied by photos of her abuse. Her abductors want money, she says. He speeds home in a panic, and as he pulls into the carpark, he drives into his daughter, killing her instantly. It was a deepfake scam. <br><span class="sub"> Domestic pressure causes Singapore to react quickly, but the people and private sectors present a solution first. This has pros and cons.</span></p>
 	
@@ -357,11 +357,6 @@ Many thrive: innovators improving productivity in typically labour scarce sector
 <p>Domestically, Singaporeans are divided on the geopolitical situation; this causes new social rifts to form and Singapore begins to lose its foreigner-friendly reputation. In a shock move, a neighbouring government stops the flow of its workers to Singapore, on the grounds of protecting them from human trafficking. While authorities clarify the move amid public outcry, public speculation on the leanings of our regional neighbours following the announcement of big infrastructural investments from the US further stoke social divides.<br><span class="sub">There are unexpected impacts to Singapore society; precarity of employment, nationality-based tensions are some examples.</span> </p>
 
 	
-	
-	
-	
-	
-<p> In early 2025, a high-profile tragedy strikes Singapore. A man receives a phone call from his young daughter crying in pain, accompanied by photos of her abuse. Her abductors want money, she says. He speeds home in a panic, and as he pulls into the carpark, he drives into his daughter, killing her instantly. It was a deepfake scam. <br><span class="sub"> Domestic pressure causes Singapore to react quickly, but the people and private sectors present a solution first. This has pros and cons.</span></p>
 	
 	
 	
