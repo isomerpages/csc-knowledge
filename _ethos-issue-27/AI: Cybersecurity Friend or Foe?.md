@@ -121,7 +121,7 @@ color:#049c8c;
 
 <div class="background-image">
 
-<img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_Banner.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_27/AI_Cybersecurity_Friend_or_Foe_Banner.png">
 
 </div>
 
