@@ -55,10 +55,10 @@ font-size: 16px;
 	
 <div class="grid-item">
         <img src="/images/Ethos_Images/Ethos_Issue_27/Ethos_Issue_27_b.jpg">
-        <p>
-            <a target="_blank" href="/ethos-issue-27/"> Issue 27,  Forthcoming</a>
+ <p>
+       <a target="_blank" href="/ethos-issue-27/">Issue 27<br>AI in the Public Service</a>
             <br>
-            <a href=""></a>
+            <a target="_blank" href="https://go.gov.sg/ethos-issue-27-pdf">Download PDF</a>
         </p>
     </div>
 	
