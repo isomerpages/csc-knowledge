@@ -75,7 +75,7 @@ border-bottom: none;
 	
 </style>
 
-<em><small>ETHOS Issue 27, Forthcoming</small></em>
+<em><small>ETHOS Issue 27, January 2025</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Issue_27/AI_in_the_Public_Service_Banner.jpg">
 </div>
