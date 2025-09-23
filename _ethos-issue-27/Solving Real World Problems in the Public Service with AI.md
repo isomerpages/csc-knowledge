@@ -220,6 +220,11 @@ and complicated fine-tuning or training of the AI models.</p>
 
 </div>
 
+<div class="break">
+<p class="break1">Reusable platforms maximise the impact of AI initiatives, ensuring that every agency benefits from the latest advancements while 
+minimising duplication of efforts and resources.</p>
+</div>
+
 <br>
 <div class="containerbox">
 
@@ -229,13 +234,12 @@ and complicated fine-tuning or training of the AI models.</p>
 
 <p>However, since gen AI is now widespread and commonplace, the public and our
 citizens are exposed to its risks. We went one step ahead to see if we could do
-anything about them. Specifically, we wanted to see if we could target other risk areas beyond hallucination, such as:
+anything about them. Specifically, we wanted to see if we could target other risk areas beyond hallucination, such as:</p>
 
-</p><p><b>Toxicity</b></p>
-<p>When LLMs generate hateful, explicit, threatening or sexual content in response to user prompts;</p>
-<p><b>Harm</b></p>
-<p>When LLMs encourage dangerous behaviour, including self-harm
-or criminal acts.</p>
+* <b>Toxicity: </b> when LLMs generate hateful, explicit, threatening or sexual content in response to user prompts;
+* <b>Harm:</b> when LLMs encourage dangerous behaviour, including self-harm
+or criminal acts.
+	
 <p>There are benchmarks to evaluate the effectiveness of safeguards provided by most closed-sourced LLMs, such as OpenAI’s ChatGPT and Anthropic’s Claude. However, these benchmarks are usually based on the context in which the LLMs are generated and used, which tend to be specific to North America or Europe. They are therefore less able to detect content specific to Singapore (such as content written in Singlish). While it is not entirely possible to fully prevent all toxic or harmful outputs from LLMs, we thought that building a moderation classifier that could detect unsafe output would help filter out the most harmful content.</p>
 
 <p>After a few months of testing, we created a moderation classifier tool called <b>LionGuard</b>, which has already outperformed commercial-off-the-shelf moderation APIs on texts that include Singlish content. On areas that are labelled hateful and toxic, LionGuard demonstrated a significant improvement in detection.</p>
