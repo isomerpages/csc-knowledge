@@ -80,7 +80,7 @@ td
 
             
             
-   <div class="button1"><a href="https://go.gov.sg/ethos-issue-27-pdf"></a></div></div>
+   <div class="button1"><a href="https://go.gov.sg/ethos-issue-27-pdf">Download Issue 27</a></div></div>
     </div>
     
    <br>
