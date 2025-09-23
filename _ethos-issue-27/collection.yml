@@ -2,7 +2,6 @@ collections:
   ethos-issue-27:
     output: true
     order:
-      - "AI: Cybersecurity Friend or Foe?.md"
       - Foreword.md
       - Editorial.md
       - "AI in the Public Service: Here for Good.md"
@@ -12,5 +11,6 @@ collections:
       - How Generative AI Can Open New Frontiers in Public Service Delivery and
         What's Needed to Get There.md
       - Supercharging Statistics with AI.md
+      - "AI: Cybersecurity Friend or Foe?.md"
       - "LLMs In The Public Sector: Minding What's Missing.md"
       - Strategising AI at the National Level.md
