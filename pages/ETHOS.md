@@ -72,22 +72,15 @@ td
 	}
 }	
 </style>
-<h2>FORTHCOMING EDITION</h2>
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_27/Ethos_Issue_27_b.jpg"></div>
 	<div>
-		<h4>ETHOS Issue 27</h4>	
+		<h2>ETHOS Issue 27</h2>	
             <p>Artificial intelligence tools are become ever more pervasive and capable, with an impact that is quickly being felt across all sectors of society. This edition of ETHOS examines how the Public Service is readying itself to thrive, and to help Singapore succeed, in the age of AI, and considers what else can be done to fully harness its potential for the public good, while mitigating its excesses. The full line-up will feature contributions from colleagues across the Ministry of Digital Development and Information and the Department of Statistics, as well as external experts from Accenture, Harvard and the Tony Blair Institute.</p>
-<p>Here are some of the articles, pre-published for your reading pleasure. The full issue and the print edition will be available soon!</p>
+           
             
-            
-   <div class="button1"><a href=""></a></div></div>
+   <div class="button1"><a href="https://go.gov.sg/ethos-issue-27-pdf">Download Issue 27</a></div></div>
     </div>
-    
-   <br>
-    
- <div class="button1"><a href=""></a></div>
-    
     
    <br>
     
@@ -124,7 +117,6 @@ td
 <div class="button1"><a href="/putting-our-feet-to-the-fire-the-challenge-of-nurturing-an-ai-ready-culture-in-the-public-service/">Read More</a></div><br></div>
     </div>	
 <br>
-
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_27/GenAI_in_public_service_delivery_Teaser.jpg"></div>
         <div><h3>How Generative AI Can Open New Frontiers in Public Service Delivery and What’s Needed to Get There</h3>
@@ -134,7 +126,31 @@ td
             
 <div class="button1"><a href="/how-generative-ai-can-open-new-frontiers-in-public-service-delivery-and-what-s-needed-to-get-there/">Read More</a></div><br></div>
     </div>	
+
+<br> 
+ <div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/AI_Adoption_Teaser.jpg"></div>
+        <div><h3> Generating Momentum for AI Adoption in the Public Service</h3>
+            <b><i>by Weng Wanyi</i></b>
+            
+<p>The Public Service wants to kickstart a virtuous cycle of adoption
+and innovation to transform its work and power the nation’s AI push.</p>	
+            
+<div class="button1"><a href="/generating-momentum-for-ai-adoption-in-the-public-service/">Read More</a></div><br></div>
+    </div>	
+
+<br> 
+ <div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Solving_Real_World_Problems_Teaser.jpg"></div>
+        <div><h3>Solving Real-World Problems in the Public Service with AI</h3>
+            <b><i>by Chang Sau Sheong</i></b>
+            
+<p>Working with public agencies, GovTech teams are building a new generation of apps that are already transforming the way we work, deliver services and engage citizens.</p>	
+            
+<div class="button1"><a href="/solving-real-world-problems-in-the-public-service-with-ai/">Read More</a></div><br></div>
+    </div>
 <br>
+
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_27/Supercharging_AI_with_Statistics_Teaser.jpg"></div>
         <div><h3>Supercharging Statistics with AI  </h3>
@@ -145,7 +161,27 @@ td
 <div class="button1"><a href="/supercharging-statistics-with-ai/">Read More</a></div><br></div>
     </div>
 		
-		  
+<br> 
+ <div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/Governing_AI_Singapore_s_Dynamic_Approach_Teaser.png"></div>
+        <div><h3>Governing AI: Singapore's Dynamic Approach</h3>
+            <b><i>by Lee Wan Sie and Nur Syahidah Sahrom</i></b>
+            
+<p>As AI continues to advance quickly, it may bring about complex and rapidly evolving concerns, which we can address through active vigilance, agile approaches, and strong partnerships within Singapore and around the world.</p>	
+            
+<div class="button1"><a href="/governing-ai-singapore-s-dynamic-approach/">Read More</a></div><br></div>
+    </div>		  
+
+<br> 
+ <div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/AI_Cybersecurity_Friend_or_Foe_Teaser.png"></div>
+        <div><h3>AI: Cybersecurity Friend or Foe?</h3>
+            <b><i>by Justiin Ang and Yik Jiawei</i></b>
+            
+<p>The Cyber Security Agency (CSA) and the Ministry of Digital Development and Information's Security and Resilience Division (SRD) explain the security risks of this promising new technology, and what is being done to mitigate them.</p>	
+            
+<div class="button1"><a href="/ai-cybersecurity-friend-or-foe/">Read More</a></div><br></div>
+    </div>	
 <br>
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_27/LLMS_int_the_Public_Sector_teaser.jpg"></div>
@@ -169,13 +205,6 @@ td
             
 <div class="button1"><a href="/strategising-ai-at-the-national-level/">Read More</a></div><br></div>
     </div>
-		
-		
- <br>   
- 
-  
-
-
 
 <div class="back">
 <a href="/all-issues/">Back to All Issues</a>
