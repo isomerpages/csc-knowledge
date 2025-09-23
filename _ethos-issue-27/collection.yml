@@ -2,6 +2,7 @@ collections:
   ethos-issue-27:
     output: true
     order:
+      - Solving Real World Problems in the Public Service with AI.md
       - Foreword.md
       - Editorial.md
       - "AI in the Public Service: Here for Good.md"
