@@ -2,12 +2,18 @@ collections:
   ethos-issue-27:
     output: true
     order:
+      - Foreword.md
+      - Editorial.md
       - "AI in the Public Service: Here for Good.md"
       - "AI, Technology & Singapore: Preparing for the Future.md"
       - "Putting Our Feet to The Fire: The Challenge of Nurturing an AI Ready
         Culture in the Public Service.md"
       - How Generative AI Can Open New Frontiers in Public Service Delivery and
         What's Needed to Get There.md
+      - Generating Momentum for AI Adoption in the Public Service.md
+      - Solving Real World Problems in the Public Service with AI.md
       - Supercharging Statistics with AI.md
+      - "Governing AI: Singapore's Dynamic Approach.md"
+      - "AI: Cybersecurity Friend or Foe?.md"
       - "LLMs In The Public Sector: Minding What's Missing.md"
       - Strategising AI at the National Level.md
