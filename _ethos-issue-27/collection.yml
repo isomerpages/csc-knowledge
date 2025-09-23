@@ -2,7 +2,6 @@ collections:
   ethos-issue-27:
     output: true
     order:
-      - Generating Momentum for AI Adoption in the Public Service.md
       - Foreword.md
       - Editorial.md
       - "AI in the Public Service: Here for Good.md"
@@ -11,6 +10,7 @@ collections:
         Culture in the Public Service.md"
       - How Generative AI Can Open New Frontiers in Public Service Delivery and
         What's Needed to Get There.md
+      - Generating Momentum for AI Adoption in the Public Service.md
       - Supercharging Statistics with AI.md
       - "Governing AI: Singapore's Dynamic Approach.md"
       - "AI: Cybersecurity Friend or Foe?.md"
