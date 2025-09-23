@@ -2,6 +2,7 @@ collections:
   ethos-issue-27:
     output: true
     order:
+      - Generating Momentum for AI Adoption in the Public Service.md
       - Foreword.md
       - Editorial.md
       - "AI in the Public Service: Here for Good.md"
