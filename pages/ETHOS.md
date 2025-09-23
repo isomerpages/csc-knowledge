@@ -81,7 +81,29 @@ td
             
    <div class="button1"><a href="https://go.gov.sg/ethos-issue-27-pdf">Download Issue 27</a></div></div>
     </div>
-    
+<br> 
+ <div class="grid-container">
+        <div><img src="/images/Landing_Banner_Images/tile_preface_foreword.jpg"></div>
+        <div><h3>Foreword</h3>
+            <b><i>by Josephine Teo</i></b>
+            
+<p>Almost a year has passed since we launched our refreshed National AI
+Strategy (NAIS 2.0).</p>	
+            
+<div class="button1"><a href="/ethos-issue-27/foreword/">Read More</a></div><br></div>
+    </div>	
+
+
+<br> 
+ <div class="grid-container">
+        <div><img src="/images/Landing_Banner_Images/tile_editorial.jpg"></div>
+        <div><h3>Editorial</h3>
+            <b><i>by Alvin Pang</i></b>
+            
+<p>Slowly, and then all at once, artificial intelligence (AI) has been approaching the centre of global public life. While the field of AI is decades old, it has only just recently captured the public (and business) imagination, due mainly to the dazzling rise of ChatGPT, with its uncanny ability to generate human-like responses to a wide variety of queries.</p>	
+            
+<div class="button1"><a href="/ethos-issue-27/editorial/">Read More</a></div><br></div>
+    </div>	    
    <br>
     
 <div class="grid-container">
