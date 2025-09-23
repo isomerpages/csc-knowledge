@@ -245,7 +245,7 @@ or criminal acts.
 <p>After a few months of testing, we created a moderation classifier tool called <b>LionGuard</b>, which has already outperformed commercial-off-the-shelf moderation APIs on texts that include Singlish content. On areas that are labelled hateful and toxic, LionGuard demonstrated a significant improvement in detection.</p>
 
 <figure>  
-<img src="/images/Ethos_Images/Ethos_Issue_27/Lionguard.png">
+<img src="/images/Ethos_Images/Ethos_Issue_27/LionGuard.png">
 <figcaption>LionGuard can be accessed via https://go.gov.sg/lionguard.</figcaption>	
 </figure>
 </div>
