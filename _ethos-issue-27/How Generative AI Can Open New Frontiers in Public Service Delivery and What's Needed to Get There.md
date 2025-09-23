@@ -141,7 +141,7 @@ border-radius:10px;
 
 
 
-<em><small>ETHOS Issue 27, Forthcoming</small></em>
+<em><small>ETHOS Issue 27, January 2025</small></em>
 
 <div class="background-image">
 
