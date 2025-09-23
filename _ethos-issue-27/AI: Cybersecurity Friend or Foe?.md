@@ -128,15 +128,13 @@ color:#049c8c;
 
 
 	
-<p> Even as Artificial Intelligence (AI) continues to capture the
-public’s imagination and gain wider adoption, the question of whether it is friend or foe continues to be a subject of significant debate. While AI promises to boost efficiency and innovation and drive us to the next bound of growth, it also risks significantly disrupting society, and may have unforeseen impacts on the digital divide. In this debate, it is important to be clear about the risks of AI, and what we are putting at stake. We cannot afford to overlook the inherent security risks to and of AI, as well as the impact AI may have on other security risks. There is also the risk that security concerns may undermine trust in broader AI use and in the benefits it could otherwise bring.</p>
+<p> Even as Artificial Intelligence (AI) continues to capture the public’s imagination and gain wider adoption, the question of whether it is friend or foe continues to be a subject of significant debate. While AI promises to boost efficiency and innovation and drive us to the next bound of growth, it also risks significantly disrupting society, and may have unforeseen impacts on the digital divide. In this debate, it is important to be clear about the risks of AI, and what we are putting at stake. We cannot afford to overlook the inherent security risks to and of AI, as well as the impact AI may have on other security risks. There is also the risk that security concerns may undermine trust in broader AI use and in the benefits it could otherwise bring.</p>
 
 
 <h2>Is AI Secure?</h2>
 <h3>AI is vulnerable to new and old risks</h3>
 
-<p>AI promises significant benefits in terms of productivity and decision-making. However, just like any other software, the adoption of new AI systems can introduce new risks or exacerbate existing ones for organisations.
-To maximise the benefits of AI, the technology has to be made safe and
+<p>AI promises significant benefits in terms of productivity and decision-making. However, just like any other software, the adoption of new AI systems can introduce new risks or exacerbate existing ones for organisations. To maximise the benefits of AI, the technology has to be made safe and
 secure. This ensures that the output of these models is accurate, reliable, and
 will not harm users or systems.</p>
 
@@ -160,17 +158,12 @@ systems that depend on AI tools to function.</ul>
 
 <p> While AI can uplift our productivity and economic growth, it could also be
 misused to provide malicious actors with devastating capabilities. There are
-legitimate concerns about the rise of AI-enabled threats to digital security—
-including AI-enabled cyberattacks, misinformation and disinformation
+legitimate concerns about the rise of AI-enabled threats to digital security—including AI-enabled cyberattacks, misinformation and disinformation
 campaigns, as well as scams.</p>
 
 <p>Cybersecurity and AI firms have reported that threat actors are already misusing AI to boost the productivity of malicious workflows and will continue using AI to enhance the sophistication of their attack tactics, techniques, and procedures. In the near term, sophisticated actors could learn to use AI to develop polymorphic malware, which can be re-programmed to evade cybersecurity defences. In the future, we expect threat actors to train AI models to mount autonomous attacks that can adapt to the target or environment without human intervention.</p>
 
-<p>In Singapore, we are also concerned about an enlarged risk of AI-enabled
-misinformation and disinformation and AI-enabled scams. This could include
-the malicious use of deepfakes, which could be used to influence elections,
-for instance. As generative AI models improve, it will be increasingly difficult to determine if content is authentic and trustworthy. This could have a long-term impact on how much members of the public trust information that is
-published and broadcasted online, and in the digital domain in general.</p>	
+<p>In Singapore, we are also concerned about an enlarged risk of AI-enabled misinformation and disinformation and AI-enabled scams. This could include the malicious use of deepfakes, which could be used to influence elections, for instance. As generative AI models improve, it will be increasingly difficult to determine if content is authentic and trustworthy. This could have a long-term impact on how much members of the public trust information that is published and broadcasted online, and in the digital domain in general.</p>	
 	
 	
 <div class="break">
