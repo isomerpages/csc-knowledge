@@ -164,6 +164,17 @@ and innovation to transform its work and power the nation’s AI push.</p>
 
 <br> 
  <div class="grid-container">
+        <div><img src="/images/Ethos_Images/Ethos_Issue_27/AI_Research_Teaser.jpg"></div>
+        <div><h3>Powering Up AI Research in Singapore</h3>
+            <b><i>by Bernice Khoo and Marvin Lee</i></b>
+            
+<p>Singapore’s AI research builds on early successes and a thriving community
+to grow an ecosystem tackling some of the most challenging questions facing us today.</p>	
+            
+<div class="button1"><a href="/powering-up-ai-research-in-singapore/">Read More</a></div><br></div>
+    </div>
+<br> 
+ <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Issue_27/Solving_Real_World_Problems_Teaser.jpg"></div>
         <div><h3>Solving Real-World Problems in the Public Service with AI</h3>
             <b><i>by Chang Sau Sheong</i></b>
