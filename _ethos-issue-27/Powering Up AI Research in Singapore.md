@@ -208,7 +208,7 @@ their accuracy in many fields.</p>
 
 <h4><p style="color:#00AA76;">APPLIED AI RESEARCH</p></h4><p></p>
 
-<p>Applied research is about leveraging AI to address real-world challenges in Singapore, in key sectors such as education and healthcare. We have made notable progress in some of our applied AI projects. The following are just some examples of our efforts to date. For the next bound, we aim to do more to create transformative AI applications.</p>.
+<p>Applied research is about leveraging AI to address real-world challenges in Singapore, in key sectors such as education and healthcare. We have made notable progress in some of our applied AI projects. The following are just some examples of our efforts to date. For the next bound, we aim to do more to create transformative AI applications.</p>
 
 <p style="color:#00AA76;"><b>Mother Tongue Learning</b></p>
 
@@ -285,7 +285,7 @@ Large Language Models (LLMs).</p>
 
 <p>The National AI Group continues to be bold, agile and innovative in finding ways to uplift Singapore’s AI research ecosystem, and to actively bring communities together—so that everyone can benefit from the latest global advancements and breakthroughs in AI.</p>
 
-<p style="color:#F48A34;"><b>The SCAI Experiment</b></p>
+<p style="color:#F48A34;"><b>Growing Our Research Network</b></p>
 
 <p>We continue to do more to attract top AI talent to contribute
 to Singapore’s AI journey, and to seed local research initiatives
