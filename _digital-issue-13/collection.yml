@@ -1,0 +1,5 @@
+collections:
+  digital-issue-13:
+    output: true
+    order:
+      - How To Be Innovative.md
