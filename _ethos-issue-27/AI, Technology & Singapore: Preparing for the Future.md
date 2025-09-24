@@ -161,7 +161,7 @@ border-radius:20px;
 
 <em><small>ETHOS Issue 27, January 2025</small></em>
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_27/Ai_Tecnology_singapore_Banner.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_27/AI, Technology and Singapore.jpg">
 </div>
 
 
