@@ -136,7 +136,7 @@ line-height: 22px;
 
 
 <div class="author">
-<h6>ABOUT THE AUTHORS</h6>	 
+<h6>ABOUT THE AUTHOR</h6>	 
 <p><b>Li Hongyi</b> is Director of Open Government Products division at GovTech, where he leads an experimental team of engineers, designers, and product managers who build technology for the public good. The projects they have worked on include Parking.sg,  Go.gov.sg, and RedeemSG. He believes in working on real problems, building for the user, and pushing for change. Prior to joining the public sector, Hongyi worked at Google on the distributed databases and image search teams. He holds degrees in degrees in computer science and economic from MIT. In his free time, he works on personal projects such as <a target="blank" href="http://typographing.com">typographing.com</a> and <a target="blank" href="https://chatlet.com">chatlet.com</a>.</p>
 
 </div>
@@ -146,4 +146,3 @@ line-height: 22px;
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
