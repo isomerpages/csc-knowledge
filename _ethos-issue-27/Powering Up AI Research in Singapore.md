@@ -226,7 +226,7 @@ show the app effectively improves glycaemic control and
 is well-received by both patients and health professionals.</p>
 
 </div>
-
+<br>
 <br>
 <div class="containerbox4">
 
@@ -238,7 +238,7 @@ and empowerment.</p>
 <p>In 2017, the national programme AI Singapore (AISG) was established to bring
 together all Singapore-based research institutions, as well as the ecosystem of AI start-ups and companies, to anchor deep national capabilities in artificial  intelligence. AISG is supported by the National Research Foundation’s Research, Innovation and Enterprise (RIE) 2020 and 2025 Plan. Aside from research programmes, AISG has developed technology and innovation programmes to foster innovation.</p>
 
-<p>AISG’s Technology Programme, for instance, has played a significant role in paving the way for <b>Challenges</b>. These are outcome-focused initiatives, typically conducted over several weeks or months, aimed at mobilising researchers locally and globally to tackle important problem statements faced by Singapore and the world.</p>.
+<p>AISG’s Technology Programme, for instance, has played a significant role in paving the way for <b>Challenges</b>. These are outcome-focused initiatives, typically conducted over several weeks or months, aimed at mobilising researchers locally and globally to tackle important problem statements faced by Singapore and the world.</p>
 
 <p style="color:#F48A34;"><b>Examples of Challenges</b></p>
 
