@@ -118,14 +118,10 @@ line-height: 22px;
 <p>One example is Armory, an app we built for SCDF to help firemen track their equipment. After a year of development and iteration we got something really good rolled out to all the fire stations. Moving off paper made equipment checks easier, tracked necessary maintenance, and improved operational readiness. Since the firemen loved it, we thought the paramedics could use it too.</p>
 
 <div class="break">
-<p class="break1">If you want to be innovative, you need to structure for it deliberately.</p>
+<p class="break1">“Pressing the YES/NO button 461 times. Stop asking redundant questions." — Paramedic</p>
 </div>
 
 <p>They hated it. Ambulances carry hundreds of small items and medications. Armory forced them to check every item, every shift, even ones they had not used. This added up to over 400 different checks every day. It was slow, frustrating, and not worth it. It is surprisingly hard to anticipate why an idea might not work. Even good ideas can fail when subtle differences between seemingly similar users turn out to matter more than expected.</p>
-
-<div class="break">
-<p class="break1">What makes an idea valuable is not the idea itself, but whether it has been refined through iteration.</p>
-</div>
 
 <p>So we kept iterating. We cut unnecessary checks. We added item groups, so teams could clear items in bulk. We introduced scheduling, so some items only needed to be checked weekly or monthly. This cut the number of daily checks from over 400 to less than 70. It took lots of feedback and testing, but eventually it became something paramedics actually wanted to use. With so many ways for ideas to fail, iteration is the only way to successfully innovate.</p> 
 
