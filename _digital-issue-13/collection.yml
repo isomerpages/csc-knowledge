@@ -2,6 +2,6 @@ collections:
   digital-issue-13:
     output: true
     order:
+      - How To Be Innovative.md
       - "AI in Government: Trust Before Transformation.md"
       - "ETHOS Roundtable: Humanising Government in the 21st Century.md"
-      - How To Be Innovative.md
