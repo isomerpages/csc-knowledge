@@ -92,6 +92,11 @@ line-height: 22px;
 
 <p>At OGP, we designed the team to be a support structure rather than a command structure. The job of management is to provide the space, resources, and tools for the teams to work as effectively as possible, while still holding the team accountable for their outcomes. The team decides what to build, how to build it, and how to prioritise. That is where innovation happens.</p>
 
+<figure>  
+<img src="/images/Ethos_Images/Ethos_Digial_Issue_13/OGP_Garden_Model.png">
+
+</figure>
+
 <p>In a Rube Goldberg machine, a marble might knock over some dominoes, which flips a switch, which pushes a broom and so on, eventually turning a light on. If you removed even a single domino, the whole thing would stop working. With traditional structures, we tend to form human Rube Goldberg machines. The CEO tells the director, who tells the team lead, who tells the procurement manager, who tells the vendor, who tells the project manager, who tells the developer. If any part of that chain changes, the whole company might stall. It is no surprise then when nobody innovates.</p>
 
 <p>In developing Singpass, we previously had a lot of Rube Goldberg problems. Even minor launches required coordination from at least six different groups and dozens of people. To address this, we restructured to group people around each product with a clear goal and explicitly mapped out the main ways the different teams depended on each other. For example, the authentication team had the goal ‘Maximise scale and reliability of logins’, while the customer experience team’s goal was to ‘Minimise user frustration’. Each new team was cross-functional (design, frontend, backend, operations). This meant that most of the work could happen within each team, only occasionally requiring cross team collaboration. </p>
