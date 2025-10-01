@@ -92,13 +92,18 @@ line-height: 22px;
 
 <p>At OGP, we designed the team to be a support structure rather than a command structure. The job of management is to provide the space, resources, and tools for the teams to work as effectively as possible, while still holding the team accountable for their outcomes. The team decides what to build, how to build it, and how to prioritise. That is where innovation happens.</p>
 
+<figure>  
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_13/OGP_Garden_Model.png">
+</figure>
+
 <p>In a Rube Goldberg machine, a marble might knock over some dominoes, which flips a switch, which pushes a broom and so on, eventually turning a light on. If you removed even a single domino, the whole thing would stop working. With traditional structures, we tend to form human Rube Goldberg machines. The CEO tells the director, who tells the team lead, who tells the procurement manager, who tells the vendor, who tells the project manager, who tells the developer. If any part of that chain changes, the whole company might stall. It is no surprise then when nobody innovates.</p>
 
 <p>In developing Singpass, we previously had a lot of Rube Goldberg problems. Even minor launches required coordination from at least six different groups and dozens of people. To address this, we restructured to group people around each product with a clear goal and explicitly mapped out the main ways the different teams depended on each other. For example, the authentication team had the goal ‘Maximise scale and reliability of logins’, while the customer experience team’s goal was to ‘Minimise user frustration’. Each new team was cross-functional (design, frontend, backend, operations). This meant that most of the work could happen within each team, only occasionally requiring cross team collaboration. </p>
 
-<div class="break">
-<p class="break1">If you want to be innovative, you need to structure for it deliberately.</p>
-</div>
+<figure>  
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_13/SingPass_team_structure_resized.png">
+
+</figure> 
 
 <p>To be clear, every organisation structure makes some things easy and other things hard. The key is to make the most common and important things easy and accept that rare and less important things will be hard. So, if you want to be innovative, you need to structure for it deliberately. This means providing support, reducing dependencies, and creating space for creativity and autonomy.</p>
 
@@ -112,11 +117,11 @@ line-height: 22px;
 
 <p>One example is Armory, an app we built for SCDF to help firemen track their equipment. After a year of development and iteration we got something really good rolled out to all the fire stations. Moving off paper made equipment checks easier, tracked necessary maintenance, and improved operational readiness. Since the firemen loved it, we thought the paramedics could use it too.</p>
 
-<p>They hated it. Ambulances carry hundreds of small items and medications. Armory forced them to check every item, every shift, even ones they had not used. This added up to over 400 different checks every day. It was slow, frustrating, and not worth it. It is surprisingly hard to anticipate why an idea might not work. Even good ideas can fail when subtle differences between seemingly similar users turn out to matter more than expected.</p>
-
 <div class="break">
-<p class="break1">What makes an idea valuable is not the idea itself, but whether it has been refined through iteration.</p>
+<p class="break1">“Pressing the YES/NO button 461 times. Stop asking redundant questions." — Paramedic</p>
 </div>
+
+<p>They hated it. Ambulances carry hundreds of small items and medications. Armory forced them to check every item, every shift, even ones they had not used. This added up to over 400 different checks every day. It was slow, frustrating, and not worth it. It is surprisingly hard to anticipate why an idea might not work. Even good ideas can fail when subtle differences between seemingly similar users turn out to matter more than expected.</p>
 
 <p>So we kept iterating. We cut unnecessary checks. We added item groups, so teams could clear items in bulk. We introduced scheduling, so some items only needed to be checked weekly or monthly. This cut the number of daily checks from over 400 to less than 70. It took lots of feedback and testing, but eventually it became something paramedics actually wanted to use. With so many ways for ideas to fail, iteration is the only way to successfully innovate.</p> 
 
