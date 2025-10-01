@@ -76,7 +76,7 @@ li {
 
 <p class="small-text"><strong><span style="color: #4f81bd;">Ms Patricia Yvonne “PY” Mangrobang Caunan</span></strong>, Undersecretary, Policy and International Cooperation, Department of Migrant Workers, The Philippines</p>
 
-<p class="small-text"><strong><span style="color: #ff2324;">Dr Hatem Amer </span></strong>, Associate Minister, Health and Population for International Relations, Egypt</p>
+<p class="small-text"><strong><span style="color: #ff2324;">Dr Hatem Amer</span></strong>, Associate Minister, Health and Population for International Relations, Egypt</p>
 
 <p class="small-text"><strong><span style="color: #76923c;">Dr Mzukisi Qobo</span></strong>, South Africa’s Ambassador and Permanent Representative to the World Trade Organisation</p>
 
