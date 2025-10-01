@@ -2,4 +2,5 @@ collections:
   digital-issue-13:
     output: true
     order:
+      - "ETHOS Roundtable: Humanising Government in the 21st Century.md"
       - How To Be Innovative.md
