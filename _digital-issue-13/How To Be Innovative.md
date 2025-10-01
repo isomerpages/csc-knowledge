@@ -100,7 +100,10 @@ line-height: 22px;
 
 <p>In developing Singpass, we previously had a lot of Rube Goldberg problems. Even minor launches required coordination from at least six different groups and dozens of people. To address this, we restructured to group people around each product with a clear goal and explicitly mapped out the main ways the different teams depended on each other. For example, the authentication team had the goal ‘Maximise scale and reliability of logins’, while the customer experience team’s goal was to ‘Minimise user frustration’. Each new team was cross-functional (design, frontend, backend, operations). This meant that most of the work could happen within each team, only occasionally requiring cross team collaboration. </p>
 
+<figure>  
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_13/SingPass_team_structure_resized.png">
 
+</figure> 
 
 <p>To be clear, every organisation structure makes some things easy and other things hard. The key is to make the most common and important things easy and accept that rare and less important things will be hard. So, if you want to be innovative, you need to structure for it deliberately. This means providing support, reducing dependencies, and creating space for creativity and autonomy.</p>
 
