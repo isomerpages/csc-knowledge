@@ -100,9 +100,7 @@ line-height: 22px;
 
 <p>In developing Singpass, we previously had a lot of Rube Goldberg problems. Even minor launches required coordination from at least six different groups and dozens of people. To address this, we restructured to group people around each product with a clear goal and explicitly mapped out the main ways the different teams depended on each other. For example, the authentication team had the goal ‘Maximise scale and reliability of logins’, while the customer experience team’s goal was to ‘Minimise user frustration’. Each new team was cross-functional (design, frontend, backend, operations). This meant that most of the work could happen within each team, only occasionally requiring cross team collaboration. </p>
 
-<div class="break">
-<p class="break1">If you want to be innovative, you need to structure for it deliberately.</p>
-</div>
+
 
 <p>To be clear, every organisation structure makes some things easy and other things hard. The key is to make the most common and important things easy and accept that rare and less important things will be hard. So, if you want to be innovative, you need to structure for it deliberately. This means providing support, reducing dependencies, and creating space for creativity and autonomy.</p>
 
@@ -115,6 +113,10 @@ line-height: 22px;
 <p>To get good ideas, you have to start with a lot of ideas, then experiment to find out what can actually work. What makes an idea valuable is not the idea itself, but whether it has been refined through iteration.</p>
 
 <p>One example is Armory, an app we built for SCDF to help firemen track their equipment. After a year of development and iteration we got something really good rolled out to all the fire stations. Moving off paper made equipment checks easier, tracked necessary maintenance, and improved operational readiness. Since the firemen loved it, we thought the paramedics could use it too.</p>
+
+<div class="break">
+<p class="break1">If you want to be innovative, you need to structure for it deliberately.</p>
+</div>
 
 <p>They hated it. Ambulances carry hundreds of small items and medications. Armory forced them to check every item, every shift, even ones they had not used. This added up to over 400 different checks every day. It was slow, frustrating, and not worth it. It is surprisingly hard to anticipate why an idea might not work. Even good ideas can fail when subtle differences between seemingly similar users turn out to matter more than expected.</p>
 
