@@ -201,7 +201,7 @@ background-color: #FFCC99;
 <h6>ABOUT THE AUTHORS</h6>	 
 <p><b>Kok Sheu Sum</b> is Senior Principal Consultant (Organisation Development) in the Institute of Leadership &amp; Organisation Development (ILOD), Civil Service College, Singapore. Together with the ILOD’s team of OD consultants, Sheu Sum supports the learning and development of Singapore public servants, ministries and agencies, through the consulting and teaching of best OD practices.</p>
 
-<p><b>Khoo Ee Wan</b> is Principal Researcher in ILOD, where she conducts research studies that generate actionable insights to inform talent assessment, leadership development and organisation development.</p>
+<p><b>Khoo Ee Wan</b> is Principal Researcher and leads the Data and Research Team in ILOD, where she conducts research studies that generate actionable insights to inform talent assessment, leadership development and organisation development.</p>
 	
 </div>
 
