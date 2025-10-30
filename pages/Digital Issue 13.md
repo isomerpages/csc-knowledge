@@ -75,8 +75,8 @@ td
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_13/EthosDigital_Issue13_cover.jpg"></div>
 	<div><h3><span class="cat">Digital Issue 13, Oct 2025</span>
-            <br>ETHOS Digital Issue 12</h3>	
-            <p>In this digital edition of ETHOS, Li Hongyi debunks innovation myths; CSC's OD experts shares tips to bridge Boomers and Gen Zs in the workplace; CSC researchers talk trust by design in AI-driven governance approaches; LGP participants advocate greater empathy in a tech-forward world.</p>
+            <br>ETHOS Digital Issue 13</h3>	
+            <p>In this digital edition of ETHOS, Li Hongyi debunks innovation myths; CSC's OD experts shares tips to bridge Boomers and Gen Zs in the workplace; CSC researchers talk trust by design in AI-driven governance approaches; and LGP participants advocate greater empathy in a tech-forward world.</p>
 	          
             
    <div class="button1"><a href=""></a></div></div>
@@ -98,7 +98,7 @@ td
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_13/D13_Innovative_Teaser.jpg"></div>
         <div><h3>How To Be Innovative</h3>
-            <b><i>Li Hongyi</i></b>
+            <b><i>by Li Hongyi</i></b>
             
 <p>The Director of GovTech’s Open Government Products (OGP) team highlights what it really takes to make new things happen — and why we should.</p>	
             
@@ -109,7 +109,7 @@ td
 <div class="grid-container">
         <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_13/D13_AI_Teaser.jpg"></div>
         <div><h3>AI in Government: Trust Before Government</h3>
-            <b><i>Chelsea Ong and Vernie Oliveiro</i></b>
+            <b><i>by Chelsea Ong and Vernie Oliveiro</i></b>
             
 <p>Ethical guardrails, data protection and other safety assurances will support broader adoption and public confidence of AI use in government.</p>	
             
@@ -120,7 +120,7 @@ td
 <div class="grid-container">
       <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_13/D13_LGP_Teaser.jpg"></div>
         <div><h3>ETHOS Roundtable: Humanising Government in the 21st Century</h3>
-            <b><i>with  Patricia Yvonne Mangrobang Caunan, Hatem Amer and Mzukisi Qobo</i></b>
+            <b><i>with Patricia Yvonne Mangrobang Caunan, Hatem Amer and Mzukisi Qobo</i></b>
 <p>Three veteran public sector practitioners highlight the importance of transparency, partnership and empathy in upholding the compact between a government and its people, in an increasingly fractious world.</p>	
             
 <div class="button1"><a href="/ethos-roundtable-humanising-government-in-the-21st-century/">Read More</a></div><br></div>
