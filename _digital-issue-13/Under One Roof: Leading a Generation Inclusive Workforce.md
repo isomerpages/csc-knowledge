@@ -80,7 +80,7 @@ background-color: #FFCC99;
 </style>
 <em><small>ETHOS Digital Issue 13</small></em>
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Digital_Issue_13/D13_AI_Banner_Resized.jpg">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_13/D13_3Gen_Workforce_resized.jpg">
 </div>
 
 <p>With four generations currently in the workforce, the Singapore Public Service is at its most generationally diverse since 2021. Generations X and Y constitute nearly 75% of the Public Service, with Baby Boomers and Generation Z making up the rest, in almost equal parts.<sup><a href="#notestop">1</a></sup></p> 
