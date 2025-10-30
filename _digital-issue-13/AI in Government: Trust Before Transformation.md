@@ -78,7 +78,7 @@ background-color: #FFCC99;
 	
 	
 </style>
-<em><small>ETHOS Digital Issue 13</small></em>
+<em><small>ETHOS Digital Issue 13, Oct 2025</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_13/D13_AI_Banner_Resized.jpg">
 </div>
