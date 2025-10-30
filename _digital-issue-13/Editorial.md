@@ -41,12 +41,16 @@ padding-bottom:30px;
 <img src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 </div>
 
-<p>This issue of ETHOS Digital Edition draws together a number of themes that have recurred in our coverage of public policy and governance issues.</p> 
-<p>In considering questions of data, we hear from three public sector researchers from the UK and Singapore, including former Deputy Secretary Aaron Maniam, who reflect on the role of evidence in policymaking. In their wide-ranging discussion, they discuss perennial concerns about resource constraints, and consider the place of data and digital technology in deepening our understanding about policy interventions and public outcomes. They also reflect on the critical need to involve a broader range of evidence and perspectives in the policy design and learning process when approaching any given issue.</p>
-<p>In discussing the challenges that loom large for their governments, three participants from the 15th Leadership in Governance Programme bring up the game-changing opportunities presented by digital technology. But they also caution that, as technologies such as artificial intelligence come to the fore, the need to tend to issues of inclusivity, culture and public trust will become more vital. There is a balance to be struck between racing to build the capabilities to do things well and cultivating the wisdom to do the right thing. To this end, connecting well with the public and other stakeholders will be as important to future national success as laying infrastructure for digital networks and emerging industries.</p>
-<p>But the imperative to connect must be matched with the ability to do so effectively. Engagement between the government and the public in Singapore has come a long way over the years. As we evolve new ways of deliberating and working together, researcher Bernard Ting outlines how public participation in governance can be strengthened and deepened, improving chances for truly transformative and meaningful outcomes. 
-Technological capacity in itself is without purpose; talk alone is impotent. It is the combination of hardware and heartware—with rich, robust data used wisely in an environment of committed and considered engagement—that may best ensure Singapore’s success in a changing world.</p>
-<p>I wish you an engaging read.</p>
+<p> This digital edition of ETHOS brings you expert views that reframe conventional perspectives on the work of public service as the world faces dizzying changes in work culture, technology and governance norms.</p>
+
+**Li Hongyi**, Director of Open Government Products at GovTech, walking the talk of innovation is more difficult than it sounds — it must be backed by clear outcomes, a dedicated support structure, and a tolerance for iterative trial and error.
+
+**Kok Sheu Sum &amp; Khoo Ee Wan** from the Institute of Leadership and Organisational Development trace generational differences in the contemporary public sector workplace. They outlines strategies, based on research, to find common ground among them — such as by harnessing a shared sense of mission for the greater public good.
+
+As artificial intelligence proliferates across all sectors, including government, **Cheryl Ong &amp; Vernie Oliverio,** from the Institute of Governance and Policy, survey ways to engender trust amid an increasingly wary public. They share cautionary tales of what can go askew if technology is not tempered with ethical considerations, fact checks, and safety guardrails.
+
+And in our ETHOS Roundtable, participants from the **16th Leaders in Governance Programme (LGP)** discuss the reciprocal relationship between public trust and government capability, the generational shift in expectations of government and leadership, and the value of authenticity, inclusivity, empathy and community in the face of an ever-more tech-mediated and performative public sphere.<p></p>
+<p>I wish you an insightful read.</p>
 
 <h6>Dr Alvin Pang</h6>
 <strong>Editor-in-Chief, ETHOS</strong> 
