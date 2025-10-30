@@ -84,7 +84,8 @@ background-color: #FFCC99;
 </div>
 
 <p>With four generations currently in the workforce, the Singapore Public Service is at its most generationally diverse since 2021. Generations X and Y constitute nearly 75% of the Public Service, with Baby Boomers and Generation Z making up the rest, in almost equal parts.<sup><a href="#notestop">1</a></sup></p> 
-     
+<br>
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_13/D13_different_generations.jpg">
 <p>This situation is hardly unique. Some organisations in Singapore and across the globe may even have up to six generations working concurrently. Members of the Silent Generation—who are octogenarians today—may be serving in advisory or leadership roles, while early Generation Alpha members  may be starting their internships.</p>
 
 <p>The challenge for Public Service leaders is how to engage and include the different views that a multi-generational workforce may have about <b><em>what is work, how we work, and why we work,</em></b> while leading their constituents towards organisation purpose &amp; outcomes.</p>
