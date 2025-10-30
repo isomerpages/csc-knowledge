@@ -192,7 +192,7 @@ background-color: #FFCC99;
 <p>Managing four generations under one roof — whether at home or in an organisation — is going to be a challenge. Everyone wants their own space, each person wishes to lead their own life and follow their own aspirations. Making it work takes more than just opening more physical spaces so that we can stay out of one another’s way. It requires us to open up the spaces in hearts and minds, so that we can all flourish together.</p>
 <br>
 <div class="containerbox">
-<p><b>Human System Dynamics, Sense-giving, Sense-making, Clear Leadership, Polarity Management, 4 Change Frames are some of ILOD’s approaches and methods in OD consultancies to help our agencies be heaKoKlthy and performing. For details on these approaches and interest in consultancies, please contact ILOD at <a href="mailto:cscollege_ilod_consultancy@cscollege.gov.sg">cscollege_ilod_consultancy@cscollege.gov.sg</a>.</b></p>
+<p><b>Human System Dynamics, Sense-giving, Sense-making, Clear Leadership, Polarity Management, 4 Change Frames</b> are some of ILOD’s approaches and methods in OD consultancies to help our agencies be healthy and performing. For details on these approaches and interest in consultancies, please contact ILOD at <a href="mailto:cscollege_ilod_consultancy@cscollege.gov.sg">cscollege_ilod_consultancy@cscollege.gov.sg</a>.</p>
 </div>
 <br>
 
