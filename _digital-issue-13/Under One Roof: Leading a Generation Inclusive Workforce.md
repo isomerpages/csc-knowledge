@@ -190,9 +190,10 @@ background-color: #FFCC99;
 <p>For there to be coherence in generational-inclusive organisational strategy, we further suggest paying attention to four key organisation dimensions: Systems &amp; Processes, Structures, Culture, Leadership &amp; People.<sup><a href="#notestop">23</a></sup> Our preliminary suggestions above work in all the four dimensions: your leadership collective can generate more ideas to bring your people together, in ways that fit your contexts.</p>
 
 <p>Managing four generations under one roof — whether at home or in an organisation — is going to be a challenge. Everyone wants their own space, each person wishes to lead their own life and follow their own aspirations. Making it work takes more than just opening more physical spaces so that we can stay out of one another’s way. It requires us to open up the spaces in hearts and minds, so that we can all flourish together.</p>
-
+<br>
+<div class="containerbox">
 <p><b>Human System Dynamics, Sense-giving, Sense-making, Clear Leadership, Polarity Management, 4 Change Frames are some of ILOD’s approaches and methods in OD consultancies to help our agencies be heaKoKlthy and performing. For details on these approaches and interest in consultancies, please contact ILOD at <a href="mailto:cscollege_ilod_consultancy@cscollege.gov.sg">cscollege_ilod_consultancy@cscollege.gov.sg</a>.</b></p>
-
+</div>
 <br>
 
 <div class="author">
@@ -200,8 +201,6 @@ background-color: #FFCC99;
 <p><b>Kok Sheu Sum</b> is Senior Principal Consultant (Organisation Development) in the Institute of Leadership &amp; Organisation Development (ILOD), Civil Service College, Singapore. Together with the ILOD’s team of OD consultants, Sheu Sum supports the learning and development of Singapore public servants, ministries and agencies, through the consulting and teaching of best OD practices.</p>
 
 <p><b>Khoo Ee Wan</b> is Principal Researcher in ILOD, where she conducts research studies that generate actionable insights to inform talent assessment, leadership development and organisation development.</p>
-
-
 	
 </div>
 
