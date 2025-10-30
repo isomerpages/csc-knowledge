@@ -45,9 +45,9 @@ padding-bottom:30px;
 
 **Li Hongyi**, Director of Open Government Products at GovTech, walking the talk of innovation is more difficult than it sounds — it must be backed by clear outcomes, a dedicated support structure, and a tolerance for iterative trial and error.
 
-**Kok Sheu Sum &amp; Khoo Ee Wan** from the Institute of Leadership and Organisational Development trace generational differences in the contemporary public sector workplace. They outlines strategies, based on research, to find common ground among them — such as by harnessing a shared sense of mission for the greater public good.
+**Kok Sheu Sum &amp; Khoo Ee Wan** from the Institute of Leadership and Organisational Development trace generational differences in the contemporary public sector workplace. They outline strategies, based on research, to find common ground among them — such as by harnessing a shared sense of mission for the greater public good.
 
-As artificial intelligence proliferates across all sectors, including government, **Cheryl Ong &amp; Vernie Oliverio,** from the Institute of Governance and Policy, survey ways to engender trust amid an increasingly wary public. They share cautionary tales of what can go askew if technology is not tempered with ethical considerations, fact checks, and safety guardrails.
+As artificial intelligence proliferates across all sectors, including government, **Chelsea Ong &amp; Vernie Oliverio,** from the Institute of Governance and Policy, survey ways to engender trust amid an increasingly wary public. They share cautionary tales of what can go askew if technology is not tempered with ethical considerations, fact checks, and safety guardrails.
 
 And in our ETHOS Roundtable, participants from the **16th Leaders in Governance Programme (LGP)** discuss the reciprocal relationship between public trust and government capability, the generational shift in expectations of government and leadership, and the value of authenticity, inclusivity, empathy and community in the face of an ever-more tech-mediated and performative public sphere.<p></p>
 <p>I wish you an insightful read.</p>
