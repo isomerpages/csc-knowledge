@@ -49,7 +49,7 @@ padding-bottom:30px;
 
 As artificial intelligence proliferates across all sectors, including government, **Chelsea Ong &amp; Vernie Oliverio,** from the Institute of Governance and Policy, survey ways to engender trust amid an increasingly wary public. They share cautionary tales of what can go askew if technology is not tempered with ethical considerations, fact checks, and safety guardrails.
 
-And in our ETHOS Roundtable, participants from the **16th Leaders in Governance Programme (LGP)** discuss the reciprocal relationship between public trust and government capability, the generational shift in expectations of government and leadership, and the value of authenticity, inclusivity, empathy and community in the face of an ever-more tech-mediated and performative public sphere.<p></p>
+And in our ETHOS Roundtable, participants from the **16th Leaders in Governance Programme (LGP)** discuss the reciprocal relationship between public trust and government capability, the generational shift in expectations of government and leadership, and the value of authenticity, inclusivity, empathy and community in the face of an ever-more tech-mediated and performative public sphere.
 <p>I wish you an insightful read.</p>
 
 <h6>Dr Alvin Pang</h6>
