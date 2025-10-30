@@ -111,7 +111,7 @@ td
         <div><h3>AI in Government: Trust Before Government</h3>
             <b><i>Chelsea Ong and Vernie Oliveiro</i></b>
             
-<p>The Chief Information Officer and Chief Data Officer at the Ministry of Health explains how his work is helping to shape the future of healthcare in Singapore.</p>	
+<p>Ethical guardrails, data protection and other safety assurances will support broader adoption and public confidence of AI use in government.</p>	
             
 <div class="button1"><a href="/ai-in-government-trust-before-transformation/">Read More</a></div><br></div>
     </div>
