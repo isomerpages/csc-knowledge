@@ -45,10 +45,32 @@ font-size: 16px;
 	
 
 </style>
+
+
+<h3>2025</h3>
+
+
+
+
+
+<div class="grid-container">
+	
+
+	
+
+<div class="grid-item">
+        <img src="/images/Ethos_Images/Ethos_Digital_Issue_13/EthosDigital_Issue13_cover.jpg">
+        <p>
+            <a target="_blank" href="/digital-issue-13/">Digital Edition Issue 13, Oct 2025</a>
+            <br>
+            <a href=""></a>
+        </p>
+    </div>
+	
+   
+</div>
+
 <h3>2024</h3>
-
-
-
 
 
 <div class="grid-container">

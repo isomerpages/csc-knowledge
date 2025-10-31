@@ -1,6 +1,6 @@
 ---
 title: Editorial
-permalink: /editorial/
+permalink: /digital-issue-12/editorial/
 variant: markdown
 description: ""
 ---

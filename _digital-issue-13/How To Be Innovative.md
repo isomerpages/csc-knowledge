@@ -49,7 +49,7 @@ line-height: 22px;
 	
 	
 </style>
-<em><small>ETHOS Digital Issue 13</small></em>
+<em><small>ETHOS Digital Issue 13, Oct 2025</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_13/How_to_be_innovative_banner.png">
 </div>
@@ -62,7 +62,7 @@ line-height: 22px;
 
 <p>Then you have to work with people who want too many things. When Parking.sg was getting close to launch, the three partner agencies (HDB, LTA, URA) all suddenly had long lists of features they needed from the app. They wanted it to manage season parking, pay fines, support family sharing, and a hundred other ideas. At that point we couldn’t even do refunds yet. We only managed to launch the app because I persuaded them to let us do our alpha testing first, and we would then try to add those features later. Thankfully once it was clear people liked the app, they realized the extra features were not important.</p>
 
-<p>Perhaps the worst problem is that when you actually do launch something, many people get very upset. Our team helped with the new ActiveSG app last year. The old system was expensive, unmaintainable, and there were challenges working with the vendor. We knew it had to be replaced. We worked very hard over three months to hit the handover date. It was not perfect but we had a solid system. But say you are a parent wrangling three kids to swim class, only to suddenly be told when you show up that you have to use a new app: no matter how good it is, you going to be annoyed.</p>
+<p>Perhaps the worst problem is that when you actually do launch something, many people get very upset. Our team helped with the new ActiveSG app last year. The old system was expensive, unmaintainable, and there were challenges working with the vendor. We knew it had to be replaced. We worked very hard over three months to hit the handover date. It was not perfect but we had a solid system. But say you are a parent wrangling three kids to swim class, only to suddenly be told when you show up that you have to use a new app: no matter how good it is, you are going to be annoyed.</p>
 
 <p>So innovation is hard. Oddly enough, it is rarely the technology that is difficult. And it is not enough to tell people to try harder. You have to understand the underlying systems that allow some teams to be innovative—while others can only talk about it. While there is a lot to unpack, for me it comes down to three things: outcomes, structure, and iteration.</p>
 
