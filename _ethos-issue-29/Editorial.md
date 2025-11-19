@@ -4,7 +4,8 @@ permalink: /editorial/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p><em>ETHOS Issue 29, Nov 2025</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
 </div>
@@ -39,4 +40,7 @@ its evolving efforts to support both individuals and employers, and exciting
 prospects for the future of continual learning, career design, and workforce
 transformation.</p>
 <p>I wish you an inspiring read.</p>
+<p></p>
+<p><strong>Dr Alvin Pang</strong>
+<br>Editor-in-Chief, ETHOS</p>
 <p></p>
