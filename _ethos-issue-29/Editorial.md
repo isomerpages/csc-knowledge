@@ -4,6 +4,10 @@ permalink: /editorial/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Landing_Banner_Images/knowledge_editorial_banner_01.jpg">
+</div>
 <p>From an unprecedented global pandemic to seismic geopolitical shifts and
 game-changing technological advances, the past decade has given much cause
 for learning and change. The pace at which we have been asked to reinvent
