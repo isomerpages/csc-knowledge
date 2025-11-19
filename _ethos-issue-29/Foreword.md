@@ -4,7 +4,7 @@ permalink: /foreword/
 variant: tiptap
 description: ""
 ---
-<p><em>ETHOS Issue 29, Nov 25</em>
+<p><em>ETHOS Issue 29, Nov 2025</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
