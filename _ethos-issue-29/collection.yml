@@ -2,5 +2,7 @@ collections:
   ethos-issue-29:
     output: true
     order:
+      - "The Evolving SkillsFuture Movement: A Decade of Workforce
+        Transformation.md"
       - Editorial.md
       - Foreword.md
