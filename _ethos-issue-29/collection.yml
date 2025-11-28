@@ -2,6 +2,7 @@ collections:
   ethos-issue-29:
     output: true
     order:
+      - Reframing Work for the Future.md
       - Skilling Up for the Future.md
       - Editorial.md
       - Foreword.md
