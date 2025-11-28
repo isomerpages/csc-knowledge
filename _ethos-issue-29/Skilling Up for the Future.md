@@ -99,6 +99,10 @@ color: white;
 
 <p>In the ten years since SkillsFuture was launched, key shifts have taken place. First, the pace of change in the labour market has accelerated tremendously. Second, the public expectation of the SkillsFuture movement has gone up, and rightfully so as we reach a certain level of maturity. Whereas previously we were getting the public to embrace the idea of lifelong learning in general, individuals now expect training that has a real impact on their jobs and careers; that enhances their market value. To meet these emerging needs, SSG's organisational capabilities have also had to evolve.</p>
 
+<div class="break">
+<p class="break1">Individuals now expect training that has a real impact on their jobs and careers.</p>
+</div>
+
 <p>In the past, we gained an understanding of the labour market by convening and collating expert opinion from different industries and agencies, taking anything from three months to two years to do so. If we continue with this approach, we will always be two to three years too late in understanding where the labour market is going. While expert perspectives remain important, we have had to find new ways to interrogate the labour market directly, using a combination of labour economics, data analytics, machine learning, AI and so on, to tease out more real-time insights about what the labour market is looking for in terms of skills.</p>
 
 <p>As our understanding of the labour market improves and becomes more current, we then also need to be able to activate timely development of the demanded skills: our operations have to be more agile in making the right training available to our learners. Our cadence must match the cadence of the market. As the public comes to expect more from us, we will need to be more responsive to customers, offering them a level of service quality and efficiency that retains their confidence in the movement and its goals. We should also relieve our training providers and learning partners of any unnecessary administrative burden, delay or uncertainty in dealing with us for approvals and other processes. All this means SSG must step up our customer service and operational delivery.</p>
@@ -110,15 +114,11 @@ color: white;
 
 <p>In the past few years, we have reorganised ourselves to sharpen the new capabilities we need. We have structured our divisions into three groups, each responsible for one organisational capability.</p>
 
-<p>First, there is a group responsible for operational excellence: which includes operations research, analysis and optimisation, as well as due diligence functions such as anomaly or fraud detection. Their goal is to make our processes as seamless and efficient as possible: for instance, by automating grant management so our training providers can receive their grants in time.</p>
+<p>First, there is a group responsible for <em>operational excellence</em>: which includes operations research, analysis and optimisation, as well as due diligence functions such as anomaly or fraud detection. Their goal is to make our processes as seamless and efficient as possible: for instance, by automating grant management so our training providers can receive their grants in time.</p>
 
-<p>A second group pursues engagement excellence, including a unit taking care of customer experience. This group looks at how to engage companies and individuals, addressing the whole gamut of issues they may have about the SkillsFuture process: from prosaic questions such as how to claim credits to conceptual questions like how the green economy might be relevant to accountancy.</p>
+<p>A second group pursues <em>engagement excellence</em>, including a unit taking care of customer experience. This group looks at how to engage companies and individuals, addressing the whole gamut of issues they may have about the SkillsFuture process: from prosaic questions such as how to claim credits to conceptual questions like how the green economy might be relevant to accountancy.</p>
 
-<p>Finally, our quality management group strives for pedagogical excellence. They monitor the quality and standards of our training providers and courses, and looks at ways to improve the training and learning process.</p>
-
-<div class="break">
-<p class="break1">Individuals now expect training that has a real impact on their jobs and careers.</p>
-</div>
+<p>Finally, our quality management group strives for <em>pedagogical excellence</em>. They monitor the quality and standards of our training providers and courses, and looks at ways to improve the training and learning process.</p>
 
 <p>Organising our staff this way gives them pathways to excel within each group's mission. They do not have to be locked into any one job, but can play a range of roles. So, an officer in the operations group could work on research, data analysis, anomaly detection, or process enhancement — they can broaden or deepen their contributions towards the agency's aims.</p>
 
@@ -172,12 +172,12 @@ color: white;
 
 <p>This is just one example of how SSG and the SkillsFuture movement has to mature and transform, away from a numbers game towards being more inclusive and more reflective, in order to do more and meet greater expectations. Technology is being deployed not for its own sake but to permit us to do things differently and to do more different things. This is part of what SkillsFuture is about.</p>
 
+<div class="break">
+<p class="break1">The SkillsFuture movement has to mature and transform, away from a numbers game towards being more inclusive and more reflective.</p></div>
+
 <h2>How do you envision SSG's role changing in future as the spirit of the SkillsFuture movement takes hold more broadly?</h2>
 
 <p>In theory, it is possible that lifelong learning is so embedded in our national culture that SSG will no longer be needed to nudge and facilitate these efforts, but that is unlikely for now. A more realistic trajectory is that our efforts, along with the SkillsFuture movement, becomes more decentralised. The trade associations and professional bodies could play more of an autonomous role: for instance, one Swiss organisation does not take government funds but funds training through membership fees, because members see the need for it. These associations could choose to move on their own, at a quicker pace than the national norm, driven by their sector's priorities. This would be a good development for Singapore.</p>
-
-<div class="break">
-<p class="break1">The SkillsFuture movement has to mature and transform, away from a numbers game towards being more inclusive and more reflective.</p></div>
 
 <p>I think SSG will have to be around to address cross-domain, cross-sectoral needs, but the movement will be strengthened by having more, different parties come forward to be part of the ecosystem.</p>
 
@@ -193,4 +193,3 @@ color: white;
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
