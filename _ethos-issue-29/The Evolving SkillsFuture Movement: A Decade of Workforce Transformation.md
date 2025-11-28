@@ -89,6 +89,10 @@ color: white;
 	
 </style>
 
+<em><small>ETHOS Issue 29, Nov 2025</small></em>
+<div class="background-image">
+<img src="/images/Ethos_Images/Ethos_Issue_29/Tan_Kok_Yam_and_Dilys_Boey_banner.jpg">
+</div>
 
 
 <p>The SkillsFuture movement seeks to equip our workforce for economic growth and our workers for career advancement. These objectives are clear but never static: they continually evolve with changing economic conditions and external pressures. Contemporary challenges such as the COVID-19 pandemic and transformative trends like artificial intelligence underscore the need for an adaptive approach capable of supporting increasingly broad and dynamic goals.</p>
@@ -180,4 +184,3 @@ color: white;
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-		
