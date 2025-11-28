@@ -2,6 +2,8 @@ collections:
   ethos-issue-29:
     output: true
     order:
+      - Integrating Workforce Development with Enterprise Transformation through
+        the SkillsFuture Movement.md
       - "Raising a Lifelong Learning Nation: Global Perspectives &
         Opportunities.md"
       - Nurturing the Continuing Education and Training Ecosystem.md
