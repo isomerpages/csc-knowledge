@@ -2,6 +2,7 @@ collections:
   ethos-issue-29:
     output: true
     order:
+      - Building a Skills First Society.md
       - How AI is Transforming Continuing Education and Training.md
       - "42SG: Transforming Learning for an Emerging Future.md"
       - "Learning & Evolving Together: NLB's Transformation Journey.md"
