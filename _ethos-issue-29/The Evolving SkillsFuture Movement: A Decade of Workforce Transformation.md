@@ -74,7 +74,7 @@ line-height:22px;
 
 .containerbox
 {
-background-color: orange;
+background-color: #233B75;
 padding: 30px;
 margin-top: 30px;
 color: white;
