@@ -2,6 +2,7 @@ collections:
   ethos-issue-29:
     output: true
     order:
+      - "42SG: Transforming Learning for an Emerging Future.md"
       - "Learning & Evolving Together: NLB's Transformation Journey.md"
       - Reframing Work for the Future.md
       - Skilling Up for the Future.md
