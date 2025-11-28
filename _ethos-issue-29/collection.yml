@@ -2,6 +2,7 @@ collections:
   ethos-issue-29:
     output: true
     order:
+      - Skilling Up for the Future.md
       - Editorial.md
       - Foreword.md
       - "The Evolving SkillsFuture Movement: A Decade of Workforce
