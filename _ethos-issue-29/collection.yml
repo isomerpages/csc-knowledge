@@ -2,6 +2,8 @@ collections:
   ethos-issue-29:
     output: true
     order:
+      - "Raising a Lifelong Learning Nation: Global Perspectives &
+        Opportunities.md"
       - Nurturing the Continuing Education and Training Ecosystem.md
       - Building a Skills First Society.md
       - How AI is Transforming Continuing Education and Training.md
