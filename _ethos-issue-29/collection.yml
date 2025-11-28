@@ -2,6 +2,8 @@ collections:
   ethos-issue-29:
     output: true
     order:
+      - "Leaving No Worker Behind: SkillsFuture and Singapore's Labour
+        Movement.md"
       - Navigating the Uncharted Future of Work.md
       - Integrating Workforce Development with Enterprise Transformation through
         the SkillsFuture Movement.md
