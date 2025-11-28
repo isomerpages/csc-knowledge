@@ -2,6 +2,7 @@ collections:
   ethos-issue-29:
     output: true
     order:
+      - Saving Livelihoods Amid the Pandemic.md
       - "Learning Through Crisis: Workforce Singapore's Crucible of Fire.md"
       - "Leaving No Worker Behind: SkillsFuture and Singapore's Labour
         Movement.md"
