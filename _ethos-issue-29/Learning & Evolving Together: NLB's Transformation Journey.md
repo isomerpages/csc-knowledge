@@ -163,7 +163,7 @@ color: white;
     
 <p>To enable change at such scale across NLB, regular internal communication has been critical. We have made deliberate efforts to share the LAB25 vision on multiple platforms, tailoring communications to our audience, to help staff see how their work relates and contributes in tangible ways to our LAB25 ambitions. This includes going to each of our libraries and archives sites regularly — I conduct CEO walkabouts at least once a year, in between two Townhalls and a Staff Forum — and to every division, to share my thoughts on LAB25, as well as hear their views, concerns and feedback and address them.</p>
     
-<h3>To date, the pool of Data Associates has successfully grown to over 116 strong.</h3>
+<h4>To date, the pool of Data Associates has successfully grown to over 116 strong.</h4>
 
 <p>I have reiterated the DNA all NLBians will need to deliver LAB25 successfully:</p>
     
