@@ -6,12 +6,7 @@ description: ""
 ---
 <style>
 
-.table
-{
-table td,
-table th {
-  vertical-align: top;
-}
+
 		
 .back a
 {
@@ -80,6 +75,7 @@ background-color: #87F9FD;
 	font-size: 16px;
 }
 
+	
 	
 </style>
 
