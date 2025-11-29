@@ -186,7 +186,7 @@ color: white;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<p><strong>by Tan Kok Yam</strong>is the Chief Executive of SkillsFuture Singapore (SSG). He leads the organisation to drive and implement the national SkillsFuture movement. To this end, SSG strives to promote a culture of lifelong learning, build a support system to enable the pursuit of skills mastery, and raise the quality of adult education and training in Singapore.</p>
+<p><strong>Tan Kok Yam</strong>is the Chief Executive of SkillsFuture Singapore (SSG). He leads the organisation to drive and implement the national SkillsFuture movement. To this end, SSG strives to promote a culture of lifelong learning, build a support system to enable the pursuit of skills mastery, and raise the quality of adult education and training in Singapore.</p>
 </div>
 
 <br><br>
