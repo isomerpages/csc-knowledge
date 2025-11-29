@@ -126,7 +126,7 @@ background-color: #7BC281;
 <p>ASG adopted a 'think big, start small, act fast' approach in our transformation, implementing concrete changes in how we operate. For example, to shift from having separate teams addressing enquiries and applications to re-assess scheme eligibility across different schemes, officers were cross-trained to become proficient in every scheme, while at the same time re-engineering the underlying business processes (e.g. aligning service standards and standard operating procedures across schemes) and IT systems (e.g. setting up a centralised Case Management System for cross-scheme cases).</p>
 
 <p>Recognising that our people were central to this transformation, we carried out comprehensive engagement across all levels. We engaged middle managers through leadership conversation sessions to co-create our vision of success. At the ground level, we facilitated open dialogue through regular "ASG Connect" sessions and focus group discussions, while establishing dedicated platforms to ensure our policy owners bought into changes. To strengthen our partnership with key stakeholders such as the Ministry of Finance, we established secondment arrangements for our staff to strengthen cross-learning, inter-institutional communication and understanding.</p>
-
+<br>
 <div class="containerbox">
 <h3>ASG's Approach to Strategic Workforce Transformation</h3>
 
