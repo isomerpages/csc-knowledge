@@ -114,7 +114,7 @@ background-color: #D9EFEC;
     
 <p>At the employer level, NTUC's Company Training Committees (CTC) initiative aims to bring employer and worker representatives together to develop tangible, holistic transformation plans to ensure the workforce remains future-ready, relevant, and resilient. These CTCs can leverage support from the NTUC Job Security Directorate. From March 2020 to November 2024, CTC skills-based initiatives benefitted nearly 200,000 workers.</p>
     
-<div class="containerbox">&gt;
+<div class="containerbox">
 <h3>NTUC's Job Security Directorate (JSD)</h3>
 <p>NTUC's JSD supports worker training and upgrading and business transformation for a stronger Singapore workforce. With CTCs at the heart of the ecosystem, JSD is an integrated NTUC effort with integrated elements:</p>
         
@@ -126,7 +126,7 @@ background-color: #D9EFEC;
 <p>Companies can also drive business and workforce transformation by leveraging the CTC Grant and the Operation and Technology Roadmap. The CTC Grant, administered by NTUC's Employment and Employability Institute (e2i), is funded from the $300 million set aside by the Government to scale up NTUC's CTC initative. To help enhance business capabilities and worker outcomes, it funds up to 70 per cent of the qualifying cost for companies' transformation projects or training tied to a transformation project.</p>
     
 <figure>
-<img style="70% width" src="/images/Ethos_Images/Ethos_Issue_29/Patrick_Tay_1.png">
+<img style="50% width" src="/images/Ethos_Images/Ethos_Issue_29/Patrick_Tay_1.png">
 </figure>
 
 <p>At the worker level, having a job is the best form of welfare. NTUC advocates for accessible, affordable, and industry-relevant training for all workers across industries and age groups to ensure continuous career development and employability. NTUC works to overcome challenges in reskilling and upskilling by providing both financial support (like Union Training Assistance Programme or UTAP) and structural workforce transformation programmes (such as NTUC's e2i and LearningHub) to make these opportunities easier to access.</p>
