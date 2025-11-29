@@ -161,11 +161,12 @@ color: white;
     
 <p>When we combine human and AI strengths, we achieve results neither could accomplish alone. This new work environment calls for what experts term "fusion skills". These include technical knowledge, certainly, but also the ability to work effectively with AI tools, think critically about data, and understand broader implications.</p>
     
+    
+<p>Public officers need to understand how algorithms influence decisions, even if they are not coding themselves. Engineers must consider the social and ethical impacts of their creations. Training programmes must now focus on building these blended skillsets, helping people become not just AI users, but informed collaborators who can leverage AI effectively.</p>
+
 <div class="break">
 <p class="break1">Public officers need to understand how algorithms influence decisions, even if they are not coding themselves.</p></div>
-    
-<p>Engineers must consider the social and ethical impacts of their creations. Training programmes must now focus on building these blended skillsets, helping people become not just AI users, but informed collaborators who can leverage AI effectively.</p>
-    
+
 <p>As AI takes on more decision-making roles, from sorting job applications to handling citizen queries, understanding how it works becomes crucial. CET must include both the technical skills to use AI and the knowledge to question and evaluate it appropriately.</p>
     
 <p>Concepts like explainable AI, fairness, and accountability should be woven into every learning programme. This approach builds trust, encourages responsible use, and ensures technology benefits everyone equally.</p>
