@@ -175,7 +175,7 @@ color: white;
     
 <p>Lifelong learning has become essential for a modern, effective Public Service. In Singapore, we are already seeing how AI tools help public officers work more efficiently.</p>
     
-<p>Pair provides a secure, in-house version of ChatGPT for officers to get instant support. AIBots enable officers to create and share chatbots powered by their agency's knowledge. Transcribe converts speech to text in real time, simplifying meeting documentation and insight extraction. SmartCompose helps draft clear, effective messages for citizens quickly.</p>
+<p><strong>Pair</strong> provides a secure, in-house version of ChatGPT for officers to get instant support. <strong>AIBots</strong> enable officers to create and share chatbots powered by their agency's knowledge. <strong>Transcribe</strong> converts speech to text in real time, simplifying meeting documentation and insight extraction. <strong>SmartCompose</strong> helps draft clear, effective messages for citizens quickly.</p>
     
 <p>Supporting these tools are structured learning efforts. The AI Practice at GovTech Singapore runs workshops across agencies, produces practical playbooks, and collaborates with the Civil Service College and GovTech Singapore's Digital Academy to offer AI-focused learning. These programmes go beyond tool usage. They build awareness of ethics, governance, and long-term strategic thinking.</p>
     
