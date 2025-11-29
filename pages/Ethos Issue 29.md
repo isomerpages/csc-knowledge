@@ -57,7 +57,7 @@ margin-top:15px;
 <div class="grid-container">
 	<div><img src="/images/Ethos_Images/Ethos_Issue_29/Ethos_Issue_29_Cover_resized.jpg"></div>
 	<div>
-		<h3><span class="cat">Issue 29 , Nov 2025</span><br> ETHOS Issue 26</h3>
+		<h3><span class="cat">Issue 29 , Nov 2025</span><br> ETHOS Issue 29</h3>
 		<p>In collaboration with SkillsFuture Singapore and Workforce Singapore, this special issue of ETHOS reflects on ten years of the national movement to prepare Singaporeans for an uncertain future by nurturing a culture of lifelong learning, skills mastery, career design and workforce transformation. Featuring a Foreword from Head of Civil Service Leo Yip, reflections from past and current leaders of the SkillsFuture movement, and expert insights on how learning and work could evolve in light of new technologies and a changing world.</p>
 		<div class="button1"><a target="_blank" href="https://go.gov.sg/ethos-issue-29">Download PDF</a></div>
 	</div>
