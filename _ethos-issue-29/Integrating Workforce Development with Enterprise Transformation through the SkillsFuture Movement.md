@@ -169,7 +169,7 @@ background-color: #9EE1F2;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><strong>by Dilys Boey</strong> is the Chief Executive of Workforce Singapore. Prior to this, she was the Deputy Chief Executive Officer (Industry Clusters) at Enterprise Singapore. Before joining the Public Service, she spent over 25 years in management consulting with global firms Ernst &amp; Young (EY) and Andersen. She sits on the Boards of the Singapore Food Agency, SG Enable, Employment and Employability Institute (e2i) and Skills Future Singapore. In her personal capacity, she volunteers on the Boards of the Singapore Cancer Society and the Singhealth Fund. She was also appointed to the Emerging Stronger Taskforce, a national taskforce formed at the height of the COVID pandemic to spearhead industry recovery efforts.</p>
+<p><strong>Dilys Boey</strong> is the Chief Executive of Workforce Singapore. Prior to this, she was the Deputy Chief Executive Officer (Industry Clusters) at Enterprise Singapore. Before joining the Public Service, she spent over 25 years in management consulting with global firms Ernst &amp; Young (EY) and Andersen. She sits on the Boards of the Singapore Food Agency, SG Enable, Employment and Employability Institute (e2i) and Skills Future Singapore. In her personal capacity, she volunteers on the Boards of the Singapore Cancer Society and the Singhealth Fund. She was also appointed to the Emerging Stronger Taskforce, a national taskforce formed at the height of the COVID pandemic to spearhead industry recovery efforts.</p>
 </div>    
 
 <div class="notestop" id="notestop">
