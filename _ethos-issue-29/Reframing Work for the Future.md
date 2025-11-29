@@ -71,22 +71,15 @@ width: 300px;
 
 .containerbox
 {
-background-color: #73FBFD;
-padding: 30px;
-margin-top: 30px;
-}	
+padding: 20px;
+background-color: #87F9FD;
+}
 
 .containerbox ol li
 {
 	font-size: 16px;
 }
 
-.containerbox1
-{
-padding: 20px;
-background-color: #DDF6FF;
-
-}	
 	
 </style>
 
@@ -138,8 +131,6 @@ background-color: #DDF6FF;
 
 <p>Recognising that our people were central to this transformation, we carried out comprehensive engagement across all levels. We engaged middle managers through leadership conversation sessions to co-create our vision of success. At the ground level, we facilitated open dialogue through regular "ASG Connect" sessions and focus group discussions, while establishing dedicated platforms to ensure our policy owners bought into changes. To strengthen our partnership with key stakeholders such as the Ministry of Finance, we established secondment arrangements for our staff to strengthen cross-learning, inter-institutional communication and understanding.</p>
 
-<div class="containerbox">
-
 <h3>ASG's Approach to Strategic Workforce Transformation</h3>
 
 <p>Drawing on our inclusive change management approach and strong governance structure, ASG was able to transform our workforce through these key initiatives:</p>
@@ -148,8 +139,8 @@ background-color: #DDF6FF;
 
 <tbody><tr> 
 <td><strong>Systematically defining functional team roles through Strategic Workforce Planning</strong></td>
-<td>We thoroughly reviewed the proposed organisational structure, scope of work, and identified optimal functional team placements, carefully identifying and placing officers in roles that matched their strengths.
-<p>Through close partnerships with relevant stakeholders such as CPFB's Human Resource Department and many rounds of deliberation and planning, we optimised the job fit for affected officers while demonstrating our commitment to people-centric change management.</p>  
+<td>We thoroughly reviewed the proposed organisational structure, scope of work, and identified optimal functional team placements, carefully identifying and placing officers in roles that matched their strengths. 
+<br><br>Through close partnerships with relevant stakeholders such as CPFB's Human Resource Department and many rounds of deliberation and planning, we optimised the job fit for affected officers while demonstrating our commitment to people-centric change management.<p></p>  
 </td>
 </tr>
   
@@ -161,7 +152,7 @@ background-color: #DDF6FF;
 <li>service data management and analytics (e.g. agile methodology, drawing policy insights from data analysis)</li>
 <li>change management</li>
 </ul>
-<p>We then worked with the Civil Service College and internal stakeholders to curate a list of relevant training courses. Feedback from officers attending these courses was used to iteratively refine our approach to capability building.</p></td>
+We then worked with the Civil Service College and internal stakeholders to curate a list of relevant training courses. Feedback from officers attending these courses was used to iteratively refine our approach to capability building.<p></p></td>
 </tr>
   
 <tr>
@@ -171,7 +162,7 @@ background-color: #DDF6FF;
 </tbody></table>
 
 <p>By combining strong governance with inclusive change management, ASG not only transformed while maintaining operational excellence, but also built a resilient foundation for future change.</p>
-</div>
+
 
 <h2>Reaping the Benefits of Transformation</h2>
 
@@ -191,23 +182,24 @@ background-color: #DDF6FF;
 <p>Beyond systems and processes, people are at the heart of ASG's transformation. Responding to a recent pulse survey, more than 90% of our officers expressed that they found their job meaningful, challenging and interesting. About 80% felt confident about the change even with new structures and streamlined processes in place.</p>
 
 <figure>
-<img src="/images/Ethos_Images/Ethos_Issue_29/Desmond_Chew_4.png">
+<img style="width:70%" src="/images/Ethos_Images/Ethos_Issue_29/Desmond_Chew_4.png">
 </figure>
 
-<div class="containerbox">
 
+<div class="containerbox">
+												
 <h3>Personal Experience: Shawn's Story</h3>
 
 <h4>Shawn, who joined ASG in 2017, shares his experience of being part of the agency's transformation efforts:</h4>
 
+<p><em>"Before ASG's transformation, my work was confined to processes and IT systems for a single scheme. After the transformation, I had to shift from being a specialist in a single scheme to being versatile and well-versed across multiple schemes.</em></p><em>
 
-<p>Before ASG's transformation, my work was confined to processes and IT systems for a single scheme. After the transformation, I had to shift from being a specialist in a single scheme to being versatile and well-versed across multiple schemes.</p>
-
-<p><em>It was not an easy transition, as my workload changed dramatically. From following a specific set of procedures when addressing enquiries and re-assessing individuals' eligibility for one scheme, I found myself managing cases across multiple schemes, working with different IT systems and juggling various processes. To be honest, the change was initially overwhelming. The steep learning curve of taking on multiple schemes was daunting. However, we managed to overcome this: through comprehensive training provided to affected officers, e.g. hours and hours of briefings on the scheme operation processes along with on-the-job-training on how to handle different scenarios; and more importantly, collaboration and teamwork with my colleagues. We supported one another, shared knowledge and gradually built confidence in handling cross-scheme operations.</em></p><em>
+<p>It was not an easy transition, as my workload changed dramatically. From following a specific set of procedures when addressing enquiries and re-assessing individuals' eligibility for one scheme, I found myself managing cases across multiple schemes, working with different IT systems and juggling various processes. To be honest, the change was initially overwhelming. The steep learning curve of taking on multiple schemes was daunting. However, we managed to overcome this: through comprehensive training provided to affected officers, e.g. hours and hours of briefings on the scheme operation processes along with on-the-job-training on how to handle different scenarios; and more importantly, collaboration and teamwork with my colleagues. We supported one another, shared knowledge and gradually built confidence in handling cross-scheme operations.</p>
 
 <p>This transformation process has not only expanded my technical knowledge, but also helped me become more resilient and innovative in my work. One of our proudest achievements was when we developed straight-through processing capabilities, enabling certain cases to be re-assessed automatically without human intervention. This allowed us to have more time to take on value-adding work such as other process improvement initiatives.</p>
 
-</em><p><em>Looking back, I have found the continual need to challenge ourselves to think creatively about process harmonisation and policy changes deeply rewarding.</em></p>
+</em><p><em>Looking back, I have found the continual need to challenge ourselves to think creatively about process harmonisation and policy changes deeply rewarding."</em></p>
+
 </div>
 
 <h2>Learning from Transformation</h2>
