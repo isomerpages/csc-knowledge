@@ -68,8 +68,7 @@ width: 300px;
 .containerbox
 {
 padding: 20px;
-background-color: #0074BC;
-font-colour: #FFFFFF
+background-color: #9EE1F2;
 }
 
 .containerbox ol li
@@ -114,7 +113,7 @@ font-colour: #FFFFFF
 <p>To address the critical need for a more integrated enterprise and workforce transformation, WSG is introducing an Enterprise Workforce Transformation Package (EWTP)<sup><a href="#notestop">4</a></sup> to spur workforce and jobs transformation and strengthen its nexus with broader business transformation efforts. We want employers to think of their local workforce as an important component of business success, as they pivot their strategies to meet rapidly changing marketplace challenges. Through a single channel with holistic, end-to-end support, EWTP seeks to help employers adopt relevant workforce transformation solutions to meet both business and individual needs. These should translate into both business objectives, and better worker outcomes.</p>
 
 <figure>
-<img src="/images/Ethos_Images/Ethos_Issue_29/Dilys_Boey_1.png">
+<img src="/images/Ethos_Images/Ethos_Issue_29/Dilys_Boey_1.jpg">
 </figure>
    
   
@@ -143,7 +142,7 @@ font-colour: #FFFFFF
 <div class="containerbox">    
 <h3>The Benefits of Job Redesign</h3>
  
-<p><em>WSG initiatives have catalysed and supported the transformation journeys of many enterprises in Singapore. <strong>Mrs Bernadette Giam, Director of Corporate Affairs and Human Resources of local catering firm Creative Eateries</strong>, shares how WSG efforts such as the Career Conversions Programme (CCP) have made a difference to their business and industry.</em></p>
+<p><em><span style="color: #E68A1C;">WSG initiatives have catalysed and supported the transformation journeys of many enterprises in Singapore. <b>Mrs Bernadette Giam, Director of Corporate Affairs and Human Resources of local catering firm Creative Eateries</b>, shares how WSG efforts such as the Career Conversions Programme (CCP) have made a difference to their business and industry.</span></em></p>
     
 <p>Job redesign has been a critical enabler in our transformation journey, allowing us to broaden our employees' scope of work and equip them with skills beyond their day-to-day roles.</p>
     
