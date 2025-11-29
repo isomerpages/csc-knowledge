@@ -55,7 +55,14 @@ font-size: 16px;
 
 <div class="grid-container">
 	
-
+<div class="grid-item">
+        <img src="/images/Ethos_Images/Ethos_Issue_29/Ethos_Issue_29_Cover_resized.jpg">
+        <p>
+            <a target="_blank" href="/ethos-issue-29/">Issue 29, Nov 2025</a>
+            <br>
+            <a href=""></a>
+        </p>
+    </div>
 	
 
 <div class="grid-item">

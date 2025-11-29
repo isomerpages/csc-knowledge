@@ -1,23 +1,21 @@
 ---
-title: ETHOS
-permalink: /ethos/
-description: ""
+title: Ethos Issue 29
+permalink: /ethos-issue-29/
 variant: markdown
+description: ""
 ---
 <style>
-table
-{ 
-border-collapse: separate; 
-border-spacing: 30px 10px;
-}	
-	
+
 .back a
 {
 	color: #9f2943;
 	font-weight: bold;
 	}
 	
-
+ .cat
+    {
+        font-size: 15px;
+    }
 
 .text
 {
@@ -34,24 +32,6 @@ margin-top:25px;
 margin-top:15px;	
 }		
 	
-	
-.cat
-{
-font-size: 15px;	
-}
-	
-td
-{
-	border-style : hidden!important;
-}
-	
-
-#editorial,#section-1,#section-2,#section-3,#section-4
-{
-	border-bottom: 0.5px solid black;
-}
-	
-
 .button1 a
 {
 	color: #9f2943;
@@ -72,6 +52,8 @@ td
 	}
 }	
 </style>
+
+
 <div class="grid-container">
 	<div><img src="/images/Ethos_Images/Ethos_Issue_29/Ethos_Issue_29_Cover_resized.jpg"></div>
 	<div>

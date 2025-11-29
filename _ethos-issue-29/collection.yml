@@ -1,0 +1,24 @@
+collections:
+  ethos-issue-29:
+    output: true
+    order:
+      - Editorial.md
+      - Foreword.md
+      - "The Evolving SkillsFuture Movement: A Decade of Workforce
+        Transformation.md"
+      - Saving Livelihoods Amid the Pandemic.md
+      - "Learning Through Crisis: Workforce Singapore's Crucible of Fire.md"
+      - "Leaving No Worker Behind: SkillsFuture and Singapore's Labour
+        Movement.md"
+      - Navigating the Uncharted Future of Work.md
+      - Integrating Workforce Development with Enterprise Transformation through
+        the SkillsFuture Movement.md
+      - "Realising a Lifelong Learning Nation: Global Perspectives and
+        Opportunities.md"
+      - Nurturing the Continuing Education and Training Ecosystem.md
+      - Building a Skills First Society.md
+      - How AI is Transforming Continuing Education and Training.md
+      - "42SG: Transforming Learning for an Emerging Future.md"
+      - "Learning & Evolving Together: NLB's Transformation Journey.md"
+      - Reframing Work for the Future.md
+      - Skilling Up for the Future.md
