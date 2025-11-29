@@ -215,7 +215,7 @@ color: white;
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
-<p><strong>by Ng Cher Pong</strong>was appointed Chief Executive Officer of the National Library Board (NLB) on 1 December 2019. He led the transformation of NLB through the conceptualisation and implementation of LAB25 (Libraries and Archives Blueprint 2025), including a fundamental shift in NLB's operating approach to bring about a more open platform, omni-channel service delivery, and expanded reach across Singapore. Before his role at NLB, he was the founding Chief Executive of SkillsFuture Singapore (SSG) and concurrently deputy secretary (SkillsFuture) in the Ministry of Education. He has been appointed CEO, Infocomm Media Development Authority from 1 November 2025.</p>
+<p><strong>Ng Cher Pong</strong>was appointed Chief Executive Officer of the National Library Board (NLB) on 1 December 2019. He led the transformation of NLB through the conceptualisation and implementation of LAB25 (Libraries and Archives Blueprint 2025), including a fundamental shift in NLB's operating approach to bring about a more open platform, omni-channel service delivery, and expanded reach across Singapore. Before his role at NLB, he was the founding Chief Executive of SkillsFuture Singapore (SSG) and concurrently deputy secretary (SkillsFuture) in the Ministry of Education. He has been appointed CEO, Infocomm Media Development Authority from 1 November 2025.</p>
 </div>
     
 
