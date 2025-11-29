@@ -126,7 +126,7 @@ background-color: #D9EFEC;
 <p>Companies can also drive business and workforce transformation by leveraging the CTC Grant and the Operation and Technology Roadmap. The CTC Grant, administered by NTUC's Employment and Employability Institute (e2i), is funded from the $300 million set aside by the Government to scale up NTUC's CTC initative. To help enhance business capabilities and worker outcomes, it funds up to 70 per cent of the qualifying cost for companies' transformation projects or training tied to a transformation project.</p>
     
 <figure>
-<img style="50% width" src="/images/Ethos_Images/Ethos_Issue_29/Patrick_Tay_1.png">
+<img style="width:70%" src="/images/Ethos_Images/Ethos_Issue_29/Patrick_Tay_1.png">
 </figure>
 
 <p>At the worker level, having a job is the best form of welfare. NTUC advocates for accessible, affordable, and industry-relevant training for all workers across industries and age groups to ensure continuous career development and employability. NTUC works to overcome challenges in reskilling and upskilling by providing both financial support (like Union Training Assistance Programme or UTAP) and structural workforce transformation programmes (such as NTUC's e2i and LearningHub) to make these opportunities easier to access.</p>
@@ -145,7 +145,7 @@ background-color: #D9EFEC;
     
 <p>NTUC LearningHub (LHUB), together with SSG, collaborates with academic institutions to bridge the gap between theory and practical application within the Continuing Education and Training (CET) landscape. It contributes by enhancing the curation, development, and delivery of industry-relevant training programmes and short-term attachments that align with real world demand, continually improving trainer quality and pedagogical standards to address evolving training needs. Initiatives such as the Career Agility Hub app further demonstrate this role — supporting adult educators in identifying skills gaps and receiving tailored career development guidance.</p>
     
-<div class="containerbox">&gt;
+<div class="containerbox">
 <h3>Skilling Up Hope for Inmates and Ex-Offenders</h3>
 
 <p>LHUB and NTUC's e2i have worked closely with Yellow Ribbon Singapore (YRSG) and the Singapore Prison Service to support the reintegration of ex-offenders into the workforce.<sup><a href="#notestop">7</a></sup> NTUC provides one-stop pre-release training and placement, including employability workshops before job interviews, career coaching, and job matching services.</p>
@@ -166,7 +166,7 @@ background-color: #D9EFEC;
 <p>Second, <strong>the pace of business transformation is accelerating, and the half-life of skills is shortening</strong>.<sup><a href="#notestop">10</a></sup> Workers must sustain the validity and relevance of their knowledge and skills, and believe in a skills-first approach. Government institutions and the labour movement must support vulnerable segments of the workforce in their career transitions while also assisting small and medium enterprises (SMEs) as they strive to keep pace with skills development. However, Singapore's training participation rate fell to a nine-year low of 40.7 percent in 2024. This decline may partly reflect a shift in learning preferences, as more individuals — particularly those outside the labour force — appear to favour full-time education or deeper training engagements. This trend suggests a growing preference among some learners to prioritise in-depth skill development by fully committing to longer training programmes, rather than balancing training alongside active employment.<sup><a href="#notestop">11</a></sup></p>
     
 <div class="break">
-<p class="break1">&gt;Fostering a resilient and adaptable workforce calls for andragogies prioritising curiosity, adaptability, and engagement with complex challenges.</p>
+<p class="break1">Fostering a resilient and adaptable workforce calls for andragogies prioritising curiosity, adaptability, and engagement with complex challenges.</p>
 </div>
     
 <p>Third, <strong>marginalised and disadvantaged groups still face challenges having equal access to training and learning opportunities</strong>. Despite significant national efforts to promote lifelong learning and build a future-ready, career-resilient workforce, these groups continue to face barriers to equitable access. Participation in job-related training tends to decline with increasing age and lower levels of education attainment. Singapore's older adults show lower participation rates compared to the OECD average. Our part-time employed adults are also much less likely to participate in adult learning.<sup><a href="#notestop">12</a></sup></p>
