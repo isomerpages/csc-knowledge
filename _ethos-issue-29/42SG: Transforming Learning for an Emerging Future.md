@@ -236,6 +236,7 @@ background-color: #87F9FD;
 
 <p>Based on 42SG's philosophy of learning, here are three anchor principles for the future:</p>
 
+<div class="notestop">
 <ol>
 
 <li><strong>The Future Is Now:</strong> AI is no longer a distant promise but a present reality. The challenge is not to prepare for AI someday, but to engage with it today — responsibly, critically, and creatively.</li>
@@ -245,7 +246,8 @@ background-color: #87F9FD;
 <li><strong>Collaboration for Lifelong Learning and Innovation:</strong> No single institution, company, or government can address the skills challenge alone. Lifelong learning and innovation should be built on open frameworks, shared innovations, and collective responsibility across society. This means institutions like 42SG, employers, educators, policymakers, and learners themselves must co-create ecosystems that enable continuous growth and reinvention. The nature of lifelong learning is already changing. The deeper question is whether we are ready to shape its direction together, ensuring it is inclusive, ethical, and human-centred.</li>
 
 </ol>
-
+</div>
+<br>
 <div class="containerbox1">
 
 <h3>Evolving 42SG in the Age of AI</h3>
@@ -272,10 +274,10 @@ Visit: <a target="_blank" href="https://www.42singapore.sg/admissions/">https://
 
 <div class="author">
 <h6>ABOUT THE AUTHORS</h6>	
-<p><b></b></p><p><b><strong>Koh Chye Soon</strong> is Head of 42 Singapore at the Singapore University of Technology and Design (SUTD) and Deputy Director of SUTD Academy. With over 20 years of experience in both private and public education, he has been instrumental in founding educational institutions from the ground up, both locally and internationally. He holds a Bachelor's Degree in Electrical Engineering from the National University of Singapore and a Master's Degree in Education from the National Institute of Education.</b></p><b>
+<p><strong>Koh Chye Soon</strong> is Head of 42 Singapore at the Singapore University of Technology and Design (SUTD) and Deputy Director of SUTD Academy. With over 20 years of experience in both private and public education, he has been instrumental in founding educational institutions from the ground up, both locally and internationally. He holds a Bachelor's Degree in Electrical Engineering from the National University of Singapore and a Master's Degree in Education from the National Institute of Education.</p>
 
-<p><strong>Priscilla Pang</strong> is Programme Manager, 42 Singapore.</p>
-</b></div><b>    
+<p><b>Priscilla Pang</b> is Programme Manager, 42 Singapore.</p>
+</div>
 
 <div class="notestop" id="notestop">
 <h6>NOTES</h6>
@@ -288,4 +290,4 @@ Visit: <a target="_blank" href="https://www.42singapore.sg/admissions/">https://
 <br><br>
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></b>
+</div>
