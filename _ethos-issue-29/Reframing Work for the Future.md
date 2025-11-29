@@ -67,7 +67,7 @@ width: 300px;
 .containerbox
 {
 padding: 20px;
-background-color: #99F2A2;
+background-color: #7BC281;
 }
 
 .containerbox ol li
@@ -127,6 +127,7 @@ background-color: #99F2A2;
 
 <p>Recognising that our people were central to this transformation, we carried out comprehensive engagement across all levels. We engaged middle managers through leadership conversation sessions to co-create our vision of success. At the ground level, we facilitated open dialogue through regular "ASG Connect" sessions and focus group discussions, while establishing dedicated platforms to ensure our policy owners bought into changes. To strengthen our partnership with key stakeholders such as the Ministry of Finance, we established secondment arrangements for our staff to strengthen cross-learning, inter-institutional communication and understanding.</p>
 
+<div class="containerbox">
 <h3>ASG's Approach to Strategic Workforce Transformation</h3>
 
 <p>Drawing on our inclusive change management approach and strong governance structure, ASG was able to transform our workforce through these key initiatives:</p>
@@ -158,7 +159,7 @@ We then worked with the Civil Service College and internal stakeholders to curat
 </tbody></table>
 
 <p>By combining strong governance with inclusive change management, ASG not only transformed while maintaining operational excellence, but also built a resilient foundation for future change.</p>
-
+</div>
 
 <h2>Reaping the Benefits of Transformation</h2>
 
