@@ -67,7 +67,7 @@ width: 300px;
 .containerbox
 {
 padding: 20px;
-background-color: #87F9FD;
+background-color: #9FFCFD;
 }
 
 .containerbox ol li
@@ -181,7 +181,7 @@ We then worked with the Civil Service College and internal stakeholders to curat
 <img style="width:70%" src="/images/Ethos_Images/Ethos_Issue_29/Desmond_Chew_4.png">
 </figure>
 
-
+<br>
 <div class="containerbox">
 												
 <h3>Personal Experience: Shawn's Story</h3>
@@ -210,7 +210,7 @@ We then worked with the Civil Service College and internal stakeholders to curat
 
 <li><strong>Managing mindset shifts and building learning agility:</strong> The shift from scheme-centric to functional teams meant fundamental changes in job scopes and team dynamics for most officers. This led to challenges we did not foresee. For example, transiting the team handling enquiries and applications to re-assess scheme eligibility to the function-based model gave rise to workload and upskilling issues as officers had to juggle multiple schemes and familiarise themselves with the operation processes for schemes that they had not been exposed to, even when they were working on their existing scope. Officers were initially overwhelmed from having to deal with new ways to handle cases covering multiple schemes. New solutions had to be found to handle multiple peak periods across the year (with schemes implemented in different months) compared with a single peak period for one scheme. This steep learning curve when gaining proficiency across multiple schemes highlighted the need for a longer acclimatisation period.</li>
 
-<ul>
+</ul>
 
 <p>To address these issues, we adopted a multi-strategy approach. First, our leadership team invested significantly in change management to ensure a smooth transition. We conducted 18 leadership conversation sessions to reinforce a common vision of success for the transition. We also regularly updated our officers on transformation plans through various Connect sessions helmed by our change sponsor and I. These sessions focused on three key messages: updating the progress of upcoming initiatives, explaining the rationale behind key decisions, and highlighting the personal impact and benefits for officers (e.g. emplacement to higher value, redesigned jobs).</p>
 
@@ -226,6 +226,7 @@ We then worked with the Civil Service College and internal stakeholders to curat
 <li><strong>Fostering unity through inclusive change management:</strong> Building trust with our people was both a driver and an outcome of success. In our journey to move as ONE ASG, we carried out a comprehensive engagement strategy operating at multiple levels: from leadership to officers to agency stakeholders. We realised early that change management is not about "negative consequence management". Critically, good change management puts in place strong pillars that support positive growth and successful implementation. A foundation of trust and open communication proved invaluable as we were able to identify teething issues early and resolve challenges more promptly. Cross-team collaboration also helped to align officers from different teams towards common objectives (e.g. product development and scheme administration teams working together to make revised business processes compatible with the new IT system).</li>
 
 <li><strong>Establishing a strong governance structure:</strong> Early in this effort, ASG set up a dedicated transformation office with two critical functions: change management to coordinate and oversee the transformation journey, and project management to develop future work processes and underlying IT systems. This dual focus ensured both the human and technical aspects of transformation received equal attention. For example, the transformation office acted a neutral arbitrating party when differences arose between newly formed functional teams. It also helped bridge senior management and officers on the ground.</li>
+</ul>
 
 <h2>Looking Ahead</h2>
 
@@ -243,11 +244,10 @@ We then worked with the Civil Service College and internal stakeholders to curat
 <div class="notestop" id="notestop">
 <h6>NOTE</h6>
 <ol>
-<li>
-</li></ol>
+<li>CPFB is designated as the whole-of-government Centre of Excellence for citizen disbursement schemes due to its expertise and extent of reach over target beneficiaries. Such specialisation enables better organisation of implementing capabilities across government, greater operational efficiency, and better customer-centricity in service delivery.</li></ol>
 </div>
 
 <br><br>
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
-</div></ul></ul></ul>
+</div>
