@@ -2,6 +2,7 @@ collections:
   digital-issue-14:
     output: true
     order:
+      - "Embracing Skills Development: The Employer’s Perspective.md"
       - "The Career Fitness Movement: Towards a Flourishing and Resilient Public
         Service Workforce.md"
       - Using Case Studies to Develop Policymaking Competencies in Continuing
