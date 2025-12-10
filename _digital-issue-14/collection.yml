@@ -2,4 +2,6 @@ collections:
   digital-issue-14:
     output: true
     order:
+      - "Singapore’s Approach to Crisis Management: From Whole of Government to
+        Whole of Nation.md"
       - "ETHOS Roundtable: The Trust Imperative.md"
