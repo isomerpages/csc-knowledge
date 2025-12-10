@@ -1,4 +1,5 @@
 collections:
   digital-issue-14:
     output: true
-    order: []
+    order:
+      - "ETHOS Roundtable: The Trust Imperative.md"
