@@ -68,11 +68,11 @@ li {
 </style>
 
 <em><small>ETHOS Digital Issue 14, Nov 2025</small></em>
-<img src="/images/Ethos_Images/Landing_Banner_Images/banner_roundtable.jpg">
+<img src="/images/Landing_Banner_Images/banner_roundtable.jpg">
 
 
 
-<h6>PARTICIPANTS:</h6>
+<h5>PARTICIPANTS:</h5>
 
 <p class="small-text"><strong><span style="color: #4f81bd;">Ms Gerardine Clifford-Lidstone</span></strong>, Secretary and Chief Executive, Ministry for Pacific Peoples, New Zealand</p>
 
