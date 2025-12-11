@@ -89,7 +89,7 @@ margin-top: 30px;
 	
 </style>
 
-<em><small>ETHOS Issue 29, Nov 2025</small></em>
+<em><small>ETHOS Digital Issue 14, Dec 2025</small></em>
 <div class="background-image">
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_14/SNEF_banner.jpg">
 </div>
