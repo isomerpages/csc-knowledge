@@ -83,6 +83,8 @@ li {
 
 <p>CSC Principal Researcher Dr James Low documents important strengths underpinning the Public Service’s crisis management approach that saw Singapore through the unprecedented COVID-19 pandemic.</p>
 
+<p>In the ETHOS Roundtable, three participants from the 17th Leadership in Governance Programme share lessons from their recent national experiences on sustaining public trust and engaging the community in an era of misinformation, distraction and contention.</p>
+
 <p>I wish you an insightful read.</p>
 
 <p>Dr Alvin Pang
