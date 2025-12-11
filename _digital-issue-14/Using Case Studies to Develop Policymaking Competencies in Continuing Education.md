@@ -74,7 +74,7 @@ line-height:22px;
 
 .containerbox
 {
-background-color: #E3D0FF;
+background-color: #CDE7FE;
 padding: 30px;
 margin-top: 30px;
 
@@ -117,8 +117,8 @@ color: white
 
 <p class="notestop ol li">
 
-</p><li><strong>Individual Preparation</strong><br>Learners familiarise themselves with the case study contents before the start of the programme<p></p>
-</li><li><strong>Small Group Discussion</strong><br>Learners discuss the case study in small groups to "check insights; assumptions and preparation against those of others; clarify understanding; listen attentively and critically to others; and argue for positions based on convictions developed during the individual preparation stage."<sup><a href="#notestop">5</a></sup> Both individual preparation and small group discussions take place outside of curriculum time.</li>
+</p><li><strong>Individual Preparation</strong><br>Learners familiarise themselves with the case study contents before the start of the programme.</li>
+<li><strong>Small Group Discussion</strong><br>Learners discuss the case study in small groups to "check insights; assumptions and preparation against those of others; clarify understanding; listen attentively and critically to others; and argue for positions based on convictions developed during the individual preparation stage."<sup><a href="#notestop">5</a></sup> Both individual preparation and small group discussions take place outside of curriculum time.</li>
 <li><strong>Large group discussion</strong><br>This is the finale where learners gather in a single large group, in class, to engage in deep discussions centred on the case study, pushing learning beyond what could be achieved individually and in small groups.</li>
 
 </div>
@@ -147,7 +147,7 @@ color: white
 <p class="break1">Many of us have our Business-As-Usual work to do and would only glance through the pre-course materials.</p>
 <figcaption>— Respondent</figcaption>
 
-<p class="break1">This is where I think adult learning is very different. Most of the learners would say 'No time, because I've got so much work to do.' They are busy. There is no protected time for them to read. They were taking work time to carry out learning activities required by the programme. Then there were other reasons— 'I also have family things to do.' Most feel that 'I have work pressure, I have family pressure. So, I skim through the case study. I don't really have a good sense of the case study, or I haven't read it."</p>
+<p class="break1">This is where I think adult learning is very different. Most of the learners would say 'No time, because I've got so much work to do.' They are busy. There is no protected time for them to read. They were taking work time to carry out learning activities required by the programme. Then there were other reasons — 'I also have family things to do.' Most feel that 'I have work pressure, I have family pressure. So, I skim through the case study. I don't really have a good sense of the case study, or I haven't read it."</p>
 <figcaption>— Instructor</figcaption>
 </div>
 
@@ -208,10 +208,10 @@ color: white
 <p>In conclusion, learning with case studies is useful and relevant to the development of policymaking competencies but they serve different functions. First, policy domain knowledge is integral to policymaking, alongside other policy skills such as critical thinking, sense-making, communications, systems thinking and creative thinking skills. The tacit and practical knowledge of policy veterans offer insights on how these various skills and knowledge are combined. Second, learning with case studies serve a dual function in the development of foundational policymaking competencies - they are used for inquiry-based learning and story-based learning.</p>
 
 <figure>
-<img width="100" src="/images/Ethos_Images/Ethos_Digital_Issue_14/June_Gwee_Fig2.png">
+<img src="/images/Ethos_Images/Ethos_Digital_Issue_14/June_Gwee_Fig2.png">
 </figure>
 
-<p>For adult learners in continuing education programmes such as PIP and FFP, learning with case studies for policymaking is more effective if case studies are situated in the learners' policy domains. Policy is not developed in a vacuum — it is situated within specific operating contexts with social, political and economic stimuli. An understanding of the context in which policy is made is part of policymaking and a much-needed competency.<sup><a href="#notestop">7</a></sup></p><p></p>
+<p>For adult learners in continuing education programmes such as PIP and FFP, learning with case studies for policymaking is more effective if case studies are situated in the learners' policy domains. Policy is not developed in a vacuum — it is situated within specific operating contexts with social, political and economic stimuli. An understanding of the context in which policy is made is part of policymaking and a much-needed competency.<sup><a href="#notestop">7</a></sup></p>
 
 <p>In foundational policy programmes where learners could benefit from deeper learning from the knowledge and experience of veteran policymakers, curating and designing a variety of case studies in different modalities could help meet different learning needs, as well as offer a wider array of learning experiences. Programme design could vary to include a combination of teaching cases for facilitated inquiry-based learning and story-based cases for self-directed learning.</p>
 
