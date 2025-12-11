@@ -155,7 +155,7 @@ margin-top: 30px;
 
    
 <div class="author">
-<h6>ABOUT THE AUTHORS</h6>	
+<h6>ABOUT THE AUTHOR</h6>	
 <p><b>Hao Shuo</b> is the Chief Executive Officer of the Singapore National Employers Federation (SNEF). Prior to joining SNEF, he was Divisional Director for Manpower Planning and Policy in the Ministry of Manpower (MOM), overseeing workforce planning, labour market policies, foreign workforce policies and HR sector development. He has spent about 15 years in the public service, covering a wide range of policy issues such as intellectual property, employment practices and workforce development. </p>
     
 </div>
