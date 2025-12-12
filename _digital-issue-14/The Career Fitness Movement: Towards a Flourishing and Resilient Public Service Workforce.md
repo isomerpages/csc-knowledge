@@ -126,9 +126,9 @@ margin-top: 30px;
 
 <h2>Career Fitness Movement (CFM): A Public Service-wide Response to the Future of Work</h2>
 
-<p>In July 2025 the Public Service Division launched the Career Fitness Movement (CFM) to address the changing nature of work. Just as the national Career Health SG initiative enables Singaporeans to chart career pathways and deepen skills with clearer insights on growth and development, CFM is about building a holistic approach and ecosystem to strengthening the career agility of public officers. It encourages officers to take ownership of their career development beyond their immediate job, to actively plan their longer-term career journey, and to remain adaptable as their aspirations as well as operating needs across the Public Service evolve.</p>
+<p>In July 2025, the Public Service Division launched the Career Fitness Movement (CFM) to address the changing nature of work. Just as the national Career Health SG initiative enables Singaporeans to chart career pathways and deepen skills with clearer insights on growth and development, CFM is about building a holistic approach and ecosystem to strengthening the career agility of public officers. It encourages officers to take ownership of their career development beyond their immediate job, to actively plan their longer-term career journey, and to remain adaptable as their aspirations as well as operating needs across the Public Service evolve.</p>
 
-<p>Just as sustainable career health depends on continual skills renewal in line with industry needs, good career fitness depends on officers keeping their competencies 'fit' for the future. This means being proactive about reskilling, developing new competencies, so that officers can position themselves to seize opportunities as they arise.</p>
+<p>Just as sustainable career health depends on continual skills renewal in line with industry needs, good Career Fitness depends on officers keeping their competencies 'fit' for the future. This means being proactive about reskilling, developing new competencies, so that officers can position themselves to seize opportunities as they arise.</p>
 
 <p>Importantly, CFM directly supports the ethos of the national SkillsFuture movement within the Public Service. It aligns with national priorities on skills mastery and lifelong learning to strengthen both the employability of officers and the resilience of the Public Service as a whole, ensuring that we are capable of meeting evolving national needs with a skilled engaged workforce.</p>
 
@@ -148,18 +148,18 @@ margin-top: 30px;
 <p class="break1">An integrated ecosystem gives officers both the tools and opportunities to chart meaningful career pathways, pivot when needed, and contribute with confidence.</p>
 </div>
 
-<p>At its core, CFM reinforces the message that career development is a shared responsibility between officers, their supervisors and their organisations, with the support of other partners. Officers take ownership of their own growth; supervisors play a crucial role by guiding career development conversations and supporting their movement when officers are ready. At the organisational level, agencies reinforce this by putting in place the right structures, pathways, and opportunities that make career development possible and safe. unions, as strategic partners, further extend the reach and impact of CFM. By aligning these efforts, CFM enhances officers' employability and sense of purpose, while strengthening the Public Service's overall organisational agility to meet the challenges of a fast-changing world.</p>
+<p>At its core, CFM reinforces the message that career development is a shared responsibility between officers, their supervisors and their organisations, with the support of other partners. Officers take ownership of their own growth; supervisors play a crucial role by guiding career development conversations and supporting their movement when officers are ready. At the organisational level, agencies reinforce this by putting in place the right structures, pathways, and opportunities that make career development possible and safe. Unions, as strategic partners, further extend the reach and impact of CFM. By aligning these efforts, CFM enhances officers' employability and sense of purpose, while strengthening the Public Service's overall organisational agility to meet the challenges of a fast-changing world.</p>
 
 <h2>Conclusion</h2>
 
-<p>The CFM is more than a programme for public officers. It represents a fundamental shift in how the Public Service supports career development. In the past, career planning often depends heavily on individual officers within individual agencies. CFM changes this by not only empowering officers to take charge of their own growth, but also consolidating and synergising the efforts of agencies, supervisors and unions into a coherent, service-wide ecosystem of support. By embedding a culture of lifelong career development, supported by clear structures and shared responsibility, CFM ensures both officers and organisations can thrive amid longer career spans and rapid change. In doing so, it equips our Public Service to meet the evolving needs of Singapore and Singaporeans, with competence, confidence, and heart.</p>
+<p>The CFM is more than a programme for public officers. It represents a fundamental shift in how the Public Service supports career development. In the past, career planning often depended heavily on individual officers within individual agencies. CFM changes this by not only empowering officers to take charge of their own growth, but also consolidating and synergising the efforts of agencies, supervisors and unions into a coherent, service-wide ecosystem of support. By embedding a culture of lifelong career development, supported by clear structures and shared responsibility, CFM ensures both officers and organisations can thrive amid longer career spans and rapid change. In doing so, it equips our Public Service to meet the evolving needs of Singapore and Singaporeans, with competence, confidence, and heart.</p>
 
    
 <div class="author">
 <h6>ABOUT THE AUTHORS</h6>	
-<p><b>Gabriel Cheong</b> is Manager (Career Development &amp; Transition) at Workforce Development, Public Service Division.</p>
-
 <p><b>Jacky Lee</b> is Deputy Director (Strategic Workforce Planning &amp; Upskilling) at Workforce Development, Public Service Division.</p>    
+
+	<p><b>Gabriel Cheong</b> is Manager (Career Development &amp; Transition) at Workforce Development, Public Service Division.</p>
 </div>
 
 
