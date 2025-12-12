@@ -159,7 +159,7 @@ margin-top: 30px;
 <h6>ABOUT THE AUTHORS</h6>	
 <p><b>Jacky Lee</b> is Deputy Director (Strategic Workforce Planning &amp; Upskilling) at Workforce Development, Public Service Division.</p>    
 
-	<p><b>Gabriel Cheong</b> is Manager (Career Development &amp; Transition) at Workforce Development, Public Service Division.</p>
+<p><b>Gabriel Cheong</b> is Manager (Career Development &amp; Transition) at Workforce Development, Public Service Division.</p>
 </div>
 
 
