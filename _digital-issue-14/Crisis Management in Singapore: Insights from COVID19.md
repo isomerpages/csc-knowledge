@@ -120,7 +120,7 @@ color: white
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>	
-<p><b>Dr James Low</b> is a Principal Researcher at the Institute of Governance and Policy of the Civil Service College. His research interests include administrative history, case study methodology, whole of government issues, public trust and crisis management. James is the author of <em>Inception Point: The Use of Learning and Development to Reform the Singapore Public Service</em>, (2018) and <a target="_blank" href="/ethos-issue-16/singapore-whole-of-government-approach-in-crisis-management/">"Singapore's Whole of Government Approach in Crisis Management"</a> in ETHOS Issue 16.</p>  
+<p><b>Dr James Low</b> is a Principal Researcher at the Institute of Governance and Policy of the Civil Service College. His research interests include administrative history, case study methodology, whole of government issues, public trust and crisis management. James is the author of <em>Inception Point: The Use of Learning and Development to Reform the Singapore Public Service</em> (2018) and <a target="_blank" href="/ethos-issue-16/singapore-whole-of-government-approach-in-crisis-management/">"Singapore's Whole of Government Approach in Crisis Management"</a> in ETHOS Issue 16.</p>  
 
 <p>The conference paper was presented at the International Political Science Association World Congress in Seoul, South Korea, 13 - 16 July 2025.</p>
 </div>
