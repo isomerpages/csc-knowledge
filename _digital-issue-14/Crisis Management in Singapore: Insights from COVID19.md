@@ -25,7 +25,7 @@ description: ""
 .break1
 {
 	font-family: Helvetica;
-	font-size:22px;
+	font-size:20px;
 	font-style: italic;
 	font-weight: bold;
 }
