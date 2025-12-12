@@ -182,7 +182,6 @@ To address the unavoidable impact of AI in education, we are emphasising the cap
 
 <p>As a public sector leader, the challenge is how to enable an environment that allows all kinds of multifaceted thinking, addressing wicked policy problems, breaking down silos and working across agencies, and involving academia, the private sector and civil society. As government officials, we must not have our heads down so much on our issues that we forget to look up and reach into all of these other brains.</p>
 
-<hr>
 <div class="author">
 <hr>
 <p class="small-text"><em>The ETHOS Roundtable was conducted in August 2025 with a group of participants in the 17th Leaders in Governance Programme (LGP). Organised annually by the Civil Service College, the LGP draws from Singapore’s development experience to offer practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the seven-day programme, participants interact with thought leaders, and visit key government agencies to understand their operating philosophies and values.</em></p>
