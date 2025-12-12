@@ -24,8 +24,8 @@ description: ""
 	
 .break1
 {
-	font-family: Georgia;
-	font-size:20px;
+	font-family: Helvetica;
+	font-size:22px;
 	font-style: italic;
 	font-weight: bold;
 }
@@ -129,4 +129,3 @@ color: white
 <div class="back">
 <a href="/ethos/">Back to Ethos Page</a>	
 </div>
-
