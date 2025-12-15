@@ -94,28 +94,17 @@ color: white;
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_14/LLI_banner.jpg">
 </div>
 
-   
-<h2>Opening Doors to Opportunities</h2>
-    
-<p>When Mdm Leow Lin Nah walked into Lifelong Learning Institute (LLI) campus, she was not sure what to expect. After more than 30 years away from the workforce, she was nervous about returning to learning, uncertain what work opportunities the future might still hold.</p>
-    
+<br>   
+<p>When Mdm Leow Lin Nah first walked into the Lifelong Learning Institute (LLI) campus, she was not sure what to expect. After more than 30 years away from the workforce, she was nervous about returning to learning, uncertain what work opportunities the future might still hold.</p>
 <p>"I wanted to see if I could still do it," she recalled. "It felt like the right time to try something new." After a Skills and Training Advisory (STA) session, she left with more clarity and a sense of possibility she had not felt in decades.</p>
-    
-<p>Stories like Mdm Leow's are at the heart of the SkillsFuture Movement's first decade. They remind us that behind every upskilling initiative lies a personal journey, one made possible by an organisation that connects these aspirations to real opportunities: Lifelong Learning Singapore (LLSG), which today manages the LLI campus and continues to be a guiding force in helping Singaporeans open doors to learning and growth.</p>
-    
-<h2>A Gateway to Training Acces and Career Discovery</h2>
-    
-<p>When LLI opened its doors in 2014, it was more than the launch of a new Continuing Education and Training (CET) campus — it marked the start of a new chapter for adult learners in Singapore. At the time, the economy was maturing, and industries were being reshaped by digitalisation. Mid-career workers were starting to feel the ground shift beneath their feet. Many wanted to keep up with new skills, but training options were scattered, and clear guidance was hard to find.</p>
-    
-<p>LLI emerged as the answer, bringing coherence to a disjointed landscape. Designed as an "ecosystem for training, careers, and lifelong learning",<sup><a href="#notestop">1</a></sup> the campus marked a pivotal moment in Singapore's education journey, turning fragmented resources into a connected hub that opened doors to thousands of learners and partners alike, supporting Singapore's journey toward a more skilled and adaptable workforce.</p>
-    
-<p>Today, the LLI campus has grown into a vibrant learning hub that blends flexibility with purpose. Its pay-per-use facilities cater to the growing demand for learning spaces, while its integrated network brings together training providers, career coaching, and employment support under one roof. For learners, this means a one-stop location to explore new skills, discover pathways, and take confident steps toward new opportunities.</p>
-    
-<p>LLI's curated mix of tenants reflects this collaborative approach. Training providers like Lithan share that they benefit from the hub's credibility and visibility, strengthening their reputation as trusted institutions. The campus's purpose-built facilities, such as study areas for independent learning, Workforce Singapore's Careers Connect centre, and on-site advisory services like STA, create a seamless support system for learners.</p>
-    
-<p>In addition, LLI's event and classroom venues host everything from large-scale workshops to panel discussions, bringing together hundreds of learners and industry practitioners in a shared space of growth. Its central location near Paya Lebar MRT makes it easy for people from all walks of life to step in and start their learning journey.</p>
-    
-<p>Lithan's experience reflects the role that LLI plays. Beyond a physical space, the LLI become a gateway where partnerships, services, and people converge to make lifelong learning real, accessible, and within reach for all.</p>
+<p>Stories like Mdm Leow's are at the heart of the SkillsFuture Movement's first decade. They remind us that behind every upskilling initiative lies a personal journey.</p>
+<h2>A Gateway to Training Access and Career Discovery</h2>
+<p>The opening of the Lifelong Learning Institute in 2014 marked a new chapter for adult learners in Singapore. At the time, the economy was maturing, and industries were being reshaped by digitalisation. Mid-career workers were starting to feel the ground shift beneath their feet. Many wanted to keep up with new skills, but training options were scattered, and clear guidance was hard to find.</p>
+<p>LLI emerged as the answer, bringing coherence to a disjointed landscape. More than just another Continuing Education and Training (CET) campus, LLI was designed as an "ecosystem for training, careers, and lifelong learning".<sup><a href="#notestop">1</a></sup> It convened fragmented resources into a connected hub that opened doors to thousands of learners and partners alike, supporting Singapore's journey toward a more skilled and adaptable workforce.</p>
+<p>Today, the LLI campus has grown into a vibrant learning hub that blends flexibility with purpose. Its pay-per-use facilities cater to growing demand for learning spaces. Training providers, career coaching, and employment support are brought under one roof as an integrated network. For learners, this means LLI offers a one-stop location to explore new skills, discover pathways, and take confident steps toward new opportunities.</p>
+<p>LLI's curated mix of tenants reflects this collaborative approach. Training providers, like digital skilling platform Lithan, benefit from the hub's credibility and visibility, strengthening their reputation as trusted institutions. The campus's purpose-built facilities, including study areas for independent learning, Workforce Singapore's Careers Connect centre, and on-site advisory offerings like the Skills &amp; Training Advisory (STA) service, enable a seamless support system for learners.</p>
+<p>In addition, LLI's event and classroom venues host everything from large-scale workshops to panel discussions, allowing hundreds of learners and industry practitioners to gather in a shared space for learning and growth. Its convenient location near Paya Lebar MRT makes it easy for people from all walks of life to step in and start their learning journey.</p>
+<p>Beyond a physical space, the LLI has become a gateway where partnerships, services, and people converge to make lifelong learning real, accessible, and within reach for all.</p>
 
 <figure>
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_14/LLI_Fig_1.jpg">
