@@ -126,9 +126,7 @@ margin-top: 30px;
 <li><b>The Support for Job Redesign under Productivity Solutions Grant (PSG-JR).</b> Administered by SNEF as the sole programme manager, it incentivises employers to transform their business and create jobs that are more productive and attractive to workers.</li>
 </ul>
 
-<figure>
 <img src="/images/Ethos_Images/Ethos_Digital_Issue_14/SNEF_milestones_bg.png">
-</figure>
 
 <p>Since 2016, SNEF has also played a key role in the annual SkillsFuture Fellowships and SkillsFuture Employer Awards as a nominating body. In this capacity, SNEF identifies, recommends and supports exemplary employers and individuals who demonstrate a strong commitment to workforce development and the pursuit of skills excellence. These awards are meaningful because they celebrate organisations that invest in their people and individuals who embody lifelong learning. Showcasing such role models sets benchmarks of excellence and inspires the wider community to embrace a culture of lifelong learning.</p>
 
