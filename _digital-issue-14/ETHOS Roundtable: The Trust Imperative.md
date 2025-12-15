@@ -85,7 +85,7 @@ li {
 <h3>In your view, what are the most significant governance challenges today?</h3>
 
 <p><span class="ms-rteForeColor-10"><strong><span style="color: #76923c;">FRAZIALI</span>:</strong>  I would say mistrust and misinformation are the most significant challenges of our time. There are many factors that have contributed to this. One of these is how today’s social media algorithms, instead of connecting people, are putting us into echo chambers. </span></p>
-<p>The second challenge is what we call the twin transition—the need to pursue digitalisation as well as decarbonisation in light of climate change. We are working to address these goals with businesses and the public at large. To some degree, the pandemic gave us a terrific platform for more businesses to go online.</p>
+<p>The second challenge is what we call the twin transition — the need to pursue digitalisation as well as decarbonisation in light of climate change. We are working to address these goals with businesses and the public at large. To some degree, the pandemic gave us a terrific platform for more businesses to go online.</p>
 
 <p>This makes conversations more difficult, at a time when we already need to have difficult conversations about policy issues. It can be dispiriting to see how hard it is to get difficult but necessary conversations going, particularly around long-term issues. Most of the discourse is focused on short termism and immediate reactions.</p>
 
@@ -94,7 +94,7 @@ li {
 <p>The group I work closely with, the Pacific peoples in New Zealand, are particularly prone to bearing the brunt of system failure, widening inequality, and subsequent disengagement from civil and public life — especially among younger people. This is a significant loss and wasted opportunity, since we are neglecting a whole generation who represent the future of the country.</p> 
 <p>We are also looking to digital technology to help us improve service delivery and transform our public sector. But we are also keeping a close eye on its risks, such as the impact on privacy and cybersecurity.</p>
 
-<p><span class="ms-rteForeColor-10"><strong><span style="color: #ff2324;">HA</span>:</strong>  In the context of Korean education policy, one of the most pressing challenges is our low birth rate and the resulting decline in local communities. In response, our Ministry of Education has been aiming to consolidate our system for better education and care, such as improving early childhood education. We are also trying to attract more international students who can contribute to Korea’s future talent pool. For example, we have introduced the Study Korea 300K Project<sup><a href="#notes">1</a></sup> to attract more than 300,000 international students to Korea by 2027. As part of this initiative, we want to support them to become meaningful members – and, where possible, citizens – of our society. To support this, we have recently established a dedicated division to strengthen multicultural education.</span></p>
+<p><span class="ms-rteForeColor-10"><strong><span style="color: #ff2324;">HA</span>:</strong>  In the context of Korean education policy, one of the most pressing challenges is our low birth rate and the resulting decline in local communities. In response, our Ministry of Education has been aiming to consolidate our system for better education and care, such as improving early childhood education. We are also trying to attract more international students who can contribute to Korea’s future talent pool. For example, we have introduced the Study Korea 300K Project<sup><a href="#notes">1</a></sup> to attract more than 300,000 international students to Korea by 2027. As part of this initiative, we want to support them to become meaningful members — and, where possible, citizens — of our society. To support this, we have recently established a dedicated division to strengthen multicultural education.</span></p>
 <p>This entails not only providing basic support services for international students but also nurturing an inclusive and cohesive multicultural mindset in Korean society over the long term.</p>
 
 
@@ -183,7 +183,7 @@ To address the unavoidable impact of AI in education, we are emphasising the cap
 <p>As a public sector leader, the challenge is how to enable an environment that allows all kinds of multifaceted thinking, addressing wicked policy problems, breaking down silos and working across agencies, and involving academia, the private sector and civil society. As government officials, we must not have our heads down so much on our issues that we forget to look up and reach into all of these other brains.</p>
 
 <div class="author">
-<hr>
+<br>
 <p class="small-text"><em>The ETHOS Roundtable was conducted in August 2025 with a group of participants in the 17th Leaders in Governance Programme (LGP). Organised annually by the Civil Service College, the LGP draws from Singapore’s development experience to offer practical insights into the fundamentals of good governance and effective policy implementation for sustainable economic development and social cohesion. Over the seven-day programme, participants interact with thought leaders, and visit key government agencies to understand their operating philosophies and values.</em></p>
 </div>
 
