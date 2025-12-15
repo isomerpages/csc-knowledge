@@ -2,6 +2,8 @@ collections:
   ethos-issue-28:
     output: true
     order:
+      - "Kitchen Table Conversations: Challenging Assumptions About the
+        Community.md"
       - "Making Good Work: How One Government Unit Co Creates Solutions for a
         Better Singapore.md"
       - Varieties of Engagement in Government Citizen Interactions.md
