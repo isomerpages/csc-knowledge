@@ -2,6 +2,8 @@ collections:
   ethos-issue-28:
     output: true
     order:
+      - "Participatory Design and Planning: Helping Citizens Make More of a
+        Difference.md"
       - The Transformative Logic of Community Empowerment.md
       - "Kitchen Table Conversations: Challenging Assumptions About the
         Community.md"
