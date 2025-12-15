@@ -215,7 +215,7 @@ color: white;
 </div>
 
 <div class="notestop">
-<h6>NOTES</h6>
+<h6>NOTE</h6>
 <ol>
 <li><a href="https://www.mof.gov.sg/news-publications/speeches/Speech-by-Mr-Tharman-Shanmugaratnam-Deputy-Prime-Minister-and-Minister-for-Finance-at-the-Official-Opening-of-the-Lifelong-Learning-Institute">https://www.mof.gov.sg/news-publications/speeches/Speech-by-Mr-Tharman-Shanmugaratnam-Deputy-Prime-Minister-and-Minister-for-Finance-at-the-Official-Opening-of-the-Lifelong-Learning-Institute</a></li>
 </ol>
