@@ -2,5 +2,6 @@ collections:
   ethos-issue-28:
     output: true
     order:
+      - Varieties of Engagement in Government Citizen Interactions.md
       - Finding Common Ground for Partnership.md
       - "More than a Feeling: Understanding Public Trust.md"
