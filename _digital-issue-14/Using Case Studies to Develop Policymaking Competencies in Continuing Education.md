@@ -104,7 +104,7 @@ color: white
    
 <h2>Introduction</h2>
 
-<p>Policymaking is a complex, often iterative process, that involves domain knowledge, sense-making, critical thinking, systems analysis and creative thinking. The competencies needed for effective policymaking are likewise complex,<sup><a href="#notestop">1</a></sup></p> and they are best learnt inductively rather than taught.<p></p>
+<p>Policymaking is a complex, often iterative process, that involves domain knowledge, sense-making, critical thinking, systems analysis and creative thinking. The competencies needed for effective policymaking are likewise complex,<sup><a href="#notestop">1</a></sup> and they are best learnt inductively rather than taught.</p>
 
 <p>Case studies have long been used to help policymakers acquire these competencies, by offering a specific real-world context for critical thinking and decision making. Case studies are effective in the development of policymaking competencies because they provide "a focal point around which analysis, experiences, expertise, and observations can be exchanged."<sup><a href="#notestop">2</a></sup></p><p></p>
 
@@ -155,7 +155,7 @@ color: white
 
 <h3>Contextualised Policymaking</h3>
 
-<p>Using questioning techniques that centred on 'how', 'what' and 'why',<sup><a href="#notestop">6</a></sup></p> instructors probed learners to analyse the information provided in the case study to identify policy issues, apply policy frameworks, present their policy ideas and solve policy problems — reflecting the competencies required of policymakers.<p></p>
+<p>Using questioning techniques that centred on 'how', 'what' and 'why',<sup><a href="#notestop">6</a></sup> instructors probed learners to analyse the information provided in the case study to identify policy issues, apply policy frameworks, present their policy ideas and solve policy problems — reflecting the competencies required of policymakers.</p>
 
 <p>PIP/FPP adult learners were observed to be highly articulate and could present their ideas clearly and convincingly to a high extent. However, while learners were effective in analysing policy issues and presenting well thought-through issues based on the information provided in the case study, they had limited knowledge of their own policy domains, other policy domains and the inter-dependencies within the larger system.</p>
 
@@ -228,7 +228,7 @@ color: white
 <h6>NOTES</h6>
 
 <ol>
-<li>A report on Competencies for Policymaking identified 36 competencies for innovative policymaking organised into seven clusters: Advise the Political Level, Innovate, Work with Evidence, Be Futures Literate, Engage with Citizens and Stakeholders, Collaborate and Communicate. See: Schwendinger, F., Topp, L., &amp; Kovacs, V. (2022). <em>Competencies for policymaking ꟷ Competence frameworks for policymakers and researchers working on public policy,</em> EUR 31115 EN, Publications Office of the European Union, Luxembourg.</li>
+<li>A report on Competencies for Policymaking identified 36 competencies for innovative policymaking organised into seven clusters: Advise the Political Level, Innovate, Work with Evidence, Be Futures Literate, Engage with Citizens and Stakeholders, Collaborate and Communicate. See: Schwendinger, F., Topp, L., &amp; Kovacs, V. (2022). <em>Competencies for policymaking — Competence frameworks for policymakers and researchers working on public policy,</em> EUR 31115 EN, Publications Office of the European Union, Luxembourg.</li>
 <li>Harling, K. F., &amp; Akridge, J. (1998). Using the case method of teaching. <em>Agribusiness,</em> <em>14</em>(1), 1-14.</li>
 <li>Barnes, L.B., Christensen, C. R. &amp; Hansen, A. J. (1994). Teaching and the case method. Boston, Massachusetts: Harvard Business School Press.</li>
 <li>Wood, J.D.M., Leenders, M., Maufette-Leenders, L. A., &amp; Erskine, J. (2023). <em>Teaching with Cases</em> (4th ed.). Ontario, Canada: Leenders and Associates.</li>
