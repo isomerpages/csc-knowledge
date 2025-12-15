@@ -158,7 +158,7 @@ color: white;
 </div>
     
     
-<p>At such events, SFA leads workshops that allow participants to explore topics of interest, while STA offers one-on-one consultations to provide personalised guidance and a tailored training roadmap. This layered approach forms a holistic advisory experience that empowers learners to chart a meaningful training pathway and take confident steps in their learning journey.</p>
+<p>At such events, SFA leads workshops that let participants explore topics of interest, while STA offers one-on-one consultations to provide personalised guidance and a tailored training roadmap. This layered approach forms a holistic advisory experience that empowers learners to chart a meaningful training pathway and take confident steps in their learning journey.</p>
     
 <p>SFA also brings its workshops directly into enterprises, helping employees gain awareness in accessing relevant SkillsFuture resources.</p>
 
@@ -167,7 +167,7 @@ color: white;
 <p class="break1">We found the SkillsFuture Advice workshops to be highly beneficial. The resources shared during the sessions were particularly valuable, as some of our staff were previously unaware of how to access relevant courses. The sessions served as a catalyst for many to begin their upskilling journey, with several already exploring new learning opportunities.
 <br><br>The RIASEC profiling activity was both enjoyable and insightful, offering staff a deeper understanding of their personal interests and how these could enhance their roles.
 <br><br>Additionally, the segments on the Green Economy and Artificial Intelligence were engaging and thought-provoking. They provided practical insights that we could relate to and apply in our daily work and lives.</p>
-<figcaption>— Testimonial by EDMI Limited on the Engineering, Sustainability and Digital sectoral workshops conducted by SFA@Northwest CDC</figcaption>
+<figcaption>— EDMI Limited on the Engineering, Sustainability and Digital sectoral workshops conducted by SFA@Northwest CDC</figcaption>
 </div>    
 
    
