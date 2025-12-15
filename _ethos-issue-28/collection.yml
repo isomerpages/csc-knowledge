@@ -1,4 +1,5 @@
 collections:
   ethos-issue-28:
     output: true
-    order: []
+    order:
+      - "More than a Feeling: Understanding Public Trust.md"
