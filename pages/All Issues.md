@@ -54,7 +54,7 @@ font-size: 16px;
 <div class="grid-item">
         <img src="/images/Ethos_Images/Ethos_Digital_Issue_14/EthosDigital_Issue14.jpg">
         <p>
-            <a target="_blank" href="/digital-issue-14//">Digital Issue 14, Dec 2025</a>
+            <a target="_blank" href="/digital-issue-14/">Digital Issue 14, Dec 2025</a>
             <br>
             <a href=""></a>
         </p>
