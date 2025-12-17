@@ -101,7 +101,7 @@ td
             
 <p>To realise the movement’s goals, a dedicated outfit helps Singaporeans open doors to learning and growth, connecting personal aspirations with real opportunities.</p>	
             
-<div class="button1"><a href="/digital-issue-14/lifelong-learning-sg-supporting-the-skillsfuture-movement/">Read More</a></div><br></div>
+<div class="button1"><a href="/digital-issue-14/lifelong-learning-sg-supporting-skillsfuture/">Read More</a></div><br></div>
 </div>
 <br>
 <div class="grid-container">
