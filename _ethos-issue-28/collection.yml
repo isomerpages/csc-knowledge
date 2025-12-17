@@ -1,4 +1,23 @@
 collections:
   ethos-issue-28:
     output: true
-    order: []
+    order:
+      - Editorial.md
+      - Why Partnership and Engagement Matter to the Public Service.md
+      - "Practising Collaborative Governance: How the Public Service can Support
+        a Democracy of Deeds.md"
+      - "Mobilising the Public: Making It Work.md"
+      - Empowering Communities Through Co Vision, Co Action and Co Learning.md
+      - "The SG100 Futures Lab: A Prototype for Seeding Trisector
+        Collaboration.md"
+      - Navigating Complexity through Collaboration.md
+      - "Participatory Design and Planning: Helping Citizens Make More of a
+        Difference.md"
+      - The Transformative Logic of Community Empowerment.md
+      - "Kitchen Table Conversations: Challenging Assumptions About the
+        Community.md"
+      - "Making Good Work: How One Government Unit Co Creates Solutions for a
+        Better Singapore.md"
+      - Varieties of Engagement in Government Citizen Interactions.md
+      - Finding Common Ground for Partnership.md
+      - "More than a Feeling: Understanding Public Trust.md"

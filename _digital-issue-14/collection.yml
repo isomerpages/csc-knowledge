@@ -1,0 +1,13 @@
+collections:
+  digital-issue-14:
+    output: true
+    order:
+      - Editorial.md
+      - "Lifelong Learning SG: Supporting SkillsFuture.md"
+      - "Embracing Skills Development: The Employer’s Perspective.md"
+      - "The Career Fitness Movement: Towards a Flourishing and Resilient Public
+        Service Workforce.md"
+      - Using Case Studies to Develop Policymaking Competencies in Continuing
+        Education.md
+      - "Crisis Management in Singapore: Insights from COVID19.md"
+      - "ETHOS Roundtable: The Trust Imperative.md"
