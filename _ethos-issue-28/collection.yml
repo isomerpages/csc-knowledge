@@ -2,6 +2,8 @@ collections:
   ethos-issue-28:
     output: true
     order:
+      - "The SG100 Futures Lab: A Prototype for Seeding Trisector
+        Collaboration.md"
       - Navigating Complexity through Collaboration.md
       - "Participatory Design and Planning: Helping Citizens Make More of a
         Difference.md"
