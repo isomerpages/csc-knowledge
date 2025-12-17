@@ -2,6 +2,8 @@ collections:
   ethos-issue-28:
     output: true
     order:
+      - "Practising Collaborative Governance: How the Public Service can Support
+        a Democracy of Deeds.md"
       - "Mobilising the Public: Making It Work.md"
       - Empowering Communities Through Co Vision, Co Action and Co Learning.md
       - "The SG100 Futures Lab: A Prototype for Seeding Trisector
