@@ -175,7 +175,7 @@ color: white;
 
 <h2>What Does This Mean for the Public Service?</h2>
 
-<p>As public officers, we also need to start taking charge of our career health. The Public Service Division has launched the Career Fitness movement — essentially Career Health SG for the public service. Each of us must actively seek out new opportunities to grow: we can sign up for a new training programme, schedule an appointment with a career coach, and even explore secondments or short-term attachments to other parts of the service. (Click on <a target="_blank" href="/digital-issue-14/the-career-fitness-movement/">this link to find out more about Career Fitness movement.</a>)</p>
+<p>As public officers, we also need to start taking charge of our career health. The Public Service Division has launched the Career Fitness movement — essentially Career Health SG for the public service. Each of us must actively seek out new opportunities to grow: we can sign up for a new training programme, schedule an appointment with a career coach, and even explore secondments or short-term attachments to other parts of the service. (Click on <a target="_blank" href="/digital-issue-14/the-career-fitness-movement/">this link to find out more about the Career Fitness movement.</a>)</p>
 
 <p>Fellow supervisors in the Public Service have a responsibility to bring out the best in our officers. We can foster a culture of continuous learning by providing coaching and mentorship. Offer stretch opportunities to those in our teams — or to those keen to join us from elsewhere. We must encourage and support our officers in pursuing new opportunities beyond our team. By doing so, we contribute directly to the strength, adaptability, and future readiness of the Public Service.</p>
 
