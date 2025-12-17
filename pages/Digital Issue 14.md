@@ -73,7 +73,7 @@ td
 }	
 </style>
 <div class="grid-container">
-<div><img src=""></div>
+<div><img src="/images/Ethos_Images/Ethos_Digital_Issue_14/EthosDigital_Issue14.jpg"></div>
 <div><h3><span class="cat">Digital Issue 14, Dec 2025</span>
 <br>ETHOS Digital Issue 14</h3>	
 <p>Continuing our commemoration of 10 years of the SkillsFuture movement (link to print issue), this issue features further insights on continuing education and training: including insights from the Singapore Public Service's own career initiatives and research, and perspectives from other government leaders in the region.</p>
