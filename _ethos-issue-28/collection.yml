@@ -2,6 +2,7 @@ collections:
   ethos-issue-28:
     output: true
     order:
+      - Editorial.md
       - Why Partnership and Engagement Matter to the Public Service.md
       - "Practising Collaborative Governance: How the Public Service can Support
         a Democracy of Deeds.md"
