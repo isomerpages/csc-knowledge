@@ -107,7 +107,7 @@ margin-top: 30px;
 
 <p>For officers, this new workforce reality is also a chance to experience more diverse and enriching career journeys. By continually growing their skills and adapting to changes, public officers can explore more diverse work experiences and varied career pathways for flourishing and fulfilling careers.</p>
 
-<h2>Career Fitness Movement: Public Service's Response</h2>
+<h2>The Career Fitness Movement: Public Service’s Response</h2>
 
 <p>In July 2025, the Public Service Division launched the Career Fitness Movement (CFM) to help public agencies and public officers unlock the opportunities of career longevity.</p>
 
