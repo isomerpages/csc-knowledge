@@ -117,7 +117,7 @@ td
 <br>    
 <div class="grid-container">
 <div><img src="/images/Ethos_Images/Ethos_Digital_Issue_14/CareerFitness_tile.jpg"></div>
-<div><h3>The Career Fitness Movement: Towards a Flourishing and Resilient Public Service Workforce</h3>
+<div><h3>The Career Fitness Movement: Towards an Agile and Flourishing Public Service </h3>
 <b><i>by Jacky Lee and Gabriel Cheong</i></b>
             
 <p>A new ecosystem seeks to empower public officers to take charge of their own career development, supported by a Public Service-wide framework for career guidance, planning, opportunity and growth.</p>	
