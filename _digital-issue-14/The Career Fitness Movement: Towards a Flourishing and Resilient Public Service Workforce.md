@@ -96,63 +96,51 @@ margin-top: 30px;
 </div>
 
    
-<h2>Resilience and Agility in Longer Careers</h2>
+<h2>Opportunities in Longevity</h2>
 
-<p>Singapore is entering a new demographic and workforce reality. Our ageing population and increased life expectancy mean that public officers will experience longer career journeys than ever before. At the same time, the operating environment is being reshaped by rapid technological change, evolving citizen expectations, and global competition for talent. To remain effective, the Public Service must be agile, adaptable, and future-ready.</p>
+<p>Singapore is entering a new demographic era and workforce reality. Our ageing population means rising longevity and longer career journeys than ever before. At the same time, the operating environment is being continually reshaped by multiple factors including rapid technological change, evolving citizen expectations, and shifting geo-economic dynamics.</p>
 
-<p>This is not simply about adopting new tools or processes. We must invest in our people so they can embrace new ways of working and a career development mindset in which they continually refresh their skills and stay inspired by the shared mission of serving Singapore and Singaporeans with excellence and heart.</p>
+<p>To remain an effective public service, our workforce must be agile in reskilling and reshaping itself to stay future-ready. Public officers must be adaptable in taking on new skills and new jobs to stay resilient and relevant in the future.</p>
 
-<div class="break">
-<p class="break1">This new work environment is a chance to build career agility and retirement adequacy in the course of a longer professional journey.</p>
-</div>
+<p>A key priority is to invest in our people so they can embrace new ways of working and build a career development mindset of continually refreshing their skills, grounded on the shared mission of serving Singapore and Singaporeans with excellence and heart.</p>
 
-<p>This imperative matters at multiple levels. For organisations, longer and more diverse career spans mean more of a runway to maximise the productive contribution of the workforce by tapping on employees' accumulated experience and institutional knowledge. A resilient workforce is one that can better respond to emerging challenges and maintain service delivery excellence. For officers, this new work environment is a chance to build career agility and retirement adequacy in the course of a longer professional journey. By continually growing their skills and adapting to change, public officers can explore more and different work options and career pathways, and sustain meaningful and fulfilling careers.</p>
+<p>This imperative is an opportunity at multiple levels. For organisations, unlocking longer career longevity means the opportunity to expand the productive capacity of the workforce. Tapping on employees' accumulated experience also means strengthening knowledge of institutions to make faster, better decisions in response to emerging challenges.</p>
 
-<div class="containerbox">
+<p>For officers, this new workforce reality is also a chance to experience more diverse and enriching career journeys. By continually growing their skills and adapting to changes, public officers can explore more diverse work experiences and varied career pathways for flourishing and fulfilling careers.</p>
 
-<h3>What does Career Resilience mean to the Public Service?</h3>
+<h2>Career Fitness Movement: Public Service's Response</h2>
 
-<p>In the Public Service today, work is shifting faster than ever. New technologies like AI, evolving citizen expectations and demographic pressures mean public service roles will keep changing across agencies and careers will stretch longer.</p>
+<p>In July 2025, the Public Service Division launched the Career Fitness Movement (CFM) to help public agencies and public officers unlock the opportunities of career longevity.</p>
 
-<p>This is where Career Fitness comes in. It builds the foundations of resilience by helping officers:</p>
-<ul>
-<li><b>Know themselves</b>: Their strengths, aspirations, and transferable competencies;</li>
-<li><b>Understand the horizon</b>: Sector trends, emerging and diminishing skills, and new opportunities within the Service; and</li>
-<li><b>Take action</b>: Through continuous learning, career planning, coaching, and movement pathways.</li>
-</ul>
+<p>Like the national Career Health and SkillsFuture movement, it encourages officers to <strong>continually upskill and reskill as part of lifelong learning</strong>. It also calls for officers to continually plan for their longer-term careers, beyond their immediate jobs.</p>
 
-<p>A career-resilient workforce is therefore one where every public officer is equipped with the mindset and competencies to adapt, grow and thrive through evolving challenges. They stay ready to embrace new challenges and seize new opportunities, while continuing to uphold high service standards and deliver quality outcomes for our citizens.</p>
-</div>
+<p>Just as we call for everyone to invest early in their physical fitness before they fall sick, the CFM calls for officers to <strong>plan early in good times and take proactive steps</strong> to build their career fitness in order to keep their competencies always 'fit' for the future. The options are more when you plan ahead. This means being proactive about planning early and developing new competencies, so that officers can position themselves to seize opportunities as they arise.</p>
 
-<h2>Career Fitness Movement (CFM): A Public Service-wide Response to the Future of Work</h2>
+<p>The CFM is anchored on the Public Service's move towards Competency-Driven Growth (CDG and supported by an ecosystem of enablers. These include <strong>expanding development opportunities</strong> for officers with the introduction of gigs, Short-Term Immersion Programme (STIP), Talent Attachment Programme (TAP) and learning programmes through the Civil Service College to help officers deepen and diversify their skills.</p>
 
-<p>In July 2025, the Public Service Division launched the Career Fitness Movement (CFM) to address the changing nature of work. Just as the national Career Health SG initiative enables Singaporeans to chart career pathways and deepen skills with clearer insights on growth and development, CFM is about building a holistic approach and ecosystem to strengthening the career agility of public officers. It encourages officers to take ownership of their career development beyond their immediate job, to actively plan their longer-term career journey, and to remain adaptable as their aspirations as well as operating needs across the Public Service evolve.</p>
+<p>The new One Talent Gateway (OTG) introduces an <strong>opportunities marketplace</strong> that makes cross-agency growth and development opportunities more accessible to officers, and also helps with career and development planning.</p>
 
-<p>Just as sustainable career health depends on continual skills renewal in line with industry needs, good Career Fitness depends on officers keeping their competencies 'fit' for the future. This means being proactive about reskilling, developing new competencies, so that officers can position themselves to seize opportunities as they arise.</p>
+<p>The Public Service Career Coach Network (PSCCN) also offers public officers another channel for personalised career guidance and support, even as we scale up training for supervisors to help them better coach and support officers in their Career Fitness journey.</p>
 
-<p>Importantly, CFM directly supports the ethos of the national SkillsFuture movement within the Public Service. It aligns with national priorities on skills mastery and lifelong learning to strengthen both the employability of officers and the resilience of the Public Service as a whole, ensuring that we are capable of meeting evolving national needs with a skilled engaged workforce.</p>
+<p>These building blocks form an <strong>integrated ecosystem of enablers</strong> that gives officers both the tools and opportunities to chart meaningful career journeys, build their career fitness, and contribute with confidence to the Public Service.</p>
 
 <h2>A Shared Responsibility</h2>
 
-<p>CFM is a holistic effort to support the career development of public officers throughout their entire career journey. At its heart is a significant shift from a static, role-based view of careers to a dynamic, competency-based approach that supports agility and long-term employability. It encourages officers to reflect on their aspirations, build adaptive skills, and take ownership of their growth across a lifelong career.</p>
+<p>At its core, building Career Fitness is a shared responsibility of officers, supervisors and organisations, with the support of other partners.</p>
 
-<div class="break">
-<p class="break1">CFM is a shift from a static, role-based view of careers to a dynamic, competency-based approach that supports agility and long-term employability.</p>
-</div>
+<p>Officers must ultimately take ownership of their own growth over the longer term which will span across multiple supervisors, jobs, and agencies.</p>
 
-<p>Anchored on the Public Service's move towards Competency-Driven Growth (CDG), CFM is supported by an ecosystem of enablers. These include expanding development opportunities for officers with the introduction of gigs, the Short-Term Immersion Programme (STIP), Talent Attachment Programme (TAP) and learning programmes through the Civil Service College to help officers deepen and diversify their skills. The new One Talent Gateway (OTG) marketplace makes cross-agency growth and development opportunities more accessible to officers, and also helps with career and development planning. The Public Service Career Coach Network (PSCCN) also offers public officers another channel for personalised career guidance and support, even as we scale up training for supervisors to help them better coach and support their officers in their Career Fitness journey. These building blocks form an integrated ecosystem that gives officers both the tools and opportunities to chart meaningful career pathways, pivot when needed, and contribute with confidence to the Public Service.</p>
+<p>At the same time, supervisors play a crucial role in guiding career development conversations and supporting the movement of officers when they are ready.</p>
 
-<p>A key success factor in rolling out CFM has been the strong partnership with the public sector unions. Unions play a vital role in co-delivering Career Fitness programmes, particularly to reach and motivate public officers to participate, and in supporting public agencies to implement CFM in their context. Through this collaboration, more officers have gained access to career development tools, guidance and learning opportunities.</p>
+<p>At the organisational level, agencies play an important role as enablers by putting in place the right structures and systems to empower officers in their career development and recognise supervisors as good people managers and coaches.</p>
 
-<div class="break">
-<p class="break1">An integrated ecosystem gives officers both the tools and opportunities to chart meaningful career pathways, pivot when needed, and contribute with confidence.</p>
-</div>
+<p>Unions are also vital strategic partners of the public service to drive the CFM. They are sustained partners for officers across jobs, supervisors and organisations in the public service.</p>
 
-<p>At its core, CFM reinforces the message that career development is a shared responsibility between officers, their supervisors and their organisations, with the support of other partners. Officers take ownership of their own growth; supervisors play a crucial role by guiding career development conversations and supporting their movement when officers are ready. At the organisational level, agencies reinforce this by putting in place the right structures, pathways, and opportunities that make career development possible and safe. Unions, as strategic partners, further extend the reach and impact of CFM. By aligning these efforts, CFM enhances officers' employability and sense of purpose, while strengthening the Public Service's overall organisational agility to meet the challenges of a fast-changing world.</p>
+<p>By pulling these efforts together, CFM enhances officers' employability and sense of purpose, while strengthening the Public Service's overall organisational agility to meet the challenges of a fast-changing world.</p>
 
 <h2>Conclusion</h2>
 
-<p>The CFM is more than a programme for public officers. It represents a fundamental shift in how the Public Service supports career development. In the past, career planning often depended heavily on individual officers within individual agencies. CFM changes this by not only empowering officers to take charge of their own growth, but also consolidating and synergising the efforts of agencies, supervisors and unions into a coherent, service-wide ecosystem of support. By embedding a culture of lifelong career development, supported by clear structures and shared responsibility, CFM ensures both officers and organisations can thrive amid longer career spans and rapid change. In doing so, it equips our Public Service to meet the evolving needs of Singapore and Singaporeans, with competence, confidence, and heart.</p>
+<p>The CFM represents a shift in how we look at and support career development. It calls for officers and agencies to plan for the longer term, beyond immediate jobs and needs. It also extends beyond empowering officers to take charge of their own growth, to also consolidating and synergising the efforts of agencies, supervisors and unions into a coherent, service-wide ecosystem of support. By embedding a culture of lifelong career development, supported by clear structures and shared responsibility, CFM ensures both officers and organisations can thrive amid longer career spans and rapid change. In doing so, it equips our Public Service to meet the evolving needs of Singapore and Singaporeans, with competence, confidence, and heart.</p>
 
    
 <div class="author">
