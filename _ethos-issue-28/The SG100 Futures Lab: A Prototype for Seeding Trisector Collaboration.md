@@ -133,7 +133,7 @@ background-color: #A0D184;
 
 <figure>
 <img src="/images/Ethos_Images/Ethos_Issue_28/Stepping_into_the_field_of_the_future.png">
-<figcaption>Stepping into the Field of the Future and connecting to the source require us to embody an open mind, open heart and open will, through suspending the voice of judgment (VoJ) to see with fresh eyes, the voice of cynicism (VoC) to connect with an open heart, and the voice of fear (VoF) to act freely, letting go of past baggage and assumptions. © Presencing Institute.<sup><a href="#notestop">7</a></sup> Reproduced with permission.</figcaption>
+<figcaption>Stepping into the Field of the Future and connecting to the source require us to embody an open mind, open heart and open will, through suspending the voice of judgment (VoJ) to see with fresh eyes, the voice of cynicism (VoC) to connect with an open heart, and the voice of fear (VoF) to act freely, letting go of past baggage and assumptions. <b>© Presencing Institute.<sup><a href="#notestop">7</a></sup> Reproduced with permission.</b></figcaption>
 </figure>
 
 <p>This method of making collective thinking visible opened up space for collaborative building and looking at the whole ecosystem. It shifted the group from saying what people want to hear and speaking as individuals representing their vested interests to speaking from seeing themselves from the whole.</p>
@@ -150,14 +150,13 @@ background-color: #A0D184;
 You cannot change a system unless you transform consciousness<br>
 You can't transform consciousness unless you make a system see and sense itself<br>
 You can't lead system transformation unless you sense and embody the future as it emerges<br>
-</p><figcaption>
--Otto Scharmer during the Futures Lab Workshop</figcaption>
+</p><figcaption>–Otto Scharmer during the Futures Lab Workshop</figcaption>
 </span></div>
 
 <p>A total of 13 roles were defined for this 4D mapping: Mother Earth, ASEAN, China, US, Singapore Government, Big Businesses, SMEs, Social Sector, Arts and Culture, Children and Youth, Marginalised People, and Retirees. The task was to embody the Vision of Singapore, SG100.</p>
 
 <figure>
-<img src="/images/Ethos_Images/Ethos_Issue_28/Druga_Rajendran_and_Jacqueline_Wong_1.png">
+<img style="width:70%" src="/images/Ethos_Images/Ethos_Issue_28/Druga_Rajendran_and_Jacqueline_Wong_1.png">
 </figure>
 
 <p>The roles were intentionally selected to represent the voice of the system as much as possible in this gathering and to mirror the three divides (earth/environment, marginalised groups or individuals who are usually not the decision-makers, and the voice of the future). Thirteen members stepped forward to take on these roles while the rest observed. The only guideline given was to not choose a role they actually play in daily life. For example, we had a government representative choose the role of the citizen, a soon-to-be retiree choose the role of a child, a young working adult choose the role of a retiree, and so on.</p>
@@ -229,7 +228,7 @@ You can't lead system transformation unless you sense and embody the future as i
 </div>
 
 <figure>
-<img src="/images/Ethos_Images/Ethos_Issue_28/Druga_Rajendran_and_Jacqueline_Wong_2.png">
+<img style="width:70%" src="/images/Ethos_Images/Ethos_Issue_28/Druga_Rajendran_and_Jacqueline_Wong_2.png">
 </figure>
 
 <h2>Conclusion</h2>
