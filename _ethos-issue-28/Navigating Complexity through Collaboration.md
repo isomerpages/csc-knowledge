@@ -234,15 +234,20 @@ background-color: #A0D184;
 
 <p>To navigate these challenges and seize the new opportunities they represent, public officers must embrace a collaborative approach, build strong partnerships, and continuously innovate. By working together, we can create a brighter future for our communities. We can be the catalysts for positive change, empowering Singaporeans and building a better future for all.</p>
 
-
-<div class="containerbox">
-<h3>Key Takeaways</h3>
-
-<h5>Complex problems require complex solutions</h5>
-<h4>Strong leadership is vital for driving change</h4>
-<h4>Collaboration is essential for achieving significant impact require complex solutions</h4>
-<h4>Community development is a cornerstone of sustainable progress</h4>
-</div>
+<br>
+<table>
+<tbody><tr>
+<th style="background-color: DarkSalmon;"><b>KEY TAKEAWAYS</b></th>
+</tr>
+<tr>
+<td style="background-color: LightSalmon;">
+<ul>
+<li>Complex problems require complex solutions</li>
+<li>Strong leadership is vital for driving change</li>
+<li>Collaboration is essential for achieving significant impact require complex solutions</li>
+<li>Community development is a cornerstone of sustainable progress</li>
+</ul></td>
+</tr></tbody></table>
 
 <div class="author">
 <h6>ABOUT THE AUTHOR</h6>
