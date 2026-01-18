@@ -108,11 +108,11 @@ background-color: #FCFBE2;
 <br>
 <br>
 <div class="containerbox">
-<h2>Putting Together Hack for Public Good</h2>
+<h3>Putting Together Hack for Public Good</h3>
 
 <p>Every year, <em>Hack for Public Good</em> begins with an initial gathering of people to set the tone and context for what we want to do. This can vary by year: we have had public volunteers come in as co-hackers, for instance, or agencies that are particularly interested in a theme.</p>
 
-<h3>Convening the Hackers</h3>
+<h4>Convening the Hackers</h4>
 
 <p>When we first started, there were only 20 of us. We gathered in the lobby, asked everyone to share what ideas they had for half an hour, and then met at the end of every Friday in January to update each other on progress.</p>
 
@@ -120,15 +120,15 @@ background-color: #FCFBE2;
 
 <p>Today, with approximately 170 people in OGP, there needs to be a framework to organise the event. We put more effort into curating problems upfront. One month is not a lot of time to go from problem discovery to validation, testing, building and launching, so there needs to be some pre-work, especially around gathering problem statements.</p>
 
-<h3>Problem Discovery</h3>
+<h4>Problem Discovery</h4>
 
 <p>We consolidate the problems we receive, which tend to come from the public, from other government agencies or from what the team members have identified in the course of their regular work. We then let people organically gather around a problem they want to address. On occasion, we organise field trips to better understand the issue through first-hand observation. We try to limit this problem discovery phase to about a week.</p>
 
-<h3>Pitching</h3>
+<h4>Pitching</h4>
 
 <p>We do pitches where people drum up excitement about what they are working on and recruit people for their teams. For Hack for Public Good, we take an all-hands-on-deck approach—so while someone may be more involved in stakeholder management in day-to-day work, during the hackathon phase they might find themselves doing more user interface research or product management. We step up to whichever roles are needed on the teams: whatever it takes to get it done.</p>
 
-<h3>Presenting Solutions</h3>
+<h4>Presenting Solutions</h4>
 
 <p>We have experimented with different formats to showcase the prototypes on Demo Day. We used to have stage presentations in the past, until there were too many to practically manage. We also have a strict rule that there has to be a working prototype to show, not just a high-fidelity design prototype. We want those who come to view the solutions to interact with something that really works.</p>
 
@@ -194,15 +194,15 @@ background-color: #FCFBE2;
 <br>
 <br>
 <div class="containerbox1">
-<h2>Hack for Public Good</h2>
+<h3>Hack for Public Good</h3>
 
-<h3>Go.gov.sg</h3>
+<h4>Go.gov.sg</h4>
 <p>The Government's official link shortener was created after recognising that the public needed a way to easily remember and identify official communications and content from the Government. Go.gov.sg allowed public officers to create short links to direct content to the public, using an official gov.sg domain.</p>
 
-<h3>Redeem.gov.sg</h3>
+<h4>Redeem.gov.sg</h4>
 <p>This digital voucher platform was created during the 2020 edition of Hack for Public Good. It has allowed the CDC voucher campaigns to scale to national level, as well as take on other use cases like NEA's Climate Friendly Household Programme using the same infrastructure.</p>
 
-<h3>Scribe</h3>
+<h4>Scribe</h4>
 <p>Prototyped during Hack for Public Good 2024, Scribe uses a Large Language Model to help draft case notes and summaries for conversations between medical social workers (MSWs) and patients. It has since been integrated into Care360.</p>
 
 <p>Visit <a href="https://www.open.gov.sg/products">https://www.open.gov.sg/products</a> for more details.</p>
@@ -211,15 +211,15 @@ background-color: #FCFBE2;
 <br>
 <br>
 <div class="containerbox1">
-<h2>Build for Good</h2>
+<h3>Build for Good</h3>
 
-<h3>Koel (Build for Good Environment)</h3>
+<h4>Koel (Build for Good Environment)</h4>
 <p>A data processing and visualisation platform to allow ecologists to identify and track bird species through audio recordings from microphones placed throughout a natural habitat. This tool improves the accuracy and efficiency of EIAs (Environmental Impact Assessments), and helps reduce uninformed decision-making that may introduce a net harm to our natural environment.</p>
 
-<h3>RemediSG (Build for Good Environment)</h3>
+<h4>RemediSG (Build for Good Environment)</h4>
 <p>A platform that facilitates distribution of expiring medications from health institutions to community clinics and non-profit organisations, reducing wastage of unused medication and ensuring that healthcare is more accessible to all in society.</p>
 
-<h3>NoteFlow (Build for Good 2023)</h3>
+<h4>NoteFlow (Build for Good 2023)</h4>
 <p>A tool that uses a Large Language Model to help school counsellors draft notes for their sessions with students.</p>
 </div>
 
