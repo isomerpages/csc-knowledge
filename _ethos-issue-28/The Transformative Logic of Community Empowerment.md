@@ -172,7 +172,7 @@ background-color: #FFC6D7;
 <div class="break">
 <p class="break1">"Commoning" involves pooling and sharing what might otherwise be proprietary or inaccessible assets, based on collective decisions on how to manage this shared resource together.</p>
 </div>
-
+<br>
 <div class="containerbox">
 <h3>Policy Lab's Approach: Less Karate, More Aikido</h3>
 <p>Policy Lab is a policy innovation unit operating out of IPS. We champion economic and social alternatives and consider the broader question of whether transformative change can be brokered without antagonism. We conduct policy experiments and social change programmes that ask questions of current social arrangements and power dynamics, without being unduly confrontational.</p>
@@ -181,9 +181,10 @@ background-color: #FFC6D7;
 
 <p>The strategy we have adopted requires engaging with alternative paradigms and building parallel institutions. As brokers and intermediaries, the balance we take is often delicate—we articulate how 'parallel' does not necessarily mean 'against' but could offer an 'alternative' that is more ideal. But 'parallel' does not mean 'complementary' either because those who create alternative parallel institutions see something wrong with the status quo that needs to be addressed. We think of what we do as less Karate and more Aikido—instead of fighting against power, we find ourselves working in harmony with it, defending ourselves but also protecting our opponents from injury.</p>
 
-<p>
-</p><figure>
-<img style="width:70%" src="/images/Ethos_Images/Ethos_Issue_28/Justin_Lee_3.png">
+<p>Our current strategy is summarised this way:
+</p>
+<figure>
+<img src="/images/Ethos_Images/Ethos_Issue_28/Justin_Lee_3.png">
 </figure>
 </div>
 
