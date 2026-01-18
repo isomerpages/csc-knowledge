@@ -81,7 +81,7 @@ background-color: #FFC6D7;
 
 <em><small>ETHOS Issue 28, Apr 2025</small></em>
 <div class="background-image">
-<img src="/images/Ethos_Images/Ethos_Issue_28/Justin_Lee_banner.jpg">
+<img src="/images/Ethos_Images/Ethos_Issue_28/Emma_Fletcher_and_Emily_Jenke_banner.jpg">
 </div>
 
 <p>There is considerable room for innovation in the world of community<sup><a href="#notestop">1</a></sup> and stakeholder engagement today. The fields of communications, marketing, consultation, co-design, deliberation and community development offer a plethora of tools and methods across different engagement modalities.</p>
